@@ -1,0 +1,155 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ashritha. S
+Email: ashritha1214@gmail.com
+Contact: +91-8886158832
+PROFESSIONAL SUMMARY:
+· Overall 3+ years of experience in Application development and Data Analytics with specialization in Core Java and Big Data Technologies. 
+· 2 Years of extensive experience as Hadoop Developer with strong expertise in Sqoop and Hive. 
+· Extraordinary Understanding of Hadoop building and Hands on involvement with Hadoop segments such as JobTracker, TaskTracker, Name Node, Data Node and HDFS Framework.
+· Extensive experience in analyzing data using Hadoop Ecosystems including HDFS, Hive, PIG, Sqoop, Map Reduce, Spark, Kafka, HBase and Oozie.
+· Capable of processing large sets of structured, semi-structured and unstructured data and supporting systems application architecture.
+· Have an experience in importing and exporting data using Sqoop from Hadoop Distributed File Systems to Relational Database Systems and also Relational Database Systems to Hadoop Distributed File Systems.
+· Expertise in writing Hadoop Jobs for analyzing data using Hive QL (Queries).
+· Experience in working with various Cloudera distributions (CDH4/CDH5), Hortonworks Hadoop Distributions.
+· Developed automated scripts using Shell Script and other related to database activities. 
+· Having Knowledge on Oracle, DB2 and My SQL database.
+· Have good interpersonal, communicational skills, strong problem solving skills, explore to new technologies with ease and a good team member.
+PROFESSIONAL EXPERIENCE:
+· Worked as Senior System Engineer at Infosys, Hyderabad from August 2015 to till date.
+· Worked as Lab Assistant at KMM Institute of PG studies from June 2014 to July 2015.
+EDUCATION:
+· MCA (Master of Computer Applications) from Sri Venkateshwara University in 2013. 
+· B.Sc. (Maths, Electronics& Computer Science) from Sri Venkateshwara University in 2010.
+
+
+
+
+
+
+
+
+
+
+TECHNICAL SKILLS:
+	Core Specialization
+	HDFS, Map Reduce, Apache Pig, Hive, Sqoop, HBase, Oozie, Spark SQL.
+
+	Programming Languages
+	Core Java and shell scripting
+
+	Relational Databases     
+	My SQL,ORACLE,DB2
+
+	Operating System          
+	Windows 7, Linux, Unix
+
+	IDE & Editors
+	Eclipse 
+
+
+
+CURRENT PROJECT:
+
+VISA: Token Reporting
+Role: Mid-level Analyst
+Technologies used: HDFS, Hive, Sqoop, spark and shell script
+Description: 
+   The main aim of this project is to working on VISA credit cards. The token reporting project provides business intelligence reporting solution to Issuers and Wallet providers to effectively monitor and manage Token provisioning, transaction usage and Issuer notifications. The reports are sourced from Provisional and transactional logs captured in ODS (operational data sources).
+Roles and Responsibilities:
+· Analyzing the business functionality of the existing application and restructuring that a new technology for enriching the user experience apart from providing enhanced.
+· Defined migration plans to import and export data from DB2 to HDFS.
+· Extracting data from DB2 using sqoop.
+· Created Hive tables, dynamic partitions, buckets for sampling, and working on them using Hive QL and implemented some aggregations on HDFS tables.
+· Implemented Spark using Scala and Spark SQL for faster testing and processing of data. 
+· Worked with using different kind of compression techniques like Snappy, Gzip to save data and optimize data transfer over network using Avro, Parquet, Orcfile. 
+· Implemented logic to load some History Load and incremental Load on partition dates.
+· Automate the Hive HQL's by sing shell scripts.
+· Automate the spark scripts by using shell commands. 
+
+
+
+
+
+Project:2
+Exelon: BIDA Project
+Role:  Hadoop Developer
+Technologies: Hadoop, HDFS, Sqoop, Hive, Spark(SCD2)
+Description:
+Exelon Corporation is an American Fortune 150 (#111 in 2015) energy company. This project brings the integrated key layer components together to a common platform to provide the Big Data capabilities like Data Integration, Stream Processing, Data Lake, Data Storage, Data Exchange, and Analytics, other infrastructure components to serve the purpose of business needs.
+Roles and Responsibilities:
+· Involved in Requirement analysis 
+· Prepared Hive Queries for ETL extraction logic for different Interfaces 
+· Analyzed ETL Mappings for different Business Interfaces and Implemented/optimized the hive scripts in SPARK.
+· Used Sqoop scripts to import the data from different sources.
+· Implemented and Tested SCD-2 for incremental data.
+· Tested the report output on ORACLE (Source DB) to EXADATA (Target DB).
+· Knowledge on Oracle ODI. 
+· Part of Data Ingestion and Data Processing framework to import data into Hive tables.
+Project:1
+Project/Product Name	: Fast data Accelerator.
+Role	: Hadoop Developer		
+Duration	: Aug 2016 to Sep 2016
+Technology	: Hadoop, Kafka, HBase,Spark sql
+
+
+
+
+
+Description:
+      This project is for Power Utility Industry, implemented using Hadoop technology stack. Florida Power and Light which maintains the complex & hierarchical network structure for supplying power to their customers. Developed a system to view the entire hierarchy through which a user can easily identify the root cause of the failure device and where it was exactly. Which will become easy to resolve the issue with in span of time as well as checking the health of the system.
+
+Roles & Responsibilities:
+· Involved in gathering the requirements, designing, development and testing.
+· Responsible for building scalable distributed data solutions using Hadoop.
+· Stack and change extensive arrangements of organized, semi organized and unstructured information utilizing Hadoop/Big Data ideas.
+· Developed Hive queries for the analysts and I have written scripts using Scala. 
+· Created and worked Sqoop jobs with incremental load to populate Hive External tables. 
+																						(ASHRITHA.S)

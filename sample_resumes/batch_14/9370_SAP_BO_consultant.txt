@@ -1,0 +1,228 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sap bo resume
+
+venky
+SAP BO consultant
+Email: golla.sapbo@gmail.com
+Mobile: +91-7349518932
+PROFESIONAL SUMMARY:-
+· Experienced BI System responsible for implementation, deployment, migration, support and maintenance and administration of SAP Business Objects BI 4.0 / 4.1.
+· Around 4 years of experience in Information Technology with Strong Emphasis in Developing Reporting Solutions using Business Objects, Design Studio, Lumira, HANA.
+· Have Extensive experience and exposure to all modules in Business Objects, Business Objects XIR2/XIR3.1/BO4.0/4.1(Universe Designer(UDT),Information DesignTool(IDT),Web Intelligence, BI Iaunchpad, Administration, Desktop Intelligence, Info view, CMC, Xcelsius, Dash boards, Crystal Reports, Live Office & QAAWS).
+· Involved in gathering, analyzing and documenting business requirements, functional requirements and data specifications for Business Objects Universes and Reports.
+
+· Extensively used various features like Joins, Alias and Contexts in Universe designer to overcome various traps Chasm, Fan and Loops.
+· Good experience in creating universes from Info Cubes, queries and databases and expert in creating the Web Intelligence reports.
+· Extensively used Business Objects reporting functionalities such as Master Detailed, Slice and Dice, Drill methodology, Filters, Ranking, Sections and Breaks.
+· Extensively worked in Web intelligence using combined query functions, Merge Dimensions, Alerter, Input Controls, Custom sorts and variables.
+· Experience in Developed Xcelsius Dashboard Reports By using Query as a Web service (QAAWS), Live Office (LO) and BICS as data connection.
+· Involved in Migrating Reports from DEV to QA to PRODUCTION using Import Wizard/Promotion Management.
+· Experienced in developing complex reports using Business Objects WebI & Crystal Reports Enterprise having Parameter/Formula Fields and Selection Formulas, Grouping and Sub reports.
+· Expertise in writing test cases and validating the Data from the data base.
+· Working with business to setup the required BO Security. Adding /removing BO users.
+· Extensively worked on scheduling the reports.
+· Strong knowledge on Data warehousing concepts and data modeling.
+· Experience in developing dashboards on Design Studio.
+· Extensively worked on HANA modeling.
+· Experience in SAP HANA data modeling using attribute view, analytical view and calculation view.
+
+· Having good knowledge on SAP BODS concepts.
+· Having Knowledge on BI 7.0 Modeling and RDBMS (Oracle 10g) concepts.
+EDUCATION:-
+· M.Tech in Embedded Systems from Hindustan University, in 2011.
+Work Experience:-
+· Working as a SAP BO Consultant in Capgemini. 
+· Worked as a SAP BO Developer in Mind tree LTD.
+Area of Expertise:-  
+Business Intelligence:
+Business objects XIR3/4.1/4.2,Univese Designer, IDT, WebI /BI Launchpad
+
+                                 
+Deski , Crystal, Xcelsius (Dashboard Designer), Crystal Reports 2008/2011,
+
+                      
+CMC, Administration, Import Wizard/LMS,SAP BI, SAP Design Studio, SAP     
+
+                      
+Lumira, SAP HANA, BODS.
+
+RDBMS:
+Oracle 9i/10g, SQL Server
+
+Programming:
+SQL
+
+Environments:
+Win XP/2000/2003/2007
+PROJECT Walkthrough:-
+PROJECT#3
+Client
+
+
+ : M&S
+Project
+
+ : Marks and Spencer plc
+Role
+
+
+ : SAP BO Consultant
+Description:
+
+Marks and Spencer plc (also known as M&S) is a major British multinational retailer headquartered in the City of Westminster, London. It specializes in the selling of clothing, home products and luxury food products. The company also began to sell branded goods like Kellogg's Corn Flakes. M&S currently has 959 stores across the U.K including 615 that only sell food products.
+
+Responsabilités :
+
+· Interacted with Business Users and Business Analysts to gather Information to enhance the Universe.
+
+· Resolved Loops in Universe by creating Aliases and Contexts.
+
+· Checked Universe for integrity & exported to repository to make it available for user groups
+
+· Implemented the Object-Level Security and Row-level security in Universe. Implementing the Table Mapping in Universe to restrict certain data in a table to only one group of users.
+
+· Created Reports from Multiple data sources from database and Personal files.
+
+· Designed and developed extensive Business Objects reports like Simple, Complex, Cross Tab using multiple Queries, Prompts, combination chart and tables.
+
+· Involved in Development of Standard Reports using WEBI, Scheduling the Reports.
+
+· Created WEB Intelligence Reports with query filters, Sorts, Breaks, alerts, Complex Operations.
+
+· Using Universe & Crystal Reports and Webi Reports as a Data source of Xcelsius to build the dashboards thru Use live office & QAAWS to getting the live data.
+
+· Creating Dashboards Using Analytical Components called Charts, Crosstabs ,Dimension filters And Filter Panel
+
+· Creating Dashboards Using Basic Components called Dropdown box, image, input Field, Button, Checkbox and date filed.
+
+· Developed reports using various functions, operators, report filters and variables. Restricted the data using the Prompts and filters.
+
+· Manipulating data through various presentation styles using Crystal Reports 2008 such as Parameters, Summary Expert, Group Expert, Alerter and Highlighting Expert.
+
+· Modify existing Crystal Reports based on change requests and enhancements.
+· Created Design studio dashboards using various components like Analytical, basic and Container components.
+
+· Created Design Studio Bookmarks for reusing various dashboards. 
+Environment: SAP BI 4.1/4.2, SAP BI (IDT, Designer (UDT), Web intelligence/BI Launch pad, Dashboard Designer), Design Studio and BEX, Oracle.
+
+PROJECT#2
+Client
+
+       
+: AIG
+Project
+       
+: American International Group 
+
+Role
+
+       
+: SAP BO Report Developer.
+Description :
+
+American International Group, Inc., also known as AIG, is an American multinational insurance corporation with more than 88 million customers in 130 countries. The company operates through three businesses. AIG Property Casualty, AIG Life and Retirement, and United Guaranty Corporation. AIG Property Casualty provides insurance products for commercial, institutional, and individual customers. AIG Life and Retirement provides life insurance and retirement services in the United States. UGC focuses on mortgage guaranty insurance and mortgage insurance. AIG also provides financial services in global capital markets operations, including direct investment and retained interests.
+Responsabilités :
+· Involved in full life cycle of Business Objects reporting Application.
+· Designed Universes using OLAP and Oracle data sources and developed reports in WebI, Xcelsius Dashboards.
+· Used outer joins to retrieve the data and used self joins, Complex joins and sub queries to meet the report requirement.
+· Involved in Report testing & Universe testing and created Templates.
+· Applied custom Hierarchies and generated cascading LOV's for several universes.
+
+· Resolving traps & Loops by using Alias & Context.
+
+· Created reports using web intelligence and in Info view, distributed the reports to different users.
+
+· Designed and Developed WebI Reports using reporting functionalities like Combined Queries, Alerter, Break/Section, Hyperlinks, Drill and chart, data sort.
+
+· Restricted the data by using Prompts and filters.
+
+· Developed simple and complex reports in WebI with using different data provider.
+· Created various dashboards by using QAAWS connections and Live Office (LO) connection.
+
+· Implemented Drill down Functionality in Multiple Dashboards.
+
+· Implemented Dynamic Visibility, Alerter, Dynamic linking in multiple Dashboards.
+
+· Created QAWS connectivity to Universe for refreshing Xcelsius with current data.
+· Using Business Objects functionality like Sub Queries, User variables, Input Controls.
+· Adding /removing Business Objects users.
+· Maintaining Business Objects security.
+
+· Extensively worked on scheduling the reports.
+Environment: SAP BI 4.0/4.1, SAP BI (IDT, Designer (UDT), Web intelligence/BI Launch pad, Dashboard Designer, Administration) and BEX, Oracle.
+
+PROJECT#1
+
+Client
+
+
+ : GE, USA.
+Project
+
+ : People Health Care Analytic.
+Role
+
+
+ : SAP BO Report Developer.
+Description:
+
+healthcare is the maintenance or improvement of health via the diagnosis, treatment, and prevention of disease, illness, injury, and other physical and mental impairments in human beings. Healthcare is delivered by health professionals (providers or practitioners) in allied health professions, chiropractic, physicians,physicianassociates, dentistry, midwifery, nursing, medicine, optometry, pharmacy, psychology,and other health professions. It includes the work done in providing primary care, secondary care, and tertiary care, as well as in public health.
+
+Responsabilités :
+· Extensively worked with Web Intelligence XI R3 and Info View to create thin client reports based on the business requirements.
+· Created the reports using Web Intelligence tool where as Universe is the main Data Provider.
+
+· Designed and Developed WebI Reports as per the Users Requirements using the features in Business Objects including: Master/Detail, Charts, Cross Tabs, Slice and Dice, Drill Down, Formulae to analyze the data.
+· Created user Prompts, Conditions and Filters for various reports to specify the reporting parameters as per the business rules and the requirements of the end users.
+· Enhanced universes according to the client requirement.
+· Developed simple and complex reports in both Deski and WebI with using different data provider.
+· Used alerts to highlight the data in reports.
+· Created variables in the report level for reusing purpose.
+· Adding /removing Business Objects users.
+
+· Maintaining Business Objects security.
+· Extensively worked on scheduling the reports.
+Environment: SAP Business Objects XI R3/XI R2(Universe Designer, Web Intelligence) and Oracle 9i.
+
+
+SAP BO Consultant
+

@@ -1,0 +1,227 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Resume
+
+
+CURRICULUM VITAE
+SILPA M
+
+
+                                       E-mail  : silpa.t100@gmail.com
+
+
+
+
+
+
+
+
+    Mobile : +91-7708382100
+Experience Summary
+
+· Around 3 years of experience in Analysis, design and development of web based Projects using Microsoft Visual Studio.Net 2010, 2013 and 2017. 
+
+· Proficient in OOPS, C#.Net, Ado.Net, Asp.Net, JavaScript, JQuery, Bootstrap, XML, and SQL Server 2012/08, 3-tier Architecture.
+
+· Proficient in designing in table structure with proper normalized techniques, writing stored procedures, function, and triggers etc.
+· Good experience in ASP. Net, MVC4 and Good knowledge in WCF and Web Services.
+
+Technical Skills
+
+Microsoft Technologies             :          .Net Core MVC,ASP.NET, C#.NET, ADO.NET, Ajax, Framework 4.0, Framework 3.5, WCF
+Scripting Languages
+:
+Java Script 
+RDBMS
+:
+SQL Server 2008, SQL Server 2005 
+XML Related Technologies
+:
+XML
+Development Tools
+:
+VisualStudio.NET 2013, VisualStudio.NET 2010 and 
+
+                                                            VisualStudio.NET 2017
+Application Servers
+:
+IIS 7.0
+Source Control
+:
+Visual SourceSafe 6.0
+
+Educational Details:
+
+· B. Tech from “International Institute of Information Technology(RGUKT), Idupulapaya”, Cuddapah, (Affiliated to RGUKT Hyderabad) in the academic year 2014 with 76.6%.
+· Passed Intermediate from International Institute of Information Technology, Cuddapah under CBSE in the academic year 2010 with 78.2%.
+· Passed SSC from Z.P. High School, Mudaramdoddi under Board of Secondary Education in the academic year 2008 with 79.60%.
+
+Work Experience:
+
+SLK Software (P) Ltd, Bangalore (August -2017 to till date)
+Designation: Software Engineer
+Analytics Quotient (P) Ltd, Bangalore (May -2017 to July - 2017)
+Designation: Software Developer
+VSM Software (P) Ltd, Bangalore (June -2014 to May -2017)
+Designation: Software Developer
+
+PROJECTS:
+
+Project Name: CTR (Check Point Transaction Review)
+Role              : Developer
+Client            : Emerson
+
+
+
+Technologies: .Net Core MVC, Azure SQL, Azure Storage, Asp. Net MVC, ASP.NET, Java Script, JQuery, Bootstrap, CSS, HTML5, Ajax, .NET Framework 4.0 and Entity Framework.
+Duration         : August- 2017 to till date
+Project Description:
+This Project is developed for manufacturing industries and supply chain. The main purpose of this project is the checkpoint group can review the transaction details country wise. An end user requires some modules like Transaction, View and Approver.
+Responsibilities:
+· Requirement Analysis.
+· Designing Model, View, Controller and writing the source code using dependency injection in .Net core MVC.
+· Implementing server side and client side (JQuery & JavaScript) validation.
+· Using Entity framework code first approach migrations updating the data base.
+· Used Azure Storage and Azure SQL for Data Storage.
+· Writing Code for Unit Tests with fake objects using X-Unit for deployment or build success.
+· Involved in bug fixes.
+· Used agile process in this project.
+· Prepared unit test cases and tested the application.
+
+· Involved in all phases of Project life cycle.
+
+Project Name: PepsiCo Inc
+Role               : Developer
+Client             : PepsiCo Inc
+
+
+
+Technologies : C#, ASP.NET MVC, ASP.NET, Java Script, JQuery, Bootstrap, CSS, HTML5,  Ajax, XML, SQL Server2008, .NET Framework 4.0,
+                         N-Tier Architecture and ASP. Net MVC4, Entity Framework.
+Duration         : May- 2017 to July - 2017
+Project Description:
+PepsiCo is an American multinational food, snack, and beverage corporation. PepsiCo is into manufacturing, marketing, and distribution of grain-based snack foods, beverages, and other products. Here I have following roles and responsibilities.
+Responsibilities:
+· Designing Model, View, Controller and writing the source code in 3-tier architecture for asp.net apps and Model, View, Controller pattern in asp.net MVC4.
+· User controls for a seamless functional process.
+
+· Implementing server side and client side (JQuery & JavaScript) validation.
+· Designing entity frame work classes.
+
+· Designing Database tables and creation of stored procedures using SQL Server 2012
+· Involved in bug fixes.
+· Exception Handling with Event logger.
+
+· Prepared unit test cases and tested the application.
+
+· Prepare technical documents as per established project standards.
+
+· Involved in all phases of Project life cycle.
+
+Project Name
+: KEA
+
+Role
+
+: Developer
+Client
+
+: Gland Pharma, BSN Medicals and Bio vitamins
+
+
+
+Technologies   : C#, ASP.NET MVC, ASP.NET, Java Script, JQuery, Bootstrap, CSS, HTML5,  Ajax, XML, SQL Server2008, .NET Framework 4.0,
+                         N-Tier Architecture and ASP. Net MVC4, Entity Framework.
+Duration         : July- 2015 to May - 2017.
+
+Project Description:
+KEA, a SFE Product with all the powerful functionality- an end user requires: call planning and reporting, sample management, event management, Channel sales and stock tracking and much more.  With KEA cloud-based technology, users and analytics team can readily access smart reports and dashboards that present insight on event, sales and call activity data needed to make informed decisions in the field and at management end.
+Responsibilities:
+· Designing web forms and writing the source code in 3-tier architecture for asp.net apps and Model, View, Controller pattern in asp.net MVC4.
+· User controls for a seamless functional process.
+
+· Implementing server side and client side (JQuery & JavaScript) validation.
+· Designing entity frame work classes.
+
+· Designing Database tables and creation of stored procedures using SQL Server 2012
+· Involved in bug fixes.
+· Exception Handling with Event logger.
+
+· Prepared unit test cases and tested the application.
+
+· Prepare technical documents as per established project standards.
+
+· Involved in all phases of Project life cycle.
+
+Project Name: DSR
+Role: Developer
+Client: VSM
+
+
+
+
+Technologies: C#, ASP.NET, Java Script, Ajax, XML, SQL Server2008, .NET Framework 4.0,
+
+                         N-Tier Architecture.
+
+Duration: March - 2015 to June - 2015.
+Project Description:
+
+The main Description of DSR project is maintaining the Daily Status of Employee work in a company.  Creating Milestones of project and Tasks of that milestone, Assigning the tasks to associated employees. When the employee logins the site then it show what tasks are assigned to him.  Work on that task and updating his task. Then the system gets status of Task and Milestone as well as Project. 
+Responsibilities:
+· Design the pages and writing the source code.
+
+· Designing Database tables and creation of stored procedures.
+· Involved in bug fixes.
+· Exception Handling with Event logger.
+
+· Prepared unit test cases and tested the application.
+
+Page 4 of 4
+

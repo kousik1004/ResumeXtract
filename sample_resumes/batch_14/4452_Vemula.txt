@@ -1,0 +1,339 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAP BI ConsultantDineshVemula
+Email: Vemula.Dinesh1992@outlook.com
+Mobile: (+91) - 9004994656
+
+
+	CAREER OBJECTIVE
+
+
+
+To work to my optimum level for the betterment of the company/organization and to make a mark as a distinguished professional in an organization.
+
+Professional Summary:
+
+· Total 3.3 years of real time experience in SAP BI 7.3 and 7.4
+· Working for L&T InfoTech, Mumbai.
+· Involved in Implementation and Enhancement projects of P&G and have playeda  key role in solving the ticket issues of the projects.
+· Currently working in MSA project as a Team Member for some more new enhancements. 
+· Able to learn new technologies, concepts and Business processes quickly, evaluate their applications, and apply them to business need when appropriate. 
+
+
+SAP BI Skills:
+
+· Overall 3.1 years of experience on SAP BW/BI in all areas of this domain:- extraction, modeling, reporting and monitoring.
+· Worked on R/3 systems in order to retrieve the data on the BW side.
+· Developed the Modeling objects for the projects such as Infoobjects, Data Sources, Infopackages, Transformations, DTP’s, DSO’s and Infocubes. 
+· Also worked on Multi-Providers, Virtual-Providers, Composite Providers, Open Hub Destination and  Hybrid Providers 
+· Experience in Transporting Objects from Development to Quality and Production.
+· Also worked on APD and creation of Process chains in development systems and moved it to Quality and Production
+· Also worked on Analyzer and Advanced Analyzer for creating the interactive workbooks.
+· Also worked on Web Application Designer both 3.x and 7.x for creating interactive templates for the reports which have to be visualized on the browsers.
+· Also worked on BO Web Intelligence 4.x and BO Design Studio 4.x for creation of the interactive reports.
+· Designed queries using Navigation attributes, Hierarchies, Filters, Restricted key figures, calculated key figures, Exceptions, Conditions, Variables and Structures.
+· Also worked on customer exits and routines for the project requirements.
+
+Professional Experience: 
+
+	Project #1
+
+	Organization
+	L&T Info Tech
+
+	Project Name
+	Sales Analysis Details
+
+	Environment
+	SAP BI 7.0
+
+	Role
+	Team member as BI Consultant
+
+	Team Size
+	3
+
+	Duration
+	Oct 2014 to Dec 2014
+
+
+
+Project Description:
+
+This Project was to create the interactive reports through BO Web Intelligence tool in order to provide the users the monthly overview of the sales for the specific period of time.
+
+
+
+Responsibility:
+
+· Worked as a team member.
+· Extracted data from source system side to BW side.
+· Worked in Modelling – customized info object,Data source, Transformations, DTP’s, DSO, info cubes and Multi providers.
+· Created Reports in Query Designer  by using Variables , Filters, Calculated Key Figures, Restricted Key Figures, Conditions and Exceptions.
+· Used BO Web Intelligence Tool 4.x for interactive reporting.
+· Also used tool feature BO Bursting to publish the reports to the corresponding users.
+
+
+	Project #2
+
+	Organization
+	L&T Info Tech
+
+	Project Name
+	P&G – MSA Transformation Global Reporting
+
+	Environment
+	SAP BI 7.0 and 7.4, SAP BI 3.x
+
+	Role
+	Team Member
+
+	Team Size
+	9
+
+	Duration
+	Dec 2014 to Dec 2016
+
+
+
+Project Description:
+
+MSA stands for Marketing Spent Analysis.This is an Implementation project in which we need to create the massive number of reports to business  based on business requirements so that their users able to visualize their data on reports.
+
+Responsibility:
+
+· Worked as a Team Member.
+· Created BW Modeling objects- InfoObjects, DSO, Infocubes, Transformations, DTP’s
+· Also worked on retrieving data from R/3 source system to BW side and loading of flat file data into the corresponding providers .
+· Also developed Composite Provider, Data Marts and Open Hub Destination for exporting CSV data to the local system.
+· Also written customer exits for the reports which had the plan key figures in order to retrieve the version and text of the plan in the end reports.
+· Also worked on APD and BADI level in order to provide the functionality of invoice viewer.
+· Worked on RRI in provide the functionality to jump from one report to another report.
+· Also worked on routine in order to filter the data into the target providers.  
+· Also maintained and activated Master data for the info objects which had navigational attributes.
+· Validated the data consistency in reporting with Data Target against PSA after loading them to data targets.
+· Involved in reconciliation to verify the data in SAP-R/3 and SAP-BW are same or not after the data loads.
+· Created Reports using Hierarchies, Filters, Calculated Key Figures, Restricted Key Figures, Conditions, 
+Exceptions and Variables.
+· Worked on WAD 3.x and 7.x for creation of interactive reports to end users and also assisted the team in migration of templates from 3.x to 7.x flow.
+· Also worked on BO Design Studio for the creation of new templates.
+· Worked on approvals and documentations which were required for the objects to be moved to production.
+
+
+
+
+
+	Project #3
+
+	Organization
+	L&T Info Tech
+
+	Project Name
+	P&G – General Ledger Reporting
+
+	Environment
+	SAP BI 7.4,SAP HANA 
+
+	Role
+	Team Member
+
+	Team Size
+	3
+
+	Duration
+	Apr 2016 to July 2016
+
+
+
+Project Description:
+
+P&G profit and loss depends on this project. This project is very critical  for the smooth flow of the business transactions.
+
+Responsibility:
+· Worked as a Team Member.
+· Worked in order to modify the old flow of data loading due to memory limitations in production and created new flow with the help of SAP HANA studio
+· Created Process chains for the data loading into the corresponding data targets in development, quality and production. 
+· Created Virtual Provider and worked on calculation view in order to create the advanced DSO for data storage .
+· Worked on approvals and documentations which were required for the objects to be moved to production and also assisted the approved team to move the Transport requests objects to Production.
+
+
+	Project #4
+
+	Organization
+	L&T Info Tech
+
+	Project Name
+	P&G – EDNOs
+
+	Environment
+	SAP BI 7.4
+
+	Role
+	Team Member
+
+	Team Size
+	2
+
+	Duration
+	Jan 2017 to June 2017
+
+
+
+Project Description:
+
+It is an internal project of L&T Infotech. This application data depends on other applications of P&G. EDNOs stands for Estimated Daily Net Outside sales.
+
+Responsibility:
+· Worked as a Team Member.
+· Interacted with Client for the requirement gathering process.
+· Worked on the 2 phases of this project which include objects such as Query, Customer exits, Cubes,
+DSOs
+· Completed the requirements on time and provided client the unit testing documents for BAT.
+· Also prepared the design documents for both the phases.
+· Also assisted the clients in performing the Business Acceptance Testing..
+· Worked on approvals and documentations which were required for the objects to be moved to production and also assisted the approved team to move the Transport requests objects to Production.
+· Also validated the objects moved to production and informed the client about the successful change movement.
+· Also provided the hyper care support to this project during fiscal year change and solved the issues which was faced in hyper care period.
+
+
+
+
+	Project #5
+
+	Organization
+	L&T Info Tech
+
+	Project Name
+	P&G – MSE Corporate Reporting
+
+	Environment
+	SAP BI 7.5,SAP BW on HANA Eclipse ,BO Design Studio
+
+	Role
+	Team Member
+
+	Team Size
+	3
+
+	Duration
+	July 2017 to Present
+
+
+
+Project Description:
+
+Worked on the POC demo of this project which was successful and L&T Infotech received this new project from P&G. In this project, the client requires the automation of the data to be seen which comes from 2 different applications of P&G-MSA and FMR 
+
+Responsibility:
+· Worked as a Team Member.
+· Interacted with Client for the requirement gathering process. 
+· Prepared the design document for this project
+· Created BW objects such as ADSO, Composite Provider, complex cell based queries and the design studio template.
+· Development is completed for this project. Testing phase is in progress.
+
+Key Achievements:
+
+· Received Appreciation from MSA Project for working on WAD Templates.
+· Received Appreciation in EDNOS for delivering the objects within time constraints.
+
+
+Education Details:  
+
+
+	University  / College
+	Degree
+	Year Pass out
+
+	Rajiv Gandhi Institute Of Technology
+	B.E. Information technology
+	2014
+
+	HSC
+	S.I.E.S College of Arts and Science.
+	 2010
+
+	SSC
+	Holy Cross High School
+	2008
+
+
+
+
+	Personal Information:
+
+	Name:
+	DineshVemula
+
+	Marital Status:
+	Single
+
+	Date of Birth:
+	2nd January 1992
+
+	Contact Address:
+	3/311 Sahjeevan Coop H Society,N.M.Joshi Marg,Elphinstone,Numbai-400013
+
+	Contact No.:
+	+91 9004994656
+
+	Nationality:
+	Indian
+
+	Languages:
+	English, Hindi, Marathi,Telugu
+
+	Hobbies & Interest:
+	listening to music, Travelling different places
+
+	E-Mail Id:
+	Vemula.Dinesh1992@outlook.com
+
+
+

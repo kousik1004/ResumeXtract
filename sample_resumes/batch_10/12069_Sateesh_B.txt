@@ -1,0 +1,181 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manmadha reddy
+
+Sateesh B   
+
+    
+       
+
+Mobile: +91-8978871747
+Email:satthib@gmail.com
+SAP PI/PO Consultant
+
+Professional Summary:
+Having 4+ years of experience in SAP implementation ,development and Production support in SAP PI/PO. 
+NetWeaver Skill  Summary:
+· Having 4+ years of professional experience in SAP Netweaver PI7.0/ PI 7.1 /PI7.31
+· Experience in working with Integration Builder (IR or ESR & ID) and SLD.
+
+· Developed various Design & Configuration Objects in Integration Builder.
+
+· Experience in creating & working with collaboration profiles, setting of 
+
+Logical routing objects and working with collaboration agreements.
+
+· Experience in working with graphical mapping editor and enhancing the Standard functions with user defined functions.
+
+· Visually tracking record of Message flow in runtime components of Integration
+
+Server (Integration Engine, Adapter Engine, Business process Engine).    
+
+· Set up, tested communication channels for various adapters.
+
+· Working experience with Technical Adapters( FILE,JDBC,JMS and SOAP) and  Application Adapters(RFC & IDOC).
+· Experience working with lookups(i.e. RFC , JDBC Look Ups)
+
+· Good experience working with AAE and  AEX
+
+· Good experience working with ESR bypass scenarios
+
+· Good experience working with Client proxy and server proxy scenarios
+
+· Experience working with ALERTS configuration.
+· Experience working in Proxy Configuration.
+· Configured PI for communicating with SAP, Non-SAP systems, Legacy systems and Third Party Systems.
+
+· Monitoring the runtime objects by using different monitoring tools like message monitoring, component monitoring, Performance monitoring and End to End Monitoring.
+
+· Knowledge in creating Logical Systems, RFC destinations, Ports and Partner Profile in SAP R/3 and SAP PI for message processing.
+
+· Good Knowledge in defining Product, Software Component, Technical and Business Systems in SLD.
+· Good Experience handling the issues for production support projects.
+· Experience working on transporting the objects from one Environment to another Environment using FILE and CTS methods.
+· Expert in troubleshooting, resolving performance, production issues and recommendation.
+· Trained in HCI (Hana cloud integration ) , Dell boomi which are cloud technologies.
+Experience summary:
+
+· Working as a Senior associate consultant in Infosys since November 2014 to Till date.
+· Worked as an SAP PI consultant in HP from November 2013 to November 2014.
+
+Technical skills:
+
+· ERP
+                       : ECC6.0,EWM 9.0
+· EAI Tools                     : Net weaver   PI7.0/PI7.1 /PO 7.31
+· Operating Systems   : Windows 7/2000/XP.
+
+· Languages                   : Java and ABAP
+Educational Qualification:
+
+· B.Tech , Computer science  from J.N.T.U.
+Projects Experience:                                           
+
+Project #2
+    Client                               :  SCE, Southern Colifornia Edison
+      Organization
+   :  Infosys 
+      Project Description     :  MS(Managed Services) Production Support 
+
+      Duration                        :  Nov 2014 to Present 
+
+      Platform
+
+  :  Net Weaver-PI (7.31).
+
+      Role Played                   :  Senior team member at offshore 
+Description: 
+               Southern California Edison is the largest subsidiary of Edison International .It is the primary electricity provider in southern California, US. It provides 14 million people with electricity. This project consolidates all the Client Applications maintenance and Interface Maintenance. This involves all the support and maintenance of the non-sap applications and smart connect procedure maintenance. This project is to increase the quality, speed, reliability and consistency of IT support for Clients Business and for improving alignment between Client’s business and IT support, and help enable client to focus its internal resources on its core business and strategic direction
+Roles & Responsibilities:
+
+· Monitoring of various business processes at runtime and Monitoring the message flow, analysis and status tracking of different processes,  monitoring NW BPM’s and SAP UI5.
+· Designed and Developed Interface objects, Mapping objects, Integration Scenarios and Integration Processes. 
+
+· Configuring the Routing rules (Interface and extended Reciever determination), Sender/Receiver agreements in integration directory.
+
+· Worked on following adapters JDBC, File, Proxy ,Soap, JMS, Idoc, RFC, ARIBA.
+· Knowledge on Ariba third party adapter which is used in SCE Project.
+
+· Worked in External control channel and challenged/analysze and resolved  the business impacted interfaces with External control channels.
+· Experienced in Proxy Configuration.
+
+· Involving in Monitoring Messages from RWB, channel monitoring , SXMB_MONI ,Queues, NW BPM’s and SAP UI5.
+· Involved in Preparing Technical/Integration Specifications, Unit Test Plans/Results and end to end testing.
+· Also supported to Basis team in manual activation of DIR transports and debugged the issues during transporting the objects from one system to another.
+· Performed the Pre/Post outage and rolling restart tasks and Supported to Basis team to do outages or rolling restarts.
+Project #1
+    Client                               :  Adhitya Birla, Madura Garments
+     Organization
+                 :  HP
+      Project Description     :  EWM Implementation and Production Support
+      Duration                        :  Nov 2013 to Nov 2014 
+
+      Platform
+
+  :  Net Weaver-PI (7.0).
+
+     Role Played
+
+  :  SAP-PI Consultant
+
+Description: 
+
+            Madura Garments is a leader in the branded garments segment in India and has made distinct forays into the Indian apparel and lifestyle sector.It is well-known and trusted brands have
+been a part of your life for more than ten decades . The best menswear brands like Manyavar, Louis Philippe, Van Heusen, Monte Carlo, Levi’s, Jockey, Allen Solly & Peter England under one roof. To cater to the young customer, in addition to suits & sherwanis, Planet Fashion
+showcases a wide array of party shirts, trousers as well as accessories like ties, cufflinks and belts.
+Roles & Responsibilities:
+
+· Understanding the requirements, analyzing the functional specs and involved in the designing of interfaces
+
+· Designed and Developed Interface objects, Mapping objects, Integration Scenarios and Integration Processes. 
+
+· Configuring the Routing rules (Interface and Channel determination), Sender/Receiver agreements in integration directory.
+
+· Configured JDBC, File, Proxy ,Soap,RFC Adapters.
+· Involving in Monitoring Message from RWB and SXMB_MONI.
+· Monitoring of various business processes at runtime and Monitoring the message flow, analysis and status tracking of different processes.
+· Resolve SAP PI issues on priority basis with maximum SLA of 5hrs.
+· Perform the DR Drill on Quarterly Basis without hampering End-To-End Business by providing Live Business Environment to the End Users.

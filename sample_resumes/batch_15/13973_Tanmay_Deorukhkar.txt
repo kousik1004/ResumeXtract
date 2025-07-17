@@ -1,0 +1,238 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanmay Deorukhkar
+Tanmay Deorukhkar
+E-mail: tanmayd69@gmail.com
+ Mobile: +91 9004515604
+
+(SAP BW/BI/Hana/ABAP Consultant)
+
+CAREER OBJECTIVE
+To work in a dynamic company in IT development or consulting as a technical consultant, where my analytical/technical skills, knowledge, and work experience are utilized at its best. 
+
+EXECUTIVE SUMMARY
+· 6.4 years of Experience in Information Technology including over 5.4 years of Experience in SAP BI/BW/HANA/ABAP 7.0,7.3 & 7.4 on HANA SAP BO 4.0. 
+· Worked on ISU-CRM Module and Non SAP system.
+· Experience in Full Software Development Life Cycle (SDLC) implementation of SAP BW.
+· Have good experience of interacting with customers, requirement gathering providing analysis for reports.
+· Extensively worked on Enterprise Data Warehouse for the generation of Info Cubes, DSO Objects, Multiproviders, Transformations, DTPs, Info packages, Data sources & Business Content.
+· Worked on analysis, design and development of BW data models for Reports.
+· Work on Performance tuning concepts like compression, aggregate creation, indexing and rollups in infocubes.
+· Worked on usage and implementation of variable types in Query design.
+· Worked on Generic Extraction (Generic Data source creation), Data Source enhancement using Function module.
+· Configured and customized Logistic Cockpit extract structures and data sources in sales and distribution to facilitate the data extraction to BW and to reporting using classification of various data elements. Enhanced the extract structures by adding new fields. 
+· Work on ABAP/4 development, Enhancements, User Exits, BW Start routine, Field, End routine and Expert routines.
+· Worked on few issues related to Web dynpro component.
+· Good Knowledge on Advanced DSO, Composite Provider, Open ODS View and HANA Analysis Process.
+· Nice communication and time management skills with good analytical, problem solving and decision making capability.
+· Good Understanding of both business processes and technical development.
+· Good understanding of IS-U’s Sales Stats, Billing, Meter Reads, Annual Quantity, Switch, Installation Facts, Contracts etc.
+
+
+
+
+
+
+
+
+
+
+EXPERIENCE SUMMARY
+Started carrier at Wipro Technologies as DWH developer with Wipro Technologies since 26th July 2011 and continuing as Senior SAP BW/HANA Developer in Accenture.
+
+
+ ACHIEVEMENTS
+· Three Times awarded with feather in my Cap award from my Team Lead and Project manager for timely providing resolution to customer incidents and helping and managing new team members to understand current system.
+· Worked on more 100 Service Orders and Incident in last 2 quarters.
+
+
+PROFESSIONAL EXPERIENCE
+PROJECT # 1                                                                                             Support
+
+Client:	            Novartis 
+Role:		SAP BW/HANA Senior Developer
+Module:	SAP BW 7.4 on HANA SAP ECC 6.0.
+
+Client Description: 
+Novartis is a global healthcare company based in Switzerland that provides solutions to address the evolving needs of patients worldwide.
+Responsibilities:
+· Working on Group data warehouse System in Novartis BI Operations.
+· GDWH is one of jewel system of Novartis BI system.  It gets data from Pharma, Alcon and Sandoz divisional BI system.
+· Primary resource for Customer Cluster Risk and Efficiency tracking tool application in GDWH.
+· Primary resource for FCRS and Treasury Exchange rate in GDWH system.
+· Worked on automation for CCR related AR and Gross file data with web dynpro team.
+· Worked on several change requests and Incidents related BW issues.
+· Created new flow for Runbook Application from Alcon (IRIS) System.
+· Supported web dynpro related issue in CCR application on GDWH portal end.
+· Handled Data reconciliation issues between GDWH and Divisional System.
+
+
+     
+
+
+
+PROFESSIONAL EXPERIENCE
+PROJECT # 2                                                                                 IMPLEMENTATION
+
+Client:	            Xoserve ltd.
+Role:		SAP BW Consultant
+Module:	SAP-ISU, non-SAP (BODS) for Gemini and CMS.
+
+Client Description: 
+Xoserve, an organization which is an integral part of the gas distribution and transmission market in Britain. Xoserve supports Britain’s gas market through the provision of centralised information and data services for gas transporters and shippers. The company is jointly owned by the five major gas distribution Network companies and National Grid’s Gas Transmission business.
+     This project involved extensive implementation of SAP-ISU. And Non SAP Source Systems.
+Responsibilities:
+· Data modelling for SAP and non-SAP objects.
+· Requirement gathering and Report analysis.
+· Designing and Data modelling of BW objects.
+· Created Functional and Technical Specification based on Requirements 
+· Activated standard BI content.
+· Developed BW objects like Info Objects, Infoset, InfoCubes, DSOs, Multiproviders, DTPs, Transformation, and BEx Queries.
+· Extensive use of ABAP for Start Routine, Field Routine and End Routine along with Customer Exits.
+· Created custom queries using Conditions, Exceptions, Variables,  Restricted and Calculated Key Figures for frequently used queries
+· Performed Performance tuning by compressing the cubes and creating indexes.
+· Created LLD as per the requirement for the reference.
+· Having little Idea of writing SQL in oracle.
+
+
+
+PROJECT # 3                                                                                      SUPPORT
+
+Client:		Origin Energy
+Role:		SAP BW Developer
+Module:	SAP – ISU -CRM
+
+Client Description: 
+Origin Energy is one of Australia's leading energy companies, exploring, generating and retailing energy throughout Australia, New Zealand and the southern pacific region, with some 4,000 employees.
+Responsibilities:
+· Performed BW Operations - Data load management, Job scheduling, OLTP extraction data, Loading (Full /Delta Up-Load), Monitoring, Data Reconciliation, Performance tuning.
+· Responsible for analyzing business needs and implement those business needs in SAP BW.
+· Handled ticket on HPSM(Hewlett Packard Service Manager), where end user used to log ticket
+· Participated in weekly meetings with managers.
+· Worked on Performance Issues like Creation of aggregates, Line item dimensions, Roll Up and Compressed the Info Cube to improve the query response.
+· Developed BEx Report using customer exits & Variables
+· Help user in creating workbook and BEx queries
+· Supported Modules in BW – SAP-ISU and SAP CRM.
+· Experience in Standard Business Content of Various business modules and Custom InfoCubes, InfoObjects, Extraction (Mass Activity, Generic Extractions), BI Transformations
+· Used Structures, calculated key figures, restricted key figures, new selection, new formula, exceptions and conditions.
+· Performing post-transfer processing adjustments after carrying out a system or client copy.
+· Worked on errors caused in process chain during data load monitoring
+· Having Experience on the work flow of support activities.
+· Interacted directly with the End users several times on the call to collect the Reporting requirements and developed the reports accordingly
+· Have created necessary DTP’S for Init & Daily Delta/Full Loads for both Master & Transaction Data. Extracted & Validated Data
+· Worked on Cutover and Release Activities.
+· Involved in Solving PR’s (Problem Request) and given solution
+· Coordination with the team to close as many as defect from the HPSM Tool.
+
+
+PROJECT # 4                                                                   IMPLEMENTATION
+
+Client:  	CITI Account
+Role:		L1 Developer DWH
+Module:	Ab Initio
+
+Client Description: 
+CITI Bank is leading bank in the world with strong and healthy Fundamentals. I was involved in a RELODS project to expand the depth and breadth of information available about CITIBANK customers across channels, as well as to make that information more easily accessible for all the database’s users and stakeholders.
+Responsibilities:
+· Extensively used Ab-Initio ETL tool in designing & implementing Extract Transformation & Load processes.
+· Ab Initio components such as Join, Rollup, Scan, Reformat, Partition by Key, round robin, gather, merge, Dedup sorted, FTP etc Solving errors in process chains during run.
+· Designed and deployed well-tuned Ab Initio graphs (Generic and Custom) for unix environment.
+· Worked in a sandbox environment while extensively interacting with EME to maintain version control on objects. Sandbox features like checkin and checkout were used for this purpose.
+ 
+
+
+
+
+PROFESSIONAL TRAINING:
+
+· Training in WIPRO on, Infomatica, PL/SQL, SAP BO, SAP BW.
+· On job training on SAP HANA.
+· On the Job Training on Ab initio.
+· On the Job Training on SAP BW.
+· On job training of SAP ABAP.
+· On Job training on SAP BO.
+· On job training on SAP BPC
+
+ACADEMIC PROFILE
+
+MTech, BITS Pilani (Work Integrated Learning Program),
+BSc (Information Technologies), Mumbai University
+
+
+
+
+
+PERSONAL INFORMATION
+
+Birth Date	                     	15th Oct 1990
+Father’s Name			Vilas Deorukhkar
+Mother’s Name		Veena Deorukhkar
+Place of Birth                             Mumbai
+Citizen/Nationality                   Indian
+Marital Status		       	unmarried
+Gender			Male
+Nature of Employment            Permanent
+Current Designation                 Sr. Software Engineer (SSE)
+Total IT Exp                                6.4 Years 
+Total SAP BW Exp		5.4 Years
+Hobbies  			Football, Sports Activities
+Address		     	Mumbai Byculla 
+
+REFERRALS
+Available on demand.
+
+Declaration:
+I hereby declare that the details furnished above are the true to the best of my knowledge. 
+
+
+								Tanmay Deorukhkar
+
+
+Page 5 of 4	COMMERCIAL & CONFIDENTIAL

@@ -1,0 +1,145 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHUBHAM SINGH
+Hyderabad, Telangana 
+
+shubhams7869@gmail.com
++91 8118804572/ +91 7597248028 
+
+WORK EXPERIENCE 
+
+Capgemini Technology Services India Pvt. Ltd. December 2016 - Present
+Software Developer, Hyderabad, Telangana
+
+ Worked as a developer in a team of 8 to develop the webservices in spring and applications 
+in JAVA swing.
+
+ Development for the leading financial firm of the US.
+
+EDUCATION 
+
+Rajasthan Technical University, Kota, Rajasthan          2012 - 2016
+ B.Tech. in Computer Science and Engineering 
+ Courses: Algorithms · Theory of Computation · DBMS · Compiler Construction · Object 
+
+Oriented Design and Programming · Artificial Intelligence · Computer Graphics.
+
+SKILLS 
+
+ Languages: Core Java, J2EE, C++, JavaScript, JSP
+ Integrated Development Environment: Eclipse, Spring Tool Suite, Visual Studio
+ Operating Systems: Linux, Windows
+ Database: Mysql
+ Game Engine: Unity3D
+ Others: HTML, CSS, OpenGL, JS
+ Build tools: Maven, Gradle
+
+CERTIFICATIONS 
+
+OCJP April 2017 
+Oracle Certified Java Professional: SE7 
+
+PROJECTS 
+
+Portal to validate Webservice
+July 2018
+
+ Internally used by the team for validating the service on one click
+ Creates JWT token and appends the request to the URL(Webservices).
+ Fetches the response from multiple webservices.
+ Works for both HTTP/HTTPS without Checking SSL certificates.
+ Technologies used: Java, Spring
+
+Enterprise Common Component
+November 2017
+
+ Created a webservice to fetch SSN details for an account from multiple JVMs.
+ Service is used by multiple applications throughout the Organisation.
+
+mailto:shubhams7869@gmail.com
+
+
+ Technologies used: Spring, Java EE
+
+Call Center Application
+August 2017
+
+ Call center agents can view and update consumer details on consumer request.
+ Connecting with IVR program to get the Account/Card number, and then populates the 
+
+details.
+ Fetches the details from multiple webservices.
+ Application was developed for a leading financial sector organization in US.
+ Technologies used: Java Swing, Spring
+
+University Admission System
+March 2017
+
+ Students can view and apply for particular programmes offered by the university.
+ Member of admission committee can view, accept and reject applications. And, can schedule
+
+the interview for accepted applications.
+ Admin can manage the programmes and students’ applications.
+ Technologies used: JEE, Spring, JSP, MySQL, Javascript, CSS
+
+Complexity Analysis for N queens algorithm 
+November 2015 
+
+ Created a graphics program in C++ to represent the N queens solution. Analysed the N 
+queens algorithm for O(1) complexity. 
+
+ Technologies used:  OpenGL, C++.
+
+Development of Software for Image Processing 
+June 2015 
+
+ Training project in DRDO. Used Java Swing for developing software for Image Processing.
+  Program is able to perform following Operation: 
+
+Manipulating Brightness, Converting the image to Grayscale, Negative, Creating 
+Histogram for the image, Typing text on the image.
+
+ Technologies Used: Core JAVA, Swing.
+
+Scientific Calculator 
+April 2014 
+
+ Created graphical interface for Calculator. It is able to calculate algebraic expressions 
+following the BODMAS rule. 
+
+ Technologies Used: C++, BGI (Borland Graphics Interface)
+
+

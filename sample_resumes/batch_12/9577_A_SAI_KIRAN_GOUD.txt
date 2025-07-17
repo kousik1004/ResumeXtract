@@ -1,0 +1,349 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A SAI KIRAN GOUD
+Email: saikirangoud09@gmail.com 
+
+Mobile: +91 9986213775
+CAREER OBJECTIVE                           
+
+To obtain a position in an organization where I can utilize my skills and efforts in Embedded Systems Design and Development for the development of the organization by being resourceful.
+PROFESSIONAL EXPERIENCE                         
+
+· Worked with Prayog Labs Pvt Ltd, Hyderabad as Junior Engineer from Jan 2013 to May 2014 and as Senior Engineer from June 2014 to October 2016.
+· Working as Sr Software Engineer with KPIT Technologies Ltd, Bangalore Since Nov 2016 to Till Date  
+
+PROFESSIONAL SUMMARY                           
+
+· Senior Software Engineer with over 3+ years of experience in Embedded Domain and 1 year in AUTOSAR. 
+· Proficient in developing software using Embedded C.
+
+· Experience in Low Level Device Drivers for 8/32-bit microcontroller on-chip peripherals like GPIO's, LED, Seven Segment, Alphanumeric LCD, ADC, Timers, PWM, Interrupts, WDT and STT etc….
+
+· Expertise in serial communication protocol UART, CAN, SPI, FLEXRAY & Basics of I2C.
+· Knowledge of AUTOSAR Layered Architecture.
+· Having knowledge in Real Time Operating System (RTOS), of Multitask kernel features like Task Creation and Deletion, Semaphore, Mutex & Message Queues.  
+
+· Having experience to use CMSIS-CORE PACK implements the basic run-time system for a Cortex-M3 device and gives the user access to the processor core and the device peripherals.
+· IDE Keil uvision4 is used for project management, run-time environment, build facilities, source code editing, program debugging and software simulation purpose Proteus 8 is used.
+· Ability to understand H/W datasheets to implement S/W, High Technical Knowledge and Dedication in developing and delivering projects.
+
+· Involved in Software Analysis, coding, Testing and ability to debug problem.
+
+EDUCATIONAL QUALIFICATION:              
+
+· Master of Technology in Embedded Systems and VLSI Design (CGPA 8.03) from LIET, JNTUH, Hyderabad(Dist), Telangana (2014). 
+· Bachelor of Technology in Electronics and Communication Engineering (CGPA 7.32) from VVIT, JNTUH, K V Ranga Reddy(Dist), Telangana (2011). 
+· Andhra Pradesh Education Board (Intermediate with 83.8%) from Narayan Jr College, Mehdipatnam, Hyderabad (Dist), Telangana (2007). 
+· Secondary School leaving Certificate (75.5 %) from Vidyaranya High School Langer House, Hyderabad(Dist), Telangana (2005). 
+
+	TECHNICAL SKILLS 
+
+
+Operating Systems 
+  :
+Windows XP/7/8/10.
+
+Programming Languages:
+Embedded C.
+
+RTOS
+
+
+  :
+TN kernel
+Microcontroller
+  :
+ATMEL: Atmega 8 & 16,
+
+
+
+
+
+
+Microchip: PIC18F452,
+
+
+
+
+
+
+NXP: LPC2148 (ARM7) & LPC1343 (Cortex-M3),
+
+
+
+
+
+Infineon:TC277 and TC297.
+Compilers
+
+ 
+  :
+Tasking Compiler, AVR studio 5 & 6, Keil uVision4 & MPLABX.                                
+
+Protocols
+
+
+  :
+UART, SPI, CAN, Flexray and Basics of I2C.
+
+Versioning Tools
+  : 
+Tortoise SVN 
+
+BSW Configurator
+  : 
+Vector Davinci Configurator and Elektrobit Tresos Studio.  
+
+AUTOSAR Modules
+  : 
+COM Stack for CAN, Flexray and Application – ASwC's.
+Simulation Tools
+  :
+Proteus 7 and 8.
+
+Debuggers           
+  : 
+Trace 32 and Keil uVision4
+Testing Tools
+
+  : 
+CANoe
+	WORK EXPERIENCE 
+
+
+PROJECT SUMMARY                 
+#Project 1:
+Acceptance Test Specification Evaluation for Vector Stack
+Hardware platform
+:
+Infineon TC2x7 series Evaluation Boards (TC277 and TC297). 
+Client
+
+
+:
+ZF-TRW (Lucas Varity GmbH).
+Technologies Used        :           AUTOSAR
+Tools used
+
+:
+Trace32, Tasking Compiler, Lauterbach, PYScripter, Beyond Compare Vector Davinci Developer, Vector Davinci Configurator and Vector CANoe.
+Role
+
+
+:
+Test Engineer
+Environment
+
+:
+Windows.
+Details
+
+
+:
+The aim of the project is to perform Acceptance Testing on the BSW stack provided by Vector as a third-party Evaluation with the specifications provided by AUTOSAR Consortium. 
+Role & Responsibilities: 
+
+- Understanding of AUTOSAR Test Specifications of Communication stack CAN, FlexRay and LIN. 
+
+- Preparation of Software Requirements Specification. 
+
+- Preparation of Software Design Document. 
+
+- Modelling of AUTOSAR interfaces and software components in Vector Davinci Developer Tool. 
+
+- Configuration of RTE, COM Stack, OS and BSWM as per the design requirements in Vector Davinci Configurator Tool using Vector stack 4.2.2. 
+
+- Generation of the Base Software (BSW) modules and Implementing test scenarios algorithms in application software component code. 
+-  Performing testing on Infineon TC277 using customer provided framework. 
+
+- Test Report is generated and failed scenarios in the stack with justification are reported to EB development team via customer Configuration tool. 
+
+-  Test scripts preparation is done using python. 
+
+-  Perform Technical Reviews for the deliverables of other team members. 
+
+#Project 2:
+Real Time Data Handling Using ADC & EEPROM
+Hardware platform
+:
+ARM Cortex M3 (LPC1343)
+
+Technologies Used
+: 
+ADC, GPIO and UART
+Modules Used
+
+:  
+Sensor’s, Alarm, 16*2 LCD and UART
+Tools used
+
+:
+Keil uVision 4, Cocoox and SWD.
+
+Role
+
+
+:
+Software Developer
+
+Environment
+
+:
+Windows.
+RTOS
+
+
+:
+TN Kernel.
+
+Description
+
+:
+This system continuously acquires data from controller, measures parameters & display on LCD.There is a default threshold values set for data. User can change these default threshold values at any time using a pc terminal by pressing switch or user can access factory defaults stored in EEPROM. After taking data from PC terminal update the same data into EEPROM at defined locations.  Whenever data goes beyond threshold the indication is given to user.
+
+Role & Responsibilities: 
+
+· Device driver development for UART, Timers, ADC, LCD and module testing.
+· Implemented code for writing to and reading from EEPROM. 
+#Project 3:          SMS Controlled Relay Card
+
+Hardware Platform 
+:
+ARM7 (LPC2148)
+Technologies Used
+: 
+UART and GPIO 
+
+Modules Used
+
+:  
+GSM SIM 900, Relays and 16*2 LCD.
+
+Tools Used
+
+:
+Keil uVision 4, PC Terminal and upload tool.
+Role
+
+
+:
+Software Developer
+
+Environment
+
+:
+Windows
+
+
+Description
+
+: 
+This system is design for SMS controlled relay, user send the SMS to the sim900 gsm module which received SMS options based on that relays are switched on /off. 
+Role & Responsibility  : 
+As a Developer I am responsible to implement necessary low-level firmware driver for UART based on GSM and Relay Card.
+Module Testing: Test and Validation of On-Board Peripherals
+Hardware Platform 
+:
+AVR, PIC, 8051, ARM7 and ARM Cortex M3 (LPC1343)
+
+Technologies Used
+: 
+UART and GPIO 
+
+Tools Used
+
+:
+Keil u Vision 4, AVR Studio5 and MP Lab-X.
+Environment
+
+:
+Windows
+Description
+
+: 
+This project aims for testing of all On-chip peripherals like LED’S, LCD 4bit, LCD 8bit, Seven Segment Display, Switch Status, ADC, Buzzer, PWM. User can interface the board to the PC terminal and check all peripherals like ADC, PWM, etc. Each peripheral is individually tested and validated in all the possible ways. The application includes a real time tabular view of peripheral status. The Table shows the ambient light & temperature (for ADCs), frequency and time period (for PWM), switch status (OPEN/CLOSE), LED status (ON/OFF) for specific GPIO PORT pins etc.
+
+PERSONAL DETAILS                       
+
+ Father’s Name 
+: A Sri Shailam Goud 
+
+ Date of Birth
+
+: 09-02 -1989      
+
+ Gender        
+     
+: Male
+
+ Languages Known
+: Telugu, English and Hindi
+ Marital Status
+
+: Single
+ Permanent Address
+: Hyderabad
+DECLARATION                        
+
+I hereby declared that the above-mentioned information is true and accurate to the best of my knowledge.
+
+Place: Bangalore
+
+                                                                                       Signature                                                                                                                  
+
+Date :
+
+
+
+
+
+
+
+
+               (A Sai Kiran Goud)
+
+

@@ -1,0 +1,572 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smitha Prakash Shindhe 
+
+
+              
+Maruthi Nagar-Bengaluru -560068
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(  : 8861284807
+Email : ssmitaprakash@gmail.com
+OBJECTIVE
+To make use of my skills, to contribute to the company’s growth, and leave room for my further development in the latest and diversified area. 
+
+PROFESSIONAL SUMMARY (Total Experience : 5.1 years)
+· Results-oriented professional with 5.1 years of experience as Business Intelligence Developer and Data Analyst in Production, Development and Staging Environments.
+· Designing and developing data integration/data warehousing/business intelligence solutions using open source BI tools – SSIS, SSRS, and SSAS.
+· Hands on MS SQL Server 2005/2008/2012 and exposure in writing/modifying complex SQL/T-SQL queries (Views, Stored Procedures etc.) and performance tuning.Experience with developing SQL Server applications and optimization including DDL, DML, stored procedures,SSIS, and performance tuning.
+· Experience with Business Intelligence technologies such as SSRS, SSAS, and supporting concepts including OLAP,data mining, and analytics.Involved in Huge data migrations, transfers using utilities like Data Transformation Services (DTS), and SSIS.
+·   Expertise in Performance tuning, Optimization, Data integrity and Statistics by using SQL Profiler, Performance Tuning in SSIS packages by using Row Transformations, Block and Unblock Transformations.
+TECHNICAL SKILLS
+
+	BI Tools
+	SSIS, SSAS 
+
+	Reporting Tools
+	SSRS,SAP BO,Tableau
+
+	Databases:
+	SQL SERVER 2005/2008/2012, Oracle 11.1
+
+	Languages
+	SQL, T-SQL
+
+	Operating System:
+	Windows 2008/2012 R2 Advanced Server, NT & Windows 9x, Linux
+
+	Tools:
+	Visual Studio 2008/2010, Server Business Intelligence Development Studio,
+ HPSM, Toad for Data Analysis 
+
+
+PROJECT PROFILE
+
+Deloitte- HPI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technologies used: SQL Server 2016,SSAS
+
+Project Summary
+
+My Connect is a portal which enable the business users (Starting from Sales Head to Advisors) to measure their performance and take necessary action accordingly. This portal is having various reports to analyze different business parameters like agents business, performance in different area in the country. Application is picking data from various sources like the transaction system, HR etc. and processes the same to have some meaningful parameters which help business to take necessary actions.
+
+Roles & Responsibilities
+
+· Understanding requirements and develop/changes standard OLAP Cubes and reports. 
+
+· Understanding the behavior of the data from various applications and insert/manage them accordingly in the data warehouse for further analysis and reporting purpose.
+
+· Understanding the data warehouse and extract data for the reports to meet the requirement.
+
+· Design the Cubes according to the requirement and fetch data for different reports. 
+
+· Developing reports or optimizes existing reports according to the requirement.
+
+Deloitte- M&T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technologies used: OFSAA,Oracle,Tableau
+Project Summary
+
+Project calculates profitability across different metrics which was unassigned for indirect expenses and provides uniform distribution at the grain level.
+Roles & Responsibilities
+
+· Ofsaa design implementation to load data from file to table(F2T) and table to table(T2T).
+
+· Testing of design for valid data.Packages were configured as per the requirement..Performance issue was resolved. Testing of existing stored procedures and the data.
+
+· Allocating the expense and profit calculation using Profitability application.
+
+· Worked on Financial service data foundation (FSDF) and Profitability Application.
+
+· Developed Tableau reports using excel as source.
+
+Wipro Technologies - Livelink Migration for Shell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technologies used: SQL Server 2008r2, Oracle, SSIS 
+
+Project Summary
+
+Shell team required to ETL their Oracle based datawarehouse to Microsoft Sql Datawarehouse. Migration included multiple Business reasons and requirements on which data to be migrated which included data cleansing, data rejection, different region wise data, data performance etc.
+
+Roles & Responsibilities
+
+· Extracted & Load data from various sources like Oracle, SQL Server 2008/2012,.CSV, Excel and Text file from Client servers. 
+
+· Improvement in ETL process by improving query performance at backhand using various performance techniques Handled Performance Tuning and Optimization on SSIS packages, with strong analytical and troubleshooting skills for quick issue resolution in large-scale production environments located globally.
+
+· Involved in creation/review of functional requirement specifications and supporting documents for business systems, experience in database design process and data modeling process.
+
+· The packages created included a variety of transformations, for example Slowly Changing Dimensions, Look up, Aggregate, Derived Column, Conditional Split, Fuzzy Lookup, Multicast and Data Conversion. 
+
+· Reviewed & Tested packages, fixing bugs (if any) using SQL 2005 Business Intelligence Development Studio
+Wipro Technologies - Shell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Technologies used: SQL Server 2010, SAP BO
+Project Summary
+
+Brunei Shell’s HR data is stored in SAP systems.  Business Objects reports need to be created from this data for their better analysis and decision making.
+
+Develop a set of 11 reports from the BSP ERP systems to enable easier analysis and decision making on the HR data.
+
+Roles & Responsibilities
+
+· Employed various Performance Optimization of reports through stored procedures.
+
+· Worked on Reporting features such as sort, break, input controls, hide, sections, outline, and drilldown.
+
+· Worked On Universe and 6 reports around.
+
+· Meeting with clients for functional requirement gathering.
+
+Fixing bugs and defects in reports.
+Wipro Technologies - JLI 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technologies used: MSBI, SQL ,SSRS
+Project Summary
+
+JLI_Epos is the system where there will be different stores available all over US. Vehicles will visit these stores for servicing of vehicle. Once vehicle visit the store all the required details of the vehicle including what services provided will be managed in this system.If for the next visit of the same vehicle in any other store also it will manage to get all Information of the vehicle from the db. This Epos system also manages all the information in store wise items sold and inventory related information in the database. Based on these data we will be preparing different reports which will be used by the higher management for analyzing the business.
+
+. 
+
+Roles & Responsibilities
+
+· Extracted & Load data from various sources like Oracle, SQL Server 2008/2012,.CSV, Excel and Text file from Client servers. 
+
+· Improvement in ETL process by improving query performance at backhand using various performance techniques Handled Performance Tuning and Optimization on SSIS packages, with strong analytical and troubleshooting skills for quick issue resolution in large-scale production environments located globally.
+
+· Involved in creation/review of functional requirement specifications and supporting documents for business systems, experience in database design process and data modeling process.
+
+· The packages created included a variety of transformations, for example Slowly Changing Dimensions, Look up, Aggregate, Derived Column, Conditional Split, Fuzzy Lookup, Multicast and Data Conversion. 
+
+· Reviewed & Tested packages, fixing bugs (if any) using SQL 2005 Business Intelligence Development Studio
+
+Wipro Technologies -Shell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technologies used: SAP BO , SQL
+
+Project Summary
+
+The project involves BI4 Webi Report development with Universe as a Data Provider.  
+
+The reports are developed in Business Intelligence 4 environment. Shared Costs processing engine is an essential component of the Global Charges Team. It is used for Downstream Business Allocations. The reporting Cycle is Quarterly and with SAP Bi4.0 implementation which is aimed to automate the entire reporting process
+Roles & Responsibilities
+
+· Employed various Performance Optimization of reports through Stored procedures and Views.
+
+· Worked on Reporting features such as sort, break, alerter, formula, inputcontrols, hide, sections, outline, drilldown.
+
+· Worked On Universe and 15 reports around.
+
+· Meeting with clients for functional requirement gathering.
+
+Fixing bugs and defects in reports.
+EDUCATION DETAILS
+Master in Computer Application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VTU University, Karnataka
+
+Bachelor of Computer Application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Karnataka University, Dharwad
+PERSONAL DETAILS
+Date of Birth: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+09 Dec 1987
+Sex: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Female
+
+Marital Status: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Married
+Languages Know:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kannada,English, Hindi, Marathi
+
+Permanent Address:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kelageri Anjaneya Nagar,2nd cross,Dharwad.
+Interest:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dancing,Cricket, Exploring Software via Digit.    
+
+ACHIEVEMENTS
+
+Organized Quester 2008 – College Level Technical Fest as a Technical Head
+
+Organized Quester 2010– College Level Technical Fest as a Technical Head
+

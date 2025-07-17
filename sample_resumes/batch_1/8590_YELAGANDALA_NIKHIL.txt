@@ -1,0 +1,188 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULAM VITAE
+
+	RESUME
+
+YELAGANDALA NIKHIL						      
+Mobile : 7382101117					e-mail : nikhil.yelagandala@gmail.com
+   												      
+Career Objective:
+Greatly enthusiastic to work with an organization where my skills are utilized effectively and helps me in enhancing my career. Keen in learning new things and adapting to new environment quickly.
+Professional Summary:
+· Having 2 year of software professional experience in SQL, PL/SQL programming and Database Administrator.
+· Currently working on Solix database tool for application migration and Archiving as database administrator.
+· Trained in GRC domain.
+· Having experience in working with DML, DDL, TCL and DCL statements.
+· Having solid knowledge in writing SQL queries.
+· Good in writing various join queries like self-join, equi-join, natural join and outer joins (left, right and full).
+· Good in writing CTAS queries.
+· Good in writing analytical queries using various analytical functions.
+· Good in writing dynamic sql statements.
+· In-depth knowledge in writing medium and complex queries using joins, sub-queries and grouping.
+· Good knowledge in creating Tables, Indexes, Views, Synonyms and Sequences.
+· Having solid knowledge in writing Nested Tables, vArrays, Records and collections.
+· Good knowledge in writing Cursors, REF Cursors & Exception handling in subprograms and packages.
+· Worked on Installation of the Test and Development databases when needed.
+· Experienced in Planning, Installation and Configuration, Administration and Maintenance of Oracle Database 11g and 12c releases.
+· Day-to-Day DBA Activities like FS Space management, Tablespace management and fixing backup failures.
+· User management, Creating users, roles, profiles, assigning roles and profiles to users.
+· Taking logical backups and performing schema refreshes using Data Pump and exp /imp.
+· Setting up the Crontab jobs for automatic backup of required schemas in particular database.
+· Providing On-call support in out of office hours and worked in all types of shifts.
+· Highly motivated individual with proven ability to learn fast and work well under pressure.
+· Strong debugging and problem-solving skills with excellent understanding of system methodologies, techniques and tools.
+· Having good aptitude, analytical and programming capabilities.
+Technical Skills:
+Operating System	: Windows.
+Languages		: DBA,SQL, PL/SQL
+RDBMS		: Oracle 11g
+Products		: Metric Stream GRC product, Solix Database tool
+Office Tools	: MS PowerPoint, MS-Office
+Educational Qualifications:
+
+	Course
+	College / University
+	Year of passing
+	Percentage
+
+	B.Tech(ECE)
+	C.V.R College of Engineering ,JNTUH
+	2015
+	82%
+
+	Intermediate
+	Vignan Junior College, Hyderabad
+	2011
+	95.1%
+
+	S.S.C
+	Vamshi Telugu vishwa vidhyalayam ,  Bodhan
+	2009
+	93.33%
+
+
+Work Experience:
+Worked as a Member of Technical Staff in Metric Stream InfoTech Pvt Ltd, Bangalore from June 2015 to May 31st 2016.
+Currently Working as a Trainee - Software Engineer at Solix Technologies, Hyderabad since May 2017.
+Project Details:
+Project 1
+Project			:  RCSA
+Client			:  GE Capital
+Role			:  PL/SQL Developer.
+Tools/Applications used	:  Sql Developer, Metric Stream GRC product
+Technologies		:  Oracle Pl/Sql, Sql, Java Script, UNIX
+Duration			:  December 2015 – March 2016
+Description:
+GE Capital provides commercial lending and leasing, as well as a range of financial services for health care, media, communications, entertainment, consumers, real estate, and aviation. GE Capital focuses primarily on loans and leases that it underwrites to hold on its own balance sheet rather than on generating fees by originating loans and leases, then selling them to third parties. Most of GE Capital's commercial loans are to small and mid-sized companies, spread across multiple industries and geographies and secured by tangible assets.
+Roles and Responsibilities:
+· Involved in creation of tables, indexes, views, sequences etc. as per design document
+· Creation of integrity constraints as per business rule.
+· Involved in writing stored procedures, functions, packages and triggers for current project.
+· Testing of PL/SQL programs.
+· Implemented cursors, exceptions and collection in some of stored procedures.
+· Have used UNIX commands to run and edit the scripts.
+Project 2
+Project			: Standard Chartered Bank
+Client			: Standard Chartered Bank
+Role			: PL/SQL Developer.
+Tools/Applications used	: Sql Developer, Metric Stream GRC product
+Technologies		: Oracle Pl/Sql, Sql    
+Duration			: March 2016 – May 31st 2016
+Roles and Responsibilities:
+· Involved in creation of tables, indexes, views, sequences etc as per design document
+· Creation of integrity constraints as per business rule.
+· Involved in writing stored procedures, functions, packages and triggers for current project.
+· Testing of PL/SQL programs.
+· Implemented cursors, exceptions and collection in some of stored procedures.
+Project 3
+Project			: Simultaneous Setup
+Client			: Terex
+Role			: DBA.
+Tools/Applications used	: Solix tool and database
+Technologies		: Oracle Pl/Sql, Sql and DBA activity.    
+Roles and Responsibilities:
+· Involved in creation of  Tablespaces, users and privileges
+· Export and Import of schemas from UAT instance to prod instance.
+· Creation of DB links and dump directories.
+· Creation of Synonyms.
+· Compilation of all invalid objects after import.
+· Running the PL/SQL programs given by developers in respected schemas.
+Project 4
+Project			: Simultaneous Setup
+Client			: Broadcom
+Role			: DBA.
+Tools/Applications used	: Solix tool and database
+Technologies		: Oracle Pl/Sql, Sql and DBA activity.    
+Roles and Responsibilities:
+· Involved in creation of  Tablespaces, users and privileges
+· Export and Import of schemas from UAT instance to prod instance.
+· Creation of DB links and dump directories.
+· Creation of Synonyms.
+· Compilation of all invalid objects after import.
+· Running the PL/SQL programs given by developers in respected schemas.
+Project 5
+Project			: GOLD (CLONING)
+Client			: DHL
+Role			: DBA.
+Tools/Applications used	: Solix tool and database
+Technologies		: Oracle Pl/Sql, Sql and DBA activity.    
+Roles and Responsibilities:
+· Involved in creation of  Tablespaces, users and privileges
+· Creating the Directories required for binaries and data files.
+· Running the adprecolne.pl on dbTier and appsTier.
+· Creating the Target xml file for cloning by running adclonectx.pl. 
+· Export and Import of schemas from UAT instance to prod instance.
+· Creation of DB links and dump directories.
+· Creation of Synonyms.
+· Compilation of all invalid objects after import.
+· Running the PL/SQL programs given by developers in respected schemas.
+

@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sachin Gajanan Devkar 
+
+26/B Wing, 3
+rd
+
+ Floor, Panchshil Apt-A, Near Ganesh Mandir, Yashodhan Nagar, Thane (W)-400606. 
+Contact No: - 7710005477 / 9503232677 Email ID: - sachindevkar@hotmail.com 
+
+ 
+
+Summary 
+ 
+
+• 4.7+ Year experienced dynamic professional in Software/Web Development. 
+
+• I have worked during various phases of SDLC such as Requirements and Analysis, Design and 
+Development. 
+
+• Good Exposure to VB.NET, C#.NET, ASP.Net, MVC.Net, HTML, CSS, JavaScript, JQuery and SQL 
+SERVER. 
+
+• Ability to adapt quickly to challenges and changing environment. 
+
+• Technology savvy with aptitude and experience in adopting modern methodologies and innovative 
+techniques to boost work efficiency. 
+
+• Excellent exposure of client interaction. 
+
+• Ability to Work effectively as an Employee also hardworking and flexible.    
+
+ 
+
+Technical Skills 
+ 
+
+Languages  : C, C++, C#.Net, VB.Net, Asp.Net, MVC.Net 
+
+Environment  : Visual Studio 2005, 2008, 2010, 2012 & SQL Server 2008, 2010, 2012, 2014 
+
+Web Technology : HTML 5, CSS 3, XML, JavaScript, JQuery. 
+
+Database  : MS-SQL, MS-Access. 
+
+Operating System : Windows XP, Vista, Windows 7, Windows 10. 
+
+ 
+
+Education Qualification 
+ 
+ B.E. in Computer Science Engineering University of Dr. Babasaheb Ambedkar Marathwada University, 
+
+Aurangabad, 63.33% in 2013. 
+
+ Diploma in Computer Engineering University of MSBTE, 62.33% in 2009. 
+ H.S.C. Mumbai, 42.00% in 2006. 
+ S.S.C.  Maharashtra Board for Secondary & Higher Secondary Education, Second Class (52.00%) in 2004. 
+
+ 
+
+Work Experience 
+ 
+
+Company  : HDFC Bank Ltd.  
+
+Designation  : Assistant Manager (IT-BTG Operation Department) 
+
+Duration  : Dec 01, 2016 to Till Date.  
+
+ 
+
+Project  : i-Approval Application. 
+
+Front End  : MVC with C#.Net, HTML, CSS, JavaScript, JQuery. 
+
+mailto:sachindevkar@hotmail.com
+
+
+Back End  : SQL Server 2014. 
+
+Role & Description    : This is FPN (Funding Proposal System) Application which is in development 
+
+stage. This is used to raise a new fund request for any new project, fund might 
+
+be for new infrastructure or new IT server-Infra or for a vendor. My role is as 
+
+team lead and I design complete UI in HTML 5 by using CSS3, JavaScript & 
+
+JQuery also created various model in MVC architecture to connect SQL Server 
+
+database. 
+
+Project  : i-SAC Application. 
+
+Front End  : MVC with C#.Net, HTML, CSS, JavaScript, JQuery. 
+
+Back End  : SQL Server 2014. 
+
+Role & Description    : This is Integrated System Access Control Application which was completed & 
+
+deployed successfully. This application is used to raise a new ticket for ID 
+
+creation, ID modification or ID deletion. Over 600+ applications are used in 
+
+bank for various purpose, to create, modify or delete access from any 
+
+application for user he need to raise a ticket in that system, My role was UI 
+
+developer also developed client side validation using JavaScript and JQuery, 
+
+Also worked on controller part of system which is responsible to process data 
+
+between UI and SQL database. Currently little enhancements are coming from 
+
+product team and we are developing accordingly. 
+
+Project  : e-Collection Master System. 
+
+Front End  : MVC with C#.Net, HTML, CSS, JavaScript, JQuery. 
+
+Back End  : SQL Server 2014. 
+
+Role & Description    : This is client master maintenance web application. In that our internal users 
+
+will maintain bank’s clients who request for customized MIS. In this 
+
+application our clients can directly login to see dashboard & download daily 
+
+MIS report.  
+
+Project  : e-Collection MIS System. 
+
+Front End  : C#.Net WCF Service & Scheduler. 
+
+Back End  : SQL Server 2014. 
+
+Role & Description    : In this application WCF Service fetches the transaction record from main 
+
+system to our system & Caller scheduler access fetched records from our 
+
+system and generates the MIS according to client’s requirement which was 
+
+maintain or configured in e-Collection Master system. 
+
+ 
+
+Company  : Euronet Worldwide India Pvt Ltd.  
+
+Designation  : Sr. Software Engineer 
+
+Duration  : Mar 08, 2016 to Nov 28, 2016.  
+
+ 
+
+Project  : E-Service & EWIDT Application. 
+
+
+
+Front End  : Asp.Net with C#. 
+
+Back End  : SQL Server 2014. 
+
+Role & Description    : Give support to Clients (i.e. Banks) & our in-house team, by working on the           
+
+backend SQL Server 2014. Make change as per in-house team, generate SQL 
+
+jobs for reports. 
+
+ 
+
+Company  : HexaTech IT Ventures Pvt Ltd. 
+
+Designation  : Software Programmer 
+
+Duration  : May 11, 2015 to Mar 03, 2016. 
+
+ 
+
+Project  : E-Skin. 
+
+Front End  : Asp.Net with C#. 
+
+Back End  : SQL Server 2008 R2. 
+
+Role & Description    : E-Skin is web based application developed for skin specialist doctor. In that 
+
+patient registration & appointment booking part was done by me. I had also 
+
+worked on patient prescription form. 
+
+Project  : MediSmart. 
+
+Front End  : Asp.Net with C#. 
+
+Back End  : SQL Server 2008 R2. 
+
+Role & Description    : MediSmart is web based hospital management application. In that patient & 
+
+doctor registration module, morgue module was done by me. I had also 
+
+developed all medical certificates in Microsoft rdlc reports. 
+
+Project  : MediPatho. 
+
+Front End  : VB.Net. 
+
+Back End  : SQL Server 2008. 
+
+Role & Description    : MediPatho is windows based pathology management application. In that 
+
+doctor & ref doctor registration module, pathology test master module was 
+
+developed by me. I had also developed some pathology reports in crystal 
+
+reports. 
+
+ 
+
+Company  : Vajra Tech Services Pvt Ltd. 
+
+Designation  : Software Engineer 
+
+Duration  : Nov 23, 2013 to Jan 31, 2015. 
+
+ 
+
+Project  : ManageSchool. 
+
+Front End  : VB.Net. 
+
+Back End  : SQL Server 2005. 
+
+
+
+Role & Description    : ManageSchool is school management software. Here I developed user 
+
+registration, user role module, student & staff registration. Student fess 
+
+collection module & fee receipt in crystal report. 
+
+ 
+
+Project  : ManageStore. 
+
+Front End  : VB.Net. 
+
+Back End  : SQL Server 2005. 
+
+Role & Description    : ManageStore is also windows based application. This is specially design for 
+
+garment store. Here I did sales and purchase module & maintain stock 
+
+inventory. Generate sales receipt in crystal report. Then worked on Report 
+
+module where we can generate daily-weekly-monthly-yearly sale & purchase 
+
+reports. 
+
+Project  : Manage Advertise. 
+
+Front End  : C#.Net. 
+
+Back End  : SQL Server 2005. 
+
+Role & Description     : ManageAdvertise is windows based advertising agency application. In that I 
+
+had developed visitor & enquiry registration module, generate quotation for 
+
+coming enquiry was also developed by me.  
+
+Project  : Manage Cheque. 
+
+Front End  : C#.Net. 
+
+Back End  : SQL Server 2005. 
+
+Role & Description     : ManageCheque is windows based cheque printing application. In that I had 
+
+developed cheque print module, as per client’s requirement we create cheque 
+
+layout in crystal report. 
+
+Projects / Seminars 
+ 
+
+Project  : Touch Screen Based on Public Information System. 
+
+Front End  : VB.Net 
+
+Back End  : MS Access 2007. 
+
+Role & Description    : This application takes input from user as just touch & gives quickly all 
+
+information of all related public sectors. 
+
+Project  : Collage Web Portal & Management System. 
+
+Front End  : ASP.Net with C#, HTML & CSS. 
+
+Back End  : MS SQL 2005. 
+
+Role & Description    : This is dynamic website of college along with management functionality which 
+
+has Admin & Users login module, employee registration & student registration 
+
+module. Hence it makes very interactive & efficient college Web portal & 
+
+management system.  
+
+
+
+Other Technical Knowledge 
+
+ 
+ Knowledge of Computer Hardware & Networking. 
+
+ Knowledge Installation of CCTV Camera. 
+
+Extra – Curricular Activity 
+ 
+ Passed the Elementary Grade Drawing Examination held in year 2001 by Government of Maharashtra. 
+
+ Passed the National Level Handwriting Competition Held by Maharashtra Art-Sport Academy during 
+
+the year 2004-2005. 
+
+ Got the First Rank in Poem Writing Competition Held by Dharmvir Aanad Dighe Saheb’s, Shivniketan 
+
+Trust’s, Bhartiya Sainiki Vidhyalay in year 2004-2005. 
+
+ Got the First Rank in Drawing Competition Held by Dharmvir Aanad Dighe Saheb’s, Shivniketan Trust’s, 
+
+Bhartiya Sainiki Vidhyalay in year 2004-2005. 
+
+ Got the Frist Rank in Poem Competition in Annual Gathering of N.H College Of Engineering during the 
+
+year 2011-2012. 
+
+ Got Silver Star Award in HDFC Bank Ltd for period of January – April 2017. 
+
+ Got Gold Star Award in HDFC Bank Ltd for period of October –December 2017.  
+
+ 
+Hobbies 
+ 
+ Playing Volleyball & Carom, Swimming & Traveling, Drawings & Making Poems. 
+
+ 
+
+Career Objective 
+ 
+ To grow professionally with a progressive organization which will help me to explore fully, to realize 
+
+my potential & establish as a knowledgeable person. Willing to work as a key player in challenging & 
+
+creative environment. 
+
+ 
+
+Declaration 
+ 
+I hereby declare that above information is true to the best of my knowledge & belief & nothing has been 
+concealed herein. All the documents in original/attested copy will be produced whenever required.  
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Sincerely, 
+
+Place: Thane.                    Date:  
+
+           Mr. Sachin Gajanan Devkar. 
+
+

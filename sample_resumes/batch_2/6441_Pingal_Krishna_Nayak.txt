@@ -1,0 +1,298 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Name:Pingal Krishna Nayak .  	 
+Email: pingalknayak@gmail.com
+Mobile: 9789926552
+ 
+SUMMARY 
+ 
+· Over 3 years of IT experience. 
+· IBM AS400 professional. 
+· Proficient in AS400 Environment - RPG, RPGLE, CL and CLLE. 
+· Experience of leading the production support  & Maintenance. 
+· Have worked extensively in AS400 Environments and as well as managed a project activities. 
+ 
+ 
+TECHNICAL SKILLS 
+ 	 
+	Operating System 	 
+	Windows XP and 7,OS/400 
+
+	Programming Languages 
+	RPG/400,RPG ILE,CL 
+
+	Databases & Tools 
+	DB2/400 
+
+	Software Technologies 
+	AS400 
+
+	Business Area 
+	P& C Insurance 
+
+	 Tools 
+	THENON, TURNOVER, ROBOT, Query/400, SQL/400, PDM, SEU, DFU,RLU  
+
+
+ 
+EMPLOYMENT HISTORY 
+ 
+	Name of the Company 
+	Designation 
+	From 
+	To 
+
+	Cognizant Technology Solutions, Chennai 
+	Jr. Product Specialist 
+	08-July-2014 
+	Till Date 
+
+
+ 
+EDUCATION 
+ 
+	Degree  
+	College/University 
+
+	BE in Electronics  & Control 
+	Sathyabhama Universit
+
+
+ 
+CERTIFICATION AND ACCOLODATES 
+ 
+· Completed General Insurance . 
+· Completed P& C Insurance certification    Awarded star of the quarter Q’1 2016.  
+· Received Appreciation from client for outstanding performance and Effort.
+       
+
+EXPERIENCE SUMMARY 
+
+Project #1 
+
+PROJECT PROFILE  
+ 
+	Project Title 	 
+	Meridian Reinsurance country code expansion (Chubb Insurance) 
+
+	Duration 
+	Jan 2015 – June 2015 
+
+	Location 
+	Cognizant Chennai, India 
+
+	Programming Languages/ Solution Environment 
+	RPGLE,RPG/400,CLP,DB2/400,Thenon,SQL/400,Query/400 
+
+	Version Management & Bug Reporting 
+	Service center 
+
+	Tools
+	Thenon & Robot
+
+	Product 
+	Meridian
+
+	Role
+	Developer
+
+
+ 
+
+Meridian was bought by Chubb Insurance company of North America in Belgium in 1982 as a replacement for the then existing mainframe system and a development team was setup along with a German house. It was created for the lines of business which did not have portfolio management and later went on to be used as a generic policy/claims registration system for all lines (except life). Technology of Meridian was initially S/34, and has moved through S/36, AS400 and iSeries hardware over time. Code is mixture of RPG II, RPG III, RPG IV, and RPG ILE with some COBOL thrown in. Meridian accounting module provides data capture for General Ledger and multiple currency handling and reporting, performs data processing, Expense allocations, and Accounts receivable/Payable Sub Ledgers. 
+ROLES AND RESPONSIBILITIES IN THE PROJECT  
+
+1. To design and develop the uneven module 
+2. To perform unit testing and document the same  
+3. To provided UAT & Implementation support
+4. System Monitoring to make sure business critical batch & interactive jobs running good in AS400. 
+ 
+1) Reinsurance company code code 
+1. To identify the flaws in Reinsurance code and fine tune the data sent from Meridian system to the warehouse.    
+2. To perform unit testing and document the same. 
+2) Korea Local line of business 
+1. To design and develop new local lines of business for Korea, and generate report for the Korea business unit. 
+2. To perform unit testing for Korea local line of business. And also to document the test case.  
+3. To provide implementation plan and support to move the same into production. 
+
+Project #2
+
+PROJECT PROFILE  
+ 
+	Project Title 	 
+	Genius and Meridian Environment management(Chubb Insurance) 
+
+	Duration 
+	July 2015 – Nov 2015 
+
+	Location 
+	Cognizant Chennai, India 
+
+	Programming Languages/ Solution Environment 
+	RPGLE,RPG/400,CLP,DB2/400,Thenon,SQL/400,Query/400 
+
+	Version Management & Bug Reporting 
+	Service manager 
+
+	Product
+	Meridian and Genius
+
+	Tools
+	Thenon & Robot
+
+	Role
+	System Manager
+
+
+
+
+PROJECT DESCRIPTION 
+ 
+Chubb having a Global presence in many countries, with 24 countries coming under Genius and 17 countries coming under Meridian. There was setup a dedicated team to create and manage development environment required for ongoing development projects. Team was tasked starting from creation and management of SY, UA and QA environments, providing specific access to developers, testers and BA’s as per requirement, setting up of batch Jobs and various other system maintenance requirements.
+
+ROLES AND RESPONSIBILITIES IN THE PROJECT  
+ 
+1. To create and maintain Genius and Meridian environments.
+2. To maintain system integrity and Access management.
+3.    To setup Robot jobs as per the requirement.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project #3
+ 
+PROJECT DETAILS 
+
+	Project Title 	 
+	Genius Maintenance (Chubb Insurance) 
+
+	Duration 
+	Dec 2015 – Till now 
+
+	Location 
+	Cognizant Chennai, India 
+
+	Programming Languages/ Solution Environment 
+	RPGLE,RPG/400,CLP,DB2/400,Thenon,SQL/400,Query/400 
+
+	Version Management & Bug Reporting 
+	Service now 
+
+	Product
+	Genius
+
+	Role
+	Support & Maintenance
+
+	Tools                         
+	Thenon & ROBOT
+
+
+
+ 
+PROJECT DESCRIPTION  
+GENIUS is GENeral Insurance Underwriting System is a core Insurance Registration System with Policy Life-Cycle Management, Underwriting and Claims developed by Xchanging (Xuber). Genius is a highly configurable system designed to handle the Client Customized Insurance business portfolio. Genius runs on the predefined business rules that streamline the business operations for a Global Insurance organization. Core Genius System comprises of separate subsystems like Underwriting, Claims and Accounts. Additional Subsystems – Name& Address, Diary, Enquiry, Reporting and Statistics complement the core functionalities.  
+ROLES AND RESPONSIBILITIES IN THE PROJECT 
+1) Support Activity & Change Requests 
+ 
+1. System Monitoring to make sure business critical batch & interactive jobs running good in AS400. 
+ 
+
+	
+	Personal Information 
+
+	  Date Of Birth 
+
+	:  30-03-1992. 
+ 
+
+	Father Name 
+	: Laxmidhar Nayak. 
+ 
+
+	Nationality 
+	: 	Indian. 
+ 
+
+	Address 
+ 	 
+	: C/o Laxmidhar Nayak, House no S1, Dsquare darshini flats,
+	 
+                          cKulothungan street, Chitlapakkam, Chennai- 600064.
+
+	 
+Hobbies 
+	
+: Reading Novels, Constructing Electronic Circuits
+
+	Language Known 
+ 
+	: Odiya, English, Hindi, Bengali, Bhojpuri 	 
+
+	
+	Declaration 
+
+
+ I hereby declare that the information given is true to the best of my knowledge. 
+  	 	 	 	 	 	 	 	 	 	Pingal Krishna Nayak 
+ 
+ 
+ 
+ 
+ 

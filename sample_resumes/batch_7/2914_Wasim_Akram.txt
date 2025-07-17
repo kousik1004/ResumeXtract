@@ -1,0 +1,560 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAVNEET KAUR SHERGILL
+
+
+Wasim Akram  
+Quraishi Mohalla, Railpar, Asansol, 713302 
+
+Contact: 9333822044, 7908427848 Email: wasimakramamie@gmail.com Date of Birth: 05.05.1988  
+
+SOFTWARE DEVELOPER .NET PROFESSIONAL – IT INDUSTRY 
+Offering 4.9  years of rich and diversified experience; seeking challenging assignments across the industry 
+
+SUMMARY OF SKILLS 
+ 
+
+ Technically competent professional with experience in Software Development, Web application development and API 
+
+Development, Data Base Design in MSSQL.   
+
+ Proficient in technologies like c#, asp.net, MVC4, ADO.NET,VB.Net, AJAX, JSON, JQUERY, HTML5,CSS3,BOOTSTRAP & 
+
+database design techniques and documentation. Skilled in swiftly ramping up projects with competent cross-functional skills 
+
+and ensuring on-time delivery within pre-set parameters. 
+
+ Well versed in analysing the web application, functional design, and development.  
+
+ Well equipped with MVC4 with ADO.net  
+ Proven ability in quick understanding and learning of new technologies and their application in business solutions 
+ Excellent ability to plan, organize and prioritize my work to meet every deadline on time and keep customer satisfaction 
+
+index at the highest possible level 
+
+ Good analytical and problem solving skills with excellent understanding of system development methodologies, techniques 
+
+and tools. 
+ 
+
+Core Competencies 
+
+Project Management  Software Development with custom requirement  Debugging  Code Management  Bug Free 
+
+Code Interoperability  Software Quality  Product Management  Requirement Gathering  Bug Tracking  
+
+Documentation and Reporting  Liaising & Coordination   
+ 
+
+Technical Skills Set 
+
+Technologies C#,ASP.NET,MVC4.2,ADO.NET,MSSQL,VB.NET,AJAX,HTML5,CSS3,BOOTSTRAP,API,GEOCODE,GOOG
+
+LE API 
+
+Development Tools Visual Studio 2015,2013,2012,2010,2008 ,SQL Server Management Studio 2012,2008 
+
+RDBMS Microsoft SQL Server 2012 
+
+Language C#,C, SQL 
+
+Operating System Windows 2010,2008,2007,XP 
+
+Hosting Management Plex server dedicated, remote server IIS 8,Reseller Plex and Shared Hosting 
+
+ 
+
+Areas of Expertise 
+
+ MVC4 with C# for web application development 
+
+ Development web application like cab booking, service provider, Tour and Travel, Real State websites, CMS website , CRM 
+
+website, Online Exam 
+
+ Development desktop application like Stock Management System, Document Management System, Medical Store 
+
+Management System, Billing System with Accounts, Diagnostic Centre Billing System 
+
+ Database design for response minimum time 
+
+ Good knowledge in AJAX and JQUERY,JAVA SCRIPT,HTML5,Bootstrap,CSS3 
+
+ 
+EDUCATIONAL QUALIFICATION 
+ 
+
+Chartered of Engineering in Computer Science and Engineering, 2016  
+
+Institution of Engineers (India) (IEI) 
+
+Diploma in Computer Science and Technology, 2011 
+
+Kanyapur Polytechnic, Asansol, 713305 
+
+ 
+PROFESSIONAL EXPERIENCE 
+
+Have total experience of 4 years and 9 month in software development field 
+
+ 
+
+ 
+
+
+
+ 
+
+Company Name Duration 
+
+I Global Impact Ites PVT LTD Dec 2015 – till Now 
+
+Swadesh Software Pvt. Ltd May 2015- Nov 2015 
+
+Wingz Infotech May 2014-May 2015 
+
+Tech Unicorn Feb 2013-april 2014 
+
+ 
+
+.Net Developer 
+ 
+
+ Lead developer in window application and web application. 
+
+ Worked in window application using C# and web application using MVC with C#. 
+
+ Coordinate with the team members; allocating resources among team members and guiding them till the final delivery. 
+
+ Holding review meetings to monitor progress of the project as per schedule, and ensuring timely completion & delivery of 
+
+the project to the client. 
+
+ Responsible for Requirement Analysis by interacting with the client, Design, Module Management. 
+
+ Ensuring product delivery on time while adhering to quality assurance and conducting root cause analysis for defects in 
+
+certified release.  
+
+PROJECT PROFILE 
+
+Project 1: 
+
+Title:   Efare (www.efare.us) Cab Booking 
+
+Client Location:  Iinternational USA 
+
+Technology:  Microsoft Visual Studio 2012, SQL Server 2008, MVC 4, Bootstrap, HTML 5, CSS, JavaScript,Jquery 
+
+Description: 
+
+                      
+
+This is a cab booking website with user sign up, login, profile manage; add driver, online booking cab and lots of features. it is also 
+
+connect with mobile app through api. Mobile and website data is synchronize, for this reason mobile user can login and manage 
+
+booking and all others things via website. Payment gateway PayPal is integrated.  
+
+ 
+
+Role:    Development Team Member 
+
+ Guide and support the team in development. 
+
+ Conducted manual test execution and prepared the deliverable like Bug Report. 
+
+ Handel the google geo code and google api to pinpoint the map and location with lat and long. 
+
+ Payment gateway PayPal express checkout is integrated.  
+
+ Involved in Api development (JSON Return api for IOS and Android Developer) 
+
+Project 2: 
+
+ 
+
+Title:   Tesla One Way (www.Tesla1way.com) Cab Booking 
+
+Client Location:                 USA 
+
+Technology:  Microsoft Visual Studio 2012, SQL Server 2008, MVC 4, Bootstrap, HTML 5, CSS, JavaScript, query 
+
+Descriptions: Tesla is one of the famous car services, in this website three types of user driver, company, passenger, 
+
+and children and also a super admin. Cab booking is available with manually select driver and also 
+
+automatic select driver. Driver can sign up with in any company, company can approved the driver. Also 
+
+admin can add driver. Similarly parent and child relation is applicable. It has also api because this 
+
+website has an android app in play store. 
+
+Role: Development Team Member 
+
+ Handel the google geo code and google api to pinpoint the map and location with lat and long. 
+
+ Square payment gateway and PayPal express checkout is integrated. 
+
+ JSON Return Api for IOS and Android Developer 
+ 
+
+Project 3: 
+
+Title:   Express Home (www.expresshome.co.uk) Various Kind Of Services 
+
+Client Location:  UK based  
+
+Technology:  Microsoft Visual Studio 2012, SQL Server 2008, MVC 4, Bootstrap, HTML 5, CSS, JavaScript, Jquery. 
+
+Descriptions: This is a high end project with lots of feature in it . it is made with the reference website 
+
+www.quiqup.com this website has an super admin and sub admin. Basically it is a service and delivery 
+
+oriented website like courier services, cleaning services, laundry and also different services. 
+
+ 
+
+
+
+ 
+
+Role:                      Project Lead  
+
+ Lead Developer in Development. 
+
+ Carried out the initial study of the application. 
+
+ Involved in requirement analysis, feasibility analysis, and module design. 
+
+ Involve in research and development. 
+
+ Square payment gateway PayPal express checkout is integrated. 
+
+ Also involved in development with other team members 
+ 
+
+Project 4: 
+
+Title:   Lingaru (Lingaru.com) Restaurant Management System 
+
+Client Location  UK 
+
+Technology:  Microsoft Visual Studio 2012, SQL Server 2008, MVC 4, Bootstrap, HTML 5, CSS, JavaScript, Jquery. 
+
+Description: This is a high-end restaurant management system, here guest can order their food according to their 
+
+dish, also it has an admin panel for manage the whole system.it has a super admin to control the sub 
+
+user and admin. Guest can update his/her profile and set the favourite dishes, lots of feature and 
+
+functionality is there. 
+
+Role:   Project Lead 
+
+ Carried out the initial study of the application. 
+
+ Involved in requirement analysis, feasibility analysis, and module design, module division. 
+
+ Also involved in development with other team members. 
+ 
+
+Project 5: 
+
+Title:   Nude Dinner (www.nudedinner.com) Restaurant Management System 
+
+Client Location:  UK 
+
+Technology:  Microsoft Visual Studio 2012, SQL Server 2008, MVC 4, Bootstrap, HTML 5, CSS, JavaScript, Jquery. 
+
+Description: Online dating site that involve online chatting system with the members. Here member can search 
+
+partner for dating 
+
+Role:   Team Member 
+
+ Chatting module integration with signal R. 
+
+ Involved in development with other team members on different modules. 
+
+Project 6: 
+
+Title:   KODAK EXPRESSES ANGEL (www.kodakexpressngel.com) Photo printing solution 
+
+Client Location:  USA 
+
+Technology:  Microsoft Visual Studio 2012, SQL Server 2008, MVC 4, Bootstrap, HTML 5, CSS, JavaScript,Jquery 
+
+Description: Online photo printing web application. Where customer can upload their pictures with editing and 
+
+can order for printing for different size. The printed photos would be either delivered or can be 
+
+collected from the store. 
+
+ 
+
+Role:    Project Lead 
+
+ Carried out the initial study of the application. 
+
+ Involved in requirement analysis, feasibility analysis, and module design. 
+
+ Involved in development of website. 
+
+Project 7: 
+
+Title:   Aim Support Online  Online exam solution 
+
+Client Location:  USA 
+
+Technology:  Microsoft Visual Studio 2012, SQL Server 2008, MVC 4, Bootstrap, HTML 5, CSS, JavaScript, Jquery 
+
+Description: Online exam portal. Where registered students can give online semester or course exam. That also 
+
+involved face reorganization. 
+
+ 
+
+Role:    Team member 
+
+ Carried out the initial study of the application. 
+
+ Involved in requirement analysis, feasibility analysis, and module design. 
+
+ Involved in development of online exam part, Database design. 
+
+ Involve in the creation of masters in admin panel. 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Project 8: 
+
+Title:   E-Buy n Sell (www.ebuynsell.com) Online Shopping System 
+
+Client Location:  India 
+
+Technology:  Microsoft Visual Studio 2012, SQL Server 2008, MVC 4, Bootstrap, HTML 5, CSS, JavaScript, query 
+
+Description: Online shopping solution. Where seller and buyer can register themselves. Buyer can contact with the 
+
+seller for ordering product. Buyer can see online seller and can chat with them. 
+
+ 
+
+Role:    Team member 
+
+ Involved in some modules in development. 
+
+ Involved in testing and bug fixing. 
+
+Project 9: 
+
+Title:   Document Management System  
+
+Client Location:  Ghana 
+
+Technology:  Microsoft Visual Studio 2012, SQL Server 2008, C# 
+
+Description: Document Management System is a power full desktop application for tracking the versions of file. It 
+
+includes the full tracking system for file modifications. 
+
+Role:    Team member 
+
+ Involved in some modules in development. 
+
+ Involved in testing and bug fixing. 
+
+ Chat system integration 
+
+ Graphical representation of file movement. 
+
+Project 10: 
+
+Title:   Stock Management System 
+
+Client Location:  India 
+
+Technology:  Microsoft Visual Studio 2012, SQL Server 2008, C# 
+
+Description: Stock Management System is a power full desktop application for tracking stock in and out. Purchase 
+
+order tracking, Sales and invoice creation. Daily report for payment, sales, invoice and payment 
+
+receive. 
+
+Role:    Project Lead 
+
+ Carried out the initial study of the application. 
+
+ Involved in requirement analysis, feasibility analysis, development, and module design 
+
+ Involved in testing and bug fixing. 
+
+ Involved in database design and project development 
+
+Project 11: 
+
+Title:   Medical Store Management System 
+
+Client Location:  India 
+
+Technology:  Microsoft Visual Studio 2012, SQL Server 2008, C# 
+
+Description: Medical Store Management System is a power full desktop application for tracking stock in and out. 
+
+Purchase order tracking, Sales and invoice creation. Daily report for payment, sales, invoice and 
+
+payment receive. 
+
+Role:    Project Lead 
+
+ Carried out the initial study of the application. 
+
+ Involved in requirement analysis, feasibility analysis, development, and module design 
+
+ Involved in testing and bug fixing. 
+
+ Involved in database design and project development 
+
+Project 12: 
+
+Title:   Holidayhaul (holidayhaul.com) Tour and travel solution 
+
+Client Location:  UAE 
+
+Technology:  Microsoft Visual Studio 2012, SQL Server 2008, MVC 4, Bootstrap, HTML 5, CSS, JavaScript, query 
+
+
+
+Description: Holidayhaul is a tour and travel website where user can find their touring places and can book a 
+
+suitable package with different package options . 
+
+Role:    Project Lead 
+
+ Lead Developer in Development. 
+
+ Carried out the initial study of the application. 
+
+ Involved in requirement analysis, feasibility analysis, and module design. 
+
+ PayFort payment gateway integrated. 
+
+ Also involved in development with other team members 
+
+Project 13: 
+
+Title:   Khupho   Realstate Website 
+
+Client Location:  UK 
+
+Technology:  Microsoft Visual Studio 2012, SQL Server 2008, MVC 4, Bootstrap, HTML 5, CSS, JavaScript, query 
+
+Description: Khupho is a real state website where user can find properties with a suitable price, can chat with the 
+
+agents of particular properties. Agent can add properties for selling. 
+
+Role:    Project Lead 
+
+ Lead Developer in Development. 
+
+ Carried out the initial study of the application. 
+
+ Involved in requirement analysis, feasibility analysis, and module design. 
+
+ Chat integration, sticky note  integrated. 
+
+ Also involved in development with other team members 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+ 
+
+

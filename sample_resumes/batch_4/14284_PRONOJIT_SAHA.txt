@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Pronojit_CV2
+
+
+PRONOJIT SAHA 
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ 
+
+TECHNICAL SKILL SET  
+* Predictive Analytics/ Machine Learning (Tree algorithms, Boosting algorithms, Neural Networks/Deep Learning) * Time 
+series analysis, anomaly detection, predictive asset maintenance, text analytics * Big Data Analytics/ML * Streaming Data 
+Analytics * Scrum Master  
+TOOLS KNOWN 
+ Expert Proficiency: Python, Spark (MLLIB/ML, Streaming), Tensorflow (LSTM), R, SQL, Git, Flask 
+ Working Proficiency: HDFS, Kafka, Hive, noSQL(Hbase,MongoDB,Cassandra), Unix Shell, Docker, AWS, Google Cloud 
+WORK EXPERIENCE 
+Position:             Senior Data Scientist, Usha Martin Technologies            Duration: February ’16 – Present 
+Leading small teams, doing presales, architecting end-to-end ML-driven products and getting them live into production.  
+Projects: 
+
+Business Problem  Solution  Result 
+Client (cpg manufacturer) 
+wanted to have a better 
+control over the quality of its 
+products. 
+
+Build predictive models for triangulating process 
+patterns leading to anomalous values in output, 
+using random forests and gradient boosting 
+algorithms. Added a prescriptive step using 
+bayesian optimization providing best combination 
+of input process parameters. 
+
+Model deployed into production using 
+docker containers. The model led to 
+increase in the proportion of products 
+produced within the desired quality 
+range by 72% in a 3-month trial phase. 
+
+Above cpg manufacturer 
+wanted to have a real-time 
+implementation of the model. 
+
+Designed the end-to-end data pipeline and 
+technical architecture. Used Kafka, Spark 
+Streaming, Spark ML, Hbase, node.js. 
+
+Client gets alerted in real time before a 
+process goes out of bounds, hence 
+saving lot of overheads and costs. 
+
+Client (utility company) 
+wanted to have better energy 
+demand forecasts to achieve 
+better balance between 
+demand and supply. 
+
+Used time series techniques like ARIMA & 
+LSTM to model the data. Engineered new 
+temporal features based on data. Final model 
+employed 2-layer stacked LSTM using 
+tensorflow and keras. 
+
+The model generated robust 
+predictions with a final RMSE that 
+was 5 times less than the previous 
+models employed by the client. 
+
+Position:           Data Scientist, Independent Consultant                   Duration: January ’12 – January ’16 
+Worked in small teams and executed 8 projects solving business problems utilizing predictive & text analytics.  
+Projects:    
+
+Business Problem  Solution  Result 
+Client (cpg manufacturer) 
+wanted to predict machine 
+failures in advance to solve 
+the issue of production loss 
+
+Set up a supervised anomaly detection 
+framework. Built ML models addressing extreme 
+class imbalance and implemented final model in a 
+real-time architecture using kafka, spark, Hbase. 
+
+In 2 months of pilot client had only 2 
+failures that went undetected. Thus, 
+capacity utilization went up by 12% 
+and more costs saved in repairing. 
+
+Client wanted an internal 
+chatbot to handle employee 
+queries pertaining to its HR 
+practice. 
+
+Built a HR domain transactional chatbot. Applied 
+NLP techniques to pre-process user queries. 
+Utilized word2vec deep-learning model pre-
+trained on google news corpus to generate word 
+embeddings and resolve user queries. 
+
+The chatbot was deployed as a flask 
+app in a pilot run of 3 months and 83% 
+correct query resolution was achieved. 
+
+Client (financial sector) had a 
+requirement of improving its 
+marketing campaign to attract 
+HNI customers. 
+
+Build a predictive model to segment potential 
+customers using ensemble of gradient boosting 
+and random forest classifiers. 
+
+Client improved it’s marketing ROI by 
+35% based on predicted segmentation, 
+in the 6 months of implementation. 
+
+Client (online platform) 
+wanted to reduce marketing 
+costs in reaching out to 
+exhibition booth workers. 
+
+Built a predictive model to predict the attendance 
+of exhibition booth staffs using gradient boosting 
+algorithm by modeling their behavioral and social 
+media attributes.  
+
+A web app was built using Flask for 
+the final production model. The 
+client’s conversion rates improved by 
+around 205%.   
+
+Client (financial sector) was 
+facing issue of low lead 
+conversion ratios. 
+
+Build a predictive model to predicted the loan 
+disbursal probability of the leads using gradient 
+boosting algorithm. 
+
+High conversion probabilities leads 
+were targeted leading to increase in 
+conversion ratios by 26%.   
+
+Other Positions: 
+Organization Designation Duration 
+Sunshine Agrovet Pvt. Ltd.  Founder February ’09 – January ‘12 
+Firstsource Solutions Ltd.  Senior Executive Operations July ’08 – February ‘09 
+
+EDUCATIONAL QUALIFICATIONS 
+YEAR DEGREE INSTITUTE BOARD / UNIV. RESULTS (%) 
+2008 M.B.A (OR) Indian Institute of Technology - Madras IIT Madras 9.0 (CGPA) 
+2006 B.Eng. (IT) Bengal Engineering and Science University, Shibpur BESU 83% 
+2002 A.I.S.S.C.E. Apeejay School CBSE 90% 
+2000 A.I.S.S.E. Apeejay School CBSE 82% 
+
+Email: pronojitsaha@gmail.com            
+Phone: +91 9831017926 
+Date of Birth: 01st Dec 1983 
+Location: Kolkata, India                   
+ 
+
+

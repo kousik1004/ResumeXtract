@@ -1,0 +1,166 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USER
+
+Rajat Rohan Mitra
+Contact: +917045657499
+E-Mail: rajatrohan.mitra@gmail.com
+Location Preference: Mumbai/Kolkata/Bangalore/Delhi
+Industry Preference: Consulting/IT firms/Data Analytics/Insurance/Re-insurance 
+
+Senior Level Professional
+Data Analytics~ Process improvement~Operations management
+
+Visionary, strategist & achiever with excellence in Data Analytics / Process improvement/ Operations management , with a focus on accomplishing organizational goals & objectives. 
+
+Profile Summary
+MBA, BE (El & TC), LOMA (ALMI) offering over 10 years of experience in :
+
+~ Operations Management			~ Insurance Underwriting                       ~ Business Analytics
+~ Text Analytics				                ~ Fraud Analytics                                        ~ Strategic Planning		
+~ Liaison & Coordination				~ Business Process Improvement         ~ Team Handling
+· Experienced Data Analytics professional with considerable expertise in Business Analytics and Business Process Improvement. Part of the team involved in company wide transformational projects and other operational projects resulting in greater processing efficiency, cost reduction and bottom line improvement.
+
+· Currently heading the analytics team in Xander Finance Pvt Ltd
+
+· Responsible for managing change initiatives and analytics initiatives across the organization
+
+· Handled critical analytics projects with expertise in predictive modeling, text analytics and clustering using R statistical software.
+
+
+· Proficient in handling business process improvement projects
+
+· Prior assignment included heading underwriting, claims and branch coordination at a regional level for all product portfolios and exhibiting leadership for branch operations, skilled in managing 50+ branches and 90+ employees in Eastern India.
+
+
+Notable Accomplishments Across The Career
+· Credited for:
+· Improving renewal persistency of the organization through predictive modeling techniques, bringing down call center costs. 
+· Identifying fraudulent claims using advanced analytics techniques and bringing down claims investigation costs.
+· “Risk score” at underwriting stage where probability of an early death claim was found out.
+· Identifying customers who have a higher probability of surrendering a policy through ensembling techniques resulting in significant revenue retention.
+· Grouping business development managers based on their performance through K means clustering.
+· Categorizing emails into complaints and queries through text analytics  decreasing the TAT of resolution.
+
+Area of Expertise
+· Business Analytics
+· Predictive modelling.
+· Business Process Improvement
+· Operations Management
+
+Organisational Experience
+Since June’18  with Xander Finance Ltd
+AVP Data Analytics & IT
+
+Responsibilities 
+
+· Building predictive deal analytics at various levels of decision making
+· Establishing an ERP System across the Organisation helping to scale up
+
+
+
+
+Organisational Experience
+May’07 to May’18 with SBI Life Insurance Co. Ltd.
+AVP in Projects department at Mumbai
+
+Brief of Key Analytics projects handled :
+Claims fraud model:
+· Predictive fraud model was developed and implemented which provided the likeliness for an early claim to be fraudulent. The challenge faced by the organization was that  it was receiving around 700 early claims on a monthly basis and finding out fraud was completely based on human judgment and experience. This resulted in erroneous payouts or large number of cases being sent for investigation which in turn increased the cost .  The model classified the policies into 'High','Medium' and 'Low' risk on the basis of which cases are sent for investigation. This helped the company in reducing the cost of investigation by 2.5 crores.
+
+Risk score model
+· A predictive model was developed to aid in underwriting. This model was developed with the intention of finding out the probability of early death claim at the underwriting stage. High, medium and low risk levels were categorized and actions were being taken based on the risk level. The same model is being used for already issued cases within three years in order to find out likely cases of frauds and probable early claims.  Sample investigations are done for selected cases. 
+
+Marketing Analytics- Cross Selling and campaign management: 
+· A cross selling model was developed to identify existing customers who can be sold additional products. The model was built to  find out whom to sell (potential customers), what to sell[ products], and how much to sell [ticket size]. For each customer, model gave the probability of purchase for each of the product and ticket size categories. Policy level data, customer level data and campaign management data were used for model building.  The output of this model was manifold. At the organization level, relevant products per customer was found out. Based on this, target campaigns were launched which yielded a better ROI than what was noticed previously. The model also helped in identifying customer product needs and right product mapping for customers.
+
+Renewal analytics model
+· Renewals predictive model was developed to improve renewal collections and customer retention. The model predicted the propensity to pay and categorized policies into 'red', 'amber' and 'green' buckets. It helped in having differential strategies for different buckets bringing down call center cost and improving renewals. With the implementation of this model renewal persistency improved significantly, also cost optimization happened at call center with 145% increase in calling base, expenses increased by only 16%.
+
+Retention analytics
+· Retention prediction model was developed for predicting the policies which might get canceled within one year. Creating a strategy for preventing the policies from being canceled through engagement with customers. 
+· A model was developed to have an early prediction (1 year in advance) for inforce policies that are at the risk of surrender. Ensemble technique (Gradient boosting and random forest) were used to arrive at the prediction model. Separate models were developed for ULIP and Non-ULIP surrenders. Surrender risk buckets were created for very high, high, medium, low and very low probabilities.
+
+Email segregation through text analytics:
+· Auto segregation of emails received from customers by text analytics  into complex queries and queries . Complex queries consists of  probable complaints and critical queries that might become a complaint if not attended urgently. It helped in decreasing the TAT of resolution as well as improving customer delight. 
+
+Clustering of sales person:
+· In order to measure the performance of Business development managers(BDM) and categorize them into various groups, clustering was done on number of parameters which are significant from company’s perspective and have direct or indirect link to the dashboard parameters. 
+· BDMs are categorized into ‘Excellent’, ‘moderate’ and ‘below expectation’. This is helping the management to focus on the BDMs which are ‘ below expectation’ resulting in faster improvement. 
+
+Awards received by  SBILife  for the projects handled 
+· Indian Insurance Awards 2017:  Category : Data Analytics Initiative of the year awards 2017 for Renewal Predictive Analytics 
+· SKOCH Resilient India Awards 2017 : Innovation Category for Implementation of Predictive Analytics & Automation of the Renewal Management System
+· SKOCH Resilient India Awards 2017 : Claim Settlement for End to End integrated death claims management system with speed and efficiency accuracy. 
+· Golden Peacock National Quality Award(GPNQA) :  Golden Peacock National Quality Award (GPNQA) 2016 
+· Project Evaluation and Recognition Program(PERP) 2016, Frost and Sullivan : 
+Category :  Process Innovation 
+Title: Digitization of New Business Processing for enhancing scalability and reducing turnaround times 
+· SKOCH Resilient India Award 2016 
+Category :  Innovation 
+Title: Digitalization of New Business Processing for enhancing scalability and reducing turnaround times. 
+
+
+Academic Details
+2007 		MBA  from ICFAI Business School , Hyderabad 
+2004 		BE (Electronic & Telecomm) from Satyasai Engg. College, Balasore, Orissa	
+
+Certifications
+· Prince 2 certification
+· Statement of accomplishment from Stanford University online ‘Statistical learning’
+· Statement of accomplishment from John Hopkins University offering of  ‘Data Analysis’ through Coursera
+· EY Advance Analytics using R 
+· ALMI  from LOMA, USA
+· MDP from Indian Institute of Management, Indore
+· Licentiate from Insurance Institute of India
+		
+
+Personal Details
+Date of Birth: 05-09- 1981
+Languages Known: English, Hindi & Bengali
+Address: Flat no 1103, Sawan’s Pride Apartment, Sector 18, Kharghar, Navi Mumbai-410210 
+

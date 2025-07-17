@@ -1,0 +1,162 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Naresh Begavath
+bnaresh13@yahoo.com
+9550836558
+
+Career Objective:
+	Willing to work in an environment, where I can improve my skills and pave for the betterment of the company. I would also like to take every opportunity that comes my way to hone my skills.
+
+
+Professional summary:
+
+· Having 3.5 years of experience, out of which 2+ years experience in BigData ( Spark & Hadoop) development.
+· Good  knowledge on Big Data core components and Ecosystem (Spark, Hadoop,  YARN, Zookeeper, Hive, Hbase, Pig, Sqoop, Flume, Kafka, and Oozie).
+· Hands on experience with Big Data components and Ecosystems are Hadoop( HDFS, MapReduce), YARN, Zookeeper, Hive, Pig, Hbase, Sqoop, Flume, Oozie.
+· Experience in importing and exporting data using Sqoop from HDFS to Relational Database Systems (RDBMS) and from RDBMS to HDFS.
+· Have knowledge  Cloudera Distribution.
+· Ability to adapt to evolving technology strong sense of responsibility and accomplishment.
+
+
+Technical Skills:
+
+Bigdata Skills		:	Spark, Hadoop (HDFS, MapReduce), YARN, Zookeeper, Hive, Hbase, 
+Pig, Sqoop, Flume, Kafka, and Oozie.
+Languages			:	Scala, Core  Java, C++, C
+Scripting Languages		:	HTML, CSS, JavaScript.
+NoSql DataBases		:	Hbase,  Cassandra, MongoDB
+RBDMS Databases		:	MySQL
+IDE’s			:	Eclipse, Sublime Text, Net Beans.
+
+
+Professional Experience:
+
+· Working as a Software Engineer in Zoylo Digihealth Private Limited in Hyderabad, from March 2015 to till the date.
+
+
+Work Experience:
+
+
+PROJECT # 1
+
+Project Name		:	Web Server Log Data Analysis
+Role			:	Developer
+Client & Company Name	:	Zoylo Digihealth Pvt. Ltd.
+Duration			:	January 2018 to Till Now
+Team Size			:	5+
+Environment		:	Hive, HDFS, HBase, Phoenix and Oozie.
+
+
+Project Description: Zoylo is an online appointments booking platform where we can book appointments for doctors, Diagnostics, and hospitals along with medical tourism facilities across the Internet. This is to analyze the web server generate log data per minute.
+
+
+
+Role & Responsibilities:
+
+1. Capturing the web server generated data using Flume for every fraction of seconds.
+2. Creating tables using Hive and pointing to HDFS .
+3. Integrating Hive-Hbase for Phoenix to visualize the data.
+4. Oozie for scheduling the job to run per minute.
+
+
+
+
+
+
+
+
+
+
+PROJECT # 2:
+
+Project Name		:	Market Analysis for Medicines.
+Role			:	Developer
+Client Company Name	:	Zoylo Digihealth Pvt.Ltd.
+Duration		:	September 2016 to December 2017
+Team Size		:	5+
+Environment		:	MySQL, Sqoop, Hive, HDFS, MapReduce and Core Java.
+
+
+Project Description:   The Zoylo Digihealth Private Limited, here we get the market research data by market executives and the other  sources like websites etc in the form of excel sheets(CSV, TSV files) and in the form of databases like MySQL. To simplify the data and improve the market of medicines, the analytical data will help.
+
+PROJECT # 3:
+
+Project Name		:	Yume Gifts and Yume Deals.
+Role			:	Developer
+Client Company Name	:	Yume Traders India Private Limited.
+Duration		:	March 2015 to September 2016
+Team Size		:	5+
+Environment		:	PHP(Opencart, Wordpress and CodeIgnator), JavaScript, HTML, CSS, and MySQL.
+
+
+Project Description:   The Yume Traders India Private Limited was a corporate gifting platform.
+
+
+Responsibilities:
+
+1. Developing new enhancements and support.
+
+Achievements:
+· Consistently achieved high quality assurance ratings.
+· Resolved Critical issues, and got good feedback from clients.
+
+Educational Qualification:
+· Bachelor of Technology with major in Computer Science in Anu Bose Institute of Technology at Palvancha, Bhadradri-Kothagudem, Telangana 507115.
+
+Personal Details:
+Name 	:	Naresh Begavath.
+DOB	:	23-05-1991.
+Address	:	Modugulagudem (village), Kuravi(Mondal), Mahabubabad(District), Telangana, 506105.
+Email	:	bnaresh13@yahoo.com
+Mobile   :	9550836558.
+										
+Place:  Hyderabad.											
+											Signature
+										        (Naresh Begavath)

@@ -1,0 +1,198 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RAVI
+
+
+                                Irfan Dudekula
+Mobile No: +91-7843034356
+
+                         E-Mail Id:  irfandhprmca@gmail.com
+
+Professional Summary
+· 5 years of development experience in Tableau, Hadoop, Hive, Spark, Splunk, Azkaban, Hunk and Python.
+·  2 years of development experience in creating attractive visuals / dashboards to convey the story inside the clients’ data using Tableau.
+· Involved in processing the data in Hive and sending to Tableau for Reports and Dashboards.
+· Involved in creating and publishing the customized interactive Tableau reports and dashboards along with data refresh scheduling using Tableau Desktop and Tableau Server.
+· Experience in Hadoop administrator activities such as Setting up Multi Node Cluster machines using Apache Hadoop, Integration of Hadoop Ecosystem with Reporting tools, ETL tools and other Database components
+
+· Hands on experience in Installation, Development and Implementation of Hadoop Stack.
+· Created Tableau Scorecards, Dashboards using stack bars, bar graphs, scattered plots, geographical maps, line/pie graphs, and charts.
+· Extensively worked on Hive Using CLI Mode (Hive Shell), Pig and Sqoop.
+· Built dashboards using techniques for guided analytics, interactive dashboard design, and visual best practices.
+
+· Involved in trouble shooting of performance issues which were associated with Tableau reports.
+
+· Exposure to Spark Splunk, Hunk, Azkaban and Zookeeper. 
+
+· Enthusiastic to learn new tools and technologies and having good learning curve.
+
+· Having good communication, presentation and interpersonal skills.
+
+Professional Experience
+·    Working as a Software Engineer in Infosys,   Pune from April-2014 to till date.
+·    Worked as a Software Engineer in Renaissance Softlabs Hyderabad from Feb 2012 to March 2014.
+Certifications
+·  Spunk Certified Knowledge Manager from Splunk community.
+
+· Infosys Certification on Hive and Pig Developer.  
+Educational Profile
+· Master of computer Applications(MCA) from Osamina University, Hyderabad with 72%.
+· Bachelor of Science from Osamina University, Hyderabad with 71%.
+· Intermediate from Board of Intermediate Education, Hyderabad with 86.5%.
+· SSC from Board of secondary Education, Hyderabad with 83%.
+Skills Proficiency
+Preferred Area
+
+Business Intelligence related technologies and customization of reporting and dash boards generation using Tableau
+
+	AREAS
+	SKILLS
+
+	Business Intelligence Tool 
+	Tableau
+
+	Big Data Technologies
+	HDFS, MapReduce, Hive, Pig, Impala, Sqoop, Oozie, HBase, Spark
+
+	Operating System(s)
+ 
+	Linux, Windows
+
+	Java / J2EE Technologies                         
+	Core Java, JDBC, Servlets, JSP
+
+	Web/Other Technologies
+	HTML, XML, Java Script
+
+	Databases
+
+	Oracle10g, MySQL
+
+	Servers                                     
+	Tomcat, JBoss
+
+	 IDE                                
+	Eclipse, NetBeans
+
+	Tools
+	Log4J, Ant, JUnit, SVN
+
+
+Projects Profie
+Project #1:   Hersheys Data Lake Constellation 
+Team Size     
+                           :  6
+Duration       
+                           :  Dec-2015 to Till date.
+
+Technology/Software
+             :  Hadoop, Spark, HDFS, Hive, Impala, R Language, Tableau and Azkaban.
+Description.
+This project s to store and process the transaction data and generate the dash boards.. The Data Source for this application is auto adjudication system which is fixed layout format in different files each one containing some information about the different transactions being made. Some files will have provider information and some will have customer information.
+We processed the data using HDFS like formatting and validation using scripts and loaded into Hive. The formatted data is imported into Tableau for generating Dashboards.
+Roles & Responsibilities
+· Closely work with business analyst to understand business requirements.
+
+· Design, develop and mentor team members in their modues development.
+
+· Installed and configured Hadoop, HDFS, Hive, Tableau and Spark.
+
+· Written scripts for data cleaning and preprocessing.
+
+· Responsible to importing from development to production.
+· Involved in creating reports on harmonized data using Tableau.
+
+· Have worked on various POCs on diverse BigData technologies
+Project #2: ICOE-COKE
+Team Size     
+                           :  4
+Duration       
+                           :  April ‘14 to Nov- 2015.
+
+Technology/Software
+             :  Hadoop, Splunk, Hunk. Hive
+Description  
+This project is to process and generate reports for the huge amount of data files we received from various sources from legacy systems. We have imported the data into Splunk and indexed.  We have formatted the data by writing regular Expressions. Involved in creating different types of business reports.
+Roles & Responsibilities
+· Responsible to manage data coming from different sources and application
+
+· Involved In loading data from UNIX file System to HDFS.
+· Created hive databases and external tables for each required table.
+
+· Tested raw data and executed performance tuning scripts.
+
+· Installed and created visualizations using splunk.
+Project   #3: CIA-AI (Insurance Domain)
+
+Role
+
+
+
+ :  Team Member
+Team Size               
+               :  9
+
+Duration       
+                              :  From Feb 2012 March 2014.
+Technology/Software
+               :  Java, JSP, Servlets, JUnit,Log4J,ANT,Oracle 10g.
+Tools                        
+               :  Eclipse 3.0
+
+Server                        
+               :  JBoss  
+Description:  
+
+This project is for complete automation of Automobile Insurance. This sub system provides the Registration of new Automobile or Renewal of the existing policies. The renewal subsystem is used for registering the Customer details and Insured Objects. 
+
+Fraud Detection – VDR (Variation Detailed Report) module used to analyze previous history of the Customer and the vehicle using huge data available. Vehicle Inspector’s Report is captured which used for premium calculation. Vehicle Inspector’s Report is captured which used for premium calculation. Policy sub-system used to calculate the premium based on parameterized inputs generated through proposal system, Premium amount is computed and Policy is policy document is prepared which contains the perils, validity etc. is generated. 
+Roles & Responsibilities
+· Involved in the design discussions and reviewing.
+
+· Involved in coding the Server-Side Components using MVC Architecture
+
+· Testing of the modules
+Personal Profile
+Indian passport valid up to: -------------------  (Mention here Passport validity date)
+

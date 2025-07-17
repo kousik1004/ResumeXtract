@@ -1,0 +1,284 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Sravan Nagaraj
+Bachelor of Technology in Computer Science & Information Technology
+
+ bnsravan@yahoo.co.uk
++91-9620820872
+
+
+	Summary
+
+· Currently working with Accenture, Bangalore as Application Development Team Lead since July, 2011.
+· Has working experience in SAP HANA, SAP BASIS, SAP NETWEAVER MOBILE, FIORI, SMP, SYCLO, Sybase Mobiliser.
+· Strong SAP Netweaver domain knowledge.
+· Sound logical approach to problem solving in relation to both business and technical issues
+
+· Proven ability to work effectively within a team environment
+
+· Strong verbal and written communication skills.
+· Involved in knowledge training sessions on SAP Hana Basis, SAP Tech-arch, SMP 3.0, SMP 2.3, SUP 2.2, SYCLO, Sybase Mobiliser 5.1. 
+
+
+	ACHIEVEMENTS
+
+
+
+· Received the Best Employer Award (Accenture Celebrates Excellence - ACE) Thrice for the performance and work delivered on new technologies of SAP like Fiori, Hana.
+· Received SPOT AWARD from SAP for the performance and work delivered in Q4, 2015 on SAP S4HANA Technology Project.
+
+· Speaker in SAP D-KOM, 2016 for the session on Fiori Implementation in Customer Landscape in S4HANA systems. 
+
+· Got many Recognized Performance points for my work done in SAP Basis and SAP Netweaver Mobile.
+
+	Technical Skills
+
+	Area
+	Skills
+
+	Product
+	· SAP CRM / ERP / SRM /S4HANA
+· SAP HANA
+· SAP Netweaver AS Java
+
+· SAP FIORI
+
+· SMP
+· Sybase Mobiliser
+
+· SYCLO
+
+	Operating Systems
+
+	· Windows 
+· SUSE / Red Hat Linux
+
+	Databases
+	· Oracle 
+
+· Hana
+
+· MS SQL
+
+
+	Job Experience 
+  Project                 : SAPHIR 
+  Project Duration : May  2016 – till date   
+  Assigned Role    : SAP HANA Architect-Technology 
+
+SAP HANA Consultant performing the activities on Migration, HANA administration, Upgrade and support. Also part of SAP Basis team in handling the support of SAP CRM/ERP/TM/BW systems and doing the upgrades.
+Project & Assignment Description:- 
+· HANA administration, upgrade and support on migration.
+
+· SAP Basis support 
+· Involved in the design of Fiori applications for the client.
+
+· Acting as Team lead for the Basis team and helping in resolving the issues.
+
+
+
+	 
+
+  Project                 : SAP Capability 
+  Project Duration : April  2012 - May 2016   
+  Assigned Role    : Solution Architect-Technology 
+
+SAP Tech-Arch resource performs the activities on Hana installation, migration of Business Suite to Hana DB, configuration of Fiori applications, installation and upgrading the ERP / CRM systems, Web Dispatcher connection to SAP landscape. Also performed RFP and POC for S4HANA on Defense industry ERP system.
+Project & Assignment Description:- 
+· Performing the Installation, System Export, System Build, EHP upgrade, SP update, and Kernel upgrade of the SAP ERP/CRM/PI/Java systems present in the landscape.
+
+· Hana DB installation and migration of Business Suite (ERP / CRM) running on traditional databases (Oracle, MS SQL) using DMO to Hana.
+· Installation / Configuration of SAP BO (Business Objects) Mobile setup.
+· Installation of SAP Gateway system and setting up of landscape, configuration of FIORI applications (Analytical, Factsheets and transactional). 
+
+· Installation and configuration of Web Dispatcher for enablement of FIORI on internet.
+
+· Configuration of FIORI security by providing the roles and authorizations for the developers, functional resources and mobile users.
+
+· Responsible for maintenance of landscape and handling the basis issues in the landscape while performing the upgrade, implementation of SAP notes.
+
+· Installation of Sap Mobile Platform, SAP Mobiliser, SAP Mobile Documents in the landscape.
+
+  Project                 : SAP S4HANA Technology 
+  Project Duration : May  2015 – March 2016  
+  Assigned Role    : Solution Architect-Technology 
+
+SAP FIORI Tech-Arch resource performs activities on the setup and configuration of Fiori applications, SMP integration to Gateway, SP/EHP Update of SAP systems.
+Project & Assignment Description:-
+
+· Setup of Fiori Launchpad, configuration of FIORI principal applications connecting to ERP /CRM for different Fiori releases (Wave 5, Wave 6 and Wave 7).
+·  Support Pack Update, EHP upgrade of SAP Netweaver Systems.
+· Configuration and Support for the Fiori applications on sFIN 2.0.
+
+· ABAP on Hana installation for Hana 1.0 SP11
+
+  Project                 : Outerwall / ALSTOM / Anglo American 
+  Project Duration : December  2013 - April 2015   
+  Assigned Role    : Solution Architect-Technology 
+
+SAP FIORI Tech-Arch resource performs activities on the setup and configuration of Fiori applications.
+Project & Assignment Description:-
+
+· Setup of Fiori Launchpad, configuration of Custom FIORI application connecting to CRM in the 3/4 system landscape (Dev / QA / Pre-Prod / Prod), Gateway – Backend (ERP / CRM) integration, integration of Custom applications into Fiori Launchpad and applying the SAP Notes.
+·  Support pack update of the SAP Netweaver Gateway system, new client creation, setup of FIORI Principal Applications (Approve Purchase Order, Approve Purchase Contract, Track Purchase Contract, My Timesheet, Approve Requests, etc.)
+
+· Migration of FIORI applications from Wave-1 to Wave-3.
+
+· Post Go-Live support for the Fiori applications.
+  Project                 : ASML 
+  Project Duration : October  2013 - December 2013   
+  Assigned Role    : Solution Architect-Technology 
+
+SAP Mobile Platform (SMP) administrator performs activities on the setup and configuration of SMP, Agentry applications.
+Project & Assignment Description:- 
+· Installation, configuration of SMP 2.3 in 4 system landscape including the High Availability installation of SMP 2.3 in Microsoft Cluster servers. 
+· Deployment of Syclo Agentry applications (Work Manager) in the SMP 2.3 and resolving the issues.
+  Project                 : UKPN 
+  Project Duration : December  2012 - March 2013   
+  Assigned Role    : Solution Architect-Technology 
+
+My role in this project is Sybase Unwired Platform (SUP) SME to setup and configuration of LDAP integration, installation of SUP applications.
+Project & Assignment Description:-
+
+· Setup of SUP O-Data based applications, installation of add-ons in SAP Gateway / Backend and configured the LDAP integration to SUP which is used for the Single Sign On based on LDAP authentication for the SUP applications. 
+· I have supported the SUP 2.2 O-Data based applications post go-live and resolved issues on SUP 2.2. 
+
+  Project                 : Sanofi Aventis ADM 
+  Project Duration : September  2011 - April 2012   
+  Assigned Role    : SAP Basis 
+
+My role in this project is a SAP Basis consultant, to monitor the entire landscape and report any abnormalities in the SAP system.
+Project & Assignment Description:-
+
+· Checking the Background jobs using the SM37 transaction.
+
+· Checking the ABAP Dump and informing to the developers to fix the issue.
+
+· Implementing the SAP Notes in the system.
+
+· Generating the Developer Access key and providing the Access key of the SAP Standard Objects.
+
+· Performing the Kernel Upgrade of the SAP ERP ABAP systems.
+
+· Monitoring the DB space.
+
+· Generating the Maintenance and temporary license keys of the SAP systems, applying on the SAP ABAP and Java systems.
+
+
+
+
+	Education
+
+	Course
+	University/Board
+	College / School
+	%
+	Year 
+
+	B.Tech
+
+Computer Science & Information Technology
+	Sri Krishnadevaraya University Anantapur
+	G Pullareddy Engineering College, Kurnool
+	68.34
+	2011
+
+	Intermediate
+
+(MPC)
+	Board of Intermediate Education AP
+	Vignan Co-operative Junior College, Vadlamudi
+	94.3
+	2007
+
+	SSC
+	Board of Secondary Education AP
+	Royal (EM) High School,
+Guntakal
+	81.17
+	2005
+
+
+	Personal Profile
+
+
+Name 
+
+
+: 
+B N Sravan
+Fathers Name
+
+: 
+B A Nagaraj
+Date of Birth
+
+: 
+02-August-1990
+
+Languages Known
+: 
+English, Telugu, Kannada
+Present Address
+: 
+D.No 212, 15th Cross, Kondappa Layout, Yelhanka, Bangalore-64.
+
+Permanent Address
+: 
+Door No: 792 /B, V V Nagar, Railway Quarters,
+
+
+
+  
+Guntakal, Ananthapur (Dist) - 515801.
+
+Marital Status
+
+:
+ Single
+

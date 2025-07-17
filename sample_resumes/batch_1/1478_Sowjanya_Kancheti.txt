@@ -1,0 +1,221 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CV Template
+
+Resume
+
+          Sowjanya Kancheti
+
+
+Sowjanya Kancheti
+Management Technology Consulting LLC 
+
+Email: sowjikancheti@gmail.com
+Contact No- +91-7893389669
+Experience Summary 
+I am an associate with Management Technology Consulting LLC for the last 5 years. My main area of experience has been project delivery of various sizes and domains. My technological forte is Microsoft Dynamics CRM 2011, 2013, 2015, 2016, d365, C#. Good Command on MSCRM Form & Ribbon Customizations, System Workflows & Custom Workflows, Plugins.
+
+Technology
+
+Below is a list of important hardware, software products, tools and methods that I have worked with.
+Programming Languages
+:
+MS Dynamics CRM 2011, 2013, 2015, 2016, D365, C#
+Web Designing Tools
+:
+HTML, HTML5, XML, Java Script.
+Development Tools 
+            :
+MS Visual Studio 2008, 2010, 2012.
+
+Career Profile
+
+	Dates
+	Organization
+	Role
+
+	September 10th, 2012- till date
+	Management Technology Consulting LLC, Hyderabad
+	CRM Developer
+
+
+Educational Qualifications
+
+	Degree and Date
+	Institute
+	Major and Specialization
+	% of Marks
+
+	Master of Computer Applications (MCA), 2011
+	Koneru Lakshmaiah College Of Engineering, Vijayawada ,Nagarjuna University
+	Computers
+	72.2%
+
+	Bachelor of Science (BSc), 2008
+	Priyadarshini Degree&P.G College,Khammam, Kakatiya University
+	Computers
+	68.2%      
+
+	Intermediate (+2), 2005
+	Sri Chaitanya Junior College, Vijayawada, board of intermediate, Andhra Pradesh
+	Maths, Physics, Chemistry
+	71.5%
+
+	SSC, 2003
+	Public School, Khammam Secondary School Certificate
+	Maths
+	64.1%
+
+
+Training / Continuing Education Summary 
+
+	Program or Course
+	Coverage
+	Dates
+
+	Intern Trainee for .NET Job Oriented Training
+	.Net Course
+	02-2012 to 08-2012
+
+
+Assignment 1
+The details of the various assignments that I have handled are listed here, in chronological order.
+
+	Project
+	EMAIL TO CASE
+
+	Customer
+	MTC Product
+
+	Description
+	Email to Case is an add-on to MSCRM 2012. When an email receives to a user specified Queue a case will be automatically created against to that email with the mapping of sender as customer and email attachments as notes. It is also capable to filter with custom workflow input parameters, to which email needs to create cases. Sends auto email replay with the case status information.
+
+	Role
+	CRM Developer
+
+	Tools & Solution Environment
+	MSCRM Custom & System workflows, C#
+
+	Website Link
+	http://www.dynamicsexchange.com/etc.aspx 
+
+
+Assignment 2
+	Project
+	Country House Wedding Venues (CHWV)
+
+	Customer
+	PREACT
+
+	Description
+	This project involves Enquiry and booking management, Along with availability & rate requests for individual venues. Sending that available dates, Booking venues and rates to customer by mail  
+
+
+	Role
+	CRM Developer
+
+	Tools & Solution Environment
+	MS CRM customizations, JavaScript, plugins, Custom and system workflows
+
+	Responsibilities:
+	Involved in writing Plugins and custom Workflows.
+
+
+Assignment 3
+	Project
+	Activity Timer  
+
+
+	Customer
+	 MTC Product
+
+	Description
+	This Project can be manually started to override the fixed time with the actual call duration of the activity entities based on setting page selected activities data will be stored in one custom entity and based on that entity we will show and hide the activity timer on forms 
+
+	Role
+	CRM Developer
+
+	Tools & Solution Environment
+	 MS CRM, JavaScript, Html
+
+	Responsibilities:
+	Involved in writing Java Scripts, Web pages (HTML Page).
+
+
+Assignment 4
+	Project
+	WindowsFix
+
+	Customer
+	ShortHills
+
+	Description
+	This project windows installation and providing services to their customers. This is completely handled by Business Process Flow. In CRM design, material and color of the windows will be maintained. Customers will book windows as per there need. Services and installations are also handled by the CRM. Payments details will be send to customer by emails.
+
+ 
+
+	Role
+	CRM Developer
+
+	Tools & Solution Environment
+	VS 2012, C#.NET, MSCRM 2016, JavaScript
+
+	Responsibilities:
+	· Involved in writing Plugins and designing Business Process Flow
+
+
+
+
+Personal Details
+
+	Date of Birth
+	08-07-1988
+
+	Nationality
+	Indian
+
+
+Page 1 of 1
+

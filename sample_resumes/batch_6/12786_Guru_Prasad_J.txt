@@ -1,0 +1,363 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume - Surendra Kushwaha
+
+Guru Prasad. J
+      Ph: (+91) 9677298131     
+
+
+     E-mail:  ronaldo5300@gmail.com
+
+       
+
+           
+
+Summary: 
+
+· Result oriented professional with 5+ years of experience in development of web based applications using Java/ J2EE technologies.
+
+· Worked as a Senior Software Engineer in WIPRO Technologies and currently working with HCL Technologies.
+· Working knowledge in Core Java.
+· Working knowledge in Javascript, Jquery, CSS
+· Working knowledge in Spring Framework.
+
+· Knowledge in SOAP Web Service
+· Knowledge in Hibernate Framework
+
+· Expertise in full project life cycle development for implementation and integration with deep understanding of technology focused on delivering business solutions.
+
+· Good Insurance domain understanding, as worked for around 3.5+ years, with US based & Australian based Insurance client
+
+· Good communication skills coupled with rich experience in interaction with clients.
+	Skills
+
+	Programming Languages
+	Java
+
+	Framework
+	JSF, Spring, Hibernate
+
+	Middleware
+	Weblogic,Apache Tomcat
+
+	XML/HTML
+	XML, HTML, CSS
+
+	Scripts
+	 JavaScript,jQuery,
+
+	IDE
+	Eclipse
+
+	Build Tool
+	Apache Ant
+
+	Source Control/ Tools
+	Tortoise SubVersion(SVN), Beyond-Compare
+
+	Database and tools
+	Oracle, TOAD
+
+
+	Professional Experience
+
+	Currently working as Senior Developer in HCL Technologies from March 2017 to till date.
+
+Worked as a Senior Software Engineer in WIPRO Technologies from July 2012 to March 2017
+Job Profile: Java-J2EE Developer L-3.1
+
+
+	Education
+
+	2007
+	S.S.L.C
+	S.S.M. School, Bangalore
+	89%
+
+	2007-2009
+	P.U.C (PCME)
+	P.E.S PU College, Bangalore
+	63%
+
+	2009-2012
+	B.C.A
+	 Surana College, Bangalore
+	68.4%
+
+	2012-2016
+	M.S (Software Engineering) – Distance Education. As part of WIPRO’s 4 year WASE Program
+	Birla Institute of Technology, Pilani
+	6.88 CGPA
+
+
+	PROJECT DESCRIPTIONS
+
+
+	                                                          1.  Standard Chartered Bank (Scope International)
+
+	Company
+	HCL Technologies
+
+	Client
+	Standard Chartered Bank
+
+	Applications
+	· theBridge (JIVE)
+
+	Team size
+	5
+
+	Skills
+	 Java, Javascript, HTML
+
+	Project Description
+	theBridge is a web based application similar to Microsoft’s SharePoint, which is being used by the employees of the bank and serve as a common platform to share ideas, colloborate with each other, post latest Announcements/ Acquisitions.
+
+
+	Responsibilities
+	· Build Add-ons
+· Bug Fixing
+· Production support activities
+· Change Request Handling and co-ordination
+
+
+
+	                                                          2.  ANZ Wealth
+
+	Company
+	WIPRO Technologies
+
+	Client
+	ANZ Bank, Australia
+
+	Applications
+	· Ebiz
+
+	Team size
+	8
+
+	Skills
+	 Java, Angular JS, RESTful services, SpringMVC, Hibernate
+
+	Project Description
+	Ebiz or Ebusiness application allows the Existing insurance holders/the Agents/ the Advisor to manage his/her/Client’s policy details with facilities like checking Policy Term, Payment Due Date, Make Policy Changes, Make Payments etc.
+
+
+	Responsibilities
+	· Code review, Bug fixing
+
+· Unit testing and Integration testing
+· Modify/Enhance the application according to the Client’s business requirements
+· Fix bugs
+· Database table updates
+· Accept change requests and make changes to Home page Banners and layouts periodically
+· Monitor Batch Jobs
+· Incident Management
+
+
+	3. The Hartford Grow
+
+	Company
+	WIPRO Technologies
+
+	Client
+	The Hartford
+
+	Applications
+	· Consumer – Universal Consumer Front End (UCFE 2.0)
+
+	Team size
+	9
+
+	Skills
+	 Java, J2EE, JSF, CSS, JQuery, Spring IOC, Hibernate, Jax-WS
+
+	Project Description
+	Universal consumer sales project delivers a robust, flexible and reusable internet presence, supporting consumer Quote, Issue and ultimately, Service, Billing and claims capability.
+
+UCFE is a web based portal application which allows the customers to quote and issue auto policies online. The application is deployed in dedicated portal server instance. It facilitates AARP individuals and non – AARP individuals to get quotes and issue policies to the customers. It interfaces with PLA mainframe system.
+ 
+
+	Responsibilities
+	· Requirement analysis, Design, Implementation.
+
+· Code Development.
+
+· Worked in Java, JSF, CSS implementation.
+
+· Code review, Bug fixing,
+
+· Unit testing and Integration testing
+
+· Skillsl used are Core Java , Java/J2EE, SQL, Toad , SVN Subversion Repository,  CSS, jQuery, Spring and JSF framework.
+
+
+
+	4. Consumer Service Center
+
+	Company
+	WIPRO Technologies
+
+	Client
+	The Hartford
+
+	Applications
+	· CSC (Consumer Service Center)
+
+	Team size
+	9
+
+	Skills
+	 Java, J2EE, JSP, CSS, JQuery, JavaScript, Spring MVC, JPA, Jax-WS                                                                                     
+
+	Project Description
+	CSC application allows existing policy holder to make change amends in policy. User can pay bills and claim online using this application.
+
+Consumer Service mainly deals with the existing AARP policies. Consumer service application is used by customers mainly to do policy/vehicle/driver level coverage changes on issued policies. Adding a vehicle, adding a driver, changing the Driver information, Changing vehicle/driver/policy level coverage, Policy Inquires, Requesting ID cards etc are the typical operations performed through this application.
+
+
+
+	Responsibilities
+	· Maintenance work – discretionary, non-discretionary enhancements.
+
+· Worked in Core Java, Java/J2EE, SQL, SVN Subversion Repository, css, jQuery, Eclipse, Spring and JSF frameworks.
+· Database table updates.
+
+
+	5. Resource Co-ordinator Virtual Edition (RCVE)
+
+	Company
+	WIPRO Technologies
+
+	Client
+	Fujitsu
+
+	Applications
+	· RCVE
+
+	Team size
+	5
+
+	Skills
+	 C++, Ruby On Rails, HTML
+
+	Project Description
+	The RCVE application is responsible for handling the customer’s Blade Management Servers. 
+
+This was completely hardware based application which was solely used for maintaining the health status of the Blade servers.
+
+ 
+
+	Responsibilities
+	· Bug Identification
+
+· Fix critical defects and hand them over to development team
+
+· Documentation
+
+· 24/7 Production Support Activities
+
+
+	Achievements
+
+	· Got “Star Performer of the Release” Award from The Hartford Clients
+· Got “Enhancements Champion” Award from The Hartford clients for extensive enhancement work and zero defects.
+
+· Got multiple appreciations from Lead and Client for delivering discretionary enhancement works without a single defect and within the stipulated time.
+
+· Unified Competency Framework (UCF) certified in Java/J2EE Level 2.1, a certification provided by Wipro Technologies
+
+· Certified in TrendNXT assessments, a Technical competency assessments conducted by Wipro Technologies, in the following technologies:
+
+· JQuery-L2
+
+· HTML-L2
+
+· Core Java-L2
+
+· JavaScript-L2
+
+· Hibernate-L1
+
+· Ruby On Rails-L1
+
+
+	Personal Details
+
+	Full Name
+	Guru Prasad Jagannathan
+
+	Father’s Name
+	Jagannathan. G
+
+	Sex
+	Male
+
+	Marital Status
+	Married
+
+	Nationality
+	Indian
+
+	Interests
+	Road Trips, Reading Books, Socializing
+
+	Permanent Address
+	#42, 9th Cross, 3rd Block, Thyagaraja Nagar, Bangalore-560028, India
+
+	Phone Number
+	+91-9677298131
+
+	Date Of Birth
+	12th of October 1991
+
+
+Declaration:
+
+
+
+                       I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
+2
+

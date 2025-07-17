@@ -1,0 +1,343 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shankar
+
+
+ 1 
+
+Surbhi Priya 
+(Java Developer with 2 Year Exp) 
+                                                                                                       Mobile: +91-9830577724 
+
+                                                                               EmaiID: surrbh.priya@gmail.com  
+ 
+
+ 
+CAREER OBJECTIVE: 
+ 
+To face stiff challenges and overcoming it with faith, persistence and perseverance, 
+enhancing the place where I work with. Also to constantly upgrade to the latest 
+technologies and to utilize the domain as well as technical knowledge effectively in project 
+execution. Looking for a software development position allowing for professional skill 
+development and career growth. 
+ 
+ 
+EXPERIENCE SUMMARY: 
+ 
+Working as a Solution Integrator  in Ericsson India Global Services Pvt. Ltd. from Sept 2015 
+to Till date. 
+ 
+PROFESSIONAL SUMMARY: 
+ 
+
+• Strong OOPS concepts. 
+• Strong understanding of Java, J2EE, Spring framework concepts. 
+• Experience in Spring MVC,  SOAP/REST web services, worked with JSON and XML. 
+• Experience in MYSQL. 
+• Experience in developing JAVA and J2EE applications Using Servlets, JSP and JDBC. 
+• Experience in JavaScript, Jquery, HTML/CSS, Angular JS, AJAX. 
+• Experience in Cordova/PhoneGap Hybrid application development. 
+• Comfortable with bootstrap, SQL Server. 
+• Comfortable in Angular JS. 
+
+ 
+ 
+PROFESSIONAL QUALIFICATION: 
+
+ 
+• Educational Qualification: B.Tech. In Information Technology (2015). 
+• Institute: BIT Sindri. 
+• CGPA: 7.52 
+ 
+
+ 
+SOFTWARE SKILLS 
+Operating Systems   : Windows 7/8, Windows XP, Linux. 
+Programming Language  : Java 
+J2ee Technologies   : JDBC, SERVLETS, JSP 
+Frameworks                               : Spring framework, Cordova/PhoneGap, Angular JS 
+
+mailto:surrbh.priya@gmail.com
+
+
+ 2 
+
+Library     :           JavaScript &  Jquery Library 
+Servers     : Tomcat, JBOSS 
+IDE     : Eclipse, STS. 
+Markup Languages   : HTML/CSS, XML 
+Databases    : MYSQL. 
+Build Tools    : Gradle, Maven 
+
+ 
+ 
+
+CERTIFICATIONS: 
+ 
+
+• RED HAT CERTIFIED SYSTEM ADMINISTRATOR IN RED HAT OPENSTACK Red Hat Enterprise Linux 
+OpenStack Platform 6.0 , April 1, 2016- April 1, 2019 - CERTIFICATE NUMBER: 160-054-730 
+
+• CLOUDU CERTIFICATE , CLOUD UNIVERSITY BY RACKSPACE , April 27, 2016 
+
+• Ericsson Certified Associate , ECA – Ericsson, June 22, 2016 – June 22, 2018. 
+
+ 
+
+PROJECTS UNDERTAKEN: 
+   
+
+PROJECT   : VEON Digital BSS 
+CLIENT  : Ukraine 
+ROLE   : Developer 
+TECHNOLOGIES           : OSGi Bundles, Camunda, Java web services, Git, Gerrit, 
+Postman, Junit, Mockito, SonarLint 
+DURATION  : September, 2017 - present 
+ 
+ 
+ 
+ 
+DESCRIPTION:  
+
+        VEON project is integrating all ericsson components(CPM, CHA, EDM, etc , other 
+TPG’s) and using them together as required by the client. 
+ 
+RESPONSIBILITIES: 
+
+• Involved in development of user stories as provided by the client. 
+• Designing and creating of camunda flow based on user story and 
+
+specification files. 
+• Involved in writing activities for camunda flow. 
+• Involved in creating an adapter layer Osgi bundles, for communication 
+
+between our application and TPG’s. 
+• Involved in junit, Mockito  test cases and stubs(to mimic TPG’s) 
+
+ 
+
+
+
+ 3 
+
+ 
+ 
+
+ 
+PROJECT   : OneTm_CRM B2B Development 
+CLIENT  : Idea(IBM CRM), OneTm 
+ROLE   : Developer 
+TECHNOLOGIES           : Spring, Soap web service, Tomcat 7,  MYSQL, Maven, JSP 
+DESCRIPTION:  
+
+        OneTM_CRM is about B2B functional and interaction flow between Ericsson and Idea 
+(IBM CRM) system via Ericsson portal acting as a proxy. 
+. 
+.RESPONSIBILITIES: 
+
+• Involved in Soap web service development and 
+implementation/integration to communicate with OneTM and IDEA IBM. 
+
+• Involved in development of Idea Ticketing tool portal following Spring 
+MVC. 
+
+• Implemented Cron for creation, modification of user tickets as per 
+request/response from oneTM and IBM. 
+
+• Actively involved in code deployment & testing. 
+• Closely worked with idea portal tickets detail maintenance and portal 
+
+information database. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+PROJECT   : Telstra BEL, Australia 
+CLIENT  : Ericsson Region South East Asia & Oceania 
+ROLE   : Developer 
+TECHNOLOGIES : HTML/CSS, Ajax, Jquery, Javascript, JBOSS Fuse 6.3, Tomcat 8.5,  
+Oracle, Maven, Spring framework 
+ 
+DESCRIPTION:  
+
+        Telstra BEL(Business Enrichment Layer) is a business solution proposed to provide 
+more enhanced functionality regarding access to shared accounts, notification gateway, API’s 
+for flexible service development and integration environment.  
+. 
+  
+
+.RESPONSIBILITIES: 
+
+• Involved in bel-config-ui module and developing API’s,  fuse functionality 
+testing.   
+
+
+
+ 4 
+
+• The BEL UI module consists of HTML/CSS, javascript, jquery deployed on 
+Tomcat 8.5. The UI module will consume web services through ajax-
+jquery calls exposed by another project utilizing Fuse(Java)-oracle.  
+
+ 
+ 
+
+ 
+              
+ 
+
+PROJECT   : Ooredoo Algeria mWallet Application 
+CLIENT  : Ooredoo Algeria 
+ROLE   : Developer 
+TECHNOLOGIES : Spring, Maven, Memcached, Cookie, Tomcat, Linux, Android 
+and IOS ,  Postgresql 
+ 
+DESCRIPTION:  
+
+        Ooredoo Algeria m wallet App is a banking application. Project involves User/Agent 
+registration, activation, login, logout, otp verification and business logic for balance and 
+finance. Client SSL certificates are used to authenticate server and client as well as the 
+customer device. The application server connected via SSL 2-way handshake to the client 
+EWP server. 
+. 
+  
+
+.RESPONSIBILITIES: 
+
+• Involved in server side programming in spring 4, cookie, memcached, 
+Session handling, implementing Rest API’s, converting xml ro JSON using 
+Jackson.   
+
+• Integrating postgresql and memcached with spring, as well as involved in 
+installation of postgresql and memcached in server. 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+  
+
+PROJECT   : SOMOS DEVELOPMENT 
+CLIENT  : Somos 
+ROLE   : Developer 
+TECHNOLOGIES : Spring boot, Gradle, Rabbit MQ, Tomcat clustering, MySQL 
+clustering, Spring data JPA 
+ 
+ 
+ 
+
+
+
+ 5 
+
+DESCRIPTION:  
+
+        SMS/800 Inc. is the company responsible for the administration of Toll-free Numbers 
+in North America, including managing the assignment of Toll-free Numbers and provisioning 
+of routing information that enables the network to deliver Toll-free calls to the correct 
+destination. To keep pace with the evolution of the telecommunications industry, SMS/800 
+Inc. has begun to consider the potential replacement of the current System that has 
+supported Toll-free Number 
+assignment and routing information provisioning since the late 1980s. 
+ 
+
+. RESPONSIBILITIES: 
+
+• Involved in Somos  development using Spring boot, Gradle, messaging broker 
+Rabbit MQ and Active MQ, Tomcat clustering, Spring data JPA 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+       
+
+Extra-curricular Activities: 
+ 
+
+• Participated in CodeVita organized by TCS. 
+• Microsoft Student Associate for the year 2014-2015, MSA ID: 2014/089. 
+• Participated in Educational Exhibition held on 20th Dec, 2003 organized in St. 
+
+Francis School, Deoghar. 
+• Served as a Student Coordinator of Training and Placement Cell BIT Sindri .  
+
+• Served as the Treasurer of IETE(Institution of Electronics and Tele-
+
+communication Engineers) Student's Chapter BIT Sindri in 2013-2014. 
+
+• Was instrumental in organization of a seminar on Convergence of Engineering 
+
+Education through Information & Communication Technology. 
+
+•  had   organized an annual TechFest TECH-UDBHAV for the past four years. 
+
+ 
+
+ 
+ 
+
+

@@ -1,0 +1,178 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Venkat M
+
+GOUTHAMI OBILLI	
+
+Mobile#: +91-8106243157					E-mail: obilli.gouthami@gmail.com
+
+
+Professional Summary:
+
+· Overall 4.3years’experience in Information Technology.
+· About 3.3 years’ experience on Hadoop Administrator and 1 year on Linux Administration.
+· Highly skilled Hadoop Administrator has extensive experience on HDFS, MapReduce, Cloudera and Hadoop Ecosystems.
+· Good experience on cluster development, integration, deployment and maintenance.
+· Having experience in support and maintenance of Applications. 
+· Good knowledge on Linux Administration.
+
+
+Core Qualifications:
+
+· As a Hadoop administration responsibilities include software installation, configuration, software updates, backup and recovery, commissioning and decommissioning data nodes, cluster setup cluster performance and monitoring on daily basis, maintaining cluster on healthy on Hadoop Cloudera distribution.
+· Experience in installation, management and monitoring of Hadoop cluster using command Line Interface and Cloudera. 
+· Strong experience in configuring Hadoop ecosystem tools with including Pig, Hive, Hbase, Sqoop, Kafka, Oozie, and Zookeeper. 
+· Installed and configured HDFS (Hadoop Distributed File System), MapReduce.
+· Strong understanding on Hadoop architecture and MapReduce framework. 
+· Experience in deploying Hadoop 2.x (YARN).
+· Experience in transferring data between HDFS and Relational Database with Sqoop. 
+· Involved in cluster maintenance, bug fixing, and troubleshooting monitoring and followed proper backup and recovery strategies.
+· Experience on commissioning, decommissioning, balancing and managing nodes and tuning server for optimal performance of the cluster.
+· Strong knowledge in Hadoop cluster capacity planning, performance tuning, and cluster monitoring and troubleshooting.
+· Strong knowledge on setting up automatic failover control and manual failover control using Zookeeper and quorum journal nodes.
+· Implement and manage Secure Authentication and Authorization mechanism for Hadoop clusters using Kerberos.
+· Good Experience in setting up the Linux environments, Password lessSSH, Creating file systems, disabling firewalls, swappiness, SELinux and installing Java.
+· Managed various environments like CentOS, and Red Hat Linux.
+· Hands on experience on cluster up-gradation and patch upgrade without any data loss and with proper backup plans. 
+· Scheduling all Hadoop/hive/sqoop/Hbase jobs using Oozie.
+· Experience in HDFS data storage and support for running map-reduce jobs.
+· Hands on experience in analyzing Log files for Hadoop and eco system services and finding root cause.
+· Experience monitoring and troubleshooting issues with Linux memory, storage and network.
+· Involved in bench marking Hadoop/HBase cluster file systems various batch jobs and workloads.
+· Automated processes for troubleshooting, resolution and tuning of Hadoop clusters.
+
+
+
+
+Work Experience:
+
+· Working as Admin Analyst in Accenture Solutions Pvt. Ltd, Bangalore, from Aug’2014 to till date.
+
+
+Education:
+
+· B. Tech from Jawaharlal Nehru Technological University, Ananthapur with 74.7%.
+
+
+Technical Skills:
+
+Hadoop			  :Hadoop, YARN, Sqoop, Pig, Hive, HBase, Oozie, Zookeeper, Kafka,
+				 Kerberos, Hortonworks.
+Operating System		: Redhat Linux, CentOS and Windows.
+Monitoring	: Site Core
+Ticketing Tool			: Jira, ServiceNow.
+DATA BASES			: Oracle, MySQL
+NoSQL Databases		: Hbase
+
+
+Professional Experience:
+
+Project #1
+Title					:  Shell
+Location				:  Bangalore
+Role					:  Hadoop Administrator
+Duration			: Aug’ 2015 – Till Date
+Environment				: Cloudera, Hadoop, HDFS, Hive, Sqoop, Zookeeper, HBase, Oozie, Kerberos,
+					  Yarn, RedHatLinux.
+	
+Role & Responsibilities:
+· Collaborated with multiple teams for design and implementation of Hadoop clusters.
+· Responsible for commissioning and decommissioning of nodes from Clusters.
+· Importing and exporting data into HDFS using Sqoop.
+· Maintaining cluster health and HDFS space for better performance.
+· Configured various property files like core-site.xml, hdfs-site.xml, mapred-site.xml based upon the job requirement.
+· Moving data efficiently between the clusters.
+· Rebalancing the Hadoop Cluster.
+· Working on Namenode high availability customizing Zookeeper Services.
+· Involved in bench marking Hadoop cluster file systems various batch jobs and workloads.
+· Involved in minor and major upgrades of Hadoop and Hadoop eco system.
+· Experience on manual failover and automatic failover.
+· Installation of various Hadoop Ecosystems and Hadoop Daemons.
+· Involved in Installing and configuring Kerberos for the authentication of users and Hadoop daemons.
+· Optimizing performance of Hive/HBase/Pig jobs.
+· Experienced in managing and reviewing Hadoop log files.
+
+
+
+
+
+
+
+Project#2
+Title					: Cincinnati Bell Telecommunications
+Location				: Hyderabad
+Role					:  LinuxAdmin
+Duration			: Aug’2014 – Aug’2015
+Environment				: Red Hat Linux
+
+Role & Responsibilities:
+· Part of L2 and L3 support.
+· Troubleshooting and resolving tickets related to applications and servers in production.
+· Responsible for analysis of current programs including performance, diagnosis and troubleshooting of problem programs, and designing solutions to problematic programming.
+· Completing the scheduled tasks within the stipulated time.
+· Participating in incident review meetings.
+· Documenting the production guides with the latest information.
+· Finding the root cause and providing the solutions.
+· Responding promptly and professionally to bug reports.
+· Review, to the extent possible, changes in code and the environment that will affect system performance.
+· Interacting with client and providing effective communication on bridge. 
+· Handling the issues related to installation, update, configuration, operations or performance.
+
+Personal Details:
+
+·  Date of Birth 	: 03/08/1993
+·  Marital Status	: Married
+·  Nationality 	: Indian
+·  Languages		: English, Hindi, Telugu
+
+Declaration:
+I hereby declare that the information furnished above is true to the best of my knowledge and belief.
+	
+									(Gouthami Obilli)   
+

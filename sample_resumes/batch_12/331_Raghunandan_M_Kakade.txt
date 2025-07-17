@@ -1,0 +1,380 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prasad Joshi
+
+
+Raghunandan M. Kakade
+Mobile No: 9730613878
+
+                                E-mail:raghunandan.kakade@gmail.com
+
+	      Professional Objective
+
+
+Seek a challenging position in a Software organization and utilize my knowledge and skills to achieve the organizational goals.
+	Summary of Experience
+
+
+· Having 1.10 years of experience in Cybage Softwares Pvt. Ltd (Pune) with excellent exposure to (Python, Flask, Cassandra, Elastic Search and Docker, Github)
+· Having 1.3 years of experience in Leo Technosoft Pvt. Ltd (Pune) with excellent exposure to (Python, Django, MySql, Postgresql 9.1).
+
+· Having 2.4 Years of experience in Ceylon Infotech Pvt. Ltd (Pune) with excellent exposure to ( Python Odoo/OpenERP, PHP, Mysql, Postgresql 9.1)
+
+· Having 1.2 Years of experience in Pragmatic Techsoft Pvt. Ltd. (Pune) with excellent exposure to ERP (Python OpenERP, Postgresql 8.4).
+
+· Experience at working both independently and in a team-oriented, collaborative environment.
+· Sincere, enthusiastic and interpersonal skills and strong interest to learn new skills/technology.
+	Academic Credentials
+
+
+· Master in Computer Application From VIIT institute, Pune University in 2010 with 59.35%
+· Bachelor of Science (Physics) from A.S.C. College, Pune University in 2006 with 72.75 %.
+· H.S.C. From S.N.R.Highschool, Indapur, Pune Board in 2003 with 55.50 %.
+· S.S.C. From M.P.Vidyalay, Indapur, Pune Board in 2001 with 60.13 %.
+	Technical Skills
+
+
+Languages
+
+ : Python, PHP,  C, C++
+RDBMS
+
+ : MySql, Postgresql 9.1
+Web Technologies
+ : HTML, Django Framework, JavaScript, Ajax, Jquery, Angular JS, 
+
+
+
+   RESTfull APIs
+Development Tools : Eclipse, Version Control Systems(SVN, GIT)
+OS
+
+
+ : Linux Ubuntu 12.04, Windows 7, Windows XP
+	Professional Experience
+
+
+· Sr Software Engineer
+Cybage Softwares Pvt. Ltd
+
+
+
+
+Dec 2015 – Till Date
+
+· Sr. Software Developer 
+
+Leo Technosoft Pvt. Ltd
+
+
+
+
+Sep 2014 – Dec 2015
+· Software Developer:
+Ceylon Infotech Pvt. Ltd
+
+
+
+
+Apr 2012 – Sep 2014
+· Software Engineer:
+Pragmatic Technosoft Pvt. Ltd
+
+
+
+
+Feb 2011 – Apr 2012
+· Industrial Trainee Engineer:
+Simran Systems Pvt. Ltd., Pune
+
+
+
+Dec 2009 – Jun 2010
+	Projects Handled
+
+
+	Title
+	Ampush(app.ampush.net)
+
+	Technology
+	Python (Flask REST Framework), Microservice,  HTML, Javascript, Cassandra,  Elastic Search, Docker, AWS Services (SNS,SQS,EC2), Jira, Confluence, Github
+
+	Team Size 
+	10
+	Duration
+	18 months
+
+	Overview: Ampush is advertisement agency providing platform for Advertisers to analyze serving of ads on social platform like facebook, pinterest and twitter. Ampush platform is designed on microservice architecture.  Worked on various modules like Planning, analysis, exploration as per client needs. Handled twitter module support for Ampush independantly and also involced in  Implementation of user authentication, security decorators and common libraries for all services. Worked with various gateway services like facebook, twitter and pinterest for data integration. 
+Responsibilities:
+· Contribution in User Management, Planning Services, Twitter support, Ad Tags Management modules in coding the project as per coding standards.
+
+· Code merging, code review, lead team.
+
+· Documentation of the various processes in the project.
+
+
+
+	Title
+	Wikireviews(beta.wikireviews.com)
+
+	Technology
+	Python (Django Framework), Angular JS, HTML, MySql, Javascript,Jquery, Ajax, Elastic Search, Django Rest Framework
+
+	Team Size 
+	10
+	Duration
+	6 months
+
+	Overview: WikiReviews the world’s largest 100% free community review website. Our goal is to allow consumers and everyday people to give feedback directly to the source, be it a manufacturer, company, movie studio, artist or physician. Our website provides a platform for anyone, from anywhere in the world, to not only review things that currently exist - like products, businesses and movies - but also things that could exist in the future - think meticulous business plans or foolproof world takeover schemes! 
+Responsibilities:
+· Contribution Professionals, Profile modules in coding the project as per coding standards.
+
+· Code merging.
+
+· Developing user interface.
+· Documentation of the various processes in the project.
+
+
+
+	Title
+	Supplier IQ(www.supplieriq.us)
+
+	Technology
+	Python (Django Framework), HTML, MySql, Javascript,Jquery, Ajax, Elastic Search, Radis Cache Server
+
+	Team Size 
+	3
+	Duration
+	6 months
+
+	Overview: supplierIQ® - the world’s most intelligent business matching platform. We use the latest technology to build a robust network of the suppliers you need and the qualified leads you want. It allows you to cut through the clutter of search engines and purchased lists by matching your unique buying and selling requirements with those of other manufacturers in the supplierIQ® network.
+Responsibilities:
+· Contribution in coding the project as per coding standards.
+
+· Code merging.
+
+· Developing user interface.
+
+· Demo to Client.
+
+· Daily Skype Call with client.
+
+· Site hosting
+· Documentation of the various processes in the project.
+
+
+
+	Title
+	Ambulance Management System
+
+	Technology
+	Python OpenERP7.0, Postgresql, XML
+
+	Team Size 
+	3
+	Duration
+	6 months
+
+	Overview: Implementation of ERP system for supporting the day to day business operations of
+
+Ambulance service provider, a Lithuania based organization.
+
+Objective of Ambulance service providing organization:
+
+· Maintain detailed record of patients
+
+· Effective monitoring of each stage of Ambulance service delivery
+
+· Proper management & archiving of patients medical cards record
+
+· Smoothening & thereby bring efficiency in the daily transactions with external entities like Hospitals, Patients, Health Insurance Agency etc.
+
+· Enhancing the control in business operational level data through advanced management reporting.
+Responsibilities:
+· Requirement Analysis and task management
+
+· Contribution in coding the project as per coding standards.
+
+· Developing user interface.
+
+· Developing Reports.
+
+· Implementation and training to user.
+
+· Demo to client.
+· Documentation of the various processes in the project.
+
+
+
+	Title
+	Lead Bid Network(www.leadbidnetwork.com)
+
+	Technology
+	Python (Django Framework), HTML, Postgresql, Javascript,Jquery, Ajax
+
+	Team Size 
+	3
+	Duration
+	4 months
+
+	Overview: Lead Bid Network is a Business-to-Business Bid Network. LBN becomes the bridge between buyers and sellers by verifying every step of the bidding process. LBN has opportunities for Sellers or Buyers as equal to earn profits. LBN monitor all processes online from registration, providing lead information till the bidding from our side for sellers and buyers too. It also offer the wide-ranging network for buyers and sellers of leads.
+Responsibilities:
+· Contribution in coding the project as per coding standards.
+
+· Code merging.
+
+· Developing user interface.
+
+· Developing Reports.
+
+· Demo to Management.
+
+· Site hosting
+· Documentation of the various processes in the project.
+
+
+
+	Title
+	Ceylon HRM
+
+	Technology
+	Python OpenERP7.0 , Postgresql, XML
+
+	Team Size 
+	1
+	Duration
+	8 months
+
+	Overview: HR Recruitment is customization of OpenERP HR module. It is the complete process of recruitment from Application form fill up to Candidate Selection which comes with Interview dates, candidate evaluation and recruitment stages. Also evaluation of MRF process and attrition ratios. All report generation like offer letter, confirmation letter, appointment letter. Also candidate’s necessary document record is maintained.
+Responsibilities:
+· Requirement Analysis and task management
+
+· Contribution in coding the project as per coding standards.
+
+· Developing user interface.
+
+· Developing Reports.
+
+· Implementation and training to user.
+· Documentation of the various processes in the project.
+
+
+
+	Title
+	Tours And Travel Management
+
+	Technology
+	Python OpenERP, Postgresql, XML
+
+	Team Size 
+	3
+	Duration
+	3 months
+
+	Overview: Tour and Travel Management is complete module for Tourist Company’s. Tourist Company can publish tour package, creating campaign for specific tour. This module providing functionality for domestic and international tour. Also this module useful for Hotel Management and Transport management. Individuals can book hotel rooms, services. Transportation also provides various types like flight booking, car booking. 
+Responsibilities:
+· Contribution in coding the project as per coding standards.
+
+· Developing user interface.
+
+· Developing Reports.
+· Documentation of the various processes in the project.
+
+
+
+	Personal Details
+
+
+Date of Birth
+
+:
+24th January 1986
+Marital Status
+
+:
+Married 
+Nationality
+
+
+:
+Indian
+PAN No
+
+
+: 
+BRXPK7838M
+Passport No
+
+
+: 
+L7432226
+
+Languages known
+
+:
+English, Hindi, Marathi
+Address
+
+
+: 
+128/7, Serenity, E-701, Near DSK Vishwa, Dhayari, Pune - 41
+Contact No
+
+
+: 
+9730613878
+E-mail
+
+
+
+:
+raghunandan.kakade@gmail.com
+
+I hereby declare that the above-mentioned information is correct up to my knowledge and I                  bear the responsibility for the correctness of the above-mentioned particulars.
+                Date:
+
+
+Place: Pune
+
+
+                                                              Raghunandan M. Kakade
+
+
+

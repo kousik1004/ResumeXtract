@@ -1,0 +1,133 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Soumya Devadiga					Soumya.mdevadiga@gmail.com
+SAS Developer							+919900548059	
+
+OBJECTIVE:
+Seeking a position that enables me to apply my SAS and Data Analysis skills so as to contribute towards meaningful utilization of organization’s data and grow within the organization.
+
+EDUCATION:
+Bachelor of Engineering (Electronics & Communication) with 75.88% aggregate from KLE Dr. M S Sheshgiri College of Engineering and Technology, Belgaum in May 2014
+
+CAREER OVERVIEW:
+Software Engineer at TESCO, from August 2014 till date.
+
+TECHNICAL SKILL:
+· Base SAS
+· SAS Tools:
+· SAS Data Integration Studio
+· SAS Management Console
+· SAS Enterprise Guide
+· Flow Manager
+· Database Tool: ORACLE SQL Developer
+· Operating System: Windows, Linux
+· Domain Specific Language: SQL
+· Bug tracking/Ticketing Tool : JIRA
+
+PROJECTS EXECUTED:
+1. WORKLOAD ENGINE (AUG2015 – Till Now)
+ROLE: SAS developer
+SOFTWARE STACK: SAS DI Studio, SAS Management console, Flow Manager, ORACLE SQL Developer
+DESCRIPTION:
+	Workload Engine produces the workload demand, four weeks in advance, to TESCO stores, to allocate right person at the right time in the right place. The resource required for every department, of a store is calculated here based on the history data combined with the sales forecast at a 15 min time interval.
+
+
+
+
+ROLES AND RESPONSIBILITIES:
+· Designed and developed SAS DI Jobs to extract source data in csv format, transform the data as per requirement and absorbing the transformed data into ORACLE/EXADATA database
+· Scaling the solution to 200+ stores 
+· Implementing Parallelism utilizing SAS grid/Oracle partitioning that yielded 50 percent improvement in batch execution time and implementation readiness for 1000+ stores
+· Implementing combining departments feature that provided store managers the flexibility to combine demands for multiple departments.
+· End to end testing of the developed solution 
+· Code deployment to different SAS environments by exporting and importing code as SAS metadata packages through SAS Management console.
+· Create a flow of the deployed jobs with the associated dependencies
+· Schedule the flow on the scheduling Linux server through SAS Management console
+· Use the visual representation of the scheduled flows on Flow Manager for triggering/monitoring/hold scheduled flows 
+· SAS Admin(Basics): user setup, server setup using SAS Management Console, setting up database connectivity, license upgrade, server patching with updates and Services restarts 
+· Data cleansing at source, verify and fix invalid data 
+· Use SAS Enterprise Guide to write programs to compare different datasets on different requirements
+· SQL to manipulate tables/views/triggers on ORACLE database as per development requirements
+· SQL queries on ORACLE to run data validation of the result
+
+2. PATTERN ENGINE(AUG2016-OCT2016)
+ROLE: SAS developer
+SOFTWARE STACK: SAS DI Studio, SAS Management console, Flow Manager, ORACLE SQL Developer
+DESCRIPTION:
+Pattern Engine solution is to automatically create a set of patterns for smoothening the demand curve taking into consideration the Store type and the time of the year.
+
+ROLES AND RESPONSIBILITIES:
+· Requirement analysis through direct interactions with business and stake holders
+· Design different flows for a Special Week and a Standard Week of the year
+· Develop DI jobs to read in csv source files and transform the data to cater the requirement and pass the result onto ORACLE/EXADATA database
+
+
+3. WHOLE STORE SCHEDULER (AUG2014-AUG2015)
+ROLE: Graduate Software Engineer
+SOFTWARE STACK: JDA workforce management
+DESCRIPTION:
+Whole Store Scheduler intends to provide Tesco stores a system for resource planning and reviewing their workload hours each week. The system makes the best use of the store target hours based on matching skills and colleague’s availability (HR data). 
+
+ROLES AND RESPONSIBILITIES:
+· Understanding the project process flow.
+· Understanding the HRAM feed and Productivity feed to the Whole Store Scheduling system.
+· Designing test cases for the test scenarios.
+· Testing/Defects tracking through JIRA.
+
+ACHIEVEMENTS:
+· Awarded ‘START OF THE MOMENT’ for dedicated work towards fixing multiple data issues.
+· Awarded ‘BEST GIRL’ of EC department at KLE College of Engineering and Technology for being inclusive performer in academics, sports and in organizing tech events.
+
+I hereby justify that the above information is true to the best of my knowledge and belief.
+
+Soumya Devadiga
+

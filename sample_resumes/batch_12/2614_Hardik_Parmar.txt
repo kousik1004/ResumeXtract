@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hardik
+
+
+ 
+
+Hardik Parmar  
+M: 09428225511  
+
+tohardikparmar@gmail.com  
+
+  
+http://www.linkedin.com/pub/hardik-parmar/4a/a3a/a57 
+
+Java Developer 
+
+ 
+       SUMMARY   
+
+ 
+
+ Having 5 years of experience as a Java developer. 
+
+ Moderate experience in working with SmartGWT Framework. 
+
+ Moderate experience in working with Spring Framework. 
+
+ Moderate experience in working with RESTful Web Service. 
+
+ Moderate experience in working with Maven. 
+
+ Well versed in developing Web-Based and Desktop applications. 
+
+ Moderate experience in Research and Development. 
+
+ Possess exceptional written and verbal communication skills. 
+ 
+       TECHNICAL SKILLS  
+
+ 
+
+ Technologies:  Core Java, J2EE, AngularJS 
+
+ Framework:   SmartGWT, Spring, Polopoly [by ATEX (3rd party tool)] 
+
+ Designing:  CSS 
+   
+
+       WORK EXPERIENCE 
+ 
+
+1) ZEITECH Solutions Pvt. Ltd., Ahmedabad, Gujarat [http://www.zeitech.in/] 
+
+ Duration: From July 2012 to April 2015 
+
+ Designation: Java Developer 
+
+ Role: Development, Bug fixing, Research & Development.  
+ 
+
+2) Big Bang Innovations Pvt. Ltd., Ahmedabad, Gujarat [https://bigbanginnovations.in/] 
+
+ Duration: From May 2015 to December 2015 
+
+ Designation: Software Developer 
+
+ Role: Development, Bug fixing, Research & Development.  
+ 
+
+3) ACE Infoway Private Ltd.,  Ahmedabad, Gujarat [http://www.aceinfoway.com/] 
+
+ Duration: Since January 2016, till now 
+
+ Designation: Developer - JAVA 
+
+ Role: Development, Bug fixing.  
+ 
+
+ ACADEMICS   
+ 
+
+ MCA, Gujarat Technological University, Kadi, Gujarat. 
+
+ BCA, Gujarat University, Ahmedabad, Gujarat. 
+
+ High School from New Saurabh School, GSHSEB, Ahmedabad, Gujarat. 
+ 
+ 
+
+mailto:tohardikparmar@gmail.com
+
+
+  PROJECT DETAILS  
+ 
+
+Desktop Applications 
+
+ 
+1. SeecureGUI 
+
+ 
+Team Size  : 4 
+Project Size  : 9 Months 
+Environment  : Windows XP, Eclipse IDE, Java Swing, XML Parsing 
+Responsibility : Development in capturing image, Time Scheduling for Capturing image or 
+
+recording video.  
+ 
+SeecureGUI is a surveillance system. ZEITECH Solutions Pvt. Ltd. has developed a Surveillance 
+
+system named SeecureGUI. This system will work for web camera as well as IPCamera (Axis 207). The 
+SeecureGUI is a desktop based system and the development of this system has been done using  tools 
+& technologies such as using Eclipse IDE, Java Swing, XML Parsing, dsj or vlc api and other apis. 
+Features of this system are Streaming, Capturing image, Record video, Motion detection, Broadcast 
+camera, Time scheduling and Watermark.  
+
+ 
+2. Attendance System 
+
+ 
+Team Size  : 2 
+Project Size  : 3 Months 
+Environment  : Windows 7, Eclipse IDE, Core Java, Microsoft Access 2007 
+Responsibility : Getting the records from the database which contains punching data of 
+
+the employee, send those punching data to the database server.  
+ 
+Attendance System has been developed for maintaining employee’s working time. Employee 
+
+uses finger print recognition machine for punching their in-out timings. Those data are maintained in 
+Microsoft Access database and that data are send to the database server at remote site. 
+ 
+Web Applications 
+ 
+1. TC 
+
+ 
+Team Size  : 8 
+Project Size  : 15 Months 
+Environment  : Eclipse IDE-Juno, SmartGWT, Spring, JSP, Servlet, Oracle 10g, XML Parsing   
+Responsibility : Development, tracking bugs and solving them, Testing, Research and 
+
+Development. 
+ 
+
+TC is a powerful and modular structured software solution for systematic and cost efficient 
+maintenance management. The concept of TC is a database founded CMMS / MRO planning and 
+management system with versatile parameter control options, allowing TC to be used in all the types 
+of companies and enterprises. In the industrial sectors of automotive, machinery and plant 
+construction, aero and space technology, food, logistics and transport as well as power engineering, 
+TC has already proved its efficiency. As a proactive, computerized maintenance management system, 
+TC can maximize productivity of all machines and equipments, pre determine potential break-downs 
+as opposed to troubleshooting post break-down and reduce maintenance efforts and costs. 
+
+ 
+
+
+
+2. Thompson Information Service 
+ 
+
+Team Size  : 6 
+Project Size  : 5 Years 
+Environment  : JSP, Servlet, MySQL   
+Responsibility : Development, tracking bugs and solving them, Testing, Research and 
+
+Development. 
+ 
+
+Thompson Information Service is a website, which provides the documents such as articles, 
+Newsletters, E-books, Publications, Webinars on a subscription basis. Products are to be purchased to 
+get access to those informative documents forms. These documents can be purchased in formats like 
+Online, Print or Online and Print both. 
+ 
+Mobile Application 
+ 
+1. Teamworks 
+
+ 
+Team Size  : 7 
+Project Size  : 10 Months 
+Environment  : Eclipse IDE-Juno, Toad for MySQL, Spring, Maven, JSP, Servlet   
+Responsibility : Development, tracking bugs and solving them, Testing, Research and 
+
+Development. 
+ 
+
+Teamworks is a comprehensive team management app for small businesses which allows 
+business owners and managers to track the location of the entire team and offers a daily location 
+report of the team. An innovation within the app is GPS based attendance system which replaces the 
+smart card swipe with a mobile for logging entry and exit time of team at office or client/vendor 
+locations. Teamworks also features a complete work flow management system which includes task 
+assignment, task status updates and task monitoring, and project management within the team. It 
+also features the entire suite of HR modules like leave management, payroll module, payslip 
+preparation etc. The app is designed to improve the productivity and performance of the team in a 
+small business. 
+ 
+Frameworks 
+ 
+Polopoly Framework 
+ 
+Polopoly Framework is a 3rd party tool, provided by the firm named ATEX. This framework is 
+developed in JAVA technology, using JSP, Servlet, Struts2. The front-end of this framework is 
+developed using Javascript, JQuery, and .vm (velocity file). This framework is generally used for 
+creating the E-books, Publications, Newsletters, Articles, and all sort of documents for the marketing. 
+It has a feature of developing and maintaining the website, which contains all the above document 
+forms for E-Reading. These documents needs the subscriptions to access its pages.  
+
+ 
+       PERSONAL DETAILS   
+
+ 
+
+ Date of Birth    : 04/10/1988 
+
+ Gender    : Male  
+
+ Extra - Curricular Activities  : Drawing, Sports (Cricket) 
+
+ Languages known   : English, Hindi, Gujarati 
+
+

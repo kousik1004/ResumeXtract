@@ -1,0 +1,139 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+resume
+
+Deepika Hadagali,                                                            Email:
+#202/A, 2nd Floor,                                                             deepika.hadagali@gmail.com,
+17th main, 22th A cross,                                                       h.deepika15@yahoo.com                                             
+HSR Layout Sector 3,                                                        Phone: 9902031690
+Bangalore-560102 
+				 
+       
+Experience Summary
+I am a Dot Net Developer with a total of 5.6 years of work experience.
+
+Career Profile
+Software Engineer in XLHealth Corporation India Pvt. Ltd. (A United Health Group Company), BANGALORE since Jun 2014
+
+Technical Proficiency
+Programming Languages	:  C#
+Scripting Languages 		:  Javascript
+Source Code Controller	:  TFS		
+Database Language  		:  Microsoft SQL Server 2012
+Web Technologies 	            : ASP.NET, ADO.NET, MVC 4
+
+Work Experience
+· Currently working as Software Engineer with XLHealth Corporation India Pvt. Ltd. 
+(A United Health Group Company), Bangalore from June 2014 to till now.
+· Experience as a Junior Software Developer in Winprotech IT Solution India Pvt. Ltd, Bangalore, from December 2012 to June 2014.	   
+
+PROJECTS UNDERTAKEN
+1. Large Roster Cleanse (LRC): The primary purpose of the project is used to process the roster file end to end. Once UHN receive the roster file, UHN shall create a new request in web application and attach the roster file there. Each roster can be in different format, hence web application shall use natural language processing method to identify the fields correctly and process it. System shall validate below while submitting the request.
+
+Team	 : 8
+Tools Used 	 : ASP.NET MVC, C#, JavaScript, SQL Server 2012
+Roles & Responsibility: 
+· Analysis of the specifications provided by the client.
+·  Database designing, Coding and Development of forms.
+·  Coding based on standards and compliance for different logical layers like data access layer, business layer and presentation layer. 
+· Fixing bugs
+· Creating Use case description, Test case documents
+
+2. Caliber: The primary purpose of the project is used to track and trend letter correspondence accuracy and quality within the A&G department. The interface is integral to identify the root cause of errors and for providing solutions to eliminate those errors. The data is compared with the source system for accuracy. The application shall allow the users to log, assign, and track a review through the complete process from receipt to closure.  The interface shall also provide automated notifications and reports that will ensure compliance with those processes
+        
+Team	 : 4
+Tools Used 	 : ASP.NET MVC, C#, JavaScript, SQL Server 2012
+Roles & Responsibility: 
+· Analysis of the specifications provided by the client.
+·  Database designing, Coding and Development of forms.
+·  Coding based on standards and compliance for different logical layers like data access layer, business layer and presentation layer. 
+· Fixing bugs and change requests raised by the clients.
+· Creating Use case diagram, Use case description, Test case documents
+· Written automation solutions to Import data from Caliber Application 
+	 
+3. WOL Fax Blast: The primary purpose of the project is used to implement an application to support operational process in generating the WOL Request Letters from Provider Appeals Data imported from STARS application and faxing it to relevant provider and reverting updated the fax status to STARS application with the goal of improving the overall delivery process.
+
+Team	 : 3
+Tools Used 	 : ASP.NET, C#, Ajax, JavaScript, SQL Server 2012
+Roles & Responsibility: 
+· Analysis of the specifications provided by the client.
+· Coding and Development of forms.
+· Coding based on standards and compliance for different logical layers like data access layer, business layer and presentation layer. 
+· Fixing bugs and change requests raised by the clients.
+· Creating Use case diagram, Use case description, Test case documents
+
+4. Holiday Management System: The primary purpose of the project is that is a product deals with employee activities in a company. It includes employee registration, holiday application, Query management modules.
+	Holiday application approval process will be depends on department hierarchies. Employee and department manager will be notified by a mail after every updation of holiday application. Query management deals with questions raised by employees. Employees can post their question to a particular department or all other departments.
+
+Team	 : 4
+Tools Used 	 : ASP.NET, C#, Ajax, JavaScript, SQL Server 2007
+Roles & Responsibility: 
+· Analysis of the specifications provided by the client.
+· Coding and Development of forms.
+· Coding based on standards and compliance for different logical layers like data access layer, business layer and presentation layer. 
+· Fixing bugs and change requests raised by the clients.
+· Creating Use case diagram, Use case description, Test case documents
+
+Achievements: Received gold star award for project Caliber QRT Module, Team Spirit Award for LRC
+Course & Training:	 6 months Course & Training of .NET 3.5 - C# , ASP.NET 3.5, ADO.NET, MS-SQL SERVER 2005,WPF, WCF  in NIIT – Jayanagar 4 Blk Branch, Bangalore.
+
+Academic Qualification
+B.E (Info Sc) 		      : SCT IT, Bangalore 2011
+PUC 			      : R.M.G College Mudhol in 2007.
+SSLC            		      : Rotary English Medium School, Mudhol in 2005.
+
+
+Personal Details
+Father’s name             :  Pramod.
+Date of Birth		:  15/04/1989    
+Gender	           		:  Female    
+Nationality		:  Indian   
+Languages		:  English , Hindi, Kannada, Telugu.

@@ -1,0 +1,240 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RANJEET KUMAR
+
+E.ARUL PRASAD
+Present Address: No.33, 4th Cross, Link Road, Madiwala, Bangalore-560068, Karnataka.
+Permanent Address: 11/12, U.Velliampalayam, Solipalayam (PO), AvalPoondurai (VIA), Erode-638115, TamilNadu.
+
+Contact: +91-9663537252; Email: arulprasad.e@gmail.com; Date of Birth: 12th Jun 1988 
+
+PROFESSIONAL SUMMARY
+· 6+ years of total professional experience in the user interaction, requirement gathering, systems analysis, testing, system ownership, maintenance, design, development and implementation of many web based application systems using .NET technologies.
+· Strong knowledge and work experience in developing web applications using C#, Asp.Net, MVC, WCF, Microsoft SQL Server 2008 R2, Oracle, Jquery, JSON, Apache Kafka and Redis Cache.
+· Proven knowledge in Creating and Consuming WCF services and Web Services.
+· Expertise in T-SQL writing stored procedures, triggers and functions.
+
+· Good communication skills with reputation of unwavering accuracy, credibility and integrity. Result oriented professional with a matured approach and able to make an effective contribution to the performance of a team with good leadership and motivating capabilities.
+
+· Result oriented professional with solid knowledge of detecting bugs and efficiency in resolving.
+
+· A self motivated, creative and diligent team player combining interpersonal skills with analytical mind-set and learn quickly to analyze the situation, identify requirements and provide solutions.
+
+· Participated in the full life-cycle development using SDLC and maintenance using Agile (Scrum) Methodologies with daily scrums.
+
+· Having good knowledge on creation and scheduling of T-SQL  jobs  to run daily.
+· Expertise with working on AJAX (Asynchronous JavaScript and XML) toolkit controls with ASP.NET Web applications.
+· Ability to work independently as  well  as  work  with  teams  having varying backgrounds on complex  issues.
+
+TECHNICAL SKILLS
+	Languages
+	C#
+
+	Operating System
+
+Technologies
+
+Database 
+Toolkit                                   
+	Windows XP,7
+ASP.Net, Dot Net Core, MVC, WCF, HTML, CSS & JQuery
+SQL Server 2008 R2,2012, Oracle 11g
+Ajax control tool kit
+
+
+
+EDUCATIONAL CREDENTIALS
+
+MCA 2011
+K.S.R College of Engineering (Anna University), Tiruchengode. Secured 90%
+
+BCA 2008
+
+
+Kongu Arts and Science College (Bharathiyar University), Erode. Secured 74%
+
+
+Professional Experience:
+
+Senior Software Engineer, RxPrism Health Systems Pvt. Ltd. – Bengaluru, Karnataka
+April 2015 - Present
+
+Project# 1
+Project Name
+
+: CWD (Call with Doctor)
+
+Client
+
+
+: B2C
+
+Role
+
+
+: Senior Developer
+
+Environment
+
+: Asp.Net, WCF, C#, Oracle 11G, Apache Kafka, Redis Cache, JSON, Hangfire, Quartz.
+Call with Doctor (CWD) application is for doctors, it’s a Hi-Tech mobile app for doctors to enable instant on-demand telephonic discussion from anywhere & anytime with their patients at the easiest convenience. Allows patients to talk to any doctor part of the platform from across the globe in just two clicks, can engage with doctor discussing about-Preventive Medicine, Diet and drug interactions, General health questions/concerns, Trivial problems, Follow-up calls, Treatment calls, Second opinions, Treatment & Surgery options, Share photos of Patient reports etc. to Doctor. Setting up Call with Doctor for one loved ones: Add another person in the call. Receive advice/Rx from doctor. Patient may pay call charges through PAYTM wallet or may use Health points.
+
+Responsibilities:
+
+· Creating Rest services for sending notifications and backend activities.
+· Developed Hang fire Scheduler to schedule the jobs and also used Quartz to do failure tasks.
+· Integrated QuickBooks for accounting.
+· Using FCM to send push notifications.
+· Implemented auto debit payment & messaging system.
+· Handled many production issues and enhanced the User interface as per the requirement.
+· Played a Lead role in Program Management System and WCF Services.
+Project# 2
+Project Name
+
+: RxPoll
+Client
+                        
+: B2C
+
+Role
+
+
+: Senior Developer
+
+Environment
+
+: Asp.Net 4.0, WCF, SQL Server 2012, C#, JQuery, SignalR.
+
+The surveys or polls are very much important in different situation and organizations. The clients which are offering variety of services to the customers, If you need input from a number of people, must get results quickly, and need specific information to support business decisions, then a survey is the most appropriate technique. By analyzing these responses companies will have an overview of their services and performance.
+Responsibilities:
+
+· Participated in discussions related to analysis and design of the task to be taken up in a release/sprint.
+· Created and consumed WCF services and followed SOA Architecture. 
+· Developed Custom Controls and User Controls using ASP.Net and C#.
+· Developed SQL queries, schema, functions, triggers, views, and stored procedures for database design.
+· Used LINQ to implement the Data Access Layer.
+· Used Visual SVN for version controlling.
+Project# 3
+Project Name
+
+: Wall of Diabetes
+
+Client
+
+
+: Johnson & Johnson
+Role
+
+
+: Senior Developer
+
+Environment
+
+: Asp.Net, WCF, C#, SQL Server 2012, Jquery.
+Wall of Diabetes is a mobile application (app) at the frontend with an online platform at the backend for physicians to post short messages on diabetes, and thereby help diabetic patients in their fight against the dreaded disease. This app is particularly useful for diabetic patients, and physicians and caregivers involved in the care of diabetes.
+Responsibilities:
+
+· Creating Rest services for App.
+· Develop secure, high performance, highly available and complex web services that provide services to web and mobile clients over the Net. 
+Software Engineer, RVMatrix Software Technologies Pvt. Ltd., - Chennai, Tamilnadu
+July 2011 to March 2015
+Project# 4
+Project Name
+
+: Launchpad
+
+Environment
+
+: Asp.Net, WCF, SQL Server 2008 R2, C#.
+Client
+
+
+: B2C
+
+Role
+
+
+: Developer
+
+
+The scope of this product is to manage the application (i.e. Mobile or Windows) and tracking the application usability and full control to access the application through CMS controlled by administrator, detailed reports will be generated with customized filters.
+Responsibilities:
+
+· Used ADO.NET and its components Data Reader, Dataset, Connection and Data Adapter as middleware component to access the SQL database.
+· Involved in creating of the tables following the Normalization technique.
+Project# 5
+Project Name
+
+: eQuery Response Manager
+Environment
+
+: Asp.Net, SQL Server 2008 R2, C#, JQuery.
+
+Client
+                        
+: Capgemini Business Services India Ltd.
+Role
+
+
+: Developer
+
+eQRM is for managing high volumes of customer inquiries submitted to your mailboxes. Based on customizable business rules, eQRM accelerates the response process by automatically directing messages to the right agent, categorizing and prioritizing messages and, if desired, sending automated replies. A full-featured, browser-based interface provides your agents with the productivity tools and knowledge resources they need to provide fast, accurate, and personalized responses to your customers.
+Responsibilities:
+
+· Analyzing the requirements.
+· Writing Complex Queries & Store Procedures.
+· Created Sophisticated User Interface, Business logic, Data Access Layer.
+· Implementing Coding using T-Sql.
+
+· Implementing Error Handling and Logging.
+
+· Managing data structures, performance tuning and improve data performance.
+
+· Involved in Design, Development, Database design and Testing.
+
+· Experience in using SQL Server Profiler and SQL Server Agent.
+
+· To analyze long running slow queries and tune the same to optimize application and system performance.
+

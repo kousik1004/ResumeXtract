@@ -1,0 +1,159 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - AnugnaResume.docx
+
+
+Gaddam Anugna     
+Email:gaddamanugna@gmail.com                                                       Contact Address:  Flat No - 507,Vishnu Apartments,  
+Mobile: +91-9959930507                                                                                                    Kurnool, Andhra Pradesh.  
+
+ 
+PROFESSIONAL EXPERIENCE  
+
+Lead Engineer at HCL Technologies           (Nov’14– Till now) 
+
+ Working on Big Data technologies for past 2 years and have a total IT experience of around 4 years. 
+ Proficient in using various Big Data tools like Sqoop, Hive. 
+ Part of Research and Development team under the Analytics division.  
+ Developed WDG, COLA, Edoc projects on MVC, Azure for multiple international clients. 
+
+ 
+
+DOMAIN EXPERTISE   
+
+ Hive  Sqoop 
+
+ Map Reduce, Spark ,PIG  AWS(EC2,S3) 
+
+ SQL Server 2008,MYSQL   MVC, Azure (Cloud). 
+. 
+
+EDUCATION      
+
+PROGRAM  INSTITUTION  %/CGPA  YEAR  
+
+Post-Graduation in Bigdata engineering BITS Pilani - 2018 
+
+        B.E. (Elec. & Communication)  
+Jawaharlal Nehru Technological University(A)    
+
+Kottam College of Engineering 79.29  2014 
+
+XII (Board of Intermediate Education-AP) Sri Chaitanya Mahila Kalasala 88.8 2010 
+
+X (Board of Secondary Education-AP) Bhashyam Public School, Kurnool  85 2008 
+
+ 
+PROJECTS  
+
+       Project Description  Technical 
+Environment  
+
+Duration  
+
+Capacity Planning Of Data centers 
+ Forecasted the number of servers that a data center 
+
+needs to handle the incoming load to avoid any 
+congestion of traffic at peak hours. 
+
+ Used Sqoop to import the data from different data centre 
+and R for Analysis of load at peak time. 
+
+ 
+ 
+
+Sqoop,Hive 
+
+Feb’17-Till Now 
+
+Annual Health Survey (AHS) – Analysis POC 
+ Used ETL and batch processing to analysethedata 
+ Obtained a reliable dataset on indicators like IMR, MMR, 
+
+TFR along with their covariates (process and outcome 
+indicators) at the district level and mapped the changes 
+therein on an annual basis. 
+
+ 
+ 
+
+Sqoop,Hive 
+
+Apr’18-June’18 
+
+Prediction Analysis of Saavn Trending Songs 
+ Predicted top 100 trending songs on Saavan with 70% 
+
+accuracy 
+ Created a data pipeline using MapReduce programs to 
+
+filter, analyze the Saavn's stream records. 
+ Used Hive for cleaning the data 
+
+ 
+ 
+
+MapReduce,Hive,Spark 
+
+Jan’18-Apr’18 
+
+WDG Budget Tool 
+Used to calculate the fiscal year budget of Microsoft core OOPs 
+Team. 
+
+MVC,SQL,HTML,Azure 
+Jan’16–Feb’17 
+
+WDG Order Status Tool  
+Used for tracking the order status of LMX, which is used as internal 
+tracking tool by Microsoft.  
+
+ 
+MVC,SQL,HTML,Azure 
+
+Jun’15–Jan’16 
+
+ 
+
+

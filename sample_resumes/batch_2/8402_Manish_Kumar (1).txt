@@ -1,0 +1,321 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manish Kumar 
+Address:  H.no. 528 Sector-22, Gurgaon
+Mobile: +91 9555097664
+Email: kumar.manish1689@gmail.com 
+CAREER OBJECTIVE
+Seeking a challenging career in your esteemed Company, where I can prove myself to the best of my abilities and contribute towards the growth of organization. 
+As Per Current
+
+· An I.T professional with 6+ years of total experience in I.T sector.
+· Currently working with Accenture Services Pvt. Ltd. Gurgaon since 29 June 2015 as Senior Software Engineer.
+· I am a Goal oriented, self-motivated and committed to the successful outcome of the project. I am willing to work hard and have a great desire to learn.
+· An experienced team lead and team player with excellent communication and interpersonal skills who has the ability to work independently under pressure.
+
+· Acquainted with database design and management involving installation, tuning and migration of databases along with and maintenance.
+· Good experience in developing applications in technologies like C#, Asp.net, Ajax, JavaScript, JQuery, HTML, CSS, Sql Server 2008R2. 
+· Adept in end-to-end development of software products from requirement analysis to system study, designing, coding, documentation and implementation.
+· B.Tech (Computer Science) from Vaish College of Engineering(MDU) Rohtak with 74% marks.
+TECHNICAL PROFICIENCY
+
+Operating System
+: 
+Windows XP/7/10, Server-2003/2008 R2
+Web Technologies
+: 
+Asp.net, WCF, LinQ, MVC, Entity Framework, Azure , Angular.js
+Languages
+
+: 
+C#, Python
+IDE
+
+
+:
+Microsoft Visual Studio 2008/2010
+WEB
+
+
+:
+HTML, Advance JavaScript, Query, Css, AJAX,Angularjs.
+Database
+
+:          Sql Server 2005/2008/2008R2/2012
+EMPLOYMENT SCAN
+
+Tenure 
+
+
+
+Company 
+
+
+
+
+Designation
+Since June ’15- Till now 
+Accenture Services Pvt. Ltd
+                          Senior Software Eng.
+
+Apr ’14- June ‘15 
+          G-Cube Webwide Solutions Pvt. Ltd
+
+          Software Eng.
+July ’13-Apr ’14
+
+NetEdge Computing Service Pvt Ltd            Software Developer
+Nov ’11- Dec ’12       
+IdeaFarm Technologies, New Delhi                     Software Eng.
+PROJECTS HANDLED
+Accenture Services Pvt. Ltd.
+1. PROJECT DETAILS – Performance Management
+Client: Accenture
+
+Description:
+All Accenture employees track of performance is maintained in this tool. All employees priorities, feedback, compensation & personal detail is maintained. All leads having different right to allow to give feedback to their counselee.
+
+Technologies Used:
+FRONT-END
+:   Angular.js, JavaScript, JQuery, HTML5, CSS3
+BACK-END  
+:   WebApi , Amazon Dynamo
+ROLE  
+
+:  Software developer
+2. PROJECT DETAILS – Abacus
+Client: Accenture
+
+Description:
+The Abacus is an Android Mobile App developed for recruitment process of Accenture. With this App candidate can upload the documents like resume, mark sheet. Candidate delete or view the document through this app. User can login with LinkedIn credential. Authentication is provided with OAuth.
+Technologies Used:
+FRONT-END
+:   Angular.js, JavaScript, JQuery, HTML5, CSS3
+BACK-END  
+:   SQL 2008R2
+ROLE  
+
+:  Software developer
+G-Cube Webwide Solutions Pvt. Ltd.
+1. PROJECT DETAILS – Wizdom
+Client: Maruti, Tech Mahindra , Toyota, PNB
+Description:
+The Wizdom is an online Learning Management System. Wizdom is used by company for providing training for the employees of the company. Admin relevant content for training the employees of the company and employee is able to see the content by his\her login id and participate in learning process of the company
+Modules:Courses, Admin,Courses, Dashboard.
+Technologies Used:
+FRONT-END
+:   Asp.net, JavaScript, JQuery, HTML5, CSS3
+BACK-END  
+:   SQL 2008R2, 
+ROLE  
+
+:  software developer
+2. PROJECT DETAILS – Repoi (Real Estate Projects of India)
+Client: Brand Realty
+Description:
+This is a real state project like  www.magicbricks.com and  www.99acres.com where different kind of buyers , sellers ,developers and clients deal with each other.
+
+1. Developer : This is actually for builders where builders insert entry of  new  projects like home , farm , factory etc. 
+
+2. Project : Projects like home,villa,factory,farm  is added , deleted  and edited  in this part by the admin 
+
+3.Listing: Ad provided by buyers , sellers and builders  is added by this module where he/she puts up his property all information like cost , price or whether he or she wants to sell or buy. After adding listing by buyer or seller or developer Iit goes public to website. 
+
+4. Staff :There are different kind of staffs for the application  like 
+
+Technologies Used:
+FRONT-END
+:  MVC4.0 ,Jquery , Linq ,Entity Framework 
+
+BACK-END  
+:   SQL 2008R2
+ROLE  
+
+:  software developer
+IdeaFarm Technologies
+1. PROJECT DETAILS – Prompt HR
+Description:
+The Prompt HR -Human Resource Information System (HRIS) is a software or online solution for the data entry, data tracking, and data information needs of the Human Resources, payroll, management, and accounting functions within a business.
+
+Modules: Personnel, Compensation & Benefits, Admin.
+Technologies Used:
+FRONT-END
+:   Asp.net 3.5
+BACK-END  
+:   SQL 2008
+ROLE  
+
+:  software developer
+2. PROJECT DETAILS – Leave Management System
+Description:
+The main objective of developing this Development of a feature-rich, practical online leave management system (LMS) is to create effective web based leave management portal for organizations where all employees can apply leaves and Managers can view and accept or reject those leave status. This software is meant for managing employees Leave by himself, its Primary Manager, its ‘reporting-to’ or finally by Leave-Administrator.
+
+Technologies Used:
+
+FRONT-END
+:   Asp.net 3.5, JavaScript, JQuery
+BACK-END  
+:   SQL 2008
+ROLE  
+
+:  software developer
+3. PROJECT DETAILS – Employee Self Service
+Description:
+This software is meant for the employees who worked for the company to add, update, view and delete data of a particular employee. Manager can view update and add new employees. It contains 5 modules My Information, Attendance, Holiday and Payroll.
+
+Technologies Used:
+
+FRONT-END
+:   Asp.net 3.5
+BACK-END  
+:   SQL 2008
+ROLE  
+
+:  software developer
+4. PROJECT DETAILS – Payroll & Taxation
+Description: 
+The Payroll Management System deals with the financial aspects of employee's salary, allowances, deductions, gross pay, net pay etc. and generation of pay-slips for a specific period.
+The outstanding benefit of Payroll Management System is its easy implementation. Other advantages of Payroll Management System are its extensive features and reports.
+
+
+Payroll Management System extensive features are:
+
+· Manage Employee Separation / FNF Efficiently.
+
+· Define the emoluments, deductions, leave etc.
+
+· Generate Pay-Slip /Tax Card at the convenience of a mouse click.
+
+· Generate and Manage the Payroll Processes according to the Salary Structure assigned to the employee.
+
+· Generate all the Reports related to employee, attendance/leave, payroll etc.
+
+Technologies Used:
+
+FRONT-END
+:   Asp.net 3.5
+BACK-END  
+:   SQL 2008
+ROLE  
+
+:  software developer
+Clients:
+DCM ShriRam, United Biscuits, PolyPlex, Antara Senior Living, MakeMyTrip, IHO, Kempinski Ambience Hotels. 
+ACADEMIC CREDENTIALS
+
+2011 
+      B.Tech (Computer Science) from Vaish College of Engineering(MDU) with 74%                           
+2007
+       Intermediate from Haryana Board with 84%.
+2005
+       High School from Haryana Board with 79%.
+EXTRA CURRICULAR ACTIVITIES
+
+1.  Secured 2nd  position in 12th standard in whole school.
+2. Secured 3rd  position in 10h standard in whole school.
+STRENGTHS
+
+Team worker, Optimistic, Result Oriented Person.
+
+Always opt for learning new things related to technology.
+PERSONAL MINUTIAE
+
+Name
+
+
+
+:
+Manish Kumar
+Mother Name
+
+:
+Smt. Radha
+Father’s Name
+
+:
+Sm. Bal Mukund
+Father’s Occupation
+:   
+Business
+Date of Birth
+
+
+:
+01/06/1990
+Marital Status
+
+:
+Single
+Nationality
+
+
+:
+Indian
+
+Language
+
+
+:
+English, Hindi
+
+DECLARATION
+
+I hereby declare that the above particulars are true and correct to the best of my knowledge and belief.
+DATE
+:  
+
+
+
+
+
+
+
+(Manish Kumar)
+
+PLACE
+:   

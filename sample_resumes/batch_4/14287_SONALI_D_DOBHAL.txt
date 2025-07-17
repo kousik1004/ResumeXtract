@@ -1,0 +1,186 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SONALI D. DOBHAL
+Mobile: +91- 8975863466, 9175403966                                      Plot No. 2,lane no 2,amardeep Pratisthan,
+Email: sonali.dobhal98@gmail.com                                                   Hadapsar, Pune – 410014.
+
+PROFESSIONAL SUMMARY:
+Over 4.2+ Years of experience in designing, developing, maintaining, modifying and supporting software applications in domains such as Hotel Tourism.
+Extensive knowledge with hands on experience on Client/Server and Web using C#, VB.NET, MVC, Angular JS, ASP.NET 3.5/4.0, WebAPI, LINQ, ADO.NET, Ajax, SQL Server 2005/2008, XML Web Services, JSON, JQuery.
+Expertise in creating User Interfaces using Web Forms, User Controls, various Custom Controls, Validation Controls and validating user inputs using validation techniques.
+Worked with ASP.NET AJAX to create rich UI Web Applications and to improve performance.
+Developed, Configured and Consumed Web services in C#.net.
+Hand on experience on Model View Controller (MVC) architecture.
+Good experience in development of Stored Procedures and Triggers in SQL Server 2005/2008/2012.
+Experience using configuration Management Tools such as Sub Version (SVN) for version control.
+Experience in implementing LINQ by using LINQ to Dataset and LINQ to SQL for converting source code data
+Ability to adapt to new environment and open to learn new technologies in a team and as an individual good at problem solving and troubleshooting capabilities.
+
+TECHNICAL SKILLS:
+
+	Languages
+	.NET Framework 4.5/4.0/3.5, VB.Net, C#, ASP.Net, MVC Framework, Ajax, AngularJS, , ADO.Net, SQL, Web API and LINQ
+
+	Web Technology
+	ASP.Net, ASP, HTML, CSS, JQuery, BOOTSTRAP, JSON Web Service
+
+	  Web Services
+	REST, SOAP, WSDL, XML.
+
+	XML Technologies
+	XML, LINQ to XML, JSON
+
+	Mark-up/Scripting Lang.
+	HTML, CSS3, XML, JavaScript, VBScript
+
+	Databases
+	SQL Server 2008/2005
+
+	Application/Web Servers
+	Microsoft IIS 6.0
+
+	Version Controls
+	Sub Version 
+
+	IDE
+	Visual Studio .Net 2012/2010/2008/2005/2003
+
+	Operating System
+	Windows 7/ XP 
+
+
+
+PROFESSIONAL EXPERIENCE:
+1st August 2013 – 30th May 2015  	Core Technology pvt ltd 			Software Developer
+1st June 2015 – till date  		Enovate IT Outsourcing pvt ltd		Software Developer
+
+Project Name : Cancelon (Hotel Tourism)		                  DURATION: 1st June 2015 – TILL DATE
+Role: .Net Developer							
+
+Description: Cancelon.com is the hotel booking website for the users like trivago, tripadvisor,hotel.com etc. Trivago,Tripadvisor are our partners in hotel booking. There are some hotel suppliers in the application. We need to compare prices of particular hotel with each supplier and show to the front end. Book hotel using paypal account, credit card etc. Connect cancelon.com with the tripadvisor, trivago sites. Integration of new suppliers in the cancelon system and compare prices. Also send booked hotel voucher to the users using html mail templates. Html changes at front end as per requirement for user friendly look and feels.
+Responsibilities:
+· Gathered User Requirements, Fixing Daily issues, Developing Engine with User Friendly Design.
+· Development, self testing and deployment of code in QA and PROD environment.
+· Daily co-ordination with onsite manager.
+· Helping the team members on technical and functional issues.
+· Developed presentation layer views using ASP.NET MVC 4, C#, HTML and JQuery. 
+· Designed user interface for application using ASP.NET MVC and implemented business logic using C#.
+· Worked with ASP.NET MVC 4.0, Partial Views, and Master Pages and developed Cascading style sheets  (CSS) for consistent look and feel of the website.
+· Extensively involved in developing components for Business and Data tier using C#, ADO.NET and also involved in creating controllers to handle the events raised on the Razor views in ASP.NET MVC 4 framework.
+· Used JQuery to add slick animations and effects to elements, and used simple Ajax techniques and methods.
+· Experience in design of RESTFUL webAPI services like basic CRUD operations.  
+· Used extensively JavaScript and ASP.NET for AJAX Implementation and Client Side Validations.
+· Using Bootstrap transformed standard HTML websites into single page design.
+Environment: .NET Framework 4.5, Asp.net 4.5, Visual Studio 2013, SQL Server 2012, ADO.NET, HTML, LINQ,  IIS 6.0, ASP.NET MVC 4.0, JSON, JavaScript, JQuery, AJAX, Bootstrap, CSS3.
+
+Project Name : MANAGEMENT TOOL			                                                  Nov’16-Dec’16
+Role: .Net Developer							 
+
+Description: Management Tool is basically Manage hotels and their details. This is handling by admin. It is develop in Angularjs design with Asp.Net Web API which return response in Json. Admin can disable specific hotel from meta search like tripadvisor, trivago searching, edit hotels details, with filtering hotels as per partner's, hotel id, hotel name.
+Responsibilities:
+· Gathered User Requirements, Developing Engine with User Friendly Design.
+· Developing Engine with User Friendly Designing Angularjs with handle Web API request and Response.
+· Developed client call back mechanism together with heavy JavaScript to provide better user interactivity. 
+· Used JQuery to add slick animations and effects to elements, and used simple Ajax techniques and methods.
+· Worked in design of RESTFUL webAPI services. 
+ Environment: Angularjs, Asp.Net MVC Web API, JQuery Asp.net 4.5
+
+Project Name : School Management System     	                                                             Aug’13 - July’14  
+Role: .Net Developer
+
+Description: I have developed a System to Education School. In this system Admin, Student and School Staff are the main roles. In this system Admin will Schedule academic calendar, keep record of student progress report and staff activities also. 
+Responsibilities:
+· Involved in Designing and developing the .Net Architecture components of the applications. 
+· Understanding requirements, fixing the issues, Development with UI designing System.
+· Rewrote a web application which was written in ASP and VB to .Netframe work 4.5 using ASP.NET and C#
+· Designed & developed Web Forms using C#
+· Experience with SQL Programming for creating tables Views Triggers indexes and Cursors.
+Environment: C#, ASP.NET, AJAX, .Net Framework 4.0, 4.5, SQL Server 202005, JavaScript
+
+Project Name :Retail Software ERP       	                                                                          Aug’14 - July’15 
+Role: .Net Developer
+
+Description: Retail ERP Software is multi-location retail software with virtually no limits on location, ledgers, items SKUs, departments, cost centers, and transactions you enter. In this system Inventory, Sales, Purchase, Warehouse, Property Management, Payroll, Customer Relationship, Financial Management, Master Data are main modules. 
+Responsibilities:
+· Gathered Client requirements and converted them into the Technical Specifications and developed Web forms using C#.NET.
+· I achieved working experience of writing Database stored procedures and triggers.
+· I understood the Retail ERP�s Master Data, Inventory, Sales activities.
+Environment:.NET Framework 4.0, C#.NET, Visual Studio 2010, SQL Server 2008 R2, ADO.NET, HTML, LINQ, Entity Framework, T-SQL, IIS 6.0, ASP.NET , WCF, Web services, Jquery, AJAX, CSS, XML.
+
+EDUCATION:
+
+	Sr no.
+	Degree 
+	Name of college/University
+	Year
+	Percentage
+
+	1
+	   B.E.(C.S.E.)
+	P.E.S. college of engineering, Aurangabad
+	2012
+	65%
+
+	2
+	HSC(12th)
+	Shiv Chatrapati College, Aurangabad
+	2008
+	74.33%
+
+	3
+	SSC(10th)
+	Swa. Sushila Devi Deshmukh Vidhyalaya ,Aurangabad
+	2006
+	88.26%
+
+
+
+
+I hereby declare that the above mentioned details are fully true as knowledge. I am also confident of my ability to work with a good team spirit.
+
+Date            

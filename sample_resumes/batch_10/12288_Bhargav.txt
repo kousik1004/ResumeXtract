@@ -1,0 +1,214 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+         gannabhargav27@ gmail.com
+        Mobile +91 756-936-4884
+
+Bhargav.G 
+
+
+
+PROFESSIONAL SUMMARY
+
+· Having overall 3 years of experience in IT-Software inclusive of 2+ years of experience in Data Science and Machine Learning.
+· Proficient in Python and knowledge in R.
+· Proficient in Agile Methodologies.
+· Developed many projects for Data Analytics/Science using Supervised and Unsupervised Data.
+· Good knowledge in Machine Learning Algorithms.
+· Profound knowledge in many Parametric, Non-Parametric and Time Series Machine Learning Algorithms.
+· Good knowledge in Regression models like Logistic Regression, Linear Regression, Multiple Linear Regression.
+· Knowledge in advanced analytical methods like NLP, Random Forest, SVM, Neural Networks, Decision Trees, Bayes Theorem and Cluster Analysis.
+
+WORK SUMMARY
+
+· Currently working as Associate consultant in Capgemini, Bangalore since Jul 2017.
+· Worked as Data Scientist with Sparc Technologies, Hyderabad from Mar 2016 to Apr 2017.
+ACADEMIC QUALIFICATION
+· B.Tech (Computer Science) From JNTU University, Hyderabad-(2014)
+
+SKILL SETS
+
+	Technical Tools
+	Python, R Programming, Pandas Library, MySQL, PowerPoint, Excel.
+
+	Machine Learning Techniques
+	Linear Regression, Logistic Regression, NLP, Decision Tree, Random Forest, Clustering, Naive Bayes, Neural Network. 
+
+	Domain Expertise
+	E-Commerce, Banking.
+
+	Data Visualization
+	GGplot2: R Programming, Matplotlib, Python, Tableau.
+
+
+
+
+PROJECTS PROFILE
+Project 1:
+	Organization Name
+	Capgemini
+	               Feb 2018 to Till Date
+
+	Project Name
+	Give automated response to the contractor’s amendments in word-doc – Text analytics
+	
+
+	Role/Title
+	Data Scientist
+	
+
+	Software / Special Tools
+	Python
+	
+
+
+
+
+
+
+Project Description
+
+Read the contractor’s response from a file, understand the requirement and send the client’s response to the contractor automatically
+
+ Roles & Responsibilities
+
+· Whenever a contractor needs any amendment in any of the legal clause(s), the contractor gets backs to the client with the proposed amendment
+· The amendment can be in either DOC, PDF or excel formats (Standard template).   
+· Write a parser to read the contents of the file and store it in a data frame for data pre-processing and prediction
+· For training, we have used ensemble of gradient descent and LSTM with more weightage to gradient descent
+· Pre-processing has been done using count-vectorizer, TF-IDF and stop word removal
+· Training has been done on standard framework for gradient descent model and on previous replies for LSTM model
+· K-fold cross validation has been used for validation and hold out data is used for testing
+· Once the prediction is done, write the contents in a doc format and save it back to the location from where data has been fetched
+
+Project 2:
+	Organization Name
+	Capgemini
+	             July 2017 to Jan 2018
+
+	Project Name
+	Debt Collection Strategy
+	
+
+	Role/Title
+	Data Scientist
+	
+
+	Software / Special Tools
+	Python, MySQL.
+	
+
+
+
+
+Project Description
+
+Debt Collection Strategy Model By using Logistic Regression.
+
+
+Roles & Responsibilities
+
+· Importing data into PYTHON, Checking the data types for all variable name and its description.
+· Data sanitization, Missing value Treatment, outlier treatment finally data auditing by using panda’s techniques.
+· Creating Dummy variable creation for Categorical variables, and done the Binning variable creation for Continuous variables
+· Done the variable reduction techniques for drop the in significant variables (multicollinearity and variable clustering Techniques)
+· Divide the data for training and validation 
+· Built a logistic Regression and Check the C value for finding out the fitness of the model
+· Validate the data by using the parameter estimate like test KS-test statistic and lift Curve and finally assigned scores with respect of the highest probabilities.
+
+Project 3:
+
+	Organization Name
+	Sparc Technologies.
+	    From Sep 2016 to Mar 2016
+
+	Project Name
+	Customer Default Analysis.
+	
+
+	Role/Title
+	Data Scientist.
+	
+
+	Software / Special Tools
+	Python, Excel, tableau
+	
+
+
+
+
+Project Description
+
+ We would like to predict, who all are going to become as a delinquent customer.
+Roles & Responsibilities
+
+· Gathered 2.5 million records data along with 90 variables
+· Created data patterns by using the key metrics are like Billing information and payment information
+· Applied Roll rate analysis to create the bad flag
+· Did driver analysis to understand most important variables
+· Built the logistic regression analysis to find who are likely to become as a delinquent
+· Created metrics are like Sensitivity, Specificity, Roc curve, AUC, F1 score, recall and precision
+· Applied rigid regression and lasso regression to regularize the coefficients.
+
+
+PERSONAL DETAILS
+
+Date of Birth              :   22/07/1993 
+Marital Status            :   Single
+Language                   :   English, Hindi, Telugu 
+Nationality                 :   Indian 
+Sex                             :    Male
+
+I hereby declare that the details furnished above are correct to the best of my knowledge.
+
+DATE:                                                                                     	
+PLACE: Bangalore                                                                                              (Bhargav Shekhar)	                                                                                      
+
+

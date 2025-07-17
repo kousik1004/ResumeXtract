@@ -1,0 +1,247 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABAP Consultant
+
+MUKESH KUMAR ROUT
+
+SAP ABAP Consultant
+
+Mob: +91-9903350762
+Email: mkroutsoft@gmail.com
+              
+
+Objective:
+I look forward to associate myself with an organization where there is an opportunity to share challenging avenues, where my educational potential match organization’s growth, to make a niche for myself in the industry to contribute and upgrade my knowledge.
+
+Professional Summary: 
+·  SAP-ABAP/4 Consultant having 7.1 years of experience.
+· Worked in support projects.
+· Worked in SD, MM, PP, FI, HR modules.
+
+· Direct interact with Client. 
+
+Work Experience:
+· Working as SAP ABAP CONSULTANT with Benelux’s Software Pvt.  Limited, Kolkata, from Nov 2010 to till now.
+· Working as a Trainee-Software Programmer with SYSQ Evaluations, Hyderabad from Oct 2009 to Sep 2010.
+
+Education:
+· Bachelor in Computer Science & Engineering from BPUT.      
+Areas of ABAP Expertise
+· Data Dictionary
+
+· Reports 
+
+· BDC
+
+· BAPI
+
+· SAP Scripts
+
+· SMART FORMS 
+
+· Module pool programming.
+
+· SAP Enhancements(Customer exits ; User exits) 
+
+· BADI
+
+· BTE
+
+· LSMW
+· ABAP HR
+
+· OOPS
+Technical Skills:
+
+SAP VERSION
+
+ : SAP ECC 6.0.
+
+OPERATING SYSTEMS
+ : MS-DOS, Windows 98/2000/XP/7. 
+
+LANGUAGES
+            
+ : SAP ABAP/4, C, C++, DOTNET.
+PROJECT #1:
+Company name
+ :  Benelux’s Software
+Client
+ :  JMT Auto Ltd, Jamshedpur, India.      
+
+Duration
+ :  Nov 2010 to Oct 2014.
+Client Profile :
+
+             JMT Auto Ltd. is one of the leading Auto Component manufactures in eastern region. Company identified Transmission Components as its Key business area and acquired core competency in manufacturing products like Transmission Gears, Engine Gears, Gear Box Assembly, Shafts, Rear Axle Shafts, Synchronizing Cone, Fly wheels, Drums, Housing Pipes, Spindles and pins. Later on based on specific market/customer needs, company also started producing sheet metal parts, rocker lever Assembly, Bushes, fabrications & other automotive components.
+
+Responsibilities:
+
+· Developed different dialog transactions with screens for user interaction using module pool.
+· Created custom tables according to the requirements.
+
+· Developed layouts for printing invoices using smart forms.
+· Developed BDC program’s to upload master data using session method & call transaction method.
+
+· Developed an object by adding two new custom fields in G/L Account Line Item Display (FBL3N) Using Business Transition Events (BTE).
+· Developed custom objects in Report, Smart forms, BDC.
+
+· Developed different types of alv reports using oops concept.
+
+· Developed an object by adding one new custom field in ME21N/ME22N/ME23N using Customer Exit.
+
+· Developed an object for to put an information message if create delivery before delivery date and after last delivery date for stock transfer PO in VL10. 
+· Developed an object for to put an information message if the delivery qty is more than Stock Transfer PO Qty in VL02N.
+
+· Developed BDC program to maintain Condition Record for VK11.
+
+· Developed an object for to put an information message if saving without goods movement in CO11N.
+· Developed an object computer code in VF01 using BADI.
+· Developed an interface to upload material master data using BAPI_MATERIAL_SAVEDATA.
+
+· Developed an object by adding two new custom fields in the Bill of Materials (CS01) Header Section by Screen Exit.             
+· Developed an ALV report to list the purchase orders details for a vendor that has interactive drill down options to give the detail of vendor from vendor master.
+· BDC’s for Purchase order, Vendor master creation using Call Transaction method.
+
+· Extensively handled smart forms related issues.
+
+PROJECT #2:
+
+Company name
+ :  Benelux’s Software
+Client
+ :  Rupa & company ltd, Kolkata, India.      
+
+Duration
+ :  Oct 2014 to Nov 2015.
+Client Profile :
+
+         Rupa is the the leading undergarments manufacturer, a leading hosiery and knitwear company and exporter renowned of their superior quality, style and expertise.
+
+Responsibilities:
+
+· Created custom tables according to the requirements.
+
+· Developed different types of ALV and Classical reports.
+· Developed layouts for printing invoices using smart forms and classical Report.
+· Developed Customer Ageing and Vendor Ageing Report.
+· Developed Production Planning Report.
+· Developed different types of stock reports.
+· Developed BDC program’s to upload master data using session method & call transaction method.
+· Developed different types of dialog transactions with screens for user interaction using module pool.
+· Developed an object to put an information message PGI Date should not exceed current date in VL02N.
+· Create an enhancement For VF01 Billing Type AUTO pickup for Delhi Plant.
+· Developed an object for to put an information message if issue qty is more than subcontracting PO Qty in MB1B.
+
+· Developed production planning with sales report.
+
+PROJECT #3:
+
+Company name
+ :  Benelux’s Software
+Client
+ :  TCG Lifesciences Pvt. Ltd, Kolkata, India.      
+
+Duration
+ :  Dec 2015 to till date.
+Client Profile :
+
+         TCG Lifesciences Private Limited (formerly "Chembiotek Research International") is a leading contract research services company in the area of early drug discovery and development. Research infrastructure includes world class chemistry and biology laboratories, animal facility, electrophysiology laboratory, BSL 2 laboratory, and cGMP facilities at R&D centers in Kolkata, Pune in India and Piscataway, NJ in USA.
+Responsibilities:
+
+· Developed an object by adding a new custom field in G/L Account Line Item Display (FBL3N) Using Business Transition Events (BTE).
+· Developed BDC program to update asset master data using call transaction method.
+· Developed print program for Employee term sheet using ABAP HR.
+· Developed print program for Employee Promotion using ABAP HR.
+· Developed print program for Employee Experience Letter using ABAP HR.
+· Developed print program for Employee Appointment Letter using ABAP HR.
+· Developed BDC program for Salary Upload in F-02.
+· Send Email from sap when generate Employee Id in PA40 using customer exit.
+· Send Email from sap when change Employee Id personal data in PA30 using BADI.
+· Developed a report to integrate sap with oracle database using Native SQL.
+· Developed a BDC program to generate Employee Id in PA40.
+· Developed a BDC program to generate Material Number in MM01. 
+· Developed a purchase register report.
+· Developed print program for Bulk Miro printing.
+Personal Details:
+
+Company
+: Beneluxs Software Pvt. Ltd.
+
+Date of Birth
+: 22nd March 1985
+
+Nationality
+: Indian
+
+
+Sex
+
+: Male
+Marital Status
+: Married
+Languages spoken
+: English, Hindi, Odiya.
+Postal Communication
+: KB-476, Sector: III,
+
+
+
+  Salt Lake, Kolkata
+
+
+
+  West Bengal: 700098
+
+
+
+ 
+8 Overall Years of Experience in which 7.1 Years of experience as SAP ABAP CONSULTANT. 
+
+
+
+
+
+
+

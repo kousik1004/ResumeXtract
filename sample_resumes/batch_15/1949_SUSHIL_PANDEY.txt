@@ -1,0 +1,161 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE RESUME
+
+RESUME
+
+SUSHIL PANDEY
+Mob: 9834851725
+MAIL ID : sushil55pandey@gmail.com
+
+
+CAREER OBJECTIVE:
+Seeking a position to utilize my skills in the industrial world that offers professional growth while being resourceful, innovative and flexible.
+
+PROFILE SUMMARY:
+· Having 2+ Year of Experience in UNIX shell scripting.
+· Good knowledge of Oracle Database Management System.
+· Used “Service Now” ticketing tool which used to manage Technology Service Management tasks.
+· Currently working on Mentis application to ensure the data privacy of Credit Suisse applications.
+
+
+PROFESSIONAL EXPERIENCE: 
+PROJECT 1
+Company	: HCL Technologies Ltd.
+Client	        : Credit Suisse 
+Project	        : Credit Suisse (Data Management Service- Mentis ) Sensitive Data Masking
+Designation		: Software Engineer 
+Experience		   : Aug -2018 to till date	
+
+TECHNOLOGY USED: 
+ Oracle 11g, SQL Developer, Mentis, Unix Shell Scripting, Tectia Tool, SNOW  
+
+
+ROLE AND RESPONSIBILITIES:
+Implementing the Mentis application to ensure the data privacy of Credit Suisse applications.           
+ Part of Pen Test of Mentis application to ensure the application can restrict any vulnerability.    
+Involve in Data Scanning, Discovery and Scrambling and CID Rule configuration and Reporting.
+
+PROJECT 2
+Company	: HCL Technologies Ltd.   
+Client	        : Citi 
+Project	       : Citi bank  DDE (Domestic Disbursement Engine) Payment Process
+Designation		: Software Engineer 
+Experience		  : Dec -2016 to Aug 2018
+
+TECHNOLOGY USED:
+Oracle 11g, SQL Developer, Sybase Central, Unix Shell Scripting,
+ Tectia Tool, PVCS Serena Dimension, uDeploy, TeamCiti, Service now tool, 
+
+
+ROLE AND RESPONSIBILITIES:
+
+For the validation purpose extensively used Sybase Stored Procedure and wrote complex Sybase queries using Joins, Sub queries and functions.
+Developed various database objects like Tables, Views, Packages, Stored Procedures, Triggers, Functions, etc.
+Involved in handling errors and transaction processing in the procedures.
+Modified and optimized the existing Procedures and the Query.
+Enhancement existing code as per business logic issues.
+
+NAURE OF WORK:
+Requirement Analysis,
+Development, Sybase
+Unit Testing / SIT,
+User Acceptance Testing/UAT,
+Production Cutover,
+
+PROJECT DETAILS:
+
+DDE (Domestic Disbursement Engine) is basically a payment management system, which enables any customer to pay others via GIRO and check payments (in India Demand Draft etc.). The payments could be made using paper based instruments, viz. Checks/Drafts/Post Dated Checks or using the Bulk Payment systems. GIRO is electronic transfer of money, they are paperless instruments.
+
+DDE application operates on PowerBuilder and Sybase. Customers can initiate check and Giro transactions from Citi Direct and they flow to DDE through BSI System. Transactions can also be initiated from other upstream Systems and they flow to DDE through FC. 
+
+DDE does the required validations on the received files and sent to GI for SDN check. Valid transactions are funded by interfacing with FlexCube through TIBCO. After funding, the checks are printed and sent to the customer.
+
+
+
+
+
+
+
+
+
+
+EDUCATIONAL QUALIFICATIONS:
+
+	COURSE
+	SCHOOL/COLLEGE
+	BOARD/UNIVERSITY
+	PERCENTAGE
+	PASSING YEAR
+
+	 M.C.A
+	KARNATAKA UNIVERSITY
+	KARNATAKA UNIVERSITY
+	 68%
+	2014
+
+
+
+
+
+PERSONAL DETAILS:
+
+Current Address	:	Vrushni Apartment, Lane No 2 Kaharadi, Pune, MH
+Permanent Address	:       House No-686 Bamrauli, Allahabad, UP
+Date of Birth	:	13th September 1990
+Marital Status	:       Married
+Languages	:	English and Hindi
+
+
+
+DECLARATION:
+I hereby declare that the information mentioned above is true to the best of my knowledge.
+
+
+DATE:									(SUSHIL PANDEY)

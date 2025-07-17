@@ -1,0 +1,371 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+
+Akshay Badera 
+5/169, Agarwal Farm, Mansarovar, Jaipur, 302020 
+
+Mobile: +91-9782755394  
+
+E-Mail: akshaybdr@gmail.com 
+
+ 
+
+Aspiring for challenging assignments in IT (Software Development) with an reputed organization  
+
+ 
+
+SUMMARY 
+
+ 
+
+ A result oriented Software Developer with over 2.5 years of experience in the area of IT. 
+
+ 
+
+ Possess the experience of working in Indian and corporate environment of Decipher Zone Softwares (Indian) and 
+
+Compucom Software Limited (MNC) respectively.  
+
+ 
+
+FUNCTIONAL SKILLS: 
+
+ 
+
+• Language               • Java.  
+
+• Framework               • Spring (Spring Boot), JUnit and Log4j. 
+
+• Source Control              • BitBucket and TFS. 
+
+• Build and Integration Tool           • Apache Maven 
+
+• Bug Tracking Tool             • JIRA. 
+
+• Design and Documentation          • Confluence. 
+
+• Productivity/Performance Improvement       • Agile Software Development. 
+
+ 
+
+ Experience in Spring Framework using Spring Boot to create stand-alone and production-grade  spring based 
+
+applications using REST API  
+
+   
+
+ 
+
+PROFICIENCY MATRIX 
+
+ 
+
+Skills: 
+
+• Good Understanding of Core Java and OOPS Concepts.        
+
+• Extensive use of Build and Integration tool such as Apache Maven. 
+
+• Experience in Data Serialization formats like JSON and XML. 
+
+• Well versed in implementing Unit Tests and Logging functionality. 
+
+• Extensive experience in IDE's like Eclipse and IntelliJ IDEA. 
+
+• Worked on Repositories like BitBucket and TFS. 
+
+• Experienced with bug tracking tool like JIRA. 
+
+• Knowledge of J2EE (JSP and Servlet), HTML, CSS, JavaScript, Bootstrap. 
+
+• Involved in Agile Software Development Team using SCRUM. 
+
+• Effective communication, presentation skills and ability to work in a team environment. 
+
+• Experience in collaborating remotely with staff and Business partner located around the globe. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Technical Skills:- 
+
+ 
+
+Languages Core Java/J2EE 
+
+Web Technologies JSP, Servlets, JSON, Java Scripts, HTML, CSS, Bootstrap 
+
+Databases  SQL Server 2008 R2, My SQL 
+
+Application/Web Server Apache Tomcat, JBoss 
+
+Frameworks Spring Framework (Spring Boot), JUNIT, Log4J 
+
+Tools and Utilities Postman, Apache Maven, JIRA, Rational Rose 
+
+Source Control BitBucket, TFS 
+
+IDE  Eclipse, IntelliJ IDEA, Visual Studio, Dreamweaver and JCreator 
+
+Design Pattern MVC 
+
+Methodologies Agile/Scrum process, Waterfall 
+
+Operating Systems Windows 9x/XP/Vista/7/8, Linux 
+
+ 
+
+CAREER CONTOUR 
+
+ 
+
+Compucom Software Limited since Mar’16 
+
+ 
+
+Project: Intradiem 
+
+ 
+Description: Intradiem provided the call centre software that increases agent utilization by delivering shrinkage activities 
+during idle time, creating active wait time. RightTime improves employee productivity by managing the collective idle 
+
+time in the call centre more efficiently turning down time into Active Wait time. Call Centre managers define and prioritize 
+
+agent activities within the activity queue. RightTime utilizes the time found to dynamically deliver Active Wait sessions. 
+ 
+
+Responsibilities: 
+
+   
+
+• Performs Analyzing the business and functional requirements provided by the client.  
+
+• Designed and Develop stand-alone, production-grade Spring based Applications using REST API. 
+
+• Jackson processor for JSON data binding is utilized. 
+
+• Used JUNIT framework for unit testing. 
+
+• Used MAVEN automated build tool to compile and package the application and implemented Log4j for the project. 
+
+• Worked on bug fixing and enhancements on change requests. 
+
+• Follow scrum process on daily basis (Minutes prepared on JIRA which includes Sprint Planning, Sprint Backlog 
+
+Refinement and Demo). 
+
+• Use BITBUCKET and TFS for source control. 
+
+• Documentation and Design on confluence. 
+ 
+
+Environment: Core Java, Spring Framework(Spring boot), Apache Maven, JUnit, Log4j, Eclipse, IntelliJ 
+IDEA, Visual Studio, JIRA, Bitbucket, TFS, Confluence. 
+ 
+
+ 
+
+Decipher Zone Softwares from Mar’15 to Nov’15 
+
+ 
+
+Project: Inventory System-Store Management 
+
+ 
+
+Description: Inventory management software is a computer-based system for tracking inventory levels, orders, sales and 
+
+deliveries. It can also be used in the manufacturing industry to create a work order, bill of materials and other production-
+
+related documents. 
+
+ 
+
+Responsibilities: 
+
+ 
+
+•  Understanding the requirement specifications and analyzing impact. 
+
+•  Designing of application using AWT and Swing. 
+
+•  Backend development using Servlets and JSP. 
+
+•  Designing and creation of database. 
+
+
+
+•  Fetching data from Database using SQL Queries. 
+
+•  Involved in Unit and Functional Testing. 
+
+•  Preparing Daily and Weekly Status Reports and reporting to Senior Developer. 
+ 
+
+Environment: Core Java (AWT, Swing), J2EE (Servlets, JSP), Eclipse and My SQL. 
+
+ 
+
+ 
+
+Project: ID-Document Convertor  
+
+ 
+
+Description: ID document convertor software is a computer based system for maintaining and creating identity 
+
+information. It generates ID card in pdf format and also helps in retrieving information with the help of QR code. 
+
+ 
+
+Responsibilities: 
+
+ 
+
+• Participated with manager for requirement specifications and deliveries. 
+
+• Worked on document to PDF convertor module using IText Java PDF library. 
+
+• Generate QR code using IText Java PDF library for ID documents. 
+
+• Involved in database design and data objects.  
+ 
+
+Environment: J2EE (JSP, Servlets), IText Java library, Log4j, HTML, CSS and My SQL. 
+
+ 
+
+ 
+
+Project: Marka (Vehicle) Management 
+
+ 
+
+Description: Marka (Vehicle) Management software is a computer-based system for creating and maintaining rent details 
+
+of vehicle mapped with customers. It also stores vehicle stock details. 
+
+  
+
+Responsibilities: 
+
+ 
+
+• Understanding the requirement specifications and analyzing impact. 
+
+• Designing web application using HTML, CSS and Bootstrap. 
+
+• Generating rent details mapped with customer details reports using SQL and HTML. 
+
+• Backend development using Servlets and JSP. 
+
+• Designing and creation of database . 
+
+• Fetching data from Database using SQL Queries. 
+ 
+
+Environment: HTML, CSS, Bootstrap, J2EE (Servlets, JSP) and MY SQL. 
+
+ 
+
+ 
+
+EDUCATION & CREDENTIALS 
+
+ 
+
+ 
+
+2014   B-Tech (Computer Science) from Poornima Institute of Engineering and Technology, Jaipur (Rajasthan) 
+
+ 
+
+ 
+
+ACCOLADES 
+
+ 
+
+ 
+
+• Captain of Collage Volley Ball Team. 
+
+ 
+
+ PERSONAL DOSSIER 
+
+ 
+
+ 
+
+Date of Birth           :  12th October 1991 
+
+Linguistic Skills      :       English, Hindi and Rajasthani 
+
+Permanent Address :       C/O Vinod Kirana Store, Jugal Bazar, Bagru, Jaipur, 303007  
+
+                    
+
+                   (Akshay Badera) 
+
+

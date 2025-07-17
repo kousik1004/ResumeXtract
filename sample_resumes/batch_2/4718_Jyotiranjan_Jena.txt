@@ -1,0 +1,152 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		                                Jyotiranjan Jena
+										
+Mobile: +91-9658350160			    Email: jrjena136@gmail.com  
+	: +917447424552                                    Skype ID: jrjr89@live.com
+GitHub URL: https://github.com/jrjena136/ 
+LinkedIn: https://www.linkedin.com/in/jyotiranjan-jena-771a23105/
+   
+                                                   
+  PROFESSIONAL SUMMARY:
+· Around 3 years of experience in development of multi-tier server-side applications.
+· Proficient in full Software Development Life Cycle (SDLC) using Agile and Waterfall methodology.
+· Experienced in developing large Internet related/ Database applications using Core Java, J2EE, Spring, Hibernate, Web Services (SOAP), RESTful with database like Oracle and MySQL as well as NoSQL DB like MongoDB.
+· Strong knowledge in Java design patterns like Singleton, Factory, Strategy, DAO, MVC.
+· Extensively working in Eclipse Development Tools.
+· Result oriented and willingness to learn and master new technologies quickly.
+EXPERIENCE PROFILE:
+· Worked as Application Developer-SOA/Webservices in IBM India Pvt Ltd from April 2016 to till date.
+      EDUCATION: 
+· Bachelor of Technology (B. Tech) in Computer Science and Engineering in the year of 2015 from Government College of Engineering Kalahandi, Odisha with 77.2%.
+· Completed +2 Science (PCM) in the year of 2011 from Fakir Mohan Jr. College, Balasore, Odisha with 71.5%. 
+· Completed 10th in the year of 2009 from Mani Bhadra High School, Gopalpur, Balasore, Odisha.
+   
+TECHNICAL STACK:
+   Programming Language:		Core Java (J2SE 7), J2EE Technologies, Java 8 Basics
+   Java APIs:	     			JDBC JSP, Servlets, JAXB, JMS, JAXP, JAX-WS,
+JAX-RS, Jersey, Jackson
+   Frameworks:	Spring-Boot, Spring IOC, Spring ORM, Spring MVC, Hibernate 
+   Distributed Technology                Webservice (SOAP), RESTful Services
+   Server Technologies:	WebSphere 8.5, Tomcat 8/8.5
+   IDE:	Eclipse, Sql Developers, RAD
+   Databases:	Oracle 10g, MySQL, MongoDB (NoSQL)
+   Operation Systems:	Windows 7
+   Tools:	                                    Log4j, SVN, Maven, Git, Git-Hub, IBM ClearCase, Jenkins, SonarQube	
+
+
+WORK EXPERIENCE
+
+Idea Cellular is working in collaboration with IBM to provide all customer related services online as well as offline. To achieve better user experience and company growth Idea cellular always tries to provide all services by Mobile App and Website. All customer related services like Demographic details, Plans and Packs, Recharge and Bill Payment, Query and Complaints, Invoice, on time SMS and Email notifications, Aadhar based EKYC, Promotional and Campaign Offers, Cashback, VAS details, MNP, New Connections, Sales App etc. functionality is provided by Idea Cellular which I am working in.
+
+PROJECT#1: 
+Project Name           : Payment Gateway Integration.	
+Client			: IDEA Cellular
+Duration		: Apr 2017 to Till Date
+Team Size		: 5
+Individual Role 	: Developer 	
+Project Description: 
+	This requirement provides flexibility to do recharge or bill payment of idea customers through different Payment Gateway Integration with IDEA website like Bill desk, CCAVENUE, PAYTM (wallet as well as bank), MOBIKWIK, Aditya Birla Payments Bank as well as UPI, PhonePe, Freecharge etc. By this integration subscriber can able to do transaction using credit/debit card, net banking, wallet etc. If transaction got failed due to any technical issues, then the subscriber can get refund amount immediately.
+Responsibilities.
+· Working at Service Layer, following Agile methodology.
+· Developed EJB based application which can take request from queue and process each request one by one. Here I have used MDB (message driven bean)
+· All Prepaid and Postpaid Provisioning as well as pack/plan activation also happened through this for which I consume different downstream applications based on the request from queue.
+· All refund request also triggered from this EJB based on the gateway. Here we have used reflection API which dynamically creates the object and invoke the respective refund method of the gateway.
+· Here I have used OOP concepts like inheritance, abstraction, polymorphism. Also, I have implemented SHA-256 algorithm to generate hash and provide security to the transaction.
+· Following some important design pattern like singleton, strategy, factory design pattern.
+
+Environment: JDK 1.7, Jersey 2, Oracle 10g, SVN, Sql Developer, RAD, SOAP UI, WebSphere 8.5, Jackson API, Log4j, JMS, Maven.
+
+PROJECT#2: 	
+Project Name           : Web based Aadhar verification
+Client			: Idea Cellular
+Duration		: 5 months
+Team Size		: 6
+Individual Role 	: Application Developer						
+						
+Project Description: 
+· This project is basically developed for the purpose where a customer can verify their Aadhar number with their mobile number.
+· This is meant for only three types of customers like foreign national, NRI and senior citizen.
+· To verify their Aadhar number with mobile number either they can take the help of any agent or they can do it by logging into their online account.  
+· With all the required information and documents, they can submit their request which goes to CRM for further verification. After successful verification of all information and documents Aadhar would be linked with their mobile number and its intimated via SMS or Email.
+Responsibilities:
+· Participated in writing different Rest API’s for fetching RV status followed by OTP based verification and validation and finally to fetch the Aadhar information. 
+· Used 128-bit encryption and decryption of all sensitive information like Aadhar number.
+· Used spring features like dependency injection.   
+· Implemented Spring MVC with annotations using for all controller. 
+· Creating procedure and function for code reusability.
+· Implemented the design patterns like singleton, factory pattern.
+· Use Version control tool like SVN.
+
+Environment: Java, Spring, XML, Oracle 10g, WebSphere 8.5, RAD, SVN, Maven, Jersey 2
+
+PROJECT#3: 	
+Project Name          : Live Chat
+Client			: Idea Cellular
+Duration		: 5 months
+Team Size		: 5
+Individual Role 	: Application Developer						
+						
+Project Description: 
+· This project is basically developed to make the communication easy between the company and their customers via online chat with the customer executive.
+· This is for the first-time live chat application is developed for idea website. Here all idea and non-idea users can clarify about their queries and complaints online with less time.
+· This application is basically designed to attract people to be a part of company growth and development.
+· By this application customers can chat with customer care executive between 10 am to 6 pm.
+· All the conversation between a customer and executive is finally submitted to CRM.
+Responsibilities:
+· Participated in writing model layer bean classes and validating values from view layer.
+· Used spring features like dependency injection.   
+· Implemented Spring MVC with annotations using for all controller. 
+· Creating procedure and function for code reusability.
+· Implemented the design patterns like singleton, factory pattern.
+· Use Version control tool like SVN.
+
+Environment: Java, Spring, XML, Oracle 10g, WebSphere 8.5, RAD, SVN, Maven
+

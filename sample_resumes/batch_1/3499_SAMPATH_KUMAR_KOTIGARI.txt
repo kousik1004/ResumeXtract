@@ -1,0 +1,261 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRIYANKA PAUL
+
+                                                    SAMPATH KUMAR KOTIGARI
+Phone: +91-8110997765
+
+
+
+
+
+
+Email: sampath.kotigari@gmail.com
+	Career Objective :
+
+
+   Enthusiastic to work in the field of Embedded Systems and Automotive domain, where I will have scope to explore, work on analytical issues and develop new ways for achieving effective strength in the project field.
+	Professional Summary :
+
+
+· 6.1 years of experience in the field of embedded systems and automotive domain, currently working as a Senior Software Engineer in Robert Bosch Engineering and Business solutions Ltd.
+
+· Experienced in handling overall project operations starting from requirement phase, Impact analysis, coding, Integration, testing and Software delivery on MEDC17 and MDG AUTOSAR platforms.
+
+· Onsite experience for 3 months for coordinating Series software and Vehicle testing’s for SOP.
+· Good Hands on experience on functional development implementations for Vehicle communication-CAN, Diagnostics Communication Manager-AUTOSAR and Exhaust Management for Daimler Diesel Vehicles. 
+· Good knowledge on AUTOSAR architecture and hands on experience in DCM-Service layer.
+· Expertise in manual and automation coding and testing using ASCET, CANdb++, BCT and ECU-Test tool.
+· Scripting Implementations using Perl and CAPL for CAN applications. 
+
+· Good at solving software build Issue, interface handling, Scheduling concepts, MISRA and Bug analysis.
+
+· Working knowledge on Linux platform, IPC, Low level drivers and multi threaded applications.
+
+· Achieved 3 Technical awards and 6 awards in Corporate Social Responsibility.
+· Technical awards for Developing ‘Automation scripting Delivery Tool’ which effectively reduced 
+8hrs of manual effort, Software build Issue solver and Software Quality maintenance award.  
+
+· Active participant and Department SPOC for Corporate social Responsibility, working to ensure basic essential needs and moving towards permanent solutions for benefiting needy Society.
+	Technical skills :
+
+
+· Programming Languages:    C, Embedded C, Linux System Programming.
+
+· Scripting languages:             Perl and CAPL
+
+· Development platforms:      MEDC17, MDG AUTOSAR.
+
+· Development tools:               RQONE, SDOM, ECUworx, CANdb++, BCT, ASCET, Make files. 
+
+· Testing Tools:                         INCA, Labcar, CANalyzer, SVN, ECU-Test , UDE, LCA.
+·  Protocols:                              CAN, UDS, XCP, XETK, TCP/IP, I2C, UART
+· Debuggers:                             UDE, GDB
+
+· Microcontrollers:                 8/16/32 bit microcontrollers [Infineon Tricore 1793, 1797, Atmel and ARM]
+· Linux Internals: 
+                   Fork, Exec, Pipe, FIFO, Signals, Semaphores, Mutex and Message Queues.
+· Operating system:               Windows and Linux
+	Professional Experience :
+
+
+Robert Bosch Engineering and Business Solutions Ltd
+Senior Software Engineer 
+
+
+
+March 2014 - Present
+Responsibilities:
+
+· Responsible for implementations related to Vehicle Communication-CAN, Diagnostics [DCM-AUTOSAR], 
+Exhaust Management and Software module Integrations for Daimler Diesel vehicles.
+· Understanding system level requirements and writing Software for specific requirement.
+
+· Conducting discussion of understanding to check for any open Issues and improvement points.
+
+· Configuration and Implementation/coding as per project specific customer requirement. 
+· Perform Verification for functional implementation and Validation for the specific projects. 
+
+· Integration of software modules, solving interface Issues, Scheduling, warnings and buggy conditions.
+· Performing Reviews, Functionality Test, System level Testing both manual and automation.
+·  Documentation for all new delta changes and Software release with all deliverables.
+Emblogic Embedded Technologies Pvt Ltd
+Embedded Engineer
+
+
+
+
+Aug 2012 - March 2014
+Responsibilities:
+· Responsible for Inter process communication topics and Low level Drivers in Linux platform.
+· Establishing Serial port, Parallel Port, socket, multithread applications and Board bring up.
+· Ensuring Quality evaluation, Verification and Validation and Deliverables.  
+Krest Technologies
+
+
+
+
+June 2011 – July 2012
+Embedded Developer
+Responsibilities:
+· Responsible for programming and Testing for Atmel microcontroller 89S52.
+· Interface handling for various applications using Sensors, RFID, GSM, GPS etc. 
+· Imparting training on new product/process to both in-house and supplier.
+	 Academic Profile :
+
+
+· Bachelor of Technology  in the stream of Electronics and Communication Engineering from 
+Auroras Technological and Research Institute under JNTU University, Hyderabad-(2007-2011) - 60.86%. 
+· Intermediate in Mathematics, Physics and Chemistry from Narayana Junior College, Hyderabad, 
+State Board - (2005-2007) - 91%.
+· SSC from St.Gabriel High School, Hyderabad, State Board - (2004-2005) - 84.5%.
+	Projects during work :
+
+
+Development of CAN protocol and DCM for Power train Engine ECU based on Infineon Tri-core [TC1797]
+Company: 
+Robert Bosch Engineering and Business Solutions Ltd
+
+Client: 
+
+Daimler
+
+Tools used: 
+RQONE, SDOM, CANdb++, BCT, ECU.WorX, CANalyzer, CAPL, UDE, UDS, INCA, LCPT.
+Description: 
+
+· Requirements include CAN configurations, Implementation of CAN transmit and receive frames.
+· Handling signal faults, range checks, CAN frame manager and application software logic for Engine ECU. 
+· Configuring and implementation of Diagnostics Communication Manager [DCM-AUTOSAR].
+
+· Handling DSP Software application logic in accordance with DSL and DSD in AUTOSAR service layer.
+· Test spec preparation, testing in LABCAR, Documentation and delivery.
+· Development of Exhaust mode regeneration for MDG Tri-core Platform
+Company: 
+Robert Bosch Engineering and Business Solutions Ltd
+
+Client: 
+
+Daimler
+
+Tools used: 
+RQONE, SDOM, ECUWorx, ASCET, Inkscape, INCA, LCPT, Ecout, ECU-Tool.
+Description: 
+
+
+· Implementation of additional regeneration requirements based on Multiple factors.
+· Configuring new calibration conditions for existing regeneration modes. 
+· Cold start corrections based on ambient pressure and temperature.
+· Test spec preparation, testing in LABCAR, Documentation and delivery.
+· Integration of Software modules and making final software for Power train Engine ECU
+Company: 
+Robert Bosch Engineering and Business Solutions Ltd
+
+Client: 
+
+Daimler
+
+Tools used: 
+RQONE, SDOM, ECUWorX, BCT, AUTOSAR, MDGB, Perl, LABCAR.
+Description: 
+
+
+· Integration of software components for MEDC17 and MDG Diesel variants.
+· Handling interface issues, Message inconsistency, Memory Issues and build Issues.
+· Solving Scheduling issues, Warnings, Buggy Locked software and tracking them to closure.
+
+· Performing Injection testing and Functionality testing’s.
+
+· Documentation for all changes, maintaining deliverables and provide final software to customers.
+	Personal Profile :
+
+
+Date of Birth
+
+:     2nd -August-1989
+
+Marital status
+
+:     single
+
+Nationality                        :     Indian
+
+Linguistic Proficiency      :      English, Hindi and Telugu
+
+Hobbies                             :      Playing Volleyball, Badminton, watching news and listening music.
+Address
+
+               :      23-91/4, Madhuranagar, Shamshabad, 
+                                         
+        Hyderabad, Telangana -501218.
+Declaration:
+                    I hereby declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of above mentioned particulars.
+
+Date: 30.10.2017
+Place: Coimbatore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sampath Kumar Kotigari

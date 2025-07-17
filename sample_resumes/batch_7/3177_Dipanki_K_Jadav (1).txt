@@ -1,0 +1,338 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+
+ 
+
+DIPANKI  JADAV
+
+
+
+
+Dipanki  K. Jadav
+437, Hariom Nagar,
+V.V.Nagar, Anand.
+
+
+
+
+
+Pincode – 388120
+
+
+
+
+             
+
+    Mobile:  9998298493
+Gujarat
+
+
+
+
+
+                            Email:  dipanki.jadav@gmail.com   
+                                                                                                                           
+
+CAREER OBJECTIVE:
+
+“To reach the best quality level of knowledge, organizational satisfaction, positive results and leadership through hard work, continuous acquirement of required knowledge and being an active member of the organization and society as well.”
+	Programming Languages:
+	C & C ++, MATLAB
+
+	Operating Systems:
+	MS DOS, Windows XP-Vista,Windows 7-8
+
+
+	Database Systems:
+	Microsoft SQL Server 2012, 2008 
+
+
+	Microsoft  Specific Skills:
+	* ASP .NET Framework 4.5, 4.0 and 3.5
+* ASP.NET MVC 4.0 and 4.5
+* C# and VB.NET
+* Windows Application
+* Entity Framework.
+* LINQ
+* Web Services
+* Amazon S3
+* Stored Procedures
+* ASP.NET AJAX
+* WCF 
+
+* Nop Commerce
+
+* Umbraco
+
+
+
+	Networking:
+	TCP/IP Protocol, Knowledge of LAN
+
+
+
+	Tools & Packages:
+	Microsoft Visual Studio 2012,2010,2008
+
+
+	Other:
+	* XML
+* Jquery
+* JSON
+* JavaScript
+* Cascading Style Sheets (CSS)
+* Telerik RadControls for ASP.NET AJAX
+* Telerik Extensions for ASP.NET MVC
+* Adobe Photoshop CS3
+* Wordpress static website
+* Codeigniter(PHP)
+* Core PHP
+
+
+
+TECHNICAL SKILLS:
+
+ACADEMIC INFORMATION:
+
+	Course
+	School / College
+	Board / University
+	Year Of
+Passing
+	Class
+
+	M.C.A.
+	G.H.Patel P.G.
+
+Department of
+
+Computer Science
+
+& Technology
+
+-Anand
+	S.P.University
+	2012
+	Second
+
+	B.Sc.
+(Mathematics)
+	V.P.Science
+College
+
+- V.V.Nagar
+	S.P.University
+	2009
+	Second
+
+	H.S.C.
+	R.P.T.P. Higher
+
+Secondary
+Complex
+
+-  V.V.Nagar
+	G.S.H.E.B.
+	2005
+	Second
+
+	S.S.C.
+	G.J.Sarda
+Mandir
+
+High School
+
+-  V.V.Nagar
+	G.S.E.B.
+	2002
+	First
+
+
+PROJECTS:
+1. Wisaver:
+               Duration: 2 Month 
+Language & Tools:  ASP .Net with MVC4, Visual Studio 2012, IIS 7, 
+Linq, Microsoft SQL Server 2012
+SITE URL: http://wisaver.aliansoftware.com/
+         “Wisaver “ is mobile application for consumers and suppliers. Suppliers can post the products and its items. Consumers can give the reviews, rating and subscribe to suppliers and product items. I have completed admin panel of wisaver and made API for mobile application.  
+
+2. Download My CD(Phase-I):
+               Duration: 2 Month 
+Language & Tools:  Classic  ASP .Net, Visual Studio 2012, IIS 7, Microsoft SQL Server 2012, Amazon S3 Storage
+
+SITE URL: http://downloadmycd.aliansoftware.com/
+         “Download My CD” is website for Users can Download songs using unique PIN. This site of songs files stored on Amzon S3 bucket for storage and security purpose. Admin can manage whole site of module. This site of phase-I is completed.
+3. Siewli Admin Panel  :
+               Duration: 3 Month 
+Language & Tools:  Nop Commerce 3.7, ASP .Net with MVC4, Visual Studio 2012, IIS 7, Microsoft SQL Server 2012
+
+SITE URL: http://connect.siewli.com/
+         “Siewli Admin Panel” is admin panel of e-commerce website. I have worked on this project with different module like product management, stock management and many more.
+4. 90 Degree Office Furniture  :
+               Duration: 10 Days 
+Language & Tools:  Nop Commerce 3.7, ASP .Net with MVC4, Visual Studio 2012, IIS 7, Microsoft SQL Server 2012
+
+SITE URL: http://90degreeofficefurniture.com/
+         “90 Degree Office Furniture” is website based on Nop commerce. I have made changes of upgradation of this site 3.4 to 3.7 nop commerce version with plugins and its theme. 
+5. NTSB Website Development  :
+               Duration: 3 Month 
+Language & Tools:  ASP .Net with MVC4, Visual Studio 2012, IIS 7, 
+
+Linq, Microsoft SQL Server 2012
+
+SITE URL: http://ntsb.aliansoftware.com/
+         “NTSB Website Development” is website about voting, sharing of topics,feeds and trending. Users can share feeds and trending topics. Users can give an opinion by comment on topics, feeds and trending with file attachment. Also, Users can Vote/Devote the topics, feeds and trending.
+6. ALIAN ERP  :
+               Duration: 3 Month 
+Language & Tools:  ASP .Net with MVC4, Visual Studio 2012, IIS 7, 
+Linq, Microsoft SQL Server 2012
+SITE URL: http://newerp.aliansoftware.com/
+         “ALIAN ERP” of Alian Software developing is running out. I have worked on some module of ERP during three month using ASP .NET with MVC4. 
+7. BULK UPLOADER :
+               Duration: 1 Month 
+Language & Tools:  ASP .Net with MVC4, Visual Studio 2012, IIS 7, 
+Linq, Microsoft SQL Server 2012
+         “BULK UPLOADER” is website about file management. This site is small. On this site user can upload the fixed pattern of zip file contains one excel file and two folders. After that zip file of content extract and saved in particular path. User can read excel data also can delete that file. User can view the all action and files details.
+8. GAME INTERFACE :
+               Duration: 3 Months
+Language & Tools:  ASP .Net with MVC4, Visual Studio 2012, IIS 7, 
+Linq, Microsoft SQL Server 2012
+         “GAME INTERFACE” is website about online betting game. On this site multiple user can play the game. The game contains the six fix table for betting and user can make bets on one selected table and by a particular coin as well as betting number needs to be selected by user after that result will be displayed then user find the result about the particular bet as the winner and looser.
+9. SHIPPING MANAGEMENT :
+               Duration: 5 Months
+Language & Tools:  ASP .Net with MVC4, Visual Studio 2012, IIS 7, Stored Procedures, Microsoft SQL Server 2012,
+SITE URL: http://shipping.aliansoftware.net/
+
+         “SHIPPING MANAGEMENT” is site about managing shipments. This site has four types of customers are like Consignee, Notify, Agent and Shipper having an own account to manage shipment. Also, Admin can manage whole site data. I have worked on this site in a different module 1like Invoices, Permission module, Customers Dashboard and other module.
+10. CLOUDKASE:
+
+Duration: 1 Year and 3 Months
+Language & Tools:  ASP .Net with MVC4, Visual Studio 2012, IIS 7, Stored Procedures, Microsoft SQL Server 2012, WCF web service – Amazon S3
+SITE URL: https://www.cloudkase.com
+“CLOUDKASE” is the replica of well known online store software DropBox. Using this project user can store his/her file(s) on cloud and he/she can share the file(s) to other users. It uses Amazon S3 for storage and WCF web service for various operations like accessing, uploading, downloading, renaming the file(s).
+Also, this project of windows application is a work in process.
+11. MTL Coupons:
+
+Duration: 4 Months
+Language & Tools:  ASP .Net with MVC4, Visual Studio 2010, IIS, LinqToSQL, EDMX
+  SITE URL: http://www.votemeyo.com
+“MTL Coupons” is replica of social site called as “Toluna”. This is an online application that provides features like adding friends, posting new updates, doing like-unlike etc. I worked on some features of this like Polling, liking updates, uploading file (s). Also, I handled major part of the admin panel.
+12. DATING SITE
+Duration: 4 Months
+
+Language & Tools:  ASP .Net with C#, Visual Studio 2010, IIS, LinqToSQL, DBML
+SITE URL: http://dating.aliansoftware.net/
+
+
+This is an online dating website that provides user facilities to register in the system and then doing dates with the people. I worked on adding friends, doing dating, posting suggestions. Also, I worked on the admin panel of the system to configure various options for it. 
+13.  RESTAURANT PORTAL:
+
+Duration:MCA 6th Semester
+Language & Tools:  ASP .Net with C#, Visual Studio 2010, .Net Framework 4.0, IIS,        LinqToSQL, DBML.
+
+
+The “Restaurant Portal” consists of admin of a particular restaurant, that means there can be a chain of restaurants. Admin Also Has the Manage the Restaurant information Such as Restaurant timing, Restaurant Name and Address, Food Type, Promotion Code. The admin can add, update and delete the category of menus, menu items, and toppings available at the restaurant. He has to manage the PayPal account for secure transactions of online users. 
+14.  REAL ESTATE MANAGEMENT SYSTEM:
+Duation MCA 5th Semester
+Language & Tools: JAVA EE5, JSF 1.2, PrimeFaces 1.2, Netbeans IDE 6.7.1
+
+This is an online real estate management system which allows user to post and search property. This system provides dynamic entry for new property from database with Ajax features. Also the admin of the system is able to enter a new category of property which will automatically display on the user’s page.
+15. ONLINE SHOPING 
+     Duration MCA 4th Semester
+
+Language & Tools: PHP, Netbeans IDE 6.7.1, CSS
+  
+This is an online shopping system which has basically two main modules, one is customer and second is admin. A customer who is main visitor of this site can purchase a product online and also pay the payment either by their own address or as specify in his address book address. There is one shopping bag in which all the products which are purchased by the customer that all are maintained in this shop bag. Second admin module and user of this module has all the power for maintaining the products. Admin also generates different kinds of reports and maintain stock of different products.
+WORK EXPERIENCE:
+
+1. Alian Software:
+
+Duration:  Jul’2012 – Present
+Location:  Anand
+
+Post:   Senior .Net Developer
+· Developing projects based on  Microsoft .NET.
+
+· Current Salary: 24000 Per Month.
+CO-CURRICULUM ACTIVITIES:
+SEMINARS: (Given)
+1. ANDROID OPERATING SYSTEM:  (4st semester of M.C.A):
+   It was a seminar given on the Android operating system. Android is a software stack for mobile devices that includes an operating system, middleware, and key applications. At this seminar there was an introduction was given, also explained the architecture of the android operating system.
+EXTRA CURRICULAR ACTIVITIES
+
+· Participated in “Hand Painting” held in G.H.Patel P.G Department of computer science and Technology in the year 2012.
+
+· Participated in “Poster Painting” held in G.H.Patel P.G Department of computer science and Technology in the year 2012.
+
+· Participated in “Rangoli” held in G.H.Patel P.G Department of computer science and Technology in the year 2012.
+HOBBIES & INTERESTS:
+· Drawing and Painting.
+· Part time working on Fiverr Projects based on PHP and .NET technology.
+· Singing.
+PERSONAL PROFILE:
+Name:                           Dipanki K. Jadav.
+Husband’s Name: 
+        Rajeshkumar M. Vala
+Father’s Name:              Kantilal L. Jadav.
+
+Address:                            437, Hariom Nagar,
+
+                                          V.V.Nagar, Anand.
+
+                                     388120.
+
+Contact Number (M):      +91 9998298493
+Date of Birth:                 23th May 1987
+Gender:                          Female
+E-mail:                          dipanki.jadav@gmail.com
+Known Languages:         English, Gujarati, Hindi
+DECLARATION:
+I hereby declare that the above mentioned information is true to the best of my knowledge.
+Dipanki K. Jadav   Place: Hyderabad.
+
+Page 2 of 6
+

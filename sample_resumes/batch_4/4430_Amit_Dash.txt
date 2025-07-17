@@ -1,0 +1,213 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amit Dash                                                                                                                                                 SAP Security and GRC Consultant	
+Email Id: dashamit515@gmail.com 
+Mobile: +91-7676859293
+Linked In: in.linkedin.com/in/AmitSAPConsultant
+
+Career Objective:
+Seeking assignments in SAP Security & GRC and looking for a challenging and responsible position in the field of Information Technology.
+Career Overview: 
+4.8 Years of total IT experience in SAP Security & GRC (E2E implementation, configuration and production support).
+SAP GRC Skills
+· Experience on GRC AC 10.0 and 10.1 implementation.
+· Good knowledge on version upgrade for GRC 10.1 from 10.0.
+· Experience on GRC AC 10.0 and 10.1 configuration and support.
+· Good knowledge on implementation of ARA, ARM, EAM and BRM.
+· Worked on scheduling RAR back ground jobs weekly/monthly, Synchronizing jobs.
+· Reports weekly/Monthly/Quarterly SOD’S reports and support for both Internal and external auditing.
+· Worked on data source connector setup with SAP and non-SAP sources. 
+· Defined critical transactions to be used for EAM access and EAM ID creation and assignment. Good knowledge on FF owner and controller.
+· Experience on both Centralized and Decentralized EAM access setup.
+· Good experience on MSMP workflow and Brf+.
+· Worked on user access request support like forwarding, cancelling, approving and checking escape path followed requests and taking corrective actions for the same.
+· Worked on role import and supported on issues with user access requests.
+· Good knowledge on risk analysis at User level and Role level.
+· Experience in understanding Segregation of Duties and Audit Compliance Standards.
+· Worked on Risk clean up via remediation and mitigation for all business modules at both action and permission level.  
+· Provided better understanding and best practices on GRC and risk management to the business with different real time scenarios.
+· Worked on business deputation at the client site for GRC implementation support.
+· Knowledge on GRC 10.1 Risk management.
+
+
+
+SAP Security Skills
+· Experienced in working for Full Life Cycle Implementation, Go-Live, Post Go-Live, and Production Support projects. 
+· Worked on SAP R/3 security implementation and role development for Global and Local landscapes.
+· Experience in User Administration which involves Creation/ Deletion/ Locking/Mass locking/Modifying User accounts as per requirement.
+· Experience on Central User Administration (CUA) setup and create users, assign roles and maintenance in CUA environment.
+· Create and maintain User Groups, maintain SAP License data, SNC and SSO setup.
+· Experience in Developing, Maintenance, and Assigning Roles, Profiles and Authorizations using Profile Generator (PFCG).
+· Creation and Maintenance of Single, Composite, and Derived Roles on basis of specifications provided.
+· Extensively used SU53 and SUIM to assign the missing authorizations to the users and analyze related reports.
+· Good knowledge of producing and analyzing reports in SAP using SUIM, and security related tables (AGR*, USR*, etc) and customized Query reports.
+· Analyzing authorization problems/errors using SU53 and trace, implementing appropriate solutions.
+· Good knowledge on Authorization object, Authorization check (SU24) and performed all steps in SU25 after System upgrade.
+· Extensive experience with resolving ticket issues and troubleshooting security authorization problems while adhering to Service Level Agreements (SLA).
+· Experienced in adhering to the Change Management Process for transporting roles and tables, security objects and maintaining the change documents.
+· Good knowledge on SAP BI security.
+
+
+SAP BASIS Skills
+· Good knowledge and application level experience on SAP Basis.
+· Experience in System monitoring, analyzing issues and taking corrective actions for the same.
+· Good knowledge on System refresh, Support pack upgrade, Data center migration.
+· Good knowledge on Transport management system (TMS) configuration (Domain controller, Transport route setup) and support.
+· Worked on RFC, Partner profile, Distribution model, IDOCs, Client open.
+· Experienced on Batch job administration, Batch job for automatic TR movement, Job log analysis, Trace (System trace and log).
+· Knowledge on Workload analysis, System performance, DB monitoring, Instance and Work process level monitoring.
+· Monitoring Inbound/Outbound queue, Trfc, SAP mail configuration (SCOT and SOST), SAP note implementation.
+· Knowledge on SAP Solution manager 7.1, S/4 HANA and Fiori.
+
+
+Professional Experience:
+Robert Bosch Limited (Sep 2016 to till date)
+Project: GRC Implementation, FIAPL
+Client: FIAT India
+Designation: SAP GRC Consultant
+Duration: Sep 2016 – Till Date
+Responsibilities:
+· Worked on SAP GRC 10.1 AC Implementation (ARA, BRM. ARM, EAM), role design, Go-live and production support.
+· Worked on global and customized ruleset. Configured MSMP workflow and Brf+ as per Business requirement.
+· Good experience on scheduling RAR back ground jobs weekly/monthly, Synchronizing jobs.
+· Worked on user and role level risk analysis, SoD violation for all the modules.
+· Done risk clean up at permission level via remediation and mitigation, created mitigation controls.
+· Provided training on security and GRC support to support team with detailed documents.
+· Worked on user access request support like forwarding, cancelling, approving and checking escaped requests and taking corrective action for the same.
+· Provided detailed reports for Internal and External audit.
+
+Project: SAP R/3 Security Implementation, WAVE
+Client: Internal Project (Bosch Ltd.)
+Designation: SAP Security and GRC Consultant
+Duration: Jan 2017 – Till Date
+Responsibilities:
+· Worked on SAP R/3 Security implementation.
+· Worked on role development for Web DynPro applications.
+· Worked on role assignment through IdM.
+· Role and profile administration which includes role creation/deletion/modification and authorization check. 
+· Extensively used SU53 and SUIM to assign the missing authorizations to the users and analyze related reports.
+· Good knowledge of producing and analyzing reports in SAP using SUIM, and security related tables (AGR*, USR*, etc).
+· Analyzing authorization problems/errors using SU53 and trace, implementing appropriate solutions.
+
+
+
+
+Wipro Technologies (Mar 2013 to Sep 2016)
+
+Project: SAP Security and GRC, ABB Inc.
+Client: ABB Inc. 
+Designation: SAP Security and GRC Consultant
+Duration: Jan 2014 - Sep 2016
+Responsibilities:
+· Worked on SAP GRC 10.0 AC implementation, version upgrade to 10.1.
+· Worked on GRC AC all modules ARA, ARM, BRM and EAM.
+· Good experience on GRC support, role import, checking SoD violation, maintaining Mitigations. Worked on user access request support like forwarding, cancelling, approving and checking escaped requests and taking corrective action for the same.
+· Worked on SAP Security implementation for Global and Local landscapes.
+· Role and profile administration which includes role creation/deletion/modification and authorization check. 
+· Worked on producing and analyzing reports in SAP using SUIM, and security related tables (AGR*, USR*, etc), and customized Query reports.
+· Analyzed authorization problems/errors and implementing appropriate solutions.
+· Good knowledge on Authorization object, Authorization check(SU24) and performed all steps in SU25 after System upgrade.
+· GRC AC support, role import, checking SoD violation, maintaining Mitigations.
+· Worked on user access request support like forwarding, cancelling, approving and checking escaped requests and taking corrective action for the same.
+· Defined critical transactions to be used for EAM access and EAM ID creation and assignment. Good knowledge on FF owner and controller.
+· Creating risk, rules and maintaining risk owner and mitigations.
+· Under Risk Analysis and Remediation, performed User & Role analysis to identify existing SoD violations.
+· Emergency Access management, support and log analysis for Internal auditing.
+· Worked on BI authorization related issues.
+
+Significant achievements:
+· Received “Knight of ABB” award and “High flyer” award during customer visit to India.
+· Received yearly performance award “Best Performer Award” for the year 2015 from Wipro.
+
+
+Project: IRMC (Information risk management and compliance)
+Client: Internal Project (Wipro Technologies)
+Designation: SAP Security Consultant
+Duration: June 2013 – Dec 2013
+
+Responsibilities:
+· Daily/Weekly System monitoring, analyzing issues and taking corrective actions for the same.
+· Batch job administration, job log analysis and monthly/yearly specific job management.
+· SAP User administration activities.
+· Central User Administration (CUA) experience to create users, assign roles, and maintenance.
+· Role and profile administration which includes role creation/deletion/modification and authorization check. 
+· Analyzed authorization problems/errors and implementing appropriate solutions.
+· Extracting audit log reports for internal audit and compliance check.
+
+Software skills:
+
+	SAP ERP
+	Netweaver, ECC 6.0, R/3 Security
+
+	SAP GRC 
+	10.0, 10.1
+
+	Other Skills
+	BI Security, S/4 HANA, Fiori, SolMan 7.1
+
+	Other Tools
+	HP Service Manager, IdM, RevTrac, Lotus Notes
+
+
+
+Academia:
+Completed B.Tech in Electronics and Telecommunication Engineering from Biju Pattnaik University of Technology (Odisha) in 2012 with CGPA 9.1.
+	Personal Details
+
+
+
+Current Company		:  	Robert Bosch Limited
+Date of Birth			:	30th June, 1990
+Contact No			:	+91-7676859293
+Residential Address		:           Flat No. 114, Stag Saptagiri Apartment
+                                                     S T Bed Layout
+                                                     Koramangala
+                                                     Bangalore-560034
+                                                                     
+                                                                     DECLARATION 
+
+I hereby declare that the above written particulars are true to the best of my knowledge and belief.
+                                   							                         Amit Dash

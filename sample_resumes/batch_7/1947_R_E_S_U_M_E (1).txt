@@ -1,0 +1,494 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R E S U M E
+
+
+R E S U M E
+NARESH THUMMETI                                                                Mob: +91-7829429070
+                                                                                                  nareshreddy0506@gmail.com
+SUMMARY 
+6+ years of experience as Database Administrator in the field of Oracle DBMS with versions from 8i to 12c Database Management System on Windows and UNIX flavored environments like RH Linux, Sun Solaris, HP-AIX and IBM-AIX.
+
+Around 3 years of experience as Db2 LUW Dba in linux and windows environment from versions like 8, 9, 10.
+
+Around 1 year of experience as MySQL Dba in linux environment on version 5.
+PROFILE
+· Oracle expertise: Installation, configuration and creation of Oracle 10g/11g databases and upgrading the databases in Unix and Windows systems.
+
+· Maintain production and development Oracle Databases.
+
+· Implementation and maintenance of database security (creation and maintaining users and assigning roles & privileges, setting limitations to users through profiles).
+
+· Taking Backups and performing Recoveries using RMAN Utility. 
+
+· Configure RMAN and scheduling backups using crontab.
+
+· Performing Logical backups using EXP/IMP and datapump. 
+
+· Applying Oracle latest PSU patches and One-off patches.
+
+· Plan and Upgrade Oracle 10g databases to 11g successfully.
+
+· Refresh Oracle databases from backups as required using Exp/Imp and Datapump.
+
+· Configuring & maintaining Physical Standby database and Active Dataguard. 
+
+· Involved in configuring the Real Application Clusters (10g and 11g RAC).
+
+· Table reorgainzation and index rebuilding and analyzing them.
+
+· Performing database cloning from production to QA & development servers.
+
+· Working and Resolving user tickets and alerts.
+
+· Configuring the ASM on 10g/11g and Managing Disk Groups.
+
+· Worked in 24x7 production environment and also worked on-call support.
+
+· Worked on Golden Gate Extract and Replicate services bouncing.
+
+· Configured Dataguard Broker using DGMGRL Utility and performed Switchovers.
+
+· Periodic Database Review on Monthly basis.
+
+· Installing oracle 10g/11g clients on windows and unix servers for Development Team.
+
+· Validating data of latest production backups on validation servers.
+
+· Expert in Oracle databases build and Migration projects.
+EDUCATION
+· Master of Computer Applications from Shree Chaitanya PG College (Kakatiya University) in the year 2009 with an aggregate of 70%.
+
+· Bachelor of science from Vaagdevi degree college (KU) in the year 2006.
+
+· Intermediate from Vaagdevi Junior college in the year 2003.
+
+· 10th Class from Sri Srinivasa High School in the year 2001.
+
+WORK HISTORY
+· Currently working as Senior Oracle DBA, Db2 LUW DBA & MySQL DBA with IBM India Pvt Ltd from Mar 2016 to till date.
+
+· Worked as Oracle DBA in ASM Technologies Ltd, Bangalore from Dec 2013 to Feb 2016.
+
+· Worked as Oracle DBA in IPSoft Global Services Pvt Ltd, Bangalore from Jul 2013 to Dec 2013.
+
+· Worked as Customer Support Executive in Convergys India Service Private Limited, Pune from Oct 2010 to June 2011.
+· Worked as Customer Care Executive in Tata Business Support Services , Hyderabad from Nov 2009 to May 2010.
+CERTIFICATIONS 
+
+Oracle Certified Associate in Oracle Database 11g.
+
+1Z0-051 - SQL Fundamentals
+
+1Z0-052 - Administration I
+
+ACCOMPLISHMENT
+· Achieved Quarterly Excellance Award(Two times) from client Applied Materials in Asm Technologies.
+
+· Achieved star performer award from client Sony in IBM.
+
+·  Many customer appreciations.
+
+· Many appreciations from IBM project management for 100% quality and completing RFS projects before due date.
+TECHNICAL EXPERTISE
+Operating Systems  Red hat Linux 4/5/6, Sun Solaris, HP AIX, IBM AIX, Windows 2000/3/8/12 servers.
+
+Languages  SQL, Basic shell Programming.
+
+Databases  Oracle 8i, 9i, 10g, 11gR1, 11gR2, 12c 
+
+Db2 LUW Databases on windows – 81, 8.2, 9.5, 9.7, 10.1 versions
+
+MySQL Databases on 5.1 version
+
+Case Tools Service-Now, Remedy, IPRadar, IPmon, OEM, Sitescope, PA
+
+Tools & Utilities  Exp/Imp, DataPump, CRSCTL, SRVCTL, DGMGRL, ASMCMD, GGSCI, RMAN, NETCA, DBCA, ASMCA.
+UNIX Admin Skills
+Good at installing Red Hat Linux, Windows server 2000 & 2003 and Solaris installation and I can analyze performance of server from TOP, FREE, VMSTAT, SAR and IOSTAT etc. Experience in Configuring the RAW FILE SYSTEM.
+
+Installation OS & Database Creation 
+·  Configuration of Linux Red Hat.
+·  Oracle installation &  Database creation 
+·  Working knowledge on VM Ware and VM Box.
+Configuring RMAN Utility
+· Configuring RMAN for existing databases.
+
+· Writing RMAN backup scripts.
+Cloning OF Databases
+· Cold backup & Hot backup.
+
+· Recovery Manager.
+Database Refresh
+· Full database (Hot backup, Rman)
+
+· Schema (Exp/Imp, Expdp, Impdp)
+Upgradation 
+· 10g to 11g R1
+
+· 11g R1 to 11g R2
+· 11gR2 to 12C
+Patching
+· 10.2/11R1/11R2/12C Versions
+Database Performance Tuning
+· Generating and Analyzing AWR and ADDM reports.
+
+· Gathering Statistics at Database level, Schema level, Table level and Index level using Dbms stats.
+
+· Table re-organization and Re-building the indexes.
+
+· Database health check.
+
+· Monitoring and Managing Space management.
+
+· Capacity management
+
+· Compiling invalid objects in database level.
+
+· Clearing blocking sessions.
+
+· Monitoring database connections and clearing the Inactive Sessions.
+
+Database High Availability
+· Standby Configuration and maintenance.
+
+· Configuring ASM and Managing ASM disks.
+Project #4 - IBM
+
+Oracle #
+Client
+
+       :     Sony – Singapore, Japan Regions
+Tools 
+
+       :     Remedy, Leopard, Teraterm
+Version 
+       :     11gR1, 11gR2, 12C
+Environment       :     Linux 6, 7, IBM-AIX
+Role 
+
+       :
+   Senior Oracle Dba
+MySQL #
+Client
+
+       :     Sony - Japan Region
+Version
+        :     MySQL 5.1
+Environment       :     Linux 6.7 
+Role
+
+        :     MySQL Dba
+Oracle DBA Role
+· Reviewing client provided Oracle configuration sheets.
+
+· Validating oracle settings at os level and building new oracle 12c standalone databases (Prod/Non-Prod) as per configuration sheet and applying latest PSU patches, 
+
+· Configuring backups via Leopard tool.
+
+· Enabling monitoring on the databases.
+
+· Will fix vulnerabilities at database end if results as per of vulnerability scan.
+
+· Once oracle build is completed will hand over the databases to application team and extending support until application testing is completed and handed over to BAU support.
+MySQL DBA Role:-
+· Reviewing client provided Oracle configuration sheets.
+
+· Validating oracle settings at os level and building new MySQL instances as per configuration sheet.
+
+· Configuring backups via Leopard tool.
+
+· Enabling monitoring on the databases.
+
+· Once mysql build is completed will hand over the databases to application team and extending support until application testing is completed and handed over to BAU support.
+DB2 DBA Role:-
+
+· Bouncing the DB2 databases during windows standard reboot activities (CRQ).
+
+· Applied Fix patch 4 (FP4) on development/QA systems.
+
+· Gathering table sizes and collecting table statistics on monthly basis.
+
+· Validating Production databases backup on validation server.
+
+· Monitoring and managing the databases.
+
+· Space utilization at tablespace level.
+
+· Resolving replication sync issues, bouncing the replication services.
+
+· Bouncing the dataware housing services.
+· User roles & privileges.
+\Project #3 - IBM
+
+Oracle #
+Client
+
+       :     Sony – United States & Europe Regions
+Tools 
+
+       :     Remedy, HPSA, Commvault, Performance Analysis
+Version 
+       :     10g, 11gR1, 11gR2, 12C
+Environment       :     Linux, Sun Solaris, HP-AIX, IBM-AIX & Windows 2008/2012
+Role 
+
+       :
+   Senior Oracle Dba
+Db2 #
+Client
+
+       :     Sony - Europe Region
+Version
+        :     8.1, 9.7
+Environment       :     Windows 2000/2003/AIX 7.1
+Role
+
+        :     Db2 LUW Dba
+Oracle DBA Role:-
+· Working on the Tickets based on the Priorities
+
+· Installations and Upgrades of Oracle 10g, 11g & 12c databases on Linux/IBM-AIX.
+
+· Creating DB links according to the client requests.
+
+· User Management like creating users, grant privileges, profiles etc.
+
+· Capacity Planning depending upon the periodic growth of the database.
+
+· Backups validation and rectifying the issues in the failed backup scripts.
+
+· RMAN refreshes production to non-production systems (Prod → QA)
+
+· Monitoring and Maintaining Space Management.
+
+· Generating statspack and AWR reports and analyzing them.
+
+· Upgraded 11g databases to 12c and also point release upgrades as well.
+
+· Monitoring and Managing the database through OEM.
+
+· Performing table/schema level refresh activities from production to Non-Prod  databases.
+
+· Database refreshes from production to Non-Prod databases.
+
+· Working on daily alerts and validating the backup scripts in crontab.
+
+· Clearing the blocking sessions and Inactive sessions.
+
+· Installing oracle 10g/11g clients on windows and unix servers.
+
+· Capacity planning for production, Testing & Development databases.
+
+· Table re-organization and re-building indexes and analyzing them.
+
+· Gathering the statistics for tables, indexes.
+
+· Listener configuration on unix platforms.
+
+· Supporting 24X7 shifts.
+
+· Bouncing Oracle application services like Concurrent Manager, form servers and web servers. 
+
+· Worked on Disaster Recovery Activity (DR) twice in a year.
+DB2 DBA Role:-
+
+· Bouncing the DB2 databases during windows standard reboot activities (CRQ).
+
+· Applied Fix patch 4 (FP4) on development/QA systems.
+
+· Gathering table sizes and collecting table statistics on monthly basis.
+
+· Validating Production databases backup on validation server.
+
+· Monitoring and managing the databases.
+
+· Space utilization at tablespace level.
+
+· Resolving replication sync issues, bouncing the replication services.
+
+· Bouncing the dataware housing services.
+· User roles & privileges.
+Project #2 - ASM
+Client                   :       Applied Materials, USA
+Tools                    :       Service-Now, OEM, OPM
+Version        
+        :      Oracle 8i, 9i, 10g, 11gR1, 11gR2 & Db2 9.7, 10.1 
+Environment        :      Linux, Sun Solaris, HP-AIX, IBM-AIX & Windows 2003/2008/2012
+Role 
+
+        :       Oracle DBA and DB2 DBA
+Description:
+Applied Materials, Inc. (AMAT) is the global leader in Nano manufacturing technology solutions with a broad portfolio of innovative equipment, service and software products for the fabrication of semiconductor chips, flat panel displays, solar photovoltaic cells, flexible electronics and energy efficient glass. Applied Materials is, by far, the world's largest maker of semiconductor production equipment. With its 2006 acquisition of Applied Films, the company moved into the market for equipment used in making solar power cells. Applied’ s machines vie for supremacy in many segments of the chip-making process, including deposition (layering film on wafers), etching (removing portions of chip material to allow precise construction of circuits), and semiconductor metrology and inspection equipment.
+Oracle DBA Role:-
+· Working on the Tickets based on the Priorities
+
+· Installations and Upgrades of Oracle 10g, 11g databases on Linux/HP-UX/Win2003/2008.
+
+· Creating DB links according to the client requests.
+
+· User Management like creating users, grant privileges, profiles etc.
+
+· Capacity Planning depending upon the periodic growth of the database.
+
+· Backups validation and rectifying the issues in the failed backup scripts.
+
+· Involved in the SQL query tuning.  
+
+· Monitoring and Maintaining Space Management.
+
+· Generating statspack and AWR reports and analyzing them.
+
+· Upgraded 10g databases to 11g and also point release upgrades as well.
+
+· Monitoring and Managing the database through OEM.
+
+· Adding datafiles using quick I/O method.
+
+· Adding datafiles using BRTOOLS in SAP environment.
+
+· Validating the production databases backup on validation server’s on periodical basis.
+
+· Validating the Production & Development database backups on weekly basis.
+
+· Performing table/schema level refresh activities from production to pipeline databases.
+
+· Database refreshes from production to pipeline databases.
+
+· Working on daily alerts and validating the backup scripts in crontab.
+
+· Clearing the blocking sessions and Inactive sessions.
+
+· Installing oracle 10g/11g clients on windows and unix servers.
+
+· Periodic Database Review on Monthly basis.
+
+· Capacity planning for production and pipelines databases.
+
+· Table re-organization and re-building indexes and analyzing them.
+
+· Gathering the statistics for tables, indexes.
+
+· Tkprof and explain plan of the SQL.
+
+· Listener configuration on unix and windows servers.
+
+· Supporting 24X7 shifts.
+
+· Bouncing Oracle application services like Concurrent Manager, form servers and web servers. 
+
+· Validating application jobs using request id’s and modifying the status.
+
+· Worked on Disaster Recovery Activity (DR) twice in a year.
+DB2 DBA Role:-
+· Bouncing the DB2 databases during UNIX/SAP Team change request activities (CRQ).
+
+· Applied Fix patch 4 (FP4) on development/QA systems.
+
+· Gathering table sizes and collecting table statistics on monthly basis.
+
+· Validating Production databases backup on validation server.
+
+· Monitoring and managing the databases.
+
+· Space utilization at tablespace level.
+
+· User roles & privileges.
+Periodic Database Review: (Oracle)
+· We review the production databases on monthly basis.
+
+· Generating periodic database review report from OEM and analyzing it from all the aspects like space management, DB availability, Open alerts & Policy violations in OEM, Query tuning, Table reorgs, index rebuild and generating AWR/Statspack reports.
+
+· Also validate User privileges and roles.
+
+· If we found any space related issues at OS level on production database then we perform Capacity Planning for Production and Pipeline databases.
+
+· We analyze the Databases and discuss the recommendations with Application Owner and DBA Team manager.
+
+· Once we get approvals for the recommendations provided then we schedule the change requests for the same.
+Project #1 - IPSOFT
+Client                        :       COMCAST, USA
+Tools                         :       IP Radar, IP Mon.
+Version                     :       10g, 11g, RAC, ASM, Golden Gate
+Environment             :       Red Hat Linux, Sun OS, HP-AIX
+
+· Primarily worked on Tickets to meet SLA’s.
+
+· Taking Backups and validating backups using RMAN Utility. 
+
+· Database refreshes using RMAN.
+
+· Configure RMAN and scheduling backups using crontab.
+
+· Performing Logical backups using EXP/IMP and datapump. 
+
+· Applying Oracle latest PSU patches and One-off patches.
+
+· Refresh Oracle databases from backups as required using Exp/Imp and Datapump.
+
+· Database cloning from production to UAT & development servers using RMAN.
+
+· Worked on user requests like providing roles, privileges and tablepsace quotas.
+
+· Monitoring and Managing ASM Disk Groups.
+
+· Worked in 24x7 production environment and provided on-call support.
+
+· Worked on GOLDEN GATE Extract and Replicate services bouncing.
+
+· Sync Standby DB with Primary.
+
+· Applied patches on primary and standby databases.
+
+· Generating and Analyzing AWR and ADDM reports.
+
+· Gathering Stats at Database level,Schema level,Table level and Indexlevel.                               
+
+· Analyzing invalid objects and compiling them.
+
+· Clearing blocking locks and inactive sessions.
+
+· User account Related Issues and Assigning roles and privileges upon request.
+Responsibilities: 
+
+Working as L1 Oracle DBA, We have more than 500 servers and supporting 1000 databases (Production, Pre-prod, Development, Integration and Staging) all over the globe and we support them round the clock. As a DBA my key responsibilities are Monitoring and Management, scheduling and monitoring backups, installing monitoring tools, installing oracle and cloning and managing databases and tuning the databases.
+
+We have our own ticketing and monitoring tools like IPRadar, IPmon and IPCenter.
+
+We work on Incident management tickets and change management tickets depending on the Priority status.
+                                                                                         (Naresh Reddy Thummeti)

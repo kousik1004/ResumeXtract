@@ -1,0 +1,376 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Heena R. Suthar
+Contact Details:  (M)+91-9898875973
+
+E-mail:  sutharheena1991@gmail.com
+
+SAP Technical Consultant
+EXPERIENCE SUMMARY
+· SAP ABAP Consultant with 4+ years of experience in SAP R/3 ABAP/4
+ORGANIZATION
+· Currently Working At Squirrel Softech Services Pvt Ltd
+KEY STRENGTHS
+· Good working knowledge of SAP ABAP
+· Enhancement techniques such as BADIs and User exits
+· Good Knowledge of Interactive, ALV reports, Smart forms, Module Pool, BDC Call transaction, Session Method, BAPI, Enhancements, OData, HANA Views 
+· Good knowledge of Workflow, Web-dynpro
+· Very good analytical and Problem solving skills
+· Promptly delivered the deliverables by managing multiple priorities in a fast-paced environment within the specified time frame.
+
+· Systematic approach in performing tasks as and within a team, but can work independently as well.
+
+· Worked with various objects of various modules like SD, MM, FI, REFX, PS, PLM, GRC
+· Having good knowledge about GST 
+
+EXPERIENCE DETAILS
+Total Experience : 4.5 Years
+Relevant Experience: 3.5 Years
+
+Skill : SAP ABAP, HANA Views, Workflow, Webdynpro
+
+Full E2E implementation project : 3 (Working on 4th )
+
+Payroll company : Squirrel Softech Services Pvt. Ltd.
+
+Current Location : Bangalore 
+
+PROJECT EXPERIENCE
+Project#1
+Client                               : Bagmane Group
+Project Type
+             : SAP(S/4 HANA, GST) Implementation Project
+
+Role
+
+             : SAP Technical Consultant
+Duration                          : August 2017 – Continue
+	Role
+	SAP Technical Consultant
+
+	Responsibilities  
+	· REFX:Commercial Invoice(Adobe Form)
+· REFX:Utility Invoice(Adobe Form)
+
+· REFX:CAM Invoice(Adobe Form)
+
+· REFX:Upload Program for Utility Readings
+· REFX:Submit/Delete Utility Readings
+
+· REFX:Screen enhancement for additional details
+· REFX:Rent Due List Report
+· PM:  Email & Text alert for Reactive Maintenance Notificaition
+· PM: Email & Text alert for Reactive Maintenance Order
+· MM: PO Material Print(Adobe Form) 
+
+· MM:Enhancement  for Validate Control Code in PO creation/modify/display
+· MM:Screen Enhancement for Workorder details in PR creation/modify/display
+
+
+Project#2
+Client                               : Ernst & Young India (Product Base)
+
+Project Type
+             : GRC (Governance, Risk and Compliance)
+Role
+
+             : SAP Technical Consultant
+Duration                          : June 2017 – August 2017
+	Role
+	SAP Technical Consultant
+
+	Responsibilities  
+	· Program For Mitigation Alert send to monitors
+· Webdynpro for showing report of alert records through Mail Link
+
+· Webdynpro for Pie Chart which giving information of reviwed and non reviewed records and also giving Reports 
+· RFC for Check Manual Process
+
+· RFC for Customer Clear balance
+
+· RFC for Customer Details
+
+· RFC for Customer Invoice
+
+· RFC for Account Payable details
+
+· RFC for Account Receivable
+· RFC for Asset Details
+
+· RFC for Billing Details
+
+· RFC for Cash Application
+
+· RFC for Creadit Approval
+
+· RFC for GL Master Details
+
+· RFC for GR Details
+
+· Development for Bulk Role upload in table HRP1852
+
+
+Project#3
+Client                             : Crompton Greaves Consumer Electricals Ltd. (Mumbai)
+
+Project Type                 : SAP(S/4 HANA)  Implementation Project
+
+Role
+
+           : SAP Technical Consultant
+
+Duration                        : Feb 2017 to June 2017
+	Role
+	SAP Technical Consultant
+
+	Responsibilities  
+	· Transportation Report
+· Customer Collection Report
+· Customer Balance Confirmation Report
+· Customer Collection Amount SMS 
+· Sales Amount SMS 
+· Customer Ageing Report
+· Vendor Ageing Report
+· Enhancement for BA for FI Document Creation
+· Mass Budget Upload Using BAPI - BAPI_0050_CREATE
+· Workflow for Contract Change
+· MM- Credit review report
+· Document Creation BDC for IA05 Transaction(General maintenance Task)
+
+
+Project#4
+Client                                       : Financial System Services 
+
+Project Type
+
+      : SAP Implementation Project
+
+Role
+
+                     : SAP Technical Consultant 
+
+Duration                                 : July 2016 – Feb 2017 
+
+	Role
+	SAP Technical Consultant
+
+	Responsibilities  
+	· PS-Enhancement of SAP WBS Screen to input 
+· PS-Workflow for Cost Plan approval
+· PS-Screen Enhancement For Cost Planning
+· PS-Send Notification To Approval ( When User Press Button ‘Send Plan For Approval’ )
+· PS-Set User Status ( Based On Action Taken By User)
+· PS-Send Notification For  Revise Plan ( In Case Of Revise Cost Planning After Final Approval )
+· PS-Set  User Status For Revise Plan ( In Case Of Revise Planning )
+· PS-Screen Exit-CNEX0007,BADI-WORKBREAKDOWN_UPDATE,ZPS_COST_SEND_MAIL
+· PS-Screen Exit-CNEX0007,BADI-WORKBREAKDOWN_UPDATE
+· PS-Screen Exit-CNEX0007,BADI-WORKBREAKDOWN_UPDATE
+· SD-BU3 Invoice to be given to Customer.
+· SD-BU4 Invoice smartform
+· REFX- Contract Creation Using Bapi
+· REFX- Contract Updation Bapi
+· FI- Bank Transfer Letter
+· MM- FLM Transaction Report
+
+
+Project#5
+Client                               : Monte Carlo Construction (Implementation)
+
+Project Type
+             : HCM Implementation
+Role
+
+             : SAP Technical Consultant
+Duration                          : June 2015 – Dec 2015
+	Role
+	SAP Technical Consultant
+
+	Responsibilities  
+	· Custom Application For Display Inventory (MBLB)
+
+· Employee Education Details For ESS
+
+· Employee Previous Experience Details For ESS
+
+· Employee Mobil And Data Card Details For ESS
+
+· Employee Medical Details
+
+· Employee Education And Previous Experience Details For MSS
+
+· TRV01_TravelRequestEnhancement (FPM)
+
+· TRV02_GroupTravelRequestEnhancement (FPM)
+
+· TRV03_AllMyGroupTravelRequestEnhancement (FPM)
+
+· TRV04_TravelRequestEnhancement (FPM)
+
+· TRV05_TravelExpenseEnhancement (FPM)
+
+· TRV05_TravelFormEnhancement (FPM)
+
+· Conference Booking Custom Webdynpro App
+
+· Customize Adobe Form For Travel Request In Travel Management 
+
+· Customize Adobe Form For Travel Expense In Travel Management
+
+
+Project#6
+Client                                : GSPC Ltd. 
+Project Type
+              : SAP Support Project
+
+Role
+
+              : SAP Technical Consultant
+Duration                           : May 2016 – Continue
+	Role
+	SAP ABAP Consultant
+
+	Responsibilities  
+	· Workflows for Leave Application for special Scenario (Earned and Sick Leave More Than 30 Days)
+
+· Workflows for Leave Application (Mail going to perticular person on perticular level with check of leave type)
+· Function Module for Leave Validation For Leave Application
+
+· Enhancement for Leave Validation
+
+       •     Changes in Leave Workflow Application For Portal
+
+
+Project#7
+Client                                : UPL Ltd. 
+
+Project Type
+              : SAP Support Project
+
+Role
+
+              : SAP Technical Consultant
+Duration                           : Feb 2016  - Continue
+	Role
+	SAP ABAP Consultant
+
+	Responsibilities  
+	· RFC For Initiative Creation
+· RFC For Initiative Modify
+
+· RFC For Item Creation
+
+· RFC For Item Creation
+
+· RFC For Project and WBS Creation
+
+
+Project#8
+Client                                : GCX 
+Project Type
+              : SAP Support Project
+
+Role
+
+              : SAP Technical Consultant
+Duration                           : Jan 2016 – Jan 2016
+	Role
+	SAP Technical Consultant
+
+	Responsibilities  
+	•
+Interface for Read File Flag CSV file From Application Server
+
+
+Project#9
+Client                                 : Crown Beer 
+Project Type
+
+: SAP Support Project
+
+Role
+
+               : SAP Technical Consultant
+Duration                           : Jan 2016 – Jan 2016
+	Role
+	SAP Technical Consultant
+
+	Responsibilities  
+	      •
+Enhancement for Validation in XK03 for Financial Accounting Module
+
+
+Project#10
+Client                                : Kalpataru Pvt ltd
+Project Type
+              : SAP Support Project
+
+Role
+
+              : SAP Technical Consultant
+	Role
+	SAP Technical Consultant
+
+	Responsibilities  
+	· Lienmark Module
+
+· Gatepass Module
+
+· bankGuaranty Module
+
+· Appointment letter (Smartforms)
+
+· ZSSLL modules
+
+· ZPP modules
+
+       •
+ZMM modules
+
+
+

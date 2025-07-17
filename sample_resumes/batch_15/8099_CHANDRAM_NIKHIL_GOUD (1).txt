@@ -1,0 +1,230 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+                                                                                      
+
+                                                                                                                                                         
+
+CAREER OBJECTIVE                                                                                                                                          
+To work in a firm with a professional work driven environment where I can utilize and apply my knowledge, skills which would enable me to grow while fulfilling organizational goals.
+
+BASIC ACADEMIC CREDENTIALS                                                              
+	Qualification
+	Board/University
+	Board
+	Year
+	Percentage
+
+	        B.Tech  
+	St.peters engineering college
+	  JNTUH
+	2012-2016
+	         65.41%
+
+	      Intermediate
+	Sri vijaya sai junior college
+	State board
+	2010-2012
+	          86.70%
+
+	High School
+	Neo pragathi high school
+	State board
+	2009-2010
+	            88%
+
+
+Professional Summary                                                                                                     
+• Having 2.5 years in overall IT experience and as a Robotic Process Automation Blueprism developer. 
+
+• Hands on experience in creating end to end automation solutions using RPA Blue Prism Tool.
+• Good Knowledge in OOP’S concepts.  
+
+• Working experience on building web application using Html, Css, Javascript, Jquery, Ajax, Powershell script and Xml.
+
+• Experience in Application development using ASP.Net C#.
+
+• Extensively worked with automate web and desktop applications, managed and investigated the exceptions. 
+
+• Good experience in creating the Process and Object using Blue Prism automation.
+• Good Knowledge on Developing, testing and debugging of the process.
+IT/TECHNICAL SKILLS
+RPA Tool                             : Blueprism
+Programming Languages  :  C# and Java.
+Tools/ Software                   :  Visual studio, Ms Office.
+Operating systems             :  Winows 7/8/10. 
+
+Database                              :  MySQL, Sql server.                                                                                                                                                                                                                                                             Web Technologies              :  Html, Css, Javascript and Ajax.
+
+PROFESSIONAL EXPERIENCE
+
+· Working as a Software Developer for JJ staffing Pvt Ltd from june 2016 to till date.
+
+Project Details :
+
+Client            :  Bell canada.
+Title              :   Work Force Management System.
+Duration        :  June 2018 to till to the date.
+Designation   :  RPA Developer.
+
+
+Description  :    
+                 
+The Work Force Appointment system (WFAS) solution is a virtual appointment booking tool that bridges the Scheduling and Total Load components of the ACTION system with the front-end OrderMax ordering tool. This in turn offers the front end agents the ability to offer customers the appointment  that we are best able to make based on an analysis of the Dispatch Area (DA) technicians who service the customer, type of order requested, the load that already exists at this location, and the scheduled number of technicians available.
+
+This process will create a new way of operation that will link the work force availability to the service appointment offering to our customers. The tool will offer the best appointment, dependant on Operation availability causing improved customer experience and maximized productivity for the Central Office and Field Services technicians of bell Canada.
+
+ Robots are designed and developed with required details/ process steps and either will run individually or plug with the Claim processing framework. The goal of the project is to track issues raised from customers, filter the data and send the filtered data to collection. By using Robots in performing business process the issues are processed faster and accurate, handling the intermittent spike in volume in a short time. 
+
+
+Rules & Responsibilities:
+
+· Working on different type of Stages like Action, Calculation, Decision, Choice and Multi Calculations, Page, Wait and Data item.
+
+· Experienced in exception handling using Exception, Recover, Resume stages.
+
+· Experienced in Creating the Work Queues to improve the performance of Process.
+
+· Used the MS Excel, MS Word VBO, Utility Collection Management, Utility File Management.
+· Surface Automation, Web automation , email automation , excel automation , files & folder automation and Data base Automation etc.
+Project Details :
+
+Client            :  Bell canada.
+Title              :  New Business Automation.
+Duration        :  March 2017 to May 2018.
+Designation   :  RPA Developer.
+
+ Fin_BelltS_101 :  This process involves automation of the invoice processing where the filed invoices are verified against a purchase order and are then validated for the acknowledgement or approval date from the client, depending on the outcome of the validations the rebate rate is determined and a regular follow up is sent as per the gestation period of the invoice. 
+
+User Access Automation :  This process aims to automate the adding, modifying and deleting of the user profiles based on the email requests received by the bot and then updating the users with status of the requests. 
+
+Resource Reconciliation : This automation ensures that the allocations to associates are aligned with compliance norms, it verifies the resources allocated to the teams against the project and approved client ID. And incase of any inconsistency alerts are triggered to the concerned managers and after certain alerts if there is no response then the login ID of the associate id is deactivated.
+
+Rules & Responsibilities:
+
+· Worked on Process studio and Object studio.
+
+· Have good knowledge about Control room, Debugging and  Work Queues.
+
+· Have good knowledge about database configuration, error handling & error logging.
+
+· Performed excel automation, web automation, email automation and file management.
+
+· Working knowledge in Collections, loop stage.
+
+· Worked on spying Web Applications and Different Attributes.
+
+Project Details :
+
+Client           :   Stone Profit Systems.
+Title             :   SPS Server Management.
+Duration        :  Sep 2016 to Jan 2017.
+Designation   : Associate Software Engineer
+
+
+Description  :    
+                 
+This project involves maintaining the stone profit systems servers like sending the alerts to the servers, restarting the servers, restarting the sql server, recycling the application pools with one single click. Check the disk space usage on daily basis and weekly basis and send the data through mail. Check the current disk space and showing the all directories, folders and files by creating the file manager. 
+
+
+Technologies Used : C#, ASP.Net, Html, Css, Javascript, Jquery, Ajax, Powershell, xml and json  .
+
+Rules & Responsibilities:
+
+· Developed Login, Home and File manager pages.
+
+· Developed powershell scripts to restart, recycle the servers and send the alerts to the users.
+
+· Used Xml to store the user data and authentication purpose and in home page everyday it’ll dynamically store and show the result values.
+
+· Used C# to connect to xml file load and run the powershell scripts and show the disk drive data with files.
+
+· Used Ajax to get the data from xml to show in home page and send the data from aspx page to cs file without running at server.
+
+PERSONAL DETAILS
+· Name                                        :-   Chandram Nikhil Goud
+· Father’s Name
+           :-   Chandram Yadagiri Goud
+· Date of Birth    
+           :-   15 june 1995                        
+· Language Known
+           :-   Telugu , Hindi & English.                                                     
+
+· Marital Status                       :-   Single
+· Nationality/Religion           :-   Indian  
+· Interest & Hobbies
+
+:-   Blogging, Internet browsing , Playing chess and cricket.
+DECLARATION 
+I do hereby declare that the above information is true to the best of my knowledge.
+
+Place :                                                              
+
+
+                            CH.Nikhil
+Date: 
+
+CHANDRAM NIKHIL GOUD
+
+B.Tech (St.Peters Engineering College) , Computer Science Engineering    	   Contact No. : - 7989259817
+
+ E-mail :-  nikhilgoud4444@hotmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,211 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sachin Fagoji Mutkure
+
+	Address-
+	Contact​-
+
+	℅ Rajaram Madhavi, Shanti Villa 103,
+	Email:​sachin.mutkure5@gmail.com, Mobile: ​(+91) 8657290706
+
+	Sector 9, Diva Koliwada,
+	
+
+	Airoli, Navi Mumbai -400708
+	
+
+
+
+
+ Objective:
+
+To put my sincere efforts and hard work in fulfilling the duties as assigned in the job profile and working towards the growth and prosperity of the company.
+
+
+Work Experience:
+
+· Currently working as ​Java Developer ​with ​Neosoft Technologies, Mumbai ​from 9-Jan-2017 to till date.
+· Worked as a ​Java Developer ​in ​Inflate Solutions Pvt Ltd, Nagpur ​from 23-Nov-2015 to 30-​Dec-2016.
+· Worked as a ​Java Developer​ in ​Eventsys Technologies​, Pune from 28-Oct-2014 to 20-Nov-2015.
+
+Technical Skills:
+
+· Programming Languages: ​Core Java​, ​JDBC, J2EE.
+· Web Services: Restful, soap. 
+· Client-Side Language: ​HTML, Java Script, AJAX, JQuery.
+· Database: ​My-SQL, SQL Server, Postgres​.
+· Web Server​: ​Apache Tomcat​, J-Boss 7 & 8, wildfly-9.
+· Development Tools: Eclipse, Spring Tool Suite.
+· Framework: ​Spring MVC, Hibernate, JPA​.
+· Report Tool: ​I-Report 5.6.0.
+· SVN.
+
+Qualification:
+
+· Earned MCA from G.H.R.C.E Nagpur, Maharashtra in year 2014 with 8.90 CGPA
+
+P​ROFESSIONAL E​​XPERIENCE SUMMARY: ​
+COMPANY​: MAHINDRA AND MAHINDRA PVT. LTD, MUMBAI
+
+1. HOLIDAY HOMES
+Description:
+
+Using this application, the employees of Mahindra will be able to book Holiday Homes for their vacations in various parts of India. Post booking the user will receive a confirmation mail with booking details and care takers contact details. User will also be able to manage their bookings (change booking dates and cancel booking) from the portal. The number of nights an employee will be allowed to book will depend on the level of the employee in the organization and the HR policy against their leaves. The admin of the portal will be able to manage and upload the holiday home’s inventory, manage admin users and create and allocate caretaker for the properties. Admin will also be able to book holiday homes on employee’s behalf, apart from this the admin will also be able to book holiday home for employee for official purposes as well. Admin will also have the rights to manage booking and extract reports.
+The entities using this application are:
+· Admin
+
+· Employee
+Admin will be able to create Holiday Homes and upload the inventory for the same. Admin will also be able to book holiday homes on behalf of employees; these bookings can be for official purposes as well. Admin will also be able to manage booking view reports.
+Roles &Responsibilities:
+
+· Was involved in Db Design, coding, testing goes as a combined regular process, VAPT and deployment.
+· Developed Spring, Hibernate JPA and JSP.
+ Environments: Java – 7, ​Spring MVC, Hibernate JPA, Spring Security, Eclipse Kepler, Log4j, Apache Tomcat, J-boss eap-7, Jasper Report, Rest-full web services, java-script, SVN, J-query, Ajax, MySQL, Maven, SSO (Single Sign on).
+COMPANY​: MAHINDRA AND MAHINDRA PVT. LTD, MUMBAI
+
+2. BOARD EVALUATION 
+Description:
+
+Using this application, the directors should be able to fill the evaluation forms of the various committees that they are a part of and submit the evaluation to the SPOC. The SPOC would be able to view the evaluations submitted by the directors and extract individual and consolidated report of the evaluations. The admin will be able to add questions to evaluation form, create committees, add or remove directors from a committee, view the reports regarding the evaluation completion by the directors. The chairman will be able to view company wise reports of the evaluation.
+The entities using this application are:
+· Super Admin
+
+· Admin
+
+· Director
+
+· SPOC
+
+· Chairman
+
+Roles &Responsibilities:
+
+· Was involved in Db Design, coding, testing goes as a combined regular process, VAPT and deployment.
+· Developed Spring, Hibernate JPA and JSP.
+ Environments: Java – 7, ​Spring MVC, Hibernate JPA, Spring Security, Eclipse Kepler, Log4j, Apache Tomcat, J-boss eap-7, Rest-full web services, java-script, Jasper Report, SVN, J-query, Ajax, MySQL, Maven.
+COMPANY​: Inflate​ Solutions Pvt Ltd, Nagpur
+
+3. ACADEMIC-MIS
+
+Description:
+
+ACADEMIC-MIS (Campus) is web-based e-Governance software for computerization of all administrative activities of any Educational Institution such as autonomous institutes,
+
+deemed universities & professional colleges.
+Roles &Responsibilities:
+
+· Was involved in coding, testing goes as a combined regular process.
+· Developed Spring, Hibernate and JSP for the UI screens.
+ Environments: ​Spring MVC, Hibernate, JSP, Rest-full web services, java-script, Spring Security, Postgres, Eclipse Marsh, Log4j, Apache Tomcat, Jasper Report, SVN .
+
+
+COMPANY​: EVENTSYS TECHNOLOGY, PUNE.
+4. G​OE​​ZH​​EALTH
+
+Description:
+
+GoEzHealth is web base online application. It basically used to provide the online Health solution to Customer (Patient). It facilitates to Doctor create his profile and register with application. It provides facility to write blog and health tips by doctors and users as well. User / Patient can give rating to blogs and tips and also post comment on tips. This provides Online snomed diagnoses, Online Doctor Consultation, user / patient can post the question related the health issues to the doctors. It provides all Health-related news updates, Drugs Information. Doctors provide online prescription and also process the X-ray’s Reports.
+
+Roles &Responsibilities:
+
+· Was involved in coding, testing goes as a combined regular process.
+· Developed Spring implementation and JSP for the UI screens.
+Environments: ​Spring MVC, Spring Security, SQL-Server, Spring Tool Suite, Log4j, Apache Tomcat
+
+COMPANY​: EVENTSYS TECHNOLOGY, PUNE.
+5. KFC
+
+Description​:
+KFC is Web based online Application Which maintains the KFC’s foods details with cost as per its quantity, Customer can able to search and order food online by using the website as well as mobile app. On the basis of order, System generates an online bill to the customer, System also maintain the information of customer details and its order for the future use.
+Roles &Responsibilities:
+
+· Was involved in coding, testing goes as a combined regular process.
+Environments: ​Spring MVC, Spring Security, JPA, JDBC, SQLServer, Spring Tool Suite, Log4j, Apache Tomcat, Rest-full web services, javascript.
+
+Personal Details:
+
+	Name
+	:
+	Sachin Fagoji Mutkure
+
+	Father Name
+	:
+	Fagoji Antuji Mutkure
+
+	Gender
+	:
+	Male
+
+	Date of Birth
+	:
+	30​th ​March 1989
+
+	Languages Known
+	:
+	Marathi, English, and Hindi.
+
+	Address
+	:
+	At. Sonpuri, Po.Channa, Th.Kuhi, Dist. Nagpur-441202
+
+
+
+Declaration:
+I hereby declare that the above information is correct and true to the best of my knowledge and belief.
+Date: 
+
+
+
+
+
+
+
+
+(Sachin F. Mutkure)
+Place:
+
+

@@ -1,0 +1,256 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Jyoti Vermae- 30    
+
+	 
+Mobile No.: +91 9711184048
+E-MAIL:jyotii2202@gmail.com
+
+	OBJECTIVE
+
+Seeking a position, as a key team player in SAP technology in an organization of repute.
+
+PROFESSIONAL QUALIFICATION
+
+· 5years of experience in SAP BASIS & Security
+
+ACADEMIC  QUALIFICATION
+
+· B.TECH in (CS) 2011 
+· Xth, CBSE Board. March 2005
+· XIIth, CBSE Board. March 2007
+
+SAP EXPERIENCE –> 5years
+
+Joined Birlasoft Pvt Ltd as an Associate Software Engineer (Dec 2012 – May 2015)	
+Currently working with HCL as a Senior Specialist (June2015 - Present).	
+
+KEY SKILLS
+
+Installation of SAP servers and post installation activities.	
+· Applying Support packs (WINDOWS).
+· Maintaining Profile parameters.
+· System copy (backup & restore).
+· Apply java patches.
+· Worked with Configuration tool and Visual Administrator.
+· Profile maintenance through PFCG.
+· Solution manager (EWA configure) 
+
+International Experience
+
+· Worked with international team in Europe(Prague).
+	
+PROJECTS HANDLED
+
+SAP Implementation Project
+
+Bekaert , (June’ 15 to present)
+
+· Client			:       Bekaert (Belgium)
+· Environment	            :    ECC 6.0, CRM, BI 7.3 with EHP1, EP,DB – Oracle                                10g and 11iOS – RHEL 6.1 
+· Role			:       BASIS CONSULTANT
+
+Description: It designs and manufactures a diversified product range for the international Steel, metal detection and mining technology markets. Bekaert is the owner and operator of one of the most extensive steels market in the world.
+
+Responsibilities: Implemented Business Intelligence 7.3 with EHP1 and perform post installation activities
+
+· Daily system monitoring and then send that system health check report to client
+· Kernel Upgrade as per EWA recommendation
+· Applied profile parameters
+· Client creation, client copy (local and remote)
+· Scheduling standard background jobs
+· Generate SSCR key for developer
+· Remote client copy or client refresh
+· Implementation of RSECNOTE and RTCCTOOL.
+· Importing transport request into production client;
+· Patch Management (SAP security notes, SPAM/SAINT, Basis/ABAP, support patches)
+· STMS Configured
+· Support in SAP systems shutdown and startup during maintenance
+· File systems monitoring
+· Expertise in SUIM t-code
+· Lock/unlock transaction code and user
+· Systems start and stop completely while daylight savings change Server
+
+Birlasoft , (Nov ’13 to May ‘15)
+
+· Client			:       Birlasoft
+· Environment		:       SAP ECC.0, 6DB – Oracle 10g OS – Windows NT
+· Role			:       BASIS CONSULTANT
+
+Description:  It was a full installation of IDES for internal use of our SAP consultants and also performed post installation activities.
+ Responsibilities: BASIS activities
+· Installation and configuration experience of SAP ECC 6.0, 
+· Experience of system copy, client administrations.
+· Patching using JSPM, SPAM, applying SAP Notes using SNOTE.
+· Security Administration: Managing SAP servers security like creating users, deleting users, creating profiles using profile generator (PFCG), creating roles, assigning profiles, creating authorizations, assigning roles, using SAP default templates for users, monitoring user logins, user sessions
+· Transport Management System (TMS) – Complete setup of Correction & Transport System (CTS) using STMS. Creating Transports using workbench organizer, Transport Organizer, importing TPs through STMS.
+· Experienced in identifying a solution in SAP Marketplace and updating the application by applying OSS notes using SNOTE.
+· Excellent in monitoring Batch/Background Jobs-Checking the status of Background Jobs, Deleting Batch Record, Scheduling Background Jobs.
+· Database administrations through DB02, DB14, DB13 etc.
+· Performed post installation activities like
+· Applying support patches for ABAP+JAVA
+· Applied maintenance certificate
+· Performed STZAC transaction
+· SCOT mail configuration
+· Change in Profile parameters
+· SAPDBA related activities like scheduling BTC job for DB and also performed manually offline and online backup by BRTOOLS.
+· Check system logs and ABAP Dump
+· Creation of Logical system and maintaining RFCs
+· Excellent Documentation, Business correspondences and Knowledge transfer skills.
+· Excellent Team playing skills.
+
+                                                                                       
+ISR (Pune), (May’13 to Oct ’13)
+
+· Client			:   Neosym Industry Limited (ISR)
+· Environment		:  ECC 6.0, Solution Manger 7.0, OS – Linux, Oracle 10g.
+· Role			:   BASIS CONSULTANT
+· 
+Description: Neosym Industry Ltd. (Formerly the Indian Smelting and Refining Co. Ltd) is part of CK Birla group started operations in 1932 as ISR. Birla's bought this non-ferrous Foundry from an Englishman. From that humble beginning, we’ve become a leader in Indian non-ferrous metal industry. Neosym Industry Limited is a part of CK Birla Business House which has interests in various Industrial sectors ranging from automobiles to transmission systems and from paper to cement.  
+Responsibilities:  Job involved and Daily/Weekly/Monthly task:
+· Installation, post installation and administration activities of various SAP Solutions. E.g. ERP ECC6.0 EHP4 (Development, Quality, Production), Solution Manager 7.0, IDES (for core users and end users).
+· Perform post-installation activities
+· Apply SAP License
+· STMS configuration for three system and import TR into production system
+· SGEN,SICK,SM28 and import profiles of active servers
+· Applying support patches like spam/saint update, kernel upgrade, BASIS/ABAP/HR etc
+· Applied profile parameters
+· Client creation, client copy (local and remote)
+· Scheduling standard background jobs
+· Generate SSCR key for developer
+· Operation mode configuration
+· Change in SAP logo and published logon page message
+· File system monitoring.
+· EWA and MOPZ Configuration
+· Spool & print management
+· Checking Failed update record & system logs
+· Short dump analysis, managing lock entries, lock/unlock transaction codes, displaying and monitoring of Database and Application servers, managing user sessions
+· User creation and role creation(master and composite) after that assigned as per the designed role matrix
+· DB online and offline backup by BRTOOLS
+· SAP router Installation and configuration
+· SMTP mail configuration
+· System monitoring 
+· Raised SAP OSS message many time
+· Send system message to end users before doing any basis downtime activity
+· Prepared USMM user measurement report for sap audit.
+
+	
+Technical Skills
+
+SAP R/3 Skills
+System Monitoring
+Client Administration
+Transportation
+User Administration
+Patch Management
+
+ERP SAP R/3 , ECC 6.0, Netweaver 7.0
+BACKUPS/  RESTORES
+REMEDY, TICKETING TOOLS
+
+
+Operating System
+Win9x/NT/2000/XP/2003,
+Windows Server 2008,  HP-UNIX.
+
+Courses
+
+SAP (Basis)
+
+
+
+
+Codan , (Jan’ 13 to April 13)
+
+· Client			:       Hostworks Australia (Codan/Broadcast)
+· Environment	            :    ECC 6.0, CRM, BI 7.3 with EHP1, EP,DB – Oracle                                10g and 11iOS – RHEL 6.1 
+· Role			:       BASIS CONSULTANT
+
+Description: Codan designs and manufactures a diversified product range for the international high frequency radio, satellite, metal detection and mining technology markets. Broadcast Australia is the owner and operator of one of the most extensive terrestrial broadcast transmission networks in the world.
+
+Responsibilities: Implemented Business Intelligence 7.3 with EHP1 and perform post installation activities
+
+· Daily system monitoring and then send that system health check report to client
+· Kernel Upgrade as per EWA recommendation
+· Remote client copy or client refresh
+· Implementation of RSECNOTE and RTCCTOOL.
+· Importing transport request into production client;
+· Patch Management (SAP security notes, SPAM/SAINT, Basis/ABAP, support patches)
+· STMS Configured
+· Support in SAP systems shutdown and startup during maintenance
+· File systems monitoring
+· Utilizing zsac transaction code to change in time settings
+· Expertise in SUIM t-code
+· Lock/unlock transaction code and user
+Systems start and stop completely while daylight savings change Server
+	
+Technical Skills
+
+SAP R/3 Skills
+System Monitoring
+Client Administration
+Transportation
+User Administration
+Patch Management
+
+ERP SAP R/3 , ECC 6.0, Netweaver 7.0
+BACKUPS/  RESTORES
+REMEDY, TICKETING TOOLS
+
+
+Operating System
+Win9x/NT/2000/XP/2003,
+Windows Server 2008,  HP-UNIX.
+
+Courses
+
+SAP (Basis)
+
+
+
+

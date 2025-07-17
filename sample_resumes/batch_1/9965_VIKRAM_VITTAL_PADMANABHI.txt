@@ -1,0 +1,171 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+VIKRAM VITTAL PADMANABHI
+Contact No. +91-9591896105 
+E-mail: padmanabhivikram@gmail.com 
+DOB: 11th May, 1990
+Address: #69, 3rd Main, NRI LYT, Kalkere Village, RM Nagar, Bangalore - 560016
+
+		
+OBJECTIVE
+
+To obtain a challenging analytics position where I can bring my strong analytical skills, technical skills and expertise to the forefront to drive business decisions.
+
+
+PROFESSIONAL SUMMARY
+
+· M.Sc in Bioinformatics from IBAB (2011-2013) with 5+ years of overall experience in Next Generation Sequencing  and Business Analytics.
+· Hands-on training in Data Science using SAS and R from AnalytixLabs (Nov-17 to April-18). 
+· A dynamic professional with a strong business acumen, academic background and exposure to statistical tools SAS (Base and Advanced), R programming, Tableau and MS Excel (Advanced) for data and statistical analysis.
+· Well versed with Multivariate Analysis Techniques using SAS and R.
+· An ardent analyst, with a flair to adapt quickly and work under high pressure resolving complex business problems.
+· Strong analytical and quantitative skills. A team player with strong communication and interpersonal 
+skills; performed leadership roles for team building and achieving team goals; self motivated fast learner.
+
+
+KEY SKILLS
+
+· Technical  -  R Studio, SAS (Base and Advanced), Perl, Microsoft Office, Tableau, Python and Shell.
+· Analytical -  Linear & Logistic Regression, Factor Analysis, Cluster Analysis, Decision Trees, Time Series 	               Forecasting.
+· Other        -  Analytical Thinking & Planning, Problem Analysis, Quantitative skills, Time Management,
+                       Reporting, Documentation and Specification, Interpersonal Communication.
+
+WORK EXPERIENCE
+
+STRAND LIFE SCIENCE PVT LTD -   Jun 2013 to Present							
+Bioinformatics Engineer  - NGS Data Analytics						
+  
+ Projects Undertaken: 
+
+1. NGS Panel Designing and Data Validation                     Technologies Used: Perl, R-Studio, Shell, Strand-NGS
+Goal: Building various custom panels by adopting efficient strategies and optimising the Design. Also, Validating the Next generation sequencing data produced by Miseq/Hiseq/NextSeq reporter of custom and catalogue panels by performing an alignment and downstream analysis, such as: Quality assessments of each sample, finding out Low Coverage, complex and repeat regions, Translocations, SNP & CNV detection.
+Responsibilities:
+· Administration of data, workflow’s and software.
+· Standardizing the pipelines and parameters for alignment, filtering and other steps.
+· Generating a validation reports for each panel by performing Sensitivity, Specificity, Reproducibility,  Uniformity analysis and Clustering.
+· Conduct root cause analysis to compute the sources and reasons for a particular problem; and accordingly suggest sound solutions.
+
+2.  Cancer Risk Test                                                                   Technologies Used: Perl, R-Studio, Shell, Strand-NGS
+
+         Goal : Reduce the cost of Germline test for detecting rare variants by 2-dimenional (6Col * 6 Row) sample           pooling strategy.
+         Responsibilities:
+· In-Silico pooling of samples for each row(R) and column(C) by taking proportionate number of reads (chosen random) from each sample and do SNP analysis. 
+· Check rare variants are getting called out in the correct pair(R and C) of pooled sample.
+· Calculate Sensitivity and Specificity.
+· Evaluate this strategy holds true on real samples (Data obtained from wet-lab experiments).
+3. Developing Command Line Tools and Software Testing        Technologies Used: Perl, Shell, Strand-NGS
+
+         Goal : Evaluating new, in-house developed algorithms through simulations for integration into my company’s proprietary NGS analysis software - StrandNGS (http://www.strand-ngs.com/).
+         Responsibilities:
+· Simulate reads to capture all the structural variants. 
+· Detection of exact supporting reads fraction for a given variant in a bam file.
+· Soft-clip the reads, which are outside the target regions.
+· Evaluate the new clinical features added to the software.
+· Down-sampling the sequenced reads generated from the control samples for the variant list (sample of interest) to find out the limit of detection (using in-house SNP callers) in 2 ways :
+1. Precise random down-sampling   2. Random down-sampling. 
+4. Software Technical Support                                                 Technologies Used: Python, Perl, Shell, Strand-NGS  
+
+        Goal :  Develop the annotations track, for the requests raised by the clients, for their organism of interest. 
+Responsibilities:
+· Cleaning and processing/filtering the raw annotation file, such as : Genome Build, Genes &Transcripts, reference, reference index,  dbSNP,  dbSNFP and TargetScan.
+· Created annotations for clients from various institutes around the world, with a TAT of 4 days, which lead to customer satisfaction.
+TRAININGS
+
+· Hands-on training  on Data Science using SAS and R from AnalytixLabs   (Nov-17 to Apr-18)
+· Hands-on training  on Big Data and Hadoop from Radiant Technologies (Aug-16 to Oct-16)
+Projects Undertaken after Training:
+
+Proactive Attrition Analysis: A wireless telecom company wants to retain its existing customers. So the company wants to have a proactive churn management. The idea was to use insights from the model to develop an incentive plan for enticing would-be churners to remain with telecom company.
+Analytical Tool:- SAS/R 							Technique :- Logistic Regression
+
+Credit card Segmentation: A credit card company wishes to understand its customer behaviour so to have a enriched customer profile by having intelligent KPI’s to gain insight on customer profiles. The idea was to first develop a customer segmentation to define marketing strategy. 
+Analytical Tool:- SAS/R 							Technique :-K-Means cluster analysis
+
+Credit card Spend Analysis: A company collected data of credit card usage from several individuals. Now, wish to understand what's driving the total spend of credit card(Primary Card + Secondary card) and needs to prioritize the drivers based on the importance. 
+Analytical Tool:- SAS/R 							Technique :-Linear Regression
+
+Transport department forecasting: UK Transport Department collects data of UK Passenger movement from UK to different places. The Transport Department would like to forecast the total number of passenger’s movement from UK for the next four quarters.
+Analytical Tool:- SAS/R 							Technique :-Time Series Forecasting
+
+
+
+POSTERS AND PUBLICATIONS
+
+· Publication– “Strand Advantage Test for Early-Line and Advanced-Stage Treatment Decisions in Solid Tumors”. Cancer Medicine (http://onlinelibrary.wiley.com/doi/10.1002/cam4.1037/full).
+· Abstract – “Analytical and technical validation of a cost-effective diagnostic test for BRCA1, BRCA2 and TP53”. Journal of Cancer Research (http://cancerres.aacrjournals.org/content/75/15_Supplement/4878).
+· Abstract – “ Targeted Sequencing to confirm clinical diagnosis of Li-Fraumeni Syndrome”. Journal of Clinical Oncology (http://meetinglibrary.asco.org/content/151430-156).  
+· Poster presentation - “Analyzing Microarray Probes for Alternatively Spliced Form Prediction”. IBAB, Bengaluru.
+
+
+ACADEMIC DETAILS
+
+	QUALIFICATION
+	INSTITUTE
+	BOARD/ UNIVERSITY
+	DURATION
+
+	M.Sc in Bioinformatics and Biotechnology
+	IBAB
+	IGNOU University
+	20011-2013
+
+	B.Sc in Biotechnology
+	APS College
+	Bangalore University
+	2008-2011
+
+
+
+
+
+
+

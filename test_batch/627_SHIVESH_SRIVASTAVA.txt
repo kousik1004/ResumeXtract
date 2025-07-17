@@ -1,0 +1,331 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHIVESH SRIVASTAVA  
+
+Senior Systems Engineer (Infosys Limited) 
+
+Contact No: +917905307714 
+E-Mail: beingshivesh@gmail.com 
+ 
+Career Objective  
+ 
+To be well settled in an organization, where my professional experience and abilities can be best 
+utilized for growth of my career and the organization. 
+ 
+Professional Summary: 
+ 
+
+• Have 3 years of total IT experience in the Design, Implementation, Development, analyzing, 
+
+deploying MS SQL Server suite of products with Microsoft Azure Data Lake, Microsoft Azure 
+
+Data Factory,Power BI, Power Pivots ,Business Intelligence in SQL Server Integration 
+
+Services (SSIS) and SQL Server Analysis Services (SSAS) 
+
+• Have very good exposure in generating Power BI reports and Dashboards 
+
+• Conceptually strong with an innovative and analytical approach to the work with an eye for 
+
+detail. Enriched with the ability to learn new concepts & technology within a short span of 
+
+time. 
+
+• Have experience in analyzing, designing, developing and deploying MS SQL Server suite of 
+
+products with Business Intelligence in SQL Server Integration Services (SSIS) and SQL Server 
+
+Analysis Services (SSAS) and SQL Server Reporting Services(SSRS) 
+
+• Strong experience in fixing bugs in existing system and creating ad hoc reports based on user 
+
+requirements 
+
+• Highly motivated Business Intelligence Professional using SQL Server 2008/2012, Microsoft 
+
+Technologies and other technologies over last 3+ years 
+
+• Demonstrated leadership abilities and team work skills as well as the ability to accomplish 
+
+tasks under minimal direction and supervision. 
+
+ 
+
+Work Experience: 
+
+• 3 years of IT experience working on MSBI technologies and Power BI 
+
+Well versed with SQL 2012 SSIS, SSAS, SSRS, Power BI 
+
+• Effective communication skills and corporate business etiquettes 
+
+• Exposed to Big data technologies like Apache Hadoop, Hive. 
+
+mailto:beingshivesh@gmail.com
+
+
+ 
+ 
+Technical Skills: 
+
+ 
+
+Database: SQL SERVER 2016/2014 
+
+Programming: T- SQL, PL\SQL, MDX , DAX 
+
+Operating System: Windows 2008/2010 
+
+ETL Tool: SQL Server Integration Services (SSIS), Informatica 
+
+OLAP Tool: SQL Server Analysis Services (SSAS) 
+
+Reporting Tools: Power BI, SQL Server Reporting Services (SSRS) 
+
+Development 
+Platform : 
+
+Microsoft Visual Studio Team Foundation Server (TFS) 
+
+ 
+Projects Summary 
+ 
+
+Project 1: 
+
+ 
+
+Project Name MAST BI 
+
+Client Microsoft 
+
+Role Developer 
+
+Duration  April 2017 to Present 
+
+Environment  Power BI, SSAS Tabular 
+
+Description: Objective of this Project is to develop multiple SSIS packages to load data into 
+DataMart and Data warehouses, to be pulled for Multidimensional cubes in SSAS. And then 
+measures and dimensions from cubes were used by users for POWER BI dashboards and reports 
+
+Responsibilities: 
+
+• Created multiple SSIS ETL packages (2008/2012) to perform data pull from various data 
+
+sources from downstream team as per Requirement. 
+
+• Developing, configuring, deploying and scheduling the SSIS (ETL) Jobs in SQL Server 
+
+2008/2012 across all environments like DEV, Staging and Production servers. 
+
+• Created Stored Procedures to load data into SSAS tabular Models. 
+
+• Created Power Bi reports on top of SSAS tabular models. 
+
+
+
+• Created various measures and developed Dashboards and Reports. 
+
+Project 2: 
+
+ 
+
+Project Name GBS 
+
+Client Microsoft 
+
+Role Developer 
+
+Duration  October 2016 to March 2017 
+
+Environment  SSIS, SSRS, SQL Server 
+
+Description: Objective of this Project is to develop multiple SSIS packages to load data into 
+DataMart and Data warehouses, to be pulled for Multidimensional cubes in SSAS. And then 
+measures and dimensions from cubes were used by users for POWER BI dashboards and reports. 
+
+ 
+
+ 
+
+ 
+
+Responsibilities: 
+
+• Created multiple SSIS ETL packages (2008/2012) to perform data pull from various data 
+
+sources from downstream team as per BR. 
+
+• Developing, configuring, deploying and scheduling the SSIS (ETL) Jobs in SQL Server 
+
+2008/2012 across all environments like DEV, Staging and Production servers. 
+
+• Used transformations like Derived Column, Conditional   Split, and Aggregate, Sort, Merge 
+
+join, Data Conversion, Union, Pivot and Script Task. 
+
+• Developed MDDM Cube using SSAS. 
+
+• Developed dashboards on top of MDDM cube using Power BI and Reporting Template. 
+
+ 
+
+Project 2: 
+
+Project Name  GMO Power BI Dashboard 
+
+Client Microsoft 
+
+Role   Developer 
+
+Duration  April 2016 to September 2016 
+
+
+
+Environment  Power BI, Power Pivot, Power View, Power Query 
+and Microsoft Excel 2013 
+
+ 
+
+Description: This Project is to develop a Power BI dashboard requested by Business Client. This 
+involves creation of data model from different data sources and development of Power View 
+Dashboard on top of it. 
+
+ 
+
+Responsibilities: 
+
+• Created a data model in Power Pivot using Microsoft Excel 2013 to perform data pull from 
+various data sources like databases and Excel files. 
+
+• Created multiple calculated columns using power queries based on requirements. 
+
+• Developed multiple Views on Excel using Power View and created multiple Slicers, Tiles, 
+Filters, Charts and Graphs on each view on this Dashboard. 
+
+• This dashboard helps to calculate the SLA’s for each ticket based on portfolio, application and 
+date filters. 
+
+• Delivered technical and domain related KT’s on this dashboard to entire team members. 
+
+ 
+
+ 
+
+ 
+
+Project 3: 
+
+ 
+
+Project Name  Ask me tabular 
+
+Client Microsoft 
+
+Role   Developer 
+
+Duration  Nov 2014 to Mar 2015 
+
+Environment  SSAS tabular, SSIS and Microsoft Excel 2013 
+
+ 
+
+Description: This Project is to develop tabular models from underlying databases which were 
+loaded according to BR and creating measure and KPI over it 
+
+ 
+
+Responsibilities: 
+
+• Created data models in SSAS tabular with the help of SP’s in SQL server. 
+
+• Created multiple calculated columns based on requirements. 
+
+• Created multiple measures and KPI’s according to requirement and loaded Excel accordingly. 
+
+• Created SSIS packages for loading new dimensions and fact tables in to the server. 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+Personal Profile: 
+
+      
+
+  Date of birth                 : 04-05-1991 
+
+  Gender                           : Male 
+
+  Marital status               : Single 
+
+  Nationality                    : Indian 
+
+  Languages Known      : English and Hindi 
+
+  Address:   Shivesh Srivastava s/o Kamlesh Kumar Srivastava, Lucknow (226022), UP 
+
+ 
+ 
+Declaration: 
+ 
+               I hereby declare that the above provided information is correct to the best of my knowledge 
+and belief. 
+ 
+
+Shivesh Srivastava  
+
+

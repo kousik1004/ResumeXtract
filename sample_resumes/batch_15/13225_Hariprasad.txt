@@ -1,0 +1,340 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY:
+
+Hariprasad.c
+SAP BOBJ Consultant
+Mob: +91 – 7829036742
+Mail: haribobj6@gmail.com
+
+Summary
+
+· 6 years of experience in Business Intelligence (BOBJ Suite) with Expertise in Universe development, canned and ad-hoc Reporting and Data visualization using SAP Dashboards (Xcelsius). Worked on all versions including 3.1, 4.0, and 4.1.
+· Experience in Relational database based universes. Experience in query performance optimization using various techniques in universe (Index Awareness, Aggregate Awareness).
+
+· Experience in development of complex Web intelligence & Crystal Reports. Have skills on report formula languages and various analytical features like Filters, Ranks, Drill, Section and Breaks. 
+
+· Experience in SAP Dashboard development and different connection types like Query Browser, QaaWS, BI Services, Live Office, and XML Data.
+
+· Experience on BO 4.0 Explorer, and Exploration Views.
+· Experience on SAP design studio.
+· Working knowledge of BO Admin task like users and groups authentications and migrating reports.
+
+· Working Knowledge of programming languages like ASP.NET, Core Java & SQL.
+
+· Active team player and as an individual with self-motivation, fast learner and good listener.
+
+Experience:
+
+Current Organization: 
+Capgemini Consulting India Pvt. Ltd, Bangalore –March 2015- Oct 2017
+Previous organization
+
+BDI Systems and Technologies, Bangalore – Dec 2011 –Feb 2015
+
+Project #1:
+
+	Client Name
+	HPE – MYCOMP QUOTA
+
+	Technologies
+	SAP Business Objects 4.1 , Web Intelligence.
+
+	Role
+	BO Developer
+
+	Duration
+	Mar 2015 to till date
+
+
+PROJECT: Hewlett Packard has various products across different regions, MyComp Quota and Anaplan is used for assigning Quota to Sales rep. Anaplan is a cloud based business modeling and planning platform for sales. The dashboard from Anaplan where Quota is assigned to sales rep is then populated into the MyComp application which is hub. MyComp is then used to generate the sales letter based on the data populated from the Anaplan. The sales Letter is then compared based on the Fiscal year, Half Year or Quarter Year as per the requirement.
+
+Responsibilities:
+· Worked as a BO consultant, where I am responsible for development of new universes and reports.
+
+· Worked on Universes and reports modification based on business requirement
+
+· Created Packages for moving Universes, reports from Dev to ITG and ITG to PRO.
+
+· Created Joins, resolving Loops by using Aliases, Contexts.
+
+· Checked the Integrity and exported the universes to the Repository to making resources available to the users.
+
+· Worked on changing the source for the existing reports.
+
+· Organized data in the reports by using Filters, Ranking and highlighted data with Alerter.
+
+· Created reports using Web Intelligence, schedule the reports as per the business requirement.
+
+· Worked on performance tuning of Universe and Reports.
+
+· Created Implementation plans for moving Connections, universes, reports, user groups from ITG to PRO.
+
+· Created adhoc reports on various universes.
+Project #2:
+
+	Client Name
+	Rexam
+
+	Technologies
+	SAP Business Objects 4.1 , Web Intelligence, Bex query
+
+	Role
+	BO Developer
+
+	Duration
+	Mar 2014 to Feb 2015
+
+
+PROJECT: Rexam is the largest manufacturer of plastic packaging in UK.
+
+Responsibilities:
+· Developed Eight webi reports 
+· Developed the webi reports using BEX query and Universe based on the requirement with the specified look and feel.
+· Created Universe through universe design tool to build the reports.
+· End to end Communication with customer on daily basis.
+
+Project #3:
+
+	Client Name
+	Emerson Electric
+
+	Technologies
+	SAP Business Objects 4.1 , SQL Server 2008, Dashboards
+
+	Role
+	BO Developer
+
+	Duration
+	Dec 2013 to Mar 2014
+
+
+PROJECT: Emerson Electric is an US based company and one of the largest power equipment manufacturers. 
+
+Developed a dashboard and couple of webi reports based on the MS SQL database server. 
+
+Dashboard has developed through the BO 4.1 SP2 Dashboards tool and universe. 
+
+Responsibilities:
+· One of the responsible person for completion of tasks assigned by project 
+
+Management in two member’s team from the dev to prod environment. 
+
+· Implemented the 3-D Globe X-component for the dashboard development to show the locations of the industries. 
+
+· Implemented the user level security in Dashboard and row level security in webi 
+
+Report.
+Project #4:
+
+	Client Name
+	Icreate Software ,Bangalore ,India  
+
+	Technologies
+	SAP Business Objects 4.0 , SQL Server 2008, Dashboards,Webi,Crystal Report,IDT
+
+	Role
+	BO Developer
+
+	Duration
+	May 2013 to Nov 2013
+
+	
+	
+
+
+PROJECT: iCreate Software is banking vertical focused software company headquartered in Bangalore that Specializes in developing and marketing banking-specific enterprise software products – particularly Business intelligence and analytics solutions.
+Responsibilities:
+·  End to end Business Objects 4.0 Implementation.
+
+· Understanding Report requirement and Created the Line item based View in the database.
+
+· Created Universes, Developed Crystal reports.
+
+· Created Webi reports and Dashboards.
+
+· Monitoring business KPIs in Reporting & Dashboard.
+
+· Dashboard is connecting through Query Browser.
+
+· Tested the dashboards to determine ideal configuration for the best performance.
+
+· Design, Development, Test, UAT and Closure
+
+Project #5:
+
+	Client Name
+	Federal Bank ,Kerala ,India 
+
+	Technologies
+	SAP Business Objects 4.0 , Oracle ,Dashboards, Web intelligence , Explorer , IDT , Mobile BI
+
+	Role
+	BO Developer
+
+	Duration
+	Nov 2012 to Apr 2013
+
+
+Project: Federal Bank is a Kerala based private Bank with 1000 Branches in Southern India. Their business intelligence landscape consists of Oracle &SAP BOBJ. The objective of the project is to implement SAP BOBJ Suits in their environment and create 5 dashboards for Collection division.
+Responsibilities
+· End to end Business Objects 4.0 Implementation for a Division of Federal Bank.
+
+·  Created Universes, Developed Webi reports and Dashboards.
+
+· Created Exploration views for the users.
+
+· Worked in Windows AD and Security settings with team
+
+· Monitoring business KPIs in Reporting & Dashboard.
+
+· Dashboard is connecting through Query Browser.
+
+· Tested the dashboards to determine ideal configuration for the best performance. 
+
+· Integrating the Exploration views and WebI in the Ipad.
+
+· Program Management – Managing customer expectations, Requirement Closure, Design, Development, Test, UAT and Closure.
+
+Project #6:
+
+	Client Name
+	ZillaParishad ,Kollahpur,India
+
+	Technologies
+	SAP Business Objects XIR3.1 , Sybase,Xcelsius 2008,Web Intelligence ,UDT
+
+	Role
+	BO Developer
+
+	Duration
+	 Apr 2012 to Sep 2012
+
+
+Project: ZillaParishad is a local government body at the district level in India.  Developed Attendance dashboard through dashboard design and qaaws  tool. The source for the project was Sybase and was responsible for extracting the data through universes.
+Responsibilities
+· Created two dashboards Attendance and Tree Census Dashboard.
+
+· Worked on the Universe modification, did some changes on the universe for the dashboard requirement in the development and enhancement parts.
+
+· Some of these tasks included data model development on Microsoft excel, and report design using Crystal XCelsius and QAAWS.
+
+· Developed the webi reports based on the requirement with the specified look and feel. 
+
+· Some of these tasks included correcting the business logic, enhancement issues related with look and feel of the reports, mathematical as well as statistical issues, issues related with report design.
+
+ BI  TRAINING: Business Intelligence Training in BDI Systems.                     Dec 2011 to Mar 2012                                                                                                        
+· Concepts of Business Intelligence and Data Warehousing. 
+
+· Extensive training on Crystal XCelsius, Web Intelligence and Crystal Report IX for 3 months.
+
+·  Worked on dummy projects to understand the live data extraction using LO and QAAWS. 
+
+Professional Training:NIITResidency Road,Bangalore.                                     Mar 2011 – Oct 2011
+Completed ASP.Net course.
+Technical Expertise
+
+	Areas
+	Details
+
+	Adhoc Query & Reporting Tools
+
+
+	Business Objects Web Intelligence * , Crystal Reports *(2008,2011 and Enterprise).
+
+
+	Metadata (Dimension) Modeling Tools
+	Business Objects Universe Designer *, IDT *.
+
+	ETL Tools
+	SAP BODS 3.2/4.0 **.
+
+	In-Memory Data Base
+	SAP HANA 1.0 **.
+
+	Enterprise Performance Management & Dash boarding Tools
+	Crystal Xcelsius 2008*,Dashboards*,  QAAWS*, Live Office*
+
+	Relational Databases
+	Oracle**,SQL Server** & My SQL** 
+
+	Programming languages
+	C#.NET,VB.NET,ASP.NET
+
+	Other exposures – Report Conversion tool, IW, Dashboards and latest releases from Business Objects.
+
+
+	BO Explorer*.
+
+SAP Design Studio **.
+
+B.O Admin *.
+
+Worked on SAP Business Object XI3.0, BOXI 3.1 and 4.1 Platforms.
+
+
+*EXPERT – Has sound knowledge & can work with Advanced functions.
+
+** BASIC –   Has basic Knowledge & can work with little help.
+EDUCATIONAL QUALIFICATION: 
+Master of Computer Application from Bharathiyar University, Coimbatore, TamilNadu
+Aug-- 2009
+Bachelor of Science in Mathematics from Kannur University, Kerala India
+
+June – 2006
+
+Personal Details:
+
+DOB
+
+: 23-04-1985
+Marital Status
+: Married
+Passport status
+: Yes, (H 5269677) 
+
+
+

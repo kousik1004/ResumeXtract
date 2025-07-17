@@ -1,0 +1,300 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Vishnu Prasad KB
+Kattumpurath House.
+Thevara colony
+Kochi-682013
+ +91-9946028026
+✉sendmail4vishnu@gmail.com
+ 
+
+
+
+
+
+
+Dear Sir/Madam,
+
+	I am Vishnu Prasad KB having 5.9 years of experience in Testing as Software Engineer Testing . I have enclosed my resume for your review which will furnish you with information relative to my experience.  Please evaluate my strengths and give consideration towards my candidacy for a position with your Facility.
+
+	I can be reached anytime via my cell phone  +91-9946028026 Thank you for your time and consideration. I look forward for a reply from you. .
+
+
+Sincerely,
+
+Vishnu Prasad K B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Objective:  Seeking a challenging position to utilize my skills and abilities in diverse fields that offers professional growth while being resourceful, innovative and flexible. I have confidence in my aptitude and I am ready to offer my best to keep up to your expectations.
+.
+Experience: 2011 August – 2014 March, Software Engineer (Testing) Working with ThinkPalm Technologies Pvt Ltd, Trivandrum.
+Experience: 2014 April – 2015 December, 2016 June – Till Date Senior Test Specialist Working with Fingent Technology Solutions  Pvt Ltd, Kochi.
+
+
+	
+Professional Strength:
+
+· Experience in test cases writing, executing, bug reporting.
+· Exposure in functional, Regression Testing and Product Testing 
+· Systematic Documentation as per Customer requirement.
+· Knowledge in bug life cycle.
+· Extensive knowledge of test case development.
+· Good understanding of SDLC and Testing Life cycles.
+
+
+
+
+
+
+
+
+	
+Skill Sets: 
+	Skills
+	Manual Testing ,Web ,Desktop Application Testing and Mobile Application Testing(iOS and Android)
+
+	Bug Tracking Tools
+	Bugzilla,Redmine,Open Project,TFS
+
+	Networking Tools
+	Wireshark, IPERF
+
+	Operating System
+	Linux, Windows XP,7,8,10
+
+
+
+
+
+
+
+
+
+Project details:
+
+Fivelive 
+
+Role: Senior  Test Specialist
+Environment: PHP, MySQL ,Android Mobile and Tab
+Tools: Open Project
+
+Fivelive is an application which helps field agents to attend and complete Work Order using 
+the help of vendor mobile application
+There are four kinds of users including Administrators, Staff, Main Contractor and Sub Contractor. All these users have their own roles and privileges.
+By using the web and Mobile  application all the user can view attend and assign work orders.
+
+Roles and Responsibilities Include:
+· Test case creation
+· Involved in Test execution, Bug Reporting
+· Regressing testing on existing modules/features
+· Android Mobile App testing
+
+
+
+ReachOut - Fingent Product
+
+Role:  Test Specialist
+Environment: PHP, MySQL ,iOS and Andoird(Mobile and Tab) 
+Tools: Open Project
+
+ReachOut is an application which helps in customer management, Inspections, Work order management, Surveys and Issue management areas. There are different kinds of users including Customers, ReachOut Administrators, Account Managers, Field Administrators and Field Agents (Access through mobile apps). All these users have there on roles and privileges.
+
+Work Order/Inspection Management: Field Administrators creates different kinds of forms with different sets of logics and use their forms in inspections/Work orders for a specific customer. The assigned field agents can get these forms through mobile apps(iOS/Android) (Of work orders/inspections), and returns responses in the form of answers, photos and estimates.
+
+Survey Management: Administrators/account managers can create different set of surveys with different logic settings from scratch or using saved templates. The surveys are available to the users through emails, messages, link share etc.… There are different graphs and diagrams to analyze the results.
+
+Issue management: Tickets are raised against a requirement or a set of requirements. The status of tickets depends on the progress of the requirement. Tickets can be raised against any work order/inspection or against any other ticket.
+
+Roles and Responsibilities Include:
+· Test case creation
+· Involved in Test execution, Bug Reporting
+· Regressing testing on existing modules/features
+· Android and  iOS App testing
+
+Johnson & Johnson Project Management Application
+
+Client: Johnson & Johnson
+Role:  Test Specialist
+Tools Used :TFS,Redmine
+
+This is a desktop application which is used to plan, organize, manage resource pools and tasks which comes under a project
+
+Tools Used: TFS, Redmine
+
+Vlocker Click N Collect
+
+Client's: Vlocker,Officeworks,Yamato Transport,Instacart,Globe Telco
+Role:  Test Specialist
+Tools Used :TFS,Selenium IDE Scripts
+
+Vlocker Click n Collect is a delivery system in which user order online to have his shopping packed and ready for collection whenever he want to pickup from smart lockers.
+
+
+This Project includes the testing of Vlocker websites,Desktop application and API Testing
+
+
+Rescued mobile application for android and ios
+
+Client: One Hope
+Role: Test Specialist
+Tools Used : Redmine Bug tracking tool
+
+The Rescued app is a fun digital way for kids to engage with the content of the Rescued book from OneHope. Guided by the narrator lion, Areli, kids will experience the book’s 10 Bible stories in a whole new way, and have the opportunity to engage with additional fun games and activities
+
+
+
+
+Stress Testing For RAD 
+
+Client: RAD Israel
+Role: Software Engineer-Testing
+Tools Used :Bugzilla
+
+This Project includes the stress testing of RAD ETX-5 using SNMPc scripts.Tcl scripts written to do different SNMP operations like SNMPset,get,walk,bulk etc.
+Tools Used : Bugzilla,TCL,Ixia(networks and explorer)
+
+
+
+Cisco QoS Android Mobile application testing 
+
+Client: Cisco 
+Role: Software Engineer-Testing
+
+This project includes the testing of Cisco qos  android application in which the user add a QOS priority value and check whether there is any change in bandwidth and network congestion the Android device in which the rule was applied will have the highest bandwidth, upload/download speed and less network congestion comparing to other. 
+Tools Used : Bugzilla
+
+
+
+CFM protocol stack Testing (phase 1 & 2)  for  RAD Data Communications Israel
+
+Client: RAD Israel
+Role: Software Engineer-Testing
+
+Phase 2:
+
+Conformance Testing using IxAnvl (Ixia Automated Network Validation Library) which tests whether the developed cfm protocol meets the standards specified by IEEE specification.
+
+Phase 1:
+
+Product Testing using IxNetwork and Ix Explorer which tests the RAD ETX-36 switch by simulating cfm network topology and traffic.
+
+Tools Used : IxAnvl  (Ixia Automated Network Validation Library)
+                   Ixnetwork,IxExplorer,Bugzilla.                
+
+
+
+
+
+
+
+
+
+
+802.1x Protocol for  RAD Data Communications Israel
+
+Client: RAD Israel
+Role: Software Engineer-Testing
+
+IEEE 802.1X is an IEEE Standard for port-based Network Access Control (PNAC). It is part of the IEEE 802.1 group of networking protocols. It provides an authentication mechanism to devices wishing to attach to a LAN or WLAN.
+
+System testing of 802.1 x protocols was done in RAD ETX-205A carrier Ethernet devices.
+
+
+
+
+ELMI (Ethernet Local Management Interface) for  RAD Data Communications Israel
+
+Client: RAD Israel
+Role: Software Engineer-Testing
+
+E-LMI procedures and protocol are used for enabling auto-configuration of the Customer Edge (CE) switches to support Metro Ethernet services. The E-LMI protocol allows a switch to provision Ethernet Virtual Circuits (EVCs) into a peer switch connected through an Ethernet point-to-point link. Our E-LMI software is a portable software implementation of the Metro Ethernet Forum 16 (MEF16) specification for Ethernet Local Management Interface. This software can be ported on various operating systems and switch hardware using well-defined external interfaces.
+
+System Testing of ELMI protocol was done in RAD ETX-205A carrier Ethernet devices.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Education:
+
+· BCA
+SIENA college of Professional Studies Edakochi, Ernakulam
+Year of passing: 2011
+Result:-First Class
+
+· Plus-Two
+SDPY H.S.S COCHIN Ernakulam
+Year of passing: 2008
+Division: First class
+
+· Xth Std
+C.C.P.L.M.A.I.H.S Perumanoor
+Year of passing: 2006
+Division: First class
+
+
+
+
+
+
+
+
+

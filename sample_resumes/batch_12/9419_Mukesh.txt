@@ -1,0 +1,251 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curriculum Vitae
+
+Mukesh, B.E, M.Tech in Computer Networks and Engineering
+Data Scientist at Infosys
+Contact No	:+91 9036795965
+E-mail		: mukeshcne@gmail.com
+Experience 	: 3 years 2 months
+
+
+Work Experience :
+· Working as Data Scientist at Infosys Ltd, Bangalore from April 2017 to till date.
+· Worked as Data Analyst at Predictive Research, Bangalore from December 2014 to March 2017
+
+Technical Skills
+
+	Technology Area
+	Tools
+
+	Operating System
+	Windows, Linux
+
+	Languages
+	Python, R
+
+	SQL/NoSQL Database
+	MySql, MongoDB
+
+	Big Data
+	Spark, Hadoop,  Hive, PIG
+
+	Office Tools
+	Microsoft Excel, Word
+
+	Big Data Platforms
+	Cloudera, Horton works
+
+	Analytical skills
+	Machine Learning(Regression, Classification) and Text Analytics 
+
+
+
+Education Background
+
+	Degree 
+	YOP
+	University/Institute
+	Percentage
+	Specialization
+
+	M Tech
+	2015
+	SJB Institute of Technology, Bangalore(VTU)
+	76
+	 Computer Networks
+
+	B E
+	2012
+	CMR Institute of Technology, Bangalore (VTU)
+	70
+	 Information Science
+
+
+
+Project Details: 
+
+	Project # 4
+	Smart Leads
+
+	Client
+	Trilogy.
+
+	Team Size
+	3
+
+	Description
+	This project aim is to find the best lead in  smartlead data(Hyundai Data) using data modeling and data mining technique, Here we preprocessed the data in Python (Removing Outliers,filling missing values in cells, removing rows having NA's ), applied RandomForest classification for important  variable selection ,then divided the data in 75/25 as training and testing build the model using training dataset and tested it using the testing dataset and verified the model using confusion matrix.
+
+	Roles and Responsibilities
+	· The Role was Data Analyst/Developer.
+· Preprocessing and analyzing data in python 
+· Applying feature selection machine learning techniques Random Forest and AIC for variable importance.
+· Creating Logistics Regression, Naive Bayes, Support Vector Machine (SVM) and Random Forest model and comparing accuracy ofdifferent models 
+· Analyzing Acceptance Rate, Close Rate etc. using Confusion Matrix.
+· Plotting ROCand AUC
+
+	Environment
+	Windows
+
+	Technologies, Tools and Techniques
+	Python,Machine Learning and Excel
+
+
+
+	Project #3
+	Recruitment Analytics
+
+	Customer
+	Onetech Ventures Pvt Ltd
+
+	Team Size
+	20 ( Analytics 5)
+
+	Description
+	The objective of the project is to build an efficient Machine Learning Engine, which analyse candidate records and provide the matching profiles for a specific Job Description. The candidates listed are ranked based on their profiles
+
+	Roles and Responsibilities
+	· The role was Senior Data Analyst, working close with the domain and management experts team to understand the problem. 
+· Data modelling Techniques used in Machine Learning Engine
+· Classification:Classifying candidates profile in domain scenario
+· Clustering: Clustering company based on rank while shortlisting candidates.
+· Nearest Neighbour:Based on distance algorithm.
+· Pattern Matching: Divide & Conquor, String Distance through fuzzy logic and bag of words.
+· The above techniques are developed through Python using mongodb queries on panda dataframe, which functions as processing engine.  
+· Decision tree based scoring algorithm is used for grouping the candidates. 
+· Code optimization and unit testing for the developed code to run effectively for different sets of input
+
+	Environment
+	Ubuntu
+
+	Technologies, Tools and Techniques
+	Python,Mongodb, Machine Learning, Textual Analytics
+
+
+
+
+	Project #2
+	Telecom Immunity
+
+	Customer
+	Vodafone
+
+	Team Size
+	12
+
+	Description
+	The objective of this project is to build an automated self-screening of cellsites, under various telecom scenarios like Usage and Recharges. The Moving Average and Standard Deviation for each cellsites over a period are calculated, finally an ATV (Automated Trigger Value) is generated. The ATV gives the performance of cellsites based on a single day. The bottom 10% cellsites among certain trimmed cellsites are stored in Database for Dashboard view and also sending E-mail about performance summary to all the business head team.
+
+	Roles and Responsibilities
+	· The role was Big Data Analytics Specialist.
+· Analyse the requirement to develop the strategy.
+· Understanding the variable and selecting the important among them for the analytical model.
+· A small part of data extracted from hadoop for a single day, initially the preliminary analysis done through Excel and results are analysed with different sampling.
+· Then configuring the required analytical tools for modelling big data, used Python and dependent packages for  building the analytical model in the development and Production environment.
+· The model is build using the PIG UDF using Python script, made a unit testing by comparing the results obtained from Excel analysis results with PIG UDF script result
+
+	Environment
+	Ubuntu
+
+	Technologies, Tools and Techniques
+	Cloudera Manager 5.2.5, Oracle Linux 6, Hadoop, HUE, Pig, Hive, Oozie, Flume, Morphine, Regex, Elasticsearch.
+
+
+
+	Project #1
+	Gender Prediction Model
+
+	Customer
+	Admaxim
+
+	Team Size
+	2
+
+	Description
+	Gender Prediction Model based on Website Content, a Classification Model
+Objective of this project is to predict the gender which is used for display of ads depending on gender.User event log data extracted from the user click and visting location in the mobile/web apps Differmt machine learning algorithms are used, like SVM, SGD and random forest Random forest gave accuracy upto 84 %
+
+
+	Roles and Responsibilities
+	· Role was data Anlyst.
+· Building different models such SVM, SGDC, Naïve bayes for Classification
+· Checking the accuracy pof different models
+
+	Environment
+	Excel
+
+	Technologies, Tools and Techniques
+	Python(Pandas, numpy, Sklearn and Scikit learn) and Excel
+
+
+
+
+
+Personal Strengths 
+· Self motivation, Interactive, willing to face new challenges.
+· Quick grasp, Patience, problem solver and starving to learn.
+· Positive energy & attitude in work, Respect, Encouragement.
+
+Personal Information
+Name			: Mukesh.
+Father's Name		: Shivaji Rao.
+Mother’s Name	: Shamala.
+Date of Birth		: 18/07/1990
+Gender                        : Male.
+Nationality		: Indian.
+Language known	     :	English, Hindi, Kannada, Marathi and Telugu.
+Present Address          : #1407 23rd cross Jayanagr 3rd block, Bangalore, Karnataka
+
+Declaration:
+I certify that all the information I furnish herein is factually correct to the best of my knowledge and belief and accept that it is subject to verification by the organization.
+
+Bangalore                                                                                                                          Mukesh

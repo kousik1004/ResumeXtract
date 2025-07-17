@@ -1,0 +1,135 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name    :  Ganesh Mule 
+Email    :  ganeshmule7776@gmail.com
+Ph No   :  7506247776
+EXPERIENCE SUMMARY
+· I Have 3.3 years of experience in software development using Java/J2EE Technologies
+· Expertise in programming J2EE applications using Spring (MVC/ AOP) and Hibernate
+· Good knowledge of AngularJS
+· Good communication skills, dedication, hard-working, and leading activities
+· Ability to learn and adapt new technologies in short time
+EDUCATIONAL QUALIFICATIONS
+· Master of Computer Application (MCA), Pratibha Institute of Business Management, Pune
+· Bachelor of Computer Science (BCS), College of Computer Science and Information Technology
+
+TECHNICAL SKILLS
+	Languages
+	Java
+
+	Web Technologies
+	HTML, CSS, XML
+
+	JEE Technologies
+	Servlet, JSP
+
+	Servers
+	Tomcat 
+
+	Frameworks
+	Spring 3.2, AngularJS
+
+	ORM Tools
+	Hibernate
+
+	Logging Tool
+	Log4j
+
+	Testing Tool
+	JUnit
+
+	Building Tool
+	Maven
+
+	Project Tracking Tool
+	Agile Methodology
+
+	Version Control Tools
+	SVN
+
+
+CAREER HISTORY
+	Company Name
+	From
+	To
+
+	Synechron Technologies
+	December-2016
+	Till date
+
+	RSL Pvt.ltd
+	Feb-2015
+	December-2016
+
+
+PROJECT EXPERIENCE
+Synechron Technologies Pvt. Ltd., Pune                                                       Dec�16 till date
+Project: MIFID-II                                                                                              1 Year
+Client: Union Bank of Switzerland
+Role:  Developer
+Description: Union Bank of Switzerland is Swiss global financial services company, that provides wealth management, asset management and investment banking services. The markets in Financial Instrument Directive (MiFID) is the framework of European Union (EU) legislation for investment intermediaries that provide services to client around shares/ bonds/ unit in collective investment scheme and derivatives collectively known as financial instruments. The changes are currently set to take effect from 3 January 2018, MiFID-II will ensure fairer, safer and more efficient marktes and facilitate greater transparency for all participants.
+Responsibilities:
+· Worked on Spring State Machine structure to ease complex state configuration
+· Worked on development and bug fixes
+Environment: Java, Spring, Kafka, Cassandra, Tomcat, Spring State Machine
+RSL Pvt. Ltd.                                                                                                 
+Project: T-Fleet                                                                                               Nov 15 to Dec 16
+Client: Shelar Tours and Travels
+Role: Java Developer
+Description:
+· This project handles various types of works related to fleet services
+· Data is where policy of travel may be of different type
+· It will manage all company details, Company guest Details, and journey details
+· The data would collect through end user
+· The main advantage of making the task management system is to improve its efficiency as well as reliability of various tasks which increase quality of service and saves lots of time
+· The system gives details about the consumption, utilizations reports required for MIS, thus achieving the purpose of fact finding for decision making and budgeting
+Responsibilities:
+· Engaged in developing code and Bug fixing
+· Involved in code enhancement and bug fixing
+· Used SVN for repository
+· Involved in developing Spring
+Environment: Java 1.7, JavaScript, AngularJS Spring, Hibernate, Oracle9i, Tomcat
+Project: KITE                                                                                                  Feb 15 to Nov 15
+Client: BAMU University
+Role: Java Developer
+Description: KITE (Kansas Interactive Testing Engine) application provides software solutions for authoring and delivering test items to millions of students. It also provides an alternate assessment system for students with significant cognitive disabilities and map their learning aligned with college and career readiness standards. 
+KU CETE�s mission is to improve the state of student assessment by conducting research in support of testing programs that facilitate student learning; providing test sponsors with test administration, results reporting and professional development. Providing students with operational and research experiences vital to their professional development.
+Responsibilities:
+· Engaged in developing and bug fixing
+Environment: JSE, J2EE, Spring MVC, JavaScript, JSP, Hibernate, Tomcat, Oracle

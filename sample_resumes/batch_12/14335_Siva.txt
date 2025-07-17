@@ -1,0 +1,523 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+Siva
+
+
+
+
+
+
+
+
+ 
+Mobile: +91-6302458893
+
+
+
+
+
+
+
+
+
+
+
+Email: sivajava1992@gmail.com
+ Career Objective
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To work in a creative, challenging environment and achieve growth-oriented career in an organization where I can contribute to the growth of the organization and my technical skills, knowledge and functional experience will always be utilized.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Professional Summary
+
+
+
+
+
+
+
+
+
+
+
+
+· 1.6 years of professional experience in JAVA, J2EE, Hibernate and Spring..
+
+· Proficient in Object Oriented Principals & their implementations in Java and J2EE technologies.
+
+· Experience includes development of web based applications using JAVA, Servlets, Jsp and FTL.
+
+· Hands on experience in Spring and Hibernate Frameworks.
+
+· Hands on experience in using Web server and Application servers: Tomcat, WebLogic.
+
+· Hands on experience in SVN, Maven, Gradle and Log4j.
+
+· Hands on experience in Eclipse, My Eclipse and STS.
+
+· Hands on experience in Oracle and SQL Developer.
+
+· Knowledge on JavaScript, JSON and Ajax.
+
+· Familiar in understanding client requirements, conducting system analysis, designing, developing and testing application as per system requirement specification.
+
+· Talented web developer with excellent skills in delivering both creativity and flexibility.
+
+· Quickly adapting to new technologies.
+
+· Excellent interpersonal skills, ability to work well with teams.
+Professional Experience
+
+
+
+
+
+
+
+
+
+
+
+
+· Worked as a JAVA Programmer for S4Carlisle Publishing Services Chennai from Jan 2017 to June 2017.
+
+· Working as an Associate Software Engineer for Manuh Global Technologies Pvt Ltd. Visakhapatnam (A.P) from Sept 2017 to Till Date.
+Educational Qualification
+
+
+
+
+
+
+
+
+
+
+
+
+· Bachelor of Technology (B.Tech) from JNTUA University. Andhra Pradesh.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technical Skills
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+· Programming Languages
+
+:
+JAVA.
+
+· J2SE Languages
+
+
+:
+J2SE and JDBC
+
+· J2EE Technologies
+
+
+:
+Servlets, JSP and Free Marker
+
+· Frameworks
+
+
+
+:
+Spring, Web Services.
+
+· ORM Tool
+
+
+
+:
+Hibernate, JPA
+
+· Servers
+
+
+
+:
+Tomcat, WebLogic
+
+· Tools and IDEs
+
+
+:
+Eclipse, MyEclipse and STS.
+
+· Operating Systems
+
+
+:
+Windows Family.
+
+· Source Control and Build
+
+:
+SVN, Maven, Gradle, Log4j.
+
+· SQL and Tools
+
+
+:
+Oracle 11g/12c, SQL.
+Projects:
+
+
+
+
+
+
+
+
+
+
+
+
+Project # 3: APDRP (Andhra Pradesh Disaster Recovery Project), September 2017 – Till date.
+
+Client:      Government of Andhra Pradesh.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APDRP (Andhra Pradesh Disaster Recovery Project) is a MIS (Management Information System) application which is used by the Govt. officers of APDRP department. This application is also used by the multiple departments (for ex: PR, R&B, APEPDCL, Forest, etc.) to monitor their projects which are affected by any kind of natural disasters and its progress of each individual.
+
+This application will have complete information of each project taken up by the specific department and the data will be recorded into the system. The users will record the data and the customized and filtered physical and financial progress reports will be generated from the back-end.
+
+Responsibilities:
+
+
+
+
+
+
+
+
+
+
+
+
+
+· Involved in analyzing the requirements from client as per the business needs.
+
+· Involved in Coding and development in MVC design and tested the application.
+
+· Involved in Application design and development.
+
+· Develop and implemented application using Spring and Hibernate.
+
+· Generate the EXCEL files with division wise reports for different government departments and Implemented Mailing Service.
+· Developed Admin portal for uploading data by using Spring MVC framework.
+
+· Involved in debugging and issues fixing.
+
+· Implemented Spring Security.
+· Implemented SMS Service to different government officers.
+
+· Developed Views by using Apache FreeMarker template. 
+
+· Involved in developing Role based controller navigation to execute the business logic.
+
+Organization:
+
+Manuh Global Technologies Pvt Ltd, Visakhapatnam (Andhra Pradesh).
+Environment: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Java, J2EE, Spring, Hibernate, STS, FTL, PostgreSQL.
+Link:
+
+
+www.apdrp.gov.co.in
+
+Project # 2: BOTHRA,   October 2017 – Feb 2018.
+
+Client:      Bothra Shipping Services.
+
+Description:
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Bothra is a coal Shipping Company which transports coal from port to plant. The Application generates daily, monthly and yearly reports by tracking the Vehicles status and it also contains Bar Code scanning system to get the Vehicle info which helps in finding present status of Vehicle.
+
+Responsibilities:
+
+
+
+
+
+
+
+
+
+
+
+
+
+· Involved in analyzing the requirements from client for the business needs.
+
+· Coding, Development, Bug fixing and Testing.
+· Wrote Services for data processing between mobile app and server.
+
+· Developed Admin portal for uploading data by using Spring MVC framework.
+
+· Implemented Spring Security.
+
+· Implemented Mailing Service.
+
+· Involved in debugging and issues fixing.
+· Involved in developing Role based controller navigation to execute the business logic.
+
+Organization:
+
+Manuh Global Technologies Pvt Ltd, Visakhapatnam (Andhra Pradesh). 
+Environment: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Java, J2EE, Spring, Hibernate, STS, SVN, Maven and PostgreSQL.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project # 1: MSDA- Health Assist (Merck Sharp Dhome Australia),   January 2017 – June 2017.
+
+
+Client:      Merck Sharp Dhome Australia.
+Description:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Health Assist is a web application designed to assist GPs(doctors) for maintaining their patients health records. Based on the GP's location (India/Australia) screens will differ. An initial assessment will be done when a patient is enrolled into the application for the first time. Reviews for the assessment will be done based on the patient's health condition. Reports related to the initial and review assessments will be stored in the local database and can be accessed through the application. The final report, a Health Management Plan will be derived based on the assessment done, detailing Goals and Actions for the GP and patient to address the targeted health issues. This application is primarily utilized in Australia yet it has some GP users in India as well. 
+Responsibilities:
+
+
+
+
+
+
+
+
+
+
+
+
+
+· Involved in getting and analyzing the requirements from client.
+
+· Involved in designing the application based on the analyzed requirements.  
+
+· Involved in Coding and development in MVC design and tested the use cases by Unit Testing.
+
+· Develop and implemented application using Spring and Hibernate.
+
+· Implemented Mailing Service.
+· Developed Admin portal for uploading data by using Spring MVC framework.
+
+· Involved in debugging and issues fixing.
+
+· Implemented Spring Security.
+· Involved in developing Role based controller navigation to execute the business logic.
+
+Organization:
+
+S4Carlisle Publishing Services Pvt Ltd, Chennai.
+Environment: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Java, J2EE, Spring, Hibernate, Eclipse, SVN, Maven and SQL.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Siva
+

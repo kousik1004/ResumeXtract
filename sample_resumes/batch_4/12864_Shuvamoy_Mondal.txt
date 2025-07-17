@@ -1,0 +1,332 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRAVEEN VANGA                                                                          Ph: 405-474-0047
+
+Shuvamoy Mondal
+
+SUMMARY
+
+•	Almost 9.5 years onsite experience in USA with proven ability in the area of Client/Server and Distributed Multi-tier Application Development, Database Design, Data processing, Data Warehouse and Support mainly with Oracle/Teradata technology/BIG Data Spark on different platforms.
+•	Have 3 years of experience on Big Data.
+•	Hands on experience on Apache Spark SQL/HIVE/HDFS/MAVEN/HBASE.
+•	Hands on experience implementing Apache Spark or Spark Streaming project, preferably using Scala, and Spark SQL.
+•	Written batch job by creating Data frame in Spark using Scala/Python API.
+•	Data load from file into Hive table in Spark framework.
+•	Extract Real time feed using Kafka and Spark Streaming.
+•	Experience on control software such as Subversion, Tortoise SVN code management.
+•	Good knowledge in Sqoop for data movement from RDBMS to HDFS .
+•	Recently started working on Amazon Web service(AWS) to integrate EMR with Spark 2.1.1 and S3 storage and Snowflake.
+•	Worked on Performance tuning on Spark Application.
+•	Worked on implementing SPARK RDD and Data Frame in PYSPARK Language.
+•	Performed tuning for the SQL to increase the performance in Spark Sql.
+•	Experienced in working with Amazon Web Services (AWS) using EC2 for computing and S3 as storage mechanism.
+•	Proficient in using UNIX and Shell Scripting.
+•	Used Job scheduling tool Autosys to schedule a job.
+•	Have expertise in analyzing the requirements application development and major focus on TERADATA SQL Developer.
+•	Experience in loading the data using TPT scripts in Teradata.
+•	Expert level experience on Teradata that includes Cursors, Procedures, Functions and Partitioned Tables, Triggers, Dynamic SQL.
+•	Creating Script for Multi-load, Fast Load and BTEQ in Teradata.
+•	Reviewed and validated the development of test data.
+•	Experienced in all phases of the system development life cycle (SDLC) and Development methodologies/Guidelines.
+•	Excellent communication skills, Good organizational skills, outgoing personality,      Self-motivated, hardworking, ability to work independently or cooperatively in a team, eager to learn, ability to grasp quickly.
+•	Expert level experience on PL/SQL that includes Cursors, Ref-cursors, Procedures, Functions and Packages, Oracle Supplied Packages, Object, Collections, Partitioned Tables, Triggers, Materialized view , Table Indexing.
+•	Extensive experience in writing SQL*Loader routines.
+
+Technical Skills
+
+Operating System
+Windows-95/98/2000/NT/XP, Sun Solaris, Linux
+Programming Languages
+Oracle SQL, PL/SQL, Unix, C, C++, Teradata, Unix , Spark, Scala, Python, Shell Scripting
+
+Databases
+Oracle8/8i/9i/10g/11g,Teradata13/14,Vertica7.1,SPARKSQL,Snowflakes.Postgres,Redshift
+Tools
+SQL*Plus, SQL*Loader, PL/SQL Developer,Toad, SQL Developer, Teradata SQL Assistant, VSQL, SQLDBA, IntelliJ,  Pycharm, Git, Jenkins
+Other Utilities
+CVS, SVN, PVCS, MS Office
+
+
+
+
+
+Project details
+
+RBC, Toronto, Canada				             April 2018 – Present
+Big Data Spark Developer
+
+Responsibilities:
+•	Worked on Spark-Streaming APIs to perform necessary transformations and actions on the fly for building the common learner data model which gets the data from Kafka in near real time and Persists into Cassandra and Cassandra Database.
+•	Experienced in handling large datasets using Partitions, Spark in Memory capabilities, Broadcasts in Spark, Effective & efficient Joins, Transformations and other during ingestion process itself.
+•	Involved in creating Hive tables, and loading and analyzing data using hive queries.
+• Wrote code on implementing SPARK RDD and Data Frame in PYSPARK Language.
+•	Data load in Spark and save the result in parquet format in AWS S3.
+•	Worked on building in Data Driven applications using a combination of Python/Scala and the Spark framework.
+•	Expertise in coding in Pyspark, Hive, Spark with Scala API with emphasis on tuning / optimization
+•	Experience in Data loading to Snowflake database using Scala.
+•	Experience in leading large-scale data warehousing and analytics projects, including using AWS technologies – Redshift, S3, EC2, EMR, and other big data technologies.
+•	Loaded the data into Spark RDD and do in memory data Computation to generate the Output response.
+
+Environment: UNIX, Scala, Python, SPARK 2.3.0, IntelliJ, AWS EC2, EMR, Storage S3, Kafka, Hive, Cassandra
+__________________________________________________________________
+
+
+
+
+
+Capital One, Plano, TX				        April 2017 – March 2018
+Big Data Spark Developer
+
+Responsibilities:
+
+•	Interfacing with business customers, gathering requirements and developing new datasets in Cloud.
+•	Proven experience in building in Data Driven applications using a combination of Python/Scala and the Spark framework.
+•	Perform data analysis of legacy RDBMS and assist architects to translate specifications into quality designs in moving data to AWS S3 using Spark SQL.
+•	Experience leading large-scale data warehousing and analytics projects, including using AWS technologies – S3, EC2, EMR, and other big data technologies.
+•	Experience building/operating highly available, distributed systems of data extraction, ingestion, and processing of large data sets.
+•	Good knowledge of Big Data querying tools, such as Hive, and, HDFS, Kafka, Spark
+•	Expertise in coding in Pyspark, Hive, Spark with Scala API with emphasis on tuning / optimization
+•	Experience working with automated build and continuous integration systems Jenkins.
+•	Experience managing code in Github.
+•	Experience in code Deployment using Jenkins.
+•	Experience in Data loading to Snowflake database using Scala.
+•	Written batch job by creating Data frame in Spark using Scala/Python API.
+•	Worked on Integration between spark Streaming and Kafka and convert the stream into RDD and Dataframe.
+•	Loaded the data into Spark RDD and do in memory data Computation to generate the Output response.
+•	Experienced in handling large datasets using Partitions, Spark in Memory capabilities, Broadcasts in Spark, Effective & efficient Joins, Transformations and other during ingestion process itself.
+•	Strong experience in a RHEL environment, developing shell scripts.
+•	Strong abilities in SQL scripting.
+•	Worked on several python packages like Numpy, Pyspark, Panda, Urllib, Json etc.
+•	Design and develop dynamically scalable, highly available, highly reliable and fault-tolerant applications on AWS.
+•	Develop unit test plans to satisfy functional and technical requirements
+•	Experience with relational database like Oracle, Postgres, Teradata.
+
+Environment: Teradata SQL assistant. MSSQL, TOAD, CVS, UNIX, Scala, Python, SPARK 2.1.1, IntelliJ, AWS EC2, EMR, Storage S3, Kafka, Hive, Cassandra
+_____________________________________________________________
+
+JP Morgan Chase, Houston, TX		            July 2013 – March 2017
+Oracle /HP Vertica/Spark Developer
+
+Responsibilities:
+•	Worked on Apache Spark SQL/HIVE/HDFS/MAVEN.
+•	Hands on experience implementing at least one Apache Spark or Spark Streaming project, preferably using Python or Scala, and Spark SQL.
+•	Worked on loading csv/JSON file from HDFS using Scala/Python language in Spark Framework and process the data by creating Spark Data frame and RDD and save the file in parquet format in HDFS to load into Vertica fact table using ORC Reader.
+•	Implemented schema extraction for Parquet and Avro file Formats in Hive.
+•	Experience in migrating the data using Sqoop from HDFS to Relational Database System and vice-versa according to client's requirement.
+•	Experience programming in Scala with exposure to the most well-known frameworks such as Spark SQL
+•	Written batch job by creating Data frame in Spark using Scala/Python API.
+•	Data load from file into Hive table.
+•	Extract Real time Json feed using Spark Streaming and convert it to RDD and process data in the form of Data Frame and save the data as Parquet format in HDFS for reuse.
+•	Written code to convert XML feed to JSON and directly load data using Spark Data frame.
+•	Good knowledge of Big Data querying tools, such as Hive, and Impala and knowledge in Sqoop and Cassandra.
+•	Recently started working on Amazon Web service(AWS).
+•	Interacted with the business users and collected the requirements.
+•	Extracted data from Oracle database and staged into a single place and applied business logic to load them in the central Teradata database.
+•	Experienced in migration project from Oracle to Teradata environment.
+•	Hands on experience in migrating all the DB components like Tables,     Views, Store Procedure, Cursors, User Defined Function of Oracle to Teradata.
+•	Created mappings and sessions to implement technical enhancements for data warehouse by extracting data from sources like Oracle and Delimited Flat files.
+•	Extraction of data from remote database and populate tables using DB LINK.
+•	Participate in design and analysis of Acxiom systems and/or products.
+•	Writing Complex SQL script, Analytical Function using Cursors, Bulking techniques, Collections, Dynamic SQL.
+•	Involved in database development by creating PL/SQL functions, procedures, triggers, and packages and materialized views.
+•	Reviewed and validated the development of test data.
+•	Worked in HP Vertica Database.
+•	Design and developed a project using HP vertica columnar database.
+•	Written batch process in vertica also worked in threading and parallelism for sql query.
+•	Involved in modification of Unix script and the SQL scripts as per the business requirement
+•	Performed tuning for the SQL to increase the performance.
+•	Involved in Unit testing and integrated system testing.
+
+Environment: Teradata SQL assistant., SQL, Informatica power Center 8.6, TOAD, CVS, UNIX.HP Vertica Database 7.3, Scala, SPARK  2.1.0, IntelliJ, HDFS,HIVE.
+
+____________________________________________________________
+
+AMERICAN EXPRESS, Phoenix, AZ		         June 2012 – June 2013
+Teradata Developer
+
+IDN (Information Delivery Network) is the unit in American Express to come up with solutions to answer the 'what-if' questions for the Business Groups. Merchant Finance in IDN process the feeds from external systems and develop the solutions for the changes to the rules, alerts, triggers required for the business.
+
+Responsibilities:
+
+•	Applied slowly changing dimensions like Type 1 and 2 effectively to handle the data Loads.
+•	Writing Complex SQL script and Analytical Function.
+•	Prepared various mappings to load the data into different stages like Landing, Staging and Target tables.
+•	Used various transformations like Source Qualifier, Expression, Aggregator, Joiner, Filter, Lookup, Update Strategy Designing and optimizing the Mapping.
+•	Developed Workflows using task developer,and workflow designer in Workflow manager and monitored the results using workflow monitor.
+•	Created various tasks like Session, Command, Timer and Event wait.
+•	Modified several of the existing mappings based on the user requirements and maintained existing mappings, sessions and workflows.
+•	Experience to handle AMEX custom built automation tool to schedule a job.
+•	Experience in loading the data using TPT scripts.
+•	Expert level experience on Teradata that includes Cursors, Procedures, Functions and Partitioned Tables, Triggers, Dynamic SQL.
+•	Creating Script for Multi-load, Fast Load and BTEQ in Teradata.
+•	Reviewed and validated the development of test data.
+•	Tuning on Teradata SQL Query Which includes Primary Index, Secondary Index, and Partition Primary Index and Join index.
+•	Involved in modification of Unix script and the SQL scripts as per the business requirement
+•	Performed tuning for the SQL to increase the performance.
+•	Involved in Unit testing and integrated system testing.
+
+Environment: Teradata SQL assistant., SQL, Informatica  power Center 8.6, TOAD, CVS, UNIX.
+_____________________________________________________________________
+
+Wellpoint – Richmond, Virginia			     Aug 2011 – April 2012
+Oracle PL/SQL Developer
+
+Responsibilities
+
+•	Load operational data from Oracle, flat files, Excel Worksheets into various data marts.
+•	Designed and created complex source to target mappings using various transformations inclusive of Aggregator, Look Up, Joiner, Source Qualifier, Expression, Sequence Generator, and Router Transformations.
+•	Use debugger in identifying bugs in existing mappings by analyzing data flow, evaluating transformations and Create mapplets that provides reusability in mappings.
+•	Designed workflows with many sessions with decision, assignment task, event wait, and event raise tasks, used Informatica scheduler to schedule jobs.
+•	Writing Complex SQL script, Analytical Function using Cursors, Ref-cursors, Bulking techniques, Oracle Supplied Packages, Collections, Dynamic SQL.
+•	Stored reformatted data from relational, flat file to create XML files as report using Informatica (ETL).
+•	Designing/modifying design of database tables, keys, indexes, grants, triggers, packages, functions and procedures etc.
+•	Ability to utilize fundamentals of SDLC.
+•	Oracle Job Scheduling and Advanced Queuing by Scheduled and Maintain Batch jobs.
+•	Improved query performance by query optimization - tracing the query execution plan (explain plan).
+•	Created partitioned tables, partitioned indexes for manageability and scalability.
+•	Used Unix FTP Connection for extracting data from legacy sources to own destination.
+•	Experience on control software such as CVS.
+•	Did Migration from one database to another database using Data Pump.
+•	Used Job scheduling tool like Cron job.
+•	Did Relational Data modeling, Normalization, De-normalization.
+•	Wrote unix shell scripting to write a code logically.
+•	Translated business requirements into creation and alteration of database objects: tables, indexes, constraints, triggers and stored procedures.
+•	Loading of data from external systems using External Table.
+•	Oracle Job Scheduling and Advanced Queuing.
+Environment : Oracle 10g, SQL, PL/SQL, SQL*Plus, Informatica Power Center 8.6,  TOAD, Unix.
+____________________________________________________________
+
+Magellan Health Services- Richmond, VA                     May 2011 – July 2011
+Oracle PL/SQL Developer
+
+Responsibilities:
+•	Created Custom Packages, Stored Procedures, Function and SQL Scripts to load data into Pharmacy warehouse from different sources.
+•	Writing new PL/SQL packages, modified existing code perform Certain Specialized
+•	functions / enhancement on oracle Application.
+•	Create Complex SQL script, Dynamic SQL, Analytical function, Bulk Collect.
+•	Data Load from Various source like Main Frame, Flat File, Excel file using UTL FILE Package  and External Table.
+•	Heavy SQL tuning for performance improvement.
+•	Create Ad-Hoc Report for Business support.
+•	Load monitoring of the pharmacy data warehouse scheduled jobs and support..
+•	Understanding of all phases of the Systems Development Life Cycle (SDLC).
+•	Creating database objects And Developing and modifying PL/SQL packages, functions, procedures, PL/SQL Tables.
+•	Developed Reports using Hyperion SQR in production support.
+•	Worked with PVCS as Version Control system.
+•	Involved in Unit testing and integrated system testing.
+
+Environment: Oracle 10g, SQL, PL/SQL, SQL*Plus, TOAD, Documentation, UNIX Shell Scripting, Windows XP.
+____________________________________________________________
+
+
+Axciom Corporation                                           September 2010 – May 2011
+Conway, Arkansas
+PL/SQL Developer
+
+Responsibilities:
+•	Extraction of xml files to load it into database through sql *loader.
+•	Extract data from various location and load them into the oracle table using SQL*LOADER.
+•	Creating database objects And Developing and modifying PL/SQL packages, functions,  procedures, PL/SQL Tables.
+•	Handling the Input data coming from Real Time system to create xml file using pl/sql procedures.
+•	Handling various Inbound files and process them with the help of Korn shell and SQL LOADER and load them into the oracle work table.
+•	Conversion of Table from animate database to Fuse database.
+•	Unix shell scripting and Used Job scheduling tool like Cron job and FUSE controller for automation.
+•	Extensive knowledge on shell scripting and commands.
+•	Understanding and documenting business rules, output requirement and data sources.
+•	Improved query performance by query optimization - tracing the query execution plan (explain plan).
+•	Extensive knowledge on Unix FTP Connection for extracting data from different sources to own destination..
+•	Extraction of data from remote database and populate tables using DB LINK.
+•	Participate in design and analysis of Acxiom systems and/or products.
+•	Writing Complex SQL script, Analytical Function using Cursors, Bulking techniques, Collections, Dynamic SQL.
+•	Working with pl/sql package DBMS_SQL to parse and execute data into a table.
+•	Creating logic and modification in the Perl script according to the business requirement.
+•	Experience on version control software such as PVCS.
+•	Involved in data analysis and data conversion projects.
+
+Environment: Oracle 10g, SQL, PL/SQL, SQL*Plus, Toad, CVS, Windows XP, Unix Operating systems.
+____________________________________________________________
+
+Mitra Systems- Dallas, TX                                                 June 2009 – Sept 2010
+Oracle PL/SQL Developer
+
+Responsibilities:
+•	Responsible for Analysis, Design, Coding, Debugging and Deployment
+•	Designed and created various database objects like Tables, Indexes, Views, Triggers, Synonyms, Sequence, etc.
+•	Responsible for Analysis, Design, Coding, Debugging and Deployment
+•	Evaluated the feasibility of the requirements by analyzing the source systems.
+•	Involved in database design, data analysis and data conversion.
+•	Worked extensively with SQL, cursors, stored procedures, functions and packages to migrate data from the current system into the new system.
+•	Worked on creating sequences, views and writing the SQL queries using JOINS.
+•	Performed tuning for the SQL to increase the performance.
+•	Prepared program specifications for PL/SQL procedures and functions.
+•	Involved in database development by creating PL/SQL functions, procedures, triggers, and packages and materialized views.
+•	Involved in Unit testing, integrated system testing and Regression Testing.
+•	Supporting the Post Production issues and resolve as assigned.
+
+Environment: Oracle 10g, SQL, PL/SQL, SQL*Plus, SQL Navigator 5.5, UNIX Shell Scripting, Windows XP.
+
+
+CONTACT DETAILS
+
+Name
+Shuvamoy Mondal
+Date of Birth
+29th October, 1983
+Marital Status
+Married
+Email Id ( Office )
+SHUVAMOY.MONDAL@cognizant.com
+Email Id ( Personal )
+Shuvamoy1983@gmail.com
+Current Location
+25 Rajabagan Ln,Kolkata-70030
+Nationality
+Indian
+Contact Numbers
+Mobile: +917003385177/+919230476436
+

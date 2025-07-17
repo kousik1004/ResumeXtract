@@ -1,0 +1,129 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Functional resume (Vertical design)
+
+ 
+	SINJINI BOSE
+	
+
+	C-104, Daffodils Society, Acacia Rd.
+Magarpatta city , Pune
+7507610371
+tuntaibose@gmail.com
+	Objective
+Working as a Machine Learning developer and looking for a position where I can apply my analytical and coding skills in discovering insights from data, and can maximize my 2 years of experience.
+
+	
+	Professional Profile
+
+	
+	Machine Learning & Analytics
+· Currently involved in an Operational Risk Management Project, in which I am contributing in Root cause analysis of the risk events (from their text descriptions) through NLP techniques like Text Summarization and Key phrase extraction using Python libraries and techniques like Topic Modeling , tf-idf vectorization and n-grams. Extensive text cleansing has been done, which includes: HTML Parsing, Punctuation removal( selective) , POS tagging.Finding the root causes will help preventing further dollar losses to the company. 
+· Was involved in a project, which saved the firm’s Revenue leakage, contributing in recognizing named entities (NER) from fee schedules using the Open source library Stanford CoreNLP through JAVA. Also contributed in developing the logic for a Semantic Comparator using JAVA, which compared the values of the extracted entities with the values as configured in the Billing system, checked for misconfigurations and reported if any found.
+· Have performed Sentiment Analysis using R, for analyzing and tagging comments and posts written by Employees in the firm’s internal social network. The results found were passed on to the HR , which helped them in reforming some of the HR policies. This project required active text cleansing which was done using ‘tm’ library available in R. For better explanation of results, Word Clouds, Heat Maps etc. were created by me. 
+· Took charge of a POC, where I used the R library ‘Quantmod’ for pulling out stock data from ‘Yahoo Finance’, and used Logistic Regression in predicting the direction of the stock flow. 
+
+
+	
+	Web and UI Development 
+· Developed an UI using R package ‘R Shiny’, for the Sentiment Analysis tool mentioned above. The UI enabled the user to Paste his/her text in a textbox and then get the results in a click of button. It also gives the option of uploading a file containing text and obtaining desired results in forms of flashy visualizations.
+· Took charge for frontend development in the Revenue Leakage project Using JavaScript and HTML, which enabled users to upload, view the uploaded fee schedules and also in extracting the Entities from the fee schedules. This benefited the user, as now he/she would be able to view the values of the desired entities without actually having to go through the whole financial document. The UI also enabled the user to get a clear picture of the differences in the values of the entities as listed in the fee schedules from those listed in the Billing system and hence helped users in computing the Leakage.
+
+
+
+· Developed REST APIs , as part of a POC, which intended in exposing popular machine learning techniques like - Text classification, Regression and other unsupervised learning techniques like – Clustering, as a generalized services to the user. The User had to just Upload his/her data in form of flat files and select the type of analysis that he/she would like to apply, and would get results. The REST APIs were developed using JAVA. 
+
+
+	
+	Agile and DevOps
+· Actively participated in implementing Agile practices to the ongoing projects. Regular Scrum calls, backlog planning, Sprint reviews with the team and scrum master every two weeks.
+· DevOps tools Like GIT and JIRA are used by me as a regular practice for version control of the code. 
+
+	
+	Miscellaneous
+· Good Communication skills and ability of understanding the project requirements.
+· Involved in creating Presentations and documentations and updating Confluence pages.
+
+	
+	Languages and Tools
+· R & R Studio
+· JAVA (Core) , REST APIs
+· Python (v2.7)
+· ELK ( Elastic Search , Logstash, Kibana)
+· HTML, CSS , JavaScript
+· MS EXCEL
+· SQL
+· DevOps Tools – GIT, JIRA
+
+	
+	Employment History
+
+	
+	· From July 2015 – Present, Role - Applications Developer, 
+· Company - iNautix Technologies India Pvt. Ltd., Pune, Maharashtra.
+
+	
+	Education
+
+	
+	· From 2011-2015,  KIIT (Kalinga Institute of Industrial Technology) University, Bhubaneswar, Odisha
+· B Tech in Electronics and Telecommunication Engineering : CGPA – 8.05
+   High School
+· Vikas Educational Institute , Visakhapatnam : Score - 85%
+Certifications 
+· Core Java Certification from Hewlett-Packard (HP) India.
+
+	
+	
+
+
+

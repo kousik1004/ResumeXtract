@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MANIKANTA KOTTAPALLI
+IBM India Pvt Ltd, DLF					      PH: +91-9505018487
+Chennai, Tamilnadu, 600089					      Email:manikw24@gmail.com
+
+
+Carrier Objective
+To create value and recognition on work place by producing the best result for the organization through synchronize and hard work.
+Experience Summary
+· Having 2 Years of experience on Mainframe Developing in the development and the implementation of Mainframe based technologies.  
+· Good Knowledge on Mainframe and CWS related skills such as COBOL, CICS, JCL, VSAM, DB2, JAVA Script and HTML
+· Good experience on performing project requirement Analysis, designing, coding, UT, IT, System testing, Setup the PT environment for QA test, implantation and creating documents in each phase for client review.
+· Good techniques on back tracking on the issues, debugging the components and finding the impacts on existing system.
+· Hands on Experience in handling the tools such as CHANGEMAN, CA INTERTEST and FILE-AID, SAVERS, RC-UPDATER, XPEDITER and ESP MASTER.
+· Involvement in Business Continuity Plan Activities (BCP).
+· Conducting meetings before deploying the changes.
+· I have good experience in each phase of Software Development Life Cycle.
+· Ability to learn new technologies and processes rapidly and implement them in the project.
+· Highly motivated with very good problem solving and analytical skills.
+Professional Skills
+
+	Operating Systems
+	 Z/OS
+
+	Languages
+	COBOL, JCL, CICS, JAVA SCRIPT and HTML
+
+	Data Bases
+	DB2, VSAM
+
+	OLTP
+	CICS
+
+	Development Tools
+	 CHANGEMAN, INTERTEST, XPEDITER, ESPMASTER, SPUFI, 
+ABEND AID and SAVERS 
+
+
+Academic Qualification
+
+	Course
+	Specification
+	Board/University
+	Institute
+	Year
+	Percentage
+
+	B.Tech
+	Computer Science and Engineering.
+	JNTU, Kakinada.
+	GIET Engineering College, Rajahmundry.
+	2016
+	71.88%
+
+	Intermediate
+	Computer Science and Engineering
+	AP State Board.
+	Ratnam Vocational Junior College,
+Kothatungapadu.
+	2010
+	81.50%
+
+	SSC
+	------------
+	AP State Board.
+	ZPHS, Pathathungapadu.
+	2008
+	80.50%
+
+
+
+Project 1
+
+	Project Name
+	Damage Photo Inspection (DPI) in CSCF (Customer Service Common Functions)
+
+	Client
+	United parcel services
+
+	Project Type
+	Enhancement and Development 
+
+	Technology
+	COBOL, JCL, VSAM, CICS, DB2, JavaScript, HTML, CHANGE MAN, Xpeditor, CA Intertest, FILE-AID, Savers and ESP master
+
+	Duration
+	August 2016 to July 2017
+
+	Domain
+	Logistics and Supply Chain
+
+
+
+Project overview:            
+             United Parcel Service(UPS) is the time definite delivery of packages and documents worldwide. It is one of the world largest company is headquartered in Sandy Springs, Georgia, U.S. 
+	 Developed Damage Photo Inspection functionality in CSCF. This functionality is used to allow the customer to claim the damaged packages with proof of picture of damage. 
+	We had owner ship on four applications (FVT, SCL BD, ODHI and DICOU). We worked for enhancement of the applications, developing new functionality and worked on different on-demand requirements as per the client requirements on these applications. Fully Visibility Tracking (FVT) is a tracking system used by customer service representatives to track the packages from shipment to delivery/exceptions.  Service Center Locator Business Development (SCL BD) is used by UPS admins and CSRs to maintain the UPS centers resides in the worldwide. Operations on Damages on Hazmat Inputs (ODHI) is used by the UPS operation people to create damage and Hazmat forms on In-transit packages.
+	
+Responsibilities: 
+
+· Involvement in BR and FR meetings to understand the requirements and getting clarification from Team lead/Architect for Enterprise Releases. 
+· Analysis, designing, coding, UT, IT, System test plan design, System test, passing to the QA for Product Test, implementation in to production 
+· Creating documents for each phase and review with client. 
+· Involvement in System monitoring and tickets fixing.
+Project 2
+	Project Name
+	Automated Transportable Damage call Tag on Photo Inspection Damage in CSCF (Customer Service Common Functions)
+
+	Client
+	United parcel services
+
+	Project Type
+	Development
+
+	Duration
+	July 2017 to July 2018
+
+	Technology
+	COBOL, JCL, VSAM, CICS, DB2, JavaScript, HTML, CHANGE MAN, Xpeditor, CA Intertest, FILE-AID, Savers and ESP master 
+
+	Domain
+	Logistics and Supply Chain
+
+
+
+Project overview:
+            United Parcel Service(UPS) is the time definite delivery of packages and documents worldwide. It is one of the world largest company is headquartered in Sandy Springs, Georgia, U.S. 
+	Developed Automated Transportable Damage Call Tag in CSCF. This functionality is used to create automatically a Transportable DCT on rejection of Damage Photo Inspection. This functionality is invoked by system for every 30 to pick the rejection DPIs
+	Customer Service Common Functions (CSCF) is application used by customer service representatives to create damages, change the delivery addresses, correct the address and intercept the packages. 
+Responsibilities:						
+· Involvement in BR and FR meetings to understand the requirements and getting clarification from Team lead/Architect for Enterprise Releases. 
+· Involvements in Analysis, designing, coding, UT, IT, System test plan design, System test, passing to the QA, conducting the impact analysis meetings and implementation in to production 
+· Creating documents for each phase and review with client. 
+· Involvement in System monitoring and tickets fixing.
+
+Project 3
+	Project Name
+	CIPDMM (Consignee Inspection Package Damaged Merchandise Missing)
+
+	Client
+	United parcel services
+
+	Project Type
+	Maintenance and Development
+
+	Duration
+	July 2018 to Still
+
+	Technology
+	COBOL, JCL, VSAM, CICS, DB2, JavaScript, HTML, CHANGE MAN, Xpeditor, CA Intertest, FILE-AID, Savers and ESP master 
+
+	Domain
+	Logistics and Supply Chain
+
+
+Project overview:
+            United Parcel Service(UPS) is the time definite delivery of packages and documents worldwide. It is one of the world largest company is headquartered in Sandy Springs, Georgia, U.S. 
+	Developed Consignee Inspection Package Damaged Merchandise Missing in CSCF. This functionality is used to create damages where the DCT facility is not available.
+	Customer Service Common Functions (CSCF) is application used by customer service representatives to create damages, change the delivery addresses, correct the address and intercept the packages. 
+Responsibilities:						
+· Involvement in BR and FR meetings to understand the requirements and getting clarification from Team lead/Architect for Enterprise Releases. 
+· Involvements in Analysis, designing, coding, UT, IT, System test plan design, System test, passing to the QA, conducting the impact analysis meetings and implementation in to production 
+· Creating documents for each phase and review with client. 
+· Involvement in System monitoring and tickets fixing.
+Achievements: 
+
+· Achieved Rising Star Award from the UPS client for excellent project delivery in IBM on December 2017
+· Achieved Shining Star Award from the UPS client for excellent project delivery in IBM on April 2018.            

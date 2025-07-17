@@ -1,0 +1,132 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KRISHNA CHAITANYA RYALI.
+Mobile: +919951107765          					Email-ID: chaitanya780@gmail.com
+						
+
+CAREER OBJECTIVE:
+To be a motivated and innovative Engineering Professional and there by utilize my technical expertise to accomplish the ultimate goals with sincerity, enabling me to team up with an organization where excellence & quality is a way of life.
+
+PROFILE SUMMARY:
+· Good programming skills in C language and Data Structures.
+· Experience in EMS domain, SNMP protocol.
+· Currently working with HCL TECHNOLOGIES, CHENNAI.
+· Working Experience on Socket Programming, SNMP protocol and MIB Development (Management Information Base).
+· Knowledge on static routing and dynamic routing.
+· Working Experience in YOCTO SDK.
+· Hands on experience in MTD.
+
+TECHNICAL SKILLS:
+
+· Programming languages     : C language. 
+· Networking                 	: TCP/IP, SNMP, network routing.
+· Tools				: Net Beans, WireShark, Filezilla.
+· SDK				: YOCTO SDK 1.8.
+
+JOB ROLES:     
+
+1. As a System Engineer my primary responsibility is to develop SNMP agent application using C language. Writing Management Information Base (MIB) for SNMP agent.
+1. Testing Data rates and troubleshooting networking issues related QoS and Traffic Shaping.
+1. Working with tools like FILEZILLA and WIRESHARK.
+1. Participated in demonstrating project demo to Indian Army at Leh(J & K).
+
+WORK  EXPERIENCE:
+
+· System Engineer in ICOMM TELE LTD, Hyderabad (June 2013- Present).
+
+
+PROJECTS:
+Project : HIMSHAKTHI (BEL, HYDERABAD)
+
+	HIMSHAKTHI is a networking project which provides communication between two stations called base radio and remote radio sponsored by BEL (bharath electronics limited). File transfer and voice communication will be provided between these two stations. Each station will have different configuration based on requirement, This configuration can be applied to radio using SNMP Protocol. My role is to develop SNMP agent software using C and writing MIB (Management Information Base) file. C Application includes reading and writing data to/from serial devices and flash memory. SNMP MANAGER establishes connection with Radio using the SNMP protocol. The information needs to be exchanged between SNMP agent and Manager is defined in MIB and exchanged via SNMP protocol, Manager is responsible for configuring and managing radio.
+
+	Programming Languages	:	C,  MIB development.
+	Protocols			:	SNMP.
+Project :TDOA BASED LOCATION FIXING SYSTEM (DERL Hyderabad). 
+	
+	This project is to find the location of the Emitter.The Project ELF System (Emitter Location Finding System) is sponsored by DERL (Defence Electronics Research Laboratory). The Entire System consists of five sensor units will be located at different places which can be used to find Emitter, GUI establishes communication with all sensor units and receives data related to Emitter location. It uses maps to display sensor, emitter position. In this project I developed C based application which establishes connection with GUI units using TCP protocol. GUI application sends configuration to sensor software and receives response and displays result.
+	Programming Languages	:	C, Socket Programming.
+	Protocols			:	TCP.
+.
+Project : INTERNAL-TDOA BASED LOCATION FIXING SYSTEM(ICOMM-HYD)
+	
+	This project is to find the location of the Emitter. The Project ELF System (Emitter Location Finding System) is sponsored by DERL (Defence Electronics Research Laboratory). The Entire System consists of five sensor units will be located at different places which can be used to find Emitter, GUI establishes communication with all sensor units and receives data related to Emitter location. It uses maps to display sensor, emitter position. In this project i have developed C application which acts like tcp/ip client and receives sensor unit configuration as predefined packets. Necessary action to be taken based on the configuration received.
+	Programming Languages	:	C, Socket Programming.
+	Protocols			:	TCP.
+
+
+ACHIEVEMENTS:
+1. I got District second rank in Ramanujan Mathematics Competition during 9th class.
+1. One of the toppers during 10th class.
+1. I got second highest marks in M. Tech. 1St semester.
+
+EDUCATIONAL PROFILE:
+
+1. M.Tech from K.L University, Vaddeswaram during 2011-2013 with 9.6 CGPA.
+1. B.Tech from Jawaharlal Nehru Technological University (Nalla Malla Reddy Engineering College, Narapally) during 2007-2011 with 67%.
+1. Intermediate from Board of Intermediate Education (Sri Chaitanya Junior College, Amalapuram) during 2005-2007 with 89.7%.
+1. SSC from Board of Secondary Education, A.P (Bharathi Convent High School , Ambajipeta) in the year 2005 with 85.33%.
+
+PERSONALPROFILE:
+1. Father’s Name		:	Ram Prasad Rao Ryali.	
+1. Date of Birth 		:	4 April, 1990.
+1. Gender		:	Male.
+1. Nationality		:	Indian.
+1. Passport no		: 	J2332928.
+1. Languages Known 	:	English, Telugu.
+1. Permanent Address	:	H. No. 17-49/A,
+			Machavaram village,
+			Ambajipeta Mandal, 
+		    	East Godavari Dist, AP, 533214.
+_________________________________________________________________________
+
+Declaration:
+I do hereby declare that the information furnished above is true to the best of my knowledge.
+(KRISHNA CHAITANYA.R)

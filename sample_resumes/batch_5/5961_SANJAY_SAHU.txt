@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SANJAY SAHU
+
+	Contact Details
+Email: sahusanjay44@gmail.com 
+Mobile: 9960918043
+
+Work Experiences
+· Working as Associate (Java development) with Cognizant since 29th Dec 2014.
+· Worked with Persistent Sys. Ltd. in Java development profile for duration of around 4 years. (17th Jan 2011 to 25th Dec 2014).
+· Worked as a Physics Lecturer for 2 years (2007-2009) at St. Thomas Convent Hr. Sec. School Begumganj.
+· Worked as a Computer TGT for 10 months (1st July 2010 – 23rd Jan 2011) at St. Paul Sr. Sec. School Bhopal.
+· Worked with Surevin to work as a Tele-caller for Airtel for 1 year (23rd Jan 2006 – 2nd Dec 2006). 
+
+Academic Qualifications
+· MCA (2008-2011): TCT Bhopal with 78.5%.
+· M.Sc. Physics (2005-2007): MVM Bhopal with 67.83%
+· B.Sc. (2002-2005): Gov. Degree College Begumganj with 67.21%.
+· Higher Secondary – XII (2002): STC School Begumganj with 71.56%.
+· High School - X (2000): STC School Begumganj with 66%.
+
+Software Skills Set
+· Language: Java
+· Technologies: Core Java, J2EE, JDBC, Servlet, Jsp, Hibernate, Webservices (SOAP and REST),  Junit, Struts, MVC, Ant, HTML 5, Java Script, JQuery, Ajax, JPA
+· Tools: Eclipse, Jenkins, AGM, ALM, Rally, Sonar, HP fortify, SOAP UI.
+· Methodology: Agile.
+· Operating System: Windows XP, 7 and 8.
+· Server: Webshpere.
+· Database: Sql Server, Oracle, Sybase.
+
+Domain Skills Set
+· Domain: Health Care.
+· Platforms (Core Systems): Facets and QNXT.
+· Healthcare: An Introduction (AHM 250) Certified
+	Projects
+· Constituent Web Solutions: A payer web portal to be used by providers, employers, brokers, members and individuals to update and maintain their insurance details, the portal also provide other functionalities like providers can estimate and submit claims, view their claim status. Members can check treatment cost of any of the treatment configured by the payer; they can also compare cost of treatments provided by different providers and at different locations. The payers can emulate any user to perform task on their behalf when needed. Employer can maintain insurance details of their employees which in turn are members in the portal. The core system is Facets or QNXT and the portal uses Facets and QNXT web services to perform tasks. 
+
+Duration: Dec 2014 – till present 
+Tools Used: Eclipse, AGM, ALM, Jenkins, Websphere, Sonar, HP fortify, SOAP UI, SQL Server
+Technologies: Java, Jsp, Servlets, Webservices, Hibernate, Junit, Struts, Java Script, Ant, JQuery, Ajax
+Database: MS SQL Server
+
+· Payment Integrity Compass: A provider web portal. The software is a very vast product and is being used by the recovery department of hospitals to calculate the claim amount to be reimbursed from Insurance companies on the basis of the services provided by them to their patients. The application is a combination of a web based and a standalone application. Jobs (such as claim adjudication) are being rum on standalone application.
+
+Duration: Sep 2011 – Dec 2014
+Tools Used: Eclipse, Rally, Jenkins, Sonar, 
+Technologies: Java, JDBC, Jsp, Servlets, Hibernate, Junit, Struts, Java Script, Ant
+Database: Oracle
+
+· Heartbeat: It’s a Key Opinion Leaders Management (KOL Management) tool which is used to provide a better management of the detailed information of key opinion leaders such as Doctors. The product is being used by pharmaceutical companies and medical representative to have complete information of their associated doctors, their researches, etc.
+
+Duration: Jan 2011 – Sep 2011
+Tools Used: Eclipse, Jira, 
+Technologies: Java, Jsp, Hibernate, Junit, Struts
+Database: MS SQL Server
+
+
+
+Roles and Responsibility
+Project 1: Constituent Web Solutions
+· Role: Agile Scrum Master
+· To address and eliminate impediments so that the team can remain focused on achieving the objectives of the iteration.
+· To help team members in Scrum to complete their task on time.
+· Role: Java/J2EE developer
+· Follow guidelines of Object Oriented Programming practices and design patterns.
+· Documenting and maintaining documentation related to application features and workflow
+· Participate in all aspects of product development activities including design, development, testing and deployment.
+· Design the architecture of the product for new features to be developed or modify the design of an existing functionality if required, make it flexible, robust and reusable.
+· Develop the feature – Perform code changes, prepare data creation insertion scripts wherever required. Follow proper coding guidelines.
+· Perform unit testing of the feature developed. Prepare Junit test cases.
+· Test product with various core system versions.
+· Enhance existing product versions by fixing defects and including new features.
+· Support deliverables by resolving related issues promptly
+· Role: Project deployment
+· Prepare scripts for the customers migrating to newer version from an existing older version and include them in the released package.
+· Prepare project executables and make them available on portal from where it is accessible to customers.
+· Provide all the required documentations and detailed steps to install and use the product.
+· Role: Mentor
+· Groom new team member by transferring functional and technical knowledge. Make them aware about the process being followed and coding guidelines.
+· Role: Development operations support
+· Maintain different QA and Dev environments; make them available to the respective audience.
+· Maintain build and deployment related jobs.
+· Maintain combinations of product with different versions of core systems.
+
+Project 2: Payment Integrity Compass
+· Role: Agile team member
+· Role: Java/J2EE developer
+· Role: Project deployment
+
+Project 3: Heartbeat:
+· To work in agile development process, update work progress in AGM, follow scrum rituals – daily stand ups, sprint planning, participating in retrospective meetings 
+· Follow guidelines of Object Oriented Programming practices and design patterns.
+· Documenting and maintaining documentation related to application features and workflow
+· Participate in all aspects of product development activities including design, development, testing and deployment.
+

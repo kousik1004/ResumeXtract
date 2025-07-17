@@ -1,0 +1,272 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VITAE
+
+
+	VIVEK KUMAR
+
+	Tower 10, Sankalpa 3
+New Town, Kolkata
+	                      E-mail: vivekkmr6@gmail.com
+                        Phone    No:(+91)9962044965
+                                                                                                                           
+
+	
+
+	PROFESSIONAL SUMMARY
+
+
+
+	Current Engagement:
+
+	-Working as Solution Engineer in LabVantage Solutions from Nov 2015 to till date.
+
+	Total Experience:
+
+	- 5+ years of experience in software application Development, Implementation and Maintenance.
+
+	Exposure:
+
+	-Application Development for Lab Data Analytics using Spark Frameworks and Scala language.
+-Have Exposures to work on Spark Streaming application using Spark and Kafka, Zookeeper.
+-Exposures to work in Hadoop ecosystems like Map Reduce, Sqoop, Hive, Pig.
+
+-LabVantage LIMS Implementation using Out of box application Java API.
+-Application Maintenance for LIMS applications and other R&D applications of a Bio-Pharma Company        for their R&D domains.
+- Exposure to work on Versioning tools like CVS, Git.
+- Exposures to work in Agile methodologies and worked in Test driven development process.
+
+
+	Strengths:
+
+	-Strong problem-solving skills with ability to analyze and understand data.
+
+-Good communication skills.
+
+-Effective in working independently and collaborative in teams.
+-Ability to grasp new technologies quickly and efficiently.
+SKILL SET
+
+Domain Skills
+
+Business insight
+
+Pharma, Forensic, FMCG
+Technical Skills
+
+· Programming languages
+· Technologies and Frameworks
+· Databases
+
+· File System
+
+· Presentations
+
+· Operating environments
+· Servers
+Java, Scala, JavaScript, Python
+
+Big Data (Map Reduce, HDFS, Sqoop, Hive, Pig), Spark, Kafka and Beginners in Machine Learning and AI.
+
+Oracle, MSSQL
+HDFS, NTFS
+
+HTML
+
+Linux (Ubuntu), Windows 
+
+ Apache Tomcat
+Conceptual skills
+
+· Project Life cycle
+
+· Data & information
+Software Engineering
+
+Database Management System
+
+Soft Skills
+· Business Communication
+English language
+
+Tools
+· Database Management
+· Java IDE
+SQL Server Management Studio, SQLDeveloper
+Intelji IDE, Eclipse
+· Deployment                                             
+
+Maven
+
+
+
+
+PROFESSIONAL EXERIENCE
+
+	LABVANTAGE Solutions, Inc.
+
+
+	Nov 2015-till date
+
+	Project 1 Description
+· Position Title
+· Project Name                              
+
+· Project Tenure   
+
+Associate Solution Engineer
+Lab Data Analytics using Spark Framework
+
+Feb 2016- till date
+· Overview
+
+A Company have their Labs sites across different geographical location. Lab data generated through LIMS applications are stored in relational databases. There were requirements to have a central location or webpage where all lab generated data across all those sites are captured and can be shown on the Dashboard.
+
+The data stored in RDBMS is pulled parallelly using multiples threads using Spark SQL and these data are then transformed w.r.t the required Business cases used in Dashboard.The data in Json format is then feed to the dashboard to show the results.
+This information shown on the dashboards are used to gather information about lab data and for decision making across the Labs sites about the manufacturing of the products, batches, Information about samples and their life cycles, Inventory managements etc.
+· Technologies 
+HDFS,Spark SQL,Scala,Hive,Sqoop
+Responsibilities
+
+· Responsibility to build a dashboard to show the statistics of Lab generated data using the distributed Analytics platform Spark.
+
+· Set up an environment for HDFS and writing Scala code for Data Analytics on Spark.
+
+· Collect Lab data from the RDBMS sources across the sites using Spark framework and do transformation and action on the RDDs and show the final outputs on the Dashboard.
+
+Project 2 Description
+· Position title
+
+· Client    
+· Project Tenure   
+Associate Solution Engineer
+Pharma, Forensic,FMCG
+Nov 2015- till date
+
+· Overview
+
+Implement LabVantage LIMS application as per Customer business requirement for their Labs.
+· Technologies used
+Java 1.7,Oracle,SQL Server,JavaScript,Ajax
+
+
+
+Responsibilities
+
+· Making Configuration and Custom Changes in the LabVantage LIMS application to meet customer requirement.
+·  Configuration Changes Include changes in the application by using the Out of box application functionality.
+· Custom changes include writing the custom Java, JavaScript code when it is not possible to meet the customer requirement using Out of Box Functionality.
+
+	Cognizant Technology Solutions
+
+	May 2013-Nov 2015
+
+
+Project 3 Description
+	· Position title
+
+· Client    
+· Project Tenure   
+	Programmer Analyst
+Bio-Pharma
+May 2013- Nov 2015
+
+	· Overview
+	Worked for an Bio-Pharma client in Cognizant Technology solution to Provide IS support from Drug discovery phase to Preclinical phase as an Application Dev/Maintenance Resource.
+
+	· Technologies used
+	Java,SQL
+
+
+
+Responsibilities
+
+· Responsibility of providing IS support to a Biopharma client from Drug discovery phase to Preclinical phase as an Application Dev/Maintenance Resource.
+
+· During this IS support period, was involved in creating Functional Requirement documents for the applications, Create and Execute IQ/OQ (Installation Qualification/Operational Qualification) for the applications, the System Readiness test for the system and to resolve all application related issue raised by customer on daily basis.
+
+· The main support activities were the L2 and L3 support like resolving functional issues, application monitoring, System Administration and interacting with other teams (like Database team etc.) to ensure that applications are functional.
+
+· Involved in the L3 support for LIMS (Laboratory Management Information) application.
+
+	
+	
+
+
+	EDUCATION
+
+	
+
+
+-B. Tech (Electronics and Telecommunication engineering) from SCSVMV UNIV, Kanchipuram with an aggregate 9.25 CGPA.
+
+-Passed 12th (CBSE) from RajKamal Sharswati Vidya Mandir, Dhanbad (C.B.S.E) securing 89%.
+
+-Passed 10th (JAC) from Jharia Raj High School, Jharia (C.B.S.E) securing 75%.
+
+PERSONAL PROFILE
+
+
+	Date of Birth
+
+Nationality
+Hobbies                                                                                                                                               
+
+
+	5th  Nov 1991
+Indian
+Interest in Playing and watching Cricket Matches, Touring and Travelling, Learning new Technologies
+
+
+
+
+I hereby acknowledge that all the information given above is true to the best of my knowledge
+
+--Vivek Kumar
+Page 4
+

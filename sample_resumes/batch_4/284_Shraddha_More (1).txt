@@ -1,0 +1,120 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shraddha More
+Software developer @ Maven systems Pvt. Ltd.
+Email: shraddhamore31@gmail.com
+Contact: +91-9561146973
+LinkedIn: https://www.linkedin.com/in/shraddha-more-76a73962
+
+Summary of experience 
+2+ experience in development of application. Some of Key points
+· Experience in developing IoT based street lighting and smart metering applications using with Bootstrap, CSS3, HTML5, MVC5, Razor framework etc.
+· Experience of integrating third party gateway in the existing solution using third party REST API’s.
+Key strengths 
+· Good debugging skills.
+· Ability to learn and adapt quickly and to correctly apply new tools and technologies.
+Technologies worked on
+· Microsoft technologies: C#.NET, ASP.NET, Entity framework, LINQ, AJAX, MVC 4/5.
+· Scripting language: Java-Script, jQuery, AngularJS, Ajax.
+· Web technologies: HTML5, CSS 3, LESS, Bootstrap.
+· Database technologies: SQL server 2008, 2014, PostgreSQL.
+· Architecture: Three tier, MVC.
+· Application server: IIS.
+· Development tools: Visual studio 12/13/15.
+Responsibilities
+· Understand project details.
+· Design a Data base for application.
+· Design and development of User Interfaces.
+· Backend coding.
+
+Detailed experience till date
+Company name: Maven systems Pvt Ltd.
+
+Project: Smart lighting solution
+Role: Developer
+Technology: C#.net, MVC, JavaScript, HTML5, CSS3, Bootstrap.
+Description: There are multiple modules. The system control streetlights remotely from server for energy saving and fault monitoring. Communication over various embedded devices using TCP protocol. The solution works for feeder panel, lights, water meter and different sensors. Reports also present related operation of light, energy saving, current faulty light. 
+
+
+Roles and responsibilities: 
+· Integration of Philips Hue gateway and colored lights in the existing street-lighting solution using the Philips Hue remote API’s. This would give users provision to control the lights from the user interface, create scenes etc. 
+· Design new screens using HTML5 and Angular JS. 
+· Development of the utility to get a geographical location from latitude/ longitude. 
+· Development of the utility to get the sun rise and sun set timings from the latitude/ longitude, using the third party weather API.
+· Development of service to send daily automatic emails which would give an idea of the site status on the field. This would contain working / non-working device status, alerts etc.
+· Development of an algorithm to derive daily consumption of the electricity meters every day. 
+· Development of Web API’s which are consumed by the Survey mobile application to upload the collected street lights pole survey data to the server.
+
+
+Company name: Optimistik Infosystems Pvt Ltd.
+Project: Design website
+Role: Developer
+Technology: HTML5, CSS3, Bootstrap, C#.net, Sql server 2008.
+Description: Design a website for company which works in investment.
+
+Roles and responsibilities: 
+· Design screen for displaying total list of investor.
+· Make use of google form to take input’s from user.
+· Testing of all modules and bug fixes.
+· Design test cases.
+
+
+Academic qualification
+· BE from Amravati University with aggregate 63.78 %.
+· 12th  class from Dhamangaon rly with 72.83 %.
+· 10th class from Dhamangaon rly with 86.00 %.
+
+Personal information
+Date of Birth		: 	17th Mar 1991
+Gender		: 	Female 
+Nationality		: 	Indian
+Interests		: 	Trekking, Cooking.
+Current Location	:	C/o Patil Block, lane no.7,
+				Karve Nagar, Pune-411052.

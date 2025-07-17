@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chris Hambleton
+
+
+
+
+S .V.Sirish
+E-Mail:vsirish81@gmail.com
+Phone : (+91) 9494870142
+
+ (
+Professional Summary
+)
+		
+
+· Having over 10  years of experience in IT industry along with 7 years into development & maintenance of various applications with Dot Net 1.1,2.0,3.5 and 4.0 frameworks.
+· Extensively worked in developing web applications using C#, ASP.Net 3.5/ 4.0 and Microsoft SQL Server 2005, 2008 R2 along with ASP.NET MVC, WCF and JQuery and Angular.js
+· Knowledge in Implementing JavaScript, AJAX for additional client-side functionality.
+· Good Experience on working with ASP.NET Model-View-Controller (MVC), Language-Integrated Query(LINQ) in Web pages to retrieve and modify data.
+· Good Knowledge in  OOP concepts.
+· Expertise in AngularJS (1.0)  controllers,  directives,  components,  factory
+and  service  resources,  routings  and  events. Expertise   in
+using JavaScript, jQuery and AngularJS along with  good knowledge of
+Angular   4.0.
+· Good knowledge of QA processes along with unit testing and Integration testing along with writing test cases.
+
+ (
+Technical Expertise
+)
+
+
+               
+	Expertise Area
+	Application and Object Oriented Programming using ASP.NET and C#, UI Development Technologies and Framework, Scripting like jQuery and JavaScript, Single Page Application (SPA)
+
+	Technologies
+	ASP.NET 2.0/3.5/4.0, Web Services, WCF
+
+	Programming Languages 
+	C#.Net,Python
+
+	Databases
+	SQL Server 2014
+
+	UI Frameworks and Technologies
+	Angular JS, KnockoutJS, HTML5, CSS3, jQuery
+
+	Tools
+	TFS 2010, SVN, FxCop, VSS, Fiddler
+
+
+		
+
+
+ (
+Employment History
+)
+
+
+	Persistent SystemsLtd
+	Jan 2015 to Till date
+
+	iGate Global solutions 
+	Jan 2011 to Dec 2014
+
+	Infosys Private Limited
+	May 2009 to Jan 2011
+
+	Satyam Computer Services Limited
+	Jan 2007 to May 2009
+
+
+
+
+ (
+P
+Professional Experience
+)
+		
+
+Persistent Systems Limited	
+
+Project	      :		Portal Management 
+Designation   :		Team lead
+Role		      :        Developer	
+Duration	      :		April 2016 -  July 2017
+KeyTechnologies: C#, ASP.NET MVC, ASP.NET WEB API, SQL Server,Ajax, JavaScript  and JQuery,
+Angularjs 
+		Description: Enterprise portal for learning is a integrated learning management system 
+		for learning and career management.
+		Responsibilities:
+· Fixing Bugs and User interface issues in portal .
+
+Project		:			Unified Data Modelling 
+Designation	:			Team lead
+Role		        :        		Developer	
+Duration	 	:			Mar 2015 - Feb 2016
+KeyTechnologies: C#, ASP.NET MVC, ASP.NET WEB API, SQL Server,Ajax, JavaScript  and JQuery
+		Description: Enterprise Learning Management System (ELMS) is a single, integrated application that 				provides a comprehensive solution for all the learning needs of any company. It facilitates information 				management, knowledge exchange, and training — all in one platform with a seamless user experience.
+The   suite can be configured 	to allow users to navigate, customize, and personalize the task-based user    interface, which also 	supports role- based and/or domain-based security with widely accepted delivery formats ( such as SCORM  and  AICC) it allows to manage 	corporate knowledge and workforce productivity toimprove business performance strategically.
+		Responsibilities:
+· Fixing Bugs and issues in Userinterface and Webservices according to time lines.
+· Supporting the application and business users for  various enhancements.
+· Involved in coding,building and testing issues at various stages of the application.
+
+iGate Global Solutions																
+Project 		  :		MyDataLinx 2.0
+Designation	  :		System Analyst
+Role		          :              Developer
+Duration	          :		Nov 2013- Dec 2014
+KeyTechnologies:	ASP.NET 4.0,C#.Net,AJAX,Jquery,SQLServer 2008,Knockout.js
+Description:The main objective of this portal is to create, extend, activate, discontinue and maintain Material Codes for Finished Goods.  This application was created out of necessity to streamline the processes of managing Finished Goods.
+		Responsibilities:
+· Production support.
+· Involved in technical and functional  documentation.
+	
+Project	 	:		SalesEDGE Online and Reports
+Designation    :		System Analyst
+Role		       :        	Developer
+		Duration	       :		Feb 2011-Nov 2013
+		KeyTechnologies: ASP.NET 3.5,C#.Net,AJAX,Jquery,WCF,SQLServer 2008 R2,SSRS 2008
+Description: SalesEDGE is a multi-project effort to build a new sustainable platform for applications utilized by Sales and Marketing. The Core Sales System (SalesEDGE) encompasses four sub systems, SalesEDGE Offline application aka FieldEDGE, SalesEDGE Web Applications, SalesEDGE Interfaces and Online Reporting. These sub systems use Sales Data Foundation comprising of SQL Server 2008 servers. Sales Data Foundation interface with the Enterprise Data Warehouse and external Systems to get data updates and to send data required for the external systems.		
+Responsibilities:
+· Consuming WCF Services.
+· Written Storedprocedures and T-SQL Queries in SQL Server.
+· Generating Reports from .Net Application.
+· Generated Reports using SQL Server Reporting Services.
+· Deploying reports.
+· Scheduling and Subscription of Reports
+· Fixing production issues.
+				
+Infosys Pvt Ltd 														
+
+Project 		:		Yen Equity Database analytical system(YEDAS)
+Designation     :		Senior Software Engineer
+Role		        :            	Developer
+Duration            :		April 2010 – Feb 2011
+		KeyTechnologies: ASP.Net 2.0,SQLServer 2005
+		Description:This web application maintains Japanese  financial data and related transactions
+		along with historical data of japanese Stock exchange(Nikkei).It also contains a number of scheduled
+jobs for feeding the data regularly.
+		Responsibilities:
+· Fixing issues and supporting enhancements
+· Monitoring scheduled jobs 		
+		
+		Project:Converts analytical Research system(CARS)
+Designation:Senior Software Engineer
+		Duration :May 2009- April 2010
+		Technologies: VB 6.0,Oracle
+Description:This is a US financial application which receives feeds everyday throughScheduled jobs and other feeds from US markets.
+		Responsibilities:
+· Supporting and Monitoring scheduled jobs and fixing related issues
+			
+Satyam Computer Services Ltd											
+		Project			: 	Database of Research International Securitization(DoRIS)
+Designation		:	Senior Software Engineer
+Role			        :       Developer
+		Duration			:	Mar 2008 – May 2009
+		KeyTechnologies	: 	ASP.NET 2.0,SQL Server 2005,RadarView(Thirdparty tool)
+		Description:
+This is a web based application The objective of this system is to provide the user to track structured finance deals with respective to the region and the roles entitled in that region. This system is a web based application. This system provides the flexibility to configure roles, users, regions, asset classes, view, and data lists.It also has filters for viewing data accordingly and third party support for gridview enhancements. 
+Responsibilities:
+· Enhancements for existing system for new roles 
+· Implemented webservice for currency conversion.
+· Worked with database objects and ADO.NET Connectivity
+· Supported Thirdparty tool integration 
+· Fixing Support issues 	
+	
+		Project		: 	QFE(Quick Fix Engineering)
+Designation	:	Senior Software Engineer
+Role		        :        Developer
+		Duration		:	Jan 2007-Mar 2008
+		KeyTechnologies:ASP.NET 2.0,SQL Server 2005,SSRS,XML
+		Description:
+QFE  is set of Legacy applications for maintaining Microsoft OEM products and licenses through variousModules which include Chain of Retailers and Distributors.It also includes Provision through whichOrders 
+and licenses are tracked.
+		Responsibilities:	
+· Understanding and Maintaining Return material authorization module(RMA) and fixing issues related to that module.
+· Working with various database objects(StoredProcedures and views)
+· Performance Tuning Storedprocedures
+· Developing simple reports using SSRS for retailers and distributors.
+Education
+Master of Computer Applications(MCA)  from Madurai Kamaraj university  (2000 - 2003)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

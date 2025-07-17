@@ -1,0 +1,323 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sivakami Arumugam                                               
+SAP ABAP Consultant
+Email:  sivakami.annauniv@gmail.com
+Mobile: 9715183255	                                              
+                                                                                    
+
+
+
+OBJECTIVE
+
+To become a contributing SAP Technical Consultant, in an organization for its success, by applying the best business practices through innovative solutions and constantly updating my skills.
+
+5.4 Years of experience as ABAP-Technical Consultant
+
+SUMMARY
+
+· 64 months of IT experience in development of SAP R/3 ABAP.
+· Experience in analyzing client’s requirement in the short period of time and providing optimum solution.
+· Strong communication & team building skills with proficiency at grasping new concepts quickly & utilize the same in a productive manner.
+· Involved in preparation of technical design, code review checklist, unit testing, Technical review checklist and Functional Review checklist documents. 
+· Involved in Project Estimations on the spot using Agile Process and delivered it on the estimated time.
+· Mentoring the team on support and project accomplishment.
+· Trained freshers and juniors to accomplish their task in projects.
+· Strong Leading skills.
+· Received Appreciation and awards for performance contribution.
+· Managing the relationship with onsite/offshore development teams and ensuring project delivery within stipulated timelines.
+
+SKILLS
+
+· Operating Systems	   : Windows 7
+· ERP		              : SAP R/3 Ver. 4.7, ECC 6.0
+· Programming Language	   : ABAP/4
+
+IT EXPERIENCE
+
+· Application Development Senior Analyst (December 2016 – Till date) with Accenture solutions Pvt.Ltd. 
+· Software Engineer (September 2013– November 2016) with Accenture Solutions Pvt. Ltd.
+· Software Engineer Associate, (June 2012 – August 2013 ) with Accenture solutions Pvt. Ltd.
+
+SAP TECHNICAL SKILLS
+
+· Classical, Interactive and ALV report programming.
+· Data Dictionary and Modularization Techniques (Function modules and Subroutines).
+· Adobe Forms.
+· Smart forms.
+· BDC, BAPI, BADI, Idocs, User Exits.
+· Workflow
+· Performance tuning and Code Review.
+· Worked on Process area :SD,MM.PP,FI,VIM,SNC,SRM,APO as ABAP consultant.
+
+
+EDUCATION
+
+· Bachelor of Technology in FOOD TECHNOLOGY from Anna University- 2012, (Guindy, Chennai) with 7.7 CGPA
+
+· HSC from Government Higher Secondary School - 2008, Namakkal with 88%
+· SSLC from Government Higher Secondary School - 2006, Namakkal with 87%
+
+
+JOB HISTORY – PROJECT DETAILS     
+	Project Name
+	Timken SAP upgrade
+
+	Client
+	Timken
+
+	Project Description
+	This project involved in SAP technical upgrade
+
+	Duration
+	September 2012 – March 2013
+
+	Role 
+	SAP ABAP Consultant
+
+	Team Size
+	20
+
+	Contributions:
+· Supported for technical upgrade of SAP ECC ,SRM,SCM,MDM,BI.
+· Experienced in resolving various issues in WRICEF during upgrade and worked in SPAU and SPDD
+· Worked on smart shift remediation during upgrade and supported for Go-Live.
+· Providing solutions to the high severity tickets to meet the SLA as well as had meeting with client on daily basis to provide status on tickets. 
+· Understanding the requirement and business scenario from the client.
+· Analyzing the Functional inputs.
+· Developing the objects in SAP-ABAP as per the coding standards of the client.
+· Developed reports,Enhancements, Module pool programming based on clients requirements in various modules like SD,MM,PP,FI and ensured high quality deliverables.
+· Unit testing using provided test data.
+
+
+
+
+ACCENTURE INDIA PVT.LTD
+
+
+
+
+
+
+
+
+
+
+
+
+         
+	Project Name
+	WRICEF – POLARIS
+
+	Client
+	3M
+
+	Project Description
+	This project involves development and enhancement of objects in SAP-ABAP in various modules.
+
+	Duration
+	April 2013 – Dec 2013
+
+	Role 
+	SAP ABAP Designer and Developer
+
+	Team Size
+	300
+
+	Contributions:
+· Provided estimations for the objects on the spot after requirement discussion.
+· Developed ABAP code, Unit testing with given test data.
+· Involved in preparation of technical design, code review checklist, unit testing, Technical review checklist, Functional Review checklist documents and upload in Accenture system – Solman for future reference.
+· Worked in Adobe forms, Enhancements, Idocs, Data dictionary, Reports, BDC, User-exits, BADI, FM in various modules OTC,STP,VIM
+· Have worked in client handling role, domain knowledge, combined with good communication skills helped in understanding the issues and designing or providing the best technical solutions.
+· Has very good knowledge to debug, analyze and fix issues, performance tuning in ABAP.
+· Ensured daily working time for various objects by logging hours.
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Project Name
+	WRICEF – GOS (Global operations support)
+
+	Client
+	3M
+
+	Project Description
+	This project involves providing SAP ABAP support for more than 15 countries 
+
+	Duration
+	Jan 2014 – Till Date
+
+	Role 
+	SAP ABAP Senior Developer
+
+	Team Size
+	300
+
+	Contributions:
+· Involved in Go-Live hyper care support for 8 releases (till now) which includes more than 15 countries.
+· Worked as a part of WRICEF support team in Agile Methodology, providing post Go Live support for more than 15 countries. 
+· Worked closely with functional team to resolve code blue,critical and high priority issue within client SLA.
+
+
+· Maintaining logs for the errors and the solution provided for the error.
+· Replacing old Function Modules with New Function Modules.
+· Changing BADIs and existing interface as per change request 
+· Developed ALV reports very recently to remove/add operational model from/to products using BAPI in APO system and displayed successful and failure products in ALV display.  
+· Worked on interface to display the order status from ECC to Bcom system in SD module.
+· Worked on shipment interface for non-batch split, batch split and multiple delivery scenario.
+· Changed BADIs for updating planning date for MRP/MPS jobs.
+· Created implicit enhancement in sale order save user exit to update shipping condition.
+· Worked on performance tuning for reports.
+· Worked on proxy 1. Sending the sale order details to hybris in Xml format which involves PI mapping 2. Sending the pricing details to EOC 
+· Worked on adobe form in SD and PP module – 1.Trigger Packing list form from OBD once PGI done for the delivery for various countries using output types. 2. Many invoice forms from billing document.
+· Worked on SNC to enhance the SNC portal to display error message for existing fields if user is entering values in wrong format.
+· Used ACRTS tool for code review and performance tuning.
+· Used ALMQC tool for raising and resolving the defect within stipulated time.
+· Using the Charm tool for creating the charm request for service request 
+· Resolving all priorities incidents in ITSM tool.
+· Currently using JIRA tool for tracking CR during Agile. Mythology
+· Attended SAP-HANA training, learning basics in HANA.
+
+
+
+  
+
+
+ADDITIONAL RESPONSIBILITIES
+
+· PPA team member in Accenture involving additional activities like client visit events, CSR activities etc.
+· Peer reviewer of the code changes for the respective service requests sent for Customer testing.
+· Currently Leading GOS MTD/FTS WRICEF team to deliver change request in agile methodology and handling agile scrum calls on daily basis. 
+· Trained the new joiners as per the Standard Operating Procedures and equip them with other necessary information related to the support process.
+· Adherence to SLA’s along with data integrity and reporting.
+· Conducted process training for the technical team.
+· Provided KT for the projects handled.
+
+AWARD AND RECOGNITION
+
+· Received the Polaris of the month award during hyper care for handling emergency CRs.
+· Received ACE(Accenture Celebrating Performance) award for the best support team.
+· Accumulated plenty of high performer award and rewards points for handling huge no of incidents and CRs within client SLA during releases.
+· Received recognition and appreciation mails from client.
+
+
+
+
+
+
+
+
+TRAINING & CERTIFICATIONS
+
+· Completed Agile based training in Accenture
+· Completed One week MM Boot camp training in Accenture
+· Conducted 1 day training session on SAP-MM process overview & Output Determination techniques.
+· Certified Green Belt in Six-Sigma for “Productivity Improvement on Incidents”.
+· Completed Six-Sigma project as a Team member for the GOS support team.
+
+
+PERSONAL TRAIT
+
+· Team player.
+· Smart worker.
+· Leadership Skills.
+· Like to take up the challenging tasks. 
+
+PERSONAL DETAILS
+
+Name				:   Sivakami Arumugam
+Date of Birth 			:   30-04-1991
+Nationality			:   Indian
+Sex			:   Female
+Father’s Name                  		:   Mr. Arumugam
+Spouse Name               		              :   Mr. Rajesh
+Languages Known	:   English, Tamil
+
+
+DECLARATION
+
+· I do hereby confirm that the information given in this form is true to the best of my knowledge and belief.
+
+					Sivakami Arumugam
+Date	  : 21-NOV-2017
+Place	: Chennai.		   				
+
+

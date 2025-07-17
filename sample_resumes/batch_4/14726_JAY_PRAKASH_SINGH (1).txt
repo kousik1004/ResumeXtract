@@ -1,0 +1,311 @@
+
+
+
+
+
+
+
+
+JAY PRAKASH SINGH
+
+Contact No: +91-9606641802
+
+Email Id: jayprakashsingh1508@gmail.com
+
+PROFESSIONAL SUMMARY
+
+· Around 5 years of total IT experience in developing Java Applications, storage, querying, processing and analysis of big data.
+· 2.6+ years experience in Big Data Echo System experience in storage, querying, processing and analysis of big data.
+· Good understanding/knowledge of Hadoop Architecture and various components such as HDFS, JobTracker, TaskTracker, NameNode, DataNode and MapReduce Concepts.
+· Working Experience of Hadoop Eco system components: MR, Hive, Pig, Sqoop, Zookeeper.
+· Having 3+ years of Java Developer experience in web-based application, Programming with Java/J2EE.
+· Hands on Experience in Struts, Spring Framework. Hands on Experience in orm Hibernate. Experience on Webservice.
+· Hands on Experience on Spark(Spark Core,SparkSql,SparkStreaming).
+EDUCATION
+
+M.C.A from RGPV Bhopal .
+
+TECHNICAL SKILLS
+
+Languages
+
+Framework
+
+Web Programming
+
+BigData
+
+NoSql
+
+ORM
+
+SOA
+
+DBMS
+
+Application Server
+
+Tools
+
+Development IDE’s
+
+Design patterns
+
+
+
+:Java and J2ee
+
+:Struts1.3 , Spring3.2
+
+:JSP, Servlet, JavaScript.
+
+:Hadoop,MapReduce,Hive,Spark(RDD,Dataframe)
+
+:Hbase
+
+:Hibernate.
+
+:Webservice,Restfull
+
+:Oracle 10g,MySql
+
+:WebLogic ,  Tomcat
+
+:SVN,Log4j
+
+:Eclipse
+
+:MVC, Singleton, Front controller,
+
+Transfer Objects, DAO, Factory Pattern
+
+CAREER HISTORY
+
+
+Morganstanley Oct 2016 to Till.
+
+Cisco May 2015 to Oct 2016
+
+L&T Infotech, Jan 2014 to May 2015
+
+SIGNIFICANT ASSIGNMENT HISTORY
+
+
+Project #1
+
+Team Size
+
+Role
+
+Duration
+
+
+
+MOE
+
+13
+
+Team Member
+
+May 2017 to Till
+
+Environment
+
+
+HDFS, Hadoop Components, Sqoop,Spark ,Java
+
+Description:
+
+Objective of this project is : In this project we are processing historical data for all customer and all tread for every country not for any specific country .
+
+We have to do all analysis and development related to tread quantity.
+
+Responsibilities:
+
+· Worked extensively with Sqoop for importing and exporting the data from HDFS to Relational Database and vice-versa.
+· Created partitioned tables in Sparksql.
+· Develop Spark Sql queries.
+· Performing the operation using Sparksession.
+· Creating RDD and performaing transformation and action .
+· Creating PairRDD and performing and action.
+· Performing Unit testing to ensure that the code is working properly.
+· Understand the Business Requirements in depth.
+· Performing HDFS operation.
+· Involve to cleansing data.
+· Taking the status call every day.
+· Involving with support team for different spring releases in production.
+.
+
+
+Project #2
+
+Team Size
+
+Role
+
+Duration
+
+
+
+eBestellung
+
+9
+
+Team Member
+
+May 2017 to Till
+
+Environment
+
+
+
+HDFS, Hadoop Components, Sqoop,Spark ,Flume,Java
+
+Description:
+
+eBestellung is a application used to understand the customer feedback and review for laptop ,there are two way(RDBMS and Real time data) getting data for it application then loading data into hdfs and performing operation.
+
+Responsibilities:
+
+· Involved handling the client call.
+· Communicate to team member effectively.
+· Involved in to create the table in Hbase and load data into Hbase.
+· Involved to create the spark sql table and load the data.
+· Involved to import and export table using sqoop.
+	Project #3
+	Webex_Edw
+
+	Team Size
+	15
+
+	Role
+	Team Member
+
+	Duration
+	Feb 2016 to Oct 2016
+
+	Environment
+	HDFS, Hadoop Components, Map Reduce, Hive
+
+	
+	
+
+
+Worked in WebEx_EDW as a Hive Developer to collect the information about data, which is used, by WebEx application, WebEx customer satisfaction, WebEx technical users and WebEx online users. In fact, there is existing system in oracle where they store different billing, subscription data of all WebEx users all over the world and now using Hadoop as a central repository. To load the data, Meta-load Xine tool is available for all environments (DEV/STG/PROD), user can feed in his/her own query and also modify the existing query. The tool is capable of generating Oracle, Teradata, Hive-QL jobs etc.
+
+Contributions
+
+· Working as a Hive developer.
+· Performed Unit testing to ensure that the code is working properly.
+· Having experiences in writing hive queries.
+· Written automation SHELL scripts for daily data load.
+· Participated in the code reviews of new joiners.
+· Review and integrate the code fixes provided by others.
+	Project #4
+	CIM
+
+	Team Size
+	25
+
+	Role
+	Team Member
+
+	Duration
+	May 2015 to Feb 2016
+
+	Environment
+	Java,Spring, Struts,JSP, Hibernate Eclipse Weblogic and Oracle
+
+	
+	
+
+	Description:
+	
+
+
+The project CIM is used to search meeting room and booked the room for meeting where room is available any city or country.it project provide multiple way customer can book the meeting using internet and mobile application as well as outlook plugin. It project provide the facility to book the recurrence room also. Using it you can cancel and edit the meeting time or type of meeting also have catering facility at the time of booking you have to choose. It has facility to book room day month or yearly basis. There is different type of meeting room like Conference room, telepresence room and room combination.
+
+Responsibilities:
+
+· Involve in coding part.
+· Generate report using Birt tool.
+· Implemented Action Classes.
+· Created form bean class.
+· Updated Struts configuration file.
+· Involve in the writing business logic.
+· Involve to fixing bugs.
+· Updated hibernate configuration file.
+· Written DAO’s and their implementations With Hibernate.
+· Implemented Rest.
+	Project #5
+	Inmarsat
+
+	Team Size
+	19
+
+	Role
+	Team Member
+
+	Duration
+	Aug 2014 to May 2015
+
+	Environment
+	Spring, JSP, Hibernate Eclipse Tomcat  and Oracle
+
+	
+	
+
+
+Description:
+
+The objective of this project is to sale network. sale the network like submarine over satellite .it have base price plan and base service . in side service have multiple service bundle may be service bundle have multiple child bundle everyone have price plan and service plan. Each bundle have at least two plan item. It also provide facility to as per requirement client can user plan.
+
+Responsibilities:
+
+· Designed JSP’s as per the Requirement.
+· Implemented Action Classes.
+· Implemented Form Beans and their Validations using Validation Framework.
+· Updated Struts configuration file, Validation and tiles xml document
+· Written Spring Service Interfaces and their implementations.
+· Written DAO’s and their implementations With Hibernate.
+· Injected Spring DAO’s into Spring Services.
+· Involve handling the client call.
+· Involve in coding part.
+· Involve enhancing the business.
+· Communicate to team member effectively.
+· Involve in the presentation logic as per requirement.
+· Involve into analyzing the requirement and fixing the bug.
+.
+
+	Project #6
+	Unirisx(insurance)
+
+	Team Size
+	19
+
+	Role
+	Team Member
+
+	Duration
+	Jan 2014 to Aug 2014
+
+	Environment
+	Java,Spring,JSP,1.2, Netbeans, Glassfish and Postgresql
+
+	
+	
+
+
+Description:
+
+This is an insurance application, is a leading insurance Organization in the China,. The aim of this project is take care the all-risk and responsibility of insurance it perform all common operations that are involved in the insurance management system like create the product ,sales the policy payment information regarding the whole organization.
+
+Responsibility:
+
+· Implemented JSPs for the Presentation
+· Implemented Servlets for the controller logic.
+· Implemented JDBC Components for the persistence logic.
+· Implemented Client side validation using Java Script.
+· Implemented Junit for the Testing.
+· Involved in coading part.
+· Involved to change the Spring configuration.

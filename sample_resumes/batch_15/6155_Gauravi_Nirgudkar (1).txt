@@ -1,0 +1,159 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+	Gauravi Nirgudkar
+Email ID : gauravinrgdkr26@gmail.com
+Phone No. : +91 9762051214
+
+	Professional Summary
+	Gauravi Nirgudkar is a Software Developer with 4+ years of experience having expertise in working on Client/Server side programming using Agile methodology.  Database technologies, developing and implementing data conversion and ETL development as per the standards of product and requirements. She is experienced and accomplished in database development, database management and database administration. She also has the ability to requirement analysis.
+
+	Skills/ Software
+	Requirement Analysis
+System Functionality
+Application Development
+Report Design
+Report conversion (Crystal to SSRS)
+Data Conversion
+  Documentation
+Windows 98/2000/2007/2010/XP
+Linux, Unix
+PL/SQL
+IBM Infosphere Datastage 
+	Database Development 
+Functional Requirements
+User Requirements
+Crystal reports 9
+Microsoft Visual Studio 2010 (SSRS reporting tool)
+SSIS
+MS SQL server 2008/2008R2/2012,
+MS Access
+Oracle Data Integrator (ODI) 12C
+Oracle 11g
+
+	Certification
+	Microsoft certified professional – SQL server 2012
+
+	Education
+	Master of Computer Science (M.Sc.) from Pune University, Pune, India, 2012.
+Bachelor of Computer Science (B.Sc.) from Pune University, Pune, India, 2010.
+
+	Professional Experience
+	May/2013 to Present
+	Alyx Technologies
+Pune, India
+(Formerly known as IMC India Pvt. Ltd.)
+
+	
+	Project Name/ Client: ODI – 12C (Alyx Internal POC)
+
+Project Description: This project is to perform installation and configuration for ODI 12C and perform various operations on data.
+
+Role: Sr. Software Engineer
+Responsibilities: 
+· Involved in installation and configuration of ODI12C tool
+· Created connections of ODI 12 C with data source
+· Created master and work repository in ODI
+· Created execution environment
+· Created ODI Interfaces and executed the same
+· Performed unit testing
+Environment: Oracle 11g, ODI 12C
+
+Project Name/ Client: Freight Sourcing for Asian paints ltd. (Asian Paints has come a long way to become India’s leading and Asia’s fourth largest paint company.)
+
+Project Description: The project is to perform ETL (Extract, Transfrom and Load) operations for MNT and other non-MNT reports based on data from sourcing system (Emptoris sourcing system). It involves requirement understanding and analysis for reports and sourcing data. Reports are developed in IBM Cognos.
+
+Role: Sr. Software Engineer
+Responsibilities: 
+· Involved in thorough Requirement Analysis for MNT and non-MNT reports and Sourcing data.
+· Design server, parallel and sequence jobs in IBM  Datastage Designer Client to perform ETL operations to populate and modify integration database tables as per requirements.
+· Execute and monitor designed jobs in IBM Datastage Director Client. Also, go through detailed logs for every job to resolve errors, if any.
+· Schedule sequence job using crontab in Unix environment.
+· Performed unit testing by querying sourcing and integration data from back end.
+Environment: Unix, IBM Infosphere Datastage and Qualitystage, Oracle SQL Developer.
+
+Project Name/ Client: netFORUM (Data Conversion and SSRS reports) for  Abila (Abila provides netFORUM Enterprise which is membership management, enterprise system that allows you to coordinate association management, e-Marketing, e-Commerce, content management, Alyx and business operations in a Web-based environment.)
+
+Project Description: The project is about Database development to migrate legacy data into netFORUM database. It involves requirement (Data) analysis, understanding the raw data, perform validations, applying various logics to convert data in netForum standard and data conversion for various Abila client. Also, design/ develop SSRS reports on converted data.
+
+Role: Sr. Software Engineer
+Responsibilities: 
+· Involved in thorough Requirement Analysis and mapping document.
+· Developed SQL scripts for various modules to convert legacy data to netFORUM database as per mapping document for each Abila client.
+· Validate the data as per netFORUM data conversion standards by applying baseline exceptions.
+· Performed unit testing from front end and back end for converted data.
+· Prepared reconciliation report.
+· Also, involved into design and develop RDLs using SSRS.
+· Create or alter the stored procedures as per requirements.
+· Perform report migration from Crystal to SSRS.
+· Perform unit testing for reports and resolve any issues, if any.
+ Environment: Microsoft SQL Server 2012, Crystal Reports 9, Microsoft Reporting Services (SSRS) 2008R2, Microsoft SQL Server 2008R2, Visual Studio 2008, Visual Studio 2010.
+
+	Training
+	· COGNOS Reports
+· SSIS basic
+· Datawarehouse
+· Oracle Data Integrator 12C
+
+	Personal Information
+	Father’s Name 	:	Mr. Harish Bhalchandra Nirgudkar
+Date of Birth	               :	8th Sep 1989
+Email ID		:	gauravinrgdkr26@gmail.com
+Marital Status 	:	Unmarried
+Gender 		:	Female
+Contact Number	:	+91 – 9762051214
+Nationality		:	Indian
+Languages known	:	Marathi, Hindi and English
+
+
+
+		

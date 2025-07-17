@@ -1,0 +1,295 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Vishal Kumar Agrawal 
+
+Email    : a.vishal4522@gmail.com 
+
+Mobile  : +91-8709009735 
+
+        
+
+                                                                                             
+
+Experience Summary: 
+
+➢ Around  2  yrs of extensive experience in Software Development. 
+
+➢ Good Knowledge on Java. 
+
+➢ Good Knowledge of OOPs Concept. 
+
+➢ Working experience on Spring IOC and Spring AOP. 
+
+➢ Working experience on Spring web MVC Module. 
+
+➢ Knowledge on Spring web module. 
+
+➢ Experience on Spring Controllers like MultiActionController,  
+
+➢ Working experience on ORM technology like Hibernate Framework. 
+
+➢ Good experience in J2EE technologies like Jdbc, Servlet. 
+
+➢ Experience on Spring Boot  in spring 4.x; 
+
+➢ Experience on Spring Security oauth2 
+
+➢ Experience on ElasticSearch, Logstash, Kibana, Cassandra 
+
+Work Experience:  
+
+➢ Working as associate software developer for WalkingTree Technologies , 
+Hyderabad from July-2016 to till date. 
+
+ 
+Educational Qualification: 
+
+ 
+
+Highest Degree: B.Tech Electronics in April-2016 with 71% from JNTU-Kakinada 
+
+University.                                                                                                                          
+
+Technical Skills: 
+
+➢ Operating System :  Windows family, Linux. 
+➢ Languages known :  Java , SQL 
+➢ Web Technologies :  Servlet, Jdbc, Html, CSS. 
+➢ Framework  :  Hibernate 5.0.x , Spring 4.0.x., Springboot 
+➢ Interoperable               : RestFul WebServices, AWS 
+➢ IDE’s      :  MyEclipse, Eclipse 
+➢ Databases  :  MySql 
+➢ NoSql Database          :  Elasticsearch, Cassandra-3.0.x, PostgreSql 
+➢ Tools   :  ANT, Maven, JUnit, log4j, Mockito, AWS, Jmeter 
+➢ Version Tools  :  SVN,GIT 
+➢ Servers  :  Tomcat 7 
+
+
+
+ 
+
+Strengths: 
+
+➢ Highly organized - can priorities work schedules, manage time effectively and 
+meet deadlines. 
+
+➢ Resourceful, proactive and have initiative. 
+➢ Quick learning and hardworking. 
+➢ Flexible and adapt quickly to new working environments. 
+
+ 
+
+Project # 1:- 
+
+ 
+
+Project Name: Alliance-Hahn 
+
+Environment: J2SE, SpringBoot, Hibernate, mysql, Tomcat 
+
+Client: Aftermarket Auto Parts Alliance 
+
+Description: 
+
+      The application is Automobile Parts sales Platform Accessible by many vendors who has 
+
+Registered.This Application is developed with latest Technology Spring Boot in Spring-4.0. 
+
+we well known as microservices.This Application mainly contains different application for 
+
+different purpose.MicroServices is the latest approach to quick development and 
+
+modularization of modules. 
+
+ 
+
+ 
+
+     In this Application we have Three common modules and 4 different individual 
+
+modules.Microservices Parent is Common Dependency module and MicroServiceUtility is the 
+
+utility module.The third common module is the Admin module which will be used to monitor 
+
+the all other applications.We have other individual modules like acx services, sayt services, 
+
+navigation services.For all other modules security services will provide the security for all 
+
+these stateless services. 
+
+ 
+
+ 
+
+     Roles & Responsibilities:  
+
+➢ I Involved in Hibernate Mapping and Integration with Spring Boot 
+➢ I Involved in Integrating logstash with Spring Boot  
+➢ Involved in building Jenkins jobs and deployed applications in test,beta,dev 
+
+environments 
+
+➢ Involved in load testing the application using Jmeter 
+➢ Involved in monitoring the performance of Application in PROD environment 
+➢ Involved in Unit Testing and Integration Testing. 
+➢ Involved in Elastic Search queries and Implemented java Api for search 
+➢ Integrated Elasticsearch with kibana and monitor the logs in kibana 
+
+monitoring console. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Project # 2:- 
+
+ 
+
+Project Name: Alliance 
+
+Environment: J2SE, Spring, Hibernate, mysql, Tomcat 
+
+Client:    Aftermarket Auto Parts Alliance 
+
+Description: 
+
+      The application is Automobile Parts sales platform accessible to different vendors.This 
+
+Application consists of many Modules and many clients are involved in developing the 
+
+application. The Servlet Application which is based on the rknowsys foundation jar and  this 
+
+aesServlet application(DemoHost) in running on the .NetPlatform  with the ktree .net 
+
+development.This application is getting data from epeServer. This Application mainly has 
+
+different users like mobile and desktop for them we have different applications to give 
+
+response webservice based on SOAP and REST. The aesServlet,aesRest,pod,aesInstall like 
+
+many Application were there. 
+
+            We are mainly focusing on Feature development,bug fixing,dataSupport. 
+
+ 
+
+ 
+
+     Roles & Responsibilities:  
+
+➢ I Involved in Feature Development 
+➢ I Involved in Bug Fixing  
+➢ Involved in building Jenkins jobs and deployed applications in test,beta,dev 
+
+environments 
+
+➢ Involved in load testing the application using Jmeter 
+➢ Involved in monitoring the performance of Application in PROD environment 
+➢ Involved in Unit Testing and Integration Testing. 
+
+ 
+
+ 
+
+Project # 3:- 
+
+ 
+
+Project Name: Egovernment 
+
+Environment: J2SE,Spring,Hibernate,PostgresSql,Kafka 
+
+Client: Egovernment 
+
+Description: 
+  EGovernment Property and Vacant Land Tax Information System (Government of Maharashtra) 
+Description: EGovernment Property and Vacant Land Tax Information System (PT/VT IS) aims to improve 
+the efficiency and effectiveness, improve accountability and transparency and improve decision making 
+in the Revenue. 
+
+Roles & Responsibilities:  
+
+ 
+➢ I Involved in implementing feature development in Java micro service using 
+
+SpringBoot framework and rest webservices 
+
+➢ I Involved in database scheme design using postgreSql 
+➢ Involved in load testing the application using Jmeter 
+➢ Involved in Unit Testing and Integration Testing. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thanks 
+
+                                                                                                                  Vishal kumar Agrawal 
+
+

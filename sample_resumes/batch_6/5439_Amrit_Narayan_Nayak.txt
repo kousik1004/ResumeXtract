@@ -1,0 +1,148 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+Amrit Narayan Nayak
+Address: 597, Mahaveer Orchids, Rayasandra, Sarjapura, Bangalore - 560099           
+Cellphone: +91-9884897549, +91-8763972263
+E-mail:annhadoop@gmail.com, amritnayak@gmail.com 
+
+Professional Summary
+Having 5+ years of experience as Software professional with a background in Software design and full life-cycle development in Big Data analytics and Hadoop Ecosystem.
+Solid working knowledge on Pyspark, Hive, Sqoop, Oozie, Python.
+Excellent analytical skill with expertise in Data Wrangling, modelling and Business analytics. 
+Experience in Log data analysis, ETL processing of retail and finance data and Data Lake creation.
+Proficient problem-solver; envisions business and technical perspectives to develop workable solutions.
+Experience in managing the responsibility of smaller to medium size teams.
+Excellent problem solving skills, high analytical skills, good communication and interpersonal skills.
+
+2018-Present:	Decision Scientist, Mu Sigma Inc., Bangalore
+Client: 		Walmart Inc, The largest retail Chain.
+
+1. COGS (Canada): Cost of Goods Sold. The Total cost of any goods were calculated at different level with 22 different subject areas metrics. DNP, which stands for Dead Net Profit, is the Net result of all revenues and costs from every business activity and is calculated from the primary supplier's dead net cost for an item/location. The COGS DNP tool helps to identify and capitalize on the cost saving opportunities, which takes into consideration the various performance metrics, some of which includes Vendor COOP funding, Retail Markup/Markdowns, Days to Pay etc. All these Metrics are calculated at different stages of the journey of a product in a supply chain. The tool also helps the vendor managers in investigating historical supplier performance and efficiently negotiate with suppliers.
+Duration		:	Apr 18 to Present
+Role		:	Data Analyst
+Team Size		:	approx. 40	
+Environment	:	Python, Pyspark, Hive, Oozie, PDW 
+
+Roles & Responsibilities:
+· Provided solutions on the query optimization for retrieval and UI access.
+· Involved in Data ingress and egress.
+· Created data transformation workflow in pyspark implementing complex business logic to derive metrics for the final summary table.
+· Created the complete setup for flat-file-framework and created data pipelines on flat-files data cleansing, processing, loading and scheduling in a complex environment.
+· To store the final tables used in UI are stored in Microsoft PDW database. Designed optimized tables for PDW for faster retrieval.
+· Involved Data modeling of the DNP-2.0.
+· Worked  in Agile working Environment.
+
+2. Global SPInE: Encompasses combinations of different platforms and analytics enabling the Walmart sourcing managers saving 40% in sourcing costs expenditures by facilitating them to make uber-level strategy decisions on sourcing, costing, as well as quality. how to generate more profits for its private brands and spend less on national brands, freeing up money to focus on other immediate needs such as the frenzied holiday shopping season with Black Friday and Cyber Monday, etc. SPINE facilitates the decisions about identifying the vendors that aren’t performing well and are costing Walmart too much money and which it should shortlist.
+Duration		:	Jan 18 to Apr 18
+Role		:	Data Analyst
+Team Size		:	20
+Environment	:	Python, Pyspark- ml, Teradata
+
+Roles & Responsibilities:
+· Forecasted sales utilizing an ensemble ml model on data queried from Teradata and hive
+· Forecasting done at multiple levels like departments, category
+· The forecast was consumed by client by an interactive excel file.
+
+2013-2017:	Associate Consultant, Capgemini India Pvt. Ltd., Bangalore
+Client: 		Morgan Stanley, A global financial services firm which serves diversified group of corporations, governs financial groups and Individuals.
+
+3. BAM (Business Activity Monitoring): BAM is in-house developed Anomaly Detection dashboard for business activity monitoring goals of identifying anomalous usage behaviour that could present data security risk to the firm Classifing applications based on asset risk ratings, export/download capability, info-sec classification ratings, along with other attributes as available in TAI. Also,  lkcategorize applications based on their logging mechanisms. Enabling risk team with self-serve interface for querying anomaly activity
+
+Duration		:	Feb-15 to Dec-17 
+Role		:	Software Developer
+Team Size		:	3	
+Environment	:	Hive, Sqoop, Pig, Oozie, Impala, Regex, UNIX, Spark SQL. 
+
+Roles & Responsibilities:
+· Created workflow for the complete process.
+· Written Pig Scripts for data cleaning and preprocessing.
+· Developed Oozie workflow and coordinators for the project
+· Data cleaning and transformation large sets of structured, semi structured from different sources.
+· Created Hive tables by using HIVE Regex SerDes to process raw logs, also designed and Developed Hive managed/external tables. 
+· Used hive query optimizations for Partitions, Bucketing for a better user experience.
+· Create tableau extracts after applying multiple aggregations.
+· Developed team resources to ensure quality contributions 
+
+4. Enterprise Data Hub: The project involves data ingestion from different relational databases servers to create a data lake, to enable access to this data for analytics, modeling and reporting needs, while ensuring data security, access management and privacy requirements. Hive tables where we have written Hive join queries to fetch information from multiple tables to perform various analytics.
+Duration		:	Oct-13 to Jan-15
+Role		:	Software Developer
+Team Size		:	4	
+Environment	:	Hadoop, MapReduce, HDFS, Hive, Pig, Java 
+
+Roles & Responsibilities:
+
+· Imported data into HDFS and Hive using Sqoop, TDCH for incremental and full load.
+· Created wrapper shell script to handle the complete process automation.
+· Performed integrity check to ensure all files are received and record count matches with master files before starting the load process.
+· Involved in creating Hive tables, loading with data and writing hive queries.
+· Implemented Data Quality Check to check quality of data.
+· Created optimized query to enhance the performance.
+· Implemented clean-up Script or housekeeping script.
+
+
+EDUCATIONAL PROFILE:
+
+2012-13:	Graduate Fellowship(CCWS), York University, Toronto, Canada
+2010-12: 	M. Tech. (Bioinformatics), Karunya University, TamilNadu 
+2009-10: 	Industrial Training Program in IBM-DB2 CEIS, Kolkata, India 
+2005-09: 	B. Tech. (Biotechnology). ICFAI University, Uttaranchal, India
+
+
+
+2
+

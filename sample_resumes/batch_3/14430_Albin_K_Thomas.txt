@@ -1,0 +1,282 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Albin K Thomas 
+
+ 
+
+Personal Information 
+
+Email Id       albinthomas007@gmail.com 
+
+Phone No   8089813831 
+
+DOB             29 June 1991 
+
+Objective 
+
+To work for the Organization where my professional and technical expertise in the field of software 
+
+development are recognized and utilized to the optimum level.    
+
+My Strength  
+
+ An ability to motivate teams in achieving targets and goals 
+
+ Good communication and Interpersonal skills  
+
+ 
+
+Professional Experience 
+
+2.2 years of experience in ASP.NET MVC 6.0, C#.NET using .NET Core 1.0. 
+
+Technical Expertise 
+
+ C# Asp .Net, Asp .NET web API, MVC 5 
+
+ LINQ , EF , Java Script, Dependency Injection 
+
+ PostgreSQL, SQL Server 2014, HTML, CSS, jQuery, Ajax, Razor 
+
+Educational Qualification 
+
+ 
+
+Work Experience 
+
+2.2 years of experience in ASP.NET MVC, C# 
+
+ Experion Technology (India) Pvt. Ltd 
+   Currently Working as Software Engineer from July 2015 to till date. 
+
+ 
+
+Course Year Institution % of mark / CGPA 
+
+10th Standard 2007 
+Adam Public School, 
+
+Karyamparambu 
+76.2 
+
++2 2009 
+Sree Sarada Vidhyalaya, 
+
+Kalady 
+72.6 
+
+B.Sc  CS 2012 Naipunnya, Pongam 80 
+
+MCA 2015 Depaul, Angamaly 70 
+
+mailto:albinthomas007@gmail.com
+
+
+ 
+
+Projects 
+
+1. Road Accident Management System 
+
+ Client-TRL[Transport Research Laboratory]     
+
+ www.trl.co.uk      
+
+ https://trlsoftware.co.uk/products/safety/imaap 
+Road Accident Management System, is a product for collecting the traffic accidents for a particular 
+
+area. In order to develop effective, evidence-based approaches to reduce the problem of road injuries, 
+
+crash data sets are vital. IMAAP provides the latest techniques in crash data storage, analysis and 
+
+reporting. Its tools for identifying and analysing causes of crashes, and for isolating common features, 
+
+are sophisticated yet simple enough to use to provide a high level of productivity. 
+
+Languages: Asp.Net Core 1.0, SQL Server 2014, MVC 6.0, Web Api, Entity Framework-7  
+
+Role: Back End Developer 
+
+ Web API Development. 
+
+ Unit testing and Integration testing.  
+ 
+
+2. Vanpool 
+
+This application is developed to provide online booking of cab facilities within a particular area 
+
+(similar to uber). It helps the users to look for available pools or request for a new pool. For available 
+
+pools, users will be able to join and subscribe for a fee. Pools are started by CGC only when a pre-
+
+determined occupancy level is achieved. The solution will be integrated with payment gateway for 
+
+online payment. It will also support cash payments through a network of cash collection centres. 
+
+Cashiers will have a separate portal where they can accept cash against a particular transaction. The 
+
+solution would also have an admin portal for administrative and operator users to manage users, 
+
+pools, inventory etc. 
+
+Languages: Asp.net 4.5, SQL Server 2014, MVC 5.0, Entity Framework, Post Sharp, JavaScript. 
+
+Role: Full Stack Developer 
+
+ Developed ASP.Net web pages, partial views using ASP.Net MVC 
+
+ Web API Development. 
+
+ Unit testing and Integration testing 
+
+ Designing 
+ 
+
+3. Marina 
+
+The Project Management Office is a complete solution for office management. The main modules 
+
+include payroll              systems, Employee Directory, Leave Management, Attendance Management 
+
+and Project Timesheet Management.  Application is developed in Microsoft platform as well as 
+
+various mobile platforms such as Android, iOS and Windows Phone. 
+
+Languages: Asp.net 4.5, SQL Server 2014, MVC 5.0, Entity Framework, Post Sharp. 
+
+Role: Full Stack Developer 
+
+ Developed ASP.Net web pages, partial views using ASP.Net MVC 
+
+ Web API Development. 
+
+ Unit testing and Integration testing 
+
+ Designing 
+ 
+ 
+ 
+
+https://trlsoftware.co.uk/products/safety/imaap
+
+
+ 
+4. Road Asset Management System 
+
+ 
+This product is used to collect the details of different assets like bridges, street lights, tunnels 
+
+etc. with respect to a road in different areas. Different surveys are done on a road and defects 
+
+are recorded in the system. The top level management can look on to the different assets w.r.t 
+
+each road and make decisions to solve the defects (if any). 
+
+Languages: Asp.Net Core 1.0, postgresql, Web Api, Entity Framework-7 
+
+Role: Back End Developer 
+
+ Web API Development. 
+
+ Unit testing and Integration testing 
+
+  
+
+5. Online Ordering Application 
+ 
+
+This application was developed for an Australian client. A user can view, order different 
+
+products available in the shop with the help of the site. The main modules include picking a 
+
+location, selecting a product from a category and payment. Different payment gateway like 
+
+PayPal and E-way was used for payment. 
+
+Languages: Asp.net 4.6, SQL Server 2016, MVC 5.0, Entity Framework 6. 
+
+Role: Full Stack Developer 
+
+ Developed ASP.Net web pages, partial views using ASP.Net MVC 
+
+ Web API Development. 
+
+ Unit testing and Integration testing 
+
+ Designing 
+ 
+
+6. Setting up Continuous Integration Environment (Bamboo CI) 
+ 
+
+Set up a CI environment for different projects running in the organization. Bamboo is a product 
+
+of Attlassian used to integrate the code and deploy the application. With the help of Attlassian 
+
+online team I set up the CI. Powershell and batch scripts were used. The CI process include 
+
+fetching the code from the repository, restoring the packages, Building and deploying the 
+
+application. 
+
+ 
+
+DECLARATION 
+
+I hereby declare that the above information given by me is correct and true to the best of my 
+
+knowledge. If I were placed in your esteemed concern I will discharge my duties with at the most 
+
+sincerity and to your full satisfaction. 
+
+  [Albin K Thomas]    
+
+

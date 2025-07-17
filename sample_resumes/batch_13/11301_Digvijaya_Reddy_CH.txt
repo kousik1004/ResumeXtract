@@ -1,0 +1,327 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Digvijaya Reddy CH                                                                             E-Mail id: vijaysap410@gmail.com
+SAP BASIS Consultant                                                                         Mobile: +91-7030386880    
+                                                                                                                                                                                            					                                                                                             
+Experience Summary: 
+
+I am having five (5+) years of experience as SAP-basis administrator. 
+
+· Expertise in System Administration, Client Administration, SAP performance, Spool management.
+· Successfully performed System copies, DB refresh and ERP upgrade from ECC 6.0 to ECC 6.0 EHP4.
+· Performed several kernel upgrades, support pack upgrades and Add-on installations.
+· Successfully done with Solman-7.0/7.1 configurations and MOPZ calculation for satellite systems. 
+· Installed HANA DB of version 1.00.110 and updated to version 1.00.112
+· Expertise in client administration like client copy (local, remote and export/import), creation and deletion of clients.
+· Accustomed to providing support for 24X7.
+· Currently I am working with Accenture.
+
+
+
+
+PROJECT4:
+
+	Project Name
+	Henkel AG. ( Accenture )
+
+	Client
+	Henkel
+
+	Environment
+	SAP ECC, SAP BW, SAP SCM, Oracle, SolaRIS
+
+	Duration
+	12/2016 to till now
+
+	Team Size
+	18
+
+
+
+
+
+Tasks in project:
+
+· Monitoring of production systems
+· EWA analysis of production systems
+· Pre-and post-refreshes on quarterly basis
+· I have worked on TREX systems
+· I have performed real and initial indexing
+· I have performed deletion and recreation of connectors.
+· Using Remedy and Maximo tools for ticket creation
+· Support on call for P2 issues.
+· Applying support packages to systems based on requirement.
+· I have performed creation of indexes at DB level and abap level.
+
+
+
+
+PROJECT3:
+
+	Project Name
+	HAL ECC Migration
+
+	Client
+	Hitachi America Limited
+
+	Environment
+	SAP ECC, Oracle, Solaris
+
+	Duration
+	11/2015 to 03/2016
+
+	Team Size
+	3
+
+
+
+
+Tasks in project:
+
+· Downloaded required software from SMP.
+· We have upgraded support pack level from 13 to 17 as per SAP suggestion.
+· We have taken the export of DEV, QUA and PRD systems
+· Installed MSSQL 2008 on windows 2008
+· Imported the export data on target servers
+· Installed SAP BW 7.4 on MSSQL / WIN 2008
+· Maintained new source connections between ECC and BW systems
+
+
+PROJECT2:
+
+	Project Name
+	Project –Hitachi America Limited
+
+	Client
+	Hitachi America Limited
+
+	Environment
+	SAP ECC, Oracle, Solaris
+
+	Duration
+	06/2013 to 09/2016
+
+	Team Size
+	4
+
+
+
+Tasks in project:
+
+· Work process overview, background job administration on daily basis given L3 support.
+· Creation and configuring the printers.
+· Table space management through BR*tools.
+· Analysis of dumps through ST22, managing lock entries and lock/unlock TX. Codes.
+· Creation and scheduling the background jobs with variants and programs provided.
+· Client opening and closing, as per business requirement.
+· Giving access to FCALLHAL (Fire fighter ID).
+· Changing OS/DB passwords for every three months at DB level.
+· Registering developers in service market place and providing access keys.
+· Performing client copy’s (remote, export/import)
+· Support pack upgrading through SPAM/SAINT.
+· Kernel upgrade has done.
+· Generating audit reports and providing to business
+· Working with ticketing tools (remedy and Service Now).
+· Transport management like creation of TMS and importing the TR’s based on approvals.
+· system/database refresh from production to quality/development as per business requirement
+· Creating logical clients and executing BDLS reports as part of post refresh activities.
+· Checking authorization issues and assigning missing authorization according to user group and company codes.
+· Service market place activities like
+-Generating keys for objects and developers
+-Raising SAP messages.
+-Opening system connections to SAP.
+-Creating and editing the systems for licensing.
+-Downloading SAP software’s, support packs and Add-on’s
+
+
+System monitoring and health checks
+
+· Table space monitoring
+· Dump analysis and taking appropriate actions
+· Load balance monitoring
+· User session management and monitoring
+· Update termination and object lock analysis
+· Background job monitoring and taking actions on long running jobs.
+· Database performance and Work process status monitoring
+· Dump analysis and taking appropriate actions
+· Monitoring System locks/logs
+
+
+
+PROJECT1:
+
+	Project Name
+	In-house 
+
+	Client
+	Upgrade
+
+	Environment
+	SAP ECC 6.0, Oracle database, Solaris Sun OS
+
+	Duration
+	06/2012 to 04/2013
+
+	Team Size
+	2
+
+
+
+
+
+Tasks in project:
+
+· Upgraded ECC 6.0 to ECC 6.0 EHP 4.
+· Installing licenses to ABAP system.
+· Configuring transport management system, importing and monitoring the TR’s.
+· Client administration like client copy’s, creation and deletion of clients.
+· Kernel upgrade and support pack upgrade administration.
+· Creating users and assigning roles to users in DEV environment.
+· Work process overview and background job administration.
+· Table space management through BR*tools.
+· Note implementations with required manual corrections.
+· Managing user sessions and checking system logs.
+· Created and supported trusted RFC’s between SAP systems.
+· Creation and assigning operating modes based on the load of systems.
+· Service market place activities like
+ -Generating keys for objects and developers
+ -Raising SAP messages and opening system connections to SAP.
+ -Creating and editing the systems for licensing.
+ -Downloading SAP software’s, support packs and Add-on’s
+
+
+
+
+Security:
+
+· Assigning particular roles to users
+· Providing access and restricting access to the users depending on Divisions, plants etc.
+· Providing missing authorizations to the users
+
+Solman administration:
+
+· Installed SOLMAN 7.1 with oracle on O/S as Solaris.
+· Installed SOLAM 7.1 with MSSQL server on O/S as windows 2012.
+· Successfully configured and added the satellite systems to SOLMAN 7.0/7.1.
+· CCMS alerts have done.
+· Registering the both java and ABAP systems to SLD for MOPZ calculation.
+· Configured Early Watch Alerts
+
+SAP BW 7.4
+
+· Installed SAP BW 7.4 with MSSQL 2008 on windows 2008 server.
+
+Team Award:
+
+· Received best team award in Hitachi project.
+
+
+
+Best performance awards:
+
+· Received best performance awards twice in Hitachi project
+· Received ACE award for the performance in Henkel Project
+
+Experience Details: 
+	Sl. No.
+	Name Of The Organization
+	Designation
+	Joining Date
+	Relieving Date
+
+	         1
+	NTT DATA
+	Senior Associate Consultant
+	03/5/2012
+	09/2016
+
+	2
+	Accenture
+	Senior software Engineer
+	09/2016
+	Till now
+
+
+
+
+
+
+
+
+
+
+Additional Skills Included:
+ 
+	
+	
+
+	ERP Applications 
+	SAP R/3,ECC6,Solution manager 7.0/7.1 and Net weaver components
+
+	Database
+	Oracle 9i and oracle 10g/11g
+
+	Operating Systems 
+	Windows 2003/08,AIX and Solaris  
+
+	Tools
+	Service Now, Remedy, Maximo
+
+
+
+
+
+Personal Information:
+
+Date of Birth: 13-08-1989
+Sex	      : Male
+Nationality    : Indian
+Marital status: Married
+Languages    : English, Hindi

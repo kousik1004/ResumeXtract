@@ -1,0 +1,212 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gandhimathi Sakthivel
+
+
+
+ Vaishnavi .S 
+Email: vaishnavisvs7@gmail.com
+					                       Phone: 9600028772
+                           					       		   Phone : 0452 - 2539868
+
+Career Objective
+	
+  	To attain higher level of proficiency and competency in Software industry and to participate in projects that would provide an opportunity to enhance my skills and to accomplish organizational goals.   
+
+Work Experience
+ 
+
+· Working as a Software Tester at MSM Micro Finance, Chennai,  Since January 2018 to till Date
+
+· Worked as a Software Tester (Graduate Trainee IT) at WNS Global Services Pvt. Ltd, Chennai, Since January 2015 to October 2016. 
+
+· Worked as a Software Engineer with Career Innovation Technologies Pvt. Ltd. Since September 2013 to December 2014.
+
+
+ Professional Summary
+
+· 3+ Years of experience in Software Testing of Web based applications.
+· Proficient Experience in Manual Testing.
+· Involved in Different phases of Testing. Functional Testing, Integration Testing, Regression testing, Smoke Testing and Application Testing.
+· Good Exposure in SDLC, STLC Life cycles.
+· Involvement in preparation of Test Scenarios, Test cases and executing the same.
+· Knowledge on selenium automation tool.
+· Commitment to Co-operative Team work, Interested to learn new technologies and Involved in delivering high quality product to client.
+
+Academic Details		
+
+· Graduation: Bachelor of Engineering-Computer Science 2013, Jerusalem College of Engineering First class with 6.7% (CGPA).
+· Diploma in Computer Science 2010, Bharath Polytechnic College Distinction with 93% of marks.
+
+Technical Skills
+
+Operating System		:	Windows XP, Windows7 & Windows 8
+Programming Languages 	: 	C, C++, Java
+Scripting Language		:	VB scripting. 
+Database Tools		: 	MS Access, MySQL, SQL Server 2010
+Testing Tools			:         Selenium
+Test maintenance tools       	:	Bug Zilla
+Web Development          	:	HTML, HTML5, CSS3.   
+
+Project Overview 
+	
+
+# 1.	Project                         	: Iklant Finance System
+Technologies		: HTML, CSS, SQL SERVER 
+	Role			           : Tester
+     	Duration 		           : Jan 2018 to till date 
+  
+Description:
+
+IT involved with financial support service to the low-income people in India. MSM assists financially backward communities especially women from rural and urban areas, by providing micro credit loans for their income generating activities and guiding them with potential business opportunities. Loan info module keeps track of the information about the loan status. The information includes his address, profile and Loan date, due date etc. Employee module indicates state income tax changes, voluntary deduction changes, such as retirement and health benefits, future more, enter the new hire information for employees hired in the current pay period .The system has the ability to update and maintain employee information and to generate required output for hr side. Each week, data on the current pay period is entered into the system and verified this data is used to update the employee master file with appropriate additions, changes and deletions and to generate required output.
+
+        Roles and Responsibility:
+
+· Preparing Test Cases according to the Functional specifications.
+· Involved in web testing.
+· Involved in walkthrough and inspections.
+· Execution of test cases.
+· Used Bug Track Tool for Logging, tracking and reporting bugs. 
+· Prepared weekly status report. 
+
+# 2.    Project                    : IT REQUEST MANAGEMENT SYSTEM
+	Technologies	: Oracle, HTML, SQL Server
+Role			: Software tester
+Duration 		: Feb 2016 to Oct 2017
+
+Description:
+
+IT Request Management System is a web based on line request for all user. This system is used for requesting them self without manager approval. It’s managed everything for example telecom request, shared resource request, Software request, website access request, Account access, Email creation request etc. This system is used for to get the user details and verified with the database and submit request for manger approval, after getting the approval ticket number will be generated, then submit the form to corresponding team. After submission request id given to the user. User must follow up with the ticket/Reference number with the IT service.
+      
+      Roles and Responsibility:
+
+· Preparing the test Cases.
+· Logging and tracking of defects.
+· Involved in smoke and functionality testing.
+· Involved in Regression testing.
+· Prepared Weekly Status report.
+
+# 3.	Project                         	: EDUCATION MANAGEMENT SYSTEM
+Technologies		: HTML, CSS, ASP.NET, C#, SQL SERVER 2010
+	Role			           : DEVELOPER
+     	Duration 		           : Sep 2013 to May 2014
+  
+Description:
+
+ Education Management System is a web based package meant for  schools to meet their entire administrative and academic requirement e.g. Admission or Registration, Student Administration, Exams & Result Analysis, Time scheduling / Time table generation, Library management, Fee management, Staff administration and Payroll, Hostel,  Mess Management, Transport management, Attendance & payroll.
+
+        Roles and Responsibility:
+
+· Writing the Stored Procedures in SQL Server 2010.
+· Preparing Test Cases according to the Functional specifications.
+· Providing the core concepts and devised the framework
+· Deployment and web hosting of the application
+· Involved in web testing.
+· Involved in walkthrough and inspections.
+· Execution of test cases.
+· Used Bug Track Tool for Logging, tracking and reporting bugs. 
+· Prepared weekly status report.
+
+# 4.	Project                         	: JEWELLERY BILLING 
+Technologies		: ASP.NET, C#, SQL SERVER 2008
+	Role			           : Developer
+     	Duration 		           : May 2014 to Dec 2015
+  
+Description:
+
+                     This project is a web based application, which intended to serve as jeweler    billing and maintain jewels bill. It helps the client to generate bill for their customers and also to manage stocks. Client’s customers can place the order in this website, which helps them make the order easily. Developed some report generating modules for client to check the available bills, bill report, and account details, download bill and cancel bill.
+
+        Roles and Responsibility:
+
+· Create tables and Store Procedure for Save and Retrieve the Database values.
+· Performed all web design. 
+· Create Entry Screen for enter users details.
+· Create UI screen for show the particular database values.
+· Retrieve all entry screen name from database and given link to each entry screen.
+· Preparing Test Cases according to the Functional specifications.
+· Involved in web testing.
+· Involved in walkthrough and inspections.
+· Execution of test cases.
+· Used Bug Track Tool for Logging, tracking and reporting bugs. 
+· Prepared weekly status report. 
+
+
+Personal Details
+
+
+Father’s Name 	:	M.Sundaramoorthy
+Sex			:	Female
+Marital Status		:	Single
+Nationality		:	Indian
+Date of Birth		:	16th January 1990
+Permanent Address 	:   	Old no 6, new no 2,
+  				7th Cross Street,
+Dhandeeswaram Nagar,
+Velachery,
+Chennai – 600042.
+ Languages Known    :         English & Tamil
+
+Hobbies		:	Playing chess, Listening Music.
+	
+	
+
+Declaration 
+
+I, hereby declare that the above furnished information is true to the best of my knowledge and belief.                  
+
+
+Place:  Chennai 					                            		
+Date:                                                                                                                         	      									
+      (Vaishnavi.S)                                                                       Signature of Applicant
+
+
+
+
+
+	

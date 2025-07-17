@@ -1,0 +1,236 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nalini                                                                                                                                Oracle Funtional Consultant
+
+
+Name: Atul Ranjan
+Designation: Bus. Consulting Sr. Consultant., SAP BI
+Contact: +91 8939244992
+
+Email: atul.ranjan53@gmail.com                      
+
+Professional Summary
+
+
+I have an overall experience of 3+ years as an SAP BIW consultant in development and support. I have good understanding of SAP BW backend modeling concept from extraction to reporting. I have worked on projects which have required ETL of data. I have worked with global client HONEYWELL and also have a basic understanding of SAP BO and ABAP. Performed various automation and optimization in SAP BW data load and SAP BO reports.
+Technical Skills
+SAP Applications               : SAP BW
+
+Reporting
+                : SAP BEx Analyzer/Designer.
+
+Additional Skills
+SAP Applications            
+: SAP ABAP and SAP BO
+
+Reporting
+
+: SAP BO, Advanced Analytics for Office.
+
+Utilities Tool
+
+: MS Office suite.
+
+Operating Systems
+: Windows Family
+
+Languages
+
+: English, Hindi.
+
+Professional SAP BIW Experience 
+
+
+NTT DATA - BW Support.
+
+January 2017 – Till Date
+
+· Technical Consultant, (Offshore)
+
+· Gathering Business Requirements from clients and working on the same.
+· Have a good understanding of all the process from extraction of data from ECC (LO Cockpit) till BW reporting (BEx/BO).
+· Supported and worked on system outage activities. Performed various automation 
+
+     to decrease effort and time involved in outages.
+
+· Worked on migration of standard info cubes to HANA optimized info cubes.
+
+· Worked on various enhancement and break fix tickets as per the requirement.
+
+· Have a good understanding of process chains and jobs during monitoring.
+
+· Worked on SAP BW functionalities on HANA like:
+
+a. Using Query as a data source.
+
+b. Replacing APD’s with OHD’s
+
+c. Open ODS view.
+
+d. Composite Providers.
+
+· Have a very good understanding of Customer exits.
+
+· I have a good command over major BW support issues like data and lock issues.
+· Experience in ABAP routines for Start Routines, End Routine and Expert Routine.
+
+· Extensive knowledge and hands on CKF and RKF, Variables, Conditions, filters, characteristic restrictions, Exceptions and cells.
+· Debugging of codes/ routines to find the issue and implementing the fix.
+Performed various Automation in SAP BW/BO in order to decrease company/client effort and time. Implemented few automations to decrease time/effort during quarterly maintenance.
+SAP BO (Webi)
+
+1. Created a process for automatic scheduling of Webi reports. As soon as the data                  loads are completed in BW, Webi reports will get automatically schedule in BO with all the required input parameters.
+
+            SAP BW
+1. Created Custom program to delete requests from cube/master info objects and write            optimized DSO’s on input of days/date.
+
+2.  Created Custom program for mass reschedule of Process chains, reducing the manual rescheduling time by 80% during outages.
+
+3. Created Custom program for mass un-schedule of Event based process chains reducing manual work by 50%.
+
+4. Created Custom program to rename the files directly available in AL11 Path, so that manual activity of downloading, renaming and updating the file back to AL11 can be reduced. So the file can easily be send to Non – SAP 3rd Party.
+
+5. In order to merge 2 files available in AL11, those files were downloaded, merged and again uploaded to AL11. In order to reduce effort created a program to merge the field directly in AL11.
+
+6. Some Process chains are needed to run on particular days of the week or either beginning or end of the fiscal period. In order to automate this, I have created a Job schedule program – which will in turn trigger the event attached to the required process chain on that particular day.
+
+NTT DATA – BW Development
+AM SIP
+October 2016 – December 2016
+
+· APD’s were created to change and upload data to Al11 from query.
+· Header change Program was written to change the header of the file that was created.
+
+· File rename program was created to change the file name as per the fiscal period.
+
+                            AdvanSix Project
+June 2016 – September 2016
+
+· For some business, the flow was required to move from one BW system to another.
+
+· Source code change with process chain setting was done as part of this project.
+
+· Separate broadcast was created as per the requirement.
+SP Reorg
+
+March 2016 – June 2016
+
+· This was project was purely involved in Planning Area side, where a business planning area was dissolved and the profit centers involved in that particular business were moved to other business.
+
+·  Couples of keyfigures were created as per the business requirement and transformations and logic were moved from old flow to other business.
+
+· A through testing was done between BW data and planning book data.
+
+HANA Optimization of Infocubes
+
+January 2016 – February 2016
+
+· Have changed the structure type of info cubes from dimension to flat structure,
+
+· So that cubes could be optimized on HANA database and load runtime could be drastically reduced.
+
+UOP History Data Analysis
+
+December 2015 – January 2016
+· The objective was to reduce the data flow, for which intermediates cubes were removed and the logic was shifted accordingly.
+
+· Few of the routines were needed to be created.
+
+· Delete logic were changed in the routine level.
+Sales Adhoc Reporting
+September 2015 – December 2015
+
+· In order to retire the essbase tool, in this project all formatting, calculation was involved in the transformation level. So that the output can be directly send to users.
+
+· Complex codes were used in this, having taking actuals data from production and forecast data from APO, codes were written to calculate rates in local and document currency.
+
+· Have created AAO reports for this because for the large data volume.
+Single Source Justification
+
+June 2015 – September 2015
+
+· In ECC side few new fields were added to ECC tables. Have included those in our Extractor.
+· Enhanced the Datasource from ECC side, changing the ABAP code used in Extractor for those fields as well.
+
+· Have Modified the BW flow including those fields till BO level.
+
+· Created a Generic datasource to display and confirm the Generic fields when added in     Standard Data source.
+
+· A through testing was done for delta update. Created a Process chain to do a daily delta update.
+Pre HANA/Stack Split
+
+March 2015 – June 2015
+
+· Have migrated the 3.X flow (update rule) to 7.X (transformation).
+
+· Has changed the ABAP logic used in transformation to match with the desired output.
+
+· Have changed Infospokes were changed to OHD, and wrote the logic used in routines to match the previous loads.
+
+· Have identified and changed the Process Chains, which have to be involved during cut over activities.
+
+· In this 3.X workbooks were changed to 7.X flow.
+                Indirect COE, NTT DATA
+  Feb 2015 – March 2015
+· Client requirement was to achieve a characteristic and key field up to BO reporting.
+· Implemented the look up logic where direct assignment was not involved.
+
+· Has modified the BEx Queries and BO Report involving the same object.
+Additional Roles & Responsibility
+· Creating and maintaining weekly status and monthly status reports.
+· Involved in PEER review and Transport check before project go-live.
+
+· Training fresher’s in SAP BW.
+Education
+
+Bachelor of Technology in Electronics and Electrical (Kalinga Institute of Industrial Technology)  
+
+              (2010 – 2014) with an aggregate of 7.8 CGPA.
+Intermediate education in Science from D.A.V Kapil Dev Ranchi Jharkhand (2008 – 2010) with   percentage of 74%.
+
+Secondary Education from Saint Francis School Ranchi Jharkhand (2008) with percentage of 87%.
+
+

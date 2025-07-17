@@ -1,0 +1,241 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 
+
+Shashi                                                                          SAP HCM CONSULTANT            
+
+Call: +91-7204318178                                                Mail:  shashisec90@gmail.com
+____________________________________________________________________________
+· Having 4.9 years of total experience in SAP with 4.3 years of relevant experience as SAP HR Consultant.
+· Ability to work in-group as well as independently.
+· Having excellent Analytical, Problem solving, communications and interpersonal skills with a strong technical background and looking forward for challenges.
+
+· Ability to learn new technologies, programming language and tools quickly.
+Experience:
+· Currently working as an SAP HR Consultant for Tricon Infotech Pvt. Ltd from August 2013 to till Date.
+· Worked as a Trainee ABAP Consultant for Reliance Global Services Pvt. Ltd from july 2012 to January 2013.
+ SAP ABAP-HR Skills:  
+
+· Reports in HR using Infotypes, Logical databases (PNP and PNPCE) and Clusters.
+· HR Macros.
+· Proficient knowledge on payroll log.
+· Infotype creation and enhancements of PA Infotypes.
+
+· SAP HR Payroll Schema, Function, Personal Calculation Rule.
+
+· Report programming in Personnel Administration Infotypes and Payroll.
+· Time Management and Organization Management.
+· Termination Organiser Australia.
+
+· Familiar with Australia Re-designed tax solution.
+· Dynamic action.
+· Concurrent Employment.
+· Multiple Employment.
+SAP Technical Skills:  
+
+· Reporting: HR Reporting, Classical, Interactive, ALV Reports.
+· Batch Interfaces: BDC Using Session Method and Call Transaction Method.
+· Layout Sets:  SAP scripts and Smart Forms.
+· Modularization Techniques: Subroutines, Function Modules and Macros.
+· Data Dictionary objects: Lock object, Search help, Type pools
+· Module Pool Programming.
+· Exception and message handling
+· Buffering and Indexing
+· Enhancement, BADI, BAPI
+· ABAP OOPs 
+· Switching framework
+· SAP performance
+· ABAP OLE
+· ABAP Webdynpro
+· O-Data and NetWeaver Gateway
+· HANA XS-OData Services
+· SAPUI5 and Fiori
+· Basic Knowledge on Machine Learning
+Technical Skills:
+
+Operating Systems:
+Windows, Linux
+Databases:
+
+Oracle9i.
+Programming Languages:
+ABAP/4, HR-ABAP, MATLAB, C, C++, Java, CSS, HTML, VBA Scripts, Java Script.
+Educational Details:
+· B.Tech. (Computer Science and Engineering) from Bijupattanaik University of Technology in 2012.
+SAP PROJECTS EXPERIENCE:
+
+Project#2:
+Client
+
+                  :       SAP LABs, Bangalore
+Team 
+
+
+     : 
+Globalization Services, AU-TAX
+Role
+
+
+     :
+ABAP HR Consultant
+Period
+
+
+     :       August 2013 to till Date
+Project Name
+
+     :
+Redesign Tax solution for Australia
+Client Description:    
+
+SAP is at the Centre of today’s technology revolution. The market leader in enterprise application software, SAP helps organizations fight the damaging effects of complexity, generate new opportunities for innovation and growth, and stay ahead of the competition.               
+
+SAP Labs India is SAP's third largest Research & Development and Global Services & Support center in the world. SAP Labs India is one of the four global development hubs (Germany, US and Israel being others) of SAP that contribute to all areas of the SAP product value chain- Research & Breakthrough Innovation, Product Development, Global Services & Support and Customer Solutions & Operations. SAP Labs India researches, designs, and delivers leading-edge software applications that enhance and extend SAP® solutions, and is recognized within the SAP global organization as one of the prime contributors to innovation, quality and service.
+Contribution:
+· Developed payroll log for 5 payroll function for Australia.
+· Developed a payroll function for calculation of Average functionality in Redesign–Tax solution for Australia.
+· Created a Test Automation Utility which is used to automate more than 5000 number of test cases of various functionalities. This utility is highly efficient. This utility was to validate the payroll results of Redesign-Tax solution with existing solution. At first this was created only for Australia country. After successfully delivered of Redesign-Tax solution, this utility was enhanced for multiple country.
+· Created Excel Macros for processing of complex excels.
+
+· Worked on OLE to create and design excel with multiple worksheets.
+
+· Created a report to run Test Automation Utility as background job on daily basis and stores the results of this utility in a TDC.
+· Created a dashboard to see the over view of Test Automation Utility using webdynpro.
+
+· Created a report to display the payroll schema with indent and lines.
+· Developed a utility to backup and restore the configuration details of systems. The configurations can be copied from one system to another system by using this utility. 
+· Developed a utility to compare SAP objects of specific types across systems. This is used to check the object consistency across systems.
+· Created 3 maintenance view for a newly created table used to store payroll related calculation details.
+· Developed more than 10 legal changes for Australia country version.
+· Developed a report which changes (delete/delimit/extend) the yearly tax rate changes for Australia and test the changes on every aspect.
+
+· Solved more than 200 customer messages.
+· Developed a BAdI which integrates with a business function to make business function switch client dependent.
+· Created a business function and switch for enabling the Australia Re-designed tax solution for EC customer.
+
+· Worked to resolve the issue related to buffering.
+· Worked to resolve the issue related to update work process.
+
+· Solved one escalated message with respect to buffering and locking in Termination Organiser for Australia.
+· Developed an interface report which is used to calculate termination payments for EC employee in R/3. 
+
+· Created an excel tool for creating multiple test cases on a single click based on given data.
+· Created an excel tool for team planning and review statistics which is used by multiple teams.
+· Developed a complex report for scheduler which automates 4 other reports without any user interaction.
+· Achieved the concept of ABAP memory by using singleton mechanism.
+
+· Created a functionality document which explains Australia Tax redesign flow in detail.
+· Developed 2 POC in HCP.
+
+· Generated SAP-HR payroll data set for Machine Learning training.
+Project#1:
+Client
+
+                  :
+  Reliance Global Services Pvt. Ltd
+Role
+
+
+     :
+  Associate ABAP Consultant
+Period
+
+
+     :
+  July 2012 to January 2013   
+Client Description:
+Reliance Global Services Pvt Ltd is one of the fast-growing IT solutions and services provider with offices in USA, Hyderabad-India, delivering best-in-class services to help clients reduce costs, enhance organizational flexibility, and improve business and IT performance. We have proven capabilities across various industry verticals. Our wide spectrum of solutions and services encompass ERP specialized in SAP Custom application development, Application maintenance and support, Management-consulting services through Contract staffing enabled with in-house competency development.
+Contribution:     
+· Create a Product Allocation report.
+· Configure and Explore the BOM.
+· Upload header & item data and create sales order using BDC call transaction.
+· Develop a FORM to display SRCF using SAP-Script. 
+· I was a partly Lab Assistant. The rule was to discuss the issue faced by colleagues during their practices and give a session on respective subjects to clarify their doubts.
+Academic Project:
+· Project on Radial Basis Function Network (RBFN).
+
+· Project on Empirical study of classification using Feed-Forward Neural Network.
+
+· Project on Multi-Layer Perceptron.
+Duration
+:
+B.Tech
+Team Size
+:
+2
+Module
+
+: 
+Soft Computing
+
+
+       
+
+Role
+
+:
+Analysis, Design and Implementation of Algorithms
+Language
+:
+MATLAB
+
+Achievements:
+· Qualified GATE-2012.
+· Got an award as Outstanding Performer of the year 2013 by Tricon Infotech Pvt. Ltd.
+· Best Constellation award by Globalization Services, SAP LABs 2013.
+· 2 times employee of the month in Tricon Infotech Pvt. Ltd.
+Personal Details:
+
+Name                   
+
+:    Shashikant Behera
+Marital status 
+             
+
+:    Single
+Languages known                       :    English, Hindi, Odia          
+

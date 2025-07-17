@@ -1,0 +1,234 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                 
+
+Shaik Khasim
+AI & NLP Developer						
+ Mobile: +91 – 8978634312
+ Email:   shaikkhasim111@gmail.com   
+                                                                                       
+                                                        
+Current Job profile
+       Organization		: 	Wipro Technologies., Kochi, India.
+      Designation			: 	Project Engineer
+      Tenure			: 	28 Sep 2015 onwards
+Synopsis
+· 2+ years of experience in the field of System Software and AI Engineer – Android System Software Test Driven Development, System Software Low Level Design, Android customization feasibility and Natural Language  ChatBot using Python and Rive Scripting.
+· Work experience in Natural Language Processing for dialogue building for Chat Bot.
+· Work experience in interactive Chat Bot development using Python and Rive scripting.
+· Work experience in handling data in relational (MySQL) and NoSQL (Mongo) databases.
+· Work experience in RESTful APIs, Apache Kafka/Zookeeper in Python Development Environment.
+· Having work experience in Android Studio based application development, Java Native Interface for android.
+· Work experience in Data Analytics using Python Pandas and NumPy.
+· Work experience in data visualization from python to front end JS using D3 graph rendering.
+· Work experience in DOORS requirement management tool.
+· Work experience in Maven build environment for continuous delivery.
+· Work experience in complete automation of test environments Jenkins environment.
+· Work experience in Coverity for static analysis and JIRA tool for issue tracking and fix environment.
+· Expertise in Embedded Test Driven Development and automated test creation using VectorCAST tool.
+· Well known about the work environment of Class ‘C’ Medical Device development in Android.
+· Familiar with Continua USB protocol for Medical Device development.
+· Having strong Academic and real time work exposure to C and Data Structures 
+· Familiar with Operating System concepts, AVM and ARM architectures, RTOS and Device Drivers
+· Awareness of conceptual basics in Android Mobile Development and Digital Signal Processing   
+· Thorough understanding of Software Development Life Cycle, Software Testing Life Cycle, Bug Life Cycle and Software Development Methodologies – Agile and Lean.
+· Self-directed, ability to meet deadlines, fast learner and thrive to learn new skills and technology to improve productivity.
+
+Certifications and Trainings
+· PG-Diploma in Embedded Systems Design from Centre for Development of Advanced Computing – Hyderabad.
+· Trained and certified in ISO 13485 (Quality Management), ISO 14971 (Risk Management) and IEC 62304 (Software Lifecycle Processes) to work in Medical Software Development.
+· Certified in English comprehension and fluency from AMCAT assessment.
+Core Competencies
+	Primary Skills
+	Chat Bots, Natural language processing RESTful APIs, Flask API, Web based APIs, Apache Kafka/Zookeeper, MySQL, Mongo, Embedded Design and Development, Android Medical device development, System Software Testing, Bluetooth Low Energy
+
+	Tool Familiarity
+	Project:       Android Studios, Eclipse, VectorCAST, Enterprise Architect, Python IDLE, PyCharm, Postman, ARC, Mongo Chef - 3T
+Academic:  Eclipse, Kiel 
+
+	Operating Systems 
+	Windows,  OS X,  Unix, Linux - Ubuntu, Red Hat, Fedora
+
+	Languages
+	C, Python, Windows Batch Scripting, Rive Scripting, C++, Core Java, Android, fundamentals in HTML and JavaScript.
+
+	Hands on tool experience 
+	VectorCAST, DOORS, JIRA, Jenkins, Maven SVN, Git Hub, SCM, MongoDB, WinSCP.
+
+
+
+ Project profile
+Maiden Project: 
+Domain: Android Medical Devices
+Technicality: Development of System Software for Android Linux
+Hands on: C, C++, JNI, Python, HTML, XML and VectorCAST.
+Duration: 1.5 yrs.
+	Project Name
+	Medical Android Device Development
+
+	Client’s Corporate Area
+	Medical Devices
+
+	Methodology
+	Lean
+
+	Duration 
+	Oct 2015 to Jan2017
+
+	Environment/Tools
+	VectorCAST, PyCharm, Android Studios, Eclipse, Enterprise Architect, Python IDLE
+
+	Role
+	Embedded System Software Engineer
+
+
+
+Description:
+A medical device that work on an android based platform which communicates with dependent modules in Bluetooth Low Energy in a continuous feedback form. Each module that responds to the android device in every minute. System Software development for the control of native methods in low level android OS and providing an interface to application Layer modules. The project deals with USB transfer interface (Continua), Bluetooth communication, JNI wrapper for native method access. A complete Feasibility check for the selected design aspects of the module is to perform on USB transfer protocol, inter processor communication, battery durability and Bluetooth Low Energy communication process and memory usage analysis of the device.
+
+Responsibility variance:
+During Oct 2015 - Jan 2016:
+
+· Performance analysis of android device on its design aspects
+· Study about the battery durability and drain behaviour of the device
+· USB transfer protocol using Continua and PHDC medical standards
+· Bluetooth Low Energy communication using external party stack
+· Thorough understanding of suggestions and design mitigations of Feasibility analysis
+
+During Feb 2016 - May 2016:
+
+· Requirement analysis and component wise division for design elements
+· Co-ordinating High Level and Low Level Design aspects of the complete module
+· Functional trace of each requirement and creation of Enterprise Architect representations
+· Individual component detailing design documents and review by customer
+· Enabling maven automation and IntelliJ for continuous integration setup
+
+During June 2016 - Sep 2016:
+
+· Java Native Interface method registration and development
+· Develop wrapper to access native methods from application layer 
+· Communication processor signalling and tunnelling process
+· Performing static analysis and bug fixes before every release
+During Oct 2016 - Dec 2016:
+
+· Continua USB transfer Interface development in line with SOUP
+· SOUP validation of third party stack for implementing PHDC protocol 
+· Static Analysis using Coverity and Bug fixes inline
+· Interface development for native function access using JNI layers 
+· Unit Tests using VectorCAST tool for each component
+· Test Coverage improvements and identification of function signature improvements 
+· Complete Automation of Unit Testing process using python and batch scripting
+· XML parsing using python to automate test results in Jenkins system
+
+Lateral Project:
+Domain: Artificial Intelligence 
+Technology: Cloud based Chabot Development
+Hands on: Python, Rive scripting, HTML, REST APIs.
+Duration: 10 months
+
+	Project Name
+	Natural Language Understandable Chat Bot Development
+
+	Client’s Corporate Area
+	Artificial Intelligence
+
+	Methodology
+	Agile
+
+	Duration 
+	Jan 2017 to Jun2017
+
+	Environment/Tools
+	PyCharm, Python IDLE, ARC, Postman, Apache Kafka/Zookeeper
+
+	Role
+	Python/Rive Scripting Developer
+
+
+
+During Apr 2017 - Oct 2017:
+
+· Development of a cloud based Chat Bot with Natural Language Understanding capabilities.
+· Establishing Flask APIs, which can be interacted with RESTful operations across APIs.
+· Developing dialogue formation for the chat bot using Rive Scripting with Python macros.
+· Establishing web-based chat interface, which can be a front end to chat bot using html, JS.
+· Data handling in MongoDB from conversational JSON dumps produced by Chat Bot.
+· Store and fetch data to relational database like MySQL for a continual data storage.
+· Maintain continuous Kafka/Zookeeper producer-consumer on multiple broker topics.
+
+Work Recognition
+· Presented Excellence Award - The Best Campus Recruit for 2016-17
+
+Academic Background
+· PG-Diploma in Embedded Systems Design, from C-DAC – Hyderabad in 2015.
+· Bachelor of Technology (Electronics & Communication Engineering) from JNTU, Kakinada in 2014.
+· Completed Intermediate (Class XII) under Board of Intermediate Education, Andhra Pradesh in 2010.
+· SSC (Class X) under Board of Secondary Education, Andhra Pradesh in 2008.
+Personal Profile
+     Date of Birth		: 	5th July, 1993
+     Gender		: 	Male
+Marital Status	:	Unmarried
+Current Company	:	Wipro Technologies
+CTC			:	3.64 L.P.A
+Relocation		: 	Ready to relocate
+Nationality		: 	Indian
+     Languages		: 	Telugu, Hindi, English
+     Permanent Address   :            Opp. YSR Statue,
+				Penumuli (Po),
+				Duggirala (M),
+				Guntur District,
+				Andhra Pradesh – 522330.
+     Present Address         :             Plot #14-I, 
+Heera Cyber Views,
+               Info Park, Kakkanad,
+                                                          Kochi,
+                                                          Kerala – 682030.
+
+

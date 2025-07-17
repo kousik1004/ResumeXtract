@@ -1,0 +1,282 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Srinivas Reddy's Resume
+
+N. Sathish  
+
+
+          
+
+
+
+ 
+
+Email: sathishtvm85@yahoo.com                                                                     Mobile: +919994063323            
+
+OBJECTIVE 
+
+An enthusiastic network engineer with necessary drive and determination, looking for a challenging position, one which will make best use of existing skills and experience and also further my development in the field of Network and Security Administration
+
+CAREER SUMMARY
+
+· Having 7 years of experience in the analysis, design, configuration and implementation of network and security environment
+
+· Knowledge in WAN and LAN technologies
+
+· Configuring and installing of Cisco, DAX ,HP,Brocade, Aruba and, Ruckus  Routers, Switches and Access Points
+· Configure and installing of Fortigate and Dell Sonicwall Firewall.
+TECHNICAL SKILLS
+Layer 2 Protocol
+               :
+Ethernet, HDLC, PPP, STP, RSTP, LACP
+
+Layer 3-4 Protocol
+:
+VLAN, VTP, RIP, IGRP, EIGRP, VRRP, RIP, OSPF
+Infrastructure Service
+:
+DHCP, DNS, SMTP, FTP, TFTP
+
+Firewall Technologies
+:
+ NAT, VPN and Web filtering 
+
+Operating Systems
+:
+Cisco IOS, Forti OS, Sonic OS, Windows XP/7
+
+
+
+               
+
+Applications
+
+:
+MS Office 2007/2010, 
+QUALIFICATION 
+· BE( Computer Science Engg) in Kamban Engineering College, Tiruvannamalai (Affiliated to Anna University, Chennai) in the year 2006 with 63% aggregate.
+
+· HSC in  Sri.V.D.S.Jain Hr Sec School, Tiruvannamalai in the year 2002 with 82.5% aggregate.
+
+· SSLC in Sri.V.D.S.Jain Hr Sec School, Tiruvannamalai in the year 2000 with 85% aggregate
+ADDITIONAL QUALIFICATION 
+· Certification in Cisco- CCNA (ID No. CSCO11903847) 
+· Ruckus WiSE Level 1 Certification Exam
+· Ruckus Sales Fundamentals Accreditation Exam
+· Ruckus Wireless Solutions Engineer- SmartZone Certification Exam
+· Software Testing from One Click Testing.
+
+· Hardware Training from Agasthiya Technologies
+· SAP Basis for Maagnus solution 
+PROFESSIONAL EXPERIENCE PROFILE 
+· Working as Presales and Technical Specialist  in Redington India  Ltd- Chennai from Jul 2016 to Till Date
+
+· Working as Network Engineer in QUADSEL Systems Pvt  Ltd- Chennai from Mar 2015 to Jun 2016.
+
+· Working as Network Engineer in LIFA Designers Pvt  Ltd- Chennai from Jun 2014 to Jan 2015.
+· Working as Free Lancer –Chennai from Dec 2012 to Dec 2013
+· Working as Network Executive in Dax Networks  Ltd- Chennai from FEB 2008 to July 2012.
+ROLES & RESPONSIBILITIES IN REDNGTON INDIA LTD
+· Creation of sales quotation using tools like CBS for Brocade,Iris on HPN/Aruba and Ruckus
+· Providing Post-sales support to customers on Brocade , Ruckus , HPN/Aruba and UBNT.
+· Perform Site surveys for Wired and Wi-Fi LAN and provide documentation for proper deployment of networking devices
+
+· Design, deployment and troubleshooting the wireless connectivity setup with access points and wireless controller
+· Have good working experience Visual RF tools for site survey and heat map generation
+· Coordinating with Brocdae, Ruckus, Array Networks, HP and Aruba Sales, SE’s and Account managers for design quotes and queries.
+
+· Acting as arm between vendor and customer.
+
+· Meeting with customers and understanding requirements, providing Presales support to customers.
+
+· Technical arm of sales team.
+
+·  Providing Network Diagrams, Technical solution documents to Partners/customers.
+
+· Solving Partner’s product queries and other related issues
+
+ROLES & RESPONSIBILITIES IN QUADSEL SYSTEMS PVT LTD
+
+· Installation, Configuration and Troubleshooting of Switch, Router and Access Point
+
+· Responsible for designing and implementation of client network infrastructure
+
+· Design the layout for cable installations
+
+· Configuring VLANS, 802.1q trunks, VTP, Inter-Vlan Routing
+
+· Perform Site surveys for Wired and Wi-Fi LAN and provide documentation for proper deployment of networking devices
+
+· Configure and implementation of security policies, traffic filtering, SSL, VPN using firewall
+
+· Design, deployment and troubleshooting the wireless connectivity setup with access points and wireless controllers
+
+· Troubleshooting of complex LAN/WAN infrastructure including various routing protocols, security policies, NAT and VPN
+
+· Preparing the task list for remote sites implementation steps with timelines 
+
+· Interact and negotiate with vendors, outsourcer’s and contractors to secure network devices and services
+
+· Assisting customers by voice, e-mail and remote an requirement and based on issues
+
+· Provide service delivery activities in accordance to established Service Level Agreement (SLA) to maintain high-level of customer service
+ROLES & RESPONSIBILITIES IN LIFA DESIGNERS PVT LTD
+· Manages Windows network (users, computers, printers, etc) 
+
+· Provide day-to-day Assistance to systems' users 
+
+· Responsible for managing and maintenance of networks in organization.
+
+· Provide software and hardware support.
+
+· Installing, configuring, managing and maintenance of all software’s for workstation.
+
+· Responsible for all backups in the Company.
+· Liaise with Internet Service Providers (ISP) for internet connection 
+
+· Make recommendations to management on purchase of hardware, software and equipments 
+
+· Responsible for making contacts with computer equipments suppliers
+
+ROLES & RESPONSIBILITIES IN DAX NETWORKS LTD
+Networking:
+
+Testing and Evaluation of Switches, Routers, Wireless Products, NAS, IP Cameras Modems, Media Converters,  LAN Extenders etc. 
+
+· Testing the L2 features such as VLAN, STP, RSTP, MSTP,, DHCP, SNMP v1,2,3, Multicast, ACL etc of Dax L2 Switches
+
+· Testing the L3 features such as RIP, OSPF ,BGP, VRRP, VLAN Routing,  etc. of Dax L3 Switches
+
+· Testing and evaluation of Dax Routers on various parameters such as RIP, OSPF, BGP, SNMP, VPN, L2TP, IPSEC... etc
+
+· Testing and evaluation of Dax IP Cameras on various parameters such as PTZ, Alerts, Events, Recording to FTP, NAS, SAMBA, SD, DDNS, PPPoE, various Video Management Software.
+
+· Testing and evaluation of Dax Wireless Routers on various Installation and Testing of Dax Wireless Clients, Modems on Windows OS.
+Client Name: The Residence Hotel
+
+Configured switches, access points and Fortigate Firewall 
+Implemented the Switch Back Plane stacking using modules and cables for redundancy
+Client Name: Kailash Shipping Services, Fives India, Tecton india and Ingengno 
+
+Configured Firewall with policies as per the client environment
+
+Configured NAT in  firewall at branch offices
+
+Configured UTM features for optimum use of firewall
+
+Client Name: MRF Limited, Quest Life Science, Sundaram Clayton, ShriramCapital, The Water Base Ltd Jouve India Ltd
+Configured HP Switches ,Wireless Controller and Access points 
+Configured various SSID’s, filtering rules, access controls methods and user permissions
+
+Configured Fortinet firewall 60D for security
+    Client Name: Shreesha Hotel Tanjore  and Feathers Hotel 
+Configured sonicwall Firewall with policies as per the client environment
+
+Configured NAT in  firewall at branch offices
+Configured  VPN HO to Branch
+Configured switches, ARUBA access points 
+Client Name: Vuram Technology and  Chettinad Morimura Semi Conductor Material Private Limited
+Configured sonicwall Firewall with policies as per the client environment
+
+Configured NAT in  firewall at branch offices
+Configured IPsec ,Remote VPN HO to Branch
+Configured switches and Access points 
+Achievements
+
+· Awarded Significant Contribution for the year of 2010- 2011 in Dax Networks Ltd
+
+Personal Profile
+
+
+
+
+· Name
+
+
+ -    N.Sathish
+
+· Father’s Name
+
+
+ -    G.Narayanan
+
+· Date of Birth
+
+
+ -     27.03.1985
+
+· Gender 
+
+
+ -     Male
+
+· Nationality
+
+
+ -     Indian 
+
+· Passport Number
+
+
+ -    G8482307
+
+· Languages known
+
+               -    Tamil, English 
+
+· Address to Communicate
+ -     No.8A, Ramakrishna Nagar Annex , Porur
+
+
+
+
+
+       Chennai, Tamilnadu: 600116
+
+ 
+Sathish
+
+

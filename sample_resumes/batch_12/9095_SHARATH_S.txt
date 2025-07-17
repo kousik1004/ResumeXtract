@@ -1,0 +1,385 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHARATH S                     
+
+SAP FICO CONSULTANT
+
+Mobile: +91-8105662623
+E-mail: sharathshivu@hotmail.com
+Professional Summary:                                                                                
+Professional in SAP R/3 ERP software with around 9.2 years of industry experience, including around 3.4 years of experience in SAP FICO consulting with sound knowledge of the business processes related to across the industries. I worked on one Implementation, three Support, data migration and testing projects related to SAP FICO module so for.
+
+SAP FICO SKILLS                                                          
+· Configuration done for GL, AP, AR, FA, CCA, IO
+
+· Worked on Simple finance application
+
+· Configured Automatic Payment Program.
+· Have knowledge on Costing based COPA
+
+· Imported the TR from development client to Unit client for testing
+
+· Released TR
+· Assessment and Distribution.
+· FI-MM and FI-SD Integrations through account assignments.
+
+· New GL - Multiple ledger, Document splitting
+
+· Batch job creation 
+
+· Invoice posting via VIM for PO and NPO invoice including interface
+
+· Done testing using HPQC tool for FI and PS related processes
+· Configured asset take over date
+
+· Configured specify last depreciation posted period in previous system
+
+· Creation of document types including for non-leading ledger to transfer the legacy transactions – Vendor open items, Customer open items, GL open items, P&L balances, GL balances
+
+· Assign number range to document types
+· Configuration of Terms of Payment
+· Configured withholding tax type for payment posting, Invoice posting
+· Configured to generate customer balance confirmation form for company code
+
+· Creation of Asset Class for AUC
+· Settlement of AUC to main asset via Internal Order
+· Configured minimum/maximum amount for withholding tax codes
+
+· Tested for GL and AP processes
+
+· Master data load via LSMW for Cost centers, Internal Order, Credit master, Vendor master company code data, Vendor master withholding tax data, Vendor master bank data, Employee vendor general data, Employee vendor company code data, Customer master company code data, Bank keys
+
+· Transaction data load via BDC for Vendor open items, Customer open items, GL open items, P&L balances, GL balances
+
+· Loaded Asset master data with value via BDC
+· Validation and substitution
+
+· Worked on Fire Fighter ID
+Technical Skills
+
+· ERP Package
+
+: SAP ECC - 7.3
+· Operating System
+: Windows 8.1
+· Office Suite
+
+: MS Office – Excel, Word & PowerPoint  
+Educational Qualifications:
+
+
+MBA – Pursuing 
+B.com
+Project Profile:
+Project # 5:
+	Organization
+	HCL
+
+	Client
+	BBC 
+
+	Project
+	Support
+
+	Role
+	SAP FICO Consultant
+
+	Duration
+	May 2017 to till date
+
+	
+	
+
+
+Client Description: 
+
+The British Broadcasting Corporation (BBC) is a British public service broadcaster headquartered at Broadcasting House in London. The BBC is the world's oldest national broadcasting organisation[4] and the largest broadcaster in the world by number of employees. It employs over 20,950 staff in total, 16,672 of whom are in public sector broadcasting. The total number of staff is 35,402 when part-time, flexible, and fixed contract staff are included.
+
+Responsibilities:
+· Resolved business tickets received via Cherwel tool.
+
+· Had Skype call with the business to discuss the issue and provided the resolution.
+
+· Had Weekly meeting with the business to update the ticket status.
+
+· Batch job creation.
+
+· Prepared FS document for the business requirement.
+· Maintained cordial relationship with the business.
+
+· Worked with technical consultant to develop the customer's customized requirement.
+
+· Used JIRA tool to update the ticket status.
+
+Project # 4:
+	Organization
+	HCL
+
+	Client
+	Harman 
+
+	Project
+	Support
+
+	Role
+	SAP FICO Consultant
+
+	Duration
+	June 2016 to March 2017
+
+	
+	
+
+
+Client Description: 
+
+Harman International Industries, Incorporated is an American company that designs and engineers connected products for automakers, consumers and enterprises worldwide, including connected car systems; audio and visual products, enterprise automation and connected services. Headquartered in Stamford, Connecticut, Harman maintains major operations in the Americas, Europe, as well as Asia and markets its products under more than twenty brands — including AKG Acoustics, AMX, Crown Audio, Harman/Kardon, Infinity, JBL, JBL Professional, Lexicon, Mark Levinson, Martin, Revel, Soundcraft and Studer.
+Responsibilities:
+· Resolved business tickets received via Remedy tool.
+
+· Had WebEx call with the business to discuss the issue and provided the resolution.
+
+· Had daily WebEx meeting with the business to update the ticket status.
+
+· Prepared process document to ease the business user.
+
+· Maintained cordial relationship with the business.
+
+· Worked on Fire Fighter ID.
+· Worked with technical consultant to develop the customer's customized requirement.
+
+Project # 3:
+	Organization
+	HCL
+
+	Client
+	PSP (Platform Specialty Product) 
+
+	Project
+	Implementation
+
+	Role
+	SAP FICO Consultant
+
+	Duration
+	August 2015 to May 2016
+
+	
+	
+
+
+Client Description: 
+
+A global, diversified producer of high technology specialty chemical products and provider of technical services. Our business involves the formulation of a broad range of specialty chemicals created by blending raw materials through multi-step technological processes or formulating active ingredients into final agricultural products, which can be easily and safely used by growers in the field.  These specialty chemicals are sold into multiple industries, including agricultural, electronics, graphic arts, metals and plastic plating, and offshore oil production and drilling. We refer to our products as “dynamic chemistries” due to their intricate chemical compositions. Our dynamic chemistries are used in a wide variety of attractive niche markets.
+Responsibilities:
+· Involved in the implementation of the project, including preparation, Configuration, testing
+· Configuration required for GL, AP, AR, FA, CCA, IO
+
+· Electronic bank statement configuration
+· DME file creation.
+· Integration of FI with SD, MM 
+· New GL – Document spitting, Multiple ledger 
+· Screen layout for document entry as per business specifications and tested the configuration
+
+· Configured payment terms, cash discounts and automatic clearing of line items
+
+· Configured the fixed assets - chart of depreciation, asset classes, depreciation areas, number ranges, screen layout rules and account determination and depreciation keys
+
+· Configured house banks, bank accounts, assigning GL accounts 
+· Configured the necessary settings for capitalizing asset under construction with internal order
+· Data migration via LSMW, BDC for master data, transaction data
+
+· Configured to generate customer balance confirmation form for company code
+
+· Imported the TR from development client to Unit client for testing
+· Released TR 
+· Master data load via LSMW for Cost centres, Internal Order, Credit master, Vendor master company code data, Vendor master withhodling tax data, Vendor master bank data, Employee vendor general data, Employee vendor company code data, Customer master company code data, Bank keys
+· Transaction data load via BDC for Vendor open items, Customer open items, GL open items, P&L balances, GL balances
+
+· Loaded Asset master data with value via BDC 
+Project #2:
+	Company   
+	HCL
+
+	Client
+
+	Linde 
+
+	Designation
+	FI/CO Consultant
+
+	Project type                 
+	Testing  
+
+	Duration
+	March 2015 to July 2015
+
+
+Client description:-
+The Linde Group is a world leading supplier of industrial, process and specialty gases and is one of the most profitable engineering companies. Linde products and services can be found in nearly every industry, in more than 100 countries. A success story that began with the separation of air. 
+Responsibilities:
+
+· Execution of test scripts in various clients using HPQC test tool for FI and PS related process
+
+· Executed test scripts for scenarios:
+
+* Creation of Project, WBS
+
+* Allocate budget to Position ID
+
+* Transfer budget from IM to WBS
+
+* Shift budget between one position ID to another position ID with same organization
+* Release project and WBS 
+
+* Hand over the project with project number through Lotus notes
+
+* Release blocked sales order
+
+* APP Run for vendor payment
+
+* Post PO Invoice through VIM (Vendor Invoice Management)
+* Post NPO Invoice through VIM including workflow approval
+
+* VIM interface with ICC (Invoice capture center)
+
+* Creation of PO
+
+* Goods receipt
+
+* Invoice receipt
+
+Project 1:
+
+	Organization
+	HCL 
+
+	Client
+	Linde R1
+
+	Role
+	SAP FI Consultant
+
+	Project
+	Support
+
+	Duration
+	July 2014 to February 2015
+
+
+Client Description:
+ The Linde Group is a world leading supplier of industrial, process and specialty gases and is one of the most profitable engineering companies. Linde products and services can be found in nearly every industry, in more than 100 countries. A success story that began with the separation of air. 
+Responsibilities:
+
+· Resolved tickets received via remedy tool in the area of FI 
+· Contribution for the Clients month end and year end activities
+· Solved problems on priority
+· Interacting with Client (if required) through Net meetings
+
+· Ensured by Applying smooth process of the project at the client side
+· Simulating the scenarios and prepared documentation for better understanding        
+
+Previous Employers Details:
+
+· TIMKEN
+
+Duration: August 2011 to June 2014
+
+Responsibilities:
+· Creation of debit/credit dispute cases for the customer’s disputed transactions via FSCM
+
+· Creation sales order for the justified dispute transactions
+
+· Generation of shell files
+
+· Creation of debit/credit memo for customer’s under and over payment respectively via FSCM
+
+· Done reconciliation between FBL5N and FSCM after month close
+
+· Billing block process for blocked invoices
+
+· HP (Hewlett Packard) Global Business Solutions Limited.
+
+Duration: April 2010 to August 2011
+
+Responsibilities:
+
+· Booking the payments to the Customer Account (Cash Application).
+
+· Clearing the payments with the invoice numbers.
+
+· Follow-up with the customers and collection department for the payment details for Unapplied and Unknown payments.
+
+· Handled Singapore entity payments.
+
+· Xchanging Plc 
+
+Duration:  September 2008 to April 2010
+
+Responsibilities:
+
+· Handled claims of General Motors, Marine, Aviation and catastrophic losses (policies issued in UK). Processed claims in the applications Augniser, Mocha, RTAP (Ramford Technical assistant portal).
+
+· Trained to junior on processing.
+· Handled DSR (Daily Status Report).
+
+PERSONAL DETAILS:
+
+Name
+
+        : Sharath S
+
+Sex                             : Male
+
+Nationality
+         : Indian
+
+Personal Skills
+         : Team worker, Good listener, Committed, Flexible.
+
+Place: Bangalore.                                                                        SHARATH  S

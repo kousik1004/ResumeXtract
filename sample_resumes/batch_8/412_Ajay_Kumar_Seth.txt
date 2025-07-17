@@ -1,0 +1,865 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ajay Kumar Seth 
+
+SAP BI / BW / HANA Manager
+Email: seth.mailbox@gmail.com
+
+Mobile: +91 9886784188
+
+Professional Summary
+
+Ajay is a seasoned SAP BI and Analytics professional with 12 years of experience across SAP BI (SAP BW 3.x, SAP BI 7.x), ABAP/4, SAP Business Objects Suite, SAP HANA 2.3 and SQL Server. He possesses in depth functional knowledge across Finance, Controlling, Logistics and SD. He possesses functional knowledge of Tea Buying & Blending.
+
+He has implemented multiple analytical solutions across geographies using various technologies. He has implemented visualizations solution on SAP Webi, SAP Design studio & SAP Lumira. In addition he has implemented bespoke Sales Planning & Forecasting solutions across Canada, US, EMEA and Australia using SAP IP.
+
+He has done four end to end implementations in Sales & Distribution, Controlling & Profitability Analysis, Plant Maintenance, Material Management and SuPM modules from ECC and DB2 system.
+
+He has handled all aspects of BI implementations across multiple engagements/geographies.
+Ajay has worked with the teams of various sizes ranging from 7 to 14 and has successful record of delivery using the onsite - offshore delivery model. He has good knowledge of project management related activities and has been actively involved in scoping and defining timelines, identifying the potential risks and a mitigation plan, keeping track of developments and defining testing strategies.
+
+SAP Expertise:
+	SAP Functional Skills 
+
+· SD
+
+· Logistics
+
+· COPA
+
+· FI/CO
+
+· Tea Buying & Blending
+ABAP Development 
+
+· Custom Transactions and Reports
+· Screen Enhancements.
+
+· Interface Development. 
+
+· Creation of Data Dictionary objects. 
+
+· ALV Interfaces. 
+
+· SAP Script/Smart Forms.
+
+	BI Development
+
+· Custom BI Info providers
+· Transformations
+· Start, End and Expert Routines 
+· Process Chains 
+
+· Custom BI Authorizations. 
+
+· Extractions from non-SAP sources
+· Modular Custom Extractors using FM
+
+· Enhancing Standard extractors
+· Virtual Info providers.
+
+· Performance Tuning.
+
+· Analysis Process Designer.
+
+· Integrated Planning.
+
+· deployment & load plans, cutover tasks in staging, QA and production system
+· Participation in DR drills
+
+· Managed and Led System upgrades
+
+· SuPM
+
+
+	 Reporting
+
+· Query Designer. 
+
+· BEX Analyzer. 
+
+· BEX Web. 
+· WAD
+· Webi
+· Design Studio
+· Lumira
+· SAP Enterprise Portal
+· Custom style sheets development using SAP Eclipse
+	HANA Skills 
+
+· Native HANA modelling
+•
+Designed and implemented SAP HANA data modeling using Attribute View, Analytic View, and Calculation View.
+
+•
+Developed complex SQL scripts in Calculation views
+
+•
+Executed Data Extraction Transfer Loading (ETL) using SAP Data Services 4.0 to import csv files into SAP HANA tables to reflect exchange live rates application
+
+•
+Involved in SAP HANA Security including User Management, Roles, and Privileges
+
+•
+Created reports and visualization across Calculation, Attribute and Analytical views .
+
+
+
+Achievements
+
+1. Have been awarded Pat on Back Award for exemplary contribution to Plant Maintenance project from Satyam.
+
+2. Have been awarded for SPOT award for quick turnaround for his contribution in creating hierarchies through ABAP program.
+
+Experience (Total 12 Years)
+
+	Organization
+	Designation
+	Duration
+
+	Tata Global Beverages, Bangalore
+	Manager – Business Intelligence
+	04.2016 – Till Date
+
+	Accenture Services Pvt. Ltd. Bangalore
+	Team Lead
+	08.2013 – 04.2016
+
+	Ness Technologies India Pvt. Ltd., Bangalore
+	Member Technical Staff
+	10.2011 – 08.2013
+
+	Mahindra Satyam Computer Services Ltd., Bangalore
+	Senior Software Engg.
+	05.2010 – 10.2011
+
+	Essel Propack Ltd.,Mumbai
+	IT Executive
+	10.2006 – 04.2010
+
+	eJamaat.com,Mumbai
+	Software Engg.
+	12.2005 – 10.2006
+
+
+Education
+
+	Degree
+	University
+	Year of Passing
+
+	MCA (Master Of Computer Application)
+	School Of Management Sciences, Varanasi
+	June-2005
+
+
+Project Profiles
+
+	1. Project Name:
+	SuPM Implementation - TGBL
+	
+
+	Client
+	TGBL (APAC , EMEA Region)
+	
+
+	Role
+	SAP BI COE
+	
+
+	Organization
+	TGBL (APAC, EMEA Region)
+	
+
+	Duration
+	(12/2016) –  Till Date
+	
+
+	Team Size
+	12
+	
+
+	Environment
+	SuPM 3.0 SP16 , SAP BI 7.3
+	
+
+
+Project Description 
+
+Tata Global Beverages Limited (formerly Tata Tea Limited) is an Indian multinational non-alcoholic beverages company headquartered in Kolkata, West Bengal, India and a subsidiary of the Tata Group.
+
+This project involves the implementation of SuPM 3.0 to TGBL APAC and EMEA regions. 
+Responsibilities
+
+As a BI COE lead, my responsibilities include:
+
+1. Actively involved in the SuPM BI content installation and ensure that the same is not having any impact on the BAU activities.
+2. As a COE, been involved in providing the technical sign off for the SuPM objects after delivery so that the objects can be transported to next system in the landscape.
+3. Identifying and resolving the issues encountered as an incident or as a problem during Product Test done by business and during UAT too. 
+
+4. Identifying the areas of the improvements like performance management for SuPM.
+5. Engaged with SAP product team and have identified product enhancements being planned for next releases.
+	2. Project Name:
+	Global BI Support – TGBL 
+	
+
+	Client
+	TGBL 
+	
+
+	Role
+	SAP BI/ABAP Lead Consultant
+	
+
+	Organization
+	TGBL
+	
+
+	Duration
+	(12/2016) –  Till Date
+	
+
+	Team Size
+	5
+	
+
+	Environment
+	SAP BI 7.3, Integrated Planning
+	
+
+
+Project Description 
+
+As a global BI support manager , Ajay has supported the complete BAU activities with 1 person reporting under him.
+Responsibilities
+
+As a BI Support Manager my responsibilities includes:
+
+1. Managed the Adhoc activities specially on month end based on the calendar circulated for different regions viz. APAC , EMEA.
+
+2. Managed the SLA for the support team and ensure the defined SLAs have never missed out.
+
+3. Prepared the on call support document and have always ensure the smooth support of BI solution.
+
+4. Managed the communication for Outages of BI production environment and have seamless handshakes with ECC support manager to avoid the impact on BI process chains as and when planned.
+
+5. Coordinated with the Basis/windows team for any issue found during the support.
+6. Working on the incidents or Service Requests raised by business and assigning to the respective team member.
+7. Identifying the area of automation and automated the multiple things to avoid the dependency on the BI team by writing the custom ABAP programs.
+8. Supported the TGBL Australia entity for the customized solution called STP(Short Term Planning).This is basically an IP solution deployed in Enterprise Portal through WADs.
+9. Supported the TGBL USA entity for their analytical solutions.
+
+	3. Project Name:
+	Forecast Efficiency – Tea Buying
+	
+
+	Client
+	TGBL , India
+	
+
+	Role
+	SAP BI/ABAP Lead Consultant
+	
+
+	Organization
+	TGBL, India
+	
+
+	Duration
+	(04/2016) –  (12/2016)
+	
+
+	Team Size
+	5
+	
+
+	Environment
+	SAP BI 7.3, SAP ECC 6.0
+	
+
+
+Project Description 
+
+The Forecast Efficiency Project involves the measurement of accuracy of forecasting done by Tea Buyers across different Auction Centers of TGBL.Tea Buyers forecast the Buying Quantity and Price for their assigned tea/auction center for rolling 18 months at any point of time. The same is measured against the actual bough tea for a week and compare it based on a given formula to reach to the Forecast Efficiency Percent.
+Responsibilities
+
+As a BI Lead Consultant my responsibilities includes:
+
+1. Coordinating communication between the business and offshore team.
+
+2. Preparation of the technical specifications for the KPI solution provided.
+3. Tracking the build against plan and assigning the tasks accordingly to the BI , Design Studio Team.
+
+4. Identifying and resolving the issues rose as an incident or as a problem during KPI Test done by business and during UAT too. Assigning the issues to the respective team member.
+5. Identifying the areas of the improvements like performance management of the reports , Data Loading etc.
+	4. Project Name:
+	Mombasa Upload Automation
+	
+
+	Client
+	TGBL , Kenya
+	
+
+	Role
+	SAP BI/ABAP Lead Consultant
+	
+
+	Organization
+	TGBL, Kenya
+	
+
+	Duration
+	(07/2016) –  (09/2016)
+	
+
+	Team Size
+	1
+	
+
+	Environment
+	SAP BI 7.3, SAP Enterprise Portal
+	
+
+
+Project Description 
+
+The idea behind this project was to automate the Mombasa Buying Auction data upload in BI. Since Mombasa entity don’t have the BI implementation yet,the team used to send the files to BI Support team on a weekly basis and the team was uploading it manually. The same has been automated and the solution has been consumed in Portal and allows the business user to upload his/her files on their own, which saves the significant time and follows a dedicated process for it. This has avoided the manual intervention and lead time in between.
+Responsibilities
+
+As a BI/ABAP Consultant my responsibilities includes:
+
+1. Understanding the current situation as to how the files were getting uploaded in BI manually.
+2. Making the proposal and done a POC and showcased to the Business Director to get it approved.
+
+3. Written the custom ABAP program which allows the user to upload their file and save it at a dedicated path in Application server. The same path has been set in the Info Package to extract the file on an ongoing basis.
+4. Made the event based process chain which is getting triggered automatically by the program and loads data in the data model.
+5. Also written a custom program which send an automatic mail to user about the status of load for confirmation purpose. 
+	5. Project Name:
+	P & A Trend Dashboard
+	
+
+	Client
+	TGBL , India
+	
+
+	Role
+	SAP BI/ABAP Lead Consultant
+	
+
+	Organization
+	TGBL, India
+	
+
+	Duration
+	(08/2016) –  (10/2016)
+	
+
+	Team Size
+	2
+	
+
+	Environment
+	SAP BI 7.3, SAP Design Studio Version 16
+	
+
+
+Project Description 
+
+The Tea Buyers across India buys tea from various Auction Centers approved by the State Government. For that Tea Buyers forecasts their Buying Quantity and Buying Price for the rolling 18 months. And the same is getting saved against a Forecasting Version every fortnight. The requirement was to be able to compare the Forecasting Quantity and Forecasting Price across 2 different Forecasting versions and highlight any significant deviations from the forecasting trend. The same will be useful for the Tea Buying and Blending Director to dig down and analyse any significant deviation and so that the preventive measure can be taken to have a consistent and accurate  forecast. The same has been delivered from BI in the form of Bex Query and has been consumed in Design studio to report. 
+Responsibilities
+
+As a BI Lead Consultant my responsibilities includes:
+
+1. Understanding the current situation as to how the Forecasting Versions were getting saved in BI through Integrated planning.
+2. Making the proposal and done a POC and showcased to the Business Director to get it approved.
+
+3. Created the Bex query which essentially highlight the top 10 deviations across 2 different chosen versions.
+
+Actively been involved in developing the dashboard for this solution and consumed the same in Enterprise portal through iView. 
+
+	6. Project Name:
+	Vodafone -EVO
+	
+
+	Client
+	Vodafone, Europe
+	
+
+	Role
+	SAP BI Lead Consultant
+	
+
+	Organization
+	Accenture Services Pvt. Ltd.
+	
+
+	Duration
+	(05/2015) –  Till Date
+	
+
+	Team Size
+	10
+	Module: SD, MM, COPA,  FI, PM 
+
+	Environment
+	SAP BI 7.4, SAP ECC 6.0
+	
+
+
+Project Description 
+
+Vodafone Group is a British multinational telecommunication company headquartered in London and with its registered office in Newbury, Berkshire.
+The EVO (European Vodafone) Project involves the development and enhancement of existing BI solution in different releases. Each release comprises of a set of BI Reports and Interfaces to send data to legacy systems.
+Responsibilities
+
+As a Team Lead my responsibilities includes:
+
+1. Giving the estimates for each RICEF to client and get it approved.
+
+2. Coordinating communication between the onsite and offshore team.
+
+3. Preparation of the technical specifications for the set of reports and interfaces identified for a particular release.
+4. Tracking the build against plan and assigning the tasks accordingly to the team.
+
+5. Identifying and resolving the issues rose as an incident or as a problem during Product Test done at onshore and during UAT too. Assigning the issues to the respective team member. Monitoring the SLA for the team.
+
+6. Identifying the areas of the improvements like performance management, information broadcasting etc. and proposing the same to the business.
+	7. Project Name:
+	One.ERP
+	
+
+	Client
+	Magyar Telekom,Hungary
+	
+
+	Role
+	SAP BI Lead Consultant
+	
+
+	Organization
+	Accenture Services Pvt. Ltd.
+	
+
+	Duration
+	(11/2014) –  (05/2015)
+	
+
+	Team Size
+	10
+	Module: SD, MM, COPA,  FI, PM 
+
+	Environment
+	SAP BI 7.3, SAP ECC 6.0
+	
+
+
+Project Description 
+
+Magyar Telekom is the largest Hungarian telecommunications company. It’s a subsidiary of Deutsche Telekom.
+
+The One.ERP Project involves merging the SAP solutions across Magyar Telekom and Deutsche Telekom once latter has taken over the former .The implementation and enhancement of existing BI solution in different releases. Each release comprises of a set of BI Reports and Interfaces to send data to legacy systems.
+Responsibilities
+
+As a team lead/Onsite Coordinator my responsibilities includes:
+
+1. Acted as an onsite coordinator for gathering requirement from business and converting them to the technical solutions. This I have done during my onshore tenure in Budapest (Hungary).Passing the work to offshore for build and always support the technical challenges to offshore team during go-live phase.
+2. Giving the estimates for each RICEF to client and get it approved.
+
+3. Coordinating communication between business and offshore team.
+
+4. Preparation of the technical specifications for the set of reports and interfaces identified for a particular release.
+
+5. Tracking the build against plan and assigning the tasks accordingly to the team.
+
+6. Identifying and resolving the issues rose as an incident or as a problem during Product Test done at onshore and during UAT too. Assigning the issues to the respective team member. Monitoring the SLA for the team.
+
+7. Identifying the areas of the improvements like performance management, information broadcasting etc. and proposing the same to the business.
+	8. Project Name:
+	Publicis Groupe , AMS
+	
+
+	Client
+	Publicis Groupe, France
+	
+
+	Role
+	SAP BI Lead Consultant
+	
+
+	Organization
+	Accenture Services Pvt. Ltd.
+	
+
+	Duration
+	(08/2013) –  (11/2014)
+	
+
+	Team Size
+	8
+	Module: SD, MM, COPA,  FI, PM , PP
+
+	Environment
+	SAP BI 7.3, SAP ECC 6.0
+	
+
+
+Project Description 
+
+Publicis Groupe is a French multinational advertising and public relations company headquartered in Paris.
+The AMS Project involves the maintenance, support and enhancement of existing BI solution and take it to the next level. The project involves the BI support across all of the countries for SAP FICO, SD, MM, APO and PM modules. The enhancement includes the development of new reports, performance optimization and information broadcasting. 
+
+Responsibilities
+
+As a team lead my responsibilities includes:
+
+1. Giving the estimates for each RICEF to client and get it approved.
+
+2. Coordinating communication between the onsite and offshore team.
+
+3. Preparation of the technical specifications for the set of reports and interfaces identified for a particular release.
+
+4. Tracking the build against plan and assigning the tasks accordingly to the team.
+
+5. Identifying and resolving the issues rose as an incident or as a problem during Product Test done at onshore and during UAT too. Assigning the issues to the respective team member. Monitoring the SLA for the team.
+
+6. Identifying the areas of the improvements like performance management, information broadcasting etc. and proposing the same to the business.
+	9. Project Name:
+	Sustainability Performance Management System(SuPM)
+	
+
+	Partner
+	SAP AG,Woldroff,Germany
+	
+
+	Role
+	SAP BI & SuPM Lead Consultant
+	
+
+	Organization
+	SAP AG – Germany, India
+	
+
+	Duration
+	(10/2011) –  Till Date
+	
+
+	Team Size
+	10
+	
+
+	Environment
+	SAP BI 7.3, SAP ECC 6.0
+	
+
+	Methodology
+	Using Agile Methodology
+	
+
+
+Project Description 
+SuPM deals with measurement, management and disclosure of organizational performance towards the goals of sustainable development. SuPM can be used as a standalone or as a distributed localized application to manage company's environmental, social and economic performance. The solution is designed to be integrated with SAP and Non SAP Applications. 
+
+SuPM has two broad application categories – 
+1: Data Collection - Helps to set up the system to collect KPI data, either manual or automated, for reporting. This step consists of KPI definition, reporting framework definition, role assignment setup, conversion factors definition, automated script definition, and consolidation and adjustment 
+2: End user Reporting - Using which consolidation and adjustment process of data for further analysis is carried out using general reporting and dashboards, ad hoc queries, and scorecards techniques
+
+Responsibilities
+
+As an active team member my responsibilities includes:
+
+1. Coordinating communication between the onsite (SAP AG counterparts) and offshore team (SAP LABS, Bangalore).
+
+2. Preparation of functional specifications and validating the technical specifications for the change requests.
+
+3. Tracking the build against plan and assigning the tasks accordingly to the team.
+
+4. Identifying and resolving the issues rose as an incident or as a problem. Assigning the issues to the respective team member. Monitoring the SLA for the team.
+
+5. Identifying the areas of the improvements like performance management, information broadcasting etc. and proposing the same to the business.
+	10. Project Name:
+	Birds Eye Iglo – AMS
+	
+
+	Client
+	Birds Eye Iglo Ltd.
+	
+
+	Role
+	SAP BI Consultant
+	
+
+	Organization
+	Birds Eye Iglo – UK, Germany, Austria, Ireland, France, Netherlands, Belgium, Portugal, Turkey
+	
+
+	Duration
+	(05/2010) –  (10/2011)
+	
+
+	Team Size
+	7
+	Module: SD, MM, COPA,  FI, PM , APO
+
+	Environment
+	SAP BI 7.0, SAP ECC 6.0 , APO
+	
+
+
+Project Description 
+
+Birds Eye Iglo Ltd. is frozen foods major in Europe, having a considerable presence in the markets of UK, Germany, Austria, France, Netherlands, etc. The AMS project involves maintaining the existing solution and enhancing it to take it to next steps. 
+
+The project involves the BI support across all of the countries for SAP FICO, SD, MM, APO and PM modules along with interfacing with the client/vendor systems using SAP PI. The enhancement includes the development of new reports, performance optimization and information broadcasting. 
+
+Responsibilities
+
+As an active team member my responsibilities includes:
+
+1. Coordinating communication between the onsite and offshore team.
+
+2. Preparation of functional specifications and validating the technical specifications for the change requests.
+
+3. Tracking the build against plan and assigning the tasks accordingly to the team.
+
+4. Identifying and resolving the issues rose as an incident or as a problem. Assigning the issues to the respective team member. Monitoring the SLA for the team.
+
+5. Identifying the areas of the improvements like performance management, information broadcasting etc. and proposing the same to the business.
+	11. Project Name:
+	MACH14-SAP Implementation (Essel Propack Ltd.)
+	
+
+	Client
+	Essel Propack Ltd.
+	
+
+	Role
+	SAP BI Consultant
+	
+
+	Organization
+	Essel Propack Ltd. – USA,UK,Poland,China,Phillipines,
+	
+
+	Duration
+	(04/2008) – (04/2010) 
+	
+
+	Team Size
+	14
+	Module: SD, MM, COPA,  FI, PM
+
+	Environment
+	SAP BI 7.0, SAP ECC 6.0
+	
+
+
+Project Description 
+
+One of the most recognized brand names in the world of Tube and laminate business today, Essel Propack Ltd. (Essel Group), India, established its operations in 1982, focusing on the production, sales and marketing of Essel Products across the globe. In a span of 27 years Essel Propack has exemplified the quest for excellence in the world of Lamitubes and Plastic Tubes becoming the world’s No 1 lamitube product brand. With relentless commitment to quality, consistent dedication to customer satisfaction and unparalleled standards of service, Essel Propack is recognized as a benchmark for new age technology, superior quality and personalized service that has ensured loyal customers and nationwide acclaim in the industry.
+
+The project involves the BI implementation/support across all of the countries for SAP FICO, SD, MM, APO and PM modules along with interfacing with the client/vendor systems using SAP PI. The enhancement includes the development of new reports, performance optimization and information broadcasting. 
+
+Responsibilities
+
+As an active team member my responsibilities includes:
+
+1. Extensively involved in extraction of data by customizing predefined extract structures (LO Cockpit) and Generic Data Sources.
+
+2. In Logistic Extraction Cockpit: Maintained extract structures for purchasing, Inventory and Sales & Distribution (Sales, Delivery, Pricing and Shipping).
+
+3. Worked on Data Sources for SD, MM and involved in Business Content Enhancement.
+
+4. Involved in extracting data from SAP R/3 by generating Generic Data Sources (Tables/Views/Function Modules).
+
+5. Monitoring of the process chains and analyzing the reasons for the frequent failures of the processes.
+
+6. Gathered requirements, designed cube/Operational Data Store (ODS) architecture, created custom Info Sources for master and transaction data from legacy system, created ODS objects, cubes and multi-cube and wrote queries.
+
+7. Created custom info objects, characteristics and key figures. Involved in creation of custom Info areas, Info Cubes.
+
+8. Used generic extraction (RSO2) to extract data from SAP R/3 to BW.
+
+9. Loaded transactional data into PSA and updated data from PSA to ODS and Activated ODS for reporting.
+
+10. Developed ODS object to load Sales Order Data, Sales Delivery data from the Info Sources. Defined the update rules. 
+
+11. Involved in Creation of reports using BEx browser and executed the report by using Free Characteristics, Restricted Key figures, calculated key figures, Variables, Exceptions and Conditions.
+
+12. Extracted SAP R/3 master and transaction data. Loaded data from the external file system, flat files. 
+
+	12. Project Name:
+	1-Key(BI-Tool)
+	
+
+	Client
+	Essel Propack Ltd.
+	
+
+	Role
+	Member of Implementation Team
+	
+
+	Organization
+	Essel Propack Ltd.,Mumbai
+	
+
+	Team Size
+	4
+	
+
+	Environment
+	ASP.NET, Vb. NET, SQL Server 2000, Windows XP.
+	
+
+
+Project Description 
+
+1-Key is a BI tool implemented by MAIA-Intelligence. This tool generates different kind of reports like Cube, View, and Chart. It has the scheduler to send the reports to our customers.
+
+	13. Project Name:
+	CFORMS
+	
+
+	Client
+	Essel Propack Ltd.
+	
+
+	Role
+	Programmer, Database Designer
+	
+
+	Organization
+	Essel Propack Ltd.,Mumbai
+	
+
+	Team Size
+	3
+	
+
+	Environment
+	ASP.NET, vb. NET, SQL Server 2000, Windows XP
+	
+
+
+Project Description 
+
+Essel Propack has seven units in India. The Project is implemented to help out the total Receivable and outstanding data for each financial year and unit. User has to enter the details of CForm received from the client. User can send the details to the client also.
+
+	14. Project Name:
+	Graphics Planning Software
+	
+
+	Client
+	Essel Propack Ltd.
+	
+
+	Role
+	Programmer, Database Designer
+	
+
+	Organization
+	Essel Propack Ltd.,Mumbai
+	
+
+	Team Size
+	3
+	
+
+	Environment
+	ASP.NET, vb. NET, SQL Server 2000, Windows XP
+	
+
+
+Project Description 
+
+This web application is used by the graphics as well as marketing department. Our clients send the bromides (raw pictures) of their product to marketing dept and they send it to graphics department for designing. For it the web site generates an Artwork-Reference Form. It also provides a unique ref no. on the basis of customer code, product code, product type and no. of updation of the form. After filling the form marketing people send it to the respective graphics department of all units for designing the layout of the product..
+
+Personal Details
+
+	Name
+	Ajay Kumar Seth
+
+	Email Id
+	Seth.
+
+HYPERLINK "mailto:Seth.mailbox@gmail.com"mailbox
+
+HYPERLINK "mailto:Seth.mailbox@gmail.com"@
+
+HYPERLINK "mailto:Seth.mailbox@gmail.com"gmail
+
+HYPERLINK "mailto:Seth.mailbox@gmail.com".
+
+HYPERLINK "mailto:Seth.mailbox@gmail.com"com
+
+	Location
+
+	#404,3rd floor, 4th Main,NGR Layout,Roopena Agrahara, Bangalore 560068
+
+	Contact Number
+
+	Mobile : +91 9886784188
+
+
+I hereby declare that above mentioned details are correct and complete to the 
+
+Best of my knowledge.
+
+Date:                                    
+
+Place:
+
+        
+
+
+  
+                             (Ajay Kumar Seth)
+
+Date of Birth : -
+
+PAN Card : -
+

@@ -1,0 +1,251 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENRICH CV
+
+	Bharathi Rajasekar
+Ph.No.   : +91 9962081113  
+Email ID : contactbarathi@gmail.com
+	                          
+
+
+Bharathi Rajasekar
+Ph.No.   : +91 9962081113  
+Email ID : contactbarathi@gmail.com
+
+
+
+Professional Summary:    
+
+An Oracle Application Database Administrator with 2.6 years of cumulative work experience. Good Knowledge and hands on experience in oracle Application E-Business Suite and Database.  Good working experience in various activities like Monitoring, Administration, db-refresh, Cloning, Patching within E-Business Suite.  Worked with reputed clients like Domino Printing Science UK, Carphone Warehouse,  Arrowxl, Assurant, Woodgroup.  Well versed with Oracle Application E-Business Suite DBA activities.
+Professional Experience:    
+
+· Good Knowledge on Database Architecture.
+
+· Experience in Oracle Applications releases 11i and R12 Monitoring and Administration.
+
+· Experience in 11i and R12 clones.
+· Experience in Oracle Database Administration activities.
+
+· Experience in monitoring databases using Enterprise Manager 12c.
+· Experience in Patching both Applications and Database.
+
+· Good knowledge in AD Utilities, Trace and log files.
+· Creation of table spaces, user maintenance, database security imposition by creation and granting of roles and privileges, backups (Hot/Cold) using RMAN. 
+
+· Experience in preparing health checks reports/Monitoring logs.
+
+· Knowledge in troubleshooting long running concurrent requests and Error out concurrent requests.
+· Proficient in Creating Database users and managing tablespaces.
+· Good knowledge in bouncing PROD/TEST/DEV environments.
+· Good analytical and troubleshooting skills along with communication skills.
+· Good knowledge in scheduling crontab jobs.
+· Basic knowledge in SOA activities, purging fusion tables and polar refresh.
+
+· Good knowledge in installing grid and configuring servers to grid. 
+
+· Worked with Oracle Support to resolve issues by raising Oracle Service Requests.
+Academic Profile:
+
+B.Tech(IT) with 79% from Anand Institute of Higher Technology, Chennai in Year 2014.
+Career Profile:
+· Worked as Oracle Apps DBA, deputed at Enrich IT Services Pvt Ltd, Chennai, from 04-08-2014 to 28-02-2017.
+Technical Skills:
+
+	Oracle Applications
+	11.5.10.2, R12.1.x
+
+	Database 
+	Oracle 10g, 11g
+
+	Tools 
+	SQL* Plus, SQL Developer, TOAD
+
+	Utilities
+	WinSCP, TKPROF
+
+	OS
+	RHEL,OEL
+
+
+Professional Experience:
+Project#1
+Client 
+
+: Domino Printing Sciences, UK.
+
+Project
+
+:  Support & Maintenance & Up gradation.
+
+Role 
+
+: Oracle Apps DBA 
+
+Environment 
+: Oracle Applications 11.5.10.2 Cluster and Database 11.2.0.4 – RHEL5U7      64-bit and 32bit
+Responsibilities:
+
+· Providing support on 24x7 for Production and Test & development environments.
+
+· Performed daily health checks every Day start of UK business hours.
+
+· Customer support, responding to all the Incidents and problems related to the application & database.
+· Delivery and support and maintenance services to agreed services levels.
+· Cloning from Production to TEST/Development instances.
+
+· Monitoring the file system free space and table spaces free space.
+· Monitoring Error out concurrent requests and scheduling concurrent requests.
+
+· Changing apps and frontend user passwords using FNDCPASS.
+· Performed DB refresh from PROD to TEST and DEV systems based on the client requirement.
+
+· Deploying Codes as requested by customer.
+· Administration of Concurrent Managers and Concurrent Processing.
+· Troubleshooting and handling user requests.
+
+· Creating users and assigning Responsibilities.
+
+· Performing Patch analysis and applying patches
+· Relink the executables and Running autoconfig based on the request.
+· Compile the JSP files and grnerate forms and reports usind adadmin.
+· Monitoring the alert log and trace files to monitor the day-to-day DBA activities.
+
+· Working with Oracle support for resolving issues.
+
+Project#2
+Client 
+
+: Carphone Warehouse UK
+
+Project
+
+: EBS R12 Support and Migration
+
+Role 
+
+: Oracle Apps DBA
+Environment
+
+: Oracle E-Business Suite (R12.1.3), Database (11.2.0.1) – RHEL6 64-bit
+Responsibilities:
+
+· Performed daily health checks of Production instance.
+
+· System Administration duties. 
+· Performed weekly DB refreshes and Application clones.
+· Bounce Services during  Maintenance window.
+· Tracked invalid objects, compiling and validating the invalid objects.
+
+· Applying patches for fixing bugs in the applications, performing patch analysis and making the document before applying patches. 
+· Creating Application Users & Responsibilities and also in retiring the users & responsibilities.
+· Deploying Codes as requested by customer.
+· Troubleshoot issues, creating and handling of SRs using Oracle Support.
+
+· Monitoring the alert log and trace files to monitor the day-to-day DBA activities
+Project#3
+Client 
+
+: ArrowXL – Fusion Middleware Managed Support
+Project
+
+: EBS R12 Support & Maintenance
+Role 
+
+: Oracle Apps DBA
+Environment
+
+: Oracle E-Business Suite (R12.0.4), Database (10.2.0.4) 
+Responsibilities:
+
+· Performed daily health checks of Production instance.
+· Day-to-day administration and maintenance of databases and oracle applications.
+
+· Interaction with Oracle Support Services to resolve mission critical issues.
+
+· Monitoring Mails.
+· Good knowledge in performing polar refresh and connection pool refresh.
+· Performing Scheduled activities like fusion bounce, fusion tactical bounce.
+
+Project#4
+Client 
+
+: Assurant
+Project
+
+: EBS R12 Support & Maintenance
+Role 
+
+: Oracle Apps DBA
+Responsibilities:
+
+· Mail Monitoring.
+
+· Patching.
+
+· Interaction with Oracle Support Services to resolve mission critical issues
+
+· Performing General/User requests from End Users
+
+Project#5
+Client 
+
+: Woodgroup
+Project
+
+: EBS R12 Support & Maintenance
+Role 
+
+: Oracle Apps DBA
+Responsibilities:
+
+· Mail Monitoring.
+· Monitoring database through grid.
+· Performing daily health checks.
+Declaration:
+I hereby declare that the information furnished above is true to the best of my knowledge. I am also confident of my ability to work in a team.
+
+
+

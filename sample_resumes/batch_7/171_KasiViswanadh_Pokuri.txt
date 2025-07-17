@@ -1,0 +1,250 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KasiViswanadh. Pokuri                                                E-Mail :dwh.viswanadh@gmail.com
+
+                                          
+
+
+
+            Phone : +91-9032944326
+
+Professional Summary:
+· Around 6.2  years  of IT and  relevant experience  in SAP BO/BI.
+· Experience  in Tableau 8.2/10.1.
+· Using Tableau versions (10.1 and 8.2) as a front-end BI tool and MicroSoft SQL Server 2012 as a back end database designed and developed workbooks, dashboards, global filter page, and complex parameters based calculations.
+
+· Exclusive Experience in SAP Business Objects 4.0, Releases XI R3.0/3.1/4.0 with Universe/ Information Designer tools,Launch pad/Info view, Web Intelligence, Webi Rich Client, Dashboard Designer, Central Management Console (CMC), Query as a Web Service(QaaWS), Live Office, BI Web Services(BIWS) and   Promotion Management/LCM Tool.
+· Exclusive Experience in SAP BW connectivity with Universe/ Information Designer tools and Business objects Launch pad/Info view using the SAP Integration Kit.
+· Expertise in Business Explorer Suite - BEx Query Designer, BEx Analyzer.
+
+·  Good Knowledge in SAP BI 4.0, BO XI R3.1/3.0 and BW 7.0/7.3.
+· Experience in using Information design tool (IDT), to create universes using multiple Data Sources.
+
+· Created connections to BEx queries and BW Info providers using Business Intelligence Consumer Services (BICS) in IDT.
+· Experience in Designing/Developing Universes, Developing Canned/Ad-hoc Reports, Scheduling of reports.
+
+· Experience in BusinessObjects Reporting using, WEBI Rich Client 4.0, Live Office and Xcelsius for both SAP and Non SAP sources.
+· Analyzing, designing, building, maintaining, and testing reports and universes while working directly with end-users and technical members of a data warehouse team.
+
+· Used Live Office and QAAWS (Query as a Web Service) to feed live data into Dashboards. 
+
+· Providing guidelines and best practices for reports and Dashboard  creations.
+· Documenting universe and report design and related metadata, including automation of documentation.
+
+· Knowledge in migrating reports and OLAP universes from BO XI R3 to SAP BO 4.0
+· Experience in converting reports from Desktop intelligence to Web intelligence reports using Report Conversion Tool.
+· Excellent analytical, time management, interpersonal skills and a good team player with excellent oral and written communication skills
+Work Experience
+· Working as a Sr. Software Engineer with ACCENTURE , Hyderabad from July 2015 to till date.
+· Worked as a Sr. Software Engineer with WIPRO Technologies, Hyderabad from June 2011 to June 2015.
+
+Technical Skills:
+· BI Tools
+
+
+:  SAP Business Objects 4.1/4.0, XI R3.1/3.0.
+Dashboard Designer, Live-Office, BEX-Query             Designer, BEX-Analyzer and SAP BI/BW 7.0/7.3
+· Data Base
+
+
+:  Oracle-8i/9i, BW, SQL  Server 2008 R  
+
+· Visualisation Tools 
+
+: Tableau , Dashboard Designer
+· Operating System
+
+:  Windows 7, XP. 
+
+· Programming languages
+:  C, C++, Java and sql
+· Products 
+
+
+: BOBJ, SAP BW 7.0/7.3, Microsoft Office
+Project Experience:
+	Project #3
+	Project Name: Farmers Insurance
+
+	Client
+	 Zurich
+
+	Role
+	BO and Tableau Developer
+
+	Organization
+	Accenture
+
+	Duration
+	Jul 2016 to till date.
+
+	Environment
+
+ (With skill versions)
+	Database: SQL Server 2008
+
+Tools: SAP BI 4.1 and Tableau 8.2
+
+
+Description:
+
+Farmers Insurance Group (informally Farmers) is an American insurer group of automobiles, homes and small businesses and also provides other insurance and financial services products.Farmers Insurance has exclusive and independent agents. Farmers insurances are three reciprocal insurers or inter-insurance exchanges (Farmers Insurance Exchange, Fire Insurance Exchange and Truck Insurance Exchange) owned by their policyholders. The Farmers Exchanges, directly or through their subsidiaries and affiliates, offer homeowners insurance, auto insurance, commercial insurance, and financial services throughout the United States.
+
+Responsibilities:
+
+· Understand the Requirements and Functionality of the application from specifications.
+
+· Involved in creating database objects like tables, views, procedures using T-SQL to maintain data efficiently.
+
+· Building, publishing customized interactive dashboards, report scheduling using Tableau server.
+
+· Created action filters, parameters and calculated sets for preparing dashboards and worksheets in Tableau.
+
+· Developed Tableau workbooks from multiple data sources using Data Blending.
+
+· Hands on building Groups, hierarchies, Sets to create detail level summary reports and Dashboard using KPI's
+
+· Designed, developed, tested, and maintained Tableau functional reports based on user requirements.
+· Verifying impact/defect analysis on the exsting universes and reports.
+
+· Defect fixing and updating the HLD documenets for the defects.
+
+· Created new universes, objects, classes, filters and conditions
+
+· Created complex, medium and simple Web Intelligence reports.
+· Prepared Universe and Report string test cases.
+
+· Reviewd Universes and reports which are one by team members.
+
+	 Project #2
+	Project Name: USFP R&I
+
+	Client
+	NG
+
+	Role
+	BO Developer
+
+	Organization
+	Wipro
+
+	Duration
+	Feb2012 to Jun 2015.
+
+	Environment
+
+ (With skill versions)
+	Database: BW
+
+Tools: SAP BI 4.0,BI 7.3
+
+
+Description:
+
+National Grid is international Electricity and Gas Company and one of the largest investor-owned energy companies in the world. NG play a vital role in providing energy to millions of customers across the northeastern U.S. and Great Britain in an efficient, reliable and safe manner. NG has chosen to utilize these Universes for reporting purposes.  These delivered universes have been modified to meet business requirements.  Therefore, the standard reporting platform is Business Objects for SAP BI 4.0
+
+Responsibilities:
+
+· Created OLAP Universes using BAPI connection on top of BEX Queries.
+
+· Created Webi reports using BICS (BEX query) and Universe (UDT/IDT) sources.
+
+· Extensively worked with formatting the reports according to the user requirements.
+
+· Used business objects functionalities like breaks, sorts, alerter, hyper linking, filters and conditions.
+
+· Extensive experience in creating reports with Charts (bar chart, Pie chart…etc), Cross-tabs and Sub reports(calling through hyper link )
+
+· Created complex reports by linking data from multiple data providers.
+
+· Reporting off of live operational/real time data in Dashboards using Live Office.
+
+· Created complex dashboards which uses live office to feed the data into dashboard from the source webi reports
+
+· Handled Embedded Functions like @Prompt, and @Select in the Designer.
+	Project #1
+	Project Name: SAP Rapid Marts
+
+	Client
+	Eli Lilly
+
+	Role
+	BO Developer
+
+	Organization
+	Wipro
+
+	Duration
+	Jun 2011 – Feb 2012.
+
+	Environment
+
+ (With skill versions)
+	Database: Oracle 10g 
+
+Tools: Business Objects XIR3.1.
+
+
+Description:
+
+Eli Lilly has chosen to utilize Business Objects for reporting of SAP data once extracted from SAP via Data Services.  SAP’s Rapid Marts come with at least one pre-built universe for each Rapid Mart.  Lilly has chosen to utilize these Universes for reporting purposes.  These delivered universes have been modified to meet business requirements.  Therefore, the standard reporting platform is Business Objects for SAP Rapid Mart data.     
+
+Responsibilities:
+
+· Created complex, medium and simple Web Intelligence reports.
+
+· Created Hierarchies to facilitate drill-down in the Web Intelligence reports
+
+· Developed variables on existing results of query to customize the reports.
+
+· Extensively worked with formatting the reports according to the user requirements.
+
+· Created complex reports by linking data from multiple data providers and functionalities like Combined Queries.
+
+· Designed and developed standard reports with cross-tab and horizontal reports & charts.
+
+· Created universes, objects, classes, filters and conditions.
+
+· Involved in Detect loops and resolving loops.
+
+· Created Joins, Contexts and Aliases for resolving Loops and checked the Integrity of the Universes using Business Objects Designer.
+
+· Applied Object level, Row level and Class level security using universe Designer.
+

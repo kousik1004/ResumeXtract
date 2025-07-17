@@ -1,0 +1,173 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VENKATESAN.S
+
+ E-mail :venkatesanbeeee2008pce12@gmail.com                                                             		
+Mobile : 91 9500112053
+
+Company details :
+Company Name : HTC GLOBAL SERVICES Pvt., Ltd.,
+Start date : 21/01/2013 -(till current) 
+
+ Experience Summary
+
+About 5 years, 8 months of experience in IT with a focus on Hadoop systems, Spark, Java, DB2. My skills includes functional design, scripting, unit testing, implementation and impact analysis.
+
+ Highlights
+
+· About 5.8 years of experience in software industry having worked in Hadoop systems including spark, java, database DB2, Oracle.
+· Experience in insurance domain (Have worked with State Farm Inc.).
+· Good understanding of storage layer and processing layer of Hadoop framework. 
+· Experienced working in hadoop cluster consisting of 74 nodes
+· Good knowledge of data processing engines like Spark. 
+· Good working knowledge of Spark core (RDD) and Spark SQL (Data frames).
+· Developed spark scripts to process the datasets in HDFS as storage layer.
+· Developed Sqoop jobs to transfer data between DB2 and HDFS.
+· Developed managed and external Hive tables improvising the tuning options using functions such as Partitioning, Bucketing ,Index
+· Deep understanding on various methods to tune and optimize Hive performance. 
+· Developed HQL scripts for analysis of data in Hive tables.
+· Good understanding of oozie workflow generation and scheduling coordinators.
+· Experienced working in Agile and Waterfall delivery methodologies.
+
+Technical Summary
+
+· Domain				:	Insurance. 
+· Operating Systems		:	UNIX/LINUX, Windows
+· Scripting languages		:	Shell scripting
+· Programming languages		:	Spark, Java
+· Database			:	DB2, SQL server
+· Tools				:	putty, Spring source test suit, Eclipse
+· Big Date Ecosystem
+
+· Distribution		: 	Cloudera Distributed Hadoop
+· Ingestion		: 	Sqoop
+· SQL			: 	Hive, Spark SQL
+· Processing		: 	Spark
+· Scheduling		: 	Oozie 
+· Web Interface		: 	Hue
+
+
+
+ Engagement Overview
+
+SF.COM AUTO, FIRE Legacy
+
+Client		:	State Farm Inc.
+Role		:	Hadoop developer
+Team size	:	4
+Domain		:	Insurance
+			Technologies	:	HDFS, Spark, Hive, Oozie, Sqoop, scala
+
+Project Description:
+
+State Farm Inc, the leading insurance company in US has its AUTO, FIRE line of businesses taken care by HTC global services. The State Farm deals with two types of customers, one who is approaching the company for a quote or policy, second one is the customers who buy a property or an automobile and likely to have a business with State Farm. First category of customers falls under the category of Prospects and second ones are falling in the category of Leads.
+Through this effort of project we are loading and processing the source data in HDFS which are extracted from StateFarm.com the website. The processed data is given to the end users who are the agents of State Farm. A hive table instance is created over the processed data so that the users can use the HQLs to query the data and get the information of the customers (Leads).
+
+Roles and Responsibilities 
+
+· Actively participated in software development lifecycle (scope, design, implement, deploy, test), including design and code reviews, test development, test automation.
+· Handled heterogeneous data sources such as RDBMS, Parquet and delimited file formats.
+· Involved the history movement of data from existing RDBMS to HDFS using SQOOP, Hadoop commands with the help of FTP scripts
+· Developed Spark codes to convert the delimited files to more efficient Parquet file formats and enabled a user customizable code to extract the records from the parquet files.
+· Replaced HQL scripts with SparkSQL scripts for interactive analysis of Hive tables
+· Worked on performance optimization of ecosystems HIVE and SQOOP
+· Developed Oozie workflow to run scheduled batch cycles.
+Involved in story-driven agile development methodology and actively participated in daily scrum meetings.
+
+Hawk Eye Validator
+
+Client		:	State Farm Inc.
+Role		:	Java developer
+Team size	:	2
+Domain		:	Insurance
+			Technologies	:	Java,HBase, DB2
+
+Project Description:
+
+State Farm Inc. gets the leads and prospects information from its various sources or third party vendors. These data from various line of business has to be warehoused for the business needs, collecting the location details of the prospect and agents, time period etc. Each prospects that State farm receives has to be assigned with an agent code who is available to serve the prospects/leads.SQOOPtransfers the data from RDBMS DB2 to HBase. We needs to validate the each and every data will be perfectly loaded or else to create the html log report with data mismatches and error details.
+
+Roles and Responsibilities 
+
+· Designing and architecture of overall flow.
+· Actively participated in software development lifecycle (scope, design, implement, deploy, test), including design and code reviews, test development, test automation.
+· Developed data reader for both DB2 database and HBase ecosystem.
+· Developed html log report generator through xml data by XSL.
+· Worked in the performance tuning of the System.
+
+
+Falcon Data Transformer and Validator
+
+Client		:	State Farm Inc.
+Role		:	java-spark developer
+Team size	:	2
+Domain		:	Insurance
+			Technologies	:	core java, core spark, HDFS
+
+Project Description:
+
+The data which needs to be processed for Agents will be available in HDFS Hadoop ecosystem as parquet file format. But, we need to ensure those data which are ready to process will be valid data based on its allowed values. So, we are validating those data and moved those data into good file in parquet file format. If the data will be not passed the allowed values, we are writing those record value into bad file in parquet file format. Hence the good file will be processed by end users (Agents). Then the bad file data will be omitted or check with the sources to tune it as useful data.
+
+Roles and Responsibilities 
+· Designing and architecture of overall flow.
+· Actively participated in software development lifecycle (scope, design, implement, deploy, test), including design and code reviews, test development, test automation.
+· Developed Reader and transformers class and used Dataset effectively to data handling and validation.
+· Developed Falcon Data Validator for the Falcon Data Transformer, where the process flow will be done as expected.
+· Worked in the performance tuning of the data warehouse process.
+
+Personal Details
+
+Date of birth		:14thJune 1990							
+Nationality		:	Indian
+Sex			:	Male
+Marital Status		:	Single
+Phone			:	91 9500112053
+Email			:            venkatesanbeeee2008pce12@gmail.com 

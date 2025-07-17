@@ -1,0 +1,185 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              
+
+             
+
+
+
+
+ Pavan Jain
+
+                                                                                                    E-mail: pawanjain.iet@gmail.com
+
+        
+            Mobile: 91-9907256663      
+
+SUMMARY: 
+
+· Having 1+ year of experience in Client server applications with Java, spring technology.
+
+· Strong Technical skills in Java, J2EE (Servlets, JSP, Spring). 
+
+· Ability to learn new technologies faster.
+
+· Ability to handle multiple tasks and work independently as well as in a team.
+
+· Good team player with excellent written and verbal communication and interpersonal skills.
+
+CAREER PROFILE: 
+
+Working as Software Engineer with YESpay IT Service (India) Pvt Ltd. 
+
+(http://www.yes-pay.com/), Indore. From December 2010 to till date.
+
+SOFTWARE SKILLS:
+
+
+
+Languages       
+: C, C++, Core Java,
+
+
+Web Technologies
+: JSP, Servlets, Spring, Web Services
+
+
+Web Servers
+
+:  J-Boss.
+
+
+IDE Tools             
+: Net Beans.
+
+
+EDUCATION DETAILS:
+
+· BE in Computer from IET-DAVV Indore Dec.2009 with 73.00%.
+
+· Diploma in Computer Science from Ujjain Polytechnic College Ujjain (RGPV) with 75.86%.
+
+· 10th standard from S.S.Jain H. S. School, Ujjain (M.P Board) with 56.00%.
+
+PROJECT PROFILE: 
+
+Project#1
+
+Title
+                                   : Migrate and Integrate Merchant Reporting Portal into Storemanager 
+
+                                                from Struts to  Spring.
+
+Client      
+                       : YesPay clients (www.yes-pay.com)
+
+Description: 
+
+· Generated Merchant Settlement Report (pdf) using Jasper which will generate pdf with no.of total debit amout, no.of total credit amout,transaction type and Date.
+
+· Generated Card Scheme Wise Settlement Report (pdf) using Jasper which will generate pdf with Card, No.fo debit amount, No.of Credit amount at peritcular date.
+
+· Created List Transaction function, which will give no. of transaction has been performed on at specific date with their Transaction Id, Transaction Date, Transaction Type, and Terminal Id & Card Number by which transaction has been performed.
+
+· Created List Batches function, which will give no. of transaction has been performed by Merchant with their Agents. It will also give Terminal Id and date by which transaction has been performed.
+
+Project#2
+
+Title
+ 
+
+            : Facebook merchant APIs.
+
+Client  
+
+
+            : YesPay clients (www.yes-pay.com)
+
+Description: 
+
+
+· Created FacebookMerchantAPIs for add ProductCategory, ProductGroups, Products, delete ProductCategory, ProductGroups, Products, update ProductCategory, ProductGroups, Product, get Order, update Order, cancel Order, update OrderDetails and get TopSellingProduct.
+
+· Created APIs for import and export csv file for the merchant.
+
+· Created Order Notification Process which will generate pdf file for merchant with their Order Details and send back that pdf  file to notify merchant regularly at specific time.
+
+Project#3
+
+Title
+ 
+
+            : Billing & Admin.
+
+Client  
+
+
+            : YesPay Canada’s clients (www.yes-pay.com)
+
+Description: 
+
+
+· Created export function for List Transaction reports , which will give no. of transaction has been performed on at specific date with their Transaction Id, Transaction Date, Transaction Type, Terminal Id & Card Number by which transaction has been performed.
+
+· Created export function for List FCR (Financial Control Record) reports, which will give no. of transaction has been performed by Merchant with their Agents. It will also give Terminal Id and date by which transaction has been performed.
+
+ACHIEVEMETS:
+
+· OCJP certified.
+
+· Class Representative in Polytechnic College continuous 3 year.
+
+· Got 1st  Price in Dance Competition at College Level.
+
+STRENGTH :
+
+· Ability to learn quickly.
+
+· Team spirit.
+
+· Adjustable in competitive environment.
+
+PERSONAL PROFILE :
+
+Date of Birth
+                       : 08-may-1986.
+
+Father's Name                       :  Mr. Parasmal Jain.
+
+Mother's Name                      :  Mrs. Kamla Jain.
+
+Strengths
+                    :  Adaptability, Punctuality, Ability to learn new technologies faster.
+
+Activities                           :  Coordinating placement related work.
+
+Hobbies
+                       :  Net surfing, dancing.
+

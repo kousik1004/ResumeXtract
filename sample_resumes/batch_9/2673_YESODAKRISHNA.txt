@@ -1,0 +1,235 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bhuvanesh
+
+YESODAKRISHNA.N                                                                   + 91-8095146929   
+
+yashodaredhat@gmail.com
+                                                         DOB: 05-Jul-1989                                                  
+
+SUMMARY: 
+
+   Total 3+ years of IT experience in Linux Administration and from last 1.9 years I am the part of Devops engineering and development.
+Professional Experience: 
+ 
+
+
+Infosys Limited: From Feb 2016 to till date
+
+ASAP info systems from May 2015 to Feb 2016
+Technical Skills:
+	Linux
+	· Deployment of RHEL 6 , 7 & 7.3 (Atomic Host) Servers  Standalone and  PXE-Kickstart
+· Working proficiency in UNIX commands and VI editor
+
+· Users, File Permissions, ACL, Services & Process administration
+· File system, SWAP configurations
+· LVM, Software RAID Disk management
+· Packages via RPM and YUM, Patch Installations.
+
+· NFS, AutoFS, SAMBA, FTP,DNS, DHCP, Apache
+· Networking, iptables, ssh, TCP Wrappers
+
+· Job scheduling in crontab
+
+· Performance management.
+
+· Knowledge on Pace maker Cluster.
+
+· Knowledge on backup technologies like commvault
+· Working knowledge on Solaris with Basic Administration
+
+	Operating Systems
+	· Red Hat Enterprise Linux 6,7,7.3 (Atomic Host)
+· Windows Servers 2000,2003,2008
+
+· Windows 7,XP, 2000,98
+
+	Cluster (DOCKER)
+	· Experience on K8 cluster installation and configuration
+· Experience Docker registry and installation and configuration
+· Experience on Sky DNS installation and configuration
+· Experience on Dash – Board installation for K8S cluster 
+
+	Networking
+	· OSI Model and TCP/IP Design, IP and Sub netting, VLAN, Switching, Routing, NAT , DNS, SNMP and Basic Troubleshooting
+· Basic Configurations of CISCO Switches and Routers
+· SNMP Configuration and Managing network nodes.
+
+	Scripting
+	· Ansible
+· Shell (Bash scripting)
+
+
+
+	          Devops
+	· Knowledge on Jenkins installation and pipe line creation for different applications 
+
+· Knowledge in SVN installation & configuration 
+
+· Knowledge in REDIS installation  
+
+· Knowledge in JDG installation 
+
+
+Experience in INFOSYS:
+	Project Name
+	
+
+	Period [Duration]
+	Feb 2016 – Till Date
+
+	Client 
+	Government Project 
+
+	Activities
+	· Implemented  Project form the scratch in four different environment  
+· DNS installation and configuration for different domains 
+
+· VNC installations and configuration 
+
+· NTP & Chrony installation and configuration 
+
+· Squid Proxy server  installation and configuration
+
+· Send mail installation and configuration 
+
+· DHCP server installation and configuration
+
+· Knowledge on Apache configuration and installation 
+
+· Knowledge on RHDS installation and configuration 
+
+· Knowledge on Satellite server  installation and configuration 
+
+· Testing the K8S cluster health status on daily basis
+
+· Using Docker-registry to store the Docker images 
+
+· Resolving the SKY-DNS issue on priority basis  
+· Central log server installation and configuration  
+
+· User Management, Package & patches installations
+· Package management with RPMs & YUM management in Redhat Linux.
+
+· LVM, NFS Configuration and administration.
+
+· Monitoring Disks status & utilization, Performance, Connectivity, Logs, Mirror disk and cluster status of Linux Servers.
+· Interacting with DATABASE Team.
+
+· Coordinate with different vendors for providing server access.
+
+· Write scripts Ansible to automate Administrative tasks and schedule
+
+· Scheduling Backups of applications.
+
+· Administration and customization of HPOV Applications 
+
+· Monitoring & troubleshooting with performance related issues
+
+· Scheduling Oracle Export Databases Backup and restoring when required.
+· SNMP Configuration of Network Equipments and Servers to Monitor the Networking devices Real-time basis
+
+· Willing to work in 24X7 environments with rotational shifts.
+
+
+
+Education
+
+· B. Tech  from JNTU in 2011
+
+Experience in ASAP infosystems:
+
+	
+	
+
+	Period [Duration]
+	May 2015 – Feb 2016
+
+	Client 
+	US Project
+
+	Activities
+	· Incidents management using nmSys (Nagios) 
+
+· System administration, maintenance and monitoring various day-to-day Operations
+
+· Troubleshooting Booting problems and Boot loaders problems
+
+· Package management with RPMs & YUM management in Red hat Linux.
+
+· Implementing Access Control Lists (ACLs).
+· System monitoring, maintaining server logs, job scheduling
+· Managing SSH for securing the server
+
+· Resolving mount point full issues like /var, / and other application file systems
+
+· Monitoring Server processes using ps, top, Vmstat and reviewing logs for failures.
+· Administrative commands, configuration files and log files
+
+· Experience in Disk replacement
+
+· Manage user accounts, groups, hosts, file systems
+
+· Configuring the FTP server to maintain the shared folder within the organization
+
+· Configuring SAMBA (SMB), NFS.
+
+· Building Linux systems using PXE installation for Application team.
+
+· Updating OS Kernel and Patches
+
+· Troubleshooting OS Performance issues reported by application team.
+· Coordinating with Hardware, Application and Oncall teams to fix the issues and reduce the Downtime as less as possible
+
+· Writing Bash scripts to simplify the regular maintenance activities
+
+· Configuration Management using Verdad and Puppet Agent for Automation 
+· Training New members on Linux, Networking, Scripting
+
+
+PLACE : Bangalore                                                                                      Yesodakrishna N                                                                                                                                               
+
+DATE :
+

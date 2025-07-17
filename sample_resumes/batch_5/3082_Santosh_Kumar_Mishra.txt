@@ -1,0 +1,494 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MILIND
+
+Santosh Kumar Mishra
+
+Mob    : 09861793800
+
+Email: santosh.preet@gmail.com
+
+An expert in Manual, Database testing with 3.5+ years of experience across several projects and clients seeking a challenging position in an organization of repute.
+
+
+Executive Summary
+
+ SHAPE 
+
+
+
+· Expert in Manual Testing with 3 years of experience.
+
+· Currently working as Programme Analyst.
+
+· Strong knowledge in SDLC and STLC.
+
+· Having Knowledge in functional testing, Compatibility Testing and other software testing topics.
+
+· Exposure on various types of test strategies and test planning format in IEEE- 829 Format.
+
+· Writing Test scenarios based on functional specification based, use case based and screen based
+
+· Strong in Test cases writing by using Black Box technique.
+
+· Specialized in analysing the functional requirement specifications and writing test scripts.
+
+· Involved in Testing on Web-based and Window based software.
+
+· Exposure on financial and other commercial domain.
+
+· Involved in logging the bugs and reporting.
+
+· Quick learner and excellent team player, ability to meet tight deadlines and work under pressure and be productive with new technologies
+
+· Proficiency in client interaction.
+
+ SHAPE 
+
+
+
+Career Outline
+
+ SHAPE 
+
+
+
+                Currently Working with Luminous Infoways Pvt. Ltd., Bhubaneswar as Programme Analyst from  
+
+   September 2011
+
+   Worked with Lucid Infotech, Bhubaneswar as Manual Test Engineer from Dec 2008 -Aug 2011
+
+Educational Summary:       
+
+· MCA from Sambalpur University, Orissa in 2007.
+
+Technical Skills:
+
+Testing Tools                        :    Manual Testing,QTP10                                                         
+
+Languages Known                :   .NET,PHP
+
+Database
+
+
+
+:   SQL Server2005, MySql
+
+Operating Systems
+       
+:   Windows 9X/2000/XP
+
+Application Package         
+:   Proficient in MS-OFFICE
+
+Computer Hardware
+
+:   Maintenance, Assembling & Installation
+
+ SHAPE 
+
+
+
+Project Undertaken
+
+     SHAPE 
+
+
+
+Project#:1
+
+	Project Title
+	Drug Testing Unit(DTU)
+
+	Project Summary
+	The activity of State Drugs Testing & Research Laboratory can be broadly divided into following subsections.
+
+       1)Drug testing
+
+       2) Store
+
+       3)Accounts Section
+
+       4)Establishment
+
+The drug testing activity can be further sub classified into 
+
+1) Receipt of sample & withdrawal of sample
+
+2) Diary of sample
+
+3) Preservation in sample section
+
+4) Testing & submission of Test reports
+
+5) Communication for Method of analysis of Drugs
+
+6) Disposal of the sample
+
+7) Maintenance of Reference standard / Working standard
+
+	Team Size
+	5
+
+	Duration
+	February 2012 to Till Date
+
+	Solution Environment
+	· Platform-Web Application
+
+· Language: .Net
+
+· DB: Sql Server2005
+
+· Manual Testing
+
+	Role
+	Manual Test Engineer
+
+	Responsibilities
+	· Preparing the Test cases and documenting the Expected Results for the scenarios.
+
+· Defect Management
+
+· Systems Testing
+
+
+Project#:2
+
+	Project Title
+	E-Blood Bank(Blood Bank MIS)
+
+	Project Summary
+	Blood Bank MIS System is an Online Service Dedicated to the Public to provide the Stats of the Available Blood Banks in the State. It will Also include online Tracking and Trailing System of the Blood and Blood Components by the State level Administration. The Software Manages all the State level Administration. The Software Manages all the activities from Blood Collection to Issue of Blood units both from Outdoor camps & In-house Collection. It Includes Donor Screening, blood Collection, Mandatory testing, Storage & Issue of the Units. The Application Consists of 
+
+1) Collection(Physical test, questioner, Blood bag issue, Blood Collection) 
+
+2) Blood Testing
+
+3) Blood Component Separation
+
+4) Blood Stock Management
+
+5) Issue Section
+
+6) Camp Management
+
+	Team Size
+	4
+
+	Duration
+	December 2011 to  February 2012
+
+	Solution Environment
+	· Platform-Web Application
+
+· Language: PhP
+
+· DB: Sql Server 2008
+
+· Manual Testing
+
+	Role
+	Manual Test Engineer
+
+	Responsibilities
+	· Preparing the Test cases and documenting the Expected Results for the scenarios.
+
+· Defect Management
+
+· Systems Testing
+
+
+Project#:3
+
+	Project Title
+	NICE (Center Automation System)
+
+	Project Summary
+	Course and Money Receipt by Administrator. Admin have the option to view admission,Statement Report, Collection Statement Report, Total Collection Date wise Report, Total Collection Course wise Report, Total Admission Center wise Report, Total Admission Date wise Report and approve Request of book,admission,collection that is requested by
+
+Franchisee. Franchisee have the option to Send Request for book,collection,admission,course change option to admin and view all approval report.
+
+	Team Size
+	4
+
+	Duration
+	November 2011 to December2011
+
+	Solution Environment
+	· Platform-Web Application
+
+· Language: PHP
+
+· DB: Mysql
+
+· Manual Testing
+
+	Role
+	Manual Test Engineer
+
+	Responsibilities
+	· Preparing the Test cases and documenting the Expected Results for the scenarios.
+
+· Defect Management
+
+· Systems Testing
+
+
+Project#:4
+
+	Project Title
+	Smart Office
+
+	Project Summary
+	“E-Records professional “is an automated ICT Tool to manage the flow of letters, work flow of file and complete document management of any enterprise at quickest possible manner. Records including files/ letters/documents both incoming & outgoing (official/ personal) are created, stored, retrieved, sent, received and managed efficiently.
+
+Letter movement from Dairy & dispatch, File tracker & Repository of all file, documents & Letters. Various Search facilities (Document category wise, Document date range wise, program wise, Project wise, Scheme wise, file movement etc.)
+
+Access level ensures confidentiality of relevant document. 
+
+Accountability against each section
+
+No chance of missing of any letter/document/file.
+
+Less paper office
+
+
+
+	Team Size
+	4
+
+	Duration
+	September 2011 to November 2011
+
+	Solution Environment
+	· Platform-Web Application
+
+· Language: PHP
+
+· DB: Mysql
+
+· Manual Testing
+
+	Role
+	Manual Test Engineer
+
+	Responsibilities
+	· Preparing the Test cases and documenting the Expected Results for the scenarios.
+
+· Defect Management
+
+· Systems Testing
+
+
+Project#:5
+
+	Project Title
+	Financial Accounting System
+
+
+
+	Project summary
+	Financial Accounting is a windows-based application that covers vast area of financial accounting and has master section where cost centre act as Major Head, Performance Code as Minor Head which includes a set of General Ledger codes, Analysis Code as Sub-Ledger code. Taking these three into account a logical Account Structure is prepared which makes a platform on transactions can be carried out. It deals with Cash (Receipt and Payment), Bank (Receipt and Payment) and Journal vouchers like general and purchase. It also keeps information of all the departments where Cash and Bank transactions are carried out.
+
+   
+
+	Team Size
+	4
+
+	Duration
+	November2009–  February 2010
+
+	Solution Environment
+	· OS: Win XP
+
+· Language:.Net
+
+· DB: Sql Server 2005
+
+· Manual testing
+
+
+
+	Role
+	 Manual Test Engineer
+
+	Responsibilities
+	· Preparing the Test cases and documenting the Expected Results for the scenarios.
+
+· Defect Management
+
+· Systems Testing
+
+
+Project#:6
+
+	Project Title
+	MTT Transportation Management
+
+	Project summary
+	The vehicle directly goes to bagging section that checks the entry chit against the vehicle and its tare weight. Then the vehicle gets approval for loading the product. In Bagging while loading the product the loading contractors prepares Check Chart for different types of loading /unloading. After Verification of check chart one copy is submitted to the dispatch section (Bagging) and vehicle obtains entry chit go for gross weight. This application Constitutes of Several Modules,
+
+  1-Master Module.
+
+  2-Loading Module
+
+  3-Unloading Module
+
+  4-Billing Module
+
+  5-Report Module
+
+	Team Size
+	4
+
+	Duration
+	 April 2009– June2009
+
+	Solution Environment
+	· OS: Win XP
+
+· Language: .Net
+
+· DB: Sql Server 2005
+
+· Manual Testing
+
+
+
+	Role
+	Manual Test Engineer
+
+	Responsibilities
+	· Preparing the Test cases and documenting the Expected Results for the scenarios.
+
+· Defect Management
+
+· Systems Testing
+
+
+Project#:7
+
+	Project Title
+	Material Management System
+
+	Project summary
+	It is the part of an ERP package which was implemented at NSPL.For every material used in NSPL, master information is maintained. They are also categorized in Groups. The department where requirement is raised, an Indent is prepared and sent to the store department. After checking, the Indent enquiry is done for inviting quotations from different parties. The cost comparison sheet is made on received quotations. Then Purchase Order is prepared and sent to the selected vendors. When the material is received at Store, a Good Receipt Note (GRN) is maintained for Store itself. Material Requisition Slip (MRS) is placed for the issue of the materials. If any material is not found up to the quality level, then a Material Return Note (MRN) is prepared and sent to the Store. The rejected material is sent to the party. A Gate Pass is maintained for the mobilization of the material. This is of 2 types returnable and non-returnable. Loan Issue is done against the issue of machinery parts. It will be debited to the issued person and it will be deducted from store. As per the Account it will treat as Asset. After the Return of Loan that will be balanced. So for that Loan Returned will be maintained. For the adjustment of the stock, Stock Adjustment Entry is done if the related material is excess or none.
+
+	Team Size
+	6
+
+	Duration
+	Dec 2008to Feb 2009
+
+	Solution Environment
+	· OS: Win XP
+
+· Language: .Net
+
+· DB: Sql Server 2005
+
+· Manual Testing
+
+	Role
+	Manual Test Engineer
+
+	Responsibilities
+	· Preparing the Test cases and documenting the Expected Results for the scenarios.
+
+· Defect Management
+
+· Systems Testing
+
+
+
+    SHAPE 
+
+
+
+Personal Details
+
+            SHAPE 
+
+
+      
+
+Date of Birth
+
+ :
+04th July 1980
+
+Linguistic Abilities
+ :
+English, Hindi, and Oriya
+
+Marital Status
+
+ :
+Single
+
+Nationality
+
+ :
+Indian
+
+Passport No
+
+ :
+J9365881
+
+       
+
+
+
+
+
+
+
+
+Santosh Kumar Mishra
+

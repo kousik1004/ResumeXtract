@@ -1,0 +1,323 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sample Resume for an Experienced Systems Administrator
+
+Amol R. Charavande
+AT.Poast :-Pravaranagar Tal :-Rahata Dist :-Agmednagar, Maharashtra 411-033  (  Cell :- 9763369762  (  amol.charawande@gmail.com
+SYSTEMS ADMINISTRATOR
+Accomplished systems administrator with 5+ years of experience managing server infrastructures and data-center operations across multiple regions . Effectively plan, install, configure and optimize the IT infrastructure to consistently achieve high availability and performance.
+Proven ability to create and deliver solutions tied to business growth, organizational development and systems/network optimization. Skilled problem identifier and troubleshooter comfortable managing systems, projects and teams in a range of IT environments. 
+	
+	HIGHLIGHTS OF IT SKILLS
+	
+
+
+	· AD, DNS & DHCP Administration
+
+· Microsoft Cluster Managment
+· Backup Administration [ Symantec]
+· Remote Server Managment [HP,DRAC & iRMC] 
+	· Windows Patch Managnemt
+· Servers provisioning & decommission 
+· Monitoring Server helath & performance checkup [GFI Languard]
+	· L1 level support in Data Center Operations (Network /Servers/ Storage).
+
+· Responsible for configure and test any new hardware and software.
+
+· Monitoring system performance checkup
+
+
+	
+	PROFESSIONAL EXPERIENCE
+	
+
+
+CMS It services pvt ltd , Maharastra 
+IT Consultant  (6July 2017 to Till date)
+Exide Indestries Ltd  Ahmednagar 
+Systems administrator following initial consulting role. Provide Windows/ Servers helath & performance monitoring via SCOM tool. Also manage DFS, Print servers, AD/DNS, services. Managing server infrastructures and data-center operations across multiple regions (NL,BE)
+
+Key Contributions:
+· Administration of Active directory, GPO, Domain users, Administrating users and groups and given appropriate permissions and privilege to access our Domain environment.
+
+· Administration of DFS & DLs issue. Creating Home folder and Department Drives for users and assigning required permissions.
+· Perform daily cluster management tasks and troubleshoot issue with Cluster Administrator.
+· Managed exide Physical boxes SP&R process and implemaintation with the help of exide  iRMC Remote administration tool.
+
+· Monitors and maintains Windows Server operating system and additional server components.
+
+· Installation of ESX server and creation of VMs and install different guest OS.
+
+· Installation of VC server and Installing Virtual center components.
+
+· Updating ESX host’s using VMware Update manager.
+
+· Monitoring and managing performance of ESX servers and Virtual Machines.
+
+· Creation of templates from VMs and Creation of VMs from templates. 
+
+· Executes basic PowerShell or Command Shell commands.
+
+· Monitors and reviews system logs and detect and troubleshoot problems.
+
+· Perform Security Health Check of Windows servers and other compliance.
+· Controls system access and security aspects of critical systems.
+
+· Monthly check of assets against CMDB.
+
+· Daily Operating System alert handling and response.
+
+· Quarterly / half yearly password maintenance and scheduling.
+
+· Ticket Status Check and Update.
+
+· Incident Escalation and Progress Monitoring.
+
+· 3rd party vendor coordination for troubleshooting.
+
+· Writes basic technical operating system documentation.
+
+· Provides technical support and customer service directly to end users through ticketing system and periodically through screen sharing.
+
+· Participation in identification, analysis, ownership and resolution of repeat incidents leading to permanent resolution.
+
+· Works efficiently with minimal guidance from Lead administrators.
+· Data Center TPM and Site services:-Discuss the property requirements with TPM and take information about space and power and network capacity at the datacenter.
+
+· Procurement Team:-Work with procurement team for creating and submitting Purchase Orders for hardware required for project.
+
+· Procurement Approvers:-Work with property PO approvers for getting PO approved.
+
+· Hardware Supplier:-Get Dock dates from Hardware supplier vendor teams for actual delivery of hardware at Datacenter. Also request to expedite on delivery for high priority projects.
+
+· Network Team:-Work with network team for getting network related requirements ready and solve the issues if any.
+
+· Asset management:-Co-ordinate with DCS teams to get newly deployed hardware assets added under inventory tool and also to change asset data or to remove asset details for the hardware which is decommissioned from datacenter.
+
+· Continues follow-up with involved team for deployment to get work completed as per SLAs given for particular activity.
+
+· Provide daily updates to property group for the progress of deployments and discuss the problems or issues in ongoing projects if any.
+	
+	PROFESSIONAL EXPERIENCE
+	
+
+
+	Sriram Computers Shrirampure
+	
+
+
+Technical Support Engineer – –(1 1 Jan  2015 – 7  July 2017)
+Teachnical Support  following initial consulting role. Provide Windows/Networkingl. Also manage servers, Managing server infrastructures and data-center operations across multiple regions.
+Key Contributions:
+· Implement checklists, procedures and policies to ensure that operational activities have been executed according to priorities in a timely and efficient manner.
+
+· Supporting user s networking administrators over the telephone and by email.
+
+· Providing support for remote clients, monitoring network for packet drops and coordinating with remote locations for network connectivity problems using Cisco works LAN Management Solution (LMS).
+
+· Preparing Plan of Action for given scenario estimating the downtime and arranging needful for adding necessary routes on WAN and Customer LAN ends. 
+
+· Managing and coordination with vendors like TTML, Airtel and TCL for link up gradation and maintenance. Keeping track of Link Failure as well as vendor’s notifications and informing the respective site about the impending activity by respective vendor. 
+
+· Monitoring and Reporting the status of the equipment.   
+
+· Changing cables - break fix or change in requirements. 
+
+· Install the cables between the customers rack basis the instructions. 
+
+· Replacement of the faulty parts 
+
+· Networking and providing support for windows server issues
+
+· Configuration and testing of any new hardware and software
+
+· Management of the daily data backup and retrieval scheme
+
+· Installing and operating server.
+
+· Monitoring network using what’s up gold.
+
+· Basic configuration of Cisco router and Switches.
+
+· Installation of new servers and rebuilds of existing servers (both virtual and physical).
+
+· Server monitoring, optimization and security 
+
+· Backup and Disaster recovery.
+
+· Taking training sessions of new employees.
+
+· Resolved operating difficulties including system failures, network errors, and ensuring service level agreements (SLA’s) were upheld to the highest levels of quality. 
+
+· Communicate with internal and external clients on a day to day basis to provide data center and systems support services
+
+· Responds to tickets opened by routine alarms and network issues.
+
+· Makes initial outbound contact with customer to notify them of routine alarms and network issues.
+
+· Proactively monitored client’s devices to prevent SLA issues and avoid penalties.
+
+· Works with eCRM SR logging tools.
+
+· Coordinating with customer for troubleshoot through System Console.
+
+· Monitoring & reporting the status of customer equipment in Data Center.
+
+· Handling Data Center MIS, CMDB, SLA reports.
+
+· Timely escalation / response of reported problems on the basis of criticality.
+
+· Registration of faults/complaints to Centralized Helpdesk.
+
+	
+	PROFESSIONAL EXPERIENCE
+	
+
+
+	Prime Access Technologies Pvt.Ltd. Pune, Maharastra
+	
+
+
+Technical Support Engineer – –(1 July 2013 – 30 July 2014)
+Airtel Datacenter Pune-- project by Techmahindra.
+
+Teachnical Support  following initial consulting role. Provide Windows/Networkingl. Also manage servers, Managing server infrastructures and data-center operations across multiple regions.
+Key Contributions:
+· Implement checklists, procedures and policies to ensure that operational activities have been executed according to priorities in a timely and efficient manner.
+
+· Supporting user s networking administrators over the telephone and by email.
+
+· Providing support for remote clients, monitoring network for packet drops and coordinating with remote locations for network connectivity problems using Cisco works LAN Management Solution (LMS).
+
+· Preparing Plan of Action for given scenario estimating the downtime and arranging needful for adding necessary routes on WAN and Customer LAN ends. 
+
+· Managing and coordination with vendors like TTML, Airtel and TCL for link up gradation and maintenance. Keeping track of Link Failure as well as vendor’s notifications and informing the respective site about the impending activity by respective vendor. 
+
+· Monitoring and Reporting the status of the equipment.   
+
+· Changing cables - break fix or change in requirements. 
+
+· Install the cables between the customers rack basis the instructions. 
+
+· Replacement of the faulty parts 
+
+· Networking and providing support for windows server issues
+
+· Configuration and testing of any new hardware and software
+
+· Management of the daily data backup and retrieval scheme
+
+· Installing and operating server.
+
+· Monitoring network using what’s up gold.
+
+· Basic configuration of Cisco router and Switches.
+
+· Installation of new servers and rebuilds of existing servers (both virtual and physical).
+
+· Server monitoring, optimization and security 
+
+· Backup and Disaster recovery.
+
+· Taking training sessions of new employees.
+
+· Resolved operating difficulties including system failures, network errors, and ensuring service level agreements (SLA’s) were upheld to the highest levels of quality. 
+
+· Communicate with internal and external clients on a day to day basis to provide data center and systems support services
+
+· Responds to tickets opened by routine alarms and network issues.
+
+· Makes initial outbound contact with customer to notify them of routine alarms and network issues.
+
+· Proactively monitored client’s devices to prevent SLA issues and avoid penalties.
+
+· Works with eCRM SR logging tools.
+
+· Coordinating with customer for troubleshoot through System Console.
+
+· Monitoring & reporting the status of customer equipment in Data Center.
+
+· Handling Data Center MIS, CMDB, SLA reports.
+
+· Timely escalation / response of reported problems on the basis of criticality.
+
+· Registration of faults/complaints to Centralized Helpdesk.
+
+	
+	ADDITIONAL IT EXPERIENCE
+	
+
+
+Excelled in early IT career, advancing through increasingly responsible roles including:
+
+	
+	
+
+	
+	
+
+	Cache Technologies Pvt.Ltd. Pune, Maharastra
+Allied Digital Services Ltd Pune, Maharastra                                              
+   
+	Technical Support Engineer –(  10 Oct 2011 to July 2013)  
+Desktop Support Engineer- ( 10 Feb 2011 to 29 Aug 2011)
+
+
+
+	
+	EDUCATION & TRAINING
+	
+
+
+P V P Collage-  Pune University
+
+Bachelor of Arts in Economics, 2007
+
+ (CCNA)
+(MSCIT)
+
+(Computer Hardware & Networking)
+

@@ -1,0 +1,306 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vivek Buddhadev 
+Ahmedabad. 
+Mobile - 9727048248 
+vivekbdh@gmail.com 
+
+ 
+Wish to acquire great knowledge in my functional area from esteemed organization and to 
+
+achieve excellence in working as dynamic professional offering solution to business using my  
+analytical ability and efforts. 
+
+ 
+ 
+Technical expertise: 
+
+Programming Languages Java, Groovy, Perl, Bash,Javascript 
+
+Framework Spring, iBatis, Grails 
+
+Web services SOAP, RESTful Web Services 
+
+Application Server Apache Tomcat, Jetty 
+
+Databases MySQL, PostgreSQL 
+
+Operating System Windows, Linux, Ubuntu, Mac OS X 
+
+Tools and Packages GORM, Eclipse, GGTS, SVN, Apache ANT, Jasper Report, 
+GIT, Maven, Activemq, LDAP 
+
+Other Jenkins, Junit 
+
+ 
+ 
+Work Experience: 
+
+Company Name Location Post Duration 
+
+Sabse Technology Pvt. 
+Ltd. 
+
+Ahmedabad Java Software 
+Developer 
+
+July-2013 to 
+September-2015 (2 
+
+years 3 months) 
+
+Aruhat Technologies Ahmedabad Software Engineer September-2015 to 
+February-2016 (6 
+
+months) 
+
+Sophos  Ahmedabad Software Engineer March-2016 to 
+June-2017 
+
+Sabse Technology Pvt. 
+Ltd. 
+
+Ahmedabad Sr Software Engineer June-2017 to Present 
+
+ 
+
+mailto:vivekbdh@gmail.com
+
+
+Projects Undertaken​: 
+
+ 
+1. Jaxtr SIM Billing system for telephony (Travelers SIM/Business SIM) : 
+Type Web Service 
+
+Technology Java, Spring, Restlet, Jetty, Memcached 
+
+ORM iBatis 
+
+Team size 5 
+
+Database Mysql 
+
+Description Worldwide network connectivity with single number. User 
+balance maintain and call cost deduction as well as data and 
+other mobile event like SMS, Customer care number and all. 
+
+URL https://sim.jaxtr.com/ 
+
+Role My task includes following functionalities: 
+- Add / Update user balance. 
+- Live cost deduction with phone calls (collaboration with 
+
+asterisk server). 
+- Data usage cost deduction. 
+- SMS charge deduction with the details of all transaction 
+
+for our customer support team. 
+- Low Balance, User expiration Email-alert module. 
+
+ 
+ 
+2. Sabsebolo (PBX and Conferencing solution) : 
+Type Web Service 
+
+Technology Java, Spring, Restlet, Jetty 
+
+ORM iBatis 
+
+Team size 5 
+
+Database Mysql 
+
+Description Sabsebolo provides good class audio conferencing service, it 
+also offers the facility of a virtual PBX and SMS Broadcast 
+service. 
+
+URL http://sabsebolo.com/ 
+
+Role There were already some web services created. My task include 
+
+https://sim.jaxtr.com/
+http://sabsebolo.com/
+
+
+some maintenance and update the web services for getting user 
+call history and management from server database. 
+Also I created billing system for conferencing, PBX, and 
+Broadcast (voice/SMS) users, same as we have implemented in 
+our jaxtrsim. 
+
+ 
+ 
+3. Jaxtr Mobile (Openfire): 
+Type Mobile Application 
+
+Technology JSP, Servlet, Restlet, Jetty, Core java 
+
+Team size 5+ 
+
+Database Mysql 
+
+Description Jaxtr Mobile is easy to use texting mobile application and Wi-Fi 
+calling along with Jaxtr SIM functionality. Jaxtr mobile provides 
+unlimited free Jaxtr to Jaxtr calling and messaging service. 
+
+URL https://play.google.com/store/apps/details?id=com.jaxtr.jaxtrmob
+ilepaid&hl=en 
+
+Role Handling XMPP packages from client side and provide instant 
+messaging and Group chat service to the Client, and also 
+provide web interface to monitor package, logs and all. 
+Also wrote web service for update database with Push token 
+and mute status of the device. 
+
+ 
+ 
+3. Web scraper: 
+Type Java Application 
+
+Technology Java, HtmlUnit, Jsoup, JDBC 
+
+Team size 1 
+
+Database Mysql 
+
+Description Java application to scrap required URL 
+
+URL https://scrapingexpert.com/ 
+
+Role Custom Java application to scrape required URL and find useful 
+data among them and store it in the database. 
+
+ 
+
+https://play.google.com/store/apps/details?id=com.jaxtr.jaxtrmobilepaid&hl=en
+https://play.google.com/store/apps/details?id=com.jaxtr.jaxtrmobilepaid&hl=en
+https://scrapingexpert.com/
+
+
+4. Sophos iView: 
+Type Web Application (Firmware Based) 
+
+Technology JSP, Servlet, Tomcat, Core java, Perl, Bash Script 
+
+Team size 10+ 
+
+Database Postgres 
+
+Description Sophos IView is a central firmware based on premise reporting 
+solution for all the firewalls offered by the company.It gives deep 
+insights in an organization's network data by the help of 100+ 
+reports churn out from UTM and firewall logs. 
+
+URL https://www.sophos.com/en-us/medialibrary/PDFs/factsheets/so
+phos-iview-dsna.pdf?la=en 
+
+Role Planning through JIRA Agile and working on sprints. 
+Development of new features in reporting platform of the 
+company whose technology stack includes Java,J2EE,Linux 
+and Postgresql. 
+
+ 
+ 
+5. Arohi Analytics (Web UI/Web Service) : 
+Type Web UI, Web Service 
+
+Technology Grails, Java, Restlet, Spring, Active Directory, ActiveMQ 
+
+ORM GORM, iBatis 
+
+Team size 1 (Initially 2) 
+
+Database Mysql 
+
+Description Web user interface for Arohi Analytics (ANPR analytic, RLVD 
+analytic, Speed Detection analytic, Vehicle Classification 
+analytic, Wrong Parking analytic, Congestion Detection 
+analytic). 
+
+URL http://arohisystem.com/ 
+
+Role Handle request from all the above analytics in the web service, 
+process them as required (Like Integration of second level 
+analytics, suspicious vehicle check in the case if ANPR or 
+duplicate check) and store it in the database. 
+Then offer web user interface for all analytics with live view and 
+live data entry, data listing by site and camera, reports. 
+
+https://www.sophos.com/en-us/medialibrary/PDFs/factsheets/sophos-iview-dsna.pdf?la=en
+https://www.sophos.com/en-us/medialibrary/PDFs/factsheets/sophos-iview-dsna.pdf?la=en
+http://arohisystem.com/
+
+
+Also added the feature of generate challan if any suspicious 
+vehicle found (i.e. Stolen vehicle found during ANPR, Vehicle 
+with over speed or Vehicle crossed during the red light signal). 
+
+ 
+
+ 
+Special achievements: 
+
+- Selected in campus interview taken by NIIT institute, during my graduation period. 
+ 
+Personal Details: 
+
+ 
+Full Name: Vivek Mahendrabhai Buddhadev 
+Date of Birth: November 15th, 1989 
+Gender: Male 
+Marital Status: Married 
+Nationality: Indian 
+Languages known: Hindi, English, Gujarati 
+Linkedin Id: ​https://in.linkedin.com/in/vivek-buddhadev-819b0b6b 
+ 
+- Education: 
+
+Degree Year of Passing University / School Grade 
+
+M.C.A. July-2013 Gujarat Technological University 7.4 CPI 
+
+B.C.A. April - 2010 Saurashtra University 56% 
+
+H.S.C. March - 2007 Gujarat Board 56.14% 
+
+ 
+Personal Skill: 
+
+- Proven ability to adopt new technologies, methodologies and trends. 
+- Quick study and accept new challenges. 
+
+ 
+Hobbies: 
+
+- Photography, Travelling, Reading Books(Historical). 
+ 
+
+ 
+
+https://in.linkedin.com/in/vivek-buddhadev-819b0b6b
+

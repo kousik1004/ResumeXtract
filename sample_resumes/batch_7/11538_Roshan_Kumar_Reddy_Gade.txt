@@ -1,0 +1,284 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Experience Summary
+
+
+	Roshan Kumar Reddy Gade 
+
+	Mobile:+919700077676
+	, +49 15210332800
+
+
+Email id: roshan.de.ewm@gmail.com 
+	Professional Summary
+
+
+	· Ambitious and enthusiastic SAP EWM consultant with total 5 Years of IT experience with
+3 years of support experience in SAP EWM for a German client.
+· Work experience in One EWM Roll Out. Excellent skills regarding business process, system configuration, and integration services.
+
+· Excellent hands on experience in SAP EWM customizations as a part of rollout projects and production maintenance. 
+
+· Completed C1 German Language course from Goethe Zentrum, Hyderabad.
+
+· B2 Certified from Inlingua Münich.
+· Goof Recognition from client and from competitors. Have Good knowledge on automotive warehouse activities and great Analytical skills.
+· Good debugging and basic excel skills with knowledge on SAP methodologies.
+· Experience on Ticketing tools and ITIL process
+
+	
+
+
+	Technical Skills
+
+
+	Skill
+	SAP EWM
+
+
+	Topics
+
+	· SAP ERP -EWM integration
+
+· EWM Master Data
+
+· EWM Organization Data customizing
+
+· Warehouse Process Types / POSC / LOSC / WOCR creation & determination procedure
+
+· Configuring Availability Groups & Stock Types
+
+· Complex Inbound process – Unloading / GR / Deconsolidation / VAS / Final Putaway
+
+· Complex Outbound process – Wave picking / Packing / Staging / Loading / Goods Issue
+
+· Internal Movements – Stock Transfer / Adhoc Movements / Physical Inventory / Replenishment
+
+· Opportunistic and planned cross docking scenarios including Transportation Cross Docking
+
+· Yard Management 
+· Vas Activities – Inbound / Outbound / Internal Movements
+
+· Kitting – Kit to Order
+
+· Exceptional Handling
+
+· RF environment – RF menu operation
+
+
+
+
+	Skill
+	SAP MM, SD and WM
+
+
+	Topics
+
+	· SAP MM with Purchasing 
+
+· SAP SD delivery processing, Outbound process
+
+· Inbound process
+
+· Posting changes
+
+· Replenishment 
+· Basic process knowledge in WM.
+
+
+
+	Skill
+	Others
+
+
+	Topics
+
+	· Good SAP ABAP debugging skills
+
+· Work experience on IDocs.
+
+· Good with Basic Excel skills
+
+· Remedy ticketing tools.
+
+
+
+
+	Employment History
+
+
+	Company Name
+	Designation
+	Start date
+	End Date
+
+	Accenture services Pvt. LTD
+[India and Germany]
+	Software Engineering  Analyst
+	21-August-2013
+	Till Date
+
+
+	Global logic India Pvt. Ltd
+	Content Analyst
+	23 Jul 2012
+	31 May 2013
+
+
+	Education
+
+
+	YEAR
+	DEGREE
+	BOARD/UNIVERSITY
+	INSTITUTE
+
+	2010
+	MCA
+	OSMANIA UNIVERSITY,HYD
+	Lokamanya Tilak P.G collage
+
+	2007
+	BSC
+	Acharya Nagarjuna University
+	SMG collage, Guntur
+
+	2004
+	INTERMEDIATE
+	BOARD OF INTERMEDIATE EDUCATION 
+	Sarada Jr Collage, NRT
+
+	2002
+	SSC
+	BOARD OF SECONDARY SCHOOL EDUCATION 
+	St Paul’s High School
+
+
+	
+	Engagement Overview
+
+	1.Project Name
+	Sprint
+	
+	Start Date
+	Aug 2017
+
+	Client
+	BASF(Custom Shuttle process PP-WM)
+	Germany
+	End Date
+	October 2017
+
+
+	1.Project Name
+	ATLAS
+	
+	Start Date
+	Aug 2013
+
+	Client
+	BMW
+	India
+	End Date
+	April 2017
+
+
+Bayerische Motoren Werke AG commonly known as BMW is a German automobile, motorcycle and engine manufacturing company. BMW is part of the "German Big 3" luxury automakers and is best-selling luxury automakers in the world.
+
+Project Description:
+ATLAS (Advanced parTs Logistics in After Sales) is a SAP based solution for the After Sales Service parts business of BMW in NA and Europe. The main processes - material planning, procurement, price management, invoicing , Sales and shipping - are currently covered by ATLAS in combination with several interface systems.
+
+BMW’s unique requirements for its spare parts business, the SAP standard functionalities required extensive customization with the design, test and build of 1246 custom build extensions including 100 interfaces. The project - ATLAS deals with BMW specific supply chain management processes. BMW have 6 warehouses in the US and 8 warehouses in Europe which are named as regional distribution centers(RDC) operated on SAP WM and one Central Distribution center (CDC) which distributes the parts globally to RDCs operated by SAP EWM along with Dealer metropolitan distribution centers (DMDC) are covered in the project ATLAS.
+
+EWM Roll out for DMDCs:
+
+· Configuration Of complete Inbound Processes including Yard management Unloading, quality management, VAS and Final putaway. 
+· Configuration of Outbound Processes like wave management, picking, packing, loading and shipping.
+
+· Configurations of Transportation Cross Docking.
+· Identify the requirements of customized reports and preparation of the functional specification. 
+· Preparation of test scripts, responsible for unit level testing integration testing. EWM support 
+EWM support for CDC:
+· POC for Inbound operations and Cross docking and secondary contact for outbound operations in  SAP EWM Module
+
+· Primary point of contact for issues related to procurement and inbound operations to client.
+· Secondary point of contact for outbound operations.
+
+· Conducted problem analysis and communicated the proposals to onsite team from SAP during GO-Live Phase.
+· After hyper care, Involved in Second level & Third level Support of Handling Incidents (IM tickets) by users.
+· Changes to the configurations as per the customer request and moving the transport requests to production system. Handling issues raised by the end user according to their criticality level defined in the SLA
+· Creation, analyzing and proposing solutions for problem management tickets on redundant issues.
+· Conducting SAP EWM brown-bag sessions with in team and train new resources.
+EWM support for BMW warehouses:
+· Handling both support requests and change requests which require deep knowledge on Client Business process and SAP Warehouse Management and needs to be evaluated, estimated and prioritized and solved to support BMW Aftersales users activities , providing timely responses, Which also includes on-call support outside normal business hours, providing functional assistance in SAP MM and EWM domains.
+· Responsible for the production support of procurement, logistics Execution (warehouse, shipment and transportations) and Inventory Management.
+
+· Creating solution documents/User manuals in German about the functionalities of SAP Warehouse Management in BMW ATLAS.
+
+· Conducting SAP-Warehouse Management brown-bag sessions with the internal team.
+Organization: Global Logic India Pvt. Ltd
+Duration: Jul 2012 to May 2013
+
+Worked as a ABAB Code reviewer and translation of German comments, messages and errors in the customized ABAP code into English.
+
+	Personal Information
+
+
+	Name
+	Mr. Roshan Kumar Reddy Gade
+
+	Date of birth 
+	28-Jul-1987
+
+	Languages
+	English, German, Telugu and Hindi
+
+	Location
+	Hyderabad, India. Munich Germany (visa detail: EU Blue card)
+
+	Contact Number
+	+91 9700077676 +4915210332800 (I will be available in India from November 13th)
+
+
+2
+

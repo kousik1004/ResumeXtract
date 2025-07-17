@@ -1,0 +1,213 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page No: 3. SAS Developer
+			
+Shantaram Gangurde 
+Email-id: gangurde.shan@gmail.com
+Contact No: +91-9421195485
+
+Experience Summary
+· Having 3 years of Experience in SAS programming, SAS DI/BI tools and worked extensively in data    warehousing using SAS DI Studio for ETL (Extract Transformation and Load).
+· Having extensive hands on working knowledge in SAS Technology, in Data Integration, in Enterprise Business Intelligence as well as in Data Warehousing.
+· Have Working knowledge of SAS Data Integration Studio, SAS Enterprise Guide, SAS Information Map Studio SAS Web Report Studio, SAS Information Delivery Portal, SAS BI Dashboard and SAS Management Console.
+· Working Experience in various procedures like Proc Append, Proc Sort, Proc Format, Proc Export, Proc Import, Proc SQL which used in SAS BASE ETL Project, as well as some statistical procedures like Proc Freq, Proc Means, Proc Summary, Proc Transpose.
+· Extensively used Pass through facility, Hash Lookup, Parallel Processing.
+· Working Knowledge in various transformation like SCD Type2, Extract, SQL Join, Table Loader, Data Validation, File Reader, File Writer, Surrogate key Generator, Lookup in SAS DI Project.
+· Effectively Deployed and Scheduled ETL jobs in Management Console.
+· In Business Intelligence extensively used and explored in Information Map Studio to integrate the data, regularly used Web Report Studio to create the different types of daily, weekly, and yearly reports as per client requirement.
+· Effectively Scheduled and Distributed reports by using Web Report Studio, as well as Deployed reports on Information Delivery Portal.
+· Working knowledge in Project of Information Map Studio to integrate the data, Web Report Studio to create the report, Information Delivery Portal to show the report, as well as SAS BI Dashboard to create the various types of dashboards, KPI and KRI.
+· Worked on Retail, Banking and insurance domains.
+
+Qualification
+	Qualification
+	Degree
+	Year
+	Board/University
+	Percentage
+
+	Masters
+	MCA
+	2014
+	Pune University, (Pune).
+	58.21
+
+
+
+Professional Experience
+	Organization
+	From
+	To
+
+	Axionconnect infosolutions Pvt. Ltd.
+	Aug2015
+	Till Date
+
+
+
+Key Competencies & Skill
+Worked As a SAS DI Developer:
+· Responsible for Developing DI jobs using SAS DI Studio. Getting data from different sources like MS SQL Server 2003, Oracle, Excel and Flat files.
+· Register metadata for Oracle or other libraries using management console, used pass-through facility to improve performance.
+· Used different types of DI transformations like Extract, Data validation, table loader, Look-up transformation, SQL join, SCD type 2, user code written transformation, loop, surrogate key generator, splitter transformation.
+· Improved performance of job by using performance improvement techniques etc.
+· Schedule and deploy jobs, Debug jobs, Schedule in batch, performed support work for job before go live.
+
+Worked as a BI Developer:
+· Developed different types of reports using SAS WRS, SAS IMS, SAS EG, SAS IDP, and SAS BID.
+· Analyzed data from data warehouse add filters, pre-filters, joins, prompts and develop information map then create web reports from information map.
+· Used section filters, object filters, developed summary detail reports, created groups within reports.
+· Developed reports using Web Report Studio. 
+Worked as a SAS Programmer:
+· Used SAS Base, Macros, SQL, SAS Access.
+· Used parallel processing concept, Created macro to avoid iteration of code, joined tables using data steps, done grouping in data step.
+·  Used different Procedures like Proc Sort, Proc print, Proc Append, Proc datasets, Proc import, Proc export, Proc Format, Proc sql.
+
+Experience
+	Project Title
+	Reliance Nippon life insurance.
+
+	Description
+	Project is to load the data for reliance Nippon life insurance.
+
+	Role
+	I worked as a SAS DI Developer and responsibilities include:
+· Working with reliance life in BIU team.
+· Designing jobs, creating the function test plans, source to target mapping.
+· Campaign management system and Data preparation for campaign system.
+· Channel wise report preparation and agency lead conversion.
+· Model automation in sas data integration studio.    
+· Understand business logic and mappings to develop automated jobs and data marts.
+· Deploy scheduled jobs on server.
+· Develop excel and pdf reports using proc report procedure.
+· Data preparation for retention data model, upload data for campaigns, conversions, issuance and logins.
+
+	Tools
+	SAS Data Integration Studio, SAS Enterprise Guide, Oracle 10g, Windows.
+
+
+
+	Project Title
+	Implementation of Enterprise Data Warehouse & Customer Relationship Management (UBI)
+
+	Description
+	This System involved development of reporting and analysis system for banking. Resolve the difficulty of term deposit and locker related reports. To track the deposit status and deposit details and increase the performance of reporting.
+
+	Role
+	I have worked as a SAS  BI Developer and responsibilities include:
+· Identify user requirement to design and develop the reports.
+· Worked as SAS BI Developer, Responsible for Design objects into sas Information Map Studio and develop reports in to Web Report Studio.
+· Involved in Designing OLAP Cubes (Schema-Dimensions, level of table Hierarchy and Aggregates).
+· Develop Reports in Web Report Studio as a Data source.
+· Use Cascaded prompts in and filters in WRS.
+· Create Term Deposit, Locker Details Reports and Zone wise report.
+· Maintain Record work and make a proper Documentation.
+
+	Tools
+	Sas IMS, WRS, OLAP Cube Studio, IDP.
+
+
+
+	Project Title
+	Data loading for Sales Data mart.
+
+	Description
+	Project involved Import of flat files data marketing campaign information, sales data, inquiry data, survey data etc. Initially worked as a shadow resource and then worked as full time resource, responsible for developing sas code ETL and testing of Jobs.
+
+	Role
+	As a SAS ETL Developer/Programmer Responsible for
+· Developed ETL jobs using SAS code.
+· Used SAS Advance concepts like Parallel Processing, Hash Table Lookup etc.
+· Created custom function call routines, Formats.
+· Created Details and Summary Logs, incorporated different exception handling techniques
+· Used different procedures like Proc Sort, Proc Datasets, Proc Printto, Proc Append, Proc Import, Proc Export, Proc Format, Proc sql etc.
+· Used data step extensively for joining table grouping and merging etc.
+· Used SAS Macros to make code modularized, created macro variable in different ways, used macro quoting function, macro functions etc.
+· Used SAS Auto call macro libraries, %include statement to compile macro.
+· Deployed job on Windows environment and run in batch mode.
+
+	Tools
+	SAS Base, SAS/Macros, oracle10g.
+
+
+
+
+Personal Details
+	Name                       
+	Shantaram Raghunath Gangurde.
+
+	Address
+	    Plot No 101 flat no 5 Maya building sher-e-Punjab Andheri East (400093).
+
+	Permanent Address
+	    At-Harsul, Post-Dugaon, Tal-Chandwad, Dist-Nashik (423104).
+
+	Date Of Birth          
+	06th June 1990.
+
+	Language Known
+	English, Hindi, Marathi
+
+	PAN
+	ASHPG4969R
+
+	Passport
+	M5638215.
+
+	Nationality            
+	INDIAN
+
+
+
+
+
+

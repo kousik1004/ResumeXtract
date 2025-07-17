@@ -1,0 +1,215 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME SNAPSHOT
+
+																		                                                	
+	                                             
+
+
+
+                         SHYAM SUNDAR S
+
+
+Synopsis: 3.5 years of experience in Database Administration and Big Data technologies like Hadoop MapReduce, Apache Spark, Hive, Sqoop, Oozie, Hbase; coupled with Big Data programming languages like Pig Latin and Scala to unearth the true value of Big Data primarily in large scale enterprise systems.
+PROFESSIONAL SUMMARY	AREAS OF EXPERIENCE
+
+Industries
+Airlines, Electrical Power
+
+Hadoop Distribution
+Hortonworks
+
+Big Data Storage & Distributed Processing
+HDFS, MR 2.0 (YARN), PIG
+Hive & Phoenix, Spark
+
+Data Ingestion Tools
+Sqoop, Flume, Kafka & NiFi
+
+Programming
+Scala, SQL, JAVA
+
+Scripting Languages
+Shell Script, Pig Latin
+
+RDBMS
+Oracle, MySQL
+
+NoSQL DB
+HBase, Elastic Search
+
+Work Flow Scheduler
+Oozie
+
+Data Visualization Tool
+Tableau, Kibana
+
+Operating Systems
+Linux, Windows XP/7/8/10 
+    
+Build Automation Tool & IDE
+MAVEN, Eclipse
+
+Monitoring Tool
+FireScope, Nagios
+
+Ticketing Tool
+ServiceNow
+
+
+
+
+
+· Proficiency in Big Data-Hadoop and its related ecosystems such as HDFS, MapReduce, YARN, Hive, HBase, Sqoop, Pig, Oozie and Apache Spark.
+· Adequate knowledge of Hortonworks Hadoop distribution and exposure to Hadoop cluster setup in cloud environment using Google Cloud Platform and cluster management through AMBARI.
+· Strong fundamental knowledge in SQL queries and Linux commands.
+· Have good knowledge in data migration from different data sources to HDFS.
+· Strong knowledge in Data Ingestion tools like Flume, Sqoop, Kafka and NiFi.
+· Generated automated Sqoop jobs through shell scripts to migrate data between Hadoop & RDBMS.
+· Experience in working as a Level 1 and Level 2 Database Administrator.
+· Successful in meeting new challenges, finding solutions to meet the needs of the clients and have effective communication skill.
+· Flexible enough to adapt new environments and face challenges with a zeal.
+EDUCATIONAL QUALIFICATION
+· B.E. Electrical and Electronics Engineering (EEE), Tagore Engineering College, Chennai - Year 2015 (74%).
+· 12th (CBSE), Kendriya Vidyalaya, IIT Campus, Chennai - Year 2011 (67%).
+· 10th (CBSE), Kendriya Vidyalaya, IIT Campus, Chennai - Year 2009 (81%).
+WORK EXPERIENCE
+· Working with Hexaware Technologies Limited, Chennai from May 2015 – Till date.
+PROFESSIONAL CERTIFICATION
+· Oracle Certified Associate (OCA) Database 11g Administrator
+ACHIEVEMENTS
+· Received ACE AWARD for recognition of individual performance and contributions towards competency, process, teamwork, customer focus and initiatives in Hexaware for Q2 2018.
+· Secured top Rating #1 in Hexaware for the project SAEI Managed Services, for outstanding contribution during annual performance reviews.
+
+
+
+
+
+
+
+PROJECT EXPERIENCE 
+
+
+HADOOP DEVELOPER | HEXAWARE TECHNOLOGIES LTD., CHENNAI | APR 2018 - TILL DATE
+
+Project		: General Electric (GE) Grid Solutions
+Environment	: Hortonworks Data Platform, Google Cloud Platform, Centos
+Tools Used	: Sqoop, Hive, Spark, Oozie, Tableau
+
+Description: 
+This project involves, ingestion of ERP data from existing Oracle database and feeding the related files to external HDFS location using Sqoop. Later, transformations and business logics are applied using Spark SQL in Hive Datawarehouse and existing Tableau dashboards are mapped to Hadoop ecosystem.
+
+Roles and Responsibilities: 
+· Importing Tables from existing Oracle system to HDFS using Sqoop.
+· Creation of external files in Hive using similar concept as in existing Oracle database.
+· Applying Business logic using Spark SQL with the help of Scala language in Hive Tables.
+· Creating managed table and storing all transformed data in functional layer.
+· Have scheduled the jobs and monitored the same using Oozie workflow controller. 
+· Pointing existing Tableau dashboards to Hive to get a visualized data from the table.
+
+
+
+HADOOP DEVELOPER | HEXAWARE TECHNOLOGIES LTD., CHENNAI | APR 2017 – MAR 2018
+
+Project		: Big Leap Platform
+Environment	: Hortonworks Data Platform, CentOS 
+Tools Used	: Hive, Sqoop, Pig, HBase and Phoenix
+
+Description: 
+Big Leap Platform is basically building up of a Data Lake by pushing data into HDFS from relational databases. This Data Lake provides an all in one central repository for converged Data platform that helps the organization integrate and analyze a wide variety of online and offline data to build strategies and implement roadmaps that assists the organization in their analytics and information ecosystem journey right from strategy definition to large scale global implementations.
+
+Roles and responsibilities: 
+· Created Sqoop jobs dynamically and ran it with help of shell script.
+· Performed Data ingestion into HDFS either in incremental mode or batch mode.
+· Aggregated, pre-computed and cleansed the data for cleaning out records with corrupt data by parsing it through PIG before loading it again into HDFS.
+· Created Data type mapping for RDBMS to Hive.  
+· Used HBase to view the data generated in the hive handler table.
+· Performed low latency queries by creating a Phoenix table on top of HBase table.
+· Stored data in Compression formats like Snappy, LZO, RC and ORC.
+
+
+DATABASE ADMINISTRATOR | HEXAWARE TECHNOLOGIES LTD., CHENNAI | AUG 2015 – MAR 2017
+
+Project		: SAEI Managed Services
+Environment	: Linux, Oracle (EXADATA), Windows Server 2012
+Tools Used	: Oracle Enterprise Manger (OEM), FireScope, ServiceNow, Nagios
+	
+Description: 
+Saudia Aerospace Engineering Industries (SAEI) Managed Services is the maintenance, repair and overhaul (MRO) division of SAUDIA airlines based in Jeddah, Saudi Arabia. SAEI involves an IT service setup to maintain their data and provide an error free process for their industry’s work flow. SAEI basically provides production and system support for their infrastructure and IT services related to it.
+
+Role and Responsibilities:
+
+· Involved in Level 1 and Level 2 DBA activities.
+· Checking the production database availability and monitoring its performance.
+· Monitoring and checking alert log file.
+· Monitoring space availability and growth of databases using OEM. 
+· Verifying success of database backups. 
+· Involved in user management and user profile monitoring on daily basis.
+· Resolving incident tickets raised on ServiceNow ticketing tool and maintain SLA.
+· Monitoring Nagios and FireScope alerts to check for issues and take corrective actions.
+· Participating in regular status meetings.
+· Conducting frequent KT sessions for junior associates and training them for their best outcome and performance.
+
+
+PERSONAL DETAILS
+
+· Date of Birth                :  7th April 1993
+· Gender                        :  Male
+· Email ID                      :  shyamsundar7493@gmail.com 
+· Mobile                         :  +919677246675
+· Marital Status              :  Single
+· Nationality                   :  Indian
+· Passport Available      :  Yes
+· Languages Known      :  Tamil, English and Hindi
+
+© Hexaware Technologies Limited. All rights reserved.
+
+               Shyam Sundar S |  Email: shyamsundar7493@gmail.com |  Mobile: +919677246675

@@ -1,0 +1,157 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHANDRAKANTH.VEMULA              EMAIL:Chandrakanth.vemula1@gmail.com
+Contact No: +91-9703557946
+	
+PROFESSIONAL SUMMARY
+
+· 4.2 years of experience in IT  industry, in Data warehousing and Business Intelligence, currently working as MSBI Developer
+· Experience in implementing end-to-end BI solutions using the MS BI stack
+· Experience with leading teams of technical resources
+· Domain Knowledge of US Education,US Health Care & US Insurance
+· Strong experience on writing Sql and T-SQL queries to fulfill business requirement.
+· Strong experience with SQL Server 2008 R2, and in SSAS/SSRS
+· Experience in SSIS Packages, extracting transforming and loading the data Knowledge on SQL Server Analysis Services-SSAS.
+· Knowledge on Cube development in SQL Server Analysis Services (DataSource/DataSourceView/Calculations/Aggregations/Partitions/Translations/Dimension Usage/Different types of Dimensions/Various ways of processing & deployments of MOLAP cube)
+· Knowledge of DWH Concepts including various Schemas, Dimensions, Facts, DWH approaches etc. Having a good Experience in Designing and Developing the SQL Server Integration Services
+· SSIS Packages with different Control Flow Tasks and Data Flow Transformations.
+· Good understanding of database design, relational integrity constraints, OLAP, OLTP.
+· Hands on experience in creating tables, views, stored procedures, indexes and functions etc.
+· Expert in designing Star and snowflake schema with Facts, Dimensions.
+· Designing and Deployment of Reports for the End-User requests using SSRS.
+
+PROFESSIONAL EXPERIENCE
+
+Currently working as MSBI Developer in I Cube IT Services Pvt. Ltd in Hyderabad from (April 2014 -till date) And Working for Client Wipro In Bangalore.
+
+SOFTWARE PROFICIENCY
+
+LANGUAGES: SQL 
+DATABASE: SQL 2008 R2 & 2012, 2014 & 2016
+MSBI TOOLS: SSIS, SSAS & SSRS
+
+ACADEMIC QUALIFICATION
+
+Completed B.E as Electrical and Electronics in 2014 at Intellectual Institute of Technology in Anantapur from JNTU Anantapur
+PROJECTS
+Project Title :
+	Project
+	: Farmers CBI
+
+	Domain
+	: US Insurance
+
+	Technology’s
+	: SQL Server 2012, SSIS, SSAS
+
+	Team Size
+	:  25
+
+	Work Duration
+	:  Oct 2017–  Till Date
+
+
+
+Description: 
+Farmers CBI is Business Intelligence system that enables the end users to analyze the data in MOLAP Cubes and reports, Here in this project we pull the data from multiple source and load it into Data warehouse Databases and top of it MOLAP cubes has been created from which we allows the end users and High level management to view the data. Agile project methodology has been followed in the project.
+Responsibilities:
+
+· Designed and Developed SSIS packages to clean and load data to data warehouse.
+
+· Extracted data from JDE (JD Edwards) and loaded into warehouse.
+
+· Requirement gathering designing creating and Enhancements of the Cubes as per the client requirements
+· Implementing the Change Request (CR’s) and tickets fixing for Release Management in MOLAP Cube.
+· Working with T-SQL Queries, Stored Procedures, Functions & Inline queries
+· After completing the CR  Buiding/Deploying and Processing of cubes on Test and UAT servers 
+· Data Analysis and sending questions to onsite/client and understanding the feedback from
+· Onsite/client and explaining same to the team for development.
+·  Designed and developed SSRS Reports as per the Client’s requirement.
+·  Interacting with onsite and in understanding the requirements.
+·  Optimized SQL queries as well as cubes to enhance performance.
+
+ Project Title:
+	Project
+	: UBC-BI
+
+	Domain
+	: Pharmaceuticals
+
+	Technology’s
+	: SQL Server 2012, SSIS, SSAS, MSCRM.
+
+	Team Size
+	:  07
+
+	Work Duration
+	:  April 2016– Oct 2017
+
+
+
+Description:
+UBC –BI is Business Intelligence system that enables the end users to analyze the data in Ad-hoc reports from MOLAP Cube. It also has a provision to view the data to an end user in a multidimensional way and to take better business decisions the target audience for this is executives and middle management, Agile project methodology will be followed in the project, Data management framework has been customized with respect to ETL requirement.
+
+Responsibilities:
+
+· Pulling the data from CRM environment to Sql Databases using ETL(SSIS) tool
+· Used different types of transformations in SSIS packages to populate the data from CRM to STG_CRM & STG_CRM to DW_CRM.
+· Working with T-SQL Queries, Stored Procedures, Inline queries
+· Design development and deployment of Molap cubes (SSAS)
+· Deployment of SSIS Packages, Databases and MOLAP cubes.
+· The packages include, a Master Package which executes a number of Child Packages which
+· include transformations like Execute SQL Task, Script Task, Execute Package Task, File
+· Connection, Derived Column, and For Each Loop
+·  Involved in extracting the data from sources like SQL Server 2008, Excel and CSV files.
+·  Involved in creation of Check points, Event handlers functionalities to SSIS packages to manage
+The packages and handling the failures. Involve in creating package configurations like XML, SQL Server Configurations and Logging using Text, XML and Windows event log 
+ 
+                                                                                   		
+
+                                                                                                   (CHANDRAKANTH VEMULA)

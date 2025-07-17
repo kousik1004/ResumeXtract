@@ -1,0 +1,192 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gaurav Kumar 
+Email : gaur539@gmail.com 
+Contact no. : +91-7259101910 
+ 
+Linkedin Profile Link:- https://www.linkedin.com/in/gaurav-kumar-70b49a124/ 
+ 
+
+OBJECTIVE 
+ 
+To become associated with a company where I can utilize my skills and establish a 
+successful career in Data Oriented role while effectively contributing to the company's 
+productivity and reputation. 
+ 
+
+WORK EXPERIENCE 
+ 
+
+Catastrophe Modeling Analyst in AIG Analytics & Services 
+(Insurance with Energy & Engineered Risk Division)                            (Since June 2017) 
+Roles :- 
+
+ Clean the data according to the requirement of tools like Risk Browser, and Global 
+Exposure Solution. These tools are used to calculate loss and premium by usin g 
+historical data. 
+
+ Model the data according to stakeholders using insurance knowledge . 
+ Analyze the Insurance Loss Values from various catastrophes and Risk using Business 
+
+Intelligence tools like MicroStrategy. 
+ Assisting the stakeholders in taking business decisions in order to minimize risks and 
+
+maximize profits by giving insights from the data. 
+ 
+
+SKILLS & ABILITIES 
+ 
+
+• Data Mining Tools: Python, SQL and Excel 
+ 
+
+• Machine Learning Algorithms: Linear Regression, logistic regression, Decision tree, 
+Random Forest, Dimensionality reduction with PCA, Clustering. 
+
+• Basic Statistics 
+• BI Tools : Working knowledge of MicroStrategy. 
+
+   
+ Projects 
+
+ 
+• Project on SMART-SHOPPING in final semester. (Embedded System) 
+
+Focus Area:- Minimize the area of supermarkets & human efforts done by customers and 
+
+shopkeepers in supermarkets. 
+
+Description :- Developed transmitter & receiver. Each product in shop will be attached with 
+RFID tag. Transmitter will be in hand of customer and customer has to tap the given 
+
+transmitter on to the product RFID tag. Transmitter will transfer the information of 
+customer and their purchased items to the receiver of billing counter as well as in 
+
+warehouse. Receiver is attached with a display in which customer information will be 
+displayed. 
+
+https://www.linkedin.com/in/gaurav-kumar-70b49a124/
+
+
+• Consumer Complaints Resolution using Random Forest. 
+Problem Statement :- Consumer complaint resolution is important to any business. We have been 
+given details consumer complaints along with whether consumer disputed with the conclusion. If 
+we are able to predict this, consumer likely disputed can be given more attention as to how the 
+complaints are handled. 
+
+Approach :- First I did some data analysis and found out which of the variables are impacting the 
+predicted result. Since this was a classification problem I tried with Logistic regression and then 
+build model with Random Forest. Random Forest gave AUC of 0.72 
+
+• To Mail or Not To Mail a customer for a service using Logistic Regression. 
+Problem Statement :- Direct mailings to a company’s potential customers – “junk mail” to many – 
+can be a very effective way for them to market a product or a service. This junk mail is really of no 
+interest to the people that receive it. If the company had a better understanding of who their 
+potential customers were, they would know more accurately who to send it to, so some of this 
+waste and expense could be reduced. 
+
+Approach :- The data were very clean in this problem but the number of variables were high and 
+with the help of data dictionary I drop some unwanted variables and another problem was in the  
+predicted variable of training dataset data were not balanced, So I used under sampling first to 
+reduce the number of samples and build the model with logistic regression and got AUC of 0.61 
+
+Hackthons Participated IN Analytics Vidhya 
+ Big Mart Sales Prediction:- Predicted the sales and got the RMSE 1147 with rank of 147 out 
+
+of 1919 participants. 
+
+ WNS Analytics Wizard 2018 :- Predicted whether an employee should get the promotion or 
+not with Fbeta score of 0.50 and topper has the Fbeta score of 0.53.  
+
+Certification 
+ 
+
+ Edvancers : Certified Data Scientist with Python 
+ Udemy      : MySQL for Data Analytics & Business Intelligence   
+
+     Awards 
+ 
+
+ Constellation Award by AIG Analytics & Services for the combined efforts as a team 
+and for demonstrating excellence collectively. 
+
+   ACADEMIC Qualifications 
+• B.E from JSSATE Bangalore 2016 in electronics & communication (VTU) 
+
+• 12
+th
+
+ from M. L. Jha Champanagar, Bhagalpur 2012 (BSEB)  
+• 10
+
+th
+ from Adwaita Mission High School 2010 (CBSE)  
+
+PERSONAL DETAILS 
+ 
+
+Father's Name: Gopal Prasad Bhagat Gender: Male 
+ 
+
+Date of Birth: 17-10-1994 Languages: Hindi, English 
+ 
+
+Current address: #510, Block b1, Sobha Aquamarine, Green Glan Layout, Bellandur, 
+
+Bangalore,560103.   
+DECLARATION  
+
+ 
+I hereby declare that the information furnished are true to the best of my knowledge. 
+
+ 
+
+Date: 10-05-2018                                                                                           Gaurav Kumar 
+Place: Bangalore 
+
+

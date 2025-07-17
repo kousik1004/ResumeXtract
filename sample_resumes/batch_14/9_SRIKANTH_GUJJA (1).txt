@@ -1,0 +1,145 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Attention: HR Manager
+
+SRIKANTH GUJJA					           Phone No: +91 8125127625    	
+							           Email ID:srikanthgujja.java@gmail.com	
+ 
+
+Personality:-
+
+My strengths include good analytical and technical skills, being an amicable team player as well as capable of taking the initiative, having a quick and short learning curve, ability to update my skills and adjust to any kind situation on-the-fly with determined commitment, dedicated and hard working.
+
+Career Summary:-
+
+· 3.6 Years of experience in Product Development of Web based applications using Java, J2EE, Spring, Hibernate and Spring REST technologies.
+· Strong knowledge in the area of J2EE patterns: Front Controller, DAO, Data Transfer Object and Model View Controller(MVC).
+· Good experience in web application development using Spring, Hibernate, Spring REST, Servlets, JSP, AngularJS, AJAX, JSON and JavaScript. 
+· Involving in Coding and implementing new enhancements for Product development.
+· Responsible for Unit Testing, Performance tuning, Bug Fixing and Client support. 
+· Expert in Issue tracking tools like EasyRedmine and JIRA.
+· Responsible for the successful roll out of product patches as a client Release Coordinator.
+· Have good communication skills, dedication, hard-working and leading activities.
+· Ability to Learn and adopt New Technologies in short time. 
+
+Professional Experience:-
+· Working as Developer in Envista Innovative Tech Services Pvt Ltd, Hyderabad from February 2016 to till date. 
+· Worked as Associate Software Engineer in Indus Business Systems Limited, Hyderabad from May 2014 to February 2016.
+Educational Qualifications:-
+
+· 2013 - B.Tech, Jawaharlal Nehru Technological University - 71.06%
+· 2009 - Intermediate, Vijwala Junior College, Siddipet - 92.5%
+· 2007 - SSC, Z P P SEC School, Arjunpatla – 85.83%.
+
+
+Technical Skills:- 
+
+Technologies                     :  Java, J2EE
+Frameworks                       :  Spring, Hibernate
+Web Technologies              :  JSP, Servlets, JavaScript, jQuery, HTML, Ajax, JSON and AngularJS
+Servers                              :  Apache Tomcat, JBoss Server
+Database                           :  Oracle, SQL Server
+IDE                                    :  Eclipse, IntelliJ IDE
+Issue Tracking Tools           : Jira, EasyRedmine 
+Logging Tools                    :  Log 4J
+Reporting Tools	      	      :  Jasper and iText
+Repositories	                   :  SVN and Git.
+
+
+
+
+Project1:-
+Product        	 : e-Protocol
+Organization	 : Indus Business Systems Limited
+Duration	 : May 2014 – February 2016.
+Team Size	 : 12
+Role		 : Associate Software Engineer
+
+Description:
+eProtocol is a suite with different modules related to research. The goal is a paperless system that automates the entire research process.
+eProtocol is a web-based application that enables principal investigators, staff and committee members to prepare, submit, review and communicate about protocols.
+e-Protocol helps to save time, enhances efficiency and eases the protocol review process.
+
+Responsibilities:
+
+· Involved in understanding functional specifications and started development by following SDLC. 
+· Designed, developed and implemented the Action classes with Struts, DAO with Hibernate, Database with Oracle and SQL Server and UI with JSP and jQuery and client side validations with JavaScript and jQuery.
+· Involved in developing Dynamic Forms Management (DFM) Tool for creating forms.
+· Responsible for the successful roll out of product patches for client releases.
+· Responsible for Unit Testing, Performance tuning, Bug Fixing and Client support. 
+
+Environment: 
+
+Technologies: Struts, Hibernate, JSP, Java Script, jQuery, SQLServer, Ajax and XML.
+Tools and Utilities:  Eclipse, Tomcat, Log4J and SVN.
+
+Project2:-
+
+Product        	 : Invoicing Tool(myShipInfo)
+Organization	 : Envista Innovative Tech Services Pvt Ltd 
+Duration	 : February 2016 to till date
+Team Size	 : 8
+Role		 : Developer
+
+Description:
+Invoicing Tool is one which takes invoice information, allows an envista employee to scrub out any credits that are not envista’s to claim, and provides reports for our accounting department to invoice our clients and business partners, and to our business partners for their own invoicing needs. Daily scrubbing will be done on the invoices based on some rules and also the envista users can manually do operations from the UI. This is useful for envista to confirm and calculate the credits based on agreement/rules defined between envista and business partners.
+
+Responsibilities:
+· Involved in understanding functional specifications and started development by following SDLC. 
+· Designed, developed and implemented the Controllers with Spring REST, DAO with Hibernate, Database with Oracle and UI with JSP and AngularJS.
+· Responsible for Development, Unit Testing, Performance tuning, Bug Fixing and Client support. 
+· Generated reports using Jasper and logging implemented with Log4J.
+· Involved in attending team discussions about product development and designing requirements related documents like HLDs and LLDs.
+
+Environment: 
+
+Technologies: Spring, Hibernate, Spring REST, AngularJS, JSP, Java Script, Oracle, Ajax and JSON.
+Tools and Utilities Eclipse, IntelliJ IDE, Tomcat Server and JBoss Server, Maven, Log4J and Git.																						                Srikanth Gujja 

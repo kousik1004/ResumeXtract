@@ -1,0 +1,297 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Warehousing & Business Intelligence Professional
+
+                                                                                
+		
+
+NITISH KUMAR
+91-8861619009
+  nit.bitmesra@gmail.com
+	
+· Nitish has 8 years of DW/BI projects experience with high proficiency in Teradata, ETL and Data Modeling.
+· Worked on several projects and has knowledge of BFSI and Telecom domain.
+· Strong SQL, performance tuning and scripting knowledge.
+· Responsible for requirement/Impact analysis, design, coding, Unit testing and review.
+· Have Data modeling experience to convert business requirement into technical mapping documents for fraud analytics.
+· Have good experience of working closely with the clients at onshore with agile philosophy and framework.
+· Lead a team of 4 members for development activities.
+
+
+
+technical skills
+	Operating Systems
+	Windows, Unix, Mac OS
+
+	Languages
+	SQL, Unix Shell scripting
+
+	Databases
+	Teradata, Oracle
+
+	Tools & Utilities
+	Erwin, Teradata, Data Stage, 
+
+
+
+Education 
+	EDUCATION
+	Master of Computer Applications (MCA) from Birla Institute of Technology, Mesra.
+
+
+
+
+Experience
+	· Cognizant Technology Solutions, Bangalore, India-- November- 2017 – Till date
+
+
+
+project Details
+	Project 
+	PSRA Track (Apple) Jan 2018- Till Date
+
+	Role
+	Senior Developer/Lead
+
+	Tools
+	Teradata, Unix, Kafka, Storm, MS Excel
+
+	Operating Systems
+	 Windows, Unix
+
+
+PROJECT DESCRIPTION: 
+
+The team is responsible for data extraction and loading and data correction for client’s care unit’s data. The source is Oracle/Mongo DB from where the data is loaded into files and stage tables till core using storm framework. The data from core is loaded though stored procedures further to semantic layer tables where the aggregated data is gathered as per the business/reporting requirements. Once the data is available to the SL layer the reports are generated further. I have worked for different tracks under PSRA project.
+1. PPI (Product Performance Index): This track is for the calculation of metrics for getting the performance of products in different geographies. I have worked on the requirement to update the metrics calculation logic. I have changed the existing procedure logic and restored the history data to get the correct metrics to the downstream. 
+2. ConnectED: Implemented data masking as part of GDPR initiative. I have changed the existing process and DDLs to send the PII data de anonymized for outbound.
+3. Morse: We have worked to capture the advisor’s information to prevent unnecessary access of customer’s data. 
+
+ROLES AND RESPONSIBILITIES: 
+
+· Worked as a modeler/developer for PPI, ConnectED, Morse and other projects in Apple care area.
+· Writing/updating the logic/mapping for incidents related to data mismatch, data correction and data loading. 
+· Doing the root cause analysis of the issue and impact assessment and analysis to check the impact of code across teams.
+· Data analysis for source published data.
+· Responsible for analysis and performance tuning of the codes having performance issues..
+· Handing the release activities and coordinating with the team for preparation of objects, release documents and loading instructions.
+
+
+
+	· Capgemini India Pvt Ltd, Bangalore, India-- December- 2014 – September 2017
+
+
+
+project Details
+	Project 
+	Nordea EDW  (CRS/FATCA) (2014 Jan – 2017 Sep) 
+
+	Role
+	Data Modeller/ ETL lead
+
+	Tools
+	Erwin, Teradata 13, DataStage, GIT, Jira
+
+	Operating Systems
+	 Windows, Unix
+
+
+
+PROJECT DESCRIPTION: 
+
+The Data Engineering core team is responsible for taking care of extracting transforming and loading data into Teradata tables belonging to the Core and Semantic layers of FDW (Financial Data Warehouse) of our banking client. The source data is extracted from mainframe systems in the form of flat files. Once the data is available in the staging zone the required transformations are carried out using Teradata stored procedures and views and loaded into the core database using a common generic framework designed to induct and enhance tables. Once the data is available to the SL layer the reports are generated further.
+The project involves extensive use of Teradata, Unix, DataStage, Jira, GIT, Tivoli scheduler tools.
+ROLES AND RESPONSIBILITIES: 
+
+· Workings as a Data modeler to get the requirement and create high level design document.
+· Also, responsible for creating mapping documents based on the inputs of Data modeler.
+· Worked on CRS/FATCA module for Nordea EDW.
+· Have done impact assessment and analysis to check the impact of code across teams.
+· Responsible for design and code review which are converted from requirement mapping document.
+· Handing the release activities and coordinating with the team for preparation of objects, release documents and loading instructions.
+
+	· IBM India Pvt Ltd, Gurgaon, India—August- 2013 – December 2014
+
+
+
+
+	Project 
+	Business Intelligence Processing (BIP) (2013 Sep – 2014 Dec)
+
+	Role
+	Teradata Application Developer
+
+	Tools
+	Teradata 13.10, Informatica, Unix, 
+
+	Operating Systems
+	 Windows, Unix
+
+
+
+PROJECT DESCRIPTION: 
+
+The team was responsible for taking care of extracting transforming and loading data into Teradata tables belonging to the EDW of the client, the data is extracted from different sources such as Oracle, Mainframe and flat files and Informatica serves as the extraction tool. Once the data is available in the staging zone the required transformations are carried out using Teradata Parallel Transporter (TPT) and loaded into the core database using a common generic framework.
+ROLES AND RESPONSIBILITIES: 
+
+· Worked as a Teradata Application Developer.
+· Getting the files from the source team in the landing area, running the Informatica mapping to load the files to staging area.
+· Using TPT scripts to load the files from stage tables to Core tables and Semantic layer tables
+· Writing modifying shell scripts to meet business requirements.
+· Performing data analysis to ensure data conformity.
+· Supporting the testers to perform SIT and UAT.
+· Completing all release related activities. 
+· Creating packages for developed codes and pushing them to GIT production deployment.
+· Preparing the release documents and supporting till the production release.
+	· Hewlett Packard GlobalSoft Ltd, Chennai, India—August- 2013 – December 2014
+
+
+
+
+	
+
+	Project 
+	DCI (Direct Customer Incident) ETL (Jun 2013 – Aug 2013)
+
+	Role
+	ETL Developer
+
+	Tools
+	DataStage designer 8.7, DataStage Director 8.7, DB2, Teradata, ERwin
+
+	Operating Systems
+	 Windows, Unix
+
+
+
+PROJECT DESCRIPTION:
+The project is to extract vehicle related data in the raw form and after transforming send them in EDW standard format. We are extracting data from DB2 as well as some raw source files as text files.
+
+ROLES AND RESPONSIBILITIES: 
+
+· To design the DataStage job to extract data from DB2 source to Teradata target
+· Requirement gathering from the client to prepare the DataStage job.
+· Understanding and analyzing the data to conform to the target standards.
+· Creation of Tables in the target database.
+· Supporting the testing cycles for SIT and UAT.
+· Handling final release activities.
+
+	Project 
+	Credit risk Data Mart Creation (Jul 2012 – Aug 2013)
+
+	Role
+	 ETL Developer
+
+	Tools
+	 Teradata 13.10, Oracle, Informatica Power center 7, Tivoli scheduler
+
+	Operating Systems
+	 Unix, Windows
+
+
+
+
+PROJECT DESCRIPTION:
+The project is to create a Data mart for the assessment of Credit Risk from the customers. The mart has to be derived from existing EDW system. The existing framework for ETL was Informatica and the database was Oracle. The target was to migrate the existing system to Teradata. The data model was created and the tables (Data mart) were created in Teradata system. Also, after the data is loaded in the mart we were extracting data from EDW and after processing sending it to SAS for scoring based on business rules. Finally, the data is sent back for reporting.
+
+ROLES AND RESPONSIBILITIES: 
+
+· Created the data mart based on the data model.
+· Converted the Informatica mapping into Teradata code (views).
+· Created tables for the target data mart.
+· Performance Tuning of queries to handle large volume of data
+· Capacity plan for database size
+· Analysis of source data for target conformity and better distribution.
+· Involved in design of staging area to implement the requirements
+· Review the Test cases prepared to complete the unit testing
+
+
+
+
+
+
+	Project 
+	MIRA (Management Information Reporting & Analytics) (Aug-2010 - Jun 2012)
+
+	Role
+	ETL developer	
+
+	Tools
+	DataStage 7.5, Teradata, Unix
+
+	Operating Systems
+	Windows, Unix	
+
+
+
+PROJECT DESCRIPTION:
+The project comprises of an EDW system which has its feeds from various source ERP-systems such as Siebel, Tribold, Kenan etc. The data is pushed to the EDW by these source systems which then follow a series of processing tasks to be loaded into EDW.
+ROLES AND RESPONSIBILITIES: 
+
+
+· Understanding requirement from the lead.
+· Designing DataStage jobs to extract and load data to target database (core and Semantic layer). 
+· Performing Unit testing for the jobs created.
+· Data analysis for the loaded data to ensure conformity.
+· Co-ordination with other teams for the dependency and production release.
+· Performing release management activities and pushing the code to versioning tool.
+· Was actively involved in all the documentation.
+
+
+
+

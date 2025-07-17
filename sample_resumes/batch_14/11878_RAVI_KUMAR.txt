@@ -1,0 +1,206 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAP BASIS Consultant
+
+
+
+RAVI KUMAR 									MOBILE: +919535884340
+SAP BASIS CONSULTANT							EMAIL: mamilla.kumar@outlook.in 
+		
+Objective
+To have a challenging career in Information Technology as a SAP Basis Consultant, by associating with an organization which gives me a chance to upgrade my knowledge, enhance my skills and be a part of team that excel in work towards the growth of the organization and gives me job satisfaction.
+Professional Summary 
+· Overall 5+ years of experience into SAP Technical and Delivery
+
+· Handled Incident Management, Service Management, Change Management and Problem Management – which may relate to overall SAP system performance / unavailability, configuration issues, Transport issues, printers issues, Backup issues, FS issues... etc..  
+
+· Performed HANA STACK upgrade from SPS10 to SPS11
+
+· Regular day to day activities on HANA systems
+
+· Start and Stop the HANA DB on both single and distributed nodes scenarios
+
+· Performed New System Builds and System Refresh 
+
+· Performed & Good working experience on SAP Systems Installations & Upgrades on various OS and DB platforms
+
+· Performed the splitting of Central Instance into ASCS servers
+
+· Experience in Production support on SAP Business Suite environments with 24*7 support
+
+· Having good exposure and experience in handling of Production Service/Server Interruption
+
+· Involved in KT’s from on-site team to handle the new project and given the support knowledge transfer to Off-Shore team members and well-playing in Technical Knowledge and Projects Knowledge Transfer sessions to the teams in various areas such as SAP Printer concepts, KERNEL Upgrade and customer Specific KT’s etc… 
+
+· Having good exposure and experience in new project transitions and nominated & appreciated as Proactive Employee by the Managers in the team
+ 
+· Provide SAP Basis administration Support, Performance monitoring & tuning, Problem analysis & Resolution, and other activities required to maintain system integrity, good performance and maximize uptime
+
+· Involved in maintenance window activities and noted as a best person in the team and involved in several Change Requests and handled Change Management activities which includes customers/client Changes such as MTW, UNIX Patching, System Refreshes, Project activities, STACK Upgrade, Oracle Upgrade, Oracle SBP, Kernel Upgrade, BR-Tools Upgrade, SPAM/SAINT, etc…
+
+· Provided off hours support for multiple business units, including team members in Europe, Malaysia, and South America
+· Also Provided On-Call support during Critical Scenario’s 
+· Activation of SQL DB trace as per the SAP recommendation in HANA
+
+· Extensively worked on System Refresh activities of ECC, DWM, SCM, SRM Systems
+
+· Monitoring Background jobs and scheduling jobs
+
+· Applying Support packages using SAINT& SPAM
+
+· Performed the kernel upgrade
+
+· Installed the SAP license for ABAP 
+
+· Performed stack upgrade by using SUM tool on ECC system
+
+Environment 
+· SAP ECC - ERP 6.0 EHP6, SAP NW 7.31, CRM - SAP CRM 7.0, SCM - SAP SCM 7.0, SRM - SAP SRM 7.0 EHP2, DWM - SAP ECC 6.0, SAP NW 7.31, EP/PI - SAP NW 7.1 EHP 1, SAP NW 7.50, 
+SOLMAN - SAP NW 702, APO - SAP SCM 7.0 SAP HANA 1. 0 Revision 122.02, SLT - SAP NW 7.4
+· SAP ECC, CRM, SCM, SRM, DWM, EP/PI, APO, SOLMAN, SAP HANA, SLT 
+·  Unix/Linux, HP-UX, Windows 
+· Oracle 10g, 11g, 12c, SAP HANA, SAP Max DB
+
+Education qualification 
+· B.Tech (E.E.E) from Jawaharlal Nehru Technological University, Anantapur 
+
+Professional Experience
+
+Worked as SAP BASIS CONSULTANT for Wipro Technologies, Bangalore from May 2012 to June 2015.
+Working as SAP BASIS CONSULTANT in Hewlett Packard Enterprise Alias DXC Technologies, Bangalore from June 2015 to till date.
+
+Project Details 
+
+1. Client EMEA & AMS Regions
+	Model of the service	:	Shared Delivery 
+	Client Details 		: 	Mondelez International, Smith-Nephew, ProConf & JABIL
+	Organisation		: 	Hewlett Packard Enterprise
+	Designation 		: 	SAP BASIS Consultant 
+	Duration 		: 	June, 2015 – till date
+Responsibilities 
+· Performing post installation steps
+· Configuring STMS configuration after system refresh in SAP system landscape 
+· Extensively worked on SAP System Refresh activities for ECC, DWM, SCM, SRM and APO Systems
+· Estimating the database growth and request additional disk space proactively 
+· Preparing the Plan for implementing support packages in DEV, QAS & PRD environment
+· Printer setup and troubleshooting issues related to SAP printing problems
+· SAP system monitoring and performance tuning and SAP System start & stop
+· MDM system monitoring and maintenance
+· Support and troubleshooting daily requests from users
+· Oracle upgrade 
+· Performed & Good working experience on Sap Systems Installations & Upgrades on various OS and DB platforms
+· Performed the splitting of Central Instance into ASCS servers
+· Experience in Production support on SAP Business Suite environments with 24*7 support
+· Having good exposure and experience in handling of Production Service/Server Interruption
+· Performed HANA Revision upgrade 
+· Experience in configurations of SAP HANA Replication and Installation of Multitenant Database Containers (MDC)
+· Performed HANA STACK upgrade from SPS10 to SPS11
+· Regular day to day activities on HANA systems
+· Start and Stopping the HANA DB on both scale out and scale up scenarios 
+· Applying Support packages using SAINT& SPAM
+· Performed the kernel upgrade
+· Installed the SAP license for ABAP & JAVA based systems
+· Adding system, Applying license, opening message with sap, downloading the software download patches 
+· Performed stack upgrade by using SUM tool of ECC systems 
+· Good exposure on SAP Printer configuration
+· Performed a lot of SAP Printer server migrations as per customer Change Request and Approvals
+
+2. Client details
+Client			: 	BP PLC 
+Organisation		:	Wipro Technologies 
+Duration			: 	May 2012 to June 2015
+Role			: 	SAP Basis Consultant
+
+Client Description 
+BP PLC is also referred as British Petroleum. BP is a British-based multinational oil company which is the third largest energy company and fourth largest company in the world, headquartered in London, England. It is one of the world’s leading international oil and gas companies. Through our work we provide customers with fuel for transportation, energy for heat and light, lubricants to keep engines moving, and the petrochemicals products used to make everyday items as diverse as paints, clothes and packaging.
+ Responsibilities 
+· Daily System checks and troubleshooting any errors 
+· Client Administration like client copy local & Remote & Export/Import
+· Importing Transport Requests in to target system using STMS
+· Configure and maintained operation modes
+· Configuring log on groups
+· Applying Support packages using SAINT& SPAM
+· Performed system refresh activities
+· DB user and SAP user administration like password updates and locking & unlocking users based on request
+· Perform Daily SAP Activity and Resolved issues
+· Monitoring and Troubleshooting of Lock Entries
+· Applying Kernel Patch Upgradation
+
+
+
+
+
+Major Activities & Achievements 
+· Client recognized and Awarded as “Certificate of Appreciation” AWARD in the year 2016
+
+· A lot of major Business and Technical Cutover change requests(CR) are handled on PRINTER’s MIGRATION and IMPLEMENTATION in Production environments for both EMEA & AMS Regions 
+
+Personal data
+Date of Birth		:	28th Nov, 1990 
+Gender			:	Male
+Marital Status		:	Single
+Nationality			: 	Indian
+
+I hereby declare that the particulars given herein are true to the best of my knowledge & belief.
+
+Date:											
+Place: Bangalore										
+(Ravi Kumar)

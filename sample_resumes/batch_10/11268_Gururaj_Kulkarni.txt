@@ -1,0 +1,373 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gururaj Kulkarni 
+
+Phone: +91-988-686-6168 | Email: gurukulmca@yahoo.com | https://www.linkedin.com/in/gurukulkarni 
+
+ 
+
+Professional summary 
+ 
+
+ 
+
+Good professional 7 years of experience in handling Java based applications built around cloud 
+
+technologies. Sound in operational activities like monitoring, troubleshooting, root cause analysis, 
+
+remediation and IT automation for real time solutions built on cloud platform. Devops activities and 
+
+constant involvement with development team for platform performance monitoring and application 
+
+scalability  
+
+ 
+
+Experience- 
+ 
+
+ 
+
+• Cloud Devops activities and application and platform maintenance and high availability 
+
+• Openshift Cloud environments for both public and private clouds 
+
+• AWS Environment and managing cloud infrastructure for application based hosting servers on 
+
+AWS 
+
+• Deployments-Releases-Configurations management 
+
+• IT automation - PUPPET, APT and GitHub, and Atlassian Products (JIRA, Bamboo, Hipchat, 
+
+Confluence ) 
+
+• Database MySQL, MS-SQL– setup, replication, administration, maintenance 
+
+• No SQL database- Cassandra- Managing Cassandra nodes and backup procedures. 
+
+• Platform and Applications availability monitoring through – native Linux Tools, SensuApp, Nagios 
+
+& New Relic, Check_mk 
+
+• Log aggregation- SPLUNK Enterprise and AWS ElasticSearch 
+
+• On Call Support with Pager duty app. 
+
+• AWS operations and instance maintenances  
+
+• Automating AWS snapshots with lambda services 
+
+• AWS – SQS and SNS service. 
+
+ 
+
+Technical Skills 
+
+Operating systems:        Windows 200x, CentOS, Ubuntu 
+
+Application/Web Servers:  Apache Tomcat, JBoss AS, nginx 
+
+Database:    MS-SQL, MySql, CASSANDRA NOSQL 
+
+Version control tool:   GitHub, Bitbucket 
+
+Monitoring Tools: SPLUNK Enterprise, SPLUNK cloud, New Relic, Pingdom, SENSU 
+dashboards, Nagios, Cassandra OpsCenter 
+
+Configuration tool:   PUPPET enterprise, Ansible 
+
+Cloud Bases Infrastructure  Amazon web services, Virtualization with VMware and Openshift   
+
+     Server orchestrations. 
+
+mailto:gurukulmca@yahoo.com
+https://www.linkedin.com/in/gurukulkarni
+
+
+Companies worked for- 
+ 
+
+ 
+
+DevOps Engineer at Act-On Software Inc. Bangalore. From October 2015 to till date. 
+
+[https://www.act-on.com] 
+
+ 
+
+Act-On. Act-On Software is a software-as-a-service product for marketing automation developed by Act-
+
+On, a company headquartered in Portland, Oregon. Built on the cutting-edge cloud technologies. 
+
+ 
+
+Roles- Being a part of DevOps team, I managed the entire cloud platform which is built on Amazon 
+
+services using Openshift orchestrations. Automated many things like Log aggregations using SPLUNK 
+
+enterprise and AWS Elasticsearch service using KIBANA. API gateway management using WSO2 and 
+
+monitoring user api tokens. Automated messages using AWS SQL and SNS. Managed CDN using AWS 
+
+Clod front. Working with Portland, OR US team for Integrations and on-call duties. 
+
+ 
+
+Senior Systems Engineer- Cloud Operations at Ignis Technologies Solutions  
+
+From March 2, 2015 to October 6, 2015.  Working for a  
+
+ 
+
+Client:  Warner Chappell music inc. USA 
+
+ 
+
+Cloud Operations Analyst at Digi International Inc. - DGII (NASDAQ), Bangalore, India.  
+
+Click here for more on Digi www.digi.com  from April-2009- To Feb-2015 
+
+ 
+
+Product-Device Cloud 
+
+Operating System:  Ubuntu 
+Architecture:  Java/J2EE 
+
+Database:   MS SQL 
+Long term storage:  Cassandra DB 
+Application Server:  Apache Tomcat 7 
+
+ 
+
+Device Cloud is a public cloud platform for device network management (some time referred as 
+
+Machine-to-Machine (M2M). It provides secure application messaging, data storage and device 
+
+management for networks comprised of wired, cellular and satellite-connected devices. 
+
+Device Cloud offers customers centralized management of gateways and connected end-
+
+devices, ease of integration via APIs and Etherios Cloud Connector, elastic scalability that grows 
+
+with the device network, commercial-grade reliability and industry-leading security policies. 
+
+Role & Responsibilities 
+
+• Monitoring the Application APDEX score which set as standard response time to requests 
+
+and taking actions of if APPDEX score taking expected time. 
+
+• Applying analytical resolutions for the issues, service disruptions with Openstack hosted 
+
+servers and regular monitoring the platform for high availability to meet the customer 
+
+SLA 
+
+https://www.act-on.com/
+https://www.google.co.in/search?biw=1920&bih=947&q=NASDAQ:DGII&sa=X&ei=oeDBVLOQDoS48gXdwoLwCg&ved=0CH8QsRUwFA
+http://www.digi.com/
+
+
+• Analyzing the servers with JVM usage, CPU load, Disk usage, network package utilization 
+
+with New relic and taking appropriate actions on the alerts so that it should not affect 
+
+the production platform 
+
+• Prepared for On-Call duty with advanced alerting systems with Pager Duty and swift 
+
+actions if required 
+
+• Log shipping to SPLUNK servers for production logs and monitoring. 
+
+• Puppetizing the production servers to configure the settings to the master-client 
+
+environments 
+
+• Working  nosql- CASSADRA nodes-Creating new nodes and working nodes backup and 
+
+restore procedures with OpsCenter monitoring tool 
+
+• Managing the Git (Bitbucket ) remote repository to create the puppet modules and 
+
+working on the operations with local servers 
+
+• Adding VM’s to openstack and with providers services and handling the network usage 
+
+• Managing the load balancer (F5- Big IP) for creating pools and irules to access the 
+
+production sites 
+
+• Preparing Internal documents for Deployment procedure and sharing this across the 
+
+other team like Test and development  
+
+• Interaction with Technical support team on variant types issues with the platform and 
+
+working on resolutions if they belongs to the hosting applications. 
+
+• Working on managing the Active directory users groups to access the hosted servers 
+
+with VPN and controlling the access to other teams 
+
+Product-m-Trak- A web based fleet management system. 
+
+ 
+Application: Developed in java and J2ee environment and data base as Mysql. 
+
+The Digi m-Trak mobile asset tracking solution provides reliable, cost-effective fleet monitoring 
+
+and management. Combining GPS technology and wireless communication with an easy-to-use 
+
+web-based management application, the Digi m-Trak system ensures constant, on-demand 
+
+access to fleet information at any time, from any place. 
+
+The main features of this product are; 
+
+Real-time vehicle location, distance traveled and speed, anywhere access to critical asset and 
+
+fleet information, GIS-enabled digital map for asset tracking, Two-way voice and text 
+communication between fleet managers and vehicles, Programmable SMS notifications for 
+predefined events and emergencies 
+
+Role & Responsibilities: 
+
+• J2EE application support with respect to clients on Jboss Application server. 
+
+• Configure and install various components and services 
+
+• Develop platform troubleshooting applications to facilitate failure isolation 
+
+
+
+• Analyzes, reviews, and alters program to increase operating efficiency or adapt to new 
+
+requirements 
+
+• Documenting all program development, logic, coding and corrections, monitoring the 
+
+application health with JMX console probe dashboard. 
+
+• Proactively solve problems and work collaboratively with remote Teams to improve the 
+
+Scalability, supportability, and sustainability of the DIGI hosted applications 
+
+infrastructure. 
+
+• Working with other teams to determine appropriate infrastructure requirements. 
+
+• Create new and update existing procedural documents (SOP's). 
+
+• Testing and deployment of software & hardware upgrades. 
+
+• Experience supporting production databases - MySQL & MS-SQL. 
+
+ 
+NIC [National Informatics Centre]:Technical associate   
+An Indian Central Govt IT department www.nic.in 
+
+From June-01-2007 to Aug-14-2008 
+Worked as for the maintenance and Support for the product CIPA [Common Integrated Police 
+Application, www.cipa.gov.in]  
+
+Role & Responsibilities 
+
+• Worked on software requirements specification to categorize as per the state created 
+requirement documents for core development team management to build the 
+application.  
+
+• Interaction with the End customers to understand the implementation of the software 
+and working on the migration process from legacy systems. 
+
+• Creating state specific page modules in the software and testing with real time existing 
+data. 
+
+• Involved in the process of Data Porting between existing and new database using 
+Microsoft SQL server. 
+
+• Maintaining the PostgreSQL, SQL database for the customers 
+ 
+ 
+Educational Qualification 
+ 
+
+MCA [Master of Computer Applications], Bangalore University 
+
+BSc Comp science, Karnataka University Dharwad 
+
+Personal Details 
+
+ 
+      Date of Birth                            : 20 July 1981 
+      Material Status                         : Married 
+
+      Nationality                               : Indian 
+      Passport No          : Z2770574 
+    USA-VISA (B1/B2)         : Valid up to 09th JAN-2024 
+
+http://www.nic.in/
+http://www.cipa.gov.in/
+
+
+       
+hereby declare that the information furnished above is complete and true the best of any 
+
+knowledge. 
+ 
+ 
+
+Gururaj Kulkarni 
+Place: Bangalore 
+ 
+ 
+
+

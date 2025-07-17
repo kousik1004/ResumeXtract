@@ -1,0 +1,218 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SATHYA RAGIREDDY
+Mobile:  +91-9008638990
+Email: sathyaakumaarr@gmail.com
+· 5+ years of experience as a SQL Server Database Administrator in the Production and Application Support.
+· Experience on 24 X 7 Production server databases.
+· Good Experience on different ticketing tools and monitoring tools.
+· Good Exposure on SQL Installations, upgrades, patches.
+· Good Experience on Import, Export, Backup, Database Monitoring tools and Application support.
+
+· Experience in all DB high availability configuration and troubleshooting.
+· Monitor SQL Error logs, Schedule tasks, eliminate blocking and deadlocks.
+
+· Having good experience on setting up and troubleshooting of Log shipping.
+
+· Automating Database Maintenance tasks by creating Jobs and Alerts.
+· Good Experience on Import, Export, Backup, Database Monitoring tools and Application support.
+· Worked closely with the development team to deliver the database components of IT solutions.
+
+· Monitoring and Troubleshooting SQL Server Performance issues.
+· Maintain documentation for future reference and customer acceptance.
+· Implementing high availability solutions using the Backup/Recovery, Log shipping, Replication, Database Mirroring and Failover Clustering.
+
+· Good debugging and problem solving skills with excellent understanding of system development methodologies, techniques and tools.
+· Strong experience in mentoring team members and writing documentation.
+
+· Willingness to relocate and ability to quickly adapt to new environments & technologies, dedicated to successful project completion with interpersonal skills
+
+· Compatible in team environment and strive to achieve the target with hard work and sincerity
+
+· Flexibility to work in different shift timing to support customers at different parts of the world. Worked with 24x7 Production control support.
+
+· Intent towards learning technologies driving a client’s business.
+
+SPECIALIZATION & KEY SKILLS:
+
+· Database
+
+
+:   SQL Server 2005/2008/2008R2/2012 and 2014.
+
+· Web Server
+
+
+:   IIS.
+
+· Packages                       
+
+:   MS-Office.
+
+· Operating System        
+:   Windows 7, 8, Windows Server 2003, 2008 and 2012.
+· Programming Language
+:   VB script.
+· Tools
+
+             
+
+:   ITSM, SALESFORCE (Ticketing Tools), SCOM (Monitoring tool).
+CERTIFICATION: 
+
+· Microsoft certified professional in Administering Microsoft SQL Server 2012 Databases (070-462).
+WORK EXPERIENCE:
+· Working as Technical consultant – SQL DBA with Info vista INDIA Software Pvt. Ltd. (Bangalore, India) from Dec 2014.
+
+· Worked as Sr. SQL Database Administrator with TECH Mahindra from Nov 2013 to Nov 2014.
+· Worked as Tech Associate with Bank Of America (Hyderabad, INDIA) from March 2009 to Dec 2012.
+ACADEMIC QUALIFICATIONS:
+
+· B.Sc  from Andhra University 
+
+Project # 1
+Client
+
+:     TEMS (INFO VISTA)
+Project
+
+:     TEMS
+Duration
+
+:     Dec 2014 to Till
+Role
+
+:     Technical Consultant – SQL DBA
+TEMS is one of the top telcom product based company and they have customers in all the regions of the World. As a technical consultant supporting customers on Server and Database related issues. We need to work on service requests which raised by clients regarding technical and database issues.
+Responsibilities:
+· Providing 24x7 support for clients.
+
+· Supporting clients in various time zones by mail, phone and remote access.
+· Worked closely with clients to provide accurate resolution.
+· Monitoring scheduled jobs and Trouble shooting maintenance jobs in weekends.
+
+· Rebuilding the indexes at regular intervals for better performance.
+· Providing application support, technical issues and analysing sytem logs and trace files.
+
+· Extensively worked on Server & Database troubleshooting.
+
+· SQL Installations and upgrades.
+· Checking the status of Backup, troubleshooting the failed backups.
+· Follow Customer Service processes as stated in corresponding instruction documents.
+
+Project # 2
+Client
+
+:     Microsoft
+Project
+
+:     Microsoft - ECIT
+Duration
+
+:     Nov 2013 to Nov 2014
+Role
+
+:     Sr. SQL Database Administrator (L3 Support)
+Enterprise Agreement and Enterprise Subscription Agreement customers can use the new Microsoft Volume Licensing Services Center (VLSC) license reservation feature located under the Subscription tab in VLSC to create, cancel, and manage entitlement adjustments. The VLSC license reservation transaction enables you to create a subscription for eligible cloud products (for which you have received a future price quote) or for additional seats of products that you have already acquired, while deferring ordering and payment until you true up or place your annual order. In addition, you 
+can place a license reservation request to migrate from on-premises assets to the cloud without a purchase order.
+Software acquired through Microsoft Volume Licensing is a software license only that gives users the right to run a Microsoft software product. Customers can save retail boxed software prices when they participate in a Microsoft Volume Licensing program. By acquiring software licenses through Volume Licensing, you pay for only the software license and not for additional materials. This single, cost-effective program can help boost organizational productivity with 24 hours a day, deployment planning services, user and technical training, and the latest Microsoft software releases and unique technologies.
+Responsibilities:
+
+· Worked as a Sr. SQL DBA with L3 Support Team that provides 24x7 production support for Microsoft.
+· Supporting more than 30 Production and Pre Production servers to ensuring their high availability.
+· Checking the status of Backup troubleshooting the failed backups and Restoration of databases.
+
+· Involved in the monthly security patching exercise in both UAT and PROD servers.
+
+· Resolving the issues related to database in stipulated time depending on the priority of the issue. 
+· Rebuilding the indexes at regular intervals for better performance.
+· Monitoring scheduled jobs and Trouble shooting maintenance jobs in weekends.
+· Experience on server Upgradation and Patching.
+
+· Created SQL Server traces using the SQL Server Profiler for optimal performance monitoring and trouble shoot the front end issues.
+· Communicating with customers for fast resolution of the issue.
+
+Project # 3
+Client  
+
+: Bank of America, U.S.A
+Role
+
+: Tech Associate (L2 Support).
+Duration
+
+: March 2009 to Dec 2012.
+Domain
+
+: Banking.
+Bank of America Merrill Lynch Corporation is a leading bank in the World. We supported the Home loans and Legal Asset Servicing Department. The global merger of Merrill Lynch with a subsidiary of 
+Bank of America Corporation additionally brings to clients an enhanced product suite of services through DSP Merrill Lynch, a pre-eminent investment banking, securities and wealth management services firm. We supported where customers can check their Bank account and Home loan details.  Maintained over 150 production MS SQL Server 2005, and 2008 standalone and SQL Cluster servers . 
+
+Responsibilities:
+
+· Installing and configuring of MS SQL 2005 and 2008.
+
+· Installing and configuring SQL Litespeed tool for SQL server backup and recovery.
+
+· Supporting major customers from USA.
+· Setting up and maintaining Log shipping, replication and SQL Stand alone servers.
+
+· Maintaining server and database level user security privileges.
+· Working with early checks reports like Backup, Rebuild Indexes and Database low space issues.
+
+· Trouble shooting maintenance jobs in weekends.
+· Attending conference calls for production releases.
+· Managing SQL Server Security, Managing Database Permissions.
+
+· Monitoring and troubleshooting the DB related issues in over servers with the help of other teams like Windows, Backup and Networking. 
+
+· Disk space Planning and Management in all the servers. 
+
+· Reviewing error logs as required to resolve errors production issues to ensure healthy running of servers. 

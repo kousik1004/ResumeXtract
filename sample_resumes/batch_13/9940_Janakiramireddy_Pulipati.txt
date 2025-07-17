@@ -1,0 +1,212 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                               
+                                  
+                                                                          Resume
+Janakiramireddy Pulipati
+Mobile No:+91-9704836439                                                                 Email:- janakiram.oracledba@gmail.com
+PROFESSIONAL SUMMARY:
+Oracle Database Administrator– Having around 2 years of experience as Oracle Apps DBA in the field of IT Industry. Competent in Oracle Administration, Backup and Recovery, Data Guard ,Oracle E-Business suite r11/12 Application Support, vast experience in using Oracle, OEL, RedHatLinux.
+SUMMARY OF SKILLS:
+· Having good knowledge on  Oracle Architecture .
+· Experience in Installation of Oracle Database 11G and 12C in Linux/Unix platforms.
+· Expertise in Installation, Maintenance, Patching, Cloning, troubleshooting and Performance tuning of Oracle Applications E-Business Suite R12.1.X/R12.2.X
+· Provided 24x7x365 System DBA on-call support for Production databases. Also supported development and test instances.
+· Creating, managing and monitoring Table space usage and space related issues.
+· Creating and managing users, assigning them with the roles and privileges.
+· Implementing Oracle Backup and Recovery using RMAN.
+· Performing logical database backups using DATAPUMP (expdp/impdp).
+· Communicated and worked proactively and reactively with practically all the groups in the organization which include management, development and testing teams.
+· Experience in configuring and troubleshooting network files such as Listener.ora and Tnsnames.ora.
+· Having Good experience in database and application cloning (Using clod and RMAN backup).
+· Having Good experience in applying application and database patches (Using adpatch(12.1.3),ADOP(12.2.4) and Opatch).
+· Experience in implementation and configuration of data guard  on Stand alone environment. 
+· Experience in up gradation of database from 11gR1 to 12c.
+· Database creation using DBCA and MANUAL methods.
+· Experience in writing shell scripts.
+· Having good strong knowledge on Linux commands.
+· Experience in installation web logic server 11g and 12c on Linux/Unix Platforms.
+· Experience in Deploying, Monitoring, Controlling & Troubleshooting of J2EE Applications including EAR,WAR,JAR,RAR files on Clusters using Admin Console & Weblogic.Deployer on weblogic servers.
+· Experience in configuring & monitoring Node Manager.
+· Experience in Creating & tuning Data Sources & connection pools in ORACLE Database.
+· Willing to acquire new knowledge and training Cross functional teams on Oracle.
+
+JOB PROFILE:
+· Working as ORACLE DBA in TechBulls Software Services Pvt Ltd, Hyderabad from 2015 Oct to  till date.
+
+EDUCATIONAL QUALIFICATION:
+· B.E at Jawaharlal Nehru Technical University (Kakinada) with an aggregate of 77%
+· INTERMEDIATE  from Narayana Junior College (Ongole).
+· S.S.C from Z.P.H.School .
+
+Technical Skills:
+· OS	                       :  RHEL 5.8/6.6, Sun Solaris 5.6, IBM AIX
+· Application Servers  : Weblogic Server 11g/12c,
+· Web Servers             : Apache
+· Database  	      :  Oracle 11g and 12c..
+· Tools     	                    :   Winscp,Putty, SSH,OEM Grid Control 11g,PL/SQL and TOAD.
+· ERP	                    :  Oracle E-Business Suite R12.1.3, 12.2.4/12.2.5
+
+PROFESSIONAL EXPERIENCE:
+
+Project Details 
+	Project
+	Period
+	Client
+	Role
+	Software/
+Hardware
+
+	Project Pinagare – Implementation and Support of ERP
+	Oct’2015 to till date
+	Botswana Housing Corporation
+	Oracle DBA – Offsite (Support)
+	Oracle E-Business Suite R12
+Oracle BI
+
+	iERP Project – Implementation &Support
+	Oct’2015 to till date
+	University of Botswana
+	Oracle DBA -  Offsite(Support)
+	Oracle E-Business Suite R12
+
+	ERP Project – Implementation &Support
+	Oct’2015 to till date
+	NBFIRA
+	Oracle DBA – Offsite(support &Implementation)
+	Oracle E-Business Suite R12
+Oracle DB 11g
+Oracle Enterprise Manager 12c Cloud Control
+Oracle Business Intelligence
+Oracle Virtual Servers
+
+	Implementation of Oracle Financials, EAM, Purchasing and Inventory
+	Oct’2015 to till date
+	Diamond Trading Company Botswana
+	Oracle DBA – Offsite(Support)
+	Oracle E-Business Suite R12
+Oracle DB 11g
+
+
+
+Employment History
+	Period
+	Designation
+	Organization
+
+	Oct’ 2015 – till date
+	DBA 
+	TechBulls Software Services Pvt. Ltd, Hyderabad, India fully subsidiary of Software Application and Information Systems (PTY) ltd, Gaborone, Botswana
+
+
+
+ROLES:
+· We have a separate ERP ticketing tool, Where issues are queued up daily. We need to pick up cases and resolve depending upon the severity of the bug.
+· Monitoring and diagnosing database performance through monitoring of alerts.
+· Daily monitoring file system growth and database table spaces growth as part of maintain activity.
+· Health checkup for PRODCUTION instances as part of Weekly Health check activity.
+· Deploy the reports (.RDF files) into servers as per users request.
+· Schedule the Cronjobs for weekly cold backups as well as RMAN backups on Daily Basis.
+· Monitoring the Cronjobs running on schedule base or not.
+· Daily Monitored the alert log files for PRODUCTION instances.
+· We frequently used Linux commands to monitor the file system space in Linux.(df –h,du –sh,free –mto,TOP,)
+· Monitored the Servers Uptime and Availability.
+· Configuring Node Manager for remote administration using Admin Console.
+· Configuring, Monitoring & tuning JDBC Connection pools, data sources for Oracle using Type 4 drivers.
+
+
+
+
+
+Oracle DBA Responsibilities:
+· Excellent troubleshooting skills to identify root causes and resolve problems related to application and systems functionality
+· creating, managing and monitoring Table space usage and deal with space related issues
+· Monitoring daily backups  and suggest the changes in backup strategy if required
+· Serving user’s requests through emails.
+· Backup database using export/import and performing data transfer across databases on different hosts.
+· Implementation of backup of the databases using RMAN.
+· Checking Alert log, trace files, listener log and other database job logs
+· User creation and providing necessary Roles, Privileges and quota as per the 
+Requirement
+· Resolving user’s day-to-day issues
+· Consistently interacted with client and team in resolving the queries
+· Taking the online and offline backups according to the manager approval
+· Checking  DB locks, resizing of table spaces, data files, allocating quota for users
+
+Apps DBA RESPONSIBILITIES:
+
+• Installation, Configuration, Patching & Upgrading Oracle Database and Application.
+• Cloning of Databases and Application from Production to development servers. 
+• Maintenance of Oracle Application Instances including applying patches. 
+• Applied patches for bugs and product enhancements on Oracle Application R12.2. 
+• Troubleshooting the daily production instance problems. 
+• Monitoring application performance. 
+• Applying Patches, Pre-patch Analysis, Rapid Cloning and Concurrent Manager. 
+• Interacted with the customers to understand their requirements and their technical queries for planning the installation. 
+• Troubleshoot performance issues that might have come with data growth. 
+• Making sure that schedules backup jobs of instance is going fine. 
+• Cleaning up of the log file of different processes like Apache, Concurrent Manager. 
+• Applying patches in production and test instances, using ADOP utilities to maintain the integrity of the Applications and Database. 
+• Managing the physical structure of the Oracle Database link data files, redo log files and control files. 
+• Planning for backup and recovery of database information and maintaining hot backups, cold backups, and also include RMAN backup. 
+• Day to Day code migrations using FNDLOAD,WFLOAD utilities.
+• Run ADADMIN to compile APPS schema, regenerate forms, reports, generate Jar files. 
+• Maintaining and troubleshooting issues with both Oracle Applications and the database. 
+• Good experience in Troubleshooting Concurrent Manager.
+Personal Information:
+Name	: Janakiramireddy Pulipati
+Father Name	: Veerareddy
+Date of Birth	: 15-June-1990
+Nationality	: Indian
+Languages Known	: English, Telugu
+Passport No                                  : P3783859
+
+Place : Hyderabad                                                                                               Signature
+Date:                                                                                                                 (Janakiramireddy)                                                                                                                
+ 
+

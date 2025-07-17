@@ -1,0 +1,321 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULAM VITAE
+
+
+
+
+
+
+
+   Gaurav Nalawade
+
+
+
+E-mail: nalawadegaurav@gmail.com
+                 Phone No.:+ 918082005757
+​​​​​​​​​​​​​​​_______________________________________________________________________
+
+
+
+
+
+
+
+Profile Summary
+· Total 3.5 years of experience in Testing. Worked as a Senior Software Engineer (SAP testing) in Capgemini and Currently working in GEP as a QA Analyst.
+
+· Domain expertise in Utilities (SAP ISU and CRM), Automobile Auctioning, Ecommerce and consumer web sites and Procurement.
+· Experience of Gathering, analyzing the requirements, functional design documents, designing Test scenarios and Test cases.
+· In depth knowledge of Software Development Life-Cycle (SDLC) and  Software Test Life Cycle (STLC).
+
+· Experience in Integration testing, System testing and Regression testing.
+· Involved in documentation of project artifacts, test execution, preparing on Test summary reports creation of review log , MOM`s. 
+
+
+
+
+
+
+Competencies
+· Operating Systems : Windows XP,7, OS/400
+
+· Third Party Tools: Squirrel , WinSCP , FileZilla , Cloudberry
+· Databases: Oracle 10g, DB2/400 , Oracle SQL , Microsoft SQL
+· Programming Languages: Java
+
+· Good exposure to test management tools –HP ALM, HP QC, Teamforge , Testlink and Mantis , Jira and Testrail , Neoload
+                                                Educational Qualification
+	Degree
+	Institution / University
+	Percentage
+	Passing Year
+
+	B.E. 
+	Bharati Vidyapeeth College of Engg. , Mumbai University
+	60.73%
+	2013
+
+	H.S.C.
+	Ramnivas Ruia Jr. College
+	73.33%
+	2009
+
+	S.S.C.
+	Balmohan Vidyamandir
+	91.53%
+	2007
+
+
+Professional Experience
+Organization : GEP Mumbai 
+· Project Name : SMART by GEP
+
+Client
+
+
+: Exelon , Mylan , Kellogg etc.
+Role
+
+
+: QA Analyst
+Team Size
+
+
+
+: 20
+Period
+
+
+
+: Oct 2016 – Today
+Project Description:
+GEP is a leading provider of procurement technology and procurement services to Fortune 500 and Global 2000 enterprises worldwide.
+
+SMART by GEP is a complete source-to-pay software platform, native to cloud, touch and mobile technologies. Offered as Software-as-a-Service (SaaS), SMART by GEP leverages cloud economics to deliver a solution that easily handles the heaviest processing requirements of GEP’s Fortune 500 and Global 2000 clients, while eliminating burdensome infrastructure and support costs.
+Roles and Responsibilities:
+
+· Involved in testing of P2P module of various domains (Clients) using SMART by GEP application.
+· Designing and Execution of the Test Cases, Smoke Testing, , Regression Testing
+· Involved in Test management using Jira and Testrail
+· Raising, Tracking & Re-testing of defects/bugs through Jira.
+· Coordinating with development teams in project to prioritize the issues/defects
+
+· Involved in all review / team meetings regarding project updates.
+· Also knowledge of designing performance test scripts using NeoLoad.
+Technologies used in Project:
+
+· Environment: SMART by GEP Application
+· Third Party Application: Cloudberry
+· Tools: Jira , Testrail , NeoLoad
+Organization : Capgemini India 
+· Project Name : Consumers Energy
+Client
+
+
+: Consumers Energy, Michigan
+Role
+
+
+: SAP ISU/CRM Tester
+Team Size
+
+
+
+: 30
+Period
+
+
+
+: Jan 2015 – May 2016
+Project Description:
+The client Consumers Energy is a public utility that provides natural gas and electricity to more than 6 million of Michigan's 10 million residents. It serves customers in all 68 of the state’s Lower Peninsula counties. It is a division of CMS Energy. Its headquarters is in Jackson.
+
+The project is an implementation of smart metering technology and associated network and computing infrastructure designed to support the deployment of electric and gas AMI endpoints throughout its service territory.
+
+Roles and Responsibilities:
+· Involved in testing of various modules using SAP ISU and CRM application and Grid Director application
+· Involved in Requirements Analysis and maintaining query log document
+· Involved in test case creation, reviews & execution, status reporting, driving status call with the client.
+
+· Provide client a walkthrough of Test scenarios and get them approved
+
+· Test data preparation
+
+· Designing and Execution of the Test Cases, Smoke Testing, Integration Testing, System Testing, Regression Testing
+· Involved in Test management using HP ALM
+· Raising, Tracking & Re-testing of defects/bugs through HP-ALM
+· Conducted Knowledge Sharing Sessions & created Knowledge Capture Documents for the project
+
+· Coordinating with development teams in project offshore/onshore to prioritize the issues/defects
+· Involved in all review / team meetings regarding project updates. Preparing MOM of daily status meeting and  Weekly Status Report
+Technologies used in Project:
+
+· Environment: SAP ISU , CRM , Siebel
+· Third Party Application: Grid Director
+· Tools: HP ALM
+
+Organization : Capgemini India
+· Project Name
+: Ausnet Services
+Client
+
+
+: Ausnet Services, Australia
+Role
+
+
+: SAP ISU/CRM Tester
+Team Size
+
+
+
+: 15
+Period
+
+
+
+: July 2014- Dec 2014
+Project Description:
+The AMI (Advanced Metering Infrastructure) Program is an AusNet Services in-flight project that has been running since 2007, with the purpose of providing an End-to-End (E2E) solution to support business operations for the management of Meter Data Collections (MDC), Meter Data Management Services (MDMS), Billing and Revenue Management. 
+The project also addresses Ausnet Service’s obligations to comply with the Victorian Department of Primary Industry (DPI) minimum functional requirements, rollout milestones and service levels for AMI Systems rolled out in Victoria
+Roles and Responsibilities:
+· Involved in testing of various modules using SAP ISU and Energy IP application
+· Understand requirement document and maintain query log document
+
+· Creating Test Cases, SIT Analysis, Test Matrix. and other Test Artifacts
+· Test data preparation
+· Execute the test case and maintain the test artifacts test execution result defects
+
+· Manage day to day testing activities
+
+· Raising, Tracking & Re-testing of defects/bugs through HP ALM
+· Handling various phases of Testing Cycle such as functionality testing , retesting , regression testing , Integration testing , System testing and E2E
+· Involved in all review / team meetings regarding project updates
+Technologies used in Project:
+
+· Environment: SAP ISU ,  Siebel
+· Third Party Tools: Filezilla
+· Database: Oracle
+
+· Tools: HP ALM
+
+Organization : Capgemini India
+· Project Name
+: Manheim Auctions
+Client
+
+
+: Manheim , U. S.
+Role
+
+
+: Functional Tester
+Team Size
+
+
+
+: 10
+Period
+
+
+
+: Feb 2014 - June 2014
+Project Description:
+Manheim is a facilitator for auctions in the automobile industries. They provide services to leading automobile dealers and firms. Manheim client list include Ford Motor Co., Mercedes Benz, Toyota, Chase, Nissan, KIA, BMW, Jaguar and Volkswagen etc. Each of these clients has a different mode of selling cars.  AUCTION, as the name suggest is a place where vehicles are sold to the highest bidder. In simple words Auction is a stock exchange of an automobile industry
+Roles and Responsibilities:
+
+·     Understand requirement document
+
+·     Create detail ETE and Test Plan documents, and maintain query log document
+
+·     Prepare Test Cases
+
+·     Execute the test case and maintain the test artifacts test execution result defects
+·     Defect logging and defect tracking through HP-QC
+·     Provide detailed test summary report to client
+
+·     Manage day to day testing activities
+
+·     Involved in all review / team meetings regarding project updates
+Technologies used in Project:
+
+· Operating System: OS 400 (AS 400)
+· Third Party tools: WinSCP
+· Database: Squirrel (DB2 400)
+· Tools: HP QC
+Strengths
+· Team Player
+
+· Strong analytical, organizational and interpersonal skills
+
+· Detail-oriented and a commitment to excellence
+
+· Proactive
+Personal Details
+
+· Date of birth
+
+:
+26th OCT 1991
+· Gender
+
+         
+:
+Male
+· Location
+
+:
+Mumbai             
+
+· Languages Known   
+:
+English, Hindi , Marathi
+· Marital status
+         
+:
+Single
+
+· Valid Passport          
+:
+Yes
+
+· Notice period     
+: 
+2 months

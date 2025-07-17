@@ -1,0 +1,750 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(91) 95006 61236 | prakash.ponmani@gmail.com | Bangalore 
+
+  
+
+Prakash Muthukrishnan 
+Highly motivated, results driven and strongly analytical individual of a Computer  
+
+Science and Engineering background with 7+ years of extensive experience in  
+
+DB design, development, testing and troubleshooting, seeking a position in an  
+
+organization where I can impart my acquired skills, knowledge and training to  
+
+the best of my ability.    
+
+ 
+
+P R O J E C T S  &  R O L E  
+
+ 
+
+  BUSINESS INTELLIGENCE ENGINEER  – Incubit Global Business Services 
+  PROJECTS HANDLED 
+
+   
+
+       Apr 2016 – Present  Client : American Express India Pvt Ltd                    
+
+  Role : Hadoop performance analysis, SSIS, SSAS BI development  
+
+ 
+
+  SENIOR DATABASE  ENGINEER  – Immaculate Data Solutions Pvt Ltd    
+  PROJECTS HANDLED 
+
+ 
+
+      Oct 2012 - Apr 2016 Client : NetReady MLM System(netready.co.za), South Africa                       
+
+Role: SQL Developer, SSRS Support                                                                              
+
+ 
+
+      Feb 2012 - Mar 2013 Client : NLB (National library Board), Singapore                               
+Role: SQL Developer, SSAS Cube creation                                                                              
+
+ 
+
+      Jan 2011 - Sep 2012 Client : Zaio Corporation (zaio.com), Canada                       
+
+Role: SQL SSIS Developer, Performance Analyzer. 
+
+ 
+
+      Oct 2011 - Jun 2012 Client : OceansOfPeople [CANADA] 
+
+Role: DBA & SSIS Developer 
+
+  
+
+      Feb 2011 – Sep 2011 Client : BuyDBest (buydbest.com), USA                                                                
+
+  Role : Support for SQL Development 
+
+ 
+
+ 
+
+ 
+
+P R O J E C T  D E T A I L S  
+
+Prakash- Project 
+
+Details.pdf
+ 
+
+ 
+
+ 
+
+
+latha.alagan
+File Attachment
+Prakash- Project Details.pdf
+
+
+
+(91) 95006 61236 | prakash.ponmani@gmail.com | Bangalore 
+
+  
+
+P R O F E S S I O N A L   
+
+S U M M A R Y  
+
+ Feb 2011 - present         HADOOP  
+
+• Hands on Experience in working with Hive, Sqoop. 
+
+• Strong Knowledge of Hadoop and Hive and Hive's analytical functions 
+
+• Captured data from existing databases that provide SQL interfaces using 
+
+Sqoop 
+
+• Migration from TeraData to Hadoop and loading files to Hive and 
+
+hdfs. Importing and exporting data in HDFS and Hive using Sqoop.  
+
+• Extracted files from TeraData through Sqoop and placed in HDFS and 
+
+processed.  
+
+• Executed queries using Hive and developed Map-Reduce jobs to analyze 
+
+data.  
+
+• Applied partitions and bucketing on table to improve the performance of 
+
+query. Suggested to find partition keys based on data distribution and 
+
+frequently used to column in tables. 
+
+• Created hive udf function using python program. 
+
+• Read hdfs files using spark sql. 
+
+ 
+
+SQL SERVER  
+
+• Create database objects such as tables, views stored procedures, 
+
+Triggers, functions  
+
+• Created and Maintaining various databases for Production, Development 
+
+and Testing environments. 
+
+• Written complex queries and calculations with performance 
+
+consideration. 
+
+• Identified and wrote best possible code in case of new deployments or 
+
+modified code when migrating to newer version of SQL 
+
+• Create functions to provide custom functionality as per the requirements. 
+
+• Aware of potential blocking, deadlocking and wrote code to avoid these 
+
+situations 
+
+• Apply index based on performance tuning adviser, analysis about 
+
+execution plan process. 
+
+• SSIS Package Automation, understanding business logics, file handling, 
+
+Extract Transform and loading   data into database with error handling  
+
+• SSIS Package deployment using SSIS Catalog and manifest file (2014 
+
+version) 
+
+• SSRS Report Creation. 
+
+• SSAS Cube creation, building Data warehouse with star, snowflake 
+
+schema, proposing fact and dimension tables. 
+
+• Experienced in SQL server installation, patching, upgrade and migration. 
+
+• Experienced in using Performance monitor, Tracing long running queries 
+
+and deadlocks using SQL Profiler and optimizing the queries using DTA. 
+
+
+
+(91) 95006 61236 | prakash.ponmani@gmail.com | Bangalore 
+
+  
+
+• Scheduled Full and Transactional log backups for the user created and 
+
+system databases in the production environment using the Database 
+
+Maintenance Plan Wizard. 
+
+• Experienced in Backup and Recovery strategies in Production 
+
+environment. 
+
+• Experienced in using Profiler and dynamic management functions for 
+
+finding out long running queries. 
+
+• Experienced in T-SQL writing stored procedures, CTE, views and functions. 
+
+• Troubleshoot production database issues and development of scripts. 
+
+• Administrative and Production support for various applications in all 
+
+environments. 
+
+• Managing user logins in production and development environments. 
+
+• Having good knowledge in High Availability features. 
+
+• Having experience in Replication and Database Mirroring and worked in 
+
+testing and development server environment. 
+
+• Having higher proficiency in source code migration from Sql server 2005 to 
+
+Sql server 2008. 
+
+• Having skills in up gradation of any emerging technology within in a short 
+
+period. 
+
+• 24 X 7 Production Database on call support. 
+
+E D U C A T I O N  
+
+ 
+
+ 2006 – 2010 BACHELOR OF ENGINEER ING, COMPUTER SCIENCE AND ENGINEERING– 
+
+  KLN College of Information Technology affiliated to Anna University, Madurai.  
+
+  Percentage: 62%. Date of Qualification: May 2010. 
+
+  
+
+ 2005 – 2006 HIGHER SECONDARY SCHOOL EXAMINATION (XI I) ,   
+
+  MangayarKarasi Higher Secondary School , Madurai. 
+
+  Percentage: 75%. Date of Qualification: May 2006. 
+
+ 
+
+ 2003 – 2004 SECONDARY SCHOOL EXAMINATION (X) ,  
+
+  MangayarKarasi Higher Secondary School , Madurai. 
+
+  Percentage: 88%. Date of Qualification: May 2004. 
+
+ 
+
+C E R T I F I C A T I O N S  
+
+ 
+
+  MCTS MICROSOFT SQL S ERVER 2008 FOR DATAB ASE DEVELOPMENT (70-433)  
+
+MCTS MICROSOFT SQL SERVER 2008 IMPLEMENT ATION AND MAINTENANCE 
+
+(70-432) .  
+
+ 
+
+ 
+
+ 
+
+
+
+(91) 95006 61236 | prakash.ponmani@gmail.com | Bangalore 
+
+  
+
+S K I L L S  
+
+  
+
+  PROFESSIONAL   
+
+  MS SQL Server 2005-2016      
+
+  OS - Linux       
+
+  OS – Windows Server 2008       
+
+   
+
+  OTHERS 
+
+• Tools:  
+
+  BIDS, SSMS, DTA, Sql Profiler, Performance Monitor and Control Center, C# 
+
+  python, spark sql, shell scripting 
+
+ 
+
+• Network Topologies: 
+
+  TCP/IP, FTP, SFTP, SMTP 
+
+   
+
+ 
+
+  PERSONAL  
+
+  Communication [Written and Verbal]   
+
+  Flexibility & Adaptability     
+
+  Leadership & Team work     
+
+  Time Management & Conflict Resolution   
+
+  
+
+P E R S O N A L   
+
+P R O F I L E  
+
+  
+
+Father’s Name   : Muthu Krishnan 
+
+Permanent Address  : 71a, Muniyandi Kovil Street, Ponmeni, 
+
+    Madurai - 625010 
+
+Residential Address                  : No:1B/22, 4th A cross, Maruthi Nagar,                           
+
+Madiwala, 
+
+     Bangalore - 560068 
+
+Date of Birth   : 14 – 06 – 1989 
+
+Linguistic Proficiency  : English, Tamil 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(91) 95006 61236 | prakash.ponmani@gmail.com | Bangalore 
+
+  
+
+Prakash Muthukrishnan 
+Highly motivated, results driven and strongly analytical individual of a Computer Science  
+
+and Engineering background with 7+ years of extensive experience in DB design,  
+
+development, testing and troubleshooting, seeking a position in an organization where I  
+
+can impart my acquired skills, knowledge and training to the best of my ability.    
+
+ 
+
+P R O J E C T  D E T A I L S  
+
+ 
+
+  BUSINESS INTELLIGENCE ENGINEER  – Incubit Global Business Services 
+   
+
+       Apr 2016 - Till date  PROJECTS HANDLED 
+
+  Client : American Express India Pvt Ltd                    
+
+  Role : Hadoop performance analysis, SSIS, SSAS BI development  
+
+  Duration : Apr 2016 to till date  
+
+     
+
+  PROJECT DESCRIPTION : 
+
+ 
+
+1. Credit risk management: 
+
+ 
+
+Hadoop and SSAS: 
+
+ 
+
+o Hive Performance improvement, partition, bucketing and file compaction 
+
+suggestion based on the table storage statistical data. 
+
+o Extracting jhist files using shell script and identified more time taken 
+
+queries, often used tables and queues.  
+
+o Extracting Data from RDMS database (Teradata) and CS2.0 as data 
+
+sources for pulling data using Sqoop extract script with connection 
+
+configuration.  
+
+o Queried on IDN tables for pulling data to CS2.0 
+
+o Extracting Data from hive table manipulating data and CSV file creation 
+
+to build OLAP database in SQL. 
+
+o Data from hive is extracted to csv and moved to SQL server. 
+
+o OLAP data ware house creation with SSAS to get analysis report of 
+
+customer activities  
+
+ 
+
+Responsibilities: 
+
+ 
+
+• Writing script and procedures to manipulate and summarize data as per 
+
+business needs and frame the logic for process trigger in hive 
+
+• Cube creation with complex calculation field sets. 
+
+• Cube Creation based on star and snowflake schema approach. 
+
+
+
+(91) 95006 61236 | prakash.ponmani@gmail.com | Bangalore 
+
+  
+
+ 
+
+MS SQL: 
+
+ 
+
+o Script development in SQL for Address matching, Address Formatting, with 
+
+high volume tables. 
+
+o Gocodes update by using Google API.  
+
+o First 2 months worked in BigData platform migrating data from 
+
+cornerstone 2.0 to new version of cornerstone 3.0 moving tables and data 
+
+to new versions.  
+
+o Data Organization, Data Quality Management 
+
+o MetaData Validation when migrating data from CS2.0 to CS3. 
+
+ 
+
+  Responsibilities: 
+
+ 
+
+• Script written for address match based on clients data and sending 
+
+reports to client. 
+
+• Analysis data and suggest Datatypes and Length for all table columns 
+
+based on existing data. 
+
+• Data Quality check with CS2.0 to CS 3.0, comparing all data columns to 
+
+ensure the data fed with good quality  
+
+ 
+
+ 
+
+  SENIOR DATABASE  ENGINEER  – Immaculate Data Solutions Pvt Ltd    
+  PROJECTS HANDLED 
+
+ 
+
+      Oct 2012 - Apr 2016 Client : NetReady MLM System(netready.co.za), South Africa                       
+
+Role: SQL Developer, SSRS Support                                                                              
+
+   
+
+  PROJECT DESCRIPTION : 
+
+ 
+
+Compensation calculations and the ability to trade in multiple currencies and 
+
+languages, automate incentives and recognition, deal with customer queries, 
+
+and communicate with team. 
+
+ 
+
+   Responsibilities: 
+
+ 
+• Over all Database script development for more than 10 MLM 
+
+compensation with high performance for 10 lakh Business users. 
+
+• SQL created for Commission Calculation, Incentive Calculation, 
+
+Recognition. 
+
+• Created the Data model design and apply the DDL structures in the new 
+
+database based on the client`s requirements. 
+
+• Designed and implemented comprehensive Backup plan using Database 
+
+maintenance plan wizard. 
+
+ 
+
+
+
+(91) 95006 61236 | prakash.ponmani@gmail.com | Bangalore 
+
+  
+
+      Feb 2012 - Mar 2013 Client : NLB (National library Board), Singapore                             
+Role: SQL Developer, SSAS Cube creation  
+
+ 
+
+PROJECT DESCRIPTION : 
+
+ 
+
+Roll-up of data to higher level of time frequency, data values whether the figures 
+
+are same or different for calendar and financial year. 
+
+ 
+
+   Responsibilities: 
+
+ 
+
+• Build automated system over all SQL Development to get report Group 
+
+wise Rollup for Financial, Calendar year  
+
+• Tested and Implemented procedures to detect poor database 
+
+performance, collecting required information, root cause analysis. 
+
+• Automated messaging services on server failures, for task completion and 
+
+success. 
+
+                                                                             
+
+ 
+
+      Jan 2011 - Sep 2012 Client : Zaio Corporation (zaio.com), Canada                       
+
+Role: SQL SSIS Developer, Performance Analyzer. 
+
+ 
+
+PROJECT DESCRIPTION : 
+
+ Its proprietary GeoScore property rating system uses comprehensive property 
+
+data including real estate appraisals and property photos provided by contracted 
+
+independent appraisers and photographers to calculate an estimated valuation.  
+
+ 
+
+Responsibilities: 
+
+ 
+
+• Designed and implemented tables, functions, stored procedures and 
+
+triggers in SQL Server 2005.  
+
+• Developed SSIS Package Automation with Business intelligence 
+
+• Built data connection to the database using VB.net  
+
+ 
+
+ 
+
+      Oct 2011 - Jun 2012 Client : OceansOfPeople [CANADA] 
+
+Role: DBA & SSIS Developer 
+
+ 
+
+Responsibilities: 
+
+ 
+
+• Performed installation of SQL Enterprise 2008 64bit version on Windows 
+
+2008 server on Enterprise systems. 
+
+• Creation of new databases, planning the location of data, index, and 
+
+Transaction log files on disks. 
+
+• Developed Backup & Restore scripts for SQL Server as needed. 
+
+• Setup Database Maintenance Plans to reorganize indexes, re-indexing 
+
+and update the index statistics on the production databases. 
+
+ 
+
+
+
+(91) 95006 61236 | prakash.ponmani@gmail.com | Bangalore 
+
+  
+
+  
+
+      Feb 2011 – Sep 2011 Client : BuyDBest (buydbest.com), USA                                                                
+
+  Role : Support for SQL Development 
+
+    
+
+   Responsibilities 
+
+ 
+
+Provided database development, Package Development and support to 
+
+development team. 
+
+ 
+
+ 
+
+ 
+
+

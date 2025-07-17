@@ -1,0 +1,194 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHINABABU
+
+                                  CURRICULAM VITAE   
+ 
+Sunny Narwani			
+E-mail: sunnynarwani87@yahoo.com/
+sunnynarwani87@gmail.com
+Mobile: +91-9406780885/+91-9130088823
+
+Career objective:  
+Seeking a challenging position in a development environment in Cloud Services where I can utilize my knowledge and skills to meet the business requirements and attain the highest standards of excellence.
+
+Summary:
+· Unix System Administrator (Solaris & Linux) with 2.5 years of experience.
+· UNIX (Solaris 10) System administrator in a networked heterogeneous environment for Sun Servers and workstations running with VERITAS disk utility.
+· RHEL 6 System administrator in a networked heterogeneous environment.
+· OEL 6.7 administration in collaboration with cloud deployed servers and ZFS storage at backend.
+· Knowledge in Solaris system administration and VERITAS.
+· Work experience on Solaris virtualization using ldoms & zones.
+· Having average experience on Oracle Ops center tool.
+· Excellent communication, Organizational and analytical skills.
+· Problem solving attitude with team and always willing to learn. 
+· Good knowledge on disaster recovery.
+· Knowledge of UNIX shell scripting, perl and python scripting.
+· Knowledge of HPSM, service now tool in collaboration with uCMDB(HPSM) for management of Configuration Items.
+· Worked on Microsoft Azure for infrastructure development and systems deployment.
+
+TECHNICAL PROFICIES:
+Operating Systems: Sun Solaris, Red hat Linux
+Storage: VERITAS Volume Manager 
+Clustering: VERITAS Cluster Server
+
+
+EMPLOYMENT DETAILS: 
+· Working as a Systems Engineer in Infosys from February 02, 2015 to till date.
+
+Roles & Responsibility:
+· Working in Infosys for PWC project.
+· Providing Level 2 System Administration Support to Unix servers(Solaris & Linux) 
+· Working on solaris virtualization project for PWC client.
+· Migrating physical servers to virtual servers using ldoms.
+· Upgrading Solaris servers using live upgrade.
+· Working on Oracle Ops center tool for managing all the servers through EC.
+· Working on change management process.
+· Working on decommission of servers.
+· Migrating filesystems from UFS to ZFS.
+· Troubleshooting Performance issues.
+· Creation of Automation scripts for managing multiple servers at a time.
+· Worked on OEL 6.7 for administration of virtual machines and ZFS storage.
+· Deployed Windows and Linux machines on Microsoft Azure with connectivity of resource groups kept in mind.
+
+ 
+PROJECTS HANDLED: 
+Infosys Ltd.
+Project Name: PwC
+Role: Systems Engineer
+Roles & Responsibilities:
+
+· Providing Level 2 System Administration Support to Unix servers(Solaris & Linux) for 24*7
+· Systems administration, maintenance and system performance monitoring
+· Maintaining and changing file systems & disk assignments using LVM, VXVM & ZFS.
+· Scheduled various regular, periodic, futures, queue tasks by using crontab, at. 
+· Administration and trouble shooting skills on Disks & File Systems, Users & Groups. 
+· Working knowledge in services like Telnet, FTP, SSH etc. 
+· Performing system backups and restorations by using tar, cpio commands.
+· Install applicable patches and third party software on Solaris and Linux servers.
+· Configuring and maintaining NETWORKING (NFS, FTP ) services.
+· Kernel patching, Firmware upgrade and Solaris release updates as per security updates.
+· Case logging and co-ordinating with Oracle Vendor for system issues.
+· Troubleshooting of OS and Recovery issues
+· Installation with Jumpstart and Local Media
+· Provide data protection, recovery and business continuity; test and validate disaster recovery and business continuity methods in UNIX environment.
+· Install, configure and maintain highly optimized Virtualized UNIX environment using LDOM virtualization technologies.
+· Pre and Post checks and validations of Solaris machines with respect to OS Migration.
+· Handling VERITAS volume manager and VERITAS cluster servers on Linux and Solaris servers   
+· Implementation, configuration and maintaining of LVM (logical volume manager).
+· Handled/Created/Managed and worked on RFCs with an approach to meet defined SLA using HPSM tool for Solaris and Linux servers.
+· Co-ordinated with assignment and completion of various tasks for different teams to be completed sequentially and within SLA time.
+· Worked on proper Decommissioning of servers with outdated technology.
+· Creation and management of Solaris Logical Domains.
+· Updated CI (Configuration Items) and managed a bunch of CI details.
+· Worked on scripts to manage hundreds of servers in a very short span of time.
+
+PROJECTS HANDLED: 
+Infosys Ltd.
+Project Name: Specsavers
+Role: Systems Engineer
+Roles & Responsibilities:
+
+· Providing Level 2 System Administration Support to Unix  and Windows servers(OEL 6, Windows 2012 R2) for 24*7
+· Systems administration, maintenance and system performance monitoring
+· Regular/Daily health checkups on server for OVM and memory utilization.
+· Scheduled various regular, periodic, futures, queue tasks by using crontab, at. 
+· Administration and trouble shooting skills on Disks & File Systems, LVM, Users & Groups. 
+· Working knowledge in services like OVM, SSH etc. 
+· Performing system backups and restorations by using tar, cpio, scp, rsync commands.
+· Install applicable patches and third party software on Linux servers.
+· Configuring and maintaining NETWORKING (NFS, Telnet) services.
+· Kernel patching, Firmware upgrade and release updates as per security updates.
+· Case logging and co-ordinating with Oracle Vendor and Sungard for system issues.
+· Troubleshooting of OS and Recovery issues
+· Installation with Templates and command line on Powershell.
+· Provide data protection, recovery and business continuity; test and validate disaster recovery and business continuity methods in Azure environment.
+· Pre and Post checks and validations of Linux and Windows machines with respect to OS Deployment.
+· Implementation, configuration and maintaining of LVM (logical volume manager).
+· Handled/Created/Managed and worked on tickets and CRs with an approach to meet defined SLA using Service now tool for Windows and Linux servers.
+· Worked on scripts to deploy and maintain hundreds of servers in a very short span of time.
+· Knowledge on OS build and migration (Linux and Windows) on Azure Cloud.
+
+
+Project Name: Online Shopping Portal
+	A college level project, a website developed on ASP.Net with C# as backend programming language and MS-SQL as Database Management Software.
+
+Scripting:
+· Hands on practice in Shell Scripting, Python scripting and Perl scripting.
+Educational Qualification :
+ 
+· Graduation in B.E.(CSE) from Vindhya institute of Technology and Science in 2014 with 73.2 CGPA.
+· Higher Secondary Education from Scholars Home Higher Secondary School in 2010 with 77 percent.
+· Secondary Education from Scholars Home Higher Secondary School in 2008 with 
+84 percent.
+
+CERTIFICATIONS
+· Android Application Development
+· C/C++ programming
+· Java 2.0
+
+Personal profile:
+	DOB		:   	27-03-1993
+	Nationality	:   	Indian
+	Marital Status	:   	Unmarried
+	Languages	:   	English, Hindi.
+Other Skills
+· Worked as a Lead in College’s official media website developed in php.
+· Won Inter-College BSNL quiz competition
+· Been a runner-up in Inter-departmental Group Dance Competition 2013
+· Been a runner-up in Duet singing completion.
+
+Date: 18 Nov 2017	
+Place: Pune                                                                          (Sunny Narwani)

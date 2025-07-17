@@ -1,0 +1,250 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ALOKE DAS
+
+
+
+
+
+
+
+
+
+· Sr.Engineer at Ericsson Global Services Pvt Ltd [EGIL] , kolkata 
+
+· B.Tech. (Electronics & Communication Engineering)       
+· Mail ID – alokedas2009@gmail.com   Mob No- +91 9804199929                  
+
+A dynamic professional looking to apply 9 years of AWS Cloud Computing, Linux System Administration and Networking(Cisco certification) diverse, cutting edge systems administration experience to the planning, design, development, implementation and technical support of Linux Server acrossTelecom / IT industry 
+PROFILE
+
+· A dynamic professional looking to apply 9 years of diverse, cutting edge Systems Administration,Networking experience and visionary leadership to the planning, design, implementation and technical support of multi-platform, multi-system cloud networks.
+· Qualified AWS Certified Solutions Architect-Associate, Exin Cloud Computing and Cisco Certified Network Associate(CCNA) with excellent understanding of configuration & maintenance of diverse Systems and Network; Good experience in CCNA Level Routing and Switching.
+· Currently working with Ericsson Global Services Pvt Ltd [EGIL], Kolkata as Sr. Engineer and looking after Virtual Machines[VM] in Cloud environment and also Physical Server for different Linux OS with Possess project management skills and experience of working in a project-driven environment with strong planning, organizing and monitoring abilities; excellent analytical, design and problem solving skills.
+· Self-motivated, hardworking & consistent with a high degree of flexibility, creativity, resourcefulness, commitment & optimism; can work in demanding time schedule to meet goal oriented deadlines.
+
+PROFESSIONAL EXPERIENCE
+ERICSSON INDIA GLOBAL SERVICES PVT LTD, Kolkata
+Senior Engineer:
+
+
+
+
+
+
+
+
+April 2015 – Till Date
+Equipments Handled:  
+AWS Cloud Computing , Linux Server
+     Present Responsibilities: I am involved as Sr. Engineer for AWS Cloud Computing and Linux System Administrator for different Linux OS in Physical machine and VM in Cloud Environment.
+Present Job profile : 
+· Establish AWS technical credibility with customers and external parties.
+
+· Help customer build scalable,resilent and high performance applications and services on AWS.
+
+· Develop/capture/document architechtural best practices for building systems on AWS.
+· Developed, operated and managed a network that operated in a secure VPN-enabled environment.
+· Involved in designing and deploying a multitude applications utilizing most all of the AWS stack (Including EC2,Route53, S3, RDS, SNS, CloudWatch, IAM) focusing on high-availability, fault tolerance, and auto-scaling.
+
+· Increasing EBS backed volume storage capacity when the volume is full. Using AWS EBS Volume feature.
+
+· Created AWS Route53 for different routing requirements such as active-passive failover and latency based routing.
+
+· Created S3 backups using versioning enable and moved objects to Amazon Glacier for archiving purpose
+
+· Created users and groups using IAM and assigned individual policies to each group.
+
+· Created SNS notifications and assigned ARN to s3 for object loss notifications as well as EBS automated backups success/failure.
+
+· Created load balancers (ELB) and used Route53 with failover and latency based routing for high availability and fault tolerance.
+
+· Setup CloudWatch and CloudTrail log monitoring tools for AWS environment real- time monitoring.
+
+· Good understanding of ELB, security groups, NACL, NAT, VPC and Route53.
+
+· Migrated the current Linux environment to AWS/RHEL Linux environment.
+· Deployment and management through AWS cloud formation on EC2 (Elastic compute cloud) instances.
+
+· Provide support for Data collection issues through CAS-E and CAS-C.
+
+· Engaged in capability measurement of DCS and Data Centre.
+
+Unix Role ::
+
+· Support to client understanding the architecture of product (Unix related stuffs).
+· Day to day support to test environments as well as production installed on Unix/Linux.
+· Product installation from scratch.
+· Created new environments.
+· Supporting Clients application deployed on various Unix flavors like CentOS,Linux,OpenSUSE,Ubuntu.
+· Web server deployment.(Tomcat,Xampp,ITK,RTT) on legacy servers.
+
+· Monitoring and configuration management of Linux box with open source and following supports ---  User Administration, Web server (Apache), Database(mysql,Postgres),LDAP authentication (Server/Client), Network services (Telnet, SSH),NTP, Mail (sendmail, postfix), Passwod less SSH access, Install Perl Module,Open/Oracle JDK,Create Quota for specific User,Disk management (LVM), Storage (local & iSCSI),logrotate. 
+· Installation and Configuration of OS & patches for various Linux distributions.
+
+· Configure Audit log session for all individual Users in the server.
+Dishnet Wireless Limited (AIRCEL), Kolkata
+Sr. Executive(Technical – TSG – Network Services_IN) :
+
+
+
+May 2013 – April 2015
+Equipments Handled:  
+Ericsson Online Charging System (OCS) nodes i.e. CCN, SDP, AIR, VS, MINSAT, EMM, EMA, CRS, IN_MPBN.
+ Job Profile:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+· Responsible for CS4 IN Network up-time maintaining up to 100% as per internal SLA by providing 24 x 7 technical supports.
+
+· Troubleshooting & rectification with different technical problems related to CS4 IN nodes i.e SDP,CCN, MINSAT, VS, AIR,CRS & EMM.
+
+· Making physical connectivity and solve the connectivity issue between different nodes with MPBN.
+
+· Routine health check-up of IN nodes, Router ,Switch & FireWall, preventive & corrective maintenance.
+
+· Routine back-up take of IN nodes & maintain a tracker.
+
+· CCN up-gradation from ICP-24 to ICP-12/10 & EP-6632.2.
+
+· One Common CDR (OCC) implementation into CCN with ICP-24 & ICP-12/10.
+
+· Voucher generation SPOC for 2 eastern circles (ORS & NE) & generate vouchers as per requirement given by Commercial team. 
+
+· Circulation of IN Performance Dashboard report on monthly basis.
+
+· GUI user creation of VS,MINSAT for CC,RA etc team and of SDP,AIR,EMM for internal IN team.
+
+· MSISDN provisioning/de-provisioning and profile modifications in batch done through MINSAT.
+
+· Maintaining & designing of the mechanism of transferring of Call/Recharge CDRs through EMM and loading  in Tables or send to some other dept.
+
+· Active participation for completion of Internal & External IN audit.
+OS skills: Unix/Linux/Solaris. 
+Database Skills: Oracle, Sybase, Timesten. 
+Protocol : Camel, Diameter, Inap, SS7 etc.
+     KEY TECHNICAL SKILLS : 
+· CCN ICP up gradation, Voucher Generation in VS, MSISDN provisioning in MINSAT, Connectivity between CCN and Switch etc.
+ERICSSON INDIA PVT. LTD., Bhubaneswar
+
+
+
+
+        April 2008 – April 2013
+Engineer:
+
+October 2010 – April 2013
+
+Assistant Engineer: 
+April 2009 – September 2010
+
+Junior Engineer:
+April 2008 – March 2009
+
+· Routine health check-up of IN_MPBN nodes, Router ,Switch, FireWall, LI(Lawfull Interception)  preventive & corrective maintenance of BSNL project.
+· Responsible for configuration / reconfiguration of RED BACK Router & EXTREME Switch, CISCO Router & Switch and up-gradation of Router & Switches as and when required.
+
+N.R. SWITCH N RADIO SERVICES PVT. LTD., Rajasthan
+
+
+
+September 2007 – March 2008
+
+Trainee Engineer
+· Started my responsibilities as BTS Engineer and handled BTS Installation, Commissioning, Microwave Alignment and Swapping etc.
+
+· Hands-on-experience on NOKIA Ultra Site, Flexi & ERICSSON BTS in IDEA Project. 
+
+· Looked after quality standards as per the plan and maintained process parameters according to quality of the product.
+
+· Coordinated with Electrical and Mechanical dept. for continuity of process and smooth running of the line and equipments.                                                                                        
+
+
+Education and Training
+B.Tech. (Electronics & Communication Engineering), 2006 :Durgapur Institute of Advanced Technology & Management (W.B.U.T.); DGPA: 7.99
+H.S.E., 2002 : Raiganj Coronation High School (W.B.C.H.S.E.); 65%
+Secondary Examination, 2000 : Debinagar Gayalal Ramhari Uchcha Vidyapith (W.B.B.S.E.); 79.6 %
+Certifications : 
+
+Cisco Certified Network Associate (CCNA); CISCO ID: CSCO11212363; 91.0%
+
+
+EXIN Cloud Computing fundamentals (CLOUDF)
+
+AWS Certified Solutions Architect-Associate; 5HZ0FKX2111EQT3R 
+
+Training Courses :  
+GSM mobile communication in 2006 BSNL, Kalyani, West Bengal
+
+CL210 Red Hat OpenStack Administration  Koyenig,Delhi
+
+Hobbies: Playing & Watching Cricket and Listening to Music   
+Language Proficiency: English, Hindi & Bengali
+References: Available on Request 
+
+PERSONAL  DETAILS
+C/o: Arabinda Kumar Das,
+ P.O. & Vill.: Debinagar, P.S.: Raiganj, Distt.: Uttar Dinajpur,
+
+Pin – 733123, West Bengal
+Contact no : :+91-9804199929  : alokedas2009@gmail.com; 
+Date of Birth: 17th December 1984
+
+DECLARATION
+I do hereby declare that the above written particulars are true to the best of my knowledge and belief.

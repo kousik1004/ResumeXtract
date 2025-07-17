@@ -1,0 +1,334 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM   VITAE
+
+
+  
+
+ 
+
+    Jaideep Reddy N 
+
+  
+ 
+Telephone: 
++ 91 – 9666347762 
+ 
+Email: 
+Jaideepr.1990@gmail.com 
+ 
+Address: 
+Flat no: 103 
+MNC Residency, 
+Gokul Enclave 
+Hasthinapuram, 
+Hyderabad – 500079 
+ 
+Personal Data: 
+ 
+Sex                 : Male 
+Nationality      : Indian 
+Marital Status : Single 
+Date of Birth   : 10-06-1990 
+Languages   
+Known            : English,                              
+                         Hindi, Telugu 
+ 
+My Strengths: 
+ 
+▪ Positive approach 
+▪ Adaptable to changes 
+▪ Quick learner with the 
+
+ability to grasp new 
+technologies 
+
+▪ Team Leading 
+▪ Problem Solving Skills 
+
+ 
+Educational Qualification: 
+ 
+Bachelors of Pharmacy from 
+Jawaharlal Technological 
+University with First class. 
+ 
+
+Experience Summary 
+
+ 
+➢ Possess around 4 years of experience in IT Industry and 
+
+experienced in different stages of software development life cycle 
+ranging from design to testing 
+
+ 
+➢ Good experience with development and testing in mainframe 
+
+technology including JCL, COBOL, DB2, VSAM, MVS, ISPF 
+ 
+
+➢ Participated in production support activities & prepared support 
+documents 
+
+ 
+➢ Created test plans and conduct testing for application changes and 
+
+new releases 
+ 
+
+➢ Good knowledge in development and maintenance activities 
+ 
+
+➢ Good communication, presentation and analytical skills 
+ 
+
+➢ Good experience in all levels of testing like UT, QA, SAT, UAT 
+  
+
+➢ Extensively worked on SPUFI for executing DB2 SQL queries  
+ 
+
+➢ Acquired massive exposure in software configuration management 
+tools like CHANGEMAN and Change Control. 
+ 
+
+➢ Extensively worked on SORT tools like SYNCSORT, DFSORT, 
+ICETOOL and FILEAID. 
+
+ 
+➢ Gained exposure in using mainframe-based job scheduling tools 
+
+like CA7. 
+ 
+
+➢ Efficiently used IBM supplied utilities like IDCAMS, IEBGENER, 
+IEFBR14, IEBCOPY, & IEBCOMPR. 
+ 
+
+ 
+ 
+Professional Summary 
+
+ 
+➢ Working as a Senior Software Engineer at Ntt data Global Delivery 
+
+Services, Hyderabad from April 2014 to till date. 
+ 
+
+ 
+Technical Skills In Mainframe 
+
+➢ Languages: COBOL, JCL and SQL 
+ 
+
+➢ Databases: DB2 and VSAM. 
+ 
+
+➢ Operating Systems:  MVS, Z/OS, 
+ 
+
+➢ Utilities: TSO/ISPF, FILE-AID, CHANGE CONTROL, CHANGE 
+MAN, SPUFI, INTER-TEST, CA7, Progeny. 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+  
+
+ 
+ 
+Projects’ Details: 
+
+ 
+
+Project #1 
+Supply Chain - Division Accounting & Warehousing, Online-
+Credits  
+
+ 
+Client                        Supervalu Retailer, USA 
+
+Organization Ntt Data, Hyderabad 
+Software / Tools COBOL, JCL, DB2, File-Mstr, VSAM, MVS, Change Control 
+Duration May 2016 to Till Date 
+
+Description: 
+
+ The Supervalu Inc. is a grocery retailer and distributor in U.S.A and it has been in supply chain 
+business for over a century. Division Accounting & Warehousing Application is the core part of the supply 
+chain system and is developed for billing the retailer orders by means of inventory check and reduction, and 
+to manage various warehouse operations such as Receiving, Put Away, Picking, Loading, Routing, Net-
+Invoicing and loading the invoices into Account Receivables system for feeding into General Ledger and for 
+generating the retailer statements. Online-Credits Application is developed for handling the retailer returns, 
+charges and for issuing store credits.  
+ 
+
+Major Achievements: 
+
+•  Developed Cube-break logic to improve Warehouse Operations efficiency in handling the large orders 
+and saved approximately 2000 hours of manual effort to warehouse workers. 
+
+•  Developed a phoofer program to restore the lost sales numbers of 6 months into item master file. 
+
+•  Developed a new COBOL-DB2 program for purging the in-active customers from the system. 
+
+•  Reduced a total of 14,000 number of Pharmacy Invoice Reporting errors to meet the Drug Enforcement 
+Authority (DEA) compliance requirements by working with two of my team members. Got an 
+appreciation from the Vice President of our client for this great work. 
+
+•  Corrected several bugs in the critical invoicing program to fix penny differences in calculating fees, 
+customer charge amounts for one of the big group of independent retailers serviced.  
+
+•  Delivered a solution to report taxes on the Invoices for each of the Tobacco and related products being 
+shipped in a critical invoicing program even before the dead line. 
+
+•  Prepared the system flow diagram of Division Accounting and Warehousing  
+
+•  Stood as the Topper thrice in the Level 1(Trainee), Level 2, and Senior Level Certification Exams in 
+the stream of Mainframe, held in NTT DATA. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+  
+
+Project #2 Ship from Anywhere & AmeriCold Interface 
+ 
+Client                        Supervalu Retailer, USA 
+
+Organization Ntt Data, Hyderabad 
+Software / Tools COBOL, JCL, VSAM, DB2, File-Mstr, Change Control 
+Duration April 2014 to May 2016 
+
+ 
+This project is developed for minimizing the transportation costs, to provide diversified items to the retailers 
+by merging the products from different warehouses and deliver the shipments to the retailers from a home 
+hub. 
+ 
+Major Achievements: 
+ 
+
+• Developed new COBOL-DB2 programs for Automated Net-Invoicing process, to work with multiple 
+copies of a database using DB2 package sets for cross-divisional extracts and updates.  
+
+• Developed programs to create CA-7 trigger dataset information and pass it to CA-7 scheduler using 
+the utility program U7SVC (CA-7 Service Call) to trigger the jobs in multiple divisions simultaneously. 
+
+ 
+This AmeriCold interface is developed to extract and send the billed orders to a third party system to pick the 
+frozen items from the secondary warehouse and send back the picking, markout information for updating in 
+the mainframe system.  
+ 
+Major Achievements: 
+ 
+
+• Developed the COBOL-DB2 program to extract frozen orders into a flat file 
+
+• Developed the JCL for generating a comma delimited flat file to be sent to AmeriCold Facility 
+
+• Developed the COBOL-DB2 program to process the reclamation items from the stores. 
+
+        
+       This project is developed for minimizing the transportation costs, to provide diversified items to the 
+retailers by merging the products from different warehouses and deliver the shipments to the retailers from a 
+home hub.  
+ 
+Roles and Responsibilities: 
+ 
+
+• Impact analysis. 
+
+• Preparation of design documents 
+
+• Coding, Unit testing, system testing. 
+
+• Involved JCLs preparation. 
+
+• Identifying and fixing the production issues. 
+
+• Communicating with onsite for resolving issues and getting clarifications. 
+
+
+	Jaideep Reddy N
+	Client                        Supervalu Retailer, USA
+	Description:
+	The Supervalu Inc. is a grocery retailer and distributor in U.S.A and it has been in supply chain business for over a century. Division Accounting & Warehousing Application is the core part of the supply chain system and is developed for billing the ...
+	Client                        Supervalu Retailer, USA
+
+

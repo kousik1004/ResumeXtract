@@ -1,0 +1,422 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+
+Vaibhav Tarange
+Mobile: +91-8275447909
+
+E-Mail: tarange.vaibhav@gmail.com
+Professional SummarY
+
+· High-performing, self-motivated and passionate professional with 6.3 years of experience in IT industry with 5.1 years in Big-Data Hadoop framework and Spark.
+· Experience with the Hadoop stack ( Sqoop, Flume, Hive, Pig, Map Reduce ,Oozie) .
+· I have experience of working with Cloudera and Hortonworks Platform.
+· Having Experience in Spark.
+· Written ETL using Spark-sql.
+· Having experience on importing and exporting data from different database systems to Hadoop distributed file system using Sqoop. 
+· Having experience in Exporting data to different database systems  like postgre-sql using Spark.
+
+· Having experience of doing data validations using Spark.
+· Having experience in Loading and transforming large sets of structured, semi-structured and  un-structured data  using Hadoop ecosystem components 
+
+· Having Experience in writing HIVE queries & Pig scripts. 
+· Having experience of writing Map-reduce jobs. 
+· Having experience in writing Java plugins.
+· Having experience of streaming tools like Kafka, Spark-streaming.
+· Have knowledge of data governance and security using Apache Atlas and Apache Ranger.
+· I can work on different programming languages like  Scala, Java,Python etc
+· Strong analytical, conceptual, and problem-solving abilities.
+· I am good learner, can learn new technologies within short time.
+· Worked as Database Developer on Oracle for 1 Year and 1 Months.
+
+· A self-starter, target-oriented, self-disciplined, proactive and professional with good communication and interpersonal skills with the ability to work both individually and as part of the team and Interested to explore myself with new technologies.
+ORGANISATIONAL Experience
+Currently working with Xoriant Solutions Pvt Ltd since 13th August 2018.
+
+I have worked with Collabera Technologies  for  Amdocs  Project from 9th January 2017 till 10th August 2018.
+I have worked with Accenture Technology at Bangalore since 15th Feb 2016 till 30th Dec 2016 and Cognizant Technology Solutions  from October 2015 to 15th Feb 2016 on Payroll of Scorg International.
+I have worked with Radical Softwares from June 2012 to September 2015
+Educational Qualification
+	Passing Year 
+	Institution University/Board
+	Level Of Education
+	Percentage
+
+/C.G.P.A.
+	Class
+
+	2011
+	Dr. Babasaheb Ambedkar Technological University, Lonere, Raigad.
+	B.Tech in Electronics & Telecommunication
+	7.04(C.G.P.A.)
+	First Class
+
+	2007
+	Maharashtra State Board
+	HSC
+	79.83
+	Distinction
+
+	2005
+	Maharashtra State Board
+	SSC
+	66.93
+	First Class
+
+
+Technical Skills     
+
+	Operating System
+	Ubuntu, Windows XP, Windows7
+
+	Languages
+	Pig, PL/SQL, Java, Scala
+
+	Tools/Platform
+	HDFS, Hive, Oozie, Sqoop, Oracle, Map Reduce, Flume, Spark: Spark core, Spark streaming, Spark-sql, Eclipse, Pycharm, Maven,AWS
+
+	Distributions 
+	Cloudera, Hortonworks
+
+
+Project Experience: 
+
+Project-1
+	 Project  Name
+	ATT Datalake
+
+	Company
+	Amdocs
+
+	Designation 
+	Sr Software Engineer
+
+	Client
+	AT&T 
+
+	Duration
+	Jan 2016 till now
+
+	Team Size
+	7
+
+	Project Description
+	This is Telecom domain project. In this we are processing different application types of data. We have sources like Message Router, Data Router ,Sqoop etc We are storing data in hive tables and processing data through Spark. Project consists of  Hortwonworks Data Platform and in house cluster of ATT.
+ 
+
+	Roles & Responsibilities
+	· My role was of development
+
+· We are creating Ingestion framework pipelines for processing data.
+
+· created hive tables and stored data in it.
+
+· Used svn repository
+
+· Shell scripting for some applications
+
+· Processed both csv and json files.
+
+· Written Spark jobs for processing
+
+· Written ETL using Spark Core and Spark-SQL using Scala
+
+· Written TWS schedules for automation
+
+· Published data through publishers
+
+· End to end implementation of project in Spark designed and developed.
+
+
+
+	Softwares & Tools
+	Hadoop, Hive, Spark, Core Java,Scala, Maven,sqoop, oracle,Spark Core,Spark-sql
+
+	Environment
+	Ubuntu
+
+
+Project-2
+	 Project  Name
+	Caresage Application
+
+	Company
+	Accenture Technology
+
+	Designation 
+	Software Engineer
+
+	Client
+	Philips
+
+	Duration
+	Feb 2016 till Dec 2016
+
+	Team Size
+	10
+
+	Project Description
+	This is healthcare project. In this we are processing patient ,organizational data. We are passing data through gateway. We are storing data in hive tables and processing data through Spark. We are also using Spring Batch. Used cloud foundry in project. Project consists of  Hortwonworks Data Platform and AWS cluster.
+
+
+	Roles & Responsibilities
+	· My role was of development
+
+· We are creating pipelines for processing data.
+
+· created hive tables and stored data in it.
+
+· deployment applications in cloud foundry
+
+· Written java plugin applications
+· Processed both csv and json files.
+
+· We created streaming pipelines using Kafka and Spark streaming
+
+· Written Spark jobs for processing
+
+· Written ETL using Spark Core and Spark-SQL using Scala
+
+· Data Validations using Spark using Scala
+
+· Exported data to post gre sql database using Spark-Scala
+
+· Used AWS services like Lambda and SNS services.
+
+
+
+	Softwares & Tools
+	Hadoop, Hive, Spark, Core Java,Scala, Maven, cloud foundry, Spark –streaming,Kafka
+
+	Environment
+	Ubuntu
+
+
+Project -3
+	 Project  Name
+	Financial Intelligence Unit (FIU)
+
+	Company
+	Cognizant Technology Solutions
+
+	Designation 
+	Software Engineer
+
+	Client
+	Banking
+
+	Duration
+	Oct-2015 till now
+
+	Team Size
+	7
+
+	Project Description
+	 This project is ETL project. FORTENT(Oracle)  is a source of data. We extract data from FORTENT to HDFS using Sqoop. We are performing ETL operation using Spark. And storing that data in Hive tables. 
+
+ 
+
+	Roles & Responsibilities
+	· Role was of Development.
+
+· Involved in Schema Design
+
+· Responsible for Requirement gathering and analysis for the project.
+· Written ETL using Spark Core and Spark-SQL using Scala
+· Involved in loading data from Oracle Database to HDFS by using Sqoop.
+
+· Involved in creating Hive tables, loading with data and writing hive queries.
+
+· Build Hive scripts for analysis of the imported data.
+
+	Softwares & Tools
+	Hadoop, Spark, Hive, Sqoop, Map Reduce,Core Java
+
+	Environment
+	Ubuntu
+
+
+Project-4
+	 Project  Name
+	After Market
+
+	Company
+	Radical Softwares
+
+	Designation 
+	Hadoop Developer
+
+	Client
+	John Deere
+
+	Duration
+	Nov-2013 To Oct -2015
+
+	Team Size
+	3
+
+	Project Description
+	This project is part of Manufacturing and sales which involves management of different entitlements related to customer and After market Extended warranty schemes. These entitlements are basically for different warranty services, High Value as well as Low value claims. This project is all about creating different parts and providing general labour services as well as account entitlements to different customers in different regions. The technologies which  we are using in this project are SQL Server , Oracle , HDFS , Pig, Hive ,Map Reduce, Oozie , Sqoop , Qlikview.
+
+
+
+	Roles & Responsibilities
+	· Responsible for Requirement gathering and analysis for the project.
+
+· Involved in loading data from Oracle and SQL Server to HDFS by using Sqoop.
+
+· Involved in creating Hive tables, loading with data and writing hive queries.
+
+· Involved in Schema Design
+
+· Build Hive scripts for analysis of the imported data.
+
+· Developed PIG Latin scripts to process the data which is available in CSV formats to generate the structured data and to load it into Hive.
+
+· Schedule the Jobs using Oozie.
+· Written Map Reduce jobs using Core java
+· Prepared Unit Test documents and code review documents.
+
+
+	Softwares & Tools
+	Hadoop, Pig, Hive, Oozie, Sqoop, Map Reduce, Flume, Shell Scripting,Core Java,Qlikview
+
+	Environment
+	Ubuntu
+
+
+Project-4
+	Project Name
+	Data Repository
+
+	Company
+	Radical Softwares
+
+	Designation
+	Database Developer
+
+	Client
+	Lupin Ltd
+
+	Duration
+	AUG-2012  TO AUG  2013
+
+	Team Size
+	4
+
+	Project Description
+	This project's motive was to take care of data ERP's and migrate data from several ERP's into centralized repository. We migrated data for Drug Delivery Systems and written automated procedures, functions and triggers to load data with a defined frequency
+
+	Roles & Responsibilities
+	· Plan, design, and implement application database code objects.
+
+· Create database objects such as tables, views, stored procedures, Triggers etc
+
+· Develop SQL scripts, indexes, and complex queries.
+
+· Perform quality assurance and testing of SQL server environment. Take care of the Database design and implementation.
+
+· Implement and maintain database security (create and maintain users and roles, assign privileges).
+
+· Database tuning and performance monitoring.
+
+· Writing optimized SQL/PL SQL queries and extract data from data warehouse as per business user requirement.
+
+· Coordinate between project management and development teams. 
+
+· Work as part of a team and provide 24*7 supports when required.
+
+· Do general technical trouble shooting and give consultation to development teams.
+
+· Interface with MSSQL/MySQL/Oracle for technical support.
+
+	Softwares & Tools
+	Database: Oracle 11g , MySql
+
+Additional Tools:  SQL *Plus, SQL Developer
+
+Languages: SQL, PL and SQL
+
+Environment : WINDOWS
+
+
+PERSONAL dETAILS: 
+
+	· Date of Birth
+	: 18th December 1989
+
+	· Age
+	: 27
+
+	· Nationality
+	: Indian
+
+	· Gender
+	: Male
+
+	· Marital Status
+	: Married
+
+	· Languages Known
+
+· Permanent Address 
+
+· Current Address      
+
+
+	: Marathi, Hindi, English
+
+:101/B/27 Primary Teachers Society, Isbavi, Pandharpur     
+
+Dist: Solapur  State: Maharashtra Pin: 413304
+
+:Flat no 27,Sunny Estate,Kaspate Vasti,Wakad,Pune 411057
+
+
+
+PAGE  
+

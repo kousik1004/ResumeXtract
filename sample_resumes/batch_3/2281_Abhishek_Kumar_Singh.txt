@@ -1,0 +1,192 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                     Abhishek Kumar Singh 
+                                                                                                                      E-Mail: abhishek4u2@hotmail.com
+                                                                                                                      Mobile: +919986567930
+                                                                     Software Development 
+SNAPSHOT 
+· A result-oriented professional with nearly 3 and Half years of experience in Software Development. 
+· Adroit at analyzing information system needs, evaluating end-user requirements, custom designing solutions and testing.
+· Proficient in ABAP/4 programming Reports, SmartForms, Modules with good presentation and communication skills.
+· Excellent working knowledge of Smartforms, Abap/4 debugger, Data dictionary, Objects, Report writing (classical/ interactive), ALV programming, BDC, Manual testing and have Keen knowledge in understanding the business process.
+
+CORE COMPETENCIES 
+Technical
+Languages                  : SAP
+Technologies              : ABAP.
+IDE’s& Tools              : SAP R/3.
+	
+SKILLS
+· Strong exposure on Smartforms, Data Dictionary Objects, Classic & ALV reports, 
+FMs, RFCs,  ABAP/4 debugger, TMG and Transport Management.
+· Have worked extensively on Reports and Smartforms and Manual testing, BDC.
+· Good knowledge of Performance Analysis & Tuning and Sap Note implementation. 
+· Have done monitoring for ALE technical track such as Batch jobs, Idocs, Trfcs, Qrfcs.
+· Good Trouble shooting and Debugging skills.
+· Have worked as an L/2 Resource for support Project.
+· Experienced in Manual testing and Bug fixing.
+· Have Created Reusable Components for the project which was used to improve our overall Project Delivery and reporting to higher level.
+· Have supported Go-live from Client site.
+
+WORK EXPERIENCE
+· Worked for Oloop Technologies With EY India from June 2017 till October 2017.
+· Worked in a Start-up Random Stay from July 2016 to March 2017.
+· Worked for Dynpro India with IBM India from April 2014 to June 2016.
+· Worked in Accenture from April 2012 to December 2013.
+
+EMPLOYMENT PROFILE 
+
+Since June 2017 – October 2017 in EY India as Oloop SAP Developer 
+· Client Name: Gibson Innovation
+· Environment: SAP R/3.
+· Gibson Brands, Inc. is an American manufacturer of guitars and brands as Epiphone, Baldwin and Wurlitzer. The company's operations are managed on a world-class collaborative business solution – SAP on a Virtual Private Network.
+· Job type: Contract (Oloop Technologies )
+· Work mainly deals with
+· Creation and Implementation of GST related objects. 
+· Change In tax Structure as per GST and implementing the logic in Programs
+· Worked Extensively on Smart forms, ALV Reports, Table, TMG and SAP Note Implementation. 
+· Design and Development of Smart forms and Driver programs from Scratch as per the new tax Structure.
+· Created Purchase Order, Tax invoice, receipt voucher, payment voucher, Self invoice, Export invoice, Debit-credit Note etc for SD and FI modules.
+· Created ALV Reports for Sales and Purchase register as per the new GST structure.
+· Worked on filing of GSTR-1 and GSTR-2 reports.
+
+
+Since July 2016 – March 2017 in Random Stay (Own Start-Up)
+· Name::Random Stay
+· Environment: Android and iOS
+· The idea was to create an online platform with an aim to provide an alternate stay to budget traveler, tourist, backpackers etc. during recently concluded Kalachakra Pooja.
+· Location : Bodh Gaya, Bihar ( one of most important and sacred Buddhist pilgrimage in the world)
+· Work mainly deals with
+· Understanding the present market scenario of hospitality industry in Bodh Gaya
+· Understanding the need of budget tourist and backpackers visiting Bodh Gaya
+· Tried to organize the disorganized home stay accommodation in Bodh Gaya and create an environment for verified homestays
+· Create a safe and sound homestays for tourists visiting Bodh Gaya mainly during Kalachakra.
+· Meeting with local house owners to register with us, instead of getting booking from any broker/middlemen.
+
+
+Since April 2014 – June 2016 in IBM India Private LTD. as Senior Software Engineer
+· Client Name: Coca-Cola
+· Environment: SAP R/3.
+· The Coca-Cola Company products are carbonated soft drink sold in stores, restaurants, and vending machines throughout the world. The company produces concentrate, which is then sold to licensed Coca-Cola bottlers throughout the world. The bottlers, who hold territorially exclusive contracts with the company, produce finished product in cans and bottles from the concentrate in combination with filtered water and sweeteners. The bottlers then sell, distribute and merchandise Coca-Cola to retail stores and vending machines.
+· Projects: AMS (Support)
+· Job type: Contract (Dynpro India pvt ltd)
+· Work Mainly deals with
+· Supporting the client implementation projects
+· Worked as a L/2 support for ABAP & ALE 
+· Worked Extensively on ALV Reports, Smartforms, Table, TMG, FM’s
+· Debugging of reports and Smartforms for root cause analysis and Bug fixes.
+· Worked on Tickets which include Bugs and Design Change and provided quality solution with in the Agreed SLA’s 
+· ALE & IDOC Monitoring of all the production Systems 
+· Monitoring of all the incidents raised with my team for speedy resolution
+· Worked on Client Site at WTC Bangalore for Indian bottler Go-Live. 
+· Developed a reusable component for the organization
+· Build a Utility Program to mass update the Status profile of equipment master but as the status profile is changed, user status in equipment master becomes blank, hence along with updating the status profile, the user status was also be updated accordingly.
+· Build a Utility Report to view how many Idocs Deviate from their threshold value in production based on which we can prepare a report for our client and higher level.
+
+
+Since August 2012 – Dec 2013 ACCENTURE India Private LTD. as Associate Software Engineer
+· Client Name: Alcatel- Lucent
+· Environment: SAP R/3.
+· Alcatel-Lucent is a French global mobile phone manufacturer and telecommunications equipment company which focuses on fixed, mobile, and converged networking hardware, IP technologies, software, and services. It holds Bell Labs, one of the largest innovation and R&D houses in the communications industry. Alcatel-Lucent has operations in more than 130 countries. 
+· Projects: PRoM, Bundle 2, Bundle 3, New Horizon (All Implementation).
+· Job type: Permanent
+· Objective- Creating development objests as per approved Functional Specification
+· Evaluating customer’s requirements, implementing changes and testing in order to fulfill organization needs.
+· Development on Enhancements, Reports, Smartforms, Performance Analysis & Tuning.
+· Documenting test cases, managing changes and addressing costs to organization
+· The main tasks involved Requirement Analysis, Design, Coding, Code reviews, Prepare technical specifications, IT & UAT Support, etc.
+· Strong exposure on Data Dictionary Objects, Classic & ALV reports, Smart forms, 
+FMs, RFCs, ABAP/4 debugger and Transport Management. 
+· Create Technical document and perform Manual testing to eradicate any bugs.
+· Developed a reusable component for the organization
+· Conflict  & Dependency Check
+While doing any object we mostly face issues on conflicts between the changes done in project line and production line. As the object is present and can be developed in both the lines, hence there is a chance of conflict, as changes done in both the lines especially at same time may not be in sync.
+
+We also have issues on checking the dependancy of an object created. Since an object created can have many other objects on which it depends, We need to make sure whatever object reused are already present at the next level.
+For this we need a tool which can check all the dependent object of an Object and ensure it is captured or already available in the required system.
+
+EDUCATION
+B.Tech (Mechanical Engineering) from Karunya Institute of Technology, Coimbatore, Tamil Nadu in 2012 with 69% marks.
+
+Class XII from Ranvijay Intermediate College, Bokaro (Jharkhand) in 2007 with 60% marks.
+
+Class X from VikashVidyalaya, Ranchi in 2005 with 70% marks.
+
+TRAININGS ATTENDED
+· Attended KT on 
+· SAP Mobile DSD
+PERSONAL DETAILS 
+Name			: Abhishek Kumar Singh
+Father’s Name		: Nageshwar Prasad Singh
+Date of Birth		: 02nd Aug 1989
+Sex               		: Male
+Address		: Patel Nagel, New Delhi, India
+Languages		: English & Hindi.
+Phone Number  	: 9986567930
+
+ (
+ 
+Declaration
+I do hereby declare that the particulars of information and facts
+ stated here in above are true and 
+correct to the best of my knowledge and belief.
+ 
+Date: 
+ 
+Place: 
+Delhi
+(Abhishek Kumar Singh)
+)
+
+
+

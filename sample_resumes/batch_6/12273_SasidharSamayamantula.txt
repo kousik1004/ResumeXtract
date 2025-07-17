@@ -1,0 +1,250 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SasidharSamayamantula
+Mobile: +91- 9493286728
+E-Mail: sasidharsamayamantula@gmail.com
+Career Objective:
+
+To associate with a professional organization which would be able to exploit my resources to the maximum extent in achieving the goals of the organization and treat me as an asset of the organization while contributing to my career and self-development.
+Experience Summary:
+
+            5 Years of experience in Design and Development of Embedded Systems which includes Embedded Linux Kernel, IOT, RTOS, Linux System Programming, ARMV7 and ARMV4 architectures, Bluetooth Profiles & Embedded Applications.
+Career Graph:
+	
+
+	
+
+
+· Currently employed as a Senior Software Engineer – Embedded Software at Sasken Communication Technologies Ltd. Hyderabad. Since January 2016 to till date. 
+
+· Worked as Senior Research Engineer in Hyundai Mobis, Hyderabad from October 2014 to December 2015
+
+· Worked as a Software Engineer in Ray Business Technologies Pvt. Ltd, Hyderabad. From October 2012 to Sept 2014.
+Technical Skills:
+
+	Domain Expertise
+	Linux System Programming, Embedded Systems, ARM
+
+	Technologies
+	Bluetooth – HFP, A2DP, AVRCP,PBAP profiles
+
+	Languages/Skills
+	Embedded C, C & Data Structures, Knowledge on C++
+
+	Operating System
+	Linux 
+
+	Scripting
+	Linux Shell
+
+	Compilers/IDE
+	GCC/ARM_GCC, Source Insight, KeiluVision
+
+	Network Protocols
+	Socket Programming
+
+	Protocols
+	I2C, SPI, MQTT,UART
+
+	Utilities
+	Minicom, UML Diagrams, JIRA, SVN
+
+	Tools
+	Linux GDB (GNU Debugger), STRACE, CVD, Cheddar
+
+	Build Utilities
+	Buildroot, LTIB, Yocto. 
+
+
+
+Key Skills:
+· Good in C & Data Structures Programming, capable of developing flexible and portable designs in C
+· Good knowledge and experience on different Real time Scheduling algorithms and more familiar with cheddar.
+· Extensive knowledge on ARM V4 and ARM v7 Architecture.
+· Flexible in working on Linux and RTOS Environments.
+· Experience in Bluetooth profiles HFP,A2DP, AVRCP and PBAP.
+· Experience in Linux Internals, System Programming, IPC, Threads
+· Networking Concept & Socket Programming 
+· Good in Operating Concepts like Memory Management, Process Management, Networking, IPC events, Socket Programming, Kernel Configuration, Compilation and Module Programming.
+· Usage of Cross-compilation tools& IDE for development
+· Complete understandings of Linux kernel build system
+· Analysing the issues at system level and fixing by finding the root cause
+· Hands on experience in Board-bring up.
+· Good documentation & presentation skills
+· Strong debugging skills
+· Good communication & inter personal skills, self-motivated, committed, hardworking, willingness to learn new concepts/technology and acceptance of challenges.
+· Good knowledge on UML Diagrams
+
+
+Academics:
+· Pursuing M.Tech in Embedded Systems from BITS-PILANI as a Work Integrated Learning Programme 
+· Completed P.G Diploma in Embedded Systems from Vector Institute Hyd. in 2012.
+· Completed B.Tech (EEE) from Chirala Engineering College (affiliated to JNTU Kakinda), Chirala with 69% in 2011.
+· Completed +2 from Jawahar Navodaya Vidyalaya, East Godavari Dist (A.P) with 68% in 2007.
+· Completed S.S.C from Jawahar Navodaya Vidyalaya, East Godavari Dist (A.P) with 82% in 2005.
+Project Profiles:
+
+PROJECT # 1
+
+Project Title		: STI framework on Qualcomm chipsets 	
+Team Size		: 4
+Language		: C
+Hardware		: Qualcomm Processors (SDM 670, SDM 845)	
+Work Location          :  Hyderabad (Qualcomm India Pvt Ltd. (Consultant))
+Project Description 	:
+			   STI is a Standalone Test Image framework. Which can be used by the testing team to test the driver API’s that exists in the primary and secondary boot loaders of the Qualcomm Chipsets.
+Roles and Responsibilities	:
+· Involved in Design and Developing of STI framework.
+· Involved in Debugging and Bug fixing of various issues related to STI framework.
+
+PROJECT # 2
+
+Project Title		: Volkswagen MIB Standard	
+Team Size		: 6
+Language		: C++ 
+RTOS			: QNX
+Hardware		: Jacinto SoC	
+Bluetooth Chipset 	: ALPS  
+Work Location          :  Bangalore (Delphi Automotive Systems (Consultant))
+Project Description 	:
+			   MIB is a MODULAR INFOTAINMENT BOX that goes into Volkswagen Cars. Which can support various entertainment features like Radio, CD, USB, AUX, Bluetooth. MIB supports a special feature in Bluetooth which is Dual HFP. At any point of time 2 mobiles can be connected to the system.
+Roles and Responsibilities	:
+· To work with ALPS Stack and to design a interface which helps to interact with mobile phones.
+· Implemented AVRCP 1.4 Browsing feature for MIB
+· Involved in implementation of Dual HFP and Call related features for MIB 
+· Involved in Debugging and Bug Fixing of various issues related to different Bluetooth profiles HFP, A2DP, AVRCP, PBAP.
+· Travelled Onsite (Sweden) for 3 months to support various SOP activities.
+
+PROJECT # 3
+
+Project Title		: HB20_BSAudio	
+Team Size		: 10
+Language		: C  
+Compiler /IDE	: CodeWarrior
+RTOS			: NUCLEUS
+Hardware		: TCC8001
+Bluetooth Chipset 	: CSR
+Project Description 	:
+			    To design a Bluetooth interface for the accessory of Hyundai cars to interact with mobile phones.
+Roles and Responsibilities	:
+· To work with CSR chipsets stack and to design a interface which helps to interact with mobile phones.
+· Involved in Middleware and Application development for Bluetooth Module. That involves in support of the Bluetooth profiles, HFP, A2DP, AVRCP and PBAP.
+· To provide framework support this controls the product in allocation of resource.
+· To work on HMI tool to develop the GUI interface for the accessory.
+· Debugging and Bug Fixing
+
+PROJECT # 4
+
+Project Title		: DVM-250-GPS Enhancements
+Team Size		: 3
+Language		: C & System Programming
+Compiler /IDE	: ARM GCC compiler
+Hardware		: ARM Core TI’s DM365
+Project Description 	:
+			DVM250 is a professional video event data recorder integrated in to a rear view mirror of a car. Rear view mirror of a car can be replaced by this mirror. It can record video + audio inside and outside of the vehicle. In this project, we have configured GPS and complete application module development to parse the raw GPS data with the help of NMEA library.
+Roles and Responsibilities	:
+· Requirement analysis and Implementation 
+· Involved in API implementation for the team
+· Debugging and Bug Fixing
+
+PROJECT #  5
+Project Title		: Home Automation
+Team Size		: 4
+Compiler /IDE	: ARM GCC compiler
+Hardware		: Freescale IMX6 Sabrelite and Arduino board,zigbee.
+S/W Environment	: Embedded C, MQTT Programming, System Programming.	
+Project Description 	:
+		The projects aims at providing a user to control the home environment through a mobile application from anywhere across the globe. Different sensors such as temperature sensor, LPG gas sensor are integrated with the hardware and the user will be able to monitor the status of these sensors on the app.
+Roles and Responsibilities	:
+· Developed code that can communicate parallel with Arduino Board, Mobile App and Hardware using Embedded C and MQTT.
+· Running MQTT Broker on IMX6 sabrelite board and operate the devices from Mobile App which is running MQTT client.
+· Documentation, Testing and maintenance of the Project.
+
+PROJECT # 6
+
+Project Title		: Chrome Browser with FVWM window manager on IMX6 Sabrelite.
+Team Size		: 1
+Compiler /IDE	: ARM GCC compiler
+Hardware		: Freescale IMX6 Sabrelite
+Project Description 	:
+			This project is about bringing up the Chrome Browser with FVWM Window Manager using kernel 3.0.35.  Kernel image was built and is tested by booting it from SD card. Fast boot is used for booting the kernel and file system for IMX6 Sabrelite hardware. 
+Roles and Responsibilities	:
+· Making Minimal root file system with chrome binaries added.
+· Building optimized kernel with disabled features which are not required.
+· Cross Compiling FVWM window manager.
+· Documentation, Testing and maintenance of the Project.
+
+
+
+
+
+
+
+
+
+
+PERSONALPROFILE:
+
+Name			 :          SasidharSamayamantula	
+Father’s Name		 :          Venkateswara Rao 
+Date of Birth		 :	15-07-1990
+Languages Known	 :          English and Telugu
+Permanent Address	 :	D.No.9-72,
+                                                Subash Street, East Godavari Dist.
+                                                Jaggampeta-533435
+Contact number         :	+91-9493286728
+
+DECLARATION:
+
+I hereby declare that the information furnished above is true to the best of my knowledge.                                                           
+
+Place: Hyderabad
+Date:							  (Sasidhar Samayamantula)
+

@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Naresh Ghuguskar
+Cell No: +91-8109216534
+Email ID: nareshghuguskar.it@gmail.com
+
+DOB: 04 July, 1990
+SUMMARY
+
+· Software Engineer with around 2+ years of relevant experience in design ,development and implementation of Education, Real Estate,Medical, E-Commerce Web-based and distributed systems level applications.
+
+· Good knowledge of Core concepts in Java
+
+· Good knowledge of Object Oriented Design and middle-ware application layering
+
+· Good Exposure to Design Patterns for application development
+
+· Experience in web based applications using Core Java, JSP, Servlets, JDBC,Spring,SQL etc.
+
+· Proficient knowledge of J2EE and Java based framework applications 
+
+· Possess good problem analysis skills with ability to follow project standards.
+
+· Strong problem solving and debugging skills 
+
+· Highly motivated, detail oriented, have ability to work independently and as a part of the team, good organization and inter personnel communication skills.
+
+· Good Communication skills, the ability to work in a group and adapt quickly to new environments.
+
+TECHNICAL SKILLS
+
+· Operating System : Windows-2000/XP, Ubuntu
+
+· Languages : JAVA
+
+· Markup Languages : HTML, CSS, XML
+
+· Scripting Language : JavaScript, JQuery, Ajax, JSON
+
+· Technologies : J2EE (JSP,Servlet,JDBC)
+
+· Frameworks :  Hibernate
+· Database : MySQL
+· Database Languages : SQL
+· Web Servers : Apache Tomcat
+· Tools : Git,BitBucket
+· J2EE IDE : Eclipse 
+EDUCATIONAL QUALIFICATION
+
+· M.C.A with 82% from Laxmi Narayan College of Technology affiliated to RGPV Bhopal University in 2013-2015.
+
+· B.C.A with 71% from ATASH College of Management and Technology affiliated to Dr. Harisingh Gour Vishvavidhyaly Sagar University in 2009-2013.
+· H.S.C from MPBSE Bhopal with 63% from R.D.H.S School Pandhurna in 2008-2009.
+
+· S.S.C from MPBSE Bhopal with 63% from M.P.L School Pandhurna in 2005-2006.
+
+SIGNIFICANT EXPERIENCE
+
+Medwatch Doc India Pvt. Ltd. 
+Software Engineer
+
+1.Project: Commission Management System
+
+
+
+
+
+
+
+
+
+
+
+
+Description: 
+
+The Commission Management System is the JAVA based secured web application. It is an application which contains commission calculation and distribution to the several executives as per the business strategy of the client. Application also shows the graphical representation of the business done (Commission earned) by the executive and his/her down line. 
+
+The commission / revenue get generated on the basis of amount paid by the customer on every plot. For each transaction, the executive gets some percent as commission depending on the grade of executive from amount paid. 
+
+This application also contains profile management and permission/ access level permission as per profile making. It specifies profiles and their permission sets. Profile management makes the system more secure for the user by providing data security.      
+
+Environment: Java, J2EE ,Java Script, Jquery, Ajax, HTML, MySql, Tomcat
+
+Role & Responsibilities: 
+
+· Understanding the requirements by the Client.
+
+· Development of business logic to meet requirements, Unit testing  and bug solving.
+
+· Defining Action Classes for performing different operations involved in the application. 
+
+· Developed Java Beans to store and retrieve the data entered by the user and display them in the respective JSP page.
+
+· Logic and code for the registration and validation of the enrolling customer was developed.
+
+· Debugging, Bug solving, Performance tuning integration and deployment on staging environment.
+2.Project: Medical Store Management
+Description: 
+
+The basic use of the development of medical store management is to keep Record of Customer trasaction or Billing with medical store also manged all the drugs stock which is helpful for future.It is the system where we can check stock,price of the drugs,customer information,billing trasaction that is helpful for business growth.
+Environment: Java, J2EE (JSP,Servlet,JDBC), JavaScript, Jquery, HTML, CSS, MySql, Tomcat 
+Role & Responsibilities: 
+•
+Understanding the requirements by technical team.
+
+•
+Development of business logic to meet requironments, Unit testing and bug solving.
+
+·       DataBase Design as per the client requirment and future perspective. 
+
+•
+Development & Mapping of Servlet required for the respective JSP’s and database operations.
+
+•
+UAT coordinator and tracking CR(s) for developed system.
+
+•
+Debugging, Bug solving, integration and deployment on staging environment.
+
+Nacre Software Service Pvt. Ltd. Hyderabad
+Jan, 2015 to April, 2015 
+
+Java Trainee
+Client: Nacre Software Service Pvt. Ltd.
+
+Description This Project would provide an automated system for build the trainee resume and share that resume to IT company. That is depends on criteria of particular Trainee. This Project Managed all Trainee Contacts, and their relevant information to helpful for future.      
+Environment: Java, J2EE, Java Script, My SQL, Tomcat
+Role & Responsibilities: 
+
+· Understanding the requirements by technical team.
+
+· Development of business logic to meet requirements, Unit testing and bug solving.
+
+· Development & Mapping of Servlet required for the respective JSP’s and database operations.
+
+· Development of business logic to meet requirements, Unit testing and bug solving.
+
+· UAT coordinator and tracking CR(s) for developed system.
+
+· Debugging, Bug solving, integration and deployment  on staging environment.
+
+DECLARATION
+
+                     I do hereby declare that the particulars of information and facts stated herein above are true, correct and complete to the best of my knowledge and belief.                                                                                          
+                                                                                                  Yours Sincerely  
+
+
+
+
+
+
+
+
+
+
+Naresh Ghuguskar

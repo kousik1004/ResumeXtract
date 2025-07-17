@@ -1,0 +1,264 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Summary
+
+	NAME : Gouse khan                            Email Id : ghouserahimeen@gmail.com
+
+	
+
+	
+
+
+
+	Summary
+	Overall 7+ years of work experience with Cisco Systems and in IT. 
+
+On pay rolls of Zensar Technologies Ltd. as Lead. 
+· Serving Global Cisco’s partner and customers with various Cisco Projects/Cisco Tools, in their issues related to various Cisco supported applications. 
+
+· Expertise skills in handling Escalations & VIP Incidents using Remedy 8 and new ESP tool.
+· Address critical escalations, P1/P2 and engage with such clients to ensure that these issues are handled with care, building back the confidence and thus service recovery.
+· Assume ownership of any IT problem from any internal client, and follow path of escalated contacts to ensure the issues are resolved in timely and effective ways to the satisfaction of the requestor and well within the contractual agreements. 
+· Follow-up with clients and utilize case handling and closure policies to ensure satisfaction both from users and employers.
+· Identify systematic problems and/or recommend opportunities for improvement that will eliminate or reduce problems in the field. 
+· Follow established procedures for escalation and problem resolution. 
+
+Experience in developing applications using JAVA, J2EE (Servlets, JSP, and JDBC), Java Script, and HTML. 
+Good working knowledge in Struts, Hibernate and Spring Frameworks. 
+Worked on various projects using Java/J2EE, utilizing JDBC, JSP,,Servlets with Sql and oracle databases, apache tomcat, Jboss, websphere as servers and Eclipse as IDE’s etc. 
+Command in Structured Query language. 
+Good in communication skills and having the knowledge on domains including Insurance, Retail, Manufacturing and CRM etc. 
+
+
+
+                                         Rewards and Recognitions
+· Got the Cisco Start Excellence award for 3 consecutive years
+· Performance Award for highest productivity, Global support experience, customer survey scores and nil escalations
+
+· Rewarded in partner recognition program by Zensar and on Spot awards at Client place in Cisco war room duty
+· Promoted as Lead based on the performance and contribution. 
+· Done the Zensar certifications of Project Management academy.  
+COMPETENCIES
+
+	Category
+	Major Skills – Primary 
+	 Minor Skills – Secondary 
+
+	Verticals
+	INSURANCE,  RETAIL, CRM  
+	UTILITIES
+
+	Domains / Programming Skills 
+
+(As Applicable)
+	JAVA / J2EE  (JSP,SERVLETS,JDBC) STRUTS, HIBERNATE,SPRING.
+	XML.
+
+	Tools & Techniques
+	LOG4J
+	BIG DATA HADOOP, ANT, JUNIT
+
+	Databases
+	ORACLE 9i/10G,SQL
+	MONGODB
+
+	Software Tools
+	TOAD
+	POWERBUILDER 7,
+
+	Operating Systems
+	WINDOWS 2000, XP WIN7, Vista.
+	UNIX, LINUX
+
+
+PERSONAL ACCOMPLISHMENTS 
+
+	
+	     Degree/Certification/Publication
+	Year of Passing – 
+              (If applicable )
+
+	Academic Qualification
+	B.Tech Computer Science
+	 2007
+
+	Certifications, Scores 
+	Sun Certified Java Professional,     
+Oracle Certified administrator-SQL.
+	                    2011
+
+	
+	
+	
+
+
+PROFESSIONAL EXPERIENCE
+
+Project-1 / Client Name / Location – CCW CONFIG / CISCO SYSTEMS INC./ US
+
+Duration   :  Feb- 2011  to till date
+Technologies – JAVA, JSF, SPRING, HIBERNATE, JQUERY,JAVA SCRIPT,ECLIPSE,JBOSS,ORACLE 10G,MONGODB
+Company:  ZENSAR TECHNOLOGIES.
+
+Project  Profile : 
+
+Config is the heart of CCW(Cisco Commerce Workspace) for the users from different tracks (Order/Sell/Deal/OM/CSCC) would use to configure their Cart further it will convert into Order or become a part of a Deal. The configuration process involves putting pieces of a puzzle together to make a valid solution. User would able to configure any Cisco product with all hardware and software services and validated to make configuration valid. Users are keep prompted with the user friendly messages and warnings during the configuration.
+
+The user configurations are validated based on the business rules for each and every product, software and services. And user’s access is based on their respective Cisco profile attributes such as BillToID, ERP Number, PriceList, Default Country, Intended Use, etc.
+Contribution / Highlights:  
+
+· Providing technical support to application. 
+· Checking the Code Base as well as Front-end to find the root-cause.
+· Finding the Solution for issues and update the same to customers. 
+· Monitoring the application.
+· Sanity testing.
+Project-2 / Client Name / Location – CUSTOMER MANAGEMENT TOOL,CARREFOUR (U.S).
+
+Duration   : Oct 2010  to Jan 2011.
+
+Technologies – JAVA,STRUTS, JAVA SCRIPT,HTML,ECLIPSE,TOMCAT,ORACLE 10G.
+
+Role          : Software Engineer
+
+Company :  ZENSAR TECHNOLOGIES.
+
+Project Profile : 
+
+CMT Central application is a Retail application to create and register customers of Carrefour cash and carry business. Mainly this application used to manage customer master data, customer 
+
+Information, customer identification of contract customer and customer credits at various levels. The application playing a vital role in creation of customers, performing sales consolidation, generating reports, maintaining customer wise contract information(special pricing) etc. Contract is the credit provided to the customer on which he get special price for an item. Mainly CMT is a central application to other interface applications that work with communicating and integrating to CMT for Cash and Carry Business.
+
+Contribution / Highlights:  
+
+· Played a role in Coding by using Struts, Hibernate and JavaScript.
+
+· Designed and developed the front end using HTML, CSS and JSP.
+
+· Developed Servlets as a handler for the request from the client end.
+
+· Contributed in the service improvement.
+
+Project-3 / Client Name / Location  – AGENT DESKTOP APPLLICATION, ASSURANT SOLUTIONS (U.S).
+
+Duration   :  April- 2010 to Sep 2010.
+
+Technologies – JAVA,STRUTS, JAVA SCRIPT,HTML,RAD WEBSPHERE,ORACLE 10G.
+
+Role          : Software Engineer
+
+Company :  ZENSAR TECHNOLOGIES.
+
+Project Profile: 
+
+ADT is an CRM application of insurance (n-tier architecture) for extended service contracts (ESC) product line. It is mainly used by the call center representatives to manage customer calls. 
+
+The Extended Service Contracts are sold by the retailers like Staples, Radio Shack etc. They are the dealers who sell contracts. They are clients of Assurant. Some dealers have branches or they may have more than one way of doing business for example online business and in store business. Based upon these criteria, dealers are further divided into groups – for example Staples online and Staples retail stores. Agent Desktop application is currently supporting more than 1000 dealers and around 100 dealer groups.
+
+Contribution / Highlights:  
+
+·  Functioned as Software Engineer.  
+
+·  Responsible for the development of  assigned modules in application
+
+·  Coding JSP pages for dynamic representation of data on the client.
+
+·  Prepared Flow and Sequential diagrams of application.
+
+·  Played a role in documentation of application.
+EMPLOYMENT HISTORY
+
+	Employer
+	From
+	To
+	Designation
+	Area
+
+	Zensar Technologies
+
+Ltd.
+
+Sri Venkateswara Industrial Training center.
+	March 2010
+
+01 Nov 2007
+	Till date
+
+28 Feb 2010
+	Lead
+Lecturer
+	Implementation,    development & Support projects in Java/J2ee Apps.
+
+Workshop Calculation and Science of all technical trades.
+
+
+PERSONAL DETAILS
+
+	Name
+	:
+	GOUSE KHAN.P
+
+	Address: 
+	:
+	H.No:215, First floor, R.R Layout 4A cross, Near Vijaya bakery, Jubilee School road, Vijinapura, Bangalore-560016.
+
+	Contact Number
+	
+	+91-8792818041
+
+
+                              PROJECT MANAGEMENT ACADEMY CERTIFICATIONS
+
+
+
+
+Declaration:  
+
+The above statements are true to the best of my knowledge and belief. 
+
+Place: Bangalore                                                       Name:  Gouse Khan.P
+
+Page 2 of 7
+

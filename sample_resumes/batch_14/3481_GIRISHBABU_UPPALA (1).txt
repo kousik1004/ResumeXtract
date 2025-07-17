@@ -1,0 +1,378 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+Page 1 of 4 
+
+ 
+
+Email: girishuppala@gmail.com        Mobile: +919100099923 
+                          Location: Hyderabad 
+
+GIRISHBABU UPPALA 
+
+ 
+A passionate, confident and self-motivated senior software developer with 3.5 years of experience, including 3 
+
+years on Hadoop. Experience in the use of agile approaches, excellent ability to grasp emerging technologies 
+
+and work in a team or autonomously. 
+
+ 
+
+ 
+
+HIGHLIGHTS 
+
+ 
+
+ 
+
+ Total 3.5 Years’ experience in Software Technologies includes development of Big-Data-Hadoop     
+
+framework and Apache Spark and Scala. 
+
+ Among 3 years of experience in Hadoop 1.x, Hadoop 2.x and Spark. 
+
+ Working knowledge in Hadoop Components HDFS, Map-Reduce.  
+
+ Working knowledge on Hadoop eco-system Components like HDFS, Map Reduce, PIG 0.9, HIVE 0.13, 
+
+HBASE 0.94 and SQOOP 1.x. 
+
+ Good exposure on Zookeeper and Oozie. 
+
+ Working experience on Apache Spark Core, Apache Spark Sql. 
+
+ Good understanding of Real time streaming using Spark Streaming with Kafka. 
+
+ Involved in converting Hive/SQL queries into Spark transformations using Spark RDDs, Spark SQL 
+
+using Scala. 
+
+ Extensive hold over Hive and Pig core functionality by writing custom UDFs. 
+
+ Working Experience on Scala REPL. 
+
+ Working Experience in Maven. 
+
+ Good Knowledge on databases language like SQL, PL/SQL, Oracle 10g. 
+
+ Importing and exporting data from RDBMS to HDFS and vice-versa using Sqoop.  
+
+ Attending meetings and interacting with clients regularly. 
+
+ Ability to adapt to new environment quickly, strong team player, confident, sincere and committed. 
+
+ Learning Python, for Data Analysis. 
+
+ 
+
+EMPLOYMENT HISTORY (TOTAL 3 YEARS, 5 MONTHS OF EXPERIENCE) 
+
+ 
+
+ 
+
+ Currently, I am working as a Developer(Hadoop) with TechMahindra., Hyderabad, India since April 2015 
+
+till date. 
+
+ 
+
+EDUCATION 
+
+ 
+
+ 
+ Bachelors of Technology (B.Tech) in Information Technology,  
+
+        Anil Neerukonda Institute of Technology and Science, AU. 
+
+ State Board of Technical Education from AP, India. 
+
+ Secondary School Certificate (SSC) from AP Board, India. 
+
+ 
+
+
+
+ 
+
+ 
+Page 2 of 4 
+
+ 
+
+TECHNICAL SKILLS 
+
+ 
+
+Big-Data  Hadoop 1.x, 2.x( HDFS, Map-Reduce). 
+
+Hadoop Eco-Systems Pig, Hive, HBase, SQOOP, Zookeeper, Oozie. Kafka. 
+
+Distributions Cloudera, HortonWorks 
+
+Spark Eco-System Spark Core, Spark SQL, Spark Streaming. 
+
+Languages Core JAVA, Basic C, Basic C++, HTML. 
+
+RDBMS SQL, PL/SQL Oracle, MySQL. 
+
+Operating Systems UNIX/Linux/UBUNTU/Cent OS, Mac OS, Windows. 
+
+Tools Eclipse, Maven, Putty 0.6. 
+
+Others Apache Utilities. 
+
+ 
+
+PROJECTS UNDERTAKEN  
+
+ 
+Project #1  
+
+Project Name  : Propensity Lead 
+
+Duration   : April 2017 - Till date 
+
+Client   : ICICI 
+
+Team Size   : 10 
+
+Environment  : Apache Spark1.6, Scala 2.x, Centos 6.5, Hadoop 2.x, Oozie,Hive 0.14, 
+
+   Sqoop,Hbase. 
+
+ 
+
+ Description:  
+ 
+
+ In this project we are increasing the customer base. First we get details of the customers who are thin 
+
+penetration to the ICICI. We call them a Prospect. We get details about customers from different sources. Like 
+
+ATM, NEFT, POS, Social media and Campaigns, then we get these details into our system. Our Business 
+
+Analysts have developed a propensity model to apply on this information. The data already is in Sybase, in the 
+
+finance core banking of ICICI. We use Sqoop process and ingest data in to HDFS. And we also have some data 
+
+in files so for that reason we use Cron jobs to ingest data into HDFS. We apply Propensity model on data and 
+
+after processing, we provide to the CRM team. 
+
+ 
+
+Roles and Responsibilities: 
+
+ 
+
+ Developed Spark scripts by using Scala shell commands as per the requirement. 
+ Used Apache SparkSQL for analysis.  
+ Implemented Partitioning, Dynamic Partitions, Buckets in Hive. 
+ Created Hive tables, and loading and analysing data using hive queries. 
+ Performed advanced procedures like text analytics and processing, using the in-memory computing          
+
+capabilities of Spark using Scala. 
+
+ Optimizing of existing algorithms in Hadoop using Spark Context, Spark-SQL, Data Frames and Pair 
+RDD’s. 
+
+ Handled large datasets using Partitions, Broadcasts in Spark, Effective & efficient Joins, Spark in Memory 
+capabilities, Transformations and other during ingestion process itself. 
+
+ Handled extraction for Parquet and Avro file Formats in Hive. 
+
+
+
+ 
+
+ 
+Page 3 of 4 
+
+Project #2                                                                                                         
+
+Project :  Data Enhancement for Transactions 
+
+Client         :  US BANK 
+
+Domain         :    Banking 
+
+Role          :                Hadoop Developer 
+
+Team Size         :   06 
+
+Environment      :                 Hadoop 2.x, Pig, Hive, Sqoop 
+
+Duration      :        February 2016 to March 2017     
+
+ 
+
+Description: 
+
+ 
+
+         Data Enhancement for Transactions aims at enhancing the transactions with additional details. This in turn 
+
+helps in producing enhanced statements, General Ledger Files and supporting data files. Transaction records in 
+
+files from Account Receivable system is matched with additional records in files from Travel agents. This 
+
+makes the transaction records enriched. Enriched transaction records will be sent to DB2 for statement 
+
+presentment. Orphaned transactions will be considered for next day processing until 60 days.                                                
+
+ 
+
+ 
+
+Roles and Responsibilities: 
+
+ 
+
+ Importing data from DB2 for matching process using Sqoop. 
+ Responsible for creating HIVE external tables on the finalized data in HDFS and partitioning and 
+
+bucketing the data based on markets and products for performing analysis. 
+
+ Involved in creating Hive tables, loading the data using Hive and in writing Hive queries to analyze the 
+data for adhoc requests received from clients. 
+
+ Processing the duplicate data using coalesce. 
+ Creating the lateral views for different user’s types with restricted permissions. 
+ Very good understanding of Partitions, Bucketing concepts in Hive and designed both Managed and 
+
+External tables in Hive to optimize performance 
+
+ 
+
+ 
+
+Project #3 
+
+ 
+
+Project  : IT Wizard Application Development. 
+
+Duration  : April 2015 – December 2015. 
+
+Client  : NIIT 
+
+Role   : Java Developer 
+
+Team Size  : 5 
+
+Environment : Windows/Linux, HTML, CSS, Oracle 10g. 
+
+ 
+Description:      
+
+ 
+
+We analyze the needs of all private sector schools and based on their requirement we will develop the 
+
+contents for all the classes and will migrate with our application. 
+
+ 
+
+Roles and Responsibilities: 
+
+ 
+
+ Every day we will generate the content usage reports from all the schools and handling license Expiry 
+issues by using oracle10g. 
+
+ Generating new license keys for the clients and fixing application bugs. 
+ Creating Patches for the Application bugs. 
+ Developing Quiz Engine and uploading to server. 
+ Conducting Application awareness classes to all the clients. 
+
+
+
+ 
+
+ 
+Page 4 of 4 
+
+ 
+
+PERSONAL DETAILS 
+
+ 
+
+ Date of Birth: 14/02/1990 
+
+ Father Name: Venkateswara Rao 
+
+ 
+
+ Gender: Male 
+
+ Marital Status: Single 
+
+ Languages Known: English,Hindi,Telugu,Kannada 
+
+Declaration: 
+
+ 
+
+I hereby declare that the information given above is true to the best of my knowledge, I will make it my earnest 
+
+endeavour to discharge competently and carefully the duties you may be pleased to entrust with me. 
+
+ 
+
+Date:            
+
+(Girish Uppala) 
+
+

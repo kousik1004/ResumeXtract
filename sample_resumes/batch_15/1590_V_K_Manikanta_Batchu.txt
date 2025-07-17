@@ -1,0 +1,257 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V K Manikanta Batchu            E-mail: manikanta.ayyappa@gmail.com     
+Mobile: (+91) 9789808838
+
+Objective 
+Seeking a challenging opportunity in a growth oriented organization in the field of Information Technology to implement analytical and logical thinking. I cherish to grow professionally and make that growth to be of benefit both the organization as well as myself.
+Professional Summary 
+· Having 4+ years of experience in Share Point applications development, Support and Migration from Lotus Notes to Share Point 2013 or SharePoint 2013 to 0365. 
+· Hands-on experience for developing applications with SharePoint Hosted Apps using Custom forms, HTML, CSS, JavaScript and JQuery.
+· Hands-on experience in Nintex workflows 2013.
+· Responsible for complete SharePoint forms Design, development and migration.
+· Currently handling a team of 3 under me.
+· Having 2+ years in creating standalone applications using .Net technology.
+
+Professional Experience
+· Designation
+: Currently employed as Technology Analyst 
+· Company   
+: Infosys Limited, Chennai, INDIA.
+· Period
+
+: 19/01/2015 to Till Date
+· Role
+
+:
+· Experienced in Lotus Notes analysis, Custom Forms design, Development with JSOM, Nintex Workflows 2013.
+
+· Experienced with migration tolls like Quest and Sharegate.
+
+· Responsibilities included designing, developing and migration projects. 
+· Designation
+: Systems Engineer (Past)
+· Company   
+: Tata Consultancy Services, Chennai, INDIA.
+· Period
+
+: 03/03/2011 to 31/12/2014
+· ​​​​​​ Role
+
+:
+· Experienced in .Net Technologies using C#, VB .Net and SQL Server and 3 Months in Data Extraction and Migration.
+· Worked on SharePoint 2013 OOB and Designer Workflows.
+
+Academic Qualification
+B.E, Computer Science Engineering with Distinction from VEL TECH Engineering College (Anna University). 
+Related Skill Set
+· Advanced User: Share Point 2013, HTML, CSS, Java Script, and Nintex Workflows 2013.
+· Intermediate User: SQL Server 2012, .NET technologies (C#, VB .NET).
+· Beginner: Share Point Server Object Model.
+Projects
+Project #1: 
+Client
+
+: Mercedes Benz Financial services, USA.
+Technology Used
+: Share Point 2013, Nintex Workflows 2013, Share Point Designer 2013, Visual Studio 2012, SQL Server 2012, Lotus Notes 9, Lotus Notes Designer 9.
+Team Size
+: 5
+Responsibilities
+:
+· Analyze the existing lotus notes database to capture the functionality which is already done in Lotus Notes using Lotus Notes designer.
+
+· Preparing Document of Understanding for Lotus Notes application.
+
+· Responsible for Target design.
+
+· Design SharePoint sites using OOTB features, InfoPath and Custom Web Parts.
+
+· Customize Quest tool for lotus notes data migration.
+
+· Responsible for defect fixing.
+
+· Complete understanding of the requirements provided by client, and clarify issues any with respect to requirements with the client.
+
+· Making the client understand regarding the implementation of the application.
+
+· Creating workflows using Nintex.
+
+· Managing team level activities day to day basis and updating to onsite.
+
+Description
+:
+Mercedes Benz Financial services is initiating projects to create SharePoint applications to utilize the services of SharePoint to manipulate information and other various services. They are expecting to create the SharePoint applications based on the requirements provided by them and take the Ideas from our team and implement them after having the internal discussions with their team.
+Project #2:
+Client
+
+: Marks & Spencers-Merchandise.
+Technology Used
+: Microsoft SharePoint-OOB, Support in SSOM.
+
+Team Size
+: 2
+Responsibilities
+:
+· Understanding and capturing of requirements.
+
+· Study and understand the design of new capabilities
+
+· Responsible for the designing, development of Lists, Views and Workflows.
+
+· Design, implementation and bug fixing.
+
+· Reviewed the deliverables of junior team members and helped the new team members to settle into the team.
+
+Description
+:
+Marks and Spencer General Merchandise are currently implementing the JDA Intactix products Assortment Optimization (AO), Intactix Knowledgebase (IKB) and Floor Planning (FP). FP is where all Store Floor Plans will be created, maintained, versioned and copied as appropriate as seasons/phases change and floor plans need to be changed to move space categories (SCs) and store display groups (SDGs) into new positions or add/remove them to/from stores altogether. When a new Season/Phase is being planned, “Space Requests” can be submitted to The Space Team. These are Business Ideas (“initiatives”) that could affect Space if they were to go ahead. Space Requests can be created by any other Business Function whose Users are authorized to do so. The submitted Space Request contains all of the information that The Space Team need in order to evaluate it and then to approve, reject or defer. If The Space Team approve a Space Request they then manually create Store Actions to pass the required instructions to the floor planners.
+Project #3: 
+Client
+
+: Marks & Spencers-Merchandise.
+Technology Used
+: SQL Server, AP and PLM Tools.
+Team Size
+: 5
+Responsibilities
+:
+· Understanding and capturing of requirements.
+
+· Study and understand the design of new capabilities
+
+· Extracting and transforming the data from the current system and reconciling the data.
+
+· Design, implementation and bug fixing.
+Description
+:
+Marks and Spencer General Merchandise are currently implementing the JDA Intactix products Assortment Optimization (AO), Intactix Knowledgebase (IKB) and Floor Planning (FP). Assortment Optimization uses Assortment Planning (AP) tool for optimization of planning of products for seasons, which maintains complete information such as history, future analysis, reconciliation etc. related to products. Product Life cycle Management (PLM) tool for creating product end to end life cycle and have data related to Buyer and Merchandiser. Currently the above functionalities are handled in Legacy Systems and implementing the new tools to handle the business complexities in recent years and meet the customer demands for the future.
+Project #4:
+Client
+
+: A C Nielsen.
+Technology Used
+: VB .Net, C# .Net, SQL Server.
+Team Size
+: 3
+Project Name
+: Beverage Data Network-SIII
+Responsibilities
+:
+· Understanding and capturing of requirements.
+
+· Preparation of high level/low level design documents.
+· Responsible for the designing, development of windows applications.
+
+· Design, implementation and bug fixing.
+
+· Reviewed the deliverables of junior team members and helped the new team members to settle into the team
+
+· Interacted with other developers for early / effective briefing of the problem leading to better turnaround of the bug fix release.
+
+· Responsible in deployment of project and warranty support.
+
+· Creation of Deployment Document, Support Handover manuals.
+
+Description
+:
+The BDN SIII Application that I was involved is the system that receives Shipment Files from the Suppliers on a monthly basis and processes the existing monthly shipment files, Invoice Files, Customer Files, Depletion Files and Chargeback files from the Wholesalers. The data received is cleaned, normalized and stored into tables, checked and validated and then further broken down into meaningful forms and sent to the suppliers. The Beverage Data Network (BDN) will processing the gathered data into meaningful forms and then selling these data to the Suppliers.
+
+Project #5:
+Client
+
+: A C Nielsen.
+Technology Used
+: VB .Net, C# .Net, SQL Server.
+Team Size
+: 10
+
+Project Name
+: Beverage Data Network-Daily Invoice
+Responsibilities
+:
+· Understanding and capturing of requirements.
+
+· Preparation of high level/low level design documents.
+· Responsible for the designing, development of windows applications.
+
+· Design, implementation and bug fixing.
+
+· Reviewed the deliverables of junior team members and helped the new team members to settle into the team
+
+· Interacted with other developers for early / effective briefing of the problem leading to better turnaround of the bug fix release.
+
+· Responsible in deployment of project and warranty support.
+
+· Acted as a Module lead for a team.
+
+Description
+:
+The BDN DI Application that I was involved is the system that receives Shipment Files from the Suppliers on a daily basis and processes the existing monthly shipment files, Invoice Files, Customer Files, Depletion Files, Pricing Files, Employee Contact Files and Chargeback files from the Wholesalers. The data received is cleaned, normalized and stored into tables, checked and validated and then further broken down into meaningful forms and sent to the suppliers. The Beverage Data Network (BDN) will processing the gathered data into meaningful forms and then selling these data to the Suppliers.
+
+Achievements
+
+· Won the TCS “Star of the Month” for successful completion of BDN DI Release.
+
+· Won the TCS “On the Spot Award” for successful completion of BDN SIII Project.
+
+Declaration:
+
+I hereby declare that the above information provided by me is correct for the best of my knowledge.
+Place : Chennai
+
+
+
+
+
+
+
+
+
+Date  :
+
+
+
+
+
+
+                                         (V K MANIKANTA BATCHU)

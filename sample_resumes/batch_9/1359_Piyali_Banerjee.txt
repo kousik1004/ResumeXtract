@@ -1,0 +1,272 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curriculum Vitae
+
+
+CURRICULUM VITAE
+
+Piyali Banerjee banerjee.piyali3@gmail.com Mobile: 8692888718
+
+Aim
+Get a job in Data Analysis commensurate with my training, experience and skills
+
+Education
+Ph.D. in Experimental Particle Physics,
+Tata Institute of Fundamental Research, Mumbai, India, December 2008.
+Adviser: Prof. Naba K. Mondal
+
+M.Sc. in Physics,
+University of Kalyani, Kalyani, West Bengal, India, March 1998.
+
+B.Sc. in Physics,
+University of Kolkata, India, August 1996.
+
+Positions held
+2017- Principal investigator for a research project funded by Women Scientists Research
+Program A of the Department of Science and Technology, Government of India.
+
+2012-2016 Postdoctoral Researcher, Department of Physics, I.I.T. Bombay.
+
+2008-2012 Postdoctoral Researcher, Department of Physics, Université de Montréal.
+
+Statement of interest
+I have had considerable programming, scientific data analysis, and grid computing experi-
+ence during my Ph.D and postdoctoral research. My experience puts me in a strong position
+to analyse huge amounts of experimental data and to fit models to data using Bayesian and
+Confidence Limit techniques. Hence I am looking for positions involving analysis of huge
+amounts of data, possibly stored in a distributed fashion on a computer grid.
+
+During my postdoctoral research at Université de Montréal working on the ATLAS interna-
+tional particle physics experiment, I was the convenor of a simulation group called Overlay
+which was dedicated to obtaining better simulation of a type of noise in particle detectors
+called Pileup Background. In addition, I have had considerable experience in simulating
+particle physics detectors using specialised software. This experience holds me in good stead
+for positions working on projects involving simulation of complex phenomena.
+
+Leadership experience
+At present I am the Principal Investigator of a research project ”An investigation of beyond
+standard model physics with special focus on left right supersymmetry”, funded by Women
+Scientists Research Program A of the Department of Science and Technology, Government
+of India. As Principal Investigator, I am solely responsible for conceptualising the project,
+
+
+
+directing it on day-to-day basis, managing students and interns, handling the grant money
+and providing periodic utilisation reports.
+
+As postdoctoral researcher at Université de Montréal working on the ATLAS international
+particle physics experiment, I was the convenor of a simulation group called Overlay which
+was dedicated to obtaining better simulations of a certain type of noise in the ATLAS
+particle detector. The position involved managing a team of researchers distributed all
+over the world, holding regular web meetings, face to face workshops etc. to carry forward
+the intensive software based work. Under my leadership, the group brought out the first
+comprehensive documentation of the Overlay software tools.
+
+As a postdoctoral researcher at IIT Bombay and the Université de Montréal, I worked
+closely with several Masters and Ph.D. students in the Physics department. I mentored
+students with their research work as well as with their programming jobs in the ATLAS
+particle physics experiment.
+
+Technical skills
+
+Excellent knowledge of application programming for scientific data analysis using Fortran,
+C++ and ROOT, and working knowledge of Python scripting;
+
+Excellent knowledge of PYTHIA, MADGRAPH and COMPHEP particle physics simulation
+softwares for particle physics;
+
+Excellent knowledge of GEANT simulation software for modelling particle detectors;
+
+Good knowledge of Bayesian and Confidence Limit techniques and software tools for doing
+statistical hypothesis testing on experimental data;
+
+References
+On request.
+
+
+
+Publications
+
+Journal articles
+
+1. P. Banerjee, U. Yajnik. Production and decay rates of excited leptons in a left-right sym-
+metric scenario. Physical Review D 90, 095023, 2014.
+
+2. Atlas Collaboration. Search for excited leptons in proton-proton collisions at
+√
+s = 7 TeV
+
+with the ATLAS detector. Physical Review D 85, 072003, 2012. Journal version of Internal
+Collaboration Note #3.
+
+3. P. Banerjee, A. Martin, V. Sanz. Distinguishing among Technicolor/Warped scenarios in
+dileptons. Journal of High Energy Physics, Volume 2012, Number 1, 92.
+
+4. DØ Collaboration. Search for large extra spatial dimensions in the dielectron and diphoton
+channels in pp̄ collisions at
+
+√
+s = 1.96 TeV. Physical Review Letters 102, 051601, 2009.
+
+Journal version of the single author DØ notes 5225, 5478.
+
+Conference articles
+
+1. Atlas Collaboration. Search for excited electrons and muons with 5 fb−1 of proton-proton
+collisions at
+
+√
+s = 7 TeV with the ATLAS detector. Moriond 2012. Conference version of
+
+Internal Collaboration Note # 1. Public note available at
+https://cdsweb.cern.ch/record/1428548/files/ATLAS-CONF-2012-008.pdf.
+
+Preprints
+
+1. P. Banerjee Anomalous muon magnetic moment in a left-right symmetric composite model.
+Available at http://arxiv.org/abs/1502.05478.
+
+2. P. Banerjee, U. A. Yajnik. Production and decay rates of excited leptons in a left-right sym-
+metric scenario. Available at http://arxiv.org/abs/1310.5785. Journal version appeared
+in Physical Review D.
+
+3. Atlas Collaboration. Search for excited leptons in proton-proton collisions at
+√
+s = 7 TeV
+
+with the ATLAS detector. Available at http://arxiv.org/abs/1201.3293. Archive version of
+Internal Collaboration Note #3. Journal version appeared in Physical Review D.
+
+4. P. Banerjee, A. Martin, V. Sanz. Distinguishing among Technicolor/Warped scenarios
+in dileptons. Available at http://arxiv.org/abs/1110.2220. Journal version appeared in
+Journal of High Energy Physics.
+
+5. DØ collaboration. Search for large extra spatial dimensions in the dielectron and diphoton
+channels in pp̄ collisions at
+
+√
+s = 1.96 TeV. Available at http://arxiv.org/abs/0809.2813.
+
+Archive version of the single author DØ notes 5225, 5478. Journal version appeared in
+Physical Review Letters.
+
+Internal collaboration notes
+
+1. Atlas Collaboration. Search for excited electrons and muons with 5 fb−1 of proton-proton
+collisions at
+
+√
+s = 7 TeV with the ATLAS detector.
+
+Atlas note ATLAS-COM-CONF-2012-023. Available at
+https://cdsweb.cern.ch/record/1425069/files/ATLAS-COM-CONF-2012-023.pdf.
+
+
+
+2. G. Alexandre et al. (13 authors). Search for excited leptons in 5 fb−1 of pp collisions at
+√
+s
+
+= 7 TeV with the ATLAS Experiment. Atlas note ATL-COM-PHYS-2012-121. Available
+at https://cdsweb.cern.ch/record/1421649/files/ATL-COM-PHYS-2012-121.pdf.
+Backup note corresponding to Internal Collaboration Note #1;
+
+3. Atlas Collaboration. Search for excited leptons in proton-proton collisions at
+√
+s = 7 TeV
+
+with the ATLAS detector. Atlas note ATL-COM-PHYS-2011-1626. Available at
+https://cdsweb.cern.ch/record/1401908/files/ATL-COM-PHYS-2011-1626.pdf. Journal ver-
+sion appeared in Physical Review D;
+
+4. A. Abdelalim et al. (21 authors). Search for excited leptons in pp collisions at
+√
+s = 7 TeV
+
+with the ATLAS detector. Atlas note ATL-COM-PHYS-2011-1550. Available at
+http://cdsweb.cern.ch/record/1396219/files/ATL-COM-PHYS-2011-1550.pdf.
+Backup note corresponding to Internal Collaboration Note #3;
+
+5. P. Banerjee. Overlay in the Level 1 calorimeter and its validation.
+Atlas note ATL-COM-SOFT-2011-025. Available at
+https://cdsweb.cern.ch/record/1384790/files/ATL-COM-SOFT-2011-025.pdf;
+
+6. K. Assamagan et al. Overlay for ATLAS Simulation. Atlas note ATL-SOFT-INT-2011-001.
+Available at http://cdsweb.cern.ch/record/1368189/files/ATL-SOFT-INT-2011-001.pdf;
+
+7. P. Banerjee. Search for Large Extra Dimensions in diphoton and dielectron channels. DØ
+note 5478.
+
+8. P. Banerjee. Search for Large Extra Spatial Dimensions in the diphoton and dielectron
+channels. DØ note 5225;
+
+9. P. Banerjee. Electron Likelihood for the End Cap using Forward Pre Shower, Calorimeter
+and tracker information. DØ note 5476.
+
+10. P. Banerjee, J. Stark. A method to get High pT diem trigger efficiency. DØ note 5475.
+
+11. P. Banerjee, S. Banerjee. Modification in Silicon Microstrip tracker geometry in DØgstar.
+DØ note 4799.
+
+12. P. Banerjee, S. Banerjee. Discrepancy in the existing Monte Carlo description of the Silicon
+tracker in DØ detector. DØ note 4560.
+
+Collaboration publications
+Other than my principal publications listed above, I am an author in 127 DØ publications
+and over 165 Atlas publications. A full list of my experimental collaboration publications
+can be provided on request.
+
+

@@ -1,0 +1,471 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VITAE                    
+ Babu.G                                                                                                             SAP PP & QM consultant         
+Mobile No: +919912603363                                                      E-mail: babugudapareddy@gmail.com
+Profile Summary
+
+· 5+ years related to SAP Production Planning.
+· 1.2 years in KOL Database, 4.0-year domain (SAP power user)
+· Involved in 3 implementations in-house projects & Support projects and 1 external implementation & 1 Rollout projects (Capgemini).
+· Mapping of Business Processes related to Production Planning in SAP ECC 6.0.
+· Familiar with ASAP methodology and LSMW’s.
+· Effective participation in problem solving with team members.
+Working Experience 
+
+· Working with Capgemini from Bangalore Since 23-Aug’16 to till date as SAP Production Planning consultant.
+· Worked with UPL Ltd (under Advanta Seeds), Hyderabad as Sr. Executive-Data Management in SAP Production Planning since Aug’08 to 22-Aug’16. 
+· Worked as Data Supervisor in KOL Data base at Suven Life Sciences, Hyderabad through Sneha Synergy from June-2007 to July-2008.
+
+· Worked as Mathematics Teacher in Viswasanthi High School, Kavali from June-2005 to May-2007.
+Skill Set
+· SAP Releases         
+:  SAP R/3 ECC 6.0 
+
+· Module
+
+: Production Planning
+
+· Operating Systems 
+: Windows 7 & Windows XP
+
+· Packages
+
+:  MS-Office
+Education
+
+
+· B.Ed from Vivekananda B.Ed College, Chittor Affiliated to Srienkateswara University, Tirupati, with Second Class (59%) in 2005.
+· B.Sc from Jawahar Bharathi Degree College Affiliated to Srivenkateswara University, Tirupati, with First Class (73%) in 2003.
+· Intermediate (M.P.C) from Viswa Bharathi Junior College Affiliated to Board of Intermediate, AP, with First Class (68.90%) in 2000.
+· SSC from Viswasanthi High School Affiliated to Secondary School of AP, with First Class (77.33%) in 1998.
+Project#05
+
+            : Capgemini, Bangalore
+Client
+
+
+  
+:  TE Connectivity (Formally Known as TYCO Electronics).
+Modules
+
+                     
+:  SAP Production Planning & QM
+
+Duration
+
+
+: Jun-2016- Till date (Rollout for Poland through offshore).
+
+
+Contribution:
+
+· Creation of Factory calendar and the same assigned to the plant.
+· Creation of production execution process from end to end for discrete manufacturing.
+· Creation of work centers, pooled capacities as per business process from existing plant to new plant, if any change need to update.
+· Creation of production supply areas if PP-WM interfaces of production process.
+· Creation of Material master related to PP (ALL MRP Views, Work scheduling view).
+
+· Creation of BOM, Routing & Production versions through mass data upload programs (LSMW or Z programs).
+
+· Creation of QM Inspection types depend on material types in quality management view.
+· Creation of master inspection characters and the same assigned to routing based on activity.
+· Creation of batch jobs for different activates and schedule daily, weekly, monthly, etc.
+· Existing enhancements copy from old plant to new plant.
+· Solving the issue for other integrated modules like MM, SD, FI, CO & QM.
+· Analysis of business data and propose to the business for new changes.
+· Creation of new batch jobs and sends the details to control-M for creation of schedule the jobs the same send to TED third party data warehouse team.
+Project#04
+
+            : Capgemini, Bangalore
+Client
+
+
+  
+:  Lapp India.
+Modules
+
+                     
+:  SAP Production Planning & QM
+
+Duration
+
+
+: Aug-2016- Apr-2017 (Implementation)
+
+
+Contribution:
+
+· During implementation of APO re-alignment of master data like material master, BOM, Routing and production version.
+· In routing alternative and parallel sequences maintained.
+· All master data from ECC point of view for APO requirement.
+· QM master data like Inspection types, inspection lot generations based on material type.
+· Master inspection characters maintained and those maintained against operation wise.
+· Preparation of mass upload data from legacy to SAP related to Material master, BOM, routing and production version maintained the LSMW/BAPI/BADI programs.
+· Activity prices maintained at routing.
+· CIF the data from ECC to APO
+
+· Supporting the production support related to MM, SD & FICO.
+
+Project#03
+
+            : UPL Ltd (Implementation & Supporting)
+Client
+
+
+  
+:  UPL Ltd.
+Modules
+
+                     
+:  SAP Production Planning & QM
+Duration
+
+
+: Aug-2015- Mar-2016(Implementation)
+Team Size
+
+
+: 7
+
+
+Supporting Duration
+
+: Apr-2016- Aug-2016 (Support)
+
+
+Description:  
+
+                      UPL Ltd having business in agro chemicals for its one of takeover company Advanta Seeds, for its seed India business requires in own SAP domain as seed SAP scenario.
+Contribution:
+· Production related data get from functional team members in excel templates (Material creation, BOM, Routing and Inventory templates) based on Blue print.
+
+· Seed procurement process designed via sub-contracting module through MM module.
+
+· Creation Order types and assign to particular plants and assign scheduling types.
+
+· Configuration of material availability checks and assigns pp rules.
+
+· Creation of wok centers, batch characters.
+
+· Mass changes related with Master data as well as Transaction data using MASS and LSMW.
+
+· Worked with the Make-to-order and Make-to-Stock scenarios.
+
+· Solving issues related to Master Data (BOM's, Routings, Production Versions, etc.)
+
+· Training for end users where required and get the data in excels templates.
+
+· Preparing FTS (Functional technical Specification) for New Functionalities and coordinating with Technical consultants during Development and Testing.
+
+· Creation of LSMW Formats for upload the initial stock with different movements and other PP related transactions.
+
+· Testing all related PP Configurations with integrated modules.
+
+· Problem solving to USERS and give guidelines for other modules.
+
+· Creation of characters those assign to batch class, batch class assign to MMR.
+· Proper inspection types assign to MMR based on activity.
+Supporting activities
+· Based on material master templates via excel sheets creation of material master in different stages and assigned QM inspection types for materials.
+
+· Creation of Characters and these assigned to class, these class assigned to material master at classification views.
+
+· Based on BOM & Routing templates via excel sheets from business to maintain in SAP and sent those materials to finance team to maintain the STD cost.
+
+· Analysis of sub-contracting inputs on periodically basis and inform to the business for charge off.
+
+· Doubts and guidelines for end users.
+
+· For new end users SAP training from end to end business process vs SAP process for all modules.
+
+· Guidelines for internal and external auditors on need basis. 
+Project#02
+
+            : Golden Seeds(Implementation & Supporting)
+Client
+
+
+  
+:  Golden Seeds.
+Modules
+
+                     
+:  SAP PP
+
+Duration
+
+
+: Sep-2013- Mar-2014 (Implementation)
+
+Team Size
+
+
+: 6
+Support Duration
+
+: Apr-2014- Aug-2016 (Support)
+
+
+
+Description:
+
+                      Golden Seeds is one of the UPL Group of companies in Vegetable seed industry, its annual turnover near to 100Cr per year, so for easy to move their business in SAP Database.
+
+Contribution:
+
+· Collection of Data and preparation of documents for the easy understanding of the scenarios. 
+
+· Preparation for the Pilot Demo Presentation.
+
+· Worked with the Make-to-order and Make-to-Stock scenarios.
+
+· Analyzing and coming out with solutions for maintaining multiple Manufacturer Parts.
+
+· Rolling up the costs for the assemblies.
+
+· Running the MRP and different parameters of availability checks.
+
+· Converting planned orders into production orders and dealing with different types of confirmations 
+
+· Release of Production Orders, Confirmations, Material Availability Checks.
+
+· Interacting with the end users to know the requirements.
+
+· Preparing the GAP analysis and fixing them.
+
+· Designing the functional Designs for the reports that are needed to be developed like Production Pick List, Sub Contracting Pick List (MM), etc.
+
+· Post go-live support for the project solving all the issues related to data migration. 
+· Proper inspection types assign to MMR based on activity.
+· Creation of characters those assign to batch class, batch class assign to MMR.
+Supporting activities
+· Based on material master templates via excel sheets creation of material master in different stages and assigned QM inspection types for materials.
+
+· Creation of Characters and these assigned to class, these class assigned to material master at classification views.
+
+· Based on BOM & Routing templates via excel sheets from business to maintain in SAP and sent those materials to finance team to maintain the STD cost.
+
+· Doubts and guidelines for end users.
+
+· For new end users SAP training from end to end business process vs SAP process for all modules.
+
+Project#01
+
+            : Unicorn Seeds (Implementation & Supporting)
+Client
+
+
+  
+             :  Unicorn Seeds.
+
+Modules
+
+           :  SAP Production Planning (Implementation)
+Duration
+
+
+: Sep-2012-Apr 2013
+Team Size
+
+
+: 7
+
+
+
+Supporting Duration
+
+: May-2013- Aug-2016 (Support)
+
+
+Description:  
+
+                      Unicorn Seeds is one of the UPL Group of companies in Vegetable seed industry, its annual turnover near to 100Cr per year, so for easy to move their business in SAP Database.
+Contribution:
+
+· Production related data get from functional team members in excel templates (Material creation, BOM, Routing and Inventory templates) based on Blue print.
+
+· Creation Order types and assign to particular plants and assign scheduling types.
+
+· Configuration of material availability checks and assigns pp rules.
+
+· Creation of wok centers, batch characters.
+
+· Mass changes related with Master data as well as Transaction data using MASS and LSMW.
+
+· Worked with the Make-to-order and Make-to-Stock scenarios.
+
+· Solving issues related to Master Data (BOM's, Routings, Production Versions, etc.)
+
+· Solving issues related to Production, Transfer Orders.
+
+· Solving issues related to Goods Movements.
+
+· Training for end users where required and get the data in excels templates.
+
+· Working on different types of Goods movements.
+
+· Preparing FTS (Functional technical Specification) for New Functionalities and coordinating with Technical consultants during Development and Testing.
+
+· Creation of LSMW Formats for upload the initial stock with different movements and other PP related transactions.
+
+· Testing all related PP Configurations with integrated modules.
+
+· Problem solving to USERS and give guidelines for other modules.
+· Creation of characters those assign to batch class, batch class assign to MMR.
+· Proper inspection types assign to MMR based on activity.
+Supporting activities
+· Based on material master templates via excel sheets creation of material master in different stages and assigned QM inspection types for materials.
+
+· Creation of Characters and these assigned to class, these class assigned to material master at classification views.
+
+· Based on BOM & Routing templates via excel sheets from business to maintain in SAP and sent those materials to finance team to maintain the STD cost.
+
+· Doubts and guidelines for end users.
+
+· For new end users SAP training from end to end business process vs SAP process for all modules.
+SAP Domain Skills as a SAP power user (from Aug-2008 to Aug-2012)
+Production Planning, QM, Purchase & Logistics Responsibilities:
+· Production planning as per Sales requirements for respective sales years.
+
+· Fixed Cost, Variable Cost comparison in SAP Vs Actual Cost incurred month wise with different plants, Cost Centers and GL Codes
+· Inventory management, MIS execution, monthly Cash-Flow requirement calculation for Grower and Organizer Payments
+· Arranging packing material from Vendors & distribution to field locations for raw material dispatches
+
+· Planning of Drying and shelling activates based on the arrival moisture, machine capacities and sales plan. 
+
+· Procurement of consumables viz., Chemicals, packing materials etc. based on the sales plan.
+
+· Planning of Seed conditioning & packing activities based on the Raw material arrival plan viz., storage space, sales plan, machine capacities, quality clearances etc.
+
+· Planning and deployment of Labor for various activities on daily basis during peak operations.
+
+· MIS reports on Seed and non-seed, Arrival plan, Dispatch plan, operations plan, productivity, inventory and others to Management during peak operations. 
+
+· Planning and monitoring of periodic pest control activities at plant.
+
+· Periodic disposal of Absolute inventory, Remnants and scrap at plants.
+
+· In-process quality assurance in the processing plant by stringent quality checks for Zero defect delivery.
+
+· Self plant quality checks and stringent monitoring for the export consignments.
+
+· Checking the Vendors (Growers) List in SAP.
+· Create the Field Production Orders as per the Growers list based on the Hybrid Seed Production Locations.
+· Provide the SAP Batch No’s to the Hybrid/Parent Seed Production locations as per the Growers list in different Sowing Dates of different Hybrids.
+· Issue the Basic Seed or Pre-Basic to the Field Production Orders.
+· Reconciliation of the Basic Seed as well as Pre-Basic Seed.
+· Confirm the First and Second Inspection of the Field Production Orders.
+· Maintain the Plough Down the Field Production Orders from Various Production Locations.
+
+· Receive the Goods receipt as per the Planning Plant of Production Orders.
+· Confirm the Service Entries,
+· If Receipts of the Goods is wet cob, confirm the same qtys as per approved Rates of wet cob procurement.
+
+· If goods are raw seed, confirm as per approved SRE % of approved raw seed Procurement.
+· Create Drying and Shelling Orders, Processing Orders, Packing Orders and Bulking Orders as per the daily activity of Physical Vs SAP Functionality.
+· Run the 261,101 movements as per the activities to complete the cycle.
+
+· Confirm the components of respective orders.
+· Move the Stocks in different movements as per the requirement of the physical activities.
+
+· Dispatched the Basic Seed from Parent Seed to Hybrid Seed Production Locations as per the approved indent.
+· Fill the required templates for creation of new material, BOM, Routing, Purchasing and creation of new grower (Vendor) code.
+· Generate the MIS Reports from SAP by using different t-codes and mould those reports in Excel or Open office Cal as per the managers in weekly, monthly and season wise.
+Personal Profile:
+· Father’s Name 
+               
+: 
+G. Hazarath
+
+· Date of Birth 
+
+
+: 
+01-06-1983
+· Marital Status
+
+
+:
+ Married
+
+· Nationality 
+
+
+:
+ Indian
+· Passport No
+
+
+:
+Z2858129
+· Passport Expiry Date
+
+:
+20/04/2024
+· Skype Id
+
+
+:
+babu.gudapareddy
+· Religion 
+
+
+: 
+Hindu
+
+· Languages Known 
+
+:
+ English, Telugu, Hindi & Kanada
+
+· Permanent Address
+
+:  
+V.R.Nagar, Kavali-524201, Nellore (Dist), AP.
+

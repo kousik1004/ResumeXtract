@@ -1,0 +1,142 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amey Ashok Katkar	                                                                                               Email:Katkar.amey18@gmail.com
+Mulund (East)		              			                                                      Mobile: 08898237454/8689808184             
+Pin code: 400081                                                                                                              
+Objective
+To be a professional and to utilize my skill and knowledge to full fill the requirement of the organization in customer service and system administration.             
+Summary
+· IT Professional with more than 2.6 years experience in Linux administration.
+· Experience in customer interaction and support. Versatile team player with presentation, communication and inter -personal skills.
+
+Education
+Technical
+
+· Completed RHCE & RHCSA (Red hat Certified Engineer) course from RST forum Matunga.
+· Completed CCNA (CISCO CERTIFIED NETWORK ASSOCIATE) course from RST forum Matunga.
+ 
+Academic
+
+· Bachelor of Electronics from Pillai’s Institute of Technology, Panvel in 2014 Secured First class.
+· Diploma in Electronics & Telecom. With 72.67 % from MSBTE in 2010.
+· Secondary with 72.76% R.M.Bhatt.High.School in 2007.
+
+          
+Technical Skills & Knowledge
+· Trouble shooting and configuration like DNS, NTP, DHCP, Apache Web Server, SAMBA, FTP Server, Squid Proxy.
+· Installation, Configuration XEN, KVM and VMware ESXi Virtualization.
+· Protocols- TCP/IP.
+· Networking- LAN, WAN.
+· Operating Systems- Linux, Centos, Ubuntu, Windows XP, Windows7, Windows vista.
+· Monitoring Tools: Free, Ps, Top, vmstat, net stat, lsof, iostat, SAR.
+
+Organizational Contour     
+
+National Stock Exchange Information Technology (NSEIT)                                        Since June 2015 till date       
+	                                                                                                                
+Project                :       Office Automation (IMS Support)
+ 
+Position                   :                 Sr. Engineer
+
+Responsibilities
+
+· Installation, Configuration and Management of Linux Server in RHEL 5/6/7.
+· Installation and configuration of Ubuntu Server.
+· Installation has done by using Kick-start method and asks method.
+· Configuring Bridging, Bonding of interfaces in Linux.
+· Scheduling and maintaining cronjobs.
+· Linux server's configurations like DNS,NTP DHCP, Apache web Server, SAMBA, NFS, Squid proxy and
+                   File Sharing.
+· Implementation of SSL certificates on apache based websites for secure communications, performing
+                   the Virtual hosting to run multiple websites on single IP on Production servers.
+· Making communication between two Linux servers by implementing the RSA keys, so that both
+                   Servers get logged in without asking for password. To get the data transferred using RSYNC utility.
+· To implement the firewall security IPTABLES.
+· Automation of the process like backup of the servers and many other utility.
+· Clustering of Linux Servers using Heartbeat, Pacemaker high availability tools  and load balancing with ha-proxy tools.
+· Disk Management.
+· Bash and shell scripting knowledge. 
+· Installing and configuring Puppet (Automatic configuration system).
+· Installation, Configuration XEN, KVM and VMware ESXi Virtualization.
+· Configured and managing Nagios alert monitoring.
+· Troubleshooting and Patch Management of Linux & Ubuntu server.
+· Following ITIL processes like creation of IMAC, RFC and Incident report.
+
+
+              Project: Development & Administration Team at NCDEX 
+
+          (National Commodity & Derivatives Exchange Limited (NCDEX) is a professionally managed on-line multi       commodity exchange promoted by national level institutions).
+  
+· Liaise with our customer to understand their requirements and accordingly, Problem Solving at Market Watch End. 
+· Interact with Advisors to improve the efficiency of applications deployed on Production Servers.
+· User creation and Deletion on Stratus servers which is Trading Server STRATUS Mainframe server uses VOS as operating system.
+· Responsible to provide different privileges to different users as per requirements; Handling and providing all the important files as required.
+· Accountable for creation of environment as required for testing purpose of Trading Issues.
+· The application continuously generates a spot file on basis of these real time updates, and sends it to the trading system of NCDEX, from where the prices are broadcasted.     
+
+Personal Details
+Name:		Amey Ashok Katkar
+Nationality: 	Indian
+Date of Birth: 	11th May 1992
+Gender:		Male
+Marital Status:    	Unmarried
+Passport No:    	M5139710
+Notice period:       2 months (negotiable).
+Languages:      	English, Hindi, Marathi.
+
+Declaration
+I hereby declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particulars.
+
+
+
+Place: Mumbai									Amey Ashok Katkar
+Date:   			             	                                                                                                                 (Signature)                                                                                                                                                                                    

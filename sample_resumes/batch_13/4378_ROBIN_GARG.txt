@@ -1,0 +1,238 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ROBIN GARG
+er.robingarg@hotmail.com
+robin@amdocs.com
+       0091-9901-449-944
+
+Seeking the position that helps in increasing organizational effectiveness.
+	
+	AREAS OF EXPERTISE
+	
+
+
+
+· Result oriented with insightful experience of around 4+ years across communications industry.
+· Presently associated with Amdocs Development Centre, Gurgaon as a Telecom 
+ Engineer for E2E Support for various telecom & Networking elements and automation.
+· Using UI Path and Blue Prism for Automation and support for same.
+· Good understanding & Exposure to LTE Radio Access Network Systems.
+· Having sound knowledge on LTE protocol stack including PHY, MAC, RLC, PDCP & RRC layers.
+· Comprehensive understanding of Wireless technologies: GRAN, WRAN & LRAN pertaining to integration/ configuration, transmission and signalling basics.
+· Deep Knowledge about LTE RAN Protocols, Channels, Procedures, End to End Call Scenarios, Message Flow, Handover/IRAT procedures & 3GPP Specifications.
+· Operating system : Unix, Windows, Cisco IOS
+· Basic knowledge on UNIX Shell Scripting, Python scripting.
+· Have an understanding of IMS architecture including VOLTE, SIP.
+· Studying different test cases and analysing reasons for call drops, handover failure via TEMS.
+
+	
+	ORGANISATIONAL SCAN
+	
+
+
+
+
+Since Dec’17 with Amdocs Inc. as RF Testing Engineer
+
+Client: - RNAM (AT&T) 
+Project: - RAN RF 
+Accountabilities:
+· Involved in KPI definition.
+· Provide support for customer network issue. 
+· System Integration of new feature/KPI.
+· -Test case planning, designing and Execution. Raising bugs and Follow up with development Team
+· Execution of PHY, MAC, RLC, RRC, S1ap, X2ap, Call processing, Multi UEs test cases.
+· -Validating radio functionalities like measurement gaps, CSI validation (periodic and aperiodic) paging, Resource allocation tech (RAT), PUCCH and PUSCH resource allocation, BSR, SR, PHR validation, power control (PUSCH, PUCCH).
+· UE used Qualcomm 8974, 9x35, 9x45, 9635 etc. for OTA
+· Execution of features like (ECID, EMBMS, dynamic CFI, PFS, QOS aware schedulers, S1 Flex, MOCN, SCTP) 
+· Testing Legacy features like Handovers, IRATs, CSG, Emergency, Volte, CTS.
+· -Validating SON featured like MRO, MLB, MCIM, TX-OPTIMISATION, AUTO PCI, and RACH-OPTIMISATION.
+· Executing Configuration, Functional Test cases for eNB testing.
+· Raising Bugs during system test and follow up with Development Team
+· Knowledge sharing session with team members
+- Providing support to internal customers for released builds (Customer Issues) 
+
+Since Oct’13 with Ericsson Global India Limited
+                                                                          Network Engineer
+
+Client: - RNAM (Sprint & AT&T)
+Project: - LRAN Integration Support & CSFB Activation\First Level Assurance Team.
+Accountabilities:
+· LTE eNB (Ericsson) integration, script (.xml) troubleshooting, Parameter Audit, bulk parameter change scripting.
+· CSFB (Circuit Switched Fall-back) Configuration & feature enablement.
+· Troubleshooting different scenarios related to call drops, attach/detach, RACH procedure and other according to 3GPP specifications via TEMS (14.1).
+· Intra LTE Mobility, Automatic Neighbor Relation (ANR), Inter-Frequency Load Balancing, Auto-Integration.
+· Addition and deletion of MME.
+· 1x CSFB for Voice (blind Release with Redirection (RwR) to 1x CDMA).
+· Support for new SIB8 and CDMA2000 Mobility Parameters.
+· Worked on Ericsson RBS 6000 Series, SW Version L12B, L13A, L13B, L14A, UNIX, CPP
+
+
+July’13- Sep’13 with Rohtak Telecom Private Limited, Haryana
+Optical Fibre Engineer
+Clients: Reliance Jio, Railtel, Airtel, HFCL
+Responsibilities include:
+· Fibre optic stripping, cleaving, splicing, recoating and dressing.
+· Managing Team of 3 technical resources as on priority.
+· Hand soldering, and harness and PCB assembly.
+· Mechanical assembly of sensors, test fixtures and electronics chassis.
+· Testing using a variety of equipment and recording results.
+· Following specific workmanship instructions, multitasking.
+· Adaptable to receptive to changing priorities of task.
+· Customer Interaction during priority outages and project handover.
+
+Oct’09- June’10 with Nokia Siemens Networks Pvt. Ltd. (outsource via Mafoi)
+SLA-OLA Engineer
+
+Clients: Aircel-Maxis
+Accountabilities:
+· Worked as BSS engineer for RAN integration and commissioning of NSN equipment’s which includes BTS (NodeB, Flexi & Ultra).
+· Responsible for installation & commissioning of Ceragon (SDH&PDH) and Alcatel Mux (1642&1662).
+· Responsible for installation and LOS for microwave (0.6, 0.9, 1.3, 2.0) for site to site connectivity and E1 routing.
+· Alarms monitoring and rectification of Node B through RNC via remote login.
+· Co-ordinating with TI vendors in installation of NODE B solutions which includes I/D classic, O/D CLASSIC, I/D BBU+RRU & O/D BBU+RRU solutions & Flexi BTS.
+· Commissioning of WBTS via ATM interface, Dual Iub interface and HSDPA fall back. 
+· Also Worked on Nokia Flexi BTS (3+3+2), (6+6+6), (8+8+8) and Transmission (FIFA, FIPA, FIU, Siemens Mux (ADR155C & ADR2500extra).
+· Responsible for expansion of the network with TRX and E1’s to meet the gigantic demand of subscribers.
+· Endured E1 connectivity between BSC & BTS sites through different media (SDH&PDH).
+· VSWR measurement of RF cables through site master i.e., Bird, Anritsu & Protek.
+
+Worked on NSN Ultra, Flexi, FIU, MapInfo, NetAct
+
+	
+	SKILL SET
+	
+
+
+
+Tools Handled – TEMS Investigation14.1, BSIM, ARNE, OSS-RC and Samsung BSM & LSM-R Tool.
+Platforms worked – UNIX, Ericsson AXE, and CPP.
+Technical Skills- LTE, GSM, WCDMA, Routing, Switching.
+Equipment:
+· NSN Ultra, Flexi BTS & Node B, FIU
+· Nokia BSC 3i and RNC
+· Ceragon PDH & SDH
+· MUX- Siemens (ADR155 & ADR2500), Alcatel (1642 & 1662)
+· VSWR Site master (bird & Anritsu, Agilent, via echo), Digital multi meter
+
+	
+	CERTIFICATIONS & TRAININGS
+	
+
+
+
+· Ericsson Certified Associate in Radio Access Networks (ETCP-362).
+· Ericsson Certified Associate in Radio Network Design(ETCP-371).
+· Network Support Specialist Certified from Centre for development & Advanced Computing.
+· ITIL V3 Foundation Certified training.
+· IMS overview training completion.
+· LTE overview, Air Interface, configuration and troubleshooting training.
+	
+	EDUCATION
+	
+
+
+
+· 2013	B.Tech in Electronics & Communication Engineering from Kurukshetra University.
+· 2009  Diploma In Electronics and Communication Engineering from Government Polytechnic Nilokheri approved by State Board of Technical Education Haryana, Panchkula(With Honours).
+· 2010	12th from HBSE, Bhiwani with 74.34%.
+· 2006	10th from HBSE, Bhiwani with 96%.
+
+	
+	COMPETENCIES
+	
+
+
+
+· Always adapt new things after understanding.
+
+	
+	PERSONAL DOSSIER
+	
+
+
+
+· Date of Birth		:	16th Dec. 1989
+· Linguistic Abilities	:	English, Hindi and Punjabi
+· Address		:	H.No-244/13,Grain Market,Kalayat-136117
+· Passport Number	:	L9347928
+
+	
+	REFRENCE
+	
+
+
+
+	Name
+	Designation
+	Organization
+
+	Mr. Vikas Bajpai
+	Specialist, Customer Support
+	Ericsson, India
+
+	Mr. Nitin Baranwal
+	CA Manager,SRF
+	Ericsson , India
+
+	Mr. Amarendra Alluri
+	SVCS Engineer
+	Ericsson,US
+
+
+
+	
+	DECLARATION
+	
+
+
+I am a proactive Engineer, experienced in customer support and client strategies with skills for optimize any kind of process, passionate with all kind of knowledge, and always enthusiastic about it. 
+
+DATE:-										Robin.

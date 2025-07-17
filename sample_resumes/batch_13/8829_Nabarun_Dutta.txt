@@ -1,0 +1,267 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upendra
+
+Nabarun Dutta
+
+                            (SAP BASIS CONSULTANT) 
+Address  :  88. Radha Ballav Road
+        PO: Naihati, Dist: 24PGS(N)
+
+        PIN - 743165
+Contact  :   +91-8981445571
+E-mail:       nabarundutta.star@gmail.com 
+
+ Professional Profile 
+
+Accomplished IT Professional with over 9 years and 3 months of experience in IT Industry & having equeal experience in SAP N.W Basis and Oracle Database & Administration on different Operating system environment (HPUX, Linux, and Windows). As a SAP Basis administrator my experience includes to manage large SAP system landscape with different components (R3/BW/SCM/XI/Portal) . Using Solution Manger for Incident Management, Change Management and Transport across the landscape. 
+
+Possessing good communication  and documentation skills and Customer Oriented attitude. Committed Team player , strong team orientation and leadership qualities, hard working and enthusiast.
+· More than nine years of IT experience encompassing a wide range of skill set, roles and industry verticals. 
+
+· Strong SAP Basis Administration ( ERP ) ,System Administrator, database skills, Unix & Network Administration and development knowledge
+
+· Experience in leading and managing teams. Handled multiple roles – SAP Basis Admin(ERP), Software Architect, System Admin.
+
+· Honored as Technical Basis SME (Subject Matter Expert) for several projects.
+
+· Nominated as SAP Basis technical trainer at Accenture
+· Experienced in providing support in a 24X7 environment.
+
+· Good communication skills, interpersonal skills, self-motivated, quick learner, team player.
+· ACCENTURE (Sanofi) awarded me Achiver of the Month in June 2013.
+Professional assignment
+
+SAP Basis Consultant 
+Accenture Services Pvt Ltd                                                           May 2012 – Till Date
+
+Project Description
+
+Project 
+             : Sanofi Aventis  [France,US and Singapore] 
+
+Location                    : Kolkata (India)
+
+Role                           : SAP Basis Consultant(L2 & L3)
+Environment             : SAP NetWeaver,Oracle 11g and 12c ,HP-Ux,Winows and Linux      
+Team Size                 : 25
+Responsibilities:-
+· Providing BASIS Technical support to SAP Hosting Customers across the globe.
+
+·  Responsible for Change Management in ABAP, Java, Application Patches - Plug-ins, Add-on &  Support Packs Application.
+
+· Client Administration Management: Client Copy, Client Export, Remote Client Copy, Local Client Copy, Client Creation & Client Deletion. 
+
+· System Refresh Dual Stack (R3,BW)
+
+· Upgrading SPAM to the latest release as per the requirement.
+
+· Performed SPAM Upgrade and HR component Upgrade for GRC Virsa Implementation .
+· Actively involved in analyzing System Performance issue in Production System.
+
+· Trouble shooting issues related to ABAP and JAVA stack.
+
+· Daily System Monitoring - Application level and OS (Unix) level.
+
+· Performing transports via STMS, CHARM and also via OS level as per the project requirement
+
+· SAP Marketplace related activities - Creation of OSS messages, OSS User-Id creations, Developer Key & Object Key registrations, Opening / Closing of Service connections, SAP License download, etc.
+
+· Managing Internet / Fax connections, Mail issues - via SCOT / SCON / SOST.
+
+· Monitoring tablespaces via db02 and analyzing the growth of tablespaces and taking necessary actions to resize a datafile or to add a new datafile through BRTOOL.
+
+· client maintenance , Changing system  modifiable settings
+
+· Making changes in the required SAP profile parameters as per SAP note in case of any system issue.
+
+· Performing Pre and Post system refresh activities on single-stack and dual-stack SAP systems.  I have performed the Post Refresh Activities in ECC, BI, Portal SAP Systems.
+
+· Configured Printer across SAP landscape.
+
+· Applying SAP notes and Support packages as per the requirement.
+
+· Applying portal certificates as per the requirement.  
+
+· Applied SAP License from Application level(Using SLICENSE t-code)
+· EHP7/8 upgrade
+· Oracle upgrade 12C
+· SAP ECC 6.0 installation
+SAP Basis Consultant 
+IBM India Pvt Ltd                                                                                             
+
+Project Description
+
+
+
+
+     May 2010 – May 2012       
+
+Project 
+             : Johnson & Johnson [US] 
+
+Location                    : Kolkata (India)
+
+Role                           : SAP Basis Consultant
+
+Environment             : SAP NetWeaver, Oracle 10g,HP-Ux,Linux,Win server 2003.
+
+Team Size                 : 10
+As a N.W Basis Consultant from last 24 months I have been involved in Production support for two major J&J OPCos (Consumer & MD & D) through IBM INDIA PVT LTD. Being a production support Basis consultant my main responsibility is to ensure 100% production uptime and to minimize any unplanned system down. 
+
+Johnson & Johnson Consumer Companies, Inc. manufactures and markets surgical appliances and consumer healthcare products. It offers women's health, oral care, wound care, skin care, and baby care products. Its products include formulations, such as toiletries and cosmetics, and engineered materials, including absorbents and OTC pharmaceuticals. Johnson & Johnson Consumer Companies, Inc. operates as a subsidiary of Johnson & Johnson. 
+
+To manage such a critical production and supply chain management environment a vast SAP installation has been done which includes different componenti.e..R3/BW/SCM/XI/Portal.
+
+Major Responsibilities 
+
+1. System monitoring and troubleshooting 
+
+2. Client Maintenance including (Client open/close, Local Client Copy, Remote Client Copy and Client export/import 
+
+3. Applying support packages, patches, Snote and Kernel to maintain the system up-to-date 
+
+4. SAP Java administration using JCMON, NWA, config tool, Visual Admin 
+
+5. Web dispatcher Administration (Start/Stop, Activate/Deactivate Instance, Add/Remove instance from Web dispatcher. 
+
+6. CCMS Configuration (Centrally & Standalone) 
+
+7. TMS Administration 
+
+8. Configured output devices using SPAD, spool management activities using SP01 and troubleshooting 
+
+9. Live Cache administration using DBM GUI/LC10 and OS level 
+
+10. Check & apply SAP EW recommendation 
+
+11. SAP profile maintenance using RZ10 
+
+12. Operation mode maintenance through RZ03/RZ04 
+
+13. SAP systems start and stop 
+
+14. Involvement in Database upgrade & CPU Patching 
+
+15. Space management on servers and Databases for the availability of free space. 
+
+16. Batch Job Management from SAP as well from Maestro(JSC) 
+SAP Basis Consultant 
+Caopgemini India Pvt Ltd                                                                                             
+
+Project Description
+
+
+
+
+    June 2008 – May 2010       
+
+Project 
+             : Wings II (WFP(Client of Capgemini)
+Location                    : Kolkata (India)
+
+Role                           : SAP Basis Consultant
+
+Environment             : SAP ECC 6.0, Oracle 8i, Win server 2003.
+
+Team Size                 : 15
+
+I joined Capgemini India Pvt. Ltd. as a fresher in on 16th June, 2008. I undergone an extensive training on SAP BASIS, later I joined Wings II where I served following responsibility.
+The World Food Programme is the world's largest humanitarian agency fighting hunger worldwide. It is part of the United Nations system and is voluntarily funded. 
+
+WFP get food to where it is needed, saving the lives of victims of war, civil conflict and natural disasters. It pursues a vision of the world in which every man, woman and child has access at all times to the food needed for an active and healthy life.
+Major Responsibilities 
+1. Security/Authorization:  Users, Roles, Profile maintenance, Unlock users, assign role, profile to the user, Configure Central User Administration etc.
+
+2. Monitoring:  Daily Monitoring and Troubleshooting on System Availability, Monitor background jobs, System dumps, Spool Jobs, Pending Update, Disk Space, System Performance, Background Jobs, System dumps, Spool Jobs, database Etc.
+
+3. Backup Management: Scheduling online and Offline backup with redo log, Check and Update DB etc.
+
+4. Transport Request: Configuring TMS for three systems Landscape, Transport change request. 
+
+5. Support packs and S-Note apply: Support packs stack, kernel apply, SAP Note implementation
+
+6. Marketplace: All the registration of objects/program/user etc, download patches/packs, license key etc.
+
+ACADEMIC CREDENTIALS & Certification
+· Master of Computer Application from West Bengal University of Technology (June 2008).
+
+· Bachelor in Computer Application from Calcutta University (August 2005).
+
+· ITIL foundation certified.
+
+· Trained & implemented Six sigma yellow Belt for Automation project.
+
+· Trained on SAP HANA SPS12.
+PERSONAL PROFILE
+
+ Date of Birth
+
+             : 30th June 1984
+ Gender                                          : Male
+ Marital Status
+
+              : Married
+ Professional Languages
+              :English,Hindi,Bengali
+
+
+
+
+ Nationality
+
+
+              :Indian
+
+ Passport number
+
+
+    : G5223388
+ PAN number
+
+
+    : ALTPD9412H
+                                                                                            Nabarun Dutta

@@ -1,0 +1,335 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dhaval P. Solanki 
+Software Developer & Embedded Design Engineer 
+ 
+
+dhaval.p.solanki@gmail.com  
+(+91) 9819089181  
+
+  
+
+ 
+ 
+
+Summary 
+Software professional with expertise in development using C language on Linux system, ARM processors & 8bit 
+
+controllers. Proficient in Linux system programming, shell scripting multi-threading & socket programming. 
+
+Familiar with Sql, Oops, and Core Java. 
+
+ 
+
+Skills & Competence 
+ 
+
+Languages C, Embedded C, Linux shell scripting & sql, Java, 
+
+Operating Systems Linux, Windows, and KeilRtos 
+
+Processors/Controllers 
+LPC 1768 & LPC1788, Ti Sitara, P89V51RD2, Si8051F120 & Si8051F020, 
+
+Pic12F683, Pic18F25K22 
+
+IDEs Vim editor, Netbeans, Eclipse, Keil 4, Mplab. 
+
+Tools 
+GCC toolchain, gdb, gnu make, Git, Tortoise, Shell scripting & Batch Scripting, 
+
+doxygen, Eagle Schematic & Layout, ORCAD 9.0, etc. 
+
+Communication Protocols I2C, SPI, RS-232, RS-485 
+
+Sensors & Peripherals 
+
+TI 7571 (12Bits DAC), AT24512, RTC (DS1307, M41T01) MMA8451 & MPU6050 
+
+(Accelerometer), HMC5883L (Magnetometer), Quadrature Encoder for velocity 
+
+measurement & direction control, PWM for Generation of different colors on 
+
+LED & DC motor speed control, Zigbee. 
+
+Memory interface 
+(withLPC1788) 
+
+Hynix H57v2562GTR (256Mbits SD RAM), 9F1G08 (1Gb SamsungNand Flash), 
+
+MT29F4G08 (4Gb Micron Nand Flash) 
+
+ 
+Additional Concepts & Implementations 
+Generic uart communication application for linux and windows. 
+
+C code for catching segmentation faults and generating core files without exiting the application. 
+
+Tailoring the code with stdio header functions – using printf for transmission on uart for LPC17xx 
+
+Tailoring the code with time header functions – to use epoch time for time management 
+
+ 
+
+Experience 
+ 
+
+TCS Client Site: National Stock Exchange 
+Sr. Software Engineer Sep ‘16 - Present 
+
+Project: IFSC Surveillance software 
+
+Software & Database environment that processes, records and monitors trading activities. 
+
+Key Deliverables: 
+
+Development and support to surveillance software at NSE, which monitors and records trading activities onto a 
+
+database. 
+
+The software consist of application code in C, PSQL as database for handling trading data and linux shell scripting 
+
+that performs the pre & post application-run activities. 
+
+  
+
+mailto:dhaval.p.solanki@gmail.com
+
+
+ 
+
+Phi Robotics  
+
+Embedded Software Developer Oct ‘15 – Sep ‘16 
+ 
+
+Project: Controller Flash Programming Software 
+
+Software for programming Controllers using serial and jtag interface. 
+
+Key Deliverables: 
+
+Designing and developing serial terminal software for windows &linux desktop systems. 
+
+Implementing serial communication interface for programming flash memory of Controllers. 
+
+Implementing communication interface abstraction & file parser abstraction using abstract factory design pattern 
+
+and singleton design pattern using C++. 
+
+Implementing uu-decoding logic to read flash memory contents of NXP Cortex-M Controllers. 
+
+Writing shell scripts & windows batch for software usage. 
+
+ 
+
+Project: Boot system 
+
+Communication abstraction layer for serial and Ethernet interface & memory abstraction layer library along with 
+
+windows & linux application. 
+
+Key Deliverables: 
+
+Designing and developing abstracted Serial & Ethernet interface on Linux and Windows. 
+
+Implementing delay timer on linux and windows to generate repetitive interrupt. 
+
+Implementing code to parsing hex and elf files. 
+
+ 
+
+Project: PC Controlled Zigbee Robot 
+
+PC Software to control movement of a robot using Zigbee 
+
+Key Deliverables: 
+
+Developing protocol to communicate with robot using Zigbee interfaces. 
+
+ 
+
+Tokheim India  
+
+R & D Engineer, Electronics Apr ‘15 – Oct ‘15 
+ 
+
+Project: CAN V4 
+
+Programming the peripherals of system that use propriety CAN protocol using existing system that use CAN 
+
+Open. 
+
+Key Deliverables: 
+
+Studying CAN Open and Propriety CAN protocol and guiding the IT developers in designing of test tool and serial 
+
+number programmer software utility. 
+
+Developing embedded software on Sitara controller to program the peripherals on propriety CAN bus using the 
+
+existing CAN Open protocol. 
+
+ 
+
+Electrolab India  
+
+Embedded Design Engineer Mar ‘12 – Aug ‘14 
+ 
+
+Project: Tablet Dissolution Tester 
+
+Tablet dissolution tester is an automated machine that simulates an environment same as in the human body, 
+
+under which condition the tablet’s dissolving rate and drug release rate is monitored. 
+Key Deliverables: 
+Finalizing the hardware design of the boards to fulfill all the requirements of the project. 
+
+Studying of Optical Quadrature Encoder for velocity measurement, studying the Linear Magnetic Quadrature 
+
+Encoder for linear displacement measurements and interfacing with the controller. 
+
+Driver development of all the Cortex-M3 peripherals.Application development of the automation machine. 
+ 
+
+  
+
+
+
+Associated Projects: V-Stir & Bathless Heater Controller 
+
+V-Stir is powered wireless, and transfers data back on the same wireless channel to the receiving controller on its 
+
+Uart port (Patented technology). V-Stir has on board micro-controller that reads temperature (from RTD) and 
+
+transmits to the main controller. 
+
+Bathless Heater controller is used to drive the coils that heat the jars in which the tablets are tested. 
+Key Deliverables: 
+Studying the hardware of the V-Stir and updating it making it more stable and reliable. 
+
+Updating the software for Uart communication and correcting the timer delay which is used for baud-rate 
+
+generation. 
+
+Finalizing the hardware of bathless heater controller & writing the application software that communicates with 
+
+the main controller on the RS-485 channel and controls the temperature of jars. 
+
+Project: Tablet Hardness Tester 
+Tablet Hardness Tester records the force at which the tablet breaks. 
+
+Key Deliverables: 
+Designing of the main algorithm for noise rejection and algorithm for deciding the instance of tablet breaking and 
+
+the amount of force at which the tablet breaks. 
+
+Application code for calculating the thickness of the tablet. 
+ 
+
+Core Technologies  
+
+Embedded Engineer June ‘10 – Feb ‘12 
+Project: Rhy-100 
+
+PLC compatible digital vibratory feeder controller. 
+
+An SCR based digitally controlled dimmer stat for inductive coils. 
+Project: Pharma Log 
+
+An 8051 based pharmaceutical data-logger. Schematic designing of 8051 micro-controller card that is compatible 
+
+with the existing 8085 card.Designing and migrating existing 8085 based system to 8051. 
+
+ 
+ 
+Hobbyist Projects 
+ 
+
+ Controlling robot movements according to accelerometer tilt. 
+
+ Controlling robot movements using keypad, on a Wireless RF link. 
+
+ Measuring geographical direction using magnetometer sensor. 
+
+ Interfacing various Peripherals like Accelerometer, Magnetometer, Color sensor, SIM808 & xbee module using 
+
+AT-command mode, DS1307 Rtc, etc. 
+
+ I2C drivers (bit banding) on 8051 port pins, 16*2 character LCD drivers, Serial port drivers, seven segment 
+
+displays etc. 
+
+ 
+ 
+Academics Qualifications          Personal Details 
+ 
+
+Graduation in Electronics 2010 60% 
+
+Diploma in Electronics & Telecom 2007 67.68% 
+
+Secondary school 2004 76% 
+
+Gender Male 
+
+Martial Status Single 
+
+D.O.B 30 Mar 1989 
+
+Hobbies 
+
+Reading, tech-news, drawing, painting. 
+ 
+Date:    /    / 
+
+Dhaval Solanki 
+
+ 
+
+

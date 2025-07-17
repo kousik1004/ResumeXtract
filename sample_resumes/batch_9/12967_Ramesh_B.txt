@@ -1,0 +1,251 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Ramesh B  
+ 
+
+ E-mail​ : ​rameshb707@gmail.com      ​Contact : ​+91-8951794257 
+        +91-8951249617 
+
+ 
+ ​WORK SUMMARY :  
+ 
+
+● Professional experience of 3.5+ years of experience as a software developer in which 2+ years 
+as iOS developer in designing and developing  mobile application .  
+
+● Methodology development experience utilizing Agile/SCRUM and Waterfall  
+● Implemented MVVM and VIPER design architecture. 
+● Used  Core location to enhance user to find nearest store locations and to update user’s location. 
+● Experience with design and verification using UI testing and Unit testing with XCTest  
+● Followed TDD approach implemented with pre and post scenarios. 
+● Exposure to parsing JSON, XML, PLIST  
+● Worked with local storage such as Core Data, NSFileManager and NSUserDefaults  
+● Worked with class communication through Protocols and Delegates, NSNotificationCenter, and, 
+
+KVC and KVO  
+● Skillful at using both Storyboard and Interface Builder, especially very familiar with  Auto Layout.  
+● Worked with reputed clients like Rufus Leonard, Network18 ,McDonalds and Yash Raj Films. 
+● Experience in customer interaction, requirement collection, Design development and deployment. 
+
+ 
+ 
+TECHNICAL​ ​SKILLS : 
+
+  
+● Programming/Scripting Languages​: C, Objective-C and Swift(2.2, 2.3, and 3.0) 
+● Web Services:​ REST, JSON, PLIST 
+● Operating Systems​: Windows,, Mac OS X, iOS and Android 
+● Database technologies: ​Core Data, Realm 
+● IDE’s Used: ​Xcode 8 
+● Tools:​ Jenkins,​ Interface Builder, Instruments - Allocations, Leaks , Cocoa Pods.​. 
+● Version Control Tools:​ Git, SVN, Bitbucket 
+● Frameworks:​ ​Cocoa Touch, Core Location, UIKit, Core Graphics.  
+● Methodologies:​ Agile/ SCRUM, Waterfall 
+
+ 
+ 
+ 
+WORK EXPERIENCE : 
+
+ 
+● Worked as a ​Software Engineer ​for ​Robosoft Technologies​, Udupi since January 2014 to till 
+
+date. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+mailto:rameshb707@gmail.com
+
+
+ 
+
+EDUCATION QUALIFICATION : 
+ 
+
+● Bachelor of Engineering               :  8.54 (CGPA)  
+● 12th (Pre-university Education)    : 78.8% 
+● 10th (SSLC)                                  : 84.8% 
+
+ 
+ 
+PROJECTS : 
+ 
+
+1.  ​Client  : McDonald's.  
+Role: iOS SDK Developer 
+
+  
+Project Description: 
+ 
+McDonald’s is a app for iPhone, which experience weekly deals on tasty food and McCafe coffee and 
+also helps you to find nearby McDonald’s restaurants. Mobile ordering will also be available in select 
+market This app is available in US, China, and 16 other countries. 
+ 
+Basically this app consumes MCD SDK framework in order to get respective module and SDK 
+communicates with web service and provides the necessary information. 
+● Modules: Order, Nutrition, Deals, Payment, Baskets, Accounts(Registration and login), User 
+
+Profile, Location, Configuration. 
+● Worked on Base code which helps all module to make their network operations 
+● Used NSURLSession for network calls 
+● Used Realm framework to store in Database  
+● T​est Driven Development for Unit Test using XCT Framework. 
+ 
+Responsibilities​:  
+Worked on 
+1) Location 
+
+● Detecting user Current location  
+● Updating the user’s location 
+● Setting location accuracy based on requirement  
+
+2) Persistance 
+● Adding, deleting and updating  
+● Asynchronous storing  
+● Clearing the DB 
+
+3) Migaration 
+● Realm Migration when the model objects are updated. 
+
+4) Registration & Login 
+● Traditional (Email and Password) 
+● Facebook 
+● Google 
+
+       App link: ​https://itunes.apple.com/us/app/mcdonalds/id922103212?mt=8 
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+
+2. ​Client : Network18 Media & investments ltd.  
+Role: iOS Developer 
+  
+Project Description: 
+
+ 
+in.com is a news app for iPhone, which shows you the live update of politics, movies, shares and etc. 
+And also allows user to upload the news and download any particular news. 
+● This app is used to watch the news in English, Hindi and other Indian languages. 
+● The news can be watched Online, by streaming, or can be saved to watch them offline. 
+● Customized UIAlertView and UITableView to build the user interface of the app. 
+● Designed app for all types of screen sizes and orientations and tested on all devices.  
+● Worked on writing unit test cases to validate the functionalities of the app.  
+● Used Realm mobile database to cache the response. 
+● Preparation of Unit test plans and System test plans for various functionalities. 
+
+ 
+Responsibilities​:  
+● Implementation of video player using AVFoundation framework 
+● Implementation search and comment feature 
+● Implementation of custom download manager library for offline feature. 
+● Cropping the video which is used to upload. 
+● Worked closely in chromecast integration for the app. 
+● Test Driven Development for Unit Test and UITesting using XCT Framework. 
+
+ 
+ 
+
+3. ​Client : Rufus Leonard, United kingdom  
+Role: iOS Developer 
+  
+Project Description: 
+ 
+the ShareCenter is a app which gives support, guidance and information for the people to make 
+investing easy. The app provides information on the top risers and fallers int market and expert 
+analysts, share tips and fund recommendations.  
+● Research shares and funds (performance, prices, our/broker views, news and more) 
+● View the analysts, share tips and fund recommendations. 
+● Main indices’ performance charts (incl. FTSE 100) 
+● Top risers and fallers 
+
+  
+Responsibilities​:  
+● Worked on UI Gesture Recognizers to simulate carousel effect during navigation between view 
+
+Controllers.  
+● Parsed JSON responses using NSJSONSerialization.  
+● Worked with offline storage, threading, and performance tuning.  
+● Data persistence handled via a REALM 
+● Performed testing with XCTest FrameWork 
+● GIT repository was used for version control and Source Tree was used to commit to repository. 
+
+App link: 
+https://itunes.apple.com/gb/app/the-share-centre-investments/id1110686820?mt=8 
+
+ 
+
+https://itunes.apple.com/gb/app/the-share-centre-investments/id1110686820?mt=8
+
+
+ 
+
+4. ​Client : ITC  
+Role: iOS Developer 
+  
+Project Description: 
+ 
+ITC Iris is designed for disseminating content related to ITC Limited's Brands and Businesses. 
+
+ 
+Responsibilities​:  
+● Worked on UI Gesture Recognizers to simulate carousel effect during navigation between view 
+
+Controllers.  
+● Worked with offline storage, threading, and performance tuning.  
+● Implementation of video player using AVFoundation framework 
+● Performed testing with XCTest FrameWork 
+
+App link: ​https://itunes.apple.com/in/app/itc-iris/id1196171013?mt=8 
+ 
+ 
+ 
+DECLARATION : 
+ 
+         ​i hereby declare that the above written are true to the best of my knowledge and belief 
+ 
+
+ 
+ 
+
+ 
+
+

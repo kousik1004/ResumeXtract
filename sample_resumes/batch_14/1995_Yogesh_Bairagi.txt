@@ -1,0 +1,209 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yogesh Bairagi
+SAPUI5 Consultant
+
+Professional Experience: 3 Years				Email: yogeshinspires@gmail.com
+Address: #90/5, Anthony Complex,				Contact no.: +91-9009307689 / +91-8904995771
+25th Main, 3rd Cross,						LinkedIn: www.linkedin.com/in/yogeshbairagi
+BTM Layout 2nd Stage, Bangalore-560076			Skype ID: yogeshinspires
+
+Professional Summary
+
+· Having 3 years of work experience in IT industry - Involved in SAPUI5/Fiori Implementation, SAP ABAP Support and Upgradation projects.
+· Currently working as SAPUI5 Consultant at DXC Technology (Formerly known as Hewlett Packard Enterprise), Bangalore. 
+· Having technical experience as an SAPUI5, NetWeaver Gateway OData Services and SAP ABAP Technical Consultant working with SAP CRM and ECC environments and also having experience in HTML5, JavaScript, JSON, XML, CSS3.
+· Having working experience of SAP ABAP Programming. 
+· Strong organizational, time-management and planning skills to deliver projects on time/budget, despite intense pressure and aggressive timelines.
+· Strong believer in team work, building cordial relation with people inside and outside the organization, innovative solutions for difficult programming problems, self-learner and fast learner.
+
+Technical Skills
+
+SAPUI5 and NetWeaver Gateway OData Services:
+· Expertise in developing SAPUI5 applications using ADT (eclipse, JQuery, JavaScript, XML, HTML5 & CSS3) and consuming the data through NetWeaver Gateway Services.
+· Expertise in developing NetWeaver Gateway Services (SEGW) including Deep Entities.
+· Expertise in integrating Gateway OData/JSON services with UI5 Apps.
+· Mobile Expertise: SAPUI5 & HTML5, Gateway OData Integration, Responsive Design.
+· Configure Gateway and Fiori Infrastructure (with support from Basis Team).
+· Work with Functional and Technical resources in setting up the CRM Backend.
+· Set User Roles, Profiles, Apply Notes and Fixes in CRM System.
+· Expertise in creating Launchpad Role and Semantic Objects for custom UI5 applications.
+· Roll out custom Apps to Business Users for Testing.
+· Expertise in Custom App Development using UI5, HTML5, JavaScript, JQuery, CSS.
+· Expertise in coding for consuming data for UI5 Apps through NetWeaver Gateway OData/JSON services.
+· Experienced in GitHub.
+· Expertise in debugging Ul5 application in Firefox/Chrome. 
+
+
+
+
+
+
+SAP ABAP Expertise:
+· Programming:		Data Dictionary (DDIC), Internal Tables, Reporting, Module Pool, Debugging.
+· Cross Applications:	RFC.
+· User Interface:	ALV Grid.
+
+SAP BO Expertise:
+· BO Tools:			SAP Business Objects 4.0, Web Intelligence Rich Client.
+
+Others:
+· Programming Languages:	C, C++, Java, SQL
+· Platforms:			J2SE, J2EE
+· Web Technologies:		Servlet, JSP, JDBC
+· Web/Application servers:	Apache Tomcat 6.x, 7.x
+· IDE:				Eclipse, Net-beans, MyEclipse
+· Databases:			MS Access, MySQL, Oracle
+· Operating Systems:		Unix/Linux, Microsoft Windows Family
+· Concepts:			OOP, Data Structures, DBMS
+
+
+Projects Summary
+
+Project 1
+Project Title		: MRP Pricing
+Client			: Hindustan Unilever Limited, India.
+Duration		: August 2016 to till Date.
+Platform		: SAPUI5, Fiori Launchpad, Netweaver Gateway 7.4.
+Role			: SAP UI5 Consultant.
+Responsibilities:
+· Developing frontend using Eclipse (XML Views) and consuming the data through NetWeaver Gateway Services (JavaScript Controllers).
+· Provide styling using CSS.
+· Developing NetWeaver Gateway Services (OData Services using SEGW) including Deep Entities. OData Services Development using RFCs as data source.
+· Configuring Gateway and Fiori Infrastructure (with support from Basis Team).
+· Work with Functional and Technical resources in setting up the CRM Backend.
+· Work with prototype design team to build initial prototype for the UI5 applications and present it to the customer.
+· Set User Roles, Profiles, Apply Notes and Fixes in CRM System.
+· Setting up System aliases since the Gateway is on a different system. 
+· Create Launchpad Role and Semantic Objects for custom Pricing UI5 applications.
+· Roll out custom Apps to Business Users for Testing.
+· Doing upgrade testing for all UI5 apps due to Netweaver Gateway Platform upgrade to Version 7.5 
+
+
+
+
+Project 2
+Project Title		: State and Channel Extension
+Client			: Hindustan Unilever Limited, India.
+Duration		: Jan 2016 to Aug 2016.
+Platform		: SAPUI5, Fiori Launchpad, Netweaver Gateway 7.4.
+Role			: SAP UI5 Consultant.
+Responsibilities:
+· Developing frontend using Eclipse (XML Views) and consuming the data through NetWeaver Gateway Services (JavaScript Controllers).
+· Provide styling using CSS.
+· Developing NetWeaver Gateway Services (OData Services using SEGW) including Deep Entities. OData Services Development using RFCs as data source.
+· Configuring Gateway and Fiori Infrastructure (with support from Basis Team).
+· Work with Functional and Technical resources in setting up the CRM Backend.
+· Work with prototype design team to build initial prototype for the UI5 applications and present it to the customer.
+· Set User Roles, Profiles, Apply Notes and Fixes in CRM System.
+· Setting up System aliases since the Gateway is on a different system. 
+· Create Launchpad Role and Semantic Objects for custom Pricing UI5 applications.
+· Roll out custom Apps to Business Users for Testing.
+· Doing upgrade testing for all UI5 apps due to Netweaver Gateway Platform upgrade to Version 7.5 
+
+Project 3
+Project Title		: PI Dashboard
+Client			: Hindustan Unilever Limited, India.
+Duration		: Nov 2015 to Dec 2015.
+Platform		: SAPUI5, Fiori Launchpad, Netweaver Gateway 7.4.
+Role			: SAP UI5 Consultant.
+Responsibilities:
+· Developing frontend using Eclipse (XML Views) and consuming the data through NetWeaver Gateway Services (JavaScript Controllers).
+· Provide styling using CSS.
+· Set User Roles, Profiles.
+· Setting up System aliases since the Gateway is on a different system. 
+· Create Launchpad Role and Semantic Objects for custom Pricing UI5 applications.
+· Roll out custom Apps to Business Users for Testing.
+· Doing upgrade testing for all UI5 apps due to Netweaver Gateway Platform upgrade to Version 7.5 
+
+Project 4
+Project Title		: Vaillant
+Client			: Vaillant, Germany.                                                                               
+Duration		: Sept 2015 to Oct 2015.
+Platform		: EHP7 for SAP ERP 6.0, NetWeaver 7.4.
+Role			: SAP ABAP Consultant.
+Responsibilities:
+· ABAP Code Remediation for ERP on HANA migration.
+· ABAP Customization for EHP7 Upgrade.
+Project 5
+Project Title		: Telstra
+Client			: Telstra, Australia.                                                                               
+Duration		: April 2015 to Aug 2015
+Platform		: SAP ECC 6.0, NetWeaver 7.0
+Role			: SAP ABAP Consultant.
+Responsibilities:
+· Responsible for solving the defects raised by customer.
+· Analyzing the functional specifications to resolve the defects.
+· Created ALV reports and also worked on module pool programming.
+· Familiar with all the project documents related to my role.
+
+Academic Qualification
+· MCA (Computer Applications) with 8.37 CGPA from Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, MP in 2014.
+· BCA (Computer Applications) with 79.37% from Vikram University, Ujjain, MP in 2011.
+
+
+Personal Information
+
+Date of Birth		: 14th Apr 1990
+Father’s Name	: Mr. Arjun Das Bairagi
+Mother’s Name	: Mrs. Anita Bairagi
+Sex			: Male
+Marital Status	: Unmarried
+Nationality		: Indian
+Permanent Address 	: Near Reva Garden, Bhanpura, Distt: Mandsaur [M.P.] 458775
+Languages Known	: English, Hindi
+
+Declaration
+
+I consider myself familiar with all technical aspects, I am also confident of my ability to work in a team as well as individual. I hereby declare that all the information furnished above is true to the best of my knowledge.
+
+
+Place: Bangalore			Yogesh Bairagi
+

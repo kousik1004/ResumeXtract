@@ -1,0 +1,243 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bhargav Ram
+SAP FI Certified Consultant 
+Mobile: + 91 9885084754                  Email: bhargava.brgv@gmail.com	
+
+Career Summary:
+
+· Over all 5+ years of experience which includes SAP & Non SAP experience.
+· 3.5+ years of experience as SAP FICO consultant involved in implementation, supportand SAPtesting projects.
+· Good in SAP FICO sub modules (GL/AP/AR/AA/CCE/CCA/PCA).
+· Worked on interfaces to transmit the SAP data in outbound/inbound directions.
+· Worked on IDOCS.
+· Knowledge on S/4 Hana Simple Finance.
+· Having experience in uploading master data through LSMW.
+· Worked on testing management software tools like HPQC, ALM 11.
+
+Education Details:
+
+· SAP Certified Application Associate-Financial Accounting with SAP ERP 6.0 EHP6.
+· Master of Business Administration (M.B.A) in Finance from Osmania University.
+· Graduate in Bachelor of Commerce with computer applications from S.K. University.
+· P.G Diploma in Materials Management from Annamalai University.
+
+Experience Summary: 
+
+· Working for Capgemini India Pvt Ltd (Legacy-IGATE Global Solutions Ltd) as SAP FICO consultant.
+· Worked as Associate Financial Analyst for Wells Fargo India Solutions Pvt Ltd – Hyderabad.
+
+Technical Skills:
+
+· ERP : SAP ECC 6.0
+· Tools: HPQC 10, ALM 11&Ancile Uperform tools
+· Operating System: Windows 2001/2002/XP
+· Packages : MS office,  Tally 8.0
+
+SAP FICO Skill set:
+
+
+· General Ledger - Configuring Global setting for company code,  Account Groups, Field status group, Chart of account, fiscal year variant, posting period variant, document types and number ranges.
+
+· Accounts Payables- Configuration of Vendor master, configuration of house bank, Automatic payment program, payment terms, Vendor special GL configuration, down payments to vendors and knowledge on Electronic Bank statement.
+
+· Accounts Receivable- Configuration setup for Customer Master, Customer Special GL configuration, configuration of payment terms and Dunning.
+
+· Asset Accounting – Knowledge in Asset accounting, Configuring Asset class, Chart of depreciation, depreciation area, Depreciation keys, Account assignment etc.
+
+·  Integration – Good knowledge in Integration & process flow between SAP FI – MM and FI – SD.
+
+· Testing – Involved in SAP testing projects to test the developed functionalities in unit testing and Integration testing. Prepared test scenarios, test cases and executing the test cases, updating the test results document as well as in HP ALM.
+
+· Controlling – Knowledge in configuration of Controlling Areas i.e. Cost Element Account, Cost Center Accounting, Profit Centre Accounting.
+
+SAP Experience:
+
+Overall 3.5+ years of experience as SAP FICO Consultant, worked onImplementation, production support and SAP Testing projects.
+
+Project Details:
+Project # 5
+Client:  Coca-Cola-SAP Cloud Migration.
+Organization   :Capgemini India Pvt Ltd
+Project: SAP Functional Testing.
+Designation    : SAP FICO Consultant
+Duration: Feb 2017 to till date
+
+Project Description:
+The Coca-Cola Company, which is headquartered in Atlanta, Georgia, is an American multinational beverage corporation, and manufacturer, retailer, and marketer of nonalcoholic beverage concentrates and syrups. 
+
+Roles and responsibilities:
+
+· Understanding the functionality of various interfaces with SAP system.
+· Daily sending the status report to the onshore team on the project execution status.
+· Involved in preparation of test cases on the new functionalities for testing.
+· As a functional consultant I have provided test data for the automation testing team.
+· Worked on HP ALM 11 to update the test results.
+· Involved in uploading of test scripts into HP ALM 11 for execution.
+· Created defects for the failed functionalities during testing and maintained the defect tracking sheet for its resolution.
+· Attending daily client calls to discuss on the open defects for its resolution.
+
+Project # 4
+        Client                       : Coke CONA, NA
+Organization          : Capgemini India Pvt Ltd
+        Project                     : Production Support
+        Designation            : SAP FICO Consultant
+        Duration                  : June 2016 to Jan 2017
+
+About the Client:
+
+The Coca-Cola Company, which is headquartered in Atlanta, Georgia, is an American multinational beverage corporation, and manufacturer, retailer, and marketer of nonalcoholic beverage concentrates and syrups
+
+My Contributions: 
+
+· Handling the tickets created by users.
+· Resolving the incidents with in SLA period.
+· Supporting the tickets related to FI module (GL/AP/AR/AA/CCE/CCA/PCA)
+· Interacting with the users to get complete details about the incidents.
+· Analyze the root cause of the issues, resolving the issues.
+· Attending weekly client calls to update the project status.
+· Sending daily incidents status report to the client on open incidents.
+· Worked on change requests as per business requirements.
+· Guiding the users in resolving the issues related to manual errors.
+Project # 3 
+Client: CSM Bakery
+Organization: Capgemini India Pvt Ltd
+Nature of Project: Implementation.
+Project Duration: Sept 2015 to May 2016.
+
+Project Description:
+
+CSM Bakery Solutions is an international leader in the baking industry, producing one of the industry’s broadest ranges of products for customers in more than 100 countries. Headquartered in Atlanta, Georgia, CSM connects bakeries and businesspeople with an international presence that includes 34 manufacturing facilities.
+
+Roles & responsibilities:
+
+· Configuration of FI global settings, Configured company code, created GL accounts, chart of accounts, fiscal year variant, maintained field status variant, posting period variant, screen variants for document entry as per business specifications and tested the configuration in various scenarios.
+· Assignment of fiscal year variant, posting period variant, Field status variant, chart of depreciation etc. to company code.
+· Involved in configuration of Asset Accounting.
+· Creation of various GL master records in both company code data and chart of accounts data.
+· Creation of number ranges for various document types.
+· Configuration of field status variants for various documents used by the client
+· Configured various vendor master records as per the client requirements.
+· Defined Tolerance Groups, Tolerances for Employees, Customer and vendors.
+· Configuration of Automatic payment program for Vendors automatic clearing
+· Configured various payment methods and payment terms for each company code.
+· Prepared SOP’s for the user’s reference.
+· Defining chart of depreciation and Depreciation Areas for calculation of various depreciation rates for various assets. Creation of Assets and assigning of assets to respective Asset Class.
+· Define screen layout rules for various assets and define asset classes for various assets of the client.
+Project # 2
+Client: St. Jude Medicals
+Organization: IGATE Global Solutions Pvt Ltd.
+Nature of Project: Production support
+ Project Duration: Dec 2014 to Aug 2015.
+
+Project Description:
+
+St. Jude Medical, Inc. is an American global medical device company headquartered in Little Canada, Minnesota, U.S., a suburb of Saint Paul. The company has more than 20 principal operations and manufacturing facilities worldwide with products sold in more than 100 countries. Its major markets include the United States, Europe, Latin America and Asia-Pacific. 
+
+Roles & responsibilities:
+
+· Receiving the Incidents raised by the end users.
+· Investigating the route cause for the issue.
+· Contacting the users for any additional information on incident.
+· Resolving the incidents with in SLA time.
+· Involved in discussions with process owner system developers and end users.
+· Attended KT sessions & updated knowledge on new Business scenarios.
+· Attending weekly meeting with client to discuss on open incidents.
+· Handled the End user queries through Help desk
+· Handling the incidents related to GL/AP/AR.
+Project # 1
+Client: General Electric- Parts & Repairs 
+Organization: IGATE Global Solutions Ltd.
+Nature of Project: SAP Functional Testing.
+Project Duration: May 2014 – Nov 2014
+
+Project Description:
+
+General Electric (GE) is an American multinational conglomerate corporation incorporated in New York and headquartered in Connecticut. The company operates on Energy, Technology, Capital Finance, Consumer and Industrial.
+GE's divisions include GE Capital, GE Power & Water, GE Oil & Gas, GE Aviation, GE Healthcare, GE Transportation, and GE Home & Business Solutions.
+
+Roles and responsibilities:
+
+· Understanding the functionality of various interfaces with SAP system.
+· Involved in preparation of test cases on the new functionalities for testing.
+· As a functional consultant I have provided test data for the automation testing team.
+· Involved in uploading of test scripts into HPQC 10 for execution.
+· Created defects for the failed functionalities during testing.
+· Created the test plans, test scripts, used Quality Centre for defect tracking.
+· Involved in daily client calls to discuss on open defects.
+· Worked also as a Functional tester for project. I was involved in areas of Procure to Pay (P2P), Order To Cash (OTC), and FI.
+· Performed Unit testing, Integration testing and UAT testing during the various phases of the application. 
+· Worked on crucial interfaces like IBS, GECARS, Accord and Concur.
+· Involved in most of the interfaces in the project and gained knowledge.
+· Prepared user documentation in the tool called “AncileUperform “to record scenarios for the end user training to train business users.
+· Always adhered to SLA in completing the tasks within SLA time.
+
+Non – SAP Experience:     
+
+               Organization            : WELLS FARGO INDIA SOLUTIONS PVT LTD, Hyderabad.	
+               Designation              : Associate Financial Analyst.
+               Duration                    : April – 2012 to Sept – 2013.
+
+Job Profile:
+
+· Associated with document review process which involves reviewing of the documents which the borrower submits to the company as proof for obtaining a home loan.
+· Associated with Financial Statement analysis (FSA) process, which includes analyzing the financial statements – Profit & loss, Income & Expenditure and Balance sheet statements to have a better analysis on the financial position of the company.
+· Involved in giving updates on the process changes to the offshore team by conducting team meetings.
+· Involved in giving trainings tofreshers on the FSA process and validations.
+
+
+                                                                                                                                      Bhargav Ram.
+
+
+Company Internal
+

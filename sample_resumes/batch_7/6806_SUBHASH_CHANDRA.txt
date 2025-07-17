@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+SUBHASH CHANDRA                                                                         email: subhash207@gmail.com
++91-8800997531
+
+OBJECTIVE
+
+ Seeking to work in an organization where I can employ my technical & analytical skills for the 
+Development of profitable, innovative Systems and Software Products. 
+
+SUMMARY OF EXPERIENCE
+
+ 5+ year of strong experience in analysis, design, development and implementation of large scale 
+JAVA/J2EE Product/Application.
+ Experience in development of web and enterprise applications using J2EE technologies
+
+ such as SpringMVC, Hibernate, Struts, JSP, Servlet,JSTL,JSF.
+ Having considerable experience in development of ecommerce and Payment domain.
+ Having experience in development on Asterisk SIP, VOIP based Dialer Product. 
+ Strong experience in working with Database like PostgreSQL, Oracle and MySQL proficiency 
+
+in writing complex SQL queries and pl/pg SQL functions.
+ Experience in JBoss Application Server and Apache Tomcat web server.
+ Experience in working on UNIX environment, having knowledge of scripting and command.
+ Extensive Object Oriented Development OOP/OOD Knowledge.
+ Highly motivated and energetic self-starter with good analytical, organizational, creative and 
+
+communication skills.  Ability to work independently as well as in a team.
+
+EDUCATION & TRAINING
+
+ B. Tech from Biju Patnaik University of Technology, Orissa in 2011 with CGPA 7.63.
+ 12th standard from JAC ,Ranchi in 2006 with an aggregate of 63.6%
+ 10th standard from JAC, Ranchi in 2004 with an aggregate of 68.4%.
+ 6 Month Training of JAVA at DUCAT Gurgaon,
+ 3 Month Training of Linux Redhat
+ 1 Month Training on Advance C and C++. 
+
+PROFESSIONAL EXPERIENCE
+
+ Currently working in Tech Mahindra Ltd as a Senior Software Engineer and developing JAVA 
+application for one of leading Telecom company for their E - Commerce & billing and Payment platform
+
+Platform – Java/J2EE(Spring MVC ,Spring Boot,Micro services,Hibernate,Web Services,Angular 2, 
+Maven , Jenkins , Mongo DB)
+
+ Previously  at  HCL Technologies Limited as  Senior Software Engineer 
+
+Sep 2014 to March 2016   
+
+Join HCL as a part of Engineering and R & D services team, currently developing JAVA application for one of 
+fortune 500 company to transform their Digital Engagement Platform.
+
+Platform – Java/J2EE(Spring MVC,Hibernate,Struts,JSP,JSF,JSTL,Linux,Oracle,Solar Search, Maven)
+
+ Previously worked with   Drishti-Soft Solutions Pvt Ltd as Software Product Engineer
+
+Jan 2012 to Aug 2014 
+
+It's an India based Product company which deals with Telecom domain software and having various product for 
+Contact Center solution where my role is to developed product/ enhance product feature.
+
+mailto:subhash207@gmail.com
+
+
+Platform - Java,J2EE ,Postgres ,Mysql , Linux,Asterisk, SIP, IVRs ,PL/pg sql,BI Tools ,Web-services,Shell 
+scripting .
+
+TECHNICAL SKILLS
+
+Programming Languages : JAVA /J2EE , Java Script
+Database Languages : Pl/pg Sql
+Operating System : Linux Redhat
+Database : PostgreSQL, MySQL, Oracle 10g
+Technologies   :            SpringMVC, Spring Boot, Microserices, Hibernate 4.0       
+
+.            Servlet, JSP, JSF , Web Services
+Telecom Domain : Asterisk, SIP Protocol, VOIP, Jasper Report,CRM
+Code Testing/Build Tools used :           Junit, Sonar, Maven
+Others : HTML, Ajax, jQuery
+
+Shell Scripting,IVR, CRM, XML,Agile
+
+WORK EXPERIENCE
+
+Project Title: AT & T Payment & Billing
+
+Client: AT& T
+
+Role: Sr. Programmer
+
+Skill Used: Spring MVC, Spring Boot, Java Web Services, JAX-RS, Hibernate, SOAP, Core Java, 
+J2Ee, JMS, MongoDB, Oracle, Jenkins, GIT, Maven, JUnit, HTML, jQuery, Angularjs, Weblogic.
+
+Role Description: Working as a senior developer in feature development to integration and 
+presentation. Guide Jr. developer and tester on their day to day work.
+
+Project Details: Creating the Payment application for AT & T next generation Web application to 
+enhance the User experience by providing seamless experience from buying a plan to upgrading 
+the device.
+
+Project Title: McDonald’s 
+
+Client: McDonald's Corporation
+
+Role: Sr. Programmer
+
+Skill Used: Spring Framework, Hibernate, J2Ee, JSP, Core Java, jstl, Web Services, Redhat Linux, 
+Oracle, , JBoss,
+
+Role Description: Working on the application development. Closely working with Team lead and 
+Business Analyst to understand customer requirement, provide efficient solution also providing POC 
+to customer.
+
+Details:
+Digital Engagement Platform is a group of Application developed by McDonald's to reach their customer and 
+vice versa to increase their sales by various promotion and to manage their Digital content.
+
+Roles and Responsibilities:
+Involved in designing the Application, system and database.
+Created Application on Spring MVC framework.
+Implemented DAO for data access using Spring ORM with Hibernate.
+
+
+
+Created tables in Sql for retrieval and data manipulation using Oracle 10g
+Product                :    Ameyo Report                        May 2013 – Aug 2014
+Role                            :   Product Engineer
+Team Size                  :     8
+Technologies             :    Java, JSP, Servlet, Struts, XML, PostgreSQL Database, Pl/pg Sql
+
+ Shell Scripting
+
+Details:
+
+Ameyo Report is a Reporting Tool to Provide Report for each customer interaction; it is management system for 
+tracking and monitoring data (real-time and historical), defining process efficiency metrics, and reviewing 
+organizational performance at every level.
+The data can be viewed in graphical (graphs, charts, diagram), as well as text format.
+AMEYO's reporting solution is ideal for organizations that deal with large volumes of data exchange continuously. It 
+organizes and presents data, concise and detailed, with the help of more than 20 customizable reports.
+
+Roles and Responsibilities:    
+
+ Product Designing 
+ Designing and developing the data base tables for DE normalized Table.
+ Writing Code for Data Archival from Application database to Reporting Database. 
+ Writing Code for Ameyo Report UI.
+ Writing Code for Access Identifier so that data security can be maintained.
+ Writing SQL queries for Ameyo Standard Report, Ameyo- Chat Report.
+ Tracking the bugs and Resolve them.
+
+Product                :   IVR Nodeflow Designer                       
+Role                            :  Product Engineer
+Team Size                  :    4
+OS                              :   Linux Redhat 5
+Front End                   :   JSP/Servlet
+Back End                    :  JAVA, Asterisk, SIP, VOIP, PostgreSQL 9.0 
+
+Details:
+
+In this system the user can create his own IVR from web interface provided to him. 
+When the user submits his IVR the flow of the IVR is stored in database and the IVR is served by the AGI SERVER 
+which is written by using ASTERISK JAVA. The AGI server executes the AGI Scripts according to it.
+Currently the web interface is in under development, the backend is completed which includes database, Agi server 
+and Agi scripts written in Java and DIALPLANS in ASTERISK.
+The call broadcast service’s web interface is developed using JSP/Servlet. 
+The call conference service’s web interface is developed using JSP/Servlet. The backend is completed which 
+includes DIALPLANS in ASTERISK and AGI/AMI Scripts written in java.
+
+Roles and Responsibility:
+
+ Responsible for the whole setup of asterisk including Linux, ASTERISK with DAHDI support 
+and DIGIUM TE121 telephony card with E1 PRI (31 channels).
+
+ Created the Agi server using ASTERISK JAVA for serving AGI Scripts fast.
+ Developed Agi scripts for handling IVRs, call broadcast, call conferencing using both 
+
+FASTAGI and ASTERISK MANAGER Api in JAVA.
+ Created an IVR for the Calcutta Electric Supply Corporation, Jabong.com.
+ Currently responsible for maintaining the ASTERISK and create IVR as per client’s 
+
+requirements.
+
+
+
+Product                :    Ameyo Agent Assisted IVR                 
+Role                            :   Product Engineer
+Team Size                  :     2
+Technologies             :    Java, Java Script, Ajax, Asterisk Dial Plan, PHP, HTML PostgreSQL Database
+Details:
+Ameyo Agent Assisted IVR is the first agent assisted IVR developed by Drishti where Call Center Agent can 
+Control the IVR.
+Instead of saying the same script again and again Agent has a Button on his Screen which plays the Agent script. 
+Agent can add most common used word on the Screen so that he can minimize his effort.
+IVR is integrated with Text To Speech (TTS) and Automatic Speech recognition (ASR) System. So that Instead of 
+punching Option through Phone Customer can say his input by his voice ASR will recognize that and according to it 
+called different Web API and the response is played to Customer by TTS.
+
+Roles and Responsibilities:    
+ Product Designing.
+ Writing Code for Agent UI.
+ Writing Code for the Application.
+
+EXTRACURRICULAR ACTIVITIES AND ACHIEVEMENTS
+
+ Live Wire Award in HCL Technologies for Excellent Performance. 
+
+ Star performer of the Year Award in Drishti.
+
+ Active member in the team for providing POC & Demo to Customer.  
+
+ Qualified in GATE Exam
+
+ Participate in various school and college level quiz and cultural activity
+
+STRENGTH
+ High Grasping Power.
+ Keen Intellect.
+ Can work under pressure to meet deadlines.
+ Flexible team player.
+
+PERSONAL DETAILS
+ Date of Birth            :    05-01-1990
+ Language Known    :    English, Hindi
+ Address                   :   D 907 , Vedanta Society , Wakad , Pune 
+
+

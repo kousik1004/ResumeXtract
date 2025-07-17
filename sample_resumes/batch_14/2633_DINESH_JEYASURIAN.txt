@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DINESH JEYASURIAN
+Address
+RG110,Purva Revera,
+Marathahalli,
+Bangalore – 560037.
+
+Phone No – +91-9159495914
+Email: - dinesh.csetech@gmail.com
+Synopsis
+· Experience in SAP S/4HANA.
+· Experience in designing and developing layouts and forms using Adobe ,Smartforms, Alv and Classical Report, Enhancements,BADI’s.
+· Experience using ABAP/4 Workbench Tools, reporting, customization.
+· Good Understanding of both business processes (MM,SD,FI) and technical Development. 
+· Creation of OData in SAP Netweaver Gateway Server.
+· Data Dictionary, Classical Report, ALV Report, Development and Debugging of ABAP Programs, SmartForms,Adobeforms, ABAP OOPS, SAP Netweaver Gateway, SAP BRF+.
+Experience Summary
+· Over 5+ years of experience as a SAP Technical Consultant in SAP implementation and support projects.
+
+· Extensive experience in the areas of SAP S4HANA , SAP ABAP , SAP BRF+, SAP Netweaver Gateway spanning across Retail, Manufacturing, Automation, Health & Public sector and Chemical industries.
+
+· Experience in SAP S/4HANA, SAP ABAP and SAP Netweaver Gateway, SAP Mobility,SAP BRF+.
+· Report Writing: Custom development of Classical reports, Interactive reports using HANA techniques.
+· ALV reporting in SD , MM , FI and PP Modules.     
+· Experience in Custom development of reports using OOP’s ABAP and HANA techniques.
+
+· Experience in designing SAP-SCRIPT, SMARTFORMS, SAP Adobeforms.
+· Experience in Creation of Domains, Data Elements, Tables, Structures and Views.
+· Experience in BADI’s kernal and classical.
+
+· Experience in Enhancement points, sections, implicit enhancement, user exit.
+· Experience in Netweaver gateway service for mobile applications.
+
+· Custom Development and data dictionary: Creation of Domains, Data Elements, Tables, Structures and Views.
+· Enhancements and Modifications.
+· Created interactive reports in both Classical & ALV(list & grid) format.
+· Involved in upgrading project with in the following aspects UCCHECK, SPAU, SPDD.
+Educational Background
+B.Tesh in Computer Science and Engineering, SRM University, Chennai. 
+
+MBA from Jansons School of Business,Coimbatore.
+Company : Cognizant Technologies Pvt Ltd (Present)
+Start Date : 17.08.2016
+PROJECT DESCRIPTION
+	
+	Future Group Ltd
+
+	Role
+	Associate - Projects
+
+	Responsibility
+	Implementation
+
+	Employer
+	Cognizant Technologies Pvt Ltd
+
+	Team Size
+	9
+
+	Duration
+	Oct 2016 to August2017
+
+	Environment
+(with skill versions)
+	Platform : SAP S/4HANA
+
+
+· Involved in End-to-End implementation of SAP S/4Hana. 
+· Created BADI for updating posting date in place of baseline date in MIRO SAP FI.
+
+· Developed Trail balance report using S4HANA technique in SAP FI.
+
+· Created custom table and upload program for Balance sheet report in SAP FI.
+
+· Developed custom balance sheet report using S4HANA technique in SAP FI.
+· Developed Enhancements and BADI’s for S/4Hana.
+· Developed reports using S/4Hana techniques (New SQL for S/4Hana).
+· Created CDS views for retrieving from multiple tables to improve performance.
+· Validation in PO creation and release using BADI for SAP MM.  
+
+· Developed Sales Invoice form (Adobe form) in SAP SD.
+
+· Validation during sales order creation using user exit in SAP SD.
+
+· Developed mass upload program for physical inventory creation in SAP MM.
+
+· Developed mass upload program for physical inventory change in SAP MM.
+
+· Developed mass upload program for physical inventory deletion in SAP MM.
+
+· Developed mass upload program for stock transfer in PO in SAP MM.
+
+· Developed mass upload program for new price update in PO in SAP MM.
+
+· Created routines and custom tables for an alternative for standard pricing for storage in SAP SD.
+
+Company : Accenture India Pvt Ltd
+
+Start Date : 23.04.2015
+End Date : 05.08.2016
+PROJECT DESCRIPTION
+	
+	City Of Paris – SAP Upgrade
+
+	Role
+	Software Engineer Analyst
+
+	Responsibility
+	Upgrade Activities
+
+	Employer
+	Accenture India Pvt Ltd
+
+	Team Size
+	6
+
+	Duration
+	April 2015 to May 2015
+
+	Environment
+(with skill versions)
+	Platform : SAP ECC 6.0
+
+
+· Involved in upgrading project with in the following aspects SPAU, SPAU_ENH.
+· Fixed defects related to upgrade.
+· Fixed AUCT Manual Corrections in customized objects.
+	
+	DHS
+
+
+	Role
+	Software Engineer Analyst
+
+	Responsibility
+	Development Activities
+
+	Employer
+	Accenture India Pvt Ltd
+
+	Team Size
+	10
+
+	Duration
+	June 2015 to Present
+
+	Environment
+(with skill versions)
+	Platform : SAP CRM 7.0
+
+
+· Enhanced SAP screen through BADI in order to update the Business partner reference number in invoicing.
+· Developed BRF+ applications for validating fields in the CRM screen (Carer Payment Scenario).
+· Developed BRF+ application for validation fields in CRM screen (Web request form case officer task list).
+· Developed SAP CRM component using Guided Activity Page for standard functionality.
+· Validated SAP screen through BADI for approval purpose.
+· Designed BSP Screen for Social Services.
+Company : Altimetrik India Pvt Ltd
+Start Date : 10.01.2014
+
+
+
+
+
+End Date   : 09.03.2015
+PROJECT DESCRIPTION
+	
+	Mahindra and Mahindra
+
+	Role
+	Associate Consultant.
+
+	Responsibility
+	To Develop New Objects  based on requirements like Ztables
+oData Service,RFC's ABAP OO, SAP NETWEAVER PORTAL.
+
+	Employer
+	Altimetrik India Pvt Ltd
+
+	Team Size
+	10
+
+	Duration
+	Jan 2014 To Present
+
+	Environment
+(with skill versions)
+	Platform : SAP ECC 6.0,SAP Netweaver Gateway Server
+Creation of oData Service, RFC's , Z tables , Z Class
+
+
+· Creation of OData Services to pass values from SAP FIORI application to SAP system and store it in ECC server using SAP Netweaver Server (Create Method).
+· Creation of OData Service to fetch values from SAP system to display in SAP FIORI application using SAP Netweaver Server (Read and Query operation).
+· Creation of OData Services to pass values from SAP FIORI application to SAP system to change existing data using SAP Netweaver Server (Update Method).
+· Developing RFC's according to the requirements in order to create OData Service and display in SAP FIORI application.
+· Created OData service using Function Module Mapping method and Navigation method.
+· Created OData service with association of two entity sets.
+· Used filter options to restrict the values from back end.
+· Developed UI5 front end application as per requirement.
+Company : Cherrytec Intelisolve Ltd
+Start Date : 06.06.2012 
+
+
+
+
+
+End Date   : 03.01.2014
+PROJECT DESCRIPTION
+	
+	Tamilnadu Petro Products Ltd         
+
+	Role
+	Support Project 
+
+	Responsibility
+	To Develop new objects and do changes to existing objects objects mainly in Reports , Scripts and Smartforms.
+
+	Employer
+	Cherrytec Intelisolve Ltd
+
+	Team Size
+	4
+
+	Environment
+(with skill versions)
+	Platform : SAP ECC 5.0
+Creation & maintenance of Tables, Structures & Views, 
+ABAP workbench, Classical Report, ALV Report, Interactive Report, OOP .
+
+
+Contribution:
+· Creating Reports (Classical, ALV)) according to business needs.
+· Performed the Runtime Analysis and SQL trace and analyzed the performance of Programs, Screens and Function modules created in ABAP/4 Workbench.
+· Developed Truck Wise details Report using Control Break Statement, based on the truck no maintained in Delivery Header Text the details of Customer, quantity, materials are displayed in SD Module.
+· Developed Sales Realization report with Weight average calculation, manual entries fields for Volume, Freight and Discount and to capture the value entered, perform calculations display in another fields and store in ‘Z’ table.
+· Developed Service Tax Cenvat Register report to display the details based on Service Order number from Purchase Order Header Table and Service entry sheet number from Service entry header table, calculate Service tax, Education Cess and SHE based on Gross Amount with editable option in ALV, created a DB table to store values for editable and manual fields.
+· Developed Sales Month Wise report using Control Break Statement to display total sales made from April to March for particular Customer.
+· Included Transporter name in Invoice Printing VL03 and in Reports which is maintained in Delivery Header text.
+· Created Implicit enhancement for t-code cat2 for employee time sheet .
+	
+	Asco Numatics India Ltd (Emerson Process Management)
+
+	Role
+	Support Project 
+
+	Responsibility
+	To Develop new objects and do changes to existing objects mainly in Reports , Scripts and Smartforms.
+
+	Employer
+	Cherrytec Intelisolve Ltd
+
+	Team Size
+	6
+
+	Environment
+(with skill versions)
+	Platform : SAP ECC 6.0
+Creation & maintenance of Tables, Structures & Views, 
+ABAP workbench, Classical Report, ALV Report, Interactive Report, OOP .
+
+
+Contribution:
+· Developed Delivery Frequency report (Interactive) to display all the materials details and average quantity sold. 
+· Developed a report to Display, Delete and Upload a flat file for materials. Created a DB table to upload materials. Using Function Module ‘GUI UPLOAD’ flat file can be uploaded. The materials are selected from DB table for display. Using DELETE syntax the DB table can be deleted.
+· Developed AFR FORM to display the serial number details maintained in the production order, by the layout given by the user with SMARTFORMS. 
+· Changed reports and Smartforms according to business need.
+	
+	Fisher India Ltd (Emerson Process Management)
+
+	Role
+	Support Project
+
+	Responsibility
+	To Develop new objects and do changes to existing objects objects mainly in Reports , Scripts and Smartforms.
+
+	Employer
+	Cherrytec Intelisolve Ltd
+
+	Team Size
+	6
+
+	Environment
+(with skill versions)
+	Platform : SAP ECC 6.0
+Creation & maintenance of Tables, Structures & Views, 
+ABAP workbench, Classical Report, ALV Report, Interactive Report, OOP .
+
+
+· Included address in a report which is maintained in the DB table displayed one below other, if any address field for example street is not maintained there should not be any blank space. Using IF condition this was achieved.
+· Included Two Parameter in Selection Screen Name and Designation. The name and designation that is entered in the parameter appears in the Authority Signature of the form that is associated with report. It was done using Call by Reference USING addition.
+UPGRADATION:
+· Involved in upgradation Project from SAP 4.6C to ECC 6.0 .
+· Checked and Analyzed the standard programs, Functions Modules and Data Dictionary Objects  by using t-codes SPAU , SPDD , respectively to check the exit related changes or note based changes in our existing system to the upgraded system & modify the program as accordingly if necessary.
+· Converted all Non-Unicode programs to the Unicode Programs by using UCCHECK.
+· Checked all the Z T-Codes with I/O for Consistency of the Functions Modules involved in the programs associated.  
+PERSONAL DETAILS
+	Father’s Name
+	Mr Jeyasurian S
+
+	Date of Birth    
+	02, June 1987
+
+	Marital Status
+	Single
+
+	Languages
+	English, Hindi,Tamil
+
+	Nationality
+	India
+
+

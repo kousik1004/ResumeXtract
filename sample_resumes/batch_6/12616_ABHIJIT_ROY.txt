@@ -1,0 +1,141 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	ABHIJIT ROY
+Mobile: +91 7676853169
+Email ID: abhijit.java.roy@gmail.com
+	                                       
+
+
+
+
+SUMMARY
+· Aspiring for a challenging career in Software Development as to use my learned skills and experience for best results.
+· Around 5.5 years of extensive hands on experience of developing and deploying n-tier based applications.
+· An experienced team player with excellent communication and interpersonal skills who has the ability to work independently under pressure can lead, motivate and influence others and can train and mentor subordinates.
+· PROFESSIONAL SUMMARY
+· Working as a Java Developer at Oracle India Pvt. Ltd.
+· Worked as a Software Engineer (SE) at Ultimate Digital Solutions Pvt. Ltd.
+
+SKILLS SET
+Languages: J2SE, J2EE, SQL, JavaScript, HTML, CSS
+Web Services : Apache Tomcat, Glassfish Server,  Restful
+Tools: NetBeans, Eclipse, IntelliJ IDEA, Git, Oracle Virtual Box, WinSCP, VNC Viewer, Oracle SQL developer, Putty
+Databases: MySQL, Oracle
+Frameworks: Bootstrap, Spring, Hibernate
+
+PROJECTS:
+· Webbugs Applications / Incident Management Tools
+· Reporting DB (Bug Analyzer  Tool)
+· bugs.java.com (Bugs viewing Application)
+· bugreport.java.com ( Report a New issue)
+· JBS (JIRA)
+Team size: 9
+
+Description: Core Java, Collection Framework, Multithreading, Glassfish Server 4.0, GIT, Spring, Restful
+Role: Software Developer (MTS)
+Description & Responsibilities:
+· Incident Management Tools
+- Revamped the whole UI and Backend
+- Presentation Layer (Introduced Bootstrap framework)
+- Model and Business Logic (Introduced Design Pattern e.g. Builder DP)
+- Rectified and created all possible issues 
+- Resolved/Fixed all the reported issues against the IM App
+- Created enhancement issue to improvise the application
+- Developed and delivered all the above enhancements
+
+· Reporting DB (Bug Analyzer  Tool)
+-  Created a new schema and written a DB script for Reporting DB (Development Environment)
+-  Populated all the Production data into the Dev. Env. 
+-  Revamped the Bug Analyzer Tool UI to give a standard look.
+
+· bugs.java.com (Bugs viewing Application)
+- Clean up Activity (Removed all irrelevant files)
+- Rewrite Bugs Views App
+	- Complete UI Change (e.g. Home, FAQ, Bug Detail page, etc.) using Bootstrap and CSS, JS
+	- FAQ Info page (Introduced dynamic FAQ info loading mechanism rather making a static html page)
+        - Kept complexity manageable (High Cohesion and Low Coupling)
+· bugreport.java.com ( Report a New issue)
+- Modified the Old logic to capture all valid JDK versions from the Crash log
+        - Rewritten functionality for JDK Regression Value
+
+Project Name: NPR (National Population Register)
+Team Size : 14
+Description: Core Java, Swing, MySQL, Collection Framework, Multithreading, Design Pattern
+Role: Software Engineer
+
+Description & Responsibilities:
+· Handled National Population Register (Electronics Corporation of India Ltd.) project as a Consultant.
+· Developed new software systems and components using Core Java, Java Swing, MySQL (e.g. CSV generation tool, NPR Scheduling checking, NPR Zip Code Updating Tools).
+· Ensured high-quality solutions with accurate specifications.
+· Identified and resolved issues proactively.
+
+
+ACADEMIC QUALIFICATION
+· Bachelor of Technology in Computer Science and Engineering from WBUT, in 2011.
+· Master of Business Administration in Information Systems from SMU-DE, in 2016.
+EXTRA CURRICULAR ACTIVITIES
+· Secured 1st position in an annual cultural Competition.
+· Secured 1st position in annual drawing Competition.
+· Secured 2nd position in annual Sports.
+CERTIFICATE
+· Oracle Certified Associate 8 (OCA - 1z0-808)
+· Linux Administration
+ACHIEVEMENT
+· Awarded for reaching the “Advanced Base Camp” milestone in Oracle India Pvt. Ltd.
+· Awarded for reaching the “Pre-Summit” and “Summit” milestone in Oracle India Pvt. Ltd.
+INTERESTS AND HOBBIES
+· Drawing
+· Cooking
+· Listening music and watching Movie
+
+PERSONAL INFORMATION
+Date of Birth: 02-Aug-1989
+Languages known: English, Hindi, Bengali
+Address:  ES 97, Block-E1, Ittina Neela Apartment, Andhapura, Electronic City Phase-II, Bangalore, KA-100 

@@ -1,0 +1,206 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ELAYARAJA NADAR
+
+SURESH BABU
+                                                                                                                                                        Phone: 8886182561  
+                                                                                                                                                                              E-Mail:digitalcamp91@gmail.com                                                                                                                                                                                                                                                                                                 
+ PROFESSIONAL SYNOPSIS
+
+· Total 2+ years of IT experience in Analysis, Design, Development, Maintenance, Coding and Documentation of Java applications.
+
+· Strong knowledge on Core Java like Collections, Object Oriented Programming Concept and multithreading can handle the project from its initial requirements gathering to integrated testing and final Documentation.
+
+· Extensive Experience in using MVC (Model View Controller) architecture for developing applications using JSP, Java Beans and Servlets.
+
+· Implemented and used design patterns like Singleton, DAO and MVC for designing & writing technical specification documents.
+
+· Experience of developing both SOAP (JAXWS) and REST (JAXRS) based web services including both consumer and provider end in enterprise application development.
+· Hands on experience in application development using Hibernate and Spring frameworks.
+
+· Business logic and various utility implementations using SQL, PL/SQL for creating stored procedures, functions, views etc in Sql. 
+
+· Good understanding of Software Development Life Cycle (SDLC) process in the areas of Analysis, Design, Implementation and Testing of Software Applications using Java/J2EE technologies.
+
+· Hands on experience in  Application/Web servers like JBoss and Tomcat servers.
+
+· Possesses excellent communication skills, analytical, problem solving, leading and learning skills as well as keen interest in the emerging technologies, excellent team player.
+
+· Good team member, positive attitude and result oriented Self-motivated, quick learner, willing to adapt to new challenges & new technologies.
+ORGNANISATIONAL DETAILS
+Working as Software Engineer in MicroSpark Software Solutions Private Limited, Hyderabad from June 2015 to till date.
+TECHNICAL PROFILE
+	Languages
+	Java (J2SE 7.0, Java SE 8)
+
+	J2EE Technologies
+	JDBC, Servlets, JSP 
+
+	IDE
+	Eclipse
+
+	Databases
+	Oracle9i, MySQL 
+
+	Web Technologies
+	HTML 5, CSS 3, Ajax, XML.
+
+	Scripting Languages
+	JavaScript, JQuery, Angular JS.
+
+	Distributed Technologies
+	JAXB, JAX-WS, JAXRS
+
+	Web Servers
+	Tomcat7
+
+	Application Servers
+	JBoss7
+
+	Frameworks
+	Spring
+
+	Design Patterns
+	MVC, DAO and Singleton
+
+	Tool
+	SVN, JUnit, Log4j, Maven,  winmerge, Cobertura, PMD
+
+	OR Mapping Tools
+	Hibernate
+
+
+SCHOLASTIC PROFILE
+· B Tech from BVC ENGINEERING COLLEGE in the year of 2015.
+PROJECT EXPOSURE
+Project #1
+	Client
+	Emirates
+
+	Project Name
+	Partner Integration Service
+
+	Project Description
+	Partner Integration (PI) Service is a real-time service allowing clients to transfer their bank reward points to different Airlines partners. With this release, Partner Integration (PI) services following partners are integrated with Halifax, BARCLYS banks, Banks have to enroll with the partner, which in turn partner will provide partner account number (PAN) which need to activated by another service call. Once the partner account number is activated for a client, client can transfer his HF points to partners for booking airline tickets.
+
+To implement this PIS will provide 3 modules.
+
+1. Enrolment.
+
+2. Verify
+
+3. Transfer
+
+	Project Duration
+	Jan 2017 up to till now
+
+	Responsibilities
+	· Involved in Client interaction on regular basis to understand the Business of the Client.
+
+· Involved in the Analysis, Design, Coding, modification and implementation of user requirements in the PIS application.
+
+· Developed service layer and process layer.
+
+· Contributing in all phases of the development lifecycle.
+
+· Developed User defined Exceptions for each request and response in service layer and process layer.
+
+· Implementing Soap based JAX-WS web services for requesting processing.
+
+· Developed WSDL and XSD for request and response processing.
+
+· Used Spring IOC for delegating the service layer request to process layer.
+
+· Conduct software analysis, programming, testing and debugging.
+
+· Perform various tests on all complex programs and documents all debugging for PIS applications and assist to prepare all technical documents to meet all business requirements.
+
+· Develop application specification and associate code and ensure compliance to all program standards and technical specification within required timeframe.
+
+· Involved in performing Unit testing using JUnit, Mocktio, PowerMockito and coordinating with the testing team.
+
+· Design, build, and maintain efficient, reusable, and reliable Java code.
+
+	Environment
+	JAX-WS, Spring, Oracle, Design Patterns, Java, JSP, SVN, Eclipse JEE and Tomcat Server, Maven.
+
+
+Project #2
+
+	Client
+	Duncan Lawrie Bank, UK.
+
+	Project Name
+	Transaction Statements
+
+	Project Description
+	Transaction Statement Details is a project that provides Card Transactions, Deposits and Withdraws Details. A credit card statement is a periodic (usually monthly) statement listing the purchases, payments and other credits and debits made to your account within the billing cycle. If Customer want to check his account transaction so customer getting this information easily. Customer can get these transaction details through the Online Banking or Customer .
+
+	Project Duration
+	August 2015 to March 2016
+
+	Responsibilities
+	· Involved in the Design, Coding, Testing and implementation of user requirements.
+· Involved in to write XSDs, WSDL, Data Mapping doc based on business requirement.
+· Developed User defined Exceptions for each request and response.
+· Used Spring IOC for delegating the process layer request to Integration layer.
+· To write DAO implementation classes using Spring DAO.
+· Consuming the web-services and providing the web-service.
+
+· Implemented Spring IOC-inversion of control for instantiating the objects.
+
+· Implemented Spring MVC controller for instantiating the objects.
+
+
+
+	Environment
+	Java, JSP, Eclipse JEE and Tomcat Server, Maven, Spring IOC, Sql, Hibernate.
+
+
+Declaration
+
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
+
+Date     :
+
+Place    : 
+        
+                                                                                                                                                                                                    (Suresh babu)

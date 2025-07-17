@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SATHEESH
+
+Girish P. Sansare                                                                      Mobile: 9892059755
+SAP BASIS
+                           
+
+
+
+
+ Email: girishsansare@gmail.com  
+
+Objective:
+Looking for a challenging career in software industry with an organization that will provide
+
+Me an opportunity to apply my skills and experience for the advancement of the organization        and my continued growth.
+Professional Summary:
+· Having 9 years of total experience and 6 years of relevant experience as a SAP Basis Consultant.
+Professional Experience:
+
+· Working as a Technology Analyst in Infosys Ltd. Bangalore from April 2015 to till date
+· Worked as a Sr. Executive IT in Manika Moulds Pvt.Ltd. Mumbai from March 2013 to April 2015 
+
+· Worked as a Jr. Officer IT in Bhansali Bright Bars Pvt. Ltd. Mumbai from May 2011 to Feb 2013.
+· Worked as a Customer Support Engineer in Onus Technology Services Pvt. Ltd. from May 2008 to April 2011. 
+Education:
+	COURSE
+	BOARD
+	Year of Passing
+	PERCENTAGE
+
+	B.Sc.
+	Mumbai University  
+	2008
+	70%
+
+	H.S.C.
+	Kolhapur  
+	2004
+	54%
+
+	S.S.C.
+	Kolhapur  
+	2002
+	64%
+
+
+Technical Skills:
+
+· Environment
+
+:         ECC, BW, EP, PI, SRM, Erec, Trex, GW
+· Operating Systems 
+:         Windows 2003, 2008 and 2012 server, SUSE12 Linux. 
+· Databases
+
+:         MS SQL 2008/2012, Oracle 11g, HANA.
+EXPERIENCE SUMMARY 
+
+1) Infosys Ltd. (From April 2015 to till date)
+Roles & Responsibilities:
+· Worked on DMO from SQL to HANA DB Migration
+
+· Worked on HANA DB installation and MDC configuration
+
+· Worked on HANA DB backup and restoration
+· Experience in HANA DB monitoring in HANA Studio
+
+· Worked on Windows and SQL OS DB Migration
+
+· Worked on DB refresh, System Copy, Client copy, SQL DB Host Migration
+
+· Worked on Netweaver SPS upgrade and EHP upgrade through SUM Tool
+
+· Excerience on support for ABAP & JAVA Stack solutions
+
+· Given support to ECC, BW, EP, EREC, TREX, SRM, PI, Solution Manager Solutions
+
+· Very good experience on EREC & TREX Solutions
+
+· Worked on Installation of SAP Cluster, PAS, AAS
+
+· Worked on SQL DB, Windows OS, Linux OS, Patch reboot, Hardening, BIG IP, Citrix
+· Applied Support Packages through SPAM. Done ST-PI and ST-A/PI plug-in upgrade
+· Done Kernel Patch Up-gradation. Done Add on installation through SAINT
+· Involved in stopping and starting the both ABAP and Java stacks instances.
+
+· Done creation of Clients, Defining Client Settings and assigning logical system name to client. 
+· Done Configuring Transport Management System (TMS) and importing the Transport Request.
+· Done logon group configuration for logon load balancing between application servers.
+· Configured operation modes for better utilization of existing resources (DIA and BTC) and assigned time intervals to operation modes. 
+·  Worked on NWA , Config Tool for parameter tuning and Visual Admin Tool.
+·  Did PI specific monitoring like monitoring adapters, interfaces.
+·  Creating SSO configuration between Portal and various Backend systems.
+·  Have to work on day to day activities like incidents and service requests handling
+·  Providing weekend support for activities like planned windows patch reboot, downtime activities. 
+
+· Background Jobs monitoring and troubleshooting when batch job cancelled.
+· Performed Configuring and switching operation modes,
+· Table space management, adding data files using BR Tools,
+· Worked on SAP system performance issues.
+2) Manika Moulds Pvt. Ltd. (From March 2013 – April 2015)
+Roles & Responsibilities:
+· As part of daily activity have to work on Incidents and Service Requests.
+· Shutdown and startup SAP system of both ABAP and Java stacks as part of maintenance.
+
+· Performed Database refresh and performed pre and post steps.
+· Done installation of additional application server (DI)
+· Performed Kernel patch upgrade. Net weaver SPS upgrade
+· Performing health checks of SAP production System to keep system available to end users.
+
+· Monitoring Logged Users locally and globally and Clearing SM12 lock entries with desired approvals and on user confirmation. 
+· Table space management, adding data files using BR Tools.
+· Configuring the TMS and importing transports request and troubleshooting the problems.
+· Client administration like creation, openings, Performed client copies.
+
+· Performed Configuring and switching operation modes.
+
+· Printer creation and troubleshooting printer related issues
+· Creation and Assigning Roles to the Users in Enterprise portal
+
+· Creation and troubleshooting of RFC connections.
+
+· Monitoring system logs, ABAP dumps, table spaces and work process monitoring
+
+· Background Jobs creation if required, scheduling, and monitoring. 
+· Trouble shooting when batch job cancelled, updates failed, transport import failed cases. 
+· Logon group creation using SMLG load balancing.
+· Monitoring the scheduled backups.
+· Applied support packages, Add-ons and SAP notes.
+
+     3) Bhansali Bright Bars Pvt. Ltd. (From May 2011 to February 2013)
+
+ Roles and Responsibilities:
+· Installation of SQL Server 2008.
+
+· Performed Local & Remote Client Copy.
+
+· Creation & maintenance of RFC destinations.
+
+· SQL Database backup job monitoring and scheduling.
+
+· Proactive monitoring of SAP systems and Daily Monitoring reports. 
+
+· Performing import of transport requests using STMS. 
+
+· Worked on build Sandbox System.
+
+· Performing health checks of production systems, monitoring system logs, ABAP dumps, table spaces and work process monitoring, Transport imports troubleshooting.
+· Creating and maintaining users. User unlock, password reset.
+· Background job administration like creating, scheduling, suspending and deleting as per request.
+· Monitoring background jobs and troubleshooting when job cancelled
+· Done ST-PI and ST-A/PI plug-in upgrade and applied SAP notes.
+
+4) Onus Technology Services Pvt. Ltd. (From May 2008 to April 2011)
+Roles and Responsibilities:
+· Installation, configuration & troubleshooting windows server 2000, 2003, & 2008.
+
+· Installation, configuration & troubleshooting of Windows XP, Windows 7
+
+· Creating users, providing rights to users in Exchange Server 2007.
+
+· Configuring and Troubleshooting of Mail application like MS Outlook, Outlook Express.
+
+· Network Printer Installation & modification, Sharing, troubleshooting.
+
+· Configuring & Troubleshooting of Switch, Wireless Router, and Modem devices.  
+
+· Solving users queries like Desktop, Dual Monitor, printer, Hardware, Software, & Antivirus.
+
+· Installation & Troubleshooting of MS office, PDF, WinZip applications on client’s machine. 
+
+Personal Details:-
+· Permanent Address
+        :     E-04, Shri Om Sai Prasad CHS, Deepali Park Complex, 
+   Manjarli, Badlapur (w), Thane- 421503
+· Current Address
+        :     Bangalore, Electronic City
+
+
+· Date of Birth        
+        :    19th Sep 1985.
+· Sex                          
+        :    Male. 
+
+· Marital Status                      :    Married.
+
+· Nationality       
+        :    Indian.
+
+· Languages Known
+        :    English, Hindi and Marathi.
+Place : Bangalore
+Date :
+                                                                                                                     
+
+                                                                                                               Regards,
+
+   
+
+
+
+
+
+
+
+
+
+
+  (Girish P. Sansare)
+

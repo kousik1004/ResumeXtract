@@ -1,0 +1,239 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Munilatha Ramineni
+
+Mobile:91- 9000659519
+
+Email: latha.sap86@gmail.com
+
+
+Professional Summary 
+ SAP Basis Consultant having over 4 Years of experience in SAP Basis Consultant and HANA.
+SAP BASIS Expertise
+· Experience on  HANA Database installations, and also having  experience on pack update.
+
+· Experience on Start and stop HANA Database .
+
+· Monitoring HANA Database services .
+
+· Refreshing activity in HANA Database.
+· HANA backup and Monitoring using studio 
+· Knowledge on Multitenant databases in  HANA 
+· Knowledge on SLT Server Installation and established connection between ECC to HANA 
+· Knowledge on SDA Installation and Configuration in HANA
+
+· Experience on EHP upgrades.
+
+· Performing System Refresh activities.
+
+· Worked on Support Pack upgrade using SPAM.
+· Performed daily operation activities based on checklist.
+·  Client administration, client creation and performed client copies.
+
+· Performed Kernel Upgrade.
+· Experience in configuring Transport Management System (TMS) for the system landscape using STMS, and in Releasing/Importing of transports between DEV, QAS and PRD systems.
+
+· Scheduled Background jobs, monitoring the background jobs.
+
+· knowledge on  Database Administration activities using BRtools.
+
+· Worked on maintenance tools MOPZ and generated Stack.xml file. 
+
+· Configured the Operation modes.
+
+· Worked on Spool Administration.
+
+· Experience in User Administration: Changing Password and unlocking the user based on tickets.
+
+· Experience in profile parameter changes based on requirement
+
+· Experience in configtool on JAVA systems
+
+· Analyzed ABAP  Dumps.
+
+· Downloaded Guides, Notes, License keys, and Software from SAP portal.
+
+· 24x7 support and monitoring the production systems.
+
+· Experience in interacting and working with people in functional module and provide technical support. 
+
+Academic Credentials:
+
+M.C.A from Sri Venkateshwara University, Tirupati 
+Technical Skills:
+
+ERP
+
+
+         : SAP R/3 Release ECC 6.0, Net Weaver 7.3
+
+Operating Systems
+         : Windows 2003 & 2008 server, RHEL6&   
+
+                                                             SUSE11.
+Databases
+         : Oracle 10G, 11G, MS SQL Server 2008 and MS                                             
+
+                                        SQL Server 2012.
+
+SAP professional Experience:
+
+· Working as a SAP BASIS Consultant for Cheric Information Network Technologies Pvt. Ltd from Aug 2013 to till date.
+Projects Undertaken
+Project: 3
+
+Organization: Cheric Information Network Technologies Pvt Ltd.
+
+Client:  Alkali metals.
+
+Duration: Sep 2016 to till date.
+
+Role: SAP  BASIS andHANA consultant 
+
+OS/Database: SUSE11/HANA1.0 SPS09, SPS10
+Responsibilities: 
+· HANA DB refresh using studio and SWPM. 
+
+· Start and stop of HANA services. 
+
+· HANA studio installation on the client PCs. 
+· HANA Backup scheduling and monitoring. 
+
+· HANA license management 
+
+· HANA monitoring using Studio. 
+
+· HANA Monitoring such as server processes, alerts, license, db growth, CPU and memory usage. 
+
+· Knowledge on HANA system copies and upgrades. 
+Project 2
+Organization:  Cheric Information Technologies Pvt Ltd.
+Client:  I cube logics.
+Duration:  Jan 2015 to Aug 2016.
+
+Role: SAP Basis Consultant  
+
+OS/Database: RHE Linux 6.5/Oracle11g. 
+Roles & Responsibilities:
+
+
+· Transporting the requests.
+
+· Performing daily checks like system logs, failed jobs, short dumps, work-processes, alerts, failed updates, lock entries, table-spaces, and buffer checks.
+
+· Kernel upgrade.
+· Applied support packs, notes and languages. 
+
+· Adjusting operation modes for day and night operation.
+
+· Monitoring background jobs.
+
+· Monitoring database parameters like free space in table spaces, database backup logs, archiving directory status
+
+· Monitoring Table spaces from SAP using DB02.
+
+· Spool configuration, Trouble shooting.
+
+· Monitoring updates in the system
+
+· Maintaining the profile parameters.
+
+Project 1         
+
+Organization: Cheric Information Technologies Pvt Ltd.
+Client: I cube logics.
+
+Duration: Aug 2013 to Dec2014
+Role: SAP associate basis consultant. 
+
+OS/Database: RHE Linux /Oracle11g.  
+Roles & Responsibilities:
+· Daily performing checklist activities like monitoring, troubleshooting support and tuning of R/3 system. 
+
+· Maintain landscape for Development, Quality assurance and Production systems. 
+
+· Monitoring activities like system status, analyzing system logs, system traces, ABAP dumps, SAP System Buffers, Database Buffers and workload analysis. 
+
+· Monitoring work process, analyzing and killing long running work process by user approval.  
+
+· Scheduled standard background jobs periodically. 
+
+· Time based and event based Scheduling of Background jobs and monitoring them. 
+
+· Created operation modes and assigning timetable for operation modes and assigned to the   instance profile. 
+
+· Monitoring application servers up and running. 
+
+· Monitoring database growth. 
+
+· Database backup and housekeeping jobs monitoring. 
+
+· Spool administration and issues. 
+
+· Adding printer to SAP system with access methods. 
+
+· Monitored update administration. 
+
+· Involved in start-up issues. 
+
+· Configured Logon Load Balancing. 
+
+· Maintaining Profile parameters. 
+
+· Installation and Configuration of SAP Servers and performed post installation activities. 
+
+· Starting and Stopping Of SAP System. 
+
+· Monitoring the active users of a particular application server, number of users logged on, memory consumption by each user and tune them accordingly. 
+
+· Installation and resolving the end-user issues regarding SAP GUI. 
+
+· Monitor the File System Space, CPU and Memory Utilization at OS Level. 
+
+· Created users with details of request sheet, provided specified roles and assigned group, increased access date, reset password, locked and unlock the users. 
+
+· Done the post installation steps like import profiles, scheduling sap standard background jobs, sgen, slicense, client administration and TMS configuration etc.
+

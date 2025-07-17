@@ -1,0 +1,183 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parthiban Ramachandran
+Technical Lead at Sandvine
+
+rparthibaan@gmail.com
++91-9886355397
+
+Summary
+ 
+Having 14 years of experience in DataCom Industry, Mostly in QA, played major role in Automation.
+
+* Exposure to 5 different automation framework developed using scripting languages like tcl/itcl and python
+* Test and Lab infrastructure automation
+* System testing of VM based Sandvine platforms
+* Develop and support sanity/regression of Nexus series platforms and features
+* Automate different features of Summit and BD switches of Extreme networks
+* Manual/automated testing of PTS and NDS units of Sandvine
+* System/Network engineer
+
+Skills
+
+Automation: Python, Tcl/ iTcl, Expect
+Debug Level Knowledge: shell, Java script, pgsql, css
+Cloud/Virtualization Concepts: NFV,SFC, openStack, Virtual networking (Virtio,Sriov etc)
+Networking Concepts: Switch Concepts, Basics of routing protocols
+L2/l3 Protocols: STP, VPC, Vxlan, QOS, DHCP
+Tools:  Ixia, Spirent, wire shark, version control (cvs,clearcase), bug tracker(cdets)
+Hypervisor : KVM, Esxi ; General OS: Windows Server, Linux
+Automation Framework:  Teltaf, Exos, ISAN, pytest
+
+
+Experience
+
+Technical Lead at Sandvine
+
+March 2017 - Present
+· Enhancing the infra/framework based on pytest
+· Enhance and Bug fix of Test and Lab infrastructure (Tcl/iTcl). 
+· The infra has end to end solution includes reserving equipment, networking, imaging, and finally running tests (developed by QA).
+ Dec 2015 – March 2017 (15 months)
+    *Design system test strategy and automation for new platform (TSE/SF) based on VM.
+    * Design, test and bring-up new topology for test execution.
+    * Train team on python basics
+
+
+
+
+
+Engineer Automation at   Cisco Systems
+Sep 2009 - Dec-2015 (6 years 4 months) 
+June-2014 to Dec-2015
+     *Develop new feature tests and libraries using python based framework. 
+June-2011 to June-2014:
+* Developed/supported sanity for nexus platforms
+
+* Design/build new automation testbed for nexus 3k platform
+
+* Lead team to test and sanitize the L2/L3 features for the nexus3000 platform
+
+L2 features: DHCP Snooping, IPSG, DAI, VLANs, VPC
+L3 features: L3 port types, Routing Protocols 
+
+June-2010 to June-2011:
+Feature testing for L2 protocols in Nexus5K series datacenter switches.
+Protocols- VLANs, PVLAN, QOS, STP
+Products: Nexus5000
+
+Sep-2009 to June-2010:
+ Automated L2/L3 features and developed libraries for Nexus3K/5K series datacenter switches.
+Products: Nexus 3016, Nexus 3064 & 3064Q, Nexus 3048, Nexus5000
+
+Senior Software Engineer  at   Aricent
+November 2006  -  September 2009  (2 years 11 months)
+             QA Activity for Sandvine’s PTS and NDS box.
+     The project involves Developing, Testing and automating the test case of application protocol recognizer, new      features of policy manager and reporting application.
+
+
+Responsibilities
+• Manual test and automate the application recognition (DPI) & false-positive test cases using the customer test infrastructure (Itcl)
+• Debug the regression runs and open bug (or) fix the script if necessary
+•  Testplan and Automation scripts review of team.
+•  Lead a team to perform manual testing/automation
+ 
+
+Senior Software Engineer  at   Tata Elxsi
+May 2005  - November 2006  (1 year 7 months)
+
+The Project involves Feature Automation/Manual Testing, Maintain/Enhance required Test infrastructure for
+Extreme Network Switches. 
+
+Responsibilities
+     • Developing automated test scripts for assigned feature testcases using Tcl and Expect
+• Developing / enhancing libraries and helped in integrating scripts.
+• Debug failures and opening PD, build the required topology.
+
+
+Member Technical Staff  at   HCL Technologies
+February 2004  -  May 2005  (1 year 4 months)
+    “Automation regression facility" is a team, which will perform regression testing with set of suites related to assigned technology area on Customer’s IOS image. And report the bugs to the development team.
+
+
+Responsibilities
+• Regression for assigned features across platforms
+• Debugging the failures and report bugs
+• Enhance script with respect to change in feature/platform.
+     • Build the required topology for test.
+
+
+Network Engineer  at   Shreyas Integrated System Pvt Ltd
+January 2003  -  February 2004  (1 year 2 months)
+
+To Maintain a LAN setup having around 2200 client machines which involves Linux,       Solaris, widows etc.
+
+
+Responsibilities
+• Install and configure new switch to co-exist in network.
+• Do periodic upgrade of system images for switches in network.
+• Keeping track to STP topology using Cisco LMS
+• Coordinating with change management team for shifting of systems, servers and configuring the Vlan’s accordingly.
+• Troubleshooting the problem of LAN connectivity for end users, between vlan’s , between access layer switch to distribution layer switch, and to core router
+
+
+
+
+
+
+Education
+
+Manonmaniam Sundaranar University
+B.E, Electrical and Electronics, 1997 – 2000
+Certificates – CCNA, MCSE
+Page1
+

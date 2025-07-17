@@ -1,0 +1,225 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PrabhakarResume
+
+ 	 	 
+
+ 	 	 
+
+ 	 	 
+
+Prabhakar Menda 
+: +91-8463965505 
+: mendaprabhakar@gmail.com  
+Professional Summary 
+ 
+· Around 3 years of working experience in ABAP.  
+· Extensively worked on ABAP with Object Oriented Programming.  
+· Technical experience on Implementation and Support Areas in FS-PM insurance module of SAP R/3.  
+· Strong knowledge on Data Dictionary objects like Tables, Views, Structures, Table maintenance. 
+· Experience in generation of Reports (Classical, Interactive, ALV and OOP’s ALV).  
+· Interfaces:  BAPI’s, RFC’s for interface between SAP and other systems. 
+· 	Used the Modularization Techniques.  
+· Debugging techniques –  Break Points – Experience to debug SAP Std. Programs.   
+· Involved in Design, development, optimization and maintenance of Business Objects. 
+ 
+Technical Skills 
+ 
+	SAP 
+	SAP ABAP and OOABAP 
+
+	Operating Systems 
+	Windows 
+
+
+ 
+ 
+ 
+Functional Skills 
+ 
+· Worked on FS-PM (SAP Insurance) and FS-CD (SAP Collections & Disbursements) modules.
+ 
+Trainings 
+ 
+· Attended FS-PM (SAP Insurance) module training provided by SAP Labs Germany. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Professional Experience 
+ 
+ 
+Client:  	Medibank Private Limited, Melbourne, Australia 
+Role:  	FSPM consultant 
+Duration: 	April 2015 to till date 
+ 
+Description: Medibank is a leading private health insurer, with 40 years of experience delivering better health to Australians. Medibank look after the health cover needs of more than 3.7 million customers through our Medibank and ahm brands, and distribute travel, life and pet insurance. In addition, Medibank provides a range of health services in Australia including mental health support, preventative and better integrated primary care, after-hours health support, and healthcare for the 60,000 permanent and 20,000 reservist uniformed Australian Defence Force personnel. Medibank has helped customers and the community live healthier and happier lives. 
+ 
+Responsibilities: 
+ 
+· Understanding the functional specifications and Preparing the Technical Specifications.   
+· Developed the few reports using ALV’s.  
+· Interacting with the functional team to resolve the Production issues.   
+· Developed a Report that generates the DPT for all the production policies which runs as a batch job daily and fixes the policies.  
+· Developed a report to reprocess SMQ1 queues which is scheduled as a batch job to run every 2hrs and makes the system smooth.  
+· Worked on DPT and payment related issues.   
+· Troubleshooting Reversed and multiple Contract issues. 
+· Root cause identification for Simulation errors and dump issues in QUO while calling RFC.  
+· Ex-gratia issues in two scenarios   
+1. Could not apply Ex Gratia  
+2. Ex-gratia applied but DPT not updated  
+· AGR (Australian Government Rebate given to the person who are the citizens of Australia who are above 30 years of age) related issues and Policy reinstating issues.   
+· Update run failures in PM (while updating the policy for current date, the policy will not be executed due to the simulation errors).   
+· ICCR - Close Policy and Refund issues   
+· Worked on the FSPM areas like DPT (Date Paid To), LHC issues related to Removal date and CRM sync issues. 
+· Payment and Postings issues where CD postings are not in sync with PM.
+· Backdated cover changes for the policy and Policy suspension issues. 
+ 
+Career Profile 
+ 
+	Duration 
+	Organization 
+	Designation 
+
+	From 
+	To 
+	
+	
+
+	Feb 2015 
+	Till Date 
+	IBM India Pvt Ltd, Hyderabad 
+	Associate System Engineer 
+
+
+ 
+ 
+Academic Qualifications 
+ 
+	S.No 
+	Degree 
+	Branch 
+	Year of Passing 
+	Name of the College 
+	Name of the University 
+	Percentage  
+
+	1 
+	B.Tech 
+	Electrical and 
+Electronics 
+Engineering 
+	2013 
+	Gandhi 
+Institute of 
+Technology 
+	GITAM 
+UNIVERSITY, Visakhapatnam 
+	8.0
+
+	2 
+	Intermediate Education 
+	MPC 
+	2009 
+	Sri Chaitanya Junior College 
+	Board of 
+Intermediate 
+Education, AP 
+	94
+
+	3 
+	SSC 
+	High School Education 
+	2007 
+	Gayathri Model School 
+	Board of 
+Secondary 
+Education, AP 
+	93 
+
+
+ 
+ 
+ 
+Personal Details 
+ 
+	Date of Birth 
+	05-September-1992 
+
+	Languages known 
+	English, Hindi, Telugu 
+
+	Sex 
+	Male 
+
+	Marital Status 
+	Single 
+
+	Contact Number 
+	+91-8463965505 
+
+
+ 
+ 
+Declaration: 
+ 
+I hereby declare that the information furnished above is true to the best of my knowledge. 
+ 
+Date:                                                                                                  	(Prabhakar Menda) 
+
+
+

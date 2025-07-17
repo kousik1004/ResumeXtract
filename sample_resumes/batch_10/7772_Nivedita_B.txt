@@ -1,0 +1,180 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            					                      
+Nivedita B
+Mob no: +91 9500110897
+Email id: niveditabalraj@gmail.com
+
+Professional Summary
+
+· 4.3 years of experience in SAP ABAP, OO ABAP .
+· Worked on OO ABAP /classical and interactive ALV reports, Dialog programming, ABAP Objects, Enhancements, BAPI, BADI,Events, ABAP web services, BOR in SAP PSCD FICA.
+· Developed Custom Development monitoring tool for monitoring created, modified objects and the types of request been created. 
+· Basic understanding of BRF+ and created BRF+ Rules for an object for the dead assets.
+· Decoupled infotypes using classes and methods.
+· To prepare Project Deliverables as Task Based through HP ALM: Code Review Checklist, Delivery Sign-off checklist.
+· Performance fine tuning based on SAP standards 
+· Analyse defect and prepare analysis document.
+· Developed Custom Development monitoring tool for monitoring created, modified objects and the types of request been created.
+· Worked on ellipse and ABAP 7.4 syntax.
+· Created CDS views for customer contact creation.
+
+Skills
+
+	Source
+	Skills
+
+	Primary Skill category
+	SAP ABAP ,OO ABAP
+
+	Sub Skills
+	PSCD, BRF+,HR
+
+	Hands On Experience
+	SAP ABAP,OO ABAP,ABAP HR
+
+	Domain
+	IT
+
+	Linguistic Skills
+	English Hindi Tamil
+
+
+
+Work Experience – SAP ABAP
+
+ Tech Mahindra, Bangalore, India          						July 2013 - Present					 
+· Senior Software Engineer                       		March 2017 - Present
+· Software Engineer				March 2015 - Feb 2017
+· Associate Software Engineer 			July 2013 -Feb 2015
+
+
+Project Experience
+Client: KMD Denmark
+
+Project Description 
+
+KMD provides SAP-based ERP solutions to the market. In this connection KMD provides the world’s largest multi-client SAP HCM installation with 1 million public employees registered. In 2005, KMD entered into a strategic partnership with SAP concerning the co-development of a new generation of IT solutions to manage digital citizenship. KMD is a certified SAP Software Partner and KMD’s SAP Add-on products enhance the functionality of our clients’ SAP solutions and thereby optimize their business processes.
+
+Team: UDK Debitor
+Role: Sr. Software Engineer
+Duration: Mar 2017 –Till date
+Responsibilities:
+· Created Journalization, Event logging and application log for the Business partner using class and methods.
+· Worked creation of event and customer contact for Business partner by getting data from interface dead assets and displaying the annual statement using class and methods .
+· Created BRF+ rules for the Dead Assets to maintain data for the data to be filtered and shown in the API.
+· Created CDS view for the customer contact used it in the journalization API.
+· Used BAPI to create Business partner and contract object and updating the standard table entries with custom fields.
+· Enhanced the functionality to create event when there is a reversal of write-off or charge through FQ events using the event with a new custom function module.
+
+Team: Payments
+Role: Software Engineer
+Duration: Mar 2015- Feb 2017
+Responsibilities:
+· Understanding the functional specification and creating technical and use case implementation document.
+· Developed reports in PSCD module using SALV class for agreement listing based on Business partner agreements and non-UHB payment an administration agreement that has claims belonging to contract objects from contract objects types.
+· Developed web services which will create agreements automatically based on the rules from the amount in the payment plan, and in some cases to send a notification. This web service will deliver the item data for the FP agreements to portal using OO ABAP concept.
+· Creation of posting area which will determine bank account details for creation of payment lot and understanding of FQEVENTS.
+· Enhancement for interest calculation process which will recalculate interest for a given claim for a given period for which the interest has been calculated already it involves archived data and converted interest also for which the notification will be sent to the caseworker as to notify that the interest need not be calculated for that period of time.
+· Used BAPI to create the new positive and negative claim.
+· Adding custom fields to the interest history table DFKKIA and DFKKIH for the newly created interest document and agreement table for distinguishing between the manual and automatic creation of agreements in the new custom table .
+· Created implicit enhancement for adding context menu in tab customer contact for attachments, payment list tab for payment information and Interest calculation for the invoiced documents.
+· Worked on creation of Payment specification mail merge for Business partner for the  item which all has been cleared through payments.Maintained customization  for mail merge to be shown based on conditions using classes and methods.
+· Used BAPI for posting interest documents with statistical and non-statistical interests for the recalculated period.
+· Involved in Business object repository creation for Business partner agreement creation and rejection through portal and SAP and sending notification to the caseworker when the creation or rejection is done.
+· Created EMMA cases for the agreement creation, deletion and proposal,Interest recalculation for the open items using classes.
+· Interactive ALV report using SALV classes and methods for displaying the overview of debtor and economy dimensions based on the contract account contract object with all the relevant information from the posting area.
+· Worked on RAL logging for the payment specification with the document number been cleared by payment.
+· Created an ALV for journalization for the contract objects by which the caseworker can select the corresponding contract object which is to be handled manually.
+· Batch program for filtering the  EFI cases to be processed by the Debitor system and change the status in TRANSVIEW table for the caseworker the identify which are to be processed in Debitor system and which are to be skipped .
+· ALV Tree for the EFI cases handled by Debitor system and other system with the details from TRANSVIEW table.
+
+
+Team: GPC
+Duration: July 2014-Feb 2015
+Role: Associate Software Engineer
+   Responsibilities:
+· Developed a class for senior citizen pension. The calculation of amounts for wage types to pay out Pension for employee from 70 years and over using classes and methods and interface for calculation.
+· Created unit test class for the objects testing purpose for the rule groups been developed for pension over 70 years.
+· Performance tuning according to the standards described by the DEx.
+· Defect analysis and preparation of analysis document for pension info type in detail.
+· ATC Error correction for the Pension rule groups.
+
+Team: Decoupling
+Duration: Nov 2013-June 2014
+Role: Associate software Engineer
+Responsibilities:
+· Creation of info types with screen and class using OO ABAP - new method (decoupled framework) for private pension DK, Company statistics DK, Reimbursement DK.
+· Created unit test classes for testing purpose for all the decoupled info types been developed.
+· Performance tuning for the programs.
+· Maintained configuration and view entries for the info types to be created and changed in the new decoupled framework with all the screen and class information related to the infotypes been decoupled- private pension DK, Company statistics DK, Reimbursement DK.
+· Object oriented ABAP classes, method creation for info types check class and conversion class with all the business logic for private pension DK, Company statistics DK, Reimbursement DK, Manage holiday net pay DK
+
+Team: Custom development monitoring
+Duration: Aug 2013-oct 2013
+Role: Associate software Engineer
+Responsibilities:
+· Created a custom report for CDM which will display all the modification enhancements and notes been created based on the business area as payments, finance, payroll.
+· Created an enhancement for ATC to include the change done by particular person based on the date of change of the objects in that particular business area.
+· Debugging of standard code for the ATC program run. Made changes in the custom report for ATC .
+· Report for modification, enhancement and ATC exemption been done on the basis of date and changes and business area.
+
+Educational Qualification
+Degree: B.E., Computer Science and Engineering (2008-2012)
+College: Thangavelu Engineering College, Chennai
+
+
+Personal Details
+Nationality              : Indian
+Date of Birth           : 30 Mar 1991
+Gender                    : Female
+Permanent Address : No 18 jps building KIADB layout Bangalore 560100

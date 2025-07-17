@@ -1,0 +1,118 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Snigdhamayee Swain
+Career Summary
+
+· Two years and 6 months of experience in the field of Linux Administration, build & release control.
+· Seeking a position to utilize my skills and abilities in a challenging environment that offers professional growth while being resourceful, innovative and flexible.
+Academics
+
+· MCA(Master in Computer Application) from C.I.T.E College(B.P.U.T University), Bhubaneswar, Orissa
+· BCA(Bachelor in Computer Application) from Utkal University, Jagatsinghpur, Orissa
+· Higher Secondary Education(HSE) from Jharsuguda Women’s College, Orissa.
+Technical knowledge purview
+
+	Operating System	:Redhat Linux, Windows
+        Languages	: C, C++, Core Java, HTML, SQL, shell scripting
+	  Tools	                                   :Jenkins, Dimensions10, ChangeMan DS, IBM Udeploy, Selenium,Maven,SVN,Jira
+IBM Websphere,  BladeLogic console (BAA)
+	Change Management Tool	    :Virtual change, Service now, ResolveIT
+	Other	    : Basic knowledge in IBM AIX, Networking, NetBackup& Storage
+GIT – Configuring and managing repositories & source files, branching, merging, cloning configuration between remoteserver to local host.
+      Jenkins – Configuring & managing builds, deployment of builds & releases to PROD environment.
+UNIX – Shell scripting, Performance management, User management, File management, Process management,Job scheduling, Backup and restore, networking.
+Professional Experience
+
+Wipro Technologies Pvt. Ltd.	October 2014 to till date
+· Working as project engineer, I am expertise in managing BAU operations, as an SME of LINUX & release and deployment on PRD environment of clients banking environment.
+· Incident determination and resolution on a 24x7 basis.
+· Participated in change advisory board (CAB) meetings to manage upcoming major cutovers.
+· Managing, planning, scheduling and controlling package deployment through different stages and environments.
+· Review and approve RFCs for different projects as a part of CAB for Configuration & Distributed systems.
+· Co-ordinated and handled major cutovers which is being held every month for EMEA and APAC regions. 
+· I am involved in managerial role, such as managing ISO related documentation, presenting WSR and SDR to clients, etc.
+Project name: CITI CCO DEPLOYMENT MANAGEMENT
+Client: CITIBANK (United States) - Citibank is the consumer banking division of financial services multinational Citigroup. Citigroup is the third largest bank holding company in the  United States by total assets.
+Role: SCM Engineer, Build & Release Engineer
+Tool and Technologies: SCM Build and Release, IBM Udeploy
+About project:
+· The purpose of the project is to manage end to end Deployment activities/processes for different applications. Also to maintain and take care of all critical servers, environments like UAT, PROD etc. 
+· The purpose of the project is to manage and automate Deployment/Release process of some of the applications which contain many manual activities/processes. 
+Duration: Continuing
+Team Size: 15
+Runtime/Solution Environment: UNIX / Windows Platform
+Key Responsibilities Handled
+
+Linux Administration:
+· Experience scripting with BASH script for automating system tasks. 
+· Experience managing services such as FTP, samba (CIFS) and NFS.
+· Experience with package management, user management and access control.
+· Experience with supporting Microsoft Windows interoperability with Unix.
+· Responsible for performance monitoring and maintenance of servers.
+· Responsible for applying server patches.
+· Responsible for monitoring FID process and take necessary action.
+
+Software Configuration Management:
+· Implementing Configuration Management using GIT along with build & release methodologies.
+· Branch, Merge, Conflict resolving and hook scripts in GIT.
+· In the role Software Configuration Management (SCM), my basic tasks involves the maintenance of the project files, User administration, trouble shooting and adhoc assistance to development needs regarding version controlling and build management.
+· Set up Jenkins server and build jobs to provide continuous automated builds based on polling the Git source control system during the day and periodic scheduled builds overnight to support development needs using Jenkins, Git.
+Udeploy:
+· Installing and maintaining Udeploy plugins.
+· User management and server performance monitoring.
+· Troubleshooting Java project deployments in testing and production environments.
+· Controlling package deployment through different stages and environments. 
+· Debugging build failures, coordinating with developers and testers to resolve related issues.
+Personal Information
+
+Date of Birth 	: 	09-March-1992
+Marital status	:	Married
+Mail ID	:	sswain.sini@gmail.com
+Mobile number	:	9632244584

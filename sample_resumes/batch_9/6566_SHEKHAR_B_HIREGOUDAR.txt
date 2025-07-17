@@ -1,0 +1,384 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SRINATH N
+
+
+SHEKHAR. B. HIREGOUDAR
+E-Mail: shekhar.hiregoudar@gmail.com                                 
+
+
+  Contact: + 91-9886120205
+Career Abstract 
+· A professional with 7.8 years of extensive experience in, Microsoft Technologies (ASP.net MVC, WinForms, C#, ADO.NET, MS-SQL Server 05/08/10, WCF, WebAPIs, Windows services), JavaScript, JQuery, CSS, HTML.
+· Presently working with Mindtree ltd, Bengaluru as a Module Lead. 
+· Exposure in Web Development, Web Designing, Web Application, Windows Application development in finance and tax domain.
+
+· Good communication & interpersonal skills with strong analytical, team building, problem solving and organizational abilities.
+Employment Recital 
+Jan’16-Till date with Mindtree ltd, Bengaluru as a Module Lead.
+May’13- Jan’16 with Thomson Reuters International Services Private ltd, Bengaluru as a Software Engineer.
+May’11- May’13 with Hexaware Technologies Limited, Pune as a Software Engineer.
+Feb’10-May’11 with Nucleon Technologies, Bengaluru as a Software Engineer.
+Technical Skills
+Technologies
+
+:
+ASP.NET, ASP.NET MVC, WinForms, HTML, Windows services, CSS, WCF,
+
+WebAPI
+Languages
+
+:
+C#, JQuery, JavaScript, LINQ
+
+Tools
+
+
+:
+TFS, SVN, GitHub
+Database
+
+:
+SQL Server
+Academic Credentials 
+· Bachelor in Electronics and Communication Engineering, from Basaveshwara Engineering College, Bagalakot, Karnataka, under VTU.
+· PUC from JSS College, Dharwad under Pre University Board, Karnataka.
+Important Projects Undertaken 
+Title
+
+:
+Consumer Portal (at Mindtree ltd)
+Client
+
+: 
+Eastman Kodak
+Domain
+:
+RCM (Retail CPG & Manufacturing)
+Technology
+:
+VS 2015, ASP.Net MVC, C#, SQL server, WebAPI, GitHub
+
+Tools
+
+:
+VS 2015, SQL server, GitHub
+Team Size
+:
+5
+Role
+
+:
+Module lead
+Scope: This is the e-commerce website. This is the part of Super-8 Eco system   which will integrate the User experience on Kodak applications for a consumer user. The applications which are in scope for the Eco system are Consumer Portal, Digital River Kodak Store, Auth0 (Single Sign on Provider), Public www website (Ektron CMS).)
+Title
+
+:
+CCD Distributor Portal Web API (at Mindtree ltd)
+Client
+
+: 
+Café Coffee Day
+Domain
+:
+Mobile App
+Technology
+:
+ASP.Net WebAPIs, C#
+Tools
+
+:
+VS 2015
+
+Team Size
+:
+10
+Role
+
+:
+Module Lead 
+
+Scope: Web API developed as an interface between java application and Microsoft dynamics web service. It is designed to create and read the DP orders. This is to replace existing approach (posting an xml file to the server and parsing the file and pushing the data to the database) and directly creates the order in to the database.
+Title
+
+:
+IPMS Library (at Mindtree ltd)
+Client
+
+: 
+Gemalto
+Domain
+:
+Mobile App
+Technology
+:
+Windows Phone 8.1(WP 8.1), C#, Ant scripts
+Tools
+
+:
+VS 2015, TortoiseHG
+Team Size
+:
+3
+Role
+
+:
+Module Lead 
+
+Scope: The IP Messaging Library provides a toolkit for developers of banking and signing smart phone applications that provides complete authentication solution to communicate with IP Messaging Server. The IP Messaging Library is also responsible for securing the message transmitted by the third party application to send to the Banking Server or any signing server through the IP Messaging Server.
+Title
+
+:
+Officers & Directors (at Thomson Reuters)
+Client
+
+: 
+Thomson Reuters (Global)
+Domain
+:
+Finance
+Technology
+:
+WinForms, C#, ADO.Net, Windows services, WCF
+Tools
+
+:
+VS 2010, SQL server, Tortoise SVN
+Team Size
+:
+6
+Role
+
+:
+Application Programmer 
+Scope: Officer and Directors data refers to content collection of top executives and Board of Directors of Public and Private Equity Companies.
+The O&D content set covers the following information
+
+1. Executives of Public and Private Equity Companies
+
+2. Board of Director / Trustees / Shariah Scholars of Public and Private Equity Companies
+
+3. Investor Relations Contact of Public Companies
+
+4. Complete profile of executives and Directors (Personal Information, Employment History, Compensation Details, and Committee Information)
+Title
+
+:
+BICS (at Hexaware Technologies)
+Client
+
+: 
+Ernst & Young (Global)
+Domain
+:
+Tax
+Technology
+:
+ASP.Net, C#, Enterprise library, LINQ, JQuery, JavaScript, WCF
+Tools
+
+:
+VS 2010, SQL server, TFS 2010
+
+Team Size
+:
+12
+Role
+
+:
+Application Programmer
+Scope: The application calculates the Tax benefits that the corporation or a company is going to get when it recruits a new employee. Application gathers the information from the candidate who has been recruited for a particular corporation or a company and calculates the tax benefits that the corporation or a company is going to get. The candidates have to attend a survey and has to answer some questions provided by the corporation. The calculations are done depending upon the zones, to which the candidate belongs to and depending upon the answers he gives for the survey questions.
+Title
+
+:
+Consultation System (at Hexaware Technologies)
+
+Client
+
+: 
+Ernst & Young (Global)
+Domain
+:
+Assurance
+Technology     :
+ASP.Net, C#, ADO.Net, LINQ, JQuery, JavaScript 
+Tools
+
+:
+VS 2010, SQL server-2008, TFS 2010
+
+Team Size
+:
+7
+Role
+
+:
+Application Programmer
+Scope:
+Assist the end user in maintaining the consultation record, view their records, and Process the records at different stages that are coming to the Company. Keeping track of the records created. Sending mails to end user give them the regular updates of the system.
+Title
+
+:
+Global CRM (at Hexaware Technologies)
+
+Client
+
+: 
+Ernst & Young (Global)
+Domain
+:
+Finance
+Technology
+:
+ASP.Net, C#, Web services, JavaScript, AJAX
+
+Tools
+
+:
+VS 2010, SQL server-2008, TFS 2010
+Team Size
+:
+40
+Role
+
+:
+Application Programmer 
+Scope:
+Global CRM is a tool to plan, execute and measure client activities more effectively and efficiently. This tool helps to build and maintain long term, high impact relationship with client. This tool provides the consistent approach to record the data when capturing the opportunities, Client acceptance and creating an engagement.
+
+
+
+Key Features: 
+
+
+
+
+• Single global reporting tool
+• Contact/Activity management
+• Opportunity management
+• Account management
+Title
+
+:
+KSDC (at Nucleon Technologies)
+Client
+
+: 
+Karnataka State Dental Council
+Technology
+:
+ASP.Net, C#, ADO.Net, JQuery, Ajax, JavaScript
+Tools
+
+:
+VS 2008, SQL server-2005, Tortoise SVN
+Team Size
+:
+6
+Role
+
+:
+Application Programmer
+
+Scope: This website is for the members of KSDC (Karnataka State Dental Council). The two major modules involved are Administrator and Practitioner. The admin module deals with the automation of entire KSDC activities.  A registered practitioner can manage his profile in the website and make on-line payment for renewal his registration.
+
+Title
+
+:
+Vadhuvara.com (at Nucleon Technologies)
+Technology
+:
+ASP.Net, C#, ADO.Net, JQuery, Ajax, JavaScript
+
+Tools
+
+:
+VS 2008, SQL server-2005, Tortoise SVN
+Team Size
+:
+3
+Role
+
+:
+Application Programmer 
+
+Scope: This product is developed to link databases of various matrimony agencies. It mainly focuses on sharing the client database between several agencies. Once two or more agencies agree to share the databases, a client (marriage-aspirant) registered under one matrimony agency can view the profiles of those who registered under other matrimony site. This avoids the need for registering in more than one agency. Client can select more than one profile from various agencies and add to his watch-list. He can schedule an appointment with interested profile owners through respective agencies. Alert messages will be automatically sent via mail and/or SMS about the scheduled appointments.
+Personal Vitae
+· Permanent Address
+
+:        
+S/o B.V.Hiregoudar,
+Saidapur,
+
+Dharwad- 580008
+
+Karnataka.
+· Father’s Name
+
+: 
+Mr. Bheemanagouda
+· Date of Birth
+
+: 
+20th November 1985
+· Languages Known
+
+: 
+Kannada, English and Hindi.
+I would be grateful for considering my candidature for a suitable project in your esteemed organization.
+
+Date:
+
+Place: Bengaluru  
+
+
+
+
+                   
+
+(Shekhar.B.Hiregoudar)
+
+

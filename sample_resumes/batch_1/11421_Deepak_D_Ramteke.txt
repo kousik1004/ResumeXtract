@@ -1,0 +1,290 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Sravan Kumar
+
+Deepak D Ramteke
+deepak.dramteke@gmail.com
++91-9561866694
+
+Carrier Objective:
+
+· Seeking a challenging carrier by giving all my skills to my profession and waiting for a initiative role.
+
+· To work in association with professional groups who offer me the opportunity for career advancement and professional growth.
+Professional Summary:
+
+·   Working Experience of 3.2 years in SAS programming, SAS DI, SAS VA 7.3, SAS SMC ,SAS BI SAS EG 5.1 tools.
+
+· Working on SAS Base/Advance, PROC SQL, SAS DI , SAS Visual Analytics , SAS Management Console, SAS Information Delivery Portal , SAS Information  Map Studio, SAS Web Report Studio.
+· Good  knowledge of various procedures like Proc Means, Proc Freq, Proc Import, Proc Export, Proc Datasets, Proc Format, Proc Sort etc.
+
+·   Experience in Banking, Insurance and Retail domains.
+
+·   Familiar with Data warehousing concepts.
+
+· Experience to handle large data, coded effectively for scalable data using Pass through queries, Hash Table, parallel processing etc.
+
+· Responsible for the Extraction, Transformation & Loading of data from multiple sources into Data Warehouse. Worked on various sources like Sql, Oracle, Excel, and Flat Files.
+
+· Experience in SAS VA Preparing data and Visual Exploring data on SAS LASR Analytic Server.
+· Created Cross Tabs and Summary Detail Reports, Create Analytical and Statistical Reports in VA.
+· Hands on experience of using auto exec facility, auto compile macros.
+
+· Knowledge in data management like Merging, Interleaving and Moving of SAS dataset.
+
+· Able to work independently as well as good team player and interact with all levels of management.
+
+· Possess good communication skills, self-motivated, proactive, task oriented and quickly  adapt    to new technologies/ processes/ methodologies.
+Professional Experience:
+
+· Currently working for HEXAWARE from  2015  To till date.
+Technical Skills: 
+
+ VA and BI Reports    :     SAS Visual Analytics , SAS – Information Map Studio, SAS-Web Report Studio and SAS Enterprise Guide.
+SAS DI                             :     SAS Data Integration Studio, SAS Management Console.
+SAS Programming     :     SAS (Base, Advanced, Macros), SQL.
+
+Databases
+            :      MS SQL Server, Oracle11g etc.
+Operating system     :     Windows server 2008, Linux, Unix.
+Projects Experience:
+Project #1
+            :    Asset Performance Management & Analysis
+Client       
+       :    DCB Bank
+Role                        
+       :    SAS DI/VA Developer
+
+Tools                              :    SAS Data Integration Studio, SAS management console, SAS EG, Oracle11g.
+
+Description:-
+
+
+DCB want to develop a system which can give bird eye view of all the assets and products, how they are performing, how much investment is made in each asset class, how are products or services performing, what are risks etc. DCB chooses SAS platform to develop this system. This project involves data load process from detail data store to analytical mart using SAS di studio and data is further used for reporting & analysis purpose.
+Responsibilities:
+
+· Create job to load data from source to staging which are one to one mapping ,Used different transformations like file reader, extract, sql join, loop, splitter, data validation, scd type2, custom transformation, user written code transformation.
+
+· Used parameterized file reader transformation of read the data from files of different cycle dates.
+
+· Used SCD type 2 transformations and table loader transformations for data loading.
+
+· Used parallel processing, pass through facility and bulk load option for performance tunning.
+
+· Used data validation transformation for data cleaning. 
+· Deploy and schedule jobs by using LSF using SAS management console
+
+· Write pre code and post code to update oracle master tables.
+
+· Used lookup transformation to load fact tables.
+· Used interactivity between reports, used prompts, section filters, used interactivity with external links.
+
+· Included stored process in VA application, used web report interactivity with SAS Visual analytics.
+
+· Used different type of Graph objects in VAE and VAD.
+
+· Familiar with loading data to laser server, creating laser server and laser library.
+
+· Created aggregated measure and calculated measures Used in reports.
+· Developing SAS VA reports using APM Mart.
+Project #2
+
+:    Data loading and Reporting on Insurance Analytical Solution 
+Client
+
+:    Government Employees Insurance Company (GEICO)
+Role
+
+:    SAS DI Developer
+Tools
+
+
+:    SAS DI Studio, SAS  management console, Oracle 11g, MS SQL server.
+Description
+:-
+
+
+GEICO is once of largest auto insurance provider. Customer wants to analyze customer data, claims data, and insurance premiums using different analytical techniques.  Project involved data loading for insurance analytical solutions. Source data is coming from insurance detail data store and loaded into analytical mart. Further data is being used for reporting and analytical model building purpose.
+Responsibilities:
+· Used different transformations like  extract, sql join, loop, splitter, data validation, scd type2, user written code transformation.
+
+· Used file reader transformation for reading data from source files.
+
+· Used parameterized file reader transformation of read the data from files of different cycle dates.
+
+· Used splitter, data validation and exception handling feature of other transformations to clean data and capture exceptions.
+
+· Used oracle options while loading data in oracle like bulkload.
+
+· Deployed jobs, developed job flow using management console.
+· Responsible for Schedule jobs using platform manager.
+Project #3
+
+:    Development of MIS System
+Client
+
+
+:    Marks & Spencer, Singapore
+Role  
+
+
+:    SAS DI & BI Developer
+
+Tools
+
+
+:    SAS Management Console, SAS WRS, IMS, Linux, Oracle.
+Description:-
+
+
+Project involved development of reporting and analysis system for M&S to track sales, inventory, store growth, revenue, spends etc. This MIS application is built using SAS BI platform. Data was loaded form invoice system, inventory system. Currently it’s limited to Singapore stores. This system helped M&S understand stores and plan for expansion. 
+Responsibilities
+:
+
+· Involved in initial data modeling and data management solution design, provided input in design like sources to staging data load, few inputs in mapping, provided few inputs in data collection.
+
+· Involved in low level design for data loading, significantly contributed in ETL framework design.
+
+· Responsible for development of SAS DI job to load data for customers, offers, promotions, packages information.
+
+· Loaded data from different sources to staging with file reader and extract transformation, extracted data from flat files, SQL server, oracle and reference data from excel.
+
+· Used different transformations like file reader, loop transformation, SQL join, lookup transformation, SCD type 2, table loader etc.
+
+· Used custom transformation, pre-code and post codes. Used status handling functionality to capture job statistics.
+
+· Responsible for performance tuning of job, done modification in job in order to improve performance.
+
+· Used data for reporting purpose, created web reports using SAS web report studio, created information map.
+
+· Created reports ad-hoc with filters and prompts which run by user as and when required.
+
+· Also created reports which are part of scheduling and distributing component, schedule and distributed reports.
+
+· Performed some of admin tasks like creating user, groups, registering libraries, creating servers, moving metadata, creating back-up, providing access etc. 
+
+Project #4
+
+: Data preparation for forecasting solution 
+Client
+
+: Australian NaturalCare
+Role
+
+: SAS Support Programmer.
+
+Tools
+          : SAS Base, macros, SAS Management Console, SAS Base 9.3, Oracle.
+Description:- 
+Project involved data loading for forecasting solution this data is sales data from point of sale system from different stores and project involved preparing time series data for forecasting solution from sales mart. Data is coming in flat file format from sales mart.
+Responsibilities:
+· Used different data merging techniques like interleaving, merging, match merge.
+· Extensively used data step to process sas datasets for joining, extracting, subseting, merging, updating etc.
+
+· Used different procedures like Proc sort, proc dataset, proc printto, proc append, proc means, proc copy etc.
+· Used _n_ and _error_ to look for error while reading data from external file.
+
+· Used hash object , array lookup and format lookup.
+
+· Used advanced option for improving performance of sas code like tag sort, insert buff ,update buff ,memsize, idsortsize,etc.
+
+· Used and create indexes on sas datasets.
+
+· Used pass through facility to process in database memories.
+· Used macro quoting functions.
+
+· Extensively used macro facility to modularize SAS code.
+
+· Used compile and autocall macros.
+
+· Redirected log to  different directory using proc printto.
+
+Educational Qualifications:
+
+· M.C.A  from RTMNU University 2015 (62.71%)
+
+Personal details  : 
+
+·  Father’s Name
+:  Dnyaneshwar Mangal Ramteke
+· Address
+
+:   H-2 R P T S  Surendra Nagar,Nagpur.
+
+· Language Known
+:  English, Hindi, Marathi.
+
+· Nationality
+
+:  Indian
+· Soft Skills
+
+:  Willingness to learn new things.
+
+Declaration:
+
+
+I hereby declare that all the information given above is true to best of my knowledge & I am determined to deliver my best if given a chance.
+
+Date :
+
+
+
+
+
+
+
+
+(Deepak Ramteke)
+
+Place:
+Mumbai

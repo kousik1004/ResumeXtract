@@ -1,0 +1,197 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raman Mahesh Resume
+
+
+  
+To obtain a job that will challenge me and allow me to use my education, skills and 
+past experiences in a way that is mutually beneficial to both myself and my employer 
+and allow for future growth and advancement.  
+
+  
+
+●Parle Agro India Pvt Ltd | Senior Executive- Business Analyst | Mumbai | 
+May-2017 – Present 
+
+   Design and Development of Statistical and Forecasting models along with 
+creation of dashboards. 
+●Kantar Millward Brown | Associate- Media Analytics | Mumbai | April-2016 – 
+
+May 2017 
+ Constructing mixed models and Cross Media Modelling techniques to solve 
+business problems and developing Visualisations  
+●Reliance Digital Retail Limited | Assistant Manager- Store Operations | 
+
+Bangalore | January-2014 - April-2015 
+  Analyse the data and help the store manager in providing decisions derived 
+from    the data to improve the in-store performance 
+
+  
+
+●Praxis Business School | Post Graduation in Business Analytics | Kolkata | 
+June-2015 - March-2016 
+●Siva Sivani Institute of Science and Management | Triple Specialization-
+
+Marketing, Operations and Business Analytics | Hyderabad | June-2012 - 
+March-2014 
+
+●Sri Sai Aditya Institute of Science and Technology | Electronics and 
+Communication Engineering | Kakinada | June-2008 - April-2012 
+
+  
+
+★Python  
+★Tableau and Spotfire 
+★Excel and Alteryx 
+★SPSS 
+
+OBJECTIVE
+
+Reddy Raman Mahesh 
+Business Analyst 
+Phone: 8639594731 / 9491322355 
+Born on: 05/08/1991 
+email: raman.mahesh02@gmail.com 
+Address: Rajahmundry, Andhra Pradesh,India
+
+WORK EXPERIENCE
+
+EDUCATION
+
+LANGUAGE SKILLS
+
+mailto:raman.mahesh02@gmail.com
+
+
+    
+
+             
+TECHNICAL SKILLS 
+
+★Machine Learning 
+★Statistical Modelling 
+
+"  
+
+Business Analyst at Parle Agro Private Limited 
+
+Responsibilities: 
+
+Developing forecasting models for the weekly prediction of Sales 
+
+Developing weekly and monthly dashboards 
+
+Implemented Market Basket Analysis to suggest which all products are purchased 
+frequently  
+
+Developing regression models to predict the important factors which are having an 
+effect on the sales of the products  
+
+Developed a program for improving the sales performance and developed certain 
+trackers to track the effectiveness of the program  
+
+Developed an ad-hoc analysis to identify the key states and towns for the launch of 
+the new product  
+
+Tools & Technologies Used: Python, Alteryx, Tableau, Pandas ,     
+SCIKIT-LEARN  
+
+FORECASTING OF WEEKLY SALES FOR PARLE AGRO: 
+
+Brief Description: Parle Agro has two main products Frooti and Appy Fizz. Sales of 
+these products happen in multiple locations of the country. Beverages has a huge 
+competition.In order to plan for the resources, company wants to predict the weekly 
+sales of these products 
+
+Responsibilities: 
+
+Developing a forecasting model using machine learning and predicting the sales of 
+these products. 
+
+Tools Used : SCIKIT-LEARN,  LINEAR REGRESSION, SVM,RANDOM FOREST 
+
+SPATIAL ANALYTICS OF MARKETING CAMPAIGN FOR PARLE AGRO: 
+
+Brief Description: Marketing campaigns like billboard advertising will be conducted 
+for increasing the brand value and to generate more sales for the company.  
+
+Responsibilities: 
+
+Use Spatial Analytics in Alteryx and to identify the stores in the vicinity of the billboard 
+using the coordinates of the store and Billboard 
+
+Industrial Experience and Projects: 
+
+
+
+Objective is to compare the sales of the Stores in Pre-period and Post-period and  
+checking the performance with the KPI’s 
+
+ 
+
+NEW YORK CITY(NYC) TAXI DEMAND PREDICTION  
+Brief Description: The end user of NYC system is Taxi driver. As a business 
+perspective, any taxi driver wants to get maximum number of rides at given time and 
+location. The objective of this project is to suggest the near by location to taxi driver to 
+get the new ride.  
+
+Responsibilities:   
+
+To find number of pickups, given location coordinates(latitude and longitude) and time, 
+in the query region and surrounding regions.  
+
+Minimise error by calculating Mean Absolute percentage error, Mean Squared error  
+
+Tools Used: SCIKIT-LEARN, PANDAS, MATPLOTLIB, SEABORN 
+
+ 
+TIME SERIES PREDICTION FOR UNICORN - Analytics Vidya  
+Brief Description: The end user is UniCorn ventures they wanted to take an 
+investment decision of whether to invest in Jet Rail or not.  
+
+Responsibilities: 
+
+Forecast the traffic of JetRail for the next 7 months. 
+
+Minimise RMSE to achieve the good forecasted values 
+
+Academic Projects: 
+
+

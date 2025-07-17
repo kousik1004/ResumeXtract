@@ -1,0 +1,642 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email: anandmavuri@gmail.com
+SM00514773@Techmahindra.com
+Mob: +91 9920725469
+
+
+Shanmukh Anand.M
+MBA (Finance), SAP [FICO]
+
+
+fSummary
+
+
+Having 12+years of Functional Experience in the area of Accounting &Finance. This encompasses 6 years of SAP functional experience in the FICO Module.  Seeking opportunity in a progressive organization, utilizing my SAP Finance and controlling skills that would add value to the company. To continuously learn and turn knowledge into value for the benefit of my clients in a leading enterprise, which would provide challenging assignments, meaningful career growth and opportunities for value addition through learning and professional development. 
+
+
+
+
+
+
+
+
+
+
+
+Areas of Experience
+
+
+
+· Leading successful medium global teams through complex program and project tasks	
+· Financial accounting, Cost Accounting & Indian Taxation 
+· System study, design, development, testing and Training and Support
+· Preparation of Business Blue Prints, user manuals and tutors.
+· Interacting with the client/Client team to gather requirements and Good exposure to plan and execute all phases of software development life cycle.
+· Preventive action towards risk factors to minimize project issues and very well in handling client escalation if any.
+
+Academic							
+
+
+
+
+· MBA – Finance
+· TRAINED SAP –FI ECC6.0 from Siemens Services Pvt ltd., Bangalore.
+· Bachelors in Commerce.
+
+Technical Skills
+
+
+
+
+· ERP		       : SAP R/3 FICO (4.6c/4.7ee/ECC 6.0 &EHP 7.0)/S/4 Hana 1610 Premises                            
+· Operating systems: Windows 2000/Server
+· Office Automation  : MS Office
+· Accounting packages: Focus, Tally
+Areas worked on SAP:
+
+
+Finance (FI):
+General Ledger: Creation of Company Code, Chart of Accounts, Fiscal Year Variants, Business Areas & Maintenance of Company Code Settings. Configuration of Document Types, Posting Keys, Special GL Indicators & Field Status Groups, Exchange rate keys, Validation, substitution, New GL functionality, activation of New GL, Document Splitting
+Accounts Receivable: Customers Account Groups, Customer Master, Payment Terms and TCS.
+Accounts Payable: Vendor Account Groups, vendor master, Creation of New Payment Terms, Payment methods, Withholding tax Configurations.
+Cash / Bank: Configuration of Cash Journals , Bank Keys, House Banks, Automatic Payment Program, Payment methods, Manual Bank Statement
+Asset Accounting: Configuration of Chart of Depreciation, Depreciation area, Assets Class, Depreciation key, Account determination, Validation, Substitution
+Extended withholding tax & CIN.
+Controlling (CO):
+Cost Centers: Creation of cost center, budgeting, Creation of Allocation cycle like Assessment and Distributions. Settlement of orders to cost centers
+Internal Orders: Creation of Statistical and Real internal order, Settlement of order.
+Cost Elements: Creation of primary and secondary cost elements, Cost element grouping and assignment with Costing Sheet.
+Product costing: Planning, Studying, and collecting data to determine costs of business activity such as raw material purchases, inventory and labor.
+· Making estimates of new and proposed product costs
+· Providing management with reports specifying and comparing factors affecting prices and profitability of products or services.
+· Maintaining Cost Accounting System and assisting in Month end close of the General Ledger
+· Conducts physical inventories and monitors cycle count program
+· Reconciles finished goods inventories
+
+Profit center Accounting: Configure Profit Center Accounting. Key configurations include setting up the Standard Profit Center Hierarchy; dummy profit centers, 3 plan versions, Planner Profile and Planning Layouts, Assignment to revenue elements and balance sheet accounts, and maintained profit center master data.
+Knowledge & Experience in following SAP Modules
+· FI/CO  
+· Strong hold on MM/PP/SD integration with both FI and CO Modules.
+
+Knowledge& Experience on upgrading skills version to version
+· Implementation of New GL
+· Extensive knowledge in Withholding tax settings and CIN (Country version of India)
+· Activation of Document splitting
+· Implementation of parallel ledger
+· Business area posting - Segment reporting
+· Profit Centre accounting through new GL
+· Testing of the new functionality
+
+Project SummaryProject Summary:
+
+
+(In chronological order starting from the most recent)
+	No.
+	Company Name
+	Client Name
+	Project
+
+	10
+	Tech Mahindra
+	E & Y
+	Implementation
+
+	9
+	Tech Mahindra
+	Volvo
+	Support
+
+	8
+	L&T InfoTech
+	L&T InfoTech
+	
+Implementation
+
+	7
+	Intellect
+	Helpdesk
+	Offsite Multiple Client Support
+
+	6
+	Intellect
+	Sterling Generators Pvt Ltd
+	Support
+
+	5
+	Intellect
+	Helpdesk
+	Offsite Multiple Client Support
+
+	4
+	Intellect
+	Ravi Dye ware Pvt Ltd
+	Implementation
+
+	3
+	Intellect
+	Bala Krishna Tires Pvt Ltd
+	Roll out
+
+	2
+	Intellect
+	G.R. Engineering  Pvt Ltd.
+	Implementation
+
+	1
+	Intellect
+	Helpdesk
+	Offsite Multiple Client Support
+
+
+
+Project No: 10
+	Employer
+	Tech Mahindra
+
+	Project Description
+	  Implementation  of  GST ASP extractor  program for Clients HIL, MYHOME,MYLAN,OCL and VST.
+
+	Client Name
+	Ernst & Young
+
+	Client Profile
+	· EY operates as a network of member firms which are separate legal entities in individual countries. It has 231,000 employees in over 700 offices around 150 countries in the world. It provides assurance (including financial audit), tax, consulting and advisory services to companies
+
+	Position
+	 FI/CO – Functional Consultant 
+
+	Role
+	Team Member
+
+	Project Duration
+	Aug 2017 To  Till Now
+
+	 Tasks
+	· Study of as-is processes of the organization.
+· Implemented ASP Extractor program which is related GST
+· Configured as per the client specific requirements such as Table maintenance,
+· Document type, supply type, state code.
+· Getting requirement of clients.
+· Attending  business meetings
+· Analyze the problems and provide solution in time.
+· Providing functional logic for extractor mapping to concerned ABAP Team
+· Providing training and functional specifications to clients
+
+
+
+
+
+
+Project No: 09
+	Employer
+	Tech Mahindra
+
+	Project Description
+	  Support for SAP ILM object
+
+	Client Name
+	Volvo Information Technology AB
+
+	Client Profile
+	· The Volvo Group is one of the world’s leading manufacturers of trucks, buses, construction equipment and marine and industrial engines. The Group also provides complete solutions for financing and service. The Volvo Group, with its headquarters in Gothenburg, employs about 95,000 people, has production facilities in 18 countries and sells its products in more than 190 markets.
+
+	Position
+	 FI/CO – Functional Consultant 
+
+	Role
+	Team Member
+
+	Project Duration
+	June 2017 To  July2017
+
+	 Tasks
+	· Study of as-is processes of the organization.
+· Getting requirement of clients.
+· Attending ILM Training 
+· Giving support for SAP Inida for ILM Object configuration.
+· Analyze the problems and provide solution in time.
+· High-level design of to-be processes based on world-class Best Practices in all areas of operations, also keeping in view the proposed ERP implementation.
+
+
+
+
+
+
+
+Project No: 08
+	Employer
+	L & T InfoTech pvt Ltd., Mumbai
+
+	Project Description
+	  Implementation
+
+	Client Name
+	L & T  InfoTech Pvt Ltd.,
+
+	Client Profile
+	Larsen & Toubro InfoTech, a subsidiary of Larsen & Toubro,[5] is a global IT solutions & services company based in Mumbai, India.[6] L&T InfoTech is ranked number 6 [7] in India IT companies in 2013–2014. The company has 39 registered offices in 23 countries.[6] It employs standards of the Software Engineering Institute's (SEI) Capability Maturity Model Integration (CMMI) and is a Maturity Level 5 assessed organization.
+
+	Position
+	 FI/CO – Functional Consultant 
+
+	Role
+	Team Member
+
+	Project Duration
+	October 2016 To  May 2017
+
+	 Tasks
+	· Study of as-is processes of the organization.
+· Getting requirement of clients 
+· Analyze the problems and provide solution in time.
+· High-level design of to-be processes based on world-class Best Practices in all areas of operations, also keeping in view the proposed ERP implementation S/4 HANA 
+
+
+
+
+
+Project No: 07
+	Employer
+	Intellect Bizware Services Pvt. Ltd. Mumbai
+
+	Project Description
+	(Off-site)  Support 
+
+	Client Name
+	 Multiple-Clients:
+( Nitco,Flamingo,Camlin,Nocil,Iball,Rochem,Vip,Neosym,Apollo,GVR,Gr engineering,CFCL,Waree,BKT,FamyCare )
+
+	Position
+	 FI/CO -  Functional Consultant
+
+	Role
+	Help Desk lead
+
+	Project Duration
+	July  2015 to  Aug 2016
+
+	Tasks
+	· Ensure adherence to all key delivery processes in the areas like Incident Management, Problem Management and Work Request Management & Governance, Quality Assurance & approval of development efforts
+· Work prioritization and work distribution to team members.
+· Provides direction to onsite build team and maintains the communication between the onsite and offshore teams to resolve technical issues, and structures his team’s activities to minimize delays and rework.
+· Providing Annual performance feedback to the resources in the Team.
+· Responsible for all  client related activities including efforts estimation, resources, scheduling, status reporting, and deliverables.
+· Solving the issues on day to day basis as per level 1, 2 & 3
+· Attending the calls of Clients and giving solutions on urgent basis.
+· Asset acquisition and Asset Retirement. Asset Upload in AS91, asset Gl balance adjustment, Issues related open and close fiscal year of asset accounting. Inter and Intra- Companycode asset transfer. Depreciation run and depreciation reversal.
+· Preparing work plan, monitor objects status and providing estimation by using estimator.
+· Interacting with the client/Client team to gather requirements and Good exposure to plan and execute all phases of software development life cycle.
+· Involved in development requirements and explaining the same technical consultant
+
+
+
+Project No: 06
+	Employer
+	Intellect Bizware Services Pvt. Ltd. Mumbai
+
+	Project Description
+	(On-site)  Support
+
+	Client Name
+	Sterling Generators Pvt Ltd,.
+
+	Client Profile
+	Sterling Generator's has one of the Asia's largest State of art Manufacturing plant at Silvassa. The factory has both DTA and EOU units. In-house facilities include Fabrication, Assembly, Powder Coating Plant, Acoustic Enclosure Manufacturing, Conalso equipped with sophisticated Test Banks.
+
+	Role
+	Team lead
+
+	Position
+	 FI/CO -  Functional Consultant
+
+	Project Duration
+	July 2014 to June 2015
+
+	 Tasks
+	· Provide extensive support to the users on production issues arising from all the modules of FICO and other integrated modules.
+· Responsible for all project related activities including efforts estimation, resources, scheduling, status reporting, and deliverables.
+· Conducting a knowledge transfer process and leading learning sessions for the newcomers.
+· Responsible for resolving issues in the areas of G/L, A/P, A/R, Cost centre accounting, Internal Orders, Asset Accounting, 
+· Post go-live support of current business processes involved resolution of problems within the Turnaround Time (TAT) linked to the priority of the call. 90% issues resolved well before the TAT.
+· Resolution of incidents as per SLA stipulations, Interaction with the users and Handling escalations.
+· Developed BDC (Batch data communication) programs by using Batch input method
+· To initiate and implement new “Process Improvement Plans” (PIPs) within the project.
+· Responsible for the preparation and presentation of review reports with the customer and with the internal management
+· Provided instant solutions to the client, end user on errors/issues   based on the severity of the issue
+· Initial response and resolution time
+· Participated with technical consultants for modifications in outputs
+· Actively participating in the Client meetings and Client calls.
+· Configuration of Financial Statement Version
+· Attending the calls of Clients and giving solutions on urgent basis.
+· Plant visit as per requirement.
+· Preventive action towards risk factors to minimize project issues and very well in handling client escalation if any.
+· Creation of new Cash Journal and new configuration of new business transactions
+· Year end and month end closing activities.
+· Involved in development requirements and explaining the same to technical consultants.
+· To handle all project related escalations.
+
+
+
+
+
+
+
+
+
+Project No: 05
+	Employer
+	Intellect Bizware Services Pvt. Ltd. Mumbai
+
+	Project Description
+	 (Off-site)  Support 
+
+	Client Name
+	 Multiple-Clients:
+( Nitco,Flamingo,Camlin,Nocil,Iball,Rochem,Vip,Neosym,Apollo,GVR,Gr engineering,CFCL,Waree,BKT,FamyCare )
+
+	Position
+	 FI/CO -  Functional Consultant
+
+	Role
+	Help Desk lead
+
+	Project Duration
+	May 2014 to July 2014.
+
+	 Tasks
+	· Getting requirement of clients 
+· Analyze the problems and provide solution in time.
+· To handle all client related escalations.
+· Solving the issues on day to day basis as per level 1, 2 & 3
+· Performing Unit testing and Integration testing for the developed ABAP objects.
+· Attending the calls of Clients and giving solutions on urgent basis.
+· Providing user Training and preparing training manuals
+· Creation of new Cash Journal and new configuration of new business transactions
+· New payment method creation and testing the same in F110.
+· Validation for the document types at username level.
+· Involved in development requirements and explaining the same to technical consultants.
+
+
+
+
+Project No: 04
+	Employer
+	Intellect Bizware Services Pvt. Ltd. Mumbai
+
+	Project Description
+	 (On–site) Implementation
+
+	Client Name
+	Ravi Dye ware Pvt Ltd,.
+
+	Client Profile
+	Ravi Dye ware is one of the leading manufacturers of Dyestuff for textile and leather processing industries.
+
+	Position
+	 FI/CO – Functional Consultant 
+
+	Role
+	Team Member
+
+	Project Duration
+	August 2013 To April 2014
+
+	 Tasks
+	· Study of as-is processes of the organization.
+· High-level design of to-be processes based on world-class Best Practices in all areas of operations, also keeping in view the proposed ERP implementation of My SAP Ecc 6.0
+· Configuration of Enterprise Structures 
+· New General Ledger Accounting settings
+· Accounts Receivable and Accounts Payable settings
+· Fixed Assets with Depreciation as per IT Act
+· Integration with SD, MM and PM
+· Cutover master and data upload
+· End user Training
+· Go Live & Support, Product Costing and profitability analysis
+
+
+
+
+
+Project No: 03
+	Employer
+	Intellect Bizware Services Pvt. Ltd. Mumbai
+
+	Project Description
+	 (Off-site)  Roll out
+
+	Client Name
+	 Bala krishna Tyres Pvt ltd (BKT)
+
+	Client Profile
+	BKT is one of the world's leading manufacturers of "OFF-HIGHWAY tires". BKT has the widest product range with more than 2000 SKU's (Stock Keeping Units).
+
+	Position
+	FI/CO – Functional Consultant 
+
+	Role
+	Team Member
+
+	Project Duration
+	June 2013 To August 2013.
+
+	Tasks
+	· Fixed Assets with Depreciation as per IT Act
+· Integration with SD & MM
+· Cutover master and data upload
+· Provide Functional Specs (FS) to develop customized reports
+· Preparation of Project Status Report
+· Conduct Weekly meeting
+
+
+
+Project No: 02
+	Employer
+	Intellect Bizware Services Pvt. Ltd. Mumbai
+
+	Project Description
+	 (On–site)  - Implementation
+
+	Client Name
+	GR Engineering Pvt Ltd.
+
+	Client Profile
+	G.R. Group of Companies manufactures process plant equipment for chemical/ petrochemical, Oil & Gas, refineries and fertilizer plants.
+
+	Position
+	 FI/CO-  Functional Consultant 
+
+	Role
+	Team member
+
+	Project Duration
+	 Jan 2013 To May 2013.
+
+	
+	
+
+	Tasks
+	· Mapping SAP system as per Business requirement
+· Configuration of the organization structure for FI-Company code, Business area, Chart of Accounts, GL Master Data, Field status variant, Fiscal year, Variants, Posting Periods, Document no. Ranges, tolerance groups, assigning users to tolerance groups.
+· Customization of GL account master records, GL account groups, Fast access screens, parking of documents, recurring, reversal. 
+· Created & configured Vendor Master records which include creating vendor groups, creating assigning number ranges to vendor account groups and payment terms, Automatic payment program, house banks, Down Payments.
+· Configured & customized customer master Records, account groups, tolerance groups, defining & assigning document no. ranges, payment terms, Bills of exchange , Dunning Procedure , Correspondence , Down Payments
+· Creation of Cost centers & assigning Cost Elements, Internal Orders, Planning.
+· Preparation and review of Functional design documents which included the detail requirements of enhancements / developments / reports / print workbench to be developed by Technical Consultants / ABAP programmers.
+· Creation of new Assets class with Number range, Account Determination and Screen layout setup
+· Upload Legacy balances to respective accounts through LSMW
+· Upload Assets Balance from legacy through LSMW
+· Integration with MM and SD module.      
+· Configured and tested the functionality relating to FI-GL, FI-AA and FI-AR-AP.
+· Set up House Banks and Cash Journal 
+· Product costing
+· Profitability analysis and End User Training
+· Had involved in the lifecycle of the project from base-line configuration stage to testiand go live and Support.
+
+
+
+Project No: 01
+	Employer
+	Intellect Bizware Services Pvt. Ltd. Mumbai
+
+	Project Description
+	 (Of-site) Support 
+
+	Client Name
+	 Multiple-Clients:
+(Anchor, Appollo, Atul Auto,Neutral glass,RDCL,Sievert,SPL,Waree,ZeeTv,
+Shiva Pharma, Nitco,VIP,)
+
+
+	Position
+	 FI/CO -  Associate Consultant
+
+	Role
+	 Help Desk Team member
+
+	Project Duration
+	 July 2012 To January 2013.
+
+	Tasks
+	· Getting requirement of clients 
+· Solving the issues on day to day basis as per level 1, 2 & 3
+· Attending the calls of Clients and giving solutions on urgent basis.
+· Client visit as per requirement. Participated with technical consultants for modifications in outputs
+·    Creation of new payment terms for the business.
+· Creation of new Cash Journal and new configuration of new business transactions
+· House bank creation & configuration of APP.
+· Tax code creations as per the Indian taxation.
+· Year end and month end closing activities.
+· Involved in development requirements and explaining the same to technical consultants
+
+
+
+Domain Experience:
+
+
+
+Organization                  :   kvksn&co Pvt. ltd 
+
+Job Title                        :   Senior Accountant      
+
+Duration                        :   Jan 2008 - March 2012.   
+
+Roles and Responsibilities
+· Had  involved in Designing of Accounting System and setting the control procedure
+· Maintenance of books of account and preparation of Balance Sheet and Profit and Loss Account
+· Coordinating with Internal /Statutory Auditors.
+· Responsible for Monthly Reporting like Cash flow, Cash Budget, Sales Analysis, Inventory Analysis, Monthly Profit and Loss Account and Balance Sheet for Director.
+· Coordinating with banks and financial Institutions for Term Loans and Working Capital Loans.
+· Maintenance of Cash and Bank book and regular accounts.
+· Prepared Bank Reconciliation statement.
+· Individually handling of books of accounts up to income & expenditure Statement, balance sheet in coordination with external & statutory audits.
+· Maintenance of cash & bank payments, Bank reconciliation statement, vendor’s statements & correspondence with banks & parties.
+· Verification of Petty cash book on daily basis
+· Preparation of Summary receipts & Payments statement along with breakup of income & expenditure and Bank Reconciliation statement on monthly basis.
+
+
+
+
+Organization                   :    Akasam & Associates Charted Accountants
+
+Job Title                         :    Audit assistant
+
+Duration                         :    Sep 2000 - Dec 2003.    
+
+Roles and Responsibilities
+· Preparation of Accounts to the clients/Financial statements/monthly receipts and payments account/reviewed Cash Flow statements, net asset evaluation/ finalization of accounts.   
+· Auditing the accounts of companies
+· Bank audits and internal audits
+· Stock audits and Tax audit Assignments. 
+· Maintenance of Cash and Bank book and regular accounts.
+· Prepared Bank Reconciliation statement.
+Personal Memoranda:
+
+
+
+
+Name                 : Shanmukh Anand. Mavuri
+Nationality          : Indian
+Marital Status     : Married
+Languages          : English, Hindi, Telugu & Tamil
+
+
+I, Shanmukh Anand.M, solemnly confirm that above mentioned details are true and correct to the best of my knowledge.
+
+Shanmukh Anand
+Functional Consultant SAP-FICO.          
+
+3
+
+1/9
+

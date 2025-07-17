@@ -1,0 +1,120 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rahul Garg(3.3 Yrs Experience)
+
+Address: Prabhavathi Rishab Apartment, Roopena Agarhara Bangalore - 560068
+Mobile Number: +91-9620591675
+Email ID: rahulgarg.cse@gmail.com
+Objective
+Seeking for a challenging role in the organization that offers me generous opportunities to explore & outshine while accomplishing personal, professional as well as organizational goals.
+Educational Qualifications
+· B.Tech in Computer Science and Engineering (CSE) from Rajiv Gandhi Technical University, (RGTU) Bhopal in 2009-2013 with 70%.
+· 12th from State Board, Madhya Pradesh with 76.2%.
+· 10th  from State Board, Madhya Pradesh with  72.2%. 
+Technical Skills
+· Areas of Interest/Research: Machine Learning, Natural Language Processing , Data Structure , Algorithm 
+· Programming/ Scripting Languages: Python , C,  Core Java
+· Python Packages used: Numpy, Sci-kit Learn, Pandas, MatPlotLib
+· NLP Frameworks: OpenNLP, NLTK , ClearNLP , practNLP
+· Databases: MongoDB,SQL databases
+· Graph Databases: Neo4j, OrientDB
+· Machine Learning : Classification , Clustering
+Work Summary
+· Currently working as Software Engineer at Wipro Technologies Ltd. , Bangalore (July 2016 – Present) 
+
+Projects: 
+Working in the field of Machine learning and NLP for Wipro HOLMES – Artificial Intelligence Platform.
+ Roles and Responsibilities:
+   Worked on Machine Learning and Natural Language Processing solutions, including
+· Text Classification based on multiple algorithm including SVM, Naïve Bayes and Ridge and generate a confusion matrix for Classification accuracy.
+· Implementation and use of NLP concepts like Semantic Role Labelling , Dependency Parser and POS Tagger ,
+Syntax-tree and Named Entity Recognition (NER) customized for domain.
+· Sentence Boundary Detection from unstructured text using a combination of NLP and Machine Learning techniques, wherein NLP includes use of OpenNLP framework and ML include MaxEnt Classifier.
+·  Computing sentence similarity and similar sentence search using parse tree in binary tree form.
+· Sentiment Analysis and Intent Classification using N-Gram , Statistical Substring Reduction and using intent keyword. 
+
+
+Worked on Python solutions, including 
+
+· Data Curating and preparation, specific requirement.
+· Design and Implemented a general framework for Cognitive Search of large-scale versioned graph by using Cypher Query Language (CQL).
+· Normalize Html table based on row span and col span.
+· Join Html table based on primary and foreign key. 
+· Dynamic chat conversation on the table.
+
+Patent
+· Patent of dynamic entity extraction of text corpus using ML and NLP technique.
+
+
+
+· Worked as Junior Software Engineer at Textual Analytics Solutions (TAS), Bangalore. (June 2014 – July 2016)
+
+· Project Name: U.S. Securities and Exchange Commission (Edgar), Python/JavaScript/Html/CSS/MySql. 
+Description: Automating the analysis of data, which may be in the form of a text file, which contains xml, pdf, and html data. Signatures are created to analyze the data in a particular format and the signatures are applied overall input data to extract all the data matching the signatures and compare html files. 
+Roles and Responsibilities: 
+
+· Wrote CGI Python scripts to send data to JavaScript Ajax Requests
+· Used CGI python code to generate the signatures using group properties. 
+
+· Python script writing for Document Processing to process multiple documents 
+· Creating User Interface using HTML and JavaScript for display of data of documents processed 
+· Writing CGI –Python scripts for the backend of User Interface Created  
+· Python Scripts to fetch data from MYSQL and populate the UI 
+· Python script for data extraction from webpage using Urllib and Beautiful Soup and store into LMDB database.
+· Run automatic python script based on time.
+
+
+Personal Info
+   Date of Birth: 21 Feb 1990	
+    Marital Status: Unmarried
+Description
+ I hereby declare that the above written particulars are true to the best of my knowledge and belief.    
+                                                                                                                                                (Rahul Garg)
+

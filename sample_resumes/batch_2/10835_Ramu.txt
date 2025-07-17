@@ -1,0 +1,178 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ramu
++91-9553686233					E-Mail: ramsy2399@gmail.com
+Carrier Objective:
+
+Seeking a challenging position in your organization where I can effectively contribute my abilities and skills for mutual growth of the organization.
+	
+Professional Summary:
+
+· 3+ years of overall IT experience in Development by using Big Data Hadoop Ecosystems, Java technologies, SQL.
+· 1+ year of exclusive experience in Big Data using Hadoop and its components like HDFS, Spark, Yarn, Hive, Pig, Sqoop, Hbase and Oozie.
+· Experience in Hive data warehouse tool for creating tables, loading the files, partitioning, and writing the Hive QL queries.
+· Good knowledge in Spark framework using Spark Core and Spark SQL with scala.
+· Experience in writing PIG Latin scripts for implementing the data transformations, data cleaning, and data filtering.
+· Experience in using Apache Sqoop to import and export data from relational DBs to and from HDFS and Hive.
+· Experience on No-SQL databases Hbase and SQL databases like SQL Server, and My-SQL.
+· Experience in Oozie work flow to setting jobs for managing and scheduling Hadoop jobs.
+· Good working experience on Core java and oops concepts.
+· Excellent communication, interpersonal, analytical skills, and strong ability to perform as part of team.
+
+Professional Experience:
+
+· Working as a Hadoop developer with NTT Data Global Delivery Services Limited from July 2015 to Till Date.
+
+Qualifications:
+
+· B.Tech from Nalgonda Institute Of Technology and Science in 2015 with 65.40%
+· Intermediate from Board of Intermediate, AP in 2011 with 54%.
+· SSC from SSC Board of Andhra Pradesh in 2009 with 78%.
+
+Technical Skills:
+
+	Hadoop Technologies 
+	Apache Hadoop, Cloudera Hadoop Distribution
+
+	Hadoop Ecosystem
+	HDFS, Spark, Map-Reduce, Hive, Pig, Oozie, Yarn, Scala, Spark, Zookeeper, Apache Sqoop
+
+	NoSQL/ RDBMS 
+	Hbase,Oracle, SQL Server, MySQL,
+
+	Operating systems
+	Unix,Linx,Windows2003/2008, Windows 7
+
+	Programming 
+	Core JAVA, C#
+
+	Tools and Cloud tech
+	Eclipse, Salesforce technologies.
+
+
+
+Project Details:
+
+Project Name: IT360 Project
+Domain: Retail
+Client: NTT DATA Global
+Role: Hadoop Developer
+Tools Used: Hadoop, HDFS, Hive, Sqoop, Oozie workflow, Shell scripting, Java, SQL server, Linux, Cloudera.
+ 
+Description:
+ 
+IT360 Project Deals With the NTT Data Global Company Projects data and in this project.  We have analyzed almost all the NTT Data Global company projects related information from which we have developed the reports and dashboards to show the business their profit and losses. 
+The main Aim of this project is to maintain the centralized data lake, which contains all the data from all the sources to perform the various analytics. In this project we have loaded the data from sql server to the data lake as landing zone and finally these data loaded into certified zone, these final data will be used by MS-BI and tableau report to show business details.
+ 
+Roles & Responsibilities:
+                
+· Responsible for on boarding the data into HDFS from different source system which includes sqlserver using the SQOOP.
+· Responsible for maintaining / organizing the data in different layers of centralized data lake and jobs monitoring.
+· Created Hive Queries for loading data into external tables by using Hive.
+· Implemented Oozie workflows for our project.
+· Involved in scheduling jobs based on time and dependency.
+
+Project Name: Email marketing Campaign.
+Client: Sony Information system Europe
+Role: Hadoop Developer
+Technologies: Hadoop, HDFS, PIG, Hive, Sqoop, MySQL, Oozie, MapReduce.
+
+Description:
+
+The object of the application is analyzing email marketing campaign data for Sony electronics Europe.
+The entire Europe customers related information which includes solicitation history and details, about the individual being solicited and household information for individuals.
+The application purpose of migrating data from MySQL server DB to Hadoop  echo system for marketing team to analyze, planning, generate revenue and improve the business strategy.
+ 
+Roles & Responsibilities:
+ 
+· Participated in installing, configuring and managing Hadoop Ecosystem components    like Hive, Pig, Sqoop and Flume.
+· Migrated the existing data to Hadoop from RDBMS (MySQL server) using Sqoop for processing the data.
+· Developed PIG scripts for data analysis filtering and transformation.
+· Created Hive queries for analyze and load the data for BigData visualization reports
+
+
+
+
+
+Project Name: E-Health Care Advisor.
+Client: Hantropas Srl, Milan, Italy
+Role: java Developer
+Technologies: Core Java, Eclipse,Jdbc,Oracle
+
+Description:
+
+The main objective of the project is to develop internet based Health care Information System. This application helps to identify certain diseases by answering certain questions asked by the patient. 
+Based on the diagnose received the user will getting some suggestion of medicines that are available in the local chemist without prescription with an advice to visit the doctor.
+
+Roles & Responsibilities
+
+· Involved in the development of stored procedures, functions, collections and          Packages,Cursor in PL/SQL.
+· Involved in extensive coding using Oracle PL/SQL
+· Creation of Table,View and Meterilized view etc.
+· Involved in bugs fixing and resolving issues by testing
+· Writing business logic in XML and Java.
+
+
+PERSONAL PROFILE
+
+Sex				:  Male
+Father’s Name		:  M.Yadaiah
+Date of birth			:  20th  November 1993
+Nationality / Citizen		:  Indian
+Language Proficiency		:  English, Telugu
+Hobbies			:  Playing Cricket, Surfing Net
+Address			:  Gurrampode (V),
+                                            Nalgonda (D)
+                                            Telangana.
+
+```								

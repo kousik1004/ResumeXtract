@@ -1,0 +1,381 @@
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VITAE
+MD.T FAROOQUE	
+Address: JHBCS LAYOUT, 2ND FLOOR,
+6TH CROSS, NEAR JHBCS PARK AND PLAY GROUND, BANGALORE-560078  	  
+Email:kh.mdtanweer@gmail.com
+Phone: +91 9740981311        					                		
+		
+EXPERIENCE SUMMARY
+
+· 6+ years of experience in IT Industry in developing application using Java, J2ee,web logic, Jboss, Tomcat, Eclipse, IntelliJ,ANT,Maven, PuTTY,WinScp,Log4J, Soap UI, Git and SVN which includes 2+ years of experience in Big Data using Hadoop, Hive, PIG, Sqoop and Spark.
+· Hands on experience on major components of Hadoop Ecosystem like HDFS, HIVE, PIG, Sqoop.
+· Experience in analyzing data using HiveQL, PIG Latin.
+· Worked on importing and exporting data from different databases like Oracle, Mysql into HDFS and Hive using Sqoop. 
+· Written Hive and PIG queries for data analysis to meet the business requirements.
+· Worked on Spark SQL with various data sources like JSON,PARQUET and HIVE
+· Worked on Spark SQL to load data from various sources and create schema RDD and loaded data into HIVE Tables and handled structured data using  Spark SQL
+· Worked on Spark and Scala
+
+
+· Exposure in Cloud like Microsoft Azure
+
+· Hands on Experience in Developing Web Applications using JSP, Servlets, Struts and JDBC.
+
+· Hands on Experience in Struts Framework.
+
+· Hands on Experience in Hibernate Framework.
+
+· Hands on Experience in Spring Framework.
+
+· Good understanding of GOF Design Pattern
+
+· Exposure in Jenkins tool
+
+· Exposure to Web services
+
+· Exposure to JPA
+
+· Exposure to Junit
+
+
+PROFESSIONAL EXPERIENCE:
+
+Working with Mindtree Limited as a Module Lead from April 2017 to till date.
+
+Worked with Dubai Customs Dubai as a Senior Software Engineer from 0ct 2015 to Dec 2016.
+
+Previously Worked with Emirates Airline (Emirates Group IT) Dubai as a Senior Software Engineer, from Feb 2015 to 28 May 2015.
+
+Previously worked with Tech Mahindra (Formerly known as Mahindra Satyam) Bangalore as a Sr.Software Engineer, from Jan 2013 to Oct 2014.
+
+Previously worked with Accenture India Pvt Ltd, Bangalore as a Software Engineer, from July 2010 to Dec 2012.
+
+
+
+
+PROFESSIONAL QUALIFICATIONS						                      
+
+Bachelor of Information Technology (BIT) from Indira Gandhi National Open University in 2005.
+
+
+TECHNICAL SKILLS:						                      
+
+Operating System    	 : Windows98/2000/XP, 
+Programming Languages	 : JAVA 
+Big Data Technologies      : Hadoop (HDFS,Hive,Pig,Sqoop), Spark
+Web Technologies	   	 : Servlets, JSP, HTML, XML, Java Script
+Frameworks		          : Struts, Hibernate, Spring.
+J2EE Technologies	  	 : Servlets, JSP, JDBC
+Cloud	Computing	          : Microsoft Azure
+DBMS/RDBMS	        	 : MYSQL5.0, Oracle12c
+IDE Tools		          : Eclipse,IntelliJ
+Application/Web Servers	: Weblogic, JBoss, Apache Tomcat
+
+
+
+
+
+
+
+
+
+
+PROJECTS IMPLEMENTED SUCCESSFULLY 
+
+Project #1	                
+
+Title		 	: BagConnect
+Client			: SITA (Société Internationale de Télécommunications Aéronautiques)
+Environment	 	: Core Java,Spark SQL ,Hive,Pig and Sqoop, Spring, hibernate and webservices
+Build Tools		: Maven     
+Cloud			: Microsoft Azure 
+Tools			: PuTTY,WinScp
+Operating System	: Windows 7
+Team Size		: 5
+Duration		: April 2017 to Till Date.
+
+
+Description:
+
+BagConnect is a managed service that generates “pseudo-BSMs” for bags passing through transfer airports, if the original baggage source message (BSM) is not received by the airport’s automated baggage handling system in time to facilitate baggage sorting.
+
+Responsibilities:
+
+As a part of this team, I am responsible for: 
+
+· Importing and Exporting data from different databases like Oracle, MySQL into HDFS and Hive using Sqoop in respective cloud
+· Spark SQL to load data from various sources and create schema RDD and loaded data into HIVE Tables and handled structured data using  Spark SQL
+· Writing the Pig Scripts with joins on datasets 
+· Involved in computation and analysis part on Hive data using SPARK API
+· Writing the Spring components for wiring.
+· Writing the Services and DAO layers
+· Writing the hibernate components for database query.
+
+
+
+
+
+PROJECTS IMPLEMENTED SUCCESSFULLY 
+
+Project #2	                
+
+Title		 	: eMirsal
+Client			: Dubai Custom
+Environment	 	: Core Java,Scala,Hive,Pig and Sqoop, Spring, Hibernate and Webservices
+Build Tools		: Maven         
+Cloud			: MicroSoft Azure
+Tools			: PuTTY,WinScp 
+Operating System	: Windows 7
+Team Size		: 4
+Duration		: Oct 2015 to Dec 2016.
+
+
+
+
+Description:
+Emirsal is an application which provides the facility to automate the system of Dubai customs so that they can easily manage the export and import business, bill of entry, bill of lading details. Also managing all the details of traders, customers, those who are doing trade in Dubai. This application facilitates the Dubai customs to register the customers online by uploading the required documents for all kind of trades in Dubai.
+
+Responsibilities:
+
+As a part of this team, I was responsible for: 
+
+· Loading the files into HDFS in respective cloud
+· Writing the Pig scripts with joins on datasets 
+· Migrating the coding from Hive to Apache Spark and Scala using Spark SQL,RDD
+· Writing the Spring components for wiring.
+· Writing the Services and DAO layers
+· Writing the hibernate components for database query.
+
+
+
+
+
+
+
+
+PROJECTS IMPLEMENTED SUCCESSFULLY 
+
+Project #3	                
+
+Title		 	: Orc Setup & Calculation
+Client			: Emirates Airline
+Environment	 	: JAVA,Web services, Hibernate, Spring
+Build Tools		: Maven         
+Application Server	: Tomcat
+Operating System	: Windows 7
+Team Size		: 9
+Duration		: Feb 2015 to 28th May 2015.
+
+Description:
+The proposed project is to implement a standardised enterprise revenue accounting solution to simplify the current complex landscape of business processes and systems of dnRA (dnata Revenue Accounts) and the dnata Refund Team, thereby reducing the reliance on operational systems for finance processes. The solution will provide a scalable solution in alignment with the “One dnata” strategic concept which will facilitate dnRA to support its four lines of businesses (Travel, Cargo, Transguard and Airport) based in Dubai and dnata International Travel. The project will replace Protas in Dubai and the appropriate outstations. Profin (travel outstation back office system) will be replaced by the group standard Oracle Financials system. 
+Future scope includes other dnata subsidiaries leveraging the solution resulting in a consistent data view throughout the group.
+
+Objective 
+To define the solution for 
+Automating the process of calculating Over riding commission (ORC)  and 
+Automating the voiding process of Air and Non air documents for travel Line of business
+Automating the refund process  of air and non-air documents for travel line of business.
+
+
+Responsibilities:
+
+As a part of this team, I was responsible for: 
+
+· Writing the Spring components for wiring.
+· Writing the Services and DAO layers
+· Writing the hibernate components for database query.
+
+
+
+
+
+PROJECTS IMPLEMENTED SUCCESSFULLY 
+
+Project #4                
+
+Title		 	: Ordercom (BT.com)
+Client			: British Telecommunications Plc
+Environment	 	: JAVA, Web services, Hibernate, Spring
+Build Tools		: Maven         
+Application Server	: Bea Weblogic
+Operating System	: Windows 7
+Team Size		: 8
+Duration		: Sep2013 to oct 2014.
+	
+Description:
+	The my order team within BT Retails handle customers with open orders. Customers may phone in with queries or to make changes(e.g. appointment slot).Suppliers may send reject or delay codes, which may require contact with the customer.
+
+Ordercom would be capable of analyzing an entire order, including multiple  open and closed activities, multiple appointments over time, and multiple revisions over time. It will present the advisor with a summary of the order(What is the customer expecting),a history of the order(a timeline),an analysis of any next steps(e.g. open reach have proposed a new appointment time which needs confirmed with the customer),and another valid options(e.g. cancel the order; change appointment at customer request).
+
+The investment in ordercom will also benefit the customer facing self-serve order tracking capabilities on BT.com,eg. with an enhanced view of what the customer has ordered, enhanced messages around delays, and enhanced self-serve capabilities to change the order(e.g. accept a supplier initiated change of appointment slot).
+
+Responsibilities:
+
+As a part of this team, I was responsible for: 
+
+· Writing the Spring components for wiring.
+· Writing the hibernate components for database query.
+· Find out the violations in the existing java code using sonar and fix it.
+
+· Find out the code coverage using sonar.
+
+· Writing Junit test cases for java classes.
+
+
+
+
+
+PROJECTS IMPLEMENTED SUCCESSFULLY 
+
+Project #5	                
+
+Title		 	: Screening Web Interface (SWI)
+Client			: Thomson Reuters UK
+Environment	 	: JAVA, Web services, Hibernate, Spring
+Tools			: Jenkins          
+Web Server		: Tomcat
+Operating System	: Windows 2K
+Team Size		: 5
+Duration		: Jan 2013 to August 2013.
+
+Description:
+	The Thomson Reuters GRC Screening Web Interface is a hosted web service platform which provides an interface to screen clients against Thomson Reuters GRC’s global database of sanctions, enforcements and politically exposed persons (PEP). SWI provides organizations with the potential to improve business agility, integration, productivity and scalability by leveraging the benefits of the Thomson Reuters GRC’s global watch list screening database and associated matching engine alongside the capabilities of an SWI web service.
+
+The SWI service provides the following functionality:
+
+1. Screen a  single client name
+2. Screen batches of names 
+3. Save a name or names for ongoing screening 
+4. View match and audit history for all names screened 
+5. View full match record details for each match 
+6. Assign names for escalation or referral purposes
+Responsibilities:
+
+As a part of this team, I was responsible for: 
+
+· Build the java classes using Jenkins build for error.
+· Written Spring components.
+· Written DAO's with Hibernate.
+· Find out the violations in the existing java code using sonar and fix it
+
+· Find out the code coverage using sonar.
+
+· Written Junit test cases for java classes.
+
+· Developed web-Service components .
+
+· Prepared the sonar report for the existing java classes.
+
+
+PROJECTS IMPLEMENTED SUCCESSFULLY 
+
+
+Project #6	                
+
+Title		 	: Unified Frant End(UFE)
+Client			: ZON AO
+Environment	 	: JAVA, Jsp,Jsf Hibernate, Spring
+Web Server		: Tomcat
+Operating System	: Windows 2K
+Team Size		: 7
+Duration		: November 2011 to Dec 2012.
+
+Description:
+	The Project Unified Frant End(UFE) provides information to the several channels. It is composed by an application responsible for lodging the multiple business processes, making the complexity existing in the ZON business applications invisible for the user. There are two main components in the UFE Framework:
+
+1. Rich User Interface
+2. Application services
+
+
+Responsibilities:
+
+As a part of this team, I was responsible for: 
+
+· Designed JSPs for the Presentation.
+· Developed Spring Components.
+
+· Developed DAO’s With Hibernate.
+
+· Implemented Validations using JSF Validators.
+
+PROJECTS IMPLEMENTED SUCCESSFULLY 
+
+Project #7                
+
+Title		 	: Access Target State
+Client			: JPMorgan
+Environment	 	: JAVA, Jsp, Hibernate, Spring
+Web Server		: Tomcat
+Operating System	: Windows 2K
+Team Size		: 35
+Duration		: March 2011 to Oct 2011.
+
+Description:
+	The JPMorgan ACCESS Target State is intended to completely overhaul the current web channel capabilities for Treasury Services clients in order to improve competitiveness in the market, improve the overall client experience, and contribute to reduced cost of operating and developing our Client Access channels.  Key objectives include:
+· Provide a seamless client experience through a new UI and improved payments, information reporting and quick deposits functionality
+· Reinforce cash management market leadership position with ACCESS Target State 
+· Enable the retirement of “end of life” workstation products – Insight and JPMorgan Treasury Workstation (First Window)
+
+
+
+ Responsibilities:
+
+As a part of this team, I was responsible for: 
+
+· Designed JSPs for the Presentation.
+· Developed Spring Components.
+
+· Developed DAO’s With Hibernate.
+
+
+
+
+PROJECTS IMPLEMENTED SUCCESSFULLY 
+
+Project #8        
+
+Title		 	: Palm Apps catalogue Store
+Client			: Palm Inc, California,USA
+Environment	 	: JAVA, Jsp, Hibernate, Spring
+Web Server		: Tomcat
+Operating System	: Windows 2K
+Team Size		: 40
+Duration		: July 2010 to Feb 2011.
+
+Description:
+	There are two tracks in this project. Developer Portal and Apps Catalogue. In Developer Portal, Developers who want to develop any application on this developer portal must pay an annual fee to Palm and then they would be provided their own SDK (software development kit).
+Developer community would have access to developer portal through which they would market their applications (made available through apps catalogue) either for free or for some charge (one time charge or subscription based). In Apps Catalogue, All application developed and commercialized (whether free or as paid) would be available to Palm mobile users through apps catalogue list. All free applications (available in apps catalogue) downloaded and installed by a customer would not come to backend system. For all paid applications (again available in apps catalogue), customer would be charged some amount (one time charge or first month’s subscription charge for the desired application).
+
+ Responsibilities:
+
+As a part of this team, I was responsible for: 
+
+· Designed JSPs for the Presentation.
+· Developed Spring Service Components.
+
+· Developed DAO’s With Hibernate.
+
+
+DECLARATION			                      
+
+I hereby declare that the information furnished above is true to the best of my knowledge.
+          
+Place: Bangalore                                                      
+Date:     								
+                                                                           (Md. Tanweer Farooque )
+
+
+
+

@@ -1,0 +1,245 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document
+
+Curriculum Vitae  
+Ramya S	No.4/545-Muthamizh Nagar,
+                                                                                                Kodungaiyur, Chennai-600 118.
+Mobile No: 8550830999                     E-mail Id:ramyaedp@gmail.com
+
+PROFILE SUMMARY:                                            
+· With 5 years of experience in SAP Basis technology involving proactive monitoring and optimization of system performance and SAP R/3 administration.
+· Strong technical and problem solving skill backed by excellent communication and general management skills.
+
+SAP CERTIFICATION:
+SAP Certified Technology Associate :System Administration (ORACLE DB)-SAP Net Weaver 7.4
+ AtoS – SAP Authorized Training centre – Pune
+ (18th January 2016 – 19th February 2016)
+Modules Covered:
+TADM - 10 - SAP NetWeaver Application Server Implementation and Operation I
+
+TADM - 12 - SAP NetWeaver Application Server Implementation and Operation II
+TADM - 51 - SAP NetWeaver Application Server DB Operation (Oracle)
+Profile:
+· 5 years of SAP experience as SAP Basis administrator
+· 10 years in Information Technology + 2 years of overall experience
+Educational Credentials:
+1996-2000    B.E.       (Electrical and Electronics)   Annamalai University 
+2002-2005    M.B.A., (Systems)                               Annamalai University
+2008-2010    M.A.,    (Yoga in Human Excellence) Bharathiar University
+Software Exposure:
+Operating System   : Unix, MS-DOS, Windows 2003/2008 Server, NT, 98, 2000, ME, XP Prof, Vista
+Languages	: C, C++, Java
+Database                 : Oracle, MS - SQL Server,  MS Access, Raymedi Distributor
+GUI                        	: VB, SAP ECC 5.0, 6.0, SAP Net Weaver 7.4, SAP CRM 7.0
+Protocol	: TCP/IP, SMTP, HTTP, FTP
+Hardware	: HP PC's, Peripherals, IBM X260 Servers, Cisco routers, switch, Firewall,
+Bay Network switches, D-Link networking products, UTP and Fibre Cabling, UPS
+Telecom Domain	: IPLC, ISDN, VMux
+Technical Skills:
+ERP Packages:	
+SAP ECC Server 5.0, SAP ECC SERVER 6.0, SAP NetWeaver 7.40, SAP R/3 4.7EE, SAP CRM 7.0
+
+RDBMS:
+
+MS SQL Server 2000 Enterprise, Oracle 8.x, Oracle10.1.0.2, Oracle 11.2.0.4, Oracle 12.1.01
+
+Operating Systems:
+WinNT4.0, Win2000Adserver, Win2003 Server, Win2008 Server
+ 
+Organization: Atos India Private Limited
+Role: SAP BASIS Administrator	
+ 
+· Responsibilities include but not limited to the following:
+· CharM Change and Request Management. TR Imports through Solution Manager through CharM for CRM 7.0 landscapes from C Integration, Development, Quality to Production Server
+· Analysis of run time error dumps and provision of solution
+· Pre-Refresh and Post Refresh activities of integration and quality from     Production Servers
+· Migration activities of DB Restore.
+· Configuration of threshold activities to generate alert from Solution Manager.
+· SAP ERP systems installations and NETWEAVER administration - SSL configuration, SLD management JCo connections.
+· SPS upgrades , Kernel upgrades.
+· DB restoration, 
+· System Refresh experience.
+· TMS Configuration
+· iViews / Transport Roles.
+· SOX Compliance
+· EWA reports analysis and SAP notes to further improve the performance of SAP Apps.
+· Business Process and Consolidation (BPC) Component implementation and support, server readiness.
+· Defining and Scheduling Background jobs. Checking job Status
+· Configured Operation modes for Different Work Loads
+· Maintaining Profile Parameter
+· Responsible for Configuring and Maintaining TMS and moving Transports through the Landscape
+· Create and Maintain RFC connections.
+· Applying patches through SPAM/SAINT, perform SPAM/SAINT update, patching SAP GUI
+· Analyzing and applying Note for correction in the program
+· User administration like Creating Users, Maintain Users, Locking and Unlocking users
+· Creating Clients and defining Client Settings and also performing Local Client Copy, Client Export and Import
+· Remote Client Copy: Refreshing the data of a Development client with that of Prod Client using RFC
+· Performing Kernel Upgrading to the latest level
+· Configured Email from SAP System
+· Good knowledge of SAP Service Market Place
+· Managing the Lock entries and checking for Update errors
+· Daily Responsibilities also included Preparing Checklist, proactive System Monitoring, Analysing ABAP Dumps/System Logs, Optimizing System Performance, Buffer Tuning etc.
+· To raise Message/Error to SAP (via Service Market Place), communicating with SAP to solve the issue
+· 
+· Daily performing checklist activities monitoring/ maintenance of Servers.
+Operating system management, network and database administration 
+· Workbench and customizing transporta request creation administration. 
+· Monitoring SAP Background Jobs, Spool data, ABAP dump.
+· Client copies and administration.
+· Setup Network Printer and monitoring spool logs.
+· Assigning Authorizations to users 
+· Deletion of users and creation of users
+· Using profile generator to create a role.
+· Checking the missing Authorizations.
+· Maintaining Remote Connections to SAP
+· Registering New OSS Id's
+· Provision of Developer access Keys.
+· Preparing Daily System Health Check Report
+
+
+
+
+
+
+Organization: Villtera Technologies
+Role : Project Engineer - System Administrator
+· Responsibilities include but not limited to the following:
+Operating system management, network and database administration 
+	Daily performing checklist activities monitoring/ maintenance of Servers.
+· Installing and configuring of windows NT/2000/2003/2008 server and windows NT/2000 workstations.
+· Configuring and maintain Active Directory Services on Windows 2003. User Management on Windows 2003 server domain controller.
+· Implementing of group policies on windows 2003 server. Configuring DNS, DHCP and RAS.
+· Configuration of Terminal Services.
+· Exchange 2000 server configuration on windows 2000 server.
+· Implementing of fault tolerance by using RAID levels and backup management. Installing and configuring network printing and troubleshooting.
+Project Experience with R/3:
+Organization: Apex Laboratories Limited
+Role: SAP Basis Administrator: 
+EDP: System Support Engineer
+Responsibilities:
+· Responsibilities include but not limited to the following:
+· R/3−installation, operating system management, network and database administration  Daily performing checklist activities monitoring/ maintenance of SAP R/3 Servers.
+· Implemented and Installed Replicate SAP Production Server
+· Worked on Security implementation like creation of users and assigning authorizations according to module requirements using profile generator (PFCG) & (SUIM) and also checking the missing authorizations (SU53).
+· Performing transports between the development server, test / quality server and production server in three system landscape.
+· Ensuring Daily log checks and updates, Batch Job and Spool maintenance, SAP front-end (SAPGUI) maintenance and other housekeeping procedures (CCMS).
+· Maintaining the profiles and operation modes for production and batch window.
+· Workbench and customizing transport request administration.  Monitoring SAP Background CJobs, Spool data, ABAP dump.
+· Client copies and administration.
+· Setup Network Printer and monitoring spool logs.
+· Assigning Authorizations to users  Deletion of users and creation of users
+· Using profile generator to create a role.
+· Checking the missing Authorizations.
+· Maintaining Remote Connections to SAP
+· Registering New OSS Id's
+· Requesting Developer access Keys.
+· Preparing Daily System Health Check Report
+· Maintenance of Commgate Mail Server of Linux OS
+· Maintaining SAP Leased line link between Guindy and Alathur through maintenance of cisco routers, MLLN Modem v.35, Traditional Modem G.703 and Cisco switches for apex sites.
+· LAN , WAN and installation of other required hardwares are done
+· Implemented and Installed Replicate SAP Production Server
+· Migration after hardware upgrade
+· Data restore after migration of SAP ECC 5.0
+· Upgradation from SAP ECC 5.0 to ECC 6.0
+R/3 - SAP BASIS Skills:
+· Analyzing buffered and currently not buffered tables, monitoring buffered tables, monitoring buffer synchronization, activating buffering using ST-03.
+· Monitoring database locks, Activating and Monitoring Number range buffering, Configuring and Monitoring the ATP server.
+· Importing transport requests, importing support packages / Add-ons
+· Creating new clients, Local Copy, Remote copy
+· Creating users, Changes to users / Mass Changes, user assignment and user comparison, transporting roles
+· Transportation of requests
+· Updated Patches
+· Uploaded Support Packages for various Modules like BASIS, Human Resource, Finance and Controlling, Sales and Distribution, Production Planning, Material Management,Plant Maintenance.
+· Configured all types of printers to the corresponding users of the different modules.
+Organization	: Central Power Research Institute
+Role	: Project Engineer - System Administrator
+Windows NT/2000/2003 Administration
+· Installing and configuring of windows NT/2000/2003 server and windows NT/2000 workstations.
+· Configuring and maintain Active Directory Services on Windows 2003. User Management on Windows 2003 server domain controller.
+· Implementing of group policies on windows 2003 server. Configuring DNS, DHCP and RAS. Configuration of Terminal Services.
+· Exchange 2000 server configuration on windows 2000 server.
+· Implementing of fault tolerance by using RAID levels and backup management. Installing and configuring network printing and troubleshooting.
+Organization	: Videsh Sanchar Nigam Limited
+Role	: Graduate Engineer
+· Maintained International Private Leased Circuits(IPLC)
+· VMUX-Virtual Multiplexer
+· DCME-Digital Circuit Multiplication Equipment
+· DCC - Digital Cross Connect
+· Digital Radio
+· Video Conference service using ISDN Line
+· TV Transmission
+· Digital Communication Analyzer
+In International Transmission Maintenance Centre (ITMC), Gateway Digital Switching (GDS) ,Internet (GATEX) of VSNL
+Trainings Attended:
+· Undergone Inplant Training in ALSTOM Limited, T&D, Pallavaram, Chennai-600 043.
+· Attended Telecommunication training On DCME conducted by Mitsubishi
+· Attended CMM levels awareness training program
+· Attended UML and OOAD training program
+· Efficient communication Development Programme ECDP At NIIT
+Personal Details:
+	Name
+	: Ramya S.
+
+	Date of Birth
+	: 01-11-1978
+
+	Address
+	: No.4/545-Muthamizh Nagar, Kodungaiyur, Chennai-600118.
+
+	Marital Status
+	: Married
+
+	Husband's Name
+	: Madhan Raj S
+
+
+Over 12 Years of experience, of which 5 years in SAP as SAP BASIS Administrator Involved in SAP
+Implementation as a Core Team member of the nucleus team in Installation, Migration, Administration, Configuration, Planning, Testing, Backup and Restoring the data from Development to Production Server and Managing Systems Department.
+Ramya S.

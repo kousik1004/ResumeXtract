@@ -1,0 +1,312 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOHAMMAD KAPADIYA 
+mohammadkapadia@gmail.com 
+
+Contact No: +91-9096319052 
+
+          Certified LabVIEW Developer 
+ 
+
+  
+ 
+M.Sc. Electronic Science     Work Experience: 6 Years 10 Months. 
+ 
+Fergusson College, Pune (2008 - 2010)   GATE Qualified (February, 2013) 
+ 
+ 
+
+PROFESSIONAL OBJECTIVE 
+
+To seek a responsible and challenging position as LabVIEW developer, where my knowledge and 
+
+experience can be shared and enriched. 
+ 
+
+PROFESSIONAL EXPERIENCE 
+
+ 
+
+Organization Position From To 
+
+Knorr-Bremse Technology Center India Senior Engineer November, 2015 Till Date 
+
+KPIT Technologies Ltd.,  Pune Software Engineer December, 2013 November, 2015 
+
+Defence Institute of Advanced 
+Technology, Pune 
+
+Research Fellow September, 2012 October, 2013 
+
+Xtronics Imaging Systems, Mumbai R&D Engineer June, 2010 May, 2012 
+
+ 
+
+PROFESSIONAL SUMMARY 
+
+ Certified LabVIEW Developer (CLD) 
+
+ LabVIEW architecture designing. 
+
+ Deputation to customer site for requirement gathering and testing related 
+coursework. 
+
+ Design and development of LabVIEW p rograms  for different applications. 
+
+ Design and development of system test framework with NI-TestStand. 
+
+ Extensive development experience with different LabVIEW architectures including 
+
+L ab V IE W - O OP /G O OP ,  A ct o r  f ra me w or k  an d  LabVIEW- FPGA. 
+
+ Worked on PXIe, DAQmx, cRIO, FlexRIO etc, National Instrument’s hardware. 
+
+ Communication Protocols: CAN J1939, CANopen 
+
+ Worked on stages of SDLC in Agile methodology. 
+
+ Requirement Analysis, Test Plan Development, Test Management. 
+ 
+
+SKILLS & ABILITIES 
+
+Domain 
+Automotive, Hydraulic Valves, Digital Communication Protocols. 
+
+Platforms 
+NI-LabVIEW, NI-TestStand, LabVIEW-OOP, LabVIEW - Actor Framework, FPGA, NI-DAQmx, 
+cRIO, PXIe,  FlexRIO. 
+
+Software Tools 
+Enterprise Architect, Reqtify, CANalyzer, Version Control - Tortoise SVN.
+
+mailto:mohammadkapadia@gmail.com
+mailto:mohammadkapadia@gmail.com
+
+
+PROJECT CONTOUR 
+
+ 
+
+1. Automated Test Bench Development (November 2015 – Till Date) 
+Automated Test Bench development for the selected product range of the client.  
+
+LabVIEW controlled test environment including National Instruments’ and other third 
+
+party hardware. 
+
+Responsibilities: 
+
+ Requirement Analysis 
+
+ Design architecture for the entire system. 
+
+ Design and development of the multi-process LabVIEW programs. 
+
+ Leading the entire project. 
+Key Achievements: 
+
+ Employee achievement award for consecutive two quarters for outstanding work. 
+
+ 
+
+2. PVED-CX Series-4 Hydraulic Q-Lab (April 2015 – November 2015) 
+PVED-CX Series-4, a SIL2 certified product, is an application for Hydraulic Valves used in 
+
+many applications, mainly cranes. 
+
+Responsibilities: 
+
+ Requirement Analysis 
+
+ Design and development of LabVIEW framework for testing of PVED-CX valve on 
+
+hydraulic system. 
+
+ Estimation for LabVIEW development work. 
+
+ Test Plan Development. 
+
+ Regular Communication with clients. 
+
+ Leading and guiding LabVIEW aspects of the project in the entire team. 
+ 
+
+3. PVX System Test Framework (December 2013  - March 2015) 
+PVX is hydraulic valve group consisting two elements PXEP and PXEB.  PXEP is the Pump  
+
+valve which controls  the  Basic valves and  PXEB  valve is the  Basic valve responsible  for 
+
+controlling  the load in a PVX  valve group. 
+
+Responsibilities: 
+
+ Requirement analysis. 
+
+ Design and development of LabVIEW and TestStand framework for system testing 
+
+of PVX. 
+
+ Estimation for framework development work. 
+
+ Test Plan Development. 
+
+Key Achievements: 
+
+ Awarded WOW certificate for significant contribution in improving automation 
+
+development. 
+ 
+
+4. Digital Communication Schemes for  Airborne Telemetry (September 
+2012  - October 2013) 
+
+Digitization of an analog telemetry link for airborne application. The communication 
+
+scheme was implemented using NI-LabVIEW and FPGA hardware and tested on the 
+
+airborne platform. 
+
+ 
+
+ 
+
+ 
+
+
+
+Responsibilities: 
+
+ Requirement analysis for efficient communication scheme implementation on 
+
+FPGA. 
+
+ Design and development of LabVIEW   FPGA codes for digital communication 
+
+scheme on PXIe and FlexRIO system. 
+
+ Testing of codes on airborne system. 
+
+ 
+ 
+
+5. Digital X-Ray System (June 2010  - May 2012) 
+Capture an X-ray image and transfer it to host PC. Analog X-ray sensor data is read and 
+
+converted to digital with 14-bit ADC.  Image processing and other operations   are performed on 
+
+ARM11 processor running with embedded Linux OS. 
+ 
+
+Responsibilities: 
+
+ Bring up ARM board (DM355 Leopard) running with embedded Linux OS. 
+
+ Interfacing X-Ray sensor (CCD and CMOS) to an ARM11 processor having DaVinci 
+
+Image processing core (TMS320DM355). 
+
+ Linux Device Driver programming for DM 355 ARM board on Montavista Linux. 
+
+ Circuit design and development. 
+ 
+
+ACADEMIC DETAILS 
+
+ 
+
+Course Board/University Year of Passing Percentage (%) 
+
+M.Sc. 
+Electronic Science 
+
+University of Pune 2010 71.75 
+
+B.Sc. 
+Electronics 
+
+VNSGU, Surat 2008 72 
+
+HSC Gujarat Board 2005 54 
+
+SSC Gujarat Board 2003 79.29 
+ 
+
+ 
+
+CERTIFICATIONS 
+
+ 
+
+Certificate Organization Year 
+
+Certified LabVIEW Developer (CLD) National Instruments 2017 
+
+Certified LabVIEW Associate Developer (CLAD) National Instruments 2015 
+
+LabVIEW  Basic - I, Basic - II & FPGA Captronic Systems 2012 
+
+Linux Internals & Advanced  Programming Levana Technologies,  Mumbai 2010 
+
+Embedded Linux & Device Driver Programming Levana Technologies,  Mumbai 2010 
+ 
+
+ 
+
+ACHIEVEMENTS 
+
+ 
+
+ GATE  qualified (February  2013) 
+
+ Secured second rank in M.Sc., Fergusson College, Pune.  (Year 2010) 
+
+ Was awarded a Gold medal in second year (Year 2007) and final year (Year 2008) of 
+B.Sc. 
+
+

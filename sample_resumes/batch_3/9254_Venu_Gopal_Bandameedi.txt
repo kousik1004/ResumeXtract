@@ -1,0 +1,241 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAP BASIS/HANA Administration
+Venu Gopal Bandameedi
+Flat no 501, RR habitat
+Kompally
+Hyderabad-500014
+Mob: 8019888551
+Email: venudenysha@gmail.com
+Objective: 
+To achieve high career growth in the organization and to utilize myself as a resource for leading, coordinating & executing challenging projects by upgrading my knowledge & skills from time to time. Also, to learn & to implement new technical skills for personal development & for the benefit of the organization. A typically strong aptitude for direct co-ordination strengthened and fortified by the will to be recognized.
+Professional experience:
+· 3 years of IT experience in SAP BASIS with exposure to realization tasks such as SAP & DB installations, SAP release & EHP upgrades, implementations & integration of third party products with SAP Netweaver.
+· Currently working as a SAP Basis Associate Consultant in DXC India Pvt. Ltd & performing the responsibilities for my team.
+· Bluescope steel(Australia), my current customer has defined very stringent SLA’s for the performance of the systems.
+
+· In my current role, I am mainly responsible leading, managing, planning, & also for integration of third party products with SAP Netweaver. I also handle issues related to performance tuning of the customer systems.
+· I am supporting Bluescope for a range of activities ranging from daily monitoring, transports, incident management, change management, handling the Change Advisory Board meeting.
+· Had been working as a SAP Basis consultant and a change & incident manager dynamically involved in activities like Homogenous system copy, Installation of SAP, Kernel upgrade, Support pack upgrade, database administration and troubleshooting issues on SAP to name a few.
+· Possess a very good analytical bent of mind with excellent communication skills
+System experience and proficiency:
+	Operating Systems
+	AIX, HP-Unix, SLES, Redhat Linux 6.9
+
+	Database
+	Oracle (12c), DB2 10.5, MaxDB, HANA DB
+
+	Technology
+	SAP ERP 5.0,  SAP ECC 6.0 EHP5,  SAP SCM 5.0/7.0, SAP BW/BI 7.3/7.31, SAP Process Integration 7.1/7.3/7.31, SAP Solution Manager 7.01/7.1, SAP Netweaver AS Java 7.01 to 7.31,  SAP Composition Environment 7.1/7.11
+
+	Training
+	· SAP Netweaver administration in CSC India Pvt Ltd
+· HANA Administration at OpenSAP
+· Managing ABAP based system administration at OpenSAP
+· S/4 HANA Deep dive at OpenSAP
+
+
+Academic Background:
+· Completed Bachelor of Technology in  Computer Science and Engineering from Mallareddy College of Engineering, affiliated to JNTUH University –Year 2014 with 71% (distinction)
+
+· Intermediate school certificate (M.P.C) – Year 2010 from AP State Board of Secondary & Higher Secondary Education –with 83% (distinction)
+
+· Secondary School Certificate (S.S.C) - Year 2008 from AP State Board of Secondary & Higher Secondary Education – Jeevadan High school, with 85% (distinction)
+Experience:
+	Current Organization
+	DXC Technology company
+
+	Designation
+	Associate Consultant
+
+	Duration
+	09/2014 - Till Date
+
+
+Achievements & Appreciations:
+
+· “Certificate of Appreciation” awarded by Bluescope customer
+
+· Certificate of appreciation “Accolade – Spot Award” awarded by DXC technology in June 2016
+· Certificate of appreciation “Accolade - Team” awarded by DXC technology and promoted In September 2016
+Project experience:
+	Organization
+	DXC Technology company (former CSC India Pvt Ltd)
+
+	Client
+	Bluescope (Australia)
+
+	Duration
+	September 2014 - till date
+
+	Technology
+	SAP:  ECC, EP, CE, GRC, SRM, BW, PI, BI, HR, APO/SCM, EC, EHS CRM, Solution manager
+
+DB:    Oracle (12c), DB2 10.5, MaxDB, HANA DB
+OS:    AIX,  SLES, 
+
+	Project Description
+	This is a project involving stringent SLA’s w.r.t to performance of the systems. I am responsible for leading, managing, planning, coordinating & executing all the project activities in the team. I handle performance tuning & issues related to performance for the customer systems. I am also involved in realizing SAP Netweaver projects & integrating third party products with SAP.
+
+	Projects
+	· SAP NetWeaver ABAP and Enterprise portal JAVA from 7.1 to 7.4 SP16 upgrade. 
+· SAP ECC and SRM system copy within landscape for version 7.3
+
+· DB2 version upgrade and FP level update
+
+· AP0 live cache backup and restore using MAXDB
+· Printer Administration, creating printers/OS level Queue, Testing from sap level
+
+· Solman version upgrade from 7.1 to 7.2 & post-configuration
+
+· Dual Stack Split Enterprise portal 7.1
+
+· Managing Quarterly IM release (Kernel upgrade, SAPJVM switch, Kernel 720 version 
+switch, ST-PI/ST-API updates, security notes application)
+
+
+	Responsibilities
+	· Leading, planning, coordinating, executing projects
+· Troubleshooting SAP Netweaver ABAP, Java & ABAP + Java related issues
+
+· Performance Tuning for SAP Netweaver ABAP, Java, ABAP + Java on different releases
+· SAP ECC/SRM system copy with corresponding Livecache system copy
+· SAP system refreshes backup and Restore using Hitachi CommVault and Veritas NetBackup tool
+· SSO configuration between SAP ABAP & SAP AS Java systems for different SAP releases
+
+· Early Watch analysis & consolidation of recommendations for the customer landscape
+
+· Performance and Capacity planning for customer landscape
+
+· SPAM/SAINT updates and ECC SE 605 Addon installation XI/PI transports into Integration Builder
+
+· SLD configuration, update & troubleshooting
+· EWA alert & system monitoring configuration in Solution Manager
+
+· STMS configuration
+
+· ABAP & Java support package stack & support pack upgrades
+· Printer Administration, creating printers/OS level Queue, Testing from sap level
+
+· 24x7 offshore support
+
+· Worked with Config Tool, Visual admin Tool, SDM, JSPM
+
+
+Project 2 experience:
+	Organization
+	DXC Technology company (former CSC India Pvt Ltd)
+
+	Client
+	Kmart (Australia)
+
+	Duration
+	September 2016 - till date
+
+	Technology
+	SAP:  ECC 6.0, BI 7.0, PI 7.1, SOLMAN 7.1, EP 7.4
+DB: Oracle 12C
+OS:  Redhat Linux 6.9
+
+	Project Description
+	Kmart Australia Limited is an Australian chain of discount department stores, owned by Wesfarmers. It operates 214 stores in Australia and 20 in New Zealand, with its head office located in Mulgrave, Melbourne.
+
+	Projects
+	· Installation of new NetWeaver 7.4 SAP systems.
+· Applying ABAP support packages using SUM Generation and Edition of stack XML file Applying JAVA support packages using JSPM 
+
+· Solman version upgrade from 7.1 to 7.2 & post-configuration
+
+· DR build and Test
+
+· Oracle Patch update
+
+· Open text IXOS archive server administration
+
+
+	Responsibilities
+	· Transport Management: SAP/OS transports, importing transports from OS level or from SAP
+
+· OS administration: housekeeping, CPU/ Disk space utilization and memory utilization
+· Performance, Availability and Capacity planning reports
+· Handling system issues, troubleshooting and Basis tasks, monitoring progress of background jobs and taking necessary actions
+· User Administration: Creation, Lock, password, role creation
+· Troubleshooting SAP Netweaver ABAP, Java & ABAP + Java related issues
+
+· Performance Tuning for SAP Netweaver ABAP, Java, ABAP + Java on different releases
+· ST-A, ST-A/PI patches and recommended notes from RTCCTOOL Generating and analysis EWA Report of Production SAP Systems
+· Service market Place to Download the Various Support Packages, Kernel Patches,
+
+        Generating License Keys, Migration Keys, SSCR keys, Opening OSS Connection etc.
+· Co-ordinating with functional teams in SAP Finance, Logistics, Retail, SRM, BW, PI.
+
+
+
+
+Personal Profile:
+
+	Name
+	Venu Gopal Bandameedi
+
+	Email Id 
+	venudenysha@gmail.com
+
+	Date of Birth
+	25/12/1991
+	
+
+	Passport 
+	Available
+	
+
+	Location
+	Hyderabad, India
+	Mobile : +91-8019888551
+
+
+

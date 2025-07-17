@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+K.Siddikraja
+
+		
+Mobile: +91-6380624467, 
+E-mail: msdsiddik@gmail.com
+
+Address:1879 ,3rd Main road, M.M.D.A, Mathur, Chennai - 600 068.
+
+OBJECTIVE:
+		Computer software engineer with 2 years experienced in Mobile App Development. Able to design and implement software to achieve constantly changing business objectives.Have ability to quickly learn and apply new technology.
+
+COMPUTER/TECHNICAL SKILL SET:
+
+Operating Systems		: Windows 10,Windows 8, Windows 7
+Programming Languages 	: Java, C++,
+Web Technologies		: HTML, CSS,JavaScript, Jquery, Ajax 
+IDE				: Android Studio, Eclipse, VS Code
+Framework                             : React Native, Cordova, Framework 7, Materialize css
+
+
+PROJECT WORKS:
+
+Pocket Salah: Pocket Salah is a Islamic based app. It's has a essential features for Muslims day by day prayers, through to your pocket. Pocket Salah offered Quran, Tafsir, Qibla compass, Prayer Timing, Nearest Masjid.
+Technology used: 
+· Volley Networking Library.
+· Google Location Api.
+· Accessing User Mobile Sensor for Finding North Direction
+· Third Party Api For Prayer Timing.
+
+Epod: Eopd is Logistic company based app. It allows, track the employee Intime, outTime, and Number of shipment he delivered. And also, Employee can get the customer signature from mobile phone itself. If is the shipment is damage employee can take the photo and send it to the corresponding authority.
+
+Technology used:
+· Barcode scanner for assigning job to employee .
+· Capture and upload damaged shipment photo to server.
+· Signature Library for getting customer Signature.
+	
+Autobuy Appraisal: Autobuy Appraisal app is the perfect solution to reduce human error that may occur during a appraisal. It offers a simplest way to appraise a car, bike or anything with wheels.
+Technology used: 
+· VIN scanner for fetching customer details .
+· Capture and upload vehicle images to CRM.
+· Ajax (SOAP) web service used for fast retrieve and manipulate data.	
+
+R3PORTS: R3ports is designed to allow employees to automatically clock in via their phone or tablets bluetooth to provide managers an alternative way to hours worked for each shift. This will save time and the headaches that revolve around using punch cards, Spreadsheets or other options to run your payroll.
+Technology used:
+· Working with ESTIMOTE beacons.
+· REST Api.
+
+Android Book Recommendation System Using Collaborative Filtering Approach: The primary aim of the project is to develop a book recommender system with android client to generate recommendations based on previous book loan records of the user.
+Technology used: Android and Data Store.
+
+CERTIFICATION COURSES:
+
+· Certification course completed in JAVA at Talent Sprint.
+· Certification course completed in ANDROID MOBILE DEVELOPMENT at FITA
+
+
+EDUCATION:
+Bachelor in B.TECH /IT, SA Engineering College (2011 - 2015)
+Higher Secondary, Government Higher Secondary School (2009 - 2011)
+SSLC, Government Higher Secondary School (2008 - 2009)
+
+WORK EXPERIENCE:
+MAY 2017 to Till - eBMS Solution Pvt Ltd, Chennai.
+Mobile App developer  - Working both Android native apps and hybrid apps(React Native, Cordova). 
+Developed apps from scratch.
+Currently Working React Native framework. 
+ 
+APR 2016 to APR 2017 - RCK Techiees, Chennai.
+Mobile App developer -worked has a mobile app developer, developed IOT based apps.
+Maintaining and debugging existing apps.
+
+PERSONAL DETAILS:
+Date of Birth	:		08/04/1993
+Father’s Name	:		Mr.A.Kaja Mohideen
+Nationality		:		Indian
+Mother Tongue	:		Tamil
+Language Known	:		English, Tamil
+
+
+
+
+DECLARATION:
+                                 I  here by  declare  that  all  the  information  mentioned  above are  true and  correct to the best of my knowledge.                         
+									
+Authentically,
+												K.SiddikRaja

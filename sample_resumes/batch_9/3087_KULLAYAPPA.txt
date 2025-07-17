@@ -1,0 +1,335 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A CORESTAFF, Inc
+
+
+
+
+Resume
+                                                                KULLAYAPPA	
+                                                                                                         Mail ID:kullayappa35@gmail.com
+                                                                                                Mobile1: +918639275562.
+     							
+				
+SUMMARY
+
+· Possess 6.5 years of working experience in Information Technology
+· 2.5 years of experience in BigData (Cloudera:HDFS, Hive, Hbase,MongoDb,Sqoop) and Apache Spark(SCALA)
+· 4 years of experience in Pentaho BI Suite and with strong knowledge of Data Warehousing concepts. Good  experience in coding flexible ETL solutions, designing data models using PDI Kettle (ETL) and Talend.
+· Worked on whole Pentaho BI suite (PDI,Schema Workbench, Metadata editor, Report Designer)
+· Good exposure to Unix Environment. 
+· Working knowledge on Tableau, Qlikview
+· Good knowledge in Data warehousing concepts
+· Ability to quickly grasp any technology and application to which introduced to.
+· Having good exposure to QA activities that includes Requirement Analysis, Use Cases preparation, Execution and Finding new Features available in the tools and analysis based on the performance, cost and the time limit.
+· Excellent Team Player by constantly taking up challenging assignments and continuously upgrading technical, domain and personal skills.
+
+
+EDUCATIONAL QUALIFICATION
+	Title of the Degree with Branch	College/University		      Year of Passing	
+  MCA                                                        VITS/                                              2010
+                                                            /JNTUA
+
+
+CERTIFICATIONS
+
+· Cleared Cognizant Certified Professional in Data warehousing Testing practitioner. 
+· Cleared Cognizant Certified professional in MANLOG vertical.
+· Got Certificates in Informatica power center and data warehousing under Brain bench cognizant.
+
+EMPLOYMENT HISTORY
+Hexaware technologies.
+1. Designation			: System Analyst
+                 Duration			:  Mar 2018-present
+BNY Mellon Technologies.
+2.     Designation			: Tech Lead 
+                 Duration			:  Dec 2016-Mar 2018
+
+ Reliable Tech Solutions(M) Sdn Bhd. Kaula Lampur, Malaysia. 
+3.     Designation			: Analytics Consultant  
+                 Duration			:  Apr 2014-Dec 2016
+ Cognizant Technology Solution 
+4. Designation			: Programmer Analyst 
+              Duration			: Apr 2011 to July 2013
+    
+SKILL SET
+	Operating Systems
+	Windows,Ubuntu,CentOS
+
+	Scripting
+	Scala, Unix Shell scripting, Python and R
+
+	Big Data technologies
+	Hadoop Cloudera(Hive,HDFS,Sqoop,PIG). Spark framework(Spark SQL,Sparak Streaming)
+Databases types: Avro ,Parquet, MongoDB, Hbase. 
+
+	RDBMS
+	PostgreSQL, Oracle
+
+	Data ware House Tools
+	ETL:Pentaho Data Integration, Talend, Data stage.
+Reporting: Tableau, Qlik , Pentaho reports(Analyzer, Ad-hoc)
+
+	Scheduling tools
+	TWS, Control M
+
+	Version control systems
+	SVN, GIT, GITHUB, BitBucket
+
+
+
+
+
+
+
+
+PROFESSIONAL TRAINING
+Training programs undergone 
+· Data Warehousing (ETT) training conducted by Cognizant Academy.
+· Have completed classroom Training on SAS,Cognos, and Informatica at beginner level from Cognizant Academy.
+
+PROJECT PFOFILE
+
+PROJECT 1
+	Project Name 
+	
+1CAAP Advanced Analytics
+
+	Client
+	Cognizant Technology Solutions
+
+	Tools and Technology
+	Pentaho BI Suite ,Postgresql
+
+	Role
+	ETL developer, Report and dashboard developer
+
+	Location
+	Chennai, Cognizant – Navalur
+
+	Duration
+	May-2011 to July 2013
+
+	Roles and Responsibilities 
+	ETL Developer:
+1. Involved in designing and development of complex ETL structures for transformation of data sources into data warehouses. 
+2. Conducted reviews of database designs and system integration issues for further improvements. 
+3. Implemented procedures for validation, reconciliation of metadata and error handling in ETL processes. 
+4. Tuning jobs. 
+
+
+
+
+Project Scope 
+GIT Description:
+Global Immigration Team (GIT) is a reserve computation tool which can be used to collect information about employees who visited onsite and all the details like visa type, travel type, travel time, travel location etc. In order make efficient decision. 
+
+
+
+PROJECT 2 3
+	Project Name 
+	
+SKALA
+
+	Client
+	Jabatan Kerja Raya
+
+	Tools and Technology
+	Pentaho BI Suite ,Postgresql ,Talend
+
+	Role
+	ETL developer, Report and dashboard developer
+
+	Location
+	Bandarya,Kaula lampur
+
+	Duration
+	Apr 2014 to April-2016
+
+	Roles and Responsibilities
+	ETL Developer:
+1. Involved in designing and development of complex ETL structures for transformation of data sources into data warehouses. 
+2. Conducted reviews of database designs and system integration issues for further improvements. 
+3. Implemented procedures for validation, reconciliation of metadata and error handling in ETL processes. 
+4. Tuning jobs. 
+
+Data Modeler:
+1. Involving in discussions with Customers and understand their requirements. 
+2. Designing and creating fact and dimension tables and also data models accordingly which will be used by end users for Reporting and Dashboarding.  
+3. Good at implementing Star schema and Hands on experience in designing and developing OLAP cubes using Pentaho schema workbench.
+4. Built data models using pentaho meta data editor for Ad-hoc reporting.
+
+
+
+
+
+Project Scope 
+SKALA DESCRIPTION:
+                              SKALA is a Project Monitoring System used by Public Works Department to monitor the implementation of the project from the planning, design, procurement, construction up to project delivery. In this project, Reliable developed a Business Intelligence system on SKALA and it covers an end-to-end process from the data extraction, transform and loading process, to the presentation of the information in rich visualization displays via graphical and statistical reports, interactive analysis reports, predictive analysis reports and user dashboards The system is developed using Pentaho Business Intelligence Suite and it is integrated with the existing SKALA system allow for single sign on and Google Maps to provide Location Intelligence.  
+PROJECT 3 3
+	Project Name 
+	
+OFSAA FTP
+
+	Client
+	BNYM
+
+	Tools and Technology
+	Hive, Sqoop, SPARK, Kibana, Talend
+
+	Role
+	ETL Lead
+
+	Location
+	Ascendas , Chennai
+
+	Duration
+	Decmber-2016 to March 2018
+
+	Roles and Responsibilities 
+	Big Data Developer:
+
+· Created Hive queries that fetches metrics to be used by the business people.
+· Created reports for the BI team using Sqoop to export data into HDFS and Hive.
+· Created HBase tables to load large sets of structured, semi-structured and unstructured data coming from UNIX, NoSQL and a variety of portfolios.
+·  Used to deal with different data formats like Avaro, Parquet. 
+· Worked with Impala and Hive. 
+SPARK with SCALA:
+· Composed scala scripts to compare tables and display mismatching field details. 
+· Implemented ETL functionalities using Spark SQL.
+· Developed a script to stream the data from HDFS using Spark streaming. 
+· Developed Scala scripts, UDFFs using both Data frames/SQL/Data sets and RDD/MapReduce in Spark 1.6 for Data Aggregation, queries and writing data back into OLTP system through Sqoop.
+· Optimizing of existing algorithms in Hadoop using Spark Context, Spark-SQL, Data Frames and Pair RDD's.
+· Experienced in handling large datasets using Partitions, Spark in Memory capabilities, Broadcasts in Spark, Effective & efficient Joins,Transformations and other during ingestion process itself.
+· Used various spark Transformations and Actions for cleansing the input data.
+
+
+
+
+Project Scope 
+OFSAA  DESCRIPTION:
+
+The purpose of this project is to implement and deploy Oracle Financial Services Analytical Applications Infrastructure(OFSAAI), OFSAA Funds Transfer Pricing module to calculate funds transfer pricing at the instrument and general ledger levels for the whole balance sheet and provide Net Interest Revenue for management reporting, and OFSAA General Ledger Reconciliation (GL Recon) module to reconcile general ledger and instrument level account data This software package is set to replace the current PeopleSoft EPM FTP system which is being sunset by Oracle.
+
+
+
+
+
+PROJECT 4 3
+	Project Name 
+	
+AFC Analytics
+
+	Client
+	Deuache Bank
+
+	Tools and Technology
+	Hive,spark,Tableau
+
+	Role
+	System Analyst
+
+	Location
+	Siruseri , Chennai
+
+	Duration
+	March-2018 to Present
+
+	Roles and Responsibilities 
+	Big Data Developer:
+
+· Created Hive queries that fetches metrics to be used by the business people.
+· Created reports for the BI team using Sqoop to export data into HDFS and Hive.
+· Created HBase tables to load large sets of structured, semi-structured and unstructured data coming from UNIX, NoSQL and a variety of portfolios.
+·  Used to deal with different data formats like Avaro, Parquet. 
+· Worked with Impala and Hive. 
+SPARK with SCALA:
+· Composed scala scripts to compare tables and display mismatching field details. 
+· Implemented ETL functionalities using Spark SQL.
+· Developed a script to stream the data from HDFS using Spark streaming. 
+· Developed Scala scripts, UDFFs using both Data frames/SQL/Data sets and RDD/MapReduce in Spark 1.6 for Data Aggregation, queries and writing data back into OLTP system through Sqoop.
+· Optimizing of existing algorithms in Hadoop using Spark Context, Spark-SQL, Data Frames and Pair RDD's.
+· Experienced in handling large datasets using Partitions, Spark in Memory capabilities, Broadcasts in Spark, Effective & efficient Joins,Transformations and other during ingestion process itself.
+· Used various spark Transformations and Actions for cleansing the input data.
+
+
+
+
+Project Scope 
+AFC Description:
+
+The MI & Reporting project (work stream  3.6) is a sub-work stream of the BAU Governance work stream of the Project Mercury initiative which has been established by Deutsche Bank’s (‘DB’s’) Management Board to develop and improve the systems and controls used to reduce the risk of financial crime in the bank. As a whole the Initiative will address a number of complex requirements and will be global in scope
+Architecture of the application has been detailed in the Product Architecture Document Mercury MI, which describes in detail the architecture, decision points, components that will make up the solution.
+
+
+Personal Details
+
+Name                                         :   Kullayappa Munagamani
+Father Name                              :   Nagaraju M
+DOB                                          :    05-06-1987
+PAN No                                     :   BHEPM5668J
+Gender                                       :    Male
+Marital status                             :    Married
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                          Kullayappa.
+                                                                                                                                                           (Signature)
+Page 7 of 8
+

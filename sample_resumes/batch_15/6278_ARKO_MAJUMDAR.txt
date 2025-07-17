@@ -1,0 +1,78 @@
+
+
+
+
+
+
+
+
+ARKO MAJUMDAR
+Address: 1, K.K. Majumdar Road. Kolkata-700075
+Phone No:  +91-9614911510, +91-8910802709
+Email id: arkoscorpio5@gmail.com
+Date of Birth: 5th Nov 1991
+
+	Academic Qualification
+
+
+
+	Degree
+	Institute
+	Board/ University
+	Year
+	Percentage
+
+	B. Tech.,Electronics and Instrumentation 
+	Greater Kolkata College of Engineering & Management
+	West Bengal University of Technology
+	2013
+	79.5
+
+	Higher Secondary Examination
+	Nava Nalanda High School
+	West Bengal Council of Higher Secondary Education 
+	2009
+	76.2
+
+	Secondary Examination
+	Nava Nalanda High School
+	West Bengal Board of Secondary Education
+	2007
+	84.5
+
+
+	
+	Work Experience
+
+	Assistant Engineer (electronics), Ingenious Minds Consultants Pvt Ltd (July 2014 – Present). 
+Roles and Responsibilities: Coding microcontrollers, designing hardwares and providing after-sales support.
+
+	Training and Projects
+
+	Training:
+· Indian Railways (June – July 2012): Signaling
+· Siemens (December2011 – January 2012): PLC (S7-300), autonomous car parking using PLC
+Projects on:
+· Smart street light solutions (Hardware designing and coding).At night, the light glows with full luminance,  during day the lights turn off automatically. AT892051 (20 pin 8051) was used.
+· Panic switch with GSM alert (Hardware designing and coding).It is a switch which provided to the air conditioned cabs. Whenever the driver or the passenger predicts any danger, pressing this button will directly send an SMS to the concerned authority. . A GSM Module and an Arduino UNO is used.
+· Fuse Link Detector with SMS alert (Hardware designing and coding)This project was used for Indian Railways. Whenever the primary fuse is disconnected, the line is shifted to the auxiliary fuse and an SMS is sent to the authorized person. A second SMS is sent when the secondary fuse also blows off. A third SMS is sent when the fuses are replaced. A GSM Module and an Arduino UNO is used.
+· Sun Tracker (Hardware designing and coding) Using LDR sensor, the location of the sun is determined and likewise  the angle of the solar panel is shifted. The controller card used over here is Arduino UNO.
+· Food processor using PLC and SCADA. An Allan Bradley PLC (programmed with ladder logic) is used to control the movements of a conveyor belt and three solenoid valves which executes three processes.
+
+
+	Extra-Curricular Activities
+
+	2011 – Participated in Kshitij (Technical festival of IIT Kharagpur)
+2011 – First runner up for Robotics at Daksh (Technical festival of Heritage Institute of Technology, Kolkata)
+2012 – Core member of organizing committee of the technical festival of Greater Kolkata College of Engineering & Management, with  70 students participating.
+
+	Software Skills
+
+	Language-C, embedded C, Assembly , Ladder Logic
+Operating system –Windows xp, Windows 7,Windows 10
+Packages-Keil, Cadstar ,Tina ,Versapro, Arduino.
+
+
+
+DECLARATION: I hereby declare that the aforementioned information is correct to my knowledge and belief
+Arko Majumdar

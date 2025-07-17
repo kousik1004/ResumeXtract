@@ -1,0 +1,477 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ninad  Manapure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Ninad  Manapure
+
+
+
+
+                            Mobile : +91- 9370999039, e-mail: ninadmanapure@gmail.com 
+Objective
+
+To obtain a leadership position that will enable me to use my previous experience with ability to drive team to make a positive contribution to the organization. 
+Expertise 
+
+· Networking (Design, planning, implementation and administration)
+
+· Telecommunication
+
+· Linux System Administration
+
+· Information Security
+
+· Project Management
+ Career History
+1) Persistent systems  ltd 
+
+Duration        :     1st  Oct  2004  till  date 
+
+designation  :     Technical manager
+responsibilities  :  
+
+Heading IT operations of Nagpur Center
+· Corporate server administration 
+
+· Network design, planning, implementation and administration
+· Ensuring highly reliable and available infrastructure (LAN/ WAN, telecommunications, etc. 
+
+· Implementing information security polices and best practices and  manage and ensure compliance with regulatory requirements, best practices, and policies and procedures
+· People management
+
+· Objective settings, sub-ordinate appraisals and attrition management
+· New infrastructure design, planning, procurement and implementation
+
+· Implementing industry best practices in IT and Information Security
+
+· Creating and maintaining document for ISMS and Quality management 
+
+· Execution and planning of disaster recovery drills and Business Continuity Planning
+· Vendor management
+· Quarterly and yearly budgeting for location IT requirements
+· Participating in strategic planning for IT Department and IT Budgeting for Nagpur Center 
+· Conducting induction session for new joinees for IT and Information Security
+
+· Working closely with internal customers to understand their needs objectively and to translate them into technology solutions 
+· Facing Information Security and Quality management internal and external audits
+
+· Capacity planning
+· Service provider engagement and coordination
+· Conducting technical training sessions for project and IT teams
+Awards and Recognitions
+
+· Received appreciation from Executive VP (CIO) for exceptional contribution to IT Department
+
+· Received award for significant contribution during merger of IIPL
+
+· Appreciation award for contributions in process of ISO 9001 and 27001 certification
+
+2) Organisation   : GTL Limited ( formerly known as Global  Telesystems  Ltd )
+
+GTL Limited is  Mumbai based  & now included  in Forbes Global list of 200 Best Small Companies in the World are Application Service  Provider , Software Services and Engineering Services  Company.
+
+Division  (I)     :
+E- Business  Infrastructure  Division ( Enterprise Systems Division )
+
+Duration        :
+1st  Sept 1995  to 30 Sept 2004 .
+
+Designation     :
+Sr.Network Operations Engineer .
+Special Achievement : 
+
+      Headed   Super  Node  of  Pune   for   One  month  period  .
+
+Was  given the responsibility  of  Commissioning  the Nagpur  Internet Node and  the  same  was     
+
+commissioned in the record  time . Major activities involved  were  :
+
+· Installation of  Nortel Passport Switch (6480) ,
+
+· Installation and  Configuration of  Cisco Router (3662) .
+
+· Installation and  Configuration Cisco Switch ( 2900) .
+
+· Commissioning E1 Trunk  line for Backbone Connectivity .
+
+· Installation of  Caching Server and MRTG in  LINUX .
+
+Was nominated   from  GTL Limited  to  attendend  CISCO  TECHNICAL  TRAINING    
+
+Responsibilities :  
+
+· Systems and  Network Administration  of  Node 
+
+· Designing  and  Implementation  of  Clients  Network
+
+· Installation of  lease line equipment’s  
+
+· Installation  and Configuration  of  Routers 
+
+· Liason with  Basic Service Operators  for Last mile
+
+· Liason  with  BSNL  for Back Bone Connectivity (E1 Trunks)and last mile
+
+· Network Monitoring using various tools  such  MRTG , Solar Winds .
+
+Networking Products Handled   :  
+
+· CISCO Routers – 3662 , 1751 , 3620 , 2610
+
+· CISCO Switch   – 2900 ,  1900 
+
+· Motorola Router – Vanguard 320
+
+· Zyxel Router – 153X
+
+· Nortel Switch – Passport 6480
+
+· Modems – ASCOM , RAD , Multi Tech(Rack Mounted)
+
+· Firewall – CISCO PIX -  506 
+
+Network  Operating Systems 
+
+a) Linux    1)  Linux Adminstration
+
+2) Shell  Programming
+
+3) Mail Server Configurations
+
+4) DNS configuration
+
+5) Web server configuration
+
+Services :
+· Internet  Bandwidth
+
+· Virtual Private Network : 
+
+· IP-VPN
+
+· Global Remote Connect IP(GRC) – VPN ( Both Dial-up and  Lease Line)
+
+· Global  Secure Connect IP (GSC) – VPN ( Both Dial-up and  Lease Line)
+
+· Global  Dedicated IP – VPN (Lease Line)
+
+· FR –VPN (Both Dial-up and  Lease Line )
+
+· Internet Mailbox
+
+· Internet Mail Gateway (FT Gate) , POP3 (Eudora and  Outlook Express)
+
+· Mailing Services – Route 400 
+
+Major Projects Handled :
+A) Project : Internet Bandwidth  to ‘C’ Category ISP 
+
+     Client  : ‘C’  Category ISP
+     Description : Providing  Internet bandwidth  of  1Mbps to the  ‘C’ Category  ISP  on RF  as  last  mile 
+
+     connectivity  for the  customer .Also  involved  providing data center  facility to the customer  for  co-  
+
+     locating servers and  router .
+
+ Configured  data  center which facilitated the  ISP to rate limit/fragmant  the  bandwidth for its   
+
+     clients  by  applying QoS   in Cisco  2610  through CISCO  QDM  .
+
+     Hardware :  Cisco 2610 , 1U server , Speedlan RF Modem – 8300 with 13dbi Omni 
+
+     directional antenna , Speedlan RF Modem – 8400 with 24dbi Semi-Parabolic Antenna
+B) Project – Internet Bandwidth
+
+     Client  -  MegaDouble Click India Ltd. 
+
+     Description – Providing 128 Kbps Internet Bandwidth to the customer using Ethernet (Cat –5) cross cable by          
+
+     terminating it on our Cisco 2900.Router 3660 was configured  for secondary port.
+
+     Hardware – Cisco Switch – Catalyst 1900, Cisco Router 3660 
+
+C) Project – IP – VPN  and  Shared  Hosting
+
+     Client  - Blow Plast Ergonomics Ltd ( VIP  Industries )
+
+     Description – VPN was created  between  GTL Data Center Mumbai and Blow Plast  factory  at Nagpur .  
+
+     Shared hosting  on Apache as Web server and MySQL as Database  on Linux platform was done at Mumbai . 
+
+     Dealers and Remote offices  are accessing the site  via internet and for  detailed information traffic was diverted  
+
+     to Nagpur  server  using  32Kbps  PVC . Last mile at Nagpur was connected  on Lease Line and  backup on 
+
+     ISDN .    
+
+     Hardware – Cisco router – 1751 ,  Cisco firewall – PIX 506 ,RAD Modem . 
+
+D) Project –IP- VPN  for  Steel Major
+
+     Client – Llyods  Steel 
+
+     Description – VPN  was created  between  Nagpur and Mumbai office for delay sensitive traffic ( SAP and    
+
+     Mailing services) . Last  mile connectivity established  by PSTN dial –up on RAS  and tunneling  done by  PPTP  
+
+     client .
+
+     Hardware -  D-Link  modem, Multitech Rack Modem, Cisco Router 3660
+
+E) Project – Internet Bandwidth and  FR-VPN  for  MNC
+     Client  -  Saint  Gobain Group
+
+     Description -  Internet bandwidth  of  64Kbps was  provided  and  VPN of 64Kbps CIR was created         
+
+     between  Nagpur and Mumbai  . The client is accessing  its ERP server  of  Mumbai using the PVC .     
+
+     Hardware -  Cisco Router – 1751 and  RAD  ASM 20 .
+
+DIVISION (II)         
+:
+
+ENGINEERING  SERVICES  ( Global Telesystems Ltd )
+
+Duration
+
+:
+ 
+1ST Sept 1995  till  Feb 2000
+
+Designation
+
+:
+
+Technical Specialist 
+Products Handled
+:
+
+
+· Wireless Equipment ( VHF , UHF )
+
+· Cellular Phones 
+
+· Key Telephone Systems
+
+· Fax Machines
+
+Responsibilities 
+:  
+
+· Head  of  branch  Repair  center for  wireless, cellular phones and fax
+
+· In charge  of  Technical  Training to field staff 
+
+Special Training 
+: 
+
+Attended training  program on GSM – Technologies conducted by Motorola  India  at High Tech Center Banglore. 
+
+3) ORGANIZATION
+:  National Telecom of India Ltd ( NATELCO) , Nasik 
+
+
+
+
+   (A sister concern of  EASY CALL  PAGING  SERVICES)
+
+Duration 
+
+: 09/09/92 to 20/08/95
+
+Products Handled
+: 
+
+· Multi Access Rural Radio (MARR – 2/16 and 4/36 ) Systems 
+
+· Radio Pagers 
+
+Responsibilities
+: 
+
+· Systems Integration  of MARR(2/15 and 4/36)
+
+· Testing and tuning MARR systems as per TEC specs .
+
+· Trouble shooting analog and digital cards 
+
+· Training to field staff 
+
+· Member of  team for manufacturing of NEC pagers .
+
+Special Assignment 
+: 
+
+Prepared Signal flow chart of all the individual cards as well as of integrated  MARR systems . These charts were  incorporated  in  the  company’s technical manual  for the  field staff .  
+
+4) ORGANIZATION
+
+: SIEMENS , NASIK WORKS .
+
+Period
+
+
+
+: 01/06/92 to 08/09/92
+Post
+
+
+
+: In-plant Trainee
+Products Handled
+
+: UPS  systems
+
+                                                               EDUCATION
+
+School
+
+
+
+: Kendriya Vidyalay (CBSE) 
+
+College
+
+
+             : B.E ( Electronics) with Distinction (75%) from Nagpur University . 
+
+Professional Certification 
+:  Microsoft Certified Systems Engineer (MCSE)
+
+
+
+
+
+   Microsoft Certified Professional (MCP) 
+
+ PERSONAL  DETAILS                             
+
+
+Date of Birth
+
+ 
+: 
+02/08/1971
+
+Sex
+
+
+
+:
+Male
+Marital Status
+
+ 
+:
+Married
+
+Nationality
+
+
+:
+Indian
+Religion
+
+
+:
+Hindu
+
+Interest
+
+
+
+:
+Listening to music and reading .
+
+Address
+
+
+:
+P.No.93, Rajiv Nagar, Somalwada, Wardha Road, Nagpur
+Place
+ : Nagpur
+
+Date
+ :  10th Jun  2012
+
+
+
+
+
+
+NINAD MANAPURE 
+
+� EMBED PBrush  ���
+
+
+
+
+
+Ninad Manapure                                                                                                                                                    
+
+ Page 6 -5
+
+ 
+
+

@@ -1,0 +1,167 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Phaneendra		                                      Mobile: +91-9958823377                                                                              SAP BASIS/HANA Consultant		                                      phanisap7@gmail.com
+Professional Summary
+
+· 2 years of experience in IT industry as SAP BASIS Consultant and SAP HANA Admin
+· Performed installation, setup, configuration of SAP Hana database, studio, client and cockpit
+· Installed SAP HANA 1.0 SPS9 and upgraded to HANA 1.0 sps12.
+· In-depth knowledge on sap ECC and HANA administration activities.
+· SAP HANA backup and restore/recovery.
+· Managing SAP HANA License.
+· Full Hana admin monitoring by using Tools like Hana studio, cockpit and HDBSQL.
+· Implemented sap Hana security including user management, Roles and privileges.
+· Good understanding of HANA DB performance, HA, DR and scalability.
+· Have implemented SLT from ECC-HANA in side car scenario and monitoring daily replication process.
+· Strong knowledge on Replication tools like SLT,BODS and DXC.
+· Good working knowledge on resources monitoring like CPU cores, RAM, services.
+· Knowledge on HANA Multitenant Database concepts.
+· Administration of sap including the installation, configuration and maintenance.
+· Installation, Post Installation activities, and configuration of SAP R/3, SAP ECC 6.0 and NW 7.1 systems.
+· User administration activities like creating user id's based on standard naming convention, resetting passwords, deleting users, lock/unlock users.
+· Creating users by assigning necessary roles and profiles to them.
+· Client Maintenance and Administration: Created Client and Define Client settings, Performed Local Client Copy, Remote Client Copy, Client Export and Import.
+· Creating and deletion of clients.
+· Administration of Transport Management System.
+· Responsible for configuring and maintaining TMS and importing transports through the landscape.
+· Transporting change requests using STMS from DEV system to QTY and PRD.
+· Configured RFC connection using SM59.
+· Regular monitoring of systems and prepare Health check. 
+· Scheduling and monitoring the background jobs.
+· Monitoring the status of work processes, application servers and system logs.
+· Setting up and maintenance of the profile parameters.
+· Configured Operation Modes based on time intervals.
+· Worked with BRTOOLS and SAPDBA for DB related Activities like backup & Restore, Table space Administration like adding data file, Reorganization of Table Spaces.
+· Performed backup and restore of database oracle.
+· Applying Support Packages through SPAM and Performed Kernel Patch upgrade.
+· Troubleshoot user roles, security authorization objects and authorizations to resolve security conflicts using transactions SUIM, SU53 and ST01 (Trace).
+· Performed Refresh activities and DB Migrations.
+
+
+Job Title History
+
+Working as SAP BASIS/HANA Consultant in Computer Science Corporation (CSC)and now it transformed as DXC.Technology(CSC + HP Merger Company) from Nov 2015 to till date.
+
+	
+Technical Summary
+
+SAP Release		:       ECC 6.0 EHP 7 and NW 7.3,SAP R/3 4.7 EE, SOLMAN 7.1
+Operating systems		:       AIX 6.1, RHEL, SUSE Linux 11.1, Windows server.
+Database 			:       SAP HANA 1.0/2.0, Oracle 10g/11g, MSSQL.
+
+
+Educational Details
+
+B.Tech in Computer Science & Engineering from JNTUK
+
+
+Project Details
+
+· Project 1
+
+Client			:   GE-Alstom GRID solutions, France
+Designation			:   SAP BASIS/HANA ADMIN
+Environment		:ECC 6.0, HANA 1.0, Solution manager 7.1, Oracle 11g, AIX.
+
+Description:
+GE technology delivers 1/3 of the planet's electricity, and each day we add enough power capacity to support people around the world. GE Power is a global leader in power generation with deep domain expertise to help customers produce electricity from a wide spectrum of fuel sources. 
+
+Roles and Responsibilities:
+· System Monitoring and Health Checks.
+· Starting and stopping of the sap systems as per requirement.
+· Checking the Alerts and notifications on HANA Studio and taken necessary actions.
+· Applying Support packs using Lifecycle Management.
+· Core knowledge on sap ECC and HANA administration activities.
+· SAP HANA backup and restore/recovery.
+· Adding resources and maintain users on HANA cockpit.
+· Knowledge on HANA Multitenant Database concepts.
+· Experience on SAP system administration in Linux and windows environment in a DEV, QAS and PROD system landscapes.
+· Transporting and Importing transport requests using STMS and CHARM.
+· Performed Local Client Copy, Remote Client Copy, Client Export and Import.
+· Configured Operation Modes based on time intervals.
+· Worked with BRTOOLS and SAPDBA for DB related activities like Tablespace Administration, adding data file, Reorganization of Tablespaces.
+· Performed backup and restore of database oracle.
+· Applying Support Packages through SPAM.
+· Performed Kernel Patch upgrade.
+· User administration activities like creating users, resetting passwords, deleting users, lock/unlock users.
+· Creation of RFC connections.
+· Performing and Monitoring Database backup on regular basis.
+· Daily ticket handling based on priority.
+· Implementation of SAP NOTES using SNOTE for corrections.
+· Checked CPU utilization and volume space utilization for performance analysis.
+· Extensive experience in day to day production issues and problem solving.
+
+· Project 2	
+Client		: Ford UK
+Role		: SAP BASIS Consultant
+Environment	:ECC6.0, Oracle 11g, Aix
+
+Description:
+One of the global automaker’s most important suite of systems has always been the one that supports service parts management (SPM) a trusty home-grown set of systems that enables the flow of auto parts throughout Ford’s vast supply chain.
+
+Roles and Responsibilities:
+· User creation and assigning the requested roles to the users with proper approvals
+· Role Creation & assigning roles as per the user authorizations.
+· Monitoring and analyzing day-to-day systems performance.
+· Responsible to check all the instances are active up and running.
+· Check the availability of work process to serve the users.
+· Performed client copies - local, remote, export/import methods
+· Scheduling & Monitoring the Background Jobs.
+· Monitoring the status of work processes, application servers and system logs.
+· Performing and Monitoring Database backup on regular basis.
+· Creation of RFC connections.
+· Maintaining the Transport requests from one system to other systems in the landscape.
+· Extensively worked on end user issues/ tickets.
+
+		
+2
+
+		

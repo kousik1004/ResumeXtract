@@ -1,0 +1,195 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raj Kumar T
+Mobile: 9626573330
+Email: raj4c2.2009@gmail.com
+· 4.7 years of experience as Software Developer in software design, analysis, development, testing using Microsoft Technologies. 
+
+· Experience in writing Complex Stored Procedures using MS SQL Server 2008
+· Good understanding and knowledge of C#, ADO.NET, WCF.
+· Good knowledge and experience in design and development of applications using Microsoft business intelligence tool SSIS.
+· Ability to adapt new technologies quickly.
+
+· B. Tech in Electronics’ and Communication Engineering from JNTU University, in May 2012 with 71%.
+
+· Intermediate in Sri Chaitanya College affiliated to Board of Intermediate Education in March 2008 with 97.1%.
+· 10th in VijayaVani High School affiliated to Andhra Pradesh Board of Secondary Education in March 2006 with 84%.
+
+
+Currently Working with Cognizant Technology Solution as Associate from 18th April 2013– Till date.
+
+
+· Languages
+
+
+: C#.NET, ADO.NET.
+· Databases
+
+
+: SQL Server 2008 .
+· Development Tools
+
+: Visual Studio.NET 2008/2010/2012.
+
+· Packages/Tools
+
+
+: MS-OFFICE: 2010, TWS using Maestro Scripts.
+· OS
+
+
+
+: Windows 2010/12/Windows XP Professional. 
+
+· Key Skills                 
+               : ASP.NET, WCF, SSIS, Dotnet Windows Application.
+
+PAM for Investments is a comprehensive investment accounting and management platform that supports international accounting and reporting requirements for a diverse range of assets and portfolio types. 
+Application 1 : CLIP (Common Ledger Interface of PAM):
+· It acts as an interface between PAM and Ledger System.
+· It is used to load Investment accounting entries from PAM to People Soft Ledger System and SunGL Ledger System.
+Client: MetLife, USA      
+
+Role: .NET Developer
+
+Technical environment: SSIS, Console Application, SQL Server 2008.
+Application 2 : MIM (Metlife Import Module)
+
+MetLife Import Module (MIM) acts as an interface between the Trading Systems (CRTS/BRIDGE) and PAM. It imports all the Trading Data like Security, Trades, Foreign Exchange Rates etc. to PAM for the Transactions done at MetLife 
+
+MIM has two flavors for application one with rich UI and other as batch application which runs in an unattended fashion. The interesting part of MIM is the common functionalities are had in a separate project and the same was leveraged to build the UI and Console application.
+Client: MetLife, USA      
+
+Role: .NET Developer
+
+Technical environment: C#, WPF, WCF, SQL Server 2008.
+Application 3 : SMFEnrichment 
+
+SMF Enrichment application will consume the SMF Messages (Text File) from Middle Tier. This application will generate the output SMF Update Messages based on the Security filter, Field Filter and Security and Field combination filter. The Output Message file will be fed as input the MIM – Console application
+To set the Field and Security level filters we have an UI application designed in WPF using MVVM pattern. This UI gives the user the option to set the filters on fields of SMF messages. User can even set the filters at security level too. User has an option to update the filters through an excel template. Application processes the template and does a bulk upload of all the filters.
+Client: MetLife, USA      
+
+Role: .NET Developer
+
+Technical environment: C#, WPF, SQL Server 2008.
+CLIENT DESCRIPTION:   
+MetLife, Inc. is the holding corporation for the Metropolitan Life Insurance Company, or MetLife for short, and its affiliates. MetLife is among the largest global providers of insurance, annuities, and employee benefit programs, with 90 million customers in over 60 countries.
+
+· Self-Motivated and Goal Oriented.
+
+· Flexibility and adaptable.
+· Ability to work independently and within a team.
+
+· Willingness to learn.
+
+
+Gender
+
+: Male
+
+Marital status
+:  single
+
+ Address          
+:  Door No: 49, 1st Street, Senthil Nagar, 
+       
+
+                  Throipakkam, Chennai
+
+
+                   600045.
+DECLARATION:
+
+I hereby declare that all the details furnished above are true to the best of my knowledge and belief.
+
+DATE:                                    
+
+                                                                                                                              
+
+Raj Kumar
+Professional Summary
+
+
+
+Academic Profile
+
+
+
+Experience
+
+
+
+
+
+Technical skills:
+
+
+
+
+
+PROFESSIONAL EXPERIENCE
+
+
+
+
+
+Key Strengths
+
+
+
+
+
+Personal Vitae:
+
+
+
+
+
+
+

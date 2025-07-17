@@ -1,0 +1,335 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - moni_cv.doc
+
+
+Moumita Saha  
+Technical Specialist – SAP BW on HANA/ HANA Modelling @ IBM India Pvt Ltd 
+
+Kolkata | +91 90075 20418 | sap.moumitasaha@yahoo.com 
+
+Objective: 
+
+A challenging professional career where I can utilize my skills and abilities that offers excellence to the client 
+
+and organization alongside my own career growth while being focused, relevant and flexible. 
+
+Profile: 
+
+• 2.8+ years of experience in the field of Information Technology with extensive technical skill set and 
+
+expertise in DATA Warehouse - Business Intelligence in the domain of SAP (SAP BW on HANA/ 
+
+Enterprise HANA).  
+
+• Working in innovative and competitive cross sector environment which involves  
+
+� Client & User interaction 
+
+� Solution design & architecture review 
+
+� Effort estimation 
+
+� Implementation & Deployment 
+
+� Upgradation, testing and application support. 
+
+• Working as an agile candidate in IBM Analytics Garage Offshore India Team on SAP BoH & HANA 
+
+Modelling. 
+
+Professional Career: 
+
+IBM INDIA PVT LTD 
+
+Apr, 2015 – Till Date 
+
+Trained on SAP BW, ABAP related to BW, SDI & HANA modelling in IBM.  
+
+Worked on SAP BW upgrade 7.0 to 7.4 (BW on HANA), HANA modelling, BEX, Lumira report creation. Hands on 
+
+job creation in interface (BODS). 
+
+ 
+
+Projects: 
+ 
+
+Client/Customer: British Petroleum 
+
+Client facing: Yes 
+
+Project Scope: Support & Enhancement 
+
+Environment: SAP BI 7.0, SAP BI 7.4 
+
+Duration: 6 months 
+
+Description: FVC Business Model BW system used for Finance & Logistics Reporting and is built on an Oracle 
+
+v11 database. Created in 2006 for the Turkey FVC business, and was subsequently deployed to Iberia, Germany 
+
+(Fiege) and ANZ business. The critical data flows being handled are Profit Centre Accounting, General Ledger, 
+
+Accounts Payable, Accounts Receivable, Asset Accounting & Cost Centre Accounting from Finance side and 
+
+
+
+Page 2 
+
+Sales, Delivery, Billing, Distribution, Procure To Pay, Plant Maintenance, Inventory, Purchase Order, 
+
+Transportation, Self- Billing, Tax, POSDM flow from Logistics side. 
+
+ 
+
+Responsibilities & Activities: 
+
+� Analysis and correction of SAP BW issues as raised by business users like report structure changes, 
+
+data unavailability issues, data missing issues, addition of new fields in data flow, incorrect data issues 
+
+etc. through Incident Management, Problem Management in Remedy Tool. 
+
+� Have carried out BW tasks related to SAP 7.4 upgrade like SPAU/SPDD checks, RSZ* Table analysis, 
+
+Multi provider Consistency issues, Table comparisons before and after upgrade etc. 
+
+� Automation of daily/monthly manual activities to prevent manual intervention like automation of 
+
+manual reconciliation process, automation of monthly request deletion from info cubes to prevent 
+
+data duplication in planning reports. 
+
+� Have worked on BW accelerator to speed up reporting for business users in production system. 
+
+� Planning and implementation of data cutovers during quarterly system release. 
+
+� OSS note implementations for bringing out permanent fix in system. 
+
+� Have carried out enhancements independently. 
+
+� Data migration from daily cubes to backup cubes to increase report performance. 
+
+� Deletion of redundant objects for system space management like old YY query deletion, deletion of old 
+
+backup data present in cubes. 
+
+� Carrying out housekeeping in system to bring down the total used space in system to improve 
+
+performance and maintenance of housekeeping objects like process chain variants for new objects 
+
+coming in during quarterly release. 
+
+� Have carried out Manual regression testing after system refresh including process chain execution, 
+
+table validations, portal testing etc. 
+
+� Have performed actively in BEX Migration. 
+
+� Background Job Maintenance (Changing job variants, Monitoring logs, Scheduling, Cancelling long 
+
+running jobs. 
+
+� Preparation of AID documents and handbooks for easy access to information when required and 
+
+sharing with team. 
+
+� Monitoring of daily process chains & attending data load failures on time to prevent any high priority 
+
+incidents. 
+
+� Prevented high priority incidents when there was an issue in data availability from source systems. 
+
+� Have carried out system testing when SAP 7.4 migration. 
+
+� Have carried out reconciliation of the various data flows as and when required. 
+
+� Have provided cross system knowledge transfer sessions and within the team as well. 
+
+� To take part in any development or upgrade related activities. 
+
+� Performing reconciliation for various data flows in the system. 
+
+� Involved in trouble shooting of complex Incidents and service requests. 
+
+IBM Analytics Garage Offshore India Team  
+
+Client facing: Yes 
+
+Project Scope: End to End Development 
+
+Environment: SAP BW on HANA, Enterprise HANA, BODS 4.x, Lumira 
+
+Duration: 2+ years & Counting 
+
+
+
+Page 3 
+
+Description:  
+
+1. Work mode : Agile 
+
+2. Duration of each development 2 weeks to 3 months of each sprint or wave. 
+
+3. Solution & architecture review, implementation & deployment. 
+
+4. Defects fixing & hyper care support. 
+
+ 
+
+Responsibilities & Activities: 
+
+• Requirement gathering, solution architecture review & Effort estimation for SAP functional flows like 
+
+OTC, RTR, STC, STS, & TAX till date. 
+
+• Enhancement of Logistic DS like 2LIS_03_BF, 2LIS_04_P_ARBPL (BADI), replicate same in BW, BI 
+
+content installation, BW objects creations and creation of Bex Query or Lumira depending upon 
+
+Business Requirement.  
+
+• Importing tables in HANA Studio, Calculation View Creation, optimizations, Store procedures, formulas 
+
+etc. and AFO report creation on Top of that. 
+
+• BODS job creation to send data to HANA studio for flat files. 
+
+ 
+
+ICRA Techno Analytics Limited (ICTEAS) 
+
+Internship on PL/ SQL using Oracle DB - 2014 
+
+Education 
+
+B. Tech in Electronics & Communication Engineering from GNIT under West Bengal University of Technology 
+
+(WBUT) (2009 – 2013) 
+
+CGPA 8.05 
+
+Mini projects: 
+
+• Mobile Vibration Controlled Home Appliances  
+
+• Automatic Examination System on VB.Net 2005 
+
+Industrial Trainings: 
+
+• On OFC from Metro Railway Kolkata 
+
+• On Radio Communication from All India Radio Kolkata. 
+
+Board Exam:  
+
+WBCHSE(12th – 2009) :- 79.60% 
+
+  WBBSE(10th  - 2007) :- 89.62% 
+
+Skills & Abilities 
+
+SAP Analytics Tool · SAP BW on HANA (7.4) 
+
+· SAP Enterprise HANA Modelling ( Graphical & SQL Script based) 
+
+· SAP Business Objects 4.x ( Analysis for Office, Lumira) 
+
+· Bex Query 
+
+· BODS 4.x for flat file processing 
+
+· Tools:  Rev-Trac, Remedy Ticketing Tool, JIRA Ticketing tool. HP ALM 
+
+(Application Life cycle Management Tool), solman 
+
+
+
+Page 4 
+
+Programming Language · ABAP related to BW, SQL Script, C 
+
+Database · ORACLE 12c  
+
+· SAP HANA 
+
+SAP Functional Understanding RTR , STC, STP, STS, APO,POSDM, Billing, TAX, Inventory etc. 
+
+Industrial Area · Oil & Gas 
+
+· Consumer Products 
+
+· Cross sectors 
+
+Extra – Curricular Activities � CLP(Computer Literacy Program)  2017 in IBM as part of CSR 
+
+� Active member of IBM Cultural Community 
+
+� Part of NGOs and ran many donation drives since academic. 
+
+� Diploma in Dance & Drawing. And Host of many cultural events 
+
+along with the team. 
+
+ 
+
+Trainings & Certifications: 
+
+Trainings Post Assesment/ Course Completion From 
+
+HA300 both SAP Education 
+
+HA100 Course completion SAP Education 
+
+HA350 Course completion SAP Education 
+
+BW362 both SAP Education 
+
+ 
+
+

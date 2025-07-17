@@ -1,0 +1,240 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Surabhi Gupta
+Mobile: +91 9971555691
+
+E-mail:  surabhigupta26@gmail.com
+ 
+
+Objective:
+
+
+
+Having 4+ years of experience as a Senior Software Engineer II looking forward to achieve a challenging position in an esteemed organization and work in a competitive environment, where I can nurture my technical and soft skills and can contribute to the organization’s growth.
+
+Professional Experience:
+
+
+	ORGANISATION
+	DESIGNATION
+	TENURE
+
+
+
+	Samsung India Software Centre
+
+( R & D Centre), Noida
+	Senior Software Engineer-II
+	July 2007 – Till date
+
+
+
+
+Academic Qualifications:
+
+	Degree
+	Institution
+	University/Board
+	Percentage/CGPA
+
+
+	B-Tech May’07 (Electronics & Communication Engg.)
+	NIT Jaipur, India.       
+	Deemed University
+	8.51
+
+	HSC  April’02
+	Govt. Girls Sr. Sec. School, Jaipur
+	Rajasthan
+	82%
+
+
+
+	SSC  April’00
+	Govt. Girls Sr. Sec. School, Jaipur
+	Rajasthan
+	79 %
+
+
+Technical Skills Summary:
+
+
+O/S:
+
+
+
+WINDOWS, Linux
+
+Technologies:
+C, C++, VC++, MFC, Java, VHDL, MATLAB, Assembly (8085), DLNA, RTP, RTSP, MPEG-2 TS
+Tools:
+Clear Case, Clear Quest, Star UML, Microsoft Visio, Code        rule checker, Valgrind, Perforce, Bull’s Eye
+Professional Summary:
+
+
+
+· 4+ years of experience in Design, Development and Deployment of C, C++ and MFC.
+
+· Good knowledge of DVB and ATSC standards and UPnP Specifications.
+
+· Implemented Scheduled Recording Service and EPG and Tuner Feature in TV-DMS.
+
+· Working on Real-time Transport Protocol based system. Involved in retransmission and FEC methods implementation for error resilience multicast systems.
+· Ported Adobe Flash player to DTV.
+
+· Worked MPEG-2 TS generator, wherein designed the UI of the tool and implemented video cutter, bit rate editor and SI table insertion modules.
+· Awarded best project award for commercialization project Lilliput App( Saturn 4UI Application).
+· Developed SDL GLUE Layer (Lua SDL), which is a binding of SDL (and SDL extension libraries) with Lua.
+
+· Extended DTV Stack SDL from 1.2.11 to 1.2.14.
+
+· Developed Sample applications for Samsung DTV SDK for reference of Game developers.
+
+· Converted DTV Games: Wisestar & Wisestar2 from native language (C language) to Lua Script language.  
+
+· Build and used Zorba and XQilla open source XQuery processors for TV.
+· Hands on experience with GDB and KGDB.
+· Well aware of Eclipse IDE.
+
+· Comfortable with open source GNU tools, utilities and cross-compilers.
+
+· Actively involved in preparation of project design documents. Good knowledge of SDLC.
+Samsung India Software Center:
+
+                                                                                                                                                               
+Currently working with Samsung as a Senior Software Engineer-II, since July 2007.
+Project: Enhanced RTP-RTSP
+Team Size: 7
+
+Description: This project is about improving already implemented RTP-RTSP system for multicast system like IPTV. This is a commercialization project. It involves improving RTCP logic in the current stack, implementing FEC and retransmission methods for error resilience. 
+Environment: C++,  RTP, RTSP, DTV, FEC
+
+Project: Network PVR
+Team Size: 10
+Description: This project involved implementation of SRS service in TV DMS and Test DMC application to test the DMS. Using this any future program can be scheduled for recording. User has the option to select the recording location, which can be local DMS or remote DMS. Development of a PC test application to test the implementation at TV was also a part of the project.
+Environment: C++, DLNA, DTV, XQuery, XQilla
+
+Project: SDL- SDK commercialization.
+Team Size: 8
+Description: Lua is an Open Source scripting language which is platform independent. The
+
+Main idea to develop project was to port Native Game running over an SDL framework into Lua scripting language and prove the SDK reliability and stability. The target board has an SDL integrated into its stack with an additional support for Lua Engine.
+The major advantage of Lua is that it is platform independent and there is no
+
+need for cross compilation even while deploying applications to other target thus reducing the development and deployment time.
+Environment: Lua, C, C++
+
+Project: Stream Generator 
+Team Size: 5
+
+Description: Stream Generator is a tool to generate and analyze transport streams. It also has the capability to edit a MPEG-2 TS according to user requirement. To show the transport stream structure we are using XML tree based approach. User interface of the tool is being designed using MFC. This tool was developed for internal use of Samsung to generator test streams for DTV testing. 
+Environment: Visual Studio 2005, C++, MFC, MPEG-2 TS
+
+Project: Lilliput App( Saturn 4UI Application)
+Team Size: 10
+
+Description: Lilliput App project was about designing a low cost TV targeting the low income group especially at the time of recession. After rigorous testing phase this product was finally launched in US, Chinese, Korean and other markets. Middleware part of the product was designed in China and application side development was done in India.
+Environment: C, Clear Case Remote Client, DTV, Keil compiler, MS Visio.
+
+Project: Cobalt (Pointing UI based Flash Player)
+Team Size: 5
+Description: Conventional TV uses a remote control with lots of keys on it. But our project aimed at designing a DTV application that supports Pointing device. Pointing device is like a cordless mouse. It works on the principal of IR rays. It is a five buttons device. As this device is moved pointer on the DTV screen moves. By pressing the central button on the device we can select any menu item. Developed GUI of TV and supported the pointing device inputs to TV.
+
+Second phase of this project was to support flash player library on DTV and supporting Pointing device inputs on flash player in DTV. Optimization of already existing code for modularity and fast speed were also parts of this project.
+Environment: C++, Linux, Windows XP, Star UML, Clear Case, Clear Quest, Source Insight, MS Visio, Shadow (a GUI middleware for home digital media devices)
+
+Project: Neon (DTV games)
+Team Size: 5
+Description: Project Neon was to design 2D games for DTV. These games were first designed on computer and then ported to DTV. 
+
+Environment: C++, Shadow, Source Insight, Linux, DTV Platform x260
+Strengths:
+
+
+· Builds effective working relationships with other members of the team; co-operative; shares information; supports others. 
+
+· Prioritizes and tracks activities effectively to meet commitments and schedules; consistently meets deadlines.
+
+· Maintains high ethical standards; shows integrity; adheres to the organization's code of conduct and work practices; Proactive and self-starting.
+
+· Possesses good programming, testing and coding skills. Analyses complex technical situations, generates alternatives, and identifies the best technical solution(s).
+
+· A very good Team player with positive attitude; enthusiastic with excellent communication and inter-personnel skills.
+
+· Understands technical and technology aspects of applications related to area of work.
+· Adapts to changing technology requirements. Is aware of, adheres to, and suggests improvements in Quality Procedures and Systems.
+Extra Curricular Activities:
+
+
+· Have been teaching under-privileged students of NGO, “Nai Disha – A School For Free Education” since January, 2008.
+· Member of “Samsung Software Welfare Committee-Noida (SSWC)”.
+
+· Collected funds from SISC for the sponsorship of under-privileged students of Nai Disha.
+· Playing guitar. 
+· Winner of area level Toastmaster humorous speech contest.
+· Worked as the secretary of Noida Toastmasters Club.
+· Passed Korean language Training Exam successfully.
+Personal Details:
+	Permanent Address
+Plot no. 85/365, Sector-8,
+
+Pratap Nagar, Sanganer, 
+
+Jaipur
+	Languages                                                                   English, Hindi, Korean
+
+	Present Address
+B-72, Vasant Apartment, Sector-62, 
+
+Noida
+	
+
+	Date of Birth :     26th September 1985                                     
+	Marital Status    : Single                                                  
+
+
+I hereby declare that the information published above is true to the best of my knowledge
+          -Surabhi Gupta

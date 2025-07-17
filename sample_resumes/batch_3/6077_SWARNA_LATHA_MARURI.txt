@@ -1,0 +1,302 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SWARNA LATHA MARURI
+
+
+SWARNA LATHA MARURI
+Email: swarna.maruri@gmail.com
+Contact: +919550989847
+_______________________________________________________________
+Career objective:
+
+
+Aim to see myself on a challenging environment where my knowledge can be enriched with exposure to new technologies and advanced techniques.
+professional experience:
+
+
+Total experience of 6+ years, and presently working with NTT Data GDS, Hyderabad as ‘Team Lead’.
+· Having 6 years, 11 months of experience in Analysis, Design, Development, Enhancement, Maintenance, Testing, Implementation and Production Support of systems in IBM Mainframe Technologies.
+
+· Knowledge in COBOL, JCL, VSAM, DEBUGGER, ENDEAVOR, TSO/ISPF, DB2, CICS (basics) for Mainframe application Development & Testing.
+· Expertise in batch cycle support for all UAT and Integration cycles running.
+· Extensive Domain Knowledge of Insurance. 
+
+· Having good exposure to Software Development Life Cycle in prototyping software applications including Requirements Analysis, Program Design, Development, Unit testing, System Testing, Integrated Testing, Maintenance and Documentation.
+
+· A good team player and quickly adaptable to any role. Having good communication and interpersonal skills.
+· Adept at taking the inputs from Business Analysts and Clients, developing High Level Design and Detailed Technical Flows and procedures.
+
+· Playing the role of an offshore Team Lead for enhancements and critical production support activities. 
+
+· An Out-of-the-Box Thinker, working towards continuous improvement in processes, streamlining workflow and creating a teamwork environment.
+
+education qualification:
+
+
+· Bachelor of Technology (B-TECH) from Bhoj Reddy Engineer College (BRECW), JNT University, Hyderabad (2008) with 75% aggregate.
+skill set
+Programming Languages
+:
+COBOL, JCL, SQL
+
+Database
+
+
+:
+DB2 
+OLTP 
+
+
+
+:
+CICS (Basics)
+
+Tools & Technology
+
+:
+VSAM, ENDEAVOR, TSO/ISPF, Fault       
+
+Analyzer, File Manager, EZTRIEVE, 
+
+AS400(beginner).
+Operating Systems
+
+:
+MVS, Windows 2000/XP/2003
+
+File Organizations
+
+:
+VSAM and GDG
+
+Debugging Tools 
+
+:
+IBM Debugger
+Projects:
+
+Project Title1
+
+: 
+HANOVER.
+
+Client
+
+
+: 
+Hanover Insurance.
+
+Domain
+
+:
+Insurance
+
+Company                 
+:   
+NTT DATA
+
+Application
+
+: 
+Finance & Reporting and Corporate Finance
+Platform/OS/Tools
+:
+COBOL, DB2, CICS, JCL, VSAM.
+
+Line of Business
+: 
+Enhancement, Maintenance, support and Testing.
+
+Role   
+
+
+:
+Team Lead & Developer.
+
+Description:
+
+Finance and Reporting system provides Premium, Loss and Claims information in the form of various reports to management, agencies, Agents, General ledger, Accounting department (Payable /receivable), etc. Primary source for this system is PMS, Claims Warehouse, MIS DB2 tables.
+
+Corporate Finance system provides Premium, Loss and Claims information in the form of various reports to management, states, bureaus, agencies, Agents, General ledger, accounting department (Payable /receivable), etc. Corporate Finance receives data from PMS, Backend systems, and Citizens DB2 tables. The major applications in Corporate systems are ISS-Reinsurance, Pools etc.
+
+This system involves Daily, Weekly, Monthly, Quarterly and Annual jobs. There are also some jobs which will run on request from business. Business will request Data center to run these jobs and Finance and Reporting team is responsible for supporting these jobs.
+
+Roles and Responsibilities:
+· Allocating daily jobs and workloads and ensure they meet the timelines.
+
+· Reviewing the work done by juniors and mentoring them in proper understanding of the flow.
+
+· Taking up the difficult tasks and make sure all the SLA’s are met.
+
+· Executing Work requests which involves analysis, coding, testing, implementation, and documentation
+
+· Managing team performance and progress.
+
+· Mentoring Team members on the process and various technologies used.
+
+· Documenting the new learning’s and sharing with the team.
+
+· Representing the offshore team in status meetings with onsite. 
+
+· Preparing Impact Analysis Reports.
+
+· Taking care of the project activities to ensure the better quality production from the team.
+
+· Guiding the team members and reviewing their work for an effective production
+Project Title2
+
+: 
+Two new Underwriter Companies For Hanover Ins.
+Client
+
+
+: 
+Hanover Insurance.
+
+Domain
+
+:
+Insurance
+
+Company                 
+:   
+NTT DATA
+
+Platform/OS/Tools
+:
+COBOL, DB2, JCL, VSAM.
+
+Line of Business
+: 
+Enhancement, Maintenance, support and Testing.
+
+Role   
+
+
+:
+Technical Lead & Mentor.
+Team Size
+
+:
+4
+Description:
+
+Hanover Insurance offers Property and Casualty Insurance. These can be divided between commercial and personal lines. Personal lines cover insurance for private passenger cars, homes, boats etc. A commercial line mainly covers insurance for different types of business Commercial Auto, Business owners Policy, Workers Compensation.  
+This is a project to add 2 new underwriting companies to the existing systems of Hanover. The Hanover Atlantic Insurance Company Ltd. (HAICL) is a new Underwriting company filed for Non Admitted (Excess & Surplus lines) and the Hanover Admitted Company (HAC) for Admitted business are being added as writing companies to PMS and downstream as well. 
+
+Roles and Responsibilities:
+· Allocating daily jobs and workloads and ensure they meet the timelines.
+
+· Training new team members in Application as well as Process.
+
+· Reviewing the work done by juniors and mentoring them in proper understanding of the flow.
+
+· Taking up the difficult tasks and make sure all the SLA’s are met.
+
+· Working with QA team on the current testing progress and helping them in understanding the reports.
+
+· Managing team performance and progress.
+
+· Completing project-related paperwork and submitting to Business and Managers when ever needed.
+
+· Attending and participating in lead meetings and presenting the current status.
+
+· Reporting to senior managers and Business for any issues or concerns. 
+
+Project Title3                  
+:  Industrial Inventory Demurrage Switching System
+Company             
+
+:  NTT DATA
+Client                         
+
+:  CSX
+Platform/OS/Tools         
+:  COBOL, DB2, CICS, JCL, IMS, DB2, MQ
+Role                            
+
+:  Developer (Maintenance & Support)
+Project Description:
+
+CSX Corporation is a major rail carrier on the East Coast of United States. CSXT is in the business of moving goods for its customers on its railroad networks. CSX Technology is the technology part of CSX Transportation. This project contains Administrative System, Electronic Data Interchange, Car Scheduling System, Automated Way billing System, Bill of Lading, Interline Received Data Exchange, Revenue Management System, Accounts Payable etc.
+Industrial Inventory/Demurrage-Switching System (Referenced from now on as IIDS) is being developed as a part of the Transportation Management System (TMS). The purpose of demurrage is to encourage efficient use of railcars by imposing a penalty charge on shippers/receivers who delay cars beyond the prescribed free time.If the cars are loaded and unloaded promptly, we are able to answer the needs of a greater number of customers. 
+Roles and Responsibilities:
+
+· Understanding the customer requirements and preparation of Detail Design Specification.
+· Knowledge on logs RMPO, Resolving RCA’s and USL’s.
+
+· Ensuring the successful completion of the batch cycle.  
+
+· Preparing Impact Analysis Reports.
+
+· Establishing good knowledge documentation based on technical documents for the team’s reference.
+completed following tasks:
+
+
+· Undergone IBM mainframes Training at NTT Data (Keane) Hyderabad.
+· Successfully completed the Mainframe Certification of level1 and 2 conducted in NTT DATA.
+· Successfully completed the Advanced Insurance Training Certification conducted in NTT DATA.
+· Insurance Domain Training, ITIL.
+· Participated in ISO 27001, Security awareness program by NTT Data.
+personal information:
+
+Father’s Name
+     :       Krishna Maruri
+Gender                            :       Female
+
+Marital Status                :      Married
+Languages Known
+     :      English, Telugu and Hindi
+
+Permanent Address       :      H.no 13-1-174/2, Snehapuri colony,
+
+
+
+
+ Borabanda, Hyderabad,
+
+ Telangana - 500018.
+Place: Hyderabad                                                                       Swarnalatha Maruri                            
+
+Date:

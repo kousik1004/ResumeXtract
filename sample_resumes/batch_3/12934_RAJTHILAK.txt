@@ -1,0 +1,348 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Rajthilak CV.doc
+
+
+ 
+
+ 
+
+K.RAJTHILAK     E-mail: krajthilak2@gmail.com 
+ 
+SAP BASIS CONSULTANT                                               Phone: (+91)-9841260853 
+ 
+ 
+ 
+                                                                                                                                                                                        
+ 
+Career Objective: 
+ 
+                  To pursue a highly challenging career where I can apply my knowledge, 
+acquire new skills and work closely with a team of highly experienced professionals. 
+ 
+Professional Summary: 
+ 
+
+ 5+ Years of Experience in IT Industry as an SAP BASIS Consultant. 
+ SAP Experience includes SAP Installations, Migration, Upgrades and Support 
+
+activities. 
+ SAP Migration + Upgrade of SAP ECC System based on DB2 to SAP HANA 
+
+Database using DMO tool. 
+ SAP Solution Manager Upgrade from 7.1 SP12 to 7.2 SP03 
+ Expertise in handling both AIX, Linux and Windows environments. 
+ Excellent expertise in handling SAP HANA, Oracle, MaxDB and DB2 based SAP 
+
+environments. 
+ Excellent working experience in Solution manager 7.1 
+ Trained in SAP HANA Technology 
+ Excellent experience in analyzing and solving day-to-day Production issue with 
+
+client facing skills. 
+ Excellent Communication skill, Interpersonal skills, adaptive and self- learner. 
+
+ 
+SAP BASIS KEY SKILLS: 
+
+ S/4HANA Upgrade from 1511 to 1709 with HANA Upgrade from 1.0 Revision 
+120 to 2.0 Revision 012 
+
+ BW on HANA Upgrade from Netweaver 7.31 to 7.5 + HANA upgrade from 1.0 
+Revision 74 to 2.0 Revision 22 
+
+ DB2 to SAP HANA Migration with EHP6 to EHP8 Upgrade using DMO. 
+ SAP HANA System copy from Production to Quality  
+ SAP HANA System build using backup restore method  
+ SAP HANA System monitoring and Troubleshooting for entire SAP Landscape 
+ SAP HANA Revision Upgrade and Client Upgrade 
+ Implementation of SAP HANA Monitoring using Solution Manager Technical 
+
+Monitoring  
+
+
+
+ 
+
+ 
+
+ Database Compression in Oracle using BR Tools. 
+ Homogeneous System Copy using SWPM Tools  
+ SAP Netweaver 7.0X Installation. 
+ Online Table reorganization using BR Tools. 
+ Offline Table Space Reorganization.  
+ Database Export Import.  
+ Oracle Database Shrink to reset HWM level. 
+ Solution Manager EWA Configuration for ABAP and JAVA System. 
+ Solution Manager E2E Configuration. 
+ Solution Manager Technical Monitoring. 
+ Basic DB2 Administration. 
+ Excellent and Extensive knowledge in CCMS Monitors 
+
+ 
+Professional Experience: 
+ 
+1. 
+ 
+Organization Mindtree Limited. 
+Client Bridgestone 
+Duration July 2017 – October 2017 
+Role SAP HANA Consultant 
+Project Type L3 Support 
+Environment SAP HANA 1.0, 2.0 
+Operating System SLES 
+ 
+Summary: 
+
+ Advise Bridgestone Team on critical issues related to HANA environment and 
+assist them on times of crisis 
+
+ Provide a comprehensive Runtime services report with critical recommendations 
+and Improvements 
+
+ 
+ 
+Organization Mindtree Limited. 
+Client Rush Enterprises 
+Duration November 2017 – Till Date 
+Role SAP Basis Consultant  
+Project Type Upgrade + Homogenous Migration 
+Environment SAP Netweaver 7.31,7.5 and SAP HANA 1.0, 2.0 
+Operating System SLES and Windows Server 2012,2016 
+ 
+Summary: 
+
+ Upgrade the Client’s BW landscape based on Netweaver 7.31 with HANA 1.0 
+Revision 74 to Netweaver 7.5 with HANA 2.0 Revision 22 
+
+
+
+ 
+
+ 
+
+ Project scope includes upgrade of 4 systems and then OS migration from 
+Windows Server 2012 to 2016. 
+
+ 
+ 
+Organization Mindtree Limited. 
+Client POC for MSC Direct 
+Duration September 2017-November 2017 
+Role SAP Basis Consultant 
+Project Type S/4HANA Upgrade from 1511 to 1709 
+Environment S/4HANA 1511,1709 and SAP HANA 1.0,2.0 
+Operating System SLES 
+ 
+Summary: 
+
+ Project Scope includes Upgrade of S/4HANA system from 1511 to 1709 
+including upgrade of HANA from 1.0 Revision 120 to 2.0. Revision 012 
+
+ Simplification Item Check, newly introduced for 1709, was performed and all 
+necessary actions executed. 
+ 
+
+2. 
+Organization IBM  India Private Ltd. 
+Client Saint-Gobain  
+Duration August 2013-June 2017 
+Role Senior Operations Professional 
+Project Type End To End SAP BASIS Implementation and Support 
+Environment SAP Netweaver 7.0X and above 
+Operating System AIX 7.1 , Windows 2008 R2 and 2012 R2 
+ 
+Summary: 
+ 
+Implementation Projects: 
+ 
+
+ Migration of SAP ECC Landscape based on DB2 database to SAP HANA 
+Database running on SUSE + IBM Power processor. 
+
+ SAP HANA System Build using Backup Restore. 
+ SAP Solution Manager Upgrade from 7.1 SP12 to 7.2 SP03 
+ SAP Java GRC 5.3 Support pack upgrade using SUM Tool. 
+ Homogeneous TREX Migration  
+ Homogeneous Migration of Netweaver 7.02 by System copy method using 
+
+SWPM Tools. 
+ Table Space Compression in Oracle Database using BR Tools. 
+ SAP ECC 6.0 Installation with Oracle 11.2.0.3.X. 
+ SAP Netweaver 7.0X and above – System Build with Database copy 
+ Part of a team that performed Data Center Migration from third party to IBM for 
+
+SQL DB based SAP Environments including SCM, CRM, BW and ECC. 
+
+
+
+ 
+
+ 
+
+ Installation of ORTEC Leo for SAP system: Visualization and Calculation 
+Servers. 
+
+ SAP Netweaver 7.42 Installation and Upgrade of Support Pack Stack from SP08 
+to SP11 with SAP Fiori Add-on 
+
+ 
+ 
+ 
+Support Activities: 
+ 
+
+ Solving Priority 1 and 2 incidents in BAU Support for over 150+ SAP Instances 
+ Oracle, SAP HANA, MaxDB and DB2 Database Administration for SAP. 
+ Kernel Upgrades, Support Packs and Add-on installation. 
+ Oracle Online table re-organization, Offline table space re-organization, Database 
+
+refresh from Production to Quality, Database Shrink. 
+ Oracle upgrade from 11203 to 11204, Applying SAP Bundle Patches (SBP) for 
+
+Oracle databases. 
+ Fixed In-Wrong Tablespace issues for SAP systems based on Oracle. 
+ MaxDB / SAP Live Cache Database copy.  
+ SAP HANA System monitoring via SAP Solution Manager. 
+ SAP HANA Support Pack Stack Upgrade 
+ SAP HANA Revision Patch Upgrade 
+ SAP HANA Client Upgrade 
+ SAP Solution Manager (SOLMAN) EWA Configuration for ABAP and JAVA 
+
+Systems. Worked extensively to fix JAVA Grey rating Issues. 
+ SAP Solution Manager (SOLMAN) End to End (E2E) Configuration. 
+ Deployment of Byte Code Adapter (ISAgent) in Managed systems. 
+ Upgrade of Wily Enterprise Manager. 
+ Lead System Engineer for IBM’s Blue Care Monitoring Configuration for the 
+
+Entire Saint-Gobain Landscape. 
+ Focal Point for entire Monitoring Landscape of Saint-Gobain Servers. 
+
+ 
+ 
+Achievements and Appreciations: 
+
+ 
+ Our Team (Saint-Gobain) won the award for Best Team in Delivery Center 
+
+Chennai for exceptional Client Satisfaction and Quality Deliverables. 
+ Received IBM Bravo! Award from Delivery Project Executive (DPE) of Saint-
+
+Gobain.(2015) 
+ Awarded with Certificate of Excellence for Quality in Delivery by Director - DC 
+
+Chennai, IBM.(2015) 
+ Awarded with Certificate of Excellence for Quality in Delivery by Director - DC 
+
+Chennai, IBM.(2016) 
+ 
+
+ 
+ 
+
+
+
+ 
+
+ 
+
+3. 
+ 
+Organization Steria India Ltd. 
+Client Airbus Corporation (UK , France , Germany) 
+Duration December 2012-August 2013 
+Role Junior Software Engineer 
+Project Type SAP BASIS Support 
+ 
+Summary: 
+
+ System Monitoring  
+ Background Jobs Administration including creation of customized variants as per 
+
+client’s requirement. 
+ Performing Transports : ABAP  R/3 
+ Spool requests Archiving. 
+ ABAP Data Element Creation and Modification. 
+
+ 
+ 
+Organization Steria India Ltd. 
+Client Royal Mail Group (UK) 
+Duration November 2012 to December 2012 
+Role Junior Software Engineer 
+Project Type SAP BASIS Security and Support 
+ 
+Summary: 
+
+ System Monitoring and Health Check-up. 
+ User management. 
+ STMS Configuration and administration. 
+ Security Administration for Client’s SAP Systems. 
+
+ 
+ 
+ 
+Academic Qualifications: 
+ 
+Qualification Board/University      Institution Year of 
+
+passing 
+Marks (%) 
+ 
+
+       B.E 
+     (EEE) 
+
+Anna University S.A. Engineering College 2012 7.98(CGPA) 
+      HSC State Board Sir.M.Ct.Muthiah Chettiar 
+
+Higher Secondary School 
+2008 91.0% 
+
+     SSLC State Board Sir.M.Ct.Muthiah Chettiar 
+Higher Secondary School 
+
+2006 92.4% 
+ 
+
+

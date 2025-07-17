@@ -1,0 +1,157 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+#110/1, Maria Cottage, Kalyan Nagar, Bangalore 
+
+Ph: +91-7418276327 
+
+mailthejus92@gmail.com 
+THEJUS R 
+                                            
+ 
+
+2018 
+
+ 
+
+B.Tech (IIT Madras) 
+
+Associate – Data Science 
+
+Professional 
+
+Synopsis 
+
+ 
+
+ Wiley-Jigsaw certified data scientist with two and a half years of experience in industry 
+
+ Expertise in building machine learning models in R, SPSS and Python 
+
+ Experience in communicating results of complex analyses to business stakeholders 
+ 
+
+Skill Set 
+Tools:  R, SPSS, Python, SQL, MS Excel, MS PowerPoint, Microsoft Azure 
+Techniques: Regression Analysis, Decision Trees, Random Forest, SVM, xgboost, Text Mining,  
+Time Series Forecasting, Clustering, Recommender System 
+
+Cognizant –  
+Associate, Data 
+
+Science 
+Sep’15 - Present 
+
+Prediction of requirement of manual audit for expense claims by Cognizant employees: 
+
+ Developed a model using machine learning algorithms to find out which of the expense claims 
+by employees can be auto approved. 
+
+ The model flags the expense claims which complies with organization policies for auto 
+approval after screening through a classifier containing expense rules of organization and then 
+through the machine learning model,  thereby reducing the workload of the auditors. 
+
+Customer dunning propensity model for a US based energy giant: 
+
+ Developed a machine learning model which predicts the customer propensity to move from 
+dunning level 5 to dunning level 35. 
+
+ The model aided in reducing a lot of operational costs and in reducing the losses from 
+customers who are likely to enter dunning level 35 and are unlikely to clear the dues. 
+
+Store sentiment using customer feedback for Watches division of an Indian Conglomerate: 
+
+ Generated a sentiment score for each store using text data from customer feedback. 
+
+ Provided insights into root causes using topic modelling and clustering analysis on text. 
+
+ Developed a dashboard depicting store wise customer sentiment across various important 
+KPIs and identified topics. 
+
+Recommendation model for Watches Division of an Indian Conglomerate: 
+
+ Created a Recommender System for identifying the products which a customer is likely to buy 
+in the future, based on the customer purchase behavior. 
+
+ The model aided in the marketing of the products to the right target customers thereby 
+increasing the sales by cross-selling. 
+
+Customer Segmentation based on sales data for Eyewear division of an Indian Conglomerate: 
+
+ Employed clustering techniques to group the eyewear customers into various segments. 
+
+ Provided key insights for integration of defined customer segments into product marketing 
+strategy. 
+
+Forecasting of volatility of time series data using ARCH/GARCH models(case study): 
+
+ The residuals of time series data had been modeled using ARCH/GARCH algorithms, as part of 
+a case study. 
+
+ 
+
+Educational Background  
+
+B.Tech 2015 IIT Madras 7.4/10 
+
+Class XII (ISC) 2010 Auxilium Navajyoti, Calicut 92.6% 
+
+Class X (ICSE) 2008 Auxilium Navajyoti, Calicut 92.9% 
+
+Certifications  Wiley-Jigsaw international certification covering Intermediate level R programming and machine 
+learning methods such as Regression, Classification Techniques(tree based algorithms, naïve-bayes, 
+SVM), Clustering, Neural Networks, statistics etc. 
+
+ Machine Learning MOOC by Andrew NG offered via Coursera. 
+
+Cognizant India Pvt. Ltd 
+
+

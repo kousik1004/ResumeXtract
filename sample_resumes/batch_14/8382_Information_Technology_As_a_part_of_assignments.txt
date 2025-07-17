@@ -1,0 +1,617 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sowmya Shantharam
+
+
+ 
+
+1 | P a g e  
+
+ 
+
+Email : shalunitt@gmail.com  
+Mobile: +91-9108368306 
+
+SUMMARY 
+
+ Having experience to 5Years in ETL Testing and Development and Big Data testing in the 
+
+Information Technology. As a part of assignments, has been trained under Oracle, Informatica, 
+
+DataWarehouse testing, Microstrategy tools, Teradata, Hive, Hadoop HDFS, and Tableau reporting 
+
+tools. Worked on projects like Wave5, ADW to ICDW Migration (Auto LOANS) and PnL(Wave6) for 
+
+JP Morgan Chase and Co, DAP to BICC Migration for WellsFargo, ANZ  EDW Testing POC for ANZ 
+
+Operations and Technology Pvt. Ltd, USB DATASTG-ELZ Hive/DataQlty, Defect/Enhancement for 
+
+USBank. 
+
+ 
+
+SKILLS 
+
+Hardware / Platforms Windows, UNIX 
+
+Technology 
+Toad for Oracle, Teradata, Manual Testing, Platinum TASQ 
+
+Component, Hive, Hadoop HDFS 
+
+Databases Teradata, Oracle 
+
+Scripting Languages PHP, HTML, Java script, DOT NET, UNIX 
+
+Tools 
+
+Informatica, Abinitio, Quality Center, Control-M Enterprise, CA 
+
+Autosys, ALM, Microstrategy Reporting Tool, Tableau Reporting 
+
+tool 
+
+ 
+
+EDUCATION & QUALIFICATION 
+
+ 
+
+Degree with Branch College/University Year of Passing 
+
+Master of Computer 
+
+Applications 
+
+National Institute of 
+
+Technology, Trichy 
+
+2012 
+
+BSc Computer Science  Fatima College, Madurai 2009 
+
+ 
+
+AWARDS & CERTIFICATIONS 
+
+ 
+
+External Certification: TE0-121 Teradata12 Basics 
+
+Internal Certification: Data warehousing Testing Concepts-Practitioner Level 
+
+ 
+
+INNOVATION AND RECOGNIZATION 
+
+ 
+
+Appreciated for being a valuable innovator for contributing $2,106 as innovation value towards 
+Customer and/or Cognizant 
+
+ 
+
+PROJECT EXPERIENCE 
+
+Current employer’s name: Cognizant Technology Solutions 
+
+Account : BFS 
+
+Project #1 
+
+Title    DEFECT/ENHANCEMENT DEVELOPMENT/TESTING 
+
+Client   USbank 
+
+Operating System Windows 7 
+
+Tools                  Hadoop HDFS, Hive, Toad for oracle, Informatica, CA Autosys 
+Role   Tester 
+
+mailto:shalunitt@gmail.com
+
+
+ 
+
+2 | P a g e  
+
+ 
+
+Email : shalunitt@gmail.com  
+Mobile: +91-9108368306 
+
+Period   Jun 2017 – till date 
+
+Project Description 
+
+US bank using the ELZ system as a Data Landing Zone for their EDW. ELZ having the following 
+
+phases SOR – RAW, RAW – HM, HM – Delta and Consumer files, finally Tableau reports for the 
+
+customer provided queries. For the Defect identified or for any new enhancement that need to be 
+
+implemented in the PRODUCTION will be developed and tested 
+
+Role and Responsibilities 
+
+ Analysing or understanding the user specification/Client requirement documentation. 
+
+ Creating requirement, release and cycle for the each defect/enhancements in QC. 
+
+ Designing Test plan and Test cases based on the requirement shared and uploading in 
+
+QC 
+
+ Validating the Production defect fix files by executing the job 
+
+ Validating end to end testing for the new enhancement to be implemented in PROD.  
+
+ Data validation includes file validation, table validation, DDL validation, audit validation, 
+
+negative testing by mocking up the data 
+
+ Capturing and sharing the result with the client 
+
+ Prepared test data setup for validating different scenarios 
+
+ Issue identifying and defect reporting 
+
+ Tracking the defects in ALM Quality Center. 
+
+ Testing in both IT and UAT for PROD go-live 
+
+ Involved in providing better solutions within the team for any issues encountered. 
+
+Project #2 
+
+Title    USB DATASTG-ELZ Hive/DataQlty & DI_SEND 
+
+Client   USbank 
+
+Operating System Windows 7 
+
+Tools                  Hadoop HDFS, Hive, Tableau, Toad for oracle, Informatica, CA Autosys 
+Role   Tester 
+
+Period   Apr 2017 – till date 
+
+Project Description 
+
+US bank using the ELZ system as a Data Landing Zone for their EDW.ELZ system will read SOR 
+
+information from the source systems (Mainframes) and write the data in raw flat file format to the 
+
+ELZ Hadoop system using PWC and the HDFS connector for PWX. Raw files will then be formatted 
+
+into the Harmonized files using pushdown logic on the Hadoop cluster using Informatica Developer. 
+
+ELZ having the following phases SOR – RAW, RAW – HM, HM – Delta and Consumer files, finally 
+
+Tableau reports for the customer provided queries.  
+
+Role and Responsibilities 
+
+ Analysing or understanding the user specification/Client requirement documentation. 
+
+ Designing Test plan and Test cases based on the requirement shared 
+
+ Validating the Production fix files between RAW to HM by executing the job Validating 
+the reports generated in Tableau with the HDFS file and hive table by executing the 
+
+scripts. 
+
+ Data validation includes file validation, table validation, DDL validation, report 
+
+validation, checksum and reconciliation and checksum bypass by mocking up the data 
+
+mailto:shalunitt@gmail.com
+
+
+ 
+
+3 | P a g e  
+
+ 
+
+Email : shalunitt@gmail.com  
+Mobile: +91-9108368306 
+
+ Capturing and sharing the result with the client 
+
+ Prepared test data setup for validating different scenarios 
+
+ Issue identifying and defect reporting 
+
+ Tracking the defects in ALM Quality Center. 
+
+ Testing in both IT and UAT and provided clean Signoff 
+
+ Involved in providing better solutions within the team for any issues encountered. 
+
+Project #3 
+
+Title    ANZ  EDW Testing POC 
+
+Client   ANZ Operations and Technology Pvt. Ltd 
+
+Operating System Windows 7 
+
+Tools                  Teradata, Platinum TASQ Components 
+Role   Tester 
+
+Period   Feb 2016 – Apr 2016 
+
+Project Description 
+
+ANZ  EDW Testing POC is a migration project which deals with different Source system such 
+
+as ORION, CACHE, DLD, MIDANZ, ANZCAP, AMBIT. Main objective of this POC is to cover 
+
+testing CACHE source system by using Platinum Framework TASQ Component. 
+
+ Role and Responsibilities 
+
+ Analysing or understanding the user specification/Client requirement documentation. 
+With extensive IBM BDW domain knowledge reusable Test case Generator Framework is 
+
+constructed 
+
+ Designing Test approach and preparing test plan based on the requirement shared using 
+
+test case generator 
+
+ Data validation includes table validation, DDL validation using  database and Platinum 
+
+tool 
+
+ Capturing and sharing the result with the client 
+
+ Issue identifying and defect reporting and tracking the defects 
+
+ Testing ETL Spec for easy understanding of testing. 
+
+ Involved in System Integration testing, regression testing and retest process. 
+
+ Involved in providing better solutions within the team for any issues encountered. 
+
+Project #4 
+
+Title    DAP TO BICC Migration  
+
+Client   WellsFargo 
+
+Operating System Windows 7 
+
+Tools                  Microstrategy reporting tool, teradata 
+Role   Tester 
+
+Period   Nov 2015 – Jan 2016 
+
+Project Description 
+
+DAP to BICC Migration is a migration project which duplicates the report from PROD environment 
+
+(DAP) to UAT environment (BICC) to establish and controls all the project for admistration process 
+
+to BICC environment.  
+
+  
+
+mailto:shalunitt@gmail.com
+
+
+ 
+
+4 | P a g e  
+
+ 
+
+Email : shalunitt@gmail.com  
+Mobile: +91-9108368306 
+
+Role and Responsibilities 
+
+ Analysing or understanding the user specification/Client requirement documentation for 
+
+the reports to be validated. 
+
+ Data validation includes grid comparison for the reports generated, comparison of the 
+
+SQL query between two environments. 
+
+ Capturing and sharing the result with the client. 
+
+ Issue identifying and defect reporting. 
+
+ Tracking the defects in Excel document. 
+
+ Involved in providing better solutions within the team for any issues encountered. 
+
+Project #5 
+
+Title    CSL&CAF DW Development  
+
+Client   JP Morgan Chase 
+
+Operating System Windows 7 
+
+Tools                     Teradata, CTRL-M, UNIX, HP ALM, Informatica 
+
+Role   Tester 
+
+Period   Sept 2014 – Oct 2015 
+
+Project Description 
+
+CSL&CAF DW Development is a Chase Auto Finance and Student Loan Project which deals with 
+
+loans and lease for automotive dealers, consumers and students offered by the firm and handle 
+
+details of customers and its lenders. The key purpose of this project is to handle data for numerous 
+
+reports for finance, credit risk, sales etc. 
+
+ Role and Responsibilities 
+
+ Analysing or understanding the user specification/Client requirement documentation. 
+
+ Designing Test approach and preparing test plan and test cases based on the 
+
+requirement shared 
+
+ Data loads form Source to Target using ETL Tools such as Informatica and Control-M 
+
+Scheduler job 
+
+ Data validation includes file validation, table validation, DDL validation using  database 
+
+and Unix box 
+
+ Capturing and sharing the result with the client 
+
+ Prepared test data setup for validating different scenarios 
+
+ Issue identifying and defect reporting 
+
+ Tracking the defects in ALM Quality Center. 
+
+ Testing ETL Spec for easy understanding of testing. 
+
+ Involved in System Integration testing, regression testing and retest process. 
+
+ Involved in constantly monitoring the log files to make sure the process ran smoothly, 
+
+contacting the Developing team if any errors encountered. 
+
+ Involved in providing better solutions within the team for any issues encountered. 
+
+ Mentored ELT’s on testing approach and usage of ETL tools 
+
+ Helped in the development process during critical delivery time 
+
+Project #6 
+
+Title    Wave6 - PnL Data Mart  
+
+Client   JP Morgan Chase 
+
+Operating System Windows 
+
+Tools                     Teradata, CTRL-M, UNIX, HP ALM, Abinitio, Informatica 
+
+mailto:shalunitt@gmail.com
+
+
+ 
+
+5 | P a g e  
+
+ 
+
+Email : shalunitt@gmail.com  
+Mobile: +91-9108368306 
+
+Role   Developer 
+
+Period   Jan 2014 – Sept 2014 
+
+ 
+
+Project Description 
+
+Wave6 - PnL Data Mart is EDW to ICDW Migration project which deals with the profit and loss of 
+
+different DataMart. It handles different mart which phase out the current EDW Platform used for 
+
+customer report to more scalable, flexible and manageable streamlined ICDW platform. As part of 
+
+ICDW, system of records are staged and integrated using BDW model and present it to Semantic 
+view which will mimic the EDW final layout. 
+
+Role and Responsibilities 
+
+ Analyzing or understanding the Abinitio Graph with user specification to understand the 
+
+requirements 
+
+ Creating the ETL Spec for the better understanding of the graph 
+
+ Created DDL and DML doc based on the requirement understood 
+
+ Developed mapping using ETL tools such as Informatica and scheduled the job in Control 
+
+M Scheduler on daily/Weekly/Monthly basis 
+
+ Capturing unit test results to produce defect free code 
+
+ Migrated the defect free code from DEV to QA environment 
+
+ Supported and prepared scripts for the UAT ITSM 
+
+ Identified and fixed Prod defects by analysing the root cause 
+
+ Produced on time delivery with quality 
+
+ Involved in development for different layer(Staging, Integration and Semantic) 
+
+Project #7 
+
+Title    Auto Loans (ADW to ICDW migration Phase 1) 
+
+Client   JP Morgan Chase 
+
+Operating System Windows 7 
+
+Tools                      Informatica9, Teradata, CTRL-M, UNIX 
+
+Role   Developer 
+
+Period   Oct 2013 – Dec 2013 
+
+ 
+
+Project Description 
+
+Auto CAF is ADW to ICDW migration project for different data marts such as RCO, DIF, CALS, etc. 
+
+This project helps in  phase out the current EDW Platform used for customer report to more 
+
+scalable, flexible and manageable streamlined ICDW platform. As part of ICDW, system of records 
+
+are staged and integrated using BDW model and present it to Semantic view which will mimic the 
+EDW final layout. 
+
+Role and Responsibilities 
+
+ Analyzing the user specification/Client requirement documentation. 
+
+ Creating ETL Spec for easy understanding of development. 
+
+ Involved in development of integration layer. 
+
+ Involved in unit testing to produce zero defects and fixing defects for integration layer 
+
+and migrating to QA. 
+
+mailto:shalunitt@gmail.com
+
+
+ 
+
+6 | P a g e  
+
+ 
+
+Email : shalunitt@gmail.com  
+Mobile: +91-9108368306 
+
+ Migrated the defect free code from DEV to QA environment. 
+
+ Prepared ITSM doc for the deployment of code from QA to UAT. 
+
+ Produced on time delivery with quality 
+
+ Prepared runbooks and macro design documents for Client view. 
+
+ Conducted KT session for ELT’s for development process 
+
+Project #8 
+
+Title    Wave5 (EDW to ICDW migration) 
+
+Client   JP Morgan Chase 
+
+Operating System Windows 7 
+
+Tools                      Informatica9, Teradata, CTRL-M, UNIX 
+
+Role   Developer 
+
+Period   Nov 2012 – Sept 2013 
+
+Project Description 
+
+Wave 5 is EDW to ICDW migration project to integrate the channel datamarts to ICDW 
+
+environment for different marts such as OLM, EB, CTO, Platform,etc., This project helps in  phase 
+
+out the current EDW Platform used for customer report to more scalable, flexible and manageable 
+
+streamlined ICDW platform. As part of ICDW, system of records are staged and integrated using 
+BDW model and present it to Semantic view which will mimic the EDW final layout. 
+
+Role and Responsibilities 
+
+ Analysing the user specification/Client requirement documentation. 
+
+ Creating ETL Spec for easy understanding of development. 
+
+ Involved in unit testing to produce zero defects and fixing defects for staging, 
+
+integration and semantic layer and migrating to QA. 
+
+ Prepared runbooks and macro design documents for Client view. 
+
+ Understanding the flow and logic of EDW through Abinitio Graph for Semantic layer 
+
+development. 
+
+ Done root-cause analysis for the defects raised in PROD and fixed it.  
+
+ Migrated the defect free code from DEV to QA environment. 
+
+ Prepared ITSM doc for the deployment of code from QA to UAT. 
+
+ Produced on time delivery with quality 
+
+ Involved in development for different layer(Staging, Integration and Semantic) 
+
+ Worked in Documentation Preparation of SOR development. 
+
+mailto:shalunitt@gmail.com
+

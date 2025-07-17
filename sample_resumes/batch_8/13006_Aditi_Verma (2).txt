@@ -1,0 +1,233 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aditi Verma
+
+Aditi Verma
+Mail: eraditiverma@gmail.com
+
+
+  
+
+
+Cellular: +91 98186-99329
+Aspiring for middle level assignments in Database Administration / Service Delivery Management / Data Warehousing with an organisation of high repute.
+Professional Preface
+
+· A competent professional with 3 plus years of experience in database administration, data warehousing in IT and Services. 
+
+· Presently working with HCL Technologies Ltd., SEZ, NOIDA as a Specialist. A project planner with expertise in spearheading numerous projects and ensuring delivery of projects within the time & cost parameters.
+
+· Proficient in Database Administration involving in installation, configuration, tuning and migration of databases along with database design and management, Performance issues, Capacity issues, Knowledge of backup strategies, Knowledge of clusters and high availability technologies etc.
+
+· Adept in providing end-to-end development in monitoring the performance and growth of the database and accordingly planning its capacity.
+
+· An effective communicator with excellent relationship building & interpersonal skills. Strong analytical, problem solving & organisational abilities. Possess a flexible & detail oriented attitude. 
+
+· Proficient in Data Centre Operation Management and System Monitoring Activities.
+· Exposed to formal change management and incident management processes (ITIL)
+· Experience with Onsite/Offshore global delivery and support models. 
+
+
+· Administrating and mentoring a team of around 8 professionals including database developers.
+Professional Certification
+
+· Done Microsoft SQL Server 2005 - Implementation and Maintenance (Exam Number: 070-431) Certification.
+
+· Completed SQL Server 2005 Corporate Training from NIIT and Internal Training from HCL.
+
+· Completed HCL internal DC Exceelerator Programme successfully.
+
+· Received many Performance Awards from HCL Comnet Commendation Award.
+
+· Always got good rating during annual performance cycle.
+
+Scholastics
+
+B.E. (Electronics Engineering)
+
+Priyadarshini College of Engineering & Architecture from Nagpur University in 2008. Secured 61.1% marks.
+
+Employment Scan
+
+Started working with HCL since May’2008. Joined as GET (Graduate Engineer Trainee), after one year became Analyst (SQL server DBA), now working as Senior Analyst (SQL server DBA).This shows a continuous career growth.
+
+Areas of Expertise
+
+Technical -
+Domain
+
+
+:
+Relational Databases and Related Applications in Client Server Architecture.
+Languages
+
+
+:
+T – SQL and XML.
+Programming Skills
+
+:
+Structured Programming Concepts.
+Software Engineering
+:
+Data Flow Diagramming.
+
+
+& Quality Assurance
+
+Database
+
+
+:
+MS SQL Server (2000, 2005, 2008)
+
+Operating Systems
+
+:
+DOS and Windows 95, 98 and 2000.
+
+Database Skills
+
+:
+Database administration, Data Warehousing
+Others
+
+
+
+:
+ITIL Concept, SLA Management, Tools like BMC Remedy (Ticketing 
+
+
+
+
+
+
+Tool).
+Functional - 
+Database Administration
+: DBA & L2 responsibilities of MSSQL 2000, 2005 and 2008 server. Which includes SQL DBA day-to-day task and some high availability features. Such as installation of SQL server 2005, 2008, Backup-restore, login and user creation, mirroring, logshipping, receiving remedy ticket from client, working on remedy tickets, working with sql server agent jobs, monitoring and troubleshooting sql server performance.
+Data Warehousing
+
+: It includes an extraction, transportation, transformation, and an online analytical processing (OLAP) engine, client analysis tools, and other applications that manage the process of gathering data and delivering it to business users. It pulls the historical data from those operational systems to analyze the business trend. It brings together data from multiple transactional systems and enables users to access and analyze the information at various levels, from departmental to divisional, throughout the enterprise.
+Team Management
+
+: Leading & motivating workforce and imparting continuous on job training for accomplishing operational effectiveness / efficiency. 
+
+Feb’10 with HCL Technologies Ltd., SEZ and NOIDA as a Senior Analyst (DBA)
+
+Accountabilities
+
+Overseeing DBA’s end to end responsibilities. Such as installation of SQL server 2005, 2008, Backup-restore, login and user creation, mirroring, receiving remedy ticket from client, working on remedy tickets, working with sql server agent jobs, monitoring and troubleshooting sql server performance.
+· Working on database administration and managing Data Security.
+· Dealing with SQL server performance monitoring, traces etc.
+
+· Identifying, resolving escalation; resolving and closing through BMC remedy.
+
+· Managing & tracking customer problems.
+
+· Ensuring that customer problems were accurately reported addressed and resolved as per the contracts and committed time and generating reports; Handling maintenance of SLA.
+
+· Responsible for Data Recovery and Backup. High availability features like logshipping and mirroring.
+
+· Working and managing clustered environment also for one of the clients.
+· Pulling historical data from those operational systems to analyze the business trend. Bringing together data from multiple transactional systems and enables users to access and analyze the information at various levels, from departmental to divisional, throughout the enterprise.
+May’09-Jan’10 with HCL Comnet Ltd., NOIDA as an Analyst (DBA)
+
+Accountabilities
+Supervise DBA core responsibilities. Such as installation of SQL server 2005, 2008, Backup-restore, login and user creation, mirroring, receiving remedy ticket from client, working on remedy tickets, working with sql server agent jobs, monitoring and troubleshooting sql server performance.
+· Monitoring clients SQL Server; working on other client requests. 
+
+· High availability features like logshipping and mirroring.
+
+· Dealing with SQL server performance monitoring, traces etc.
+May’08-May’09 with HCL Comnet Ltd., NOIDA as a Graduate Engineer Trainee 
+
+Accountabilities
+
+· Initially worked as a shared resource on multiple projects.
+· Overseeing DBA L1 responsibilities such as Backup-restore, login and user creation, SQL server agent jobs troubleshooting.
+· Monitoring clients SQL Server; working on other client requests. 
+
+Day Core Business Errands
+
+Installation, configuration, upgrade, and migration
+
+· Gathering knowledge of the hardware prerequisites for an efficient database server, and communicating those requirements to the system administrator.
+
+· Install the database software and configure it for the purpose it is being deployed. As new releases and patches are developed decide which are appropriate and to install them. 
+
+· Migration data from the old server to the new one and defining its policy.
+
+Backup and recovery
+
+· Responsible for developing, implementing and periodically testing a backup and recovery plan for the databases I manage. 
+
+· Final responsibility for making sure that the backups are being done as scheduled and that they include all the files needed to make database recovery possible after a failure. 
+
+· Use the backups to return the database to operational status as quickly as possible, without losing any transactions that were committed. 
+
+· Make the management and client aware of the cost/risk tradeoffs of various backup methods.
+
+Database security
+
+· Understand the particular security model that the database product uses and how to use it effectively to control access to the data. The three basic security tasks undertaken are 
+
+· Authentication (setting up user accounts to control logins to the database), 
+
+· Authorization (setting permissions on various parts of the database)
+
+· Auditing (tracking who did what with the database) for conformance to the regulatory laws like Sarbanes-Oxley and HIPAA for its reporting requirements etc as per the project domains.
+Storage and capacity planning
+
+· Plan the disk storage size and monitor periodically the available disk space and keep track of growth trends for advice management on long-term capacity plans.
+
+Performance monitoring and tuning
+
+· Monitor the database server on a regular basis to identify bottlenecks (parts of the system that are slowing down processing) and remedy them. 
+
+· Proactively tune the database server at multiple levels and understand the use of respective monitoring tool at each of these levels 
+
+· Work closely with developers of applications that run against the database to make sure that best practices are followed so good performance will result.
+
+

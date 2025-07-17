@@ -1,0 +1,373 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Praveen. M
+Mobile: +91-8971269870
+
+         Email ID: mpraveenrs@gmail.com
+: +91-9952803272                    
+
+  : mpraveenrs@yahoo.in
+
+Objective:
+
+Having actual existence outside the mind in seeking a more challenging opportunity to further develop my career, using hands – on approach together with the skills and expertise I possess to attain my passion.
+Career Profile:
+
+· Working with DXC Technologies (Formal HPE), Bangalore. As “SVC Developer II”, from  June ’15 to  till date -  http://www.dxc.technology/ 
+· Worked with Mind tree Ltd, Bangalore. As “Senior Software Engineer”, from  Oct ’13 to May ’15  - Mindtree.com
+· Worked with Kandk InfoTech Private Ltd (Formally Known as TheValai InfoTech), Bangalore. As Software Engineer, from  Sep ’11 to Sep ’13 -  kandkinfotech.com (Thevalai.com)
+· Worked with Onward eService, Chennai. As Consultant for Wipro (Off Employee) in the ERP Project for ESI Corporation from Jan ’11 to May ’11.   
+Highlights:
+· Excellent working knowledge in the ASP.NET, C#.
+
+· Having good working experience in MVC, ADO.NET, and LINQ.
+· Extensively worked with database like SQL Server.
+· Experience in developing application including Presentation, Business, and Data Access layers.
+
+· Having good experience in UI development using HTML and CSS.
+· Capable of executing end-to-end development (SDLC cycle) of software products from requirement analysis to system study, designing and testing.
+· Client interaction during development, deployment and production elevation phases and Positive work attitude and self motivated to work independently and in item.
+· A quick learner with an easy adaptability to new environments, technology and people
+Academic Qualification:
+· Status
+
+: B.E, CSE(2006-2010) – 68%
+     Institution     : Jayamatha Engineering collage.
+
+          University
+: Anna University, Chennai, TamilNadu, India.
+
+· Status
+
+: HSC (2006 Pass out) – 69%
+Institution      : Cathedral Hr. Sec. School, Palayamkottai, Tirunelveli.
+
+Board            : TamilNadu State Board.
+
+· Status
+
+: SSLC (2004 Pass out) – 77%
+Institution      : Cathedral Hr. Sec. School, Palayamkottai, Tirunelveli.
+
+Board            : TamilNadu State Board.
+
+Technical Skills: 
+
+· Operating Systems
+
+: Windows 2000 /XP, Vista, Window 7.
+
+· Technology
+
+
+: ASP.Net, HTML, CSS, JavaScript.
+
+· Application Languages 
+: Visual Studio (C#,ASP.NET,ADO.NET,MVC)
+· DBMS 
+
+
+
+: MS SQL Server 2005 
+· Server
+
+
+
+: IIS 7.0
+· Framework
+
+
+: 4.5 Version
+
+
+Project Details:
+Project #1
+
+     
+Title
+:
+SKF (Svenska Kullagerfabriken)
+
+
+Role
+:
+Team Lead 
+
+
+Platform
+:
+ASP.NET, C#, MVC 5.0, SQL Server
+
+
+      OS
+:    
+Windows 7 
+
+
+Team Size
+:
+3
+
+Project Description:
+Svenska Kullagerfabriken, also known as SKF, is a leading bearing and seals manufacturing company founded in Gothenburg, Sweden in 1907.
+
+SKF is having many modules to monitor the whole manufacturing Units, in that EMI (Engineering Master Interface) is one of the module that is used as a User Interface to view the data and get the whole data as a report for their monitoring purpose. This contains many Groups of users to view certain record details and only the authorized persons can view the data.
+Key Responsibilities:
+
+· Involved in technical and functional discussion of the project with clients and onsite coordinators.
+
+· Involved in development and assign tasks to the team.
+· Involved in development of some new tools that is use to minimize the manual work.
+· Involved in ticket resolving and giving access to the people who raise for the request.
+· Help the team to finish the work on time and close the tickets.
+
+· Involved more on Enhancement and internal tool development work.
+
+Project #2
+     
+Title
+:
+AMEX ARC CDIT EXTENSIONS       
+
+
+Role
+:
+Senior Software Engineer
+
+
+Platform
+:
+ASP.NET 3.5, C#, SQL Server
+
+
+      OS
+:    
+Windows 7 
+
+
+Team Size
+:
+5
+
+Project Description:
+American Express, also known as AmEx, is an American Multinational financial service corporation. This company is well known for its credit card, charge card and travel cheque business.
+
+AmEx Arc CDIT Extension is an extension module that is used to reduce the manual process. The CDIT Extension contains two major part of work that is GVG and GAE. GVG (Global Variable Grid) is used to track the variable and its properties. GAE (Global Alert Engine) is used to give a regular interval for reminding the partners about the actions that are in Pending state.
+Key Responsibilities:
+
+· Involved in technical and functional discussion of the project with BA & Partners.
+
+· Involved in development of application in ASP.Net, C#.
+
+· Involved in development the screens.
+· Involved in issue tracking and resolution during development production phase
+Project #3  
+
+
+Title
+:
+Synovus Commercial Portal    
+
+
+
+Role
+:
+Senior Software Engineer
+
+
+Platform
+:
+MVC 4.0, C#, Ajax, JQuery, SQL Server 2008R2
+
+      OS
+:    
+Windows 7 
+
+
+Team Size
+:
+23
+
+Project Description:
+Synovus Financial Corporation The online single sign on portal for corporate banking with the customers. The primary admin can create secondary admin (or users) and assign services and features to them Later the admin can manage the users under them. The admin can manager user security transaction token, services and Reports
+Key Responsibilities:
+
+· Involved in developing some of the Login modules.
+· Involved in development of application in MVC 4.0, C#.
+· Responsible in writing unit test methods using Moq framework.
+· Involved in Bug fixing Involved in testing the application.
+Project #4
+     
+Title
+:
+School Management System       
+
+
+
+Role
+:
+Software Developer
+
+
+
+Platform
+:
+ASP.NET 3.5, LINQ, C#, SQL Server, JavaScript
+
+      Site URL
+:     www.erpvalai.com
+Project Description:
+School management system is a powerful enough to streamline the way educational institution functions. Segregating information which might have cost hours for you earlier or even days can be completed in a matter of minutes now. The application captures, manages and presents data regarding involving modules like Student Admission &Registration, Excel Upload, Billing and Fee Collection, Grading, Student Attendance, Time Table, School Accounts, Library Management, Group Admin, Sending Mobile SMS, Transfer Certificates (TC), Transport facility and Reports
+Key Responsibilities:
+
+· Involved in technical and functional discussion of the project.
+
+· Involved in development of application in ASP.Net, C#.
+
+· Involved in development the screens.
+· Involved in issue tracking and resolution during development production phase
+Project #5 
+           Continuous and Comprehensive Evaluation (CCE) For CBSE
+Environ ment
+
+:
+ASP.Net 3.5, C#.Net 3.5
+
+Database
+
+:
+SQL Server 2008
+
+Team Size
+
+:
+4 members
+
+          Role
+
+
+:  
+Software Developer 
+          Site URL
+
+:  
+http://www.erpvalai.com/cce/ 
+
+Project Description:
+The CCE or Continuous and Comprehensive Evaluation scheme refers to a school-based evaluation of students that covers all the aspects of a student’s development. Continuous means regular assessments, frequency of unit testing, analysis of learning gaps, applying corrective measures, retesting and giving feedback to teachers and students for their self-evaluation, etc. Comprehensive on the other hand attempts to cover both the scholastic and the co-scholastic aspects of a student’s growth and development — with both these aspects of the evaluation process being assessed through Formative and Summative Assessments.
+CCE helps in improving student’s performance by identifying his/her learning difficulties at regular time intervals right from the beginning of the academic session and employing suitable remedial measures for enhancing their learning performance.
+          The scheme of continuous and comprehensive evaluation has inbuilt flexibility for schools to plan their own academic schedules as per specified guidelines on CCE.
+Key Responsibilities:
+· Understanding the functional requirements.
+
+· Involved in technical and functional discussion of the project.
+
+· Involved in development of application in ASP.Net, C#.Net.
+
+· Involved in designing of database.
+Project #6 
+
+
+Title
+:
+Evalai           
+
+
+
+Role
+:
+Software Developer
+
+
+
+Platform
+:
+ASP.NET, C#, ADO.NET, SQL Server
+
+      Site URL
+:    www.kids.evalai.com 
+Project Description: 
+
+                      EVALAI - Dedicated World’s safest search engine for Kids / Students of every age group eValai is the world’s safest search engine that will transform the way students search and utilize online information. Evalai our unique search engine uses a world class censor board (operated by a group of experienced internet content censoring specialists) who decides the content for different age groups. In précis, we’ve created a way to protect your loved ones in the cyber world without isolating them from the internet. 
+Key Responsibilities:
+· Involved the maintenance and enhancement of the application.
+
+· Involved in designing, Coding and implementation for the development.
+
+· Involved  in the maintenance and enhancement of the application
+Personal Information:
+
+Gender / Status     :
+
+Male / Single
+
+
+Languages
+       :
+
+Tamil, English
+
+Nationality
+       :
+
+Indian
+
+
+Passport Status     :
+
+Active
+Declaration:
+Hereby I declare that all the above-furnished details are true to the best of my knowledge.
+
+ (Praveen M)
+
+Curriculum Vitae of M.Praveen
+
+
+Page# 4/5
+

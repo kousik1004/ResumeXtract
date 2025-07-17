@@ -1,0 +1,306 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SRIKANT SHARMA
+Data Scientist at Accenture AI
+Mobile	 : +91 – 7813907214/9749995934
+E-Mail	: srikantsaec15@gmail.com
+Linkedin : https://www.linkedin.com/in/srikant-sharma-561237105
+
+Summary:
+· Around 3 years of Experience on the area of  AI, Machine Learning and Natural Language Processing using tools like R, Python, KNIME analytics platform, R Studio, Rattle, Rapid Miner, Azure Machine learning, SQL.
+· Experience in Retail (FMCG) and Trade Promotion management domains.
+· Experience with R libraries like ggplot2, car, dplyr, caret, e1071, rpart, igraph, nnet,sparklyr,randomForest, kernlab, glmnet, ROCR, gbm, party, arules, tree, klaR, RWeka and Python libraries like Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Scipy and Pyspark.
+· Experienced in Data Mining, Data Processing, ETL, bigdata processing, Implementation and Support in the domains of Sales, Marketing, and ecommerce, Insurance.
+· Strong in Mathematics, Statistics, Data Mining, Predictive Modelling, Machine Learning, NLP and NLUconcepts.
+· Experienced in Handling Customer faced business problems in end2end.
+· Worked on Linear Regression, Logistic regression, PCA, SVD, Clustering, Random forest, Support Vector Machines, Event Extraction (LDA), Text Classification, Linear Discriminant analysis, Sentiment analysis.
+· Experience in business and technical requirements, design, development and implementation.
+· Strong in Understanding of Relational Data, Unstructured Data like audio, video, Image, text and Semi Structured Data like XML and JSON formats.
+· Good at BIG data Processing tools like HIVE, PIG, SPARK and Integration of HDFS files with Relational Data using SQOOP. 
+· Experienced in working with various data sources like SQL Server, Oracle and HDFS that delivers enterprise data-driven applications with reliable data management.
+· Implemented various REST web services. Experienced in working on Deployments of Models in AZURE and support/Maintenance of deployed Models and Online/Offline Testing.
+· Strong in Issues Troubleshooting and Resolving in Data, Application, Services Levels.
+· Familiar with AGILE, SEMMA, CRISP DM methodologies in Models Construction.
+
+
+Skill Set:
+
+	Machine Learning
+
+	Regression, Classification, DimentionalityReduction, Clustering, Association Rules, Time Series forecasting, Parametric tests, non-parametric models
+
+	Natural Language Processing
+	Text Mining, web scrapping, graph datamining, text classification, event extraction, topic modeling, sparsity reduction, sentiment analysis
+
+	Statistics /Mathematics
+	Interpolation, extrapolation, covariance, correlation, dtm, sampling, Least square method, Maximum likelihood method, Parametric tests, non-parametric tests
+
+	ML tools
+	R/Python, KNIME Analytics Platform, WEKA, Rapid Miner Studio, Azure Machine learning studio, Splunk
+
+	Data Processing Tools/Scripting
+
+	PIG,Hive,Sqoop,SQL/PLSQL, Spark
+
+	Other tools
+
+	AWS EC2 Linux Instance, Microsoft Visual Studio, Putty, WinScp, Jupyter notebook, R Studio, Spyder, MS office
+
+	RDBMS
+	Microsoft Sql server, Oracle, MySQL, HDFS
+
+
+Project Experience :
+
+	Project Name:
+	Opportunity vs Purchase prediction
+
+	Environment
+	Databases: MS Sql Server
+Tools: Python/R, Machine Learning/NLP
+
+
+Project Description
+
+In sales cycle, among opportunities whether the customer will purchase the Product or not need to be predicted using binary classification method.
+
+Responsibilities:
+
+
+· Interacting with Business Analyst in gathering Requirements.
+· Data Identification, Collected from various sources as per the Business.
+· Data preprocessing and feature engineering done and prepared multiple candidates sets.
+· Classified data as per the business problem using logistic regression and validated.
+· Given insights, recommendations and Justifications to business team in various levels.
+
+
+	Project Name:
+	Customer Classification
+
+	Environment
+	Databases: My Sql
+Tools: Python/R, Machine Learning/NLP
+
+
+Project Description
+
+In Retail Beverages Company various levels of customer classification/segmentation is a useful task to Retaining and acquiring customers.  
+
+Responsibilities:
+
+
+· Data Identification, Collected from various sources as per the Business Problem.
+· Data preprocessing and feature engineering done and prepared multiple candidates sets.
+· Segmented/classified data as per the business problem using K-mean Clustering and validated.
+· Topic modelling done for the mail content data set given by business research team using LDA and SVD 
+· Final clustered data sets prepared and comparisons done using visualizations and deployed on web player.
+· Given insights, recommendations and justifications tobusiness team in various levels.
+
+
+
+
+
+
+
+
+	Project Name:
+	TPM Promotion forecasting
+
+	Environment
+	Databases: Oracle,hdfs
+Tools: Python/R,Sqoop,Sql/plsql,AZUREMachine Learning/NLP
+
+
+Project Description
+
+To improve business Decision Making and Drive out Unnecessary Costs Accomplished simulation based forecasting of TPM system that will produce hourly business impact score recorded based on various checkpoints and it will forecast the business impact.
+
+Responsibilities:
+
+· Data Identification, Collected from various sources as per the Business Problem.
+· Data preprocessing and feature engineering done and prepared multiple candidates sets.
+· Implemented Simulation of TPM system and supported business team in taking Decisions.
+· Applied ARIMA model to forecast the business impact for 24 hrs. , Months, Quarter, and Year.
+· Implemented REST web service and Deployed forecasting Model in AZURE and supporting business users. 
+
+
+	Project Name:
+	Customer Churn 
+
+	Environment
+	Databases: MS SQL 2008,CSV
+Tools: R/Python, spotfire, sql/plsql.
+
+
+Project Description
+
+This project involves analysis of Customer churn based on customer geo-demographic data by applying Logistic regression & Auto classifier Node using different tools python/R. This data comprises with EMEA and APJ region customer information and based on this information need to identify which customer will stay & leave. 
+
+Responsibilities:
+
+· Understanding customer information data.
+· Data preprocessing and Exploration using different tools.
+· Applied logistic regression and random forest candidates to predict customer churn.
+· Segment the customerbased on country.
+· Find out which country have highest churn rate.
+· Supported testing and resolving Issues.
+
+
+
+
+
+
+
+
+
+
+	Project Name:
+	Login fraudDetection
+
+	Environment
+	Server System Log Files
+Tools: R, text mining, Machine learning.
+
+
+Project Description
+
+Analysis of text file of server system log generated event from UI online data submission portal for partners. Based on end user activity logs  will store in system for specific event by end users and the log file will analyze using text mining to understand which kind of activity are performed by end user.   
+
+Responsibilities:
+
+· Understanding text data logs structure.
+· Decoding short format word to full length word for easy understanding output.
+· Filtering out text based on specific login id
+· Text preprocessing to clean some of system related items.
+· Based on number of violations predict the violation.
+
+
+
+	Project Name:
+	Japanese Text Classification
+
+	Environment
+	MySql
+Tools: Python, Spark,Pyspark, FacebookFast-Text, AWS EC2 Linux Instance, Putty, WinScp, Machine learning.
+
+
+Project Description
+
+Japanese text Classification of incidents as per the description in Japanese language and the segmentation. It’s hard to tokenize the Japanese words because unlike some languages like English, French there is no spaces between Japanese words. Recently launched library from Facebook Fast-Text has the ability to support different languages and the pre-trained models for 157 different languages. We have done it using Amazon AWS EC2 Linux instance and the Pyspark.
+
+Responsibilities:
+
+· Understanding text incident data logs structure.
+· Importing the features into the CSV files
+· Feeding the CSV file to EC2 instance
+· Importing the Japanese trained model into EC2 Instance
+· Text preprocessing to clean some of system related items.
+· Training the model with the incident data
+· Based on the description, segmenting the incident data
+
+
+EDUCATION QUALIFICATION
+· B.Tech(Electronics and Instrumentation) from West Bengal University, Asansol Engineering College in 2011-2015.
+
+CERTIFICATIONS
+· Certifications in Data Science and Machine learning in Accenture AI.
+· Certifications in Natural Language Processing/ understanding in Accenture AI.
+· Certifications in Deep learning in Accenture AI
+· Certification in Splunk from Splunk.com.
+
+TRAININGS
+· Attended trainings on Data Science and Machine learning with R and Pythonin Accenture AI
+· Attended Statistical Modeling for Data Analysis(SMDA) in Accenture AI
+· Attended Natural language processing/ understanding trainings in Accenture AI
+· Attended Deep learning training in Accenture AI
+· Attended trainings on Splunk from Splunk.com
+· Attended trainings on PySpark and Big Data in Accenture AI
+· Attended Azure Machine learning trainings in Accenture AI
+· Attended trainings on BOT Framework and Cognitive services
+· Attended trainings on C# asp.net and vb.net
+· Attended trainings on Service-Now custom REST Api
+· Trainings on SharePoint development using C#
+· Attended Trainings On RPA
+· Attended trainings on Chat-Bots
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PERSONAL DETAILS
+· Date of Birth			: 23.08.1992
+· Current location			: Bangalore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

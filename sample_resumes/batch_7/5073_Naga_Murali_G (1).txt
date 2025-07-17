@@ -1,0 +1,315 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KANIKE PAVAN KUMAR                                                
+
+
+                                                              Resume
+
+Naga Murali G
+SAP ABAP and S/4 HANA consultant and SAP UI5 ( ODATA model)
+Phone : 91- 9985394822
+E-mail : murali.gudavalli@gmail.com
+Murali.gudavalli.gnm@gmail.com
+____________________________________________________________________
+EXPERIENCE SUMMARY 
+· Overall 11 years in SAP, 2 years in S/4 Hana, 4 years as an HANA consultant and 5 years as an ABAP technical consultant.
+· Involved in custom code adoption process like custom code evaluation, SAP HANA and S/4 Hana checks in S/4 HANA system conversion process and S/4 Hana design studio.
+
+· Good hands on experience in CDS views, AMDP and ODATA UI5.
+
+· Good experience as an SAP HANA technical consultant.
+· Good experience on SAP UI5 ODATA model in coding part as I was involved in full end to end implementation project for client Anglo American based out of Johannesburg.
+
+· Good experience in requirements gathering, Client review meetings, Technical spec preparation, coding, testing, leading the team and monitoring deliverables.
+
+· Had good exposure and experience in FICO(Finance), TRM module (Treasury Management) and BCM module (Bank Communication management).
+· Involved in full end to end implementation project for Harley Davidson client based out of US.
+
+· Involved in one full cycle end to end rollout implementation to Italy for client Daimler.
+· Experience on SAPUI5, webdynpro abap, workflows, adobe forms integrated with webdynpro.
+· Extensively worked in ABAP Dictionary, in Classical reports, Interactive Reports(module pool programming), ALV reports using function modules and Classes, Inbound Outbound file interfaces,  Enhancements, adobe forms integrated weddynpro and Debugging.
+· Over 1 year of experience in Oracle Apps. 
+WORK EXPERIENCE
+
+· Accenture Services Pvt Ltd..,
+    Duration: 3.6 year (27th DEC 2013 to till date) 
+           Designation: Team Lead
+
+· Infosys, Hyderabad
+
+Duration: 7 years (27th Feb, 2006 – 20th DEC 2013).
+Designation: Team Lead
+Professional & Project Experience
+SAP Experience
+· Project # 7
+-----------------------------------------------------------------------------------------------------------------------
+
+Client
+
+: GAZPROM (UK), ADNOC
+Company          : Accenture, India           
+
+Role
+
+: Technical Architect (Offshore Primary contact)
+Modules
+: S/4 Hana
+Duration
+: Jan ‘16 –Till Date
+-----------------------------------------------------------------------------------------------------------------------
+
+Technical Areas: S/4 HANA system conversion process and S/4 Hana design studio
+Roles and Responsibilities:
+· Involved in custom code evaluation, SAP HANA and S/4 Hana checks in S/4 HANA system conversion process.
+
+Involved in below Checks:
+
+· Set up ATC checks for custom code analysis.
+
+· The Field Extension check finds length conflicts in existing coding
+
+· The Search DB Operations check finds write operations on specific database tables
+
+· The Search for usages of simplified objects check finds usages of objects stored in Simplification Database
+
+· The Search for ABAP Dictionary enhancements finds extensions in the data dictionary (like appends)
+
+· The Search for base table of ABAP Dictionary views finds usages of database tables in views
+
+· The Search for S/4HANA related Syntax errors tries to map syntax errors to simplification items
+· Project # 6
+-----------------------------------------------------------------------------------------------------------------------
+
+Client
+
+: Anglo American (Johannesburg)
+ 
+Company          : Accenture, India           
+
+Role
+
+: Team Lead
+Modules
+: ABAP HR
+Duration
+: Jan 14‘ – Dec 15
+ 
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Technical Areas: Hana with SAP UI5 ODATA model.
+
+Roles and Responsibilities:
+· Involved in full end to end implementation of Electronic manning board for client Anglo-American using SAP UI5.
+· Successfully lead team through all the stages like understanding the requirement from business till testing phase of the code.
+· Coding, Debugging, analyzing and understanding the requirement or the issues.
+
+· Involved in design of Technical Specs (TS) based on the Functional Specs (FS) and also in code reviews.
+· Project # 5
+-----------------------------------------------------------------------------------------------------------------------
+
+Client
+
+: Harley Davidson
+ 
+Company          : Infosys, India           
+
+Role
+
+: Team Lead
+Modules
+: ABAP
+Duration
+: Jan ‘12 – DEC 2013
+ 
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Technical areas: SAP HANA code conversion for system readiness.
+Roles and Responsibilities:
+· Involved in full end to end implementation with Hana as back end.
+
+· Involved in adaption of ABAP code to SAP Hana.
+Below are the steps involved:
+
+· Project phase planning which involves analysis of current situation of your custom code in your landscape to get an impression about the efforts needed for the migration.
+· Identifying performance optimizations within the custom code.
+· After migration checks optimization of ABAP code for performance.
+· Project # 4
+-----------------------------------------------------------------------------------------------------------------------
+
+Client
+
+: Daimler Cesar
+ 
+Company          : Infosys, India           
+
+Role
+
+: Team Mentor
+Modules
+: ABAP HR
+Duration
+: Sep ‘10 – DEC 2011
+ 
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Technical Areas: Module pool programming, Enhancements, ABAP HR.
+
+Roles and Responsibilities
+
+· Involved in one full cycle end to end rollout implementation to Italy for our client Daimler.
+· Successfully lead team through all the stages in the rollout process till the go live.
+· Coding, Debugging, analyzing and understanding the requirement or the issues.
+
+· Frequent interactions with the functional team and coordinating with the onsite team.
+· Involved design of Technical Specs(TS) based on the Functional Specs(FS) and code reviews.
+· Project #3
+-----------------------------------------------------------------------------------------------------------------------
+Client
+
+: RIOTINTO
+
+Company          : Infosys, India            
+
+Role
+
+: Technical Consultant
+Modules
+: ABAP HR
+Duration
+: May ‘08 – Aug ‘10
+-----------------------------------------------------------------------------------------------------------------------
+Technical areas: SAP HR, BAPI, BADI, ABAP Reports.
+Roles and Responsibilities 
+
+· Worked on various HR objects and involved in developing ABAP reports.
+· Techno-functional co-ordination for offshore development issues
+· Technical Concept Preparation, Analysis of Functional Design in order to understand the Business Requirement and to design the solution.
+· Employing Quality process during preparation of each configurable items coding, Technical spec, Unit Test Plan and in Defect Prevention.
+· Team mentor activities 
+· Being a senior resource, involved in Quality / Performance testing and conducted code reviews.
+
+· Coordinate with onsite team and providing Technical assistance to team members.
+· Project # 2
+-----------------------------------------------------------------------------------------------------------------------
+Client
+
+: NAB( National Australian Bank )
+ 
+Company          : Infosys, India.           
+
+Role
+
+: Technical Consultant
+ 
+
+Modules
+: ABAP HR and core ABAP
+Duration
+: Feb ‘07 – April ‘08
+ 
+-----------------------------------------------------------------------------------------------------------------------
+Technical areas: ABAP and ABAP HR reports
+Roles and Responsibilities 
+
+· Developer and Module lead in Offshore for rollout developments and bug fixing.
+· Worked on ABAP HR reports primarily on bug fixing.
+· Involved in upgrade project from 4.6c to ECC 6.0 for our client NAB.
+· Worked primarily on Unicode conversions as part of upgrade project.
+· Techno-functional co-ordination for offshore development issues.
+· Involve in Quality / Performance testing and conduct code reviews.
+
+· Employing Quality process during preparation of each configurable items coding, Technical spec, Unit Test Plan and in Defect Prevention.
+
+· Coordinate with onsite team and providing Technical assistance to team members.
+
+· Project # 1- Non-SAP Experience
+-----------------------------------------------------------------------------------------------------------------------
+Client
+
+: Fidelity Investments
+ 
+Company          : Infosys, India          
+
+Role
+
+: Business Analyst
+ 
+
+Modules
+: Oracle Application Suite 11i
+ 
+
+Duration
+: Feb ’06 – Jan ‘07
+
+ 
+
+-----------------------------------------------------------------------------------------------------------------------
+Technical Areas: Oracle Apps, pl\sql.
+
+Roles and Responsibilities
+
+· Research and analysis of the issues.
+
+· Onsite coordination, planning and managing day-to-day activities and interaction with client.
+
+· Preparing System Requirement Analysis (SRA) documents for fixing the issues, and validation of the fixes. 
+
+· Conducting Client Walk thru with the created SRA documents.
+
+· Testing whether the fix is resolving the issue and validating it once it is migrated.
+
+ACADEMIC QUALIFICATIONS
+
+· Graduation (2001-2005): 
+B.Tech, in Electronics and Communication from
+ 
+
+Jawaharlal Nehru Technological University, Hyderabad.
+
+
+

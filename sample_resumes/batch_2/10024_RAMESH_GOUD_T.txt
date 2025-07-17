@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name		:  RAMESH GOUD T
+Location	:  Hyderabad
+Email-id	:  goud433535@gmail.com
+Mobile	:  8681014725
+
+EDUCATION
+
+	Degree with Branch
+	College/University
+	Year of Passing
+
+	Bachelor of  Technology
+ ( Electronics and communication )
+	Annamacharya Institute Of Technology & Sciences, Rajampet,
+AndhraPradesh-516115
+	2013
+
+	XII
+	Narayana Junior College,
+Kadapa,
+Andhra Pradesh -516001
+	2009
+
+	X
+	New Model high school, Kadapa,
+Andhra Pradesh -516001
+	2007
+
+
+
+	
+TECHNICAL SKILLS
+	
+	Hardware
+	IBM Mainframe
+
+	Programming Languages
+	COBOL, JCL, VSAM, CICS, Easytrive
+
+	Databases & Tools
+	DB2, SQL
+
+	Other Utilities	
+	IBM Utilities, File Aid, Endeavor, XREF, TSO/ISPF, Expediter
+
+
+	Internal certifications
+	JCL,COBOL,DB2,SQL
+
+
+
+
+
+EMPLOYMENT HISTORY: 
+
+	Name of the Company
+	Designation
+	From
+	To
+	Duration
+
+	Cognizant Technology Solutions India Pvt. Ltd.
+	Programmer Analyst
+	2014
+	Till date
+	3 Years
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+SUMMARY:
+
+I have 3 years of experience as a software application Developer, covering the areas of analysis, design, development, testing and management of application software related to the mainframe. My expertise includes preparing design documents, coding, participating in the status calls and fixing the defects (in System testing & User acceptance testing) and ensuring the smooth implementation in real time environment. 
+I always make sure that the deliverables are of the best, in quality and on time being flexible learning quickly and taking ownership of the activities. 
+
+PROJECT PROFILE:
+
+CLIENT DESCRIPTION: 
+
+Dun & Bradstreet – a leading provider of business information for risk management, sales and marketing and supply management decisions worldwide. Dun & Bradstreet is the world’s leading provider of business-to-business credit, marketing and purchasing information, and receivables management services. D&B provides the information, tools and expertise to help customers Decide with Confidence. D&B's E-Business Solutions are also used to provide Web-based access to trusted business information for current customers as well as new small business and other non-traditional customers. Over 90 percent of the Business Week Global 1000 relies on D&B as a trusted partner to make confident business decisions. More than 100,000 companies rely on D&B to provide the insight they need to help build profitable, quality business relationships with their customers, suppliers and business partners.
+
+
+PROJECT PROFILE-1: 
+
+	Project Title	
+	UK Modelled Sales and Employee Figures
+
+	Duration
+	3 months
+
+	Location
+	Chennai
+
+	Hardware
+	IBM Mainframe
+
+	Operating Systems
+	z/OS
+
+	Programming Languages
+	COBOL,JCL, Easytrive, IBM Utilities
+
+	Tools Used
+	File aid , Endeavor ,XREF 
+
+	Client
+	D & B
+
+
+
+
+
+
+
+
+
+
+Project description:
+
+The aim of UK Modelled Sales Values project is Store UK Estimated Sales Figures in the UK Mainframe in order to send to GDR/DDR via the Monthly feed from EOS and ensure EOS sourced Estimated Sales Figure is used in World base and downstream products.
+
+Roles and Responsibilities
+· Involved in full project life cycle involving Requirement Analysis, Design, Coding, Testing and Implementation phases
+· Involved in preparing the technical design documents 
+· Extensive coding using COBOL, JCL and VSAMs.
+· Development and Testing 
+· System Testing and Integration Testing
+· Production implementation support
+· Knowledge transfer to support team
+· Status Reporting 
+· Coordinating with various other concerned groups as and when required
+
+
+PROJECT PROFILE-2: 
+
+	Project Title	
+	Granular Database Extract
+
+	Duration
+	Two months
+
+	Location
+	Chennai
+
+	Hardware
+	IBM Mainframe
+
+	Operating Systems
+	z/OS
+
+	Programming Languages
+	DB2,JCL, Easytrive,
+IBM Utilities, SORT
+
+	Role
+	Team Member
+
+	Client
+	D&B
+
+
+
+PROJECT DESCRIPTION: 
+
+The aim of this project is to extract the details of UK & IR DUNS from Granular Data Base between the years 2005-2015 and provide the details to Production Team.
+
+Roles and Responsibilities
+· Development and Unit Testing
+· System Testing and User Acceptance Testing.
+
+
+
+
+
+PROJECT PROFILE-3: 
+
+	Project Title	
+	ISSUE SYSTEM
+
+	Location
+	Hyderabad
+
+	Hardware
+	IBM Mainframe
+
+	Operating Systems
+	z/OS
+
+	Programming Languages
+	COBOL,CICS,JCL,VSAM, Easytrive,
+IBM Utilities
+
+	Service Desk Tool
+	CA Service Desk Manager
+
+	Role
+	Production Support
+
+	Client
+	CNO
+
+
+
+
+Client Description:
+
+CNO Financial Group –It is financial services holding company based in Carmel, Indiana. CNO's insurance subsidiaries provide life insurance, annuity and supplemental health insurance products to more than four million customers in the United States. These products are distributed through independent agents, career agents and direct to customers through television advertising and direct mail.
+Its insurance subsidiaries include Bankers Life and Casualty Company, Colonial Penn Life Insurance Company and Washington National Insurance Company.
+
+
+
+PROJECT DESCRIPTION: 
+
+ISSUE is Integrated System Support for Underwriter’s Evaluation. 
+ISSUE system handles the applications/policies only for Health and Disability insurance products of CNO. 
+
+‘Health and disability income products’ distributed by CIG and BLC is managed by ISSUE system.
+ ISSUE system has ability to 
+· Facilitate entering data from application requesting coverage into the system
+· Facilitate underwriters to request for additional information for applications and update application data in the system
+· Facilitate underwriter to enter their decisions on applications (i.e. either issue or reject)
+· Pass on data to other systems for further processing and maintenance
+· Produce Policy Documents
+
+Roles and Responsibilities
+1. Resolving issues/abends during Production, UAT & SIT Batch Cycle with in SLA time.
+
+2. Worked on Enhancement Projects regarding ISSUE system with below responsibilities:
+
+· Involved in full project life cycle involving Requirement Analysis, Design, Coding, Testing and Implementation phases
+· Development and Testing 
+· System Testing and Integration Testing
+· Production implementation support
+· Knowledge transfer to support team
+· Status Reporting 
+· Coordinating with various other concerned groups as and when required
+
+3. Solving Service Desk Tickets that are raised by the Business analysts regarding ISSUE application System.
+
+Personal details
+
+
+Declaration
+	I give you the word that I will do the work my level best and also ready to learn new technology and experiment it.
+
+Date: 27-04-2017								Yours Sincerely,
+Place: Hyderabad								Ramesh Goud T

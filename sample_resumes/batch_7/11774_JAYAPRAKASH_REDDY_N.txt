@@ -1,0 +1,895 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROFESSIONAL SUMMARY
+
+	Name
+
+
+
+                                                                                                  
+                                                                                          JAYAPRAKASH REDDY N                      contact: +91-9848582209                    	
+
+
+Profile Summary
+· SAP Projects: 4 implementations and 5 Support Projects, Experience in Handling of High-end Servers.
+· Work Experience: 5 years of SAP Consulting experience 
+· Professional with 2 years and 8 months and remaining experience as Contract employee (No Exp. Certificate for this), as a SAP Basis Consultant with E2E implementation projects and sybase DR setups.
+· Worked Extensively on Sybase DR and upgrades, ECC 6.0 (ABAP+JAVA) Stack, SAP NETWEAVER 7.4, Solution manager 7.1 sp15, 7.2
+· Worked extensively on System refreshes using export import  and attached and detach method
+· Background includes systems installation, maintenance, troubleshooting, and  problem resolution 
+· Quick study, dedicated team player. 
+
+Technical Summary
+
+	SAP Releases
+	 ECC 6.0, Solution manager 7.1, 7.2 ,Technical      
+Upgrade, EP 7.4, NetWeaver 2004,2004s
+
+	Technical Skills
+	Operating Systems :     Windows 2012r2,linux 6.2,AIX 7.1,SLES 12  SP2                                               
+Databases               :     Sybase 15.7 & 16.0 , Oracle 12g,SQL and HANA 1.0 SP10 & HANA 2.0
+
+	Hardware
+	DELL Power Edge Servers 2850, 2950, DL 380 HP server, IBM power blades.
+
+
+
+Education details:
+
+	Qualification
+	Educational Institution
+	Year of Passing
+
+	B.Tech
+	Swami Ramananda Tirtha Inst. Of Sc.& Tech.(JNTU)
+	2005
+
+	Intermediate
+	Alfa Jr.college  
+	2000
+
+	SSC
+	Govt.High School
+	1998
+
+
+
+
+
+
+
+
+
+
+SAP professional experience:
+
+Project 1                                                                                                              From: APRIL 2017 -- TO:  Till date
+
+
+	Client Name
+	NATIONAL CENTRE FOR ANTARCTIC AND OCEAN RESEARCH
+
+
+	Project Name
+	Implementation
+
+	Team Size
+	11
+
+	Role
+	SAP Basis Consultant
+
+	SAP Environment
+	ECC 6.0 EHP 7 
+Database : SAP HANA 2.0 SP00
+O/s : SLES 12 SP2
+SAP Solution Manager 7.1 sp14
+
+
+
+
+
+Brief Description of Project:
+
+
+Maintenance:
+
+· Installed the SAP Solution manager 7.1 sp14
+· Upgraded the SAP Solution from sp04 to sp14
+· Perform Post-installation activities
+· Install and configure the SAP Router 7.21
+· Performed the Configuration of solution manager and adding the satellite systems to Solution manager system
+· Uploading the CIM&CR contents in SLD of java stack
+· Activating the EWA reports for Production server.
+· Activate the ADS configuration in solution manager system
+· Installation of SAP ERP 6.0 EHP7 with HANA 2.0 SP00
+· Performing System Copy/System Refersh/Export-Import
+· SAP Fiori configuration
+· Web Dispatcher installation/configuration
+· GST Implementation
+· EHP  7 SP Stack Upgrade SP10-SP14
+· Installation of SAP NW 7.4 with JAVA stack
+· Configuration of NW 7.4 JAVA stack
+· SLD Configuration,Destinations
+· business  packages  deployment
+· SSO configuration
+· JCo connections & maintenance
+· ADS Configuration
+· System object creation
+· UME Change
+· Performing post-installation activities
+· Creating the clients and logical systems as per the business process
+· Perform local and remote client copies
+· Creating new Content repository for Archives/DMS/Http
+· Creating the user and assigning the roles as per the role matrix provided by the functional consultants
+· Creating the developer access keys and SCCR keys when required
+· Creating the OSS1 connection to SAP and maintaining the system details in service market place
+· Applying the OSS notes and support packages based on functional consultants requirement
+· Activating the business function whenever needed by the functional team.
+· Configuration of transport management system
+· Activating the services in SICF and SMICM
+· Suggest network team when there is any issue with ports and network bandwidth breakdowns
+· Raise an incident to SAP for pre-go live and Go-live checks 
+· Perform the actions provided by SAP for Go-live checks and open R/3 and Https connection
+
+      HANA DATABASE:
+
+·  Performed Installation, setup, configuration, upgrade of SAP HANA database, SAP HANA studio and SAP HANA client.
+·  Installed SAP HANA 2.0 SP00 upgraded it to SAP HANA 2.0 SP21.
+· Creating the multi-tenant database
+· Involved in SAP HANA Administration including creation and management of schemas for different SAP systems, data model objects, and import/export content.
+· Worked on installing and configuring Data Provisioning tools such as SAP SLT, BODS and DXC
+· Implemented SAP HANA security including User Management, Roles, and Privileges.
+· Assisted in creation of HANA artifacts, HANA Attribute, Analytic and Calculation views.
+· Performed Backup and Recovery.
+· Good understanding of HANA DB performance, HA, DR and scalability.
+· Responsible for monitoring and troubleshooting of SAP HANA
+
+
+Project 2                                                                                     FROM AUGUST 28 2017 TO OCTOBER 30 2017
+	Client Name
+	INS Farms 
+
+	Project Name
+	GST
+
+	Team Size
+	5
+
+	Role
+	SAP Basis Consultant
+
+	SAP Environment
+	Database : Sybase 16.0, ECC 6.0 EHP 7.0
+O/s : Windows 2008
+SAP Products: Solution Manager 7.1 
+
+
+
+Brief Description of Project:
+InI Farms is a horticulture company focused on Pomegranates and Bananas. InI Farms controls and directs the operations in chosen products from farming to consumption. This includes doing large scale farm-level operations, managing and controlling the process right through-out the supply chain and supplying the fruit across the world to large importers and retailers.
+
+Contributions:
+
+· Performed SP patch Upgrade for GST support
+· Implementing GST Central Note with Functional/ABAP consultants
+· Taking Full Backups regularly
+· TR importing into Landscape
+· Issues resolution.
+
+.
+
+
+
+
+
+Project 3                                                                                                                   FROM FEB 2016 TO APRIL 2016
+
+	Client Name
+	Raj petro
+
+	Project Name
+	Implementation
+
+	Team Size
+	12
+
+	Role
+	 SAP Basis  consultant
+
+	SAP Environment
+	Database : Sybase 16.0
+O/s : AIX 7.1
+SAP Products: Solution Manager 7.1 SP3
+
+
+
+
+Brief Description of Project:
+
+From a modest beginning over 60 years ago, Raj is today a multi-product, multi-location conglomerate with world class products and services encompassing the entire product spectrum of petroleum specialties business.
+
+
+
+
+
+
+Contributions:
+
+· Suggest client to setup the NTP for primary and DR server and also update the firmware upgrade for the hardware.
+· Install the SAP ERP6.0 EHP7 same as the Production server
+· Perform post-installation activities in DR standby server
+· Take the full database backup of primary server and transfer it to the DR server
+· Offline the DR database and perform the restoration process in DR standby server
+· Configure the SSH for the two nodes in primary and also for the Standby server
+· Install the bash shell in the AIX 7.1 to execute the scripts
+· Configure the sybase automatic log shipment using the Standard SAP scripts
+· Maintain the cron entries time intervals in the primary server for the Logshipment based on the customer input 
+· Perform the Mock drill for the DR server.
+
+
+Project 4                                                                                                                  FROM APRIL  2015 TO FEB 2016
+
+	Client Name
+	Mrs. Bector's Food Specialties Ltd 
+
+	Current Employer
+	YASH Technologies Pvt Ltd
+
+	Project Name
+	Implementation
+
+	Team Size
+	6
+
+	Role
+	SAP Basis consultant
+
+	SAP Environment
+	ECC 6.0 EHP 7
+Database : Sybase 16.0
+O/s : windows 2012 R2
+SAP Solution Manager 7.1 sp13
+
+
+
+
+Brief Description of Project:
+
+We avail yummy biscuits, finger licking Indian curries, mouthwatering sauces and jams and many more food products with amazing tastes, so that you can pamper your taste senses. We, Mrs. Bector's Food Specialties Ltd., are one of the largest food processing companies in India engaged in the industry since 1982 as a prominent manufacturer and exporter of a wide range of food products including Biscuits, Confectionaries, Sauces, Jams and Ketchups, Indian Snacks, Ready to Eat Food, Condiments, Frozen Products and Bakery Products.
+
+Maintenance:
+
+· Installed the SAP Solution manager 7.1 sp04
+· Upgraded the SAP Solution from sp04 to sp13
+· Installed the SAP License for Solution manager system
+· Perform Post-installation steps
+· Raise an incident to SAP for adding the SAP Router static ip address.
+· Install and configure the SAP Router 7.20
+· Configuration of solution manager and adding the satellite systems to Solution manager system
+· Generating the stack xml file for the stack upgrade using the Maintenance Optizmer
+· Activating the EWA reports for satellite systems
+· Installation of SAP ERP 6.0 EHP7 with sybase 16.0
+· Installation of high availability SAP ERP 6.0 with EHP7 on windows failover server
+· Performing post-installation activities
+· Configuring automatic database and log backups
+· Extending the sybase data file and log file when the file is increased
+· Scheduling the database backup on a daily basis
+· Creating the clients and logical systems as per the business requirement
+· Perform local and remote client copies
+· Creating the user and assigning the roles as per the role matrix provided by the functional consultants
+· Creating the developer access keys and SCCR keys when needed
+· Creating the OSS1 connection to SAP and maintaining the system details in service market place.
+· Applying the Snotes and support packages based on functional consultant requirement
+· Activating the business function whenever needed
+· Configuration of transport management system
+· Activating the services in SICF and SMICM
+· Suggest network team when there is any issue with ports
+· Raise an incident to SAP for pre-go live and Go-live checks 
+· Perform the actions provided by SAP for Go-live checks and open R/3 and Https connection
+
+Project 5                                                                                                                       FROM JAN 2015 TO APR 2015
+
+	Client Name
+	Internal Systems in YASH technologies
+
+	Project Name
+	 Support
+
+	Team Size
+	8
+
+	Role
+	Basis Consultant
+
+	SAP Environment
+	Database : Oracle 10g
+O/s : Windows 2008 server, Linux 5.0
+SAP R/3 4.7,5.0,6.0, Solution Manager 7.0 Ehp1
+
+
+
+
+
+Brief Description of project:
+
+YASH Technologies has a span history of growth and success. Founded in 1996, YASH started off as an IT consulting partner for one of the most recognized brands in the agricultural equipment manufacturing industry. With steady and planned growth, YASH’s vision went global in the year 2000, with introduction of offshore operations in Indore, India. Named as of one of the “Fast 500 companies”, YASH has grown organically through strategic acquisitions. We currently have over 4000 global employees, and growing.
+
+Responsibilities / Deliverables
+
+· Installed SAP ECC6.0, IDES.	
+· Performed client copies and client refresh.
+· Managing Transports (TMS) between and within the systems
+· Maintaining Spool & Output Requests.
+· Performed kernel upgrade from 620 to 640. 
+· Applying support packages through SPAM.
+· Applying Add-ons through SAINT.
+· Applying Support pack stacks, kernel patches and applying business packages in JSPM in WAS 7.0. 
+· Backing up and checking the Database and Redo Log files.
+· Checking the Alert files for abnormal activities and taking corrective action.
+· Implemented NWBC.
+· Implemented Business Objects.
+· Checking the Database Performance.
+· Checking free space and adding data file to table spaces as necessary.
+· Scheduling and monitoring online and offline backups.
+· Checking database logs.
+· Applied Patches through SPAM.
+
+
+
+
+Project 6                                                                                                           FROM SEP2014 TO DEC 2014
+
+	Client Name
+	Micro Labs Pvt Ltd
+
+	Project Name
+	 Re-implementation
+
+	Role
+	SAP Basis Consultant 
+
+	SAP Environment
+	SAP ECC6.0 EHP5 to EHP7, 
+Solution Manager 7.0 Ehp1
+Database : IBM DB2
+O/s : AS400 I series 
+
+
+
+
+
+Brief Description of Project:
+
+Micro Labs Limited is a multi-faceted healthcare organization with a proficient marketing team, state-of-the-art manufacturing facilities and R&D centers that are at par with international standards. All this, robustly backed by a strong distribution network and path-breaking research work has placed us amongst India’s fast growing transnational healthcare organizations.
+
+Responsibilities / Deliverables:
+
+Generating the Stack.xml files using MOPZ in Solution manager system.
+Performing the copy of QAS server in pilot server to analyze the version upgrade time.
+Checklist all the pre-requisites for upgrade activities
+Upgrading the SAP instance from ECC6.0 EHP5 to ECC6.0 EHP7.
+Generating the license to work with Support packages.
+Reconfigure the SAP Router.
+Generating the SCCR keys for the developer.
+ Implementing SAP Notes in SNOTE transaction.
+Working with SUM and SWPM Tools.
+Troubleshooting long running transports requests. 
+Applying kernel patches and SAPHOSTAGENT in AS400 iSeries.
+Run the CONVSCRPT with OS user QSECOFER in AS400 iSeries.
+Taking full offline backups.
+Providing the authorizations to the users.
+Email SCOT configuration.
+Reconfiguration of TMS.
+Applying SPAM TOOL version.
+Applying Add-ons using SAINT.
+Performing the Heterogeneous system copy.
+
+
+ 
+
+
+
+
+Project 7                                                                                                                       FROM JAN 2014 TO SEP 2014
+
+	Client Name
+	Natural Remedies Pvt.Ltd
+
+	Project Name
+	 Support
+
+	Team Size
+	8
+
+	Role
+	Basis Consultant
+
+	SAP Environment
+	SAP ECC6.0  EHP7, 
+Solution Manager 7.1 SP14
+Database : HANA DB 1.0 SP12
+O/s : SLES 12 
+
+
+
+
+
+Brief Description of Project:
+
+Natural Remedies is the leading herbal healthcare company in India. We manufacture and market top quality herbal veterinary and human healthcare products. Our healthcare products are GMP and Kosher certified.
+
+
+Responsibilities / Deliverables:
+
+
+Setting up the landscape as per the requirement
+Daily SAP Monitoring Housekeeping Job
+Client Administration –Client export/import, Remote/Local Client Copy.
+User Administration – Creating, Maintaining User Master, Profile.
+Transport management – STMS configuration, Import Transport Request.
+Batch/Background Jobs - Troubleshooting failed jobs, Monitoring & Scheduling Jobs.
+Setting memory parameter 
+Database Management –Table space administration
+Support Package upgrade.
+SNOTE implementation.
+Kernel Upgrade.
+Open/close OSS connections when required.
+Generate developer key from marketplace.
+Handling OSS marketplace. 
+System refresh 
+
+
+Project 8                                                                                                                     FROM JULY 2013 TO DEC 2014
+	
+	Client Name
+	Masons Auto Components
+
+	Project Name
+	 Support
+
+	Team Size
+	8
+
+	Role
+	Basis Consultant
+
+	SAP Environment
+	SAP ECC6.0  EHP7, 
+Solution Manager 7.1 SP14
+Database : SYBASE 15.7
+O/s : Windows 2012 SR2
+
+
+
+
+
+Brief Description of Project:
+
+Mason's Automotive is a full-service preventive maintenance and automotive repair center. We perform high quality, guaranteed service you can trust at a fair price. We repair domestic and foreign vehicles and are your best choice for scheduled maintenance of your car, SUV, truck and fleet vehicles..
+
+
+Responsibilities / Deliverables:
+
+
+Appling Kernel patches and Operating System patches to SAP Systems on Windows.
+Downloading Support packages from Service market place by using Solution Manager
+Performing Client Copies and established connection between Solution manager and ECC servers
+Installation and Configuration of SAP Router and Applying Licenses to SAP System.
+Configured Transport Management System and Transporting requests between SAP Systems.
+Creating RFC between SAP Systems.
+Creating Users and giving authorization to users as per client IT policy.
+Maintaining of System Profiles and Defining security parameters as per the Client Requirements.
+Printer Configuration for Functional Team.
+SMTP Configuration in all the systems.
+Applying Support Packages to SAP Systems in the landscape.
+SAP Systems Monitoring and performing Checklist tasks.
+Monitoring SAP System Dumps in ST22 and resolving those issues.
+Applying SNOTE to SAP Systems.
+Approving support packages through Solution Manager for downloading.
+Performed System Copy and Client Transport.
+User management - Locking and unlocking users.
+Spool management.
+Applying support packs and kernel.
+System monitoring and Database monitoring.
+Background jobs management like checking the status of background.  
+Transports between Development, Quality and Production systems of R/3.
+
+
+
+Project 9                                                                                                                   FROM NOV 2012 TO JUNE 2013
+	
+	Client Name
+	Shakti Pumps
+
+	Project Name
+	 Support
+
+	Team Size
+	5
+
+	Role
+	Basis Consultant
+
+	SAP Environment
+	SAP ECC6.0  EHP7, 
+Solution Manager 7.1 SP14
+Database : SYBASE 15.7
+O/s : Windows 2012 SR2
+
+
+
+
+
+Brief Description of Project:
+
+As India's leading manufacturer of energy efficient submersible pumps, we are well-known in our industry. We create our products for a number of sectors including agricultural, industrial, domestic and horticultural.
+
+Responsibilities / Deliverables:
+
+· Manage Basis related day to day activities
+· Manage the SAP system and the database so that the system is always functional
+· Table Space Monitoring and add data files.
+· Checking failed logon and locked users
+· Checking response time, CPU and memory usage
+· Defining and Maintaining Background Jobs, Standard jobs, Scheduling and Deleting Jobs
+· Perform SAP System and Kernel Updates
+· Ensure Sys-Admin tickets raised are resolved in time
+· Ensure all laid down CMMI / ISO procedures with respect to SAP system is followed
+· Training on SAP Over View (R/3)
+
+
+
+
+
+
+
+	Personal Details
+		
+
+	Name 
+	Jaya Prakash Reddy Naganathanahalli
+
+	Email Id
+	jayaprakashreddyn@gmail.com
+
+	Mobile Number
+	+91-9848582209
+
+
+
+
+
+Confidential	Page 1
+Confidential	Page 1
+
+
+
+
+
+
+
+
+
+ 
+ 
+                    
+          
+                    
+       
+     
+   
+                    
+             
+ 
+                    
+                    
+                    
+                    
+          
+JAYAPRAKASH REDDY N
+   
+                  
+ 
+CONTACT
+: 
++91
+-
+9848582209
+                    
+ 
+ 
+ 
+Confidential
+ 
+Page 
+1
+ 
+ 
+P
+ROFILE 
+S
+UMMARY
+ 
+v
+ 
+SAP Projects: 4
+ 
+implementations
+ 
+and 5
+ 
+Support Projects, 
+Experience in Handling of High
+-
+end 
+Servers.
+ 
+v
+ 
+Work Experience: 5
+ 
+years of SAP Consulting
+ 
+experience 
+ 
+v
+ 
+Professional 
+with
+ 
+2 years and 8 
+months and
+ 
+remaining experience as Contract employee
+ 
+(No Exp. 
+Certificate for this),
+ 
+as a SAP Basis Consultant
+ 
+with 
+E2E 
+implementation projects
+ 
+and sybase DR 
+setups
+.
+ 
+v
+ 
+Worked Extensively on 
+Sybase DR and
+ 
+upgrades
+, ECC 6.0 (ABAP+JAVA) Stack
+, SAP 
+NETWEAVER 7.4
+, 
+Solution manager 7.1 sp15, 7.2
+ 
+v
+ 
+Worked extensively on
+ 
+System refreshes
+ 
+using export import 
+ 
+and attached and detach 
+method
+ 
+v
+ 
+Background includes systems installation,
+ 
+maintenance, troubleshooting, 
+and  problem resolution 
+ 
+v
+ 
+Quick study, ded
+icated team player.
+ 
+ 
+ 
+TECHNICAL SUMMARY
+ 
+ 
+ 
+E
+DUCATION
+ 
+DETAILS:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAP Releases
+ 
+ 
+ECC 6.0, Solution manager 7.1
+, 
+7.2 ,
+Technical      
+ 
+Upgrade, 
+EP 7.4
+,
+ 
+NetWeaver
+ 
+2004,2004s
+ 
+Technical Skills
+ 
+Operating Systems
+ 
+:
+     
+Windows 2012r2,linux 6.2,
+AIX 7.1,SLES 1
+2
+  
+SP2
+                                          
+     
+ 
+Databases 
+              
+:     
+Sybase 15.7 & 
+16.0 
+, Oracle 12g,SQL 
+and HANA 1.0 
+SP10 & 
+HANA 
+2.0
+ 
+Hardware
+ 
+DELL Power Edge Servers 2850, 2950, DL 380 HP server
+, IBM power 
+blades
+.
+ 
+Qualification
+ 
+Educational Institution
+ 
+Year of Passing
+ 
+B.Tech
+ 
+Swami Ramananda Tirtha Inst. Of 
+Sc.& Tech.(JNTU)
+ 
+20
+05
+ 
+Intermediate
+ 
+Alfa Jr.college  
+ 
+20
+0
+0
+ 
+SSC
+ 
+Govt.High School
+ 
+1998
+ 
+
+
+
+
+
+
+
+
+
+
+/docProps/thumbnail.emf
+
+ 
+ 
+                                                                                                   
+                                                                                          
+JAYAPRAKASH REDDY N                      CONTACT: +91-9848582209                    
+  
+ 
+Confidential Page 1 
+ 
+PROFILE SUMMARY 
+ SAP Projects: 4 implementations and 5 Support Projects, Experience in Handling of High-end 
+Servers. 
+ Work Experience: 5 years of SAP Consulting experience  
+ Professional with 2 years and 8 months and remaining experience as Contract employee (No Exp. 
+Certificate for this), as a SAP Basis Consultant with E2E implementation projects and sybase DR 
+setups. 
+ Worked Extensively on Sybase DR and upgrades, ECC 6.0 (ABAP+JAVA) Stack, SAP 
+NETWEAVER 7.4, Solution manager 7.1 sp15, 7.2 
+ Worked extensively on System refreshes using export import  and attached and detach method 
+ Background includes systems installation, maintenance, troubleshooting, and  problem resolution  
+ Quick study, dedicated team player.  
+ 
+TECHNICAL SUMMARY 
+ 
+ 
+EDUCATION DETAILS: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAP Releases 
+ ECC 6.0, Solution manager 7.1, 7.2 ,Technical       
+Upgrade, EP 7.4, NetWeaver 2004,2004s 
+Technical Skills 
+Operating Systems :     Windows 2012r2,linux 6.2,AIX 7.1,SLES 12  SP2                                                
+Databases               :     Sybase 15.7 & 16.0 , Oracle 12g,SQL and HANA 1.0 
+SP10 & HANA 2.0 
+Hardware 
+DELL Power Edge Servers 2850, 2950, DL 380 HP server, IBM power 
+blades. 
+Qualification Educational Institution Year of Passing 
+B.Tech 
+Swami Ramananda Tirtha Inst. Of 
+Sc.& Tech.(JNTU) 
+2005 
+Intermediate Alfa Jr.college   2000 
+SSC Govt.High School 1998 

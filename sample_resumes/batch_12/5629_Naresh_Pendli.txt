@@ -1,0 +1,342 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Naresh Pendli                                                                                                                             
+       Mobile: +9885847255	                                 
+      Email: nanipendli@gmail.com                                                                                  
+
+
+      Executive Summary
+	
+· 9+ years of extensive Experience in SAP BASIS experience with new dimensional products. 
+· I have worked extensively in various projects involving, Implementation, Upgrades, and also administration and maintenance of SAP servers.  I have gained extensive knowledge regarding various different dimensions of SAP as an ERP.
+
+       Education
+
+         Bachelor of Engineering from Anna University.
+ 
+       Trainings
+
+	   Attended
+	Conducted
+	Certifications
+
+	· ITIL
+· Db2 11.2
+· SAP HANA 
+
+
+	· SAP 
+· Control-M
+
+	
+
+· SAP 7.0
+· DB2 Basics
+
+
+
+    Key Skills
+
+· Total SAP Experience spans:  3 EHP Upgrade Projects and 1 APO Implementation, 2 Dual Stack upgrade Projects and 7 Support Projects.
+· Preparation of Project Plan, CUT-Over Plan, Project Meetings, Project Status report, Contingency Plan, Staged Delivery, Project Scope of Work, Mile Stone monitoring.
+· Design, Develop & rollout the SAP database backup, restoration & backup retention policy.
+· Proficient in SAP 3.1 4.7e, ECC6.0,EHP7,EHP8 Administration,client, User maintenance, SAP performance, Spool management, SPAM updating.
+· SAP experience includes SAP Security using Profiles generation, Change & Transport System, User Management, and Spool Management, Patch Updates, Performance monitoring.
+· In addition, have an experience in User Security,TMS, performance monitoring, Profile Generator, User and Client management, support packages, OSS, Installation.
+· Have exposure on Linux, HPUX, and Microsoft 2003/2008&2012
+· Worked on Microsoft Environment and Microsoft Cluster & AIX HACMP & HADR.
+· Worked on SAP DB2 installation on windows2003.
+· Sap ERP, BI, EP,  installation and configuration in Windows 2000, Windows 2003 systems, HP UX, AIX, UNIX.
+· My strengths are my ability to Work hard, self-confidence, curiosity, tactful, self starter & quantitative strengths, Excellent analytical, logical & Administrator skills.
+· System Copy&System Refresh including Live cache
+· Proficient knowledge of ORACLE, DB2, MAXDB AND SAP HANA
+· Design backup and restore strategy on ALL database.
+· Restoration of SAP ERP , EP and Live Cache.
+· ORACLE AND DB2 database administration like space management, backup and recoveries with sap standards.
+· Incident, Problem and Change Management Knowledge
+· RCA for Problem Management Knowledge
+· Capacity Management
+· Proactive Analysis and Reactive Analysis with handling problems.
+· Worked on Microsoft windows Performance issues.
+· DB2 upgrade from 10.5 to Db2 11.1 on AIX HACMP & DR
+· Rolling maintenance with downtime minimize concepts.
+· Refresh of 8 TB and 4TB database from Production to Test environment.
+· ADINT installation &Configuration and TSM client update & QUEST(security) upgrade.
+
+
+
+	Technology
+	SAP
+
+	SAP
+	SAP ECC/R3, SAP Advanced Planning and Optimizer (APO), SAP Business Intelligence, SAP Enterprise Portal, SAP Process Integration, SAP CRM and BOBJBI, BOBJ DS, NW CE, SRM MDM, IDM GRC
+
+	DATABASE
+	Oracle(10g,9i & 8i), Db2 11.1,MAXDB& SAP HANA
+
+
+
+
+
+      Experience Summary
+
+	Sl No.
+	Designation
+	Company
+	Location
+	Duration
+
+	1
+	TECHNICALSERVICE SPECIALIST
+	IBM
+	INDIA
+	Nov15 – TILL DATE
+
+	2
+	LEAD CONSULTANT
+	HCL
+	INDIA
+	Jan15 –  Nov15
+
+	3
+	PROJECT LEAD
+	TECH MAHINDRA
+	INDIA
+	April 14 – Dec14
+
+	4
+	APPLICATION CONSULTANT/SENIOR SYSTEM ENG
+
+	IBM
+	INDIA
+	Aug11-Apr14
+
+	5
+	CONSULTANT
+	CAPGEMINI
+	INDIA
+	Aug 08-Aug11
+
+
+
+      Selected Project Experience
+
+
+      ABB
+      TECHNICALSERVICE SPECIALIST
+
+       SAP Environment
+· ECC 6.0 EHP7,EHP8
+· BI7.1
+· PI 7.1,7.3
+· PORTAL
+· BOBJ 4.1
+· Solution Manager 7.1
+· SCM
+          On  AIX with DB2 10.1, 10.5&11.1  with Cluster environment & HADR and dual landscape
+
+     Responsibilities
+· System Refresh
+· EHP8 Upgrades
+· DB2 fix pack & release upgrade
+· Quest Upgrades
+· SPS upgrades in ABAP& DUAL stack
+· Cluster Test in Test&Production environments
+· APO Implementation
+· SPAM&SAINT Upgrades
+· Performance issues.
+· SPS21&SPS16 upgrades in PI dual environments
+· TSM Client updates
+· Adint installation & Configuration.
+· HADR maintenance activities.
+· 
+
+
+    MICROSOFT (SUPPORT)
+    Lead Consultant 
+.
+     SAP Environment
+· ECC 6.0 EHP6
+· BI7.1
+· CI RMCA
+· E Recruitment with TREX
+· SCM
+· OER
+· Web services middle ware integration
+· BOBJDS
+· BOBJ 4.1
+· Solution Manager 7.1
+· IDM
+· GRC
+· TREX
+· WEB-Dispatcher
+· TIDAL SCHEDULAR
+· BSI TAX FACTORY
+· VERTEX
+· FAX SERVICE	
+· Content Server 
+      On WINDOWS 2008/2012 with MSSQL SERVER 2012 with Cluster environment on dual landscape.
+     Responsibilities
+· Ticket handling as P1, P2 and P3 with SLA for Production, Test and Development environment for 400 + systems landscape.
+· Cluster troubleshooting as always on for Production and Test servers.
+· Maintenance of servers and quarterly release strategy with SPDD and SPAU correction with developer team.
+· Troubleshooting Database alerts and space management and maintenance of logs backups.
+· Performing backup schedules and making backup schedule.
+· GRC roles upload and user provisioning with security team.
+· Handling user GRC request and troubleshooting.
+· Security patching every month Tuesday with rolling maintenance and downtime minimize strategy.
+· CCB meeting for production transports and client maintenance weekly thrice.
+· Creating file shares for third party interfaces.
+· Windows drive space management with respect to clean up activity.
+· TIDAL troubleshooting for Test and Production environment.
+· BizTalk connections test and troubleshooting connecting to SAP servers.
+· DR ACTIVITIES performed.
+
+       CISCO
+      #Hana COE – Hyderabad, India	
+
+
+     SAP Hana Administrator
+     SAP Hana support provided by Tech Mahindra.
+
+     Roles & Responsibilities:
+· Working for SAP HANA COE.
+· Customer Proof of Concept Development..
+· HANA administration and monitoring.
+· Backup and recovery of HANA database.
+· HANA revision and SPS upgrade.
+· HANA studio and client installations.
+· Customer presentations and demo’s on Tech Mahindra SAP HANA landscape.
+·  Knowledge on Installation for SAP HANA SP7.                     
+·  Post installation activities of SAP HANA database.
+·  Performing backup of SAP HANA systems using HANA studio.
+·  Installation/renewal of SAP HANA database license.
+·  Adding of SAP HANA database to HANA studio.
+· Monitoring of SAP HANA database from HANA studio and OS level commands.
+· Stop and start of SAP HANA database from HANA studio and OS level commands.
+·  Alert monitoring for SAP database studio using HANA studio.
+·   Performance monitoring for SAP HANA studio and Performance tuning.
+·   Configuration and parameter changes in SAP HANA system using HANA studio.
+·   Activating and deactivating services using SAP HANA studio.
+
+
+     Celestica 				                                                                                             
+
+     SAP Basis Administrator									
+
+     Responsibilities
+·  Provided Production support for SAP ERP ECC6 ,XI and SCM system.
+·  Performed system refreshes, Applying notes, Transporting request.
+·  Daily system monitoring to making sure system is up and running all the time. 
+· Analyzing Early watch reports. 
+· Analyzing Abap Dumps.
+· Transporting PI transport request. 
+· Background job monitoring. 
+· Starting and stopping live cache in SCM system. 
+· Queue monitoring and queue administration. 
+· Starting and stopping SAP systems whenever there is OS patching activity.
+·  Runtime workbench monitoring, providing end to end Basis support to the client.
+· Working in the Globe largest SAP project, Online SAP Basis support and provided 24x7 support, performed SAP basis Activities as a consultant.
+· Performed SAP system Refresh.
+· Applying ABAP/JAVA Support packages, Add-on’s, OSS Notes using SPAM/SAINT/ SNOTE/SDM/JSPM and also performed Kernel upgrades.
+· Performed post installation checks for ECC 6.0  
+· IDOCs processing in ECC, XI , SRM and BW systems..
+· Performing STMS post activities for new build components.
+
+
+Uniliver:
+
+1. Responsible for all the production support activities
+2. 2. Incident management which includes backup failure alerts, file system issues(space issues), critical job failures, analyzing and solving TWS alerts, spool administration, DB administration with BRTOOLS, stop/start sap servers, maintaining DR db’s, maintaining satellite systems on solution manager, moving transports using STMS and, PI cache monitoring and transports, Administration of XI integration engine, Starting and stoppingsapccms4x and sapccmsrr agents on satellite systems for monitoring file systems and db, dump analysis and analyzing system logs.
+3. Monitoring PI system and analyzing failed messages. Monitoring APO live cache and daily health check on all productive instances.
+4. Project activities like system refreshes, ABAP and JAVA stack upgrades, installations ,kernel upgrades,  
+5. 5. Scheduling all activity plans and completing the task with in time frame
+
+
+       
+
+    
+
+     
+
+      
+      Schneider Electric
+
+          Responsibilities:
+· Provided related support for planned activities or support activities like Patches, Backup issues etc. 
+· Provided support for Project Go-live activities. 
+· Carrying out regular tasks of User Administration, Transport Management. Authorization and System Maintains of all SAP landscape. 
+· Administration for SAP XI System. Scheduling jobs in Redwood and monitoring jobs, canceling jobs, killing jobs etc. 
+· Generating early watch report and solving the errors if there is any. Monitoring production system using solution manager. 
+· Monitoring BI jobs making reports. Monitoring IDOC.
+· Providing offshore Basis Support to the clients.  
+· Requesting and installing sap licenses. 
+· Configured Transport management System.
+· SAP Profiles tuning and set the Operations Modes. 
+· Scheduling standard Background jobs. 
+· Upgrade the latest kernel Patches. 
+· Applying R3 support packages, Plug Inn and Add Ons. 
+· Running SGEN after completing support packs. 
+· Java support packages using JSPM. 
+· Client Copy/Import and Export and Client Maintenance. 
+· Creating Logical system names. 
+· Language implementation.
+· Creating RFC destinations. 
+· Applying notes by sap recommended. 
+· Central user administration.
+· Daily Health checks and Prepare monthly reports. 
+· Creating Printers and Spool management. 
+· Pre and post steps for system refresh.
+
+

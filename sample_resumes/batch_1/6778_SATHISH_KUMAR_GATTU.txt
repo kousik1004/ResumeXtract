@@ -1,0 +1,215 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SATHISH KUMAR GATTU
+H-NO: 14-111/1, vijaypuricolony, Uppal, Hyderabad – 500039
+Email Id   :   satishg278@gmail.com; Mobile No:  9849530029
+	
+
+PROFILE SUMMARY- 
+
+· 5+ Years experience of Productive Design, Development and Implementation in IT Industry.
+· Currently working as a Senior Software Programmer in St.Louis Educational Services Pvt.Ltd. from SEP-2012 to Till date which is  a Unit of AE Group of companies 
+(www.ae-group.in)
+· Working As a Faculty Trainer in Bhaskara Info Services Pvt.Ltd from May 2010 to Aug 2012.
+· Proven ability to work with .NET Technologies by handling multiple product lifecycles.
+· Ability to work and motivate the team to deliver the tasks under tightly scheduled timelines.
+· Provided user training to business users and its core team by using train to trainer approach.
+· Strengths include highly versatile in adapting, learning and implementing the latest technologies in new application solutions, excellent interpersonal and communication skill.	
+SKILLS SUMMARY-
+
+	Description
+	Languages / Software Technologies
+
+	Technologies & Frameworks
+	.NET Framework (3.5-4.5), ASP.NET, MVC , ADO.NET, AJAX, WCF, Crystal Reports, IIS 7.5, LINQ, Web services,  Report Viewer
+
+	Programming Languages/ Web Technologies
+	C#,  JavaScript, JQuery, HTML, CSS, XML
+
+
+	Software’s / Tools/ Reporting Services
+	Microsoft Visual Stuidio.NET 2010, SQL Server 2008 Enterprise Manager, SVN , Visual Source Safe, GIT, Fusion Charts 1.2
+
+	Development Methodologies
+	Agile development
+
+	Databases
+	MS SQL Server (Version 2005,2008), Postgres SQL
+
+	Operating Systems
+	Windows 2000/XP, Windows 7
+
+
+
+EDUCATIONAL QUALIFICATION- 
+
+· MCA from Osmania University, Hyderabad, 2010
+· B.Sc (MPCS) From Osmania University, Hyderabad.
+
+
+PROJECTS HANDLED-    (In St. Louis Educational Services Pvt Ltd. )                                                                                     
+
+# Project 1: HR Management System
+Client Name: St.Andrews School, Secunderabad ( www.standrewsindia.com ) 
+Technologies         : Visual Studio 2010, C#.Net, ASP.Net, PostgresSQL, JavaScript, J Query, Ajax     Controllers, Tortoise SVN, HTML, CSS.
+Description: Automation of repetitive and time consuming tasks associated with human resources management. 
+HRMS modules can assist with:
+Employee Recruiting Process, Attendance Module, Leaves Module, Payroll module, Loans Module, Appraisal Module, Employee Resign Process.
+Responsibilities:
+1. Involved in developing the application using .Net 4.0.
+1. Developed the user interface (Front End) using ASP.NET, HTML, CSS.
+1. Using Third party tool integrated the Essl Biometric Device To Software for employee logins & logouts.
+1. Implemented business login as code behind using C#.Net.
+1. Involved in writing SQL queries and stored procedures to retrieve the data.
+1. Involved in creating Security features like role based security using C#.net.
+1. Worked with Data Bound controls like Data Grid, Data Table, Data Reader, Data View and Dataset
+1. Worked with J Query to create dynamic pages.
+1. Involved in fixing defects in all environments like Development, User Acceptance Testing(UAT), Training & PROD
+1. Involved in troubleshooting for bug-fixing and implementing new functionalities and enhancements.
+1. Worked with QA team to resolve the issues.
+1. Involved in merging the projects based on the check in done by individual developers.
+1. Tortoise SVN has been used for all the source code maintenance among the whole team members
+
+
+
+
+
+
+# Project 2: Online Fee Payments for St. Andrews School.
+Client Name: St.Andrews School, Secunderabad ( www.standrewsindia.com )
+Technologies: Visual Studio 2010, C#.Net, ASP.Net, PostgresSQL, JavaScript, Payment Gateways.
+
+Description: Integrated HDFC and Pay U Money payment gateways for website. The fee structure is combination of many head like Tuition fee, Infra fee, Term fee etc. and fetches fee structure dynamically from database and Payments history.
+Responsibilities:
+1. Involved in developing the application using .Net 4.0.
+1. Developed the user interface (Front End) using ASP.NET, HTML, CSS.
+1. Involved in generating class diagrams and functional flow diagrams.
+1. Implemented business login as code behind using C#.Net.
+1. Implemented the secure code behind using C#.Net, Hash Sequences, Decoding & Encoding the Results from Payment Gateways.
+1. On Successful of Payment, SMS will be sent to parent and updates into Database.
+1. Involved in Technical Documentation.
+
+
+# Project 3: Online Attendance Module
+
+Client Name: St.Andrews School, Secunderabad ( www.standrewsindia.com )
+ Technologies: Asp.net4.0, C#.NET 4.0, WCF, SVN, SQL Server 2008, AJAX, JAVA Script                                          
+
+Description: This Module will be used for maintaining on day to day student attendance for all the classes. This module enables the teachers to enter the attendance once in a day for all classes with respect to the attendance criteria condition.
+	
+Responsibilities:
+· Provided the production support.
+· Defined the business requirements and created design documents.
+· Developed a service using WCF to maintain all students’ information and users’ information and to grant user privileges.
+· Designed to database for the module.
+· Analysis and documenting the change requests for the end users.
+· Adding site navigation and user privileges in the application.
+
+
+
+
+
+#Project 4: Infirmary Module		
+
+Client Name: St.Andrews School, Secunderabad ( www.standrewsindia.com )
+Technologies: Asp.net4.0, C#.NET 4.0, WCF, SQL Server 2008, Fusion Charts, AJAX, JAVA Script                                          
+
+Description: This module manages the details of the students who visited the Infirmary Center of the school. The attended student will be given in house treatment, will sent to home and will be referred to outside hospital based on the seriousness of the health problem. The application relays the SMS and E-mail to student parents, concerned vice principal and principal based on the level treatment given to the student. Important features of the application are:
+· Manages the allergies information of all the students in the school.
+· The application generates the gate pass of the application during the Outside treatment.
+· The user can view the complete details of the treatment details of students from time to time.
+
+Responsibilities:
+· Defined the business requirements and created design documents.
+· Created various business views required to model various business requirements.
+· Designed to database for the module.
+· Added site navigation to the application.
+· Deployed the module in the production environment.
+· Developed user based access in the module to all the users. 
+
+#Project 4: Inventory Management System		
+
+Client Name: St.Andrews School, Secunderabad ( www.standrewsindia.com )
+Technologies: Asp.net4.0, VB.NET 4.0, WCF, SQL Server 2008,  AJAX, Fusion charts,JAVA Script                                          
+
+Description: The inventory management System helps vendors manage their inventories. The software interacts with the user allowing the user to add products into and remove products from the inventory. 
+The Inventory Management System is comprised of 3 modules: Masters, Administrative, Item, purchase, Store & Reports, in masters we define all the vendors & stakeholders, administrative module helps in managing all the modules, creation of item, Inward, GRN and conversion of item to asset is done in Item module, purchase deals with the Purchase Indent Requisition and purchase order, store deals with the Final Inward, Final GRN and Item Issue and reports are generated in reports module.  
+
+
+
+
+Responsibilities:
+
+· Involved in discussions on project analysis 
+· Involved in coding And Designing Concepts.
+· Coded the modules according to Microsoft standards and tested the same.
+· Writing Stored Procedures.
+
+
+
+
+
+
+
+
+
+
+PERSONAL DETAILS -
+
+Date of Birth: 06-08-1985						Marital Status: Married
+
+
+      								
+
+
+(SATISH KUMAR GATTU)
+

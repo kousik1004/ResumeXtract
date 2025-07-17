@@ -1,0 +1,292 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pranav 
+
+Maruti Nagar, Bangalore 
+
++919608076748, pranav3672@gmail.com 
+
+Objective 
+
+Seeking challenging opportunities in the field of embedded development where, I can utilize my 
+
+experience, develop my skills, efficiency to communicate my ideas, views and contribute towards the 
+
+goals of the organization. 
+
+ 
+
+Career Summary 
+
+ Having 3.8 years of experience in embedded software development and low level module 
+
+testing. 
+
+ Currently working with Toshiba Software India Pvt. Ltd., Bangalore as a Software Engineer 
+
+since Aug 2015. 
+
+ Have programming experience in Embedded C. 
+
+ Working experience 32-bit controllers like LPC1343 and Toshiba controllers. 
+
+ Having knowledge on Arduino UNO compatible boards and different shields like TFT Touch 
+IR and SD. 
+
+ Experience in development and implementation of protocols like SPI, I2C and UART. 
+
+ Having knowledge in NVIC. 
+
+ Worked on different peripherals like EEPROM, RTC, LCD and Seven Segment. 
+
+ Working experience on IR and Gyro Sensors.  
+
+ Ability to understand user manual, data sheets and schematics to implement software. 
+
+ Quick learner with the ability to grasp new technologies and software. 
+
+ Ability to work in both independent and team environment. 
+ 
+
+Technical Expertise 
+
+ Languages   : Embedded C and C 
+
+ Microcontrollers : LPC1343 and Toshiba Controllers 
+
+ Software Tools : Keil µvision, IAR, Proteus and Git   
+
+ Protocols  : SPI, I2C and UART  
+
+ RTOS   : MbedOS Version 2 and 5 
+
+ Debugger  : SWD and DAPLink (Bootloader and Interface firmware) 
+
+ Operating System : Windows 7/8/10, Linux Ubuntu 14.04 LTS 
+ 
+
+Professional Experience 
+
+1. Toshiba Software India Pvt. Ltd., Bangalore [Aug 2015 to Present] 
+
+Software Engineer 
+
+ As a Developer, I am responsible for gathering and understanding the client requirements, 
+verifying and analyzing the hardware schematics, determining inputs/outputs and designing 
+
+algorithm for the modules. Develop SRS, SDS docs, developing the embedded code, preparing 
+
+the test plans, testing and bugs resolving and Interface with Application Software. 
+
+ 
+
+2. Microbit Embedded Solution, Hyderabad [Jan 2014 to July 2015] 
+
+Embedded Software Engineer 
+
+ Responsible for developing the low-level peripheral drivers, maintaining and testing. 
+
+
+
+Professional Projects 
+
+1. Arduino Boards Application and MbedOS v2 & 5 Porting. 
+
+ Languages  : Embedded C 
+
+ Microcontroller : Toshiba TX00, TX03 and TX04 Series  
+
+ Tools and RTOS : Keil µvision 5.23, IAR 7.5 and MbedOS v5 
+
+Project Description : To develop the application for Arduino boards using different shields. The 
+
+goal is to design an application which uses the Mbed OS features and that can be easily port to any 
+
+other controller. 
+
+ 
+
+2. TFT Touch Shield Applications on Arduino Boards. 
+
+ Languages  : Embedded C 
+
+ Microcontrollers : Toshiba TX04 & TX03 Series 
+
+ Tools  : Keil µvision 5.13, IAR 7.4  
+
+Project Description : To develop the TFT touch shield application software for Arduino boards 
+
+features. Also, the goal is to design simple test application that can be easily integrated with any other 
+
+base boards apart from what we were used with the same TFT shield. Application design contains 
+
+calculator and picture display, zoom in-out, move on the TFT Touch Screen. 
+
+ 
+
+3. Flexible Dot-Matrix LED Display with Power Saving System. 
+
+ Languages  : Embedded C 
+
+ Microcontroller : LPC1343 
+
+ Tools   : Keil µvision 4 
+
+ Role    : To develop Low level drivers for SPI based Graphical LCD, Keypad
+
+      and Alphanumeric LCD 
+
+Project Description : An objective of this project is to design using CM3 to input, store, and control 
+
+and output the data for the message characters on a dot matrix. Display patterns can be selected for 
+
+flexible display by using input via Keypad/PC. Design and realizing the moving message display panel 
+
+and power saving achieved by scheduling the Device on-off timings properly, which is done by a 
+
+microcontroller. First yearly calendar database is designed by making use of keypad and RTC. And 
+
+after that device, on-off timings will be scheduled and saved in EEPROM using SPI protocol. 
+
+ 
+
+4. Peripheral Device Drivers Validation for Cortex-M3 based Platform. 
+
+ Languages  : Embedded C 
+
+ Microcontroller : LPC1343 
+
+ Tools  : Keil µvision 4 and Proteus 7.7 
+
+ Role   : Developed driver for peripherals 
+
+Project Description : This project aims for testing of all Onchip and On-board peripherals like LCD, 
+
+LED, Switch, Seven segments, Motor driver etc. Each peripheral is individually tested and validated in 
+
+all the possible ways. 
+
+ 
+
+  
+
+
+
+Academic Projects 
+
+1. Automatic Railway Crossing Gate Control. 
+
+ Languages  : Assembly 
+
+ Microcontroller : AT89C52 
+
+ Tools  : Keil µvision 3 and Proteus 7 
+
+ College  : Lovely Professional University, Jalandhar 
+
+Project Description : This project is designed using 8051 microcontroller to avoid railway accidents 
+
+happening at unattended railway gates. 
+
+ 
+
+2. Preprocessor command when executed with input [source code, “.c”] in command line 
+
+argument it remove all the comments, include files and macro substitution after process 
+
+completion and it generate file name with ".i" extension, which is the extended source code. 
+
+ 
+
+Academic Profile 
+
+ Bachelor of Technology in Electronics and Communication Engineering from Lovely 
+
+Professional University, Jalandhar during 2009-2013 
+
+ 10+2 in Science from Nitishwer Singh College, Muzaffarpur in 2009 
+
+ High School from Sri Ram Sewak Sahu High School, Muzaffarpur in 2007 
+
+ 
+
+Hobbies  
+
+ Building small embedded application for different controllers 
+
+ Watching Cricket 
+
+ Travelling 
+
+ 
+
+Personal Details 
+
+Father’s Name : Late Binod Thakur 
+
+Mother’s Name : Late Vibha Devi 
+
+Date of Birth  : 16-02-1992 
+
+Gender  : Male 
+
+Nationality  : Indian 
+
+Languages   : Hindi and English  
+
+Marital Status : Single 
+
+ 
+
+Declaration 
+
+I do hereby declare that the above information is true to the best of my knowledge. 
+
+Pranav 
+
+

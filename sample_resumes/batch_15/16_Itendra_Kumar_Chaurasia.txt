@@ -1,0 +1,335 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME 
+
+Itendra Kumar Chaurasia 
+
+8050598069/9742077156 
+
+itendrakumar0@gmail.com 
+
+ 
+
+CAREER SUMMARY: 
+
+ 4.5 year of experience in Product Base Company (Telecom Industry). 
+ Hands on experience in Regression, Sanity and non-functional testing. 
+ Hands on experience in automating test cases using Python and Shell scripting language. (Robot 
+
+Framework) 
+
+ Strong in SDLC models and integration of SDLC and STLC. 
+ Good understanding of testing life cycle and thorough knowledge of defect management. 
+ Goof understanding in protocols, like Diameter, TCP/IP, CAP, MAP, SS7 and HTTP. 
+ Experience in writing, executing test cases, ability to report bugs effectively. 
+ Skilled in manual testing and scripting the test cases with the automation frameworks. 
+ Good knowledge in Database concepts & Networking concepts. 
+
+ 
+
+EXPERIENCE: 
+
+ Working as a “Software Engineer” with Infinite Computer Solution Pvt Ltd, Since 30 May 
+2016 to till date. 
+
+ Worked as a “Software Engineer” with IntelliNet Technologies (Now Diametriq), Since 7th Jan 
+2013 to 31st Jan 2016. 
+
+ 
+
+TECHNICAL SKILLS: 
+ Protocols   : Diameter, TCP/IP, CAP, MAP, SS7, HTTP, HTTPS 
+
+ Diameter Interface  : Gx, Gy, Gz, S6a, Ro, Rf 
+
+ Performance Tool  : Seagull 
+
+ Tools    : WinScp, Putty, Wireshark, Xshell 
+
+ Scripting Language  : Python, Shell  
+
+ Language   : C 
+
+ Framework   : Robot Framework, Quali Framework 
+
+ Operating System  : Linux, Window, Ubuntu  
+
+ 
+
+Career Scan 
+
+Since May 2016 – till date: Software Engineer – Infinite Computer Solution India Private Limited 
+
+Project 1:            July 2017 to till Date 
+
+Name of Project: Video Optimization 
+
+Team Size: 4  
+
+Language: C, C++, Java, Python, Go 
+
+Project Description:  
+This project mainly use for video pacing. Means we will give some service to subscriber. Based on 
+
+service, Subscriber will get video pacing rate. And we will maintain all those service to each subscriber. 
+
+Role: 
+
+ Developed test cases, prepared test plans. 
+
+ Executed Sanity, Regression and Non-functional test cases. 
+
+ Automated regression test cases using robot framework. 
+
+ Monitoring Defect tracking Process Using Jira/Bugzilla. 
+
+ Managing all test cases using VTMS (Verizon test management system). 
+ 
+
+mailto:itendrakumar0@gmail.com
+
+
+Project 2:            June 2016 to till Date 
+
+ Name of Project: VISP (Verizon Internet Services Platform) 
+
+Team Size: 4  
+
+Language: C, C++, Java, Python, Go 
+
+Project Description:  
+
+VISP Service Control Platform (VSCP, aka QueenBEE) is heart of VISP Internet service realization and 
+
+orchestration. 
+
+The first is to host business application servers such as customer on-boarding and TFD service 
+
+management application servers that are accessible by customers from the Internet through VSDP to on-
+
+board, add credits, create/modify/delete/start/stop TFD service instances, access service statistics etc. 
+
+The second role of VSCP is to provide centralized VISP service control services to VSEPs in the network 
+
+to orchestrate VISP server enforcement. This includes VISP service rule management service to manage 
+
+and distribute service rules to VSEPs and VISP service quota management service to account quota 
+
+installed for service instances and distribute them to VSEPs as needed. 
+
+The last role of VSCP is to collect and provide VISP service statistic to customers via service portal 
+
+application server. 
+
+Role: 
+
+ Developed test cases, prepared test plans. 
+
+ Executed Sanity, Regression and Non-functional test cases. 
+
+ Automated regression test cases using robot framework. 
+
+ Monitoring Defect tracking Process Using Jira/Bugzilla. 
+
+ Managing all test cases using VTMS (Verizon test management system). 
+ 
+Since Jan 2013 – Jan 2016: Software – Intellinet Technologies 
+
+Project 1:            Dec 2014 to 31 Jan 2016 
+
+ Name of Project: Inter Working Function (IWF) 
+
+Team Size: 4  
+
+Language: C, C++, Java, Python 
+
+Project Description:  
+
+The IWF is a 3GPP compliant Diameter to SS7 IWF (interworking function) that enables legacy solutions 
+
+to be extended to LTE and IMS networks. It’s a complete package that can be deployed in stand-alone 
+
+mode. 
+
+Offering configurable control of Diameter interfaces, including S6a, RO and more, it provides a critical 
+
+link between 2G, 3G and Fixed infrastructure with LTE and IMS networks. It solves interoperability 
+
+issues and enhances ROI, by protecting investments and enabling new service opportunities. 
+
+Role: 
+
+ Developed test cases, prepared test plans. 
+
+ Executed Sanity, Regression and Non-functional test cases. 
+
+ Monitoring Defect tracking Process Using Jira/Bugzilla. 
+
+ Managed all test cases using TestLink. 
+
+ Being a Part of Automation Team for executing Test cases automatically. 
+ 
+
+ 
+
+ 
+
+Project 2:                                                                       March 2014 to Dec 2014 
+
+Name of Project: Diameter Routing Engine (DRE) 
+
+Team Size: 6 
+
+Language: C, C++, Java, Python 
+
+
+
+Project Description:  
+
+Diametriq's Diameter Signaling Controller offers an exceptional suite of DSC solutions, the Diameter 
+
+Solution Suite™ (DSS).  Diametriq’s application enabled platform includes a Diameter Routing 
+
+Agent (DRA), a Diameter Load Balancer (DLB), Diameter Edge Agent (DEA), and a Diameter 
+
+Interworking Function (IWF).  These functions can be configured to meet your specific network 
+
+requirements as well as serve as a host for critical applications that utilize the information contained in 
+
+Diameter messages. 
+
+Role: 
+
+ Developed test cases, prepared test plans. 
+
+ Executed Sanity, Regression and Non-functional test cases. 
+
+ Monitoring Defect tracking Process Using Jira/Bugzilla. 
+
+ Managed all test cases using TestLink. 
+
+ Being a Part of Automation Team for executing Test cases automatically. 
+ 
+
+Project 3:                                                                  Jan 2013 to March 2014 
+
+Name of Project: Diameter Stack 
+
+Team Size: 3 
+
+Language: C, C++, Java, Python 
+
+Project Description:  
+
+Diameter is based on RADIUS but has been enhanced to support failover, transmission security, reliable 
+
+transport, agent support, server initiated messages, capability negotiation, peer discovery and 
+
+configuration and is expandable with command codes (CC) and attribute-value pairs (AVP). The base 
+
+Diameter protocols have been defined in the IETF and these have been extended using additional CCs and 
+
+AVPs by the 3GPP and 3GPP2 to support interfaces between the IMS, MMD and EPC network elements. 
+
+Charging/Policy functions include the On-line Charging System (OCS), Off-line Charging System 
+
+(OFCS), Policy and Charging Rules Function (PCRF) that use Ro, Rf, Rx, Gx, Gy, Gz S6a, S6b, s6d and 
+
+S9 interfaces. Subscription management functions include the Home Subscriber Server (HSS). 
+
+Role: 
+
+ Developed test cases, prepared test plans. 
+
+ Executed Sanity, Regression and Non-functional test cases. 
+
+ Monitoring Defect tracking Process Using Jira/Bugzilla. 
+
+ Managed all test cases using TestLink. 
+
+ Being a Part of Automation Team for executing Test cases automatically. 
+ 
+
+Academic Profile: 
+
+ Qualified Bachelor of Engineering in Information Technology (IT) from Bansal Institute of Science 
+
+and technology in 2012 with 70.16%. 
+
+ 
+
+Personal Details 
+
+Father’s Name              Veerendra K Chaurasia 
+
+Languages Known   English and Hindi  
+
+DOB     15-06-1990 
+
+Hobbies    Playing Cricket, Cooking. 
+
+ 
+
+Declaration 
+
+I solemnly declare that the above information is true and correct to the best of my knowledge. I 
+
+understand that if any information given above is found false/incorrect, my candidature is liable to be 
+
+rejected.   
+
+          
+
+Place   : Bangalore                        Itendra Kumar Chaurasia                                    
+
+http://diametriq.com/diametriq-products/diameter-routing-engine-diametriqs-diameter-routing-agent/
+http://diametriq.com/diametriq-products/diameter-routing-engine-diametriqs-diameter-routing-agent/
+http://diametriq.com/diameter-edge-agent/
+http://diametriq.com/diameter-interworking-function/
+http://diametriq.com/diameter-interworking-function/
+

@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suhel H Mukardamwala
+
+
+
+		Nayana Pawar
+Email       : Nayanapawar191@gmail.com
+Mobile    :+91 9168984413
+
+	                                    
+
+
+
+	
+
+
+OBJECTIVE:
+
+To work with best of my abilities and skills in a challenging environment that can contribute towards the growth of organization and compliment my technical skills
+PROFESSIONAL SUMMARY:
+
+
+· 2 year of experience as an Oracle DBA and 2 years of experience as a Teradata Database Administrator.
+· Currently working as Teradata DBA for Philips with the database is around 165 Terabyte
+· Worked as a Oarcel  DBA for Credit Suisse.
+· Worked as an Teradata DBA for Bell Canada
+
+· Hands on experience on Performance Tuning and optimization
+· Expertise in working on Backup and Recovery using Netback up, TaraGUI
+· Worked on datamovers to move data from one environment to other.
+· Worked extensively on Teradata Tools and Utilities.
+· Expertise in Teradata internal architecture and query processing mechanisms.
+· Experience in ITSM tools (Remedy), Service-now, ticketing tools.
+· Actively monitoring the System and making sure there should not be any blockage or problem as well as capturing the active query for tuning purpose.
+· Monthly analysing the Multivalue Compression on the desired tables for saving the space %. Lest time we saved approx 25% space by applying the MVC.   
+· Creation and Maintenance of Partitioned Tables (Yearly PPI Expansion).
+· Collecting statistics and determining which needed statistics to be collected.
+· Experienced in overall activities of Performance testing assignments.
+· Monitoring of production environment using query monitor
+· Troubleshooting 1st level of troubleshooting all the viewpoint issues and setting up viewpoint alerts as per our requirements.
+· Experience in different portlets like system health, Node monitor , remote console etc
+· Data copy between production and development environment
+· Security management (including user creations, profiles and roles)
+· Supporting production and development environment
+· Supporting development teams in development projects
+· Experience in preparing Weekly and Monthly reports to clients
+· Monitoring of AWS console for hardware errors
+· Worked with Teradata for Troubleshooting and resolution of incidents
+· Good analytical, reasoning and problem solving skills
+· Actively participation On-call support on rotation basis.
+· Possess good experience in working and coordinating with a team (Offshore/onsite), client interactions.
+CERTIFICATIONS
+
+· TERADATA 14 Certified Professional
+· ORACLE Certified Professional
+Skill Sets:
+	Operating Systems 
+	Windows, Linux
+
+	RDBMS
+	 Oracle Forms and Reports 10g and 11g , RMAN- Oracle Recovery Management Tool ,Teradata 13.10, Teradata 14, Teradata 14.10
+
+	Other Tools and Utilities 
+	TD administrator,  Bteq, Fastload, Multiload,Datamover, Teradata System Emulation tool, sql  assistant, PMON, Viewpoint, MVC, Oracle Forms and Reports 10g and 11g .
+
+
+
+
+
+Project Details 
+
+Project 1:
+Client                	:       	Credit suisse 
+Period               	:        	August  2014 – June 2015 
+Industry           	:       	 Banking
+Project Type    	:       	 Production /Dev database management
+Environment   	:        	Oracle 10G and 11C
+Team Size 	:      	8			
+	
+ Responsibilities
+· As part of DvSZ support team, we provide Level 2 support to all Oracle Database tasks from off
+shore.
+· Managing Level 2 Change Requests for all Software, System Change
+· Good Knowledge of Datapump, Backup, RMAN , Cloning , Patching and OEM Administration
+· Having 1 Years of experience as an Oracle(11g)- RAC Database Administration
+· Knowledge of Configuring Catalog database for RMAN and database Upgradation.
+· Great work experience on SQL Performance tuning
+· As a Technical Content Administration prepare, update and modify knowledge base articles.
+· Document and share the best practices.
+
+
+
+
+Project 2
+Client                	:       	Bell Canada 
+Period               	:        	June  2015 – October 2016
+Industry           	:       	 Telecom
+Project Type    	:       	 Production /Dev database management
+Environment   	:        	Teradata 13.10/Teradata 14.10
+Team Size 	:      	8 			
+
+Responsibilities
+· User Creation/Maintenance, granting access/privileges, space management
+· Creation of new environments/database objects as per requirement
+· Data Copy between servers
+· Continuous Monitoring of System performance
+· Viewpoint Administration(Viewpoint User creation, assigning roles etc)
+· Setting up/Modifying Alerts using Viewpoint
+· Coordinating with Teradata GSC Team regarding system issues, hardware and patch upgrades
+· Netvault Backup/restore
+· Tape/Media management, reports , notifications etc
+· 
+
+Project 3:
+Client                	:       	Philips 
+Period               	:        	Dec  2015 – Till Date 
+Industry           	:       	 Electronics Company
+Project Type    	:       	 Production /Dev database management
+Environment   	:        	Teradata 14.10
+Team Size 	:      	6			
+	
+Responsibilities
+· Creation and Maintenance of Users, Databases, roles and profiles manually and through Database Administrator tool Access rights
+· Management, Space Management, Creation of tables, views, macros and Procedures, Purging of DBQL tables. Used Teradata Manager to monitor and analyze performance and sessions Performance Monitoring.
+· Managing Backup Operations by taking periodic backups of databases through Arcmain.
+· Training and Development: Attended factory trainings and workshops, conducted workshops, reading manuals and taking active participation in internal technical discussions. Hands on: Carried out extensive hands on various Teradata tools &amp;
+· Utilities, daily administration tasks of user/space management, assigning roles and profiles , ARCMAIN, DBQL,TDWM and TASM in groups and individually on Demo Database.
+· Compression Analysis, VARCHAR Column Compression.
+· Implemented Block Level Compression (BLC).
+· Deploying DDLs into PROD/DEV/QA.
+· Creating Roles and Profiles according to the user groups
+· Analyzing Explain statement and giving suggestions to increase the query performance.
+· Monitoring CPU utilization, blocking, aborting queries when deadlock occurs through View Point.
+· Catering to Ad-hoc requests (e.g. Creation of Database Objects, Granting privileges to a user/role, Resetting the password /Releasing the password lock for a user etc.).
+
+ 
+
+
+
+Educational  qualification
+
+	YearEDUCATION
+
+	Qualification
+	University / Institution
+	Percentage
+
+	2009-2013
+	B.Tech [Instrumentation and Electronics]
+	M. S. Ramaiah ,Bangalore
+
+	78%
+
+
+	2007-2009
+	Intermediate( 12th  )
+	Sarvagnya collage
+	70%
+
+
+	2008-2009
+	SSC ( 10th )
+	St.Joseph’s convent school
+	81%                                       
+
+
+
+
+
+
+
+
+
+
+	PROFESSIONAL EXPERIENCE
+
+	Name of the Company
+	Designation
+	Duration
+
+	
+	
+	From
+	To
+	Timeline
+
+	Teradata Corporation 
+	Staff Technical Consultant
+	November  2016
+	Till date
+	11 Months
+
+	Cognizant India Pvt limited
+	Senior system engineer
+	Aug 2014
+	October 2016
+	26 Months
+
+
+
+	MY STRENGTHS 
+
+
+	
+· Commitment to work and ability to learn new technologies on my own.
+· A dedicated team player committed to provide excellent, innovative and more efficient solution to problems at all organizational levels.
+· Highly organized; good communication, interpersonal and presentation skills.
+
+Personal Details
+
+
+	Name
+	Nayana Pawar
+
+	Father’s Name
+	Maniram T Pawar
+
+	Date of Birth
+	03rd April 1991
+
+	Gender
+	Female.
+
+	Nationality
+	Indian.
+
+	Marital Status             
+	Single.
+
+	Permanent Address
+
+Local Address
+	House no 12, Dhanvantri colony, Kusnoor road, Gulabarga
+
+Flat A2 603, regency cosmos, Baner
+Pune, Maharashtra-411028, India
+
+
+	Languages Known
+	English ,Hindi , Kannnada ,Marwari and Telugu
+
+
+
+
+
+Declaration
+
+I hereby declare that the information furnished above is true and to the best of my knowledge.
+
+                                                                                                                                       Nayana Pawar
+DATE:    Setember 18th, 2017
+PLACE:  Pune, Maharashtra, India
+
+
+
+ 
+
+Teradata DBA
+Nayana Pawar
+

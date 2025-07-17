@@ -1,0 +1,313 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+
+
+                                                                                                                            
+                                                         Resume
+India, Phone: +91-8861631852
+E-mail:  rakesh.pagidi@gmail.com
+Rakesh Pagidi
+
+Objective: 
+
+I would like to take up a challenging career in the field of System Center Configuration Administration and wish to work in an environment which explores current technologies and will utilize, challenge and advance my talents to best potential.
+Profession Summary:
+· Almost 9+ years of IT experience as a Technical Consultant.
+· 7+ Years Strong Knowledge and experience on SCCM 2007, CM 12 exclusively on implementation and Imaging.
+· SCCM 2007, 2012, CB deployment and infrastructure knowledge including troubleshooting, implementation 
+· Work effectively independently or as part of a team
+· Windows 7 migration using USMT 4.0 
+· Windows 10 deployment and management with Intune
+· Extensive knowledge on OS Deployment using SCCM 2007 and 2012
+· Deployment solution for LTI and ZTI using MDT
+
+
+	Technical Skills:
+	
+
+	Operating Systems
+	Windows Server 2003/2008, Windows XP Professional and Windows 7.
+
+	System Management Tools 
+	WSUS, SCCM 2007, CM 2012 and MS SQL 2008, MDT
+
+	Other
+	Knowledge of OS, computer Hardware Network
+
+
+
+
+
+
+
+
+
+
+
+Accenture
+
+	Role
+	SW/Application Tech Support Specialist
+
+	Duration
+	August 2017 – Till Date
+
+	Environment
+	SCCM CB, Windows Server 2008 R2 SP2, Windows Server 2012, Windows 7 and Windows 10
+
+
+
+Responsibilities & Contribution:
+· Complete Patch Management for the servers and workstations.
+· Performing Root Cause Analysis for all critical incidents; analyses the same and find workaround/solution
+· Troubleshoot SCCM issues via analyzing log files on both server and clients
+· Generating customized reports using SQL Server database 
+· SCCM Asset Reporting and Reporting Software Usage, Maintain Deployment Calendar and License Validation process.
+· Trouble Shooting on SCCM Distribution failures and Validating Packaged Applications for Deployment Readiness
+· Role Based Access in SCCM 2012 for different teams based on business requirement
+· SCCM 2012 technical support experience with knowledge of server and client maintenance, troubleshooting, query writing, and application deployments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Capgemini Solutions
+
+	Client
+	AXA
+
+	Role
+	Specialist
+
+	Duration
+	August 2014 – August 2017
+
+	Environment
+	SCCM 2012, SCCM CB, Windows Server 2008 R2 SP2, Windows Server 2012, MDT, Windows 7 and Windows 10
+
+
+
+Responsibilities & Contribution:
+· Own the global imaging solution service for all the regions in AXA
+· Define a standard operating model of imaging process
+· Responsible for ensuring the security features to be included in the core image
+· Capture the reference image with the required global standardization in order to accommodate regional requirements
+· Update the Windows 7 core image with the security updates periodically
+· Defining a image solution for windows 10
+· Incorporate the drivers in the image to support the latest hardware’s form different vendors
+· A close interaction with the manufacturing vendors with respect to the technology changes with the latest to identify the devices for global catalog
+· Migration of the core image release from Development to Pre-Production and Production environment
+· Follow a complete release process with respect to image release
+· Customization of the MDT scripts to automate the task sequence as per the global standards
+· Implementation of customized offline media creation tool with the global standards
+· Setup and installation of SCCM 2007 and CM12 infra for the development of global OS image deployment.
+· Maintaining the environment with 100% success rate for OS deployment
+· Inclusion of non-standard drivers in the driver catalogue
+· Deploying and troubleshooting OSD using PXE, Standalone and Bootable media
+· Knowledge on WinPE and Lite Touch and ZTI using MDT
+· Involved in workshop with consultation of Microsoft for the solution design for SCCM CB and Windows 10
+· Solution development for Windows 10 with SCCM CB
+· Good understanding on the features of Windows 10
+· Defining the solution for BYOD and CYOD with Windows 10
+· Upgrade of SCCM 2012 to CB 1607 
+
+
+ITC InfoTech India Ltd
+
+	Client
+	AXA Technology Shared Services
+
+	Role
+	Associate IT Consultant
+
+	Duration
+	Jun 2012 – July 2014
+
+	Environment
+	SCCM 2007 R3,Windows Server 2008 R2 SP2 Windows XPSP3 and Windows 7
+
+
+Responsibilities & Contribution:
+· Implemented SCCM 2007/2012 Site server/Site System Roles in different BUs in AXA India
+· Maintaining the environment with 90% success rate for software deployment
+· Installing Secondary Site Severs, Distribution Points and reorganizing the earlier configuration for better reachability
+· Deployment and Imaging of customized Windows XP and Windows-7 image
+· Migrated Windows XP SP3 to Windows-7 SP1 using USMT
+· Preparation of standalone media for non-standard models as per business requirement
+· Inclusion of non-standard drivers in the driver catalogue
+· Deploying and troubleshooting OSD using PXE, Standalone and Bootable media
+· Knowledge on WinPE and Lite Touch and ZTI using MDT 2010
+· Performing Root Cause Analysis for all critical incidents; analyses the same and find workaround/solution
+· Troubleshoot SCCM issues via analyzing log files on both server and clients
+· Delegation of role based administration for different level of access admin.
+· Generating customized reports using SQL Server database 
+· Acquired training on SCCM 2012 and Implementation and administration of SCCM 2012
+· SCCM Asset Reporting and Reporting Software Usage, Maintain Deployment Calendar and License Validation process.
+· Trouble Shooting on SCCM Distribution failures and Validating Packaged Applications for Deployment Readiness
+· Role Based Access in SCCM 2012 for different teams based on business requirement
+· Experience on Application Deployment using SCCM 2012
+· SCCM 2012 technical support experience with knowledge of server and client maintenance, troubleshooting, query writing, and application deployments
+
+
+
+
+
+Illu Infra and Info Tech India Pvt Ltd 
+	Client
+	Internal
+
+	Role
+	Sr. System Engineer
+
+	Duration
+	Sep 2010 – May 2012
+
+	Environment
+	Windows XP SP3, Windows 7, Windows Server 2008 R2 SP2 and SCCM 2007 R2
+
+
+Responsibilities & Contribution:
+· Analyzing the risk logs & configures the policy as per risk analysis.
+· Creating universal images for windows 7 and windows XP and deploying these images using MDT  
+· Migrating XP desktops to windows 7 using tools like MDT2010 and USMT
+· Downloading the updated drivers of hardware mention by the customer.
+· Preparing reports and proposals for the entire windows 7 project.
+· Building project plan and analyzing tasks to the resources involved.
+· Creating MDT environment for image creation and configuring DHCP and DNS servers
+· Organizing a hierarchical tree Structure for OS, Applications, Drivers and Patches in MDT console as per client infrastructure.
+· Testing the created image on different hardware models and fine-tuning the image.
+· Providing both stand-alone media and PXE methods of deployment for client communication.
+· Utilizing SQL Reporting Services in Configuration Manager 2007
+· Remote Tools in Configuration Manager
+· Extended MOF to pull information from system registry and show advance reporting information
+· Inclusion of new models by importing the drivers into the driver catalogues 
+
+Mphasis an HP Company
+	Client
+	EDS an HP Company
+
+	Role
+	Associate Infrastructure Engineer
+
+	Duration
+	July 2008 – Sep 2010
+
+	Environment
+	Windows XP SP3, Windows Server 2003 SP2, SCCM 2007
+
+
+
+Responsibilities & Contribution:
+· Resolving software related issues with Operating System such as Windows XP and applications
+·  Implementation & maintaining Active Directory
+· Supporting infrastructure management as a part of ITO and handle tickets.
+· Managing application push through SCCM software distribution.
+· Managing patch management using SCCM software updates.
+· Responsible for patch compliance including client remediation and troubleshooting.
+
+
+Education 
+
+	B.Tech (ECE)
+	Sri Venkateshwara University, Tirupathi
+	2004-2008
+
+	Intermediate
+	Board of Intermediate Education, AP
+	2002-2004
+
+	SSC
+	Board of Secondary Education, AP
+	2002
+
+
+
+
+Personal Details
+	Name
+	Rakesh Pagidi
+
+	Email ID
+	rakesh.pagidi@gmail.com
+
+	Languages Known
+	English, Hindi, Telugu
+
+	Passport 
+	Yes
+
+	Location
+	Bangalore, India
+
+	Contact Number:
+	 +918861631852
+
+
+
+	Page 5 
+	
+	Rakesh Pagidi
+
+
+
+

@@ -1,0 +1,144 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Tejaswini.N.Raju
+Mobile: +91-8971508827
+Email: tejaswiniraju1@gmail.com
+
+								     
+
+CAREER OBJECTIVE
+
+· To secure a position in a professional environment, where I can contribute to the best of my skills and also continue the eternal process of gaining knowledge.
+
+PROFESSIONAL PROFILE
+
+· Currently working with Infosys Ltd in Bangalore.
+· 3.4 years of progressive experience in Microsoft.NET technologies with domain knowledge of Insurance Services and Life Sciences.
+· Involved in various phase of requirement gathering, design and development.
+· Communicating with internal/external clients to determine specific requirements and expectations, managing client expectations as an indicator of quality
+· Have experience of working in both Water fall and agile methodologies.
+
+EDUCATION 
+
+	
+· B.Tech in Electronics and communication engineering from Bangalore Institute of technology (BIT) with Percentage 69.14% affiliated to Visvesvaraya Technological University (VTU), Belgaum in 2014. 
+
+WORKING EXPERIENCE		
+
+
+· Working as a senior systems engineer in Infosys Limited in Bangalore from June 2014 to till date.
+
+ SKILLS SUMMARY
+
+·  ASP.NET 4.0,3.5,ADO.NET,ASP.NET MVC.
+·  Microsoft .NET framework 3.5 ,4.0, 4.5
+·  Database: Microsoft SQL server, oracle.
+· Proficient knowledge in C#, .NET, web services.
+· LINQ, HTML5, CSS, JavaScript, JQuery.
+· Familiar with procedures, views, triggers, functions in SQL server 2008 R2 and Oracle 11g.
+· Basic knowledge on MONGO DB.
+
+
+
+PROJECTS PROFILE	
+
+PROJECT 1          
+Project Description:
+Carrier Link web application:
+· This application is used by insurance brokers. They create placements for the clients where the required product will be selected. 
+
+Roles and Responsibilities:
+· Involved in various stages of software development including Requirement gathering, development, unit testing, deploying the application.
+· Created tables and procedures.
+·  Used MVC architecture, C# , HTML,CSS, jQuery, sql.
+
+PROJECT 2          
+Project Description:
+Email notification Batch job:
+· This application is responsible for sending email notification for the transactions made by the user. Mail is triggered for submission, payment, partial payment, payment due, scheduled payment scenarios.
+
+Roles and Responsibilities:
+· Involved in various stages of software development including Requirement gathering, development, unit testing, deploying the application.
+· Created tables and complex procedures to pick the data related to the client and invoice involved in transaction.
+· Used C#, LINQ, HTML, oracle.
+
+PROJECT 3          
+Project Description:
+Scheduler:
+· The scheduler is responsible for e-delivery of invoices. Based on the approvals provided after verifying the invoice by brokers, the invoice will be e-delivered to the clients for the selected email address.
+
+Roles and Responsibilities:
+· Involved in various stages of software development including Requirement gathering, development, unit testing.
+· Responsible in solving issues and working on change request.
+· .bat files for running the jobs on server configured in autosys.
+· C#, LINQ, HTML are used for implementation, oracle.
+
+PROJECT 4     
+Project Description:
+DFR:
+· It is a batch job designed to read the .dfr (file format provided by the third party vendor) file provided by the third party vendor for the transactions (payments made for invoices) made by the client. By reading the file we update the status of the transactions in our database. The data present in dfr file is validated before inserting into database.
+
+Roles and Responsibilities:
+· Involved in various stages of software development including Requirement gathering, development, unit testing.
+· Responsible in solving issues and working on change request.
+· C#,LINQ are used for implementation, oracle.
+
+
+
+
+		            
+
+
+
+
+                                                                                   
+
+
+

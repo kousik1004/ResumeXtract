@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Himanshu Jain
+j17him@gmail.com
++91-8886086273
+		
+Summary:
+
+· 5 year 6 Month of overall IT experience and 2 years in Big Data (Hadoop and Spark/Scala). 3 year 6 Month in Oracle Database Administration, Design, Development and Implementation and 
+· Hands on experience in Scala, Spark, Hive, Sqoop, Oracle, RDBMS, Linux and SQL.
+· Expertise in Hadoop ecosystem HDFS, MapReduce, Hive, Pig, Sqoop, HBase, Oozie. 
+· In depth knowledge of Job Tracker, Task Tracker, Name Node, Data Node, Resource Manager, YARN and MapReduce concepts.
+· Experience in importing and exporting data using Sqoop from HDFS to Relational Database Systems and vice versa.
+· Highly adaptable in quickly changing technical environments with very strong organizational and analytical skills.
+· Hands on experience in tools like Cloudera CDH 5, Putty, VMware client, WinSCP, Eclipse.
+· Experience in using Integrated Development Environments (IDE) like Eclipse.
+· Demonstrated concern for customer expectation by delivering high quality service that met or exceeded customer needs.
+· Shared knowledge and experience with a view to increase team performance. Worked with others amicably and supported other team members.
+· Good Technical, Communication and Interpersonal Skills with strong Client Interfacing Skills.
+· Experience in working with MS-Word, Excel and Power point.
+
+
+Technical Details:
+· Language: 		Java (JDK 1.6/1.5/1.4), SQL, Spark RDD, Spark DataFrame, Scala, Pig, Hive,
+			Sqoop, HBase, Oozie.                                                                
+· Framework:		Hadoop, Apache Spark, HDFS
+· Databases:		Oracle.
+· Operating Systems: 	Linux, Windows 2012 servers and Windows XP, Windows 7
+· Tools:			Eclipse, Putty, WinSCP
+
+
+Professional Summary:
+
+Project:		Shell Dutch
+Employer:	Accenture						Nov 2016 – Till date
+Client: 		Shell (U.S.)
+Position:	Senior Engineer
+
+DESCRIPTION: Shell has machinery which is fitted with sensors collecting data about its performance and comparing it with aggregated data, meaning parts can be replaced in an efficient manner and downtime minimized, further reducing overheads. 
+Responsibilities:
+
+· Moved all products information of existing customers to HDFS for further processing.
+· Worked on Spark RDD transformations to map business analysis and apply actions on top of transformation.
+· Written the Apache PIG scripts to process the HDFS data.
+· Importing and exporting data into HDFS and Hive using Sqoop.
+· Involved in creating Hive tables, loading with data and writing hive queries that will run internally in map reduce way.
+· Load and transform large sets of semi structured data.
+· Support Implemented test scripts to support test driven development and continuous integration.
+· Involved in gathering the requirements, designing, development and testing
+· Analyzing the requirement to setup a cluster.
+· Created External Hive Table on top of parsed data.
+· Written Hive queries for data analysis to meet the business requirements.
+· Kafka Messages using topics and pull data using Flume.
+
+Environment:	Spark, Scala, Cloudera Hadoop, HDFS, Pig, Hive, Sqoop, Oozie, Spark SQL, Eclipse IDE
+
+Project 2:	Orange
+Employer:	Accenture						Jul 2016 – Nov 2016
+
+Client: 		Orange, UK
+Position:	Software Engineer
+
+DESCRIPTION: Orange has all the dataset information which has been captured into RDBMS (ORACLE Database) It has all the digital media information irrespective of the customers. Business customers of all sizes are provided with our high-speed Internet, phone and long-distance services, as well as data and video transport services. 
+
+Responsibilities: 
+
+• Written Hive queries for data analysis to meet the business requirements.
+• Space Monitoring and maintenance.
+• Installation, Patching, Upgrade of Database.
+• PDB Cloning and functional checks.
+• Refresh activity using Data pump.
+• Daily health checks of database.
+• Providing access and Partitioning Activity.
+• Restoration of objects.
+• Scheduling RMAN Backup and checking and working on related issues.
+• ASM disk addition and space maintenance.
+• Applied patches in various environments.
+• Build a data guard setup for critical Environment.
+Environment:	Oracle RDBMS 11 g, Hadoop, HDFS, Pig, Hive, SQL, Eclipse IDE, Linux.
+
+
+Project 3:	Bell 
+Employer:	CGI Group						Jul 2013 – June 2016
+Client: 		Bell Canada
+Position:	Associate software Engineer
+
+DESCRIPTION: Bell offers a variety of advanced digital video, high-speed Internet and telephone services over our own IP network. All the dataset information has been captured into RDBMS (ORACLE Database) which has all the digital media information irrespective of the customers. Business customers of all sizes are provided with our high-speed Internet, phone and long-distance services, as well as data and video transport services. Bell Media offers local and national cable advertising in both traditional and new media formats, along with promotional opportunities and production services which enhance the business for the customers across the regions.
+
+Responsibilities:
+
+• Refresh activity at DB level, Schema level using Data pump.
+• Installation, Patching, Upgrade of Database.
+• Data guard Setup.
+• Created Partitioned Tables for larger datasets.
+• Created views to retrieve data from Database.
+• Created and executed various Packages, Stored Procedures, Functions, Triggers, and written Complex Queries.
+• Database link, Synonym Creation.
+• Perform Materialized view refresh & Monitor the refresh groups.
+• Assigned and maintain the grant, Revoke Privileges, Roles for various objects, Schemas as well as at Database level.
+• Monitor the Sessions at DB level, maintain the Performance of the Query.
+• Improve the Performance of the query.
+• Bounced the Queues and created the Indexes.
+• Monitor the Scheduled Jobs, fix the Job Failures, Broken Jobs.
+• Validation of Objects and perform gather Statistics.
+• Space Monitoring and maintenance.
+• DB start and stop activities.
+
+Environment: RDBMS (ORACLE), Linux, Putty, Toad, SQL Developer, Winscp.
+
+Educational Details:
+
+· Completed B.E (IT) from RGTU University in 2012
+
+· Completed HSC from M.P. Board, Bhopal in 2008.
+
+· Completed SSC from M.P. Board, Bhopal in 2006.
+
+Current Location:
+· Bangalore (India)
+
+
+

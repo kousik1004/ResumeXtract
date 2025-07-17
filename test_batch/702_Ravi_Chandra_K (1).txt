@@ -1,0 +1,309 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SQL DBA
+
+
+	
+	SQL Server 2005
+
+
+Ravi Chandra K                                                
+
+Mobile: 7799525962
+Email: sravchandu@gmail.com
+PROFESSIONAL SUMMARY
+
+7+ years of experience in IT industry having strong skills in SQL Server 2000/2005/2008, development, Administration and leading both DB support and Maintenance teams . I am keen to adopt new skills, technologies and flexible to adapt in new domains and environments
+
+IBM Services India pvt.ltd                                                   
+
+Hyderabad.                                                                        June 2010 – Till Date
+
+Senior System Engineer (6B Band – Lead Role)
+
+Accenture services pvt.ltd                                                   
+
+Bangalore.                                                                          Nov 2006 – May 2010
+Team Lead
+
+Accenture services pvt.ltd
+
+Through SSG                                                   
+
+Bangalore.                                                                          Aug 2005 – Nov 2006
+
+Software Engineer
+
+CBRE Pvt Ltd                                  
+
+
+      June 2004 – Aug 2005
+
+Hyderabad
+EDUCATIONAL PROFILE
+
+M.Sc (Information Systems) from Nagarjuna University 
+
+         2004
+
+B.C.A (Bachelor of Computer Applications) from Nagarjuna University.       2002
+
+Certifications 
+
+
+
+MCTS   70-431: Microsoft SQL Server 2005 - Implementation &Maintenance
+MCDBA 70-228: Installing, Configuring, and Administering Microsoft SQL Server 2000 Enterprise Edition. 
+
+MCDBA 70-229: Designing and Implementing Databases with Microsoft SQL Server 2000 Enterprise Edition.
+
+Strengths
+
+· SDLC Knowledge
+
+· End to end development
+
+· Client Interaction 
+
+· Innovative approach 
+
+· Banking and Telecom domain experience
+
+· Team leading
+
+· Result Oriented 
+
+· Strong Communication skills
+
+· SCRUM, Waterfall and Spiral model work experience
+
+Responsibilities
+
+· Interacting with the client to understand the project and finalize its scope. 
+
+· Estimation, design and development of various modules. 
+
+· Bug fixing and maintenance of the product 
+
+· Mentoring junior members in the team 
+
+· Coordinating with other teams working on the same project 
+
+· Coordinating with the testing team for fixing bugs. 
+
+· Conducting Peer – Reviews.
+
+· Ensuring smooth delivery of the project 
+· Leading the technical team.
+
+Training and Achievements
+
+· Completed a project assignment successfully at AT&T –USA (Aug 2005-Nov 2008)
+
+· Completed a project assignment successfully at Warwick –United Kingdom (Dec 08-Dec 2009)
+
+· Attended training on ITIL Awareness Process in Accenture.
+
+Technical skills
+
+          RDBMS                     : SQL Server 7.0/ 2000/2005/2008       
+
+Operating Systems   : Windows XP/NT/2000/2003   
+
+Ticketing Tool         : Remedy, HPSC
+           Languages
+      : C, VB6.0, VBscript, ASP, .net
+
+           BI Tools
+      : SSIS, SSRS, DTS packaging.
+
+	
+	
+
+
+Profile Summary
+
+· Over 7+ years of IT Experience that includes analysis, design, development, testing and implementation of business systems using BI Tools and Data Base operations.
+
+· Build and maintain SQL scripts, indexes, and complex queries for data analysis and extraction
+· Plan, design, and implement application database code objects, such as stored procedures, triggers and views.
+· Experienced in creating and scheduling the DTS packages.
+· Experienced in working with SQLserver2005 BI tools SSIS, SSRS.
+· Experienced in Working on clustered Environment and Multi Instance Servers.
+
+· Experienced at Configuring and Troubleshooting the Replication, Log shipping and other distributed data issues in stipulated amount of time in SQL Server 2000 and 2005.
+
+· Involved in writing complex T-SQL scripts to DBAs and dev team when ever required.
+
+· Successfully resolving SQL Server problems in conformance with SLAs, which involves in-depth knowledge of SQL Server architecture, connectivity, backup/restore, database corruption, security etc
+
+· Expertise in using SQL server profiler, Index Tuning Wizard & SQL query analyzer for performance related issues in MS SQL database / MS SQL based applications.
+
+· Ensured that the automated jobs are not failed and reported to application team whenever required.
+
+· Resolving database performance issues and monitoring the growth of the database to ensure the smooth running of daily activities.
+
+· Had an experience of working with very huge databases up to 400 GB.
+
+· Exposed to Performance Tuning and index tuning of SQL Server Databases.
+
+· Aware of and adhering to the ITIL processes like Change Management, Incident Management in the Support Environment.
+
+· Server Migration from SQL server 2000 to SQL Server 2005.
+
+·    Developing SSIS packages to import data from various sources & sync up all the master & transactional data.
+
+·    Created SSRS reports for the Business clients & managers (Parameterized, Drilldown and Drill Through reports).
+
+	
+	
+
+
+PROJECT PROFILE
+Organization   
+: IBM India pvt.ltd, Hyderabad
+
+Project Name
+  :  SunTrust
+
+    Client             :  US                               
+
+    Duration
+  :  June ‘2010 to till date
+
+    Environment    : .Net/MS SQL Server 2005/ 2008
+    BI Tool
+  :  SSIS, SSRS.
+    Team Size
+  :   12
+
+Brief Description: 
+
+Initially ARGO was developed to perform the lift and shift of the Platform-online application, which performs inquiry, maintenance, sales, and new account set up. ARGO was designed to automate most branch day-to-day functions, allowing you to perform tasks such as:
+
+ARGO Service:
+
+· It performs client search and retrieve client information such as name, address, accounts etc.
+
+· We can view one client at a time.
+
+· It provides client and account inquiry & maintenance
+
+· Each maintenance process will launch its respective component process
+    Roles & Responsibilities:    
+
+· Used SQL-Server 2008 for performing the database activities like creating Tables, Stored Procedures and scheduling the SQL-Jobs (for atomization of the process).
+
+· Developing SSIS packages to import data from various sources & sync up all the master & transactional data.
+
+· Created SSRS reports for the Business clients & managers (Parameterized, Drilldown and Drill Through reports).
+
+· Active participation in P&A, Design, Construction and Implementation plan related documents.
+
+Organization   
+: Accenture services pvt.ltd, Bangalore
+
+Project Name
+  :  Warwick
+
+    Client             :  NGT and EDF, UK                               
+
+    Duration
+  :  Dec 2008 to May 2010
+    Environment    : .Net/MS SQL Server 2005 & 2008
+    BI Tool
+  :  SSIS, SSRS.
+    Team Size
+  :   8
+
+Brief Description:    
+
+Field Force Enablement (FFE) is a suite of software products, developed by Accenture and Avanade, which together provide a complete workforce management solution for utilities and other asset intensive industries.  FFE aims to turn the mobile device into the field worker’s single point of contact with their employer, thereby eliminating all paperwork going to and from the field and achieving much greater business benefits.  To achieve this, FFE provides a range of other capabilities on the device in addition to work management such as asset management; self administered HR; integrated document management for supporting information (e.g. maps, network schematics, standard procedures, health and safety docs); and generic productivity/communication tools.
+
+Organization     : ACCENTURE
+
+Project Name    : MORRIS 
+
+Client
+
+:  AT&T   
+
+Duration
+: Aug 2005 to Dec 2009
+
+Environment      : MS SQL Server 7/2000
+
+ETL Tool
+: DTS Packaging.
+
+ Team Size
+ : 10
+
+Brief Description:    
+
+                    MORRIS process different affiliates data coming from different upstream sources. As of now in the existing process MORRIS process the data of affiliates like DTV, BSCC, CPE, BS.net and DSL. PHOENIX is a new AT&T affiliate. So we have to setup the environment in MORRIS in such a way to handle the PHOENIX data coming from the up streams, process the data and flow the valid records to the down streams OPTICS for compensation.
+
+PERSONAL INFORMATION
+
+       Name     
+:  Ravi Chandra K
+
+        Father Name
+:  Krishna Mohan
+
+        Marital Status 
+:  Married
+
+        Nationality                                    :  Indian.            
+
+        Languages known
+                        :  English, Hindi, Telugu, Kannada
+

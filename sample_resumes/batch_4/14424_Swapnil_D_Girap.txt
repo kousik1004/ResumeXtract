@@ -1,0 +1,210 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AIX Admin
+
+
+RESUME
+Swapnil D. Girap                                                                    
+E-mail: girap.swapnil@gmail.com 
+Mob No: +91 9892 704 182 / +91 9821 816 880
+Objective
+To improve and make efficient use of my theoretical and practical knowledge with innovations in a dynamic real time world for development of my skills and maximum benefits to the organization.
+Experience Summary
+· Comprehensive background in AIX System Admin, operating system installation, upgrade configuration, rollout and support of software
+· Experience in IBM p520, p570 P740 series with LPARS technology 
+· Installation, Configuration, Troubleshooting and Administration of AIX
+· AIX Migration from AIX 6.1 to AIX 7.1, Preservation and Complete Overwrite Installation
+· Troubleshooting, Hardening  and Maintaining AIX and Patching
+· Management of storage (IBM DS5000,DS3500, DS3524 and EMC storage) allocations .
+Experience Details:
+1. Company
+
+:  Kotak Mahindra Life Insurance Ltd on behalf of VDA Infosolutions    
+                                    Pvt Ltd 
+
+Designation
+:  System Admin
+
+Duration
+
+:  October 2015 to till date
+2. Company
+
+:  UBI RRB on behalf of Wysetek Systems Technologists Pvt. Ltd
+
+Designation
+:  AIX Administrator
+
+Duration
+
+:  March 2015 to October 2015
+3. Company
+
+:  Aegon Religare on behalf of Future Focus Infotech Pvt Ltd.
+
+Designation
+:  AIX Administrator 
+
+Duration
+
+:  March 2013 to March 2015
+4.  Company
+:  NSDL on behalf of CBT Infotech Limited 
+                   Designation               : Application Support Engineer     
+                   Duration
+             :  Mar 2012 to March 2013
+         5.      Company
+:  Genius Consultant Limited
+           Designation   
+:  Asst. Manager MIS
+           Duration                       :  Feb 2010 to March 2012 
+
+6.      Company
+:  Manpower India Private Limited
+           Designation   
+:  MIS Executive
+           Duration                       :  Mar 2009 to Feb 2010 
+
+7.      Company
+:  Spectrum Solution Pvt Limited 
+           Designation   
+:  Process Assistant
+           Duration                       :  Mar 2007 to Feb 2009 
+AIX Administration
+Task Performed:
+· DR Drill operation.
+· AIX Server Migration of 6.1 to 7.1.
+· Up-gradation of SP level from SP2 to SP3 on 7.1 TL4 for DB crash Issue.
+· Power 8 performance tuning suggested by IBM
+· Installation of Netbackup and up-gradation. 
+User Management:
+· Creating Users, Group as per user creation policy.
+· Troubleshoot user account for account lockout and account expiration issues.
+· Remove/add user also add/remove ownership and permission to specific user on filesystem.
+Logical volume Management:
+· Creation of volume group, logical volume and file system (jfs and jfs2) on logical volume
+· Troubleshooting of file system issues.
+· Extend and reduce file system
+· Export/ Import file system
+· Changing permission and ownership of file system
+Installation, Migration and OS patching:
+· Participate in AIX installation using AIX base media
+· Migration of AIX OS from 6.1 to 7.1
+· Java installation and up-gradation, Net backup, openssh, bash and other rpm installation on AIX
+Network files system & Performance and troubleshooting:
+· Working with NFS mounts and related issues
+· CPU, memory and filesystem monitoring
+· errpt monitoring ,also snap creation for system problem analysis
+· Performance check using topas, nmon, vmstat 
+AIX operating system backup:
+· Regular system backup using MKSYSB (weekly and monthly)
+· Backup restoration using NIM
+· VIO backup.
+HMC:
+· LPAR  profile creation
+· Dynamically add, remove and move resources of HMC managed system.
+· HMC and managed system backup.
+· Create partitions, partition profiles, and system profiles, activate partitions, and schedule operations for partitions, dynamic operations for adding, moving, and removing memory, processor resources and dynamic movement of physical adapter.
+Storage:
+· Working on IBM storage (DS 3500, 5000, 3524) & EMC storage.
+· LUN creation, LUN assignment to target host from EMC and IBM storage using dual VIO setup.
+· LUN concatenation in storage.
+· Assigning raw disk to AIX client LPAR from storage for oracle database.
+· Management of storage allocations.
+· Work with vendors for resolving storage problems. Troubleshoot, open calls with vendors.
+Daily AIX Administration Checklist
+· Size for all filesystem on Servers
+· Memory Utilization of all Servers
+· CPU Utilization of all Servers
+· Checking All Production Applications and databases up and running
+· Monitoring errpt errors
+· Storage Health check
+· SAN switch Health check
+· Daily Health check of production and DR SAN switch, if any issue logs a call to vendor and co-ordinate with them for resolving issue.
+· NMON Analysis and report
+Educational Qualification
+	Examination
+	Board/University
+	     Year Of Passing
+	Class
+
+
+	B.M.M
+	Mumbai University
+	           2005-06
+	Second Class
+
+	H.S.C
+	Pune University
+	           2002-03
+	First Class
+
+	S.S.C.
+	Pune University
+	           2000-01
+
+	First Class
+
+
+Personal Profile:
+Name
+
+
+:
+Swapnil Dnyaneshwar Girap
+Permanent Address
+:
+Worli B.D.D. Chawl. NO 51, Room No 75, Behind Dutta   
+                                                                 Mandir, Gandhi Maidan, Worli, Mumbai-400018.
+Date of Birth
+:
+15 September 1984
+Nationality
+
+     
+:
+Indian
+Languages Known
+
+:
+English, Marathi and Hindi
+Declaration:
+I hereby declare that all the details furnished above are true to the best of my knowledge.
+   Date: 
+   Place: Mumbai                                                                                               Swapnil D. Girap 
+

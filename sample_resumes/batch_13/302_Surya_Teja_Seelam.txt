@@ -1,0 +1,195 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Surya Teja Seelam
+
+
+M.Tech (Computer Science and Engineering), B.Tech (Computer Science and Engineering)                                                                                          
+9892568668 | surya.ts07@gmail.com                                                                                                                                                      
+                                                									 OBJECTIVE
+To get detailed and perfect information / business requirement from the client, propose the most effective solution to client and configure the requirements in the system.
+WORK EXPERIENCE
+· 2.3 years of work experience in IT including 2.3 years in SAP ERP Functional area of Sales & Distribution(SD) & SAP IS-Retail 
+· Currently working with Capgemini (Mumbai)
+
+SAP SKILLS
+
+· SAP ERP Consultant with more than 2 years of Functional hands-on Experience.
+· SAP Consultant in IS- RETAIL with knowledge in Sales Price Calculation, Assortment, Listing, POS, Store Initialization & Termination, Cluster Maintenance, Customer Master, Material Master, Site Master, Refsite.
+· SAP SD configuration, covering full range of Order Fulfillment functionalities viz. Organizational Structure, Master Data, Order Processing, Availability Check, Pricing, Shipping, Billing, Consignment Process, Third Party Sales, Credit Management, Output determination.
+· Worked in the configuration of Basic functions including Partner determination, Output determination, Text determination, Account determination, and Material substitution
+· Exposure to Master Data management Tools such as SECATT, LSMW, also worked on transaction MASS, MM46.
+· Good exposure to Batch Jobs and handling issues related to it.
+· Proficient in analyzing and translating business requirements to technical requirements.
+· Preparation of functional specifications for enhancements, user manuals, and troubleshooting tickets.
+· Creative problem solving skills, energy and customer orientation.
+· Worked on Cross-Module integrations like SD-MM, SD-FI 
+· Worked on IDOCS, EDI, SAP tools like SRS(SAP Retail Store) and Friori
+· Exposure to tools like Solman (CHARM), BMC Remedy Ticketing Tool, Service Now.
+· Exposure to Microsoft Office: MS-Word, MS-Excel, MS-Power Point
+· Unit Testing, Integration testing with other modules
+
+
+
+PROJECTS
+Project Name: KESKO (SAP – Implementation, Development & Support)
+Client:  KESKO Retail, Finland  
+Project Role: Team member of SAP SD Module & IS-Retail
+Project Responsibilities: 
+· Interacting with KESKO IT team for developments/enhancements/issues
+· Resolving day-to-day problems of the users, handling support tickets
+· Understanding the user requirements, preparing functional specifications & work estimation for new requirements and configuring the same.
+· Building test scenarios & creating test cases
+· Regular service activities especially related to IS-Retail
+· Creation of change request for enhancement requirement, defects, and low impact changes and lead the whole process from Development to Testing to Production
+· To meet the SLAs of the contract
+· Translating the complex understandings technically for ABAP, BI, BO, BW and XI/PI consultants as well.
+
+Projects handled in KESKO:
+
+1. KCM Store Invoicing – Implementation of Sales to Billing Process for KCM stores
+· POS to send Sales Order data to SAP thru inbound idoc ORDERS05
+· Process idoc to create sales order
+· Creation of new sales order type(debit/ credit), invoice type(debit/credit)
+· New no. range to be assigned to the sales & billing documents
+· Copying control
+· Creation of Customer Master Data – Customer Account Group, Assignment of no. series
+· Creation of Invoice List Output Types for outbound XML idoc & print output/ smartform
+· Creation of Invoicing fee & Tax conditions which should be displayed only in Invoice and not in Sales Order
+· Creation of new Partner Function, Partner Determination Procedure & its assignment
+
+
+
+2. Best Price Development – Creation of pricing procedures to offer least price to some customers
+· Best price calculation to be done among 3 price conditions considering discount condition
+· Best Price also to be calculated among the Available Key combinations for the condition type
+3. United Project: 
+- The project is for merging 3 company codes of KESKO to one company code in accounting perspective. (Merger of “Kesko Food Ltd.”, “City Market Ltd.” and “Kespro Ltd.” into “Kesko Corp” in accounting perspective).
+4. Retailer Conversion Rollouts:
+-     Conversion of Kesko owned stores into Kesko independent stores (Franchises).
+5. WOK & FAST Project: 
+· New listing G and R were introduced to KESKO.
+· Stores now have G-KEVA listing articles which are mandatory and R-SUVA recommended listing along with other standard listings.
+6. HYSA Report (Shelf space management report):
+· The report collects the relevant data from various tables. ‘HYSA’ reports in BW helps business to measure product’s shelf availability.
+· The data of the report is fetched from ERP on daily basis.
+7. Credit management for KESPRO customers:
+· Sales order gets delivery block if customer has no credit limit and creation of purchase requisition is also prevented in this case.
+
+
+
+
+
+Project Name: FISKARS (SAP – Development & Support)
+Client:  FISKARS, Finland  
+Project Role: Team member for SAP SD Module
+Project Responsibilities: 
+· Co-coordinating with onsite delivery team for SAP-SD related issues
+· Understanding the business requirement, preparing estimation & functional specification documents
+· Leading the change requests from Development to Go Live
+· Resolving SD related support tickets
+INTERNSHIP
+
+· Internship in RCI DRDO – During M.tech 2nd year (2014-2015).
+
+EDUCATIONAL QUALIFICATIONS	
+
+	University
+	Name of the College / Inst
+	Qualification
+	Year
+	Percentage/Grade
+
+	Osmania University
+	Vasavi College of Engineering, Hyderabad
+	M.Tech(CSE)
+	2015
+	83.5
+
+	JNTU University
+	Ramappa Engineering College, Warangal 
+	B.Tech(CSE)
+	2012
+	65.51
+
+
+
+
+ACHIEVEMENTS
+
+· Received STAR Reward for outstanding performance in the category – “Excellence in Customer Delivery” at Capgemini.
+· Client’s Appreciation for providing innovative solutions at Capgemini.
+
+
+
+EXTRA-CURRICULAR ACTIVITIES
+	
+· Secured 1st position in the district level cricket championship 2006.
+· Event Coordinator of fresher’s party in my college in AP.
+
+
+PERSONAL DETAILS
+
+Correspondence Address: 	B-702, Plot No. 8,
+ 				Ambe Prerna Apartment, Sector 03, 
+Ghansoli, Navi Mumbai-400701
+
+Permanent Address: 	             Plot No: 44A, Sarvasukhi colony, West Marredpally,
+ 				Secunderabad, Telangana-500026
+
+Date of Birth:                             3rd June, 1991
+
+Mobile No.:			+91-9892568668 / +91-8779852189
+
+Email Id: 			surya.ts07@gmail.com
+
+Passport Details:                      Z3301952	
+                                                   Issue Date	17/07/2015
+                                                   Expiration Date	17/07/2025
+                                                   Country	             India

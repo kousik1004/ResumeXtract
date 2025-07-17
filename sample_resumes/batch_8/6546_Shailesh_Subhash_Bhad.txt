@@ -1,0 +1,316 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shailesh Subhash Bhad.
+Current Address:				                  Mobile No: +91-9623541269
+room no 0694 Ramabai Ambedkar Nagar 
+E-Express highway Ghatkopar East Mumbai-400075         Email: shailesh.bhad@gmail.com
+
+	Objective
+	
+
+	To become a successful professional in the field of Information Technology and to work in a competitive world. And reach at the top level in the field.
+
+
+
+	Work Experience
+	
+
+	
+· Current Post :  Software Engineer
+-Bprise Private Limited.(http://www.bprise.com) –Sahar Cargo estate, j.b. nagar, Mumbai, Maharashtra    400099, India. 
+                (July 2016 to Present) 
+· Post :  Software Developer with R&D
+-Syncthreads Computing.(http://www.syncthreads.in) -Pestom Sagar Colony, Chembur, Mumbai, Maharashtra 400089, India. 
+Client side(Sun Pharma)
+                (March 2016 to July 2016) 
+· Post :  Java Developer
+-Vishon Technologies.(http://www.vishontech.com) -Thergaon, Pune-411033. 
+                (July 2014 to Feb 2016) 
+
+
+
+	Summary
+	
+
+	
+· Self motivated, work independently and handle entire project/website . 
+· Creating Java Web Application using OSGI/Struts 2 Framework and AngularJS. 
+· Configuration related changes for the application as per the requirement. 
+· Extensive knowledge of Core java concepts and its framework Struts2. 
+· Excellent scripting knowledge such as JavaScript, JQuery and AJAX. 
+· Hands on Experience in Development of web applications using Core Java and Struts 2 framework and MySQL.
+· Hands on experience in using Spring tool suite, Netbeans , Eclips, Sublime_Text etc as IDE for developing website and web applications.
+· Influential character with good technical & pioneering skills and can handle Software projects efficiently.
+
+
+
+
+	Academic Credentials
+	
+
+	Degree
+	  Year
+	Board/University
+	 Percentage
+	Class
+
+	M.C.A
+	  2014
+	Pune University
+	64.00%
+	 First Class
+
+	B.C.A 
+	  2011
+	Tilak Maharashtra University
+	73.10%
+	 Distinction 
+
+	H.S.C.
+	  2008
+	Nashik  Board 
+	67.50%
+	 First Class              
+
+
+
+	Technical Skills
+	
+
+	Technologies
+	Java (JSP, Servlet, Struts 2),JPA, Spring, Hibernate, OSGI Framework, Mqtt,Redis ,kafka, Mosquitto
+
+	IDE
+	· NetBeans (HTML, Core Java).
+· IntellIj (Java ,Spring).
+· Eclipse (J2EE, JSP, Servlet, Struts 2).
+· Sublime Text.
+· Spring Tool Suite
+· Talend
+
+	Skills Used
+	· HTML/5
+· MySQL
+· Java
+· Bootstrap
+· CSS 
+· JavaScript
+· JQuery
+· Ajax
+· AngularJS
+· JSON
+· Web Services and API( including Payment gateway,SMS gateway).
+· Ionic        
+
+	Databases
+	MySQL Server 5.5, Cassandra , MongoDB
+
+	Web Server
+	Tomcat 7.0 ,8.0,9.0 .
+
+
+
+Professional Experience Projects in Syncthreads Comp./Vishon Technologies And Bprise pvt.Ltd
+
+	1)Orbit
+
+	Technology
+	Java(Spring boot ) and angularjs
+
+	IDE
+	Eclipse  (Java),Sublime(angularjs)
+
+	Database
+	My SQL server 5.5.
+
+	Languages
+	Java(Spring boot), HTML, Bootstrap, JSON, JavaScript
+
+	Role
+	Development, Database designing
+
+	Responsibilities
+	Module development.
+
+	Description: The System is developed for vendor of bprise private limited . Using  this System vendor can manage their whole advertisement process . create campaign ,map location with their beacon devices for advertisement , publish  own campaign and map their campaign with particular location . view and generate reports for the campaign . 
+
+
+
+2)Device Manager 
+	Technology
+	Java Spring MVC, Hibernate,JPA ,AngularJs, MQTT .
+
+	IDE
+	Eclipse(HTML & Java)
+
+	Database
+	My SQL server 5.5.
+
+	Languages
+	Java(Spring boot), HTML, Bootstrap, JSON, JavaScript .
+
+	Role
+	Development, Database designing
+
+	Responsibilities
+	Implement whole(Application) .
+
+	Description:  The System is a part of orbit project . Using  this System manage device information 
+(beacon) That installed in particular location .
+
+
+
+	3) Open RTB
+
+	Technology
+	Java Spring MVC, Hibernate,JPA ,AngularJs, redix.
+
+	IDE
+	Eclipse  (Java),Sublime(angularjs),Telend
+
+	Database
+	My SQL server 5.5.
+
+	Languages
+	Java(Spring boot), HTML, Bootstrap, JSON, JavaScript .
+
+	Role
+	Development, Database designing
+
+	Responsibilities
+	Module development.
+
+	Description: The System is  a part of orbit project . this  system provides to set real time biiding  price for impression and clicks . This  System  serve ads to consumers directly based on their demographic, psychographic, or behavioral attributes.
+
+
+
+4)WSIMS (Whole Slide Image Management System) 
+	Technology
+	Java with Spring MVC, Hibernate and OSGI Framework, JPA, Maven 3.0.4
+
+	IDE
+	Spring tool suite, GIT, Phabricator.
+
+	Database
+	My SQL server 5.5.
+
+	Languages
+	Angular Js, HTML,Java (OSGI Framework),Bootstrap, Ajax, JSON, JavaScript, JQuery.
+
+	Role
+	Software Developer 
+
+	Responsibilities
+	Team Member.
+
+	Description:  WSIMS is a Whole Slide Image Management System. The use of this project to prepare the study for developing the drugs. It is helpful to the pharmaceutical company. Storing the image and retrieving the image is very challenging task in this project. Every image size around the 2 to 4 GB and each study having above 300 images.
+
+
+
+	5)Aangandeep Realty MLM System(http://www.aangandeeprealty.com)
+
+	Technology
+	Java(Struts 2), Hibernate.
+
+	IDE
+	Eclipse  (HTML,Java)
+
+	Database
+	My SQL server 5.5.
+
+	Languages
+	Java(Struts 2), HTML5, Bootstrap, Ajax, JSON, JavaScript, JQuery, SMS Getway.
+
+	Role
+	Developer and Designer
+
+	Responsibilities
+	Team Leader.
+
+	Description: Aangandeep Realty Is an MLM System. It's an online project here member and Agent registration are important module. Every agent added by under the introducer and each agent having the unique IME code. In this system no one is employee only basis of the commission agent collect the member and according to the member registration commission will be distribute in chain. In this system total rank level is 13.based on agent rank commission will be distributed. The commission plan having the pre defines structure. 
+
+
+
+	Personal Information
+	
+
+	Name
+	Shailesh Subhash Bhad
+
+	Father’s Name
+	Subhash  M. Bhad
+
+	Date Of Birth
+	03 April 1990
+
+	Nationality
+	Indian.
+
+	Gender
+	Male.
+
+	Languages Known
+	Marathi ,Hindi ,English
+
+	Marital Status 
+	Single.
+
+	Hobbies
+	Watching movies.
+
+
+
+Declaration:
+                  I am confident of my ability to work in a team. I hereby declare that the information provided above is true to the best of my knowledge
+Date:
+Place:Mumbai                                                                                            Shailesh Bhad.                                                   
+
+
+

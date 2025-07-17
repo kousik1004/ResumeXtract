@@ -1,0 +1,313 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curriculum Vitae Template IMIX
+
+
+WORK EXPERIENCE           (32 MONTHS) 
+
+ 
+ 
+
+Syntel Pvt. Ltd 
+SSIS, SSRS, SQL, Tableau - 
+
+Developer 
+Nov 2015 – till date 
+
+Client Details: EQuIP team, Quality team, KPO team, Risk team, HR team 
+
+Roles& 
+Responsibilities 
+
+Project 1 : Creating EQuIP Agile Reports                                     
+
+Environment: MS SQL Server 2008, SQL Server Integration Services , SQL Server Reporting 
+Services 
+Clients : Quality Team, EQuIP Team 
+Following reports are designed and prepared also stored procedures created as part of this 
+project: 
+1. Developed Project Dashboard : 
+
+ Report provides information about Defects Details, Transitions Details, Effort 
+Distribution, Engineering Efforts for various projects 
+
+ Report contains summary about the tasks created for employee like  Defect Density, 
+Defect Containment, Effort Variance 
+
+2. Developed Agile Dashboard : 
+ Report gives summary about the Backlog in project, speed and stability of project. Also 
+
+provides information regarding reworks done. 
+ Reports provides summary capacity utilization 
+
+3. Prepared Product backlog report : 
+ Report gives details about customers of projects, allocated work , acceptance criteria , 
+
+status, complexity ,priority and efforts required 
+ report also provides the expected duration time and status about current work situation 
+
+4. Prepared Export estimation report: 
+ Summary of task assign to customers, status, Employee assign to task and efforts 
+
+required 
+5.  Prepared Sprint Tracker report :  
+
+ Summary about the tasks, employee assigned, total efforts done and remaining efforts 
+6. Created Burn-down chart : 
+
+ Summary about each project planned work and how are chasing this target 
+
+Project 2 : GSD Interaction reports 
+
+Global Service Desk is a portal from where we can raise a ticket to do our task. For example 
+Installation of software, Taking access on server and database etc. 
+ 
+Following reports are designed and prepared also stored procedures created as part of this 
+project: 
+1. Developed Incident Management Report: 
+
+ Gives information about how many tickets are open under which Assignment Group 
+(Team) and on which step it is open. 
+
+ There are 7 steps through ticket provide like Customer response, open, pending approval, 
+pending change, work in progress, etc. 
+
+2. Developed TSG Open IM Month wise Assignment Group Report: 
+ Gives information about the IM open ticket count on yearly and monthly basis as per the 
+
+Assignment Group. 
+3. Developed  TSG Open IM Month wise Interaction Status Report : 
+
+ Gives information about the open tickets count of last 4 months as per the city like 
+Mumbai, Chennai, and Pune in status of open ticket.  
+
+ It also gives idea about the open ticket count under the employee who are working on it. 
+4. Developed IS (Information System) change management Report : 
+
+ Gives information about the Open ticket count under the managers. 
+ This ticket counts are separated in 3 categories below 100 days, between 101-200 days, 
+
+above 200 days. 
+5. Developed Open change phases  Report: 
+
+ Gives information about the open tickets count of manager under phases like Logging, 
+Requesting Logging, Review, Test, CAB/ECAB Approval, Implement and Evaluate,etc. 
+
+6. Developed TSG change management Report : 
+ Same like IS change management, TSG change works. 
+
+ 
+
+PAYAL VINOD AVALE 
+FEMALE,  DOB: FEB25TH, 1993 
+
+ 
+
+: +91 9766822271 
+
+                                                                  : piu293@gmail.com 
+ 
+
+  
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+Roles & 
+Responsibilities 
+
+Project 3 : Risk DashBoard 
+
+Environment:MS SQL Server 2008, SQL Server Integration Services , SQL Server Reporting 
+Services 
+Clients : COO, Risk team 
+Developed Risk Dashboard which calculates Risk Absolute Value (calculations based on Revenue and 
+Margin) and analyse Risk of specific customer and vertical i.e. this customer is profitable for company 
+or not. 
+ 
+Risk Dashboard is created by integrating and calculating following points : 
+1. Growth: (Absolute Risk Value calculate)  
+
+1. By comparing current and previous quarter revenue. 
+2. By Top 3 Customer Growth calculation based on Revenue. 
+3. By Revenue of new customer added. 
+4. By having positive revenue and negative margin of Customers. 
+
+  
+2. Concentration: (Calculation of) 
+
+1. Revenue percentage of fixed price revenue 
+2. Gross margin from FP revenue. 
+3. Share of Revenue-Growth performance from T&M projects.   
+4. Margin Growth perfornce of T&M projects. 
+
+ 
+3. Delivery: (Calculation of) 
+
+1. CSAT score of the Customers. 
+2. PQI score of customers. 
+
+Project 4 : Tableau reports 
+
+Environment:Tableau 
+Clients: COO of Syntel , DM of IS 
+Developed Role Based Manager Scorecard : 
+
+ Analyse relation between Revenue and Headcount, Revenue and CSAT score, Revenue 
+and PQI score and CSAT and PQI score on yearly, quarterly  basis and also on vertical 
+level and customer level. 
+
+ 2. Role based revenue comparison and in which role which manager is giving best 
+performance is calculated as per the data. 
+
+Project 5 : Strategy On A Page 
+
+Environment:MS SQL Server 2008, SQL Server Integration Services , SQL Server Reporting 
+Services 
+Clients : DNC team 
+Prepared following reports : 
+
+ This project is about the Revenue and Growth comparison and calculations on Syntel 
+level and Vertical level. Here we calculate late 2 year Actual Revenue upto current 
+Quarter, Estimated and Predicted Revenue of future Quarter and Year.  
+
+ This calculation is calculated based on the Customer level categories, Team like 
+development, maintenance and Top customers of each Vertical. 
+
+Project 6 : Assessment reports 
+
+Environment:MS SQL Server 2008, SQL Server Integration Services , SQL Server Reporting 
+Services 
+Clients : HR team 
+
+ Summary of employee count which completed assessments for the functional area 1 and 
+functional area 2 of onsite and offshore employees 
+
+ Summary of employee count which are subscribed n not subscribed for test on onsite 
+offshore n vertical wise count for function area 1 and function area 2  
+
+ Count of status for the skill area and functional area 
+
+Achievements 
+
+1. Received ENTREPRENEUR of the Year award in the BI team for FY 2016 
+2. Received 1  Spot Award from CEO of SYNTEL for dynamic dance performance at Annual 
+Day function 
+3. Received 5 different Spot Awards for performances in different projects handled 
+4. Received award for LEAN performance in BI team 
+5. Core Member of Global Dance team OF SYNTEL - "Engage" 
+
+
+
+ 
+ 
+ 
+ 
+
+SCHOLASTIC RECORD 
+ 
+Education: 
+
+ B.Tech in Computer Engineering from (DBATU) Dr. Babasaheb Ambedkar Technological University. Lonere (2015) 
+
+Year Degree Institute CGPA/% Remarks 
+
+2015 B.Tech (Computer Engineering) DBATU, Lonere 7.5 Distinction 
+2008 12th (Maharashtra State Board)) A.G. H.S, Junior College Dapoli 78 Distinction 
+2004 10th  (Maharashtra State Board) Alfred Gadney High School, Dapoli 89.5 Distinction 
+
+ 
+
+ 
+
+AWARDS &ACHIEVEMENTS                                                                                                                            
+ 
+
+Academic 
+
+1. Ranked 4th in district in 'MTS' examination' 
+2. Ranked 1st in district in 'KTS (Kokan Talent Search') examination 
+3. Finalist of 'Cintax' coding event in BATU Tech fest - 'Cynosure'12'  
+
+  
+
+Extra-
+Curricular 
+
+1. Winner of the 'Grand Finale-02' of DAM DAMA DAM (Duradarshan television program) 
+2. 3 times GOLD medal winner and 1 time Silver medal in Solo dance performance - Annual 
+event (DBATU) 
+3. 2 time Gold and 2 silver medals in Group dance performance - Annual event (DBATU) 
+4. Event Head - CodeSmash in 'Cynosure'15' event (DBATU) 
+5. Cultural Head of Computer department for all years of engineering (DBATU)  
+
+  
+
+ 
+ 
+
+PERSONAL STRENGTH 
+ 
+
+Strengths 
+ Excellent analytical, problem solving and communication skills 
+ Enthusiastic and a Quick learner of new concepts and technologies 
+
+ 
+
+ Good team player  
+ 
+ 
+
+ 
+
+

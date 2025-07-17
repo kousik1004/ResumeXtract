@@ -1,0 +1,197 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Kashyap-Ekbote.docx
+
+
+   Kashyap Ekbote  
+    
+ 
+kashyap.ekbote@gmail.com  
++91 7709324816      
+
+ 
+SUMMARY 
+
+ 
+ As pursuing graduation from Annasaheb Magar Mahavidyalaya 
+
+affliated Savitribai Phule Pune University in Bachelors of 
+Computer Science.
+
+ I have undertaken several projects within leading or growing 
+sectors such as HDFC/ICICI/Union Bank Of India/Karur Vaisya 
+Bank /NIA and Bank of Maharashtra as Team Lead with Alka 
+Technology Pvt. Ltd.  Rdcc bank / Kdcc bank /Bank of Maharastra/ Canara bank 
+Migretion Project Team Leader These posts have enabled me to develop not only IT industry 
+
+experience, but also a valuable and transferable skill set in this fast-
+paced sector.  Goal :- 
+
+ 
+I am self motivated ,enthusiastic and science candidate who is 
+
+finding a role in an organization which will not play provide dias to but 
+also enhance my teaching and computer administration skill set.  Educational Credential :- 
+
+ 
+Course Year Board/Univercity Mark 
+
+    
+10th 2008 Maharashtra 67.07% 
+
+    
+
+12th 2010 Maharashtra 43.04 
+    
+
+Bsc(Computer sci) 2017 Pune Univercity Appering 
+    
+
+
+
+  
+ 
+Project : -   
+
+Gcc Manipulation Using “C” 
+ 
+
+Will produce .S (Assembly) file if -S option  is provided, will produce .o (Object) file  (and delete .S file) if -c option is provided  Will produce executable file (and delete .S 
+and .o files) if neither -S nor -c option  is provided  If -o switch is provided to specify custom 
+output file name then executable file will 
+have custom name otherwise default ‘a.out’ 
+name should be used.  Additionally your program should generate 
+‘build.log’ file which will log all the entries 
+corresponding to file creations and file 
+deletions.   
+
+ 
+Cryptography With Networking C++:-  
+                                 
+
+ Taking command line argument  file then read the 
+file . 
+
+ Encrypt the string using AES algorithm . 
+ Sending the encrypted data through socket 
+
+programming . 
+ Destination  side accept the encrypted string. 
+ Decrypt the accepted string. 
+ And store the decrypted data in file. 
+ I am using Crypto++ library. Which is Open 
+
+Source . 
+  
+
+
+
+ Dumping information in executable using “C” :-   There are 3 mainly  section in Executable and Linkable Format.   ELF header    Section Header 
+  Program Header   Program header table, describing zero or more memory segments                                                        
+
+ Section header table, describing zero or more 
+sections 
+
+ 
+ Data referred to by entries in the program header 
+
+table or section header table 
+
+                                
+ 
+ 
+ 
+
+
+
+Technical Credential:- 
+ 
+
+Languages known :-   ANSI-C 
+ 
+ 
+
+Operating system:-  (a) Linux Distribution  Red Hat, Centos , Ubuntu, etc  (b)Windows NT family and From MsDos 
+(c)Mac Os X  Programming :-  Linux ,Windows, Mac  Internals Of Os:-  Unix  SDK:-  (a)Microsoft Visual studio  (b)GNU tool-chain on Linux  (c)LLVM on MAC OS X  Advanced Admin skill:-  Multi OS installation and Migration 
+
+Removing Bad sectors Network 
+Troubleshooting  Printer setups  Inventory Management  Laptop/Desktop hardware troubleshoot Solutions  Email clients management: MS outlook/Lotus/Thunderbird  
+
+
+
+  
+ 
+Work experience :-   1.11 Years’ experience at Alkatechnalogy Pvt Ltd.  Nature of Work:-  Team leader  Client Name with working nature:-  (a)idbi bank  Dot matrix printer setup  (b)canara bank  Thin client setup.  Bank post installation.  Windows 7 migration project with team lead.  (c)Ratnagiri district co-operative bank  Bank software post installation.  (d)Kolhapur district co-operative bank  Bank software post installation.  (e)HDFC bank  Windows 7 migration project with team lead.  (f)ICICI bank  Windows 7 migration project with team lead.  (g)Karur vaishy bank  Windows 7 migration project with team lead.  (h)Dena bank  Windows 7 migration project with team lead.  (i)Bank of mahastra  Windows 7 migration project with team lead.  (j)Union bank of india  Windows 7 migration project with team lead.  (k)ICT  Ncomputing installation.  (l)Grampanchyat  Lenovo all in one smps changing project.  (m)Cummins  Data Backup.  (n)SKF  Backup engineer .  (o)Bajaj Allianz  Backup Engineer .  
+
+
+
+    
+ 
+
+STRENGTHS  
+ 
+
+ Lead & work as a team in an organized way
+ Good oral, written & presentation skills  A high tolerance of stress and enjoys responsibilities  Quick learner with good grasping ability  Action-oriented and result-focused  Great time management skill          
+
+ 
+PERSONAL INFORMATION 
+ 
+
+ Date of Birth: 18th Oct 1992
+ Gender & Status: Male & Single  Nationality: INDIAN  Languages Known:English, Hindi and Marathi  Social Links: https://www.facebook.com/kashyap.ekbote
+
+   
+ 
+I hereby declared that above information is correct upto my knowledge and brief. 
+      
+ 
+PLACE:Pune 
+
+Kashyap Ekbote 
+ 
+
+DATE: 28/10/2017 
+  
+
+

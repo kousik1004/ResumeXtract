@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume Writer
+
+
+G.AMARESWAR  REDDY
+                      Email id: amareswar236@gmail.com
+           Mobile No: +91-9052741977
+
+EXPERIENCE SUMMARY
+2.2 years of experience in Healthcare domain.
+
+Experience in working with C# .NET, ASP .NET MVC4/5, PostgreSQL, MS SQL Server.
+working knowledge on, Angular js
+Used IDE’s Visual Studio 2010, 2013, 2015, 2017 and MS SQL Server 2008/2012 R2.
+Experience in integrating 3rd Party tools like jQuery plugins.
+Experience in working with JavaScript frameworks like lodash.
+
+Skilled in code reviews and code debugging.
+
+Have used Tortoise SVN for managing source code. 
+
+Skilled in object oriented programming, debugging and fixing issues in software applications
+
+Possess ability to master new tools and technologies and capable of working in-group and also independently.
+
+The ability to research on the client’s behalf the best product or service that would fit their needs in terms of quality, delivery and ease of implementation.
+
+Passionate towards innovations in Healthcare in IT perspective.
+
+Team Player and goal Oriented with commitment to excellence.
+
+Can Strive for Excellence at work with dedication, focus, proactive approach, positive attitude and can use my knowledge and skills in the best possible way for the fulfillment of organizational goals.
+
+EDUCATION
+B.Tech(Mechanical & Engineering) with 63.57% from sir c.v raman College of Engineering, Tadipatri, Andhra Pradesh, India.
+
+PROFESSIONAL SUMMARY 
+
+Currently working as a  Junior Software Engineer at Icrea Infotech Pvt Ltd, Hyderabad from 9th November 2016 to till date.
+
+TECHNICAL EXPERTISE
+
+Programming Languages
+
+:  C#.NET
+Microsoft Technologies
+
+
+:  ASP.NET, ASP.NET MVC4/5, ADO.NET, Entity Framework, Web                    API 
+
+Web Technologies
+
+
+:  HTML & HTML5, CSS & CSS3
+Scripting Languages
+
+
+:  JavaScript, JQuery
+Frontend Frameworks
+
+
+:  Angular, Angular js, Lodash, Moment js
+Databases
+
+
+    
+:  PostgreSQL, MS SQL Server, My SQL
+Architecture
+
+
+
+:  2/3/n Tier Layered Architectures MVVM and MVC Architecture  
+
+IDE
+                       
+
+
+:  Visual studio 2010/2013/2015/2017
+Web server
+
+
+
+:  IIS 7, 8 & 10
+Operating Systems
+
+
+:  Windows
+Repository Tools
+
+
+:  Tortoise SVN
+
+Tools                                                              : Tableau
+ACHIEVEMENTS
+Awarded “Certificate of Appreciation” from New Jersey Innovation Institute: NJII. 
+
+PROJECT - 1 DETAILS
+
+Project Name
+
+:  Clinical Core Plus
+
+Client
+
+
+:  New Jersey Innovation Institute.
+Environment
+
+:  Visual studio 2015 , .Net, C#,  Asp.net MVC, Angular js,Postgre SQL .
+
+TeamSize                          : 7
+
+Description
+
+:  
+
+1. It track practice transformation progress in real-time and submit their data accurately and completely.
+
+2. Build hierarchy and association between practice, site, provider, specialty entities
+
+3. Work with practices and help accelerate their performance by effectively managing work plan, performance stories, KPIs, and evaluating assessment milestones based on reporting periods
+
+4.Provide dashboards to help coaches review practice performance and individual performances 
+
+5. CCP will allow in developing all required functionalities within one overarching system and allowing interoperability between them
+
+6. CCP allows scalability with enhanced data model framework to support future enhancements
+
+7. Successfully assisting Users to support practice transformation and performing periodic data submissions to CMS. This makes NJII more marketable nationally as a Qualified Registry and garners more national attention by building our reputation as leading experts in quality reporting.
+
+8. In Gap report we will know all the data of practice and there information which they have submitted. based on various scenarios we will show the data. 
+
+9. Based on the current date past date and future date of the user we need to get the information and which medication they have added the data.
+
+Responsibilities:
+Attending sprint planning meetings and daily scrum calls
+
+Designed Database schema in pgAdmin
+
+Dumping of  KPI provider/practice level measures data in database
+
+Wrote DB functions and views using  pgAdmin
+
+Understanding the assigned user stories by going through the confluence pages (project related documents) 
+
+Developing the code for assigned user stories as per the acceptance criteria
+
+Resolving the issues requests raised in Sales Force
+
+Wrote Web API’s for database logics.
+
+Involved in Dumping of  Clinical related data in database
+
+Hosting of Developed Code in IIS and also done Basic round of testing.
+PROJECT – 2  DETAILS
+Project Name
+:  AirOPD for Patients
+
+Client
+
+:  In-house Application
+
+TeamSize            :  6
+Description
+:  Airopd is web & Medical application gives you a live private connection to your doctor from any where in the world .  book an online appointment (Video, audio)or personal appointment based on the specialties . Manage your past reports or documents saved in your app and share them with the doctor on the go.
+
+Environment     :  Asp.Net MVC 5 , Web API, Angular js and C# with Postgre SQL
+Responsibilities
+:
+
+Requirement Analysis & Design.
+
+Developing the Code as per the requirements.
+
+Developing Presentation, Business, and Persistence logic of Web Forms using MVC.
+
+Developing Client side validations.
+
+Designed the Data base with Postgre SQL Server
+
+Maintenance and Testing of developed application.
+
+Hosting of Developed Code in IIS and also done Basic round of testing
+
+Place : Hyderabad
+
+
+Date  :
+
+
+
+    
+
+
+
+
+
+G. AMARESWAR REDDY
+

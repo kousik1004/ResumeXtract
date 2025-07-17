@@ -1,0 +1,199 @@
+
+
+
+
+
+
+
+
+
+B.Durga Bhavani
+SAP HR/HCM Functional Consultant
+
+8008559455							             durgabhavani.saphr@gmail.com________________________________________
+
+Professional Summary:
+
+•	10+Years 8 months of professional experience out of which 3+years as SAP HR (HCM) Functional Consultant in the areas of Organization Management (OM), Personnel Administration (PA), Time Management (PT),  and Payroll (PY-US), Benefits and ESS & MSS
+•	Having experience in  one Support and two End to End Implementation.
+•	Expertise in ASAP methodology and suggesting best suited solutions for the implementation.
+•	Extensive experience in integrating of SAP HR sub modules like Time and Payroll & and Payroll.
+•	Integration Experience between HR and FI modules.
+•	Expertise in using SAP IMG for HR Process configuration.
+•	Strong experience on Payroll Processing Classes.
+•	Well versed with SAP T-Codes, Table names & Program names.
+•	Through understanding of Schemas, PCR’s and comfortable in writing custom calculations rules (PCR’s).
+•	Customized Time Management Schema & PCR’s, to meet client requirements.
+•	Basic understanding in Data migration using LSMW.
+•	Good understanding of all aspects of the Human Resources business processes and translation of business requirements into SAP solutions in the most cost effective and client-servicing manner.
+•	Excellent communication skills and very good logical skills.
+
+SAP HCM Expertise
+
+•	Organizational Management: Organizational Unit, Jobs, Positions, Tasks, Work centers, Description,, Vacancies, Relationships, Integration of OM with PA, OM Actions, Custom Infotype, Evaluation Path, RHINTE Programs, Manual Transport
+
+•	Personnel Administration: Enterprise Structure, Personnel Structure, Infotypes, Infogroups, Personnel Actions, Dynamic Actions, Features, Screen Modifications, Header Modifications, Customizing Menus.
+
+•	Time Management: Work Schedules, Absence/Attendance Quotas, Time Evaluation using Schema TM04, Over time calculation, Wage type generation, CATS, Internal Tables, Custom PCR’s
+
+•	Payroll: Processing Classes, Process Model, Absence Valuation, Cumulations, Deductions, Garnishments, Off-cycle processing, Remuneration Form, Check Printing, Bank Transfer, Posting to FI, Reversal Posting, 3PR, U000 Schema.
+
+•	Taxes: Tax Info types, Tax company, Tax authorities, Tax areas, Taxability models, Tax Types, Tax Combo, Tax tables, Tax related processing classes.
+
+
+Technical skills:
+
+ERP		: SAP ECC 6.0
+Packages	: MS Office
+Experience summary:
+
+•	Worked as a SAP HR Functional Consultant in Serco, Bangalore from May 2010 to till date
+•	Currently working as a SAP HR Functional Consultant in Invenio Solutions Mumbai from March 2009 – April 2010
+•	Worked as a SAP HR Functional Consultant in Invenio Solutions  Mumbai from May 2008 – Feb 2009
+•	Worked as HR Executive in Tarang IT Informatics, Bangalore from May 2001 to April 2008
+
+Project Summary:
+
+Project #3
+
+Client	:	Serco LLC
+Company	:	Serco
+Project		  :	Implementation
+Duration	  :	May 2010 to Till date
+
+Company Profile:
+Serco Inc. is a leading provider of professional, technology, and management services focused on
+the federal government. Serco Inc. is part of an international service company with employees around 
+the world
+
+Responsibilities:
+
+Payroll:
+•	Involved in full implementation phase from realization to Post-live Support
+•	Created Pay scale Structure and maintained pay scale Type and pay scale area.
+•	Define various pay scale groups and levels for each group of employees.
+•	Creation of control record and payroll areas and their configuration 
+•	Defined Period parameter, Date modifier, and generated Payroll periods for multiple payroll areas.
+•	Created Wage types for 8, 14, 15, 195, 267 Infotypes.
+•	Configured Wage Type Valuation and Absence Valuation to meet the requirements.
+•	Maintained the Processing Classes, Cumulating Classes and Evaluation Classes for Wage Types as needed.
+•	Configured T56C3 and T54C3 tables for wage type’s Cumulations processing.
+•	Configured Limits on Deductions to process deductions maintained in IT 0014.
+•	Configured the Remuneration statement attributes as per the client requirement.
+•	Maintained necessary parameters in T51P6 table for wage types as required for smooth payroll processing.
+•	Defined Tax Company and assigned to each personnel area/sub area of the enterprise.
+•	Maintained Tax Authorities (Federal, State, County, City, and Local/School District), Tax Areas, Tax Types, Tax Models & Tax combos.
+•	Configured several Variants & Layouts for different purposes like Posting, Third Party Posting and Payroll Driver etc.
+•	Analysis and correction of payroll errors from payroll simulation run and posting to accounting run.
+•	Configured STD and FMLA plans.
+•	Configured IMG for info types 0194, 0195, 0216 for processing garnishments.
+•	Defined symbolic accounts, employee grouping, wage type posting attributes and account assignment for posting to Financial Accounting.
+•	Configured Off-Cycle Payroll processing for Bonus payments and Salary advances.
+
+
+
+Project #2
+
+Client	:	Zee Turner Ltd
+Company	:	Invenio-solutions Pvt Ltd
+Project	:	Implementation
+Duration	:	March 2009 – April 2010
+	
+Company Profile: 
+
+Zee Turner Ltd brings you the largest network of 34 channels, showing programs in the widest range of 17 genres. From general entertainment, drama, news & current affairs, movies, to reality shows, talent hunts, kid's entertainment and all kind of music, etc. 
+
+Responsibilities:
+•	Configured Break schedules, DWS, Period Work Schedules and Work Schedules Rule according to the client requirement to generate Work Schedule, IT Planned working time.
+•	Configured Attendance & absence entitlements.
+•	Defined time constraints classes to prevent overlapping or collision of absences.
+•	Defaulted Work schedule rule and Time management status files in, using SCHKZ & TMSTA features.
+•	Absence Quotas generation using Time Driver RPTIME00.
+•	Used TM04 schema for time evaluation and customized it, as per the client requirement.
+•	Defined custom PCR’s to customize leave management.
+•	Configured Time Types, Processing Types (T555Y, T555Z) and Time wage type selection (T510S) rules.
+•	Configured Infotype Time Transfers, defined time Quota Compensation methods, and assigned wage types for the quotas to be compensated.
+The following PCR’s have been written as per the client requirements
+•	Absence quota Carry forward for the next year.
+•	Quota transfers PL to CL
+•	Compensatory off
+•	Over time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project #1
+
+Client	:	SPP Pumps Ltd, UK
+Company	:	invenio-solutions Pvt Ltd
+Project		  :	Support 
+Duration	: 	May 2008 – Feb 2009
+
+Company Profile: For more than 130 years SPP Pumps has been a leading manufacturer of centrifugal pumps and associated systems, a global principal is design, supply and servicing of pumps, pumps packages and equipment for a wide range of applications and industry sectors.
+
+Modules:  Organizational Management (OM), Personnel Administration (PA), Time Management (PT),
+
+Responsibilities:
+
+ORGANIZATIONAL MANAGEMENT 
+•	Created Organization Structure using with various objects.
+•	Assigning Relationships between different objects.
+•	Integration with PA with RHINTE Reports.
+
+PERSONNEL ADMINISTRATION
+•	Created Enterprise Structure, Personnel Structure.
+•	Created number range intervals for both internal and external personnel numbers.
+•	Configured various Infotypes to facilitate entry of employee Information.
+•	Created organizational assignment in that created payroll areas assigned period parameters, created control records. Maintained Features.
+•	Configured Infotype Menus, Personnel Actions & Dynamic Actions.
+
+Time Management
+•	Created Public Holiday Calendar and assigned it to personnel sub areas.
+•	Configured Break schedules, DWS, Period Work Schedules and Work Schedules Rule according to the client requirement to generate Work Schedule, IT Planned working time.
+•	Configured Attendance & absence entitlements.
+•	Defined time constraints classes to prevent overlapping or collision of absences.
+•	Defaulted Work schedule rule and Time management status files in, using SCHKZ & TMSTA features.
+•	Absence Quotas generation using Time Driver RPTIME00.
+•	Configured Time Types, Processing Types and Time wage type selection rules.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Non SAP Experience
+
+Company	  : 	Tarang IT Informatics, Bangalore
+Role	:	 HR Executive
+Duration	:	May 2001 to April 2008
+
+Responsibilities
+
+1. Giving induction to the newly joined employee about Organization structure and regulations for day to day working.
+2. Employees file creation and proper maintance of personnel records.
+3. Attendance & Joining formalities for the new joining in the site.
+4. Maintaining attendance details for all employees by posting leaves and other deductions
+5. Maintain Leave Records of the site
+6. Overall Office & Site Administration.
+7. Preparation of wage bills in respect of / NMR / Casual workers and Ensuring in time distribution of salaries.
+8.Arranging transportation, air tickets and hotel accommodation for guests and supervising the company’s guest house. 
+
+�

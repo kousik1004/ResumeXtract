@@ -1,0 +1,227 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P
+
+201/1,V.O.C 1st street,                                                           P.PRASATHPRABHU
+Pallavan nagar,
+
+P.P.chavadi,
+
+Madurai-625016
+
+- 91-9940752962
+- Prasath.Prabhu.Pandiyan@gmail.com
+
+CAREER OBJECTIVE:
+
+To work in an innovative environment and upgrade my organization to zenith of success.
+
+EDUCATIONAL QUALIFICATION:
+
+· Bachelors degree in Electronics and Communication Engineering
+(june 2005-may 2009) from K.L.N college of engineering, madurai with 78.82% aggregate.
+· Higher secondary (mar 2005) from P.K.N Matriculation School,Thirumangalam with 89.75% aggregate.
+· High school (mar 2003) from Keren Matriculation School,Checkanurani with 90.8% aggregate.
+SOFT SKILLS:
+
+	Skills
+	Tools
+
+	DataBase
+
+	· RDBMS,PL/SQL
+
+	Operating Systems
+	· Windows – NT/2000/XP/2003
+· Unix
+
+	Software Languages
+	· C, C++, Java/J2EE
+· HTML
+
+	Scripting Languages
+	· Java Script
+
+	Software Tools/ Methodologies
+	· Eclipse ,RAD
+
+	
+	· Web services, MVC pattern, Waterfall model.
+
+	Configuration Management and Version Control Tools
+	· Tortoises(Sub versioning)
+
+
+
+	Framework
+	JSF, Jakarta Struts 1.x.
+
+
+WORK EXPERIENCE:
+Associated with Infosys from February  2010 to Present serving for American Express.
+PROJECT DETAILS:
+
+· Mobile Enrollment/Card Activation & Remove Card for US / UK:
+The Mobile Channel at American Express has constantly evolved to meet the increasing demands of today’s consumer. The introduction of Amex Mobile enabled American Express to offer customers with mobile web enabled phones the ability to manage their account and make a payment via their mobile device.
+
+Objective of the project is to enable card members (CMs) to activate their card and enroll in MYCA through mobile. It also  provide adding additional card and remove card functionalities through mobile. This provides opportunity to enrich the existing Mobile experience to CMs.
+Responsibilities:
+
+· Designed and Developed the  UI pages using Struts Framework.
+· Interacted with different web service teams to fetch  proper request and response xml which provides a response while calling the web service from application
+· Used SOAPUI tool to check the different web service’s request xml.
+
+· Used JavaScript for validation of the fields in the user interface
+· Used Maven build tool of Amex to build the EAR.
+
+· Have built the EAR in different environment E1 QA and E1 Intg for testing purpose.
+
+· Used Tortoises(Sub versioning)for Versioning of the application.
+
+· Have tested the entire mobile web application using 
+DeviceAnywhere studio (mobile devices testing platform),              checking the compatibility of the application with various 
+mobile devices pertaining to different platforms.
+· Service Simulator Component for Mobile Web Application:
+Service Simulator component simulates the Amex back-end WebServices to enable the developers and testers to continue with the development and testing when the live Web Services are unavailable. The Service Simulator component generates stubbed response from cached XML files stored on the disk. The aim of this tool is not to create a complete replica of the backend and get exact output for a particular input. The tool has to simulate the output as much as possible.
+
+Responsibilities:
+
+· Designed the Service Simulator Component using java servlet.
+· Mobile Shopping Cart:
+ Objective of the project is to develop mobile compatible shopping cart web application to support customers to purchase gift cards through mobile devices. The goal is to provide improved shopping options and provide more accessibility to customer to shop cards on the move, making the site compatible with multiple devices (iPhone,Blackberry,Android,etc…) .
+Responsibilities:
+
+· Designed and Developed the  UI pages using Struts Framework.
+
+· Queried the database, especially for data insertion.
+
+· Generalised the CSS making it suitable for all mobile device platforms.
+
+· Have tested the entire mobile web application using 
+DeviceAnywhere studio (mobile devices testing platform),              checking the compatibility of the application with various 
+mobile devices pertaining to different platforms.
+· NG(Next Generation) Selects: Selects mobile site aims to mobilize the existing Selects website, where the content on the page is managed by Vignette Content Management(VCM). It displays the offers provided by merchants across the countries, these offers are targeted towards the Amex card holders.
+
+       Responsibilities:
+
+· Internationalisation of the site using BabelPad.
+
+· Have tested using Iphone and fixed the CSS/Javascript relatedbugs.
+OFFICIAL ACHIEVEMENTS:
+· Received “Spot award” from my Mobility unit in March,2011 for my performance in Mobile Shopping Cart Project.
+
+· Received many appreciations from onsite co-ordinator and clients.
+
+PERSONAL ACHIEVEMENTS:
+
+· Won first prize in Intra- college Quiz competition.
+
+· Participated in ASPIRATION 2020 conducted by Infosys
+
+· Won cash awards for 100% Attendance for semesters(1,2,3,5,6 and 8).
+
+· Won cash awards for obtaining 80% in semesters in first year.
+
+· Won several awards for proficiency in academics during schooling.
+
+CO-CURRICULAR ACTIVITIES:
+
+· Undergone In-Plant Training at S3 technologies, madurai on “recent trends in engineering” for 8 days.
+· Presented paper on “NETWORK SECURITY” in national level technical symposium in udaya school of engineering.
+
+· Acted as an organizing member in “REFLECHIR 2006”
+
+· Done a Project in DIGITAL IMAGE PROCESSING
+EXTRA CURRICULAR ACTIVITIES:
+
+· Won runner prize in KHO-KHO in zonal level.
+· Was a member of school cricket team.
+SKILLS
+· Willingness to learn
+
+· Team facilitator and Team player
+
+· Quantitative skill
+
+PERSONAL DETAILS:
+
+NAME
+
+
+
+   :  P.PrasathPrabhu
+
+GENDER
+
+
+   :  Male
+
+AGE,DATE OF BIRTH
+   :  24, 19/7/1987.
+
+FATHER’S NAME
+
+   :  M.Pandian 
+
+LANGUAGE PROFICIENCY  :  English,Tamil.
+
+PERMANENT ADDRESS
+   :  201/1,V.O.C 1st street,                                                           
+
+      Pallavan nagar,
+
+      P.P.chavadi,
+
+     Madurai-625016
+
+PLACE: Chennai      
+
+
+
+
+                    P.PrasathPrabhu
+
+DATE:
+
+

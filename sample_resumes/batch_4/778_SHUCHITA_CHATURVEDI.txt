@@ -1,0 +1,263 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHUCHITA CHATURVEDI
+Phone: 91-9910888112
+E-mail: shuchita.chaturvedi19@gmail.com
+
+	OBJECTIVE
+
+
+
+To work in an organization with self-discipline and determination that utilizes my engineering and interpersonal skills as well as provides the opportunity to enhance them for future career prospects
+
+	IT SKILL SET
+
+
+
+Core Skill                        	: COBOL, JCL, CICS, DB2, VSAM,COMPILER
+Secondary Skill                          : .Net , Windows, Linux 
+Database                           	:DB2 
+Tools                                  	:TSO, XPEDITOR,ENDEAVOR, FILE AID,   
+                                               	,Control-D,Changeman,HP Quality Centre, IBM RTC(Rational tool                                          
+                                                     Concert)       
+Operating System             	:MVS , Windows 2000/XP
+Domain Knowledge           	:RETAIL, Banking(Cards),Compilers
+Awards                                       : Got excellence certificate from Citibank(client)
+                                                    For outstanding contribution for V2 project
+                                                     Awarded with Livewire for a critical bug resolved for fujitsu.
+Onsite                                         : For three months in client location in Fujitsu, japan
+
+                                                                                           
+	WORK EXPERIENCE                                                                                                                                
+
+
+
+Total experience of  7+ yrs. in mainframe development 
+
+Currently working in HCL Technologies.
+
+Clients			:    Fujitsu
+Technical Skills     	:    COBOL, DB2,COMPILERS
+Tools /Utilities used	:     Vmware,visual studio, .Net ,Linux,Windows,Solaris
+
+Fujitsu devolps its on products for open source cobol and Z/OS. The project mainly deals with maintenance & enhancement of those compilers products. The product works on windows, .net , Linux and Solaris
+
+Roles and responsibilities
+
+· Developing the requirements mentioned in the Functional documents. 
+· Preparing Technical Specification Document, UTPs and UTRs, and root cause analysis while fixing the defects sent to us by the client.
+· Analyzing the existing product code and resolve bugs present in the compiler product.
+· Working as Tech lead and role demands sound knowledge of COBOL/ DB2.
+
+
+
+
+
+Wipro Technologies:
+
+Citibank credit card (AFEWS):
+Advanced Fraud Early Warning System.
+
+Application                  							[ Oct’11-Till date]
+Projects Name            	:    AFEWS  
+Clients			:    Citibank
+Technical Skills     	:    COBOL, JCL, DB2,VSAM,CICS
+Tools /Utilities used	:     FILEAID, SPUFI,CHANGEMAN, CONTROL-D,
+                                           HP Quality Centre, IBM RTC(Rational tool Concert)
+  
+AFEWS which is used to detect Fraud Transaction, based on the rule set the decision will be taken whether the transaction can be Approved or Declined or Referred. It is state of the art pre & post authorization fraud-monitoring system for both bank and cards against its usage of payment cards. 
+
+Project : G2C V1 & V2
+
+
+Roles and responsibilities
+	
+· It is a L2 and L3 support, enhancement and maintenance project ,working in both development and support part .
+· Involves solving abends, functional defects, changing codes as per requirements.
+· Unit testing the changed codes and batch testing
+· Creating new codes as part of service requests or SR.
+· Involves all DB2 application programmer and administrator work like setting up new regions.
+· Creating LLD s and UTP for the new requirements
+
+
+
+ 
+
+Software Paradigms InfoTech Pvt. Ltd (SPI)(A CMMI 5 level company)
+Software Engg., Mysore, Karnataka, Worked for the  1.8  Years	
+
+Worked for various projects under same client.
+
+Project Details                  							[Jun’11 – Sep’11]
+Projects Name            	:    Multihierarchy  
+Clients			:    Hudson Bay Corporation,Canada
+Technical Skills     	:    COBOL, JCL, CICS, DB2,VSAM
+Tools /Utilities used	:     FILEAID, SPUFI,IEFBR14, IDCAMS, DFSORT
+
+Roles and responsibilities
+
+· Project involves splitting the common database table banner wise.
+· Analyzing the jobs, code for impact analysis
+· Creating the jobs, visio diagrams,codes ,CICS maps, DB2 queries and testing them ,for few cases changing the elements banner wise
+· Developing the programs as analyzed in business logic and following standards during construction so that products meet the quality standard required.
+
+				
+
+
+Project Details                  							[Feb’11 – May’11]
+Projects Name            	:    TP&E  
+Clients			:    Hudson Bay Corporation,Canada
+Technical Skills     	:    COBOL, JCL, VSAM, DB2
+Tools /Utilities used	:     FILEAID, SPUFI
+
+Roles and responsibilities
+
+· Developed COBOL-DB2 programs from scratch according to given tech specs.
+· Performing unit testing of the programs with given data and coding test JCLs for them.
+· Prepared the tech specs according to requirement
+· Developing the programs as analyzed in business logic and following standards during construction so that products meet the quality standard required.
+
+Project Details                  							[Oct-10–Feb 2011]
+Projects Name            	:EASYTRIEVE CONVERSION,  
+Clients			:HUDSON BAY COMPANY, Canada
+Technical Skills     	:COBOL, EASYTRIEVE, JCL, VSAM, DB2
+Tools /Utilities used	:ENDEAVOR, IMU, FILEAID, IEBGENER,IEFBR14, IDCAMS, DFSORT
+
+Roles and responsibilities
+
+· Working as Software Engineer where the primary responsibility is Converting EASYTRIEVE programs to COBOL programs and testing them and moving them to production which will help the client to cut the annual cost of using EASYTRIEVE which is paid language by CA.
+· Involvement in requirement review, design, construction, testing and release of the 
+· Converted Elements
+· Following standards during construction and making the code changes as analyzed in the Business Logic
+· Ensuring the products developed meet the quality standards required.
+
+Project Details                  							[June– Oct 2010]
+Project Name		:L&T Store Expansion
+Clients			:Lord & Taylor, Canada
+Technical Skills     	:COBOL, JCL, VSAM
+Tools /Utilities used	:XPEDITOR, FILEAID
+
+Roles and responsibilities
+
+· Understand the Business requirements and scope for a Store Expansion requirement.
+· Analyzing the changes required for store expansion changes
+· Understanding the existing the business logic through analyzing COBOL code.
+· Analysis of the requirement and identify the change in the code or new code to be written.
+· Modifying or writing the new code, unit testing of the codes modified or newly written.
+· Tested various test cases scenarios.
+· Support to teams as a single point of contact for the first level of escalation.
+
+
+
+Project Details                  							[Dec’09–May 2010]
+Project Name		:PRESALES
+Clients			:Lord & Taylor, Canada
+Technical Skills     	:COBOL, JCL, VSAM
+Tools /Utilities used	:XPEDITOR, FILEAID
+
+Roles and responsibilities 
+
+· Developed COBOL programs from scratch according to given tech specs and prepared PROCS for production.
+· Performing unit testing of the programs with given data and coding test JCLs for them.
+· Involvement in requirement review, design, construction, testing and release of the newly developed programs.
+· Developing the programs as analyzed in business logic and following standards during construction so that products meet the quality standard required.
+
+
+
+	EDUCATION
+
+	Degree
+	Institute/ Board/University
+	Specialization
+	CGPA/Marks
+	Year
+
+	B.E 
+	RGPV, Bhopal
+	Computer Science
+	72%
+	2005 – 2009
+
+	AISSCE
+	CBSE, Gwalior
+	Science
+	79%
+	2005
+
+	AISSE
+	CBSE, Gwalior
+	-
+	78%
+	2003
+
+
+
+	SKILLS / ACCOLADES / ADDITIONAL INFORMATION 
+
+
+
+· Represented the School team in Inter – School quiz Competition organized by leading newspaper & secured position among top 8
+· Participated in Various Dance events held at School & College level. 
+· Member of Event Organizing Team in School 
+· Stood at second position in college group dance competition.
+· Participated in article writing in school
+· Hobbies include listening to Music, dancing, reading novels, etc.
+
+	PERSONAL DETAILS
+
+
+
+D.O.B:19 July 1987
+Passport No:H2158984
+Communication Address: A-102,Ashiana Heritage,Sector-4,Vaishali,Ghaziabad(U.P),Pin-201010
+Permanent Address: A-102,Ashiana Heritage,Sector-4,Vaishali,Ghaziabad(U.P),Pin-201010
+
+Shuchita Chaturvedi
+

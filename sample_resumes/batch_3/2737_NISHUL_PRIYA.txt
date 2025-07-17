@@ -1,0 +1,207 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    										NISHUL PRIYA									Email:nishul.priya05@gmail.com	
+  									 Phone:  +91 9739328639
+
+
+OBJECTIVE:
+
+Skilled in data analytics and keen to explore the new emerging technology of data science. 3 Years of domain knowledge of Retail and Customer sales promotion. Experience of working with different database technology.   
+
+TECHNICAL SKILLS:
+
+· Operating System          Windows, Unix
+· Databases	            Oracle Database 12c, MySQL, Progress 4GL
+· Tools & Utilities 	            R Studio, SAS, Anaconda,
+· Language	            R language, SQL, Python, SAS
+· Visualization                   Tableau 
+· Machine Learning          Regression, Classification, Time Series, Clustering, MBA etc
+· Big Data                          Undergoing training
+
+Domain Knowledge
+
+· Retail
+· Supply Chain and Inventory
+· Customers Sales Promotion
+
+
+Projects on Machine Learning:
+
+Sales Prediction Analysis using R: 
+The aim was to build a predictive model and find out the sales of each product at a particular store.
+Overview over process followed.
+Data Cleaning: Worked on missing values, Outliers, Feature Engineering, Encoding Categorical Variable. 
+Exploratory Data Analysis: Univariate and Bivariate Analysis.
+Model & Prediction: Used Linear Regression, Random Forest for model creation then doing prediction on test data set.
+Evaluate: We evaluated our models using Root Mean Squared Error (RMSE)
+
+
+Bike Sharing Demand Analysis using R:- 
+The aim was to forecast bike rental demand of Bike sharing program in Washington, D.C based on historical usage patterns in relation with weather, time and other data.
+Overview over process followed.
+Data Cleaning: Worked on missing values, Outliers, Feature Engineering, Encoding Categorical Variable. 
+Exploratory Data Analysis: Univariate and Bivariate Analysis.
+Model & Prediction: Used decision tree, Random Forest for model creation then doing prediction on test dataset and found that random forest is performing the best.
+
+San Francisco crime rate using Python:-
+The dataset provides nearly 12 years of crime reports from across all of San Francisco's neighbourhoods. Given time and location, we need to predict the category of crime that occurred.
+Data Cleaning: Worked on missing values, Outliers, Feature Engineering, Encoding Categorical Variable. 
+Exploratory Data Analysis: Univariate and Bivariate Analysis.
+Model & Prediction: Used KNN Algorithm, Logistic Regression
+For model creation then doing prediction on test data set and found that random forest is performing the best.
+Evaluate: We evaluated our models using multi-class logarithmic loss
+
+Healthcare Analysis using R: 
+The aim was to build a predictive model and find out the inferences that can be built on the basis of healthcare survey.
+Overview over process followed.
+Data Cleaning: Worked on missing values, Outliers, Feature Engineering, Encoding Categorical Variable. 
+Exploratory Data Analysis: multivariate
+Examine the effect of racism on health.
+Examine the relationship of eating and drinking habits on general health.
+Examine Factors affecting mental health.
+Interrelation of various diseases.
+
+
+
+EDUCATION:
+
+	Institution
+	Degree/Board
+	Year of Passing
+	CGPA/Percentage
+
+	Proschool IMS, Bangalore
+	PG Diploma: Data Science (Part-time)
+	2018
+	---
+
+	BNM Institute  Of Technology
+	B.Tech (ECE)- VTU
+	2015
+	65%
+
+	DAV Public School, BSEB, Patna
+	CBSE
+	2010
+	74.4%
+
+	DAV Public School, Khagaul, Patna
+	CBSE
+	2008
+	90%
+
+
+
+
+PERSONAL DETAILS: 
+
+· Date of Birth   : 04-12-1992
+· Gender	            : Female
+· Nationality      : Indian
+· Marital Status : Unmarried
+· Languages      : English, Hindi
+
+
+WORK EXPERIENCE: Total 3.0 yrs as Data Analyst & Application Development Analyst
+
+1. Retail Innovation Team (Accenture Services Pvt Ltd.)  : December 2017 to Till Date
+
+Project Details : Bringing up innovation ideas and implementation using latest technologies
+Position            : Data Analyst
+Domain	: Retail
+
+
+2. Whole Foods Marketing (Accenture Services Pvt Ltd.)  : September 2017 to December 2017
+
+Project Details : Support for Application Databases.
+Position            : Application development Analyst
+Domain	: Retail POS
+
+3. Proctor & Gamble (Accenture Services Pvt Ltd.)  : February 2017 to September 2017 
+
+Project Details : Retail Enhancement
+Position            : Application development Analyst
+Domain             : Customer Sales Promotion
+
+3. Specsavers (Accenture Services Pvt Ltd.)  : August 2015 to February 2017
+
+Project Details: Retail Enhancement
+Position           : Application development Analyst
+Domain             : Retail Healthcare, Inventory, Supply Chain
+
+
+TASKS AND RESPONSIBILITIES 
+
+· Analyzing the business requirements obtained from the client.
+· Knowledge transfer between client & team.
+· Involved in designing of technical solution options.
+· Developed Service Level Code using Openedge 4GL and PL/SQL.
+· Troubleshooting technical, operational, functional issues/tasks.
+· Performed Unit testing, Integration testing, and Performance testing.
+· RCA & RFC documentation
+· End User Documentation
+
+PERSONAL SKILLS
+
+· Have deep interest and ability in data analysis with a good eye to detail.
+· Capable of working in teams as well as independently with excellent communication, interpersonal and analytical skills.
+· Highly adaptable to fast-paced software development environment requiring quick problem solving skills without compromising on the quality of work.
+· Exceptional ability to quickly master new concepts and technologies.
+· Keen to learn new technologies and master them.
+
+
+INTEREST AND HOBBIES:
+
+· Passion and Interest in Data Science and Artificial Intelligence, pursuing it.
+· Travelling and Socialising
+

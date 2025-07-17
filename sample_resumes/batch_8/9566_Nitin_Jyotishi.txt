@@ -1,0 +1,191 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Curriculum Vitae
+
+
+Nitin Jyotishi 									Contact: 09823406454						                                                                         jyotishinitin1979@gmail.com 
+Skill set:
+
+SAP Native HANA /SAP BW on Hana /SAP BW
+
+Professional Summary
+
+· SAP Native Hana and BW on Hana and SAP BW exp 7 Years.
+·  2 Years SAP FI Testing, SAP BPC. 
+· Data Provisioning using SLT and knowledge about ETL
+· Table, schema, user role creation, Transport import, export.
+· Attribute View, Analytical view and Calculation view, analytic privileges and roles Creation.
+· Worked in BW on Hana. 
+· Bw Modeling tool in eclipse, Open ODS view, Composite Provider, Sap Hana smart data access, HAP.
+· Data Sources, Info source, Info cube, ODS Objects, Info packages, Extractor. 
+· Data Extraction, Business Content, Data Marts, Process Chains.
+· Worked in Full life cycle implementation, Upgrade and Support Project and Testing. 
+· Created training documentation, trained all levels of users at multiple locations.
+
+SKILL HIGHLIGHTS
+
+· SAP Modules:  SAP Native HANA, SAP BW 
+· SAP FI, SAP SD.
+
+EDUCATION:
+MSc-CS Information Technology -2007
+BCA – Bachelor of computer application -2003 
+
+Technical Experience
+
+Cognizant Technology Solution Pune
+May.2014 – till date
+
+1 Lloyds’ Baking Group
+ Lloyds is a specialist in UK. It offers a full range of business banking facilities, including deposit services, commercial lending, interest rate management, foreign exchange and debtor finance. These are all backed up by a traditional relationship-driven service, and a sensible approach to banking which recognizes today’s more challenging financial and economic environment.
+Job Role: SAP BW on HANA  
+
+· Data base migration from Oracle to HANA. 
+· Designed advanced cubes and Composite Providers to streamline business.
+· Created HANA Analysis Process to automate data loads to bring data from SAP and non-SAP systems into a single source of truth 
+· Migrated traditional ABAP Code to OOPS ABAP optimized for HANA during migration of SAP BW 7.0 to SAP BW 7.4 on HANA.
+·  SAP HANA data modeling and Data replication SLT.
+·  Design and Developing Attribute views, Analytic views and Calculation views.
+· Worked on analytic privileges and roles creation in HANA.
+· Worked in HANA Transport
+· Knowledge in RDS (RAPID deployment solution)
+
+
+2 American Water - Native Hana
+
+American Water is an American public utility company operating in the United States and Canada. American Water Works and Guarantee Company became American Water Works and Electric Company. With headquarters in Voorhees, New Jersey, American Water has about 6,800 employees and provides services to approximately 15 million people in 47 U.S. states and Ontario, Canada. SAP HANA.
+
+We have used the agile methodology to implement the project.
+
+VDM – Virtual Data Model 
+
+Worked in different User Stories 
+VDM 01 - Created Base view, Foundation view, and Business view.
+VDM03 - AR User stories – 1 write off 2 Installment Plan 3 Feedback users Stories 4 Collection and Others.
+VDm05 - CRM user Stories – 1 Incoming Call Interaction call report.
+
+
+1- Designing Star schema in HANA 
+2- Experience in SAP HANA data modeling using Attribute View, Analytical view and Calculation view
+3- Experience in SAP HANA Data Provisioning using SAP LT Replication Server (SLT).
+4- Knowledge of SAP HANA security including User Management, Roles and Privileges
+5- Understanding of the complete Architecture (Database, Data loading & Data modeling).
+6- Knowledge of Transport in SAP HANA.
+7- Reconcile the form the ECC and Hana view.
+8- Created the test scripts and executed it as per development change and uploaded the scripts in the share point.
+
+
+
+
+Infosys Pune									March.2008 – 08 May 2014
+
+Project 1   AstraZeneca 
+
+Role:  SAP BW Consultant
+
+Responsibilities: Implementation/Support.
+
+1- Creation of Info Objects, Info Cubes, DSOs, Transformations, Data source, Queries and DTP’s. 
+2- Involved in data loads for Master and Transactional data. 
+3- Creating data source enhancements of standard data sources. 
+4- Created Queries as per the requirements. 
+5- Involved in monitoring of few activities developed in the earlier release. 
+6- Involved in creation of Process Chains. 
+7- Involved in Load Monitoring of Daily, Weekly and Monthly Data Loads using Process Chains.
+8- Involved in supporting the client by providing solutions to the tickets by doing Root Cause Analysis.
+9- Knowledge about Query designer and web analyzer
+10- Created several Calculated Key figures, Restricted Key Figures, structures, variables to enhance the reporting feature. Implemented conditions and restrictions in the reports based on the requirements. 
+12 Resolving the issues that occur during the Loads based on Severity Level.
+13 Involve in WAB estimation and approval.
+
+Project 2   Novartis Objective: Implementation of SAP projects under Healthcare.
+ 
+Role: SAP BW Technical Consultant 
+
+Role and Responsibilities
+11- Creation of Info Objects, Info Cubes, DSOs, Transformations, Data source, Queries and DTP’s. 
+12- Involved in data loads for Master and Transactional data. 
+13- Creating data source enhancements of standard data sources. 
+14- Created Queries as per the requirements. 
+15- Involved in testing of newly developed objects using ALM tool.
+16-  Involved in monitoring of few activities developed in the earlier release. 
+17- Involved in creation of Process Chains. 
+18- Involved in Load Monitoring of Daily, Weekly and Monthly Data Loads using Process Chains.
+19- Involved in supporting the client by providing solutions to the tickets by doing Root Cause Analysis.
+20- Knowledge about Query designer and web analyzer
+Created several Calculated Key figures, Restricted Key Figures, structures, variables to enhance the reporting feature. Implemented conditions and restrictions in the reports based on the requirements.
+
+3 Worked in E-biz Technocrat Pvt. Ltd 
+   
+July 2006 till December 2007 as S/W Engineer.
+
+· Collect, Collate & Cleanse data as per procedure
+· Prepare reports for marsh accurately as per client requirement
+· B2B analytical reporting
+· On time creations of reports by chasing the data on regular basis, validating data received and processing reports as per deadline agreed with the client.
+· Workings with complex excel files to analyses current and historical client data.
+· Using excel function like lookup, hookup, pivot tables, triangulation, etc. for cleansing and reporting data.
+· Contribute to overall achievements of the requirement SLA by delivering to KPI’S
+· Maintain and update records as per process requirement – e.g. updating work database
+· Maintain customer service and quality standard by following client procedures and processes.
+· Enhance and retain knowledge about reports on financial analysis
+· Escalate any issue an idea for process improvement to the team manager for the team
+   
+Personal Information:
+Father's Name: 		Late C. P Jyotishi
+Nationality: 		Indian
+Language Known: 	English, Hindi
+Marital Status		Married
+Current Address: 		Verve Residency E-103 Wakad 
+
+
+With Regards									
+Nitin Jyotishi		 
+Date:

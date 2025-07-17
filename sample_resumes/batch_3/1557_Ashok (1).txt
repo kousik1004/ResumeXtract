@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ashok                                                                                                                                                                                                         SAP BPC Consultant                                                                                                                                                                                   Email: ashok.rpv@gmail.com
+                                     Phone: +91 9959380658                                                                                                                                                                              
+Professional Profile:
+· 6+years of Professional IT Experience in SAP technologies 
+· Which includes 3.9 years of experience in SAP BPC with Two E- to- E implementations and 2.3 years of experience in SAP BW/BI technology
+· Good experience in development and support of different Financial Applications (SALES, EXPENSE - (OPEX, HC) & INCOME STATEMENT) of the BPC project.
+· Good Knowledge on management accounting (CCA, PCA), financial Planning/Budgeting, forecasting.
+
+· Good experience in Requirement gathering & Customer Interactions.
+· Extensively Worked on development of Data modelling, Data loading, Script Logic, Report Templates.
+· Worked on developing bussiness reporting templates Global and Local centers using EPM functionality and different EPM formulas (EPM_dimensionoverride,EPM_contextmember, EPM_selectmember—etc)
+· Involved in Security Cofigurations( Teams, Task profiles, Member access profiles) & Workstatus Setup
+· Configuring the Currency translation logic maintaining the Rate Application, Rate Dimension and Business Rules.
+· Performed Data Loads from SAP BW Info Cubes to SAP BPC NW Applications
+· Good Knowledge on Configuring BPF’s(Bussiness Proces flows) .
+· Good Knowledge on SAP BPC 10.1 NW and HANA .
+· Possess excellent communication and documentation skills.
+Key Skills:
+· ERP
+
+
+               :  SAP BPC,SAP BI
+· Databases
+
+               :  Excel, Access, Oracle, SQL, HANA
+· Languages
+
+
+:  C#.NET, Java Script, HTML, CSS
+Educational Qualifications: 
+· B.Tech (EEE) from Jawaharlal Nehru Technological University, Hyderabad.
+Professional Experience:
+	Organization
+	Designation 
+	Duration 
+
+	Bowers & Wilkins
+	SAP BPC  Consultant
+	Dec’17- Present
+
+	Accenture
+	SAP BPC  Consultant
+	Apr’16- Dec’17
+
+	Mindtree Limited
+	SAP BPC  Consultant
+	Oct’14- Mar’16
+
+	Sita Corp India Pvt. Ltd
+	Analyst(BI  Consultant)
+	May’12- Sep’14
+
+
+Project 4                 : Implementation.
+Duration
+  : Dec 2017 to till date 
+Client
+  : Bowers & Wilkins
+Role
+  : SAP BPC Consultant
+DESCRIPTION:
+
+Bowers & Wilkins, or B&W, is a British company that produces audio equipment, most notably loudspeakers. B&W was founded in 1966 by John Bowers. John Bowers' for the Active One loudspeaker and preamp and 'Rock Solid' for a lifestyle speaker range. The B&W 'Blue Room' brand for 'Pod' speakers disappeared as these are currently produced and sold by Scandyna.
+
+Responsibilities:
+· Understanding the client's existing Planning framework and Process in the existing planning tool.
+
+· Gathering the requirement from Business and designing the blueprint as per the business requirement.
+
+· Creation of Environment as a copy of Standard ENVIRONMENTSHELL
+
+· Creation of user defined Dimensions as per the requirement of Clients planning framework.
+
+· Creation of Models as per the planning requirement.
+
+· Creation of Transformation file for field mapping and Conversion file for differing data formats.
+
+· Designing security.  Users, Teams, Data Access Profiles.
+
+· Loading Transaction Data using a Flat File, NW BI Info Cube using Standard Data manager Packages. 
+
+· Designing reports and input forms using report editor as per business requirement (both static and dynamic reports).
+
+· Designing reports and input forms which enables read data from one Model and write data to another Model.
+
+· Backup and restore of Environment using the standard delivered functionality.
+
+Project 3                 : Support
+Duration
+  : Apr16 to Dec 17 
+Client
+  : Bridgestone
+Role
+  : SAP BPC Consultant
+
+DESCRIPTION:
+
+Bridgestone Americas, Inc. is the U.S. subsidiary of Bridgestone Corporation, the world’s largest tire and rubber company.Bridgestone Americas and its subsidiaries develop, manufacture and market a wide range of Bridgestone, Firestone and associate brand tires to address the needs of a broad range of customers, including consumers, automotive and commercial vehicle original equipment manufacturers.
+Responsibilities:
+· Supported the existing application and involved in the enhancements.
+
+· Maintained custom dimension, dimension property & dimension hierarchy for Entity, Account, Product and Time dimensions.
+
+· Collected business reporting requirements and built number of reports and I/p schedules using EPM Add-in as well as web reports; tested and documented them
+
+· Facilitated the security setup by creating users, task profiles and data access profiles
+
+· Monitoring and scheduling Jobs, enabling and running them in the production support environment
+
+· Suggested Suppression of irrelevant records of the db.
+Project 2                 : Support
+Duration
+  :  Oct 14 to Mar 16
+Client
+  :  Taghleef Industries Films
+Role
+  :  SAP BPC Consultant
+
+DESCRIPTION:
+Ti is one of the largest manufacturers of BOPP and CPP films in the world, headquartered in Dubai U.A.E. with over 410,000MT of BOPP film capacity. Ti offers a wide range of bi-axially oriented polypropylene packaging films suitable for food applications (snacks, confectionery, dairy food, fresh cut vegetables.) and non food applications (overwrapping, gift paper, flower wrapping, adhesive tapes.) A vital part of Ti's offerings to the food and beverage industries is represented by label films designed for all types of labelling technologies.
+
+Responsibilities:
+· Maintained custom dimension, dimension property & dimension hierarchy for Entity, Account, Product and Time dimensions Facilitated the security setup Users, Teams, Data Access Profiles.
+
+· Loading Transaction Data using a Flat File, NW BI Info Cube using Standard Data manager Packages. 
+
+· Designing reports and input forms using report editor as per business requirement (both static and dynamic reports).
+
+· Designing reports and input forms which enables read data from one Model and write data to another Model.
+
+Project 1    : Micro Asset
+Duration   :  May 2012 to Sep 2014             
+Client        :  CBAL Sdn. Bhd | Malaysia                                                                                  
+Role
+  :  SAP BI Consultant
+Description: Micro ASSET is an industry accounting application software that is designed for small time business or non accounting literate users. It is a 'One Step Accounting' package. The software is a simplified version. Adopting a document based approach to run the computerized system.
+
+Micro ASSET consists of eight modules. First time activity module configures the preset parameters of a company accounts like supplier, customer details, expenses, assets. Daily activity module captures the documents generated by daily transactions. Month end activity module records the transactions at the end of the month. Year end activity module records any adjustment entries. Report module generates all transaction reports on monthly basis and yearly basis like trial balance, balance sheet, income statement, general ledger reports. Budget module allows user to record the yearly budget transaction and can generate the budget variance reports on a monthly and yearly basis. Business Intelligence module is a user interface module which is in a questionnaire module. Source Document Flash Guide is a user guide for the end user to do the filing and transactions.
+Responsibilities:
+
+· Supported the existing application and involved in the enhancements.
+
+· Resolved the reporting related defects and coordinated with the users.
+
+· Transported the objects from Development to Production
+
+· Monitoring and scheduling Jobs, enabling and running them in the production support environment.
+
+· Performed the regression testing to check the consistency of the data in special use system.
+

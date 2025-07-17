@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mahesh Bhausaheb Nalawade
+                                        Flat No. A-8, Kirti Nagar No-1, Wadgaon Budruk, Pune - 4110041
+Mobile: +91-9270001303; E-mail: maheshnalawade@gmail.com
+
+SOFTWARE QA PROFESSIONAL
+Testing Experience: 4.8 years including Manual + Selenium Automation Testing and Total Experience is 10+ years
+Roles and Responsibilities throughout the projects include: Requirement gathering, perform manual testing, derive test scenarios, test case preparation, test execution, defect logging, defect reporting and retesting, regression testing, and liaising with product owner, design, build the automated test frameworks, used tools like Selenium Web Driver. Have done mobile application testing on various devices. Also, have done performance and stress testing. Tested the application on multiple platforms as well.
+
+PROFESSIONAL SYNOPSIS
+DSK Digital Technology	Sr. Tester Engineer                                                            Aug’13 – Till date
+· Currently, writing test scripts in Java for “Grameen Dukan” application for automating it.
+Have completed “Grameen Dukan” application (Domain- e-Comers) successfully wherein it was in “Agile methodology”. Both Manual as well as Selenium automation was done for this application. Was responsible for writing the test scenarios according to the requirement gathered, writing the test cases, executing them on various browsers (Chrome, Mozilla, IE and Incognito) and platforms (windows with different versions, Linux-Ubuntu and Android). Also, it was tested on various mobile devices as well. Framework used for Selenium Web Driver (used Java) was “Test NG” along with keyword driven. In this, I have written reusable functions for automating Grameen Dukan. In addition, have taken part in daily stand-up calls, scrum calls and project related meetings including the kick off and the GO/ NO GO meeting. Application defects reported in TFS. Use to co-ordinated with developers for bugs fixing. Also, reporting was done wherein it included the overall flow of the project, its objective, duration, test cases metrics, defect metrics, module based metrics, the testing scopes along with the various types of testing done.
+· Have completed “MYFI” standalone application (Domain-Financial Inclusion-FI) successfully wherein it was in “Agile methodology”. Manual testing was done for this application. Was responsible for writing the test scenarios according to the requirement gathered, writing test cases, executing them on Linux OS customized device, i.e. device is manufactured by itself. Application provided to client, CBI,CBI-RRB, and UBI to expand their banking services in rural area of Madhya Pradesh state and BC (Business Correspondent) providing bank services to rural customer of bank, like Online Enrolment and Online financial transaction like FIGS, AEPS, AEPS OFFUS, and IMPS.
+· Have completed “MPFPS” standalone application (Domain- Public Distribution Services- PDS) successfully wherein it was in “Agile methodology”. Manual testing was done for this application. Was responsible for writing the test scenarios according to the requirement gathered, writing test cases, executing them on Android platform with customized device, i.e. device is manufactured by itself. Application provide to Madhya Pradesh state to provide online rationing to state customer.
+
+Amdocs Ltd 		 			SSME				                                 Nov’08– Feb’2013
+· Manually validate customer bill [BAN] to find out bugs.
+Find out bugs in the area of Price Plan, Call Usage, Data Usage charges applies according to expected rate.
+Run prerequisite SQL query to find out issue in Price Plan, Call Usage and Data Usage. Assign ticket to billing team for more investigation and add the list of effected ban. 
+Validate reject bill cycle BAN. 
+We also support in billing system release and ensuring the quality of billing not hampered because of release. Helping the team to resolve technical issue.
+
+
+
+Tech Mahindra Ltd				Sr. BG1					                 Dec’05 – Nov’2008
+· Inter Operator Billing Account System [IOBAS] IDEA & BSNL
+· Work in 24 x 7 shift, Process CDR files in billing system every day operation.
+· Monitoring in CDR processing in IOBAS billing system like Streamline, Parsing, Charging and Reject.
+· Process reject CDR files and reprocess in billing system.
+· Follow-up with Mediation team to receive backlog of all circle CDR file to process in billing system.
+· Taking monthly backup of CDR files.
+· Prepare day to day operation report of CDR processing and submit to client and managers.
+· Upload monthly CDR invoice report on client server.
+· BTNI (BT Telephony Network.)
+· Responsible to find correct GPRS location using the internal tool of BT and mark the location and draw 2D image.
+· Draw digitization 2D image on referencing map of Small World tool.
+· Refer BT legal document A55 provided in hard copy by BT Telephone Network to complete the digitization work
+· Verify the Legal document A55 and help to team member to find out location to complete the job
+
+AND Data Pvt. Ltd.			Jr. Data Builder					 	    Apr’04– Nov’2005
+· Global Road Network internal project.
+· Digitization Global Road Network Data, Converting raster image data into digital vector format.
+· Attach information data to all digitization vector road data networks i.e. Road Name, Near Location, etc.
+· Run pre-defined scrip to clean-up digitized road network to maintain quality of road network.
+
+
+· Core Competencies:
+Software Design/Development/Testing  Team Management  Coordination Skills  Success Oriented  Communication Skills   Analytical Skills  Organizational Skills  Time Management  Problem Solving Skills   Interpersonal Skills 
+
+
+TECHNICAL COMPETENCIES
+Programming Languages: 		Core Java.
+Database Languages:			PSQL, MY-SQL	
+Operating Systems: 			Windows older versions/7/ 8, Linux Ubuntu
+Integrated Development Environment:  Eclipse
+Project management tools:     	Team Foundation Server
+Defect management tools: 		 TFS
+Domain knowledge:                                  Core Banking, Telecom.
+Testing Knowledge:	Manual + Automation (Selenium Web Driver) along with Test-NG, Maven and Keyword Driven frameworks.
+Basic Knowledge:	API testing, J-meter (load testing)
+
+ACADEMIA
+· M.Sc.  2003, Dr.B.A.M. University
+· B.Sc.  2000, Dr.B.A.M. University
+· HSC, 1996, Maharashtra State Board
+· SSC, 1993, Maharashtra State Board
+· Certificates
+· GIS Certificate [Geographical Information System] at MICON, Pune, From July-2004 to Jan-2005
+· Diploma in Manual Testing, 2013, Mind Script.
+
+
+PERSONAL DETAILS
+Name	: Mr. Mahesh Bhausaheb Nalawade	
+Father's Name	: Mr. Bhausaheb B Nalawade
+Date of Birth		: 18th Nov 1977.
+Gender		: Male
+Marital Status		: Married
+Nationality		: Indian
+Languages Known		: English, Hindi and Marathi.
+Permanent Address		: A-8, Kirti Nagar No-1,
+		  Wadgaon Budruk, Near Last Bus Stop,
+		  Pune - 411041,
+		  Maharashtra.
+Passport Number		: R2756520
+Issue Date		: 26/06/2007
+Expiry Date		: 25/06/2027
+

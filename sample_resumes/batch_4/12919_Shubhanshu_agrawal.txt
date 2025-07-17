@@ -1,0 +1,301 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company Name
+
+	Shubhanshu agrawal
+	
+
+
+
+Shubhanshu Agrawal
+
+E-1604 Pearl Court, Ramprastha Greens Vaishali, Ghaziabad-201010                               Contact: +91-9711259720 Email:shubhanshu8892@gmail.com
+
+SAP ABAP Developer
+ABAP developer having 5+ years of experience in supporting & implementing SAP R/3. I am proficient in assortment of technologies like ABAP/4, C/C++, JAVA 6(JSE) but specialized in SAP-ABAP/4.
+SAP ABAP/4 skills include:
+
+	· Object oriented Programming 
+· Data Dictionary
+
+· Reports ( Classical, Interactive and ALV)
+· Debugging
+
+· Data conversion 
+· File Handling
+
+· HR-ABAP
+
+· Enhancements
+
+· IDOC’s
+
+· SD Functional
+	· BSP Applications
+
+· SD, MM, FI, HR, WM, IM
+· Dialog Programming using MENU PAINTER and SCREEN PAINTER
+· Smart Forms/ SAP Script
+· BTE
+· FTP Process
+· Web services
+
+· Qlikview
+
+
+
+Experience
+	HCL Technology, Noida, India
+
+Project: Yildiz Holdings (Support Project)
+
+Duration: August 2015 to Present
+
+Senior Consultant
+	                 08/2015 – Present
+
+	Role Description:
+
+Yıldız Holding is the largest food manufacturer in CEEMEA (Central and Eastern Europe, the Middle East, and Africa). In this project, I am leading team of 4 ABAP consultants and my main role is to take care of every ticket assigned by client and deliver them within time of frame without any SLA breach and I also create MIS reports for the project. As technically, I gather requirements from client to develop the required object or bug fixing.
+
+Responsibilities:
+
+· Requirement analysis and framing the solutions.
+
+· Developed a custom report for automatic invoice posting.
+
+· Testing and Bug fixing.
+
+· Providing support for the custom development objects.
+
+· Developed several dynamic ALV reports.
+
+· Developed web services using SOAP UI.
+
+· Solved some basic SD functional tickets.
+
+· Worked on user-exits, BADI’s.
+
+
+
+	Vikalp Solutions, Noida, India
+
+Project: Shalimar Paints (Support & Implementation Project)
+
+Duration: April 2014 to August 2015
+ABAP Consultant- Onsite Coordinator 
+	10/2012 – 08/2015
+
+	Role Description:
+
+In this project, I worked as an onsite coordinator and my main role was to handle client’s requirement and offshore team work as well. Here I created multiple report programs and BDCs for them related to FI, SD, MM module.
+Responsibilities:
+
+· Implement Sales return process with validations.  
+
+· Implemented enhancement in VF01 for C & F form and developed BDC and report for the details.
+
+· Requirement analysis and framing the solutions.
+
+· Developed many BDC programs and LSMW to create and maintain data in the system.
+
+· Implemented a user exit to restrict sales order creation at night.
+
+· Developed a screen variant to disable baseline date in F-32/FB1D. 
+
+· Implemented BTE 1650 to add some more fields in FBL3N.
+
+· Implemented enhancement in VA01/ME21N to check BOM availability.
+
+· Implement new freight policy and BBND process.
+
+· Developed a report to create material code using BAPI and add features like emails and token generation.
+
+· Developed a program which calculates overdue of customers by considering payment terms and after that save that file in SAP directory, which can further used for FTP, with the help of that we are sending message on their mobile.
+
+· Developed a report program by which users upload cheque bounce details of a customer in SAP with the help of BDC and saving that file on FTP to send messages to the respective customers.
+
+· Developed some reports to upload sales, collection and production target and to get month wise sale, collection and production of their products zone wise, sales office wise, sales group wise.
+· Developed report programs to block/unblock customers.
+
+· Developed report programs to reject open sales order open from last 90 days.
+
+· Developed report program to post credit/debit note.
+
+· Developed report program to upload daily collection.
+
+· Provide support for the custom development objects.
+· Developed a sales report with mail configuration.
+
+· Developed an indent report to calculate current pending.
+
+· Developed a sales incentive policy in which company provides extra incentive to sales officer based on their sales and collection.
+
+· Testing and Bug fixing
+Project: Bridgestone Benefits Statements (Support Project)
+
+Duration: Oct 2013 to Mar 2014
+
+Associate ABAP Consultant
+
+Role Description:
+
+In this Project majorly I worked on SAP HR issues.  It was a build project and we fixed and enhanced there existing programs and other RICEF objects. 
+Responsibilities:
+· Requirement analysis and framing the solutions.
+
+· Provide support for the custom development objects
+
+· Testing and Bug fixing
+· Created HR reports for HR master data, personnel time data, Benefits data and payroll data.
+
+· Made changes in BCBS and UHC medical/benefits outbound interfaces.
+
+· Implemented changes in Time feed program (Final Pay Project), to update infotypes 0267 and 0009.
+
+· Did changes in HR-form as per requirement.
+
+· Developed Smart forms to display payroll data.
+Project: Hero Cycles- (Implementation Project)
+Duration: Oct 2012 to Mar 2013  
+
+ABAP Developer
+
+This project caters a wide range of different solutions to Hero Cycles; basically in this project we created different applications for hero Cycles to capture all type of movements in their warehouse. In this project we created many BSP applications especially for input enabled Barcode Gun, where input fields receive value from Barcode reader. In RFxLINK  we have created BSP applications for multiple cycles related to warehouse management such as- Inbound Process( In this Good Receipt by delivery, Putaway by TO, Putaway by delivery, Putaway by TR), Outbound Process( Good Issue by delivery, Picking by TO, Picking by delivery, Picking by TR), Stock Transfer( Bin to Bin transfer), Internal Warehouse Process( Create TO, Display TO, Confirm TO, Cancel TO, Confirm TO single item), Inventory( Stock Overview, Stock per Material).
+
+
+
+
+Contribution:
+Data Dictionary 
+• Have created many custom SAP tables.
+
+• Have created many data elements and domains.
+
+• Have created Structures and type groups. 
+
+• Have worked on Search helps.
+Reports
+• Developed several classical, interactive and dynamic ALV reports. 
+• Developed many ALV reports by using OOPS, SAP container. 
+• Developed report program of FI, SD and MM module.
+• Developed many reports to send required data via emails to the authorized persons.
+
+• Developed several HR reports using and without using LDB’s. 
+• Developed a new user-friendly TRM (Task Resource Management) of custom LTRMS. 
+• Developed a Mobile Warehouse Tool which handles User and Barcode-Gun in warehouse.  
+Modules
+
+• Have worked on FI, SD, MM, HR, IM and WM.
+
+Dialog Programming
+
+• Developed Graphical User Interface that gives the user Easy access to a number of Functions.
+
+• Developed Menu Interface for various screens and Interactive lists.
+
+• Developed screens for user-defined transactions.
+Enhancements
+• Implemented BADI in ME21N to check BOM availability.
+
+• Implemented user-exit in VA01.
+• Implemented user-exit and screen-exit in VF01.
+BDC
+• Created many BDC programs to create data like sales order, billing document, G/L posting and to block/unblock customers.
+
+LSMW
+
+• Create LSMW to upload data in customer master and vendor master.
+File Handling
+• Developed custom programs to move data from Server-To-Client and Client-To-Server.
+Others
+• Having good experience in data migration.
+
+• Having hands on experience in SAPUI5.
+• Have worked on LSMW.
+
+• Have basic knowledge of SAP BASIS like ID creation, TR movement, Roles & authorization.
+
+• Hands on experience on BDC and enhancements. 
+• Have worked on SAP Script.
+
+• Have worked on BSP and have developed many BSP applications to accelerate the SAP standard processes over handheld devices.
+• For BSP application development I have used JavaScript, JQuery, HTML5, CSS3 and AJAX.
+• Have worked on BAPI in warehouse. 
+
+• Developed Technical specifications based on Business Requirements.
+.
+	HCL Technologies, Noida, India
+
+IT Summer Internship
+	06/2009 – 7/2009
+
+
+Here I have developed a java based application ‘Secure Key Generation’ using RSA algorithm. In this application a program was developed to create a secure runtime password based on different types of key input selections like- numerical, alpha numerical and special characters. Based on such inputs this program can generate different types of secure keys in fickle lengths.  
+
+Education & Training
+	Gautam Buddh Technical University, Lucknow, India
+
+B.Tech, Major in Electronics & Communication
+Score-76 % 
+	6/2012
+
+	DUCAT Java certified (Grade-A)
+	8/2012
+
+	SAP UI5 by Open SAP
+	8/2013
+
+	Senior School Certificate Exam. (Score-78 %)
+	5/2008
+
+	Secondary School Exam. (Score-82 %)
+
+	5/2006
+
+
+Page 4 of 4
+

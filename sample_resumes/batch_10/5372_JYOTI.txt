@@ -1,0 +1,187 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JYOTI 							SAP BI/BO Consultant
+Mobile: +919550147766				jyoti.angadi806@gmail.com
+
+
+Professional Synopsis:
+
+● Having nearly 5.5 Years of Work experience in Implementation and Support Projects in SAP BI 7.0/7.3/7.4  and having knowledge in SAP BO 4.1 WebI and SAP BO Admin.
+●Developing detailed design documents and Technical architecture, Development, Unit Testing, Performance tuning, preparation of Quality documents, support documentation, cut over plan through go live support.
+● Experience in BI Architecture, Extended StarSchema, MultiDimensional Modeling, Data Flow Strategy, Defining Dimensions, Info Cube, Multi Provider, Info Sets, Data Source, Info Source, DSO, Extraction through Function Modules.
+● Experience in End to End BW Configurations and Customizations from Extraction, Staging,
+Documentation, Loading, Transports, Reporting through BEx Analyzer and Performance.
+●BEx Reporting – Expertise in frontend Business Warehouse components for Queries, workbooks, Calculated Key Figures, Restricted Key Figures, Structures, Variables, Exceptions, Conditions, BEx Analyzer.
+● Experience in production support, data loads, validation and trouble shooting of transaction data and master data, change management, transport management, roles and security, system checks, performance tuning and process chains.
+●Evaluated statistical performance using BW Statistics and suggested recommendations for performance optimization. Improved data load and query performance by doing compression, creating aggregates, Indexes.
+● Having Knowledge in Central Management Console (CMC), Web Intelligence Rich Client.
+● Active team player and as an individual with Excellent Communication, Interpersonal skills,
+self motivated fast learner, good listener and having strong analytical and programming skills.
+
+
+Professional Experience
+
+● Worked as SAP BI/BO consultant in WIPRO TECHONOLOGIES from Aug 2011 to Dec 2016.
+● presently working as SAP BI consultant in CAPGEMINI from Dec 2016 to till date.
+
+
+Education Details
+● Masters of Technology from BITS Pilani.
+● Bachelor of Computer Application from Basaveshwara Science Collage, Bagalkot.
+
+
+
+
+Technical Proficiencies
+●ERP : SAP R/3 (ECC6.0)
+● Business Intelligence Tools : SAP BI 7.0/7.3/7.4
+● Operating System : Windows
+● Reporting Tools : Business Objects Enterprise BI 4.1 (Web Intelligence,
+Promotion Management, IDT, UDT, CMC, BI Launchpad)
+
+
+
+
+Project Experience:
+
+CAPGEMINI:
+
+
+2) Becton and Dickinson
+Duration: Jan 2017 – Till date
+Synopsis: Becton and Dickinson is an innovative leader in medical company across US.
+
+● Becton and Dickinson is a maintenance a project, have taken care of change request (CRs).
+● Developed the BI Design, from creating the Info Objects to till the reporting layer.
+● Created good number of flows like from Data Source to till Multi Provider.
+● Transport of objects from Development to Testing and Production systems.
+● Created a good number of BEx queries.
+● Migrated dataflow from 3.X to 7.4.
+● Have done some performance improvements as part of optimization project.
+● Taken care of incidents and dataload failures. 
+● Having good knowledge on SAP ABAP and SAP HANA.
+
+
+
+WIPRO TECHNOLOGIES: 
+
+1) National Grid Metering – Development & Support
+Duration: Jan 2013 – Jun 2014
+Synopsis: NG is innovative leader in energy management (Gas & Electricity) across UK & US.
+
+Roles &Responsibilities : BW/BO Consultant
+●Developed the BI Design, from creating the Info Objects to till the reporting layer.
+● Created good number of flows like from Data Source to till Multi Provider.
+●Created a good number of BEx queries.
+● Good knowledge on the BEx concepts Calculated Key figures and Restricted Key figures.
+●Have transported using standard transport mechanism. DEV – QA – Live System.
+● Involved in production support to check the loads regularly
+● Involved in solving performance related issues and incidents reported by business users
+● Extracted data from Flat Files into SAP BI system.
+● Daily interaction with client and suggested performance improvement solutions.
+● Worked on BEx Query Designer: Developed flexible queries using filters, navigational attributes in BEx analyzer to facilitate data analysis in a summarized way to give detailed level information.
+● Involved in Unit testing, System Integration testing (SIT) and Business acceptance test (BAT).
+● Transport of objects from Development to Testing and Production systems.
+● Business Objects , creating the reports on top of BEx Queries by consuming OLAP Connection.
+●Have created n number of Custom Dimensions, Detail and key measures in the report level.
+●Have used merging of the Queries in the report where report contains more than one.
+● Responsible for Creating and maintaining various user groups and their security in CMC.
+● Good knowledge on the issues which will be faced while development and the post development.
+● Have created many reports and for the support scheduled and maintenance of the report in the
+production support.
+
+
+
+
+
+
+
+
+2) National Grid Support, UK SAP BI/BO Consultant
+Duration: Jul 2014 – Dec 2016
+Synopsis: NG is innovative leader in energy management (Gas & Electricity) across UK & US.
+
+Roles &Responsibilities : BW/BO Consultant
+
+●Transported the objects from Development to QA for testing.
+● Worked on DWB for design, development and testing of custom and standard InfoCubes, Multiproviders, Info sources, data load process using Infopackages, DTP and process chains.
+● Flexible queries using BEx reporting features like variables, restricted key figure, calculated key figure, exception and conditions
+● Delivered reports according to the user specified format.
+● Segregated master data and transaction data loads and made use of Meta chain concept to reschedule the process chains, thus avoiding Master Data locks during the load and ensuring the parallelism.
+● To Improving the Query response time for Queries which are created on DSO’s and to improve the lookup performances created indexes on DSO’s
+● Perform unit testing and integration testing before moving the objects into quality system for UAT.
+● Handling tickets which are related to BO and BW.
+● Loads monitoring.
+
+
+
+
+
+
+3) Southern Water, UK SAP BI/BOBJ Consultant
+Duration: Dec 2011 – Dec 2012
+Synopsis: Southern Water is one of the largest Supplier of Water in UK.
+
+Roles &Responsibilities : BW/BO Consultant
+● Involved in functional migration from SAP BW 3X data flow to 7X.
+● Handling new development of backend objects required for Reporting like ODS, Cube, MP.
+● Created Custom Data source/Info cubes/Info objects for accommodating the global data available across the organization.
+● Created BEx reports with Restricted and Calculated Key figures for detailed level reporting.
+● Involved in performance tuning of queries by maintaining Aggregates, Compression, partition and Indexing of Infocubes.
+● Involved in Testing Phases Like Unit Test , Product Testing, Regression Testing and UAT
+● interacting with the Onsite People to understand the functionality with respect to the developments and Feasibility Study.
+
+
+

@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RAJESH MARTIN S
+
+E-mail: rajeshmartin@gmail.com
+
+
+Mobile: +91 – 9629614775
+
+Professional Summary
+
+· Decisive Techno-Functional lead with 8 years of extensive IT experience in software development under Banking & Financial, Telecom and Healthcare domains.
+· Experience in analysis, design, development, testing and documentation of web applications in Java/J2EE Technologies.
+
+· Extensive Knowledge of Front End Technologies and application integration with CMS.
+· Passionate in adopting open source products and implementing for the business needs.
+
+· Analytical, troubleshooting organizational, communication, prioritization, problem solving and leadership skills with ability to create and sustain high work tempo. 
+Professional Experience
+· Techno-Functional Lead   -   ExcelaCom Technologies
+September 2012 to Till Date.
+· Senior Developer
+  -   Lotus Forex (P) Ltd
+
+September 2010 to August 2012.
+·  Programmer
+
+  -   Krish Computer Services 
+March 2009 to March 2010.
+Education
+· M.C.A - 82% from St.Peter’s Engineering College, Anna University in 2009.
+Technical Skills
+
+	Languages
+	Java EE, Core Java
+
+	JAVA EE Frameworks
+	Spring MVC, Spring WebFlow, Sprint AOP, Struts 2, Hibernate, Axis2, ZKoss
+
+	Web Technologies
+	HTML/HTML5, CSS3, Javascript, JQuery, AJAX, XML, PHP, JSP
+
+	CSS Frameworks
+	Foundation, Bootstrap
+
+	Web Servers
+	Apache Tomcat, Apache HTTP
+
+	Portals & CMS
+	Wordpress, Joomla, Fatwire, Jahia
+
+	Database
+	MS SQL Server,  Sybase, MySQL, Oracle
+
+	IDE
+	Eclipse, Dreamweaver
+
+	Tools                                      
+	SONAR, HUDSON, JIRA, SVN, Maven, Putty
+
+
+Project 5:
+Client:
+
+
+American Express Europe Ltd, United Kingdom.
+
+Role: 
+
+
+Techno-Functional Lead
+Duration: 
+
+April 2016 – Till date 
+
+Technology: 
+Spring Frameworks, JSP, Servlets, AJAX, HTML5, Javascript, OracleDB.
+
+Team Size: 
+
+10 members
+Roles & Responsibilities
+· Preparation of high and low level effort estimates for the release phase.
+
+· Providing Architectural solution.
+
+· Leading the development team at Offshore.
+
+· Preparation of WBS and detailed plan for the release phase.
+
+· Tracking of the plan, risks and various issues.
+
+· Preparation of metrics with plan and effort.
+
+· Reviewed the unit test cases prepared for the initiatives.
+
+· Conducted Code review on code components. Used various tools to automate code review.
+
+· Defect tracking and management
+
+The American Express Company, also known as Amex, is an American multinational financial services corporation headquartered in Manhattan's Three World Financial Center in New York City, United States. Founded in 1850, it is one of the 30 components of the Dow Jones Industrial Average. The company is best known for its credit card, charge card and traveler's cheque businesses. 
+
+Currently Amex is having so many travel agents who interacts with customers on their travel needs and helps them to get it done. This project is an authorization development project developed using Spring framework. The database used is OracleDB. The scope of the project involves Analysis/Design/Development/Unit Testing/System Testing and Delivery of new portal for Travel Agents.
+PROJECT: 4
+Client:
+
+
+Llyods Banking Group, United Kingdom
+Role: 
+
+
+Functional Analyst
+Duration: 
+
+October 2014 – March 2016
+Technology: 
+Struts 2.0, SQL Server 2008, JSP, Servlets, AJAX, HTML5, CSS3, foundation.
+
+Team Size: 
+
+5 members
+Roles & Responsibilities
+· Client Walk-through on Business requirement and involved conference/daily standup calls.
+· Creating the functional flow diagrams for Existing and Proposed system as per the project requirement
+· Involved actively in Requirement Gathering, analysis, planning/estimation, design, development and unit testing and deployment
+· Designing web pages using HTML5, JQuery, CSS for creating Responsive design. 
+· Developing and maintaining web service modules using Axis2 SOAP Engine.
+· Involved in the business tier such as JMS (Releasing a message per second) and writing XSDs to define communications formats.
+
+· Involved on fixing vulnerabilities in web applications.
+
+OCIS is the primary repository of customer information for Lloyds Banking Group, hence all the customers that are in scope of divestment to Verde need to be identified and maintained on OCIS as if they are part of another bank. We involved in creating modules for Divestment manager and Party Alignment Manager which keeps all the demographic data for these newly created Verde customers in sync with the LBG customers.
+
+PROJECT: 3
+Client:
+
+
+Charles Schwab Banking Group, San Francesco
+Role: 
+
+
+Senior Developer
+
+Duration: 
+
+September 2012 – September 2014
+Technology: 
+ JavaEE, spring webflow, Fatwire,  JSP, Ajax, Jquery.
+
+Team Size: 
+
+5 members
+
+Roles & Responsibilities
+
+· Interaction with client through mail and daily standup calls.
+· Creating spring web flow module and created action & DAO & Delegator classes.
+· Creating CR process Templates, CSElements and Site Entry.
+· Design and develop web applications
+
+
+Description
+
+
+The Charles Schwab Corporation is a bank and brokerage firm, based in San Francisco, California. It is on the list of largest banks and is one of the largest brokerage firms in the United States. The company provides services for individuals and institutions that are investing online.
+
+ The company offers an electronic trading platform for the purchase and sale of financial securities including common stocks, preferred stocks, futures contracts, exchange-traded funds, options, mutual funds, and fixed income investments. It also provides margin lending, and cash management services. The company also provides services through registered investment advisers.
+
+PROJECT: 2
+Client :
+
+
+LotusForex
+Role: 
+
+
+Test Engineer
+Duration: 
+
+September 2011 – August 2012
+Technology: 
+Zkoss, Java EE, Spring, IBatis, Sybase.
+
+Team Size: 
+
+5 members
+
+Roles & Responsibilities
+
+· Design and develop Web Applications
+
+· Interpret written business requirements and technical specification document
+· Analysing the system by phase to phase and creating the impact analysis and technical design document. 
+
+· Code build and unit testing the code.
+
+
+Description
+
+
+iWire is the product developed on Java platform for LotusForex. It can handle transactions which support different file formats such as xml, txt, csv, script (sql) etc which enables business prospects with entities who has different file formats and specifications. It can handle remittance for various products of different processors complying their respective business, functional and technical specifications. It is also equipped to handle functionalities such as AML, compliance, etc Payments can be processed across (to/fro) multiple agents. Supports integration of high end technologies to develop front end UI, generate reports, database. 
+PROJECT: 1
+Client Name: 
+
+Oriental Exchange
+Role: 
+
+
+Developer
+
+Duration: 
+
+September 2010 – August 2011 
+
+Technology: 
+Zkoss, Java EE, Spring, IBatis, Sybase.
+
+Team Size: 
+
+5 members
+
+Roles & Responsibilities
+
+· Design and develop relational database procedures/programs for web applications
+
+· Interpret written business requirements and technical specification document
+· Involved in implementation activities and Code-drop process.
+
+· Design and develop pages with responsive design
+
+
+Description
+
+iExchange is a workflow-based application system enabling an exchange house to automate its Foreign Exchange process. The application provides validations, checkpoints at different levels of operation and also provides versatile means to track, monitor, and analyze Forex and remittance transactions at different time intervals. The application ensures maker-checker control for more or less all kinds of transactions both at the counter level as well as at Authorization level i.e. cashier/Manager level.
+Personal Details
+
+Date of Birth
+
+
+:  07-02-1984
+
+Passport No
+
+
+: H1024028 / Indian
+
+Permanent Address
+
+: 106J/60, Millerpuram, Tuticorin – 628008.
+Declaration
+
+I hereby declare that the information furnished above is true to the best of my knowledge and belief.
+
+Place: 
+Chennai
+Date: 
+
+
+
+
+
+
+                
+ (Rajesh Martin Subash) 

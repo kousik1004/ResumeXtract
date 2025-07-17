@@ -1,0 +1,680 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manjunath Resume
+
+
+Priyadharshini  K 
+
+Bangalore , India  
+
+ 
+
+Contact No: +919739542565 Email :Priyakumaresan5@gmail.com 
+
+ 
+
+ 
+
+Experience Summary: 
+
+ 
+
+Presently working on Senior Sterling Integrator Application (EDI) developer at IBM 
+
+INDIA PVt Ltd, Bangalore.  Have total of 6 years and 8 months of relevant 
+
+experience in IT industry, in the field of B2B/EDI Technologies. Worked for Retail and 
+
+Logistics & Chemicals and Petroleum domains, Worked on File translation & 
+
+transformation communication between trading partners including Analysis, Design, 
+Development, Maintenance, Migration, Enhancement and Production Support 24/5. 
+
+ 
+
+ 
+
+Designation :   Senior Software Engineer  
+
+Domain  :   Retail & Logistics, Chemicals and Petroleum 
+
+Skills  :   Experience in GIS on UNIX, SI on Windows/Unix, SFG, PGP,          
+
+OTM, SSP, SCC, SEAS & Protocols as HTTP/HTTPs, FTP, SFTP & 
+
+Connect: Direct 
+
+Standards :   ANSI X12, EDIFACT 
+
+Text Editor :   Ultraedit, Text Pad, Beyond compare & Notepad++ 
+
+ 
+
+ 
+
+Professional Experience: 
+
+ 
+
+ Developed around 80 Business Processes in SI  
+
+Major Services used in the Process Development are 
+
+ SFTP, FTP and HTTP/HTTPs, Connect : Direct (CD) 
+
+ JDBC adapter’s, Mailbox services, SMTP adapters 
+
+ PGP Encryption and Decryption, 
+
+ X12Envelope,EDI Encoder, EDI Envelope 
+
+ EDI De-envelope 
+
+ XML Encoder 
+
+ Used Property files in the BPs. 
+
+ Developed/Modified around 45 -50 SI and GIS Maps,  
+
+ XML to CSV,XML to EDI,XML to Positional  
+
+ EDI to Positional, EDI to CSV 
+
+ Worked on Positional to SQL maps 
+
+ Document Extraction Maps. 
+
+ Involved in On-Boarding OTM (TL, LTL and Outbound) Carriers setup, AS2 
+
+setup and data testing (204,214 & 990) in SI.                                 
+
+ Created SFG Partners for CD & SFTP Partners, RCT (both Static and Dynamic) 
+
+along with PGP Encryption & Decryption RCT and Channels in SFG. 
+
+ Created HTTP/HTTPs, SFTP & CD Adapters, Netmap configuration in SSP. 
+
+ Worked CD Installation activities on UNIX, Windows for all internal servers, 
+
+Also participated with AWS CD implementation activities. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Project Details: 
+
+ 
+
+Company Name: IBM INDIA PVT Ltd, Bangalore - April 2015 - Till Date 
+(2.5 years) 
+ 
+Project #1:  August 2016 to Till Date 
+
+ 
+
+Client: One of the largest integrated Oil and Gas Company in UK operations around 
+
+the World. 
+
+ 
+
+ Title : Sterling Enhancement Implementation Project  & ELS Support 
+
+ 
+
+ Description: Project involves the new enhancement implementation as per 
+
+the project requirements. Gathering the new partner’s inputs & implement 
+
+the file transformation within Sterling application’s.  
+
+ 
+
+ Roles and Responsibilities 
+
+ 
+
+1) Worked on Enhancement related implementation activities on my client 
+
+system and make sure that all request's deliverables were finished on 
+
+time. Implemented around 90+ Enhancement request's deliverables in 
+
+the Project.     
+
+2) Worked as Sterling Enhancement Team Leader, To understand the 
+
+business requirements and communicated for both business and 
+
+technical level implementation within the team.   
+
+3) Guided the enhancement team members in the right path of execution 
+
+/configuration in the sterling environment, Like preferred the client 
+
+supported Protocol CD, SFTP & HTTP/ HTTPS which is going to be 
+
+suitable on the internal & external Partners. 
+
+4) Implemented/ executed the few easy automated processes in the 
+
+project as per project architecture with help of Project SME's 
+
+5) Creation of SFG Partners, their corresponding channel and Template for 
+
+the partners with FTP, SFTP, CD and PGP groups in SFG.Involved in 
+
+partner’s HTTP/ HTTPs configuration in SSP, Creation of mailboxes and 
+
+automated Routing rule creation in SI. 
+
+6) Involved in AWS Cloud CD configuration, Worked on Shared instances 
+
+CD Partners configuration, Import & Export all internal partners CD 
+
+Configuration under one roof. 
+
+7) Validation of Partners PGP Keys in PGP system, Configured PGP 
+
+Encryption and decryption services in SI & SFG. 
+
+8) Understand the importance of incident tickets priority as per the BP 
+
+SLA’s and also effectively resolved on the assigned incident tickets on 
+
+timely manner. Involved in Business Process creation/ modification as 
+
+part of Enhancement. Also deployed and scheduled the BP’s in SI. 
+
+9) Mentoring and guiding the juniors in the team. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Project #2:  February 2016 to July 2016 – 6 Months 
+
+ 
+
+     Client: One of the largest integrated Oil and Gas Company in UK operations 
+
+around the World. 
+
+  
+
+ Title : SI Migration & Cutover Wave 2 Project & Production ELS Support  
+
+ 
+
+ Description: Project involves Partners on-boarding in SI (SFTP/ CD Partners) 
+
+& relevant file transaction flow’s (Interface’s creation & RCT) between 
+
+internal & external partners in SFG. 
+
+ 
+
+ Roles and Responsibilities 
+
+ 
+
+1) As part of Project Cutover & Migration Plan, have implemented the 
+
+Batch1, 2 and 3 3 set of interfaces (around 500+ file transformation 
+
+workflows) moved in to SFG production environment simultaneously 
+
+and will be provided the relevant support on the Project production 
+
+implementation process.  
+
+2) As part of ELS Team, will be providing the real time support for all 
+
+production Go-Live interfaces. Effectively coordinated with Deployment 
+
+and Cutover teams for the production implementation process as per 
+
+Wave2 Master Plan. 
+
+3) Created “N” of Partners for both CD & SFTP Protocols, RCT (Dynamic) 
+
+and PGP Encryption & decryption Channels in SFG. 
+
+4) Developing and testing with customized Business processes in SI as per 
+
+project Architecture. 
+
+5) Involved in End to End customer/vendors testing and getting Sign off 
+
+for Production Movement. 
+
+6) Well-preserved all Sterling Applications as SSP, SFG, Connect: Direct, 
+
+SEAS, Control Center, GUI and Sterling DB. Also, maintaining all the 
+
+BAU activities and relevant monitoring tasks as part of the ELS and 
+
+production support team 
+
+ 
+
+ 
+
+Project #3: April 2015 to January 2016– 9 Months 
+
+ 
+
+     Client: One of the largest integrated Oil and Gas Company in UK operations 
+
+around the World. 
+
+ 
+
+ Title: Migration Project –From MFT/XML Gateway to “SFG and SSP” 
+applications & Production Support. 
+
+ 
+
+ Description: The Project involves the Migration from XML Gateway to SSP 
+
+(Wave 1) & MFT to SFG Migration (Wave 2) Projects on SI(Unix) along with 
+
+Production Support. 
+
+ 
+
+ Roles and Responsibilities 
+
+1) Wave 1: SSP Implementation - The XML Gateway process where moved 
+
+into SSP with HTTP/ HTTP’s connections along with individual Ports & 
+
+Adapter’s & Netmap configuration in the SSP environment and also 
+
+implemented new partner on-boarding in SSP application. 
+
+
+
+2) Wave 2: SFG Implementation - It’s the very huge process, SFG is going 
+
+to replace all MFT process in the as per Project Architecture. Presently 
+
+the team will mainly focus on this implementation process. To be 
+
+import all the existing MFT process into SFG Application and also 
+
+concentrated on new process set up in SFG application  
+
+3) Monitored all BAU activities and also keen monitored of all sterling 
+
+applications support (SSP, SI, SFG, SEAS & SCC) activities as per 
+
+Project Wave2 process 
+
+4) Keen monitored BP Database and checked the DB space usage 
+
+periodically. 
+
+5) Investigated Sterling applications Server logs for error, failures, and 
+
+status and connection issues during file transmission. 
+
+6) Report all the error/ failure log files to the respective teams/POCs. 
+
+7) Understand the importance of incident tickets priority as per the Project 
+
+SLA’s and also work on the assigned incident tickets. 
+
+8) Updating certificates at the time of expiry and also removing expired 
+
+certificates from the SI system. 
+
+9) Generating the daily and Weekly Status Reports. 
+
+ 
+
+ 
+
+Company Name: Cognizant Technology Solutions, Bangalore – January 
+2011 - March 2015, (4.3 years) 
+ 
+Project #4:  January 2014 to March 2015 – 14 months 
+
+ 
+
+     Client: One of the leading Retailers in US with around 8000 stores across U.S. 
+
+  
+
+ Title : Migration Project - From Oracle 11i to Oracle R12 
+
+ 
+
+ Description: Project involves creation of BP’s in SI & SFG Partners Setup, 
+
+setting up of RCT and Channels in SFG, PGP Partners setup in PGP 
+
+ 
+
+ Roles and Responsibilities 
+
+ 
+
+1) Involved in Business Process creation as part of migration. Also 
+
+deployed and scheduled the BP’s in SI. 
+
+2) Creation of SFG Partners, their corresponding channel and Template for 
+
+the partners with FTP, SFTP and PGP groups in SFG. 
+
+3) Involved in Partners SSH profiles creation in SI 
+
+4) Involved in creation of mailboxes and automated Routing rule creation 
+
+in SI. 
+
+5) Validation of Partners PGP Keys in PGP system.  
+
+6) Configured PGP Encryption and decryption services in BP’s in SI. 
+
+7) Mentoring and guiding the juniors in the team. 
+
+ 
+
+Project #5:  November 2012 to December 2013 – 14 Months 
+
+ 
+
+     Client: One of the leading Retailers in US with around 8000 stores across U.S. 
+
+  
+
+ Title : SI development and Support, OTM Process 
+
+ 
+
+
+
+ Description: Project involves creation of OTM Carriers,AS2 setup, Partners 
+
+Setup, RCT and Channels in SFG, Trading Partner setup, development of 
+
+Maps and creation of BPs in SI. 
+
+ 
+
+ Roles and Responsibilities 
+
+ 
+
+1) Creating new OTM ON- Boarding Carriers setup in SI. 
+
+2) Involved in 204 and 214 TL, LTL and Outbound map enhancements in 
+
+SI. 
+
+3) Involved in End to End customer testing and getting Sign off for 
+
+Production Movement. 
+
+4) Creating Partners, RCT and Channels in SFG. 
+
+5) Developing and Testing Business processes in SI. 
+
+6) Developing and Testing SI Maps. 
+
+ 
+
+ 
+
+Project #6: September 2011 to October 2012 – 13 Months 
+
+ 
+
+     Client: One of the leading Retailers in US with around 8000 stores across U.S. 
+
+ 
+
+ Title: Migration Project – From GIS 4.3 to SI 5.1 and Support.     
+
+     
+
+ Description: The Project involves the Migration and Testing the BPs and 
+
+Maps from GIS on UNIX to SI on Windows. 
+
+ 
+
+ Roles and Responsibilities 
+
+1) Involved in migrating the maps from GIS 4.3 to SI 5.1 
+
+2) Involved in Testing the migrated BPs. 
+
+3) Setting up AS2 Profiles and Relationships. 
+
+4) Prepared the Work Flow EDI documents for internal and external use. 
+
+5) Designed and developed Generic Document Extraction Maps for EDI 
+
+Outbound. 
+
+6) Designed and developed Generic Business Processes for HTTP data 
+
+flows. 
+
+ Title: GIS Support, SI Support 
+
+ 
+
+ Description: Project involves monitoring and supporting the different Process 
+
+and Transactions which run on GIS server and SI server. 
+
+ 
+
+ Roles and Responsibilities 
+
+ 
+
+1) Monitoring and processing of Halted BPs. 
+
+2) Monitoring of Inbound errors and reporting the same to the vendors. 
+
+3) Setting up of AS2 Profiles for different Trading partners. 
+
+4) Creating the ST, GS and ISA Envelopes for different transactions. 
+
+5) Worked on EDI transactions 850, 860, 810, 856, 204, 214, 820, 852, 
+
+855, 864, 990, 997 etc. 
+
+6) Identify the root cause for many regularly occurring issues and 
+
+provided new enhancements for them. 
+
+7) Updating certificates at the time of expiry and also removing expired 
+
+certificates from the SI system. 
+
+8) Generating the daily and Weekly Status Reports. 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Awards and Certification: 
+
+ 
+
+ 
+
+ Awarded the “IBM PINNACLE” award from Client & IBM team, for 
+
+successfully delivering a high business impact file transfer program, also got 
+
+“One TEAM” best team award from Client for successful completion of 
+
+Migration project. 
+
+ Awarded the “Put the Client First” Award for successful completion of the 
+
+client expectation & also received “Deep Skill Adder” Awards from IBM for 
+
+my skills & performance.  
+
+ Awarded the ”Retail_CZAR” award from Cognizant for my excellent 
+
+performance and keeping up to the client expectation. 
+
+ Awarded the “Above & Beyond the Call of Duty” from client for my work in 
+
+the migration project. 
+
+ Received the “ASP Oscar award” from ASP- BPI Practice from Cognizant. 
+
+ Certified in IBM Sterling B2B Integrator V5.2, Solution Implementation 
+
+with a score of 98%. 
+
+ CCP certified in Java Programmer and also L1- Retail from Cognizant 
+
+Internal Certification Programme. 
+
+  As part of the Practice Connect Core team, I am involved in the Knowledge 
+
+Management initiative activities for the practice and have received Word of 
+
+Appreciation Certificate for my good work.  
+
+ Trained internally in Core Java, Oracle 10g, EAI- EDI, Testing and also 
+
+certified in CAST Software Testing from QAI.  
+
+    
+
+Academic Qualifications: 
+
+ 
+
+Degree Course Year Institution Percentage 
+
+BE 
+Electronics 
+
+&Communication 
+2010 
+
+Anna University, Chennai 
+76 
+
+HSC Computer Science 2006 
+TamilNadu Higher Secondary 
+
+Education Examination Board 
+80 
+
+SSLC 
+State Board of 
+
+Tamilnadu 
+2004 State Board of Tamilnadu 91 
+
+ 
+
+ 
+
+OTHERS:  
+
+ Father Name   : M KUMARESAN  
+
+ Date of Birth  : 05-08-1989 
+
+ Passport No.  : J2505015   
+
+ Languages Known : Tamil, English 
+
+ Interests  : Reading, Listening Music, Watching Movies 
+
+ Nationality    : Indian                       
+
+

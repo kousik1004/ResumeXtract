@@ -1,0 +1,224 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Manish Deshmukh
+
+E-mail: mandeshmukh@gmail.com        
+Phone: +1 949-501-5266 
+
+	
+     
+	
+
+
+
+
+					
+SUMMARY: 
+
+· Sun Certified Java Programmer and Web Component Developer
+· 8 years of extensive experience in the areas of Analysis, Design, Coding, Testing,  Maintenance, Support, Release and Documentation of web applications using Java and J2EE Technologies
+· 4 years of working experience in Agile Development process for diverse requirements
+· Experience in leading and mentoring team, prioritizing and assigning tasks, tracking work, and status reporting
+· Hands on experience in Java, J2EE, Spring Framework, Web Services (SOAP), Hibernate and Object Oriented Programming 
+· Experience in application integration with third party tools like Crystal Reporting and CyberArk
+· Experience in analysis and transformation of application from Solaris to Linux 
+· Experience in application integration with new tools for continuous integration and delivery automation 
+· Experience in designing and developing Autosys batch jobs to systematically send data to the integration team through Managed File Transfer process
+· Highly skilled in build, deployment and release management
+· Effective trouble shooting and technical problem solving and analytical skills
+· Ability to maintain and build client relationships, interact one on one with clients, business stakeholders and converse with all facets in the clients organization
+· Experience in managing small team in onshore – offshore delivery model
+· Worked for multiple vendors and in geographically distributed teams like US, UK and India
+· Self-motivated quick learner with strong interpersonal, technical, problem solving, strategic thinking skills and leadership abilities
+
+
+TECHNICAL SKILLS:   
+
+Java Basics: Core Java, JSP, Servlets
+Java Application Frameworks: Spring Framework (Core, AOP, DAO, Integration, Boot), Struts
+Java Middleware Technologies: Web Services (SOAP)
+Java Backend/ ORM Technologies: JDBC, Hibernate, Spring DAO (JDBC, Stored procedures)
+Web Development Technologies: AJAX, HTML, CSS, JavaScript, JQuery, JSON
+Database Technologies: SQL, Oracle
+IDES/Tools: Eclipse, STS, TOAD, JExplorer, SOAPUI, Postman
+Platform: UNIX, Windows
+Others: SVN, Perforce, Quick Build, Bitbucket, Bamboo, XLDeploy, XLRelease
+Server: Weblogic and Tomcat
+
+
+Educational Qualifications: 
+
+· B.E. (Computer) in the year 2008 from Pune University with Distinction (70.50%)
+· H.S.C. in the year 2004 from Nashik Board with Distinction (82.00%)
+· S.S.C. in the year 2002 from Nashik Board with Distinction (84.26%)
+
+
+Professional Experience:   
+
+Infosys Limited
+
+Client: Capital Group of Companies USA                                                                  Oct 2012 – till date www.thecapitalgroup.com	
+Project: RPS (Retirement Plan Services)						
+Role: Technology Associate (India) and Technology Lead (USA)
+
+Capital Group is investment management organizations, as part of their investment portfolio they provide retirement plan services to their customers. 
+RPA - RPA is internal website of CG associates to fulfill their customer services. RPS involves end to end services to manage retirement plans offered by Capital Group. It involves plan initiation, activation, maintenance, termination, document tracking, correspondence, contacts management services. Along with that it interfaces with multiple upstream and downstream CG applications.
+CBTOPS - CBTOPS is a workflow management and tracking system, designed to support CB&T Operations, image and paper processes. It interfaces with AWD (Automated Work Distribution) which is a DST system product.
+RA – Resource Advantage is a documentation application designed to consistently manage project-related work across all teams. It mostly involve event handling and associated project management work for recordkeeping and audit purpose.
+	
+Responsibilities:                                                           								
+· Requirement analysis and design
+· Prepare high level and low level technical documents
+· Work closely with Business, architects and other teams to deliver best possible solution
+· Design and develop new application feature as per business need
+· Participated in code and design reviews sessions 
+· Unit test case preparation, provide testing support to QM team
+· Involve in unit and integration testing
+· Use automated build scripts to compile and package application
+· Involve in release and audit document preparation
+· Involve in application release and deployment activities
+· Participate in training and knowledge transitions
+· Interact with multiple team during life cycle of project
+· Quick resolution of issues in an Onsite-Offshore model
+· Participate in agile meetings, sprint planning, sprint review and retrospective session
+· Maintain different Unix and database environments
+· Coordinate between onshore and offshore team members
+
+Environment: Core Java, J2EE,  Struts1.x, Hibernate 3, EJB, Unit, Servlet, JSP, Weblogic 12c, Web-Service(SOAP), Oracle, TOAD, Autosys, Unix, JSON, ANT, LDAP, Unix, Quick Build, Release dashboard, JIRA, BitBucket, Bamboo, XLDeploy, XLRelease.
+
+
+HSBC Global Technology
+
+Client: HSBC	                                                                                                              Jul 2012 - Oct 2012
+www.hsbc.com	
+Project: ECARE						
+Role: Technology Associate
+
+ECARE is agent portal to fulfill HSBC’s different customer services. ECARE involve services like managing customer care, provisioning of soft and hard tokens, activation and deactivation of different security devices etc.
+
+Responsibilities:                                                           								
+· Requirement analysis and design
+· Development and bug fixing
+· Unit test case creation
+· Unit and integration testing
+· Build and deployment
+
+Environment: Java, Spring MVC, Spring JDBC, R2DS, WebSphere 7, Oracle
+
+
+Tech Mahindra Limited
+
+Client: British Telecom	                                                                                        Aug 2010 - Jul 2012 www.bt.com	
+Project: Selfcare Portal						
+Role: Technology Associate
+
+BTGS Selfcare is a secure self-service customer portal provided by BT to enable the Customer to view the status of their Virtual Data Centre (VDC) platform. This portal is the front end system which provides the customer way to design and configure VDC. Customer can order, create, modify, monitor and manage their Virtual Data Centre. It also allows the Customer to manage some of the function of their managed hosting platform and interact with BT Service Desk - raise trouble tickets, view existing tickets etc.
+	
+Responsibilities:                                                           								
+· Create low level design document
+· Handling/Attending component level design calls.
+· Development and bug fixing
+· Compile and build application with the help of LuntBuild
+· Check code quality with the help of code quality tools like Checkstyle, PMD, findbugs
+· Unit testing and testing support 
+· Release and Deployment activities
+
+Environment: Java, JDK 1.5, JSP, Servlets, Spring MVC and Spring JDBC, LDAP, JExplorer, ANT, Eclipse, SVN, HTML, CSS, JQuery, YUI, Weblogic 9.2, Log4j, Oracle, LuntBuild
+
+
+Client: British Telecom	                                                                                       Mar 2010 - Aug 2010 www.bt.com	
+Project: BT.com LCS						
+Role: Technology Associate
+
+Tech Mahindra provides Life Cycle Services (LCS) to BT.com (www.bt.com). LCS includes application support activities during the different SDLC phases until the application goes live. The different arms that LCS comprises of Environment, Build & Configuration Management, Database Administration, Server Administration and Integration Management
+	
+Responsibilities:                                                           								
+· Perform regular Build, Configuration and Deployment activity.
+· Administration of application servers and web-servers.
+· Provide supports to Dev, E2E testing and VVnT teams during the end to end life cycle of application development.
+· Analyze and resolve Build, configuration issues encountered.
+
+Environment: Weblogic 9.2, Cruise Control, UNIX, Shell Script, ANT, Java
+
+
+Clearpoint Learning System                                                                            
+
+Client: Johnson and Johnson                                                                                       Sep 2009 – Mar 2010 www.clearpointlearning.com	
+Project: IAPP (Information Asset Protection Policy) 					
+Role: Software Programmer
+
+Clearpoint Learning System (recently acquired by red nucleus) offers strategic, data-driven learning and training solutions for the life sciences industry. IAPP was J&J project to make employee aware of information assets of company and their right use.
+	
+Responsibilities:
+                                                      								
+· Develop new E-learning template, bug fixing
+· E-learning course production with the help of inhouse tools like CLSV2, comCoach
+· Deployment of courses on LMS 
+
+Environment: Adobe Flash Mx 2004, Action Script 2.0, HTML, XML
+
+
+
+Personal Information:
+
+Date of Birth 		18th Oct 1986
+Current Address	573 Oak Glen, Irvine, California, USA - 92618
+Permanent Address	601, Nakshtra M, Chinchwad, Pune, India - 411019
+
+
+
+									
+
+
+Manish Deshmukh
+
+

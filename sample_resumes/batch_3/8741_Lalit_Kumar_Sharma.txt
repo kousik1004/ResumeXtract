@@ -1,0 +1,315 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Professional Profile
+
+	
+	
+
+
+Lalit Kumar Sharma
+
+
+         B-726, Avantika, Sector-1,  
+         Rohini, New Delhi, India                                                                               
+                         Mobile : +91-9560746333/9213241777
+                                                                                                       Internet : lalit.m2003@gmail.com
+Professional Profile
+Lalit Kumar Sharma has 17+ years of experience in the IT industry. He has pioneered solutions that helped the clients in achieving the fully automated solutions at low cost. 
+He worked mainly as cloud Architect and cloud engineer on Public, Private and Hybrid Cloud (Amazon AWS on Iaas and Paas), OVM, Oracle Cloud) and Oracle Database administrator/Consultant. Along with that he is having good experience in automation using shell/Perl and different DevOps tools. He is having good experience on cloud security and Performance Tuning.
+He is involved in migrating legacy application and databases to cloud and vice-versa.  
+He also has deep expertise on client management, understanding the technical and functional architecture of the applications, providing solution to the client for existing/new applications with low cost solutions. Involved in technology strategy, cloud computing, 
+He is certified in Amazon AWS solution Architect associate, AWS Sysops Admin Associate. AWS Developer Associate, Oracle (OCP 11g, 10g, 9i and OCE 10g), PMP and ITIL.
+
+Below is summary of his IT experience.
+· Overall 17 years of IT experience across different industries/domains as Cloud Engineer & Cloud Architect, Database Administrator and DevOps/Automation Architect.
+· Nearly 10 years of experience in Consulting, Strategy and solutioning. 
+· More than 5 years of experience in Cloud (Amazon AWS, Oracle cloud and MS Azure on IaaS & PaaS).
+· More than 3 years as DevOps Architect
+· More than 4 years of experience in Virtualization (OVM)
+· Nearly 15 years of experience as Core/RAC DBA
+· More than 10 years of experience Project/Team lead.
+· Having good experience in automation using Shell, PL/SQL& Perl.
+· Experience in designing infrastructure architecture on cloud for different clients	 	
+· 5+ years of experience in migrating applications & databases from legacy environment to cloud 
+· 10+ years of experience on performance tuning for databases and applications
+· Good experience in RFP response, estimates and providing solutions to new projects. 
+· Good experience in providing solution for the infrastructure and application monitoring tools
+· Experience in handling team of 50+ resources.
+
+Professional Experience:
+· Working as Cloud Architect Manager in Accenture India from Feb 2011
+· Worked as Sr. Consultant with Tricore solutions from Aug 10 to Aug 11.
+· Worked as Sr. System Engineer (IT specialist) with IBM from Jul 07 to Jun 10.
+· Worked as Technical Support Engineer with Ismart Panache from Sep 06 to Jun 07.
+· Worked as Oracle Developer with Aequor Technologies from Feb 06 to Aug 06.
+· Worked as Sr. DBA with Target Technologies from Oct 02 to Feb 06.
+· Worked as PL/SQL programmer with Softarc from July 2000 to Sept 02.
+
+Onsite Experience:
+· Worked with Elsevier in Amsterdam, NL for OPSBANKII project for duration of 3 months.
+· Worked with Greenplum in California, USA for Greenplum project for the duration of 3 months.
+· Worked with VNU in New York, USA on THR project for the duration of 4 weeks.
+
+Recent Accomplishments
+
+1) Project Name: Insurance Client
+Company	  : Accenture India
+Duration	  : Aug 2017 to Till Date
+Role	   	  : DevOps Architect
+	
+	We are working on assessment of existing DevOps model for different application. Along with that 
+we will implement new build pipelines (DevOps/CICD Pipeline) for one of the Insurance client. Client is having 1000+ application for which they want to setup automated CICD pipeline. We were responsible in implementation and integration of DevOps tool (Bitbucket, Git, Jenkins, TFS, VSTS, Sonarqube), analyzing their existing DevOps tools and pipeline, implementing new CICD pipeline for Microsoft based applications. 
+Along with that we will be responsible to migrate of their existing code, artifactory and databases to Amazon AWS cloud to PaaS and IaaS model. 
+
+
+2) Project Name: OES Capabililty
+Company	  : Accenture India
+Duration	  : Mar 2016 to Aug 2017
+Role	   	  : Cloud Migration Lead
+	
+	As part of the OES I was primarily responsible of migration of database and applications to cloud 
+(AWS, Azure and Oracle cloud for both IaaS and PaaS). Along with that we are responsible for 
+designing VPC for new clients and PoC from scratch, designing security strategy, automatic 
+infrastructure provisioning using infrastructure as code (IaaC). 
+I was mainly involved for healthcare clients to provide solution for existing applications or new 
+applications, migration of databases and applications, providing support and handover to 
+operations team. 
+ 
+3) Project Name: TMO
+Company	  : Accenture India
+Client 	  : CMT client
+Duration	  : Sept 2014 to Feb 2016
+Role	   	  : DevOps Lead
+	
+TMO is one of the largest telecom service provide in US. We are supporting their presentation, application and middleware layer on public cloud (Amazon AWS). 
+I was responsible for leading the DevOps and cloud streams. I was primarily responsible for designing the architecture for new application/VPCs, designing strategy for backup and recovery, Cloud Security, implementation of DevOps tools on the platform, performance tuning of databases and applications, DB migration, Database Security and Infrastructure Support. Along with that I was leading a team of DBAs, Linux and Cloud experts who are responsible mainly to support applications and databases on AWS. 
+
+4) Project Name: APTP
+Company	  : Accenture India
+Client 	  : Secbus 
+Duration	  : Mar 2014 to Aug 2014
+Role	   	  : Sr. Consultant
+	
+Secbus is one of the largest giant in banking/finance domain. We were building solution for post trade processing solution for the client. 
+My role was to design DB (RAC) architecture and DR solution for the client. Along with that I was responsible to design the service management and incident management processes for the DBA team to handle day to day incidents. 
+	
+5) Project Name: ACHP
+Company	  : Accenture India 
+Client 	  : Accenture India
+Duration	  : May 2011 to Mar 2014
+Role	   	  : Cloud Engineering Lead
+	
+ACHP (Accenture connected healthcare program) is one stop solution for the healthcare industry. We are responsible to provide solution to different hospitals for Australian Government. The whole stack of ACHP was built on top of Oracle products/stacks like (IAM, SOA, Portal, DB, OSB etc) running on top of virtualization/Cloud (Amazon AWS and OVM). 
+I was responsible for designing the architecture of infrastructure architecture for applications, Webserver/portals and databases. Along with that I was responsible for giving the solution to migrate their databases and applications from legacy environment to Amazon AWS or Oracle VM (OVM) and giving them support on infrastructure level. 
+
+6) Project Name:  OCT1
+Company	  : Tricore Solutions LLC
+Client 	  : Handling multiple clients 
+Duration	  : Aug 2010 to Feb 2011
+Role	   	  : Sr. Consultant
+	
+OTC1 team was responsible to support multiple clients like Gartner, Aps, and Zipcar (50 clients). We were primarily responsible for giving DBA support for their production and non-production databases (Clustered, standalone) running on running on Linux, Windows, Solaris and AIX.
+
+7) Project Name:  PS Upgrade
+Company	  : IBM
+Client 	  : Polycom, USA
+Duration	  : Dec 2009 to Jun 2010
+Role	   	  : Sr. Oracle DBA  	
+
+Polycom is one of the biggest provider for video conference instruments. The project is to upgrade the PeopleSoft financial application. This application is upgrade of the existing financial application to new PS version with some enhanced features. 
+I was working as Sr, DBA cum team lead to maintain the existing database and create new databases.
+
+8) Project Name: OPSBANK II
+Company	  : IBM
+Client 	  : Elsevier, Netherlands
+Duration	  : Oct 2008 to Nov 2009
+Role	   	  : Sr. Oracle DBA   	
+
+Elsevier is one of the leading publishing house in the Europe. They have their legacy applications running on old environments with limited functionalities. They want to migrate existing applications running on OPSBANK I to OPSBANK II. The older database is running DBASE while the new database is designed on Java and Oracle. 
+I was responsible to migrate their databases from old legacy environment to new enhanced environment.
+
+9) Project Name: Billing Transformation
+Company	  : IBM
+Client 	  : Bharti, India
+Duration	  : Jan 2008 to Aug 2008
+Role	   	  : Sr. DBA   	
+
+Bharti Airtel is leading telecom provider in India and Sri Lanka. IBM was managing their end to end IT solution. Client was using Kenan FX product for billing solution. Kenan FX is working as a middleware that uses oracle as backend. My role is to manage the databases for the testing and development teams. 
+
+10) Project Name: NNN
+Company	 : IBM
+Client		 : NNN, USA	          		     						 
+Duration        : Oct 2007 to Jan 2008
+Role	   	 : Sr. DBA 
+ 
+NNN (National newspaper network) is US based company. They want to build new application using SAP. My role was to migrate & normalize the existing database of NNN. The database is used by the Planning Tool. This tool is for newspaper industry NNN that receives order from various companies to advertise their product in various parts of US. The application is developed in SAP which is using the oracle as backend.
+
+
+11) Project Name: GreenPlum
+Company 	  : Ismart Panache
+Client		  : Greenplum, USA          		     				
+Duration	  : Sept 2006 to June 2007
+Role		  : Team Lead
+
+GreenPlum (Acquired by EMC now) was US based company working in Analytics domain. They had GreenPlum DB used for the DW. Product was based on non-shared architecture running on various platforms. The product support is for Linux, Solaris and Mac platform. Along with Support, POC (proof Of Concept) and PS (Professional Services) is also a part of the project.
+It is total involvement of client interaction and there implementations in Greenplum database based on the online system of 24 X 7 support. His role was as a core Greenplum database administration and basic administration of Oracle database. 
+
+
+12) Project Name: The Hollywood Reporter
+Client		  : Vnu, USA
+Comany 	  : Aequor Technologies
+Duration	  : Feb 2006 – Aug 2006 
+Role		  : DBA 	 
+
+Project objective is to give support for Core Oracle database administration for 
+VNU E-media. Its servers were based in US and it was total involvement in the client interaction on ticket based system called JIRA. It was one of the big system with many databases on a single system of the Solaris. 
+
+13)  Project Name: Voltrow
+Client  	 : Voltrow, India
+Company	 : Target Technologies
+Duration        : Oct 2002 to Feb 2006
+Role		 : Sr. DBA 	 
+
+The objective of the project is to automate the office work of Voltrow. They are using this software to manage the inventory for the electronic goods manufactured in there company.
+Along with this some other modules are sizing, weaving and payroll.
+
+14) Project Name: Voltronics
+Client  	 : Voltronics India
+Company	 : Softarc INC
+Duration	 : Jun 2000 to Oct 2002 
+Role		 : Developer 
+
+The objective of the project is to design the front end used to automate the office work of Voltronics India. They are using this software to manage the inventory for the electronic goods manufactured in there company
+
+
+Awards and Recognitions
+
+· Awarded with Bravo award for NNN project in IBM.
+· Special recognize certificate from Ismart Panache.   
+· Outstanding performance certificate from Target Technologies.
+
+Trainings & Certifications:
+
+· Trained on customer communication and sales support.
+· Trained on Delivery management, Service transition
+· Trained on Adobe CQ, Tibco, IBM WCS, Oracle products like SOA, OSB and DB
+
+	Certificate
+	Year
+
+	Amazon AWS Solution Architect Associate
+	2017
+
+	Amazon AWS Sysops Admin
+	2017
+
+	Amazon AWS Developer Associate
+	2017
+
+	PMP
+	2014
+
+	ITIL Intermediate(SD & SO)
+	2014
+
+	ITIL Foundation
+	2013
+
+	OCP 11g
+	2011
+
+	OCE 10g RAC 
+	2008
+
+
+
+
+Educational Background
+	
+Degree/Diploma 
+	Duration
+	University
+
+	M.Tech(IT)
+	2005-2007
+	IASE
+
+	Master in Computer Application
+	2002-2003
+	MDU, India
+
+	Master in Computer Science
+	2001-2002
+	MDU, India
+
+	Post Graduate Diploma in Computer Application
+	1999-2000
+	Delhi University, India
+
+	Bachelor in Science (Physics) Hons
+	1996-1999
+	Delhi Univsity, India
+
+
+
+
+Personal Details:
+
+Date of Birth:				17-Oct-1978
+Passport Number:			J6701665
+Father’s Name:				D.C.Sharma
+Marital status:				Married
+Kids:					2
+PAN Number				BBQPS3371E
+Notice Period:				3 Month
+
+
+(Lalit Kumar Sharma)
+1
+

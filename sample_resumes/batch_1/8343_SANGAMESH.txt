@@ -1,0 +1,290 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+
+Sun Certified Java Programmer (SCJP 1.5)
+                                                       SANGAMESH 
+Mob No: 91-8805059389
+Email: sangamesh.reddy85@gmail.com
+  
+4 years of Exp in Java & J2EE Specification & Good working knowledge in Telecom and Banking Domain.
+Skills Summary
+ 
+	   Design skills
+	GOF Design patterns,
+
+J2EE Design pattern, MVC architecture.
+
+	Java 
+	Lang package, Collections, Multithreading, RMI.
+
+
+	J2EE/Frameworks
+	JDBC, Servlet, JSP,Hibernate, Struts, Spring ,RESTful WebServices, JSF , Liferay portal and JNDI.
+
+	App/web Server
+	JBoss 4.02, Oracle OC4J, Apache Tomcat.
+
+
+	HTML/XML
+	HTML, XML, JAXB.
+
+
+	Scripts
+	Java Script.
+
+
+	I.D.E
+
+
+	Eclipse, MyEclipse and Jdeveloper.
+
+	Database & Tools
+
+	Oracle 10g.
+
+	Deployment & Testing
+	Maven, Ant, Junit, RestClient.
+
+
+	Tools
+	Log4J, Jmeter, Jprobe (Performance Testing).
+
+
+
+Work Experience
+
+
+
+                              
+   Jan 2008-Till date
+	Company
+
+Position
+	InfraSoft Technologies Ltd, Pune. (June 2010- Till date).
+(Transition from KPIT Cummins Infosytems Ltd).
+Senior Software Engineer.
+
+	Previous
+
+Companies
+	1. StrumSoft India Pvt Ltd, Bangalore. (Jan 2009 – June 2010)
+2. NBiton Solutions Pvt Ltd,Bangalore (Jan 2008 – Dec 08 )
+
+	Achievements & Involvements
+	Design and Developing on        
+
+- NGP.
+	  Designed and Developed on                                                - WSG-NAB and GIBS.
+
+
+
+Education Qualification
+
+	B.E in Electronics and Communication from VTU, Karnataka.
+
+
+Projects Experience
+Project #1                                                                                     Client: MBolx (UK)
+	            Project  Title  
+	           “NGP”
+
+	           Technologies
+	          Core Java, JSF, Spring, Hibernate ,Liferay Portal , Web Services,
+
+          Junit, Mockitos.
+
+	           Database
+	          Oracle 10g.
+
+	           I.D.E
+
+	  Eclipse 3.4
+
+	           Server
+	Glassfish.
+
+	           Role
+	          Developer         
+
+
+Project Details:
+NGP (NEXT GENERATION PLATFORM) This system comprises of 2 sub systems – NGP Engine & NGP Portal. 
+
+mBlox is a large SMS aggregation company. The NGP Programme aims to re-platform the business and will deliver a new core engine to manage client transactions. This will support MT, PSMS and future platforms. There will be support for all products in the new operational platform. 
+
+There will also be an internal/external Portal which will support provisioning data, searching, viewing and control reporting. This will also communicate with the aforementioned new core engine.
+
+ As a developer I am in part of following activities
+· Writing DAO’s using Spring ORM (hibernate).
+· Creating portlets for searching and viewing.
+· Writing test cases using Junit and Mockitos.
+· Define scope of 2 weeks sprint and provide the estimation to the lead.
+· Bug Fixing on various modules.
+· Creating the design document for the UI screens.
+Project #2                                                                          Client: Verizon Wireless
+	            Project  Title  
+	            “WSG-NAB”
+
+	           Technologies
+	          Core Java,Spring, Hibernate, RESTWebServices and JAXB.
+
+	           Database
+	          Oracle 10g.
+
+	           I.D.E
+
+	  Eclipse 3.4
+
+	           Server
+	Tomcat 6.2.0.
+
+	           Role
+	          Developer         
+
+
+Project Details:
+WSG-NAB (WEB Services Gateway-Network Address Book) is a Web Service API allowing network access to the FusionOne/Verizon Network Address Book service. The API uses HTTP as its transport layer and XML for the message payload. It provides the following features:
+1)
+Address Book Access and Management.
+
+a)
+Contacts Access and Management – i.e. retrieving, adding, deleting and updating contacts.
+
+2)
+Contacts stored in the user’s main address book and the Recycle bin address books are accessible via this API.           
+
+  As a developer I am in part of following activities
+· Writing the resource classes (RESTful Services).
+· Performance testing of web services (Using Jprobe).
+· Played extensive role in improving Performance of the application.
+· Writing Service layer for various modules.
+· Bug Fixing on various modules.
+Project #3                                                                                  
+      Client: IBQ
+	            Project  Title  
+	            “GIBS”
+
+	           Technologies
+	           Core Java, Servlet, JSP, Java Script, Struts, Hibernate.
+
+	           Database
+	           Oracle 9i.
+
+	           I.D.E
+
+	    Eclipse 3.2
+
+	           Server
+	 JBoss 4.04
+
+	           Role
+	            Developer         
+
+	           Team Size
+	            18
+
+
+Project Details:
+
+GIBS (Global Investment Banking Services) is a web-based application that is developed on the guidelines of the existing high yield client-server application aimed at catering the Banking needs. This web application stores all the data about the bank clients, all the business related Information and all the online transactions. It provides UI for viewing, editing and modifying the data. It also has the role-based access for the security. Depending on the role given to the user ID it gives/removes access to different parts of the application.
+Role: 
+· Done Validation using JavaScript.
+· Log4j Frame work is used for logging.
+
+· Developed web pages using struts frame work.
+· Done Unit Testing of Application using Junit.
+Career Objective:
+    To build commercial JAVA/J2EE Systems with the view to learn and apply best practices, standards and the development team objectives to thrive in a dynamic environment.
+
+Personal Profile
+	Date of Birth
+	10-June-1985
+
+	Father’s Name
+	late Gurunath Reddy.
+
+	Gender
+	Male.
+
+	Languages Known
+	English, Kannada and Hindi.
+
+	Nationality
+	Indian.
+
+
+	Marital Status
+	Single.
+
+	Passport
+	G4158600.
+
+
+I declare that the information given above is true to the best of my Knowledge.
+Date  :
+
+Place :  Pune
+
+
+
+
+
+
+              SANGAMESH
+
+
+
+
+
+
+
+
+PAGE  
+1
+

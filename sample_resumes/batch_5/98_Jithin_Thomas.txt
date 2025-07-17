@@ -1,0 +1,206 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jithin Thomas
+JITHIN THOMAS
+SAP ABAP Developer/Consultant
+jithinthomas9180@gmail.com
+Cell : +919961231436
+Kerala,India
+LinkedIn: https://www.linkedin.com/in/jithinthomas1991
+
+Profile
+Seeking a challenging and rewarding career in IT as a software programming professional where I can contribute my knowledge and skills for growth and development of the organization and to be able to implement solutions that meet the customer requirements using my software development skills and technical expertise.
+
+Competency
+· Outstanding knowledge of SAP ABAP  and Worked in HR , FI, MM, SD, PP.
+· Extensive experience in Implementation,upgrade,support and rollout projects .
+· Experienced with SAP 4.7,ECC6 and Netweaver and Eclipse Platform .
+· Experience in RICEF developments .
+· Classical , Interactive , ALV ,OOPs ALV ,  Object Oriented Programming .
+· ALE-IDOCs, RFCs.
+· Data transfer methods including BDC ,LSMW, BAPI.
+· Enhancement Frame Work (Implicit and explicit) ,BADI,User Exits, Customer Exits.
+· Smart forms, Scripts, Adobe forms.
+· Creation of custom Infotypes and Enhancements to standard Infotypes.
+· Good knowledge in working with LDB’s and INFOTYPES,MACROS ,payroll schema .
+· Basic knowledge in ESS Configuration. 
+· Routines (Pricing Procedure).
+· ABAP workbench, Transporting systems (SE10, SCC1, STMS), Up-gradation Assistance.
+· SAP OSS Note Implementation (SNOTE).
+· Experienced in Web dynpro ABAP programming and adobe form .
+· Data migration experience from legacy system to new system.
+· Provided critical production support (P1 and P2 tickets), enhancement and development projects and Implementation projects .
+· Knowledge in HTML5, CSS3, SQL, C++, JavaScript. 
+
+
+
+
+
+
+
+
+Career Overview
+
+ABAP Consultant/Developer  		                                                         Apr17 |Present
+SAVIC Technologies Pvt.Ltd.                                                                                     Bangalore, India.
+Client:Kirloskar,Bhartiya,Cravatex,Bismi
+
+· Requirement gathering, Technical design, Developing, Code Reviewing and Unit Testing ABAP application.
+· Successfully handled development, testing and delivery of reports, transactions, forms,BDCs, BADI, BAPI and enhancements.(User exits , customer exits , Enhancement Framework) .
+· Done the GST Implementation for 3 clients.
+· Done 2 support projects.
+·  Implemented various oss note for GST and had worked on many standard badis.
+· Created many badis ,user exits, customer exits for me221n,va01,etc.
+· Done the complete migration of GST from dev to production(stms_import).
+· Used bapi for purchase order creation for multiple line items using 'BAPI_PO_CREATE1'.
+·  Used bapi for closing of PO by checking the delivery completion check box
+ (no_more_gr )BAPI_PO_CHANGE.
+· Done BDC Upload for various transactions such as ME21,VA01 etc.
+· Created implicit enhancement for Cj40 for  validation against WBS element.
+· Developed customer ageing report with the billing plan using milestones.
+· Developed a bdc for sales order creation with billing plan.
+· Developed Badi for me21n for validation the vendor against the GST Registration number. (ME_PROCESS_PO_CUST).
+· Developed smartforms for different type of PO,Debit note ,credit note etc.
+· Created smartforms for PO,Invoice,Payement Vouchers,Bill of supply.
+· Created the pricing routine and condition value using VOFM and had done given this pricing routine for v/08.
+· Created a program to generate the picklist number and based on that picklist number another report was made to do the post goods issue.
+· Created module pool for a complete MM process(Retail).
+·  S4 HANA Implementation for retail for BISMI Client.
+
+
+
+ABAP Consultant/Developer  		                                                         Sep 14 |Nov16
+Eternity Solutions Inc.                                                                                                Toronto, Canada.
+Client:Contax
+
+· Requirement gathering, Technical design, Developing, Code Reviewing and Unit Testing ABAP application.
+· Successfully handled development, testing and delivery of reports, transactions, forms,BDCs, BADI, BAPI and enhancements.(User exits , customer exits , Enhancement Framework) .
+· Coding and Creation of Unit Test Plans (UTP) for the objects developed.
+· Customized Infotypes and Tables creation and Created Function modules.
+· Developed an Inbound Interface to upload HR Master Data to infotypes like recurring payments/deductions, date specification of employees using transaction code ‘PA30’.
+· Created custom infotype of type PA with subtypes and assigned default values, Validations.
+· Enhanced standard Infotypes as for the client requirements (Enhanced using user-exit PBAS0001).
+· Experience in creating Data Dictionary objects including Tables, Views, Table Maintenance.
+· Created pricing routines RV61933 in SD for triggering re-pricing when the discount conditions change.
+· Created various interactive reports using ALV classes and function modules using Object oriented approach.
+· Creating Personal and Custom screen using Dialog and Module Pool Programming.
+· User-exits were implemented in MV45AFZZ in order to take care when the discount conditions are entered.
+· Created programs to upload data in SAP using Sessionsand Call transactions.
+· Creation and modification of scripts and smart forms  .
+· Creation of Custom report for Replenishment Planning for Fixed Bins, which shows the replenishment in the simulation mode for the users.
+· Creation of smart form.
+· Development of BAPI in order to communicate between the HR layer and the SAP APPL layer.
+· Uploaded data using LSMW.
+· Interactive report showing summary and details of Sales Incentives for eligible employees. Paid incentives can be cleared and tracked.
+· Generation and handling of employee travel expense reimbursement forms using Offline Interactive Adobe forms.
+· Performing Modification in SAP standard using SMOD and CMOD.
+· Automatic mailing of yearly statement to Vendors and Customers as PDF attachment Internal auditor maintenance was realized as per customer request Automatic printing of confirmation report to Customers about the delivery status prior to the delivery date using Back Ground Processing Technique and SAP Script.
+· Substitution for Cost center in Invoice tax items based on Plant and Tax code
+· Allows for easier payment to Vendors with cash. The due amount is rounded off to the nearest 50 (or defined value) so that cash payment is easier. Reversal of round off after payment is also implemented
+· Due date based ageing report for customers with dynamic bucket fill display depending on due period
+· Implemented OSS notes correction suggested by SAP using SNOTE transaction (uploaded .DAT file format).
+· Development of RFC function modules .
+· Developed reports in payroll and time management .
+· Assisted in solving IDOC issues .
+
+
+ABAP Consultant/Developer  		                                                              Jun-13|Aug-14
+CCS Technologies Pvt Ltd.                                                                                               Kottayam, India
+
+· Participated in requirement collection, requirement analysis, technical document preparation according to Functional documents provided by functional and imparting knowledge transfer to associates.
+· Provided SAP P1 and P2 support and maintenance of technical issues raised by MMPL users/consultants.
+· Communicated with the client & team on weekly status calls, Status updates, for receiving client and team inputs. .
+· Successfully handled development, testing and delivery of reports, transactions, forms, Function modules,RFCs, BDCs, BADI, BTE,webdypro, adobe forms, exits and enhancements for HR  ,FI, SD, MM and PP modules .
+· Developed classical and ALV Reports.
+· Developing Smart forms and script
+· Created and deployed different reports forFI.
+· Developing ALV Editable reports to update data in SAP.
+· Completed data migration from legacy system to new system during implementation.
+· Performed performance tuning of critical program which are essential for management reporting. 
+· User exit modification in userexit_save_document_prepare.
+· User-exit implemented in MV45AFZZ in order to take care when the discount conditions 
+are entered.
+· Creation of USER EXIT in the transaction va01 for validation of the orders created.
+· BADI created for XK01 enhancement.
+· Created pricing routines RV61933 in SD for triggering re-pricing when the discount conditions change.
+· Creating Interactive reports such as displaying the status of material stock based on Plant, Storage Location, Company Code and other parameters in ALV.
+· Uploading a raw data such as Material Master and Customer Master from Legacy system to SAP system through Batch Input Programs (BDC) and LSMW.
+· Generating documents such as Invoice, Purchase Order and other correspondences using SAP Script and smart form .
+· Background job creation for data uploads into production system.
+· Creating and Maintaining Transactions, Area Menus, ABAP/4 Dictionary Objects and Message Classes.
+· RFC created for excel data collection into SAP.
+· Webdynpro tcode creation for user entry in SD and save in SAP table .
+· Search help exit modification in SD.
+· IDoc modification in MM for PO created which is transferred to vendor .
+· Automatic clearing transaction development using Module Pool for any number of customers based
+on entry date of the line items.
+· Created Module programs using table controls and tab strip.
+· HR report creation using info types, logical database and macros.
+· Developed Smartform for customer invoice, Asset invoice, Gate pass, Voucher Payment form for Medical Reimbursement in HR for MMCL.
+· Developed Sap Script For Vendor Wise Bill Statement.
+· Modification of Custom SAP Scripts for Delivery Note, Pack note and preparation note by adding additional fields to the scripts.
+· Designed and developed various reports like Consumption Report, Stock Overview Report, Press Stock Overview Report and Breakdown Report etc.
+· ABC report generation for audit as MS Excel spreadsheet
+· Done reports to find the GR which are not invoiced from the stock.
+· Creation of Custom report for Replenishment Planning for Fixed Bins, which shows the replenishment in the simulation mode for the users.
+· Interactive report showing summary and details of Sales Incentives for eligible employees. Paid incentives can be cleared and tracked.
+· Mailing labels (Smart forms).
+· Creation of Module pool programs in Sales and Distribution.
+· Creation of interactive reports in ALV and classical List .
+
+
+
+Education
+Sep-12|Mar-13               Advanced Diploma in Real Time Embedded System
+Jun-08|May-12 	Bachelors in Technology (Electronics), India.
+References
+Available on Request

@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VITAE
+
+Resume
+Sruthi Kondannagari
+Contact No:  +91 9490989392
+Mail:    sruthi.0620@gmail.com
+________________________________________________________________________________________________________________
+Objective: To utilize my technical experience, skills and knowledge in an environment offering growth and to contribute for the success of an organization.
+Employment Summary: 
+· Feb 2015 – June 2016: HCL Technologies Limited, INDIA.
+· June 2016–July 2017:  HCL Mexico Inc. Mexico
+· July 2017 – Till Date:  Technologies Limited, INDIA.
+Professional Profile:
+· Around 3 Years of Experience in the IT industry that includes the complete system life cycle including Deployment and Maintenance.
+· Highly proficient IT professional with proven analytical abilities and organizational skills.
+· Excellent knowledge of Core Java, J2EE Concepts and standard coding practices.
+· Experience in Web Development using Java/J2EE technologies like Java, JSP and Servlets.
+· Well versed with Design Patterns like Creational Design Pattern’s.
+· Experience in developing SOAP and REST based web services.
+· Well versed with writing build .tgt files for Open Make build. 
+· Extensive experience in using application servers: Web Sphere Application Server 8.5
+· Expertise using tools such as Eclipse, IBM Rational Software Architect.
+· Expertise in monitoring the production logs through Splunk and debugging the issues.
+· Proficiency in Database concepts and hands on experience in using Mysql, IBM DB2.
+· Well versed with Agile and Scrum methodologies.
+· Knowledge on OAUTH framework.
+· Consistent on time delivery of projects/efforts in java/j2ee technologies with 95 - 100% customer satisfaction ratings.   
+Software Skills:
+A.  System Design and Development:
+           Analysis, Design, Development, Implementation, Maintenance
+B.  Software, Hardware and Technologies:
+· Languages: Core Java , SQL
+· Web/Internet Tools: JSP, J2EE, Web Services (SOAP,REST)
+· Databases: IBM DB2, Oracle
+· Frameworks: Spring CORE, MVC, DAO, ORM, Hibernate JPA.
+· Tools: Eclipse, RSA
+· Script: JavaScript
+· Application Servers: Web Sphere 7 & 8.5
+
+· Testing Tools: SOAP UI  
+Academics:
+· B.Tech (CSE) from JNTU, Hyderabad in April 2013. 
+
+· Intermediate from Racharlla Junior College, Gollapalli in 2009.
+· High School from ZPHS, Yellareddypet in 2007.
+Visa Info:
+
+· Have valid B1 visa 
+PROJECTS IN HCL TECHNOLOGIES
+
+Client: USAA (United Services Automobile Association)
+
+Started my career with HCL Technologies Ltd and started working with the client USAA. I was part of Application Security Infrastructure Development team which mainly focuses on developing and maintaining all the security related applications. I was part of several key projects in that area and am well versed with all the processes right from development to production deployment. 
+
+Hands on experience on IBM RTC to check-in our code and using the internal tools to deploy applications to different integration test boxes, creating the web sphere configs, moving code & configs to major TEST environments. Had extensive experience in monitoring the splunk for any application related issues. Being there in this project for around 3 years and working independently with the client directly, gave me good knowledge on the technologies and processes at the client place.
+Project # 1
+
+Project
+
+:
+Detour Service. 
+Client
+
+:
+USAA
+
+Role
+
+:
+Team Member.
+Technology
+:
+Core java, J2EE, REST, spring, Hibernate, Web Sphere 8.5
+Description:
+There are different business cases that a user has to be redirected to another application after successful authentication. Unless until, he acts on that application, he should not be launched into his accounts page.  This functionality has been implemented with Detour Service, which gets executed for each application to identify for any detours. Once the detour is identified, it redirects the member to appropriate application based on the configuration.
+
+The service has been implemented with REST API which was integrated with Token service(which get called after every level of authentication).
+Roles & Responsibilities:. 
+· Designed the Detour Service using REST API and presented it before the Governance Board
+· Write the implementation and integration of Detour Service. 
+· Created the Soap UI Test suite for the service to automate the testing.
+· Implement the Junit at auto build for the continuous integration testing part.
+
+· Monitored the splunk and fix all the defects if any.
+
+· Deployed application in WAS8.5 server and created configurations.
+Project # 2
+Project
+
+:        OAUTH Rest Authentication Service. 
+Client
+
+:        USAA
+
+Role
+
+:        Team Member
+
+Technology
+:        Core java, J2EE, REST, spring, Hibernate and Web Sphere 8.5
+Description:
+As Part of New Presentation Infra (HTML5, React and RedUX) implementation in USAA, all the interactions to the business logic have to happen using REST APIs.  The Authentication for a member is done by Rest Service API (Logon/PIN/Security Question/DRU) which is OAUTH authenticated service. So we write the implementation of all the Authentication REST service for all the Logon Mechanisms.
+
+Roles & Responsibilities:. 
+· Design the OAUTH Rest Authentication service. 
+
+· Write the implementation of OAUTH Rest Authentication service.
+
+· Automated the authentication services using the Soap UI test suite which runs in DRR.
+Project # 3
+Project
+
+:         Modularization of USAA infrastructure. 
+Client
+
+:         USAA
+
+Role
+
+:         Team Member
+
+Technology
+:         Core java, J2EE, Maven, Rest, JPA
+Description:
+In Modularization of USAA infrastructure we have change the existing USAA infrastructure in server agnostic way, we migrated all the existing USAA API in decoupled way  using new infrastructure design and implementation that can be use in both IBM and JBOSS environment .
+Roles & Responsibilities:. 
+· Design the new USAA infrastructure. 
+· Write the implementation of new infrastructure design.
+
+· Implemented the new infrastructure design to change the existing USAA API.
+Project # 4
+Project
+
+:           Logon refactoring & Detour Infrastructure
+Client
+
+:           USAA
+
+Role
+
+:           Team Member
+
+Technology
+:    
+Core java, J2EE, JPA
+Description:
+In Logon Refactoring we have to remove the old Logon Mechanism in USAA because it was very tight-coupled, here we have to provide the separate implementation of every Logon mechanism like Standard Logon, CyberCodeToken Logon, CyberCodeText Logon, DRU Logon, Face Recognition Logon, TouchID Logon, and Voice Logon.
+
+Detour is the hijack which is trigger by the application to complete some flow for member, here we developed the infrastructure  to find the applicable detour for member and trigger based on rules and priority .we also develop a tool for internal use to find a list of applicable detour for specify member in different channel.
+Roles & Responsibilities:. 
+· Writing the Implementation of Logon Mechanism.
+
+· Design the implementation of Detour Infrastructure. 
+· Write the Implementation of Detour Infrastructure.
+
+Project # 5
+Project
+
+:           Risk Based Authentication.
+Client
+
+:           USAA
+
+Role
+
+:           
+Team Member
+
+Technology
+:
+Core java, J2EE, Hibernate
+Description:
+
+RBA is mainly designed to have a centralized proofing system for all the applications in USAA.  With the old design of USAA, there is no centralized system to perform proofing for different critical functionalities. It had been done separately by the LOB applications. RBA is the solution to have a centralized proofing system, which decides the proofing elements based on the activity performed by the member. Once the answers for proofing elements are validated, RBA returns either ACCEPT or DENY performing the operation. 
+Roles & Responsibilities:. 
+· Implemented the logic to capture proofing information to db. 
+
+· Developed different implementations based on the design of the system.
+
+· Part of WebAuthCoordinator module to redirect the member to different security applications like OTC, Security Questions, PIN.

@@ -1,0 +1,172 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOUMYA RANJAN SAHU
+Mobile: + (91) 9778304230
+
++ (91) 7008464628
+Email- : sahu.soumya1989@gmail.com
+PROFESSIONAL SUMMARY
+A dynamic professional in Analytics (Data Science) with hands on experience for more than 4 years in statistical tool R. Successfully applied machine learning techniques like Regression (linear & logistic), Time Series Analysis, Decision Tree, Random Forest, Clustering etc to deliver business solutions. Also possess knowledge on Sentiment Analysis, Association Rule, Boosting, ANOVA and Chi-Square Test. Seeking challenging position to reach next level of career in Data Science. 
+ACADEMIC CREDENTIALS
+· 2013 –MBA in Finance and Marketing from National Institute of Technology, Rourkela.                   
+· 2011 –B.E. in Electronics and Communications from AMC College of Engineering, Bangalore.          
+· 2007 –12th from ST. PAUL’S School Rourkela. 
+· 2005 –10th from Chinmaya Vidyalaya Rourkela. 
+ROLES AND RESPONSIBILITIES
+Name of the organization
+TE Connectivity Services India Pvt. Ltd.
+Duration 
+March 2017 – Present
+
+Designation
+Statistical Analyst
+· Developed Time Series Models using R to deliver higher accuracy of Sales forecast for Business Units.
+· Prepared & executed statistical model to re-cost part materials by doing root cause analysis 
+Project-1: Time Series Analysis 
+· Gathered data of weekly and monthly sales for various business units.
+
+· Data Treatment and Exploration was done.
+
+· Made the dataset stationary by differencing and developed appropriate ARIMA and Holt Winters models.
+
+· Feasibility of the models were tested by comparing accuracy, different types of errors, P-value, AICs etc.
+
+· Best fit model was selected for future forecast.     
+· Other time series techniques like Exponential Smoothing, ARMA were also compared for feasibility of the ARIMA model.
+
+· Delivered the weekly and monthly forecasted values to respective business units.
+
+· Same procedure was also followed for to forecast sales of various regions under each business unit. 
+Project-2: Root Cause Analysis for Re-costing
+· Undergone team discussion and brain storming to understand the objective.
+
+· Appropriate plan for completion of analysis was developed.
+
+· Implemented the plan / logic to develop the desired model.
+
+· Sqldf, lapply etc are used to implement the plan / logic and to build the model.
+
+· Feasibility of the model was tested. 
+
+· Submitted the output i.e. list of route cause materials was delivered to the client. 
+Name of the organization
+National Institute of Technology, Rourkela
+
+Duration 
+from February 2014 to August 2016
+Designation
+Management Executive
+
+· Worked with Various POC pertaining to Logistic regression, Decision Tree and Random Forest
+· Preparation of various financial reports like Financial Monitoring Report, financial management indicator, action plan etc.
+
+· Preparation of various administrative reports like performance indicator, review mission indicator, target versus achievement review etc.  
+
+· Liasoning with National Project Implementation Unit - the sponsors about their need and get the works done accordingly
+Project-1: Operational Error in the Finance Department of NIT Rourkela
+
+· We followed logistic regression as the dependent variable was following binomial distribution i.e. Fault or Non-Fault, logistic regression was used.
+· We took Gender, Qualification, Age, Experience, Over Time etc as independent variables. 
+· There were about 350 observations.
+· We also analyzed the same data by using Decision Tree and Random Forest.
+
+· We tested the model by Cross Validation for over fitting / under fitting.
+
+· We used Confusion Matrix, ROC curve and AUC for Model Performance.
+
+Project-2: POC for first year dropout cases at NIT Rourkela
+
+· We followed various process such as 1.Data Treatment  2.Data Exploration 3.Data Modeling 4.Data Validation 5.Data Model Assumption 6.Feasibility of model
+
+· As Dependent variable was following Binomial Distribution, we used Logistic Regression.
+
+· We also analyzed the same data by using Decision Tree and Random Forest.
+
+· We tested the model by Cross Validation for over fitting / under fitting.
+
+· We used Confusion Matrix, ROC curve and AUC for Model Performance.
+
+Name of the organization
+
+National Institute of Technology, Rourkela
+
+Duration 
+
+from May 2013 to December 2013
+
+· Preparation of annual report which involved data collection (manual and online), graphical representation, composing and proof reading with publisher
+· Assisting in faculty recruitment process which involved organizing interview, management of logistic arrangements of committee members and preparation of different reports
+Internship Project on Retail Banking
+
+
+Central Bank of India, Kolkata
+Duration 
+
+May 2012 – June 2012 
+· Analysis of NIM (Net interest margin) of CBI Kolkata.
+
+· Risk management of NPA (Non-Performing Asset) and Recovery Initiatives.
+
+· Analysis of different cash flows, sources of expenses and income.
+
+· Analysis of different deposit and loan schemes to attract customers.
+
+TECHNICAL SKILLS
+
+· Proficient in R, MS-Office
+PERSONAL DETAILS
+
+Present Address
+ : Flat No- 301, Third Floor, Manish Manor Apartment
+
+                28th Main, JP Nagar Phase 6
+
+   Bengaluru, Karnataka - 560078

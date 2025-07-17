@@ -1,0 +1,361 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B
+
+Ramamohan Reddy
+                     
+
+
+
+
+
+
+
+
+
+
+SAP Business Objects Administrator
+krmsapbo7@gmail.com
+Contact: +91 9148931313
+PROFILE SUMMARY
+
+· Having 4 years of experience in the IT industry with 3+ Years hands on experience in Business Objects Administration.
+
+· Expertise in Business Objects Enterprise in BO Administration, Business Objects XI 3.0\ 3.1\ 4.0\ 4.1, developing reports and dashboards on Business Objects Xcelsius 2008, Dashboards 4.1, Web Intelligence.
+· Expertise in SAP BO Disaster Recovery, Backups, Clustering, Monitoring, Patch updates, Migrations, upgradation on different Landscapes.
+· Experience in working with business user teams to discuss, recommend, explain, and reconcile desired functionality and technology capabilities.
+
+EMPLOYMENT DETAILS
+· Mphasis
+
+                
+
+
+
+
+    ---       Oct 2016  to    Till Date
+
+· Computer Sciences Corporation (CSC)      ---
+  Aug 2013  to   Sep 2016
+ROLE & RESPONSIBILITIES
+· Business Objects Business Intelligence Installations, development challenges, migration challenges.
+· Played a key role in End to End Business Intelligence implementations.
+· Interacting with Business Users over requirement specifications.
+· Experienced in Installing of Business Objects XI 3.x and 4.x on Windows server 2003 platform and Windows Server 2008 & 2012.
+· Support for End Users on Issues, Incidents, Code Red Calls  and change Managements on Live Production 
+
+· Implemented Clustering in all the Environments.
+· Experienced in implementing SSO in configuring Windows AD, LDAP and SAP authentication.
+
+· Have done end to end BO 4.1 implementations for client Flower Foods.
+· Implemented Disaster Recovery in Business Objects 
+
+· Generated Query Builder Reports for Administrators(Security Admins\BO Admins)
+· Responsible for Promotion of reports with security for Dev\Q\Prod.
+· Setting up of access levels, creating folder structures and assigning appropriate rights to required groups and users.
+· Knowledge on creating sample universes and reports.
+· Expertise in identifying business requirements and transforming it into technical requirements and delivering solutions & support.
+· Good knowledge of Business Objects applications like LaunchPad, CMC, UDT, IDT, Upgrade Management Tool, Import Wizard and Life Cycle Manager \ Promotional management.
+· Backup & effort estimations, downtime calculations for Data Services & Business Objects upgrades, fix packs and patches.
+· Various documentations for performance tuning, pre installations and post installation steps of Business Objects Business Intelligence & Best practices.
+Projects
+Client:
+Mondelez
+
+
+
+
+
+
+
+
+
+
+                                                                  Oct 2016 – till Date
+Role: SAP BOBJ Administrator      
+
+Mode of the project: Support 
+
+Responsibilities:
+· Administrating, maintenance, security management and production supporting.
+· Managing the user rights on Business Objects Applications like Desktop Intelligence, Web Intelligence, Designer etc and Folder security for different group of users.
+· Involved in performance tuning of Business Objects Full Client and WEBI reports and published reports to WebI.
+· Creation of Folders in CMC and implementing security on various objects of CMC (folders, Applications, Universe and Connections).
+· Creating and maintaining the folder permissions.
+· Monitoring servers and services in a cluster.
+
+· Server Monitoring.
+
+· Scheduled the reports according to the user requirements based on the Oracle database connectivity.
+· Handling users for all their business objects production issues.
+· Handling Change Request ( CRQ's) and deployments for the universe and reports.
+· Working with SAP support for the production and severity 1 related issue.
+· Housekeeping activities.
+
+· Support third party connectivity of Business Objects.
+Client: Flower Foods
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 2015 –Sep 2016
+Role: SAP BOBJ Administrator      
+
+Mode of the project: Implementation and Support
+Responsibilities:
+· New BO distributed environment setup with 4.1 SP1.
+· Involved in end to end implementation from the beginning.
+· Updated the BO environment from 4.1 SP1 to 4.1 SP5 Patch2.
+
+· Performing Installation, Configuration, Performance tuning, SSO configuration, Designing security, Business Folder structure creation, Auditing & Monitoring setup etc.
+· Worked on installation of Design Studio Add–On Server Component.
+· CMC, CCM, SIA Administration, security groups, adding users, importing new BW roles and trouble shootings issues if any
+· Objects promotion through Promotion Management
+· Objects scheduling and Publication to File System
+· Resolving issues which are related to Universe, Connections and reports.
+· Developing Audit reports against to Oracle database based on client requirement
+· Rescheduled failed jobs and identified the root cause for jobs fail
+· Resolving various server, configuration issues and performance issues
+· End to End monitoring/health check of BOBJ landscape
+· Cache clearing in web & processing servers
+· Daily health checks, status mail, applying patches/Support packs.
+· Identifying bugs in development and coordinating with SAP to get solution/workaround for users.
+· Performing BO customization as per the client requirement.
+Client:  Arval Fuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 2014 – Aug 2015
+Role: SAP BOBJ Administrator      
+
+Mode of the project: Support 
+
+Responsibilities:
+· Monitoring BO server running with optimal performance.
+· Experience on Central Management Console (CMC) to create folders, users and groups, events, customize the access levels and managed the access privileges and scheduled the reports.
+· Migrating users, groups, objects, roles, permissions from BO 3.X to BI 4.X
+
+· Experience on modify the universe as per users requirement.
+· Migrated several reports and universes from SAP BO 3.X to SAP BI 4.X using Upgrade Management Tool (UMT) and converted DeskI to WebI reports using Report Conversion tool.
+· Implemented Row-level and Object-level security using designer tool.
+· Monitoring and scheduling the reports on a daily, weekly and monthly basis, scheduled reports based on file events.
+· Performed frequent daily BIAR back-up using Import Wizard.
+· Troubleshooting if any issues with Reports.
+. 
+Client: PepsiCO                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+                   July 2014 – Dec 2014
+Role: SAP BOBJ Administrator      
+
+Mode of the project: Support 
+
+Responsibilities:
+· Security Access levels implementation in BI 4.0
+· Gathering system requirements to build the BI 4.0 environment.
+· Setting up of BI 4.0 on clustered environment with Oracle DB
+· Implementing load balanced Web URLs to access launchpad & CMC.
+· Importing reports, universes, connections, roles & security from BO R3.1 system to BI 4.0
+· Optimizing the system by splitting up the Adaptive Job Servers Setting up Web Services & building reverse proxy in tomcat for portal support.
+· Setting up of Windows AD, SAP authentication on servers.
+· Setting up of Dual Dev & Dual QA systems for better performance & usage
+· Setting up of Archival & Disaster Recovery systems in case of emergency
+· Setting up of monitoring tools, implementing SAP integration with SAP Portal
+· Debugging issues & engaging with SAP tech support for guidance.
+Client: Telecom Italia  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 2013– July 2014
+Role: Test Engineer
+Mode of the project: Support 
+
+Responsibilities:
+· Debugging issues & engaging with SAP tech support for guidance.
+· Understanding the requirement. 
+
+· Functional Test Preparation. 
+
+· Test Data Requirement Analysis and Test Execution. 
+
+· Test Execution of Test cases based on business cases. 
+
+· Responsible for Adding Test suites, Test cases, Test steps and execute it. 
+
+· Performed Functional, Regression Testing.
+
+· Co-ordination with development team and different environment teams in execution phase
+ACADEMIC QUALIFICATIONS 
+· Sri Venkateswara University 2011.
+TECHNICAL SKILLS 
+Operating Systems
+
+
+Windows
+Business Intelligence
+
+
+Business Objects Business Intelligence 4.1\Business Intelligence 4.0, Business\SAP 
+
+
+
+Business Objects XI R3\Business Objects Dashboards\Xcelsius 2008\Crystal Reports 
+
+
+
+2011\2013\Business Objects Data Services 4.2\Business Objects Data Services 3.2
+
+
+
+
+Business Objects Universe Designer\Information Design Tool\Business Objects 
+
+
+
+  
+Explorer\ LiveOffice\QaaWS\BO Sdk
+Management Tool
+
+
+Business Objects Central Management Console\Data Services Management 
+
+
+
+
+
+Console\Business Objects Query Builder
+Databases
+
+
+Microsoft SQL Server, Oracle, Sybase IQ 
+PERSONAL DETAILS
+
+Name
+
+
+: Ramamohan Reddy,k
+
+Date of Birth
+
+
+: 30th, Oct, 1989
+Marital Status
+
+
+: Single
+Fathers Name
+
+
+: Ranga Reddy
+Languages Known
+
+
+: English, Telugu and Hindi
+
+

@@ -1,0 +1,165 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YATISH TIWARI
+
+
+
+VIKAS KUMAR PANCHAL
+
+Mobile: +917066205803                                                                                                                   E-mail: vikaspanchal15@gmail.com
+
+Seeking assignments in Salesforce Development with leading organisations in IT sector.
+
+SUMMARY
+
+· Quick learner & self-directed; consistently updating self with the emerging trends in the industry.
+· In-depth knowledge in CRM concepts such as Sales, Service and Marketing processes.
+· Extensive experience in analysing business requirements, entity relationships and converting to Salesforce custom objects, lookup relationships, junction objects, master-detail relationships.
+· Experience in supporting SFDC integration with legacy systems using Oracle Data Integrator 11g.
+· Experience in SFDC development using Apex classes and Triggers, Visual Force, Force.com IDE, SOQL, SOSL and data loader.
+· Domain knowledge in Banking vertical.
+· B.E. (Computer Science & Engineering) from SDITS, KHANDWA, RGTU.
+
+
+
+PROFESSIONAL EXPERIENCE
+
+April 2015-Present (2+ years): Salesforce Developer, IBM India Pvt. Ltd, Pune (MH).
+
+
+TECHNICAL SKILLS
+	
+CRM Package
+	  
+  :  Salesforce.com
+
+	Platform
+	 :  Windows
+
+	Programming Languages                     
+	   : Core Java, SQL, Apex
+
+
+	 IDE 
+	 :
+	Force.com IDE, Eclipse 3.2.
+
+
+ Scripting Languages	  : HTML, Visualforce
+
+
+ACADEMIA
+2013	B.E. (Computer Science & Engineering) from SDITS, KHANDWA, RGTU; 70.02% marks
+2009	H.S.C. from SJC, Khandwa, MP Board; 72.00%marks
+2007	S.S.C. from SJC, Khandwa, MP Board; 80.00% marks
+PROJECT   UNDERTAKEN
+PROJECT-1
+· Project		      : National Australian Bank Next Gen (NAB NextGen)
+· Organization 	:  IBM India Pvt. Ltd.
+	Client
+	Banking Client
+
+
+	Duration
+	June 2015 – Till Date
+
+	Tools
+	SFDC, Data Loader, Apex, Visualforce
+
+	Role
+	CRM Analyst
+
+
+    
+
+
+Project Description:
+This is a development/support project for a leading banking client. The overall architecture has many systems and SFDC is the downstream system which is used by bankers. The objective of using SFDC CRM is to have 360 degree view of a customer with information from various systems. There were multiple batch jobs implemented for this project to maintain data sync between legacy source system and SFDC destination system. The customer, sales and marketing data are loaded to SFDC platform from different legacy systems as a nightly batch.
+
+Role in Project: 
+
+· Offshore CRM Analyst, responsible for SFDC related delivery.
+· Developing and testing the new functionalities in sandbox environment and migrating it to production.
+· Troubleshooting the existing issues and implementing fixes for the issues.
+· Implementing enhancements on a weekly basis and organizing weekly meetings with business and stakeholders
+ to explain the fixes.
+· Worked with Oracle Data Integrator 11g for developing nightly batch integration between Legacy system and 
+SFDC system.
+· Coordinating with different teams like Core banking, Portal, Integration, Security and Data base teams to resolve issues.
+· Used Data Loader to load the daily delta from legacy to SFDC.
+· Used Apex/Visual Force as a workaround to implement complex business logics that are not supported out of the box.
+· Approval processes to approve loan applications submitted by end users from banking portal.
+· Rolling-out SFDC for users in phases based on bank branches.
+· Supporting the Control-m batch jobs and mentoring the junior resources to handle batches.
+· Worked in BAU team for administration of SFDC and analyzing the incidents in production system.
+· Organized daily hand-over calls with onshore team.
+· Supported multiple instances of SFDC.
+· Experience in ticket management tools like BMC Remedy.
+
+CERTIFICATION & RECOGNITION
+
+· Awarded twice at IBM for Managerial choice award for excellent work in the project.
+· Winner in dance competition in college festival 2013.
+· Actively took part in various sports activities at school, college & Industrial level and winner of cricket tournament in 2013 at college level.
+· Worked as a Vice-Captain in Cultural fest of college, Euphoria 2012;responsible for assisting the entire planning, management ,monitoring & execution of 5 day event
+· First runners up in hell raiser in college festival in 2011. 
+· Actively took participate in blood donation camp.
+
+
+PERSONAL DOSSIER
+Date of Birth			:	24th May 1991
+Address				:   Bajrang Chowk, Khandwa (M.P) 411057    
+Linguistic Abilities	:	English, Hindi
+
+Date:   -  - 2017                                                                                                   (VIKAS KUMAR PANCHAL)        
+
+
+

@@ -1,0 +1,239 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anish Rajasekaran
+
+
+ranishbab.8@gmail.com
+
+
++91 8870122281
+ SHAPE 
+
+Objective
+
+To acquire a challenging career with a solid company utilizing the opportunity to offer proven and developing skills within the company.
+
+Summary
+3 years of experience in Informatica Power Center tool. Prior has 2 years of experience in Quality Testing. 
+I’ve an excellent understanding of Data Warehouse concepts and Business Intelligence with good knowledge of ETL and QA processes. 
+Has strong technical and analytical skills, including Informatica Power Center, Tableau and Databases Amazon Redshift,Netezza, SQL server and Oracle. 
+Skill Set
+
+	Databases
+	Amazon Redshift(AWS), Netezza 7.0, Oracle 9i/10g,  MS SQL Server 2005/2008/2012, PostgresSQL
+
+	ETL Tools
+	Informatica PowerCenter 10.0/9.6/9.5/8.6.
+
+	Reporting Tools
+	Tableau
+
+	Languages 
+	SQL, PL/SQL, Shell Scripting, Python (Beginner)
+
+	Operating Systems
+	Windows, Unix, Linux
+
+
+Project Experience: 
+
+	Project
+	Client
+	Duration
+	Description
+
+	Data & Analytics Managed Services Development
+	Fox Film Entertainment
+	01/2018 - Present
+	This project is the ETL development of Fox business needs in BI plathform for various application systems.
+
+	Analytical Reporting Re-platform
+	Fox Networking Group
+	Jul/2017 - Dec/2017
+	This project is to Standardise the older Analytical reporting dataflow model into new cloud server.
+
+	FOX AWS Migration 
+	Fox Film Entertainment
+	Dec/2016 - Jun/2017
+	This project is to migrate the ETL database from Netezza to Amazon redshift. It includes enhancing the existing process to optimize the performance.
+
+	AERO Service Model Enhancement - Phase 2
+	General Electronics (GE)
+	May/2016 - Dec/2016
+	Pase 2: This phase is to handle the enhancements and new development for Project Accounting and finance subject Area. 
+
+	Cognos Migration AERO Service Model - Phase 1
+	General Electronics (GE)
+	Jan/2016 - May/2016
+	Phase 1: migration of old Cognos reports into the new Tableau tool based reports, includes environment changes from Oracle to Greenplum.
+
+	VUDU – Media Technology Company 
+	Fox Film Entertainment
+	Sep/2015 - Jan/2016
+	Analyzing and preparing the technical design document. Created a source to target mapping document. Designed ETL objects and ETL flow as per design document.
+
+	Quality Specialist(Previous Experience)
+	Amazon COM/CA
+	Sep/2013 – Jul/2015
+	Started with the Customer Support reprentative for a Amazon Retail business.
+
+Worked as a Quality control specialist.
+
+
+Certifications
+
+· Certified Data Integration Consultant at Systech Solutions Pvt. Ltd., Chennai
+
+· Trained in Tableau, Cognos and Netezza at Systech Solutions Pvt. Ltd., Chennai
+
+· Certified in Basics of R Programming at Data Camp Online learning.
+Professional Experience
+
+1) FOX Networking Group – Analytical Reporting Re-platform – Developer
+August 2017 -December 2017
+FOX Networks Group (FNG) is 21st Century FOX’s international multi-media business. FNG develops, produces and distributes 300+ wholly- and majority-owned entertainment, sports, factual and movie channels in 45 languages across Latin America, Europe, Asia and Africa.
+The scope of the project is to Standardise the older Analytical reporting dataflow model by encoding the source details and Scheduling as per the Business needs and Optimzing to achieve good performance. This process is to bring the Analytical business data from variours source feeds into a target reporting place.
+
+It also includes enhancing the bug fixing and to implement the change requests in the existing Business logic and to develop the new Adhoc ETL process as per the user requirements.
+· Parameterize all runtime inputs for ETL process using operations database.
+
+· Setup the flow status for each business/Interfaces using the Enterprice Integrating Service (EIP).
+· Designed ETL objects as per Business flow.
+· Creating Shell Scripts as per Business needs.
+
+Project Environment:  Informatica PowerCenter 9.5.1/ 9.6.1/10.0, Oracle, Shell Scripting, SQL Server 2008, Amazon Redshift, Sybase
+2) FOX AWS Migration – Developer                    
+
+January 2017 – June 2017
+Twentieth Century Fox Home Entertainment is the marketing, sales and distribution company for all Fox film and television programming on DVD as well as video acquisitions and original productions in the U.S. and Canada. Twentieth Century Fox Home Entertainment is a unit of Fox Filmed Entertainment, a Fox Entertainment Group company.
+
+The scope of the project is to migrate the ETL database from Netezza to Amazon redshift. It also includes enhancing the existing process to optimize the performance, bug fixing and to implement the change requests in the existing Business logic and to develop the new Adhoc ETL process as per the user requirements.
+
+· Analyzed and prepared the technical design document as per the requirement
+
+· Created a source to target mapping document
+
+· Designed ETL objects
+· Worked for migrating the objects from different environments    (DEV/QA/PRODUCTION)
+· Worked on designing a new framework based on the user requirement, tested the process and applied it in a production environment
+· Worked on enhancements/bug fixes in ETL objects
+· Worked on new development/enhancement request raised by the clients
+· Worked on a testing script to make sure it is giving the expected result
+· Provided technical support for the production system
+· Coordinated and communicated with the business data users to understand their concerns and assisted in resolving issues or provided clarifications
+· Escalated data/job issues and provided resolutions as per standard escalation procedure
+· Performed regression and integration testing for newly developed process
+· Managed both development & production support teams and regularly coordinated with clients on the status of tasks worked with the team
+Project Environment:  Informatica PowerCenter 9.5.1/ 9.6.1/10.0, Oracle, Shell Scripting, SQL Server 2008, Netezza 7.0, Amazon Redshift, python
+3) GE– Cognos Migration AERO Service Model – Developer (Phase I)  
+
+ February 2016 – November 2016
+This project is called about migrating the old Cognos reports into the new Tableau tool based reports, includes environment changes from Oracle to Greenplum.
+Initially, Cognos has the set of custom reports for Aero Business(GE Power - Aviation) which points to the Oracle system (ERP) in Data warehouse (DB) model. These Cognos reports are migrated into Tableau by developing the self-service models in Greenplan with same source datalake. Along with the migration, few new reports are created based on User request.
+Project Environment:   COGNOS, MS SQL Server, Greenplum, Tableau, Talend, Informatica
+3.1) GE– Aero Reporting Support and Enhancements – Developer (Phase II)
+
+Project Environment:   GreenPlum, Tableau, Talend
+
+This phase is to handle the enhancements and new development for Project Accounting and finance subjet Area. New self service model creation in Green Plum datalake and new Dashboards in Tableau.
+
+4) VUDU – The Media Technology Company – Simulation Project
+
+VUDU, a digital content delivery and media technology company was acquired by Walmart in March 2010. The goal of this project is to deliver VUDU Retailer Sales reporting capability to Category Management.
+
+VUDU, Inc. is a content delivery and media technology company responsible for VUDU-branded interactive media services and devices. VUDU distributes full-length movies over the Internet to television in the United States of America. It does this with a content delivery network that uses a hybrid peer-to-peer TV technology.  
+
+· Analyzed and prepared the technical design document
+
+· Created a source to target mapping document
+
+· Designed ETL objects
+
+· Worked on a testing script to make sure it is giving the expected result
+
+Project Environment:  Informatica PowerCenter 9.6.1, SQL Server 2008
+5) Fox Filmed Entertainment – Concurrent Process Engineering– On Job Trainee
+
+ November 2015 – January 2016
+Project Environment:   : Informatica, Netezza
+
+Prior Professional Experience
+
+He has 2 years of experience in Sutherland Global Services, worked as a Quality Specialist for Online Retail Business. (Sep 2013 – Aug 2015).
+Education
+· Bachelor of Engineering in Electronics and Communication, CSI College of Engineering, Ooty, Anna University.
+Personal Details:
+
+Date of Birth                   :  08-06-1992
+
+Gender                           : Male
+
+Father’s Name               :  K. Rajasekaran
+
+Marital status
+               : Single
+
+Languages                     : English (speak, read and write)
+
+
+
+    
+     Tamil (speak, read and write)
+
+Hometown                     : The Nilgiris(Ooty)
+Declaration:
+
+The details given above are correct best to my knowledge and if anything is found incorrect I will be responsible for the same.
+
+Yours Faithfully,
+
+                                                                                                                      
+   (Anish R)
+

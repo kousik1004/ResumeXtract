@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM  VITAE
+
+                                              CURRICULUM  VITAE
+G.CHITRA
+Email:vino.chitra@yahoo.com
+Phone:8939364111
+	Objective: 
+
+
+
+To seek a challenging and interesting job that encourages creativity and provides exposure to new technology to achieve professional and personal growth along with the organization.
+
+	Educational Background:
+
+
+
+· Bachelor of Science (BSC (Cs)) from Kamaraj University in nov 2006 
+· H.Sc from State Board Education, Tamilnadu in March 2003 
+
+· SSLC from State Board Education, Tamilnadu in March 2001 
+	TECHNICAL SKILLS:
+
+
+Languages
+
+ :
+ C, C++,Unix
+Operating System 
+ :
+Windows Family
+RDBMS Packages
+ :
+Oracle, MS Access, MySQL, PL/SQL.
+
+Web Development
+ :
+HTML, Java script.
+EMPLOYMENT PROFILE I
+Name of the Concern
+:
+T_JOB Computer education, Paramakudi.
+
+Job Title
+                   
+:
+Faculty.
+
+Period
+
+
+:
+Oct 2006 to Dec 2009.
+EMPLOYMENT PROFILE II
+Name of the Concern
+:
+TEAM LEASE STAFFING SOLUTIONS, CHENNAI
+
+
+
+
+Contract to: NESTLE INDIA LTD., CHENNAI.
+
+Job Title
+
+
+:
+CUSTOMER FACILITATOR
+
+Period
+
+
+:
+April 2010 to 20- Jan-2011
+Designation                    :            Customer Facilitator 
+Job Role: Order Management Centre 
+· Order Process through Order Management.
+
+· Processing Sampling / Promo Packs on seasonal periods
+
+· Trained on Order Analyst,  Creation, Releasing, confirming and Billing Orders for configured products.
+
+· Determining the Customer Service Level (CSL) in the BW (Business Warehouse Element)
+
+· Implementing Item Proposal with Sales Order Document Types .
+
+· Determining SKU Level Consumption.
+
+· Co-ordinating  SCM on Demand Planning.
+
+· Pro-ration of sales Plan.
+
+
+· Deriving Redistribution on weekly and monthly basis.
+
+· Preparing Demand Planning Accuracy on weekly and Monthly Basis
+
+· Intimating DP’s on  Stock position everyday based on the demand of the distributor.
+
+· Sending Stock Status Report to Head Office.
+
+· Reporting the criticalities after analyzing and weighing the route cause for the same.
+
+· Collecting Zone wise Sales Plan from the ASM's consolidating it to Branch level and reporting to Supply Chain Manager and Uploading to the Web Portal System.
+
+· Deriving Branch level Redistribution by collecting Distributor level Closing stock from the Area Sales Manager's and reporting to the Supply chain Manager and Branch Manager. 
+
+· Working in Sales Plan and Statistic Package and generating the reports as per the managerial requirements. 
+
+· Daily Status Update of Warehouse wise Turnover Monitor. 
+
+· Co- coordinating with the Supply Chain Manager and Demand Planner in the Month end activities. 
+
+EMPLOYMENT PROFILE III
+Name of the Concern
+:
+Hewlett Packard, CHENNAI.
+
+Job Title
+             :
+Process Associate
+Period
+
+             :
+JAN 2011 till date
+
+Organization                      :                Hewlett Packard
+             
+
+
+Operating System               :                UNIX, Mainframe
+Tools
+
+
+:                APATE,VBA,TODD,SQL.
+Job Nature 
+
+ :                Internal audit(SOX Audit)
+Role
+
+
+  :              Team Member
+Project Description
+
+IT General Controls, sometimes referred to as ITGCs, are the processes put in place aroundHP's applications, databases, and infrastructure to ensure that we manage and protect our financial data from errors or misstatements. For HP, the ITGCs are categorized by security, change management, and operations.
+
+Typically, most of these controls are managed by support personnel performing tasks like granting approved access, obtaining approval before changing code in production, or resolving job failures. Some controls require partnering with other teams or organizations such as Development, HP IT Customer Support (CS), or "the business". In this case, "the business" refers to the business in which the application resides.
+
+These controls are simple in design and must be consistently executed. This allows management to demonstrate to the auditors that we have strong control over our business processes and practices for protecting and eliminating vulnerabilities to our financial data.
+
+Security Controls
+
+The Security Controls address access to programs and data. They perform the following functions within the specified time periods:
+
+· User Access Monitoring Control—Reviews user accounts for the appropriate access to applications. The account approver determines the appropriate access based on the user's job function or role. It is performed a maximum of every 90 days. 
+
+· Security Password Control—Aims to prevent unauthorized access to applications and application data by ensuring password parameters meet HP guidelines for length and complexity. It is performed every 90 days or four times per fiscal year. 
+
+· Revoke User Access Control—Ensures terminated, retired, and deceased employees are removed within 30 days of termination. This control prevents unauthorized use of an application by persons who have left the company or other employees from sharing or using a terminated employee's access. It is performed daily, weekly, monthly, but it must be a maximum of every 30 days. 
+
+· Add/Change User Access Administration Control—Checks that users have been correctly approved for system access. This control produces information that is gathered and retained as evidence. It is performed every 30 days. 
+
+Operations Controls
+
+The Operations Controls cover datacenter operatives, system recovery, and data flows. They perform the following functions within the specified time periods:
+
+· Job Monitoring Control—Guarantees that IT identifies and responds to critical and high priority job failures in a timely manner. This ensures that the appropriate action is taken when a job fails to complete the processing of data. It is performed every 90 days or four times per fiscal year. 
+
+· Access to Job Scheduling Control—Tests for segregation of duties violations to ensure only authorized personnel have access to change jobs that have been scheduled. This protects HP by ensuring all changes to jobs have the proper approval and helps to limit errors or issues. It is performed every 90 days or four times per fiscal year. 
+
+Both controls test for the following:
+
+· Inappropriate access to job schedules 
+
+· Inappropriate ability to change jobs 
+
+Change Management Controls
+
+The Change Management Controls focus on program changes and development. They perform the following functions within the specified time periods:
+
+· Change Management Approval Control—Ensures that changes are approved and documented in the HP Service Manager (HPSM) Request for Change (RfC) ticket prior to moving a change into the production environment. It is performed daily, weekly, monthly or quarterly, but must be a maximum of every 90 days. 
+
+· Change Management Testing Control—Ensures that the tests are conducted and documented in the HPSM RfC ticket prior to moving a change into the production environment. It is performed daily, weekly, monthly or quarterly, but must be a maximum of every 90 days. 
+
+· Program Library Review Control—Provides a process to review all changes to the production environment to ensure that only approved and tested changes appear in the production environment. It is performed every 90 days. 
+
+Segregation of Duties Control—Ensures that those individuals who have privileged access are not allowed to approve or authorize their own work. The control protects against fraudulent activities and provides checks and balances for key IT activities such as moving code into the production environment. It is performed every 90 days or four times per fiscal year.
+Role and Responsibilities
+
+· Executing the controls.
+
+· Validating.
+
+· Raising Tickets.
+
+· Collecting Evidence.
+
+· Uploading in SharePoint.
+
+· Developing the macro using VBA
+	STRENGTHS:
+
+
+· Good programming ability and problem analytical skills.
+
+· Positive thinking about all things 
+
+· Easily mingle with my team members.
+	Personal Details:
+
+
+
+Father’s Name
+
+:           Govindan. V.
+Date of Birth   
+
+:           14/04/1986
+Languages known
+:           Tamil, English ,Telugu
+Contact Address       
+:               No 11 KALEESWARER ST,ARUL MURUGAN NAGAR 
+
+
+
+                KILKATTALAI,
+             CHENNAI,
+             PIN-6000117
+
+
+                                                                   
+	Declaration:
+
+
+
+   I here by declare that the above written particulars are best of my knowledge and belief.
+
+PLACE:
+
+DATE:
+
+
+
+
+
+
+
+
+                          Signature: 
+

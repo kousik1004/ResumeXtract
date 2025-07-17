@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KARTHIKEYAN ARUMUGAN
+								    E-mail:karthi0904.mca@gmail.com	
+								    Mobile: +91-9952473606
+
+Career Objective
+
+I would like to be a part of an organization where I could use and enhance my working capacities, professional skills, business Efficiencies for the development of both the organization and myself in best possible way with sheer determination and commitment.
+
+Experience Summary
+
+· 5+ years of experience in Manual and Automation testing in Software industry.
+· Good experience in Preparing estimates and test plan
+· Expertise in Automated Tool like Selenium IDE and Web Driver
+· Expertise in creating scripts in Selenium-IDE & WebDriver
+· Good experience on Automated Tool  QTP
+· Good experience in interacting with clients 
+· Good experience in creating, modifying and enhancing both manual Test Scripts and Test Scripts created in selenium.
+· Expertise in developing Test Scripts using Java language VB script, TCL and TCL Expect
+· Good knowledge in S.D.L.C, S.T.L.C models
+· Good knowledge in L2/L3  Protocols and also involved in the testing of Ethernet technologies such as LAG, LACP, SPAN, MPLS-TP, and VPWS over MPLS-TP feature in CISCO CPT 600/200/50.
+· Worked on bug tracking, reporting tools and root-cause analysis.
+· Proficient experience in TCL and Expect (Script Development). 
+· Involved in various phases of testing (Manual Tetsing, Automation, bug tracking, Bug reporting and Root-cause analysis).
+· Comfortable in frameworks like ATS (Cisco systems) and ARTS (Ericsson Network).
+
+Professional Experience
+· Currently working as Lead Engineer in HCL Technologies Chennai from Dec 2014.
+· Worked as an Associate Test Engineer in Aricent Group Chennai from July 2011 to Nov 2014.
+
+Educational Summary
+· MCA (2011-2014) from Bharathiar University  with an aggregate of 65%.
+· BCA (2008-2011) from Kovai Kalaimagal College  of  Arts & Science  with an aggregate of 79.5%.
+
+
+
+Skill Profile
+Protocols			:  L2: STP, ARP, LACP, L2VPN, and VPWS
+   L3: OSPF, RIP, BGP, L3VPN
+
+Scripting  			: Java, TCL, Expect, VB, Python
+
+Automation Tools                   : Selenium, QTP
+
+Hardware Platforms		: CISCO CPT 600/200/50
+  				  Nighthawk of Ericsson, SSR8010 & SSR8020
+
+Operating System     		: Windows7, Linux.
+
+Test tools			: CISCO  : CDETS [Bug tracker], TIMS [Test case tracker], 
+  Ericsson: ExtraView [Bug filing], RQM [Test case Mapping]
+
+Network     Test tools		: IXIA, N2X.
+
+Project Details
+
+Project #1:
+
+Project Title         	: Evolved Packet Gateway (EPG)
+Technology		: Telecom
+Testing Approach	: Regression
+Scripting                     : Python
+Software Tools	: ClearQuest, GIT, MHWeb
+Role			: Lead Engineer
+
+Description:
+Ericsson Evolved Packet Gateway (EPG), together with SGSN-MME, is a critical component of Evolved Packet Core (EPC). It is part of the Ericsson end-to-end solution for rapid deployment of a highly scalable and reliable LTE Network. Ericsson EPG is simple to manage, offers high performance, high scalable and high availability.
+
+Responsibilities: 
+
+· Working in System testing team to run regression for EPG.
+· Running regression test cases for Capacity & Characteristics.
+· Executing test cases for stability cases.
+· Analyzing the log files and raising BUG if it’s found.
+· Worked with script fixing team.
+· Coordinating with offshore team and updating consolidated reports to onsite team.
+· Mentoring and Knowledge transfer to two freshers.
+
+Project #2:
+
+Project Title         	: Ericsson – ERS platform
+Technology		: Networking
+Testing Approach	: Manual testing, Automation
+Scripting                     : JAVA (JCAT Framework-TestNG based)
+Software Tools	: ExtraView, GIT, Gerrit.
+Role			: Lead Engineer
+
+Description:
+         ERS provides a rich and comprehensive feature set to address the high demands of mission critical networks in mobile backhaul, carrier transport, and data center networks. It supports all hardware and software supported in legacy ZebOS Software.
+
+Responsibilities: 
+
+· Bringing up Test setups and troubleshooting setups for testing.
+· Estimate the testing requirements test approach, test procedures based on the test plan
+· Review the test cases.
+· Estimate the automation testing requirements and automation plan with Time Schedules
+· Identify the test cases which needs to be automated
+· Develop the scripts for identified test cases using JCAT(Java) framework
+· Commit the developed scripts to GIT server for code reviews.
+· Execute the scripts and send the results to client.
+· Keeping track of Hardware and software requirements for the Test Environment
+
+Project #3:
+
+Project Title         	: Ericsson NHK Automation
+Technology		: Networking
+Testing Approach	: Manual testing, Automation
+Scripting                     : Perl
+Software Tools	: ExtraView, ARTS, CVS, RQM.
+Role			: Lead Engineer
+
+Description:
+NIGHTHAWK is Ericsson 2nd generation SSR product family. It is essential to keep Ericsson IP router products to be competitive from per slot, per chassis data forwarding capacity, high control plane scaling.
+
+Responsibilities: 
+· Bringing up Test setups and troubleshooting setups for testing.
+· Porting and integrating existing scripts to new platform Nighthawk.
+· Porting of Performance and scalability scripts from static to dynamic.
+· Execution of functional scripts and moved to regression approval.
+· Filing defects found out in the phase of script execution.
+· Piloting TGN scripts from N2X to IXIA.
+· Writing new test cases for the platform Nighthawk which is not covered as part of Test plan Document.
+· Worked on script fixing which has not followed script guidelines.
+· Knowledge transfer to new joiners.
+
+Project #4:
+
+Project Title         	: Cisco- Carrier Packet Transport 
+Technology		: Networking
+Testing Approach	: Functional, Regression, System, Sanity testing, Automation
+Scripting                      : TCL, Expect, VB script
+Software Tools	: CDETS, QTP
+Role			: Associate Test Engineer 
+
+Description: 
+The Carrier Packet Transport (CPT) System is the first Packet-Optical Transport System(P-OTS) built on standards-based Multiprotocol Label Switching Transport Profile (MPLS-TP) technology. It unifies both packet and transport technologies, giving service providers a strong foundation for the next generation of transport.
+
+Responsibilities: 
+· Working on testing multiple features (LACP, SPAN, MPLS-TP, L2VPN [VPWS over MPLS-TP]) on Cisco Carrier Packet Transport 600/200/50 platforms.
+· Execute functional/regression/system/sanity testing on IOS Releases of Cisco CPT. 
+· Written scripts for automation in TCL for CLI, VBScript for QTP. [An open source alternative for QTP]
+· Developed a framework (THS) in TCL script which will test all the infra cases and HA scenarios.
+· Developed a tool in TCL Expect to get all the Hardware details (Line card/Controller card/Pluggable).
+· Testing involves debugging on IOS Features/TCL Scripts/isolating test-bed issues and filing bugs.
+· Part of porting new features into existing regression test-bed.
+· Filing defects found out in the phase of regression/system/sanity testing and tracking them.
+· Major challenge in project is adherence with timeline and quality of deliverables.
+· Worked with Cisco peer teams for CPT regression testing, integrating new test-bed, integrating new scripts in to the current setup. 
+· Understanding and solving customer issues, knowledge transfer for freshers.
+
+Declaration
+
+I hereby declare that all the details furnished above are true to the best of my knowledge and belief.
+
+

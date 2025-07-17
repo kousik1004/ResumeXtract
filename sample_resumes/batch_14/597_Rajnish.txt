@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+Rajnish
+Kumar
+
+Data scientist
+
+PROFILE
+Data scientist with 3 years of machine learning and Analytics development. A self-motivated and team-oriented individual.
+
+CONTACT
++91-9092516970
+rajnishrajput12@gmail.com
+github.com/rajnishrajput12
+ Hyderabad
+
+SKILLS
+SQL         
+ML         
+Python         
+NLP        
+Deep Learning                                
+
+	
+	SKILL HIGHLIGHTS
+
+· Good experience on in Machine learning and tools
+· Strong understanding of basic concepts of statistics including population, distribution, significance, hypothesis testing
+· Good experience of Machine learning including linear/logistic, random forest, decision tree, classification, clustering technique.
+· Good experience on NLP, text classification, topic modelling
+· Basic knowledge of deep learning and neural networks
+· Strong experience and hands in implementing machine learning using Python.
+· Strong understanding of Agile methodology 
+· Strong experience of SQL and warehouse.
+
+WORK EXPERIENCE
+ADP solutions 
+Datacloud
+Jan-2016 – till date
+Data scientist
+· Time Explorer- Built explanatory Regressor model which predicts number of Absence hour’s a group of employee will take in a quarter the model helps a client to estimate its deliverables knowing employee leave in advance.
+We used scikit-learn, panda library from python and oracle as database.
+· Employee churn Probability- Developed Classification model which classifies number of employee most likely to leave the organization using Random forest classifier, the model holds a good recall of 76% and thus explaining approximately 76% client’s termination in advance. We used python’s library like Pandas, Numpy, Scikit-learn and oracle to develop the model.
+· Paycode Classification- Classify client’s paycode and tags it to general Paycode category like Absence or Overtime or Regular etc. using Support vector machine. The model is aimed to help in better and concise estimation of benchmarking of metrics provided to client. We used NLTK, TF-IDF, pandas, SVM to implement the model.
+· Insight recommender-Built a Recommender system which recommends related insights to client based on cosine similarity of insights.
+· Sentiment analysis:-Scraped cleaned client feedback data and categorize them with sentimental analysis and pipeline it to team.
+· Tripled the accuracy of regression model to predict absence hour
+· Gathering client feedback using Tweepy API in python
+· data clean up, exploratory analysis of the data of multiple client
+· data gathering from Hue(impala or Hive) with complex queries and  domain knowledge
+· Data quality check on the metrics given to client using API automation
+· Data validation from source to target 
+· Writing selenium scripts to validate Metrics.
+· Work closely with UI developer to test the metric and model  
+· Responsible for delivering any client feedback or hotfixes
+Tools:- Python,Oracle,Hive
+Accenture 
+Microsoft
+Business intelligence developer 
+Aug-2013 – Jan-2016
+· Creating SSRS reports of windows sales for various OEM.
+· Creating SSIS packages to pull the data from OA mart to warehouse
+· Validating SSRS, SSAS and  excel pivot reports from source to target
+· SQL scripts, MSBI and SQL-SERVER 
+· Automate the task and defect creation in VSTF from excel using c#
+· Creating job to pull full and incremental data loads using SSIS scheduler
+Tools:- SSIS,SSRS,MS-SQL-Server
+EDUCATION
+
+B.tech in Computer science and engineering
+VIT Vellore 2009-2013
+
+Awards & Recognition 
+‘ACE-Award’ for performing consistently above the peer group conducting Bay Games, organizing Delivery Units outings.
+Best performer of the Quarter for working closely with peers and delivering bug free feature
+External link:-https://github.com/rajnishrajput12/MachineLearning
+
+
+
+

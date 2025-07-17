@@ -1,0 +1,227 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raghavendra Ravula
++91-8884559858 (M)
+raghavendraravula@hotmail.com
+
+SUMMARY:
+· Over 8 years of Experience in Designing, Administration, Analysis, Management in the Business Intelligence Data warehousing, Client Server Technologies.
+· Experienced in Business Intelligence applications like Tableau, Microsoft Power BI, and Microsoft Performance Point Services.
+· Experienced in Power BI Dashboards in latest Design and Presentation. Design, develop, and support interactive visual dashboards and reports proactively and independently work on Power BI projects.
+· Developed applications using technologies such as Power View, Power Pivot, Power Query, and DAX.
+· Worked in database systems like Oracle and SQL Server.
+· Practical understanding of data warehouse and OLAP concepts.
+· Extensively involved in ETL Data warehousing using Informatica Power Center9.x.
+· Managed IT projects in financial, Life Science Domains.
+· Analyze business/functional requirements and translate them into concrete tasks.
+· Supports the deployment of software solutions into the production environment.
+· Shape and build the solution are collectively responsible for its day-to-day development and for assuring its fitness for business purpose.
+· Provided technical and analytical expertise in responding to complex, specialized report requests requiring higher-level data analysis and data management services.
+· Team player with good communication and interpersonal skills. Productive interaction with business partners to identify business information needs for reports.
+Education:
+Bachelor of Engineering in Electrical and Electronics Engineering From JNTU.
+
+Professional Experience: 
+· October 2012-Till date working as Associate Technical Lead in Paragon Solutions Pvt Ltd (Part of CGI).
+· January 2011-June 2012 working as Lead developer in Parinati solutions Pvt Ltd.
+ 
+Skills & Expertise: 
+Microsoft Power BI , DAX, Power Query ,Tableau 8.1/9.1, Tableau Server , SSIS,SSRS, Informatica ,Microsoft PPS,  MDX,  Oracle APEX, Sql Server 2008R2,Oracle 9i/11g.
+
+
+Paragon Solutions Pvt. Ltd	                                    
+Associate technical lead
+Sanofi                                                                                                              02/2018 t0 10/2018
+Project-Leap eRoom migration
+
+Technologies: SharePoint 2013, eRoom server, FME migration tool, PowerShell, SQL Server.
+
+Description- Sanofi ITS group owns and supports collaboration and document management platforms which host several Sanofi business applications. Sanofi's ITS group has initiated a project to retire and decommissions it’s eRoom and Live link platforms and migrate to multiple target environments including SharePoint, File Share, Info Archive and Documentum.  
+
+Responsibilities:
+
+· Created FME transform rules and involved in FME configuration.
+· Given Knowledge Transfer to new team members and helped team members in fixing the issues.
+· Used FME migration tool as a middle layer for scanning and validating the exported objects from file share and importing those validated objects to SharePoint using SharePoint importer tool.
+· Worked on content DB migration from staging to production environment.
+· Involved in Troubleshooting, resolving and escalating data related issues and validating data to improve data quality.
+
+
+Paragon Solutions Pvt. Ltd	                                    
+Associate technical lead
+Paragon                                                                                                             10/2017 t0 10/2017
+Project-X Commercial Launch
+
+Technologies: Office 365, Power BI, DAX.
+
+Description- X Commercial Launch manages the different types of work streams. Each work stream has set of Tasks and Milestones.  Marketing, Medical Affairs, Regulatory and sales are major work streams. Commercial Site page has overhauled the timeline feature include multiple timelines, each with different start and end date, representing a user-defined set of tasks and milestones.
+
+Responsibilities:
+
+· Design and develop the data model by understanding the Business requirements and defining the relationships in the Power BI data model.
+· Connected   to SharePoint online data through Power BI Desktop and excel using SharePoint online feed connector. 
+· Create Measures according to the business logic in Power BI Desktop using Data analysis expressions (DAX) and Power Query.
+· Developed Power BI reports Dashboards from multiple data sources.
+· Explored data in variety of ways and across multiple visualizations using power BI.
+· Involved in Troubleshooting, resolving and escalating data related issues and validating data to improve data quality.
+· Embedded Power BI reports on commercial portal page and also managed access of reports
+And data for individual users using Roles.
+· Advice on how data visualizations can be best leveraged to provide business value.
+· Configured scheduled refresh in Power BI online using personal Gateway connections and Refreshed a dataset created from a Power BI Desktop file on SharePoint online.
+
+
+Paragon Solutions Pvt. Ltd	                                    
+Associate technical lead
+CELGENE                                                                                                               12/2016 t0 09/2017
+Project-ITGDS Project Server Upgrade
+
+Technologies: Project Server Online, SSRS, Excel Reports using OData, Power View, Power Query, Power BI and Excel macros using VBA script., Power BI, SSRS.
+
+Description-ITGDS Project server manages the project timelines, Resource management and IT Portfolio-Expense projects. The main objective is Existing legacy system shall be migrated to new environment that maintains vendor support & existing functionality currently available via reporting, Resource management & portfolio analysis.
+
+Responsibilities:
+
+· Design and develop the data model by understanding the Business requirements and defining the relationships in the data model.
+· Connected   to Project online data through Power BI Desktop and excel using OData feed connector. Open Data Protocol (OData) is the protocol used for accessing Business Intelligence data in Project Online or on-premises Project Server.
+· Create Measures according to the business logic in Power BI Desktop using Data analysis expressions (DAX) and Power Query.
+· Migrated existing SSRS reports from legacy system to excel and Power BI Reports. Involved in deploy those reports on the Project online web app and define access control on the dashboards created using the reports.
+· Configured scheduled refresh in Power BI online using personal Gateway connections and Refreshed a dataset created from a Power BI Desktop file on project online. Scheduled reports every business day mid night at 12 PM to enhance performance
+Paragon Solutions Pvt. Ltd	                                    
+Sr.Systems Analyst
+AstraZenca                                                                                                               10/2015 t0 07/2016
+Project-Harbor Data Transfer
+
+Technologies: Live link, WebDAV tool, AZ BOX, JavaScript.
+
+Description-Harbor is Live link system. Harbor application manages Documents, workflows, discussions, calendars, surveys and polls. WebDAV tool used for exporting live link data to local system and finally moved those content data from local system to AZ Box.
+
+Responsibilities:
+
+· Involved in preparing Harbor application migration mapping sheet 
+· Exported data from harbour to file share by using Web DAV tool. 
+· Imported file share metadata and content into AZ BOX.
+· Involved in Troubleshooting, resolving and escalating data related issues and validating data to improve data quality.
+
+.
+
+Paragon Solutions Pvt. Ltd	                                    
+Systems Analyst
+Avantis                                                                                                                06/2014 t0 08/2015
+Project-DSS Tableau Reports
+
+Technologies: Tableau, SharePoint 2010, Performance Point Services, Wonderware Intelligence Analytics, ETL.
+
+Description-Avanti’s DSS (decision Support Systems) is a business intelligence solution that provides flexible maintenance data analysis capabilities and high-performance business intelligence visualizations. Data is extracted from the Avantis.PRO database and then, following ETL process, is available data in Aventis DSS for viewing and Analysis. 
+
+Responsibilities:
+
+
+· Gathered reports requirement, collaborated with the business users using wireframe mock-ups.
+·  Building, publishing customized interactive reports and dashboards, report scheduling using Tableau server. 
+·  Created action filters, parameters and calculated sets for preparing dashboards and worksheets in Tableau. 
+·  Effectively used data blending feature in tableau. 
+· Defined best practices for Tableau report development.
+· Mastered the ability to design and deploy rich Graphic visualizations with Drill Down and Drop down menu option and Parameterized using Tableau.
+· Created side by side bars, Scatter Plots, Stacked Bars, Heat Maps, Filled Maps and Symbol Maps according to deliverable specifications. 
+· Utilized complex SQL join statements to represent relationship between facts and dimensions.
+· Created OLAP accommodating slowly changing dimensions recording historical data of employees and time stamped status of project information.
+· Enhanced query performance by indexing foreign key fields
+· Assembled the facts and dimensions tables as a single view in SQL
+· Generated data extracts in Tableau by connecting to the view using Tableau SQL connector.
+·  Consistently attended meetings with the Client subject matter experts to acquire functional business requirements in order to build SQL queries that would be used in dashboards to satisfy the business's needs.
+
+Paragon Solutions Pvt. Ltd	                                    
+Senior Software Engineer
+AstraZeneca                                                                                                              10/2012 t0 07/2013
+Project-AstraZeneca eRoom migration
+
+Description- AstraZeneca eRoom project involved migrating content, and metadata from legacy system eRoom to Target system SharePoint. Custom Utilities and FME tool used in this project. Utilities first export the data into File share, then import the content and metadata into SharePoint portal.  
+
+Responsibilities:
+
+· Created FME transform rules and involved in FME configuration.
+· Given Knowledge Transfer to new team members and helped team members in fixing the issues.
+· Used FME migration tool as a middle layer for scanning and validating the exported objects from file share and importing those validated objects to SharePoint using SharePoint importer tool.
+· Worked on content DB migration from staging to production environment.
+· Involved in Troubleshooting, resolving and escalating data related issues and validating data to improve data quality.
+
+
+Responsibilities:
+
+· Configuring a Tableau Desktop and MS-SQL 2008 R2 server for Data warehouse purpose
+· Created Rich dashboards using Tableau Dashboard and prepared user stories to      create compelling dashboards to deliver actionable insights.
+· Responsible for interaction with business stake holders, gathering requirements and managing the delivery.
+· Connected Tableau server to publish dashboard to a central location for portal integration.
+· Structured the dashboard with a consistent layout with visuals chart at the top and corresponding crosstab data and the bottom.
+· Created visualization for logistics calculation and department spend analysis.
+· Organized dashboards in Tableau to analyse the revenue, expense over various attributes of employee, project, time and location dimension
+· Generated groups for the application field to do category-based analysis
+· Implemented sets to display Top N Products based on business defined conditions.
+
+
+Parinati solutions PVT LTD
+Lead Developer
+Kotak                                                                                                               01/2011 t0 11/2011
+Project-Kotak Securities-CRPS
+
+Technologies: C#, SQL Server 2005/2008 and BIDS Development Studio.
+
+Description- Leap CRPS Maintain records for all receipts and payments of Kotak Securities, centralized Receipts & Payment system was developed. CRPS system interacts with other system to pull or push the required data. CRPS System process two kinds of receipt system online and offline. CRPS pulls the client to bank mapping data for offline clients from KC3 system at regular intervals and display to the user for approval.  
+
+Responsibilities:
+
+· Analysis of the differences between the 2 instances
+· Develop and implement strategy for merger.
+· Migrate DTS jobs used in the older version to SSIS.
+· Created SSIS Packages Fuzzy Lookup, Containers, Derived Columns, Condition Split, Aggregate, Execute SQL Task, Data Flow Task, Execute Package Task etc. to generate underlying data for the reports and to export cleaned data from Excel Spread sheets, Text file, and CSV files to Database.
+· Working knowledge of expressions, variables, scope, precedence constraints.
+· Running SSIS Package in Scheduled Job.
+
+

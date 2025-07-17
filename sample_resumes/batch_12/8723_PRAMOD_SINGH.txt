@@ -1,0 +1,420 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ PRAMOD SINGH
+SAP FICO CONSULTANT
+Pramod.lkb@gmail.com
+Contact Number: +91- 8660827258
+
+Professional Summary
+
+· Over all 15 years of experience out of which 7 Years of experience as a SAP FICO Consultant.
+
+· Currently working with Accenture as a SAP CO consultant.
+
+· Rich experience In FI module and its integration with other modules like SD, MM, AA and Controlling.
+· Rich experience in controlling module (CO-OM-CEL, CO-CCA, CO-OM, EC-PCA, CO-PC, CO-PA) and its integration mapping to SD, MM and FI.
+· Experience on Product costing (CO-PC).
+
+· Experience on project system.
+
+· Experience in (IM) Investment management.
+
+· Possesses good communication, client interaction, presentation and problem solving skills.
+
+
+Skills
+
+	PRIMARY SKILL SAP
+	SAP  CO,PC
+
+	SECONDARY SKILL SAP
+	SAP  FI-AP, AR, New GL, Assets, IM and Project System
+
+	DOMAIN SKILL
+	Banking and Insurance
+
+
+
+Work Experience
+
+Organization: - Accenture India 10Feb2014-Till Date.
+Client:-Cargill India PVT Ltd
+(Implementation, Project and Roll Out) Industry:-Food Processing Industry. Duration:-21Aug2017-Till Date.
+Location: - Offshore
+
+Project:- Cargill is a food processing organization, Some of Cargill's major businesses are trading, purchasing and distributing grain and other agricultural commodities, such as palm oil; trading in energy, steel and transport; the raising of livestock and production of feed; producing food ingredients such as starch and glucose syrup, vegetable oils and fats for application in processed foods and industrial use.  
+
+Functional Involvement
+Entire CO, FI and overall Process coordinator, Coordinating with the entire project team for timely deliverable of project, As well individually responsible for FI and CO.
+
+Responsibility & Roll Description:-
+· Coordinating with the business unit and SA for gathering information on requirement.
+· Involving all team member in deciding what is to be requirement
+· Coordinating with responsible BU unit and SA with open question and approaches.
+· Freeing the requirement with consent to BU and SA.
+· Discussing with SA on blue printing and helping in there preparation
+· Supplying and discussing the blue print document within the team. 
+· Individually responsible for CO, PS, CO-PC, ML , FI and Assets object.
+
+
+Client: - UCB Parma Support and roll out Industry 
+Duration: - July 2014 - Aug 2017
+Industry: - Pharmaceutical
+
+Project & Role Description
+
+UCB (Union chimique belge) is a multi-national bio pharmaceutical company headquartered in Brussels, Belgium. UCB is an international company with revenues of 3.3 billion that focuses primarily on R&D, specifically involving medications centered on Epilepsy, Parkinson's & Crohn's diseases. The Company's efforts are focused on treatments for severe diseases treated by specialists, particularly in the fields of central nervous system disorders (including epilepsy), inflammatory disorders (including allergy)
+and oncology.
+
+
+Functional Involvement module wise:-
+Controlling: -CO-CEL, CO-OM, CO-PCA, CO-PA, CO-PC and PS.
+
+Responsibilities (Support)
+
+Working as a SME and is responsible for solution critical open issues, development and open CRQs.
+Looking after critical object in FI, CO, PS, PC, Assets, and integration area with other module like PP, MM, SD. Also in role have to mentor a team of 8 junior FICO consultant 
+· Handling implementation work package in area of FI and CO.
+· Responsible for preparing functional specifications for ABAP programming and for process enhancement.
+· Coordinating with the client Management and Business Integrators for resolution development,
+SAP functionality testing (post deletion exercise) and reconfiguration.
+· Analyzing the errors and provide sound solutions to avoid recurrence.
+· Helping team in Resolving Month end & yearend issues.
+· Coordinating with client and advising the client on process related issues.
+· Discussing the critical issues with the end-user and working closely with technical and functional consultants of other modules to resolve the cross functional issues.
+· Attending KT sessions to update knowledge on new issues.
+
+Additionally also conducted several Boot Camp training to new joiner within project and outside of Project.
+
+
+
+Client:-Carlsberg
+(Roll out, Integration testing)
+Industry:-Beer Manufacturing 
+Duration:-10th Jan-31st June. Location: - Offshore
+
+
+Project: - Roll Out
+The Carlsberg Group is a Danish brewing company founded in 1847 by J. C. Jacobsen with headquarters located in Copenhagen, Denmark.
+
+Responsibility: - Roll Out.
+Working as FI/CO consultant, My roles and responsibility involve In the area of Finance and controlling in this project.
+
+Rolls & Responsibility:- Controlling and Product costing
+
+· Involved in setting BOM, Resource, Recipe, Standard value key, Formula Parameter and Formula calculation, Activity planning, Cost centre accounting, assessment and distribution cycle and segment, FI/MM PA transfer structure, allocation structure etc.
+· Involved in executing end to end business process and master data setting like
+· Execution of standard costing
+· Creating PPC with combination to FERT Material and production version.
+· Maintaining Production Version for BOM and Recipe determination.
+· Execution of preliminary costing.
+· Process order Creation for specified FERT Material.
+· Posting Confirmation of activity.
+· Back flush setting at the resource level as per determination level in material master record (For Automatic goods issue with movement type 261).
+· Goods receipt posting with movement type 101.
+· WIP setting and calculation at month end activity.
+· Variance setting and month end variance calculation
+· Setting Allocation structure and executing Settlement of PCC.
+· Cycle and segment creation for internal allocation like assessment and distribution of cost from within CO and cycle and segment for COPA assessment.
+· Revenue and deduction condition mapping to COPA.
+
+Finance:- Based on the work load basis.
+
+· Involved in FI-SD and FI –AP integration.
+· Worked along with SD consultant for mapping condition technique and pricing procedure for approval process to get trigger in billing via access determination.
+· Automatic payment term and dunning procedure setting and executing.
+· Involved in determining the GL grouping concept along with Clint for PL and Balance sheet account
+· End to End scenario analysis of client’s business processes and resolving Defect arises in UAT.
+
+
+
+
+
+
+Work Experience
+
+
+Organization: -Mahindra Satyam 22 Nov 2010- 31Jan 2014
+
+Client:-Cambridge University Press
+Industry:-Media & Entertainment. 
+Duration:-Oct 2012-Jan2014.
+Location: - Offshore
+(End to End Implementation & Support).
+
+Cambridge University Press caters to the publishing business of the University of Cambridge. It is the world's oldest publishing house. Cambridge University Press is both an academic and educational publisher.
+
+Ends to end SAP implementation project, Implemented module are FI, COPA, MM, SD, HR and PS.
+
+
+Responsibilities (Implementation)
+Involved in blue print realization for finance and controlling.
+
+FI – Activity:-
+Based on the business blue print:-
+· Mapping the organizational structure in SAP.
+· Maintained chart of account, Account group, Gl account, field status variant (copied and modified), Fiscal year variant, posting period variant.
+· Configuration of Automatic payment program and Electronic bank statement.
+· Maintained payment term, setting for open item clearing and tolerance group for customer, vendor and employee.
+· Maintenance of tax procedure and tax code and tax jurisdiction code and calculation method.
+· Maintained Chart of Depreciation copied from standard provided for country Great Britain.
+· Assigned chart of depreciation to company code and deleted not required depreciation area.
+· Created several assets class as per business requirement, account determination.
+
+CO and COPA Activity:-
+· Responsible for Gathering information on the business process, documenting it and realising it
+in the SAP.
+· Maintained Operating Concern, Controlling area, Version, Cost centre, Profit centre, Cost Driver and supportive object like cycle and segment for periodic reposting, distribution and assessment.
+· Based on the business segment reporting requirement determined the data structure (characteristic and value) of operating concern.
+· Maintained derivation rule for various user defined characteristic.
+· Created IO for both as statistical and real object.
+· Created internal order type for an overhead, Investment and accrual order.
+· Investment profile and class for AUC in IM for capital investment which are used in WBS element.
+· Based on the business settlement requirement for order and WBS element created settlement
+profile with (Allocation structure and PA transfer structure), which we are using in order and in project profile for periodic settlement.
+· Defined PA transfer structure for internal allocation and settlement, And for direct posting from FI/MM.
+
+
+
+
+· Setting of the automatic account determination in OKB9.
+· Created activity type for direct and indirect activity allocation.
+· Prepared configuration document for future reference.
+· Involved in interface development for direct posting to COPA.
+· Identifying the management reporting need, requirement and creating report using report painter tool.
+· Maintained variants for top down distribution in product hierarchy structure with respect to several business scenarios.
+
+
+Investment management and Project system:- Due to resource shortage involved in below PS related Activity
+· Mapping of WBS structure and sub structure.
+· Involved in creation of project profile and dependent requirement.
+· Settlement profile and allowed parameter for settlement.
+· PA transfer structure and allocation structure for respective settlement.
+· Created Investment profile for capital investment project with Assets class for AUC and Assets.
+· Involved in creating network profile and order type.
+· Involved in testing various end to end business scenario.
+· Maintenance of master data like WBS element, Network, Activity and activity element.
+· Interlink of PS to MM FI and CO.
+Support Activity:-
+· Provided resolution based on the error analysis.
+· Giving solution on the business process.
+· Helping user in there month end activity like executing settlement.
+· Based on new business requirement involved in developing object in PS, FI and CO.
+
+Responsibilities (Hyper care Support/ Normal Support)
+· Resolving tickets in area of FI/CO and PS.
+· Preparing functional specifications required for ABAP programming for process enhancement.
+· Coordinating with the client Management and Business Integrators for resolution development, SAP functionality testing (post deletion exercise) and reconfiguration.
+· Analyzing the errors, researching for the cause of errors, providing corrective solutions, and
+Suggesting for preventive actions and avoid recurrence.
+· Resolving Month end & yearend issues.
+· Coordinating with client and advising the client on process related issues.
+· Discussing the critical issues with the end-user and working closely with technical and functional consultants of other modules to resolve the cross functional issues.
+· Using support portal for both OSS notes and logging customer messages.
+· Organize KT sessions to impart and gain knowledge.
+
+
+
+
+
+
+Client: - NISSAN South Africa (Support)
+Industry:-Automobile.
+Duration:-Nov 2010 – Oct 2012 
+Profile: - Offshore FICO Consultant
+
+NISSAN is a colossal Vehicle manufacturing group. The project NSA is intended to introduce the systems and practices of Nissan Motor Manufacturing United Kingdom Ltd. (NMUK) to Nissan South Africa (NSA). NMUK is currently established on Mainframe system and the authoritative system at NSA, works on SAP.
+
+Functional Involvement module wise:-
+
+
+Finance:-AP, AR, Assets, GL
+
+
+Controlling: -CO-OM CO-OM-CEL, CO-PC,CO-PCA, CO-PA.
+
+
+Responsibilities (Support)
+· Resolving tickets in area of FI/CO and PC.
+· NISSAN is using product cost planning to update the material price, Since Nissan performs its
+production activity with its legacy system and sales activity was done in SAP.
+· Responsible for preparing functional specifications for ABAP programming and for process enhancement.
+· Coordinating with the client Management and Business Integrators for resolution development, SAP functionality testing (post deletion exercise) and reconfiguration.
+· Analyzing the errors and provide sound solutions to avoid recurrence.
+· Resolving Month end & yearend issues.
+· Coordinating with client and advising the client on process related issues.
+· Discussing the critical issues with the end-user and working closely with technical and functional consultants of other modules to resolve the cross functional issues.
+· Attending KT sessions to update knowledge on new issues.
+
+
+
+
+
+
+Work Experience
+
+
+Organization: - Spectra force Technologies (India) Pvt Ltd 
+Client: - Wipro Technologies (Bacardi International) 
+Support: - As contractual Employment
+Industry: - Wine manufacturer.
+Duration: - June 2010 – Oct 2010 Profile: - Offshore
+
+Bacardi International project has been divided into two phase IT1, IT2, This was the fresh implementation project IT1 for UK and IT2 For US.
+
+
+Responsibilities (Tester) Worked as a manual tester for end to end scenario testing
+
+
+· Analysis on Business Blue Print document (BPD files) to capture scenario details.
+· End to End scenario analysis of client’s business processes.
+· Writing and execution of scripts for different End to End Scenarios.
+· Identifying transaction codes for whole process given in scenario according to client’s Business Process Documents.
+· Actively participation in transaction validation process to find defects in process flow.
+· Identifying related steps to execute transactions according to process flow.
+· Actively participation in first level validation process of scripts.
+· Daily interaction with Functional consultants and domain experts from client to understand scenarios in details to improve script quality.
+· Testing and execution of transactions and steps related to different modules like SAP PP, MM, SD, FI, WM, and SRM.
+· Intercompany order processing, complete sales cycle testing, intercompany stock transfer processing, MRP, Production execution, complete billing and payment processing along with netting and self billing process.
+· SRMcreation shopping cart, automatic purchase orders, order confirmations…etc.
+· FI-Automatic payment, Dunning, Invoice and Billing
+· MMGR, GI, stock overview…etc
+· SDsales order processing, delivery , pick pack, PGI, shipment, Billing…etc
+
+
+
+
+
+Non SAP related experience 
+Work Experience :
+
+Organization:-HDFC Bank
+Duration:- 13 October 2003 – June 2010
+Profile: - Onsite + Offshore
+
+Over all 7 years of experience in banking sector (Retail Banking HDFC Bank). Responsibilities
+Worked in different department during my tenure as such:-
+· Joined as a officer trainee
+· Looking after day to day operational activity.
+· Worked in various area in retail banking
+· Managing cash, Fund transfer, clearing of checks, locker management, handling large cash transaction and updating register and buying and selling cash from/to vault and chest.
+· Involved in authorization of transaction as a manager
+· Looking after update of check register, vault register and locker register.
+· Maintaining audit requirement
+·  Also taken care of promoting bank product.
+
+
+Education
+
+	Degree
+	Specialization
+	University/Board
+	Year of passing
+	Percentage
+
+	Graduation
+	B.Com honors
+	Bardhaman University WB
+	1998
+	58
+
+	Class XIII
+	Commerce
+	Vinoba Bhave University Jharkhand
+	1995
+	58
+
+	Class XI 
+	General
+	CBSE
+	1993
+	50
+
+
+	
+
+Passport & Visa Details
+
+	Passport No
+	Z2223570
+	Valid Up to: 06 Feb 2021
+
+	Visa Type
+	Country
+	Valid Up to
+
+	BUSINESS VISA
+	United Kingdom(UK)
+	Valid up to 9TH Oct 2013
+
+
+
+Personal Details
+
+	Particular
+	Details
+
+	Name
+	PRAMOD KUMAR SINGH
+
+	Email ID
+	pramod.lkb@gmail.com
+
+	Marital Status
+	Married
+
+	Date of Birth
+	16th April 1975
+
+
+

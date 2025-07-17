@@ -1,0 +1,312 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+
+Rashmi M. Patil (Madihalli)
+Email: rashmimohitpatil@gmail.com
+Mobile: +91-9890082496, +91-9284921934
+
+Summary:
+
+· I am working with Ideas To Impacts Innovations since June 2017.
+· Had been associated with Syntel Pvt. Ltd. from June 2015 to May 2017 and associated with L&T InfoTech, Pune as a .Net Developer, from Feb 2012-June2015. 
+· Demonstrated abilities in generating healthy relationship with Internal & External Departments&maximizing service deliveries to client in both companies. 
+· Worked as an Intern (6 months) in Fujitsu India Pvt. Ltd, Pune for final Year Industrial project.
+
+Key Skills: 
+	Domain
+	Healthcare, ERP, MFG
+
+	Programming Languages
+	Angular JS, HTML5, CSS3, WEB API, Entity Framework, Boot-Strap, Asp.Net 2.0/3.5/4.0, C#.Net, HTML, Java Script, Mongo DB.
+
+	Tools /DB/Packages
+	GIT, TFS, N-Unit, MS SQL Server,Citrix
+
+
+
+Certifications:-
+
+· Microsoft Certification in .Net Framework 4,Web applications
+· Microsoft Certification on Programming in Html 5 with JavaScript and CSS3
+
+PastExperience:  Total- 5.6 years
+
+Ideas To Impacts Innovations
+Designation:Sr.Software Engineer
+
+Syntel Pvt. Ltd.
+Designation:Software Engineer
+Duration:2years
+
+L&T InfoTech.
+Designation:Software Engineer
+Duration:3.4 years
+
+Fujitsu Consulting India Pvt.Ltd, Pune
+Designation:Software Engineer
+Duration–6 month (MCA–Final Year Project)
+
+Achievements:-
+
+· Got a chance to work at client(kotak) location.
+· Received client appreciation for Goal Based Modeling project. And got an opportunity to work with Angular JS.
+· Received Team Award & Valuable Contribution Award for Excellent performance(Unified wafer Mapping Applications(IC Chips Mfg.)- Infineon, Germany)
+· ReceivedBest Team Performance award-2014 at Scintillation(RR Systems)
+· Received god Job award form Humana Client for best performance (Hand Written)
+
+
+
+
+Projects Undertaken:-
+
+1) Kotak Development at Ideas To Impacts Pvt. Ltd
+
+	Project Name
+	Kotak Development Project
+	Team Size
+	12
+
+	Start Date
+	July,2017
+	End Date
+	Till Date
+
+	Description
+	Kotak development is a Mumbai based project. They need to automate all the manual processing which are done in the bank. We had developed a framework for Kotak called “form Builder” in Angular JS and Web Api. We used different workflows in the project. For each process happening manually one workflow. Each workflow contains 5-6 individual forms. The project used Ajile methodology. 
+
+	Role & Contribution
+	· Design, Develop, Test(NUnit), Tune and Implement applications.
+· Maintain, troubleshoot, optimize and improve performance of the application.
+· Assist management in technical assessment of risks and issues, and document recommendations in the team.
+· Participate in technical/functional requirement walkthrough, release planning and status meetings.
+· Provide technical direction on overall architecture and strategy.
+· Communicate with technical and non-technical groups on a regular basis as part of project support.
+· Understanding existing implementations and its functionalities and work for planning and effort estimation.
+· Testing and documentation of applications using N-Unit and databases.
+· Worked under pressure with continuous changingrequirements.
+
+
+	Technologies
+	AngularJS, HTML5, CSS3, JavaScript, WEB Api, MongoDB, Entity Framework, GIT,Postman
+
+
+
+2) CIS(Contract Information System) at Syntel Pvt. Ltd
+
+	Project Name
+	Contract Information System(CIS)
+	Team Size
+	8
+
+	Start Date
+	Oct,2016
+	End Date
+	Till Date
+
+	Description
+	CIS(Contract Information System) compares claims against the provider contracts and determine the correct pricing. Pricing is claimed by provider and given to payer. Once a service is provided by Providers to Humana's Subscribers, the expenses incurred are recovered through Claims submitted to Humana. This application is used to create claims, to view pricing and to research pricing for the existing claims. CRT (Claim Regression tool) is with the additional feature where user can build and save claim, compare claims in different environment(TEST, QA, PROD).
+
+	Role & Contribution
+	· Design, Develop, Test, Tune and Implement applications.
+· Maintain, troubleshoot, optimize and improve performance of the application.
+· Assist management in technical assessment of risks and issues, and document recommendations.
+· Participate in technical/functional requirement walkthrough, release planning and status meetings.
+· Provide technical direction on overall architecture and strategy.
+· Communicate with technical and non-technical groups on a regular basis as part of project support.
+· Understanding existing implementations and its functionalities and work for planning and effort estimation.
+· Testing and documentation of applications and databases.
+· Also worked on a tool for Virtualizing services.
+
+	Technologies
+	AngularJS, HTML5, CSS3, JavaScript, WEB Api,DB2, Entity Framework, TFS
+
+
+
+3) Goal Based Modeling (GBM) at Syntel Pvt.Ltd.
+
+	Project Name
+	Goal Based Modeling (GBM)
+	Team Size
+	6
+
+	Start Date
+	Jul-2015
+	End Date
+	Sept-2016
+
+	Description
+	Goal Based Modeling (GBM) is a standardized fixed price modelling contract. It is one of the web based interface used to set the contract goals and it gets the result based on goal set. This is one of the model to automatically build the contract terms based on goal set.It is a tool that will model current hospital contracts as standardized fixed price contracts, allowing new contracts to be created based on the new models. It converts hospital’s ‘percentage of charge’ contract terms into standardized ‘fixed priced’ contract terms while enhancing business processes ultimately resulting in cost reduction of hospital claims. Humana calculates the pricing based on percentage of charge pricing. But it results in increase of refund cost for Humana. To minimize this loss Humana decides to set a fixed price for pricing a claims. Fixed price may vary according to the market analysis. By using this model, Humana can pay optimum price to the provider where Humana cannot be in loss.
+
+	Role & Contribution
+	· Design, Develop, Test, Tune and Implement applications.
+· Maintain, troubleshoot, optimize and improve performance of the application.
+· Assist management in technical assessment of risks and issues, and document recommendations.
+· Participate in technical/functional requirement walkthrough, release planning and status meetings.
+· Provide technical direction on overall architecture and strategy.
+· Communicate with technical and non-technical groups on a regular basis as part of project support.
+· Understanding existing implementations and its functionalities and work for planning and effort estimation.
+· Testing and documentation of applications and databases.
+
+	Technologies
+	AngularJS, HTML5, CSS3,JavaScript, WEB Api,DB2, Entity Framework,GIT
+
+	Key Achievements
+	· Learn AngularJS and Web-API
+
+
+
+
+
+
+4) Resource Requisition System (RR System) at L&TInfoTech
+	Project Name
+	RR System
+	Team Size
+	11
+
+	Start Date
+	January ,2014
+	End Date
+	June,2015
+
+	Description
+	It is an internal ERP Application which is used to fulfill resource hiring request for internal and external resources. The application has been linked with Hire-Craft Tool which is widely used in most of the MNC. The main modules of application are PM console, DM console, Vertical and Horizontal RPM Console, RAMG console and Hire craft. Hiring for onsite and offshore location features available. Application shows fulfillment workbench dashboard which summarize the quarterwise history. Dynamic mail component (SMTP) has been linked with application which triggers the mail alert as per operations/activity. Yearly/Monthly/Weekly Report export features available.
+
+	Role & Contribution
+	· Worked as a developer inthe project.
+· Helped support team to solve tickets(BMC Tool) and various issues.
+· Developed Workflows/Custom Web parts using C#,Asp.net
+· Designed Form to meet requirements using CSS and Master pages
+· Worked with Complex SQL Queries, Nested Stored Procedures,and JavaScripts.
+· Unit testing and Performance issue resolution using N-unit tool
+· Preparation of High Level & Low Level Design documents for functionalities and enhancements.
+· Used Agile methodology and followed the Scrum process
+· Strictly followed the quality parameter like Standard MOM Templates, Standard KT Checklist, Code versioning(SVN). 
+
+	Technologies
+	C#,Asp.net,SQL server 2008, AJAX, JavaScript, Jquery, SQL Jobs,SVN
+
+	Key Achievements
+	· Mentored juniors in learning different Aspects of Visual studio 2010(Grid Operation/Connection Pooling so on…)
+· Got many Appreciations for ‘On time delivery’.
+
+
+
+5) Unified Wafer Mapping Application(Client: Infineon Technologies) at L&T InfoTech
+	Project Name
+	Infineon Technologies(Unified Wafer Mapping application)
+	Team Size
+	1
+
+	Description
+	UWM (Unified Wafer Map) is a process of generating a unified wafer map called ‘Map0’ based on the optimized wafer layout from WLM and PTM systems. This Map0 is the Master map for each Product based on 1st Mask. The Map0 thus generated is modified & saved by adding the reference dies & filling with wafer fill details. This modified Map0 is used for the production wafer map of a lot at the first process step of product manufacturing. The Map0 is used for collecting the measurements of optical inspections that involves capturing of the errors occurring on a wafer by scanning the wafer using the scanner and microscope. The UWM system is used for tracking fail lines in the wafer at different sites by automatic upload of the Yield managers defect density measurements. The summary map which is the summary of the electrical maps is generated real-time using the UWM system. The UWM tool also provides an importing and exporting functionality of wafermaps into different wafer formats namely IFX standard Format layout, the WQL layout used for the prober setup, the KLA result file containing the defect density measurement from the Yield manager system.
+
+	Role & Contribution
+	· Worked as aDeveloper and Application Owner with C# language
+· Handled the entire UWM application
+· Followed Agile Methodology (Scrum Process) with Role as Scrum Master.
+· Held daily Scrum Meeting with the client for tasks in sprints.
+· Worked on Automated testing tool called N-Unit for performing unit testing on the Wafer Maps.
+
+	Technologies&Tools
+	Visual Studio 2008,C#, SQL Server 2008,N-Unit Testing tool,TFS
+
+	Key Achievements
+	1.Work with N-Unit testing tool
+2.Client Exposure
+
+
+
+Educational Details:-
+	Degree
+	University/Board
+	Year of Passing
+	Percentage
+
+	MCA(Post Graduation)
+	PuneUniversity
+	2011
+	66.67 %
+
+	BCS(Graduation)
+	PuneUniversity
+	2008
+	65.00 %
+
+	HSC
+	Maharashtra Board
+	2005
+	56.67%
+
+	SSC
+	Maharashtra Board
+	2003
+	79.86%
+
+
+
+Personal Details:-
+· DOB: 30th December, 1986. 
+· Home Address: Flat-403,A wing, New Indraprabha Hsg.Soc.,
+Near Shinde Petrol Pump, Vikas Nagar, Dehu Road,
+Kiwale, Pune. 412101
+· Gender: Female
+· Nationality: Indian
+· Passport No:K1635975
+· Marital Status:Married
+· Languages Known: English, Kannada, Hindi and Marathi
+· Hobbies: Swimming, Reading Novels
+
+
+
+Rashmi Patil
+Place: Pune

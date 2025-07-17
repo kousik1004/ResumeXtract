@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kritika Kumari
+
+Mobile: +91 8754902944
+Email: kritika.giftian@gmail.com / kritika.live@gmail.com
+          
+
+A 3+ years experienced SAP Security & GRC Consultant seeking a challenging and rewarding career in ERP where I can contribute to the growth of the organization by maximizing the Enterprise wide Security and ensuring compliance through the implementation of effective SAP Governance, Risk and Compliance Solutions.
+	Areas of Experience
+
+
+Industries
+Healthcare
+
+
+Database System
+Oracle 11g 11.2.0.3.0
+
+
+Operating System
+UNIX  AIX 6.5
+
+
+SAP Environments
+SAP ECC 6.0
+SAP SRM 7.0
+SAP GRC 10.1
+SAP BI 7.0
+EPP/EPI/EPD & EPX (portals)
+
+
+
+
+
+WHY ME?
+Apart from the technical expertise required for this job, I have:
+· Experienced in working independently.
+· Experienced in facing the client.
+· Experienced in coordinating with the users through live meetings to analyze the issue and provide them with defect free resolution. 
+· Excellent verbal and non-verbal communication skills, leadership quality, flexibility and ability to work in a team environment.
+· Good analytical and problem solving skills, ability to meet the deadlines and handle multiple tasks.
+
+Highlight:  Got promoted this year to Senior Software Engineer
+
+TECHNICAL SKILLS
+
+· ECC Security:
+
+· User Management: creation/ deletion/ locking/ modifying users and assigning access to them as per their roles and responsibilities within the organization.
+· Analyzing the missing authorizations for the users through SU53 (Display Authorization Data for User) and ST01 (Authorization trace for the users).
+· Assigning missing authorizations to the users as per their requirement.
+
+
+· Role Management: creation and modification of roles using PFCG (Role Maintenance) and transporting them to the different ECC/SRM systems.
+· Have worked on Single (Master and Derived)/ Composite roles involving transaction code and authorization level changes for their standardization.
+· Providing authorization object for the customized programs and T-codes created by the technical team members.
+· Worked with User Information System (SUIM) for querying on various authorization data related to users, roles and transaction codes etc. 
+
+
+· SSO (Single Sign-On) – Have configured SNC name for the users in SNC tab of User Maintenance and have acknowledged the users how to enable and login to the systems using SSO.
+· Acknowledged the users to access the backend systems through the portal.
+
+
+
+· SRM Security & BI Security:
+
+· Creation and modification of users and their access in SRM systems (e-Procure) based on their roles and responsibilities like SRM Requisitioner, Purchaser, Approver, Central Confirmation etc. 
+· Assigning the portal roles to the users and performing user mapping from the frontend to backend.
+· Maintaining the HR Mini Master Data for the users and replicating them from the ECC system to SRM system in order to create positions for them within the Org and maintaining the attributes for their e-Procure account.
+· Assigning BI Reporting access to the users based on their requirements.
+
+
+
+· GRC:
+
+· Emergency Access Management:  allows temporary access for the users giving them provisionally broad but regulated access.
+Super User Assignment: assigning owners and controllers to Firefighter IDs and assigning Firefighter IDs to the users.
+
+· Access Risk Analysis: used for preventive and ongoing monitoring of SoD risks, critical transactions and mitigating controls. 
+User Level Simulation
+Role Level Simulation
+
+· Taking Log Reports for the Firefighter IDs.
+
+
+
+
+
+PROFESSIONAL EXPERIENCE
+
+	Project Name
+	IMS Health (QuintilesIMS)
+
+	Role
+	SAP Security & GRC Consultant
+
+	Organization
+	Hexaware Technologies Ltd. , Chennai
+
+	Duration
+	July 2014 - Present
+
+	Environment
+	ECC 6.0/ SRM 7.0/ GRC 10.1/ BW 7.0
+
+
+
+
+
+Project Description 
+
+IMS Health is an American company that provides information, services and technology for the Healthcare industry. It is the largest vendor of U.S. physician prescribing data. IMS Health is best known for its collection of healthcare information spanning sales, de-identified prescription data, medical claims, electronic medical records and social media. IMS Health’s products and services are used by companies to develop commercialization plans and portfolio strategies, to select patient and physician populations for specific therapies, and to measure the effectiveness of pharmaceutical marketing and sales resources. The firm uses its own data to produce syndicated reports such as market forecasts and market intelligence.
+
+Roles and Responsibilities
+
+· Day to day technical support and resolution of Security issues.
+· Creating Users based on the request and assigning additional roles to the existing users based on their requirements.
+· Creating composite /single roles specific to company codes based on the request.
+· Addition or removal of transaction codes, authorizations, authorization objects by modifying existing roles based upon change request.
+· Performed Transportation of newly created roles/ modified roles and performing User Comparison in PFCG.
+· Analyzing missing authorizations through live meeting with the users or through error screenshot sent by them.
+· Optimizing the authorization checks by utilizing the SU53 and System traces (ST01).
+· Worked with USR* and AGR* tables.
+· Locking and changing the validity date for the expired users.
+· Providing authorization object for the customized programs and T-codes created by the technical team members.
+· Preparing Weekly Incident Status report for the team and the client to review and discuss the status of the tickets in the Status call.
+· Attending meeting/call with the Client on Weekly Basis and discussing the issues.
+· Providing technical and domain specific training to the new joinees and Freshers in the team.
+· Providing the value additions and highlighting the areas of process improvement to the client and the team.
+QUALIFICATION
+	Degree
+	Institute
+	Score
+	Year
+
+	Bachelors of Technology
+	Gandhi Institute For Technology
+	8.07 CGPA
+	2014
+
+
+
+
+PERSONAL PROFILE
+
+Date of Birth			:  09th Oct 1992
+Languages Known		:  Hindi, English, Oriya and German (Beginner)
+Marital status			:  Single
+
+
+I hereby declare that all the details furnished above are true to the best of my knowledge.
+
+		(Kritika Kumari)				
+

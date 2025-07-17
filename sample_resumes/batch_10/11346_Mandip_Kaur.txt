@@ -1,0 +1,228 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VITAL
+
+CURRICULUM VITAL
+
+Mandip Kaur
+
+# 4023 Sector – 68, Mohali,   
+
+Distt. - Mohali,                                 Email: mandip.kaur68@gmail.com                                                                                                                                Punjab.                                             Contact no: 9815221687      
+Career Objective
+
+
+
+
+
+
+
+  
+I want to work with an organization in which my capabilities prove to be worthy and additionally I     can gain maximally from it.
+Professional Experience
+
+
+
+
+
+
+
+  
+Worked as Software Engineer with Sebiz Infotech (Aug 2009 – Nov 2011)
+
+Working as Senior Software Engineer with smartData Enterprises (Dec 2011 till date)
+Project Detail
+
+
+
+
+
+
+  
+Project Name – GoPetGo
+URL – http://GoPetGo.com
+Role – Developer
+Team Size – 2
+Responsibilities – 
+
+· Requirement gathering 
+· SRS Creation
+
+· Analyze, design project & database
+
+· Development of Web Forms
+Development Tools – ASP.Net 3.5 Using C#, Sql Server 2008, JavaScript, JQuery, CSS, URL Routing, Content Management System, Delegates, Customer Information Management CIM of Authorize.net, SQL Reporting, TimeZone Management
+Description – GoPetGo is a pet care web application. It consists of four modules i.e. Admin, Business Owner, Provider and Customer. In this application Business Owners can register their business and enter the business specific details like services (Hair Cut, Nail Cut, Boarding, Pet Sitting etc) , Providers (employees of business), Promotional Cards, Service Cards etc. They can manage themes of their account. Business can view reports.
+Customized Website URL is provided to business in which all information specific to business is displayed. Business can manage the themes, content management system of customized website. 
+
+The customer who did reservation with specific can login in into their business customized website and can edit/view the details for that business.
+
+Customer registers for doing online / offline reservations with business to availing services for their pets. 
+
+Providers (employees of business) have their own module. They can see the reservations that are assigned to them and perform specific actions.
+
+Admin can manage the Businesses, Customers, Themes, Content Management System, Feature List Services, Memberships, Payment Methods, Service Categories and Security Questions etc.
+Project Name – DokTalk
+URL – http://Doktalk.netsmartz.us
+Role – Developer
+Team Size – 3
+Responsibilities – 
+· Analyze HL7 Feeds & design database
+
+· Development of Web Forms and Web Services to communicate with IPhone
+Development Tools – ASP.Net 3.5 Using C#, Sql Server 2008, JavaScript, CSS, Time Zone Management, APNS Alerts
+
+Description – DokTalk is an application like repository of Hospital Patient & Physician Details. In this we’ll receive the information of various hospitals in form of HL7 Feeds & store it in our database. Admin can manage his physicians & patients through Admin web portal. Its Iphone app is used to communicate between the different physicians. They can text corresponding to any patient for all his physicians that are linked to patient. They can send patient linking request to any physician. We send APNS alerts to physician for request approval or decline & set database as per his choice. The beacons will be provided on unread message & make unread messages as read once that messages get viewed by physician. These functionalities are implemented with help of web services. 
+
+Project Name – Enhancewell
+Role – Developer
+Team Size – 3
+Responsibilities – 
+· Design Database
+
+· Development of Web Services to communicate with IPhone
+Development Tools – ASP.Net 4.0 Using C#, Sql Server 2008
+
+Description – Enhnacewell is an IPhone app related to Gym for Gym Trainers & his clients. In this Trainer assign tasks/Exercise to his client & manipulate the changes in client body through graphs. There are two logins of this app. One is Trainer and other is client. Client can view the task/Exercise assigned to him and he can also view the graph of his body progress in weeks. We have created the web services to communicate with Iphone & manage whole database functionality.
+
+Project Name – ExpressContracts
+URL – http://ExpressContracts.com
+Role – Developer
+Team Size – 1
+Responsibilities – 
+· Analyze, design project & database
+
+· Development of Web Forms
+Development Tools – ASP.Net 2.0 Using C#, Sql Server 2008, JavaScript, JQuery, CSS, Google Docs, Twitter Integration using oauth, Third Party tool for Efax Integration, Communicate with Flash Component with web services.
+Description – ExpressContracts provides functionality to sign contract in two ways: E Signature and Fax Signature. User can manage his contracts online. User can upload contracts in any format like, doc, xlst etc by uploading or from google docs or from template library. System will convert it into PDF. User can make its document Password Protected. User can add any field on contract dynamically. Document will be sent to other party by email or fax number. In an email the other party can E-Sign document by clicking on link provided in email. For Fax we use Efax Integration third party tool, other party receive document through fax & after signing document he need to fax that document back to number that we print on coversheet of document. On coversheet we also provided the barcode with which we can recognize the document number of document. This process continued with other parties until whole parties have not signed document. In Case any party reject the document then email will be sent to all parties regarding the rejection of document. User can manage his contracts online can view the current status of signing process of document. It also provide company branding in user login depends upon the membership.
+Project Name – Chartswell
+Role – Developer
+Team Size – 2
+Responsibilities – 
+· Analyze Project Requirement
+
+· Development of Website to communicate with Web Services using JQuery
+
+· Integration of Facebook and Twitter using oAuth authentication. 
+Development Tools – ASP.NET 4.0, HTML, JQuery, CSS, Facebook Integration and Twitter Integration
+
+Description – Chartswell is an application to locate the near by dining campuses. In this we’ll receive the information from Web Services and send information to Web Services to store it in database. Local Information is stored in cookies. 
+
+ Education
+	Examination
+	School/college
+	Board/University
+	%
+
+	B.Tech(Computer Engineering)
+	S.U.S.C.E.T Tangori.
+	P.T.U
+	76.2%
+(With Distinction)
+
+	S. S. C
+	Sant Isher Singh Sr. Sec. School, Mohali.
+	P.S.E.B
+	67%
+
+	Intermediate
+	Doaba Khalsa Model Sr. Sec. School, Jalandhar.
+	P.S.E.B
+	66%
+
+
+Training
+· Six Weeks Institutional Training in C#.net from S.L.R Infotech Pvt. Ltd.
+· Six Months Industrial Training in ASP.net in Sebiz Infotech Ltd.
+
+Computer Skills
+· C/C++
+
+· ASP.NET
+Extra Curricular
+· Stood First in Kho Kho at District level(2000).
+
+· Runner Up in Hockey at District level(2001).
+· Stood Second in Science Fair at District level(2004).
+· Stood Third in long jump at College level(2008).
+· Member of I.S.T.E (Indian Society for Technical education).
+
+· Blood Donor.
+Personal Information                                                                                                                                     
+Name                             :
+Mandip Kaur
+Father’s Name                :
+Dhana Singh
+Sex
+
+
+ :
+Female
+
+Marital Status
+
+ :
+Single
+
+Nationality
+
+ :
+Indian
+
+Hobbies                         :          Traveling, Sketching, Playing Games.
+Permanent Address         :            # 4023 Sector- 68, Mohali
+                                                     Distt. - Mohali
+
+                                                     Punjab
+
+Contact No.                      :
+ 9815221687
+Date of Birth                     :
+ 21 - 11 - 86
+ Declaration                                                                                                                                  
+
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
+

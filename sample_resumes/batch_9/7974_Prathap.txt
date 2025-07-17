@@ -1,0 +1,267 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page 1 of 3 
+
+Prathap 
+
+Email: prathap.aimit@gmail.com 
+
+Mobile: +91-9743700572 
+
+Summary 
+
+ A competent, detail oriented professional with 4 year and 5 months of experience in 
+
+Development, Database Design and Presentation using SQL Server. 
+
+ Strong Experience in SQL Server Integration Services (SSIS) and SQL Server Reporting 
+
+Services (SSRS). 
+
+ Expertise in coding and using cutting edge tools. 
+
+ Productive in both team based as well as self-managed project. 
+
+ Team player & effective communicator with strong analytical, problem solving & organizational 
+
+abilities. 
+
+ Key strengths include systematic thinking, problem-solving capability, and ability to learn new 
+
+technologies quickly and could easily adapt to new environments. 
+
+ 
+
+Professional Experience: 
+ 
+
+ Experience in creating various types of reports like drill down, drill through, Parameterized, 
+
+Cascading, Table, Charts, and Sub Reports etc. using SQL Server Reporting Services (SSRS). 
+
+ Experience in monitoring, extracting and transforming data using SSIS, Import Export Wizard, 
+
+and Bulk Insert. 
+
+ Experience in High Level Design of ETL, SSIS Packages for integrating data 
+
+using different connection managers from heterogeneous sources like (Excel, CSV, Oracle, flat 
+
+file, Text Format Data) by using multiple transformations provided by SSIS such as Data 
+
+Conversion, Conditional Split, Bulk Insert ,  Merge , union all etc. 
+
+ Experience in writing expressions in SSRS and fine tuning the reports. 
+
+ Excellent knowledge in creating Databases, Tables, Stored Procedures. 
+
+ Designed Dashboards, Scorecards and reports using multiple KPI’s, SSRS Reports. 
+
+ Experience in SSIS (Integration Service) package design, constructing, and deployment. 
+
+ Experience in creating packages to transfer data between ORACLE, MS ACCESS and FLAT FILES 
+
+to SQL SERVER using SSIS. 
+
+ Experience in creating Parameterized Reports. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Page 2 of 3 
+
+Technical Skills: 
+
+ 
+
+    Databases                                :   MS SQL Server, Oracle, SQLite, PostgreSQL 
+
+   Data Warehousing                     :   SQL Server Reporting Services (SSRS), 
+
+   SQL Server Integration Services (SSIS), ETL. 
+
+Microsoft .Net Technologies : ASP.Net, ADO.Net, C#. Net  
+
+Programming Languages  : C#.                                                                                        
+
+Visual Stuio.NET : Visual Studio 2012/2010/2008. 
+
+ 
+
+Educational Qualifications:  
+
+Master of Computer Application, AIMIT, Mangalore, India 
+
+Bachelors of Science, St. Aloysius College, Mangalore, India 
+
+ 
+
+Experience:  
+
+MResult Services Private Ltd, Mangalore 
+
+July 2013 - Till Date 
+
+Senior Software Developer  
+
+Projects: 
+
+Company: MResult Services Private Ltd, Mangalore. (1
+st
+ July 2013 - Till Date) 
+
+1. Workforce Productivity Tracker 
+
+Project Description: Workforce Productivity Tracker is a workbook built using SSIS and Tableau 
+
+for LMH (Lawrence Memorial Hospital), USA. It is used by the members of the management who 
+
+will be responsible for taking decisions based on the data provided by the dashboard. It contains 
+
+Hospital Employee Payroll Details, Patient Details and Volume of Medicines Adjusted etc. 
+
+Activities performed: ETL, Bug fixing. 
+
+Platform: SQL Server 2010, SSIS. 
+
+Client: LMH (Lawrence Memorial Hospital). 
+
+ 
+
+2. Amgen Technical Services Data Entry Portal 
+
+Project Description: Amgen Technical Services Data Entry Portal is an application for users and 
+
+the Suppliers of Amgen. This portal will allow its users to enter data for Technical Services 
+
+Metrics, generate/submit reports and also view different kinds of reports.  
+
+Activities performed: Involved in task analysis, Coding, Bug fixing. 
+
+Platform: ASP.NET 4.0, SQL Server 2010, C#. 
+
+Client: Amgen. 
+
+
+
+Page 3 of 3 
+
+3. Astellas GDO Portal 
+
+Project Description: Astellas GDO Portal is an application used by the clinical study GDO team 
+
+who update the study status and other info which get saved in the database and in turn the other 
+
+users (i.e. Users like admin, Project lead, financial Analyst etc.) can pull the report for the same 
+
+application. This application bridges the gap between the teams who are required to have the 
+
+study details and timely reports which are used in major analysis and decision making processes 
+
+of the clinical study. 
+
+Activities performed: Involved in design and development of application also Bug fixing of the 
+
+same. 
+
+Platform: ASP.NET 4.5, SQL Server 2010, C#. 
+
+Client: Astellas. 
+
+ 
+
+4. RMS (Resource Management System) 
+
+Project Description: This application is used to manage MResult Employees in an effective way 
+
+by providing various official features for the employees. Employees can use this application to get 
+
+their salary slips, apply for leaves or any other requests can be made to IT/HR/Finance 
+
+departments. HR can post any messages which all employees can read and Resource Managers 
+
+can approve/reject leave requests. All the major sensitive data has been encrypted with 
+
+advanced encryption algorithm. This application is built with .Net framework 4.5 version and 
+
+Entity Framework with N-Layer Architecture. 
+
+Activities performed: Involved in task analysis, Task review, Coding, Encryption, Bug fixing. 
+
+Platform: C# .NET, SQL Server 2010. 
+
+Client: MResult Services Pvt Ltd. 
+
+ 
+
+Address: Pilar Prakash Nagar, 
+
+                 P.O Kotekar, 
+
+                Someshwara Village, 
+
+      Karnataka, India 
+
+                Mangalore – 575022 
+
+D.O.B: 1st April 1989 
+
+

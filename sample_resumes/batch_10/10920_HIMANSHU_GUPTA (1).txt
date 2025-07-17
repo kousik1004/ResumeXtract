@@ -1,0 +1,154 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HIMANSHU GUPTA
+
+Mobile: +91-8237357036
+Address: Aundh, Pune, Maharashtra.
+Email: hg.himanshu11@gmail.com
+LinkedIn: linkedin.com/in/himanshu-hg/
+
+
+Career Objective:
+
+To utilize the opportunities for working with a reputed and progressive organization, where I can enhance my professional skills & strength in conjunction with the company’s goals and objectives and face new challenges.
+
+Professional Experience:
+
+Project Engineer at CDAC R&D, Pune				September 2016 - Present
+
+Key Areas
+· Perform manual and automated application security testing (Black box & Grey Box) on Web Applications hosted on premise and vendor premises.
+· Checking of OWASP top 10 vulnerabilities in web applications.
+· Perform Vulnerability Assessments on Servers (windows, Linux) through automated tool like Nessus.
+· Preparation of reports based on assessments which is submitted to top management.
+· Provide analysis and recommendations for vulnerability remediation to application team responsible for the development and maintenance of applications.
+· Designed and developed application security solutions for CDAC and Indian Air Force.
+· Working with different Government sector clients to make standards and to ensure security of Web Applications.
+· Provide training on Linux administration and Information & System Security to various Government sectors.
+· Perform configuration audit (reviews) of servers
+· Sound knowledge about network devices like switches, firewall, routers etc.
+· Basic knowledge about cloud technologies.
+· Review of Secure configuration document.
+
+Projects handled at CDAC
+
+
+· Title:		      Application Security Testing of Indian Air Force Web Applications
+Description:	Perform Grey Box testing of AFCAT and CASB registration and pre exam applications and provide analysis and recommendations to developing team.
+
+· Title:		      Deployment of Indian Air Force Web/Application Servers
+Description:	Installation of Apache-tomcat web server in four Application for Registration system with high availability cluster and load balancer.
+
+· Title:		      Automation of CDAC Examination server installation 
+Description:	Took customize OS image and implement a script to automate the installation process in HA environment of CCAT and other examinations conducted by CDAC. It involves automation of DNS, DHCP, Tomcat, Terracotta with active backup HA setup. (https://github.com/hg-himanshu/CCAT_Scripts/)
+
+Certifications:
+
+· Certified Ethical Hacker (CEH) – CEH v9
+
+Technical skills:
+
+· Web Application Security Tools: Burp Suite, Acunetix, Owasp-zap
+· Network and Vulnerability Scanning Tools: Nmap, Nessus, Netcat
+· Penetration Testing Framework: Metasploit, Armitage.
+· Basic knowledge of log monitoring & packet analysis tool SIEM, Nagios, Wireshark. 
+· Servers: Apache, DHCP, DNS, Nginx, Squid.
+· Operating Systems: Linux & Windows.
+· Computer Languages: Python, Bash Scripting, Regex, HTML, CSS, PHP & JavaScript.
+
+
+Education Qualifications:
+
+	Passing year 
+	Qualification
+	Universities/Board
+	Percentage
+
+	2016
+	PG-Diploma in IT Infrastructure System & Security
+	CDAC, ACTS Pune
+	76.67
+
+	2014
+	B Tech. (ECE)
+	UPTU
+	71.66
+
+	2009
+	12th
+	U.P. Board
+	71.80
+
+	2007
+	10th
+	U.P. Board
+	74.83
+
+
+
+Extra Circular Activities & Achievements:
+
+· Delivered a hands-on workshop on finding OWASP vulnerabilities and Bugs in null Pune Chapter.
+· Delivered training on ‘Certificate Course in Information and System Security’ in Military Intelligence Training School and Depot, Pune.
+· Delivered Classes on Linux Administration in CDAC Acts Pune.
+· Attended Workshop and Conference on Extreme Web Hacking arranged by c0c0n, Kochi.
+· Winner of “Certificate of Searching” under “Power Searching with Google” by “GOOGLE INC” 2012.
+
+Personal Skills:
+
+· Ability to effectively wok within team and getting the work done with best results.
+· Self-learning, innovative thinking and problem-solving abilities.
+
+Personal Info:
+
+· Date of Birth:		25th March, 1993
+· Hobbies:		Sudoku, Travelling, Web Surfing, Lan Gaming

@@ -1,0 +1,232 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BECON BHAUMIK        ♦Present Company: IBM ♦ Bhuvanagiri ♦ OMBR Layout ♦ Bangalore
+                                                                                                         T: 91+9945442023   ♦   Email: bhaumikbecon@gmail.com
+                                                                            
+                                                                                                                                                                  
+	Server – L3 - Linux ADMINISTRATION
+
+
+
+CAREER STATEMENT
+Working in L3 Linux support
+· Total experiences: 7.5 years. Unix, Linux platform = 7.5 years
+· Notice Period : Three  Months.
+· Current C.T.C : 7.2 lakhs per annum
+· E C.T.C : As per company standard
+
+EDUCATION
+· 2009 to 2010       Master Degree (M.COM) 1st year (discontinued), Calcutta University      
+· 2007 to 2009       Master Degree (MCA 3rd year) – IGNOU, St Xavier. 
+· 2006 to 2007       CIC (Certificate in Computer – MCA entrance) -- IGNOU
+· 2003 to 2005       Graduation (10+2+3) -- SCHOOL NAME, Manindra Chandra College, Calcutta University
+· 2001 to 2002       Higher Secondary (10+2) - SCHOOL NAME, Hare School, Kolkata, West Bengal
+· 2000 	               Madhyamik (10) - W.B.B.S.E - SCHOOL NAME, Hare School, Kolkata, West Bengal
+
+WORK EXPERIENCE
+L3 Linux Server Admin ♦  IBM  - Permanent  ♦   Client: 29 US Clients, Primary Focal : Acxsys(North America largest payment gateway) and Wolters Kluers(WK)♦ From 29th April - 2016 till present 
+Responsibilities:
+· Working as a L3 team member in live production and IBM soft-layer blue-mix cloud environment in BAU(Busyness availability uninterrupted) department 
+· Handling escalated issues from L2
+· Os Rebuild and deployment in IBM soft layer cloud environment as per client requirement
+· REDHAT CIS standard security hardening on prod servers
+· ISCSI Storage addition in IBM cloud then scanning and mounting in OS level
+· Symantech and Tredmicro antivirus installation in REDHAT 6 environment
+· Console operation from IBM cloud during server hung issue due to patching or read only mode.
+· BOND configuration on prod environment
+· DNS server build on prod servers for websphere application server
+· Bash Shell scripting for server automation task
+· Transitioning  new accounts into production(currently Nova Scotia)
+· Working changes and SRs
+· Working on various requirement as per clients 
+· Nagios troubling shooting
+· TEM (IBM Tivoli enterprize manager) Installation and trouble shooting
+· R1 soft idera backup agent installation and trouble shooting in prod servers.
+
+
+
+
+
+
+
+
+WORK EXPERIENCE
+Linux Server Admin	♦  Trianz  - Permanent  ♦   Client: Multiple Clients ♦ From 8th October - 2015 till 26th April
+Responsibilities:
+· Working as a L3 team member in implementaion and R&D department
+· Implementation, configuration and software, service installation on live environment
+· custom script startup with systemv and systemd in Centos6 and Centos 7
+· Aws instance deployment and configuration
+· Openstack installation and configuration
+· Jboss deployment.
+· MediaWiki and PHPBB framework setup and configuration
+· Zentyal openldap server configuration and integration with other operating system.
+· Os build and testing on Vmware 11 workstation.
+· Physical server OS (RHEL,Centos) setup and installation in data center
+· DNS configuration
+· Zimbra mail server installation and configuration 
+· Tomcat 8 installation
+· Oracle 12c installation and configuration in production server
+· Yum server offline configuration
+· FC lun addition to the server
+· Postfix and sendmail mail server configuration
+· Bonding configuration
+· NFS configuration
+· LVM configuration
+· User creation and permission setup
+· IP tables configuration
+· Kernel patching and system updating
+· DHCP server configuration
+· FTP configuration
+
+WORK EXPERIENCE
+Linux Server Admin♦IBM (Contract - Payroll : Alchemy)♦ Client: N/A ♦From 21st July-2015 to 7th September 2015
+Left due to bench
+Responsibilities:
+· High CPU resource utilization validation and troubleshooting 
+· Yum server configuration
+· online FC lun addition to the server
+· Mail server configuration
+· Bonding configuration
+· Disk performance test
+· NFS configuration
+· LVM disk configuration
+· User creation and permission
+· IP tables configuration
+· Jboss and Websphere application stop/Start
+· HpOvo template configuration and parsing
+· Rpm package installation
+· Server update patching
+· FTP configuration
+· System and application filesystem housekeep
+
+
+KEY ACHIEVEMENTS ( IBM )
+------------------ Nil ------------------
+
+WORK EXPERIENCE
+IT Operations Associate	♦	Accenture (Permanent) ♦  Client: Renault_Nissan  ♦From August-2012 to 13th January 2015
+
+Responsibilities:
+· High CPU resource utilization validation and troubleshooting 
+· Yum server configuration
+· online FC lun addition to the server
+· Mail server configuration
+· Bonding configuration
+· Disk performance test
+· NFS configuration
+· LVM disk configuration
+· User creation and permission
+· IP tables configuration
+· Jboss and Websphere application stop/Start
+· HpOvo template configuration and parsing
+· Rpm package installation
+· Server update 
+· System and application file system housekeep
+
+KEY ACHIEVEMENTS (Accenture)
+· Transitioned Application Monitoring team    
+· Became team lead and SPOC for Application monitoring after successful transitioned
+· Earned 5000 Accenture official performance points
+· Got top rating in first and second year during performances appraisal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WORK EXPERIENCE
+Systems Associate	♦	CAPGEMINI CONSULTING INDIA PVT.LTD (Permanent) ♦  From June, 2010 to March 2012
+				
+Department:  Infrastructure support – IMOC and Service desk Manager: Indraneel Bhattacharya
+Clients (UK): Train line Tracks, WS atkins, ITV, C-hoar bank etc.     
+                                                                                                                                                           
+Responsibilities:
+· Incident management, Incident creation in EARS
+· Done UAT (User Acceptance Test) testing on Service Now.
+· Incident creation on TOPAZ
+· Had transitioned ticketing tool migration under manager’s supervision (Peregrine to Service Now), brought to production environment.
+· Daily Server backup check - Tina.
+· Getting alerts from HPOVO, MOM and SCOM, initiating the action as per analysing those alerts.
+· Using various remote tools such Putty, VNC viewer to login the server, checking.
+· Participated transitional group and working service desk for first level Cloud technology in Capgemini Kolkata.
+· Preparing daily cloud server monitoring reports.
+· Used Citix to logging the client’s domain.
+· Modified EARS tool configuration to suitable working status such as model creation
+· Done ILO operation during outage situation
+· SOD and EOD report preparation
+· IBM Tivoli Access
+· EARS ITSM operation
+
+KEY ACHIEVEMENTS (CAPGEMINI CONSULTING INDIA PVT.LTD)
+· Transitioned Service Now ticketing tool in production for WSAtkins
+· Received rating 2 in first and second year during performance appraisal
+
+Training/Certification
+· Advanced Linux certification from Accenture
+· ITIL V3 certification
+· RHCE(EL-5) certification from IIHT
+· CIC (certificate in computer - IGNOU)
+
+Other technical activities
+· Ubuntu , Solaris 10, FEDORA 14, Red hat 5,6 installation and trouble shooting
+· GTK+ programming
+· Grub Boot loader configuration
+· VMware installation, Configuration, guest addition, deletion etc.
+· RED HAT Yum server configuration
+
+Language
+· Bengali (Native)
+· English (Fluent)
+· Hindi (Basic)
+
+Date       Signature

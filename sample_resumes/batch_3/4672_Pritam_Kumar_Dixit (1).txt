@@ -1,0 +1,78 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pritam Kumar Dixit
+Systems Engineer | Infosys Limited
+(+91)9886757528, pritamkumar.dixit@gmail.com	
+ABOUT ME
+I am a passionate full stack developer. I like to work on Java and web services along with that I have an interest in UI/UX. I love exploring newtechnologies and to play with them.
+WORK EXPERIENCE
+(Infosys may 2016 to present)
+  PROJECT    :        1
+ Title             :       Mobile Hunt J2EE Application
+Description:       An Enterprise application to fetch all the mobile stored in Sql Database and display it in the web page. Providing the end user to filter mobiles based on brand, price, and specification and also to compare two or more different mobiles and suggest the best one using Core Java, Hibernate, spring in the business layer and Angular Js, Html5, REST web services in the client side.
+ PROJECT    :         2
+ Title            :        Enterprises Content Management (Abn Amro)
+Description:         CONCORD is the website for the bank employees to search and view metadata of Email, Fax, Dossier, Documents and chats which are stored in Nuxeo and HDFS. we have to  create SOAP and REST layer for the CONCORD.  All the Data Base related operation and elastic search operation we used to do in Soap Layer as it is  more secure than REST then we use REST layer for exposing the Data in front end which is developed using Angular js.
+TECHNICAL SKILLS
+Programming Language                :  Java, JavaScript, REST and SOAP Web services
+Frameworks                                    :  Hibernate,Spring
+JavaScript Libraries                       :  Angular JS                                                       
+Web Designing                                :  BootStrap 3, CSS, HTML5
+Version control and build tools     :  Bit Bucket, Jenkins,SonarQube, Agile methodology, HP Fortify
+Database                                          :  Oracle, Hbase ,Nuxeo Content Manganement Tool                    
+Certifications                                   :  Infosys Global Agile Developer, Nuxeo certified, JEE Certified
+PERSONAL SKILLS 
+· Good communication skills
+· Adaptive to different work environments
+· Team player
+· Good in time management
+
+QUALIFICATION
+Bachelor of Technology in Electronic and Electrical Engineering from KIIT University, 2016.

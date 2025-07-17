@@ -1,0 +1,329 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						RESUME
+ANOOP PRABHAKARA						
+SENIOR DATABASE ADMINISTRATOR
+Email:anoopdba2509@gmail.com
+Mobile:+91-9944190774
+ (
+PROFILE
+)
+
+
+ (
+CARRIER SUMMARY
+)Seeking a challenging opportunity to utilize my hard earned Experience and Engineering skills in your world class organization to achieve its goals/objectives.
+
+· Having Overall Experience of around 5+ years.
+· Current employer in “Accel Frontline Ltd” as Senior Database Administrator (DBA - Level2)            duration: July 2016 – Present.
+· Previously employed with “HCL Comnet Ltd” (Payroll of Datastat Technology Pvt Ltd as Oracle - Consultant) duration: April 2015 – July 2016.
+· Previously employed with “HP India Sales Pvt Ltd” (Payroll of Softenger (I)Pvt Ltd as Oracle DBA) duration: January 2013 – April 2015.
+· Previously employed with Payroll of “Sai Powerr Zerve Pvt. Ltd” as Software Engineer duration: July2012 – December2012.
+· Previously employed with Payroll of “Krishna Energy Pvt. Ltd” as Software Engineer duration: July2011 – July2012.
+ (
+AREA OF EXPERTISE 
+)
+
+· Oracle 11g Database Administration.
+· Clone the database using coldbackup/Hotbackup.
+· Backup & Recovery.
+· Migration of NON-ASM to ASM.
+ (
+CERTIFICATION
+)
+
+· OCA  Oracle Certified Associative (Administration –I)
+· OCP  Oracle Certified Professional (Administration –II)
+ (
+EDUCATION
+)
+
+
+	Period
+	Course
+	Name Of The Institution
+	Board / University
+	Year Of
+Passing
+	Percentage Marks
+
+	2007-2011
+	B.E (ECE)
+	K.S.R College Of Engineering
+	Anna University
+	2011
+	73.9%
+
+	2006-2007
+	HSC
+	Cheran Matric Hr. Sec. school
+	State Board
+	2007
+	74.9%
+
+	2004-2005
+	SSLC
+	Cheran Matric Hr. Sec. school
+	Matriculation
+	2005
+	70.9%
+
+
+
+ (
+GENERAL ROLES & RESPONSIBILITIES
+)
+
+· Installation of Oracle on Linux and windows.
+· Creating and maintaining the Physical standby databases.
+· Analyzing the database performance using stats pack and AWR report.
+· Administrating the Database activities such as Creating Database, tables, indexes.
+· Taking cold Backups and hot backup.
+· Recovering lost objects using Flashback Table.
+· Monitor the locks and releases the locked objects.
+· Using RMAN utility to backup database.
+· Oracle Export and import.
+· Crontab scheduling and monitoring.
+· Monitoring UNIX processes.
+· Monitoring tablespace and data file space.
+· Database tuning on instance level and query level using statspack, AWR and ADDM.
+· Managing the database using Sqlplus, Toad.
+· Monitoring alert log & other trace files.
+ (
+TECHNICHAL EXPERTISE
+)
+
+
+· Operating Systems	:	Windows 2006/2003/2000 Servers, Win XP, Redhat Linux 9.0,
+Redhat Linux 4.0.,
+
+· Database		:	Oracle 9i, Oracle 10g, Oracle 11g & Oracle 12c.
+
+· Technology/Concepts	:	RAC, Golden gate, Data guard, RMAN, Patching, upgradation, RMAN,					cloning.
+
+· Languages		:	Sql 
+
+· Monitoring Tools	:	OEM
+
+· Storage			:	IBM San Storage – 8300 Series Turbo Model
+
+· Cluster Server		:	Sun Cluster Server
+
+· File Systems		:	OCFS, OCFS2, ASM, NFS,SUN Cluster Server.
+
+· Oracle Utilities + Tool:	Data pump, Export/Import, Recovery Manager(RMAN ),
+Explain Plan, Sql*Plus Auto Trace, Statspack, Sql *Loader,
+OEM, AWR Report, ADDM Report
+
+· 3rd Party Utilities, Tool:	Toad 9.0, Putty, PRTG.
+
+ (
+PROJECT DETAILS
+)
+
+Project: 1
+	Support
+	Production Database.
+
+	Client
+	HANIL, SFL, MANDO, Auto Print & Quatrro.
+
+	Duration
+	July 2016  – Present
+
+	Role
+	Senior Database Administrator
+
+
+
+Roles & Responsibilities:
+· Working as a Senior Oracle Database Administrator in 24x7 support.
+· Database running in Oracle 11gR2  2 Node RAC (10.2.0.5) and Dataguard.
+· Responsible for applying security patches & upgradation.
+· Refreshing application database from production with current data while client request by using Exp & Imp.
+· Responsible to Monitoring Backups, Database status, physical & logical structure
+· Managing Database on Automatic Storage Management (ASM)
+· Planning and scheduling backups of RMAN and Exp&Imp using schedule jobs.
+· Generating and Monitoring AWR/ADDR Report Performance Tuning Report
+· Good Knowledge in migrating from ASM to File system and vice-versa
+· Responsible to configuring Oracle Network between client & database
+· Responsible to contact Oracle Technical support
+· Responsible to configure test environment for application testing.
+· RMAN Configuration & Maintenance.
+· Making database backups periodically. 
+· Configured the Dataguard Setup in client environment.
+· Clone the Development instance with ColdBackup/Hotbackup.
+
+
+
+
+
+Project: 2
+	Project Title
+	Center for Railway Information System (Production Database), Chennai.
+
+	Client
+	HCL Commnet-(Pay Roll off Datastat Technologies Pvt Ltd)
+
+	Duration
+	Dec 2013  – July 2016
+
+	Role
+	Oracle DBA - L2
+
+
+
+Roles & Responsibilities:
+· Working as a Oracle Database Administrator in 24/7 support
+· Database running in Oracle 10gR2  2 Node RAC (10.2.0.5)
+· Installation of RAC database oracle 10gR2 with ASM.
+· Responsible for applying security patches & upgradation.
+· Refreshing application database from production with current data while client request by using Exp & Imp.
+· Responsible to Monitoring Backups, Database status, physical & logical structure
+· Managing Database on Automatic Storage Management (ASM)
+· Planning and scheduling backups of RMAN and Exp&Imp using schedule jobs.
+· Generating and Monitoring AWR/ADDR Report Performance Tuning Report
+· Good Knowledge in migrating from ASM to File system and vice-versa
+· Responsible to configuring Oracle Network between client & database
+· Responsible to contact Oracle Technical support
+· Responsible to give support through Remote basis
+· Responsible to support application upgradation every 3 months
+· Responsible to configure test environment for application testing.
+· Having experience Database Auditing
+· Technical discussion and clarification with customer about Oracle features based on
+Requirements.
+· RMAN Configuration & Maintenance.
+· Making database backups periodically. 
+
+
+
+
+
+Project: 3
+	Project Title
+	United Commercial Bank(Production Database), Bangalore.
+
+	Client
+	HP India Sales Pvt Ltd(Payroll of Softenger (I) Pvt Ltd)
+
+	Duration
+	Jan2013 – Nov2013
+
+	Role
+	Oracle DBA - L1
+
+
+
+
+Roles & Responsibilities:
+
+· Managing and supporting all Production, Development databases. 
+· Managing database creation and configuration. 
+· Administrating Database security. 
+· Managing Physical Standby Databases. 
+· Monitoring database performance at peak times and initiating appropriate actions. 
+· Troubleshooting various database errors/failures. 
+· Initiating RMAN incremental backups when required so as to maintain DC – DR sync and ensure seamless operations. 
+· Generate and analyze STATSPACK reports. 
+· Performed Database up gradation (10.2.0.3 to 10.2.0.5) 
+· Performing Switchover and Switchback activity as per the schedule. 
+· Coordinating with Application, UNIX and Backup team/s with a view to ensure seamless operations. 
+· Preparing Daily database health Checklist 
+· Managing and supporting all Production, Development databases. 
+· Managing database creation and configuration. 
+· Administrating Database security. 
+· Managing Physical Standby Databases. 
+· Monitoring database performance at peak times and initiating appropriate actions. 
+· Initiating RMAN incremental backups when required so as to maintain DC – DR sync and ensure seamless operations. 
+· RMAN Configuration & Maintenance.
+
+Project: 4
+
+	Project  Title
+	Indhra Gandhi Atomic Research Center(Production Database), Kalpakkam. 
+
+	Client
+	Krishna Energy Pvt. Ltd., & Sai Powerr Zerve Pvt. Ltd 
+
+	Duration
+	July2011 – Dec2012
+
+	Role
+	Software Engineer
+
+
+
+Roles & Responsibilities:
+· Creation of tablespace, adding or resizing data files in oracle. 
+· Responsible for solving the workday issues faced by the development users.
+· Managing schemas, roles, and profiles.
+· Performing periodical backups using hot backup strategy.
+· Performing monthly cold backup during planned down time. 
+· Performing schema, table level Exports / Imports.
+· Detecting and eradicating row chaining and row migration.
+· Monitoring the database for the usage of latest statistics on manipulating data and Analyze the database objects such as tables and indexes for better performance, if in case of old statistics.
+· Checking the alert log files for any errors.
+· Performance Tuning, Resource Monitoring (Disk Space Utilization, Memory Utilization, CPU Utilization, Etc.).
+· RMAN Configuration & Maintenance.
+· Making database backups periodically. 
+ (
+PERSONAL DETAILS
+)
+
+
+D.O.B			: 25-SEP-1989
+Marital status	: Single.
+Languages Known	: English & Tamil
+
+I hereby declare that all the information’s given above are true to best of my knowledge. 
+
+  
+Place	: Chennai										(AnoopPrabhakar A) 
+Date	: 18-Nov-17										Signature

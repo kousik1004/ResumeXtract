@@ -1,0 +1,278 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pushpendra Kumar 
+Phone No: +919049540699 Email: Pushpendra.kumar@gmail.com |LinkedIn Profile: https://www.linkedin.com/in/pushpendrak1/ 
+
+ 
+
+Executive Profile 
+
+Senior Data Analytics Executive with close to 11 years of corporate experience across Analytics, Decision Sciences and Product 
+Management for analytical platforms. Adept in number crunching and data related competencies, with ability to persuasively present 
+insights and make recommendations to business. Have significant experience in working with the top management and managing 
+strategic projects. Involved in envisioning and championing strategic ideation group to reposition the organization and move up the 
+value chain. 
+
+Core Competencies Educational Qualification 
+
+Data Analytics using Statistical tools such as Tableau, Qlikview, Python, 
+R, SAS, SQL, KNIME etc. 
+
+PGDM - Indian Institute of Management (IIM) Indore 2010  
+[Among top 20 students enrolled to IIM Indore short listed for OPJEMS 
+scholarship 2008] 
+
+Statistical Modeling / Machine Learning  
+Supervised  Learning  (Decisions Trees, RandomForest, Classification Rule 
+Learners, Linear Regression, Support Vector Machines and Neural 
+Networks) 
+Unsupervised Learning(Clustering – K Means, Gaussian Mixture Models, 
+PCA) 
+
+B. Tech. / M. Tech. Indian Institute of Technology (IIT) Kharagpur 2005 
+[AIR 4 in GATE 2004] 
+
+Big Data Stack - Expertise in HADOOP, HIVE, SPARK, SQOOP, ZEPPELIN FRM- Financial Risk Manager (GARP) 2012 
+
+Expert at FX Market and Global Financial Instruments NPTEL’s (IIT + IISc Collaboration) certification for Machine Learning 
+
+ Coursera: Machine Learning(by Stanford University) 
+
+ 
+
+Significant Achievements 
+ Driving the scope and requirements for NEXEN - Digital Pulse, BNY Mellon’s big data platform providing data driven actionable 
+
+insights to business across 35 countries and 100 markets. Improved the user base of the platform to 3000+ unique monthly 
+users through quality of analytics delivered on the platform and their business significance 
+
+ Providing the Decision Sciences team the technical leadership in implementing data mining and statistical machine learning 
+solutions to various business problems  
+
+ Running CIO’s strategic initiative on IT – Operations (Back Office) collaboration to promote operational excellence at iNautix 
+ 
+
+Relevant Experience and Selected Accomplishments 
+VP, Decision Science & Process Transformation iNautix Technologies (BNYM)                                                          Dec 2014 – Current [Pune] 
+
+ 
+
+A. Machine Learning/Big Data analytics –  
+ 
+
+‘Defining Auto Custody Limits using Random Forrest and Ensemble Modeling ’ 
+Tags: Decision Tree, Random Forest, Bagging Learners, Gradient Boosting Machines (GBMs), Principal Components Analysis (PCA), Big 
+Data Analytics, H2O, SPARK, Neural Networks, Deep Learning, TensorFlow 
+
+ Implemented data mining and statistical machine learning techniques to the existing method of defining custody limits for client 
+accounts to model a more dynamic method of defining auto custody limits based on accounts’ borrowers rating, previous day’s 
+Asset Under Custody(AUC) and historical limit usage behavior 
+
+ Developed Supervised Learning models such as decision trees and random forest in Python to classify accounts into pre-defined 
+risk categories and identify optimal rule based credit limit for bank’s customers resulting  
+
+ Used Hadoop Framework solutions including HDFS, HIVE,  SQOOP  and big data processing engine SPARK to build predictive 
+analytics on the data using PYTHON and ZEPPELIN as statistical analysis tool 
+
+ This led to significant reduction in liquid cash maintenance from $1.3trillion to $700 billion  
+ 
+ 
+ 
+ 
+
+https://www.linkedin.com/in/pushpendrak1/
+
+
+‘Client Attrition Analytics using Support Vector Machines ’  
+Tags: Support Vector Machines (SVM), Principal Components Analysis (PCA), Big Data Analytics, Resampling Techniques  
+
+ Investigated the effectiveness of Support Vector Machines (SVM) approach in detecting the underlying data pattern for the 
+Treasury Services customer churn analysis and benchmarked its performance with other non-linear classifications rule learners 
+on F1 Scores 
+
+ Learnt non-linear classifiers from labelled training data belonging to client billing information – such as revenue, services and 
+volume to predict client attrition score 
+
+ Addressed the challenge of building a classifier on highly skewed data with very few attrition events (just 0.1% of attrition) 
+using SMOTE (Synthetic Minority Over-sampling Technique) methodology. Application of SMOTE methodology along with SVM 
+approach improved the accuracy of the model drastically 
+
+ 
+
+B. Leadership/Delivery Responsibilities – 
+ 
+
+Operational Analytics  
+Tags: Tableau. SQL, Vertica  
+
+ Managed Process Analytics team to deliver operational analytics and actionable business intelligence for supporting evidence 
+based decision making across BNYM Back Office Operations by 
+
+ Capturing business requirements and delivering valuable analytics for multiple lines of business such as Custody, Cash 
+Operations, Global Payments, and Transfer Agency etc. 
+
+ Providing analytical support for a range of decision-maker needs, including standalone ad hoc, exploratory, and predictive 
+analysis such as Time Series Forecasting and Anomaly Detection during key market events (BREXIT), and major production issues 
+(InvestOne/FNI Messaging) etc.  
+
+ 
+Client Analytics Delivery  
+
+ Worked with internal and external stakeholders for Client Analytics offerings through Digital Pulse platform 
+
+ Delivered client specific POC’s for client demo [Blackrock, Franklin Templeton] leveraging client’s existing data with bank 
+
+ Engaged with customers and product managers to ensure that analytics offering obsessively aligns with customer value 
+creation. Defined key client business KPIs and delivered business metrics around the same on our analytics platform 
+
+ On boarded additional client [APG] data onto our analytics platform and leveraged product knowledge & experience to design 
+solutions which best meet the client's business needs 
+
+ 
+Workforce Analytics  
+
+ Developed Workforce Analytics suite of analytics based on associate level data to drive organization level analytics such as 
+Employee Productivity Management, Developer Productivity, Business Continuity etc. 
+
+ 
+Marketing Analytics / Operations Manager (Hewlett Packard)                                                  July 2014 – Dec 2014 [Bangalore] 
+
+ Managing various analytical deliverables across LES (Laser) and GSB (Graphic) printer line of business 
+
+ Lead client engagements focused on Analytical model development, business case development and other important analytics 
+activities such as usage analytics, customer analytics, performance management, etc. 
+
+ Led major insights projects for Managed Print Services(MPS) by applying standard methods for performing strategy assessments 
+and implementations; working closely with leadership to set strategy and define success criteria for the projects 
+
+ 
+Assistant Vice President, Decision Sciences, iNautix Technologies (BNYM)                                       Feb 2010 – June 2014 [Pune] 
+
+ 
+
+A. Machine Learning/Big Data analytics –  
+ 
+‘Model Based Clustering to determine effective product strategies ’  
+Tags: K-Means, Model Based Clustering, Gaussian Mixture Models 
+
+ Developed an Unsupervised learning model (Model Based Clustering) for bank’s analytical product offering (Albridge Analytics) 
+for Independent Broker Dealers (IBDs)  
+
+
+
+ The model categorized sales branches, which the bank serves, across given set of broker-dealers, based on their revenue 
+patterns and sales behavior thereby helping asset managers to come up with effective product strategies (product categories 
+and product features) for specific branches 
+
+ 
+‘Fraud Detection using HBOS and CBLOF score ’  
+Tags: Anomaly Detection 
+
+ The project was aimed at identifying possible frauds by locating anomalous transactions in global payments  
+
+ Unsupervised anomaly detection process of finding outliers in data sets without prior training was applied on payments dataset 
+from 2014 to 2016, which accounted for around 110K transactions every year. Out of these only 216 were known fraudulent 
+transactions.  
+
+ 
+‘Incident Prediction Analytics ’  
+
+ Analyzed the incoming Priority 1 and Priority 2 incidents in order to find risk groups of Applications / LOBs and build a predictive 
+model on Categorical data to generate groupings to identify the root cause of issues so as to achieve a reduction in P1 and P2 
+incidents.  
+
+ 
+ 
+
+B. Leadership/Delivery Responsibilities -- 
+ 
+IT-Operations Synergy:  Contributed significantly to the strategic IT Back Office Operations collaboration to drive Operational 
+Excellence by leveraging advanced technological expertise. The initiative formed an essential part of CIO’s organization wide  initiative 
+encompassing IT, Back Office Operations, Support teams across iNautix and BNYM India to leverage data for generating business value. 
+As part of the initiative, process and user activity data was leveraged to create a time in motion view for back office processes to 
+enhance staff productivity and identify process improvement opportunities. 
+ 
+Business Analysis  
+
+ Worked closely with FX Sales and Trading Desk at BNY Mellon’s London Trading Desk and Interacted with Manchester Middle 
+Office to understand the business processes and applications involved in FX trading and leverage the same to refine the FX trade 
+execution workflow at BNYM to provide better/transparent pricing and efficient Position Management to bank’s clients 
+
+ Involved in Requirement gathering and Creation of Business Requirement Document (BRD) and Functional Requirement 
+Document (FRS), use cases and user stories for critical projects such as reengineering of iConfirm, BNY Mellon’s Post Trade 
+Confirmation and Settlement System, and iFlow(BNY Mellon’s Research & Analytics Product Offering) 
+
+ 
+*Awarded for significant contribution towards timely project delivery in capacity of a Business Analyst for the programs 
+ 
+ 
+Senior Business Analyst, Business Analytics, Mu Sigma Pvt. Ltd.                                                             Apr 2010 - Sep 2010 [Bangalore] 
+
+ Involved in client’s requirement gathering, planning/estimation and delivery of Social Media Analytics pilot to identify the 
+effectiveness of social media in brand building and lead generation for Dell’s product line 
+
+ Provided strategic data driven insights to business management group on a regular basis for their decision making 
+
+ Managed and mentored a team of three Business Analysts to successfully deliver and support the analysis within aggressive 
+timelines 
+
+*The success of the Social Media pilot led to a bigger client engagement worth $ 1 mn and to establishment of a 15 member dedicated 
+team for Social Media projects in the organization 
+ 
+SSE, Product Development, Sterling Commerce Solutions (IBM)                                                             Feb 2006 - Jun 2008 [Bangalore] 
+
+ Designed and developed Productivity Tracking and Management System for effective resource utilization 
+
+ Developed an Upgrade Automation for Sterling Warehouse Management System which led to significant reduction in manual 
+monitoring of the upgrade processes 
+
+ Led a team of 3 people to design and develop Count Module for providing better inventory management in a Yard 
+ 
+ 
+
+

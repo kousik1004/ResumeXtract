@@ -1,0 +1,478 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+
+Servicing Notice period
+Can Join soon
+
+Bansidhar Mohapatra
+
+Email:  itspecialistbansidhar@gmail.com
+Mob: 9986838796,8249956395
+
+Professional Synopsis
+	· Total 12 years of experience in various domain knowledge i.e. Banking, Insurance, retail, and others.
+
+· Strong working experience in high level programing language in Scala and Spark
+· Very good working experience in AWS architecture and strong hand in AWS Aurora, RedShift, RDS, DynamoDB,  Elasticache, EC2, Cloud Formation, CloudFront, S3.
+· Strong in Database modeling and designing with Cassandra, Hive and Sql server and AWS databases
+· Strong experience on Hadoop HDFS, Hive, Impala, Hbase, Flume, Zookeeper, Kafka, PIG
+· Around 8 years of strong experience in data warehousing, Database development and Database administration with verity of domain package.
+
+· Good experience on Bigdata Architecture.
+
+· Hands on coding experience in Core Java.
+
+· Well experienced in database management, T-Sql and performance tuning.
+
+· Good understanding of scheduler�s workload management availability scalability and distributed data platforms.
+
+· Good Knowledge on UNIX shell scripting.
+· Able to express ideas and communicate with technical/non-technical users as well as hardware/software technicians.
+
+· Experience leading cross functional teams across a large organization in systems analysis, defining technical requirements, and performing high level design for highly complex solutions mainly on Bigdata and Hadoop Analytics
+
+· Good experience on Data warehouse and Database migration into Hadoop echo system.
+· Having good experience in Client interaction and project leading, team management. 
+
+· Good communication skills, self-motivated, team player, Flexible to Environment.
+
+· Have capability to learn, acquire knowledge and show expertise in new technology very quickly.
+
+
+
+Work Experience
+	Company Name
+
+	Position
+
+	Period
+
+	Year of Exp
+
+
+	Mphasis Ltd , Bangalore
+
+	BigData Architect 
+	October, 2016 to till date
+
+	Continuing
+
+
+	WNS, Bangalore
+
+	Deputy Manager
+	April 2015 to October 2016
+
+	1.6 Year
+
+
+	Verinon Technology
+
+	Module Lead 
+
+( Role : Data warehousing  Architect)
+	November 11, 2014 to April15, 2015
+
+	Around 6 Months
+
+
+	IBM India Pvt Ltd
+
+	IT Specialist
+
+	August 1, 2008 to May 19, 2014
+
+	5.9 Years
+
+
+	Lucid Infotech. 
+
+	Programmer
+
+	Jan2005 to 28th July 2008
+
+	3.6 Years
+
+
+
+	Technical Expertise
+
+
+
+	Hadoop
+ Hadoop HDFS, Hive, Impala, HBase, Flume, Kafka, PIG, Sqoop,  Zookeeper, Map Reduce
+Spark
+
+Spark Core, Spark Streaming, Spark Sql, with Scala language
+AWS
+
+AWS Aurora, RedShift, RDS, DynamoDB,  Elasticache, EC2, Cloud Formation, CloudFront, S3, CloudWatch. 
+Scripting
+
+Unix Shell, JSON, PL/SQL, T-Sql, XML, MDX, DAX, Java Script, and html.
+
+Database
+
+Cassandra, Sql Server 2012/2016, PostgreSQL, MySql
+Languages
+ Scala, Core Core Java with Apache POI  , C#.net, 
+OS
+Windows, Linux, Ubuntu.
+
+Database Modeling 
+
+Conceptual/Logical/Physical Database modeling with ER WIN for relational DB, and NoSql Manger for Cassandra and no Sql Databases
+
+
+
+Education
+· AWS Solution Architect Associate (AWS)
+
+· Microsoft Certified Database Administrator (MCDBA)
+
+· Microsoft Certified Technology Specialist (MCP)
+
+· DOEACC �O� Level (Diploma) from Department of Electronics Govt. of India
+
+· Master in Computer Application (MCA) 
+Functional Skills
+
+Project Leading:  Provide end to end design and implementation. Design, module and architect the project assignment. 
+
+
+ Distribute the assignment to team members.  Manage all release process. 
+Mentoring
+: Provide training and technical session to team members. 
+
+Client Facing
+: Show all deliverables to client. Show all new development part. Discuss about the performance, requirement, issues, errors and current work status with the client. Suggest client with some POC on new technology.  Discuss time line of the work. 
+Leadership 
+: Participation in Interview and selection process. Participate in Team meeting, Knowledge Transfer, Idea & 
+
+ Jam and Innovation program
+
+Communication
+: Presenting capability in professional etiquette, good communication with client and team member. 
+
+Quick Learner
+: Enthusiastic to learn a new language and technology for the benefit of project and company.
+
+Personal Details
+Full Name
+
+: Bansidhar Mohapatra
+
+Current Company
+
+: Mphasis Company 
+
+Last Company
+
+: WNS Pvt Ltd.
+
+Current Designation
+: Project Lead
+
+Job Type
+
+: Permanent
+
+Current CTC
+
+: 19 Lakh 90 thousand
+Expected CTC
+
+: Negotiable
+
+Notice Period
+
+: Serving notice period (Can Join within 30 days)
+Preferred Location
+: Any Where
+
+Current location
+
+
+
+
+
+: Munekolla, Marathahalli,
+
+
+
+
+  Bangalore � 560037, India
+
+Contact No.
+
+: 9986838796, 8249956395
+Email
+                                itspecialistbansidhar@gmail.com
+Nationality
+
+: Indian
+
+Projects
+
+Aug 2017 �  Today, Bigdata Architect, Company: Mphasis, Client : Wyde (internal Mphasis insurance product).
+Client 
+
+
+: WYDE Insurance 
+
+Platform/Tools 
+
+: AWS, Hadoop, Spark, Scala, NoSql Databases
+Team Size 
+
+: 12
+
+Role 
+
+            
+: Bigdata Developer
+Duration 
+
+: From Aug-2017 to Continuing
+The purpose of this project is to building data lake in cloud platform using Hadoop and Spark technology. Also, its purpose is to create/ model NoSql databases and cloud base database, and synchronize data by importing from traditional databases and other sources.  Migrate the current project into AWS platform.
+
+The cloud infrastructure service in WYDE, is a configurable policy administration system that meets end-to-end functional requirements in the chosen industry segments across new business and underwriting, enrollment, quote generation, claims, billing and accounting, commissions and customer service functions.
+My technical responsibilities: 
+· Design and develop Spark code using Scala for faster processing of data.
+· Write advanced Scala and Spark programing functions in order to model/enhance custom Spark framework.
+Migrate Sql server Database into Cassandra
+· Design and model NoSql databases  for Cassandra and AWS databases.
+· Import data into Hive table from heterogeneous sources,  model/design internal and external table in Hive. Made some Hive configuration changes for best performance.
+· Write PIG statement and Sqoop code  for data data data movement.create job for Sqoop and PIG.  
+· Work in  Talend Pro ETL  to import and prepare data from heterogeneous platform to varius destination like NoSql databaes, CSV files, JSON data, XML data and relataional databases
+· Cassandra Performance Tuning using CQL Trace and compaction and troubleshooting of issues.
+
+· Work in clustering query order design and indexing in NoSql Database.
+· Write code in Core Java with Apache POI. This code is for write the feed back data in Excel file form differenct sources.
+
+· Create Talend Job to import data to various ODS database of AWS RDS (PostgreSql) Server. Implement Project level logging and Job level logging. Dynamic variable configuration. 
+· Work on AWS CloudFormation , Write JSON code for model and set up  Amazon Web Services resources.
+Nov 2016 �  Aug 2017, Bigdata Developer, Company: Mphasis, Client : JPMC, US
+
+Client 
+
+
+: JPMC,     
+
+Platform/Tools 
+
+: Hadoop, AWS, Spark, Scala, NoSql Database
+Team Size 
+
+: 18
+Role 
+
+            
+: Bigdata Developer
+Duration 
+
+: From Nov-2016 to Aug 2017.
+Descriptions:
+The purpose of this project is to building a data lake in big data platform using Hadoop and Spark technology and migrate Relation databases and data warehouse into Hadoop Big Data environment.  Work on Streaming data migration from traditional operational data stores (ODS), enterprise data warehouse (EDW) into building data stores or data warehouses in big data platform. 
+My Responsibilities:
+
+· Create Spark SQL job for use cases lie end of day calculation and end of month balance calculation.
+· Create and model Spark code framework. Create custom functions and methods in Spark custom framework like functions to various connections, data populations etc.. 
+· Create a Hive join queries to build the new balance tables for calculation use case.
+· Migrate SSAS databases (OLAP) to NoSql databases.
+
+· Work on NoSql database modelling.
+
+· Work on Sqoop to import the data from MySQL sever to HDFS.
+
+· Script for Kafka Consumer and producer in Scala and Java. Kafka Broker configuration. 
+
+· Handle stream data using Kafka and Spark streaming.
+· Write advance Scala code for differenct type of requirement.
+
+· Write Core Java code for Talend ETL Jobs for custom functionality.
+	Aviva plc is a British multinational insurance company headquartered in London, United Kingdom. It has around 34 million customers across 16 countries. In the UK, Aviva is the largest general insurer and a leading life and pensions provide
+My Responsibilities:
+· Model Hive and HBase databases.
+
+· Write script using Sqoop and Talend  for data synchronization between RDBMs and NoSql databases.
+
+· Create job with configuration of batch run to import and export data. 
+
+· Database modeling: Conceptual, logical and physical database modeling using the tool ERWin. 
+
+· Work in SSIS and Talend:  Package tuning, creation, deployment.  Up gradation and migration of package. Create and maintain ETL package in Talend. 
+· Move and filter and cleanse data and create quality data.
+
+· Work in SSAS: Multidimensional CUBE process & deploy. Creation of DAX formulas within a PowerPivot workbook. Write MDX queries for third party reporting tool (Cognos, SAS).  Provide and process of monthly data to different partition.
+
+Work on DAX query for tabular model and pivot model report. MDX query for Multidimensional cube. 
+
+
+
+	
+
+
+April 2015 � Oct 2016, OLAP Architect, Company: WNS, Client : Aviva Insurance, UK
+	Nov 2014 � until Today, IT Specialist, Company: Verinon Technology, Client : Nestle, UK 
+
+Nestle is a Switzerland base company which deals as the world's leading nutrition, health and wellness company, Nestlé is the worldwide leader in product categories such as soluble coffee, infant nutrition, bottled water, condensed and evaporated milk, ice cream, as well as chocolate and malt drinks, and culinary.
+
+Work on SSIS : Create SSIS package, deploy it. Transfer data within SAP and Non-SAP platform through SSIS. Update Cube/Cube partitions. Maintain proper logging technique.  
+
+Work On SSAS: Tabular model CUBE design, Multidimensional CUBE design. Work on DAX query for tabular model and pivot model report. MDX query for Multidimensional cube. Whole life cycle of Analysis service deployment in sql server 2012..
+
+Work in Sql Server: Write store procedure, functions, refectories T-Sql Queries, performance tuning, 
+
+Sql server agent job creation. 
+
+Environment:   SQL Server 2008R2/2012, MSBI 2008/2010, MS Visual Studio 2008/2010.
+
+Team Size
+: 3
+
+
+
+
+	Nov 2012 � May 2014, IT Specialist, Company: IBM India, Client : Manulife Insurance, Canada
+
+Manulife Insurance is a Canada base insurance company which deals insurance and other employee contribution details. My team was assign to create SSIS package for each customer of Manulife, generate various type of report, and design database for OLAP and OLTP.
+
+Work on SSIS : Design/create SSIS package as per the requirement, write sql script, unit test, prepare test case and release note and submit code review.
+
+Work On SSAS: Data modeling for OLAP. CUBE design, MDX query. 
+
+Work in Sql Server: Design /Architect whole Client Server architecture, Create Cube, Design the whole structure of data availability.  Work on all DDL and DML script (T-SQL code) as per requirement.
+Environment:   SQL Server 2008R2/2012, MSBI 2008/2010, MS Visual Studio 2008/2010, Biztalk Server 2004
+
+Team Size
+: 5
+
+
+
+
+	Nov 2009 � Oct. 2012, IT Specialist, Company: IBM India, Client : CITI Bank, USA
+
+Citi Bank of USA devided all their work with various small projects. So our team assigned a big responsibility tocreate its historical database,  jobs , SSIS packages, Analysis report, migrate its database. Deployement.
+
+Coodinate with other team.
+
+Team lead Activities: Communicate with client and Analysis its requirement, and work on its database design. Coordinate team and prepare work plan for team member and work on it. Provide KPP trainings to all the project members.
+Work on Sql Server : Create Sql script , Stored procedure to support above application. Work on performance tuning of Sql script. Work on sql server Reports application, work on its enhancement project.
+
+Work on MSBI: Create and enhance SSIS package. Design CUBE, work on backend like database modeling for cube. Create report.
+Environment:   SQL Server 2005 MS Visual /2008/2010/2012
+
+Team Size
+: 10
+
+
+
+Sept 2008 � Nov. 2009, IT Specialist, Company: IBM India, Client : PMI(iSMS), Brazil
+	Philip Moris International (PMI) is a Swizerland based company doing business in multiple country. This application names International sales and merchandising system, (iSMS) mainly focus on business sales and its merchandising system. My roles are as follows :
+
+Senior Team Member Activities:  Submit deliverables in Clear case tool for production release. Responsible to provide best solution to the client for enhancement, migration, new project development by identifying the best fit customer requirements to the client. 
+
+Work on Sql Server : Develop & support on PMI Custom framework application which is developed in .net language with sql server. database design and complex query design. Develop custom sql framework (Tools) for required operations
+
+Work on MS BI : Work on Design dtsx package, write sql queries for its operations like import & export data. 
+
+Work on .net : work on some support & maintenance application as per bug and issues given as ticket number. 
+
+
+Environment:   MS Visual Studio 2005, Sql Server 2005, Oracle.
+
+
+
+	
+
+
+Sept 2005 � July. 2008, Programmer, Company: Lucid InfoTech, Client : Jindal  Steel Power Ltd. KeonJhar, Odisha
+	JSPL is a leading player in steel, power, mining, oil and gas and infrastructure in India. The company produces steel and power through backward integration from its own captive coal and iron-ore mines.
+
+Our Team was indulge in end to end design and development HR & Payroll application. We design and code to connect RFID, GPS system into Sql server and import data from these device for attendant purpose We created a custom .net framework. We have design database and web application. 
+
+Work on .net : use case design, flow chart preparation, requirement analysis. Basic code writing
+Environment:   MS Visual Studio 2005, Sql Server 2005, Oracle.
+
+
+	
+
+
+Declaration
+
+I Bansidhar Mohapatra hereby declare that the above written particulars are true to the best of my knowledge and belief.
+
+Date :
+
+
+
+
+
+
+
+
+
+Bansidhar Mohapatra
+
+Location
+
+
+
+
+
+
+
+
+
+Signature
+
+
+
+Page 3 of 6
+
+
+
+

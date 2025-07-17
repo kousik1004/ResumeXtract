@@ -1,0 +1,182 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KUMAR                                                                                                                                           
+
+VEERESH                                                                                       msbi.sqlserver@gmail.com                        
+
+MS SQL Server Developer                                                                                       Ph: 7799649944
+______________________________________________________________________________
+
+PROFESSIONAL SUMMARY:
+
+· Worked about 3.9 Years in USA as a Database Developer using MS SQL Server 2008, 2005.
+
+· Strong experience in SSIS (SQL Server Integration Services) and SSRS (SQL Server Reporting Services) of MS SQL Server 2005/ 2008.
+
+· Hands on experience in database development using Stored Procedures, Indexes, Views, Triggers and Functions to facilitate efficient data manipulation and data consistency.
+
+· Experience in Error and Event Handling: Precedence Constraints, Break Points, Check Points, and Logging using SSIS (SQL Server Integration Services). 
+
+· Experience on SSRS in creating different kinds of reports such as Sub-reports, drop down reports, drill through reports, parameterized reports, etc.
+
+· Proficient in writing Queries for generating drill down reports and designing report layout using MS SQL Server Reporting Services (SSRS).
+
+· Knowledge on SQL Server 2005 Analysis Services (SSAS).
+
+· Involved in performance tuning by optimizing code, improving efficiency in databases including re-indexing and recompiling stored procedures.
+
+· Strong analytical skills coupled with excellent written, verbal and inter-personnel communication skills. 
+
+EDUCATION: 
+
+· Master of Science in Management Science from Texas A & M University, Texas, USA 
+
+      (2006 – 2007)
+· Bachelor of Technology in Computer Science and Engineering from Jyothismathi Institute of Technology and Science affiliated with Jawaharlal Nehru Technological University, Karimnagar, AP. (2001 – 2005)
+TECHINAL SKILLS
+
+	Databases
+	MS-SQL Server 2000, 2005, 2008
+
+	IDE Tools
+	Visual Studio .Net 2005
+
+	ETL Tools
+	SQL Server Integration Services (SSIS)
+
+	Reporting Tools
+	SQL Server Reporting Services (SSRS)
+
+	SQL Server Tools
+	SQL Server Management Studio, SQL Server Business Intelligence Development studio, Enterprise Manager, SQL Profiler
+
+
+PROFESSIONAL EXPERIENCE
+
+Client: Press Mart Media, Hyd                                                                      June 2011 – Nov 2011
+
+Database/ SSRS Developer
+
+Description:  Press mart powers the digital edition of publications from 49 countries on Web, Mobile, eReader, RSS, Podcast and other digital channels. Press mart is a preferred partner of premier publishing associations around the world and the winner of several awards and recognitions for its product innovation.
+· Worked on Joins, sub queries and Common Table Expressions which are used in Huge Stored Procedures.
+
+· Created Parameterized Stored Procedures and User Defined Functions for SSRS Reports.
+
+· Worked on features of SQL such as RANK, NEWID, PIVOT, APPLY, ROW_NUMBER and other row ranking functions.
+· Developed and Deployed different kinds of reports using SQL Server Reporting Services
+· Written queries for the drill down reports and deployed the generated reports on to the server using MS SQL Server Reporting Services (SSRS).
+· Designed reports with grouping/sorting and parameters (including multi-value parameters) using SQL Server Reporting Services.
+
+· Responsible for supporting the SQL Server databases and ensuring their performance, availability and security Duties.
+Environment: MS SQL Server 2005/ 2008, T-SQL, SSRS, Windows XP, Visual Studio 05
+
+Client: Blackbaud, South Carolina                                                                Oct 2010 – April 2011
+Database/ SSRS Developer
+
+Description: Blackbaud Inc is a supplier of software and services specifically designed for non-profit organizations. Its products focus on fundraising, website management, CRM, analytics, financial management and ticketing and education administration.
+· Worked as a developer in creating complex Stored Procedures, User Defined Functions and views for applications.
+· Extensively worked on complex joins queries involving multiple tables from different databases.
+· Wrote stored procedures and user defined functions for the reports using T-SQL.
+
+· Designed reports with grouping/sorting and parameters (including multi-value parameters) using SQL Server Reporting Services (SSRS).
+· Created standard Reports and Drill Through reports using MS SQL Server Reporting services.
+
+· Worked on adding cascading parameters to the reports using SQL Server Reporting Services (SSRS).
+
+· Traced the slow running queries and the server activity using SQL Server Profiler.
+
+Environment: MS SQL Server 2005/ 2008, T-SQL, SSRS, Visual Studio 05, BIDS
+
+Client: T Mobile, California                                                                                 June 09- Sep 2010
+SSIS/SSRS Developer
+
+Description: T-Mobile is a cellular telecommunications provider. T-Mobile USA is currently the fourth-largest wireless carrier in the U.S. market with 33.4 million customers as of the end of the third quarter of 2009.
+
+· Developed Call Server Profiling Project to report the busy hours for GSM, UMA, GMSC and UMTS networks of Central, North East, South and West Regions of USA. 
+
+· The project is designed in two phases; data gathering and reporting. The data gathering part is done using SSIS and the reporting portion is built on SSRS platforms.
+
+· Developed SSIS Package using MS SQL Server Integration Services in such a way it loads last 4 days data from Oracle into SQL Server database to store consistent and durable data. 
+
+· Created SSIS packages to validate, extract, transform and load data from Oracle into SQL Server database.
+
+· Created a stored procedure which uses ranking function to calculate the busy hour for the hourly data of the particular region.
+
+· Worked on Functions to get some of the monthly and weekly data into the reports.
+
+· Developed Drill down Reports, Drop down Reports and Sub Reports using Microsoft SQL Server Reporting Services (SSRS).
+
+· Embedded the reports on to application using MS Report Viewer in Visual Studio 2008. 
+
+Environment: MS SQL Server 2005/2008, T-SQL, SSIS, SSRS,  Business Intelligence Development studio, SQL Navigator,  ASP.Net, Windows XP, Visual Studio 08
+Client: Miami Dade County Public Schools, Florida                                            Feb 08- May 09
+
+SSIS/SSRS Developer
+
+Description: Miami-Dade County has nearly 80 schools that operate as community learning centres, plus the multiples of programs that are in satellite schools and other locations throughout the county. 
+
+· Developed and Deployed reports for Educational Portal Project in MS SQL Server using Microsoft SQL Server Reporting Services (SSRS).
+
+· Created the necessary reports for the Portal application. This application will support the changes required for the ERP project.
+
+· Worked on Common Table Expression which uses rank function to calculate the ranking of the students with in current school year and previous school year based on FCAT scores.
+
+· Created a package which populates the above calculated ranking of the students into a SQL table using Microsoft SQL Server Integration Services (SSIS).This package truncates and loads the ranking table every day.
+
+· Developed single value and multi valued parameterized reports for Administration and School Staff using Microsoft SQL Server Reporting Services (SSRS).
+
+· Worked on grouping, filtering and sorting the data in the reports using SSRS.
+
+· Enhanced reports by the charts and graphs using Microsoft SQL Server Reporting Services (SSRS).
+
+· Worked on report viewer to embed the reports on to the applications using Visual Studio 2008.
+
+· Worked on Drill through Report links and Hyperlinks to jump to other reports and web pages using Microsoft SQL Server Reporting Services (SSRS).
+
+· Used SQL Profiler and Index Tuning Wizard for the performance tuning of SQL queries and Stored Procedures.
+Environment: MS SQL Server 2005, T-SQL, SSIS, SSRS, Business Intelligence Development studio, Windows XP, Visual Studio 05
+

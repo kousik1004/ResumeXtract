@@ -1,0 +1,384 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Srinivasa Rao Kottakota
+E-mail:- srinu.prf@gmail.com
+Phone:- +91-9640308461
+
+Summary
+
+Having 4+ years of experience in Information Technology with skills in development, coding,
+maintenance, implementation, integration and testing of web Applications (client/server
+Applications).
+
+ Expertise in web development using ASP.NET, C#.NET, Web services, WCF, HTML,
+JavaScript, JQuery and AngularJS.
+
+ Extensively worked with ADO.Net (Data Access) Technologies to access database objects for
+connecting applications to data sources.
+
+ Solid understanding of object-oriented concepts and its implementation using C#.Net.
+ Experienced in SQL Server 2012, developing SQL DDL/DML Statements, Procedures,
+
+Triggers, Views, Backup/Restore, export / import and other DBA responsibilities.
+ Extensively worked with ASP.NET server side framework as well as Used JQuery Ajax to
+
+enhance User Experience.
+ Developed client-side validation library for validating HTML and ASP.NET controls using
+
+JQuery.
+ Designed and developed SQL Stored Procedures and Functions.
+ UI Engineering using CSS, HTML and ASP.NET.
+ Basic knowledge in MVC, AngularJS.
+ Strong analytic and problem solving skills, quick learner, good interpersonal and enjoys
+
+working in teams.
+ Enthusiastic in working with new technologies and new applications.
+
+Technical Summary
+
+Languages : C#
+Web Technologies : ASP.NET, ADO.net
+Markup languages : HTML, XML
+SOA Programming Tools : Web services, WCF
+Client Side Technologies : JavaScript, JQuery, Ajax, AngularJS
+Web Server : IIS
+Database : MS-SQL Server
+IDE : MS-Visual Studio
+Third-Party Tools : JEasyUI, Bootstrap, Fusion Charts, High Charts,
+
+Full calendar, d3 js, DOJO Toolkit, Moment and Moment Range
+
+Work History
+
+Duration Organization Designation
+
+July-2016 to Till Date Capgemini Pvt Ltd. Senior Software Engineer
+
+Apr-2013 to July-2016 Ntranga IT Services Pvt Ltd,
+DLF, Gachibowli, Hyderabad
+
+Software Engineer
+
+mailto:srinu.prf@gmail.com
+
+
+Project Experience
+Project #1
+Name : HBME Regulatory Reporting
+Front-end : C#
+Role : Developer
+Third-Party Tools : Winx Automation Studio
+
+Description:
+HBME Regulatory Reporting tool is for Excel reporting tool. This tool uses for handling
+
+the excel file. Base on the requirement this tool creates the new excel output file with
+calculations of the fields in different sheets. Based on the calculations in different sheets there
+‘Validation Checks’ this will check the accurate result. Similarly there are 5 process, after those
+all the process are developed. Then calculate for ‘Consolidated Report’. which uses to calculate
+the report from all the process.
+
+Responsibilities:
+ Analyzing the Requirement Documents developed by the client.
+ Involved in Designing Website Layout
+ Prepared Business logic classes.
+
+Project #2
+Name : HK Payments
+Front-end : C#
+Role : Developer
+Third-Party Tools : Winx Automation Studio
+
+Description:
+HK Payments is and Automation Process. This project use for getting data the banks
+
+front end user by using an underlying application. Which uses Winx automation studio to
+integration the underlying application. Based the integration.
+
+Responsibilities:
+ Analyzing the Requirement Documents developed by the client.
+ Involved in Designing Website Layout
+ Prepared Business logic classes.
+
+Project #3
+Name : MWM
+Front-end : HTML, JavaScript, JQuery with Ajax, AngularJS
+Database : MY Sql
+Role : Web application Developer
+Third-Party Tools : Full calendar, D3 js, Fusion charts
+
+Description:
+MWM is Mobile Workforce Management. It is the application to maintain the employee
+
+information and performance. It is used to monitoring the employee by the manager and
+employees itself.
+
+The application maintains the employee profile, shift information, punch details, Leave
+details and employee-traveled locations. In these two types of applications, one is mobile
+application and web application. In mobile application used, take the employee punch details
+and locations by getting gps values.
+
+
+
+In web application used to monitoring the punch, details and locations travelled the
+employee by day wise. In this, which process the employee hourly attendance, early-in and
+late-in information, leave transactions and shift information.
+
+In web application two types of interfaces one is for manager and another is for
+employee which differentiate based on login. The manager can view his performance and
+reportees working under him.
+
+Responsibilities:
+ Analyzing the Requirement Documents developed by the client.
+ Developing the entire web application by processing the performance of
+
+employee
+ Involved in Designing Website Layout and Design using Master Pages, CSS and
+
+HTML.
+ Involved in following modules
+
+• Login module
+• leave transaction module
+• Shift information module
+
+ Prepared CSS classes which helped the look and feel.
+
+Project #4
+Name : IT Governance
+Front-end : C#, ASP.Net, HTML, JQuery
+Database : SQL Server 2008
+Role : Developer
+Third-Party Tools : Fusion charts , High charts
+
+Description:
+IT Governance is processes that ensure the effective and efficient use of IT in enabling
+
+an organization to achieve its goals. It is used to maintain the projects with allocated
+employee’s performance.
+
+The application maintains the number of projects and the resources that are allocated
+for the project and what is the percentage of allocation of the employee. It is maintained by the
+manager to observe the employee and their performance by allocated performance by the all
+projects.
+
+Responsibilities:
+ Analyzing the Requirement Documents developed by the client.
+ Involved in Designing Website Layout and Design using Master Pages, CSS and
+
+HTML.
+ Prepared CSS classes which helped the look and feel.
+ Wrote Stored Procedures, Queries required.
+ Involved in functionality of maintain the resource allocation and percentage of
+
+their involvement in the project.
+
+Project #5
+Name : Resume Parser
+Front-end : C#, ASP.Net, HTML, JQuery
+Role : Developer
+
+Description:
+Resume Parser is process of analyzing the resume, conforming the rules of a formal
+
+grammar. Converting the resume from source format to our own destination format.
+
+
+
+Resume parser application is differ the heading and paragraph words. Finding the
+number of words and filter by the characteristics of the words like italic, bold, underline,
+uppercase etc… and providing the rating based on characteristics of the word. Then it will be
+filter the Heading word by highest rating and similar rating, similarly it will find the sub heading
+s and then the paragraph words based on the rating provided by the characteristics.
+
+Responsibilities:
+ Analyzing the Requirement Documents developed by the client.
+ Involved in Designing Website Layout and Design using Master Pages, CSS and
+
+HTML.
+ Prepared CSS classes which helped the look and feel.
+ Involved in functionality of reading and writing words into the word documents
+ Used file systems an datatable of extensively to enhance the words.
+
+Project #6
+Name : FulcHRum CRM
+Front-end : C#, ASP.Net, HTML, JQuery, Ajax
+Database : SQL Server 2008
+Role : Developer
+Third-Party Tools : JEasyUI
+
+Description:
+CRM means Customer Relationship Management application is customer-
+
+oriented feature with service response based on customer input, one-to-one solutions to
+customers' requirements, direct online communications with customer and customer service
+centers that are intended to help customers solve their issues.
+
+CRM systems that track and measure marketing campaigns over multiple networks,
+tracking customer analysis by customer clicks and sales.
+
+CRM implements sales promotion analysis, automates the tracking of a client's account
+history for repeated sales or future sales, and coordinates sales, marketing, call centers, and
+retail outlets.
+
+Responsibilities:
+ Analyzing the Requirement Documents developed by the client.
+ Involved in Designing Website Layout and Design using Master Pages, CSS and
+
+HTML.
+ Prepared CSS classes which helped the look and feel.
+ Wrote Classes that can be reused.
+ Created Primary Keys, Foreign Keys, NOT NULL’s, and Unique keys Relation Ships.
+ Involved in design of microsites using divs and css.
+ Used Jquery Ajax extensively to enhance User Experience.
+
+https://en.wikipedia.org/wiki/Customer_orientation
+https://en.wikipedia.org/wiki/Customer_orientation
+https://en.wikipedia.org/wiki/Sales_promotion
+
+
+Academic
+
+Course Discipline/
+
+Specialization
+
+School/college Board/
+University
+
+Year of
+passing
+
+% of
+marks
+
+B.Tech Electronics &
+Communication
+Engineering
+
+Sri Sivani College of
+Engineering,
+Srikakulam.
+
+JNTU Kakinada,
+A.P
+
+2012 65%
+
+Intermediate M.P.C
+
+Govt junior college,
+Rajam.
+
+Board of
+intermediate
+education, A.P
+
+2008 82.4%
+
+S.S.C ------- Govt High School,
+
+Rajam.
+
+Board of
+secondary
+
+education, A.P
+2006 65%
+
+Personal Details
+
+Date of Birth 10th July, 1991
+
+Father's Name Mr. K Nagaraju
+
+Nationality Indian
+
+Contact No +91 9640308461
+
+Email Srinu.prf@gmail.com
+
+Place:
+Date: (K Srininvasa Rao)
+
+
+	Summary
+	Technical Summary
+	Work History
+	Project Experience
+	Name   :HBME Regulatory Reporting
+	Name   :HK Payments
+	Name   :MWM
+	Name   :IT Governance
+	Name   :Resume Parser
+	Name   :FulcHRum CRM
+	Academic 
+	Personal Details
+	Date of Birth
+	10th July, 1991
+	Father's Name
+	Mr. K Nagaraju
+	Nationality
+	Indian
+	Contact No
+	+91 9640308461
+	Email
+

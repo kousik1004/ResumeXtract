@@ -1,0 +1,535 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+	Devpriy Trivedi
+
+
+
+	
+	SAP HANA Basis Admin/Consultant, Bangalore 
+
+	
+
+		
+	
+
+	 Summary
+
+
+
+
+
+
+
+
+
+
+Key Achievements
+· Certifications, Trainings
+· Awards, Recognitions
+· Critical deliveries
+· Innovations/Differentiators
+
+	
+Devpriy Trivedi
+Technical Lead 
+Bangalore, India
+
+Profile Summary
+
+· Over 9+ years industry experience across in SAP HANA, SAP Business Suite, SAP BW, SAP NW , SAP IDM/GRC , SAP SCM , SAP Business Objects and SAP SuccessFactors , configuration, implementation and consultation.
+
+· Full lifecycle Implementation, Upgrade, Migration, Update & Support Package installation testing across multiple SAP Products & Technology.
+
+· Acting as HANA DB technical lead to plan and drive various changes for and around HANA DB in terms of Installations, Migrations, Replication and Backup/recovery.
+
+· Technical Infrastructure & Change Management expertise in products like Netweaver [640 to 740], Business Suite applications [ERP, CRM, SRM, SCM], all releases. 
+
+· Landscape Design & Optimization. 
+
+· Knowledge in Project Management, Project Lifecycle Management, Solution Designing, Knowledge Management and Training.
+
+· Contributed extensively in the areas of Project Transitions and Pre-Sales from EMEA and APJ regions.
+
+
+
+	
+	Roles	
+
+· SAP Basis/HANA Administrator
+· Lead Consultant
+
+ 
+
+
+
+
+
+
+
+
+
+
+Education
+
+	Start - End
+	Name
+	Institute
+	Degree
+	Country
+
+	   Mar 1999 - Apr 2000
+
+	10th Standard
+	Kendriya Vidyalaya No 3, Kanpur-UP
+	Secondary School Certificate
+	India
+
+	   Mar 2001 - Apr 2002
+
+	12th Standard
+	Kendriya Vidyalaya No 3, Kanpur-UP
+	Senior Secondary School Certificate
+	India
+
+	   Mar 2004 - Apr 2008
+
+	Bachelor of Engg and Technology
+	SRMS CET, 
+Bareilly - UP
+	Bachelor of Tech in Computer Science & Engg.
+	India
+
+
+
+Certifications 
+
+	SAP Hana Technology Associate 
+	SAP HANA Administration 
+
+
+
+Trainings 
+
+	Name
+	Description
+
+	HA 100
+	SAP HANA Introduction
+
+	HA 200
+	SAP HANA Operation and Administration
+
+	ADM 100
+	SAP NW AS ABAP Administration
+
+	ADM 940
+	SAP Authorization Concept
+
+	TZIDM 7.1
+	SAP Netweaver Identity Management 7.1
+
+	GRC 300
+	Governance Risk and Compliance: Access Control 10.0
+
+
+
+
+	Languages
+
+	Proficiency
+
+	                                English
+	Business Fluent
+
+
+	                                  Hindi
+	Mother Tongue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Assignments
+Start – End
+	Client Name
+	Assignment Name
+	Role
+	Contact Person
+
+
+	19th April 2016 – On Going
+	Fiat and Chrysler Automobiles
+	FCA ECC on HANA Migration, Support
+	Technical Lead/SAP HANA Basis Admin
+	Manuel.riggoti@pl.ibm.com
+
+
+	Responsibilities
+	· Supported Migration of SAP ECC 701 from DB2 to HANA using DMO (Database Migration Option)
+· Patching SAP ECC, SAP BW system to make it compatible for migration using DMO and Upgrading SAP PI.
+· Setting up System replication between HANA systems to ensure high availability.
+· Setting up Diagnostic Agent for HANA for Monitoring via Solution Manager.
+· Performing post migration steps before handing over systems.
+· Installing Additional application instances.
+· Supporting Daily issues in BAU activities.
+
+
+	April 5th 2017 – On Going
+	Fiat CnHI Automobiles
+	S/4 1610 Installation on HANA 2.0
+	Technical Lead/SAP HANA/Basis Admin
+	Francesco.fuina@it.ibm.com
+
+
+	Responsibilities
+	· Installation of SAP HANA DB 2.0 
+· Setting up backup of HANA DB using Backint interface.
+· Installation of S4 HANA 1610.
+· Language installation. (FR, NL, ES, PT, PL)
+· Upgrading S4Core and complete stack with SAP kernel patching.
+· Installation of integrated SAP Web Dispatcher.
+
+
+	27th Jan 2016 – 15th April 2016
+	Siemens Industries
+	Siemens SCM System to HANA Migration 
+	SAP HANA/Basis Admin
+	abhishek.3.singh@atos.net
+
+
+	Responsibilities
+	· Migration of SAP SCM 701 from MaxDB to HANA using DMO (Database Migration Option)
+· Running Preparation steps to prepare system to be ready for migration.
+· Patching Max DB from 7.7.07.45 to 7.7.07.50 to make it compatible for migration using DMO.
+· Preparing live cache before and after the migration
+· Performing postmigration steps before handing over systems.
+· Installing Additional application instances.
+
+
+	18th Jan 2016 –
+15th April 2016
+	Johnson Matthey 
+	Johnson Matthey Group
+	SAP HANA/ Basis
+
+	abhishek.3.singh@atos.net
+
+
+	Responsibilities
+	· Installation of SAP HANA, SAP BW, SAP BobJ and SAP PO systems.
+· Post installation steps.
+· User and Role management.
+· Setting up System replication between HANA DB’s.
+· Installation and configuration of SAP NetWeaver Gateway.
+· Installation and configuration of SAP Fiori Apps.
+
+
+	7th August 2015 – 11th January 2016
+	Siemens CIT
+	Siemens SRM System to HANA Migration
+	SAP HANA/Basis Admin
+	abhishek.3.singh@atos.net
+
+
+	Responsibilities
+	· Migration of SAP SRM 740 from oracle to HANA using DMO (Database Migration Option)
+· Running Preparation steps to prepare system to be ready for migration.
+· Preparing Oracle DB parameters required to optimize migration.
+· Performing postmigration steps before handing over systems.
+· Installing Additional application instances.
+
+
+	9th October 2015 – 11th November 2015
+	Philips 
+	Philips O2C HANA Migration 
+	SAP HANA/Basis Admin
+	abhishek.3.singh@atos.net
+
+
+	Responsibilities
+
+	· Migration of SAP ECC O2C 740 SP01 from DB02 to HANA using DMO(Database Migration Option)
+· Running Preparation steps to prepare system to be ready for migration.
+· Adapting parameters required for migration in DB02 database.
+· Performing postmigration steps before handing over systems.
+· Importing transports required for corrections.
+
+
+	18th May 2015 – 9th October 2015
+	Philips Lighting
+	Philips BW HELIOS to HANA Migration
+	SAP HANA/Basis Admin
+	abhishek.3.singh@atos.net
+
+
+	Responsibilities
+
+	· Migration of SAP BW 7.01 on oracle to SAP BW 740 on HANA using DMO (Database Migration Option)
+· Running Preparation steps to prepare BW system to be ready for migration.
+· Preparing Oracle DB parameters required to optimize migration.
+· Preparing HANA DB for the scale out scenario.
+· Performing postmigration steps before handing over systems.
+· Upgrading Web Dispatcher for NW742 release.
+· Upgrading NW Java from 7.01 to 742.  
+
+
+	
+16th December 2014 – 15th May2015
+
+	PTT Global Chemical
+	HCM HANA Migration
+	SAP HANA/Basis Admin
+	Teerapol.inkate@th.ibm.com
+
+
+
+
+	Responsibilities
+
+	· Installation of SAP HANA and SAP ECC system.
+· Migration of SAP ECC 6.0 Ehp5 NW 702 to SAP ECC 6.0 Ehp7 NW 740 on HANA using DMO (Database Migration Option)
+· Setting up System replication between HANA systems.
+· Setting up Diagnostic Agent for HANA for Monitoring via Solution Manager.
+· Go live Support for Business Scenario Configurations and Functional Implementation.
+1`
+
+	
+15th August 2014 – 15th December 2014
+
+	Huntsman Corporation
+	Hunstman HANA 
+(HSIMS)
+	SAP HANA/Basis Admin
+	Swathi.kothari@atos.net
+
+
+	Responsibilities
+
+	· Installation of SAP HANA, SAP BW, SAP BobJ and SAP SLT systems.
+· Configuring SAP BW with SAP ECC systems.
+· Setup and configuration of SAP BPC.
+· User and Role management.
+· Supported functional testing and bug fixing.
+· Supported trainings organized by customers.
+
+
+	
+10th September 2010 – May 2013
+
+	SAP Labs India Pvt. 
+Ltd.
+	SAP Business Suite 2010 & 2013
+	SAP HANA/Basis Admin
+	Kiran.bose@sap.com
+
+
+	Responsibilities
+
+	· Part of the coordination team for Business Suite 2010 & 2013. 
+· Definition of Implementation Landscape for Suite validation (including scenario and technical validation)  
+· Landscape design to optimize the number of servers required, delivering maximum possible system performance in parallel. 
+· Coordinate installation and technical configuration activities for approximately 80 SAP systems. 
+· OS & DB installation and patching them to the right version. 
+· Performing the TICM test activities for various solutions (ECC, SRM, SCM etc...) in the areas of implementation upgrade and update and reporting   issues encountered. 
+· Coordinate and executed 8 system upgrades of SAP Business Suite 2005 systems to BS7i2010e ensuring minimal downtime and no loss of data.
+· Perform update of SAP Business Suite 7.0 systems using standard update tools such as SAP EhP Installer & SUM tool.
+· Validating Maintenance Optimizer via Solution Manager.
+· Provide 2 months of 24x7 support for functional consultants throughout the project timelines.
+
+
+	
+28th September 2008 -2010
+
+	SAP Labs India Pvt. 
+Ltd. And Partners (Wipro / B’Con / Infosys / PWC)
+	SAP Governance Risk and Compliance 10.0 & SAP NW Identity Management 7.1/7.2
+	SAP Basis and Security Consultant 
+	Kiran.bose@sap.com
+
+
+	
+
+	· Setup of NW IDM web component on NW JAVA.
+· Setup of Identity Center
+· Setup of Virtual Directory Server
+· Upgrading from 7.1 to 7.2
+· Initial configurations like Initial load, repository creation, Identity stores, importing
+· Provisioning framework, connector creation.
+· Access work queues and manage access requests.
+· Monitored privileges that control access to tabs in the IDM portal associated with the correct roles currently assigned to users. 
+
+
+
+
+
+Employment History
+
+	Start - End
+	Empl. Name
+	Job Title
+	Business Type
+	City
+	Country
+
+
+	24th September 2008 – 25th July 2014
+
+	SAP Labs India Pvt Ltd.
+	Senior Quality Services Specialist
+	Software Development, IT services and Consulting.
+	Bangalore
+	India
+
+	Responsibilities
+	· Installation, Upgrades and Updates of SAP systems and Databases. 
+· Installations/Upgrade of SAP Business Objects products.
+· Design and Implementation of SAP System Landscape Architecture.
+· Support Pack Implementation.
+· Conducted training and Knowledge sharing sessions.
+
+
+	28th July 2014 – 15th April 2016 
+
+	AtoS India Pvt Ltd
+	Consultant
+	Consulting
+	Bangalore
+	India
+
+	    Responsibilities
+	· Installation, Upgrades, Migrations and Updates of SAP systems and Databases. 
+· Installations/Upgrade of SAP Business Objects products.
+· SAP HANA 1.0, HANA Live 1.0: Installation, end-to-end Technical configuration for side-car landscapes, Administration tasks etc
+· Deployment of Analytics content on HANA DB using various tools like SUM for HANA and HANA Studio.
+· Supporting Pre-sales with solution proposals.
+· Solution Advisor for the various bids raised by customers.
+
+
+	19th April 2016 - till Date
+
+	IBM India Pvt Ltd
+	Technical Lead
+	Consulting
+	Bangalore
+	India
+
+	Responsibilities
+	· Installation, Upgrades, Migrations(support) and Updates of SAP systems and Databases(HANA and DB2). 
+· Installations/Upgrade of HANA DB 1.0 and HANA DB 2.0.
+· Setting up replication between HANA DB’s and Backup-recovery procedure.
+· Solution Advisor for the various changes / RFS from customer.
+· Supporting Daily issues as part of delivery team covering all the SAP issues.
+· Mentoring team members on various tools and technologies to enable them to perform daily activities in a better way.
+
+
+
+
+
+Professional Achievements
+
+	Start – End
+
+	Description
+
+	       June 2017
+	Received award directly from the Chrysler for the continuous support on daily basis under the “Drive Change” category 
+
+	     October 2016
+	 Awarded with “Put Client First” for the HANA project executed for Fiat and Chrysler Automobiles.
+
+	     Q2 ,2015
+	Accolade Silver for the contribution to Huntsman HSIMS HANA Project.
+
+	     2010-2011
+
+	Appreciation certificate from Jim Hageman Snabe (Co-CEO, SAP AG) for successfully training various teams under Security Initiative Training.
+
+	      Q3 ,2013
+	Titan star of the Quarter award for working on the project in HANA private cloud.
+
+	      Q2 ,2014
+	Spot award for successfully implementing BSi2013 on HANA with Fiori Apps.
+
+	      Q2 ,2012
+	Spot award for successfully configuring Service On-Demand portal.
+
+	      Q3 ,2012
+	Spot award for working on the project for Gravity on Stream work.
+
+
+
+
+Contact Details:
+
+Email Address: devpriy@outlook.com	and devsrms@gmail.com
+Contact No: +91- 9986-150-910
+Skype ID   : dev.trivedi1
+
+	1 of 7

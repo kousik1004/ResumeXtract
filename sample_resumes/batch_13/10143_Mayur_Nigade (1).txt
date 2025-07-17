@@ -1,0 +1,473 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+RESUME 
+
+ 
+
+  Mr. Mayur Nigade    EMAIL:mayurnigade@gmail.com   
+
+  Pune.       Mob. No: +91-9168829168 
+
+  
+
+ 
+
+CAREER OBJECTIVE 
+
+ Possess around 3 years in MS Sql server. 
+ Expertise and hands on experience in SQL Development -SQL Server & SSIS 
+ T-SQL Reporting.  
+ Acquired patience, detail orientation and organizational skills to improve existing 
+
+processes 
+
+ 
+
+Experience Summary 
+
+ 
+
+   Organization Designation Duration 
+
+Heera Software SQL Developer June 2017 to Till date 
+
+Bajaj Finserv SQL Developer July 2016 to June 2017 
+
+Prosoft Solution LTD Junior SQL Developer FEB 2015 to May 2016 
+
+ 
+
+PROFESSIONAL SKILLS 
+
+ 
+
+ Proficient in Relational Database Management Systems (RDBMS). 
+
+ Expertise in Transact-SQL (DDL, DML, DCL) & in Design & Normalization of the database tables. 
+
+ Experience in implementing business logic using Triggers, Indexes, Views & Stored procedures. 
+
+ Experience with tools like SQL Server management studio & SQL Server 2008/2012 Integration 
+
+(SSIS) & Reporting services (SSRS). 
+
+ Proficient in Tuning T-SQL queries to improve the database performance & availability. 
+
+ Experience in Creating & Updating Clustered & Non-Clustered Indexes to keep up the SQL Server 
+
+Performance. 
+
+ Good knowledge in Normalizing & De-normalizing the tables & maintaining Referential Integrity 
+
+by using Triggers & Primary & Foreign Keys. 
+
+ Expertise in creating Packages using SQL Server Integration Services (SSIS). 
+
+ Transformation of data from one server to other servers using tools like bulk copy program (BCP), 
+
+Sql server integration services from legacy systems to SQL server. 
+
+ Comprehensive knowledge of database management systems & Microsoft Office Suite. 
+
+ Expertise preparing report specifications & database designs to support reporting requirements. 
+
+ Excellent analytical, communication & interpersonal skills. & a good team player. 
+
+ 
+
+mailto:mayurnigade@gmail.com
+
+
+ 
+
+ 
+
+ 
+
+SOFTWARE SKILLS 
+
+ 
+
+» DBMS Packages : SQL Server 2012, SQL Server 2008R2 
+
+» Business Intelligence: SSIS,SSRS ,SSAS 2008 & 2012,Power BI  
+
+» Languages : C#.net, Asp.net, C, C++,JavaScript, JQuery,  
+
+          HTML, XML, WCF Framework, Ado.Net Entity Framework 
+
+» Operating Systems : Windows Family, Basic UNIX 
+
+ 
+
+Heera Software - June 2017 to Till date 
+
+ 
+
+Name: Secondary Sales Automation(FMCG Domain) 
+
+Role: (MS SQL) Database developer  
+
+ 
+
+Responsibilities: 
+
+1. Created new tables, written stored procedures, triggers for Application Developers & some user 
+
+defined functions 
+
+2. Involved in performing data integration using SSIS Package from flat files into a normalized 
+
+database structure. 
+
+3. Designed, created & analyzed & implemented tables required of Client Requirement in SQL 
+
+server. As part of this new stored procedures & related objects were developed using T-SQL 
+
+4. Extensively used Joins & sub-Queries to simplify complex queries involving multiple tables & also 
+
+optimized the procedures & triggers to be used in production. 
+
+5. Added new columns to existing tables, modified stored procedures & user defined functions in 
+
+SQL 
+
+6. Involved in performance tuning to optimize SQL queries using query analyzer. 
+
+7. Created indexes, Constraints & rules on database objects for optimization. 
+
+8. Creation/ Maintenance of Indexes for various fast & efficient reporting processes  
+
+9. Expertise hands on Writing Dynamic SQL Queries (RED Queries) 
+
+10. Creating SSIS Packages to Migration, Transformation database  
+
+11. Creating Report using SSIS Packages In Store procedures 
+
+12. Creating Report using SSRS, Power BI 
+
+ 
+
+Projects :  
+
+ 
+
+1 MeraNet ERP System 
+
+2 Distributor Management System 
+
+3 Easy Order (Mobile app) 
+
+ 
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+               Bajaj Finserv - July 2016 to June 2017 
+ 
+
+ 
+
+Name: EMI card Activation 
+
+Role: Database developer  
+
+ 
+
+Project Description: To further improvement upon EMI card activation & repeat transaction purchase 
+
+behavior with a strong customer engagement framework & strengthen the awareness. 
+
+ 
+
+Responsibilities 
+
+1. Designed, created & analyzed & implemented tables required for EMI card activation in SQL server. 
+
+As part of this new stored procedures & related objects were developed using T-SQL 
+
+2. Added new columns to existing tables, modified stored procedures & user defined functions in SQL 
+
+3.Analysis/Tracking of Customers conversion & EMI card activation on daily basis & made summary 
+
+reports of same for business teams. 
+
+4. Scheduled key Campaigns through communication mart & send to customers to create awareness 
+
+of EMI card. 
+
+5. Analyzed data on which locations, customer demographics campaigns success is working better. 
+
+ 
+
+Name: Propensity of Customer 
+
+Role: Database Developer/Data Modeling 
+
+  
+
+Project Description: Identify customers with high propensity to purchase mobile & stamp relevant 
+
+product basis customers past behaviour in terms of brand preferences & price preferences. 
+
+ 
+
+Responsibilities: 
+
+1. Basis past purchase history of products in terms of brand & price preferences customers are 
+
+classified into 3 groups -High, Medium, Low for brand & price. 
+
+2. Create tables for analyzing data using Propensity modeling plan. 
+
+3. Creating Store procures & User Define functions for Product Wise Price Based customer 
+
+segmentations  
+
+4. Analysis/Tracking of Customers past behavior according to plan. 
+
+ 
+
+Name: Campaign Management System (CMS) 
+
+Role: Campaign execution, analysis & database linking 
+
+ 
+
+Project Description: A campaign management system (CMS) is a software solution designed to 
+
+handle the various components of a marketing campaign like Email & SMS.The system optimizes the 
+
+campaign planning process,event-triggered & meaningful communication with our customers & 
+
+facilitates tracking & measuring campaign performance. 
+
+ 
+
+Responsibilities: 
+
+1. Plan multi-stage campaigns & setting campaign priorities 
+
+2. Creation of dynamic SMS & Email templates & timely execution of them 
+
+3. Creation of tables in SQL server according to business needs & linking to campaign management 
+
+system. 
+
+4. Manage & control campaign budget. 
+
+http://www.comarch.com/trade-and-services/our-solutions/comarch-crmmarketing/solutions/comarch-campaign-management/
+http://www.comarch.com/trade-and-services/our-solutions/comarch-crmmarketing/solutions/comarch-campaign-management/
+
+
+ 
+
+ 
+
+5. Monitor & track campaign progress & summary/conversion report. 
+
+6. Analysis of customer segmentation or demographics through SQL server database & schedule 
+
+campaigns which gives better result. 
+
+ 
+
+Achievements 
+
+o As a team member atomized jobs to meet business needs. 
+
+o Identified bugs present in database & coordinated with software developers & resolved 
+
+all issues. 
+
+o Handled the projects with a proper planning & timely execution 
+
+o Flexibility to work on any project  
+
+ 
+
+Web Sites Developed as freelancer 
+
+ I: www.gaugeworlds.com 
+
+ II: www.shashankshende.com – Under Developement 
+ Environment: JavaScript, JQuery, CSS3, HTML5 
+
+  
+
+ ProSoft Solutions – FEB 2015 to May 2016 
+ 
+
+Project Name: Task Easy Pro 
+
+ 
+
+Environment: SQL 2008, JavaScript, JQuery, Ajax, ASP.NET, CSS, HTML 
+
+Responsibilities: Responsible for Database, Design, Front end coding & Server Coding. 
+
+ 
+
+Project Name: Automobile Service System 
+
+Environment: SQL 2008R2, C#.Net, WCF Framework, (Database) Ado.Net Entity Framework 
+
+Responsibilities: Requirement Analysis, Database, Design & Coding 
+
+ 
+
+EDUCATIONAL QUALIFICATION 
+
+ 
+
+QUALIFICATION YEAR OF PASSING UNIVERSITY/INSTITUTE 
+
+M.C.A.
+ 
+
+2014 PUNE UNIVERSITY 
+
+B.C.A. 2010 PUNE UNIVERSITY 
+
+HSC 2006 MAHARASHTRA BOARD 
+
+SSC 2004 MAHARASHTRA BOARD 
+
+ 
+
+STRENGTH  
+
+» Self-Motivated, eagerness about work & success. 
+
+» Eager to learn new technology, new things. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+http://www.comarch.com/trade-and-services/our-solutions/comarch-crmmarketing/solutions/comarch-campaign-management/
+
+
+ 
+
+ 
+
+ 
+
+PERSONAL DETAILS 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  Date:           Place:  
+
+ (Mayur Nigade)  
+
+ 
+
+ 
+
+D.O.B: October 8,1988 
+
+Gender: Male 
+
+Marital Status: Single 
+
+Nationality: Indian 
+
+Languages: English, Hindi, Marathi. 
+
+Hobbies: Reading Novels, Books, Writing Drama, Acting & Directing Drama 
+
+
+	Date:           Place:
+	(Mayur Nigade)
+

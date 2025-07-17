@@ -1,0 +1,213 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MEETU GARG 
+
+Email:meetu.garg24@gmail.com 
+
+Contact: 9599918218 
+
+ 
+CAREER OBJECTIVE: 
+
+3.6 years of overall experience in Data Analytics and SAS Programming. Seeking new opportunities to leverage my 
+
+technical and professional expertise.  
+
+ 
+
+PROFESSIONAL EXPERIENCE: 
+
+ Company Name: Wipro formally known as Alight Solutions.   
+
+ Designation: Working as an Analyst Programmer. 
+
+ Duration: May 1st, 2015 to Current. 
+
+ 
+PROFILE SUMMARY: 
+
+ Working predominantly in SAS Programming, Data Analysis and Reporting  in HR Data Management.  
+ Good Optimization skills to increase efficiency in SAS/SQL 
+ Have sound knowledge and skills in manipulating data using BASE SAS and various procs in Z/OS 
+
+environment. 
+
+ Good understanding of PROCs and MACROs and the ability to implement in the higher level projects.  
+ Handling SAS projects (starting from analysis to implementation) and debugging the 
+
+Ongoing SAS code errors, if encountered. 
+
+ Working with Client team for Electronic File Transfers of data analyzed through SAS Codes. 
+ Training and Coaching new hires. 
+ Handling Ongoing Production Support. 
+
+ 
+TECHNICAL SKILLS: 
+
+ Programming Language :  Mainframe SAS ,JCL 
+ Query Language             :  DB2 SQL  
+ Tools                           :  TSO-ISPF, Smart File, Endeavor, Workbench, Control-M, IBM Utilities,  
+
+                                             Lotus Notes                                                          
+
+                                           
+
+PROJECTS UNDERTAKEN: 
+
+1) Setup an Outbound Interface With SAS 
+ 
+
+Client: Dell  
+
+Objective: To Create an Outbound interface to send a Specific File on a Specific Day of every Week from Alight 
+to the client (Dell). 
+
+ 
+
+Description: Implemented this by Coding a Batch Job in SAS. We were given a set of 
+requirements by the Client and we needed to first analyze those requirements so as to check the feasibility and once 
+
+the Technical Specifications of the requirements were finalized, I had to code the Entire requirements through SAS.  
+
+ 
+
+The code demanded an extensive use of Macros and different SAS functions .As the requirements demanded 
+
+specified type of format for some of the fields the Participant and their Dependents so different functions were used 
+
+to write out the data in given format and also used Array to write the repetitive historic data  
+
+ 
+
+ 
+
+mailto:meetu.garg24@gmail.com
+
+
+2) Query Optimization  
+ 
+
+Client: Dell 
+
+Objective: Reviewing the Queries/SAS that have taken longer CPU time and taking appropriate actions in order to 
+
+reduce the CPU time. 
+
+Description: We found a long-running report generating Query which had several left joins and sub selects where 
+fine-tuning a query wouldn't be fruitful. 
+
+I've converted the Query into a SAS and have fine-tuned it, which yielded an effective utilization of CPU time by 
+
+reducing it to 2% of actual time consumed (saved 98% of CPU Time). 
+
+  
+
+3) HR Project Implementation  
+ 
+
+Client: Dell 
+
+Objective: Configure and code the jobs based on the analysis provided from client side, and implementing an 
+
+ongoing process to load the files received from the client  
+
+Description: To maintain and load client’s employee, dependent and coverage data to Alight Solutions system, 
+
+provided statistical reports and other related information’s to the client via E-mail or EFT. 
+
+In order to perform all these activities on a huge population, batch jobs that run on MVS operating systems were made 
+
+use of along with SAS programs for reporting purposes. 
+
+Employees’ life insurance, coverage for employees & dependents, HR Client file processing, Payroll processing are 
+
+some examples of the kind of information involved in this project 
+
+ 
+
+Other Projects 
+
+ Handled Annual Enrollment for the client Deutsche Bank and Dell, which involved several months of 
+
+processing and gathering the changing requirements on timely basis and working upon as needed.  
+
+ Handled several one-time and ongoing report generation which involved critical deadlines and complex 
+
+coding logics by adhering to SDLC methodology. 
+
+ Handled a complex acquisition project from scratch which involved adding of new company codes, 
+
+participants and their related data to an ongoing client. 
+
+ Spring Cleaning. 
+
+ Year End Projects. 
+
+  
+
+EDUCATIONAL DETAILS: 
+
+B.Tech/BE -2011-15(6.68) - Computer Science from Mody University of Science and Technology, Lakshmangarh. 
+
+Class 12th - 2011 (68.60%) - Sanskar International Academy, Hanumangarh Jn. (Rajasthan)  
+
+Class 10th -2009(87.80%) - National Public Sr. Sec School, Hanumangarh Jn. (Rajasthan) 
+
+PERSONAL DETAILS: 
+
+Date of Birth: 24-06-1993 
+
+Address: Gupta Agro Service, 8, new grain market, Hanumangarh Jn. (Rajasthan), Pin Code: 335512 
+
+DECLARATION: 
+
+I hereby declare that all the particulars stated above are true to the best of my knowledge.  
+
+Meetu Garg 
+
+

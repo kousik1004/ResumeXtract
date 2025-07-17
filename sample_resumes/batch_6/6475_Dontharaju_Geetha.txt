@@ -1,0 +1,330 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	Dontharaju Geetha                              phone: +91 9642220572
+ABAP consultant.                                 maremandageetha@gmail.com
+
+	
+
+
+	
+
+Professional Summary
+SAP ABAP consultant with significant success delivering impressive contribution in the stream of ERP- SAP and carry forward that expertise with the principle of continuous learning and innovation.
+Having over all experience of 8 years out of which 5 years experience in SAP ABAP and 3years experience in teaching. 
+Consulting experience includes SAP R/3 full cycle Implementation and support projects.
+Experience with SAP ABAP, Report programming, Enhancements, interfaces, User Exits, Dialog programming, Adobe layouts  in SAP.
+Knowledge in Business flow of various Modules such as MM, SD, FICO, PP.
+Experienced in creating the Database tables, Table Maintenance Generator, Views, Structures, Data elements, Domains.		
+
+
+Professional Experience
+
+Project:5
+
+	Company Name
+	Tech Mahindra
+
+	Project Type
+	SAP Implementation 
+
+	Client 
+	Al watania
+
+	Role
+	ABAP Consultant
+
+	Environment
+	SAP R/3 Version ECC 6.0.
+
+	Total team size
+	35
+
+	Modules Implemented
+	SD,MM,FI,PP
+
+	Duration
+	September 2016  to till date
+
+
+
+
+
+
+Areas worked:
+Reports:
+· Developed a report to create Multiple Sales orders using BAPI.
+· Developed a report to create Quotation using BAPI.
+· Developed a report to Post and cancel the documents in FI using BAPI.
+· Developed a report to create a new posting document automatically if the line items exceeds 999 in FI.
+· Created a BAPI Program for goods Movement in MM.
+· Developed a rebate report to display the material details in MM.
+
+Enhancements:
+· Developed an enhancement to block the sales order based on condition types.
+User Exits:
+· Implemented an user exit to add new fields in  FBL1N Tcode selection screen as well as output report. 
+· Implemented an user exit to add new fields in selection screen as well as output for MB51 Report.
+
+Interfaces:
+· Developed an interface to read data from HCM server and update the posting documents with the same data in FI.
+
+Adobe layouts:
+· Developed an Adobe layout for Invoice printing.
+· Developed an Adobe layout for Order confirmation.
+· Developed an Adobe layout for Contract and schedule line Agreements.
+· Developed an Adobe layout for Bill of  lading form.
+· Developed an Adobe layout for Purchase order.
+
+
+Project:4
+
+	Company Name
+	Tech Mahindra
+
+	Project Type
+	SAP Implementation 
+
+	Client 
+	CUP ( Cambridge University Press )
+
+	Role
+	ABAP Consultant
+
+	Environment
+	SAP R/3 Version ECC 6.0.
+
+	Total team size
+	42
+
+	Modules Implemented
+	SD,MM
+
+	Duration
+	May 2015 to August 2016
+
+
+
+
+
+Areas worked:
+
+SAP SD Developments:
+Tables:
+· Created a custom table for pricing details.
+· Created a table to add new fields for standard VL06T.
+Routines:
+· Developed a routine to update pricing details for the custom condition types
+Reports:
+· Developed a report to create secondary records based on primary records creation or change.
+· Developed a report to cancel all open sales orders if the due days are exceeded from the order creation date.
+Enhancements:
+· Developed an enhancement to apply schedule block for the sales order while the order creation or change.
+· Implemented a CR for the enhancement to provide additional fields in standard VL01, VL02,VL03.
+· Developed an interface to send invoice details from ECC server to FTP server.
+User Exits:
+· Developed an user exit to add custom fields for standard transaction VL06T screen as well as output.
+Interfaces:
+· Developed a CR on proxy interface to create quotations and send acknowledgement to the same proxy.
+Dialog programming:
+· Developed a dialog program to create dynamic table entries for EDPAR table.
+SAP MM Developments:
+Reports:
+· Developed a report to update the fields and product life cycles for material master
+
+Interfaces:
+· Developed an interface to extract the stock levels of the materials from various plants and send it to the client data base server (Oracle data base hub)
+Enhancements:
+· Implemented a CR to apply block in PO for the given materials if there is no sufficient stock.
+Project: 3
+
+	Company Name
+	Verna soft consultancy India Pvt.Ltd.
+
+	Project Type
+	SAP support
+
+	Client 
+	GR infra
+
+	Role
+	Junior ABAP Consultant
+
+	Environment
+	SAP R/3 Version ECC 6.0.
+
+	Total team size
+	6
+
+	Modules Implemented
+	SD,MM,FICO,PS
+
+	Duration
+	Jan  2014 to April 2015
+
+
+
+Areas Worked
+Tables:
+· Created Customized table for Bank Guarantee Details.
+· Generated a table for request for inspection. 
+SD Reports:
+· Developed a Delivery Report Uploaded Delivery details using VL01N interactively
+· Developed a report for cumulative RA and also created a smart form for the display of individual Bill No.
+MM Reports:
+· Developed a duplicate report for MB5B adding extra fields for selection as well as display.
+· Developed a Report for uploading Material master using BAPI.
+· Developed a report for plant Utilization of different types for Vehicles in a Plant.
+· Developed a report for maintaining the performance of vehicles in a plant.
+· Developed a report for validating the distance moved bytires.
+· Developed reports for Goods receipt Note & stock transfer note.
+· Developed a report for Work order.
+Smartforms:
+· Developed smartforms for Purchase Order & Purchase Requisition.
+
+Project:2
+
+	Company Name
+	Verna soft consultancy India Pvt.Ltd.
+
+	Project Type
+	SAP Implementation
+
+	Client 
+	Trimex  Sands Pvt.Ltd.
+
+	Role
+	Junior ABAP Consultant
+
+	Environment
+	SAP R/3 Version ECC 6.0.
+
+	Total team size
+	10
+
+	Modules Implemented
+	SD,MM,FICO
+
+	Duration
+	Sept  2012 to Nov 2013
+
+
+
+Areas Worked
+SD Reports:
+· Developed ALV-report for history data of changed requested delivery date.
+· Created ALVinteractivereport  for displaying List of Sales Orders.
+MM Reports:
+· Developed a report for Re-order point for the  Organization.
+· Created ALVinteractive report to display all the Purchase Orders handled during the selected range of period with secondary list selection to display vendor’s details.
+· Created ALVinteractivereport  for Purchase Register.
+· BDC Programming:
+· Developed a BDC program to upload Customer master along with customer bank data using Table controls.
+· Smartforms:
+· Developed smart forms and downloaded in PDF for the CREDIT MEMO and for the SUBCONTRACTING CHALLAN.
+· Created Layout set program for pro forma Invoice Document for Sales Order using Smartforms.
+· Dialog Programming:
+· Developed MODULEPOOL Programs in the Module of MM, SD for 
+Budget Maintenance, Material Serial Numbers Self life.
+
+Project:1
+
+	Company Name
+	Verna soft consultancy India Pvt.Ltd.
+
+	Project type
+	SAP support.
+
+	Client 
+	Neopost,UK.
+
+	Role
+	Junior ABAP Consultant
+
+	Environment
+	SAP R/3 Version ECC 6.0.
+
+	Total team size
+	8
+
+	Modules Implemented
+	SD,MM,FICO,CS,PM
+
+	Duration
+	Jan 2012 to Aug 2012
+
+
+
+Areas Worked
+MM Reports:
+· Developed a report for the Pending Purchase Requisition based on various selection options on screen.
+· Developed an ALV report to display Item, Material, Quantity, Purchase order number and Goods receipt date based on Goods receipt number.
+
+
+
+
+SD Reports:
+
+· Developed a Interactive ALV Report which displays all the With Holding Commercial Tax (WCT Report) Information for Sales Order Number.
+· Designed and coded a BDC program to migrate Vendor Master Data from legacy system to SAP R/3 database.
+
+Testing:
+
+· Unit testing for the objects developed.
+· Improving the object performance using the Runtime analysis.
+
+Worked in Noble college of Engineering and Technology For women, Hyderabad From Aug 2007 to July 2010.
+
+Educational Qualification:
+· Master of Technology in Electronics and Communication Engineering from JNT University, India.
+· Bachelor of Technology in Electronics and Communication Engineering from JNT University, India.
+· Diploma in Electronics and Communication Engineering from State Board of Technical Education, India.
+
+
+
+

@@ -1,0 +1,249 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pawan Mishra  
+ 
+1  
+#76, Kathir Salvam Building, Kiadb housing layout, E-city-II, Bengaluru-560100 |+919900592238|  
+
+Email id:pawanbit034@gmail.com 
+
+KEY HIGHLIGHTS 
+
+➢ Working as a Machine Learning Engineer (Advance Analytics) at Bajaj Finserv  
+
+➢ 2.5 + years of experience in analytics, machine learning, NLP & Deep learning using big data tools like Hadoop, R, Python, Spark, Excel, 
+
+Tensor flow. 
+
+➢ Worked as Jr.Data Scientist at Techmahindra, worked across telecom, banking and media entertainment domain. 
+
+➢ B-tech in ECE from BIET Jhansi (2011-2015) & trained in BI & Analytics. 
+
+➢ Good grip over machine learning algorithms, mathematics and business application of them. 
+
+➢ Awarded ‘PAT ON BACK” for web analytics solution for a leading American telecom client.  
+
+➢ Awarded the “Best Team” at Techmahindra in the field of data science for my work in field of Analytics. 
+
+➢ Deep learning certification from Coursera (Andrew NG). 
+
+➢ Successfully Completed the Microsoft Open Hack Competition Held at JW Marriot Bengaluru. Developed a Deep learning model with 
+
+over 96% accuracy using CNN for identifying images form a person wear and gears. 
+
+ 
+
+PROFESSIONAL EXPERIENCE 
+
+➢ Face Card (Bajaj Finserv, Feb 18 –): Similar to “Ali-pay” our business wanted to implement an Face Recognition Based Service 
+for its User at Branches and App Platform. Using the Microsoft Face Api performed a POC to implement the service at our 
+stores. 
+
+➢ Product Matcher (Bajaj Finserv ,October 17- Jan 18): Developed an application for mapping raw dealer titles to our company 
+catalogue using NLP & deep learning. The app provides an interface where text titles (ambiguous) are loaded and after a brief 
+automated text processing the titles are fed to the Model which segments them into their attributes using (Name entity 
+Recognition) then based on attributes it is mapped to master template using Text similarity Scores. The App enabled our team 
+to save 5-6 Man Hours a day. 
+
+➢ Python & R modeler ( Cognita : Analytics play store, Platform development) ( JUN -17- present) 
+
+➢ Responsible for uploading pre-trained analytical model on the cognita  on-boarding server and governing its 
+performance. 
+
+➢ Developing and testing the cognita client required to dump & push an analytical model to the server. 
+➢ Successfully on boarded Image classification(TF), Vm-predictor and Threat Analytics model to the server using R & 
+
+python client libraries. 
+
+➢ Jr.Data Scientist(Convolution Neural Network), R&D POC, Techmahindra, Bengaluru(MAR-17-JUN 17) 
+
+➢ Involved in creating a CNN for automatically counting the aircrafts part from a computer graphic design document. 
+
+➢ The proposed Idea would save a lot of manual man hours (by 43%) required for the same. 
+
+➢ Inspired from Tensor Flow, created a CNN model using keras which could accurately identify the parts with accuracy up to 
+
+94.3%. 
+
+ 
+
+➢ Jr.Data Scientist (Web Analytics),Techmahindra, Bangalore(AUG-16 –MAR-17) 
+
+➢ Analyzed Web logs data of the leading American Telco Giant to list out RCA for customer churning out due to bad web 
+
+experience. 
+
+➢ Build different classification model including parameters related to web journey of customers. 
+
+➢ Worked on different classification algorithm like SVM, Logistic Regression, RF, Decision tree for reaching the optimum 
+efficiency. 
+
+➢ The solution proposed helped the client drop the churn rate and also saved the 8$ per call charges they had to pay to their 
+
+customer support for every issue. 
+
+➢ Later tuned the model using regularization techniques and estimated the churn possibility of users, time to churn and 
+
+reasons for churn with respect to web journey.    
+
+➢ Performed a text Association (sentiment) over the feedback and survey provided by the client about their launch using 
+
+topic modeling & sentiment analysis (LDA & NLP). 
+
+➢ The results of text analytics supported our findings and helped the client exploring the RCA for the churn. 
+
+ 
+
+ 
+
+
+
+➢ Jr.Data Scientist (Digital Segmentation), Techmahindra, Bengaluru(April-16 – AUG 16)    
+
+➢ Build a digital segmentation model for Indonesian telecom client using clustering algorithms. 
+➢ Identified critical segments which highlighted the customers to target on basis of their value to the company. 
+➢ Performed text mining over the feedback provided by the user and drew contrasting results using LDA&LSA helping the 
+
+telco enrich their customer support experience. 
+➢ Implement the solution AWS using IBM BIG R. 
+
+ 
+ 
+SKILLS  
+
+ 
+
+ANALYTIC TECHNIQUES ALGORITHMS 
+
+CLASSIFCATION SVM, Regression, Cart, Decision Tree, RF , CNN & Naïve Bayes 
+
+CLUSTERING K-Means, Hierarchical Clustering 
+
+TEXT ANALYTICS Word2vec, LDA, LSA, fasttext, NLP and NER   
+
+EDA Hypothesis Testing, Feature Engineering, Regularization etc. 
+
+ANALYTICS TOOLS  
+
+Batch Processing R STUDIO, ANACONDA(PYTHON), EXCEL,ORANGE 
+
+Streaming and Big Data Pyspark, Hive, Sqoop  
+
+Api & Deployment Microsoft Custom Vison & Face API , Flask, Docker etc. 
+
+ 
+
+  
+
+  
+
+EDUCATION  
+
+ 
+
+ 
+
+Degree Year Institute Grades/Percentage 
+
+B-Tech (ECE) 2011-2015 BIET ,Jhansi 75.9% 
+
+Intermediate (XII) 2009-2010 Saint Xavier’s School Ballia, 
+
+UP 
+
+72 % 
+
+High School (X) 2008-2009 Saint Xavier’s School Ballia, 
+
+UP 
+
+90 % 
+
+ 
+
+ 
+
+EXTRA-CURRICULAR ACHIEVEMENTS 
+
+• Coordinator, Samnavya – 2014: - Led the event’s various on the go tasks and anchored it as a coordinator successfully   
+
+• Coordinator, Pragmatikoon 2014: - Led and developed tasks and campaign for the event and also brought an increase 
+in sponsorship and participation with help of my communication and interaction skills.      
+
+• Coordinator, PACE 2012: -Was responsible for extensive publicity of the Annual Sports Festival of our college. 
+Consistent efforts led to an increase in participation and led to smooth functioning of the event.   
+
+• Captain of the Institute Cricket team, led my (3rd year) cricket team to victory in annual sports held in 2014, and was 
+declared as player of the tournament for the same in 2015.     
+
+• JPBL (Techmahindra): participated in Techmahindra Cricket league (JBPL), my team finished 4th in the Tournament.     
+
+ 
+
+INTERESTS & HOBBIES 
+
+ 
+
+➢ Machine Learning application in field of AI 
+
+➢ Playing cricket &Football 
+
+➢ Watching movies & TV series 
+
+➢ Travelling and water sports. 
+
+ 
+
+REFERENCES 
+
+Available upon request. 
+
+ 
+
+

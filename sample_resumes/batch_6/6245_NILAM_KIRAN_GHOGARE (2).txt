@@ -1,0 +1,251 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mrs. NILAM KIRAN GHOGARE
+Madhuvan CHS, Plot No. 388, Flat No. 203,
+Sector-19/C, Koparkhairane,
+Navi Mumbai - 400 709.
+Contact No: +91 8108871575, +91 9967175164
+Specialization:- Master of Computer Application (MCA)
+Email ID :- phalkenilam@gmail.com
+
+Objective:
+Proficient in software testing with strong interpersonal and teamwork skills, analyzing FRS
+and use case documents, defining test scenarios, writing and executing different kinds of test
+cases, participating in reviews, defect tracking and reporting and preparing status report.
+
+I have high magnitude with sense of creativity and innovation, high commitment towards
+work, result oriented and interested to learn new technologies also intuitive toward process,
+management and co-workers. I can perform well under pressure and short-notice. I aim to
+contribute towards organization with all my gained knowledge and experience.
+
+Educational Qualification:
+Name of Exam Name of institute /
+
+College
+Board /
+University
+
+Percentage /
+Grade (CGPA)
+
+Month / Year
+of Passing
+
+MCA IMCOST,Thane Mumbai 7.58(SGPI)* June-2016
+
+B.C.A SNDT,Ghatkopar-(W) SNDT 69.04% April-2013
+
+H.S.C. (Science) Pune Vidya Bhavan,Ghatkopar-(W) Maharashtra 65.17% Mar-2010
+
+S.S.C. Saraswati VidyaMandir,Ghatkopar-(W) Maharashtra 77.84% Mar-2008
+
+*SGPI (Semester Grade Performance Index) :- SGPI is out of 10.
+
+Work Experience:
+Professional Experience
+Currently working in a Phalcomm Infra Solutions Pvt. Ltd as a Software Tester (Working
+From 6th September 2016 to till Date)
+
+Key Skills:
+ 1.5 years of Experience in Software Testing of web based applications.
+ Proficient Knowledge in Manual Testing.
+ Good in requirements understanding and analyzing.
+ Good in preparing SRS Documentation
+ Knowledge of different phases of Testing (Installation Testing, Functional Testing, GUI
+Testing, Regression Testing, Application Testing, WebServices Testing).
+ Experienced in preparation of Test scenarios, Test cases and executing the same.
+ Knowledge of Software Engineering Process and familiar with various Life Cycle Models
+like Waterfall, Spiral and ‘V’ model.
+ Familiar with Test Strategy, Test Plan and Traceability Matrices Documents.
+ Experienced in Test results analyzing, sending suggestions and defects.
+Worked on Bug Life Cycle.
+
+mailto:phalkenilam@gmail.com
+
+
+ Experienced in interacting with the developers to make sure that they have understood
+the issues and proactively involved in defect review meeting
+
+Project Details:
+Project #1:
+
+Project Title : “Complaint Management System (CMS)”
+Testing Approach : Manual Testing
+Role : Software Tester
+
+Description:
+ The complaint management system (CMS) is to be effective the system must provide the
+
+guidelines for receiving, recording, processing, responding to and reporting on complaints,
+as well as using the guidelines to improve services and decision-making.
+
+ Customers, when they have complaint, query, request, every Organization users will have
+access to create new ticket and should able to assign the ticket to specific members of the
+complaint handling team of the particular Company.
+
+ This ticket should be logged into the database and complaint/request/query number
+should be generated. The customer should get an acknowledgement back saying with
+email/SMS that his/her complaint is received like “Your query/complain /request (any
+one as per type selected) is been registered and your unique reference number for further
+communication is _______.”
+
+ All organization users in hierarchy can see the complaint/query/request which is in Open,
+In Progress, Waiting on Customer, Waiting for third party only. They can’t see the closed
+ticket.
+
+ For e.g.; Phalcomm user1 has raised the ticket and assigned to specific members of the
+complaint handling team then Phalcomm User1, Phalcomm User2, Phalcomm User3, Super
+Admin, Assigned user of complaint handling team can see the ticket and will update also.
+
+Project #2:
+Project Title : “Dynamic hierarchy in Organization”
+Testing Approach : Manual Testing
+Role : Software Tester
+
+Description:
+ There are two roles. 1) Admin 2) staff. Each Admin can manage staff working under him
+
+and each staff manages users who are working under him. Admin (org. admin) can manage
+a set of projects which will be assigned by super admin to admin. Org. admin will act as
+super admin for those set of projects only.
+
+ Each org. admin shall able to access to 'Pre-sales', 'Post sales' and 'Sales’. Each org. admin
+able to create staff under him and can give access to like 'Pre-sales', 'Post sales' and 'Sales’.
+Each org. admin cannot manage staff users of other admin.
+
+ There org. admin would be no rigid access rights for any users i.e., under 'pre-sales' admin
+there can be 'post sales' staff also.
+
+ Each org. admin can assign projects to their staff users. Each org. admin cannot create
+other admins or staff users for other admin. Each org. admin cannot update roles.
+
+MAJOR IT SKILLS:
+ Certification of Testing (Manual + Automation)
+ Good Knowledge in QTP, Web Driver, Selenium IDE, Jmeter, Tarantula, Mantis BT.
+ Good Knowledge in Database SQL, MS Access, Oracle.
+ Programming Languages Known JAVA, HTML and .NET C#.
+ Certification in Advanced MS-CIT
+Windows XP/7/8/10.
+Successfully completed C Programming Course with 1st class.
+
+
+
+Academic Project:
+ Internship :
+
+Done Internship for 6 months (From 4th Jan 2016 to 3rd June 2016) in Hindustan
+Petroleum Corporation Ltd (HPCL) on Server Performance Monitoring System (SPMS)
+Project.
+Front-End: ASP.NET using C# language.
+Back-End: Oracle
+
+ The final year project on “Server Performance Monitoring System (SPMS)”
+ Front-End: ASP.NET using C# language.
+ Back-End: Oracle.
+
+ Mini Project on Hotel Management System.
+ Front End: ASP.NET using C# language
+ Back End:MYSQL.
+
+ Mini Project on Intranet Mailing System.
+ Front End: Net beans IDE 7.4
+ Technology: Advanced Java.
+ Back End: SQL.
+
+ Mini project on Mobile Shop Management System
+ Front End: Net beans IDE 7.4
+ Technology: Core Java.
+ Back End:MS-Access 2007
+
+Personal Details:
+ Date of Birth : 07 Feb 1993
+ Language Known : English, Hindi and Marathi
+ Marital Status : Married
+ Hobbies : Cooking, Driving, Listening Music, Traveling, Playing Badminton.
+
+Extra-Curricular Activities:
+
+ Participating in the UGC sponsored seminar on Networking.
+ Participated in Employ-ability Enhancement Series Workshop of Seed InfoTech.
+ Participated in Social works with Ashadeep NGO organized by College & Aadhar Shiv
+
+Prathistan.
+
+Strengths:
+ Good Social Behavior as I am confident of my ability to work in a team and ready to
+
+take initiative.
+ A keen learner and strongly believe that learning is possible at every step in one’s
+
+Career.
+ Fast adaptability to new challenge and responsibilities.
+ Strong interpersonal skills and self-confident.
+
+I hereby declare that above information is true to the best of my knowledge.
+
+Place:
+Date:
+
+Mrs. NILAM KIRAN GHOGARE
+
+
+	Mrs. NILAM KIRAN GHOGARE 
+

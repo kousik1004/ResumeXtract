@@ -1,0 +1,238 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ravi
+
+Ravi Kishore Yarramsetti			       		        kishu_yrk@hotmail.com
+Tech. Analyst-Infosys	      					               : +91-9703125449
+Summary:
+· Having 6 years of experience in implementing Business Intelligence solutions using SAP Business objects Business Intelligence 4.2/4.1/4.0/3.X, Crystal reports, Xcelsius Dashboards and web intelligence tools.
+· Developed as well as assisted developers build highly complex reports using business objects and used various techniques like breaking, Sectioning, Filters, Ranking, Content Linking, Input Controls, Sorting incorporating sound business logic.
+· Good knowledge on creating dashboards using SAP Design studio and Dashboard design (Xcelsius).
+· Having good experience on creating Dashboards using Xcelsius and Dashboard design with standard templates and user given formats using QAAWS, Universes, Live office and BEx queries as data source for dashboards.
+· Expert in generating Sub Reports, Standard, Cross Tab Reports and Graph Reports by using Chart expert of Crystal Reports.
+· Good knowledge on creating analytical views, calculation views, composite providers and ADSO using HANA Studio. 
+· Created Information Spaces for users using business objects Explorer on both .UNV and .UNX universes.
+· Experience in creating universes on HANA views for high performance reports and dashboards.
+· Excellent client-facing skills, great team player, team leading qualities and project management skills.
+· Troubleshoot the problems and customized the reports according to the specifications of the analysts.
+· Conducted user training and created training manuals.
+· Proficient knowledge on Business Intelligence 4.2 Architecture and new features.
+· Using Data services designer, loaded data from ERP system into MS SQL database.
+· Created Users and Groups in CMC and assigned them security.
+· Imported the roles from SAP BI using CMC and implemented the SSO authentication at BO level. 
+
+Technical Skill Set:
+
+	SAP Business Objects Business Intelligence(3.X/4.0/4.1/4.2)
+
+	
+Web Intelligence, UDT, IDT, BI Launchpad, Crystal Reports, Central Management Console, Interactive analysis, Business objects Explorer, Translation Management tool,  Analysis edition for OLAP,  Life cycle manager, Promotion management, web intelligence rich, Dashboard Design, Design Studio.
+
+	SAP BI/BW
+	BEx Query Designer, BEx analyzer
+
+	SAP BO Data Services
+	BO Data services designer, Data services management console, Data services Repository Manager, Data services server manager, SAP BO License manager.
+
+	SAP RapidMarts
+	Installing SAP RapidMarts
+
+	RDBMS
+	MS SQL 2008 R2, Oracle 10g, Access 97/2000, MS-Excel.
+
+
+
+Academic Profile:
+
+· B.Tech in Electronics and Communication Engineering with 68.3% from J.N.T University Kakinada.
+· Intermediate from Sri Chaitanya Jr. College, Amalapuram with 88.6%.
+· SSC from M.G.Municipal high school, E.G.Dt with 77.0%.
+
+Experience:
+Project: 1
+
+Company: Infosys Technologies Ltd.
+Client: ULTA Beauty   			            		
+Role: Technology Analyst (BI Developer)			    	         Aug 14- Till Date
+Ulta Beauty (NASDAQ: ULTA) is the largest beauty retailer in the United States and the premier beauty destination for cosmetics, fragrance, skin care products, hair care products and salon services. Ulta Beauty also offers a full-service salon in every store featuring hair, skin and brow services. As of July 30, 2016 Ulta Beauty operates 907 retail stores across 48 states and the District of Columbia and also distributes its products through its website, which includes a collection of tips, tutorials and social content.
+Responsibilities:
+· Working with the business users to meet the reporting requirements on ad-hoc basis.
+· Gathering the requirement from the user and gathering the KPIs for their business.
+· Proposing new designs using the KPIs that suit their business.
+· Creating various dashboards using Dashboard design. 
+· Importing roles from SAP BI system and assigning authorization in BO level using CMC.
+· Implementing SSO concept for all the reports and dashboards.
+· Using SAP BW hierarchies in creating web intelligence reports for drill down reports.
+· Creating ADSOs and using them to create calculation and analytical vies and then to create the composite providers.
+· Creating BEx queries on composite providers and using them in the webi reports.
+· Creating universes on HANA views thus to use in both web intelligence reports and dashboards.
+· Developing the web intelligence reports on BEx queries directly using OLAP connections which are created in central management console.
+· Helping in the development of SAP BW queries using BEx Query Designer for the reporting requirements. 
+· Working on User/System report documentation, user training and testing developed reports for final deployment. 
+· Deploying the BO reports to production system using promotion management.
+· Working on creating groups, conditions, filters, ranking in reports .Using the formatting options like cross tab representation, section, breaks, data sort options, calculations, font, colors, etc.
+· Performance tuning on existing reports for better performance.
+· Providing complete documentation and presentation at the end of the contract to help users in developing various reports using different functionalities and methods used in creation of reports.
+Environment: 
+                        SAP BI 4.2 SP3, BI launch Pad, Central Management Console, Promotion management, Web-Intelligence, Dashboard design, Design studio, Crystal reports 2016, BI 7.4, Query Designer.
+
+Project: 2
+
+Company: vCentric Technologies (P) Ltd.
+Client: Fedders Lloyd corp. Ltd.   			            		
+Role: BO Developer   					    	  	            Jun 13- May 14
+The Lloyd Group is a US$ 500 million group in India. The Group consists of many companies with diversified portfolios with active involvement in many business ventures consisting of manufacturing in Air Conditioning Industry, Chillers, Manufacturing of Heat Exchange and Radiators, Sheet Metal Fabrication, Scaffolding &Formwork, Structural Steel Fabrication, Pre-engineered Buildings (PEB), Cable and Storage Management, Vehicle Variants like Load Bodies, Water Bourses, Petrol Tankers and Light Recovery Equipment etc.
+Responsibilities:
+· Working with the end users and Database developers to understand their business and identify the critical data needs for reporting.
+· Gathering the requirement from the user and gathering the KPIs for their business.
+· Proposing new designs using the KPIs that suit their business.
+· Creating various dashboards using Dashboard design. 
+· Developing various Charts, Graphs and drill down reports. 
+· Creating Information spaces for the users on top of .UNV and .UNX universes.
+· Importing roles from SAP BI system and assigning authorization in BO level using CMC.
+· Implementing SSO concept for all the reports and dashboards.
+· Using SAP BW hierarchies in creating web intelligence reports for drill down reports.
+· Developing the web intelligence reports on BEx queries directly using OLAP connections which are created in central management console.
+· Helping in the development of SAP BW queries using BEx Query Designer for the reporting requirements. 
+· Working on User/System report documentation, user training and testing developed reports for final deployment. 
+· Deploying the BO reports to production system using promotion management.
+· Working on creating groups, conditions, filters, ranking in reports 
+· Using the formatting options like cross tab representation, section, breaks, data sort options, calculations, font, colors, etc.
+· Performance tuning on existing reports for better performance.
+· Providing complete documentation and presentation at the end of the contract to help users in developing various reports using different functionalities and methods used in creation of reports.
+Environment: 
+                        SAP BI 4.0 sp6, BI launch Pad, Central Management Console, Promotion management, Web-Intelligence, Business objects Explorer, Dashboards, Crystal Reports, BI 7.3, Query Designer, Business Explorer, ECC EhP 6.0.
+
+Project: 3
+
+Company: vCentric Technologies (P) Ltd.
+Client: Trimex Sands (P) Ltd.    			      		       
+Role: BO Developer   							        Mar 13-May 13
+Trimex Group is a minerals business house with interests in extraction, sourcing, procurement, delivery, and R&D. Trimex delivers products such as Barite, Bentonite, Iron Ore, Feldspar, Bauxite, Ball Clay and Kaolin, among others, to the world’s leading Oil Drilling, Ceramic, Glass, Construction, Energy, Steel, and Fertilizer companies.
+Responsibilities:
+· Implementing standard Rapid Marts given by SAP which will consist of standard reports.
+· Implementing 10 line of business according to the client’s business scenario.
+· Creation of target and repository data bases in SQL Management studio 2008 R2.
+· Configuration of repositories in central management console.
+· Creation of repositories using data services repository manager for the created data bases.
+· Importing the SAP Rapid Mart files into data services designer and configuring the data stores.
+· Changing the global variables of all the jobs from default to user’s business perspective.
+· Testing the connections with ECC 7.0 and MS SQL server by running the test connection jobs. 
+· Run the data model job and rapid mart job to fetch the ERP data into the target MS SQL database.
+· Troubleshoot the errors while running the jobs to fetch data into target.
+· Changing the connections in universe designer and exporting those universes using Information Design tool.
+· Imported the standard rapid mart LCMBIAR file into BO Enterprise using Promotion management from CMC. 
+· Creation of users and groups in CMC and assigning the security to the groups.
+· Adding the users in target MS SQL data bases in order to access the data into reports.
+· Modified the reports according the user given format.
+· Modification the given standard dashboards accordingly with users format.
+· Moving the development reports to production using promotion management in CMC.
+· Moving development jobs and its settings to production and running the jobs in production system.
+· Scheduling the delta jobs in data services management console.
+· Categorizing the reports and dashboards to mobile so that users can access those reports and dashboards from mobiles or iPads using SAP BI mobile application.
+· Creation of custom reports according to user given format in web intelligence and dashboards.
+· Provided complete documentation and presentation at the end of the contract to help users in accessing various reports using different functionalities and methods.
+Environment: 
+SAP BI 4.0, BI launch Pad, Central Management Console, Web Intelligence, Dashboards, Business objects Data Services 4.1, SAP Rapid Marts 12.0, ECC 7.0, MS SQL Server 2008 R2.
+
+Project: 4
+
+Company: vCentric Technologies (P) Ltd.
+Client: AGI Glaspac (P) Ltd.				   	        	   
+Role: BO Developer   						                       Mar 12-Jan 13
+
+AGI Glaspac is the India’s second largest manufacturer to manufacture high quality glass containers to meet the stringent and demanding quality standards for packaging needs of food, pharmaceuticals, beverage, soft drinks, liquor, cosmetic and other industries. The factories are located in south central India.
+Responsibilities:
+· Worked with the end users and Database developers to identify the critical data needs for reporting.
+· Created various dashboards using Xcelsius 2008. 
+· Designed, developed and provided training in creating Ad-hoc reports, modifying universes, scheduling options in XI 3.1 Web Intelligence to End users/Power user.
+· Developed various Charts, Graphs and drill down reports. 
+· Generated Custom variables, groups and formulas in Business Objects.
+· Developed SAP BW queries using BEx Query Designer for the reporting requirements. 
+· Worked on creating SAP BW OLAP universes over BEx queries in Business Objects 3.1 Environment.
+· Worked on User/System report documentation, user training and testing developed reports for final deployment. 
+· Created a backup of WEBI Reports and Universes in BIAR format using Import Wizard.
+· Worked on creating groups, conditions, filters, ranking in reports 
+· Scheduled the hourly, daily and monthly reports using business objects CMC. 
+· Created complex reports using complex variables, multiple breaks, ranking and sorts etc.
+· Used the formatting options like cross tab representation, section breaks, data sort options, calculations, font, colors, etc.
+· Performed tuning on existing reports for better performance.
+· Presented the advanced features of Business Objects to users and developers to enable them to develop queries and reports easily.
+· Provided complete documentation and presentation at the end of the contract to help users in developing various reports using different functionalities and methods used in creation of reports.
+Environment: 
+                        Business Objects XI 3.1, Business Objects InfoView , Central Management Console, Web Intelligence, Crystal Reports 2008, Xcelsius 2008, BEx Query Designer, Import Wizard, Publishing Wizard.
+Project: 5
+Company: Vcentric Technologies (P) Ltd.
+Client: Avon Cycles (P) Ltd.		     			     
+Role: BO Developer					                                     Sep 11-Feb 12
+
+Avon cycles is one of the India’s largest manufacturer of Bicycles and e-Bikes uses both manual and automated reporting tools to handle its major business processes including Order to cash, Purchase to payment, Manufacturing, Project management and controls, Accounting, and Management reporting.
+Responsibilities:
+· Worked with the end users and Database developers to identify the critical data needs for reporting.
+· Created various dashboards using Xcelsius 2008. 
+· Designed, developed and provided training in creating Ad-hoc reports, modifying universes, scheduling options in XI 3.1 Web Intelligence to End users/Power user.
+· Developed various Charts, Graphs and drill down reports. 
+· Generated Custom variables, groups and formulas in Business Objects.
+· Developed SAP BW queries using BEx Query Designer for the reporting requirements. 
+· Worked on creating SAP BW OLAP universes over BEx queries in Business Objects 3.1 Environment.
+· Worked on User/System report documentation, user training and testing developed reports for final deployment. 
+· Created a backup of WEBI Reports and Universes in BIAR format using Import Wizard.
+· Worked on creating groups, conditions, filters, ranking in reports 
+· Scheduled the hourly, daily and monthly reports using business objects CMC. 
+· Used the formatting options like cross tab representation, section breaks, data sort options, calculations, font, colors, etc.
+· Performed tuning on existing reports for better performance.
+· Presented the advanced features of Business Objects to users and developers to enable them to develop queries and reports easily.
+· Involved in designing and development of Security Model which was manually created in Central Management Console.
+· Provided complete documentation and presentation at the end of the contract to help users in developing various reports using different functionalities and methods used in creation of reports.
+
+Environment: 
+Business Objects XI 3.1, Business Objects InfoView, Central Management Console, Web Intelligence, Crystal Reports 2008, Xcelsius 2008, BEx Query Designer, Import Wizard, Publishing Wizard.
+

@@ -1,0 +1,368 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Venkateswara R V 
+Hyderabad | Email Id: venkatvallampudi@gmail.com | Phone NO: +91 9703000258  
+
+ 
+
+PROFESSIONAL EXPERIENCE: 
+
+ Having 3 + years of IT experience in Application Development in ETL and Big Data 
+
+Hadoop as a Software Engineer. 
+
+  2 + years of experience in Hadoop and its Eco system components like HDFS, Pig, Hive, 
+
+Sqoop, HBase, Spark, Scala and Oozie. 
+
+PROFESSIONAL SUMMARY: 
+
+ Having experience on importing and exporting data from different database systems 
+
+Oracle to HDFS and Hive using Sqoop. 
+
+ Having experience on using Oozie to define and schedule the jobs.  
+
+ Experience in working with different data sources and files like Text files, CSV Files and 
+
+Databases. 
+
+ Extensive experience with relational databases especially Oracle. 
+
+ Experience in Software Development Methodologies like Agile and Waterfall. 
+
+ Hands-on experience with Rally Agile Tool for agile planning and delivery to business 
+
+transformation. 
+
+ Good Knowledge in Data Warehousing concepts and DataWarehouse tools like Talend 
+
+and DataStage 
+
+ Ability to design and develop applications involving large data using Hadoop eco 
+
+system. 
+
+ Extensively worked on Core Java, Scala, Spark Core, Spark SQL  
+
+ Good knowledge of NOSQL databases like HBase. 
+
+ Good work experience on Putty, winSCP, IPSwitch. 
+
+ Excellent communication, interpersonal, analytical skills, and strong ability to perform 
+
+as part of team. 
+
+ Working Experience with major Hadoop distributions like Apache, MAPR 
+
+ Good knowledge on the healthcare domain and claim process.  
+
+
+
+ Good analytical and logical programming skills with good understanding at the 
+
+conceptual level.  
+
+ 
+WORK EXPERIENCE 
+
+  
+ETL Developer: September 2015 – February 2016 
+ 
+Project Name : CareOne Clinical 
+
+Client  : UnitedHealth Care, USA. 
+
+Environment : DataStage, SQL, UNIX, Oracle 
+
+Description: 
+
+ 
+CareOne Clinical is an application widely used for clinical operations for UHC. We are 
+
+worked for this project to load that application data into the warehouse. Using DataStage jobs 
+
+we have implemented the loading of CareOne Clinical data into the warehouse.  
+
+ 
+
+Responsibilities: 
+
+ Implemented this project completely using the DataStage and SQL 
+
+ We have created an approach through which will connect to the source system 
+
+database and retrieve the required fields and load that data into the similar table in the 
+
+warehouse. 
+
+ Involved in Writing DDL and DML scripts to transform Data and populate in Target table 
+
+ Involved in applying transformation with SQL based on business Logic in the Mapping 
+
+ Involved in modifying existing Procedures and ETL workflows according to the new 
+
+business needs using PL/SQL Developer, DataStage Designer and DataStage Director.  
+
+ Taken responsibility in Peer review of SQL, DataStage jobs and workflow 
+
+ Assisted QA team during testing and defects fixes 
+
+ Using TWS Schedulers we schedule these jobs in the production 
+
+ 
+Hadoop Developer: March 2016 - October 2016 
+ 
+
+Project Name : Altruista Pro-Active Care 
+
+Client  : UnitedHealth Care, USA. 
+
+Environment : HDFS, PIG, Hive, Oozie, Unix 
+ 
+
+
+
+Description: 
+ 
+
+Altruistra is a 3
+rd
+
+ party vendor for United Health Care and uses UHG Clinical data for Pro-
+Active care application. We have to load this application data into the warehouse. Using HDFS, 
+PIG scripts jobs we have implemented the loading of Altruista Clinical data into the ware house.  
+
+ 
+Responsibilities 
+ 
+
+ Involved in gathering the requirements, designing, development and testing 
+
+ It is a migration project and few enhancements too for the existing process  
+
+ Previously this process was completely implemented in the DataStage  
+
+ Analyzed the requirements and performed Impact Analysis based on the requirements  
+
+ Involved in applying transformation using PIG UDF’s based on business Logic in the 
+
+Mapping sheet 
+
+ Involved in the development of the scripts to load the source files into HDFS location  
+
+for further processing. 
+
+ Written the Apache PIG scripts to process the HDFS data. 
+
+ Created Hive tables to store the processed results in a tabular format.  
+
+ Assisted QA team during testing and defects fixes 
+
+ 
+
+Hadoop Developer: November 2016 - April 2017 
+ 
+
+Project Name : IP-Auth Project 
+
+Client  : UnitedHealth Care, USA. 
+
+Environment : HDFS, HIVE, Unix and Oracle 
+ 
+Description: 
+
+ 
+This project is to gather all the In-Patient Authorizations data across all the states of the 
+
+UHC and need to store that data into the Warehouse. By gathering this data, they will do the 
+
+validations on member eligibility and member activity status etc. After validating the data, they 
+
+will prepare the reports to calculate the metrics sheet and other.  
+
+ 
+
+Responsibilities 
+
+ 
+ Involved in gathering the requirements, designing, development and testing 
+
+
+
+ This project uses three applications data and by connecting to all those sources, it will 
+
+retrieve the data related to the In-Patient Authorizations. 
+
+ Involved in applying transformation with HIVE UDF’s based on business Logic in the 
+
+Mapping sheet 
+
+ Taken responsibility in Peer review of SQL, Hive jobs and workflow 
+
+ 
+
+Hadoop Developer: May 2017 – November 2017  
+ 
+Project Name : ICUE Project 
+
+Client  : UnitedHealth Care, USA. 
+
+Environment : Hive, Sqoop, HDFS, Oozie, Oracle 
+
+ 
+Description:  
+
+This project is all the clinical data across all the states of the UHC through ICUE portal. 
+
+Which are all the states who are running their clinical data through this ICUE application data 
+
+will be gathered and stored in the Data Warehouse. All the ICUE data will be stored in the 
+
+DATALAKE using the HBASE.  
+
+ 
+
+Responsibilities 
+ 
+
+ Involved in gathering the requirements, designing, development and testing 
+
+ All the transactional data from the ICUE application will be stored in the DATALAKE. 
+
+ This entire process will be implemented into two steps.  
+
+1. Data from DATALAKE to HDFS using Hive 
+
+2. Move the File type data into the HDFS to Warehouse(Oracle) using Sqoop.  
+
+  We access the DATALAKE and will retrieve the required tables data. 
+
+ From those tables also we will take required columns and corresponding Tables 
+
+structures will be created in the warehouse. 
+
+ From the DATALAKE, We will retrieve the data using the Hive query and will store them 
+
+as a file type of data into the HDFS. 
+
+ Again using sqoop Scripts will retrieve that data and store them into the Warehouse. 
+
+ Involved in Writing DDL and DML scripts to transform Data and populate in Target table 
+
+ 
+Hadoop Developer: December 2017 – May 2018  
+
+ 
+Project Name : RX-PAS Project 
+
+Client  : UnitedHealth Care, USA. 
+
+Environment : SPARK, SCALA, Hive, Sqoop, HDFS, Oozie, Oracle 
+ 
+
+Description:  
+
+
+
+This project is all about to process the RX- PAS data from the Datalake and ensures to 
+
+make available this data to the downstream users by loading that data into the Warehouse.  
+
+ 
+
+Responsibilities 
+
+ 
+
+ In this project we have accessed the RX PAS data from the Datalake and load it into the 
+
+warehouse using the SPARK-SQL and scala.  
+
+ We will retrieve the data from the Datalake using the spark and creates the RDD. 
+
+ Then we will perform the enrichment on the data and will create the Dataframe.   
+
+ Then hdfs location and convert into RDD and performs enrichment on data and 
+
+convert. 
+
+ This Dataframe should persist in Hive tables with partitions mentioned in control file 
+
+using Spark, Scala. 
+
+ Involved in gathering the requirements, designing, development and testing 
+
+ We access the DATALAKE and will retrieve the required tables data. 
+
+ From those tables also we will take required columns and corresponding Tables 
+
+structures will be created in the warehouse. 
+
+ Implimented sqoop scripts to retrieve that data and store them into the Warehouse. 
+
+ Involved in Writing DDL and DML scripts to transform Data and populate in Target 
+
+table. 
+
+ 
+
+Education: 
+
+ Master in Computer Application(MCA) from JNTUK with 79%. 
+
+Declaration 
+
+I hereby declare that the above written particulars are true to the best of my knowledge.  
+
+ 
+DATE :  
+
+PLACE :        (VENKATESWARA R V) 
+
+

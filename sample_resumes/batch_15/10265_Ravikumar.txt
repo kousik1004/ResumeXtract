@@ -1,0 +1,232 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ravikumar.cherukuri                                                                                                                   tibravikumar@gmail.com
+                                                                                                                              +91-9704143841
+
+Profile:
+· Total 5+ years of IT experience of highly successful experience in the technology industry, bringing a
+Broad vision in product Implementation and support of high growth companies.
+· Almost 3+ years of extensive experience in Enterprise application Integration Implementation with EAI
+Products.
+· Having around 2 years of experience in developing on-demand applications on Salesforce.com platform using apex programming language. 
+
+TIBCO Technical Expertise:
+· My areas of expertise include Designing and Developing EAI solutions using TIBCO suite of products (TIBCO Business works, TIBCO EMS, TIBCO Administrator).
+· Strong experience in technologies like XML, SOAP, JDBC, JMS, FILE and Web Services.
+· Strong experience in TIBCOBW build and deployment in various environments.
+· Ability to learn new Technologies in less span of time
+· Hands on designing test cases and test data, performing functional and system testing.
+· Excellent user/customer facing and support skills and strong analytical skills in interpreting their requirements.
+· Flexible and versatile to adapt to any new environment and work on any project
+· Appreciable analytical and problem solving skills.
+· Good communication and inter-personal skills.
+· Involved in validating the business requirements and providing the feasibility analysis.
+
+ Salesforce Technical Expertise:
+· Having experience on roles and profile creation.
+· Having development experience on batch apex, scheduled Apex.
+· Creation of Users, Roles and Profiles and applying securities at all levels.
+· Designing of an Application and Creating Objects with respective to the Application.
+· Creating Tabs with respective to the Objects.
+· Designing of Page layouts and applying securities at Page layouts.
+· Creating Validation Rules based on the requirement.
+· Designing Workflows and Approvals on respective Objects.
+· Ability to work in a team and individually with adaptability to any environment
+· Worked on the designing of custom objects, custom fields, role based page layouts, custom Tabs, custom reports, report folders, design of Visual Force Pages, Dashboards and various other components
+· Worked on various Salesforce.com customizations - creation of customized business objects 
+· Worked on custom fields and validations to new and existing objects and added custom functionality using custom controllers.
+· Working on various Triggers for various functional needs in the application 
+
+
+
+
+
+Software Skills
+	EAI Tools
+	Designer 5.X BW 5.X, EMS6.X, Administrator 5.X, Putty, WINSCP
+
+	Messaging Technologies
+	JMS, SOAP UI, GEMS.
+
+	Operating Systems
+	Windows 2000/XP, Windows-7,UNIX
+
+	Databases
+	Oracle 11g,
+
+	CRM
+	Salesforce.com CRM
+
+	Web Technologies
+	HTML, XML
+
+
+
+Job Profile:
+· Currently working as TIBCO Developer at Symantec  from Aug’2014 to till date.
+· Worked as Software Engineer at AKTRIX TECHNOLOGIES from Aug’2012 to July’2014.
+Work Experience:
+	Project Profile #1
+	HCM & ELM
+
+	Client
+	Symantec 
+
+	Role
+	Tibco Developer
+
+	Duration
+	Aug’2014 to Till date
+
+	Environment
+(with skill versions)
+	Software
+
+	Database :ORACLE 9i
+Tools: TIBCO Business Works 5.12, TIBCO Administrator 5.9, Oracle, TIB-EMS 8.1
+
+	
+	OS
+	Unix-SunOS
+
+
+
+Project Description:
+HCM:
+The main intent of Workday integration with Symantec internal systems is to provide the updated employee information for all the internal systems to use it in their applications. Workday EAI Interface will be designed to accommodate future flexibility and scalability of HR Activities for next 5 years which may include M&A of a company of similar size i.e. doubling up the number of employees. All the outgoing requests to workday will send through EAI middleware using SOAP/HTTPS. The workday will push the files for CDM Publisher and IR interface using SFTP protocol and also the files will be encrypted using the PGP algorithm.
+For file based processing, Workday will push the data files on to Symantec external file server using SFTP protocol. Tibco will keep polling for new files and it will start processing the files as soon as it finds a new file on the server. EAI will transfer the file from External FTP server to the internal EAI server using SFTP protocol and then it will decrypt the file. Once the file is decrypted, it will read the data in sequence and send it to the downstream systems. Once the file is read and exhausted, it will be deleted from the local EAI server and then archived from the External FTP server
+ELM:
+ELM will be one of the downstream applications which will be subscribing the Message from the Topic on every update from the Workday. The primary technical challenge is to update the SFDC with the most near to real time employee information from the Symantec HR data (Workday), which makes ELM tool helps to ensure accuracy and consistency of the attendee list and provides process efficiencies.
+
+
+
+
+Responsibilities: 
+
+· Involved in TIBCO Development using BW and EMS.
+· Creating EAR files and Deploying in the development Environment.
+· Designing and developing BW processes.
+· Involved in design and Exception handling for integration
+· Developed the TIBCO services for the communication with the Service web services.
+· Creating and deploying the ear files on windows.
+· Worked on different pallets like  SOAP, XML Tools, XML Activities, File, WSDL, JMS Service, JDBC  and General Activities etc.,
+· Developed the TIBCO services for the communication with the SOAP web services.
+
+	Project Profile #2
+	AutoMet
+
+	Client
+	MetLife
+
+	Role
+	Salesforce Admin/Dev
+
+	Duration
+	Aug’2012 to July 2014
+
+	Environment
+(with skill versions)
+	Salesforce 
+	Apex, Visual force, Apex Classes, Apex triggers, Visual force Pages, Batch Apex, Schedule Apex, Workflows and  
+Approvals, Case Management.
+
+	
+	OS
+	Windows7, 8, 2000/XP
+
+
+
+Project Description:
+This is basically a HR/Leave process application. This application is designed to maintain various stages of leave/notice period process credit/request/approval like employee got their monthly leave in the end of the month as per company policy in their individual account & then they request as per availability for the leave then their supervisor approve every individual request after their leave balance reduced from main balance.
+Responsibilities:
+· Worked on various Salesforce.com customizations - creation of customized business objects 
+· Worked on Validation rules, Workflow Rules, Page layouts to suit to the needs of the application.
+· Worked on custom fields and validations to new and existing objects and added custom functionality using custom controllers.
+· Defined Lookup and Master-Detailed relationships on the objects
+· Configured Data Loader and uploaded data in CSV files  into sales force, checking for the correctness for the data 
+· Creating different visual force pages and Apex classes 
+· Working on various Triggers for various functional needs in the application 
+Educational Qualification
+
+· Bachelor of Technology (CSE) from J.N.T.U.H completed in 2012 with an Aggregate Of 65%.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,444 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pranav Jog
+
+Pranav Jog
+*E-Mail:  pranavjog@gmail.com 
+           Mobile:  8408090144
+
+                                                                         9423234848
+Objective
+To work as software professional to tap my potential to it’s fullest for the best use of the Organization. To become a successful professional in the field of Information Technology & to grow with the organization by putting in hard & honest work.  
+
+Qualification Summary
+· MSC. (Computer Science) with more than 7 years of Experience in Core Java, J2ee, spring, Hibernate, Apache Wicket.
+
+Awards and Achievements
+
+Excellence Award Winner 2018 
+
+· For outstanding contribution to HSBC-Wipro journey towards excellence
+Certifications
+· Sun Certified Java Programmer(SCJP 5.0) 
+· Sun Certified Web Component Developer(SCWCD 5.0)
+Skills
+
+	Operating systems
+	Windows
+
+	Software languages
+	Core Java, J2ee
+
+	Web technologies
+	Jsp, Servlet, html, Ajax
+
+	Framework
+	Apache Wicket, Hibernate, Spring
+
+	Database
+	PostgreSql, Sql-Server 2008
+
+
+Work Experiences                                                                                                                    
+	Company
+	Designation
+	Location
+	Period
+
+	Wipro technologies Pvt. Ltd.
+	Senior Software Engineer
+	Pune
+	May 2016 to till date
+
+	Accenture Services Pvt. Ltd.
+	Senior Software Engineer
+	Pune
+	Sept. 2014 to May 2016
+
+
+
+	Acellere Software Pvt. Ltd.
+	Software Engineer
+	Pune
+	April 2012 to Sept. 2014
+
+	Probity Soft. Pvt. Ltd.
+	Software Engineer
+	Pune
+	May 2010 to April 2012
+
+
+Project Summary
+	Company
+	Designation
+	Job description
+	Period
+
+	1.Wipro Technologies Pvt. Ltd.
+	Senior Software Engineer
+	Currently working as Senior Software Engineer in Banking and finance domain for client of Wipro.
+My job profile includes Development and enhancements in project.
+I worked on various modules such as security key activation, transfer of funds in various ways.
+In current project, i am working on Core Java, J2ee, Springs, jsp.
+	May 2016 to till date
+
+
+	1. Project
+	ADM- Internet banking   
+
+	Environment: 
+	Core Java, Jsp, Spring
+
+	Team Size:
+	5
+
+	Duration:
+	October 2016 to till date
+
+	Description:  : Digital and 2G based Internet banking application comes under ADM group
+
+1) It  contains Account opening and Internet banking application which deals with day today banking activities
+
+2) Also involved Enhancement for few regions under Digital
+
+3) Tools used are RTC, RAD
+
+ 
+
+
+	Company
+	Designation
+	Job description
+	Period
+
+	2. Accenture Services Pvt. Ltd.
+	Senior Software Engineer
+	Involved in development of Campaigns with the help of Adobe Campaign Tool & Java
+	September 2014 to May 2016
+
+
+	1. Project
+	Neokart Summer sale application
+
+	Environment: 
+	Adobe Campaign, Java
+
+	Team Size:
+	3
+
+	Duration:
+	September 2014 – To February 2015
+
+	Description:  Neokart Summer sale is an email campaign that sends promotional emails to existing users and also allows new users to subscribe to receive its offers.
+
+It tracks and analyzes user responses and sends only the relevant offers to its customer via Email channel.
+
+There are following phases:
+1. Subscription:
+
+a. existing users will receive an email for subscription
+
+b. new user can directly enter in the web page and opt for subscription
+
+c. the subscription will also have a section where the user can mention their preferences
+
+d. after submitting subscription form, users will receive an email with confirmation mail confirm their subscription
+
+e. After step c, user will receive a subscription confirmation email. 
+
+2. Sending Offer : based on the subscription, we will send the offers
+
+3. Tracking Customers Response: track the responses of the customers towards the subscription mail and offer emails.
+
+
+
+
+	2. Project
+	Airline offers
+
+	Environment: 
+	Adobe Campaign, Java
+
+	Team Size:
+	3
+
+	Duration:
+	February 2015 – May 2016
+
+	Description:  Airline Offers is an email campaign that search existing users and based on certain criteria users will receive its offers.
+
+It tracks and analyzes user responses and sends only the relevant offers to its customer via Email channel.
+
+There are following phases:
+1. Search User:
+
+a. Existing users will be searched.
+b. Most of the data such as name, email will get displayed
+2. Sending Offer : based on the certain criteria, we will send the offers
+
+
+	Company
+	Designation
+	Job description
+	Period
+
+	3. Acellere Software Pvt. Ltd.
+	Software Engineer
+	Involved in development of java modules                                       using Apache wicket framework
+	April 2012 to September 2014
+
+
+	1. Project
+	Incontrol
+
+	Environment: 
+	Core Java, J2ee, Spring, Hibernate, Wicket
+
+	Team Size:
+	5
+
+	Duration:
+	April 2012 – September 2014
+
+	Description:
+
+· Module 1:  Insurable item:  It helps to add
+
+a. Insurable type, identifier, currency and year of   capitalization
+
+b. Entities with insurable interest, ownership interest and mortgage interest
+
+c. Other key information
+
+d. Break up of valuation
+
+e. Reference rate
+      f. Additional information specific to the insurable type 
+
+· Module 2: Premium details: This module gives you the details idea of how much amount premium is to be pay to insurance company.
+· Module 3: Proposal to policy creation: in this step we create a policy as per proposal .
+With the help of various modules, we get the required data for creating our proposal.
+
+
+
+	Company
+	Designation
+	Job description
+	Period
+
+	4. Probity Soft Pvt. Ltd.
+	Software Engineer
+	Involved in design and development of java modules                                       using hibernate, Ajax , wicket
+	May 2010 to April 2012
+
+
+Project Details
+	1. Project
+	Personnel Management
+
+	Client:
+	Pimpri Chinchwad Municipal Corporation
+
+	Environment: 
+	Core Java,Hibernate,Ajax,Javascript,Wicket
+
+	Team Size:
+	3
+
+	Duration:
+	June 2011 – April 2012
+
+	Responsibilities:
+
+· Took part in requirement gathering.
+
+· Worked on Deduction forms
+
+· Worked on Data porting from old database 
+
+· Worked on pdf generation of CPF & GPF reports 
+
+· Designed database for pension module
+
+· Worked on developing Pensioner process to monthly pension process
+
+· Generate pdf report of monthly pensioner
+
+· Generate Pensioner bill as well as monthly pensioner bill
+
+	Description:
+
+· Module 1:  Payroll:  It helps to generate Pay slip of every Permanent Employee of PCMC according to their presence or absence. 
+
+· Module 2: CPF & GPF: The contributory amount of fund deducted at the time of payroll process is CPF & GPF. On the fund amount collected from employee, PCMC gives monthly interest on it & gives CPF & GPF chart to employee who is applicable for it.
+· Module 3: Pension: It collects required data of retired employee and after sanctioned of his retirement it gives Gratuity, Commutation,.
+
+It also gives monthly pension to applicable pensioner. 
+
+
+	2. Project
+	Solid Waste Management
+
+	Client:
+	Pimpri Chinchwad Municipal Corporation
+
+	Environment: 
+	Core Java,Hibernate,Ajax,Javascript,Wicket
+
+	Team Size:
+	3
+
+	Duration:
+	December 2010 - May 2011
+
+	Responsibilities:
+
+· Took part in requirement gathering.
+
+· Worked on Master forms 
+
+
+
+	Description:
+· The system was created for the various wards in PCMC area, it maintains record of vehicle registration no, time of entry/leaving, quantity of waste transferred to dumping station for further processing.   
+
+
+	3. Project
+	Birth & Death Management System
+
+	Client:
+	Pimpri Chinchwad Municipal Corporation
+
+	Environment: 
+	Core Java,Hibernate,Ajax,Javascript,Wicket
+
+	Team Size:
+	5
+
+	Duration:
+	May 2010 - November 2010
+
+	Responsibilities:
+
+· Developed User Interfaces
+
+· Took part in requirement gathering.
+
+· Worked on Register Birth form 
+
+· Worked on Pdf generation of Birth & Death Certificates, bill generation form.
+
+· Debugging and Bug Fixing
+
+
+
+	Description:
+· The system was created for the various hospitals and dispensaries that come under Pimpri Chinchwad Municipal Corporation. All of them  Register Birth, Death & Stillbirth event, receive birth , death & stillbirth application then Issue Certificate for Birth, Death & Stillbirth.
+
+
+
+
+Educational Qualifications
+
+	Exam
+	Board  /
+
+University
+	Year
+	Percentage
+
+	M.S.C.(Comp. Sci.)
+	Pune University
+	2008
+	68.66
+
+	B.S.C.(Comp. Sci.)
+	Pune University
+	2006
+	59.17
+
+	H.S.C
+
+	Maharashtra State Board
+	2002
+	54.83
+
+	S.S.C
+
+	Maharashtra State Board
+	2000
+	69.20
+
+
+Personal Details
+	Date of Birth
+	15/04/1984
+
+	Sex
+	Male
+
+	Marital Status
+	Married
+
+	Local Address
+	Shrinivas Crossover County, near Dhayri phata, Sinhgad road, Flat No-G 103, Vadgaon Khurd, Pune - 411041.
+
+	Permanent Address
+	At post Guhagar, Tal.-Guhagar,Dist.-Ratnagiri, Pin.- 415703
+
+	Pan no
+	AGYPJ9783D
+
+	Passport No.
+	S2715756
+
+	Languages
+	English, Hindi, Marathi
+
+	Hobbies
+	Playing Cricket, Swimming and Trekking
+
+

@@ -1,0 +1,265 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Axiom Controller View 
+
+CHAYA MANJUNATH                         
+Email: chayamanjunathful@gmail.com
+Contact:  9789070673,6300224706
+
+                                                                                                                                                               
+
+OBJECTIVE:
+
+To establish a career in a software organization which would enhance my skills and gain experience while contributing to the growth and the success of the organization.
+PROFESSIONAL SUMMARY:
+· Having overall 7.4 years of experience in Axiom Controller View, .Net, SQL/PLSQL and UNIX Shell Scripting.
+· Having 2.5 Years of experience in Axiom Controller view.
+
+· Automation of manual activities that consume PSS time and effort.
+
+· Providing and implementing service improvements.
+
+· Creation of Data Source, Data Model, Modify Model, Aggregation, Workflow & Portfolio in Axiom.
+
+· Basic knowledge in Taxonomy reporting.
+
+· Batch support for FINREP, IFRS, FDSF and DGSD Projects.
+
+· Handling production issues, providing the Root cause and workaround to mitigate the issue
+· Basic Knowledge in Control M job scheduling and debugging.
+
+· Good work ethics with excellent communication and interpersonal skills.
+· Ability to work well both in team environment and individual environment.
+
+STRENGTHS:
+
+· Self-motivated and Goal Oriented.
+· Excellent Communication and technical documentation skills.
+· Analytical & troubleshooting skills
+· Good team player.
+TECHNICAL SKILLS:
+
+	Programming Language
+	SQL/PLSQL, UNIX SHELL SCRIPTING
+
+	Technology
+	AXIOM Controller View, .Net
+
+	Database
+	Oracle, SQL
+
+	IDE
+	Oracle SQL Developer
+
+	Operating Systems
+	Windows 7, Unix
+
+
+Tools
+
+
+
+       BMC Control-M Workload Automation
+	Professional Experience:
+
+
+· August 2011 - till date working as a Software Engineer at HCL Technologies Limited.
+
+· Trained in .Net/SQL Server 2008 in HCL Technologies Limited.
+
+	Education
+
+
+· B. Tech in Information Technology from SCSVMV University (Kanchipuram) with the aggregate of 73% in 2011.
+ACHIEVEMENTS
+
+· Achieved Innovation Award from HCL.
+· LIVE WIRE AWARD – Excellent performance from HCL during the Quarter AMJ-12.
+· Achieved BEST Project Award for the year 2013-2014 in HCL.
+
+PROJECT SUMMARY:
+PROJECT - I
+Title
+          :
+International Financial Reporting Standards (IFRS)
+Client
+          :
+Standard Chartered Bank (IT Services)
+Role
+
+:
+Developer
+Duration 
+:
+Jan 2018 to till Date.
+
+Description
+IFRS automation project is a Group Statutory Reporting provides information about the financial position, financial performance and cash flows of the Bank. 
+
+The output of the project drives the quarterly/half annual/annual financial reporting needs to external shareholders and stock exchanges. The framework consists of financial information and substantiation for the Group, to be submitted on a daily, monthly, and quarterly basis
+Responsibilities and contributions:
+· Automation of Daily Status reports which are sent to users during every Reporting period.
+· Release Implementation involving Export and Import of Codes from one Environment to other Environment for the Reporting period.
+
+· Development of new modules including Data Source, Data Model, Modify Model, Aggregation, Portfolio, Workflow, 
+Free Form Reports & Tabular Reports.
+· Ensuring the system is ready for the Reporting before every reporting cycle.
+· Basic knowledge about Taxonomy, Dimensions, Measures and Hypercube.
+
+PROJECT - II
+Title
+          :
+Financial Reporting (FINREP)
+Client
+          :
+Standard Chartered Bank (IT Services)
+Role
+
+:
+Support Analyst
+Duration 
+:
+June 2016 to Dec 2017.
+Description    
+Financial reporting (FINREP) is a regulatory reporting requirement introduced by the EBA (European Business Authorities) which every European Bank will need to comply with and will significantly increase the level of reporting of financial information to the FSA. It compiles the data into its proprietary database repository, performs data enrichment and ETL, and generates regulatory reports.
+
+Responsibilities and contributions:
+· Development of new modules including Data Source, Data Model, Modify Model, Aggregation, Portfolio, Free Form Reports & Tabular Reports.
+· Release Implementation involving Export and Import of Codes from one Environment to other Environment for the Reporting period.
+
+· Ensuring the system is ready for the Reporting before every reporting cycle.
+PROJECT - III
+Title
+          :
+IFIS( Integrated Finance Information System)
+Client
+          :
+Standard Chartered Bank (IT Services)
+Role
+
+:
+Support Analyst
+Duration 
+:
+June 2016 to Dec 2017.
+
+Description
+IFIS is a regulatory reporting project where banks used to submit reports to central bank on daily, monthly, quarterly, half yearly and yearly basis. Application is migrated across 10 countries, reducing client’s manual intervention on generating reports. Reports will be generated in automated manner with data traceability.
+Technologies used​: .Net, SQL, SSIS. 
+
+Tools used​: Visual studio, MS integration service and MS SQL .
+
+OS used​: Windows 7
+PROJECT - IV
+Title
+          :
+LBG
+Client
+          :
+Lloyds Banking Group (IT Services)
+Role
+
+:
+Support Analyst
+Duration 
+:
+Mar 2014 to May 2016.
+
+Description
+AMT Lion P142 Application is the policy servicing system for unit linked life and individual pension products and the end users for Applications are Bank employees. Core functionalities of P142 are 1. Receiving and Applying new business for unit linked products.2. premium accounting for the premiums paid on the policy.3. enquiries and servicing of the policy specific information to policy holders.4. Providing information on claims and commission calculations.
+
+Mortgage Sales Process (MSP) is the base platform for mortgage sales. LBG is having multiple brands like ‘Lloyds TSB’, ‘Halifax’, ‘BoS’ etc. Among these brands ‘Lloyds TSB’ is integrated with MSP application for mortgages after takeover of the UK’s local ‘Halifax’ bank. Various drops of MSP (Drop 1, Drop 2 and Drop 3) are to integrate ‘Halifax’ and ‘BoS’ brands into MSP application and restoring the existing intermediary channel application for brokers to initiate mortgages.
+
+Role​: Support Analyst
+Technologies used​: .Net, SQL, SSIS. 
+
+Tools used​: Visual studio, MS integration service and MS SQL.
+
+OS used​: Windows 7
+
+PROJECT - V
+Title
+          :
+PW
+Client
+          :
+Physicians World 
+Role
+
+:
+Developer
+Duration 
+:
+Jan 2012 to Feb 2014.
+
+Description
+Physicians World (PW) is an agency within the Healthcare Communications Network (HCN) of KnowledgePoint360 Group, LLC a leading provider of medical education and communication solutions for the healthcare industry. We offer full-service healthcare communication solutions, and have a proud heritage of recognized quality, highest-level service. This Project is taken up for achieving the purpose of having a good web application for their products.
+Role​: Software Developer
+
+Technologies used​: .Net, SQL, SSIS. 
+
+Tools used​: Visual studio, MS integration service and MS SQL.
+
+OS used​: Windows 7
+PERSONAL DETAILS:
+
+Father Name     
+          : Chaya Mallikarjuna     
+Date of Birth
+                    : 15 June 1990
+Gender
+                    :  Male
+
+PAN
+
+                    :  BMVPM0539E
+Current Working Location    : Chennai
+
+Preferred Location
+          : Chennai, Hyderabad and Bangalore.
+                                                                                      CHAYA MANJUNATH

@@ -1,0 +1,302 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No
+
+Birjesh Kumar Chaudhary
+
+
+
+
+    
+
+                                                                                                      Cisco Certified Network Associate
+Email: - birjesh.chaudhary@yahoo.com                                            
+Mobile No: - +91-8954666622
+Total Experience: 9.4 Yrs.
+	Current Company Profile and Experience
+
+
+· Currently Working with Ericsson India Global services Pvt Ltd as a Sr. Engineer (BNES GSC IN SDOT-RAN TRANSPORT).        
+
+· Duration: Nov-2015 to till date.
+JOB DESCRIPTION & PROJECT DETAILS:-
+        Project Activity  : IP-RAN TCU Design and optimization for 2G, 3G and LTE networks, Onsite support
+        Customer Name
+: Vodafone, UP West (India).
+Responsibility held:- 
+· RAN, Transport, IP planning & optimization along with coordination for successful completion of 2G, 3G and LTE project rollout.
+· IP and VLAN planning for TCU/NodeB/eNodeB design.
+· HLD, CCR, SSIS and ATND preparation for auto configuration of Ericsson TCU/NodeB and eNodeB with generated scripts.
+· Network Optimization & Data analyses for quality and capacity for different 2G/3G interfaces using Business object tool, OSS statistical counters and formulas, provide recommendation and solutions to achieve the committed KPIs.
+· Approval for daily 2G cutover plan on the basis of BSC capacity and BSC real time live traffic counters.
+
+· Troubleshooting of daily real time transmission issues for max possible integration deliveries. It includes configuration at TCU, DUW, DUG, and various transmission equipments like Juniper routers (CEN), ECI SDH MUXs, Nokia IP MW, Huawei IP MW, and NEC IP MW.
+· Static route addition plan for respective BSC and RNCs for newly allocated IP pools.
+· HLD, CCR and ATND preparation for site rehoming from one BSC to another as per network requirement from network optimization prospective.
+
+· Design preparation for CEN migration.
+        Project Activity  : TCU/SIU Design and optimization for 2G and 3G networks
+        Customer Name
+: Telkomsel, Indonesia
+
+Responsibility held:- 
+· 2G and 3G ATND design for monthly rollout and TCU addition for Telkomsel, Indonesia Network.
+
+· IP and VLAN planning for TCU/SIU.
+
+· ATND preparation for BSC rehoming of Abis over IP sites.
+
+· DLD preparation and statistics update with DLD for Telkomsel, Indonesia Network.
+
+· IP and VLAN planning for new cluster addition with region DLD
+
+· New BSC IP and related details updation with region DLD
+
+· IP Planning and optimization for network modernization
+
+	Previous Employer
+
+
+1. Reliance Jio Infocomm Ltd as an IP Planning manager for 4G Project, UP East (Lucknow).
+· Duration: Feb-2015 to Oct-2015
+JOB DESCRIPTION:-
+
+· Basics of IP MPLS Planning at bandwidth, aggregation & equipment level.
+
+· Hands on experience on cisco router ASR 9922, 9010, 903, 901 & DCN router 1006, 3925 & utility switches 3850.
+
+· Performing hardware installation, IOS Upgrade and router Integration with NOC reachability.
+
+· Hands on experience on IP MPLS link engineering and collector planning.
+
+· Requesting & Analysis of NIP (Network implementation plan) & NDD (Nodal design document) for Juniper and Cisco site integration as per Network Requirement. 
+
+· Handling Nexus 7010 L3 switch with TOR (2232_Optical & 2248_Ethernet) and connected EPC element like MME, S gateway, P gateway, LSMR.
+
+· Troubleshooting IP & MPLS related problems.
+
+· Knowledge of IP protocols like RIP, EIGRP, OSPF, ISIS and switching VLAN,VTP, STP etc.
+
+· Manage network related activities like Site survey, I&C & ATP (L1 & L2).
+
+· Troubleshooting different sites for integration and reachability upto NOC.
+
+· Installed TP5000 (symmetricon) grandmaster in core location for clock synchronization and provide PTP, NTP & SyncE to all network elements.  
+
+· Knowledge of packet core network EPC (MME, SAE) and call flow.
+
+· Installation of Linux (RHEL 5.8) based FTP server, wire shark v1.0.15 to take data call traces by port mirroring on TOR switches.
+
+· Chasing vendors to get the work done within acceptable timeline.
+
+· Knowledge of fiber tool GIS (Arc Map) etc.
+
+· Basic Knowledge of Transport devices like ALU PSS-32, PSS-4, CIENA 5300 etc.
+· Designing of complete IP Networking for 4G in Lucknow, Kanpur, Allahabad and Varanasi Cities and planning of 2000+ routers in these cities.
+
+2. Nokia Networks India Pvt. Ltd.  (Gujarat, Vodafone 2G and 3G Networks)
+· Experience: 7.2 yrs. ( Nov-2007 to Jan-2015)
+· Nokia Experience description: - 
+· Worked with Nokia as a Transmission Planning & Optimization Engineer (2G, 3G and Packet Abis).
+· Transmission Planning, Designing & Optimization activities of Vodafone Gujarat 2G and 3G Networks.    
+· SDH N/w Planning , Microwave Planning , DCN N/w Planning , Traffic & Banwidth optimization for 2G & 3G   
+Networks(FLEXI PACKET Radio, Huawei IP MW Radio, RNC & BSC IP planning and Huawei MUXs).
+· Planning & co-ordination for Installation, commissioning & Expansion of Microwave, SDH, 
+
+DWDM (Co-ordination with Vodafone team for database) & fiber transmission network planning 
+
+· Radio Network availability.
+	3G and 2G Planning and Project activities description:
+
+
+· Managing overall KPI and NQI of the Network.
+
+· Data Network-Design & providing solutions for data network engineering.
+
+· Providing solutions and consultancy for enterprise customer business for MPLS / Internet Gateways-IVPN / IPLC / Lease Line / ILL with end to end provisioning and delivery of circuits on L1/ L2/ L3 transport layers.
+
+· 3G/2G RAN transport planning (OFC / MW/IP radio/Cisco routers) and optimization for Vodafone Gujarat.
+
+· IP/DCN planning and implementation for 2G/3G network with high End router connectivity ( Cisco 7600/4948/3400 series routers) 
+
+· FPH800/1200, Flexi Packet Radios Equipments implementation with existing networks for building all IP/MPLS infrastructure.
+
+· handling MPLS backbone elements ( integration/Expansion) 
+· DWDM planning
+· New RNC and Existing RNC integration with Cisco routers/MSS/MGW / PACO elements.
+
+· Packet Abis planning, Datafill and implementation, Trouble shooting on MPLS Network. 
+
+· Providing solution for P2P/MPLS-VPN/enterprise business connectivity for new customers. 
+
+· Understanding RNC/7603/7606/7609 router logs and find issues for outages and optimization.
+
+· Configuring Cisco Switched and Routers (S-4948, R-7603 / 7606 / 7609, ASR903/901).
+
+· Static Routing, RIP, OSPF, BGP, EBGP, ISIS, Access control, Telnet, FTP, NAT, PAT, STP, VLAN, Subinterfaces, Service instances / CBD / BDI configurations. 
+
+· In-depth knowledge in WAN transport systems/services, Telecommunications systems/service, LAN switch technology (including Spanning tree, VTP domain management), routing protocols (EIGRP, OSPF,BGP4)
+· Proven ability to manage a multi-vendor WAN, multi-protocol routing, including but not limited to NHRP,EIGRP, BPG4, OSPF, RIPV2
+
+· Demonstrated ability to manage multiple projects in an efficient manner.
+
+· Demonstrated excellence in communications, presentation and customer focus skills.
+Proven commitment to quality results.
+
+· DCN planning and optimization, ensure NMS, PNMS, ECI visibility of all NE in NMS.
+
+· GPRS / Packet Core traffic monitoring and ensure utilization below 70%.
+
+· WAN links 1G, 10G over WDM links, SONET links planning and optimization for upgrades.
+
+· Capacity forecasting, BOQ preparation, and Equipments (Router & Switches) ordering. 
+
+· Analysis Packet Drops and troubleshooting MPLS Backbone.
+
+· Node B / Data throughput testing.
+
+· Legacy TDM to Full IP Network migration. Support to other circles for IP migration. 
+
+· Take care of Fix line Data Services ( feasibility, provisioning, maintenance, signoff and billing) 
+
+· Outage Analysis and network optimization.
+
+· Planning of the SDH transmission equipments like XDM-1000/ 500/ 100/ 50, BG-20/BG-30/BG-40 , Micro SDM  for implementation of STM -64, STM-16, STM-4, STM-1, NEC MW NEO & Pasolink / pasolink+ unit.
+
+· Planning/Designing and provisioning of circuits for BTS & POIs and ensure smooth Operation of the 2200+ sites and above 460 SDH - NEC MW transmission equipments.
+
+· Hi-Low violation removal, checking for RSL degraded hops, Errored links, interference in links, Configuration errors, sites protection in loop above 75%.
+
+· To ensure transmission network availability/Visibility as per guideline.
+
+· Planning and designing for connectivity of under falling area node of the corporate customer network.
+
+· Co ordination right from circuit provisioning to stable and satisfactory operation of the Network element.
+
+· Co-ordination and guiding RF department regarding site/BSC Rehoming, RNA degradation.
+
+· Planning of new sites and guiding RF department for allocating Exact BSC for the upcoming sites.
+
+· E1 provisioning and optimization/ splitting of SDH rings for reducing Traffic loading.
+
+· Coordinating with other operators in case of Media ( E1) sharing and lease line provisioning.
+
+· Allocating the combination of NEC + fiber Path for TCSM and hence BSC Protection.
+
+· Keeping close watch on the network, Trail protection/ un-protection/deletion/ creation Through NMS Server.
+
+· Inter MSC trail balancing as ASON.
+
+· POI, STP, NLD, InterMSC circuit balancing.
+
+· Analysis of ES, SES, BBE errors, Alarms using TRE report received from GNSC.
+
+· Hands on experience of Net-act planner, Map-info 9.0, Global Mapper for LOS confirmation and Link budgeting.
+
+· Technical support for system upgrades (ECI Mux up gradations) and project team for rollout.
+· Testing of L2/L3 layer protocols HSRP / VRRP / ASON / RSTP / MSTP / SNMP/ MoT /signaling / switching / throughput after implementation in SDH/SONET/OTN/MPLS domains.
+
+· Testing and troubleshooting on ECI/Huawei/Cisco/NEC/Nokia equipments
+
+· RNC dimensioning, IUCS, IUPS, CScore, PScore planning,  MSS/MGW/SGSN, Cisco 7609 router integration with RNC
+
+· MSP protection for all BSC, MGW & ECI MUX.
+· ALCQ, ATPC, SRLG and other feature implementation to maintain RNA to Target level.
+· ECI equipment optimization Plan for Vodafone Gujarat Network. (Traffic grooming, Extra card removal, Card protection, MUX up gradation and ring protection on separate cards).
+	FLDS Planning
+
+
+· Planning of Carrier, NPLC, IPLC and LL Ckts.
+· BOQ preparation for final wok order placement
+· Required port allocation along with provisioning planning to provision EoS or TDM trails in respective NMSs to handover LL as per customer requirement.
+· Planning for BW upgradation and optimization to meet customer requirements. 
+· Monthly MIS & Signoff
+	Education
+
+
+ B.tech (Electronics and communication) completed with 67.63% aggregate in 2007 from ACET Aligarh, U.P Tech. University Lucknow.
+                  Certification: - CCNA (Cisco ID: CSCO12229635)
+	Skill Set
+
+
+          Technology                     : GSM, WCDMA, LTE, PDH, SDH, DWDM, IP, CEN, MPLS, Fiber and Microwave
+          Operating Systems        : Windows 98/XP/2007
+          Software Tools               : MapInfo, Net act Planner, Global Mapper, Google earth, ECI-NMS, Huawei NMS,
+                                                       NetConfig tool, Reporting suite, Putty, GIS, BO Tool (Ericsson) and MS Office.
+	 Achievements 
+
+
+· I have been awarded by NSN, as achiever of the month for Nov-2008 for excellent contribution in Timely completion of Transmission plans for Ahmedabad, Rajkot and Bhavnagar clusters for 2G sites.
+· Second time I have been awarded by NSN, as achiever of the month for Jan-2011 for successful completion of planning of 3G networks rollouts for 400 3G sites of Ahmedabad core city.
+· Third time I have been awarded by NSN, as achiever of the month for Dec-2012 for successful completion of planning of 3G network rollout for targeted NodeBs of 2012 Year and for TCSM balancing of 42 BSCs of VF Gujarat N/Ws.
+· 2 times have been awarded by customer (Vodafone) as YMAD (You make a difference).
+· NCC “B” Certificate holder.
+	Personal Details
+
+
+Name
+
+: Birjesh Kumar Chaudhary
+Father’s name           
+: Mr. Dhani Ram
+Sex                            
+: Male 
+
+Date of birth            
+: 01st May1987 
+
+Marital Status          
+: Married
+Languages known    
+: English, Hindi
+
+Contact details       
+: Mathura (U.P.)
+	Declaration
+
+
+         I hereby declare that the information furnished above is true to the best of my knowledge.
+        (Birjesh Kumar Chaudhary)

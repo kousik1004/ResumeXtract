@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+
+2.5 years of LT experience in Development , Implementation and Support of 
+
+Datawarehousing , using Ab initio 
+
+OLTP and OLAP experience using Data Extraction, Data transformation, Data 
+
+loading, Data migration and Data analysis , with an experience in all phases 
+
+of DWH lifecycle 
+
+Big Data and BI analysis using Hadoop (Hue Portal), HIVE, PIG, Spark, Scala. 
+
+BI Reporting using Cognos and Tableau 
+
+ 
+
+ 
+
+Summary 
+
+Employment 
+
+Home Finance (SAS/PIG to Ab-initio migration) – Barclays UK 
+
+Role – Ab initio Developer       (May 2017 to Present) 
+
+Work Experience 
+
+•The role in the project  is reconciliation of aggregated and non-
+
+aggregated trading data of Barclays, which is managed by SAS/ PIG , and 
+
+migrating / converting the same to Ab-initio, and storing into Ab-initio maps 
+
+by executing the jobs 
+
+•The data is either scooped from Teradata and stored in HIVE tables or is 
+
+read from an HDFS location in the form of external files either in parquet or 
+
+uninterrupted format , which are consumed by Ab-initio 
+
+•Further , business rules are applied on the data alongwith Change Data 
+
+Capture (CDC) , and it is finally loaded into target HIVE tables 
+
+Capgemini        Pune, MH, IN 
+
+Ab Iinitio Developer | Software Engineer          June 2016 to Present 
+
+Skills 
+
+ETL Tools – 
+
+Ab initio GDE 3.2.2,  
+
+Co-operating System 
+
+3.2.6.5 /3.2.3.x ,  
+
+Informatica Power Centre 
+
+9.0 
+
+Reporting Tools – 
+
+Cognos , Tableau 
+
+Scheduling Tools – 
+
+Tivoli  TWS 
+
+Versioning Tools – 
+
+Ab initio EME for versioning 
+
+Databases –  
+
+Oracle , Sybase, Hadoop 
+
+(Hue Portal) 
+
+SDLC – 
+
+Agile, Scrum, JIRA, QC 
+
+Languages – 
+
+Shell, Python 
+
+OS – 
+
+Windows , Unix 
+
+Environment – 
+
+Client and Server 
+
+ 
+Birinder Singh 
++91-7447424262 
+
+birinder.singh@live.in     
+
+AB INIT IO DEVELOPER  
+
+ 
+HTTPS://WWW.L I NKEDIN .COM /IN/BI RINDER -SI NGH-28A27026  
+
+HTTPS://GI THUB.COM /B I RINDERSI NGH10   
+
+ 
+
+mailto:birinder.singh@live.in
+https://www.linkedin.com/in/birinder-singh-28a27026
+https://github.com/BirinderSingh10
+
+
+ 
+
+ 
+
+AB INITIO  
+
+ 
+
+ 
+
+Transaction monitoring (AML) is a GRCB wide program to implement a 
+
+standard Anti Money Laundering solution across GRCB business 
+
+ 
+
+It is a Barclays Scrum Project which deals with all transactions happening 
+
+across the globe which includes Barclays cross-border transactions to no 
+
+chance of fraud 
+
+ 
+
+It includes extraction of data from several source systems and then apply 
+
+business rules and transformation upon them using Ab initio and finally a feed 
+
+file is prepared which is further sent to Fortent for analysis 
+
+The role in the project  is reconciliation of aggregated and non-
+
+aggregated trading data of Morgan Stanley. Doing the data enrichment , 
+
+and creating stored procedures in Sybase database 
+
+Insurance Analytics Solution – Barclays UK 
+
+Role – ETL Developer                        (Oct 2016) 
+
+It’s an insurance project in which we designed data model for the project 
+
+and then did the ETL process on the data using Informatica , on the basis of 
+
+which Business Reports were generated on the provided data 
+
+Education  
+
+Chandigarh University  
+
+B.E. in CSE             2016 
+
+GMSSS , Chandigarh, 33-D 
+
+HSC in Non-med            2012 
+
+Sri Guru Harkrishan Sen Sec 
+
+School, Chandigarh, 40-C 
+
+SSC              2010 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Awards – 
+
+Capgemini - Star of the 
+
+Month                   Aug 2018 
+
+Capgemini - Star of the 
+
+Month                   Sep 2018 
+
+ 
+
+Certifications – 
+
+Oracle Database SQL 
+
+Expert (1Z0-047)         (2016) 
+
+Data Enrichment - Sybase – Morgan Stanley USA 
+
+Role – ETL Developer      (Nov 2016 to Dec 2017) 
+
+ 
+
+Anti Money Laundering – Barclays UK 
+
+Role – Ab initio Developer      (Jan 2017 to Apr 2017) 
+
+

@@ -1,0 +1,535 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hitesh Thadani
+
+Hitesh Thadani
+thadanihitesh@gmail.com
++91-9561489321
+Profile Summary 
+· 9+ Years of experience in information Technology industry, worked for domains like Telecom, Banking, Life and Pensions Services and Telecom.
+
+· Good exposure to BIGDATA Ecosystem, Hadoop, Hive, Pig, Spark/Scala, sqoop, Teradata, Linux, UNIX, Mainframes technologies.
+· 3 Months of Onshore experience for CAPITA (UK) project.
+
+· Excellent analytical and programming skills.
+
+· Excellent learning capability, adaptability, communication and interpersonal skills.
+
+Experience Summary 
+· Working in Amdocs (Currently as BIGDATA lead) from July 2012 to till date.
+
+· Worked as a Senior Software Engineer in ATOS India from July 2008 to June 2012.
+Technical Skills
+      
+Operating Systems
+: 
+OS/390, Z/OS, UNIX, LINUX, Windows Family
+
+
+Hadoop Ecosystems
+:
+Map Reduce, Hive, Pig, SQOOP, SPARK/SCALA
+      
+Languages
+
+:
+COBOL, JCL, UNIX/LINUX Scripting 
+      
+Databases 
+
+:
+Teradata, DB2, Oracle    
+
+      
+Mainframes Tools 
+: 
+TSO/ISPF, FILE-AID, XPEDITER, SPUFI, CLEAR-
+
+
+
+
+
+QUEST, NEMESIS, ENDEVOR.
+
+ETL Tools
+
+: 
+Preliminary Knowledge of INFORMATICA and DATASTAGE
+Achievements
+
+· Certificate of recognition for Excellence in Service Delivery for BBVA project (Atos).
+· Certificate of recognition for Excellence in CCDM App under ATT project (Amdocs).
+· Certificate of recognition for Excellence in Datalake App under ATT project (Amdocs).
+Projects Summary
+The details of the various assignments handled are listed below, starting from recent one,
+
+1. DataLake Application under AT&T Project.
+	  Description
+	 Datalake app supports different analytical applications company wide.
+
+	  Period
+	 Mar 2016 -  Till date
+
+	  Client
+	 AT&T, US
+
+	  Other Information
+	 DWH Project
+
+	  Role/Team
+	 BIGDATA Lead, Mentor and Reviewer
+
+	  Team Size
+	 12
+
+	  Roles
+	Resource Planning, Analysis, Coding and Review.
+
+	  Environment
+	Type                               : Development, Sustainment
+
+Platform                          : Hadoop
+
+Operating system           : Linux
+Platform
+
+: Hadoop Ecosystem
+
+Database                        : Hive, Oracle, Teradata
+
+Languages                      : Pig, Linux scripting, Scala
+Tools                              : SVN, Rational, Prism
+
+Business Domain           : Telecom
+
+	  Contribution
+	As a Developer/Team Lead
+Project Responsibilities:
+
+· Worked on several ingestion and extraction project as developer using hive, pig, Spark, Scala, sqoop
+· Estimations as per Business Requirements
+
+· Finalizing the Dev timelines for different milestones in project meetings
+
+· Coordination with the Technical Architects/BA/DS with respect to different Business Requirements
+· Technical and Functional Query resolution
+
+· Review of deliverables 
+· Coordination in deployment activities
+· .
+Organization Responsibilities:
+· Resources and Capacity Planning 
+· Goal discussion  with all team member
+
+· Appraisal process
+· Team Roadmap
+
+
+2. EDW (Enterprise Data Warehouse) Application under AT&T Project.
+	  Description
+	 EDW is a data warehouse that supports different analytical             applications company wide.
+
+	  Period
+	 Oct 2014 -  March 2016
+
+	  Client
+	 AT&T, US
+
+	  Other Information
+	 DWH Project
+
+	  Role/Team
+	 Data Architect, Mentor and Reviewer
+
+	  Team Size
+	 12
+
+	  Roles
+	Analysis, Designing Documents, Coding and Review.
+
+	  Environment
+	Type                               : Development, Sustainment
+Platform                          : IBM Mainframe
+
+Operating system           : Z/OS
+Languages
+
+: JCL, COBOL
+
+Database                        : Teradata
+
+Tools                              : Reqpro, Rational, Prism
+Business Domain           : Telecom
+
+	  Contribution
+	As a DA
+· Estimations as per Business Requirements.
+· Finalizing the timelines for different milestones in project meetings
+· Coordination with the Technical Architects/BA/DS with respect to different Business Requirements.
+· Finalizing different documents for e.g. AID, HLD and AD etc.
+
+· Technical and Functional Query resolution
+
+· Review of deliverables 
+· Coordination in deployment activities.
+
+
+3. RAS (Relational Account Store) Application under AT&T Project.
+	  Description
+	RAS is a consumer data warehouse that maintains a complete view of customer information - including product details, promotion history, and summarized billing and usage data.
+
+	  Period
+	 Jan 2013 -  Dec 2014
+
+	  Client
+	 AT&T, US
+
+	  Other Information
+	 DWH Project
+
+	  Role/Team
+	 SSME, Mentor and Reviewer
+
+	  Team Size
+	 3
+
+	  Roles
+	Analysis, Coding, Review, Unit Testing.
+
+	  Environment
+	Type                               : Development
+
+Platform                          : IBM Mainframe
+
+Operating system           : Z/OS
+Languages
+
+: JCL, COBOL
+
+Database                        : Teradata
+
+Business Domain           : Telecom
+
+	  Contribution
+	As a SSME 
+· Task planning, allocation and tracking.
+· Coordination with the Business analysts for requirements understanding and Development.
+· Technical and Functional Query resolution
+
+· Review of deliverables 
+· Weekly Status Reporting to Client Manager and Project Manager
+
+
+
+
+4. CCDM (Credit and Collection Data Management) Application under AT&T Project.
+	  Description
+	
+CCDM – The goal of this application is to maximize the financial health of AT&T through the strategic management of Net Bad Debt.
+
+	  Period
+	 July 2012 -  Dec 2014
+
+	  Client
+	 AT&T, US
+
+	  Other Information
+	 DWH Project
+
+	  Role/Team
+	 SSME, Mentor and Reviewer
+
+	  Team Size
+	 3
+
+	  Roles
+	Analysis, Designing, Review, Coding, Unit Testing
+
+	  Environment
+	Type                               : Development
+
+Platform                          : IBM Mainframe
+
+Operating system           : Z/OS
+Languages
+
+: JCL, Unix Scripting, COBOL
+Database                        : Teradata
+
+Business Domain           : Telecom
+
+	  Contribution
+	As a SSME 
+· Task planning, allocation and tracking.
+· Coordination with the Business analysts for requirements understanding and Development.
+· Technical and Functional Query resolution
+
+· Review of deliverables 
+
+· Weekly Status Reporting to Client Manager and Project Manager
+
+
+5. CAPITA – Designing Technical Specification and Development
+	  Description
+	Capita Life and Pensions Services (CLPS) has been chosen as the outsource partner for the Abbey Life Assurance Company (ALAC) Life & Pensions books of business consisting of approximately 1.1 million ‘in-force’ life and pension policies. 
+The ALAC Technical Transformation Project aim is to transfer the ALAC books of business onto CLPS systems centered round the CPDF policy administration system.
+
+
+	  Period
+	 March 2011 -  June 2012
+
+	  Client
+	 CAPITA, UK
+
+	  Other Information
+	 Migration Project having challenging business requirements
+
+	  Role/Team
+	 Group Lead, Senior developer, Mentor and Reviewer
+
+	  Team Size
+	 50
+
+	  Roles
+	Analysis, Estimation, Designing, Review, Coding, Testing
+
+	  Environment
+	Type                               : Development
+
+Platform                          : IBM Mainframe
+
+Operating system           : OS390, Windows XP
+
+Languages
+
+: COBOL,PL1, JCL, VSAM
+Business Domain           : Life and Pension Services
+
+	  Contribution
+	As a Senior Software Developer 
+
+· Estimation of a given task and efforts required to complete design and build activity.   
+
+· Task planning, allocation and tracking 
+
+· Elicit Technical Requirements using Functional specifications as input
+
+· Coordination with the Business analysts for requirements understanding and translation to technical requirements
+
+· Technical and Functional Query resolution
+
+· Review of deliverables 
+
+· Weekly Status Reporting to Client Manager and Project Manager
+
+· Mentoring of new team members
+
+· Development of PL1/COBOL programs catering to processing of ALAC policies
+
+· Testing in Online and Batch modes in Mainframe environment
+
+
+6. CAPITA – Enhancement and Maintenance (Onsite)
+	  Description
+	Capita Life and Pensions Services (CLPS) has been chosen as the outsource partner for the Sun Life Financial Company (SLFC) and Country Wide Assurance (CWA) for Life & Pensions services for closed book of business. The SLFC and CWA Project aim is to maintain and enhance the current business processing.
+
+	  Period
+	 Dec 2010 -  March 2011
+
+	  Client
+	 CAPITA, UK
+
+	  Other Information
+	 Maintenance  and Enhancement Project having challenging business requirements
+
+	  Role/Team
+	 Senior developer
+
+	  Team Size
+	 20
+
+	  Roles
+	Analysis, Estimation, Coding, Testing
+
+	  Environment
+	Type                               : Development
+
+Platform                          : IBM Mainframe
+
+Operating system           : OS390, Windows XP
+
+Languages
+
+: COBOL,PL1, JCL, VSAM
+Business Domain           : Life and Pension Services
+
+	  Contribution
+	As a Software Developer 
+
+· Estimation of a given task and efforts required to complete build and enhancement activity.   
+
+· Coordination with the Business analysts for requirements understanding and translation to technical requirements.
+· Testing in Online and Batch modes in Mainframe environment.
+· Designing and Testing QLIs based on Business requirements.
+
+
+
+7.  BBVA - Development based on technical designs
+	  Description
+	Banco Bilbao Vizcaya Argentaria (BBVA) is a multinational Spanish banking group. It is the second largest bank in Spain and 7th largest financial institution in the Western world with a market capitalization of over €61 billion.
+Mainly it was a migration project from Spain with its own challenges due to its language barrier. In this project all the communication to and fro happened in Spanish. Further the technical design documents were also in Spanish. We had provided services for enhancement as well as maintenance for the application present in the banking system. This project was purely a developmental project with very stringent SLA. Involved in production support also.
+The project is a Factory Model project, where the work comes in large quantum called petitions with a pre-defined delivery date. Every component comes assigned with fixed catalogue hours. The design of every component is analyzed and in case of any clarification required, a ticket is raised on the client portal. Unit test cases are prepared, the component is developed and unit testing is done. The component is then delivered to the client with required documents.
+
+
+	  Period
+	 1st Oct 08 to Dec 2010
+
+	  Client
+	 BBVA, Spain.
+
+	  Other Information
+	 Development project having Language barrier as a challenge.
+
+	  Team Size
+	 35
+
+	  Role
+	Analysis, Coding, Testing, Review, Mentoring
+
+	  Environment
+	Operating system          : OS390, Windows XP
+
+Languages
+
+: COBOL,JCL 
+
+DBMS     
+
+: DB2 
+
+OLTP        
+
+: TSO/ISPF
+Tools          
+
+: File Aid, XPEDITER, Clear Quest
+Client Supplied Tools
+: GEF@, SYSTRAN, JNemesis
+Business Domain           : Banking
+
+	  Contribution
+	As a Application Developer 
+· Requirements analysis and understanding client requirements. 
+
+· Unit testing of the modules developed.
+
+· Review of the deliverables pertaining to design, code developed by other team members(peer review)
+
+· Involved in cause, analysis and resolution.
+
+· Preparation of data for generation of project related matrix.
+
+· Development.
+· Impact Analysis for enhancement received
+
+· Prepare program specific test plan and delivery documentation
+
+· Modify/write program code
+
+· Perform testing & unit test plans
+
+· Produce Deliverables according to company standard and procedures
+
+
+	  Period
+	 1st Oct 08 to Dec 10 
+
+	  Client
+	 BBVA, Spain.
+
+	  Other Information
+	 Development project having Language barrier as a challenge.
+
+
+Educational Qualification
+	Degree/Certificate
+	College / Organization
+	Marks %
+	Passed 
+
+	Bachelor Of Engineering In Computer Science
+	Thadomal Shahani Engineering college, Mumbai
+	62
+	May 2008
+
+	Higher Secondary School Certificate
+	J.J.P. Science College, Nagpur
+	78.83 (PCM 87.66)
+	Feb 2004
+
+	Secondary School Certificate
+	A.V.M. High School, Nagpur
+	77.73
+	March 2002
+
+
+Personal Details
+
+             Present Address         :
+           C602, Florida River Bank, Keshav Nagar, Mundhwa,
+                                                  Pune - 411036
+
+ 
+Date-of-birth
+           :            12-Feb-1987
+Marital Status
+           :            Married
+Nationality
+           :            Indian
+Language
+           :            English, Hindi, Sindhi
+Reference
+           :            Available upon request

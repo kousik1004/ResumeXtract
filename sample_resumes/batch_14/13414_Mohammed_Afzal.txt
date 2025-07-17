@@ -1,0 +1,567 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mohammed Afzal
+
+Mohammed Afzal
+
+
+Software Developer
+Contact No.: 8108725567
+Email ID.: ansari.afzal89@yahoo.com
+
+PERSONAL SUMMARY
+
+A skilled software developer with proven expertise in using new tools and technical. Developments to drive improvements throughout a entire software development Lifecycle. Having extensive industry and full life cycle experience in a ASP.Net based Environment, along with exceptional analytical, design and problem-solving Capabilities. Excellent communication skills and able to work alongside support Teams and the VB.Net community to define and refine new functionality.
+
+Looking for a ambitious company which will challenge my developer and problem solving skills and allow me to continue to develop my knowledge and potential.
+
+TECHNICAL SKILLS
+
+ASP.Net
+
+C#.Net
+ADO.Net
+
+Web Services
+Oracle 11g
+SQL Sever 2008.
+PLSQL
+Crystal Report.
+
+Classic ASP
+
+JavaScript.
+
+HTML
+
+ACADEMIC QUALIFICATIONS
+
+B.SC.IT:  Rajiv Gandhi College - Mumbai University (2012)
+
+H.S.C (Science Streams): Anjuman Mustafa Fakhi College (Navi Mumbai) 2006 – 2008.
+
+S.S.C:  N.I.U.H. School   - Maharashtra Board (2005).
+
+FINAL YEAR PROJECT
+
+
+Title
+
+:  
+Rajiv Gandhi College
+
+
+
+
+              
+       Tools
+
+:  
+ASP.Net, C#, JavaScript, CSS, And SQL Server 2008.
+
+
+ Description 
+:
+
+· This software will not only assist the College Staff  to Decrease the Paper work and Maintain Student and Fees Record but also help the Student with Online Student Result ,Online Admission Application Form, Generating Merit List, Update Student Syllabus , Facility Records , Generate Student Result , Change Password , Feedback Form.
+
+WORK EXPERIENCE
+
+CURRENTLY WORKING:
+1) COMPANY NAME: C-EDGE TECHNOLOGY LTD.(TCS – SBI Enterprise)
+Working in Accounts Project-(SBI-PENSION).
+
+Working Experience: 10 November 2016 TO Present.
+
+· Working as a Software Developer in C-EDGE Technology ltd. 
+
+· Currently working key Skill: Factory Pattern Architecture, ASP.NET, C#.Net, ADO.Net, Oracle 11g, and JavaScript.
+
+Duties:
+
+· Development , Support and Deployment.
+
+LIVE PROJECT
+
+PROJECTS:
+
+#1
+Title
+
+:  
+SBI PENSION
+
+
+
+
+
+              
+       
+Tools
+
+:  
+ASP.NET, C#.Net, ADO.Net, Oracle 11g, Crystal Reports, And JavaScript.
+           
+Team size
+:
+21  
+Description 
+:
+
+· This is totally Accounts application.
+· In this Project having branches in all over India.
+
+· This Application are maintains the government pensioner records in which they retired from the respective government job.
+· This is having various stages to create new pensioner data.
+· In this project are using RDLC report to display the data to user.
+
+· This application is vary waste it is maintain more than 60 lakh pensioner record.
+
+· This application processed pension processing for every month and pay the pension amount to the pensioner account.
+Modules Details:
+
+1: General Master.
+
+ 
+Master Module.
+
+Data Entry Module.
+
+Processing Module.
+
+
+Transaction  Module.
+
+
+Administration Module.
+
+ 
+Reports Module.
+2) COMPANY NAME: OSOURCE INDIA PVT.LTD.
+
+Working in Finance Project-(LMS).
+
+Working Experience: 04 December 2014 TO Present.
+
+· Working as a Software Developer in Osource India pvt.ltd. 
+
+· Currently working key Skill: 3Tier Architecture, ASP.NET, C#.Net,ADO.Net, Oracle 11g, Javascript.
+
+Duties:
+
+· Development and Support.
+
+LIVE PROJECT
+
+PROJECTS:
+
+#1
+Title
+
+:  
+SHUBHAM HOUSING FINANCE
+
+
+
+              
+       
+Tools
+
+:  
+ASP.NET, C#.Net,ADO.Net, Oracle 11g, Crystal Reports, JavaScript.
+           
+Team size
+:
+10  
+
+
+Web Address
+:
+ http://www.shubham.co/ 
+
+
+Description 
+:
+
+· This is totally banking finance application.
+· In Shubham having more than 70 branches in all over India.
+
+· The Application maintain the records which are apply Loan in shubham.
+
+· This are having various stage in loan sanction.
+
+· Pre- sanction, Post- sanction, Document verification, family income and so many others stage.
+· Most important facility of this project is calculated EMI-Interest and EMI-Principal and Penalty as per the business logic of client.
+
+· In this project having facility to send sms to customer provide the loan information and other information.
+· Its having different reports section i.e.(Trial Balance ,Principal outstanding ,emi schedule, Accounting ledger , Borrower outstanding , Due outstanding) reports.
+
+· Having very good knowledge in accounting project.
+· The Application regularly maintains Emi Schedule Reports.
+· Having very good knowledge in PLSQL code backend process, packages , procedures , functions , views.
+
+· Having very good knowledge of Global Temporary Table concepts.
+
+· Having very good knowledge of Materialized view concepts. 
+
+· Dynamics generate menu , Users Access right.
+Modules Details:
+
+1: General Master.
+
+ 
+Master Detail Module.
+
+User Master.
+
+
+Security.
+
+
+Query Builder.
+2: Loan Management.
+
+
+Pre- sanction.
+
+
+Post- sanction.
+
+Report sanction.
+3: Account.
+
+Master.
+
+Transaction.
+Reports.
+4: Loan closer.
+
+Loan Closer Request.
+
+
+Loan Closer Approval.
+
+
+Is Loan Closer.
+
+
+Reports.
+5: Reports.
+
+
+Due Outstanding report.
+
+
+Principal Outstanding report.
+
+
+Borrower Outstanding report.
+
+
+Borrower Statement report.
+
+
+Borrower Summary report.
+
+
+Borrower Receivable Ledger.
+
+
+Ammotraization  report.
+
+
+Profit & loss.
+
+Trial Balance Report.
+
+
+Accounting Ledgers Reports.
+
+
+EMI – Schedule Reports.
+
+
+Application Loan Reports.
+
+
+Disbursement Report.
+6: Month end Process. 
+
+
+This process is Calculate EMI Penalty, EMI-Principal, EMI-Interest in every month end with manual executation.
+
+3) COMPANY NAME: OBERON SOFTWARE SOLUTION PVT.LTD.
+
+Working in Shipping Domain.
+SOFTWARE DEVELOPER 08 October 2012 TO 02 December 2014.
+
+· Working as a Software Developer with Oberon Software Solution in Classic ASP, HTML, VBScript, JavaScript,CSS, SQL Server 2008
+Duties:
+
+· Developing web application in Classic ASP, VBScript, CSS
+
+· And also have good experience on client site coding using JavaScript.
+
+· Good Experience in HTML Code.
+
+· Good Experience in SQL SERVER, i.e. Store Procedure.  
+
+LIVE PROJECT
+
+Developed Web Application With Oberon Software Solution Pvt Ltd.
+PROJECTS:
+
+#1
+Title
+
+:  
+Atlantic Freight Forwarders
+
+
+
+              
+       Tools
+
+:  
+Classic ASP, HTML, VBScript, JavaScript,CSS, SQL Server 2008
+
+    Team size
+:
+3  programmers
+
+
+
+
+
+
+        Web Address
+:
+ http://www.atlanticfreightforwarder.com/.
+
+          
+           Description 
+:
+
+· This Web Application is used to store all types of Import & Export Shipping Line Jobs entry.
+· It is maintain the record when the ship is load from the Loading Port to Port of Destination.
+· After the entry of import & Export Jobs we can make Invoice Bill Either Sale Invoice and Purchase Bill Invoice.
+· Finally we can easily Generate All Types of Records Like ,Profit Loss ,Jobs Reports ,Payment entry Reports, Receive entry Reports, Out Standing Reports.
+
+
+
+
+     
+
+
+
+
+
+
+
+
+            #2
+Title
+
+:  
+Elliance Container Services Pvt Ltd.  
+      
+
+
+        
+
+ Tools
+
+:  
+Classic ASP, HTML, VBScript, JavaScript,CSS, SQL Server 2008
+
+
+ Team size
+:
+2  programmers
+
+
+
+
+
+
+                                                               
+Web Address
+:
+http://www.ecsshipping.com
+
+Description 
+:
+
+· This Web Application is used to store all types of Import & Export Shipping Line Jobs entry.
+· It is maintain the record when the ship is load from the Loading Port to Port of Destination.
+· After the entry of import & Export Jobs we can make Invoice Bill Either Sale Invoice and Purchase Bill Invoice.
+· Finally we can easily Generate All Types of Records Like ,Profit Loss ,Jobs Reports ,Payment entry Reports, Receive entry Reports, Out Standing Reports.
+
+ #3        
+Title
+
+:  
+West Wind Global Logistics Pvt Ltd.
+
+Tools
+
+:  
+Classic ASP, HTML, VBScript, JavaScript,CSS, SQL Server 2008.   
+
+
+Team size
+:
+2  programmers
+
+
+
+
+
+
+
+                                                               
+Web Address
+:
+http://westwindglobal.in/
+          
+Description 
+:
+
+· This Web Application is used to store all types of Import & Export Shipping Line Jobs entry.
+· It is maintain the record when the ship is load from the Loading Port to Port of Destination.
+· After the entry of import & Export Jobs we can make Invoice Bill Either Sale Invoice and Purchase Bill Invoice.
+· Finally we can easily Generate All Types of Records Like ,Profit Loss ,Jobs Reports ,Payment entry Reports, Receive entry Reports, Out Standing Reports.
+
+KEY SKILLS AND COMPETENCIES
+
+· 3Tier Architecture.
+· Asp.Net, C#, Jquery, Crystal Report.
+
+· Oracle 11g Sql Developer.
+
+· Packages, Procedure, Function & Process also.
+
+· Database: SQL Server 2008, Microsoft Access.
+
+· Strong asp, visual basic development experience.
+
+· Ability to develop creative solutions for complex problems.
+
+· Solid understanding of web application and window application also.
+
+· Extensive knowledge of ADO and relational databases.
+
+· Excellent team worker with strong coaching and mentoring skills.
+
+· Web development: HTML,, JavaScript; ASP.
+
+· Software development: Visual Basic, C ++ programming.
+
+· Experience with application servers and containers as well as developing and integrating web services.
+Summary Details
+
+· Osource India Pvt.Ltd.
+
+Asp.Net 
+
+:
+1.6 Years.
+
+C#
+
+
+:
+1.6 Years.
+
+ADO.Net
+
+:
+1.6 Years.
+
+Oracle11g
+
+:
+1.6 Years.
+
+Web Services
+
+:
+6 months.
+
+· Oberon Software Solution Pvt.Ltd.
+
+Classic ASP
+
+:
+2.2 Years.
+
+SQL Server 2008
+:
+2.2 Years.
+
+VB Script 
+
+:
+2.2 Years.
+
+Java Script 
+
+:
+2.2 Years.
+
+PERSONAL DETAILS
+
+Father’s Name: Rais Ahmed
+
+DOB: 16/10/1989
+Gender: Male
+
+Marital status: Single
+
+Nationality: Indian
+
+
+
+Page 2 of 7
+

@@ -1,0 +1,491 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Saurabh Rastogi
+132,Ushma Urja Appt, Sector-62  ( Noida  ( Phone: (+91)9871652744 
+( saurabhgaurav1@gmail.com,  saurabhgaurav1@rediffmail.com
+	Achievements
+
+Got Reward for Project of Quarter
+Key Skills
+Core Java
+
+PHP
+MYSQL
+Education
+
+Pt. Ravi Shankar Shukla University, Raipur
+B.E(IT), 2004
+Scored – 69.11%
+
+Maharishi Vidya Mandir Public School, Lucknow
+12th, 1999
+Scored – 54%
+
+Maharishi Vidya Mandir Public School, Lucknow
+10th, 1997
+
+Scored – 67.5%
+	Expert in Core Java and php/mysql based Application Development.
+A Total of 6 years of experience in Core java, web/wap based applications for different business organizations in PHP/MYSQL(db designing) and XML and XSLT. Seeking a challenging position with ample opportunities for professional growth and advancement.
+
+Experience Summary
+
+· 3 Years of experience in Core java.
+
+· 3 Years of experience in design/development of php/mysql and XML and XSLT based systems.
+
+· Experience in domains like E-commerce, Dating, Social networking site and Hotel Management etc.
+
+· Experience in using IDE tools like Eclipse, Dreamweaver etc.
+
+· Proficient in developer applications, methodologies waterfall model, Design Patterns.
+
+· Aptitude and willingness to learn and implement unknown technologies.
+
+· Strong analytical and problem solving skills.
+
+· Team player with ability to communicate at all levels of development process.
+Technical Knowledge
+
+Languages
+
+: Core Java and PHP.
+
+Web/WapTechnologies : HTML,XHTML,WML,Javascript.
+     
+Web Servers
+
+                 : Apache
+Database
+
+                 : MySql 4.0/5.0
+ 
+IT Experience
+
+Buongiorno digital innovations private limited  Gurgaon
+
+           Tech Lead
+3rd July 2007 - Present
+· Developed and configured various WAP Sites and Database designing.
+
+· Developed and configured several web based applications for different clients.
+· Used to optimise DB/SQL query related issues.
+
+· Provided Technical analysis and support to various issues.
+
+· Technical Support to various platform related issues.
+· Analyses and discuss the business requirements with the clients.
+
+·  Responsible for the development, implementation and support of the database of the server.
+
+· Responsible for the dealing with the problems, bug fixing and troubleshooting.
+Acknown Technologies, 
+
+Gurgaon
+Software Engineer
+March 2006 -June 2007
+· Worked on E Commerse Application.
+
+· Worked also as  an Oracle 9i-DBA for taking backups and managing database instance.
+March Infotech, Noida
+PHP Programmer
+Sept 2005-30th March  2006
+· Designed software requirements and implemented code for IEML.
+
+· Maintenance and support to applications developed for the clients.
+· Managed March Infotech website.
+Project Executed
+
+      1. Project      Wap Portal -TASHAN
+This is a subscription based wap portal. There are twenty packs in Tashan. Each pack contains different content, based on user interest. Rs 20 is charged from user for every subscription and 4 contents is added on their account and once the credits are over, user have to pay the individual cost of the selected content.
+URL(XHTML) : http://tashan.co.in/pmswapdev_india/pmsdata.xhtml?target=tashan/tn/x_index.xhtml
+URL(WML) : http://tashan.co.in/pmswapdev_india/pmsdata.xhtml?target=tashan/tn/index.wml
+Language
+  :
+Java,XML,XSLT
+Tools
+
+  :
+Eclipse
+
+Database           :       Mysql.
+
+Server
+             :
+Apache.
+
+Environment
+  :
+Windows2000 Professional.
+
+2. Project      Web Portal - Tashan
+This is again a subscription based web portal. User has to registered themselves to use the content. Once the user get registered and hit any of the content on the portal, content link is pushed on users handset and after hitting the link user gets subscribed and charged  Rs 20 and content is downloaded on the handset.
+URL : http://web.tashan.co.in
+Language
+  :
+Java, XML,XSLT
+
+Tools
+
+  :
+Eclipse
+
+Database           :       Mysql.
+
+Server
+             :
+Apache.
+
+Environment
+  :
+Windows2000 Professional.
+
+3. Project      BPL
+This is a content based portal. There are different sections in the portal based on user interest like Cricket Masti, DLF IPL, Songs and Models @ rs 1 and many more. User have to pay the cost of the selected content as mentioned in the portal.
+URL(WML)
+http://wap.loop.be3a.com/ops/pmsdata.wml?:target=wapl/wapl/index.wml
+URL (XHTML)
+:
+http://wap.loop.be3a.com/ops/pmsdata.xhtml?:target=waplx/wapl/indexv.xhtml
+Language
+  :
+Java, XML,XSLT
+Tools
+
+  :
+Eclipse
+Database           :       Mysql.
+
+Server
+             :
+Apache.
+
+Environment
+  :
+Windows2000 Professional.
+
+Role
+
+  :       Development of whole software.
+
+4. Project      Mobile Campus Portal
+This is a community portal currently working on. This is basically a WAP site developing in PHP/MYSQL . There are various section in this wap site including Registration and login section, Invite friend application, friends section, credit management, community management and many more. 
+
+URL : http://mobilecampus.airtelworld.com
+Language
+  :
+WML,PHP,XHTML,AJAX
+
+Tools
+
+  :
+Dreamweaver
+
+Database           :       Mysql
+
+Server
+             :
+Apache.
+
+Environment
+  :
+Windows2000 Professional.
+
+            Role
+
+   :      Database designing and Development of various section.
+5. Project       Hotel Search Engine
+N-Reservations is an ultra modern, state of the art, flexible and surprisingly modular reservation platform. It has a superb architecture, excellent error control systems and  offers surprisingly flexible and dynamic relationship management between Site manager, Hotels and customers who intend to make reservations.
+
+Hotel Search Engine  includes an online booking system for booking and searching of  Hotels and rooms available for that particular hotel. Currently 15 u.k based hotels are running on it.  
+
+Some of the URL’s are:-
+
+1. http://www.shaftesburyhotels.com
+2. http://www.theshaftesbury.co.uk
+3. http://www.londonpremierhotels.com
+4. http://www.righthotels.com
+5. http://www.nreservation.co.uk/advanced/
+   
+
+Some features of this system includes:-
+
+1. Search Hotel / Advanced search facility
+
+2· Special offers.
+3. Dynamic room & hotel facilities which means that you decide which facilities to show.
+
+4· View / Modify reservations
+
+5· Online newsletter creation.
+
+Language
+  :
+PHP, HTML, Ajax and Java Script.
+
+Tools
+
+  :
+Dreamweaver 2004.
+
+Database           :         Mysql.
+
+Server
+             :
+Apache.
+
+Environment
+  :
+Windows2000 Professional.
+
+           Role
+
+  :        Database designing and Development of whole software.
+6) Project       Online Shopping Cart (An E- Commerce Software)
+nTrade is an advanced online solution meant for businesses who aim to strengthen their online presence. nTrade includes the development and maintenance of e-shopping (E-commerce) web applications, which consists of online shopping of goods through web. Currently 300 websites are running on this software.
+
+Some features of this system includes:-
+
+1. Content management systems. 
+
+2. Fully dynamic websites. 
+
+3. Online catalogue with customer registration and online marketing tools. 
+
+4. State of the art online retailing solution with website advertising and online marketing tools. 
+
+5. Wholesale-retail chain solution.
+
+6. Payment gateway integration with Paypal, Protx, payment gateway.
+
+Some of the site url’s are
+
+a) http://www.closeencounters.co.uk
+b) http://www.madambutterfli.co.uk
+c) http://www.youcanneverhavetoomanyshoes.co.uk
+d) http://www.toyrevolution.co.uk
+e) http://www.bareessentials.co.uk
+
+Language
+  :
+PHP, HTML,AJAX and Java Script.
+
+Tools
+
+  :
+Dreamweaver 2004.
+
+Database           :         Mysql.
+
+Server
+             :
+Apache.
+
+Environment
+ :
+Windows2000 Professional.
+
+Role
+
+  :         Development of various modules.
+
+7. Project       Dating Software
+This site is designed for use by men only (usually professional men), who have one aim which is to find the partner they dream about. All of the services of course cost money and at the heart of the site should be a sort of bank account system either operable by purchasing credit or tokens of some sort or by just using straightforward money in the account.
+
+URL for this software is
+
+1. http://www.neotericuk.co.uk/nquest/
+
+Language
+  :
+PHP, HTML,AJAX and Java Script.
+
+Tools
+
+  :
+Dreamweaver 2004.
+
+Database           :       Oracle 9i
+
+Server
+             :
+Apache.
+
+Environment
+  :
+Windows2000 Professional.
+
+           Role
+
+  :         Development of various modules and managing the oracle 9i database.
+      8. Project 
+Property Software
+
+
+This is the property software used for the selling and buying of property through our site.
+
+
+
+URl for this software is:-
+
+1. http://www.neotericuk.co.uk/property/
+
+Language
+  :
+PHP, HTML,AJAX and Java Script.
+
+Tools
+
+  :
+Dreamweaver 2004.
+
+Database           :       Oracle 9i
+
+Server
+             :
+Apache.
+
+Environment
+  :
+Windows2000 Professional.
+
+            Role
+
+  :        Development of various modules and managing the oracle 9i database.
+     9.    Project IEML, Noida.
+
+  In our project if there are certain events to be run simultaneously in a trade fair,then we can easily manage this. If user want to occupy a space in one particular fair,then he/she can easily do that. Accordingly there are different floors in one particular events,which floor user want to choose. we provide an ease to do that.
+
+
+URl for this software is:-
+
+1. http://www.indiaexpomart.com
+Language
+:
+PHP, HTML,AJAX and Java Script.
+
+Tools
+
+:
+Dreamweaver 2004.
+
+Editor              :           EditPlus.
+
+Server
+           :           Apache.
+
+Environment
+:
+Windows2000 Professional.
+
+Role
+
+: 
+Working on Two modules Advertisement and Trade Fair
+
+There are around 14 modules in this software.
+
+     10.
+Project March InfoTech Portal
+This is basically a portal of our company. This includes Various types of products we are working on.  This contain various sections including Services and Technologies we are working on and the services provided by March InfoTech.
+
+URL for this Software is:-
+
+1. http://www.marchinfotech.com
+Apart from that I worked on various desktop application used by March InfoTech in php.
+
+Language
+  :
+PHP, HTML and Java Script.
+
+Tools
+
+  :
+Dreamweaver 2004.
+
+Editor                :         EditPlus.
+
+Server
+             :
+Apache.
+
+Environment
+  :
+Windows2000 Professional.
+
+Role
+
+  : 
+Work on one module
+Personal Details
+
+Father’s Name
+
+:  Mr H.P.Rastogi
+Date of Birth
+
+: 31st Dec, 1981
+Permanent Address
+: C-1/135, Sector-G, Jankipuram
+
+
+
+
+Lucknow – 226021
+Sex
+
+
+: Male
+
+Marital Status
+
+: Married
+
+Nationality
+
+: Indian
+
+

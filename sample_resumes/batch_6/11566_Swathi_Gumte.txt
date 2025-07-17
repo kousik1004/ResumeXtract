@@ -1,0 +1,331 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Swathi Gumte                        email: swathi.m.gumte@gmail.com                                                                           Mobile no: 9742681701
+Summary  
+· 6+ years of experience in the IT field as BI - DWH Developer in which 6.5 years in Qlikview
+· Successfully developed and implemented Projects for different clients using QlikView (11 &12)
+
+· Extensive experience in end to end BI Implementation using QlikView
+· Involved in Requirement gathering process 
+
+· Experience in Deploying the QlikView application in server and distributing the QVW files to the Authorized users
+· Worked on Qlikview Extension objects through D3.js (java script)
+· Experience on Qliksense
+· Worked on qlik nprinting to create, schedule and distribute reports in Excel formats
+· Involved in creating Complex reports and dashboards in user friendly way to the end users
+
+· Good knowledge on Performance tuning of QV Applications
+· Extensive experience in SQL-Database SQL Server 2003
+
+· Involved in the process of creating Technical Documents such as Report Specification template and User guide
+
+· Provide periodic training to clients and Internal Team on QlikView
+· Ability to communicate in a clear, customer-friendly manner to all levels of an organization to present findings and recommendations to team members and senior management.
+
+Technical Skills
+
+Programing language  : C, C++, Java Basic, SQL, PL SQL, Visual Basic
+
+Database                       : SQL Server 2008, Oracle 10g, MS Access, Teradata
+
+ETL Tool                        : Informatica 9.0.1, SSRS
+
+Reporting Tool              : Qlikview 10,11 & 12, Qliksense,Tableau, Cognos
+
+Professional Summary
+· Currently working in Amplelogic as Senior Associate from  Nov 2017 to till date
+· Worked in LnT Infotech as Senior software Engineer from June 2014 to Dec 2016
+· Worked in Wipro technologies as Software Engineer from April 2011 to May 2014
+
+Educational Qualification
+
+      Bachelor of Engineering (Computer science) from VTU 
+Project Details    
+Project 1
+
+	Project Name
+	WBFS_ASE
+	Team Size
+	6
+
+	Start Date
+	Nov-2017
+	End Date
+	Till Date
+
+	Description
+	ASE Technology Holding is the leading provider of semiconductor manufacturing services in assembly and test. The Company develops and offers complete turnkey solutions covering front-end engineering test, wafer probing and final test, as well as IC packaging, materials and electronic manufacturing services through USI with superior technologies, breakthrough innovations, and advanced development programs.
+Reporting applications mainly focuses on the revenue figures with sales forecast and sales plan for the current and next years.
+
+	Role & Contribution
+	· Creating Reports which replicates the existing Excel format and Access Database with adding features of qlikview.
+· Using Stored procedures to achieve the particular required tabular formats in qlikview
+· Creating Nprinting Reports with Filters, Scheduling and distributing it through nprinting Server.
+
+· Running the jobs for qlikview data refresh through external triggers SSIS tool
+
+· Performance tuning of qlikview applications.
+
+· Creating the Dashboard in Qliksense with advanced visualization and attempting for Mashups and other features available.
+
+
+
+	Technologies
+	· QlikView 11.2
+· MySQL Server 
+· SSIS
+· Qliksense
+
+· Nprinting
+
+
+
+Project 2
+	Project Name
+	BIBI Info D (Travelers)
+	Team Size
+	9
+
+	Start Date
+	18-jun 2015
+	End Date
+	Till Date
+
+	Description
+	The Travelers companies is an American insurance company. It is the second largest writer of U.S. Commercial property casualty insurance and the third largest writer of U.S. personal insurance through independent agents.
+
+
+
+	Role & Contribution
+	· Client Interaction, Independently and individually involved in end to end development of dashboard from requirement gathering to delivery.
+
+· Data extraction from SQL Server and Teradata and load data into QVDs.
+
+· Worked on Extension objects through D3.js (java script)
+
+· Slight exposure to nprinting.
+
+· Performance tuning of qlikview applications.
+
+· Perform Unit testing and script review.
+
+· Created test documents with the reference as cognos report
+
+Studio.
+
+
+
+	Technologies
+	· QlikView 11
+
+· MySQL Server 
+
+· Cognos
+
+· Teradata
+
+
+
+
+Project 3
+	Project Name
+	Rapid BI (Travelers)
+	Team Size
+	2
+
+	Start Date
+	25-Oct 2014
+	End Date
+	20-May 2015
+
+	Description
+	The Travelers companies is an American insurance company. It is the second largest writer of U.S. Commercial property casualty insurance and the third largest writer of U.S. personal insurance through independent agents.
+
+Worked on operational side to do analysis on various KPIs and automating the manual process by converting it into  Qlikview 
+
+
+
+	Role & Contribution
+	· Client Interaction, Understanding and executing existing process and analyzing to convert it in qlikview in more efficient and automated way.
+
+· Independently developed Data Model.
+
+· Data extraction from SQL Server and load data into QVDs.
+
+· Performance tuning of qlikview applications.
+
+· Developing application in automated way starting from execution till distribution without any manual intervention
+
+· Scheduling applications through windows Scheduler
+
+· Perform Unit testing and script review.
+
+
+
+	Technologies
+	· QlikView 11
+
+· MySQL Server 
+
+· Cognos
+
+· MS Access 
+
+
+
+
+Project 4
+	Project Name
+	MHEPL-INDIA 
+	Team Size
+	5
+
+	Start Date
+	25-Feb 2013
+	End Date
+	30-May 2014
+
+	Description
+	MHEPL (Manipal Health Enterprises Pvt. Ltd.) is leading Health Enterprises in India. Wipro is supposed to give complete BI solution to MHEPL So that they can optimize the use of their resources.
+
+
+
+	Role & Contribution
+	· Experience in retrieving of external data (Shared path, Network drive, SQL etc.) to QlikView Dashboard in terms of QVDs by making connection through ODBC and OLEDB.
+
+· Used different Types of joins to join data from different tables.
+
+· Designed and developed extensive reports using combination of chart and tables.
+
+· Used   extensive set analysis to analyze data over time, Used MTD, YTD, WTD.
+
+· Worked on the Budgeted files (excels) to obtain the optimum budget values.
+
+· Implemented Incremental Load
+
+· Used the Apply map () function to get the data from one table to another table by mapping.
+
+· Worked to provide several level of security using Section Access.
+
+· Involved in Dashboards development & Unit testing, requirement Analysis & Design.
+
+· Scheduling the Task.
+
+· Deploying and publishing QlikView applications on server.
+
+
+
+	Technologies
+	· QlikView 11
+
+· MySQL Server 2008 R2
+
+· SSRS
+
+
+
+
+Project 5
+	Project Name
+	HP QLIKVIEW
+	Team Size
+	5
+
+	Start Date
+	21-Apr-2012
+	End Date
+	22-Jan-2013
+
+	Description
+	This Project explores the components and considerations that inform the HP Managed Print Services (MPS) methodology. The overall project approach is to get the right number and types of devices in the right locations to address user needs.
+
+	Role & Contribution
+	· Created Dashboards style of reports using QlikView components like List Box, Slider,
+
+· Developed Variables, Input boxes, calendar etc. 
+
+· Involved in data modeling.
+
+·  Developed Linked Tables, Concatenation and solved the loops issues. 
+
+· Extensively worked on creating Adhoc Reports.
+
+· Designed and developed extensive Functions and reports using combination of chart and tables.
+
+
+
+	Technologies
+	· QlikView 11
+
+· MySQL Server 2008 R2
+
+
+
+
+Project 6
+	Project Name
+	Harman
+	Team Size
+	3
+
+	Start Date
+	15-Nov-2011
+	End Date
+	25-Mar-2012
+
+	Description
+	Harman is a leading global provider of premium audio and infotainment solutions, engaging customers around the home, in the car and on the go. The dashboard displayed the various KPIs and had a clear judgment on amount spent on various scenarios i.e., actual, budget, previous year and forecast on various leading automobile companies across regions, time periods, divisions thereby leveraging information for a complete view of the business.
+
+	Role & Contribution
+	· Developed an Interactive Dashboard Solution with multiple charts with ad hoc chart and statistics KPI's with drill down capability which will help the business user to analyze the data thoroughly.
+
+
+
+	Technologies
+	· QlikView 11
+
+
+
+

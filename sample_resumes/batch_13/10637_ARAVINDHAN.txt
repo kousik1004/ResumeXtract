@@ -1,0 +1,348 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ARAVINDHAN.S 
+                                                        Email id :praveenaravind91@gmail.com 
+                                                        Mobile No : +91-9597137475 
+   
+
+ 
+
+ 
+
+Objective: 
+
+ 
+
+I would like to be in an environment where I can work with the best talents in the areas of Software Testing and 
+
+Quality Assurance, where every assignment would be a challenging and rewarding experience.  
+
+ 
+
+ 
+
+Experience Summary:  
+ 
+
+ Working as a Software Test Engineer in Camberwell Technologies ,  Chennai  From Aug’ 2015 
+To Till Date  
+
+ 
+
+Professional Summary:  
+
+ Having 2.7 Years of Experience in Software Manual Testing 
+
+ Good in Testing Technology Such as Black Box Testing 
+
+ Involved entire process of Functional Testing 
+
+ Proficient in Manual Testing, Bug Tracking System  and Issues handling 
+
+ Involved in  Functional Testing, Regression Testing, Integration Testing and System Integration Testing 
+
+ Have very good experience in Test Cases, Execution of Test Cases and Defect tracking 
+
+ Reporting software bugs Using Defect Tracking Tool 
+
+ Involved on the Domain of Finance, ERP (Enterprise Resource Planning) and Banking  
+
+ Involved in different Phases of Software Testing Life Cycle (STLC) 
+
+ Having Database Testing experience on MySQL 
+
+ Basic Knowledge of QTP Automation Tool 
+
+ Having  Experience  in Bug Tracking Tool Quality Centre 9.0 and Mantis 
+
+ Good interpersonal skills, commitment, result oriented, hard working with a quest and zeal to learn new 
+
+technologies and undertake challenging task 
+
+ 
+
+Academic Qualification:  
+
+ 
+
+ B.E(EEE) in C.Abdul Hakeem College of Engineering under the affiliation of Anna University 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+
+
+ 
+
+Technical Skills: 
+
+  
+
+      Automation Tools             :         QTP 10.0  
+Bug Tracking Tools       :    Quality Centre 9.0, Bugzilla, Mantis 
+
+ Databases   : MySql, Microsoft SQL Server  
+
+ Operating System  : MS-Windows XP/7/8.1 
+
+ 
+
+Project Profile:  
+
+Project 1: 
+ 
+
+Project Name  :  E- Banking Application 
+Technologies              :  ASP .Net  With  C#,  SQL Server 2008 
+Domain  : Banking Domain  
+
+Team Size  : 7 
+
+Role :  Software Test Engineer 
+
+  
+
+ 
+
+ 
+
+Project Description:  
+
+The main objective of this project is to combine Banking, Insurance and Capital market into single application, where as 
+
+banking plays a vital role. It includes Loan origination, Online Banking and Broker Commission. I am working for online 
+
+banking. This software supports customer to apply for Mobile Banking, debit card, fund transfer and users can view their 
+
+statements. 
+
+The main aim of online banking is to provide online banking services to the banking customers. It involves 
+
+various level of interaction between the Bank and its customers and provide the customers of the bank with necessary 
+
+interface to avail banking facilities on net. The network allows banks and banking customers to transfer funds 
+
+electronically. The system is secure, private network that connects Bank to another by the way of the operators, which 
+
+enables electronic payments such as automatic debits and credits.  
+
+Responsibilities: 
+
+ 
+
+ Understanding on Business requirements, analyzing the business need 
+ Understanding the Test Plan.  
+ Identifying the Test Scenarios. 
+ Writing Test Cases according to the Functional Specifications.  
+ Preparing the Test Data for the Test Cases and Executing the GUI Test Cases and Identifying the Bugs.  
+ Reporting the Bugs and Tracking the Bugs and Closing the Bugs 
+ Interact with Team Leader about the Confirmation for the Test Cases and Test Data and Make 
+
+Conclusion.  
+
+ 
+
+Project 2: 
+ 
+
+              Project Name  :  Budget Tracker 
+              Technolgies                            : Java, J2EE with MySQL 
+
+              Domain                             :  Finance  
+              Team Size                            : 7 
+
+              Role                            :  Software Test Engineer 
+
+
+
+ 
+
+  
+
+Project Description:  
+
+ This Finance management software is used to manage information about personal financial activities between a 
+
+person or organization to the other person. The scope of this project is to maintain the financial transaction details of the 
+
+company. User cannot do any real time transaction here. Users can make their transaction virtually for their payees based 
+
+on categories. Accounts can be created with the help of bank; this application supports more than hundred banks. User 
+
+will register the bank account number and details in the software and create a new account for the company. User can 
+
+schedule their payments at correct time and all types of reports are generated. 
+
+ 
+
+Roles and Responsibilities: 
+
+ 
+ Analyzing the business requirements 
+ Understanding the Test Plan.  
+ Writing Test Cases according to the Functional Specifications.  
+ Executing Test Cases to validate the Functionality  
+ Involved in GUI,Functionality, Integration Testing, Retesting & Regression Testing 
+ Preparation of Defect report using Defect Tracking Tool 
+ Reporting the Bugs to the Development Team Members and track the bug fixing. 
+ Make the Conclusion for the Modules Details and reporting to the TL about the status of the application. 
+
+ 
+
+ 
+
+Project 3: 
+
+ 
+
+Project Name :  Hospitalization Mangement Application 
+             Technologies                           :            ASP .Net, C# and SQL Server 2008 
+
+Domain                                       :            ERP Domain  
+
+             Team Size                            :            10 
+
+             Role                            :            Software Test Engineer 
+
+ 
+
+ 
+
+Project Description:  
+
+The main scope of the hospital management system is to integrate different domain into a single system within the 
+
+hospital. It integrates departments such as Accounts, Human Resources, Doctors, Patient, and Inventory. It includes 
+
+registration of patients, storing the details into the system and also computerized billing in the pharmacy and labs. Our 
+
+software has facility to give a unique id for every patient and stores the details of each patient and staff automatically. It 
+
+includes a search facility to know the current status of each room. User can search availability of doctor and the details of 
+
+a patient using the id. The hospital management system can be entered using a username and password. It is accessible 
+
+either by administrator or receptionist. Only they can add the data into the database. The data can be retrieved easily. The 
+
+interface is very user friendly data as well as protected for personal use and the data processing very fastly. 
+
+ 
+
+Roles and Responsibilities: 
+
+  
+ Analyzing the business requirements 
+ Understanding the Test Plan.  
+ Writing Test Cases according to the Functional Specifications.  
+ Executing Test Cases to validate the Functionality  
+ Involved in GUI,Functionality, Integration Testing, Retesting & Regression Testing 
+ Preparation of Defect report using Defect Tracking Tool 
+ Reporting the Bugs to the Development Team Members and track the bug fixing. 
+ Make the Conclusion for the Modules Details and reporting to the TL about the status of the application. 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Personal Information: 
+
+ 
+
+Current Designation   : Software Test Engineer 
+
+ 
+
+Date of Birth    :  31/05/1991 
+ 
+
+Marital Status     : Single 
+
+ 
+
+Languages Known   : English, Tamil  
+
+ 
+
+ 
+
+Present address :  No.36 Rameswaram St., T. Nagar Chennai-17 
+       
+
+ 
+
+ 
+
+Declaration: 
+
+ 
+
+ 
+
+ 
+                  I hereby declare that the above information's are true and correct to the best of my knowledge and belief.  
+
+ 
+
+ 
+
+ 
+
+Date :  
+
+Place    :    Chennai                                         Yours Faithfully,  
+  
+
+                                                                                                                                   
+
+                                                                                                                                     ARAVINDHAN.S 
+ 
+
+
+	Technical Skills:
+	Project Profile:
+	Responsibilities:
+

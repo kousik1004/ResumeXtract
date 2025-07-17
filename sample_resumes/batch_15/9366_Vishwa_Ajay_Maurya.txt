@@ -1,0 +1,279 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vishwa Ajay Maurya
+
+Vishwa Ajay Maurya
+G-1506, Prateek Laurel, Sector-120, Noida| vishwaajaym@gmail.com| +91 9555307352
+	Accolades
+Employee of the month 3 times (Apr 2012, Jan 2013, Sep 2014).
+
+	
+	· 8+ years of experience in Design, Build & Implementation of software solutions 
+
+· Problem solving skills
+
+· Experience in working on Informatica Product 360 (PIM), JDO framework, Hibernate, JMX, CORE JAVA, REST, BPMN tool, Distributed systems.
+
+
+	
+	
+	IT Experience
+
+	
+	
+	• Adeptia India Pvt. Ltd.  (Noida)
+
+• Salmon Commerce Ltd. (Noida)
+
+	Sr. Software Developer July 2010 – July 2016
+Associate Consultant July 2016 - Present
+
+
+	
+	
+	IT Skills
+
+	
+	
+	Web Technologies
+	HTML, JavaScript, XML, JSP, Servlet
+
+	
+	
+	Programming Languages
+	Core Java, J2EE
+
+	
+	
+	Framework
+	JDO, SPRING, HIBERNATE, REST, Multi-Threading, Collections
+
+	
+	
+	Others
+
+Tools
+	JIRA, Jvisualvm, JProfiler, Yourkit, Plumbr
+
+Informatica Product 360 (8.0.6), Adeptia Suite version (5.3-6.3)
+
+	
+	
+
+	
+	
+
+	
+	
+	Work Profile
+
+Current Company:
+· Leading the project, involve in the solution design and implementation using Informatica Product 360 (PIM).
+· Integration of Informatica Product 360 (PIM) with other Informatica modules like Media Manager, Audit Trail, Supplier Portal.
+· Developed custom solution over Informatica Product 360 (PIM) to meet customer requirements.
+Previous company:
+
+	
+	
+	· Primarily worked to develop solutions based on Cluster system (Distributed Systems), Queue Processor in Java
+
+· Analyze business requirements and provide solutions using the product.
+
+· Creation of  adequate & effective designs and prepare functional, technical and other design specification documents for large and complex development and implementation efforts
+· Created BPMN tool.
+· Worked on Quartz API to provide events support (Scheduling) in the product.
+· Experience in training Adeptia ETL to clients.
+· Worked with Agile process.
+
+	
+	
+	Accomplishments
+
+	
+	
+	· Successful delivered both phases for PPG to live in estimated time.
+· Developed and implemented Cluster, Queue Processor into the product.
+
+
+	
+	
+	Education Summary
+
+	
+	
+	• Bachelor of Technology (CS) – (2006-2010)
+From United College of Engg. & Research (UPTU, Uttar Pradesh)
+
+
+
+Projects Summary
+	Project Title
+	PPG (Aug 2016- July 2018)
+	Informatica Product 360 (8.0.6)
+
+	Responsibilities
+	Engagement in Solution Design and implementation using Informatica Product 360 for managing product and item enrichment process.
+
+	Role
+
+Description
+Project Title
+Description
+
+Role
+
+Project Title
+
+Description
+
+Role
+	Associate Consultant, Lead Developer
+
+PPG Industries, Inc. is an American Fortune 500 company and global supplier of paints, coatings, and specialty materials. They are using Informatica for managing the enrichment process of their products for European market.: 
+·     Worked on most of the modules of Informatica Product 360
+· Media Manager
+· Product 360
+· Audit Trail
+· Informatica DQ
+· Clusterix
+
+· Repository
+
+·   Data Modeling  
+·   Customization done for Command framework, Pre and Post import steps, Post export steps, custom functions for Imports and Exports and custom jobs.
+·    Import Mapping and hotfolder configuration
+·     Export template
+·     Dynamic tasks.
+·     Workflow design for Medias.
+·     ACL Implementation for Medias
+·     Worked with all the modules of media manager
+· Hotfolder
+· Pipeline
+· Workflow
+· XML Connector
+· Medias
+· Administer
+Harrods (Feb 2018 - Present)
+Harrods (https://www.harrods.com)  is a luxury department store. They are using Informatica for maintaining their products. We are migrating their current setup to current version with Informatica members and change their previous Architecture.
+Lead Developer
+
+Involve in writing multiple export s and creating DQ rules.
+· Exports
+
+· HTML Preview template
+
+· Data Quality
+PVH (Dec 2017 - Present)
+PVH (http://www.pvh.com/) leverages a diversified portfolio of brands — including Calvin Klein, Tommy Hilfiger, Van Heusen, IZOD, ARROW and Olga — and markets them globally. They are using Informatica for maintaining Tommy Hilfiger and Calvin Klein data for whole Europe.
+Lead Developer
+
+Involved in writing multiple exports and imports 
+
+· Exports
+
+· Imports mapping configuration
+
+
+
+
+	Project Title
+	Adeptia Suite
+	(JMX, RMI, Java, Multi-Threading)
+
+	Responsibilities
+	Engagement in Design and implementation Cluster, Queue processor, Rich forms related enhancements and bugs in the Adeptia Suite.
+
+	Description
+	Adeptia BPM Suite is a web-based Business Process Management solution that is designed to MODEL, AUTOMATE AND MONITOR business processes. This is a complete BPM solution that an organization will install on an internal server and users access it simply via a web browser. It is managed and maintained by the customer organization. 
+
+Adeptia BPM Suite helps companies and organizations to design, automate and improve workflows and thereby drive efficiencies. It offers a powerful business tool for business analysts and managers to document, control and monitor critical processes and then improve them. It also offers IT staff an easy and simple way to deliver highly complex process management for changing business needs. It is a fully capable BPM solution that offers the following capabilities: 
+·     Web-based product that just needs a web browser to use. No need to install software on your computers. Managers, Business Analysts and Process Participants all access the solution through their browsers.
+·     Process Modeling to allow process analysts to easily and quickly document business processes in a collaborative way. Process models are exported into PDF format for distribution, approvals and archiving.
+·     Process Simulation to calculate costs and timing parameters of current and to-be processes. See effects of changes to the process and resources.
+·     Automate Workflows to ensure your business processes are being executed in a consistent way all the time.
+·     Notify Process Participants automatically when tasks are assigned or due and allow them to manage and work those tasks.
+·      Rich and Dynamic Forms to show pertinent information in workflow tasks.
+·      Very rich and capable application integration capability that is not even matched by dedicated integration middleware products.
+
+
+
+	Project Title
+	Adeptia Connect
+	(CORE JAVA, HIBERNARTE, REST)
+
+	Responsibilities
+	Engagement in Design and implementation of Runtime flow, showing execution view details.
+
+	Description
+	Adeptia Connect is a web-based solution which allows companies to communicate with each other with easy data transfer in their respective format. It is as simple as a non-technical person (non-IT) could use it easily. It is designed keeping in mind the requirement of business users.
+·     Web-based product that just needs a web browser to use. No need to install software on your computers. Managers, Business Analysts and Process Participants all access the solution through their browsers.
+·     Automate Workflows to ensure your business processes are being executed in a consistent way all the time.
+·      Very rich and capable application integration capability that is not even matched by dedicated integration middleware products.
+
+
+
+Personal Details:
+· Father’s Name
+: Shri Surendra Maurya
+· DOB
+
+: 01/05/1988
+
+· Marital Status
+: Married
+· Language known 
+: English, Hindi.
+· Hobbies 
+
+: Table Tennis

@@ -1,0 +1,537 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manish Kumar Sharma
+
+Dinesh Vaza
+
+dinesh.vaza@gmail.com    
+
+	Dinesh Vaza
+
+Mob. No: (+91) 9924821524
+
+ dinesh.vaza@gmail.com
+dineshddit@gmail.com
+
+
+	
+
+
+	OBJECTIVE
+
+	To become a part of an organization, that provides a high quality of work, life through challenging opportunities and to serve organization as best as possible.
+
+
+	PROFESSIONAL SUMMARY
+
+· Around 5 years of experience in IT industry working on Microsoft.Net Tools & Technologies.
+
+· Hands on experience on in backend development using SQL Server, Oracle10g
+
+      Exposure to product and project environments as Senior Software Engineer.
+
+· Proven ability to work efficiently in both independent and team environment.
+
+· A quick learner able to grasp concepts and technical skills.
+
+
+
+	Technical skills
+
+Platforms
+
+WIN NT/2000/XP/2003 server
+
+Application Servers 
+
+IIS 
+
+Database
+
+SQL Sever 2005, SQL Sever 2000, Oracle10g
+
+Languages
+
+Asp.net with C#/VB
+Scripts
+
+JavaScript, Ajax, J-Query
+
+Development Tools
+
+Asp.net 3.5, Asp.net 2.0, Asp.net 1.0
+
+SAP Integration with .net, Visual Source safe, 
+
+Web service, window service etc.
+
+
+
+	Educational Summary
+
+· 60.16% - B.E.C.E – 2006 DDIT College Nadiad (Dharamsinh Desai University).
+
+· 76% - H.S.C   - 2002   
+
+· 68% - S.S.C  – 2000
+
+
+
+ICubix InfoTech Ltd, Ahmedabad                              May 2008 – Till date
+
+Sr. Programmer
+
+	Project
+	
+	Cash Flow Application
+
+	Client
+	
+	Clarislifesciences Ltd.
+
+	Duration
+	
+	Feb 2010 – Till date
+
+	Team Size
+	
+	3
+
+	Environment
+	
+	Asp.net 3.5 with vb, LINQ, JavaScript, Oracle, Integrated SAP Web service, Sap Integration with BAPI, Ajax Component, Crystal report etc
+
+	Brief Description
+	
+	This application is mainly concerned with finance flow management in the company.
+
+
+
+	
+	
+	Normal user: User has the facility to fill up the Payment Requisition, Loan Requisition, PL Encashment Requisition, View & Edit requisition details etc.
+
+Auditor: All Requisitions are audited by the Auditors. Auditors further send it to finance users. It includes functionality like Delete/Edit requisition, Bank balance Details, reports etc.
+
+Finance User: After approval by Auditor, all requisitions are displayed to finance users. The Finance User will decide the bank & amount. It also has the facility to edit/delete/approve the requisition, Budget planning for Month/Year according to each head, Aging report, Partial Payment, generation of export report in excel/word etc. 
+
+Account: After approval from finance user the Accountant gets all requisitions and prepares the cheque. The software also has the facility to generate the reports.
+
+Admin: It allows Administrator to manage all entities in the Application like adding/updating Users' profile details. It also helps in generating different reports like finance reports, aging reports, Graph for each month, import/export amount, Budget bypass for requisition etc.
+
+New Working Functionality: Cash vouchers, travel expense, pie-chart graph, aging reports etc.
+
+	Designation
+	
+	Sr. Programmer
+
+	Role
+	
+	Programmer, Analyst
+
+	Responsibilities
+	
+	- Understanding the business flow of the application. 
+
+- Involved in requirement analysis by communication with end users. Designing, coding the application using standard techniques.
+
+
+	Project
+	
+	Myclaris Application (Intranet)
+
+	Client
+	
+	Clarislifesciences Ltd.
+
+	Duration
+	
+	Oct 2008– Feb 2010
+
+	Team Size
+	
+	3
+
+	Environment
+	
+	ASP.Net 2.0 with VB, web service, Oracle, JavaScript, Sap Integration with BAPI,  
+
+Ajax Component, window Application (Task Scheduler)
+
+	Brief Description
+	
+	This project involved designing, creating & maintaining complete secure Intranet System. 
+
+	
+	
+	Leave/on Duty Requisition: It included all leave related functionality like Leave requisition, Leave balance, Leave Approval through Superior & HOD etc.
+
+Attendance/ Salary Slip Application: User had the facility to view attendance, download the salary slip etc.
+
+Announcement/Notice: Any new article can be uploaded through announcements/notices.
+
+My Information: It involved online display of details of the individual, Loan Details/Salary Advance details, leave information, tax calculator, PL & Gratuity Calculator etc.
+
+Celebration: Updates in this section involved Achievements, New Joinee details, B'day wishes, Congratulatory messages for any achievements, Welcome of New Joinees, Wedding Wishes, Baby Born Wishes etc.
+
+Orange Book: The applications that acted like a search engine and gave the details/profile of the user, one is searching for. 
+
+Testimonial: Feedback Application on any article uploaded on intranet.
+
+Mdaemon mail server: This application included auto-generation of password expiration notice, user name & password authentication, auto generation of mails etc.
+
+Admin: It allowed Administrator to manage all entities in the website like adding/updating users' profile details. It also helped in generating different reports like hit counts etc. Admin helped in deciding the respective section & placement of the article.
+
+
+
+	
+	
+	
+
+	Designation
+	
+	Sr. Programmer
+
+	Role
+	
+	Programmer, Analyst.
+
+	Responsibilities
+	
+	Understanding the business flow of the application
+
+Involved in requirement analysis by communication with end users
+
+Designing the application using standard techniques,
+
+Coding by following defined standards
+
+Database designing and maintenance
+
+
+
+
+	Project
+	
+	Task Manager - Management System
+
+	Client
+	
+	Clarislifesciences Ltd.
+
+	Duration
+	
+	May 2008 – Oct 2008
+
+	Team Size
+	
+	2
+
+	Environment
+	
+	ASP.Net 2.0 with VB, Oracle, JavaScript, Also using Ajax Component.
+
+	Brief Description
+	
+	The objective of the project was designing and building complete, secure web management system. All the details of superiors, employees and Administrator were maintained in the site. Users were able to search different tasks according to search criteria. Administrator was able to add, edit, update or delete the user details. Administrator was also able to generate different types of reports and print the details.
+
+	
+	
+	Administrator: This application allowed administrator to manage all entities in the website like adding/updating and users profile details. It also helped in generating different reports. 
+
+Users(Superiors/Employees): Superiors had the facility to create customisable profile and assign tasks to their employees.  It also helped in creating the resources for the different projects.
+
+
+
+	
+	
+	
+
+	Designation
+	
+	Programmer
+
+	Role
+	
+	Programmer, Analyst.
+
+	Responsibilities
+	
+	- Understanding the business flow of the application.
+
+- Involved in requirement analysis by communication with end users.
+
+- Designing, Coding using standard techniques.
+
+
+Effective Outsourcing Pvt. Ltd., Ahmedabad                   May-2007 – May 2008
+
+Software engineer
+
+	Project
+	
+	http://www.tattva.co.in/
+
+	Client
+	
+	Line Works Consultancy Services
+
+	Duration
+	
+	Nov 2007 – May 2008
+
+	Team Size
+	
+	3
+
+	Environment
+	
+	ASP.Net 2.0 with C#, SQL Server 2005, JavaScript, Also using Ajax Component.
+
+	Brief Description
+	
+	This project involved designing and building complete, secure, flexible and elegant web based art gallery website. All the details of artists, art lovers and administrator were maintained in the site. Users were able to search different artworks according to search criteria. If any user wanted to purchase artworks then a buy request was sent to administrator. It also had the facility for artists & art lovers to create customisable profiles and post their artworks. Administrator was able to add, edit, update or delete the user details. Administrator was able to even generate different types of reports and print the details.
+
+	
+	
+	Administrator : This application helped administrator to manage all entities in the website like update users profile details, create/modify subscription plan details, artworks details, rate,  comments, change the price details etc. Administrator was also able create the dynamic tab contents in the website. Multiple mails sending facility was also designed which included automatic alert messages by the system. 
+
+Artists & Art lovers: Artists & Art lovers had the facility to create customisable profile and post their artworks and biography details.
+
+This facility included: (1) Preferences (2) My favourites list (3) My tell friend list (4) Messaging Details (5) Upload new artwork (6) My artworks list (7) Edit biography (8) Renew the subscription plan.
+
+	
+	
+	
+
+	Designation
+	
+	Sr. Software Engineer
+
+	Role
+	
+	Sr. Programmer, Analyst
+
+	Responsibilities
+	
+	- Understanding the business flow of the application.
+
+- Involved in requirement analysis by communication with end users.
+
+- Designing the application using standard techniques
+
+- Coding by following defined standards.
+
+- Reviewing the work of peers
+
+- Database designing and maintenance
+
+- At the time situation demanded. Leading the team 
+
+- Handling the website hosting.
+
+	
+	
+	
+
+	Project
+	
+	Information Management System.
+
+	Client
+	
+	In House product
+
+	Duration
+	
+	June 2007 - Oct 2007
+
+	Team Size
+	
+	3
+
+	Environment
+	
+	Asp.net 2.0 with C#, SQL server 2000.
+
+	Brief Description
+	
+	This was an intranet application; a Complete back process for storing details of client orders; it was implemented using various reporting tools. It was designed for managers so that they can maintain information of the employees. The users customised the employee profiles as per requirements; system allowed defining the rights of HR, IT Administrator etc. 
+
+Following were some of the features of the system:
+
+Timesheet management for the employees
+
+Reports
+
+Multicast messages/ Announcements
+
+Reporting officer approvals
+
+Project team management
+
+Campaign management
+
+Leave management
+
+Facility to conduct internal exams
+
+	
+	
+	
+
+	Designation
+	
+	Sr. Software Engineer
+
+	Role
+	
+	Programmer
+
+	Responsibility
+	
+	Understanding the business flow of the application- Involved in requirement analysis by communication with end users. 
+
+Designing the application using standard techniques.
+
+Coding by following defined standards.
+
+Reviewing the work of peers.
+
+Database designing and maintenance.
+
+
+
+
+Aditech Infosysis  pvt. Ltd., Ahmedabad
+
+
+June 2006 To May 2007
+
+Software Engineer 
+
+	Project
+	
+	http://61.17.38.191/ResumeSponge/Index.aspx
+
+	Client
+	
+	Resume Sponge
+
+	Duration
+	
+	Oct 2006 - may 2007
+
+	Team Size
+	
+	5
+
+	Environment
+	
+	Asp.net 2.0 with C#, Java Script, SQL server 2005.
+
+	Brief Description
+	
+	This is online job board website will provide allowed Job-Seekers to create customisable profiles and post resume, a picture, Personal videos and other information to the site.  Additionally, Job-Seekers will have the facility of performing online interviews with Employers. Job-Seekers will be able to search for currently active employment positions. Employers will be able to create a profile with their Logo and provide information about their company.  Employers will be also able to search the appropriate candidates for employment, displaying information from the resumes posted by Job-Seekers. 
+
+	
+	
+	
+
+	Role
+	
+	Software Engineer
+
+	Responsibility
+	
+	Coding, understating work and implement as per requirements.
+
+
+	Project
+	
+	http://www.adi.net.in/clarion/index.aspx
+
+	Client
+	
+	TAFE Metal Steel for Inventory Control System.
+
+	Duration
+	
+	 August 2006 - Oct 2006
+
+	Team Size
+	
+	4
+
+	Environment
+	
+	Asp.net 2.0 with C#, SQL server 2000
+
+	Brief Description
+	
+	This application mainly concern with import/export of raw material business. It included complete back process system for our client order details and all details of reporting tools are available in this application. 
+
+	
+	
+	
+
+	Role
+	
+	Junior Software Engineer
+
+
+Date 
+
+
+
+
+
+
+
+Signature   
+Dinesh Vaza                                                                                                  dinesh.vaza@gmail.com
+
+

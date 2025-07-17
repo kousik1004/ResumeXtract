@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mohit Shahi							                                mohitshahi2010@gmail.com
+                                                                                                                                		     +91-9742326789
+										      	     Bangalore - 560043
+											
+
+SUMMARY
+	
+· 2+ years of relevant experience in Data Warehousing using Spark and Scala and BigDataTechnologies(Hadoop, MapReduce, HDFS, Hbase, Sqoop, Hive).
+· Overall 6.7 years of experience in analyzing requirements, analysis, design and development, implementation, enhancement, maintenance and support in Big Data and enterprise application development. 
+· Good understanding of Spark Architecture including Spark Core, Spark SQL and Data Frame.
+· Experience in working with Amazon Web Services(AWS) using EC2 for computing and S3 as storage mechanism. Imported data from AWS S3 and performing transformations and actions on RDD's.
+· Expertise at designing tables in Hive and processing data like importing and exporting of databases to the HDFS.
+· Worked with Sqoop jobs with incremental load to populate Hive External tables.
+· Very good understanding of Partitions, Bucketing concepts in Hive and designed both Managed and External tables in Hive to optimize performance.
+· Good Understanding of Hadoop architecture and the daemons of Hadoop including Name-Node, Data Node and YARN.
+· Good experience in monitoring and managing the Hadoop cluster using Cloudera Manager.
+· Experience as a Java Developer in client/server technologies using Java, J2EE, Servlets, JSP, Spring, Hibernate, JDBC and SQL.
+TECHNICAL SKILLS
+
+· Big Data Ecosystem: Spark, Hadoop, MapReduce, HDFS, Hbase, Sqoop, Hive
+· Relational Database: MS SQL Server
+· Programming Language: Java, Scala
+· Development Tools: IntelliJ, Eclipse
+· Cloud: Amazon S3, Redshift, EMR, EC2
+
+PROJECTS  UNDERTAKEN 
+
+1.    Commercial Insurance Technology Business Information (CITBI) -  Data Warehouse
+Client :  Suncorp, Australia 
+Duration : From January 2017 to Present 
+Description : SUNCORP Group, Inc. through its subsidiaries is providing accident and disability insurance solutions for self-employed individuals, families, small business owners and their employees. This data warehouse is being created by Suncorp to facilitate their Data Science team to work on multiple management use cases. Data is being pulled from multiple diverse data sources (including their own Smart Button Platform and Customer Portal database) and co-located in Amazon Redshift database.
+· Pulling data from multiple sources like Amazon S3 bucket, internal SFTP Server and Oracle and put them into Staging tables in Redshift.
+· Create Spark Job to process above data(for data cleansing and transformation).
+· Creating the Dataframes on the top of the table data and load the data in the Staging tables.
+· Creating the Temprorary View on the top of the Staging tables.
+· Process the data again like joining multiple tables using SparkSQL and creating the Dimension tables and Fact tables and loading the data in these Datamart tables into Amazon Redshift.
+· Checking for the libraries in the build.sbt file required to connect with the SFTP Server, Oracle database, Configuration file, Redshift and Dataframes.
+· Using the application conf file for holding all the configuration specific information and group them set of related parameters together. This makes it easier and faster to build the application.
+· Mentioning all the loading queries in the application conf files.
+· Configuring and Managing AWS Redshift for data warehousing.
+· Configuring and Managing AWS S3 for data storage.
+· Using Scala sbt to develop Scala coded spark projects and executed using spark-submit.
+Techniques Used: Spark SQL, Amazon EMR/Redshift/S3, Spark, Scala
+
+
+
+2.    Churn Analysis
+Duration : From July 2016 to December 2016 
+Description : Finding the customers who in the near future are not going to take the service of the compay and also finding the reason. Companies like Ola, Uber doing the analysis on the daily and weekly basis while the e-commerce companies like Amazon doing on weekly or monthly basis. 
+· Using the feedbacks or ratings provided by the customer.
+· Checking for the booking for the every 3 consecutive months.
+· Taking the results for the bookings for the previous month and the current month. 
+Techniques Used : HDFS, MapReduce
+
+3.    Banking Business Unit
+Duration : From July 2016 to December 2016 
+Description : Helping the institutions to get the list of their loyal customers. Banks like Royal Bank of Scotland use this analysis.
+· Getting the customers who are defaulters and whose credit bill crosses the time limit.
+· Comparing the amount for every quarter. 
+Techniques Used : HDFS, MapReduce 
+
+4.  SiliconIndia Real Estate Company
+Client : Silicon India
+Duration : From December 2010 to January 2013
+Description : Designed full life cycle development of new web applications and modification of existing applications to add new components and features emphasizing maintainability, reliability, scalability and performance. Performed estimation and capacity planning work with the project manager and product development teams to create and implement projects. 
+· Create Programming database connectivity.
+· Designing layout and coding back-end.
+· Work  closely with operations and infrastructure to build and scale back-end services.	 
+Techniques Used : jsp, servlet, javascript, css, html, MySql, WINDOWS XP
+
+
+EMPLOYMENT
+
+Organization : WNS Global Services, Bangalore 
+Designation : Assistant Manager - Analytics
+Period : January 2014 to Present
+
+Organization : SiliconIndia, Bangalore 
+Designation : Software Engineer
+Period : December 2010 to January 2013
+
+
+EDUCATION
+
+· MCA(2007-2010) from Gobind Ballabh Pant Engineering College,Pauri-Garhwal(An Autonomous Institute of Government of Uttarakhand), Uttarakhand Technical University, Uttarakhand with 66.4%
+· M.Sc.(Mathematics) from Hemwati Nandan Bahuguna Garhwal University (A Central University), Srinagar (Garhwal), Uttarakhand
+· B.Sc.(Science) from Hemwati Nandan Bahuguna Garhwal University (A Central University), Srinagar (Garhwal), Uttarakhand
+
+
+PERSONAL
+
+· House No. 49, 3rd J Cross, B Channasandra,Kasturinagar, BANGALORE - 560043

@@ -1,0 +1,382 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM  VITAE
+
+Alok Kumar Dwivedi
+E-mail: alok.mainframe2012@gmail.com
+Mobile: +91 8095279945
+Summary
+7 + years of Experience in Mainframe Console and Batch Operations. Maintaining & supporting critical Mainframe infrastructure and Batch applications.
+Work Profile
+Batch:
+· Having 7+ Years of experience in Batch scheduling and Console monitoring.
+
+· Have been to Europe (Denmark & Hungary) to customer Datacenters for migrations/Off shoring of Projects and done outstanding transitions.
+
+· Having knowledge of Control- M Scheduling tool, ESP Scheduling tool & Zeke scheduling tool.
+· Extensive working knowledge of Operations and Production Support of Mainframe Applications.
+
+· Expertise in handling the job scheduling tool CA-7, TWS-OPC (Operations Planning and Control).
+
+· Handling and fixing hundreds job abends on a regular basis.
+
+· Performing ad-hook requests such as adding new applications/jobs to the current plan.
+
+· Modifying JCL and restart to its successful completion.
+
+· Deleting/creating dependencies among various applications as per the need.
+
+· Monitoring/Recycling Transactions, PSB's, Data Base, MQ Channels, Resolving Contention, 
+
+· Worked on ticketing tool HP Service center (PRISMA), ServiceNow and IBM Maximo.
+
+· Monitoring IMS transaction/programs/DB and taking actions like Stop, Start, Lock, Unlock, changing the class of a transaction locally and globally etc.
+
+· Have quickly acquired the additional application skills to complete the job.
+
+· Ability to train and transfer knowledge to team members and end users.
+
+· To work in a great team, sharing the spirit and knowledge of the team, motivating the team at times and getting inspired by the team other times.
+
+Console:
+· In-depth knowledge of Parallel SysPlex and its operation.
+
+· Monitoring System Automation/AOC/Netview, fixing/recycling STC's, Subsystems.
+
+· Start and Stop Subsystems/tasks/STC’s related to IMS, DB2, CICS, MQ, WebSphere etc.
+
+· Monitoring/Managing Master consoles/Extended Master Console.
+
+· Perform system shutdown/startup – IPL in a regular basis.
+
+· Loading the LPAR/Partition using HMC in Classical as well as Tree view.
+
+· Handling infrastructure critical changes such as Disaster Recovery Test for Partitions. 
+
+· Tackling device/paths/chip-ids/switches those are in undesired status.
+
+· Worked on Alerts related to Hardware like CMC, SMS (DASD, TCS, VTS, ATL) etc.
+
+· Maintaining Spool percentage, CPU utilization handling WTOR's.
+
+· Maintaining class, Initiators, Service class.
+Other Activity:
+· Incident Management: Assign and resolve incidents/calls/service-calls.
+
+· Change Management: Perform Changes/Tasks.
+
+· Worked as Shift Lead, developed Operation Procedures and imparted training sessions. 
+
+· Maintains daily logs and turnovers.
+
+· Understand and perform customers documented procedures.
+
+Technical Skills
+Languages:
+
+
+JCL, COBOL and SQL
+
+Operating System:                               Z/OS, MVS/ESA, Windows
+
+Tools:
+CA-7, TWS-OPC, AOC/Netview, HMC, Master-Console, AMON, JES2/TSO/ISPF/SDSF, Mainview, Control-M, TelNet, ESP, CA-SYSVIEW, XINFO.
+Incident Management Tool:
+HP-Service Center (Prisma), ServiceNow, Maximo
+
+DBMS:
+
+
+                IMS-DB, DB2, IDMS
+
+Transaction Processing:
+                IMS-DC, CICS
+
+HIGHLIGHTS OF CAREER HISTORY:
+                                                                  
+
+	Organization
+	Designation
+	Period
+	Location
+
+	Danske IT and Support Services India Pvt. Ltd.
+	IT Operations Centre Specialist
+	17-Apr-2017 to Till date
+	Bangalore
+
+	Mphasis Limited
+	Lead Infrastr Engineer
+	12-Dec 2016 to  07-Apr-2017
+	Bangalore
+
+	IBM India Pvt. Ltd.
+	Sr. Operations 
+Professional
+	05-Apr-2012 to 
+08-Dec- 2016
+	Noida (NCR)
+
+	Relyon Softech Ltd
+	Sr. Implementation 
+Engineer
+	02-May-2008 to 13-Oct-2010
+	Indore
+
+
+Clients and Description
+1) Organization: IBM India Pvt Ltd from Apr 2012 to Dec 2016.
+     Location: Noida (NCR) 
+
+Skill Set: 
+
+Languages
+:       JCL
+
+Utilities
+:       SDSF, TSO/ISPF, MAINVIEW, BETA-92, AOC
+
+Schedulers
+:      TWS-OPC, CA-7   
+
+Database
+:      IMS, DB2
+
+Service Management 
+:       PRISMA, Maximo & SNOW
+
+Project Description: 
+
+ ABN-AMRO Bank, XFORTIS Bank, National Netherland, Honda Motors and Tata Steel.
+ Team Members: 25
+
+ ABN AMRO is an all-round bank servicing retail, private and commercial banking clients. With a strong foundation in the Netherlands, support clients based in the Netherlands and abroad with their know-how of banking and specialist sector knowledge and a selective international network. 
+
+Responsibilities: 
+
+· Level 2+ of Production Control Activities and Support on Mainframe. 
+
+· Monitoring the Batch and console and providing Batch Support on Mainframe platform using TWS-OPC, CA-7.
+· In CA7 we do activity like force complete, restart, resubmit, cancel, JCL change etc.
+
+· Monitoring jobs in a 24/7 basis and doing activity like demand job, requirement add & post, submit time change, hold, release, late queue analysis, create dependency etc.
+
+· Resolving error like space error (SB37), deadlock error (-911 & -913) , SQL code -904 , XCOM error.
+
+· In OPC on job failures, we check OI and job log of the Job as per them we take action like (Restart from abended step, F/C, Cancel, JCL change, resolve space issue).We solve abends like SB37, sql904, sql911.sql913.
+
+· Adding application in current plan and create dependency, time dependency, adding special resource in application.
+
+· Holding application, nope the application, completing nope and hold as per request.
+
+· Informing Application support on critical job failure, assigning tickets to them and taking action as per their request.
+
+· Actions on IMS transaction like Stop, Start, Lock, Unlock, changing the class of a transaction locally and globally etc. 
+
+· Action on IMS region like stop start IMS region, checking availability of OLDS,
+
+· Vary chips/devices online or offline, Managing JES2 SPOOL resources.
+
+· Handling Pre and Post IPL Activities on all LPARs, 
+
+· Console monitoring for more than 34 LPARs and take appropriate actions on different alerts related to Tapes, CICS, IMS and SPOOL. Recycle IMS region or different subsystem through AOC.
+
+· Monitoring IMS, DB2 transactions and programs using MAINVIEW. 
+
+· Monitoring the MQ Channels and stop start MQ, ABDUMP of particular long running BMP’s and IMS regions etc.
+
+· Monitoring Calls, incident, Task on SMILE as per them we take action.
+
+· IPL through HMC, Loading sysres through HMC, doing IPL of various lpar with sysres change and without sysres change.
+
+· Handle DR backups.
+
+· As per requirement taking Dump of the subsystem.
+
+2) Organization: Mphasis Limited from Dec 2016  to Apr 2017.
+     Location: Bangalore
+
+Skill Set: 
+
+Languages
+:
+JCL
+
+Utilities
+:
+SDSF, TSO/ISPF, MAINVIEW, BETA-92, AOC
+
+Schedulers
+:         TWS-OPC, CA-7, ESP & Control M     
+
+Database
+:         IMS, DB2
+
+Service Management 
+:         Service Center
+
+Project Description:
+
+Marathon Petroleum, Phoenix Insurance, American Airlines, TOPS Market, AGCO (Batavia), Mittal Steel, Pipe Systems, Dayton, Electrolux & AC-Nielsen.
+Team Members: 15
+
+Responsibilities: 
+
+· Level 2+ of Production Control Activities and Support on Mainframe. 
+
+· Monitoring the Batch and console and providing Batch Support on Mainframe platform using TWS-OPC, CA-7, ESP & Control M.
+· In CA7 we do activity like force complete, restart from step, resubmit, cancel, JCL change etc.
+· Monitoring jobs in a 24/7 basis and doing activity like demand job, requirement add & post, submit time change, hold, release, late queue analysis, create dependency etc.
+
+· In OPC on job failures, we check OI and job log of the Job as per them we take action like (Restart from abended step, F/C, Cancel, JCL change, resolve space issue).We solve abends like SB37, U1C8, sql904, sql911.sql913.
+
+· Adding application in current plan and create dependency, time dependency, adding special resource in application.
+
+· Informing Application support on critical job failure, assigning tickets to them and taking action as per their request.
+
+· Actions on IMS transaction like Stop, Start, Lock, Unlock, changing the class of a transaction locally and globally etc. 
+
+· Vary chips/devices online or offline, Managing JES2 SPOOL resources.
+
+· Handling Pre and Post IPL Activities on all LPARs, 
+
+· Console monitoring for more than 15 LPARs and take appropriate actions on different alerts related to Tapes, CICS, IMS and SPOOL. Recycle IMS region or different subsystem through AOC.
+
+· Monitoring IMS, DB2 transactions and programs using MAINVIEW. 
+
+· Monitoring the MQ Channels and stop start MQ, ABDUMP of particular long running BMP’s and IMS regions etc.
+
+· Monitoring Calls, incident, Task on SMILE as per them we take action.
+
+· IPL through HMC, Loading sysres through HMC, doing IPL of various LPARs with sysres change and without sysres change.
+3) Organization: Danske IT and Support Services India Pvt. Ltd. from Apr 2017 to till date.
+     Location: Bangalore
+Skill Set: 
+
+Languages
+:       JCL
+
+Utilities
+:       CA-SYSVIEW, TSO/ISPF, MAINVIEW, TILA, AOC, HMC, SAVERS
+Schedulers
+:      TWS-OPC 
+
+Database
+:      DB2
+
+Service Management 
+:       SNOW
+
+              Project Description:
+
+· Level 2+ of Production Control Activities and Support on Mainframe. 
+
+· Monitoring the Batch and console and providing Batch Support on Mainframe platform using TWS-OPC.
+
+· In CA7 we do activity like force complete, restart from step, resubmit, cancel, JCL change etc.
+
+· Monitoring jobs in a 24/7 basis and doing activity like demand job, requirement add & post, submit time change, hold, release, late queue analysis, create dependency etc.
+
+· In OPC on job failures, we check OI and job log of the Job as per them we take action like (Restart from abended step, F/C, Cancel, JCL change, resolve space issue).We solve abends like SB37, U1C8, sql904, sql911, sql913.
+
+· Adding application in current plan and create dependency, time dependency, adding special resource in application.
+
+· Informing Application support on critical job failure, assigning tickets to them and taking action as per their request.
+
+· Actions on IMS transaction like Stop, Start, Lock, Unlock, changing the class of a transaction locally and globally etc. 
+
+· Vary chips/devices online or offline, Managing JES2 SPOOL resources.
+
+· Handling Pre and Post IPL Activities on all LPARs, 
+
+· Console monitoring for more than 28 LPARs and take appropriate actions on different alerts related to Tapes, CICS and SPOOL. 
+
+· Monitoring DB2 transactions and programs using SYSVIEW. 
+
+· Monitoring the MQ Channels and stop start MQ, ABDUMP of particular long running BMP’s and IMS regions etc.
+
+· IPL through HMC, Loading sysres through HMC, doing IPL of various LPARs with sysres change and without sysres change.
+
+Academic Credentials
+· B-TECH (CSE) from Uttar Pradesh Technical University, Lucknow in the year of 2007.
+
+· INTERMEDIATE from U.P. Board, U.P. in the year of 2003.
+
+· MATRICULATION from U.P. Board, U.P. in the year of 2001.
+
+Personal Details
+FATHER’S NAME:
+
+Sachchidanand Dwivedi
+
+DATE OF BIRTH: 
+
+20/07/1987
+
+GENDER:  
+
+
+Male
+
+PASSPORT NUMBER:
+
+K3993309
+
+LANGUAGE SKILLS: 
+
+English, Hindi.
+
+ADDRESS:                               
+Flat No. 01, #81/2, Thirumala Building, Maruthi Nagar, 
+                                                          Kaggadasapura Main Road, New Thippasandra Post, 
+                                                          Bangalore, Karataka -  560075.               
+| Page 1
+8-Nov-17                                  
+                     Alok Kumar Dwivedi
+

@@ -1,0 +1,356 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Current Address:
+
+	
+	Rajasekhar Manukonda (Oracle & SQL Server DBA )
+Email: rajamanukonda@gmail.com
+Mobile: +91 9606514236
+
+
+
+	SPECIALIZATION & KEY SKILLS:
+
+Oracle core & RAC Administration,
+
+MS SQL Server Administration
+
+DATABASES:
+
+Oracle 9i,10g,11g & 12C Database & RAC Administration, MS SQL Server 2005,2008,2008R2 & 2012 Administration
+Handson experience on Amazon Redshift,MongoDB & PostgreSQL
+Cloud Administration: 
+Amazon Web Services 
+
+Languages:
+SQL,PL/SQL,TSQL, Shell Scripting, PYTHON & CGI scripting
+
+
+OPERATING SYSTEM(S):
+Basic Sun Solaris & Linux Administration, HP- UX & AIX,WINDOWS
+Utilities/Tools:
+Goldengate , RMAN, Tkprof, SQL Loader, OEM, Oracle export/import utilities, INFORMATICA reporting tool , Profiler, DTA, SSMS, SAC, SSCM, PerfMon, DMVs, SQL Lite Speed
+Monitoring and Ticketing Tools:
+Iris - IT Self-Service Portal & BMC Remedy 7.5
+Web Technologies: 
+HTML
+
+Storage: 
+
+EMC & IBM Storage  
+Hardware:
+
+SUN SPARC & IBM Blade servers, JS22 Blades. 
+
+	
+	Professional Synopsis:
+Having 9 years of experience in Oracle & SQL Server databases administration, supporting the customers to have database infrastructure with high up-time and finest 
+
+performance with proven track record of troubleshooting and performance tuning of large and high profile databases with solid technical skills including but not limited to Oracle, SQL Server, AWS Cloud, Amazon Redshift database, MongoDB, PostgreSQL database, Solaris administration, EMC Storage  & Shell scripting. 
+
+· Oracle installation, upgrading, migration, cloning, Data guard configuration, Real Application Clusters, ASM, backup/recovery procedures and performance tuning of Oracle Database.
+
+·  Microsoft SQL Server instances Installation, upgrading and SQL Cluster installations
+Educational Qualifications:
+
+Degree and Date
+
+Institute
+
+Major and Specialization
+
+B.TECH
+
+(2004-2008)
+
+R.V.R & J.C College of  Engineering, Guntur
+
+Electrical & Electronics
+76.10 %
+
+Intermediate (2003)
+
+Board of Intermediate Education, A.P.
+
+94.60%
+
+SSC  (2001)
+
+Board of Secondary Education, A.P.
+
+87.2%
+
+Summary:
+· Oracle: 
+
+· Administrated/configured various production databases under multiple node Oracle 11G RAC environment.
+
+· Tuned several queries which are affecting database performance.
+
+· Data migration from on-premises databases to AWS RDS and Redshift databases.
+
+· Working  with users to tune the slow running SQL queries.
+· Implemented RAC in 2-node Environment.
+
+· Upgraded Cluster ware from 10.2.0.1 to 10.2.0.4 in less time using two Oracle homes.
+
+· Involved in database designing with vendors as a client.
+
+· Recovery was done for database & tablespace using image copy.
+
+· Good knowledge in EMC, IBM & Sun storage, hot spares & controllers.
+
+· Migrated Databases from 10g to 11g using datapump.
+
+· Migrating data files from one disk group to another disk group in ASM
+
+· Migrated Database from one node to another node.
+
+· Implemented DR site for primary database.
+
+· Good Knowledge in taking backup of OCR & voting disk files.
+
+· Added node for RAC database.
+
+· Developing, testing continuously monitoring and updating the Backup and Recovery strategy. 
+
+· Implemented Recovery Manager (RMAN).Created recovery catalog and performed automatic full and incremental backup. 
+
+· Performed TAF(Transparent Application Failover) configuration
+
+· Database administration, managing table spaces, objects and disk space.
+
+· Creation of database Users and by setting the default tablespaces and temporary tablespaces, Assigning quotas, roles, privileges and profiles to users.
+
+· Scheduling of jobs in crontab & automating.
+
+· Monitoring & Killing user connections at OS level.
+
+· Knowledge on WAN, Switches, Routers & verifying network related issues.
+
+· Maintaining archived data on appropriate storage device.
+
+· Index rebuilding to improve query performance and to recover the DB space.
+
+· Expertise in SQL Loader and Import/Export, data pump (expdp/impdp) Utilities
+
+· Creating partitions on tables.
+
+· Written thousands of lines of codes to automate reports using SQL, Shell script, SQL Loader & HTML.
+
+· Created PL/SQL packages, procedures and functions.
+
+· SQL Server:
+
+· Good knowledge of Microsoft SQL Server (2005/2008/2012) Database Administration.
+· Installing, upgrading and configuring Microsoft SQL Server 2005/2008 & 2008R2 instances and its various components like Integration Services, Reporting Services, Client and Connectivity Tools and Analysis Services etc.
+
+· Good knowledge on managing SQL Logins, DB users, Roles and Authentication Modes, SQL Service packs & Hot fixes as a part of Security Policies for various categories.
+· Expertise in Backing Up, Restoring, and Moving Databases between servers.
+
+· Setup Replication,Clustering on Production environment.
+
+· Ensuring Point in Time and to the point of failure recovery of databases by implementing appropriate Backup and Recovery strategies.
+
+· Migrating or moving databases from one server to the other using Backup/Restore, handling and administering large SQL Server databases.
+
+· Successfully resolving SQL Server problems, which involves in-depth knowledge of SQL Server Architecture, Connectivity, Replication, DTS, Backup/Restore, Database corruption, Security etc. ensuring high customer satisfaction rates.
+
+· Troubleshooting all databases related problems and errors. 
+
+· Monitoring and Troubleshooting SQL Server Performance issues. 
+
+· Implementing high availability & Always On solutions .
+· Database Mirroring (SQL Server 2008/2012)
+· Creating and managing Maintenance Plans for database backup types and also for cleanup and database integrity and optimization tasks.
+
+                         A good team player with excellent communication, analytical and interpersonal skills
+ Experience Details:
+
+1. Working with Cognizant Technology Service, as a DBA with Infra Technology Specialist designation in IT IS for client Johnson & Johnson headquartered in New Jersey, US from October 2012 to present.
+
+· Project Details:-
+       Janssen Pharmaceuticals - Johnson & Johnson
+Commercial Pharm DB Support Services (JnJ-Data-Mgmt-Support-services):
+
+· Oracle DBA Roles & Responsibilities:
+
+· Performing daily activities including Application support, Database monitoring and performance tuning and fixing Performance related issues for data ware house databases.
+· Understanding the client requirements and designing the databases by doing capacity planning.
+· Automating Data migration from on-premises databases to AWS RDS and Redshift databases.
+
+· Enabling audit and security to all production, QA and Development database. Supporting and tuning application jobs and loads. 
+· Configuring refresh jobs by using transportable tablespace method and creating 
+
+· PL/SQL packages, procedures & functions to schedule jobs in oracle job scheduler. 
+· Creating scripts to check file system utilizations on servers and purging log files, trace files and old dump files after retention period.
+·  Creating scripts to clone databases and monitor tablespace utilizations and automating reports to verify export and RMAN backups.
+·  Installing new version of Oracle database 11g and adding them in OEM & recovery catalog databases.
+·  Creating database user/roles based on business requirements. Performing database backup and recovery using RMAN, Data pump. Planning and implementing backup strategies and ensuring successful backup of oracle databases at any point of time. 
+· Maintaining peak performance of all primary databases by providing advanced tuning methods and tips to developers so that server resources are used optimally to best. 
+· Migrating & upgrading databases to higher versions across platforms and installing CPU patches. Rebuilding indexes, enabling compression at table and tablespace level. Enabling transportable data encryption at table and tablespace level.
+
+· SQL Server DBA Roles & Responsibilities:
+
+· Installing & configuring new SQL Servers for various environments (Prod/DEV/QA).
+· Upgrading SQL Server instances (including stand-alone & Failover Cluster) to different versions/editions to meet business demands. 
+· Configuring SQL Server maintenance plans for DB backups and housekeeping tasks automation.
+·  Performing database refreshes between various DB environments and exporting tables between Oracle and SQL Server databases. 
+· Installing SQL Server integration services and deploying the SSIS packages through SQL Agent jobs, troubleshooting the execution failures.
+·  Dealing with regular and common issues reported by the application support teams includes slowness, timeouts, deadlocks etc.
+2.  Worked with Ericsson India Global Services PVT Ltd Telecom Company, as a solution Integrator in CA-BSS technology for CRS node from January 2012 to September 2012.
+
+Platform:  Prepaid charging-IN for GSM
+· Project Details:-
+Worked for Bharathi Airtel Bangalore, MTN Africa & BSNL Chandighar project for CRS node of charging system split architecture fresh installation from Jan 2012 to September 2012.
+
+Description: Fresh installation & Upgradation of CRS node and integration with Airtel network & BSNL network respectively.
+
+· Technical Skills: Oracle 10g/11g Database Administration, Solaris  Administration, SQL, PL/SQL, Shell Scripting & BO, EMC Storage
+· Roles and Responsibilities: 
+
+·  Deploying CRS node in Bharathi Airtel Charging System and integrating with other nodes.
+
+· Solaris OS installation on T5440 sun server.
+
+· EMC storage powering on, LUN & RAID volume creation by navisphere agent.
+
+· Oracle installation, database creation & ASM creation.
+
+· Installation of CRS application.
+
+· Loading of subscriber dump, CDRs processing & integrating with other nodes.
+3.   Worked with Tata Teleservices Limited Telecom Company, as a DBA with Deputy Manager Designation in Intelligent Network technology functions from June 2008 to December 2011 in Hyderabad.
+
+Platform: Centralized Prepaid charging-IN for GSM & CDMA.
+
+Description: The term “Intelligent Network” means a network capable of meeting market demands for new services in a flexible and cost effective way. The IN (Intelligent Network) platform is combination of software and hardware components dedicated to the development, provisioning and management of IN services like Prepaid Services- Charging , calling cards etc.
+
+· Technical Skills: Oracle 10g/11g Database Administration, SQL, PL/SQL & SQL Server 2005 & 2008 administration, Shell scripting, HTML & CGI
+· Roles and Responsibilities:
+
+· The environment comprises of Oracle 10g & 11g (RAC) on AIX & Solaris and SQL Server 2005 & 2008 databases on Windows 2003. 
+
+· Configuring new databases for Testing.
+· Monitoring & Doing health check of 15 Critical, 16 Major & other 50 databases & raising TR to Vendor & coordinating with vendor till closure.
+
+· Killing user connections at OS level itself if connections exceeds limit.
+
+· Automation for alert logs to come through mails.
+
+· Verifying server physical & swap memory and raising TR.
+
+· Verifying disk & controller failures & raising TR with IBM & Oracle support. 
+
+· Supporting various customers base and troubleshooting issues in production environment involving various Internet technologies.
+
+· Taking backup in tapes & Verifying daily, weekly database backup, image backup & archive log backup status. 
+
+· Removing old partitions & creating new partitions for tables & rebuilding indexes.
+
+· Verifying DR site status.
+
+· Writing scripts for automation of queries on tables for team members.
+
+· Tuning queries for users when querying time is high.
+
+· Verifying fragmented space in table spaces and rebuilding indexes.
+
+· Designing HTML pages for reports & Health check of servers.
+
+· External data loading by SQL*Loader, Developed various DBA reports.
+
+· Creating and altering the primary database storage structures (table spaces)
+
+· Managing Backup and recovery.
+
+· Day to day activities includes the responsible for Performance tuning, Extent allocation, creating roles and assigning the synonym into the roles and granting to the respective users.
+
+· User Management-creating users, granting, revoking roles.
+
+· Involving in other system related MW which affects database. 
+
+· Database & SQL tuning by using Explain plan & Tkprof utility.
+
+· Patch Management.
+
+· Managing control files & Managing Log files.
+
+· Configuring RMAN, Maintaining Backup, Restores and Recoveries using RMAN.
+· Involving in the Development, Implementation of the backend systems for the Database.
+· Coding PL/SQL stored procedures, functions, Packages & Triggers.
+
+· Recovering the databases from backups in disaster.
+· Managing and Troubleshooting scheduled SQL Jobs.
+· Rebuilding Indexes for better performance.
+Personal Information:
+
+Name:                                            Rajasekhar Manukonda
+
+Date of Birth:                                 25th Aug -1986
+
+Marital Status:                                Married
+
+Nationality:                                    Indian
+
+Languages Known                         English, Telugu & Hindi
+
+Hobbies                                         Watching movies, playing basketball, volley ball
+
+Present Address                             Bangalore
+
+All the information furnished above is true to the best of my knowledge.
+
+(Rajasekhar Manukonda)
+
+
+
+	
+	
+	
+
+
+PAGE  
+7
+

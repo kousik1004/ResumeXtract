@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                            VIVEK.V.PRABHU
+
+                                                                                            # 57, Road No 2, KIADB Layout, Near
+ 	Tech Mahindra, E-City Phase 2, Bangalore-100
+							Email: prabhuvivek4@gmail.com
+                                                                                                       MOB: +91 9481858124
+
+
+CAREER OBJECTIVE:
+
+     As a SAP Basis Consultant, seeking a challenging and value added position in IT solutions by providing support to clients and ready to update skill set quickly based on the requirements. Seeking full time employment with the growth oriented company that allows me to contribute my positive attitude and hardworking ability.	
+
+SUMMARY OF EXPERIENCE:
+· Having 2 years & 2 months of experience as a Sap Basis/Solution Manager Consultant. 
+
+· Currently working as Sap Basis/Solution Manager consultant in Tech Mahindra, Bangalore from Aug 2015.
+
+R3 Skills:
+· Installations: performed pre-installation activities, Installation of ECC 6.0, net weaver 7.3 Performed Post Installation Activities.
+· Background job management: Defined Background job, Check Background job status and restart the job, deleting old Background jobs
+· Configured RFC connection using SM59, Logon Load Balancing.
+· Client Maintenance and Administration: Created Client and Define Client settings, Performed Local Client Copy, Remote client copy, Client Import and Export.
+· Change Request Management: Released Task and Change Request, Change the Owner of the Task and Change Request, Importing the Transport Request Using STMS, Manually Importing the Transport Request Using TP at OS level.
+· Apply support Package & Notes Prepare Pre-request to Apply Support Package, Download Support Packages and Notes from Service Market Place and Apply Support Package through SPAM and TELNET from front end or application.
+· Regular Monitoring of Central Log (SM21), Work process overview (SM50) and Background Jobs (SM37) etc.
+· Applying SAPLICENSE for both (ABAP+JAVA) and (Standalone JAVA) systems.
+· Kernel Patch Upgrade for both ABAP systems.
+· Enhancement packages and Stack upgrade for ABAP system.
+· Experience in System refresh for ABAP.
+· Performed Stack and EHP upgrade through Software Update Manager (SUM).
+· Starting and stopping of SAP.
+· Worked on BSI TUBS update on BSI Tax factor and ECC system, Cyclic upgrades.
+· Experience in SAP Router installation and configuration and worked on SAP Router certificate renewal.
+· Worked on BSI Tax Factory 10 upgrade and maintenance. 
+
+ 
+
+
+
+Net Weaver Skills:
+Application Server JAVA:
+· Worked with Visual Admin tool & NWA to administrate various service and managers.
+· Applied Support Packages by using SDM & JSPM & TELNET.
+· Updated Maintenance certificate for JAVA system.
+· Performed EHP upgrade and Stack upgrade on JAVA system.
+Enterprise Portal:
+· Worked on installation of Netweaver 7.30(Enterprise Portal).
+· Configured Single Sign on b/w EP and ECC system. 
+· Worked on importing transport through Netweaver Portal system.
+· Monitoring Portal and Knowledge Management in System Administration.
+
+SOLUTION MANAGER:
+· Knowledge on installation of Solution Manager 7.1
+· Performed Stack upgrade on Solution Manager with Post Upgrade Activities.
+· Worked on System preparation and Basic configuration in Solution Manager 7.1.
+· Configured both ABAP and JAVA system for Managed System Configuration in Solution Manager 7.1 & 7.2
+· Configured Early Watch Report for ABAP and JAVA system.
+· Configured Technical Alert Monitoring for ABAP and JAVA system with Email Alerts.
+· Experience in installation of Willy introscope in Solution Manager 7.1.
+· Worked on Maintenance optimizer & Maintenance Planner to download Support Packages for systems.
+· Maintained and Administrated systems data in SLD, LMDB.
+· Created Product systems and Logical Component for ABAP and JAVA systems.
+· Installed and Configured Diagnostic Agents for Managed systems.
+· Job Scheduling Management.
+· Upgrade of Host Agent, Diagnostic Agent & Willy Introscope.
+· License distribution using SolMan 7.1.
+· SLD Migration on SAP Netweaver 7.3
+· Experience in Upgrade of Solution Manager System from 7.1 to 7.2
+· Configured Change Request Management for Solution Manager System 7.2
+· Performed System Copy/Move of Solution Manager System 7.2 to different hardware (higher versions of OS & DB) 
+
+
+EDUCATIONAL QUALIFICATION:
+
+
+	
+	
+Examination
+
+	School/college
+	Board/University
+	Year of Passing
+	
+Percentage
+
+
+	B.E(MECH)
+	VDRIT Institute of Technology, Haliyal
+	VTU, Belgaum
+	
+2015
+	73.61%
+
+	
+P.U.C
+	JSS PU College, 
+Dharwad
+	PUE
+	
+2011
+	76%
+
+	S. S. L. C.
+	ST JOSEPH HIGH SCHOOL, Dharwad
+	KSEEB
+	2009
+	90.40%
+
+
+
+
+
+
+
+
+
+
+TECHNICAL SKILLS:
+
+
+· SAP Components          :   SAP ECC 6.0, SAP Netweaver 7.0,7.3 & 7.4.
+                                             Solution Manager 7.1 & 7.2
+· Operating Systems        :   Windows 2003,XP, 7, 2008 ,2012 R2.
+· Tool skills                       :   Software Update Manager (SUM), SWPM, TELNET,SPAM
+                                             SQL Server Management Studio.  BSI Tax Factory 10.                                                         
+·  Database                        :   MS SQL Server 2012
+
+
+
+PROJECTS DETAILS:
+
+PROJECT # 1
+
+Company	:  Tech Mahindra.
+Client                :  Dermatology Client
+Duration	:  Aug 2015 to till date.
+Role		:  Software Engineer
+Environment	:  ECC 6.0, EP 7.3, Ms. SQL Database, SolutionManager7.1 & 7.2
+
+
+Description: Dermatology Client is a global company founded in 1981 committed to delivering innovative medical solutions to meet the dermatological needs of people throughout their lifetime while serving healthcare professionals around the world. The company has 33 wholly-owned affiliates with a worldwide network of distributors and approximately 5,500 employees. With approximately 19% of revenues invested each year to discover and develop new products and access innovative technologies, the company is one of the world’s leading investors in dermatology R&D. Five state-of-the-art R&D centers and five manufacturing sites are dedicated to providing a wide range of innovative medical solutions which meet the highest standards of safety and efficacy.
+
+Roles & Responsibilities:
+· Providing 16X5 supports.
+· Daily monitoring which includes:  Checking All application servers, Work process overview, Background jobs overview, Checking space statistics, and Backup logs etc.
+· Creating and maintaining of RFC connections
+· Performing Client copies like Local Client Copy, Remote Client Copy and Client Export 
+And Import.
+· User Creation, Locking/Unlocking users, Deletion of users, checking the missing authorizations.
+· Performing transports across Landscape and monitored transport logs.
+· Monitoring the lock entries and removing the entries that are all running for long period.
+· Monitoring Buffer hit ratio in all the partitions of Data Base, CPU and Memory utilization.
+· Performed Kernel patch level upgrade for ECC & Portal systems.
+· Applied Support Packages for ECC, Portal systems.
+· Performed Stack and EHP upgrade for ECC, Portal & Solution Manager systems.
+
+· Monitoring System Performance.
+· Performing System Copy & DBREFRESH Activity from production to Development.
+· Contributed to the documentation for the various tasks that were performed for daily monitoring and support activities.
+· Configured and Administrated Solution Manager 7.1 & 7.2 for Early Watch Report and Technical Alert Monitoring.
+· Background administration like Scheduling background jobs & analyzing long running jobs.
+· Part of Configuring SAProuter and Renewal of SAProuter Certificate yearly.
+· Setting up and maintaining the operation modes.
+· Analyzing System Errors and ABAP Dump.
+· Deploying Support Packages and patches through SUM & TELNET.
+
+
+PERSONAL INFORMATION: 
+
+
+	Name
+	:
+	Vivek Venkatesh Prabhu
+
+	Date of birth
+	:
+	15-07-1993
+
+	Father’s Name
+	:
+	Mr. Venkatesh.R.Prabhu.
+
+	Languages Known
+	:
+	English, Hindi, Kannada, Konkani.
+
+
+
+
+DECLARATION:
+ 
+
+	I hereby declare that all information said above is true to the best of my knowledge and belief.
+
+
+                                                                                                                                                      
+
+Place:	Bangalore								
+Date: 		                                                                                        (VIVEK.V.PRABHU)	
+
+
+
+ 
+	

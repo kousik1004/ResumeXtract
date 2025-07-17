@@ -1,0 +1,256 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prasanth V	
+
+
+	Prasanth V
+8F0  Star Homes, Vymethi Road,
+Chathari Jn, Thripunithura - 682301
+Prasanth.nairv@gmail.com
+9496166794
+
+	
+
+
+Objective
+Seeking a position that capitalizes on the expertise of a presentable, well organized, flexible, high calibre dynamic individual, with communication and interpersonal skills, a strong team player in a dynamic organization, which can utilize my skills to its full extent for all round development of the organization in a professional way. To work in the most challenging position with an organization that provides ample opportunities to learn and to contribute.
+
+Career Summary
+· 7 years of relevant experience in the IT industry in analysing, developing and implementing Applications.
+· 5 Years in Centura + Sql base technology and 2 Years of strong knowledge in web development using C# .NET, VB.NET, MS SQL Server, Oracle 11g and ASP.Net.
+· Currently working as a Software developer in SBN Technologies PVT LTD, Cochin. 
+
+Professional Summary
+
+· A results-oriented Computer Programmer with extensive experience in all stages of design, coding, testing and implementation for multi-user systems. 
+· Demonstrated ability in providing end-user training 
+· Work well with individuals at all levels.
+· Serve as an effective liaison between teams and clients.
+· Held responsibility for the design, integration, and scheduling of all third-party product integration and support.
+· As a Programmer I have directed all stages of getting requirement from client, design, coding in VB.Net/C#, ASP.Net and testing of project for local and Overseas Clients.
+· Managing and supporting all in-house applications.
+· Managing Database such as creating, modifying, backup, and updating in server and IIS Management etc.
+· Key participation in significant project phases – Planning, Implementation, controlling & monitoring.
+· Able to work as an effective team member, within the department & as a part of project teams. 
+· Manage & complete tasks in timely and efficient manner. 
+· Excellent communications skills in English & good presentations skills along with written & verbal skills.
+
+
+Educational Qualification
+Bachelor of Science in Computer Science (2007-2010) from Bharathiar University
+
+Academics
+	Intg.  MCA
+(Bca + Mca)
+	
+	Pursuing Under IGNOU.
+	
+
+	Bsc. Cs
+	2007-2010
+	Nehru Arts & Science College, Coimbatore.
+Bharathiar University.
+	59.76%
+
+	Dip. In .S/W Testing
+	2007-2010
+	Nehru Arts & Science College, Coimbatore.
+Bharathiar University.
+	54.50%
+
+	H.S.E  Science
+	2004-2006
+	K.C.P.H.S.S, Kavassery.
+State Syllabus
+	59.50%
+
+
+
+TECHNICAL SKILLS
+· Programming Languages           	Centura Team Developer, C, C++, VB, C# etc
+· Databases                                  	SQL Base, SQL Server, MS-SQL, PL/SQL
+· Web Technologies                      	ASP. Net 
+· Operating Systems                     	Windows XP/Vista/7, Server 2008/2008R2/2012/2014      
+
+
+EXPERIENCE
+· SBN TechnoLogics PVT Ltd.				Nov 2011 – Present
+Software Developer
+· Worked as a System Administrator cum Medical Transcriptionist at Ambattu Online, Pazhayannur.
+· One and half year (2006 March - 2007 September) experience as a computer Instructor cum Technician in Microspace Computers, Opp. Bus Stand Building, Pazhayannur. 
+KEY PROJECTES
+	Title
+	SHIP // MATE
+
+	Description
+	The Ship//Mate Stack represents a comprehensive set of business applications for adept management of shipping functions such as crew management, planned maintenance management, accounting, budgeting, stores and purchase administration. Though wholly integrated, the extensible architecture allows shipping enterprises to take advantage of the benefits of component-based applications. This capability enhances the scope of upgrading and scaling as needs evolve.
+SHIP//MATE CMS is a comprehensive crew management (manning) software that addresses the basic needs of ship owners, manning companies and ship managers alike. SHIP//MATE CMS offers the versatility to control all operations distinctive to the western or eastern ship management styles.  This product has started developing from late 90s and continuing till now, as per client requirements.  Few important modules in which I worked given below
+
+	Technology
+	Centura Team Developer, Sql base, Report Windows
+C#, ASP. Net and Sql Server
+
+	Role
+	Enhancements, Customizations, Unit testing, Code review, and error logging
+
+
+
+	Title
+	PAYROLL
+
+	Description
+	       Payroll program is used for calculating the salary of the seafarers at the office. In this module users can enter the monthly reimbursements/deductions. The system will calculate the monthly salary of the seafarers. This module will calculate the monthly over time amount as per the over time details entered into the system.
+       Payroll system will generate reports that can be used for analyzing the salary payments. System can generate E-Banking files that are used by the banks for making payments. 
+
+	Technology
+	Centura Team Developer, Sql base, Report Windows
+C#, ASP. Net and Sql Server
+
+	Role
+	Enhancements, Customizations, Development and Testing
+
+
+
+
+	Title
+	New Applicant Module (NEWEMP)
+
+	Description
+	This module is for handling new applicants details for Manning agents, this module is useful for find out suitable employees by checking different criteria like personnel details, other company experience they have, etc. Once the employee is selected for employment all the details will update to Ship//Mate.
+
+	Technology
+	Centura Team Developer, Sql base, Report Windows
+C#, ASP. Net and Sql Server
+
+	Role
+	Analysis, Design, Development and Testing
+
+
+
+	Title
+	VBA Programming
+
+	Description
+	I have also done VBA Programming for Excel Templates like Application  forms for new applicants, Excel appraisals, Monthly input for entering payment details from vessel, etc.  
+ New applicants can send their application to company by filling this excel  template.  Proper validations, overlap checking of experience details are provided for filling correct data.  This can be imported to new applicant module directly by selecting the excel file. 
+     Excel appraisal can be used in vessels by master to appraise the seafarers.  After filling details in this excel file, there is facility to generate an encrypted file and send to office.  From office using Ship//Mate, can import these appraisals into the system.
+
+
+	Technology
+	MS-Excel, Centura Team Developer, Sqlbase, Report Windows
+C#, ASP. Net and Sql Server
+
+	Role
+	Analysis, Design, Development and Testing
+
+
+
+	Title
+	TICKET//MATE & TRAVEL//MATE
+
+	Description
+	   Ticket//Mate is used to book tickets for travel purpose. User can create booking request, Approve if flight details from travel agent is OK, Approve Invoices from Travel Agent, Export to SAP System etc. This module also have different reports and queries for details.
+     Travel//Mate is a web module for travel agent to view requests for ticket booking, fill flight details, confirm ticket booking, cancel booking and enter if any refund exists etc.     
+
+	Technology
+	Centura Team Developer, Sqlbase, Report Windows, JavaScript
+C#, ASP. Net and Sql Server
+
+	Role
+	Analysis, Design, Development and Testing
+
+
+
+Appedo_LT: Performance Testing
+
+I’m using this tool to generate report about the overall performance of an Application. Which includes the load, stress, memory usage, CPU, disk space and also shown at which area the application taken much time to load, with detailed summary about the size, time and throughput etc. Also it provides a Slow Query from database side and also gives Server side information.
+
+VeraCode: Application Security
+
+I’m using this tool to gain access to some of the top security experts in the industry. These experts can offer strategic advice for building a scalable program, help executing our program, and remediation coaching for when flaws are found. With the help of this tool's scanning mechanism we can find CRLF Injection, Credentials Management, Cross-Site Scripting, Cryptographic Issues, Directory Traversal, Information Leakage, Insufficient Input Validation and SQL Injection etc.
+
+
+
+
+
+Additional Qualifications:
+· Certified in .Net 
+· ADCA (Advanced Diploma in Computer Applications)
+· DCFM (Diploma in Computer Financial Management)
+· Diploma in Import and Export Management.
+· Known languages are CENTURA, COBOL, C, C++, VB, Java, C#, HTML.
+· Known Data bases are Microsoft Access, SQL Base, My SQL, SQL Server, and Oracle.
+· Knowledge in Hardware Parts, Software Installation and Networking.
+· Knowledge in Software Design, Programming and Testing.
+· Done ProHire classic Training(Finishing  School)  Program from ASPIRE.
+
+PERSONAL DETAILS
+	Date of Birth
+	04 May 1986
+
+	Sex
+	Male
+
+	Nationality
+	Indian
+
+	Marital Status
+	Married
+
+	Languages Known
+	English, Malayalam
+
+
+
+DECLARATION
+I am confident of my ability to work. I hereby declare that the information furnished here is true to the best of my knowledge
+
+	4
+

@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Senior Software Programmer with 9 Plus years of experience in Database and DataWarehousing
+
+                                                                                                                           
+                                                                   Tableau 10.3 Desktop Qualified Associate
+
+
+Senior Software Programmer with 10 Plus years of experience in Business Objects and Tableau
+A. Siva Kumar
+
+08179691693
+mobileapplicationsandroid@gmail.com
+
+Professional Summary
+
+· 10 years of IT experience in Designing and Developing Reports (SAP BO, Crystal Reports and Tableau) with database experience on Mysql, DB2 and Oracle.
+· Extensively worked on MySql, Oracle and DB2 Database development (Developing complex queries, packages, Procedures) and also hands on experience on Db2 database administration tasks (performance tuning, Database backup and recovery, creating Index and Triggers). 
+
+· Designed and developed Tableau, Universe, IDT, Webi, Crystal reports and Report publication.
+
+· Good Knowledge on ETL concepts also possess strong understanding of SDLC process
+· A highly motivated and hardworking individual with strong organizational and communication skills and Proved team player, Got award as best team player for Q1 - 2011.
+· Interest & possess ability to learn new technologies.
+Skills
+
+Reporting Tools   
+
+:
+BO XI 3.x, BO 4.x, Crystal Reports 2008, Crystal Reports 10, Tableau 9.3, Tableau 10.3
+DBMS 
+
+      
+
+:
+Oracle 10g, MySql, DB2 9.1,pl sql
+Integrated Tools
+
+:
+SQL *Plus, TOAD, Eclipse, IBM datastudio
+Languages  
+
+
+:
+C, C#, Java
+Operating Systems  
+
+:
+Windows, AIX
+
+Work Experience
+
+· Senior Software Engineer at HSBC Software Development India, Hyderabad since Aug’07 to Aug 16
+HSBC is a global bank with presence in more than 80 countries and operates in various domains like banking, telecom and software. We at HSBC software work for HSBC contact centers across globe and providing the clients required information on various KPIs.
+Project Name
+: North America Management Reporting
+
+Client
+
+: HSBC US
+
+Duration
+: Oct’14 – Aug 16        
+Role                      :  Tableau Developer and SAP BO Consultant 
+ 
+
+Description: 
+
+This project is to create a high end solution for HSBC USA. Different reports with varied functionality like summation across regions, Different types of chart representation on performance of various contact centers across regions are developed. Tableau version 9.3 is used for report development and backend database used is Oracle.  
+
+Responsibilities:
+
+· Leading the project to develop reports to cater customer requirements.
+
+· Created weekly, monthly reports for the management team and field operation managers using Tableau Desktop
+
+· Designed and developed various analytical reports from multiple data sources by blending data on a single worksheet in Tableau Desktop
+
+· Created customized Calculations, Sets, Filter and graphs like Bars, Lines and Pie Charts, maps and Highlight tables for visualization purpose
+· Created Hierarchies for proving drill down option for the end user, Also created dashboards for presenting visualization more effectively for end user. 
+
+· Creating sites, groups, projects, Data connections, settings as a tableau administrator
+
+· Took care of minor database developments
+
+· Published the developed dashboard, reports on the Tableau Server so that the end users having access to the server can view the data
+
+Project Name
+: France Management Reporting
+
+Client
+
+: HSBC France
+
+Duration
+: Jan’14 – Aug 15          
+Role                     :  SAP BO Consultant, DB2   
+
+ 
+
+Description: 
+
+Solution has been developed for France where aligning with the generic requirements of the HSBC there are few region specific requirements. Management reports are developed using Business Objects version 4.x and backend database used was oracle 11.  
+
+Responsibilities:
+
+· Leading the project to develop solution from scratch for IVR performance in France region.
+
+· Analyzing and designing reports as per business needs and requirements where few crystal reports were re designed in WEBI as per customer request.
+
+· Assigning the work among the people involved in project and explaining the tasks to be done by the members and monitoring the tasks.
+
+· Along with monitoring involved in development of IDT and Webi reports as one of the tasks
+
+· Took care of issues that raised in User Acceptance Testing and Post production stages 
+
+Project Name
+: Core MI
+
+Client
+
+: HSBC Asia Pacific
+
+Duration
+: May’10 – Oct ’13           
+Role                     :  SAP BO Developer , DB2 and Oracle
+ 
+
+Description: 
+
+HSBC Asia Pacific has a requirement for developing a core MI solution for different countries in the region that can provide overall call center performance to the business. Core solution contains the development of various reports (Real Time and Historical) on various aspects of contact center like IVR, Routing and Agents. DB2 and Oracle database are used to store data. Business Objects crystal reports version 2008 and universe and Webi reports version 3.x are used to show historical data and Java to show real time data to business.
+
+Responsibilities:
+
+· Requirement gathering, Designing reports structure as per the customer input.
+
+· Coordinated with DBA in finalizing the database design and developing the different procedures and views that are helpful in developing the reports. IBM data studio is used in developing the procedures.
+
+· Historical reporting is developed using Crystal Reports 2008 where few reports were Adhoc in nature so Business Objects Webi is used as per the customer request. In this process used various functionalities like Sub reports, Cross tabs, Drill down, input controls, Filters, Conditional formatting etc.
+
+· Real Time reporting was developed using Java, I was a part of team and contributed in designing dash boards using Core Java, JSP and Servlets.
+
+· Database management was crucial task in the process where I was leading along with DBA in optimizing database performance using various parameters like lock time out, primary log files, secondary log files, heap size, lock list etc
+Project Name
+: SABB and Malta Reporting Information
+
+Client
+
+: HSBC Middle East
+
+Duration
+: Apr’08 – May’10     
+Role                     :  SAP Crystal Reports 2008 Developer , DBA Developer   
+
+      
+
+ 
+
+Description: 
+
+HSBC Middle East has come up with a requirement for developing reports for contact centers that serving Middle East customers. Reports are developed using Crystal Reports version 2008. Using reports few Key performance indicators that are monitored are i.e. number of calls per day, number of calls successfully answered, number of calls transferred to agents etc. Backend database that used was DB2 v10.
+
+Responsibilities:
+
+· Took part in Requirement gathering where my job is to understand the customer requirements designing reports structure that can fulfill customer requirements.
+
+· Worked closely with the DBA in creating the database design estimations as per data load in production environment.
+
+· Developed procedures and variety of reports using crystal reports 2008 and delivered to customer using Business Objects Central Management control or info view as per request.
+
+· Took part in performance improvement of database by designing the suitable procedures, indexes and modifying few database parameters to support heavy database operations in parallel.
+
+· Performance improvement at report level using parameters and custom queries and used functionality of reports like sub reports, conditional formatting to develop complex reports.
+
+· Support SIT, UAT, Production and post production environments.
+
+Project Name
+: Real time Report dashboards and Historical reports 
+
+Client
+
+: HSBC India
+
+Duration
+: Aug’07 – Mar 08    
+Role                     :  SAP Crystal Reports 10 Developer, Oracle         
+
+       
+
+ 
+
+Description: 
+
+HSBC call centers in India need reports and dashboards for performance monitoring. These are the real time reports that help the managers to monitor agent information and call information using dashboards and historical information using Crystal Reports10. Oracle database is used to store data.  
+
+Responsibilities:
+
+· Involved in full project life cycle.
+
+· Used dashboard tools like custom view producer where data is refreshed on real time basis and provided to the managers.
+
+· Worked on Crystal Reports v10 for Historical reporting purpose where data is provided to the user for the previous 2 years from current date.
+
+· Involved in post production support whenever required.
+
+Education  
+
+· BTECH from J.N.T.U in the year 2007
+Certifications
+
+· Tableau 10.3 Desktop Qualified Associate

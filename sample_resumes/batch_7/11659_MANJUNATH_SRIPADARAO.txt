@@ -1,0 +1,221 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MANJUNATH SRIPADARAO manjunaths@gmail.com 
+Phone: +919482501804 
+
+OBJECTIVE 
+
+Technical architect with 13+ years industry experience and 3+ years experience in 
+Artificial Intelligence/Deep Learning. 
+
+ 
+
+EXPERIENCE: 
+Technical Expert                                                           2015 - Present 
+Technical Specialist                                                  2012 - 2015 
+
+ 
+
+Key Technologies/Skills: 
+
+ Tensorflow/Keras, Pytorch, Caffe 
+
+ CUDA, CUDNN, NCCL 
+
+ Horovod 
+
+ Python, C++ and Haskell 
+
+HPE –Product R&D Labs Bangalore 
+
+ 
+ AI & Deep Learning (Global Strategy group at HPE) 
+
+o Experience with building and training Convolutional Neural Networks (CNN), Recurrent Neural Networks 
+
+(RNN/LSTM). 
+
+o Hands-on experience with building Deep Learning models using Pytorch, Keras and Tensorflow. 
+
+o Worked on solutioning verticals such as computer vision, natural language processing, speech 
+
+recognition, sentiment analysis, neural machine translation (NMT, Seq2seq) and object detection (RPN). 
+
+o Scaling studies and analysis of Tensorflow across a cluster of GPU servers. 
+
+o Exposure to traditional machine learning algorithms (Random Forest, Linear Regression, SVM) for 
+
+exploratory data analysis, feature selection and feature engineering using Scikit-learn. 
+
+ Benchmarking of Deep Learning and HPC codes on CPU and GPU clusters 
+
+o Designed and created frameworks for scheduling of containerized Deep Learning apps on an HPC cluster 
+
+with cloud like interface. 
+
+o Designed a performance benchmarking framework for HPC and Deep Learning codes. 
+
+o Experience in exploratory analysis of HPC and Deep Learning codes on specialized platforms such as 
+
+DSPs, GPUs and ARM CPUs. 
+
+o Experience benchmarking and bootstrapping Deep Learning codes and frameworks on AMD GPUs with 
+
+MiOpen. 
+
+o Experience with scaling Deep Learning frameworks on clusters using, verbs, MPI and technologies such 
+
+as NCCL and GPUDirect RDMA. 
+
+ High-Performance Computer Graphics/Visualization and Virtual Reality 
+
+o Master of science in Virtual Reality, Computer Graphics and Computer Vision 
+
+o Programmed in OpenGL, OpenSG, SGI Performer and OpenSceneGraph libraries 
+
+o Authored software such Paracomp (paracomp.sf.net) and VizStack (vizstack.sf.net) for parallel 
+
+visualization and administration, configuration and managing graphics resources. 
+
+o Experience with modeling programs such as Blender and Maya® 
+
+mailto:manjunaths@gmail.com
+
+
+o Experience with stereo 3D displays, multi-headed displays, 3d projectors and head-mounted displays 
+
+(HMD). 
+
+ 
+Responsible for bootstrapping the engineering side of Artificial Intelligence/Deep Learning business – Working 
+
+on developing reference designs for various domains from the past 3 years(Imaging, NLP etc.,). This task includes 
+
+the bring-up of the entire OS stack, specifically aimed at AI/DL, from ground-up on a multi-node GPU cluster. It also 
+
+includes creation of training material for field and integration teams.  
+
+Lead the Projects to create a Reference Architecture (RA) for AI/DL solutions. These RAs were in areas such as 
+
+Image Classification, Objection Detection, Natural Language Processing, Video Analytics etc., 
+
+Responsible for large RFP response for Deep Learning hardware – Worked on deals for large MNCs of the 
+
+hardware requirement of 100 to 1000 nodes. Technical consulting on benchmarks and datasets to run at scale. 
+
+Helped with framework and network models related questions during the engagement with customers. 
+
+Lead the project to create an AI as a Service (AiaaS) on HPE hardware. This project was a click to launch interface 
+
+for provisiong and deploying Tensorflow and Caffe based docker instances accessible via the web-browser. 
+
+Lead the Indian License Plate Detection project to showcase an AI based solution on HPE platform to customers. 
+
+This initiative was concieved and executed end-to-end by me. This helps showcase the core (GPU servers) and 
+
+edge (IoT devices) requirements for training and deploying deep neural networks. 
+
+Responsible for applications enablement on next generation HPE IoT platforms (HPE Moonshot program) - The 
+
+responsibilities included coming up with benchmarks in the domain of 3D rendering, signal processing (FFT) and 
+
+video encoding/decoding on the ARM32, ARM64, DSP and GPU/OpenCL platform for IoT. 
+
+Responsible for scientific applications enablement and characterization for large HPC RFPs – Involved with 
+
+porting and performance study of HPC applications (QE, CPMD, LAMMPS etc.,) for large deals (> 100 servers). 
+
+Worked-on synthetic workloads for measuring system characteristics (HPL, HPCC, OSU …). 
+
+ 
+ 
+Systems Engineer II                                                            2007-2012 
+Systems Engineer I                                                             2004-2007 
+ 
+Designed and developed, VizStack, a GPU scheduling and provisioning framework 
+Designed and built a framework for managing all the special components of visualization clusters with large 
+displays, display extenders and integrated job scheduling and management capability. 
+Designed and developed Paracomp 
+The GPU Parallel Compositing library for HPC Visualization clusters was built to enable visualization of large 3D and 
+volume datasets by distributing the workload onto multiple GPUs across machines. 
+ 
+ 
+EDUCATION 
+Master of Science in Computer Science                             July 2002 
+University of Illinois at Chicago. 
+ 
+Bachelor of Engineering in Electrical and Electronics     Sept 1999 
+Rashtriya Vidyalaya College of Engineering (RVCE), 
+Bangalore University, India. 
+ 
+
+Simulation of Structured Deformable Objects in Virtual Reality (Cloth/Soft Body Simulation) − Master’s Research 
+Project. Designed and developed a library for Physically Based, Soft−body simulation in Virtual Reality 
+
+
+
+Environment. The library was designed in C++ to be fully cross−platform compatible and specifically for simulation 
+in the CAVE. 
+Pattern recognition using Neural Networks – Master’s Project These were a series of projects done to gain 
+experience in pattern recognition and the working of Neural Networks as part of Neural Networks course. Various 
+neural networks and traditional algorithms were used to investigate solutions for problems in the late 1990s 
+(Hopfield, Radial Basis Networks and SVMs). 
+Implementation of flocking behavior based on Boids − This was the final project in Advanced Computer Animation 
+in which an OpenGL based application was implemented in C++, which implemented flocking behavior. 
+3D Pong in CAVE − A game designed as part of Advanced Computer Animation course to gain experience in 
+Physically Based Modeling, a 3D version of pong was implemented in virtual reality in C++. 
+Bow and Arrow game in Virtual Reality − This was the main project in Virtual Reality which was designed to help 
+us learn the use advanced libraries like OpenGL Performer, CAVE library and YG (Internal to EVL) and hardware 
+such as Head Tracker and 3D Wand. 
+Design and Implementation of a Prototype, DRAM based, Specialty Memory Module using EPLD (Erasable and 
+Programmable Logic Device) − Bachelor’s Research project. Designed a low−cost and high capacity, DRAM based, 
+alternative to commercially available SRAM FIFO Memory Modules used in Data Acquisition Systems (DASs). The 
+final module was specifically tailored to acquire data from Radio Telescope Arrays. 
+ 
+
+

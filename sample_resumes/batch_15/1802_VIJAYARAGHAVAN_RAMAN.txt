@@ -1,0 +1,200 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+                                                                                                                                          VIJAYARAGHAVAN RAMAN
+NO: 19/10, Door no - F5, Block no - 5,
+JAAG FLATS, South Gangaiamman koil 1st Street,
+Choolaimedu,                                                                             Mail to: raghavan.vijay012@gmail.com
+Chennai - 600 094.                                                                    Phone: +91 97890 65817									                      +91 74186 65817
+---------------------------------------------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY:       
+A resourceful, self-motivated, results driven professional with over 2.9 years of experience in Software Quality Testing, specifically in BFSI domain. Involved in mostly Cards projects and have a handful experience in handling various modules in “VisionPLUS” application and undergone training in “HPS-PowerCard” and “PRIME” applications as well.
+PROFESSIONAL EXPERIENCE:
+Company name:	SQS India BFSI Limited, Chennai
+Years Of Experience:	2 years and 9 months
+Designation: 		Junior Test Engineer (March 2015 TO March 2016)
+			QA Associate (March 2016 TO Till Date)
+KEY SKILLS AND AREAS OF EXPERTISE:
+· Domain Knowledge: Experience in handling VisionPLUS modules
+· CMS module - Product upgrade functionality, Reprice Interest rates, Money Transfer, Balance Transfer
+· CTA module – Handled collections related functionalities across Collection Review Marker, Promise-To-Pay 
+· LMS module – Loyalty program enrollment, Points redemption functionalities 
+· TRAMS module - Handful experience in preparation of MasterCard clearing files (scheme files)
+· FAS module – Experienced in basic Authorization testing and expert in preparation of Authorization to process in simulator
+· Preparation of APACS file for Instore transactions (mostly used for PLCC cards)
+· Preparation of Faster payment files & GIRO payment files
+· Team & Module Lead in working FirstData products 
+I. FirstApply -  Originations
+II. FirstOnline – E-Servicing
+· Experience in working business teams developing tests plans
+· Understanding Software Requirement specification and identifying the Test Scenarios, Test Case Designing and Test Case Preparing
+· Experience in Testing the Functionality, Compatibility, Database and Regression testing
+· Defect reporting and tracking using HP QC
+· Trained in both System Integration Testing and User Acceptance Testing
+· Relatively strong in VisionPLUS modules – Card Management System, Authorization, Loyalty Management System, Disputes & Chargeback, Collections
+· Able to work productively and instinctively with good initiative
+· Analytical and numerical skills
+· Excellent communication and inter-personal skills
+KEY PROJECTS HANDLED:
+a) Project Name: PLCC Upgrades Rollout 
+Client: NewDay, UK
+APPLICATION USED: VisionPLUS 8.56, FirstOnline
+Duration: Oct 3rd 2017 to Oct 17th 2017
+· The main objective is to move more PLCC customers to MasterCard network in order to make better purchasing experience across city
+· Performing product transfer through ZTBT process
+Functionalities tested:
+· FirstVision updates on New accounts and New Cards
+· Loyalty Management System
+· E-Servicing
+· Transaction posting on Old card post upgrade (through APACS file)
+· Transaction posting on New card post upgrade 
+
+
+ROLES AND RESPONSIBILITIES:
+· Responsible for Testing software functionally, finding and resolving any issues
+· Execution of Test cases and reporting
+· Analysing and accurate monitoring, recording results to present managers / senior staff
+· Attending Defects calls with clients and analysis of functional defects
+· Capable of summarizing data into clear and readable formats
+· Transfer of knowledge to the team in terms of understanding
+
+b) Project Name: Money Transfers Via Telephony
+Client: NewDay, UK
+APPLICATIONS USED: VisionPLUS 8.56, FICS
+Duration: Mar 2017 to June 2017
+· Performing Money Transfers via FICS application(FirstData product) and post validations in FirstVision
+· Major changes involved in Statement messages
+ROLES AND RESPONSIBILITIES:
+· Responsible for Testing software functionally, finding and resolving any issues
+· Execution of Test cases and reporting
+· Analysing and accurate monitoring, recording results to present managers / senior staff
+· Attending Defects calls with clients and analysis of functional defects
+· Capable of summarizing data into clear and readable formats
+· Transfer of knowledge to the team in terms of understanding
+
+c) Project Name: Collection System Fixes
+Client: NewDay, UK
+APPLICATION USED: VisionPLUS 8.56
+Duration: Nov 2016 to Dec 2016
+· Client specific change related to collection accounts
+· New changes to COLLECTION REVIEW MAKER field in ARQB 41 of FirstVision with respect to collection criteria such as Delinquency, Overlimit, moved to Collections due to Block codes
+
+d) Project Name: 	Apollo (Amazon Platinum & Classic)
+TUI (Thomson MasterCard)
+Client: NewDay, UK
+APPLICATIONS USED: VisionPLUS 8.56, FirstApply, FirstOnline
+Duration: Dec 2015 to June 2016
+· These two projects involves the launch of New credit card products for Amazon and Thomson online shopping sites
+· Full End To End Testing across the FirstVision modules along with Originations and E-Servicing
+
+e) Project Name: Cinema – Release 1 (FirstApply, FirstOnline), Release 1.5 (FirstOnline)
+Client: NewDay, UK
+APPLICATION USED: VisionPLUS 8.56, FirstApply, FirstOnline
+Duration: Jun 2015 to Dec 2015
+· Introduction of FirstData products – FirstApply for originations and FirstOnline for E-Servicing for all NewDay Cobranded retailers
+· End To End Testing for all functionalities across both products
+CLIENT: NewDay, UK
+CLIENT DESCRIPTION: NewDay is one of the major consumer credit financial services company with 5.4 million customers in the UK. They provide products and services for customers in two unsecured credit market sectors and have operated their Near Prime business since 2002 and acquired our Co-brand business from Santander UK in May 2013. The focus of NewDay’s strategy is to responsibly provide customers with credit products that are aligned to their evolving needs.
+OWN BRANDS Tested: Aqua, Marbles, Opus
+CO BRANDS Tested: Debenhams, Laura Ashley, House of Fraser, Arcadia (Includes retailers – Topman, Topshop, Evans, Burton, Wallis, Dorothy Perkins, Miss Selfridge, Outfit), TUI (Thomson MasterCard), Amazon
+DEFECT MANAGEMENT TOOL:
+HP – Quality Center
+Features:
+· Designing of Test Cases in Test Plan
+· Execution of Test Cases in Test Lab
+TECHNICAL SKILLS:
+· Programming Language	:	Basics of C, C++, Java
+· Query Language		:	SQL (Basics)
+· Operating system		:	Windows OS
+· MS Office			:	Word, Excel, PowerPoint
+CERTIFICATIONS:
+· Successfully completed “ISTQB – Foundation Level”
+EDUCATIONAL SUMMARY:
+· B.E.(Electrical and Electronics Engineering) –JEPPIAAR ENGINEERING COLLEGE,CHENNAI, 
+· 2014 passed out with an aggregate of 7.79
+PERSONAL DETAILS:
+NAME					:    VIJAYARAGHAVAN RAMAN
+DATE OF BIRTH			:    6th October, 1993
+FATHER’S NAME			:    RAMAN.C
+MOTHER’S NAME			:    TAMIL SELVI.R
+NATIONALITY				:    INDIAN
+MARITAL STATUS			:    Unmarried
+
+CURRENT & PERMANENT ADDRESS	:    NO: 19/10, Door no - F5, Block no - 5, JAAG FLATS,
+                  South Gangaiamman koil 1st Street, Choolaimedu,
+     Chennai – 600 094                 
+	LANGUAGES
+	READ
+	WRITE
+	SPEAK
+
+	TAMIL
+	· 
+	· 
+	· 
+
+	ENGLISH
+	· 
+	· 
+	· 
+
+
+
+CONTACT DETAILS:
+E - MAIL ID                    			:     raghavan.vijay012@gmail.com
+LANDLINE NUMBER			:     +91 44 2484 6211
+MOBILE				:     +91 97890 65817	    
+					      +91 74186 65817                		
+DECLARATION:
+                                        I (Vijayaraghavan Raman), hereby declare that above written particulars are true to the best of my knowledge and belief.
+
+PLACE:  Chennai                                                                                                       
+DATE: 15th Oct 2017                   					VIJAYARAGHAVAN RAMAN

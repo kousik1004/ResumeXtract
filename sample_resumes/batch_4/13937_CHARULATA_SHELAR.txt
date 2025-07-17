@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VITAE
+
+	CHARULATA SHELAR
+	Email    : charulatashelar@gmail.com
+Mobile : +91 8097492776
+Mumbai
+
+	
+	
+
+
+WORK EXPERIENCE
+
+3.5 years of experience in Machine Learning, Building Chatbot, Automation of manual processes using Python, Flask Framework, Stored Procedures and Application Handling
+
+	· Programming Languages
+	:
+	Python, SQL, C#
+
+	· Python Packages
+	:
+	Pandas, NumPy, ScipPy, Scikit-Learn, nltk, Gensim, TensorFlow, Keras, MatplotLib, Seaborn
+
+
+· Machine Learning Algorithms
+a) Supervised Learning
+	Regression
+	:
+	Linear Regression, Lasso and Ridge regularization
+
+	Classification
+	:
+	Logistic Regression, Support Vector Machines, Naive Bayes, KNN
+
+	Ensemble
+	:
+	Random Forest
+
+	Decision Tree
+	
+	
+
+
+b) Unsupervised Learning
+	Clustering
+	:
+	K-Means Clustering, Hierarchical Clustering
+
+	Dimensionality Reduction
+	:
+	Principal Component Analysis
+
+
+c) Deep Learning	        : 	Artificial Neural Network, Convolutional Neural Network, RNN
+d) Time Series Analysis	        : 	ARIMA Model 
+	· NLP Analytics
+	:
+	Sentiment Analysis, Bag of Words Modeling, TF-IDF, Text Summarization
+
+	· Databases
+	:
+	Microsoft SQL Server, NoSQL Mongo DB
+
+	· Web Technologies
+	:
+	Flask Framework, HTML, CSS, Bootstrap, Java Script, jQuery, AJAX
+
+	· Statistics
+	:
+	Descriptive statistics
+
+	· Data Visualization
+	:
+	Tableau, MatPlotLib, Seaborn
+
+
+
+
+	LINKEDIN
+	:
+	https://in.linkedin.com/in/charulata-shelar-9726984a
+
+	GITHUB
+	:
+	https://github.com/CharulataShelar 
+
+
+
+
+WORK EXPERIENCE
+
+Presently working with Capgemini Technology Services India Ltd. as an Associate Consultant in AI & Automation team for Financial Services vertical.
+
+Job Profile:
+	· Developing Machine Learning Models for optimizing client’s operations/processes to increase revenue and minimizing costs
+· Leading and Mentoring subordinates for various Data Science projects
+· Deploying machine learning models in production using GCP
+· Building web portal using Flask, JQuery, JavaScript to allow users to learn about our machine learning solutions and use them to solve client problems
+· Building ChatBots using Google DialogFlow, Kore.ai and IBM Watson platforms to provide service desk automation solutions
+· Interacting with onshore clients to understand their requirements and issues
+· Worked on MS SQL, TFS, Visual Studio, MVC (basic), Enterprise Job Scheduler and Service Now ticket log system
+· Worked on enhancements, questionnaire management and access provision for new users
+· Created enterprise scheduler jobs using SQL stored procedures to automate manual report processing
+
+
+
+EDUCATION AND TRAINING
+
+	Qualification
+	Specialization
+	Year
+	Board/University
+
+	SSC
+	General
+	2009
+	S. L. & S. S. Girl’s High School, Mumbai, Maharashtra State Board
+
+	HSC
+	Science
+	2011
+	K. C. College, Mumbai, Maharashtra State Board
+
+	Graduation
+	Computer Engineering
+	2015
+	Vidyalankar Institute of Technology, Mumbai University
+
+	Training
+	.NET Framework
+	2015
+	IGATE (now Capgemini ), Mumbai
+
+	Training
+	Agile Model, Team Foundation Server
+	2017
+	Capgemini Technology Services India Ltd., Mumbai
+
+	Certification
+	Data Science Masters Program
+	2018
+	GreyAtom School of Data Science, Mumbai
+
+
+
+
+PROJECTS
+
+· Capgemini Technology Services India Ltd.
+
+1. Incident classification using NLP and Clustering
+· To classify large number of Service now incident tickets reported by users. 
+· This was done to analyse which applications are facing issues frequently and to group the ticket based on the issues reported
+· This analysis had helped to identify those applications and review their code and data flow to reduce future the incidents 
+· Resulted in client money saving and reduced incident counts
+Algorithm used: K-means Clustering
+2. Email Request Classification
+· Classifying email (body) data into types of access requests (Address Change, Access Grant, Access Remove etc.)
+· Extracting entities like user name, user id, email, address, start date, end date, type of request, type of access to be given/revoked
+Algorithm used: Entity Recognition
+3. Predicting server failure using log files
+· Analysing log files for server failure, time stamp, geographical region, memory, number of transaction, CUP utilization, number of processing running etc. 
+· Used anomaly detection to predict server failure
+Algorithm used: SVM
+4. Credit Card Defaulter prediction
+· Online available dataset for credit card defaulters was used to predict for defaulter prediction
+· XGB classifier and Random forest was used feature selection
+Algorithm used: Logistic Regression, Random Forest, XGB classifier
+
+5. Web portal development using Flask framework
+· Built web portal using Flask framework, HTML 5, CSS3, AJAX, Apache, Java Script
+· All the POCs build by team were activated on portal
+· Machine learning models built by team we deployed to allow user to learn, download and test prebuilt models using their own datasets
+
+6. ChatBot to automate Service Desk Tasks
+· Built a chatbot using Kore.ai for application 
+· Performing health check monitoring, restarting application, checking user access, providing extract form database by executing SQL queries, logging request into service now, updating database entries
+Tools/Platforms: Kore.ai, Jenkins, eyeShare, Service Now 
+7. Chatbot to provide team services and capabilities
+· Built audio and text based agent using Google Dialog Flow platform
+· Agent is able to provide information about team services and its capabilities using natural language process to understand used audio input and provide information in simple language format
+Tools/Platforms: Google Dialog Flow, Google Home device
+· Personal Practice Projects:
+1. Sentiment analysis for audio data
+· Used speech_recognition library from Google to convert audio data into text
+· Used python’s NLTK library to perform text processing
+· Stopwords removal, tokenizer, Bag of words and TF-IDF was used to convert the textual data into numeric vectors
+Algorithm used: Naive Bayes
+2. Stock Market price prediction
+· Basic time series was done to identify increase/ decrease in future stock value
+· ARIMA model was used to predict nifty stock price for next 30 days
+Algorithm used: ARIMA
+ACTIVITIES/INVOLVEMENTS
+
+· Winner of Fintech Hackathon - 2 organized by GreyAtom School of Data Science
+· Created automated jobs to minimize manual processing during critical month end activities which saved client money
+· Received certificate of appreciation for completing data fix tasks in less than expected time
+PERSONAL DETAILS
+
+	· Date of birth
+	:
+	11th June 1994
+
+	· Nationality
+	:
+	Indian
+
+	· Gender
+	:
+	Female
+
+	· Languages Knows
+	:
+	English, Hindi, Marathi
+
+
+

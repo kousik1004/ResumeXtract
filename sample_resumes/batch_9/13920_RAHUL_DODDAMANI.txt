@@ -1,0 +1,292 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RAHUL
+
+
+Hadoop Developer Profile 
+ 
+
+ 
+
+RAHUL DODDAMANI 
+
+    TECHNICAL CONSULTANT 
+
+Email: doddamani.rahul@gmail.com                                       Mobile:9035519000 
+
+ 
+
+Professional Summary: 
+
+ Having around 2 years of experience in Software Development in Java, Hadoop 
+Development and 5 months of experience in management related work. 
+
+ Hands on experience BigData Hadoop-MapReduce, Pig, Hive, Hbase, Sqoop,  
+Flume, Hadoop-Yarn and Spark 
+
+ Experienced in installing, configuring and administrating Hadoop cluster of major 
+Hadoop distributions. 
+
+ Importing the data from sql server/postgresql to HDFS and exporting too using 
+sqoop. 
+
+ Streaming the unstructured data from web sources using Flume. 
+
+ Good exposure on usage of NoSQL database. 
+
+ Having Java development skills using Postgresql. 
+
+ Have hands on experience in writing MapReduce jobs in Java and optimizing 
+performance. 
+
+ Excellent analytical, problem solving, communication and interpersonal skills 
+with ability to interact with individuals and can work as part of a team as well as 
+
+independently. 
+
+ Ability to perform at a high level, meet deadlines, and adaptable to ever changing 
+priorities. 
+
+ 
+
+Technical Skills 
+
+BigData          : MapReduce, HDFS, Hive, HBase, Pig, Sqoop, Flume, YARN, NoSQL 
+
+and Spark. 
+
+  
+
+Languages   : Java, SQL  
+
+           
+
+Data Bases   : MySQL, Postgres.       
+
+Technologies   : Java 7/8 
+
+Methodologies  : Agile Software development 
+
+Framework   : Hadoop, Map Reduce. 
+
+Application Server  : Apache Tomcat 6.0 7.0 8.0 
+
+IDE Tools   : NetBeans, Eclipse. 
+
+Operating System  : Ubuntu, Windows. 
+
+ 
+
+Education 
+
+Bachelor of Engineering in Computer Science from BVB Hubballi, KA, India - June 
+
+2008 to 2012 – 71.6% 
+
+12
+th
+
+ from PU Board of Karnataka, India – Apr 2008 – 71.6% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mailto:doddamani.rahul@gmail.com
+
+
+Hadoop Developer Profile 
+ 
+
+ 
+
+Experience: 
+
+Promantia Global Consulting 
+
+Role: Technical Consultant - Hadoop Developer 
+
+ 
+
+Project: Decathlon Sports India. 
+
+ 
+
+Project Description: DecaOnline 
+
+Analysis of decathlon official website logs(apache logs) to understand the customer 
+
+behavior while buying a product or source of information received from for better 
+
+advertisement. 
+
+Responsibilities: 
+
+ Developed multiple MapReduce jobs in java for data cleaning and processing. 
+
+ Worked on Apache Mahout to write java code to optimizing and tuning 
+recommender system to achieve optimal performance. 
+
+ Experienced in defining job flows; managing and reviewing Hadoop log files. 
+
+ Experienced in running Hadoop jobs to process gigabytes of CSV format data. 
+
+ Supported Map Reduce Programs those are running on the cluster. 
+
+ Jobs management using Fair scheduler and Cluster coordination services through 
+Zoo Keeper. 
+
+ Involved in loading data from UNIX file system to HDFS. 
+
+ Installed and configured Hive and trained client to use it according to their need. 
+
+ Involved in creating Hive tables, loading with data and writing Hive queries. 
+ 
+
+Environment: 
+
+Map-Reduce, Hadoop, HDFS, Hive, Apache Mahout, Java (jdk1.7.0_45), Flat files, HQL 
+
+and UNIX Shell Scripting. 
+
+ 
+
+Project Description:  
+
+Supply/Store split – A project to split the single Openbravo instance that supported the 
+
+stores and the back-office ( logistics, warehouse, purchase ) into two different systems – 
+
+one for the stores and another for the back-office ( supply ) , that were integrated through 
+
+restful web services . This greatly enhanced their ability to scale the store network and 
+
+enabled them to migrate the supply network to the global standard product ( SAP ). 
+
+Responsibilities: 
+
+ Developed entire Inter store movement(ISM) module java using postgres 
+database.  
+
+ Developed complete module of discount for employees of Decathlon. 
+
+ Integration of Employee Discount with HR module (Hu-Mine integration). 
+
+ Performed Major Enhancement activities in RSS (Retail Supply Split). 
+
+ Post implementation support for the applications ISM and RSS .Providing timely 
+and appropriate resolution for the bugs reported. 
+
+ Involved in upgrade activities of Openbravo (ERP) in UAT and Production 
+environment. 
+
+ Understand the client requirement and develop code according to requirement by 
+
+following Industry specific coding standards. 
+
+
+
+Hadoop Developer Profile 
+ 
+
+ 
+
+ Daily Report to Client with update and requirements. 
+
+ Submit code on mercurial repository and update reports on redmine activity page. 
+
+ Developed application using Eclipse and used build and deploy tool as Ant. 
+
+ Used Tomcat as webserver, eclipse & PgAdmin tools.  
+ 
+
+Project: Furlenco (Furniture rental Service). 
+
+ 
+
+Project Description: Website Log Analysis 
+
+Analysis of Furlenco website logs(apache logs) to understand the customer behavior 
+
+while buying a product or source of information received from for better 
+
+advertisement. 
+
+Responsibilities: 
+
+ Developed multiple MapReduce jobs in java for data cleaning and processing. 
+
+ Worked on Apache Mahout to write java code to optimizing and tuning 
+recommender system to achieve optimal performance. 
+
+ Experienced in defining job flows; managing and reviewing Hadoop log files. 
+
+ Supported Map Reduce Programs those are running on the cluster. 
+
+ Jobs management using Fair scheduler and Cluster coordination services through 
+Zoo Keeper. 
+
+ Involved in loading data from UNIX file system to HDFS. 
+
+ Installed and configured Hive and trained client to use it according to their need. 
+
+ Involved in creating Hive tables, loading with data and writing Hive queries. 
+ 
+
+Environment: 
+
+Spark, Map-Reduce, Hadoop, HDFS, Hive, Apache Mahout, Java (jdk1.7.0_45), Flat 
+
+files, HQL and UNIX Shell Scripting. 
+
+ 
+
+

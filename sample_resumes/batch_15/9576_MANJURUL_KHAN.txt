@@ -1,0 +1,415 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MANJURUL KHAN 
+
+__________________________________________ 
+
+E-mail Address: kmanjurul@gmail.com 
+
+Contact No: +91 – 9901375784/7975496482 
+
+Skype Id: khanmanjurul 
+
+OBJECTIVE: 
+
+To seek a challenging position in any industry which encourages growth and leadership opportunities 
+
+while utilizing technical expertise, innovative abilities and interpersonal skills. 
+
+ 
+
+PRESENT WORK PLACE: 
+
+Name of the Organization Indpro (Intelligent Development & Programming Pvt. Ltd.) 
+
+Designation Software Engineer 
+
+Duration Working since 3rd March, 2016 
+
+Place Bangalore, Karnataka, India 
+
+ 
+
+EXPERIENCE AS MANAGER: 
+
+Name of the Organization H.I.O.E.C.C.S. LTD. (Haldia IndianOil Employees’ Consumers’ Co-
+operative Stores Limited) 
+
+Designation Manager (IT Infrastructure) 
+Duration 1 Year 
+
+Place Haldia, West Bengal, India 
+
+ 
+
+EXPERIENCE AS ASSOCIATE: 
+
+Name of the Organization Ancate 
+
+Designation Senior Technical Associate 
+
+Subject Core Java and C#.Net 
+
+Duration 2 Years 
+
+Place Bangalore, Karnataka, India 
+
+ 
+
+TECHNICAL SKILLS: 
+
+♦ HTML 5, CSS 3, JavaScript, jQuery, JSON, XML 
+
+♦ C# with Asp.Net MVC 
+
+♦ MS SQL Server, SQLite 
+
+♦ Bootstrap 
+
+♦ AngularJS 
+
+♦ Batch Script 
+
+♦ Data Mining, Management and Development 
+
+♦ Agile and Scrum 
+
+♦ MS Word, Excel and Power Point 
+
+mailto:kmanjurul@gmail.com
+
+
+HIGHER ACADEMIC CREDENTIAL: 
+
+Degree Institution Board/University Year of Passing Percentage 
+
+Master of 
+Computer 
+Applications 
+
+Sambhram 
+Institute of 
+Technology 
+
+Visvesvaraya 
+Technological 
+University 
+
+2012 74.56 
+
+ 
+
+ PROJECT EXPERIENCES WITH INDPRO: 
+
+1. RUNNING PROJECT (Play Home): 
+
+Project name Play Home 
+
+Project type Web Application 
+Platform Visual Studio 2013/15 
+
+Front-end C# with Asp.Net MVC (Entity Framework with Code First approach) 
+
+Back-end MS Sql Server 2012 
+My part DB design and develop 
+
+Description Play Home is a product which includes Web and Mobile application. I worked 
+on web-based application. Web page starts with an authenticated log in page. 
+Perhaps Student/Children is the most important part of any Play Home, here, 
+a role based authentication is maintained where Super admin, School admin, 
+Parent and Teacher are main characters of the website. Each of them can 
+communicate each other through its own chat group which will be generated 
+by any Admin. Email notification will reach to particular accounts on behalf of 
+each Blogs/Notices or any Chat Message related to them. A Child Ledger is 
+prepared to count candidates attendance. Super admin is the company admin 
+itself who is developing this application and who is having multiple Play Home 
+Schools. 
+ 
+
+ 
+
+2. RUNNING PROJECT (CleverHTML): 
+
+Project name CleverHTML 
+
+Project type Web Application 
+
+My part R&D (Fixing issues, bugs and client support) 
+
+Technologies HTML5, CSS, XML and AngularJS 
+Description A product which is for Clever Learning Courses. Project is developed in such a 
+
+generic way, that it can be used for several Courses.  
+ 
+
+ 
+
+3. INTERNAL PROJECT (Petrol Pump System): 
+
+Project name Petrol Pump System 
+
+Project type Web Application 
+Platform Visual Studio 2010 
+
+Front-end C# with Asp.Net 
+
+Back-end SQLite 
+
+My part DB design and development 
+Duration 6 months 
+
+
+
+Description It is a web-based application which handles the stock of a retail petrol pump 
+and generates a daily report on a single click. It includes miscellaneous 
+expenses of the retail shop and calculates the total amount in hand. Order, 
+In-transit and Indent also been calculated. At the day end an automatic report 
+is generated in pdf format including all details. 
+ 
+
+ 
+
+4. WORKED WITH FTP SERVER (Batch Programming): 
+
+♦ Developed .bat file to download files from FTP server to any local directory without any user's 
+
+interaction. 
+
+♦ Developed .bat file to copy files from one directory to another by configuring source and 
+
+destination paths. 
+
+5. PROJECT DONE WITH ACADEMIC CAREER (Payroll System): 
+
+Project name Payroll System 
+
+Project type Web Application 
+
+Platform Visual Studio 2010 
+Front-end C# with Asp.Net 
+
+Back-end SQL Server 2008 
+
+Team Two members 
+My part DB design and development 
+
+Duration 12 weeks 
+
+Description It is a web-based application which easily handles the pay slip for each 
+employee of any organization. It automatically does the task that use to be 
+handled manually by inserting the allowances and deductions. This 
+application in contrast generates a pay slip on a single click. Here, it has been 
+taken care of employees’ security by providing a password protected pdf 
+generated pay slip. 
+ 
+
+ 
+
+6. MINI PROJECTS DONE WITH ACADEMIC CAREER: 
+
+♦ Book Sore Management System, application software to keep records of all books in a bookstore 
+
+(Using C# & SQL Server 2005). 
+
+♦ KBC-2, a game on quiz contest (Using C++). 
+
+♦ A table with thin line border by using HTML 5.0. 
+
+♦ A square box (400 X 400) with blue color border, which will always be at the center (horizontally 
+
+at the center and vertically at the middle) of the page. It must work for any screen having different 
+
+resolution and for different browser like IE, FF and Chrome using HTML 5 and CSS 3. 
+
+♦ Styled text box with maintaining suitable left and right padding, styled list using HTML 5 and CSS 
+
+3. 
+
+♦ Using CSS 3 and JavaScript, a button having a thin red color border around it with white color text 
+
+and blue background. On mouse over of the button, the button text color will turn pink. On mouse 
+
+over the button “hand” cursor will show. The first letter “p” of “print” must be underlined, as an 
+
+indication that keyboard letter “p” could be used as “access key” with an alert message “Hi! I’m 
+
+clicked” should be shown. 
+
+
+
+♦ Using JavaScript a program to print like 1+2+3+4=10 for a given numeric value (e.g. 4). 
+
+♦ Using JavaScript a program to print “|” separated even or odd numbers for a given input. The 
+
+output should look like 2|4|6|8|10 if input is 10-e or 11-e or the output should look like 
+
+1|3|5|7|9|11 if input is 11-o or 12-o. 
+
+♦ Without using any global variable, a JavaScript function having at-least two input arguments (e.g. 
+
+356 and 5) will show its divisions up-to reminder less than second input (e.g. 5). 
+
+♦ A JavaScript function which takes as input a string that consists only of the digits from 0-9 and 
+
+outputs a distribution (like a grade distribution) showing how many times each digit appears in 
+
+the string. 
+
+♦ A function whose return value will produce a dynamic table using JavaScript with object notation. 
+
+♦ Getting results by creating four buttons as ‘first’, ‘next’, ‘previous’ and ‘last’ and on click on those 
+
+get the numeric values as expected. 
+
+EXTRA CURRICULUM ACTIVITIES: 
+
+♦ Attended #GIDS 2017 in Bangalore 
+
+♦ Attended Free Software Movement Karnataka, a technical conference in Bangalore 
+
+♦ Family Welfare Bureau at Khanakul, Hooghly, West Bengal 
+
+♦ Life Member of Indian Red Cross Society 
+
+♦ Member of Bratachari Kendriya Nayak Mandali 
+
+♦ Own first prizes in inter Collegiate Solo Singing competitions 
+
+♦ Attended several Inter Collegiate Technical Fests 
+
+STRENGTHS: 
+
+♦ Dedication, Determination and Devotion. 
+
+♦ Smart work and Creative enthusiastic. 
+
+♦ Well organized and able to get along well with people. 
+
+♦ Ability to work independently and as a part of a team. 
+
+♦ Ability to solve problems. 
+
+♦ Positive approach. 
+
+HOBBIES: 
+
+Singing, playing cricket and football, swimming, photography, cooking, writing poem, explore new tricks 
+
+on technologies as well as mysteries and visit new places. 
+
+PERSONAL DETAILS: 
+
+Full name  Md Manjurul Hasan Khan 
+Father’s Name Md. Yeakub Ali Khan (Retired School Teacher) 
+
+Mother’s Name Farida Khatun (House Wife) 
+
+Date of Birth 2nd February 1984 
+Gender Male 
+
+Marital Status Married 
+
+Language known English, Hindi and Bengali 
+
+Blood Group B+ 
+
+Religion Islam 
+
+Category General 
+
+Permanent address Village: Dhekua, P.O: Dhekua, P.S: Sutahata  
+
+
+
+District: Purba Medinipur, West Bengal: 721658 
+Nationality Indian 
+
+ 
+
+LAST BUT NOT THE LEAST:  
+
+♦ I was on job training for few months using PHP with WordPress technology as a Software 
+
+Developer at Next Screen Infotech Private Limited in Kolkata. 
+
+♦ I have few months of experience as a BDE (Business Development Executive) on stock/share 
+
+market with Adskaro (MarketGyan) Company in Bangalore. 
+
+♦ I have few months of experience as an HR Recruiter with Inspiration Manpower Consultancy in 
+
+Bangalore. 
+
+♦ During the year 2001 to 2003 I was trying to study B.A. in English (hons.) from Bardwan University 
+
+but couldn’t accomplish. 
+
+♦ During the year 2004 & 2005 I was working as a Supervisor under a contractor of tiles’, marbles’ 
+
+and granite's fixing at few construction sites in Bangalore. 
+
+STATEMENT OF PURPOSE:  
+
+I hereby declared that above said information is correct and true to best of my knowledge and 
+
+understanding. All relevant documents and proofs shall be submitted for verification whenever it will be 
+
+required. 
+
+Place: Bangalore, Karnataka. 
+
+ 
+
+ 
+
+Signature with date 
+
+[MD MANJURUL HASAN KHAN] 
+
+ 
+
+

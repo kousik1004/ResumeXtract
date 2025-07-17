@@ -1,0 +1,301 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+S
+
+Mayank Gupta
+
+
+Mobile:  09560060265 e-mail: guptamayank223@gmail.com
+
+
+Aspiring for a challenging job wherein my acquired knowledge are put to best use in the organization and also providing me with an opportunity to grow professionally to my full potential, proving me as an asset to the company. Technically proficient with the learning ability to grasp .
+
+WORK EXPERIENCE 
+
+
+· 9 months experience as Senior Specialists  Oracle DBA in HCL TECHNOLOGIES LTD (On ONCOR Smart meter U.S. Project) :- Working from FEB17 TO PRESENT.
+                    Responsibilities:-
+· Supported the dev/test/prod databases to make them available 24x7.
+
+· Monitoring Alert Log file and resolving ORA related errors, if any.
+
+· Monitoring Free Space in Table Spaces.
+
+· Created and managed tablespaces, datafiles, resizing and adding new datafiles etc.
+
+· Installing Oracle 10g & 11g software on Linux.
+
+· Creating and Managing Users, GRANT, REVOKE Permissions for the Users in order to ensure the Database Security.
+
+· Altering users, checking account status, password unlock etc.
+
+· Database creation & monitoring database runs in Non-Archive Mode or Archive mode.
+
+· Managing undo tablespaces, temporary tablespaces.
+
+· Creating users, allocation of appropriate table space, quotas with necessary privileges and roles.
+
+· Daily monitoring the database alert log files for any error messages.
+
+· Periodic check on tablespace utilization and growth.
+
+· Delete the unwanted RMAN backup file using RMAN utility.
+
+· Working on Service Requests and Incident Tickets based on Priority.
+
+· Troubleshooting the database for any slowness issues.
+
+· Starting & stopping RAC cluster, databases during outage through CRSCTL utility.
+
+· Refreshing Schemas using Data pumps for Test environment.
+
+· Good experience in Oracle RAC, ASM, Data Guard and database performance tuning.
+
+· Experience in backups and recovery using RMAN.
+
+· Experience in Logical backups using Data Pump utility.
+
+  
+· 2.3 years  experience  as Oracle DBA in IBM (On Bharti  Airtel Project):- Working from OCT-14 to JAN17.
+                     Responsibilities:-
+
+· Involved in installation of Oracle software on different platforms.
+
+· Handling of oracle databases on different platforms like Solaris and windows.
+
+· Worked with max 30TB database size.
+
+· Management of day-to-day DBA activities like monitoring space, memory requirements, checking Alert Logs, Archive Logs, Trace files and backup verifications, Health Checks.
+
+· Created instances, databases, tablespaces, schemas, tables,indexes,etc;  
+
+· Maintained table spaces, datafiles, temp files, control files and log files. 
+
+· Created user accounts, assigned appropriate roles & privileges as required by the application; managed profiles and db security.  
+
+· Check the Database, Listener Availability. Monitoring space Availability.
+
+· Viewing the Alert log file to analyze the ORA errors if any.
+
+· Performing Backups and Restoration using RMAN, exp/imp and expdp/impdp.
+
+· Handling of Oracle 11g RAC, RMAN and ASM.
+
+· Experience of RAC installation and database upgradation.
+
+· Manage Oracle ASM instances and configure Oracle RDBMS instances to leverage Oracle ASM, Improve storage performance and integrity using the ASMCMD command line utility. Add and remove Oracle ASM storage without affecting RDBMS instance availability. Managing ASM disks, ASM disk groups,
+
+· Creation of Cron jobs, RMAN scripts using Vi Editor for automating Backup process.
+
+· 1.1 years  experience  as Oracle DBA in NET CONNECT PVT LTD :- Working from SEP-13 to OCT14. 
+
+· CLIENT NAME – IBM INDIA PVT LTD (On Bharti  Airtel Project as an Oracle – DBA).
+                    Responsibilities:- 
+
+· Handling of oracle databases on different platforms like Solaris, Aix and windows.
+
+· Management of day-to-day DBA activities like monitoring space, memory requirements, checking Alert Logs and backup verifications.
+
+· Created instances, databases, tablespaces, and schemas.  
+
+· Created user accounts, assigned appropriate roles & privileges as required by the application; managed profiles and db security.  
+
+· Check the Database, Listener Availability. Monitoring space Availability.
+
+· Viewing the Alert log file to analyze the ORA errors if any.
+
+· Performing Backups and Restoration using exp/imp and expdp/impdp.
+
+· 5 months  experience  as Oracle DBA in COLLABERA SOLUTION PVT LTD:- Working from May-13 to  SEP 2013.
+· CLIENT NAME – IBM INDIA PVT LTD (On Bharti  Airtel Project as an Oracle – DBA).
+                    Responsibilities:- 
+
+· Installing Oracle 10g & 11g software on Linux.
+
+· Creating and Managing Users, GRANT, REVOKE Permissions for the Users in order to ensure the Database Security.
+
+· Altering users, checking account status, password unlock etc.
+
+· Database creation & monitoring database runs in Non-Archive Mode or Archive mode.
+
+· Creating users, allocation of appropriate table space, quotas with necessary privileges and roles.
+JOB RESPONSIBILLITES
+
+
+· Installed and patched Oracle software. Setup brand new machines including Oracle software installation, Oracle configuration. 
+
+· Moved database Schema changes from stage to production. 
+
+· Developed or modified some Oracle backup and recovery scripts. 
+
+· AWR,ADDM,DATAPUMP,ASM.. 
+
+· Database Administration which include Database creation, User management, Space Management, Tablespace Management. 
+
+· Backup Recovery  management include cold and hot backup, user managed backup, RMAN backup. 
+
+· export import backup. 
+
+· Applying PSU patches.
+
+· Installation of Oracle  12c OEM and deploying agents for Oracle databases of different versions.
+
+· Management of  Oracle 10g/11g RAC instances through Oracle 12c OEM.
+
+TECHNICAL SKILLS
+
+
+· 4.6  years of I.T. experience as Core Oracle Database Administrator, providing production and Development support for 9i/10g/11g databases on different platforms. 
+
+· Install, administer, monitor, patch, and clone Oracle 10g/11gR2 databases. 
+
+· Providing 24/7 production DBA support for Oracle. 
+
+· Design and manage database security, roles, and profiles. 
+
+· Handling space related issues on tablespaces, storage related issues on filesystems. 
+
+· Standby database Management(physical,Active). 
+
+· Creating Users/Roles and assign privileges. 
+
+· Managing Automatic Storage Management for oracle 10g,11g databases. 
+
+· Hands on exposure in Oracle Database user management, profiles, Database. 
+
+· Performed logical backups using Export/Import/Data Pump utilities. 
+
+· Experience in configuring RMAN Disk and RMAN tape backups. 
+
+· Providing 24/7 support for smooth functioning of the Databases in a Production Environment. 
+
+· Good performance tuning skills and to help the development team to define optimized queries. 
+
+· Monitoring and optimizing the performance of the database 
+
+· Monitoring alert logs, trace files, disk space, etc periodically and generating reports. 
+
+· Facilitate root cause analysis on problems in database and identify solutions to address such issues. 
+
+· Planning for backup and recovery of database using RMAN. 
+
+· Scheduling periodic backups of all databases and Testing of backups through recoveries at regular intervals as part of backup strategy. 
+
+· Comprehensive knowledge of Oracle database architecture. 
+
+· Performing Archiving. 
+
+· Handling space related issues on tablespaces, storage related issues on filesystems.
+
+· Creation & Maintenance of Database Objects and storage structures after the application is designed. 
+
+· Allocating system storage & planning for future storage requirements for the databases. 
+
+Software Skill Set
+
+
+·  Databases : Oracle 9i,Oracle 10g, Oracle 11g, Oracle 12c
+· DB Tools: RMAN,ASM,EXPORT-IMPORT, Dataguard, RAC ,TOAD,Putty,
+
+· Operating system : AIX, Linux, HP, Windows server 2000, 2003, 2008,Windows XP,
+
+
+· Office tools   :   Microsoft office.                         
+
+ACADEMIC CREDENTIALS
+
+
+Completed Bachelor of Engineering (Electronic and Communication) from Vindhya Institute of Technology and Sciences (VITS) Jabalpur in 2011 with 65.41%.
+
+	Course
+	Institute
+	University
+	Year
+	Percentage
+
+	B.E (E.C)                  
+	V.I.T.S
+	RGTU Bhopal
+	2011
+	 65.41%
+
+	H.S.C
+
+
+	Saraswati Higher Sec School 
+	M.P. Board
+	2007
+	60.00%
+
+	S.S.C
+
+
+	Saraswati Higher Sec School
+	M.P. Board
+	2005
+	      68.00%
+
+
+PERSONAL  INFORMATION
+
+
+Date of Birth:
+
+        14th October 1989
+
+Marital status:                              Unmarried.
+
+Present address:                          MB-165, Madhuvan chowk, Shakarpur New Delhi
+Permanent address:                   44 Vivekanand nagar, yadav colony Jabalpur (M.P.)
+
+Language Proficiency:
+       English and Hindi.
+
+I am assuring you that the information declared above is true to the best of my knowledge.
+

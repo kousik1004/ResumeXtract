@@ -1,0 +1,263 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sandeep Ambade
+	Contact Number
+	 7769925255
+
+	Alternate Contact Number
+	 9284271315
+
+	Current location of the candidate (City/State)
+	 Pune, Maharashtra
+
+	Email Address
+	ambade.sandeep@gmail.com
+
+
+
+Professional Summary:
+• Over 10 years’ experience in the Network Designing and Implementation of Routing, Switching, Wireless technologies and troubleshooting of Complex Network systems.
+• Hands-on exposure at designing, installing, configuring & maintaining Enterprise Networks using Cisco routers, Catalyst Switches, Racking, Stacking, Configuring various networking devices.
+• Experience in IPV4 & IPV6 addressing with fixed & variable length subnet masking (VLSM), OSI, TCP/IP models.
+• Strong hands on experience in installing, configuring, and troubleshooting of Cisco Catalyst 6500, 4500, 3750,3850 and 2950 series switches, Cisco 4K,3900,3800,3600,2800,2600,2500 and 1800 series Routers.
+• Experience in LAN, WAN & switching technologies along with Failover Mechanisms & Inter VLAN Routing types.
+• Hands on experience of Juniper MX80, MX240, MX480, MX960, EX4550, QFX5100.
+• Hands on experience in configuration of F5 LTM VIPRION 2400 models.
+• Basic F5 Load Balancer configuration and general troubleshooting.
+• Enterprise Routing experience using protocols EIGRP, OSPF and BGP.
+• Knowledge in WAN Technologies such as OC-3, T1/E1, T3, DS3, Fiber and Frame Relay.
+• Hands on experience in implementing & troubleshooting VLANs, Spanning tree protocols (STP, RSTP, PVST+) Ether Channel, PAGP, LACP and 802.1Q.
+• Knowledge in configuration of Gateway redundant protocols like HSRP, VRRP and GLBP.
+• Experience working with ticketing tool such as Remedy
+• Experience working with Cisco Nexus 2148 Fabric Extender and Nexus 5000 and 7000 series DC Switches and Virtual Port Channel configuration provide a Flexible Access Solution for a Data Center Access.
+• Implemented VDC, VPC on the Nexus 5505 and 7009 switches.
+• Experience in configuration and troubleshooting of WLC 2504 in standalone and 5508 & 5520 in HA/SSO pairs.
+• Experience in configuration and troubleshooting of Lightweight access point of 2702 and 3702 (internal and external) from WLC.
+• Experience in configuration and troubleshooting of Autonomous 2602 Access point
+• Experience in configuration and troubleshooting in IPsec (site to site).
+• Experience in configuration and troubleshooting in DMVPN solution.
+• Knowledge and basic hands on Cisco ASA and checkpoint.
+
+
+
+
+CERTIFICATIONS:
+
+· Cisco Certified Network Associate (CCNA) 
+· Cisco Certified Network Professional (CCNP) 
+
+Academic Qualification:
+B.E (Electronics) from Umrer college of Engineering, Nagpur University, Maharashtra in 2005 with first Division.
+
+
+Technical Skills:
+
+	Routers
+	Cisco 2911/2951/3845/3945/4321/4331/4351/4451,Cisco ASR 1000 , Cisco 7600, Juniper MX80, MX240, MX480, MX960
+
+	Switches
+	Cisco 2900,3600,3700,3800,3900, 4500, 6500 Catalyst Series Cisco 7000, 5000,2000 Nexus Series, EX4550, EX9200, QFX5100
+
+	Routing Protocols
+	BGP, OSPF, EIGRP, IGRP, and RIP, Redistribution, Summarization and Static Routing.
+
+	Switching Protocols
+	STP, RSTP, PVSTP, VTP, ARP, and VLAN, Optimizing STP (Port Fast, Uplink Fast, Backbone Fast, Root Guard, BPDU Guard).
+
+	Gateway Redundancy
+	HSRP,VRRP and GLBP
+
+	MPLS
+	LDP, MPLS L3 and L2 VPN
+
+	 Load Balancing
+	Cisco ACE 4700 series, F5 LTM VIPRION 2400
+
+	Firewalls
+	ASA and Checkpoint R75/R76/R77
+
+	LAN Switching
+	STP, IEEE 802.1Q, VTP, VLAN & Inter-VLAN routing, QOS
+
+	WAN/core
+	ATM, Frame-Relay, ISDN, PPP, HDLC
+
+	Wireless Technology
+	Cisco LWAP, Access Points, WLC 
+
+	Ticketing software
+	Remedy system and Aldea
+
+	IPSEC/VPN Configuration
+	Site to Site and DMVPN
+
+	Cabling
+	CAT 5, CAT 5e, CAT 6, CAT 6a
+
+	Operating Systems
+	Windows Server/8/7/Vista/XP, Nexus OS, Cisco IOS-XR, Linux, Unix (Mac OS)
+
+	Applications
+	Wire Shark, Remedy , Putty , Hyper Terminal , Omnibus , Netcool Reporter, tera term , Viewnet, NMS Loader , config store , RaRa , Viewnet , Secure CRT, IP registrar, Roars, Visionael, Roars, COF, IP registrar ,CMDB
+
+	Microsoft Office
+	Visio, Excel, PowerPoint, Word
+
+	
+	
+
+
+
+
+Professional Experience:
+1) Infosys Limited, Pune                              6 March 2017 till Date
+Job Designation: Senior Network Consultant
+Job Profile: Technical Analyst for Exxon Mobil Customer
+
+· Project Details:  Exxon Mobil is one of the largest oil and Gas Company. It has almost 800 sites which is having around 21K network device all over the globe. 
+
+· Role and Responsibility: 
+
+· Manage a team of 7 to 9 people also play a role of shift lead.
+· Add and remove servers in server farm in cisco ACE load balancer.
+· Configure and troubleshoot DMVPN issue
+· Add new network in BGP and troubleshoot BGP related issue.
+· Add new wireless Vlan and troubleshoot ssid related issue.
+· Join SWAT call when major network incident occur and co-ordinate with different team.
+· Perform RMA and replace network devices.
+· Raise TAC case with Cisco, Juniper and F5 in case of major incident and troubleshoot with them.
+· Shift the traffic to backup link in case of primary link goes down or flap continuously.
+· Work with different ISP to solve circuit related issue.
+· Configure port for server in data center like Fex devices.
+· Troubleshoot network intermittent and slow performance issue.
+
+
+2)  Tech Mahindra Limited, Pune.                7 April 2014 till 24 Feb 2017
+
+           Job profile: Technical Designer for P&G account.
+
+·  Project details:  Consolidating customer network infrastructure requirements. Develop & design a network solution as per customer needs. Have successfully deployed, test network proposed solution and provide hyper care support. 
+
+· As a LAN transformation project team member need to understand customer set of requirements and refresh the EOS/EOL switches 
+· As a WAN transformation project team member perform hardware refresh 2800/3800 routers with 4300/4400 Routers.
+· Perform site discovery to understand existing network infrastructure. Gather network infrastructure requirements on a validation call with the requester/Client.
+· Propose a network change or solution considering network design standards. Prepare HLD & LLD to reflect the proposed solution.
+· Create a BOM (Bill of Materials) for ordering of required hardware’s.
+· Submit circuit order request to provider based on EF value of the link.
+· As part of implementation, perform configuration of Cisco 1900/2900/3800/3900/4000/ASR1000 series routers. Up gradation of WAN Links and EF QOS values.
+· Configuration of Cisco catalyst 3600/3700/3800/4500/6500 switches. IOS up gradation for Routers & Switches.
+· Study wireless survey and propose a wireless solution. Configuration of Cisco 2600 WAPs in autonomous and lightweight mode. Configuration of Cisco 2500/5500 series WLCs.
+· Design and implementation of Site-to-Site VPN tunnels with External Business Partners (EBP).
+· Supporting 24x7 Critical Network Incident and Problems.
+
+List of different projects completed in P&G account:
+· LAN Transformation: Refresh EOF switches with the latest one. 
+· WAN Transformation: Refresh 28XX, 38XX series routers with 43XX and 44XX routers.
+· Greenfield site installation: Setup new sites
+· Installation of new switches:
+· Installation of autonomous AP and lightweight AP:
+· Site expansion projects.
+· Decommission projects.
+· Add new Vlans like User, wireless, Server projects
+· IP consolidation projects.
+· Lan consolidation projects.
+
+
+
+3)  Mphasis an HP company, Pune.                8 Dec 2008 till 4 April 2014
+
+Job profile: Team member of Enterprise Engineer East to provide enterprise solutions to the Bank of America.
+  Projects: Working on 6500 series switches (Hybrid and Native), 3550, 3560 series switches, 3700 and 3800 series routers. Handle different type of projects.
+· Designing Client Enterprise network. Preparing NCT, CMDB, Visionael and NEI Diagram.
+· Coordinating with SRM Team to gather the requirement and cost from customer networks.
+· Manage IP addressing schemas and VLAN management.  Support initial internal calls to discuss resource assignments with HP and Bank PM.   
+· Support validation calls with client and gather the required information. Schedules and supervises all maintenance and installation work. 
+· Preparing Implementation BOM (Bill Of Materials).
+· Provisioning IP_MPLS, BGP, EIGRP. Troubleshooting of 6500, 3560 Switches.
+· Configuring and installation of 6500 Core Switches. Up gradation of WAN Links exp. adding T1 links in MPLS bundles and T1 to DS3.
+· IOS up gradation for the Backbone and access layer switches. Checking modules of routers and switches. 
+· Line-card installation to increase capacity of switches, relocation of users.
+· Provide Video connections to conference room, configure data, voice , video and wireless VLAN on access and distribution layer switches.
+· Provide uplinks for VAE’s and VAR routers, provide WAP’s connectivity to users (Unified and Local controller).
+· Configure ports for user relocation, prepare EWO for complete site decommission and prepare Roars request for the IPAM team to register or deregister IP address.
+· Troubleshooting, designing and configuring of L3 devices. 
+· Submit COF (Circuit order form) request to ISP to install/deinstall MPLS circuits to site.
+· Ensure that operational problems are identified and resolved. Prepare project reports and review with client on weekly basis. 
+· Provide implementation support.
+Telepresence: Provide Engineering solutions and prepare NCT (Router switch Configurations script) to install TelePresence.
+SSH: Provide Engineering solution and prepare configuration to upgrade the remote access tool from Telnet to SSH.
+4) Wipro Technologies, Pune.                       25 Sept 2006 to 4 Dec 2008.
+· Job profile: Remote Solutions Unit provides remote solution to BT customer's at Leeds UK.
+· LAN/WAN Diagnostic & CE Configuration: This includes handling tickets generated for troubleshooting of customer's Network issues like Routing Issues, Backup Issues, BGP issues. HSRP issue and ISDN issue BT has following WAN Technologies to connect customer N/W's. ATM, Frame Relay, ISDN, PSTN.ADSL – Troubleshooting this WAN Link .Diagnosing the root Cause of the issue faced by the customers who are BT Managed.
+
+·   Change Management & Configuration : This process is about to change in the configuration of Customer's Router's as per Customer's request (E.g. Adding/Advertising routes, Change in Configurations, Configuring IP helper address , Configuring HSRP, Changing routes to ISP ).  
+
+· Field Dispatch & Control: This Process is to arrange, follow up and to help the Field Engineers to troubleshoot Customer’s Router.
+
+· Proactive Management: This Process includes proactively monitoring the customer's network as per alarms generated in Omnibus. This includes monitoring of Link, Interfaces, ISDN, BGP, HSRP also router down issues and generating Tickets accordingly.
+
+· Field Support : This Process includes technical support with Field Engineers who are at the site  
+
+
+Personal Details :
+
+Father’s Name	 :       Mahadeo Sukal Ambade
+Date of Birth	           :       11th April 1983
+Nationality              :       Indian
+Marital Status         :       Married 
+Language Known    :       English, Hindi & Marathi
+Passport No            :       R1332044
+
+ 
+
+  Date:
+   Place:							  (Sandeep M. Ambade)
+

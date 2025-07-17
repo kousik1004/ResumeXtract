@@ -1,0 +1,225 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yukesh Kumar S                			
+
+Mobile : +91- 9500316889
+E-Mail: yukeshkumar_s@yahoo.com
+
+OBJECTIVE
+
+To obtain a challenging position that would hone my skills and help ladder my career development in the long run while providing commitment to the firm.
+
+PROFILE
+
+· 5.2 Years of experience in SAS programming.
+
+· Worked predominantly in SAS/Mainframe JCL in HR Data Management and Healthcare claims.
+
+· Good Optimization skills to increase efficiency in SAS, SAS/SQL.
+
+· Have sound knowledge and skills in manipulating data using SAS and various procs in  Z/OS environment and SAS EG.
+
+· Good understanding of PROCs and MACROs and the ability to implement in the higher level projects 
+
+· Strong exploratory skills and adaptable to new technologies
+
+· Possess a high degree of positive attitude and communication.
+
+PROJECT ANNEXURE
+
+
+DB2 Advisor (Query Optimization)
+
+	Client
+
+	KeyBank
+
+	Role
+	Reviewing the Queries/SAS that have taken longer CPU time and taking appropriate actions in order to reduce the CPU time.
+
+
+	Synopsis
+	· On timely basis, the CPU Utilization report will be reviewed and the Queries/SAS that takes more time will be fined tuned.
+
+· We found a long-running report generating Query which had several left joins and sub selects where fine-tuning a query wouldn't be fruitful.
+
+· I've converted the Query into a SAS and have fine tuned it ,which yielded a effective utilization of CPU time by reducing it to 2% of actual time consumed(saved 98% of CPU Time).
+
+
+	Languages/Database
+	SAS/SQL, JCL, ADB2
+
+
+
+
+          HR Project Implementation
+
+	Client
+
+	Hyatt Corporation
+
+	Role
+	Configure and code the jobs based on the analysis provided from client side , and implementing an ongoing process to load the files received from the client 
+
+
+	Synopsis
+	· To maintain and load client’s employee, dependent and coverage data to Aon Hewitt’s system, provided statistical reports and other related information’s to the client via E-mail or EFT.
+
+· In order to perform all these activities on a huge population, batch jobs that run on MVS operating systems were made use of along with SAS programs for reporting purposes.
+
+· Employees’ life insurance, coverage for employees & dependants, HR Client file processing, Payroll processing are some examples of the kind of information involved in this project
+
+
+	Languages/Database
+	JCL, SAS/SQL, ADB2
+
+
+
+Billing Attestation 
+
+	Client
+
+	Meijer 
+
+	Role
+	Configure and code the jobs based on the analysis provided from client side , and implementing an ongoing process 
+
+
+
+	Synopsis
+	· Each month Aon Hewitt submits a total participation count that includes all individual client counts. This number is used to determine the monthly charge for the provider direct service. When teams are over counting and under counting each participants it leads to over and under payment. It is imperative that the client counts are accurate.
+
+· Implemented an automated process so that client’s participant counts’ query is run monthly and sent to DW team.
+
+
+
+	Languages/Database
+	JCL, SAS/SQL, ADB2
+
+
+
+
+Other Projects
+· Handled Annual Enrollment for two years for the client Hyatt and Telephone and Data Systems (TDS) which involved several months of processing and gathering the changing requirements on timely basis and working upon as needed.
+
+· Handled several one-time and ongoing report generation which involved critical deadlines and complex coding logics by adhering to SDLC methodology.
+
+
+· Handled a complex acquisition project from scratch which involved adding of new company codes, participants and their related data to an ongoing client.
+
+
+TECHNICAL SKILLS
+
+Operating Systems 	Windows Family & Z/OS
+Languages	               Base SAS, JCL, SQL
+Database			DB2
+Tools				SAS-EG, TSO-ISPF, File-Aid, Workbench
+	
+
+Responsibilities
+
+· Have been grooming up and utilizing team-mates effectively.
+
+· Have been handling info-share programmes 
+
+· Handling weekly Client status calls, providing statuses and discussing to avoid any risks proactively
+
+
+CAREER PATH	
+          
+            Healthcare Data Analyst		 Scio Health Analytics		        Apr’17 – till Date
+
+            Programmer Analyst Adv                  AON Hewitt			        Oct’16 – Apr’17	
+         
+	Sr.Batch Technical Specialist
+
+	AON Hewitt
+	Apr’15 – Oct’16
+
+	Batch Technical Specialist
+
+	AON Hewitt
+	Aug’13 – Apr’15
+
+
+
+
+EDUCATION
+
+2009 - 2013				Sri Muthukumaran Institute of Technology
+B.Tech.Information Technology                Chennai
+(73.0%)				
+
+2007-2009				St.Anne’s Matric. Hr. Sec. School 
+SS Higher Secondary 			Tiruvallur
+(80.9 %)				
+
+
+
+
+
+
+
+
+PERSONAL INFORMATION	
+
+·   Father’s name			:   K Shashiya
+·   Date of Birth	         		:   25-03-1992
+·   Gender	:   Male
+·   Nationality	:   Indian
+·   Communication Address       :   #8,Pallavan Street,
+	    Rajajipuram,
+	    Tiruvallur-602001.
+	 
+	   
+I pledge and pronounce that the information furnished above is true to best of my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars. 
+ 
+               
+
+                           																						Yukesh Kumar S
+

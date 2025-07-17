@@ -1,0 +1,192 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No 7,Ganeshapuram,
+
+
+Curriculum Vitae
+VENKATAPTHIRAJ. R
+
+
+
+
+
+
+
+
+rajurraju400@gmail.com
+
+
+Mobile: +91 9962929599
+Objective
+
+To provide your organization with the best possible computer and systems administration, maintenance and support services.
+experience 
+3+ years of experience in Information Technology.
+Working in IBM India pvt ltd since 2014 September till date. 
+professional Details:
+1. Company: IBM India Pvt Ltd., Chennai
+
+Client:  Michelin Tire Corporation
+
+Role:    UNIX Administrator
+
+Period: SEP 2014 – Till date
+
+                        The project deals with 500 UNIX Servers supporting to the Michelin Tire corporation which is a product manufacture sector primarily located in North America within the agreed SLA`s. Main aim is to provide support and involve Change Management, Process Management and Incident Management and Release Management to the Production and Non-Prod Servers which are in use also include RFS.
+Roles and Responsibilities
+· Working with the high severity Incidents and changes ranging from Sev1 to Sev4
+
+· Patching of servers as per the scheduled scan from the repo server which involves raising changes before the Implementation.
+
+· Day-to-Day Activity involves working on Incidents, Changes, Request, and other activities like Filesystem related issues, Availability Alerts, NTP and network related issues
+
+· Raising case with Vendors for hardware part replacement and hardware related issues, such as Array controller battery, Fault hard drive, faulty memory, faulty cache replacements
+
+· Analyzing Linux Server alerts and Troubleshooting its issue
+
+· Managing LVM on servers, Creating/Altering/Extending filesystems 
+
+· Attending bridge call hosted by Incident Managements for critical issues
+
+· Configuring and upgrading the vmware tools on virtual servers.
+
+· Attending meetings like Check point, Change Advisory Board(CAB), Top 5 Critical servers for each day
+
+· Working with Tivoli End Point Manager for Monitoring and Tivoli Scheduler for data backup using Tape drive & Tape Library
+
+· Working on OS upgrades, Hosts rebuild Linux and Decommissioning hosts
+
+· Working with ITS support team for any part replacement at hardware level.
+
+· Working with RFS activity involving new servers build as per business requirement 
+
+· Working with BAU activity involving day to day activity such as Incidents, Service request, and Changes 
+
+· Identify incident and problem root causes and document resolutions in designated knowledge web link
+
+· Working with different vendors for any hardware issue and with REDHAT for any clarification at OS level
+
+· Attending Bridge Call, Oncall, CAB meet, hosted by Problem & Change Managements for critical issues
+
+· Managing Security Compliance and install latest patches as per APAR/CIRAT Management.
+Skill Set:  
+· Performed remote management using chef configuration management tool that executes recipes to perform deployments, change orders, and maintenance. 
+
+· Writing cookbooks, recipes for chef configuration management tool
+
+· Managing Open-stack integrated with VMware
+
+· Server build and automation in bash scripting
+
+· Build and manage repo server for patch management
+
+· Knowledge in Process, Incident, Change and Service Request Management
+
+· Deploying LACP + teaming + Vlan allocation for physical host. 
+
+· Managing NFS, SAMBA and FTP, HTTP&S , Tomcat Servers
+
+· Managing USER Accounts, Groups, Profile Installation
+
+· LVM management, performance tuning and disk allocation.
+
+· Installing and upgrading patches on servers as per the release and security Management
+
+· Personally own, analyze, and troubleshoot Incidents and problems within agreed SLA.
+
+Certification and training
+· Completed EX300 Red Hat Certified Engineer Exam by Redhat., in Jun, 2016
+
+· Completed EX300 Red Hat Certified System Administrator Exam by Redhat., in Jun, 2016
+
+· Completed RH442 Red Hat Enterprise System Monitoring and Performance Tuning Training  by Redhat., in Jun, 2015
+
+· Completed RH436 Red Hat Enterprise Storage Management Training by Redhat., in Aug, 2015
+
+· Completed RH210  Red Hat Certified openstack (Cloud) Administrator Training by redhat ., in feb, 2016
+Area of exposure
+· Operating Systems     :  Red Hat Enterprise Linux, Suse Enterprise Linux
+
+· Incident Management :  Technology Change Management and Service Now
+
+· Tools used
+            :  Maximo, (openstack Software integrated  with vmware) , Redhat, SUSE, IEM, ICO Cloud, Chef devops.
+achievement
+· Appreciation certificate from Michelin CIO for outstanding dedication and commitment towards client success
+
+· Appreciation certificate from France delivery head IBM for successful completion of ONC center migration project 2017 and commitment towards client success
+Education
+· B.Tech [ Pondicherry university ]
+
+          2010 – 2014
+
+· H.Sc [ Nivedha Matric Hsc School, Poraiyar ]         2008 – 2010
+
+· Matric [ Nivedha Matric Hsc School, Poraiyar ]       2007 – 2008
+Personal Information
+Date of Birth
+                          : 06/01/1993
+
+Gender
+                          : Male
+
+Address for Communication:    #55 housing board clony,,
+
+
+
+
+
+
+       2nd cross, Sri venkateshware street, 
+
+
+
+
+
+       ramapuram, Chennai – 600089
+
+
+
+Declaration
+
+I hereby declare that the above given information is true and correct to the best of my knowledge.
+Place:  Chennai. 
+                                                                  
+                 (venkatapathiraj .R) 
+

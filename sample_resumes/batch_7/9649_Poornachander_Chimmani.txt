@@ -1,0 +1,161 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Poornachander Chimmani	
++91-9663662295
+poornachanderdev@gmail.com
+
+
+SUMMARY:
+
+· 2.5 years of professional experience in prod support, analysis, design, development and testing of web and distributed multi-tier applications using with MS.NET Framework  and associated technologies such as ASP.Net, C#, ADO.Net, and SQL Server .
+· Having knowledge and deployed SSL Certificates in multiple prod servers.
+· Perform  application sanity checks after the production CHGs.
+· Perform deployments on multiple servers
+· Responsible for designing web pages using the concepts such as Master Pages,  HTML, XML, Java Script .
+· Well versed with complete Software Life Cycle Development (SDLC) process which includes Analysis, Designing, Developing, Testing, Implementing and Documenting the entire life cycle using various methodologies like Waterfall, Agile, Scrum.
+· Well experienced in developing multi-tenant applications using latest technologies and frameworks such as HTML5, CSS3, Bootstrap, JavaScript, Web API.
+· Proficient in developing Web pages quickly and efficiently using HTML5 and CSS3.
+· Knowledge on Angular 2.
+· Experience in relational database development, for  writing Constraints, Indexes, Views, Stored Procedures, Triggers and Functions in Microsoft SQL Server.
+· Sound knowledge and good experience with Object Oriented Concepts, Object Oriented Design and Implementation.
+· Experienced in various IDEs like Visual Studio, Visual Studio Code, Notepad++ and Sublime Text.
+· Experience with Responsive Web Design and Bootstrap.
+· Experience with writing High Level Design documents for the requirement.
+· Experience working in Agile-Methodology based development environment and participating in Scrum meetings and sessions.
+· Great ability to write clear, maintainable, well-documented, well-commented and efficient code for web development.
+· Hands on experience working on different browsers like Internet Explorer, Mozilla Firefox and Google Chrome and checking cross browser compatibility.
+· Experience in debugging and troubleshooting Existing Code.
+· Experience with working on GIT repository and tracking task in Version One tool.
+· Skilled in creating Templates, Mock and Prototypes, Layouts, and Flow of Future Pages.
+· Hands on experience on client side and server side security issue fix.
+· Follow product architecture guidelines to deliver best product performance and maintainability.
+· Code review and suggest improvements for better performance and standard coding practice.
+· Involved in the development of software architecture documentation like Technical Design Document.  
+
+EXPERIENCE:
+· Currently working as Senior Analyst in HCL TECHNOLOGIES, Bengaluru from SEP 2015.
+
+
+TECHNICAL SKILLS:
+
+	Web Technologies
+	HTML, HTML5, CSS, CSS3, Bootstrap, JSON,ASP.Net,
+
+	Programming Languages
+	C#
+
+	JS Frameworks
+	Angular 2
+
+	Scripting
+	JavaScript, jQuery, TypeScript
+
+	Development Tools
+	Visual Studio Code, Sublime, Notepad++. 
+
+	Version Control
+	GIT
+
+	Tracking Tools
+	JIRA, Service Now
+
+	Web/App Server
+	 Apache Tomcat, IIS
+
+	Methodologies
+	Agile Methodology, Waterfall model.
+
+	DATABASE
+	SQL Server
+
+
+                                             
+
+PROFESSIONAL EXPERIENCE:
+
+PROJECT#1
+
+Client Implementation System (Deutsche Bank)  				         SEP 2015 -  DEC 2017
+Developer    
+
+Project Description:
+
+Deutsche bank is a German based banking and financial company, which needs to serve most of the critical transactions and has to provide high security in all applications. Applications maintain 3-tier architecture, and almost all of the applications hosted are SSL enabled and they maintain a highly secured communications via MQ (Messaging Queues). Applications are hosted with golden gate processes to extract and replicate in source and target side. Also they are websso enabled, to provide continuous exposure to the user in a single sign in.
+
+Responsibilities:
+1. Using 3-Tire architecture for presentation layer, Business and Data Access layers are developed   using ASP.NET,MVC, SQL Server. 
+2. Monitor the environment and resolve the tickets from the customers.
+3. Perform application sanity checks after the production deployment.
+4. Responsible for completing the Commercial Module in time with required functionality.
+5. Involving in development of Security, State Management issues.
+6. Performed client side validations.
+7. Developed stored procedures using SQL SERVER.
+
+
+
+PROJECT#2
+
+DBDI, (Deutsche Bank) 	  				                 	    From Jan 2018
+Developer
+
+Project Description:
+
+Deutsche bank direct internet provides corporate clients, MNC’s and financial institutions to perform all their banking transactions. DBDI is a multiuser, multi branch and multi currency system that enables users to effect payments and inter-company funds transfer in a browser friendly environment.
+
+Responsibilities:
+1. Using 3-Tire architecture for presentation layer, Business and Data Access layers are developed   using ASP.NET,MVC, SQL Server. 
+2. Monitor the environment and resolve the tickets from the customers.
+3. Perform application sanity checks after the production deployment.
+4. Responsible for completing the Commercial Module in time with required functionality.
+5. Involving in development of Security, State Management issues.
+6. Performed client side validations.
+7. Developed stored procedures using SQL SERVER.
+

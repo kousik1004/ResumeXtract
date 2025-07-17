@@ -1,0 +1,467 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Erik C
+
+
+Mrs. Jeya Suriya Mareeswaran 
+Software Engineer, 
+
+5/1315, Nethaji Subash Chandrabose Road, 
+
+Lakkiyampatti, Dharnapuri, Tamil Nadu – 636 705 
+
++91 9488871951/+91 9087898727 | jeyasuriyamuthumari@gmail.com  
+
+ 
+
+ 
+
+Summary:  
+ Software Engineer having 2 years and 5 months of working experience in C++, C#, 
+
+ASP.NET MVC, Web API, Entity Framework, SQL, Elasticsearch, HTML5, CSS3, 
+JavaScript, Bootstrap and Single Page Application frameworks. 
+
+     
+
+ A good team player with analysis and management perspective in a responsible manner. 
+Strong communication knowledge in the perception of client requirements and problems. 
+Eager to learn and willing to adapt the new emerging technologies. 
+
+. 
+
+Skill Set:   
+S.No Skill Set Category Software & Technologies 
+
+1 Programming Languages C, C++, C#, JAVA basics, PERL basics 
+
+2 Software & Technologies 
+HTML, CSS, JavaScript, Knockout JS, ASP.NET MVC, 
+ASP.NET Web API, Kendo UI, HighCharts, Rabbit MQ 
+
+3 Database SQL, ElasticSearch 
+
+4 Tools 
+Visual Studio 2013, Visual Studio Code, GIT, SourceTree, 
+TeamCity, GoCD 
+
+5 Methodologies Continues Integration, Scrum, Kanban, SDLC 
+
+ 
+
+Experience: 
+  
+
+ Checktronix India Private Ltd 
+June 2, 2015 – Current date 
+
+ Dharmapuri, Tamil Nadu 
+
+  
+
+ Checktronix India Private Limited (A Burning Glass Technologies Company) is a leading 
+provider for Job Matching and it serves a client base that spans six continents, including 
+leading recruitment agencies, employers, software companies, job boards, educational 
+institutions, and government agencies 
+
+Projects: 
+ 1. Lens 6.X : Tagger & Dispatcher 
+
+ 
+
+ Description:  
+
+ This project includes analysis and development of Tagger and Dispatcher services for 
+Lens 6.X product. Lens is the parser engine which parses the resume to the XML file. 
+
+  
+
+ Responsibilities: 
+
+1. Involved in all walks of SDLC. 
+
+2. Communicated with business people to capture requirements through JIRA and 
+meetings. 
+
+3. Developed an the Tagger module for extracting particular skills from client resume. 
+
+4. Created Unit test cases and verified the functionality of modules. 
+
+5. Involved in creating automated test scripts and load testing. 
+
+ 
+
+ 
+
+ 
+
+mailto:jeyasuriyamuthumari@gmail.com
+
+
+Tools/Technologies used: 
+
+ Visual Studio 2013 
+
+ C++ 14 
+
+ Rabbit MQ 
+
+ PERL 
+
+ TeamCity 
+ 
+
+ 2. Add new report criteria 
+
+ Description:  
+
+ This project is to include newly defined filters named Digital jobs, Biotech and Advanced 
+manufacturing into Labor Insight. It is defined using a predefined set of skills and 
+education filters. 
+
+  
+
+ Responsibilities: 
+
+1. Involved in all walks of SDLC. 
+
+2. Communicated with business people to capture requirements through JIRA and 
+meetings. 
+
+3. Developed an extensive and interactive user Interface that meets organizations web 
+design standards. 
+
+4. Created database structure using SQL, updated daily load stored procedures and 
+added indices to improve the performance of new filter. 
+
+5. API was implemented to handle user’s favourite filters. 
+
+6. Extensively communicated with clients and marketing people to understand the 
+baseline and feasibility of the new features. 
+
+ 
+
+Tools/Technologies used: 
+
+ ASP.NET MVC 
+
+ HTML5 & CSS3 
+
+ Javascript 
+
+ jQuery 
+
+ Knockout JS 
+
+ SQL Server 
+
+ 
+
+ 3. Account Management Portal 
+
+ 
+
+ Description: 
+
+ This portal acts as a platform to manage user account information from the client side. 
+
+  
+
+ Responsibilities: 
+
+1. Analyzed and collected requirements provided by business people. 
+
+2. Planned the work based on the requirement. 
+
+3. Created database structure using SQL for managing the user details. 
+
+4. API was implemented to handle user’s requirement. 
+
+5. Tested the various features related to the admin portal. 
+
+ 
+
+Tools/Technologies used: 
+
+ ASP.NET MVC 
+
+ ASP.NET Web API 
+
+ HTML5 & CSS3 
+
+ Javascript 
+
+ SQL Server 
+
+ Visual Studio 
+
+
+
+ 
+
+ 4. IPEDS data Integration 
+
+ 
+
+ Description: 
+
+ IPEDS is a new emerging report which shows recent trends based on subject areas and 
+university which is very useful for students to make better decision in their career. 
+
+ 
+
+ Responsibilities: 
+
+1. Analyzed the IPEDS data set. 
+
+2. Developed an enhanced user interface. 
+
+3. Created mappings in Elasticsearch and loaded the data accordingly. 
+
+4. Implemented API for including MSA location data in IPEDS. 
+
+5. Worked on new features and bug-fixes related to IPEDS data. 
+
+ 
+
+Tools/Technologies used: 
+
+ ASP.NET MVC 
+
+ HTML5 & CSS3 
+
+ jQuery 
+
+ Javascript 
+
+ AJAX 
+
+ ElasticSearch 
+
+ 
+
+ 5. Skill Cluster UI change 
+
+  
+
+ Description: 
+
+ It is a major UI change on Skill cluster accordion which UK clients have requested so that 
+will be convenient to use especially for frequent users. 
+
+ 
+
+ Responsibilities: 
+
+ Involved analysis of the existing UI view of clusters. 
+
+ Mock-up was prepared to show preview as per requirement. 
+
+ Implementation was done as per the mock-up. 
+
+ Involved re factoring of code as per coding standards.  
+
+ Covered testing of all features related to cluster filters.. 
+
+ 
+
+Tools/Technologies used: 
+
+ ASP.NET MVC 
+
+ HTML5 & CSS3 
+
+ jQuery 
+
+ Javascript 
+
+ AJAX 
+
+ ElasticSearch 
+
+ 
+
+ 
+
+ 6. Data Patch works 
+
+  
+
+ Description: 
+
+ As LI involves handling millions of data, every sprint there comes some number of data 
+patches. 
+
+ 
+
+  
+
+
+
+ Responsibilities: 
+
+ Involved a keen analysis the patch condition. 
+
+ Need verification of the feed file content and format. 
+
+ Applying the patch to the corresponding instances. 
+
+ Testing and verification of data after the patch. 
+
+ 
+
+Tools/Technologies used: 
+
+ SQL 
+
+ ElasticSearch 
+
+ 
+
+Education: 
+  
+
+Degree College/School University Year 
+% of 
+
+Marks/CGPA 
+
+B.E (CSE) 
+Government College of 
+
+Engineering, Salem 
+Anna University, 
+
+Chennai 
+2015 8.9 
+
+12th Grade 
+Kshatriya Girls Higher 
+
+Secondary School, 
+Virudhunagar 
+
+Dept of govt. 
+Examinations, 
+
+Chennai 
+2009 95.6 
+
+10th Grade 
+Kshatriya Girls Higher 
+
+Secondary School, 
+Virudhunagar 
+
+Dept of govt. 
+Examinations, 
+
+Chennai 
+2011 95.4 
+
+ 
+
+Professional Skill Set:  
+
+ Time management 
+
+ Believe in Team Work and Adaptable 
+
+ Self-motivation 
+
+ Analytical and Decision making 
+
+Strength: 
+
+ Leadership 
+
+ Dedicated 
+
+ Optimistic 
+
+ Patient 
+
+ Consistent 
+
+ 
+
+Personal Profile: 
+    D.O.B  : 15th June 1994 
+
+    Nationality  : Indian 
+
+    Language Known : Tamil, English 
+
+    D/O   : Mr. N. Muthumari 
+
+ 
+
+Declaration: 
+ I hereby declare that the details furnished above are true to the best of my knowledge. 
+
+Place  :  
+
+Date   :  
+
+ 
+
+Yours Truly, 
+
+ 
+
+ 
+
+JEYA SURIYA. M 
+
+
+	Mrs. Jeya Suriya Mareeswaran
+	Summary:
+	Skill Set:
+	Experience:
+	Projects:
+

@@ -1,0 +1,178 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E-mail : surya.ambati1935@gmail.com
+SURYA PRAKASH AMBATI				Mobile : 9490956654
+
+	professional summary
+
+
+· Having 4+ years of experience in Development of application using  Java/J2EE Technologies
+· Experience in working various roles such as Programmer Analyst, Developer involving in Development and Implementation
+· Working experience in Core Java,JDBC,Servlets, Jsp,Struts Framework, Web Services(SOAP),Quartz scheduler.
+· Experience in developing applications using Servlets, JSP and JDBC.
+· Expertise in developing presentation layers using, JavaScript, HTML, JSP, CSS and Struts tiles framework
+· Working Experience with VXML (Voice eXtensible Markup Language) and CCXML (call Control eXtensible Markup Language
+· Experience in Configuring application Servers like Jboss. 
+· Experience in MVC Architecture application developments.
+· Good understanding of SDLC & OOPS Concepts.
+· Experience of Understanding Statement of Work(Sow), Preparing Impact Analysis and Approach Note, Designing , Code Development,Unit TestCases, Integration Test Cases,  Participated in Deployment Support in QC and Production,  
+· Highly Motivated , Ambitious, Self-learner and Team Player
+· Having good analytical, Communicational and Interpersonal Skills 
+· Received ‘Pat on The Back ’ award from XIUS in the Year of 2014 and 2015
+· Ambition to work in high-powered, fast-moving, multi-disciplinary development teams.
+	professional experience 
+
+
+
+· Working as a Java Developer in XIUS(a division of MegaSoft Limited), Hyderabad  from 24th April 2013 to till the date.
+
+	technical competencies
+
+
+· LANGUAGES	:-	J2SE, J2EE
+· OPERATING SYTEMS	:-	MS Dos, Windows , Unix
+· DATABACE SOFTWARE	:- 	Oracle 
+· J2EE TECHNOLOGIES	:- 	Jdbc, Servlets, Jsp
+· WEB TECHNOLOGIES	:-	HTML, Java Script,CSS,
+· SERVERS	:-	Apache Tomcat,Jboss 4.2.3
+· FRAMEWORKS	:-	Struts1.x/2.x,
+· MIDDILEWARE TOOLS	:-	Web Services(Soap)
+· TOOLS/IDE	:-	Eclipse
+· OTHER JAVA TOOLS	:-	ANT,Log4j,Quartz
+· VERSION CONTROL TOOL       	:-	Perforce
+	academic profile
+
+
+
+· Master of Computer Applications (MCA) from Chaitanya Institute of Computer sciences, Kakinada in May,2011 with 79%
+
+	project summary 
+
+
+
+Project#2			:	SelfCare
+· Client			:	Mobily Telecommunications, Maxcom	, Aerovoyce
+· Environment		:	Java 1.6 Struts1.x, Spring3.x, JSP,  JavaScript, , Oracle.WebServices
+· Duration		:	March 2015 to till
+· Role			:	Developer and Production Support.
+Description:
+SelfCare is a User Interface for providing services to mobile customers through user interface. Using SelfCareUI Subscriber can create the account in the plat form, Also the subscriber can view his Account associated details like his Id(MYKAD ID/ National ID/ Passport). He can change the features himself  ,he can avail different kinds of  services like mobile recharge using Net banking or through debit, voucher recharge, special tariff plans, activation or deactivation of new services etc, can be done instantly using SelfCare portal, He can view his usage, Credit History and other Reports also
+Responsibilities: 
+· Involved in coding and code review.
+· Developed controllers for Business Logics and Server side validations using Struts validation.
+· Bug fixing and adding new requirements.
+· Coordinate with the QA team to ensure the quality of the product before release it to production environment
+· Preparation of LLD, Unit testing and Integration test cases.
+
+
+Project #1			:	Interactive Voice Response System(IVRS)
+· Clients			:	Maxcom, Toka	
+· Environment		:	JDK 1.5, JSP, JDBC, VXML, HP-OCMP server, Apache Tomcat.
+· Duration		:	March 2016 to till
+· Role			:	Developer and Production Support
+Description:
+Interactive voice response (IVR) is a technology that allows a computer to interact with humans through the use of voice and dtmf tones input via keypad.In telecommunications, IVR allows customers to interact with a company’s host system via a telephone keypad or by speech recognition, after which they can service their own inquiries by following the IVR dialogue. IVR systems can respond with prerecorded or dynamically generated audio to further direct users on how to proceed. IVR applications can be used to control almost any function where the interface can be broken down into a series of simple interactions. IVR systems deployed in the network are sized to handle large call volumes..
+Responsibilities: 
+· Involved in coding and code review.
+· Bug fixing and adding new requirements.
+· Coordinate with the QA team to ensure the quality of the product before release it to production environment
+· Preparation of LLD, Unit testing and Integration test cases.
+
+
+Project#3			:	CCUI (Customer Care User Interface)
+· Client			:	Mobily Telecommunications, Maxcom, Aerovoyce.	
+· Environment		:	Java1.6 Struts1.x, Spring3.x, JSP,  JavaScript, , Oracle.WebServices
+· Duration		:	June 2013 to till
+· Role			:	Developer 
+
+Description:
+This project will help the Customer Care Representative (CSR) to create the subscribers on the different platforms like BSS, Selfcare, Postpaid, HLR, and Messaging. Also the CSR can change/update the service plans, personnel information from the application base on the roles and permissions.
+	The CCUI application is able to show the usage and the CSR can change the mobile number and SIM of a subscriber. Moreover he can update the features like SMS buddy FnF Numbers, Change the subscriber account from prepaid to postpaid etc.
+
+Responsibilities: 
+· Involved in coding.
+· Developed controllers for Business Logics and Server side validations using Struts validation framework.
+· Bug fixing and adding new requirements.
+· Preparation of LLD, Unit testing and Integration test cases.
+
+
+
+Project #4			:	SMP Power Roam
+· Client			:	Tata Teleglobe, Montreal, Canada.	
+· Environment		:	JDK 1.5, JSP, JDBC, JavaScript,Quartz,Oracle, Apache Tomcat.
+· Duration		:	March 2015 to March 2017
+· Role			:	Developer and Production Support
+· 
+Description:
+This portal is used for provisioning required information to enable roaming features to the Subscriber who ever are in roaming. Power Roam support Out Roamer feature and enable the operators to select best roaming Network based on the configurations provided.
+
+
+
+Responsibilities: 
+· Involved in coding and code review.
+· Developed controllers for Business Logics and form validations by using JavaScript.
+· Bug fixing and adding new requirements.
+· Coordinate with the QA team to ensure the quality of the product before release it to production environment
+· Preparation of LLD, Unit testing and Integration test cases.
+· Developed presentation logics by using JSP,HTML, JavaScript and AJAX.
+
+
+
+Personal Profile:
+	Date of Birth	: 	17th June, 1987
+	Marital Status	:	Married 
+	Nationality	:  	Indian  
+	Languages Known	: 	Telugu, English and Hindi
+	
+			

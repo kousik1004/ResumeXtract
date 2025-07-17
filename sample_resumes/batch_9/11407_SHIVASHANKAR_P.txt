@@ -1,0 +1,194 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHIVASHANKAR P.K
+Mobile: 09052346111 E-Mail: shivashankar.gr@gmail.com
+
+Middle level positions in storage management, administration with leading organisation in the IT sector
+
+Professional Snapshot
+
+A competent Certificated EMC ISM v2 professional with 10+ years of experience in maintenance, Storage Administration and IT Project Management. Has the ability to build strong relationships with all stakeholders and to turn proposals into reality. Working experience on EMC Clariion through NaviSphere. VMAX10K/20K, ISILON N/X Series,ECM XtremIO EMC VPLEX , EMC RPA ,VNX5700/5500 , Clariion  NS960  through UniShpere as monitoring tools, creation of Storage groups , Storage Pools, RAID groups, LUN’s, creating Mirror views LUN’s, LUN Migrations &, ProSphere. Creative problem solving and time management skills coupled with outstanding interpersonal skills facilitate tangible and seen results. 
+
+Areas of Expertise
+
+· Working experience on EMC ISILON X/N Series VMAX10K/20K through CLI/UniSphere, EMC VPLEX, EMC RP 
+· Working experience on EMC VNX 5700/5500 .
+· Experience on Brocade/Cisco.
+· Working experience on Oracle Virtual Machine on Oracle Linux systems, Creation of VM’s, addition of disk space, NIC cards, swap space, Memory, CPU’s.
+· Working experience on Red hat Linux 5 administration.
+· Working experience on HP-UX 11.x versions with Mc/Service Guard Cluster Administration, Os level patch Analysis on servers, Disk space management using LVM.
+
+Specialized Skills
+
+· Proficient with:
+· EMC Clariion NS960,EMC VNX 5700/5500, EMC VMAX10K/20K,EMC ISILON ,VPLEX ,EM RPA VNX5700/5500, EVA 4K & VA7410
+· Linux Administration
+· HP–UX 11.vx Administration
+· Experience on  Isilon NAS
+· Performance Monitoring with various tools
+· Manipulation and Alteration of file systems, Disk space management using LVM
+· Backup and Recovery Management. (Using fbackup, tar ,Ignite-ux and HP OVSDP)
+· Management of Software and Patch on HP-UX
+· User and Group Management
+· Memory and Swap Space Configuration, Management
+· Automatic Job Scheduling & Execution
+· Installation and kernel tuning of HP-UX
+· Oracle Virtual Machine 2.1.1 version & Repositories on Oracle Linux
+· OVM 2.1.1 Version / NaviSphere / UniSphere/ProSphere/ MC Service Guard / Data Protector
+
+
+
+
+
+
+
+
+Employment Profile
+
+
+Since Mar’17- Till Date at DXC Technology Solutions, Hyderabad Professional 2 .
+
+
+
+· Supporting APAC Region Clients.
+· Responsible for End to End activity of Storage on Vblock’s.
+· Performed storage migration from VMAX to XtremIO through Vplex Data Mobility.
+· Responsible for Zone the host and BE array to VPlex, prepare the array to provide storage to VPlex, provision LUNs from VPlex to hosts.
+· Preparing job plans for the RCM upgrades.
+· Plan and Implement the DR activity through the RP Replication. 
+· Working with the Vendor for the ESA /ETA and Implement the changes in the Site.
+
+
+
+Since Jan’15- Till Date at Cognizant Technology Solutions, Bangalore as Senior Associate 
+
+
+Responsibilities   :
+· Storage Provision for New Hosts, Storage Provisioning /Reclamation for existing Hosts. Troubleshooting Storage Issues.
+· Responsible for creating Time Finder Clone and Time Finder Snap for the devices.
+· Experience on EMC SRDF/A, create devices and initiate Asyc replication between Two Sites.
+· Working on Cisco MDS switches, zoning of the hosts, reclamation of ports.
+· Performing Changes and preparing job plans for changes.
+· Documenting the service request solutions.
+· Participating bridge calls, attending internal/customer meetings. Vendor /customer management during the hardware failure issues.
+
+
+
+
+Jul’10-Dec’14 at Capgemini India Private Limited, Hyderabad as Consultant
+
+Jun’09-Jul’10 at Vista Info Systems Private Limited, Bangalore as Consultant
+
+Project Handled:
+Title 			Consultant, NA Hosting Services
+Description 	Project provides infrastructure hosting services for the North American clients, Wellborn Cabinets Inc., ISOLA Group, Ansell Healthcare, JW Aluminum, Cooper Lighting, Bobcat, BMC, DresserRand, JBT, RSA Archer, HFHI and Sony.
+Responsibilities:
+· Working on EMC VNX 5700 & VNX 5500 Block Level array through UniSphere as monitoring tool, Creation of  Storage groups , Storage Pools,  LUN’s ,Mirror view ,Snapshot.
+· Experience on EMC VMAX10K through UniShpere, Creation of Initiator Groups, Port Groups, Storage Groups, Masking Views, Creating Meta LUNS, Volumes.
+· Responsible for creation of Storage groups, Storage pools, RAID groups, LUNs, Mirror view, Snapshot through NaviSphere on EMC Clariion NS960. 
+· Working with EMC support team to resolve the client issues in time.
+· Installing & Configuration HP EVA 4k SAN with MSL 960 Tape, HP Storage Works for HP Virtual Array VA7410 (Virtual Array) and FC devices, Creating the pools, presenting LUN to HP-UX boxes& maintaining the SAN. Backup and Recovery utilities in HP-UX and HP Data Protector with HP.
+· Working on the Creation of Oracle VM’s, addition of disk space, NIC cards, swap space, Memory,   CPU’s. 
+· Remote administration of HP-UX Servers. HP–UX 11.x versions with Mc/Service Guard Cluster Administration, Os level patch Analysis on servers, Disk space management using LVM.
+
+Aug’08-Apr’09 at Sunview Consulting Private Limited, New Delhi as Consultant
+
+Project Handled:
+Title:Rajiv Gandhi International Airport, Hyderabad	 
+Responsibilities:          
+· Responsible for administration of HP-UX Servers.
+· Mc/Service Guard Cluster Administration HP-UX Administration on with HP EVA 4k SAN.
+· Software / Patch management.
+· Backup and Recovery utilities in HP-UX and HP Data Protector with HP.
+· Creating the pools, presenting LUN to HP-UX boxes& maintaining the SAN. 
+· Disk space management using LVM.
+· Online addition and extension of file systems as well as device management and configuration on HP-UX systems.
+
+Jun’07-Aug’08 at CMS Computers Limited, Hyderabad as FMS Engineer
+
+Project Handled:
+Title : Institute for Development & Research in Banking Technology, Hyderabad 		 
+Responsibilities:
+· Responsible for installation & configuration of HP Storage Works for HP Virtual Array7100 & 7110.
+· Maintaining & Trouble shooting of HP rp7400 & 7410 Servers.
+· Accountable for configuration of Volume Groups and Files system and thorough knowledge of LVM administration.
+· Checking File Systems, Disk Usage, Oracle Process, Network Connectivity.
+· Configuring Data Protector in adding clients to cell server, creating data lists & Media Pools, Shout downing Oracle data base & taking cold backups.
+· Creating system recovery tape using make tape recovery HP Ignite/UX utility and Recovered the system with the system recovery tape.
+· Responsible for administration & maintenance of Local Area Networked, Installed & Configured SCSI & Disk Devices & have profound knowledge in OS Installations.
+· Firewall Technologies of Check Point Smart NG FP3.
+· Performing virus scanning and removal.
+· Involved in BCP (Business Continuity Plan), the main site is switched off & the routing is done to our DR site, we NAT the Local IP to Public IP, so that the servers can be accessed.
+· Connecting through Telnet and monitoring the Servers and getting data through FTP.
+
+
+Education
+
+· Bachelor of Technology in Electronics Instrumentation Engineering from AHCTE, Hyderabad in 2006.
+· Certified EMC ISM v2 professional.
+
+Technical Skills
+
+Storage 	EMC VMAX 10K/20K, EMC Calriion NS960, EMC VNX5700/5500, HP EVA 4000, HP VA7410 with FC devices.
+Monitoring tool	Navisphere/Unisphere/ProSphere.
+Switches 			Brocade Switches
+OS 	Linux Red hat 5, HP-UX 11.21, 11.31.
+Backup / Tape 			HP DP V6.1/MSL 960 Tape Library
+VM 				Oracle VM v 2.2.3 on Fujitsu, ESX v4
+Cloud 				EMC Atoms, Isilon
+Hardware 			HP N-Class Servers RP7400, RP7410, IA-64.
+
+Personal Details
+
+Address 	H.No.7-14/1, Bapunagar, Serilingampally, RangaReddy (Dist), Hyderabad-500019.                                          
+Date of Birth 		29th June, 1985
+Languages Known 	Hindi, English and Malayalam & Telugu
+
+References: Available on Request

@@ -1,0 +1,338 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+Sairajkishore konala
+Email: sairajkishore.konala@gmail.com
++919620959542
+
+Professional Summary:
+
+Software Engineer with 4.4 years of intense development experience in Mobile application Development with a strong orientation in quality processes and tools. Received multiple awards and cash prizes from the current employer for demonstrating technical excellence and commitment.
+
+· Proficient in Android (Android-Linux), PDK (Phone development Kit), C, Linux environment, Java.
+· Familiar with Mobile Application Integration and Release management.
+
+· Currently working on Android Tablet 3.0 for LG Mobiles.
+· Working knowledge on Windows and Linux Environments.
+· Good debugging, Analytical, Technical and Programming skills.
+· Trained on Embedded systems from training from Cranes International Software Ltd.  
+· Experienced with Client site work environment almost 2 years.
+Education:
+· B.Tech. (Electronics and Communication Engineering) from Jawaharlal Nehru Technological University, with 73% of marks during the academic year 2002 - 2006.
+
+· Intermediate certificate from Board of Intermediate Education of Andhra Pradesh with specialization of Mathematics, Physics and Chemistry with 87% of marks during the year 2000-2002.
+
+· Secondary School Certificate from Board of Secondary Education of Andhra Pradesh with 72% of marks during the year 1999-2000.
+· Embedded Systems training from Cranes International Software Ltd 2006.
+Technical Summary:
+
+	Programming Languages
+	C, Core java
+
+	Platforms  
+	Android, PDK, Limo.
+
+	Operating Systems
+	Linux, Windows.
+
+	Tools
+	SVN , Test-Directory, Gcov, TETware, Visual Studio 6.0, VMWare, ADS 1.2.
+
+
+Achievements:
+
+· Awarded with “Excellence Award” from LGSI for the best performance in iMode Project
+· Star award for Limo Coronado project which is award winning project in the year 2009.
+Work experience:
+· Currently working as a Senior Software Engineer in LG Soft India Pvt Ltd. Bangalore, India from 23-5-2007 to till date.
+Personal Details:
+Gender:                      
+
+
+Male
+
+Marital Status:           
+
+
+Single
+Present Address:        
+
+
+No. 2709,
+
+                                  
+
+
+
+2nd Floor, 18th Main
+                                       
+
+
+HAL 2nd Stage, 
+
+Indiranagar,Bengaloru-560071
+
+Strengths:               
+
+
+Hardworking, Team working,
+
+            Languages known:     
+
+
+Telugu, English, Hindi.
+Passport Number 
+
+ :          G9790032
+Project Profile:
+
+PROJECT DETAILS
+1. Gtalk App (Android-Honeycomb)                                                                                  June '11– Sep ‘11
+Messaging is the Application for the Honeycomb. As per the operator requirement User Interface of MMS is customized for GtalkStyle 
+
+The total team size of the project is 2.
+Environment:
+
+Linux (VMware, Ubuntu 8.04), Android SDK, Eclipse, SVN version control,  GslateTablet.
+
+Responsible:
+· Requirement analysis for /Gtalk App
+· Involved fixing the Contact App issues.
+
+· Supporting the environment team to setup the environment and resolving the environment issues.
+2. Contacts App (Android-Honeycomb)                                                                                  Dec '10– June‘11
+Contact is the Application for the Honeycomb. As per the operator requirement User Interface is customized for Gslate model.
+The total team size of the project is 10.
+Environment:
+Linux (VMware, Ubuntu 8.04), Android SDK, Eclipse, SVN version control,  GslateTablet.
+
+Responsible:
+· Requirement analysis for /contacts App
+· Involved fixing the Contact App issues.
+
+· Supporting the environment team to setup the environment and resolving the environment issues.
+3. TouchBased AppLaunching (Android-Honeycomb)                                                                Dec '10– Apr ‘11
+TouchBased App Launhcing for Honeycomb. HomeScreen is Customized in the way it will launch App based on number of touch events
+
+The total team size of the project is 2.
+Environment:
+
+Linux (VMware, Ubuntu 8.04), Android SDK, Eclipse, SVN version control,  GslateTablet.
+
+Responsible:
+· Requirement analysis for /HomeScreen App
+· Involved fixing the HomeScreen App issues.
+
+· Supporting the environment team to setup the environment and resolving the environment issues.
+4. Eve-Donut
+(Android)
+
+
+
+
+
+
+            
+
+Jun '10– Dec ‘10
+
+Eve-Donut is Software Up gradation of Android Platform from 1.6 to 2.1 for Mobile KH500.As per the operator requirement User Interface is customized in Eve-donut model.
+
+
+The total team size of the project is 30.
+Environment: Linux (VMware, Ubuntu 8.04), Android SDK, Eclipse, SVN version control, KH500 Handset.
+Responsible :
+· Android CTS (Compliance Test Suit) issues.
+
+· Involved in developing in fixing the CTS issues.
+
+· Worked at onsite (Korea) for the deployment of the Solution Eve-Donut on LG Phone.
+
+· Supporting the environment team to setup the environment and resolving the environment issues.
+
+5. Dtrace (Android) 
+
+
+
+
+
+
+
+
+
+Jan ’10 – Jun ‘10
+DTrace, also known as Dynamic Tracing, was developed by Sun as a tool for locating performance bottlenecks in production and pre-production systems. It is tool for real time system analysis to locate performance and other issues.
+
+DTrace is a remarkable profiling tool, with an impressive array of features for diagnosing system issues. It may also be used to run pre-written scripts to take advantage of its capabilities. Users may even author their own utilities using the DTrace D Language, allowing them to customize their profiling based on specific needs
+
+Responsible :
+Compiling Dtrace on Android Platform and Porting.
+Environment
+:Linux (VMware Ubuntu 8.04),Android, LiMo TOGO Platform, GTK, SVN version control
+6. Email to Sms (Wise Applications)
+
+
+
+
+
+
+
+Jun ’09 – Jan‘10
+Email to Sms is a India Specific Application for the LG mobile. Where User can compose mail and send, while sending Mail it will be converted in to sms`s and sent.
+
+while receiving the sms`s corresponding to each mail will be concatenated and made as Mail. Where attachments are displayed as icons. All server side operations are done by third-party.
+
+Environment:
+Windows, Visual Studio 6.0, PDK (Phone Development Kit), Test Directory for issue tracking, SVN version control.
+
+Responsible:
+· Involved in the requirement study, design and development.
+
+· Involved in developing and Integrating Components viewer, composer and list box of Email2Sms Module.
+
+· Involved in deploying the application in Handset.
+
+· supporting the environment team to setup the environment and resolving the environment issues.
+7. Gcov- TETware
+Mar '09– Jun ‘09
+Gcov - gcov is a test coverage program. which helps to create more efficient, faster running code and to discover untested parts of your program.
+
+using this tool we can measure some performance statistics
+
+· How often each line of code executes
+
+· What lines of code are actually executed
+
+· How much computing time each section of code uses
+
+We compiled source using gcov flags and did environment settings for Togo platform related code.
+
+TETware -TETware is the supported version of the Test Environment Toolkit, offering additional platform support and capabilities. It provides an easy-to-use multi-platform uniform test framework into which local, remote, distributed and realtime test suites can be incorporated.  It is provided as a supported product for 32-bit Windows, Linux and UNIX Operating Systems.
+
+We did this kind of setting for Togo platform related testcases on LinuxPlatform
+
+The total team size of the project 2.
+Environment
+:Linux (VMware Ubuntu 8.04),Android, LiMo TOGO Platform, GTK, SVN version control.
+
+8. Mail-Box (Libra Model)
+
+Jan '09– Mar ‘09
+Mail-Box is a unified messaging solution for the mobile. It unifies SMS, MMS and Mail (specific to DoCoMo). DoCoMo is a Japanese Service Provider for which LG provided Mobile along with features specific to the operator. DoCoMo has a Mail service in which one can send a mail to the phone number. Phone number itself acts as a mail address. Mail-Box is solution to the mobile by which SMS, MMS and Mail can be send/received at common place. 
+
+The total team size of the project 12.
+
+Environment
+:Windows, Visual Studio 6.0, PDK (Phone Development Kit), Test Directory for issue tracking, SVN version control.
+Responsible:
+· Involved in the requirement study, design and development.
+
+· Involved in developing the Message List for Message-Box Application.
+
+· Involved in deploying the application in Handset.
+
+· Involved in Unit Testing and bug fixing
+
+· Involved in giving the support for the onsite team from offshore.
+
+· Supporting the environment team to setup the environment and resolving the environment issues.
+
+· Testing and Code review.
+9. Composer Touch UI  (Commercialization Model)
+
+Dec '07– Dec ‘08
+Composer is a unified messaging solution for the mobile. Where User can Compose SMS, MMS and Mail (specific to DoCoMo) in Same Coposer.Which is based on Touch UI Events.
+The total team size of the project 12.
+
+Environment
+:Windows, Visual Studio 6.0, PDK (Phone Development Kit), Test Directory for issue tracking, SVN version control.
+
+Responsible:
+· Involved in the requirement study, design and development.
+
+· Involved in developing Composer Application.
+
+· Involved in Handling Touch Events for composer.
+
+· Involved in Unit Testing and bug fixing
+
+· Involved in giving the support for the onsite team from offshore.
+
+· Supporting the environment team to setup the environment and resolving the environment issues.
+
+· Testing and Code review.
+10. LiMo TOGO (Linux Platform) 
+
+
+
+
+
+
+
+Jul '07– Dec‘07
+LiMo TOGO is a Mobile platform based on Linux OS. As Linux is open source and is stable LG wanted to launch Phones based on Linux OS. LiMo is a mobile platform to develop applications for the mobile like Messaging, Alarm .etc. It provides the basic frame work for Messaging (SMS, MMS), Telephony etc.
+
+The total team size of the project 25.
+
+Environment:
+Linux (VMware Ubuntu 8.04), LiMo TOGO Platform, GTK, SVN version control.
+
+Responsible:
+· Involved in the requirement study, design and development.
+
+· Involved in developing the MsgBox Application.
+
+· Involved in deploying the application in Handset.
+
+· Involved in Unit Testing and bug fixing
+
+· Involved in giving the support for the onsite team from offshore.
+
+· Supporting the environment team to setup the environment and resolving the environment issues.
+
+· Testing and Code review
+5
+

@@ -1,0 +1,415 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deepak cv
+
+AMIT ANAND
+    E-mail: amitanand.bms@gmail.com	
+    Mobile: +91-8123466776 / 8792434473
+
+
+Seeking an opportunity for professional growth and increasing responsibility as a SAP UI5 / FIORI Consultant in an organization where individual and team spirit is recognized and rewarded.
+
+ (
+PROFESSIONAL EXPERIENCE
+)
+
+
+· Working as a SAP UI5 / FIORI Consultant at L&T Infotech from Nov 2015 to till date.
+· Worked as a SAP UI5 / FIORI Consultant at CapGemini from Feb 2015 to Nov 2015.
+· Worked as a Sr. Software Engineer at Accenture Services Pvt. Ltd. from July 2010 to Feb 2015.
+· Worked as an Intern in Accenture Services Pvt. Ltd. from 10-Feb-2010 to 23-July-2010.
+
+ (
+SYNOPSIS
+)
+
+
+	· 7.3 years of total IT industry experience in the following areas which includes around 2.0 years in SAP Net Weaver (SAP Enterprise Portal), 4.9 years in SAPUI5 as well as SAP Fiori and 6 months experience in SAP BASIS Administrator in Tech Arch handling Multi System Landscape.
+
+· Extensive experience in development of SAP Netweaver Components (Portal/ Web Dynpro Java) and applications involving R/3, ECC 6.0 EHP5 systems as backend.
+
+· Extensive experience in development of SAP UI5 and SAP Fiori since FEB-2013. And here applications involving SAP NetWeaver Gateway and SAP R/3, ECC 6.0, SAP HANA DB as backend.
+
+· Effectively involved in the requirement phase interacting with the client understanding their requirements coming out with the best solution approach for implementation.
+
+· Have analytical, problem solving, communication and interpersonal skills, with ability to interact with individuals at all levels and work as a part of a team as well as independently.
+
+	 
+
+
+· Hands on experience with SAP UI5 & FIORI, SAP Enterprise Portal & SAP BASIS.
+· Good experience in SQL, SQL Server, Oracle, SAP HANA, gateway services, SAP Fiori and SAP UI5.
+· Like to continually learn, mentor and develop my career.
+· Basic domain knowledge of SAP UI5, SAP Fiori, SAP Portal as well as SAP BASIS.
+· Motivated and ambitious with good interpersonal communication, relationship management & presentation skills.
+· Astute, team spirited with a strong work ethic and an analytical bent of mind, able to immediately contribute to corporate goals and objectives.
+ (
+ACADEMIC CREDENTIALS
+)
+
+
+· MCA from BMS college of Engineering, Bangalore, 2007-2010, Obtained 76.04%.
+· B.Sc. (Computer Science) from Science College, Patna, 2004-2007, Obtained 78.75%.
+
+ (
+TECHNICAL SUMMARY
+)
+
+
+Skills            :  SAPUI5, SAP Fiori, SMP3.0, SAP Work Manager 6.3, SAP Lumira, SAP 
+                           Enterprise Portal, WebDynpro Java, Web Services, Visual Composer, 
+                           HTML5 and CSS3, JQuery & JavaScript, Amazon Web Services.
+
+Mature         :   ABAP, SAP netweaver gateway, ABAP WebDynpro, SAP BASIS, SAP 
+                             HANA, SAP S/4 HANA.
+
+Database     :   SQL Server, SQL, Oracle, SAP HANA DB.
+
+Platform   : Windows, Windows Server 2003/2008, SAP Net Weaver, SMP3.0, SAP HANA Cloud Platform.
+ 
+               Tools              :  SAP Web IDE, SAP WEB IDE On Premise, SAP HANA Studio, SAP 
+                                             BUILD, SAP AUXURE, Prototyping PPT toolkit, SAP HANA Cloud 
+                                             Connector, ADT, Eclipse IDE, NWDS.
+
+ (
+MAJOR ASSIGNMENTS :
+( In reverse chronological order)
+)
+
+
+01. Honda R&D Americas, Inc. (L&T Infotech)
+
+1. Client	: Honda R&D Americas, Inc.
+1. Platform	: Windows, Eclipse, SAP WEB IDE, SAP HANA Studio, SAPUI5, SAP  
+                         NetWeaver Gateway, ABAP ECC with HANA DB
+· Duration	: Nov 2015 – Till now
+1. Role	: SAP UI5 Developer
+
+Description       : Honda R&D Americas, Inc. is an innovative and dynamic company responsible for the complete product creation of Honda and Acura products, including automobiles, powersports and power equipment.
+
+Project Description: - Worked on Custom as well as Std. SAP FIORI Apps
+
+· EAM inventory Audit tool with Bar code Scanner.
+
+· Scan the inventory no. from External Scanner tool or mobile device and populate the equipment details like scanned or audited status with traffic signal.
+· User can Audit one or multiple equipment at a time.
+· User can modify and save the equipment details.
+· Reports as well as charts show the analytical details and status.
+· Reports can be downloaded into excel or PDF.
+· Reports can be filtered via column wise.
+· Filter as well as Audit functionality has been provided on each page with user flexibility.
+
+· PSC user management app for success factor.
+· Purchase Requisition Tracker.
+· Stock ware house App.
+· Purchase Requisition Creation.
+· PERNR-PM Order Operation.
+· EAM- Maintenance Notification creation.
+· OTTO Scheduler Task – Gantt chart.
+· Confirm Project Task- Customizations.
+· My Time sheet App- Customizations. 
+· SAP Overview Page, List Report as well as Object Page.
+· Worked on SAP FIORI 2.0 Features.
+· Was involved to configure EAM- Work order, Notifications and Equipment into SAP Work Manger 6.3.
+· All possible issues fixing after upgrade SAP NW gateway from 7.4 to 7.5.
+· Issues fixed with all SAP Std. Apps related.
+· Learning- Make CDS Views with SAP HANA Studio and use the oData model or services to make SAP FIORI Elements related apps out of it.  
+
+Tools and technologies:- 
+
+· SAP WebIDE on SAP HANA Cloud Platform.
+·  SAP NetWeaver Gateway 7.4 / 7.5
+· SAP UI5 version 1.28 – 1.38
+· SAP ERP 6.0 (EHP7) with HANA DB.
+
+Role Description: - 
+
+· Requirement Understating.
+· Functional Design Analysis.
+· Designing WireFrame using SAP BUILD, SAP AUXURE or Prototyping PPT toolkit Tool.
+· User Interface design using SAPUI5 in Eclipse.
+· Consuming Gateway Services using SAPUI5.
+· Testing & Bug Fixing.
+· Documenting the issues resolved and lessons learnt.
+· Drafting TDD out of FDD given.
+
+02. Statoil (ICMM i.e. 'Improved Coating Maintenance Management), CapGemini 
+
+1. Client	: Statoil
+1. Platform	: Windows, Eclipse, SAPUI5, SAP NetWeaver Gateway, ABAP ECC
+· Duration	: Feb 2015-Jun 2015
+1. Role	: SAP UI5 Developer
+
+Description       : STATOIL ASA (Statoil is a Norwegian multinational oil and gas company headquartered in Stavanger, Norway. It is a fully integrated petroleum company with operations in thirty-six countries. ) . The company has about 23,000 employees.  NOT TO BE CONFUSED WITH STATOIL FUEL & RETAIL (Completely different company).
+
+
+Project Description: - Simulation tool (ICMM) is used for the plant maintains operation which will allow user to take the maintains decision based on the simulated results, the action of maintains on one particular tag or group of tags can be reviews with how it will result in current time and in long run which will help user to take decide so they can come up with an effective and efficient maintains program with long term picture in mind.
+
+Role Description: - 
+
+1. Requirement Understating.
+1. Functional Design Analysis.
+1. Drafting TDD out of FDD given.
+1. User Interface design using SAPUI5 in Eclipse.
+1. Consuming Gateway Services using SAPUI5.
+1. Testing & Bug Fixing.
+1. Documenting the issues resolved and lessons learnt.
+
+03. SAP Competency (SAP_AppsTwo), CapGemini 
+
+1. Client	: CapGemini
+1. Platform	: Windows, Eclipse, SAPUI5, SAP NetWeaver Gateway, ABAP ECC
+· Duration	: Jun 2015-Nov 2015
+1. Role	: SAP UI5 Developer
+
+Description       : SAP Competency is a part of CapGemini internal Project, Which deals with the different kind of clients and making a PoCs and showcasing the demo with the clients and working for them. This competency mainly works in SAP areas like SAP UX, SAP FIORI and SAP Mobility area. 
+
+Project Description:- 
+
+· Have worked on two POCs: - 1. Sales Quotation Approval App with the use of SAP ABAP Workflow (Custom SAP FIORI like App by using SAPUI5) 2. PO Creation as well as PO Approval with BPM oData (Custom SAP FIORI like App by using SAPUI5)
+· For both the POCs, worked as a lead and was driving the POCs with whole team. 
+· After completion, I have documented all the PPT, FS, TS and UT docs. 
+· Got good appreciation from the SAP Lead as well as senior Lead of the SAP Competency Apps Two.   
+            Configured almost total 8-10 standard SAP FIORI Apps into our landscape server.
+    
+Role Description: - 
+
+1. Requirement Understating.
+1. Functional Design Analysis.
+1. Drafting TDD out of FDD given.
+1. User Interface design using SAPUI5 in Eclipse.
+1. Consuming Gateway Services using SAPUI5.
+1. Testing & Bug Fixing.
+1. Documenting the issues resolved and lessons learnt.
+
+
+
+04. SAP AIC-Mobility (Accenture Innovation Centre, Bangalore) 
+
+1. Client	: Accenture 
+1. Platform	: Windows, Eclipse, SAPUI5, SMP3.0, SAP NetWeaver Gateway, SAP FIORI
+· Duration	: February 2013 – February 2015
+1. Role	: SAP UI5 Developer
+
+Description       : Working as a SAP UI5 Developer in SAP AIC-Mobility (Accenture Innovation Centre, Bangalore) project. Accenture Innovation Centre (AIC-B) is an Accenture SAP Capability Initiative. In which the teams are working for different clients like, Alstom, Trident, Vodafone, BASF, and SCG. This capability has different platform initiatives like SAPUI5, SAP NetWeaver Gateway, SAP Fiori, SMP, SAP Mobilizer, Sybase, Syclo.    
+
+Worked on Custom SAP FIORI Apps:-
+
+· Analytical dashboard report on SCAN for Fiori
+· Inspect Quality- Quality Decider (SAP Quality Management)
+· Create Employee MVC
+· Worked on Makit as well as Viz Charts
+· Worked on SAP Lumira(Data visualization and Story creation tool)
+· Demo Request Form application for mobile
+· Created SAPUI5 app by using BPM oData services
+· Employee App with Offline Approach with Kapsel
+· Native Features Mobile app with Cordova Plug-ins
+
+Training Attended:-
+
+· For SAP UI5 as well as SAP FIORI by Internal Team
+· On SAP Work Manager 6.2 with SMP 3.0
+· Make Hybrid app as well as integration with SMP
+· Training given by SAP Labs regarding SAP FIORI
+
+ 
+1. Client	: Trident Group
+1. Platform	: Windows, Eclipse, SAPUI5, SMP3.0, SAP NetWeaver Gateway, SAP FIORI
+· Duration	: February 2014 – February 2015
+1. Role	: SAP UI5 Developer
+
+Trident Group-Trident Group which has own textile business and own production house, so for them developing custom SAP Fiori like applications as well as doing customization into the existing standard Fiori Apps and making useful according to their purposes. 
+
+Worked on Custom SAP FIORI Apps:-
+
+· Cotton booking App
+· Cotton hand test App
+· Breakdown Notification App
+· Create measurement Doc App
+
+1. Client	: ConocoPhillips
+1. Platform	: Windows, Eclipse, SAPUI5, SAP NetWeaver Gateway
+· Duration	: 1 month
+1. Role	: SAP UI5 Developer
+Description       : Worked for Conoco Phillips to design a Dynamic SAP UI5 Screen (Maintain LOV Rules)
+
+Role Description: 
+
+1. Requirement Understating.
+1. Functional Design Analysis.
+1. Drafting TDD out of FDD given.
+1. User Interface design using SAPUI5 in Eclipse.
+1. Consuming Gateway Services, BPM services and other Web services using SAPUI5.
+1. Testing & Bug Fixing.
+1. Documenting the issues resolved and lessons learnt.
+
+05. ARTL-B (Accenture Re-usable Technical Library, Bangalore) 
+
+1. Client	: Accenture
+1. Platform	: Windows, SAP NetWeaver 7.0 & 7.3, NWDS 7.0 & 7.3, Oracle 
+· Duration	: February 2011 – January 2013
+1. Role	: SAP EP Consultant
+
+Description       :  Worked as a SAP Portal Developer (SAP EP Consultant) in Accenture Re-usable Technical Library (ARTL) project. ARTL is an Accenture SAP Capability initiative which is a global repository for SAP Reusable assets for Accenture employees having over 5,000+ objects and process documents. Accenture reusable technical library (ARTL) harvests reusable assets from various technological streams like SAP, Oracle, Ariba, Java, Kenan, DDA, Oracle, SaaS, SOA and Mobility. ACERTS (SAP) is widely used across projects in Accenture and has resulted in significant improvement in project efficiency and delivery. The landscape is supported on OS Windows Server 2003/2008 and database as Oracle 11g. 
+
+Responsibilities: 
+
+1. Interaction with the Customer regarding the requirement.
+1. Played the role technical consultant for project implementation.
+1. Requirement gathering from the customer and subsequently designing and developing the new changes for this application along with design of the portal screens.
+1. Regularly supporting the Genie and Customers.
+
+06. AIC-B (Accenture Innovation Centre, Bangalore) 
+
+1. Client	: Accenture
+1. Platform	: Windows, Oracle and SQL Server
+· Duration	: July 2010 – January 2011
+1. Role	: Technical Architect
+
+Description       : Worked as a SAP BASIS as well as Portal Administrator in AIC-B (Accenture Innovation Centre, Bangalore) and ARTL project. Accenture Innovation Centre (AIC-B) and ARTL are an Accenture SAP Capability Initiative which in collaboration with SAP Labs is responsible initiatives and building niche skills. AIC is an initiative by the CoEX leads to build a landscape with varied SAP components installed as ECC/EP/SOLMAN/CRM/SRM/PI/BI/xMII/MDM/DI/CE/MI. The landscape is supported on OS Windows Server 2003/2008 and database as Oracle 11g.
+    
+Role Description: 
+
+1. Installing, configuring and maintaining the AIC /ARTL Bangalore landscape system.
+1. Solving day to day issues faced in the landscape.
+1. Upgrading/refreshing the landscape.
+1. Documenting the issues resolved and lessons learnt.
+
+
+ (
+       
+INTERNSHIP EXPERIENCE
+)
+
+· Worked as a Project Trainee in Accenture Services Pvt. Ltd., Bangalore from 10th Feb 2010 to 23rd Jul 2010.  
+
+01. Utilities and Leave Details
+
+1. Client	: Accenture
+1. Platform	: ASP .Net with C# / SQL Server 2005
+1. Team Size	: 1
+· Duration	: Feb 2010- Jul 2010
+1. Role	: Developer 
+
+Description	: The Utilities database keeps track of the financial details such as shift and transport allowances, on-call details etc. of Accenture employees in IDC.  The purpose of using this database is to accurately capture the allowances claimed by the employees. It also keeps track of the trainings attended and leaves detail of an employee. Apart from this, it also gives clear visibility to senior management on the project expenses incurred. 
+
+ (
+COLLEGE LEVEL PROJECTS
+)
+
+
+01. Online News
+
+1. Client         : BMS College of Engineering, Bangalore 
+1. Platform     : JSP / MYSQL
+1. Team Size   : 2 
+1. Duration      : 5 Weeks
+1. Role	: Developer 
+
+Description:  The basic purpose of ONLINE NEWS (CNN NEWS THAT MATTERS) is to provide all kind of news from every area of the world. The concept of online news will give the new era of information gathering. As the name given “Online news” means the news which is provided online via internet. So, the natural availability of the news is 24 hours in a week.
+
+ (
+RESPONSIBILITIES
+)
+
+
+· SAP UI5 as well as SAP FIORI Consultant.
+· SAP EP Consultant.
+· SAP Basis Administration.
+· Deployment.
+· Testing. 
+· Client handling.
+ (
+STRENGTH
+)
+
+
+· Dedication.
+· Consistency.
+· Problem Solving.
+· Adaptability.
+ (
+INTEREST
+)
+
+
+· Watching Movies.
+· Cooking.
+· Listening to Music.
+
+ (
+ACHIEVEMENTS
+)
+
+
+· Greenfield Training Topper Awards for outstanding performance during the Greenfield Learning program conducted by the Accenture Delivery Centers for Technology in India.
+· Completed my Greenfield training in Accenture in SAP BASIS domain with an aggregate of 81%.
+· Secured All India 47th Rank in PGCET MCA entrance in 2007. 
+
+ (
+EXTRA CURRICULAR ACTIVITIES
+)
+	
+
+· Participated in Skit, during Technology Platforms Annual Community event (Rainbow), organized by Accenture.
+
+ (
+PERSONAL DOSSIER
+)
+
+
+
+· Name		: Amit Anand
+· Father’s Name	: Narayan Prasad
+· Date of Birth	: 25th Dec 1984
+· Permanent Address: At+Po-Katari, Dist-Shekhpura, Pin-811102, State-Bihar
+
+
+Date: 
+Place: Bangalore		      				        

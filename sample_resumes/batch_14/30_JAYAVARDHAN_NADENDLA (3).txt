@@ -1,0 +1,172 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                     
+JAYAVARDHAN NADENDLA                            Mail: chinnanadendla@gmail.com 
+JAVA/J2EE Programmer                                                                                               Phone: +91-8374738369  
+
+Professional Summary 
+
+ 
+Experienced Software Engineer with a demonstrated history of working in the IT & Services industry. Skilled in 
+Java, J2EE technologies like JDBC, Servlets, JSP with robust experience in application development in 
+Client/Server architecture using Spring, HTML, CSS, JavaScript. Familiarity in PostgreSQL & SQL programming. 
+ 
+
+Work Experience 
+ 
+
+Software Engineer          (Nov 2016 – Present) 
+
+Tech Mahindra Limited, Hyderabad 
+
+• Developed two Java-based projects as part of cross-functional team by constantly communicating and 
+
+exploring the possibilities with the client and rightly adapting to their set of requirements. Involved in 
+
+Support and Maintenance of Master Parts Tracker web application. 
+
+ 
+
+Projects Handled 
+ 
+
+Client          : GE Appliances, USA 
+Role  : Java Developer 
+Environment  : Eclipse IDE, Spring3, JDBC, JSP, PostgreSQL, jQuery, HTML and CSS 
+Key Achievement : POB Award for 2018 Q1. 
+ 
+
+Project #1:  SQE Work Request Tool 
+ 
+Description: The purpose of this application is to streamline the process of Work Requests from SQE. Work 
+requests can be tracked from initiation to completion. Templates are downloadable through application. 
+Prioritization is added to the work request for quick completion. 
+ 
+Project #2 SQE Dashboard 
+
+Description: This application was a Dashboard for eFPIR status of all Master Parts as per SQE, CBT. It contains 
+pictorial (pie charts) representation of Source Parts, Make Parts and total parts as per the initiated, not 
+initiated, and assigned status, graphical (bar Charts) representation of all parts count under each eFPIR Status. 
+Reports were exported to Excel for the Dashboard selected with SQE name.  
+ 
+Project #3 Master Parts Tracker 
+ 
+Description: This application is to track the details of Master Parts. Selection of Parts was done by adding filters 
+to the part details. Reports are generating for selected parts by implementing export to Excel. Add-on features 
+of this application like new parts etc., can be added by entering their respective parameters, only comments 
+box can be edited with data of entering comments. Deletion of part details is restricted for users as it gives loss 
+of information. 
+ 
+
+Responsibilities Held: 
+
+• Developed user interface using HTML, JavaScript, JSP. 
+
+• Implemented client-side validation using Java script.  
+
+• Implemented various controllers using Spring.  
+
+• Interaction of DAO with backend. 
+
+
+
+• Involved in SQL & JDBC queries to interact with the DB from DAO layer. 
+
+• Fixing the Bugs found in the Applications. 
+
+• Liaison with business groups to firm up the requirements, work with Quality Assurance teams and 
+business users to support testing. 
+
+• Ongoing support and maintenance of the applications. 
+ 
+
+Education 
+ 
+
+• Bachelor of Technology (2012-16) in Mechanical Engineering with Distinction from Vignan Institute of 
+
+Technology and Science, Affiliated to JNTU, Hyderabad. 
+
+• Intermediate (M.P.C) from Narayana Junior College with 95 %. 
+
+• S.S.C from Narayana e-Techno School with 90 %. 
+
+ 
+
+Technical Skills 
+  
+
+Operating System    : WINDOWS 
+
+Programming Languages   : Java, J2EE, JDBC 
+
+Databases     : PostgreSQL 
+
+Frameworks    : Spring MVC, Hibernate 
+
+Web Technologies   : HTML, CSS, JavaScript, jQuery, Bootstrap 
+
+Web/Application Servers   : Tomcat 
+
+Tools    : JUnit, Maven 
+ 
+
+                                                                                            Declaration  
+ 
+
+I certify that the above particulars are true to the best of my knowledge and belief. 
+ 
+
+            
+ 
+
+Jayavardhan Nadendla 
+       Hyderabad 
+
+

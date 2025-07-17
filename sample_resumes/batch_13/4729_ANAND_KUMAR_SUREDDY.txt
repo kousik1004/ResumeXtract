@@ -1,0 +1,167 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANAND KUMAR SUREDDY
+Mobile No: +91 9848724192	                               Email: anu.kumar.sureddy@gmail.com
+Hno: 6-292/4/b, Road No 6, Venkateswara Nagar,
+Chintal, Hyderabad -500054.
+
+OBJECTIVE
+To acquaint myself with the latest trends and developments in the field of Embedded Systems and work towards a challenging career with emphasis on developing my technical skills. 
+SYNOPSIS
+· Embedded software developer with 3 years of experience in micro controller based embedded systems and embedded Linux applications.
+· Worked on design and development levels of various assignments on Safety Critical Systems for Railway industry.
+· Expertise in developing Embedded Software in Embedded C and Assembly Language for 8051,LPC2378(ARM7-TDMI),TM4C129ENCPDT(ARM-CortexM4) Controllers and ICOP 6150E X86 based Systems . 
+· Have experience in designing software algorithms and code for many micro controllers based defense and industrial Applications. 
+· Expertise in communication protocols like CAN, SPI, I2C, RS-232 and RS-485, ethernet. 
+· Worked on implementation of TDMA radio communication protocol as per client specification.
+· Strong in interfacing of external peripherals to Microcontroller like Radio-Modem ,GPS ,RFID,GSM and basic understanding on Bluetooth.
+· Extensively worked on Kernel concepts like IPC mechanism and Socket programming.
+· Hands on experience on Vectored Controlled Interrupts and Timers/Counters handling, ADC and DAC reading. 
+· Expertise in handling debuggers like JTAG, GDB. 
+· Working Experience on UNDERSTAND tool for Software Compliance.
+· Good Knowledge on using repos like GIT, SVN in windows.
+· Flexibility to adapt to new technological environment.
+· Strong analytical and problem solving capabilities.
+· Knowledge on Software Development Life Cycle Concepts.
+· Knowledge on Safety integrity level (SIL) Certification.
+
+WORK EXPERIENCE
+
+· Working as Software engineer in TATA Power Strategic Engineering Division (Bangalore), from Oct 2016 to Present. 
+· Worked as Software engineer in Kernex Microsystems, Hyderabad from Nov 2014 to Oct 2016. 
+
+
+EDUCATION
+· Graduation in Electronics and Communication from Bandari Srinivas institute of technology affiliated to Jawaharlal Technological University in 2009-2013 with 78%. 
+· XII with MPC from Board of Intermediate Education A.P in 2009 with 92%.
+· X from Board of Secondary Education A.P in 2007 with 87%.
+
+TRAININGS
+
+· Post graduate diploma in embedded systems from Vector India Institute in July 2013 to January 2014.
+
+KEY SKILLS
+
+Languages:			   Embedded C.
+Micro Controllers:		    LPC 2378, TM4C129ENCPDT, ATMEL-AT89S52 (8051).	
+Communication Protocols:     CAN I2C, UART, and SPI.
+Compilers:		               C51 Cross Compiler (keil), TDM-GCC, Cygwin.
+IDE’s:				   Keil, Codecomposer, IAR workbench.	
+Concepts:                                  Linux, Networking (TCP/UDP).
+Tools:                                        Understand, MS-Office (word, excel, PowerPoint)
+
+PROJECTS
+
+Implementation of End Of Train Telemetry (EOTT)
+
+Client: Internal Customer (Advanced Development Project).
+Role: Designing and Coding.
+Software: Keil.
+Hardware: TM4C129EXL-EK/DK, Radio, GPS receivers, Buzzers, LCD and others.
+Language: Embedded C.
+ Protocols:  SPI, UART, ARP, UDP.
+Team: 3 No’s.
+Duration: 14 months. 
+Description: 
+Entirely new and vital railway safety system which was taken up as an ADP project to prove TATA POWER SED‘s capability in Railways. 
+The basic requirements for this system are derived referring to South African EOTT systems.
+This System has two major units CDU (Communication Display Unit) and SBU (Sense Brake Unit).
+The CDU is meant to be Mounted in the locomotive while the SBU to be mounted at the tail end of train replacing Guard Coach.
+In the Ideal Case Scenario CDU and SBU Communicate over radio, exchanging their crucial parameters like GPS Co-ordinates and Other information which enables both the units to monitor the train intactness or integrity.
+In case of emergency like train detachments while moving, SBU present at the end of train notifies the CDU which enable the driver to acknowledge the situation. If the driver fails to acknowledge the rear unit (SBU), it has the Capability to Apply brake on its own preventing further Discrepancies.   
+
+Responsibilities:
+· Development of Software for CDU and SBU.
+· Development of software for Simulator.
+· Making the Code compliance as per the SIL standard and MISRA C.
+· Code Analysis & Event-log analysis and fixing the bugs. 
+
+Implementation of Station TCAS System
+
+Client: RDSO (Research Designs and Standards Organization).
+Role: Designing and Coding.
+Software: Keil.
+Hardware: LPC 2378, MCB-2300.GPS, Data-logger, radios, GSM.
+Language: Embedded C
+ Protocols:  CAN, I2C, SPI and UART
+Team: 6 No's 
+Certification: Safety Integrity Level 4(SIL 4) 
+Duration: 8 months. 
+Description: A powerful railway safety system under development with RDSO. The requirements for this system are derived from the experience with ACD systems. In TCAS a customized TDMA protocol is used to manage communication which offers better reliable communication channel than compared with carrier sense alone. Station TCAS allots slots for Loco TCAS for transmission. TCAS uses RF Tags and relies less on GPS for absolute position and Track identification. Station TCAS taps information from the Railway Signaling systems and updates the loco with the signaling information for the next two signals as well as braking target in case of danger as the Loco TCAS does not have any database regarding the layout.
+
+
+
+Responsibilities:
+· Designed and implemented the specification outlined by RDSO for prototype along with the team from scratch.
+· Application & system programming development of Station TCAS.
+· Customized TDMA Protocol for TCAS Network.
+· Unit testing of functionalities.
+
+Implementation of Real Time Data Logger In Station TCAS
+
+Client: RDSO (Research Designs and Standards Organization).
+Role: Designing and Coding.
+OS: Linux Debian
+Hardware: ICOP 6150E, GSM SIM900A
+Language: C
+Protocols: CAN, UART
+Team: 2 No's
+Duration: 3 months.
+Description: A Real Time Data Logger is used to Store Real Time Events Occurring in Station TCAS System For example the Signal Information of LOCO TCAS will receive from Station TCAS. When Real Time Events Happens for example LOCO SPAD The information will send to Concern person mobile through GSM Modem. 
+First Version of Real Time Data Logger was developed using Vxworks and next Version in Linux Environment.   
+Responsibilities:
+· Responsible for design and development of software.
+· Interfacing the peripherals, functional testing.
+· Unit and Function Level testing.
+· Preparation of user manual. 
+
+PERSONAL DETAILS
+
+Date of Birth: 27-06-1991
+Languages Known: English, Hindi and Telugu
+References: 	Furnished upon request
+
+

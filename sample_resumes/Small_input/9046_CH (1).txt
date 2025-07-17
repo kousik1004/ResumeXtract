@@ -1,0 +1,273 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+SIVA DHANAPALAN 
+
+16/10, Velar Street, East part, Ilanji-627805, Tenkasi Taluk, Tirunelveli District, Tamil Nadu | (C) 07022088684 | 
+sivad91@gmail.com 
+
+Professional Summary 
+ 
+ To obtain a responsible and challenging career where my skills can be further enhanced and to 
+actively participate in a team that strives for excellence. 
+ 
+
+Work History 
+ 
+Senior Technical Support Engineer                  Apr 2016 – Current 
+Micropoint Computers Pvt. Ltd.                Mumbai, MH 
+
+ 
+Project Officer (Cluster Administrator)               Mar 2013 – Apr 2016 
+Indian Institute of Technology                   Madras, CH 
+ 
+
+Responsibility 
+
+ Installing High Performance Computing cluster (CPU, GPU and Intel PHI) 
+
+ Maintaining High Performance Computing Environment servers 
+
+ Responsible for the implementation, administration and maintenance of Red Hat Enterprise 
+Linux Advanced Server platform, installed and tested commercial software releases and updates 
+
+ Basic Knowledge of Parallel Computer architecture and shell scripting 
+
+ Hands-on experience in maintaining, upgrading and repairing on Supermicro (Boston), Fujitsu, 
+HP, IBM, Lenovo and Dell chassis including blade servers 
+
+ Installing the Open source software on the clusters 
+
+ Building, configuring and troubleshooting hardware related problems in HPC servers. 
+
+ Good understanding of Server Hardware Technology & UNIX. 
+
+ Upgrade the existing cluster with new version of OS and other software 
+
+ Conceptual thinking and adapting new technology 
+
+ Good communication, presentation, customer support and trouble shooting skills 
+
+ Strong interpersonal skills with good Team management and Team development experience  
+ 
+
+Computer Skills 
+ 
+
+ Languages   : C, HTML, Shell Scripting, Parallel programming(OpenMP) 
+
+ Shells    : Korn shell, bash 
+
+ Operating System  : Linux (RHEL, CentOS, SuSE Linux, Ubuntu), Windows & IOS 
+ Network Services  : NIS, NFS, DNS, FTP, DHCP,ROUTING,NTP 
+
+ Servers                                             : Supermicro (Boston), Fujitsu, HP, IBM, Lenovo and Dell 
+
+ Monitoring tools  : Ganglia and Nagios 
+ 
+
+ 
+ 
+
+mailto:sivad91@gmail.com
+
+
+Technical Experience 
+ 
+
+ 4 years of experience in High Performance Computing with extensive practical 
+hands-on experience in deploying High Performance Clusters (Rocks/ GPU cluster/ 
+Open source cluster) 
+
+ Storage Configuration – Supermicro (Boston), Fujitsu and Lenovo 
+
+ GPU -- Installation, Configuration 
+
+ MIC -- Installation, Configuration and Benchmarking of Applications 
+
+ Specialties: High Performance Computing Cluster both CPU and GPU 
+
+ Workload Managers: PBSPro and Torque 
+
+ HPL Benchmarking: CPU, GPU &amp; MIC 
+
+ Application Installation: GCC, VASP, Gromacs, Gaussian, Ansys, Abaqus, Openfoam, 
+Mathematica, Quantum Espresso, Matlab, Maple, Amber, NAMD, LAMMPS, Lapack, BLAS, 
+FFTW, Ligghts with CFDEM, OpenMPI and etc 
+
+ 
+
+Area of Expertise 
+ 
+
+ Linux System Administration. 
+
+ Cluster Configuration and implementation. 
+
+ Administrating using IBM General Parallel File System. 
+
+ Basic knowledge about Load Leveler. 
+
+ Knowledge of clustering network and shell scripting.  
+ 
+
+Professional Experience 
+Installations 
+ 
+
+ Indian Institute of Physics, Bhubaneswar 
+ 
+
+ Installed  Fujitsu’s 1440 cores hybrid cluster with lustre file system and a storage of 80 
+TB + 50 TB 
+
+ Cluster with 2 master nodes, 2 OSS nodes, 2 MDS nodes for failover and 60 computes 
+nodes (20 with only CPU, 20 with CPU and GPU, 20 with CPU and Intel phi) 
+
+ Configured Nvidia k80 and Intel phi co-processor. 
+
+ Benchmarked the entire cluster in the combinations of only CPU, CPU-GPU and CPU-PHI 
+ 
+
+ Indian Institute of Science, Bangalore  
+ 
+
+ Installed and configured Supermicro’s 288 core (1 + 24 nodes) cluster with basic cluster 
+configuration using centos 7, torque and Maui scheduler.  
+
+ Installed a Fujitsu’s 180TB storage with RAID 6 and configured the LUN as per customer 
+requirement for the department of CAOS 
+
+ Installed and configured a single Supermicro server with 10 Nvidia pascal p100 cards 
+(Deep learning) for the department of CHEP 
+
+ Installed Supermicro’s 224 core (1 + 13 nodes) Haswell CPU cluster configured with 
+CentOS 6.7, Torque and Mellanox IB interface for the department of CHEP 
+
+ Installed and configured Supermicro’s 240 core (1 + 14 nodes) Haswell CPU cluster with 
+
+
+
+Rocks 6.2, Torque and Mellanox IB interface for the department of Physics 
+
+ Installed and configured Supermicro’s 144 core (1 + 8 nodes) Haswell CPU cluster with 
+centos 6.7, torque and Qlogic IB interface for the department of CDS 
+
+ Installed and configured Supermicro’s 312 core (1 + 12 nodes) cluster with centos 7, 
+torque & Maui and Intel Qlogic IB interface for the department of chemical Engineering 
+ 
+
+ Raman Research Institute, Bangalore  
+
+ Installed a single tower model Supermicro server with 16 TB of inbuilt storage 
+ 
+
+ International Centre for Theoretical Sciences, Bangalore 
+
+ Installed and configured Supermicro’s 544 cores (2 + 32 nodes) Haswell CPU cluster with 
+Debian OS with 100 TB of Archive storage and 50TB of Main storage as usable 
+
+Maintenance 
+ 
+
+ Acting as technical support to identify and implement solutions to problems affecting the  
+
+ IBM’s Super Cluster  with 292 compute nodes, 2 Head nodes and 4 Storage nodes  with 
+160TB General Parallel File System (GPFS) Storage  and 50TB NAS storage for backup.  
+
+ HP’s GPU Cluster with 1 Head node (HP proliant DL380 G7 with Six-core Intel Xeon 
+processor and 24GB RAM) and 8 compute nodes (HP proliant SL390s with Six-core Intel 
+Xeon processor and 3 Tesla GPU card) and 10TB of NAS storage. 
+
+ Super micro’s Cluster with 1Head node and 16 compute node based on super 
+micro servers with 16 Intel MIC cards and 14TB of Shared Storage 
+ 
+
+Education 
+ 
+
+Bachelor of Engineering (EIE)              2012 
+RVS college of Engineering and Technology                               Dindigul, TN, India 
+Higher Secondary                2008 
+Hilton Matriculation Higher Secondary School                            Ayiraperi, TN, India 
+Secondary School Leaving Certificate             2006 
+Hilton Matriculation Higher Secondary School                            Ayiraperi, TN, India 
+ 
+
+Personal information: 
+
+ 
+
+ D.O.B   : 25/07/1991 
+
+ Gender   : Male 
+
+ Nationality  : Indian 
+
+ Passport No  : K7504531 
+
+ 
+
+Declaration 
+ 
+
+I do hereby confirm that the information furnished above is true to the best of my knowledge and belief. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date              : 07.11.2017             
+
+Current Place: Bangalore                                           (D.SIVA) 
+
+

@@ -1,0 +1,363 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abhijit Mohapatra 
+ 
+Programmer Analyst at Cognizant Technology Solutions 
+
+E-mail:  abhijitmohapatra07@gmail.com  
+Mobile: +91-9040130171 
+
+ 
+
+CAREER OBJECTIVE: 
+ 
+Intend to build a career with leading corporate of hi-tech environment with committed and 
+dedicated people,   which will help me to explore myself fully and realize my potential. Willing to 
+work as a key player in challenging and creative environment where I can improve my knowledge, 
+skills while contributing my best to the organization’s growth and performance. 
+
+ 
+
+PROFESSIONAL SUMMARY: 
+
+  
+ Having 29 months of experience in Performance Testing using industry-leading tools like HP Load Runner,  
+
+Performance  Centre,  Fiddler, Soap-UI, New Relic.  
+
+ Adept in performance testing of applications, analyzing the performance test results and providing a 
+comprehensive test report with observation & findings.  
+
+ Have taken responsibilities include non-functional requirements analysis, test script creation, performance 
+test execution and results analysis. Also proficient in executing various tests like load test, stress test, spike 
+test, endurance tests, etc. 
+
+ Has  worked with clients including leaders in Insurance and Travel & Hospitality. 
+
+ 
+
+J O B  D E S C R I P T I O N : 
+
+ 
+ 
+
+ Understanding the performance intensive business flows after discussion with project team 
+as well as customer business team.  
+
+ 
+ To benchmark the application performance if the application is newly developed.  
+
+ 
+ Understanding the application traversal for the performance intensive business flows after 
+
+discussion with Functional team.  
+ 
+
+ Understanding the user distribution across all the scenarios involved in the application.  
+ 
+
+ Preparing the Performance Test strategy covering the various requirements put forward by 
+the customer.  
+
+ 
+ Developing performance test scripts for the AUT.  
+
+ 
+ Preparing the WLM after execution of dry run (1 User, 1 Iteration test) across the various 
+
+scenarios.  
+ 
+
+ Test Data Preparation for execution.  
+ 
+
+mailto:%20abhijitmohapatra07@gmail.co
+
+
+ Execution of Performance Test. (Load Test, Endurance Test, Stress Test)  
+ 
+
+ Providing observations regarding the server activity during the test execution.  
+ 
+
+ Analysis and Performance Report generation.  
+ 
+
+ To detect the root cause behind the performance bottleneck and provide suggestions to 
+mitigate the issue.  
+ 
+
+ 
+ 
+
+P R O F E S S I O N A L  E X P E R I E N C E : 
+
+S No Company Month and Year of Total Month and Year of Role 
+  Joining Experience Leaving  
+      
+
+1 Cognizant 10
+th
+
+ April 2015 2 years 5 Currently Working Performance 
+ Technology  months  Tester 
+ Solutions     
+      
+ 
+ 
+ 
+ 
+      
+
+ 
+ 
+
+S K I L L S :  
+Operating Systems Win 2000/XP 
+  
+Languages C, JAVA, 
+  
+
+Tools Known 
+HP Load Runner-11.52,12.02, 12.53, Performance Centre  
+Soap UI, Fiddler, New Relic 
+
+  
+
+ 
+
+ 
+
+Corporate Trainings: 
+
+ 
+
+ Cognizant Certified Professional in Performance Testing  
+
+ Manual testing Training by Cognizant Academy 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+PROJECT DETAILS: 
+ 
+MM  ETO Testing  Aug 2015 – Feb 2016 
+ 
+Description: 
+MM ETO Testing has basically different tracks under which they support several applications. The three main tracks are 
+MetLife, EQAS (Enterprise Quality Assurance Solution) and Retire Smart. Several applications grouped under the 
+mentioned tracks are providing solution for Policies for its clients with life insurance, disability income insurance, long 
+term care insurance, retirement plan services, and annuities. The applications are mainly .NET based, interacting with 
+the middleware system, and mainframe systems. The performance of these systems is evaluated for the defined 
+performance requirements using HP Load Runner tool 12.53, Fiddler 
+Technology:  .Net ,Java 
+ 
+
+Roles and Responsibilities: 
+ Full ownership of project delivery which includes application performance scripting, execution and reporting 
+
+from offshore and ensured on time delivery and quality. 
+ Collecting Performance testing requirement for the application from the respective build leads by making them 
+
+understand the whole process via conference calls and screen sharing session 
+ Developing performance scripts using the HP Load Runner using Web/HTTP protocol & Web service . 
+ Preparing Work Load mix/ Real time Scenario before every execution. 
+ Communicating with various teams to complete the pre requisites, if any before test execution 
+ Creating detailed report using load runner analyzer, doing error analysis and publishing the report with detailed 
+
+observations 
+ Analyse root-cause of performance issues, if any and recommend remedial measures for key performance 
+
+issues 
+ Prepare the Final Performance test summary report . 
+
+ 
+ 
+ 
+ 
+CKE Smart Tech Finance Implementation : March 2016 – May 2016 
+ 
+Description: 
+CKE  decided to implement PeopleSoft and Hyperion as a combined solution to meet their Core Finance and analytical 
+needs. CKE had decided to re-implement existing PeopleSoft FSCM Modules on v9.2 - General Ledger, Accounts 
+Payables, Accounts Receivables, Asset Management, Billing and Purchasing. Along with the reimplementation CKE has 
+also decided to implement new modules as in Real Estate Management, e-Supplier, e-Settlements, e-Bill, Cash 
+Management, Contracts (Transaction Billing Processor), eProcurement and Project Costing. For the management and 
+regulatory reporting Hyperion suite of applications will be implemented. The performance of these systems is 
+evaluated for the defined performance requirements using HP Load Runner tool 11.52 
+Technology:  . PeopleSoft, Oracle Hyperion 
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+Roles and Responsibilities: 
+
+ 
+ Developing a Performance test plan to share it with Stakeholders.  
+ Performance testing requirement for the application from the respective build leads by making them 
+
+understand the whole process via conference calls and screen sharing session 
+ Full ownership of project delivery which includes application performance scripting, execution and reporting 
+
+from offshore and ensured on time delivery and quality. 
+ Developing performance scripts using the HP Load Runner using Web/HTTP protocol. 
+ Communicating with various teams to complete the pre requisites, if any before test execution 
+ Collecting Performance metrics after every execution and preparing Reports from the logs that has been 
+
+shared.  
+ Creating detailed report using load runner analyzer, doing error analysis and publishing the report with detailed 
+
+observations 
+ Analyse root-cause of performance issues, if any and recommend remedial measures for key performance 
+
+issues 
+ Prepare the Final Performance test summary report  
+
+ 
+John Hancock  MSM Testing : June2016– Continuing 
+ 
+Description: 
+JH MSM Testing has basically different tracks under which they support several applications. Main tracks are Annuities, 
+Investment and Retire Smart. Several applications grouped under the mentioned tracks are providing solution for 
+Policies for its clients with life insurance, disability income insurance, long term care insurance, retirement plan 
+services, and annuities. The applications are mainly .NET based, and  salesforce application interacting with the 
+middleware system, systems. The performance of these systems is evaluated for the defined performance 
+requirements using HP Load Runner tool 11.52/12.02/12.53, Soap UI, Fiddler. 
+Technology:   Java,.Net,  Sales force 
+
+ 
+
+Roles and Responsibilities: 
+  To detect the performance bottlenecks in every application by executing load tests for different performance 
+
+incentive scenarios also involved preparing performance test plan covering various requirements put forward 
+by customer. 
+
+ Full ownership of project delivery which includes application performance scripting, execution and reporting 
+from offshore and ensured on time delivery and quality. 
+
+ Developing performance scripts using the HP Load Runner using Web/HTTP protocol, Ajax truclient, Web 
+service. 
+
+ Communicating with various teams to complete the pre requisites, if any before test execution 
+ Preparing Work Load mix/ Real time Scenario before every execution. 
+ Collecting Performance metrics after execution and preparing Reports from the logs that has been shared.  
+ Creating detailed report using load runner analyzer, doing error analysis and publishing the report with detailed 
+
+observations 
+ Analyse root-cause of performance issues, if any and recommend remedial measures for key performance 
+
+issues 
+ Prepare the Final Performance test summary report  
+
+
+
+
+
+         
+ 
+
+P E R S O N A L  P R O F I L E : 
+
+DATE OF BIRTH : Dec15, 1993 
+FATHER’S NAME : Mr. Laxmidhar Mohapatra 
+GENDER    : Male.  
+MARTIAL STATUS : Single.  
+NATIONALITY : Indian.  
+LANGUAGES KNOWN : English, Hindi and Odia 
+
+ PAN No                                                    :              CMPZPM1157K 
+
+ Passport No                                              :               M7900085 
+
+ 
+
+ 
+
+D E C L A R A T I O N : 
+ 
+I hereby declare that the above information is true and correct to the best of my knowledge and belief. References to 
+any of the above shall be produced on request. 
+
+ 
+
+Abhijit Mohapatra 
+ 
+
+Place: Kolkata Date:  21
+st
+
+ September 2017 
+. 
+
+ 
+
+ 
+
+

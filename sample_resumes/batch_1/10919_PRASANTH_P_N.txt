@@ -1,0 +1,370 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+
+      
+
+                                PRASANTH P N  
+
+ 
+Manjari,                                                                                            E-mai: toprasanthpn@gmail.com    
+
+Iringole P.O,                                                                                     Phone (mob): 0091-9745976100 
+
+Perumbavoor, Ernakulam -683548                                                   Phone (Res):0091-484-2524846   
+                                                                                
+
+ 
+
+Career Objective:               
+
+                      Achieve a challenging position in the competitive industry, where I can 
+
+make significant contribution to the organization using the knowledge and logical ability that        
+
+I have bestowed.     
+
+ 
+
+Career Summary:     
+
+ 
+
+ 9 years and 2 months of Software development experience in developing leading-edge 
+applications in the following domains - Energy Automation, Telecom, Networking and 
+
+Mobility 
+
+ 
+
+ 2 years and 10 months of iOS mobile application development experience from 
+RapidValueSolutions-Cochin. 
+
+ 
+
+ 4years and 4months of Embedded software development experience from Wipro 
+Technologies-Cochin in the following domains: 
+
+  
+
+ Telecom (O&M) domain for Nokia Siemens Network 
+ PThread Library module of  HP –Nonstop Server  
+ Command Line Interface for HP Procurve switches (L2/L3).  
+
+ 
+
+ 2 years of Embedded software development experience from Kalki Communication 
+Technologies Ltd, Bangalore in Energy Automation domain. 
+
+ 
+
+ Protocol stack development for Network Communication Protocol Conversion Gateways 
+for Substation Automation 
+
+ 
+
+ 
+Areas of expertise 
+
+ 
+
+ C programming with good knowledge in Data structures, Socket programming, and 
+Multithreading 
+
+ Swift programming in iOS 
+ Operating Systems:  Linux, HP-Nonstop Kernel, Multi integrity OS, iOS/OSX 
+ Debuggers:  GDB, GHS MULTI Debugger 
+ Configuration management tools: GIT, SVN 
+ Communication Protocols: Modbus, IEC104, DNP3, CANopen. 
+ L2/L3 Protocols: OSPF, BGP 
+ Simulators and Utilities: Ethereal, Wireshark, TMW Protocol Test Harness 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Experience Details:     
+
+ 
+
+ Organization : RapidValueSolutions, Cochin. 
+Designation : Tech Lead 
+
+Experience : 2 year and 10 months 
+
+ 
+
+Technologies used: SWIFT, iOS/OSX, Xcode 
+
+ 
+
+Assignments: 
+
+ STC-Field Service Management  
+   STC FSM is an iOS mobile application developed for Saudi Telecom (STC) for 
+
+Field Service Management. This application has been developed for the use of Technicians in the 
+
+field and for efficient tracking of technicians by the manager by integrating a Manager Portal 
+
+Web Application with the STC-FSM Mobile application. STC-FSM extends STC’s Oracle EBS 
+
+modules. 
+
+Skills: SWIFT, iOS 
+
+ YAMI- Mobile Application for Yahoo!  
+   YAMI is an enterprise mobility app for Yahoo! catering to the needs of the 
+
+organization’s supply chain management . Yahoo IMS extends Yahoo's Oracle EBS modules, 
+
+which will allow the supply chain team to support their users by being able to provide accurate 
+
+information 
+
+Skills: SWIFT, iOS 
+
+ rBeacon Mobile App:  
+   Retail mobile commerce kind of application that will provide different types of 
+
+beacon messaging based on Beacon technology concept of low‐energy Bluetooth devices. This 
+helps in communicating between devices and allowing server to send in proximity based 
+
+messages to the mobile App enhancing the customer experience in a retail store. 
+
+Skills: SWIFT, iOS 
+
+ 
+
+ 
+
+ Organization : Wipro Technologies- Cochin. 
+Designation : Senior Software Engineer 
+
+Experience : 4 years 4 months 
+
+ 
+
+Technologies used : C, TNSDL (NSN proprietary language), Linux, HP-Nonstop Kernel, 
+
+Multi integrity OS, GDB, GHS MULTI Debugger 
+
+ 
+
+Assignments: 
+
+ Telecom O&M project for Nokia Siemens Networks: 
+  BSS Radio Network Configuration Database (BSDATA) contains the 
+
+ Configuration data and control parameters of the radio network in the Base Station  
+
+System (BSS). Worked in the Configuration Database interface module for new feature 
+
+enhancements and maintenance of existing features. 
+
+Skills: C, TNSDL (NSN proprietary language), DMX (native OS of DX 200 platform) 
+
+        Successfully completed GSM/GPRS certification. 
+
+ 
+
+ 
+
+ 
+
+
+
+ POSIX User Model Thread library for HP Nonstop Server : 
+          The POSIX User Model Thread (PUT) library is a user-space implementation of          
+
+ IEEE Std 1003.1, 2004, POSIX System Application Program Interface for use by native C 
+
+ and C++ TNS/E or TNS/X- targeted applications in the OSS environment on NonStop 
+
+ servers. Worked in the maintenance and enhancement activities of this library. 
+
+        Skills: C, Nonstop Kernel, xInspect (based on GDB)  
+
+ 
+
+ Command Line Interface Development for L2/L3 switches:  
+   Command Line Interface (CLI) is basically used to configure, and to get runtime 
+
+ state information of HP Procurve switches (L2/L3).  
+
+Lead a team of 4 members for the implementation of Configuration and Display commands 
+
+in HP Procurve switches.   
+
+ Skills: C, Linux, GHS MULTI Debugger, SNMP, MIB 
+
+ 
+
+ 
+
+ Organization : Kalki Communication Technologies Ltd. 
+Designation : Software Engineer-Product development 
+
+Experience : 2 years 
+
+  
+
+Technologies used : C, Linux, GDB, Modbus, DNP3, IEC104, CANopen, Ethereal, 
+
+Wireshark, TMW Test Harness, ModSim, Serial I/O,PMUConnection Tester 
+
+ 
+
+Assignments: 
+
+ GAS ANALYZER Master Protocol development  
+The GAS ANALYZER Master Protocol is developed as per the Enhanced serial 
+
+ communication protocol available with Enhanced Remote Panel 332 for collecting 
+
+ information from and sending commands to the RS232 or RS422/485 ports of the 
+
+ Enhanced Remote Panel. The Protocol Conversion Firmware developed facilitates the 
+
+protocol conversion between GasAnalyzer and Modbus protocols. 
+
+ 
+
+ EASUN Master Protocol development 
+  The EASUN Master Protocol is developed for collecting information from and 
+
+sending commands to an IED device on a serial channel. The collected information can be 
+
+converted to IEC-61850 protocol 
+
+ 
+
+ PHASOR DATA CONCENTRATOR (PDC) (IEEE STD -C37.118) 
+  The PHASOR DATA CONCENTRATOR (PDC) sends commands to and collects 
+
+data from Phasor Measurement Units (PMUs) in IEEE STD C37.118 format. This standard 
+
+covers synchronized Phasor measurements used in electric power systems 
+
+ 
+
+ PMU SIMULATOR (IEEE STD -C37.118) 
+  The PMU SIMULATOR is developed to simulate Phasor Measurement Units 
+
+(PMUs). On receiving appropriate commands from the PHASOR DATA 
+
+CONCENTRATOR (PDC), the PMU SIMULATOR sends data in IEEE Std C37.118 format 
+
+to the PDC.            
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+
+
+Academics & Personal 
+
+ 
+
+Education:  
+
+ Advanced Diploma in Embedded/RTOS (2006-2007) Cranes Software International Ltd, 
+Bangalore 
+
+ B-Tech (2006, 65%) in Electronics & Communication Engineering, Adi Sankara Institute of 
+Engineering & Technology, Kalady, Kerala. 
+
+ +2 (2001, 75%) Govt HSS, Perumbavoor, Board of Higher Secondary Examination Kerala. 
+ SSLC (1999, 89%) Govt VHSS, Iringole, General Education Department, Kerala 
+
+ 
+
+Personal: 
+
+Mother tongue    : Malayalam 
+
+Date of Birth    : 05- 09- 1983 
+
+Sex                                           : Male 
+
+Marital status    : Married 
+
+Nationality    : Indian 
+
+Domicile of    : Kerala 
+
+Languages Known   : English, Hindi, and Malayalam 
+
+ 
+
+ 
+
+Declaration: 
+
+I hereby declare that all the information furnished above is true to the best of my knowledge. 
+
+ 
+
+Date: 01/11/2017                                                                                                 
+
+Place:    Cochin                                                                                                  Prasanth P N 
+
+

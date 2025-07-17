@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JH A N S I  Y  B
+
+                                                                                                 JH A N S I  Y  B
++9 1 - 8861824018
+ybjhansi@gmail.com
+Experience Summary
+
+· A highly dedicated and Dynamic Professional around 5+ years of Experience in Data warehouse implementation as ETL-Developer in Teradata Database, HDFS.
+· Having 2 + years experience in Big Data, Hadoop Ecosystems and Spark Ecosystem.
+· Experience on Big-data HADOOP, HDFS, Hive technologies. 
+· Experience in creating Hive tables, loading with data and writing hive queries which will internally in Map-Reduce way.
+· Experience in writing SPARK SQL queries to load and process data in Hadoop File System.
+· Experience in working on SPARK framework and having good hands-on experience in SCALA programming Language.
+· Experience in working with different data sources like Flat files, JSON files and Databases.
+· Experience in importing data from Teradata to HDFS using SQOOP.
+· Experience in topic creation, topology set up, processing of data from Kafaka Message System.
+· Proficient in Data Warehousing Concepts, SQL, PL/SQL, Unix Shell scripting.
+· Experience in working with Teradata utilities like Fast Load, BTEQ, Multi Load and Fast Export.
+· Successfully completed Teradata Basic and Teradata SQL Certification.
+· Experience in Autosys job Scheduler. Creation of jils, Scheduling and Triggering of jobs. 
+· Experience in GIT – code deployment tool.
+· Ability to communicate at all levels effectively whether individually or as a team.
+
+Technical  Skills
+
+	Tools & Utilities
+	Teradata  SQL  Assistant,  BTEQ,  MLoad,  Fast  Load,  Fast  Export
+
+	Databases
+	Teradata (13.0 and 14.0)
+
+	Languages Skills
+	Unix Shell Scripting, C, SCALA
+
+	Ecosystem
+	Hadoop, HDFS, HIVE, Kafka, Sqoop, SPARK,
+
+	Job Scheduling
+	Autosys
+
+	ETL Tool
+	STORM, Informatica
+
+
+
+Educational Qualification
+
+
+	Qualification
+	Institution
+	Board/University
+	Percentage
+	Yearofpassing
+
+	X
+	Shree    ShanthiniketanEnglishMediumHigh School, Kadapa
+	APStateBoard
+	85.67
+	2003
+
+	XII
+	NagarjunaJunior    College, Kadapa
+	Intermediate
+MPCStream,AP
+	95.4
+	2005
+
+	B.Tech(C.S.E)
+	K.S.R.M.C.E,Kadapa
+	SriVenkateswaraUniversity, Tirupati,AP.
+	77.77
+	2009
+
+	M.Tech(C.S.E)
+	Sri VenkateswaraUniversity
+CollegeofEngineering
+	SriVenkateswara
+University,Tirupati, AP
+	75.00
+	2011
+
+
+Certifications Acquired
+	TERADATA
+	Teradata 12 Basics & Teradata 12 SQL Certifications are completed.
+
+	BigData And Analytics 
+	Big Data and Analytics – Completed
+
+
+
+
+Employment Summary
+
+· Working in Cognizant, Bangalore as Associate projects from Oct 2015 to till date. 
+· Worked in Wipro Technologies, Bangalore as Teradata ETL Developer from March 2012 to Sep 2015
+
+Project Details
+
+	Project
+	GBI – CSX
+
+	Client
+	Apple
+
+	Duration
+	Oct 2015 – Till Date
+
+	Role
+	Developer
+
+	Tools and Utilities
+	Kafka message broker,Hadoop, HIVE, HDFS, Sqoop
+
+	Operating Systems
+	MAC OS X
+
+	Description
+	CSX - Customer System Transformation is the new platform to built to replace existing GCRM (People soft application).Source data is in the form JSON file stored in Mongo DB at source is fed into GBI Teradata Core layer thru Mongo DB- Kafka - STORM data flow process.
+
+JSON files which are coming from Mango DB/ Oracle DB are placed in Hadoop
+DB via Kafka message broker. STORM data parser is used in parsing of data.
+
+
+
+
+ROLES AND RESPONSIBILITIES:
+
+· Playing the role of a developer at offshore taking care of the Apple care Repair subject area.
+· Interfaces are developed for loading data from kafka message system( streaming data) to Teradata and Hadoop.
+· Worked on a 72 nodes Hadoop cluster running CDH 5.5.1
+· STORM data parser is used for parsing of streaming data
+· Involved in importing data from Teradata to HDFS using SQOOP.
+· Involved in writing Hive queries to load and process data in Hadoop File System.
+· Involved in creating Hive tables, loading with data and writing queries in Spark Sql.
+· Involved in topic creation, topology set up, processing of data from Kafaka Message System.
+· Created External Hive Table on top of parsed data.
+· Created Hive tables to store the processed results in a tabular format.
+
+
+
+
+
+	Project
+	GBI 
+
+	Client
+	Apple
+
+	Duration
+	Apr 2015 to Sep 2015
+
+	Role
+	Developer
+
+	Tools and Utilities
+	  Hadoop 2.x, HDFS, HIVE, SQOOP, 
+
+	Operating Systems
+	MAC OS X
+
+	Description
+	The objective of the project is to fill gaps in the reporting and analysis tools available  to Finance  analysts.  The project  will integrate  units,  revenue  and margin data into Essbase and automate reporting and analysis..
+
+
+
+
+
+ROLES AND RESPONSIBILITIES:
+
+· Playing the role of a developer at offshore.
+· Co-ordination with On-site coordinator for technical and functional issues.
+· Involved in writing Hive queries to load and process data in Hadoop File System.
+· Performance tuning of hive Queries.
+· Job Scheduling is done in Autosys job Scheduler .
+
+	Project
+	 TURBO
+
+	Client
+	APPLE
+
+	Duration
+	Mar 2014 to Mar 2015
+
+	Role
+	Developer
+
+	Tools and Utilities
+	Teradata, Shell scripting, FLoad, Mload, Autosys, Espresso , Radar
+
+	Description
+	The objective of project Turbo is to fill gaps in the reporting and analysis tools available  to Finance  analysts.  The project  will integrate  units,  revenue  and margin data into Essbase and automate reporting and analysis.
+
+
+
+ROLES AND RESPONSIBILITIES:
+
+· Played a role of Developer in this project.
+· Procedures are created for incremental load.
+· Jil files are created for scheduling the jobs corresponding to the procedures.
+· MD set up in DEV, UAT and Production is done.
+· Here once the jobs are success then files are generated for the corresponding table by the Framework.
+· These files are given to Essbase team for the report generation.
+· I have developed the stored procedures for online inserts, updates, deletes, downloads and file uploads in Teradata SQL.
+· I gave functionality to the UDM 3.0 UI screens for the above operations.
+· Coordinated with Other team members for the completion of task in Time.
+· Acceptance and integrated testing is done to ensure the validation of system.
+· CR implementation is done through espresso.
+· Bugs during development is filed through Radar.
+
+
+
+	Project
+	GBI  - P2P
+
+	Client
+	Apple
+
+	Duration
+	Jun 2012 to Mar 2014
+
+	Role
+	Developer
+
+	Tools and Utilities
+	Teradata, Unix Shell scripting, AutoSys, Espresso , Radar, BBedit
+
+	Description
+	The objective of project GBI is to fill gaps in the reporting and analysis tools available to Finance analysts. The project will integrate units, revenue and margin data into BO and automate reporting and analysis.
+
+
+
+ROLES AND RESPONSIBILITIES:
+
+· Played a role of Developer in this project.
+· Created Stored procedures for Incremental load.
+· One time History load is taken care manually by using teradata SQLs.
+· Based on the radar request History Correction of Data on particular column will be taken care.
+· Jobs are created in jil files by using Autosys tool and scheduled them as per business requirement.
+· Prepared Test Cases to check the validity of data in semantic with the core table.
+· Documented analysis, unit testing, QA support, UAT support, implementation document, post implementation support.
+· Maintained warehouse metadata, naming standards and warehouse standards for future application development.
+
+Personal Details
+
+Gender                   : Female.
+Marital Status          : Married.
+Date of Birth           : 13-May-1988
+Languages              : English, Hindi and Telugu.
+Nationality              : Indian.
+Mail id 		   : ybjhansi@gmail.com
+Mobile No    	   : +91 - 8861824018
+Declaration
+                     
+ I hereby declare that the information furnished above is true to the best of my knowledge and belief.
+	Jhansi Y B
+
+ 

@@ -1,0 +1,350 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bibhuti Bhusana Patro
+
+                             SAP BO, Qlik and BODS Developer
+
+                                                           Rajesh Kumar
+ +966582520528
+       +919885587518
+
+
+
+        Email: rajeshgoud90@gmail.com
+                               
+
+PROFESSIONAL SUMMARY
+· Having 5+ years of experience as a Business Objects Developer in full life cycle design and development of Business Objects XI.R3.1, Business Objects Reports, CMC, Supervisor and Infoview. 
+· Having experience in Business objects data services to transform the data from source data base to target database.
+· Delivered advanced/complex reporting solutions such as Dashboards and Standardized reporting using Qlikview11.
+· Good in working with CMC like creating user/user groups and giving access to other applications and maintain user authorizations etc.
+
+· Experienced in Business Analysis, Design, Development, and Implementation, Testing, Migration and Support areas of Enterprise Applications.
+
+· Knowledge in Data Modeling & Architecture, Extended Star Schema, and Snow flake Schema, Slowly Changing Dimensions, Master and Transaction Data.
+
+· Experience in consuming BW Queries in Webi, Crystal.
+· Experience in working with Designing Universes from BW Infoproviders & DB using IDT.
+· Experience in creating Deski Reports and Converting Deski Reports to Webi Reports using Report Conversion tool during Migration
+
+· Worked on Crystal Reports and created complex Reports.
+
+· Good experience in creating universes from Info Cubes, queries and databases and 
+· expert in creating the Web Intelligence reports.
+
+· Expert in creating reports from universe and formatting the reports. Hands on experience on Web Intelligence
+
+· Good in creating the query and publish the Query as a Web Service, created the Xcelsius dashboards from QAAWS (Live data dashboards).
+
+· Good in creating the LO Connections and creating the Xcelsius 2008 dashboards from LO (Live Office) Connections.
+
+· Expertise in Universe designing, developing and generating dashboard Reports, Business views, List of values along with Unit Testing. 
+· Extensively used Business Objects reporting functionalities such as Master Detailed, Drill methodology, Filters, Ranking, Sections and Breaks.
+
+· Worked with Crystal Reports for creating complicated reports including sub-reports, parameter based reports, graphical reports, formula based, well-formatted reports, drilling reports, analysis reports, data reports along with LOV.
+
+· Good in creating complex reports by linking data from multiple data providers, using Combined Queries.
+
+· Conversion of Desktop Intelligence Reports to WEBI reports using Conversion tool.
+EDUCATIONAL PROFILE
+
+· B. Tech(IT) from Scient Institute of technology from 2007 to 2011. 
+WORK EXPERIENCE 
+· Working as SAP BO, BODS and Qlik Developer in Almarai, Saudi from June 2016 to till date.
+· Worked as SAP BO Consultant in Birla Soft, Hyderabad from June 2012 to May 2016.
+
+TECHNICAL SKILLS
+
+	Reporting Tools
+
+
+	Knowledge & Experience in BO 4.0/R3/R2, Report Conversion tool and Import wizard (migration), Crystal Reports2008/XIR2/XI. Data with Report Analysis. Widgets (mobile reporting) and exposure in remaining SAP-BO flavours.
+
+	ETL TOOL               
+	Experience on SAP BODS
+
+	Operating Systems
+	Windows 98/NT/XP, Win 7, Server 2003
+
+	Database
+
+	Knowledge in Oracle 10g
+
+
+CAREER DEVELOPMENT
+     Project #4
+
+	Project Client
+	Almarai Internal Project
+
+	Period
+	June 2016– Till Date
+
+	Role
+	SAP BO, BODS and Qlik Developer
+
+	Client Profile
+	 Largest FMCG in Saudi Arabia and Gulf. .
+
+	Skills
+	QlikView(Demand Planning Dashboard)
+· Involved in Requirement gathering & designing QlikView application
+· Created different types of charts, tables and analysed the data on various levels.
+
+· Experience in Using QlikView Functions (Date and Time, Keep, Join, Mapping, String & input Fields etc...)
+
+· Created QVD’s & updated on timely basis as database updates.
+Developed ETL Scripts while loading the data, resolving loops & ambiguity joins.
+
+· Data Modeling, Analysis, Reporting, Data Testing
+· Created Dashboards style of reports using QlikView components like List Box, Slider, Buttons, Charts, and Bookmarks.
+
+· Developed extensively Alerts, Variables, Input boxes, calendar & Macros.
+
+· Developed Linked Tables, Concatenation and solved the loops issues
+
+· Having experience in creating Set analysis to provide custom functionality in Qlikview Applications.
+
+· Created different QVDs and used that QVDs in different Qlikview document.
+
+· Having experience in joins and mapping function, Inline tables in Qlik.
+
+· Having experience in Triggers, Partial load, Resident load and different types of joins like inner, outer, left outer etc. in Qlik.
+· Supported existing dashboards by optimizing data load and dataflow.
+
+· Knowledge on scheduling the dashboards.
+
+· Knowledge on distributing the dashboards to the users.
+
+BO:(Route Universe)
+· Designing the Universe, created Contexts and Aliases for resolving Loops in the Universes to improve performance
+· Creating complex joins like outer joins, equi-join and theta joins and checked the integrity of the Universes
+· Implemented Object Level & User Level Security in IDT
+· Created Aggregate aware functions in Universes.
+
+· Exported the Universes to the Repository to make resources available to the users.
+· Created several ad-hoc reports for various Portfolios using the Universes as the main Data Providers to validate the data.
+
+· Interaction with end users regularly in order to generate the reports, these reports were generated using Business Objects functionality such as Slice and Dice, Master/detail, User Responses and Formulas
+
+· Extensively worked with Ranks, Alerter, filters, prompts, variables and calculation contexts in designing reports.
+
+· Created the Web Intelligence Report and used Events for Daily/Weekly /Monthly Scheduling of the reports.
+
+BODS:
+
+· Created different data stores and imported different tables from the datastores
+· Worked on transforms, Jobs, Workflows, Data flows, scripts etc in Data Service to extract, cleanse and load into target Data Base.
+
+· Created batch jobs in BODS and created various complex conditions in that jobs.
+· Transformed data from Oracle data base to SAP Hana database.
+
+· Having experience in creating different types of data stores in data services.
+
+· Created Case and Merge transformations in data services.
+
+· Created different types of query transformations and transformed data to another data base.
+
+· Supported data issues in BODS. 
+
+· Transformed data from csv files and loaded data into Hana data base.
+
+· Created various types of template tables and changed that template table to permanent table.
+
+
+
+     Project #3
+
+	Project Client
+	Australian Gas Limited (AGL). 
+
+	Period
+	June 2014– May 2016
+
+	Role
+	SAP BO Consultant
+
+	Client Profile
+	 AGL is the largest Australian gas and electricity retailer with over four and half million customers. The overall objective of the project is to develop and maintain a complete business intelligence system.
+
+	Skills
+	· Designing the Universe, created Contexts and Aliases for resolving Loops in the Universes to improve performance. 
+· Maintained and extended support for the universe created and for building Canned Reports
+· Changing existing design and meeting the end user requirements
+
+· Created Jdbc/Odbc Connection for SAP HANA DB to design Universe & BI
+
+· Consumed HANA Views in Crystal, Explorer, Design Studio using OLAP Connectivity
+· Performed Data Replication Activity using SAP DS to load data into HANA DB
+
+· Handling day to day issues on BO Universes or Reports in service management tool by following client process and achieving SLA.
+
+· Created Multi Source Universe using IDT
+
+· Customized IDT Data foundation by creating Views & Resolving Loops
+
+· Created Lumira Datasets using IDT Universe and Published to Lumira Cloud
+
+· Create Complex Webi reports using Open Doc Syntax and Published to Mobile Categories and Launchpad
+
+· Involved in Resolving Post Migration Issues such as. UNX Conversion, Recreating Complex variables & recreating OLAP Universes
+
+· Created Complex BEX Queries using Variables, CKF, RKF & Exceptions.
+
+· Created SAP Dashboards using BEX Queries with BICS Connectivity.
+
+· Created Crystal Reports with Sub reports & Dynamic Parameters.
+
+· Implemented Object Level & User Level Security in IDT
+
+· Created shared Resource Project in IDT for Multiuser Environment
+
+· Developed dashboards using Xcelsius 2008 using Live Office and XML connections.
+
+· Created web services using Web service generator tool QAAWS (Query As A Web Service).
+
+· Worked with BICS, which fetches data directly from Bex Query.
+
+· Created reports with different functionalities like Alerts, Sorting, Break, Filters, Prompts.
+
+· Exported the Universes to the Repository to make resources available to the users.
+
+· Extensively used filters, conditions, list of values (LOV), calculations, etc.
+
+· Creating complex joins like outer joins, equi-join and theta joins and checked the integrity of the Universes.
+
+· Applied graphical representation of reports such as Bar Charts, Pie Charts as per the end user requirements.
+
+· Migrated Analytics/Objects from Development to Production environment using Import Wizard tool.
+
+	Environment
+	SAP HANA, SAP BO BI 4.1, SAP BW 7.3, SAP ECC 6.0, SQL 2012 Server
+
+
+Project #2
+	Project Client
+	Timken Bearings, France.
+
+	Period
+	Jan 2013 - May 2014
+
+	Role
+	SAP BO Developer
+
+	Client Profile
+	              The Timken Company keeps the world turning, with innovative ways to make customers’ products run smoother, faster and more efficiently. Timken highly engineered bearings; alloy steels and related products and services turn up everywhere – on land, on the seas and in space. With operation in 27 countries, sales of $4.5 billion in 2004 and 26,000 employees, Timken is where you turn for better performance.
+
+	Skills
+	· Creating the Business Objects reports by using WebI, Crystal reports according to end user customization. 
+
+· Interacted with Business Users and Business Owners to know their Business views in developing and modifying Reports with Building of Universe Classes and objects accordingly.
+
+· Involved in Preparing Functional Documentation and low level design documents.
+
+· Created daily, weekly, monthly and quarterly reports for the management team and field operation Managers.
+
+· Created Alerts using Business objects to highlight the columns based on business criteria.
+
+· Created the reports using Business Objects functionality's like prompts, Drill Down, Cross Tab…etc    
+
+· WebI Reports were created Using Web Intelligence in Infoview and Sent to Corporate Documents.
+
+· Interact with customer as needed to better define and understand reporting requirements.
+
+· Preparing of Unit Test Cases for reports.
+
+· Copying the Reports from one folder to another in Infoview and Scheduling the Reports as per business needs through Scheduler.
+
+· Created different reports containing charts showing revenue and operating income by different divisions, market share of Beverages.
+
+· Resolved the Performance issues/Data issues within the Reports and Procedures.
+
+
+  Project #1
+	Project Client
+	British Petroleum Corp, UK.
+
+	Period
+	June 2012 - Dec 2012
+
+	Role
+	BO Developer
+
+	Client Profile
+	BP is based in UK and continues to be a leading refinery, transporter and marketer of transportation fuels, lubricants, petrochemicals, refined waxes, asphalt and other industrial products. 
+
+	Skills
+	· Development Business Objects reports by using WebI, Crystal reports as per the user requirements.
+
+· Used Calculations, Sorting, Rank, Drill Down, Cross Tab, Master detail Format for creating Business Objects Reports.
+
+· Created Cardinalities, Contexts and Aliases to resolve chasm and fan traps in Universes.
+
+· Customized LOVs in Universes for quicker performance of reports.
+
+· Created Joins, Contexts, and Aliases for resolving Loops and Universe Tuning and checked the Integrity of the Universes.
+
+· Created various analytical reports like sales and distribution markets, material managements, Trending, Rank reports from multiple data providers.
+
+· Created User Conditions and Filters to improve report generation & readability of report and displayed the summary of data by creating Charts.
+
+· Defined Hierarchies in Universe to provide the users with Drill down option in reports and Predefined Conditions to use in Business Objects.
+
+· Developed Universe objects and report in Web Intelligence
+
+· Used Derived tables to create the universe for best performance, and use context and alias tables to resolve the loops in Universe.
+
+· Created reports using Crystal Reports with Standard, Summary, Cross Tabs, SQL, Command Objects, Selection Criteria, grouping, sub reports etc.
+
+· Coordinating with Database team for the database design and Created SQL queries for extract data from oracle database.
+
+· Created hierarchies, complex objects using various @functions and aggregate aware objects in the universe.
+
+· Created reports using business objects functionalities extensively used Calculations, Variables, Break Points, Drill.
+
+· Involved in Creation of Aliases to resolve the Loops.
+
+
+
+

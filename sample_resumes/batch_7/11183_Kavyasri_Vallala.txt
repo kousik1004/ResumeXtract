@@ -1,0 +1,231 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kavyasri Vallala									
+E-Mail: Kavyavallala93@gmail.com
+Contact: +91-9985867548
+Address: H-No 12-7-157, Near Ayyappa Temple, Mettuguda, Secunderabad, Telangana.
+
+OBJECTIVE
+
+To work with an organization which provides me with a challenging environment helping me grow both personally and professionally, mutually benefitting one another. 
+
+A BRIEF OVERVIEW
+
+· I have 3.5 years of experience in developing applications in Microsoft and Frontend UI technologies.
+· I am currently associated with Infosys Technologies Ltd, Hyderabad as Technology Analyst.
+· I worked as an Intern in Infosys Technologies Ltd, Mysore for 4 months. I had a training on .NET technologies for 2 months and then worked on an internal Project for 2 months.
+· Expert level knowledge in Microsoft Technologies like ASP.NET 3.5/4.0, C#, SQL Server and UI Development Technologies, Framework and Single Page Application (SPA) like AngularJS, Object Oriented JavaScript, jQuery, HTML5, CSS3, Bootstrap etc.
+· Experience in developing SharePoint applications. Worked on OOTB development, Client side customizations, Nintex, App model (SharePoint Hosted, Provider Hosted) as well. 
+· Actively involved in total end to end software model with proficiency in mapping client’s requirements, application design, development, integration & testing.
+· Strong communication, collaboration & team building skills with proficiency at grasping new technical concepts & utilize the same in a productive manner.
+
+SKILL SET
+
+· Technologies				: 	SharePoint, Lotus Notes
+· Programming Languages		:	C#
+· Database				:	SQL Server 2008/2012
+· Scripting Languages			:	JavaScript, JQuery
+· UI Frameworks and Technologies 	: 	Angular JS, HTML, CSS, Bootstrap	
+· Development IDEs			:	Visual Studio 10/13/15, SharePoint Designer
+· Others					:	Migration tools: Quest and Jacana Next (Internal)
+
+
+Education
+
+
+	Qualification
+	University/Board
+	Aggregate (%)
+	Year of passing
+
+	BTech (IT)
+	JNTUH
+	82.29
+	2014
+
+	Intermediate (MPC)
+	Board of Intermediate
+	95.5
+	2010
+
+	SSC
+	Board of Secondary Education
+	92
+	2008
+
+
+
+
+
+PROJECTS
+
+· LN to SP On Premise/ 2013 (Office 365) Migration project – Toyota, Ricoh and Cummins
+· SharePoint On Premise and O365 Enhancement and Development – Adidas
+
+Project 4: 	Migration
+
+Company	: 	Infosys
+Client                	:	Cummins (USA)
+Role                   	: 	Technology Analyst
+Technologies	: 	SharePoint on Premise 2013, Office 365
+Duration         	: 	April 2017 to till date. 
+Team Size         	: 	10
+
+Description: 
+
+The main objective in this project was to migrate the applications from Lotus Notes to SharePoint.
+Roles and Responsibilities:
+
+· Played a major role in understanding the existing LN applications and building the sites in SP.
+· I was guiding my team with Lotus Notes and SharePoint technologies. 
+· In this project each person was given ownership of an application, where the person has to do the application from scratch. Worked on 3 applications ranging from simple to complex, where we used JSLinks, Angular JS, Designer Workflows and Nintex forms and Nintex Workflows.
+· For Migrating the data from Lotus Notes to SharePoint we used Quest tool.
+
+
+Project 3: 	Development
+
+Company	: 	Infosys
+Client                	:	Adidas
+Role                   	: 	Senior System Engineer
+Technologies	: 	SharePoint on Premise 2013, Office 365
+Duration         	: 	April 2016 to March 2017. 
+Team Size         	: 	10
+
+Description: 
+
+The main objective in this project was to develop new SharePoint sites and also enhance the existing sites.
+Roles and Responsibilities:
+
+· Learning New Technologies Angular JS and bootstrap was a challenge in this project.
+· Developed SharePoint hosted apps using latest technologies like Angular JS and Bootstrap.
+· Played a major role in understanding the existing applications and enhance the sites using latest technologies and also fix the issues/ bugs in some cases.
+· Worked on console applications in .NET 4.5 framework using C# for Scheduled/ upload tasks. 
+· Worked on SP Designer forms, Client side customization using Angular JS, JavaScript. 
+· I was also guiding my team with SharePoint and other technologies. 
+
+
+
+Project 2: 	Migration
+
+Company	: 	Infosys
+Client                	:	Ricoh (USA)
+Role                   	: 	System Engineer
+Technologies	: 	SharePoint on Premise 2013, Office 365
+Duration         	: 	April 2015 to March 2016. 
+Team Size         	: 	20
+
+Description: 
+
+The main objective in this project was to migrate the applications from Lotus Notes to SharePoint.
+Roles and Responsibilities:
+
+· Played a major role in understanding the existing LN applications and building the sites in SP.
+· I was guiding my team with Lotus Notes and SharePoint technologies. 
+· In this project each person was given ownership of an application, where the person has to do the application from scratch. Worked on 3 applications ranging from simple to complex, where we used App Model, JSLinks, JavaScript, Workflows and Timer Jobs.
+· For Migrating the data from Lotus Notes to SharePoint along with Infosys Internal tool, we used Quest tool.
+
+
+Project 1: 	Migration
+
+Company	: 	Infosys
+Client                	:	Toyota
+Role                   	: 	System Engineer
+Technologies	: 	SharePoint Office 365
+Duration         	: 	July 2014 to March 2015. 
+Team Size         	: 	20
+
+Description: 
+
+The main objective in this project was to migrate the applications from Lotus Notes to SharePoint.
+Roles and Responsibilities:
+
+· Played a major role in understanding the existing LN applications and building the sites in SP.
+· We Migrated 10 applications from LN to SP using Infosys tool, which basically migrates List Template and Data from LN to SP. 
+· On top of this migration we provided additional features requested by business with JavaScript and jQuery, like Buttons for navigation in the form, Validations and Group Permission accesses. 
+· we created Timer Jobs using CSOM, Designer Workflows using SharePoint Designer, User Validations etc., 
+
+
+
+
+
+
+
+
+
+
+Internal Project   :   Educator Explorer
+
+Company	: 	Infosys
+Client                	:	Infosys
+Role                   	: 	System Engineer Trainee
+Technologies	: 	C#, SQL, .NET
+Duration         	: 	Jan 2014 to May 2014. 
+Team Size         	: 	3
+
+Description      :  
+As part of this project we provided a website to the Educators in Infosys where they will be able to retrieve details related to sessions, labs, invigilation’s and evaluations based on educator’s name and also provided the Trainees access the Directory where they will be able to provide Feedback to the Educators.
+Roles and Responsibilities:
+
+· Played a major role in understanding the requirements and design of the site.
+· We Built a Web Application to be deployed in IIS. The site is built in .NET framework and C# language.
+· We used AJAX controls on pages to minimize the refresh of the page.
+
+
+CERTIFICATIONS
+
+· Certified in 70-480 Programming in HTML5 with JavaScript and CSS3
+
+PERSONAL DETAILS
+
+· Date of Birth				:	10th August, 1993
+· Marital status				: 	Married
+· Languages Known			:	English, Hindi and Telugu

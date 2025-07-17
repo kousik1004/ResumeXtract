@@ -1,0 +1,408 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prasath Sivakumaran
+
+Prasath Sivakumaran 
+
+
+
+
+  Mobile: +91- 9994738377                       Email:yoursprasath@gmail.com
+
+
+
+5.7 + years of IT experience in area of SAP Functional Testing, Web testing, and Performance Management and in Quality Process for clients like D&B, Wal-Mart, PepsiCo, Rabo Bank, Royal Mail Group. His areas of expertise include SAP SD, MM, RE and BI testing. 
+
+Professional Experience
+
+
+· Experienced in end to end SAP BI testing.
+
+· Experienced in SAP MM, SD Test suites and RE Test suites.
+
+· Hands on Experience in SAP BI support projects.
+
+· Experienced in working with test management tool, Mercury Quality Center 10.0.
+
+· Hands on experience in TMap and START testing methodology.
+
+· Solid Project Management skills with proficiency in project plan preparation, risk management, size estimation and Metrics Management. 
+· SQAG Co-ordinator for projects under IME – D&B (Partnerships) and have worked closely with IME DAG team.
+
+· Have involved in Metric Analysis and were helping projects to achieve 100% score.
+
+· Were helping the project team in closing the NC’s and Observation within the stipulated SLA.
+
+· Have experience on giving CAPA. (Corrective and Preventive Action)
+
+· Have undergone training in Six Sigma concepts.
+· Good knowledge in Object Oriented Design.
+· 8 Months of experience in United States, Texas for PepsiCo Client.
+
+· Versatile team leader with good communication skills and interpersonal skills.
+
+· Mentoring New Team Members.
+
+Areas of Expertise
+
+
+	· Process Auditing
+
+· Domain Expertise in Banking and Finance
+	· Requirements Gathering
+
+· Test Plan & Data preparation
+	· SAP BI/BW testing
+
+	· IT Quality Management
+	· Defect Management
+	· SAP SD testing
+
+	· Configuration and Build Management
+	· Scripting & Execution
+	· SAP MM testing
+
+	· Defect Management
+
+
+	· Status and Test Reporting
+	· SAP MM testing
+
+
+
+Skill Set
+
+	Operating Systems
+	Windows9x/2000/XP
+
+	Programming languages
+	C, C++, Java (JDK1.4)
+
+	Performance Testing Tool
+SAP Testing
+	Load Runner, Performance Center 8.1
+
+SAP BI 7.0, SD, MM, RE
+
+	Test Management tool
+
+Test Methodology
+	Mercury Quality Center 10.0
+TMap/START
+
+	Design Methodology
+	UML
+
+	Database 
+	SQL Server 2000, Oracle 8i
+
+
+
+Education
+
+· Master degree in Computer Science and Engineering from Pondicherry University, India.
+
+Certifications
+
+· BCS – ISEB Certified Professional in Software Testing
+
+· ITIL V3 Foundation Level Certified.
+
+· Microsoft Certified Professional – Designing and Implementing Database with Microsoft SQL Server 2000 Enterprise Edition.
+
+· Sun Certified Java Professional for Java 2.0
+
+Work Profile
+
+· Working with Steria India Limited as Test Analyst. (Oct’10 – Till Date)
+· Worked with Cognizant Technology Solutions, Chennai as Programmer Analyst. (Sep’06 – Oct’10).
+
+Training
+
+	Course Name
+	Duration
+	Certification
+
+	Entry Level Training on Microsoft Technologies
+	2 month
+	NA
+
+	SCM – VSS
+	1 Day
+	NA
+
+	Use Case Estimation
+	2 Days
+	NA
+
+	Six Sigma Concepts
+	4 Days
+	NA
+
+	Fish Bone and Pareto Analysis
+	2 Hrs
+	NA
+
+	Performance Testing
+	3 Weeks
+	NA
+
+	Communication Training at North America
+	1 Day
+	1
+
+	SAP BI
+	3 Days
+	NA
+
+	ITIL V3 Foundation Level (Quint – Wellington Redwood)
+	3 Days
+	1
+
+
+
+Project Experience
+
+1. RMG – ESFS, ES Revenue
+Tools Used
+: QC 10.0, SAP BI, SD, MM
+Client
+
+: Royal Mail Group, UK
+
+RMG (Royal Mail Group) has an SAP application aimed at simplifying the RMG’s Operations. It is a completely integrated SAP system catering to the different requirements of the RMG operations. SAP R/3 , Workplace and Portal are taking care of the running Royal Mail Group’s data centers, data networks, voice services, desktop computers, and over 600 business application systems. The Sales orders are report are processed through SAP BW.
+Roles and Responsibilities in the project
+· Developing Scripts for SAP MM, SD and RE modules based on the new work instructions sent by the client.
+
+· Uploading of test scripts in Quality center and formatting the test cases according to the needs of the customer.
+
+· Execution of Test scripts for different SAP modules in Development and Quality environments.
+
+· Creation of Test scripts and Test data preparation for “RMG ES-Revenue, ESFS” applications.   
+· Involved in End to End testing of SAP MM, SD, RE, BI modules.
+
+· Extracted and loaded data from SAP R/3 into Sales Order Info Cube using Data Sources.
+· Monitoring of Process chains and loads.
+· Experience with PSA maintenance, Info Packages, Data Transfer Process (DTP), Delta functionality.
+· Involved in Outage testing, Pre-Patch testing, System testing, Integration testing, Functional testing, End to End testing, Upgrade testing, Regression testing.
+
+· Involved in testing of SRM modules for various approver levels.
+· Identifying the possible issues / bugs in the SAP R/3  environment
+
+· Verifying of test cases in Manual Testing environment.
+
+· Reworking of Test scripts having new Change Request in Quality center.
+
+· Reviewing of test scripts done by the team.
+· Updating in Stir log for the issues faced while testing 
+· Executing Test Cases, Analyzing the Results and Reporting.
+· Mentoring of the new associates in the project.
+2. SAMBA – BI SAP Testing
+Duration
+: 14 months
+Client
+
+: Rabo Bank
+The Rabobank Group comprises 174 independent local cooperative Rabobank’s in the Netherlands plus their central organization Rabobank Nederland and its subsidiaries. Rabobank serves more than 9 million private individuals and corporate clients in the Netherlands and a growing number abroad. It employs over 60,000 staff and is represented in 43 countries.
+
+The Rabobank Group has the highest credit rating (AAA), awarded by the well-known international rating agencies Moody's and Standard & Poor's. In terms of Tier 1 capital, the organization ranks among the world's fifteen largest financial institutions.
+
+· HOV 
+
+Redesign the existing Accountability process for the Local and Central bank.
+
+Rabobank is supposed to provide a detailed overview of its accounts to the Dutch National Bank. This requirement is presently fulfilled by the MS Access system. The increase in the amount of data and due to the inflexibility in the Tool, the requirement for a new SAP solution to handle this functionality was put forward and successfully implemented previously for the Local banks and Central bank. The existing functionalities need to be optimized with the newly available SAP versions (upgrade) and a new flow is to be developed for the mortgages and Green bank.
+
+Roles and Responsibilities in the Project:
+
+· Understanding the client requirements.
+
+· Creation of Intake Test Basis.
+
+· Creation of Test case and Test data.
+
+· Defect Management
+
+· Validation of R/3 data, Flat File and Base Layer validations.
+
+· Validation of Info objects, DSO, Info Providers, Open Hub Destination and DTP transformations.
+
+· Validation of the Cube and Cube Data.
+
+· Status reporting & client reporting.
+
+3. Enterprise Transport Management System – Middleware Performance Testing
+
+Duration
+: 8 months
+Client
+
+: PepsiCo, Plano, Texas
+ETMS plays as a transaction broker among various systems (ITM, OBC, TM, Oracle, OAP and many more). It keeps a snap shot of a complete transportation within its persistence to facilitate payment allocation, order/shipment conversion, various systems different view of transportation solution, keeping track of statuses that TM does not provides etc. It also provides a transactional audit facility. 
+
+The purpose of middleware performance testing is to find the response time from the time the order hit the ETM subscription queue until the time the shipment is processed by TM and the response is sent back to ETM. The messages are pumped to the queue using ACCORD tool. The orders are tracked in the application database (Oracle). The application is developed using Java and TIBCO & AbInitio are used as the Middleware components.
+Roles and Responsibilities in the Project:
+
+· Requirement Collection
+
+· Test planning
+
+· Creation of Java utility to generate Orders.
+
+· Creation of around 300 thousands of Orders.
+
+· Creation of Test scenarios and Test Execution
+
+· Monitoring of queue, server and database.
+
+· Preliminary Report Creation
+
+· Post Test Analysis
+
+· Preparation of Executive Summary Report
+
+4. WM GLS Phase 2 – Performance Testing:
+
+Duration
+: 2 months
+Client
+
+: Wal-Mart,
+The aim of this project is develop a unified WMS system to serve all their DC’s. And also to develop business process and requirements analysis for Order Processing (OP) and Quality Assurance (QA) with a global perspective and implement the OP and QA modules for International Grocery, US Grocery, WCA and Sam’s on the GLS. The application was developed in Microsoft .Net framework and LoadRunner Citrix and Web (HTML) protocols were used for performance testing.
+
+Roles and Responsibilities in the Project:
+
+· Understanding the client Requirements
+
+· Estimation of the required time and resources.
+
+· Scheduling and planning the activities as per the estimation.
+
+· Test Plan Preparation.
+
+· Preparation of Load Runner Test Scripts.
+
+· Test Execution – Load Test.
+
+· Monitoring and Performance Analysis
+
+5. DNBi – E- Fabricator - Development
+
+Duration
+: 20 months
+Client
+
+: Duns & Bradstreet
+E-fabrication web service is a middle ware service, which is the report fabricator channel for D&B. It accepts SOAP requests from D&B access systems, extracts data from data sources and delivers the report in different formats (HTML, Text, PDF, CSV, XML etc). The system is designed to fabricate different versions of a product based on an incoming request, and the products available may be different based on requesting system. The result product must be an XML response with the data elements.
+
+Roles and Responsibilities in the project
+· Understanding the clients Requirements
+
+· Estimation of the required time and resources.
+
+· Preparation of Requirement Analysis Document and Design Document.
+
+· Scheduling and planning the activities as per the estimation.
+
+· Code Development & Code Review.
+
+· Test Plan Preparation and Involvement in the unit testing.
+
+· Carrying out the process related activities.
+
+· Preparation of Release Documents.
+
+· Configuration & Build Management
+
+· Project Metrics
+
+· Defect Tracking
+
+· Risk tracking and Mitigation
+
+· Status Reporting
+
+· Post Implementation support.
+
+
+Personal Profile
+
+	Date Of Birth
+	16/02/1982
+
+	Marital Status
+
+Nationality
+	Married
+Indian 
+
+	Passport 
+	F8141189
+
+	Temporary Address
+	1/362 Kalathumettu St
+
+Kottivakam, Chennai – 41
+
+	Permanent Address
+	Plot No: 09, Agathiyar St,
+
+Pudupet, Lawspet Main Road,
+
+Pondicherry – 605008
+
+
+2 of 6
+

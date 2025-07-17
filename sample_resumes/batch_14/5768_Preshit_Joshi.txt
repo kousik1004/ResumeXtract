@@ -1,0 +1,117 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preshit Joshi		
+Mob: +91-8600450261
+e-mail: preshitj28@gmail.com
+	
+Objective :  Seeking a position to utilize my skills and abilities in the Information Technology Industry that offers professional growth while being resourceful, innovative and flexible.
+
+Experience Summary:   Presently working with Clover InfoTech Pvt. Ltd, Mumbai as a Technical Associate (Oracle DBA). Clover InfoTech is a leading technology services and solution provider. 
+ It is recognized as the CIO CHOICE 2015 for database solution support. Over all 3.5 years of experience as a Oracle Database Administrator on 9i, 10g, 11g (RAC),12c (RAC) , upgrade, maintenance etc.
+
+Expertise In: 
+· Installation of Oracle database on various platforms like Linux, Windows.
+· RAC Monitoring, Maintenance on Solaris.
+· Familiar with RAC commands: SRVCTL , CRSCTL , ETC.
+· ORACLE database upgrade from 10g to 11g.
+· Creating RAC Cloning.
+· Creating RAC DR(Standby database).
+· Creating Standalone DR for RAC Primary.
+· Creating RAC Database .
+· Apply quarterly PSU patches on single instance database.
+· Physical Standby creation for standalone/RAC database.
+· Troubleshooting cases when standby configuration was not in synch with production database
+· ASM management like addition or removal of disk in a diskgroup.
+· Implementation of physical backups.
+· Database recovery using the physical backups..
+· Oracle client installation.
+· Implementation of oracle security by creating roles and privileges and profiles. 
+· Schema refreshment using export/import.
+· Handling user requests.
+· Table Re-Organization to remove table fragmentation using EXPORT/import.
+· Analyzing AWR/ADDM/ASH reports.
+· Scheduling jobs using cronjobs.
+· Database application user password refresh.
+· Analyzing tables and indexes for better performance, Rebuilding and reorganizing Indexes/Monitoring Indexes.
+· Rebuilt Indexes, gather statistics for schema/ stale tables on regular basis.
+· Space management over database Tablespaces and server mount points.
+· Monitoring alert log.
+· Performing any corrective actions required to address errors raised in the log files. Consistently monitoring the log files/trace file.
+· Planning future database growth (Capacity Planning)
+· Preparing plan of action for activities that needs to be performed on Production database with timelines.
+· Preparing Monthly Service Report (MSR) highlighting all activities for that particular month.
+
+
+
+1)
+Client		  : Accelya Kale Solutions Pvt limited
+Role		  : Oracle Database Administrator
+Team Size	  : 16
+Environment 	  : 12c(RAC),11g(RAC),11g Single Instance
+OS		  : RHEL
+
+
+
+My Responsibilities:
+· Storage Migration of multiple databases 
+· Adding and resizing datafile.
+· Installation of Oracle database on platforms like Linux.
+· Creating Diskgroup on ASM, adding disks to ASM.
+· Apply quarterly PSU patches on single instance database.
+· Physical Standby creation for standalone standard edition database.
+· Troubleshooting cases when standby configuration was not in synch with production database
+· Implementation of physical backups.
+· Database recovery using the physical backups..
+· Implementation of oracle security by creating roles and privileges and profiles. 
+· Schema refreshment using export/import.
+· Handling user requests.     
+· User creation.
+· Dblink creation (oracle-oracle).
+· Provide object ddl on user request.
+· Configuration of online (hot) and offline (cold) backup. Export & Import.
+

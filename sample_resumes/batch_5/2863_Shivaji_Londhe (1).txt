@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Big Data Hadoop Developer | ETL Developer | Oracle Certified
+
+Shivaji Londhe
+
+Address    : B 1002, Dreams Nadini, Hadapsar, Pune, Dist.- Pune 411028
+Email        : londhe.shivaji29@gmail.com	
+Phone       : +91 -9850891277
+
+Professional Snapshot
+
+1. IT professional with 7.3 years of experience in the field of Big Data Hadoop, Apache Spark and Data Warehousing.
+2. More than 4 years of experience in Big Data. Good knowledge of Hadoop ecosystem like Hive, Impala, Pig, Sqoop, hdfs, Oozie and Spark.  
+3. Have good knowledge in dimensional modelling.
+4. Worked as a SSIS and SSAS (Cube) Developer. Having good understanding of Data Warehousing concepts, Control Frameworks, Data Quality Frameworks and ETL development standards.
+5. Worked on designing and development of Google Analytics reports using Klipfolio and Tableau reporting tool
+6. Worked as Tableau Administrator. Have experience in Tableau 10.0 administration.
+
+
+Present Company: Bitwise Solutions
+Tenure: 16th Aug, 2011 to till date
+Designation: System Analyst
+
+
+
+Project #1
+                                                                         
+Project Profile     : Finance Domain
+Duration	    : Jan 2015 – till date
+Role                  : Big Data Developer, Tableau Administrator, Klipfolio Developer 
+Environment      : Spark, Hive, Impala, Pig, HBase, Sqoop, Oozie, Tableau, Scala, Unix shell script, Klipfolio
+
+Contribution:
+As a Big Data developer and team leader, I am responsible for 
+
+· Requirement gathering
+· Creation of workflow to load received source files in HDFS and maintains it in Hadoop Data Lake
+· Implementation of Hive jobs to process received source files and load into data lake created on HDFS
+· Implementation of Spark with Scala jobs to process source files. 
+· Implementation of PIG jobs for data Ingestion
+· Implementation of data quality checks and maintains data quality info into HBase integrated Hive table
+· Optimizing the load process as well as table query performance using different loading mechanism.
+· Help users to write Impala optimized queries
+· Worked on Sqoop to import the data from SQL server to Hadoop.
+· Board users and provide access to user on Hue application and maintain hive/impala database level and hdfs directory level permission via Sentry and File ACL.
+· Hadoop cluster management
+· Schedule data load jobs into cron and Oozie
+· Handle team of 8 developers
+
+As a Tableau admin and developer, I responsible for 
+
+· Install/upgrade, administer and maintain Tableau HA environment.
+· Project creation and user access management 
+· Creation of Tableau workbook, dashboards
+
+As a Digital Analytics report developer, I responsible for
+
+· Requirement gathering 
+· Analyze Google Analytics data for clients web site
+· Analyze social site data(Facebook, LinkedIn and twitter) of client accounts.
+· Develop digital analytics report using Klipfolio reporting tool.
+· Share the report with different users by creating user groups.
+
+
+
+Project #2
+                                                                         
+Project Profile     : Finance Domain
+Duration	    : Jan 2013 – Dec 2014
+Role                  : ETL Developer, Database Developer
+Environment      : Oracle, IBM NETEZZA, DMExpress, Unix 
+
+Contribution: 
+
+As a ETL/Database Developer, I responsible for 
+
+· Requirement gathering
+· Design ETL process framework, control framework and data quality framework
+· Design data model
+
+· Understanding new requirements of client and create low level design and mapping documents.  
+· Write optimized Oracle SQL flows to populate business tables.
+· Schedule the processes using control-m jobs
+· Design batch job process to migrate the historical data from Oracle to Netezza
+· Design ELT process to load data into Netezza from fixed and delimited source files 
+· Performance monitoring and tuning
+· Provide support for live system.
+
+
+
+Project #3
+                                                                         
+Project Profile     : Retail Domain
+Duration	     : June 2012 – Dec 2012
+Role                   : SSIS and SSAS Developer
+Environment       : Microsoft SQL server 2008 R2
+Contribution: 
+
+As Developer, I am responsible for 
+· Understanding the business specs and preparing technical specs
+· Design and development of SSAS cube.
+· Involved in Creation, Development and Deployment of SSIS packages 
+· Development of KPI on SSAS cube
+· Created CONTROL and DQ framework to maintain the job statistics and to ensure the quality assurance
+· Developed Stored Procedures, Triggers, and SQL scripts for performing automation tasks
+
+Project #4
+                                                                         
+Project Profile    : Management Domain
+Duration           : Oct 2011 – May 2012
+Role                 : SSIS and SSAS Cube Developer
+Environment     : Microsoft SQL server 2008 R2, ERwin
+
+Contribution: 
+
+As Developer, I am responsible for 
+· Understanding the requirements.
+· Involved in Creation, Development and Deployment of SSIS packages
+· The packages created included a variety of transformations, for example Slowly Changing Dimensions, Look up, Aggregate, Derived Column, Conditional Split, Fuzzy Lookup, Multicast and Data Conversion
+· Developed Stored Procedures, Triggers, and SQL scripts for performing automation tasks
+· Design and development of SSAS cubes
+· Design and develop SSIS package to refresh SSAS cubes.
+· Status Reporting
+ 
+
+
+
+
+
+
+
+
+
+	Technical Skills
+
+	Database
+	MS SQL Server 2008/R2, Oracle 9i/10g,Hive,Impala,HBase
+
+	ETL Tools
+	SSIS, DM-Express, Pig
+
+	Analysis Services
+	SSAS
+
+	Reporting Tools
+	SSRS, Tableau, Klipfolio
+
+	BI Tools
+	Business  Intelligence Development  Studio, SQL server management studio, Toad, SQL Developer
+
+	Scheduler
+	SQL Server Agent , Control –M, Oozie, Cron
+
+
+	Programming skills
+	SQL, T-SQL, PL/SQL, Unix shell scripting 
+Java, Scala, Spark
+
+	Operating Systems
+	MS Windows ,Unix
+
+
+	Version Control
+	SVN
+
+	Others
+	Knowledge of Data warehousing concepts , Data Structures, DBA Concepts
+
+
+
+
+
+
+
+
+
+	Certifications
+
+	ORACLE CERTIFIED ASSOCIATE (OCA)  SQL with 96.15%
+	                  
+
+	ORACLE CERTIFIED ASSOCIATE (OCA) PL/SQL with 92%
+	                
+
+	
+	
+
+	Education
+
+	Degree
+	University
+	Year of passing
+	Grade
+
+	BE (IT)
+	Pune University
+	2011
+	First Class
+
+	HSC
+	Pune divisional Board, Maharashtra
+	2005
+	Distinction
+
+	SSC
+	Pune divisional Board, Maharashtra
+	2007
+	Distinction
+
+
+
+
+
+
+Personal Snippets
+· Date of Birth     - 21 June , 1989
+· Sex                  - Male
+· Language         - Marathi, Hindi and English
+· Father’s Name  - Mr. Ramhari Londhe
+· Mother’s Name - Mrs. Savitra Londhe
+· Nationality       - Indian
+· PAN card         - AFDP5502L
+· Marital Status  - Married
+
+The above information is true and best to my knowledge.								
+Shivaji Londhe
+Date: 26 July 2018		
+
+	1
+	
+
+
+

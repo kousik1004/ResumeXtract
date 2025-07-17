@@ -1,0 +1,131 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bharath Kumar K S                             ksbharathkumar91@gmail.com 
+☎ +91 9677320324        DOB   12th February 1991 
+        www.linkedin.com/in/bharathkumarks/                Chennai, India 
+
+EDUCATION 
+
+                      Degree School/College Duration % / CGPA 
+
+MBA (Marketing Analytics) DoMS – NIT, Trichy 2012-2014 8.02 (CGPA) 
+B.Tech (Information Technology) Govt.College of Technology, Coimbatore 2008-2012 8.03 (CGPA) 
+
+Class XII Rosemary Mat.Hr.Sec.School, Tirunelveli 2008 95% 
+Class X St.Ann’s Mat.Hr.Sec.School, Panagudi 2006 91% 
+
+ 
+
+ 
+
+PROFESSIONAL EXPERIENCE 
+
+Associate Manager-Decision Sciences @ Matrimony.com    (Oct 2014 - Feb 2017) 
+
+Fraud Analytics 
+ Developed an ensemble model to identify the customers involving in fraudulent activities to suspend them from 
+
+the portal 
+
+ Performed an ensemble of SVM, C5.0 and Logistic regression on the customers’ profile and activity data to 
+
+detect the fraudsters 
+
+ Used IBM SPSS Text Analytics to perform text analytics on the customers’ interaction data to determine 
+
+suspected actions 
+
+ The ensemble model had a recall of 87% in identifying the fraudsters. Post implementation of the model, 
+
+customer complaints related to fraudsters got reduced significantly  
+
+Payment Propensity 
+ Objective of the project was to identify the customers with high chance of purchasing a product based on their 
+
+clicks and activities in the website 
+
+ Built a classification model using C5.0 algorithm and the propensity model was automated to target the 
+
+customers effectively  
+
+ The conversion rate of the model was 7.5% 
+
+Churn Management 
+ Objective was to increase the active base of the customers in the website by using their profile and activity data 
+
+ Built a model using cox regression to predict the customers who are likely to attrite and time of attrition 
+
+ Targeted the customers who were likely to attrite with a view to retain them or to cross sell other products 
+
+ The model had an accuracy of 83% in predicting the customers’ last login and the active base increased by 15% in 
+
+a span of 5 months 
+
+ 
+Senior Analyst @ Ameex Technologies   (Mar 2017 – Present) 
+
+ 
+
+ Social listening tool - Built a tool that classifies the tweets and posts in Twitter and Facebook based on the 
+sentiment. The tool was developed based on SVM algorithm. 
+
+ Topic Modeling – Built a topic model using Latent Dirichlet Allocation to identify the topics and derive hidden 
+patterns.  
+
+ Web-based dashboard for leading Optical manufacturer - Developed web-based dashboards in SAP Lumira 
+to provide high-level view of the company’s sales funnel health and to drill down to the finest detail i.e. at an 
+opportunity level. 
+
+ Chabot (POC) – Developed a Chabot using a seq2seq model (Recurrent Neural Networks) in Python. 
+
+SKILL SET Python SPSS SAP Lumira R SQL Excel Tableau 
+
+mailto:ksbharathkumar91@gmail.com
+http://www.linkedin.com/in/shanjiv-kumar
+

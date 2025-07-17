@@ -1,0 +1,352 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                   RESUME         		    
+                          
+Name	            : Mr. Ravichand Sushil Vishwakarma
+E-Mail id	:  ravichand1185@gmail.com
+	                                                                                            
+Qualification   :  BSC (IT).
+
+CARRIER OBJECTIVE
+
+To obtain a challenging position in a high quality engineering environment where my resourceful experience and academic skills will add value to organizational operations.
+
+WORK EXPERIENCE
+
+I have total 2.6 years of Experiences in Automation.
+Presently working with  Capgemini India as a Automation Test Engineer.
+Atos India (Dec 2015 to Oct 2017) 
+
+Munichre America MRAM Automation
+	Project Name:
+	MRAM
+
+	Client:
+	Munichre America
+
+	Role:
+	Software Test Engineer
+
+	Duration:
+	Nov/2017—Current
+
+	Team Size:
+	Project: 3
+	Module: 1
+
+	Environment:
+	Languages:
+	C#
+
+	
+	Tools:
+	Ranorex Automation 
+
+	
+	OS:
+	Windows XP
+
+	Description:
+	Munich Re Group one of largest reinsurance company based in Munich, Germany. It is one of the world's leading reinsurers. ERGO, a Munich Re subsidiary, is the Group's primary insurance arm.
+
+	Contribution:
+	Created automate test script.
+Implemented code and validation as per business logic.
+Performed regression testing of application.
+Automated more than 100 Test Case.
+Reporting.
+
+
+
+
+BFL/CFL Mobile & Web portal Application 
+	Project Name:
+	BFS/CFL
+
+	Client:
+	Confidential
+
+	Role:
+	Software Test Engineer
+
+	Duration:
+	May/2016—Current
+
+	Team Size:
+	Project: 3
+	Module: 1
+
+	Environment:
+	Languages:
+	Java
+
+	
+	Tools:
+	Selenium Web Driver, Appium
+
+	
+	OS:
+	Windows XP
+
+	Description:
+	Browser Stack Project is used to check compatibility of web application on various platforms. 
+
+	Contribution:
+	Created automate test script.
+Implemented code and validation as per business logic.
+Performed regression testing of application.
+Reporting.
+
+
+
+Automation Center of Excellence(CoE)
+	Project Name:
+	Test Automation Accelerator (A2 Frameworks)
+
+	Client:
+	Confidential
+
+	Role:
+	Developer
+
+	Duration:
+	May/2016—Current
+
+	Team Size:
+	Project: 4
+	Module: 1
+
+	Environment:
+	Languages:
+	Java
+
+	
+	Tools:
+	Selenium Web Driver,Jenkins
+
+	
+	OS:
+	Windows XP
+
+	Description:
+	A2 Framework was developed to achieve increase code re-usage , higher portability , reduced script maintenance cost etc. 
+
+	Contribution:
+	Creation of Framework from scratch. 
+Created automate test script.
+Implemented code
+Reporting with Pie chart and Bar chart
+
+
+
+
+Mindsphere API Automation
+	Project Name:
+	 Mindsphere (Hybrid Frameworks)
+
+	Client:
+	Confidential
+
+	Role:
+	Developer
+
+	Duration:
+	June/2017—Current
+
+	Team Size:
+	Project: 4
+	Module: 1
+
+	Environment:
+	Languages:
+	Java
+
+	
+	Tools:
+	Selenium Web Driver, Jenkins, Rest Assured 
+
+	
+	OS:
+	Windows XP
+
+	Description:
+	Hybrid Framework was developed to achieve increase code re-usage , higher portability , reduced script maintenance cost etc. This framework is used to check all api’s, with expected and actual json response via Excel file.
+
+	Contribution:
+	Creation of Framework from scratch. Created automate test script. Implemented code, All logs get generate in log.txt file Comparison result get store in excel.  
+
+
+
+
+	PROFESSIONAL SUMMARY
+
+
+
+· Bachelor’s in Information Technology Professional having 1 year Of Software Testing experience.
+· Working as Software Associate Engineer in Atos.
+· Familiar with all Phases of Software Development Life Cycle and Software Testing Life Cycle.
+· Understanding, Analyzing and Streamlining Test Requirements.
+· Knowledge of different levels Of Testing (Unit Testing, Integration Testing, System Testing and Acceptance Testing).
+· Familiar with Functional and Non-Functional Testing.
+· Well versed with Test Documentation (Test Scenarios, Test cases, Test Data, Defect Report and Test Metrics).
+· Expertise in Bug Reporting & Tracking Process, Bug Reporting and Tracking using Bug Tracking tools like Bugzilla.
+· Knowledge on SQL to conduct Database Testing.
+· Familiar with Programming Fundamentals (Structured Programming and Object Oriented Programming).
+· Knowledge on Test automation Tools like Selenium.
+· Good exposure on Bug Life Cycle.
+
+
+
+
+
+
+
+ACADEMIC PROFILE
+
+	Qualification
+	
+Stream
+	University/ Board
+	Month & Year of Passing
+	Percentage
+
+	         B.S.C
+	IT
+	       Mumbai
+	   April-2015
+	72.14
+
+	         H.S.C
+	     Commerce 
+	Maharashtra
+	   Feb-2012
+	63.00
+
+	         S.S.C
+	    English  Medium
+	Maharashtra
+	 March-2010
+	78.18
+
+
+
+
+
+TECHNICAL SKILLS
+
+Automation Testing: Knowledge of  Selenium WebDriver, Appium, Jenkins (Currently using in Atos Project) 
+Programming Languages:  C, C++, Core Java,Advance Java.
+Manual Testing:  Familiar with Desiging  &  Executing  the Test Cases.
+Web Technologies:  HTML,PHP,Perl,XML
+Databases:  MySQL, Oracle
+
+
+	ACADEMIC PROJECTS
+
+
+
+#1
+Project Title:  E– SHOPPING 
+Description:	The system is design for online shopping, to buy products online. The e-shopping will provide a greater accuracy and is less human errors. This Web application 
+Provides  logon facility to the users. It makes system more secure and authorized. It allows a customer to make a secure payment.
+Technology:   MVC Architecture
+		Front End: JSP, Servlet.
+            Back End:  Hibernate, MySQL.
+
+#2
+Project Title: 	SOCIETY MANAGEMENT SYSTEM
+Description:   Society Management System is to provide an easy way not only to automate all functionality of a Society Management, but also to provide full functional reports to top management System is used for maintaining the information for each and every member . Each and every member has own personal details.
+Technology:   
+		Front End: Java, Swing(Eclipse) .
+            Back End:  Oracle, (SqlDeveloper.)
+      
+
+CERTIFICATIONS
+
+1. Oracle Certified Associate: Java SE 7 Programmer
+2. Oracle Database 11g: SQL Fundamentals I
+3. ISTQB International Software Testing Qualification Board.
+                 
+EXTRA CURICULLAR ACTIVITIES
+
+· PK Technical Campus(State Level and Programming Contest).
+· Jetking(Computer Hardware Institute).
+· Bhartiya Sanskriti Gyan Pariksha(G.K).
+· Inter College(Cricket).
+
+LANGUAGES KNOWN
+
+· English, Hindi, Marathi.
+
+HOBBIES
+
+· Playing and Watching Cricket.
+
+PERSONAL PROFILE
+
+Name	     		:  Mr. Ravichand Sushil Vishwakarma
+Mother’s name	:  Mrs. Krishnavati Sushil Vishwakarma
+Date of birth		:  16th August  1994
+Gender		:  Male				 
+Nationality		:  Indian
+Permanent Address  :  Anand Nagar Apna chwal Bheram Bug New Linbk Rd
+			   Jogeshwari(w) Mumbai:400102
+Contact  No. 	            : 7208546453
+
+
+
+
+
+DECLARATION
+
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particulars.
+
+
+
+Place:   Mumbai	                                                                              Name:   RavichandVishwakarma
+

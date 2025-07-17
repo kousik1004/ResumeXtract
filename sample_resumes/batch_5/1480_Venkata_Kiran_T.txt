@@ -1,0 +1,280 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skill : SAP Technical consultant
+
+
+Venkata Kiran T
+
+
+
+
+
+         
+     Mobile No: +91-8867814137
+Java & Web Developer                  
+                     
+      E-mail: venkatakirantanniru.116@gmail.com
+
+Career Objective 
+· Seeking a challenging and outstanding position as a professional in a progressive growth oriented organization especially in the field of Java and Web Applications development and where I can utilize my skills to optimum in the interests of the company as well as to enhance my career.
+
+Experience Background
+· Having 4 years 10 months of experience in development of Java Applications. 
+· Working as Application Developer in IBM India Pvt. Ltd. Bangalore from October 2014 to till date.
+· Previously associated with Happiest minds Technologies as software engineer from Jan 2013 to Sept 2014. 
+Technical Expertise
+
+· Proficient in developing web applications using Java / J2EE technologies.
+· Expertise in development of Web applications using Struts and Spring frameworks.
+· Having good exposure in data bases like DB2 and MySQL.
+
+· Good experience on Java script and Angular JS.
+
+· Very Good Approach with Oops concepts.
+· Expertise in Collection Framework, Inheritance, Multithreading and Exception Handling. 
+
+· Strong programming skills in Core Java.
+· Team Player with Good Communication, Interpersonal and Leadership skills.
+
+· Excellent communication & Interpersonal skills with abilities in resolving complex issues. 
+
+Education Background
+
+· 2012 PG Diploma (Wireless and Mobile Computing) from C-DAC, Pune, Ministry of
+
+Communications and Information Technology with 66.24 % .
+· Bachelor of Technology (B.Tech) in Computer Science (CSE) with 71.89% Aggregate from Acharya Nagarjuna University, Andhra Pradesh.
+
+Technical Background
+
+
+
+Operating Systems
+
+:
+UNIX, Windows 
+
+Programming Languages
+:
+Java
+
+Frameworks
+
+
+:
+Struts and Spring
+
+IDE
+
+
+
+:
+Eclipse and Rational Eclipse
+
+Databases
+
+
+:
+MySQL and DB2
+Web Server 
+
+
+:
+Apache Tomcat 7.0
+Scripting Technologies
+
+:
+JavaScript and Angular JS 1.x
+
+Word Processing
+
+:
+MS-Word and MS-Excel
+
+Professional Experience
+
+1. End-to-End System
+Client
+
+:
+ AT & T
+
+Technologies
+:  
+Core Java, Springs 4.x, Spring JPA, Spring Boot 1.2 , Angular JS1.x, 
+
+   
+
+JavaScript, DB2, Html, Tomcat 7.0.
+
+Description
+:  
+
+
+
+End-to-end tool maintains the central repository of the employees in the organization. It has modules like user, admin and reports modules. As it's central repository of the employees, it maintains all information of the employees in organization level and account level. Tool contains the information from joining to leaving of the employees. Tool has a vast set of reporting features which is important for organization and account level needs.
+
+Contribution:
+
+
+· Involved in developing the core functionality of the report module of this project.
+· Developed the different types reports like management reports, project info reports, location reports, active employees’ reports, sme reports etc. 
+· Involved in creating rest api calls and web module.
+2.Get paid: 
+
+Client
+
+:  Henkel           
+
+Technologies
+: Core Java, Struts 2.x, JSP, SQL Server, JBOSS
+Description:
+
+GETPAID is a web based collections tool (runs on Henkel Intranet) which requires a secure log in ID and password.
+
+· GETPAID interfaces with SAP via a nightly extract for each of Henkel company (schema) codes. The data is imported from SAP system into GETPAID.  This is a ONEWAY system.  GETPAID will not send information back to SAP systems. 
+· GETPAID uses strategies established by manage to determine customer contact.  A strategy is a series of actions (when and how to contact the customer) used mention the collection process, i.e. calls, faxes, letters, etc.  There are pre-set time periods between each action.  
+· Different strategies have been developed based on customer risk category (collection types) and can be adjusted as needed
+
+Contribution:
+
+
+· Involved in developing the core functionality of the System Administration module of this project.
+· Involved in developing the collection activates module. 
+3.Customer Satisfaction Survey Tool: 
+Client
+
+:  AT&T           
+Technologies
+: Core Java, Struts 2.x, JSP, DB2
+Description:
+
+The Customer Satisfaction Survey (CSS) Tool provides a means to collect data related to customer interactions and to report on the data related to customer interactions. 
+The primary purpose of the Customer Satisfaction Survey is to assess IBMs performance in support of the ADM and EG outsourcing contracts.
+Utilizing feedback from the survey, IBM develops action plans to address specific areas of concern and leverage learnings from successful results.
+The IBM relationship owners will use the tool to document their Set - Met Meetings with the clients. The CSS Project Managers will use the tool to generate reports related to the Set - Met Meeting information.
+
+Contribution:
+
+
+· Involved in developing the core functionality of the Meeting and Report modules of this project.
+4.Scan & Go: 
+Client                              :  Toys R Us is the world’s leading dedicated toy and products retailer           
+
+Deployment Target    :  Android based devices.
+Front End Tool             :  Eclipse, ADT plugin
+
+Language Used            :  Java
+Techniques Used        :  Android SDK and Red Laser SDK.
+Android                       :   4.0 and above.
+Description:
+
+The application entails buying and storing of wish list of toys available in Toys R us 
+stores. It provides the user a feature to scan toys, which was implemented using red laser sdk.
+ Also user can edit and add toys to store accordingly. The app would also have an internet and 
+GPS check at the launch of the same.
+Key Features :
+
+· On Launch of this app checks for GPS and Internet Connections.
+
+· Provide feature of scanning of the Toys.
+· Edit & Add to the cart.
+
+· On Successful check out of the cart it will generate the single barcode .
+
+· Show the barcode at counter and proceed.
+Contribution:
+
+
+· Development of GUI and its functionalities.
+
+· Performance tuning and bug fixing.
+5.TRU Wish List : 
+
+Client                              : Toys R Us is the world’s leading dedicated toy and products retailer           
+
+Deployment Target    : Android based devices.
+Front End Tool             : Eclipse, ADT plugin
+
+Language Used           :  Java
+Techniques Used          : Android SDK and Red Laser SDK.
+Android                           : 4.0 and above.
+
+    Description:
+
+
+The official TRU Wish List android app helpful for buying the toys online. After parent
+(user) registration, the parent can add his/her children’s and lists. After that children’s can scan 
+the products through Red Laser SDK and adding the scanning products to wish list. This wish List 
+products we can upload into ToysRus site.
+Key Features :
+
+· Parent (user) Registration.
+
+· Adding single or multiple child’s for each parent.
+
+· Adding lists for each child.
+
+· Providing single child and multi child scanner for scanning products using Red Laser SDK.
+
+· Scanning the products using different scanners.
+
+· Adding scanning the products into wish list.
+
+· Upload the wish list products into Toys R us site.
+
+Contribution:
+
+· Development of GUI and its functionalities.
+
+· Performance tuning and bug fixing.
+Declaration
+I hereby declare that the above information is true to the best of my knowledge.
+
+Venkata Kiran T
+
+Bangalore.

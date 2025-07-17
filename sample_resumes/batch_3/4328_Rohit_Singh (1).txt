@@ -1,0 +1,260 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TECHNICAL CONSULTANT
+
+
+
+Oracle EBS HCM Techno Functional Consultant (4.8 Years)
+
+EMailId’s –  colrohit9712@gmail.com, rohit.singh747@gmail.com      
+Contact Number-      +91-9087499725,+91-8668846197
+Rohit Singh (Cognizant Technology Solutions)
+Oracle EBS Techno Functional Consultant (Total Exp -4.8 years).
+Profile Summary
+
+Oracle EBS/Fusion - HCM Techno Functional Consultant, having 4.8 years of IT experience in Oracle EBS R12 / 11i. Expertise in Oracle EBS HRMS-Core HR, Payroll, Absence Management, Oracle Advanced Benefit (OAB), Compensation Workbench (CWB) ,OTL and SSHR,MSS modules. Involved in developing EBS HCM Fast formula and a demo fusion HCM project in Core HR, HDL,OTBI Reports, Absence Management. Expertise in Developer suite Reports, EIS Reports, Oracle Workflow, AME, Oracle PL/SQL, Interface and XML publisher reports. Worked extensively in PL/SQL, well versed with RDBMS 11g/10g/9i. Have worked on couple of implementation project covering the technical and functional design documentation. Currently implementing a demo project in Oracle Fusion HCM Core HR, Payroll and absence management.
+Have been working over the last 4+ years with the major clients from The Middle East and USA.
+Professional Summary  
+
+· Well versed with Oracle XML Publisher,Eis Reports, Workflow,AME,API and Interfaces.
+
+· Comprehensively Involved in Development and Customization of RICEW Components and preparing Technical design document for the deliverables.
+
+· Good in Writing Packages, Stored Procedures, Views, Sequences, database triggers as well as PL/SQL advanced concept(Collections).
+· Good in writing EBS HCM Fast Formulas.
+
+· Involved in developing Interface through API and user hook validation.
+· Have been involved in debugging the PL/SQL packages in order to fix the bug for existing programs in Oracle advanced benefit and Compensation workbench module.
+
+· Have been involved in developing new functional component in HRMS R12 like fast formulas for Absence Management, Payroll and advanced benefit, setup creation for element and running payroll process.
+
+· Have worked on SCM(Order management) also have full flow knowledge on P2P and O2C Cycle.
+
+· Technical/Functional as well as learning knowledge exposure on Functionality flow of Oracle Fusion Core HR, Absence management, fast formulas, Value set and Lookups.
+
+Educational Qualification: Bachelor of Technology (Computer Science and Engineering).
+Skills Inventory:
+
+	ERP
+	Oracle Applications EBS R12 & 11i, Cloud HCM R12
+
+	ERP Module
+	Oracle Core HR,Payroll,OAB,CWB,SSHR,OTL,OM
+
+	Databases
+	Oracle 12c,11g,10g, 9i
+
+	Languages
+	SQL, PL/SQL 
+
+	Tools and Utilities
+	TOAD, SQL * Plus, SQL Developer, PL/SQL Developer, SQL Loader, Workflow Builder,PPM,MKS
+
+	Environments
+	UNIX, Windows Server2010
+
+	Reporting Tools
+	Oracle Report Builder,XML Publisher,EIS Report
+
+
+Major Projects:
+
+Client 
+:
+The TJX Companies INC. USA (Current Project)
+Project Title
+:
+GPS L3 Custom Component Enhancement and Support.
+Role 
+:
+HCM Techno Functional Consultant (Current Project).
+Modules
+:
+Oracle EBS R12.2.4 HRMS (Core HR,Payroll,OAB,CWB,SSHR,MSS) and Finance (AP,AR,GL) modules.
+Responsibilities: 
+
+· Custom Component Development, Enhancement and Bug fixes in the existing programs and Eis Reports.
+· Developed process document for technical design and custom objects code being used in Interface.
+
+· Prepared user manual documents for deployment of developed fast formulas.
+
+· Done Innovation on performance tuning and fix of a particular EIT calculation job, which was running more than 24 hours and now completing in 4 hours, received Spot awards for the same in organization.
+
+· Developed Multiple new fast formulas (Skip Rule,PTO,Allowances) from the scratch for Payroll as well as for the Oracle Advanced Benefit and CWB.
+
+· Completed Innovation on Rehire process for a Canadian business group.
+
+· New custom package development for the outbound interface in OAB.
+
+· Enhancement in existing EIS Report as well as new development of EIS Report.
+
+· Development of new custom AME Rules.
+· Developed new job for Rehire Issue using audit log information which creates files and send it to different DL’s (Mails).
+· Customization in workflow process for Hire/Rehire process (for all EU BG’s).
+· On call support for the scheduled jobs in Production and monitoring for total run time.
+
+· Responsible to migrate the code from one instance to other also to create LDT file for custom object deployment.
+
+Client
+
+:
+State General Reserve Fund, Ministry of Finance, Oman
+
+Project
+Title
+:
+Oracle HCM Implementation
+Role
+
+:
+HCM Techno Functional Consultant 
+
+Modules
+:
+HRMS Implementation and SCM Support for Order Management (OM).
+Responsibilities: 
+
+· Custom Reports Development, Data Migration development and Created MD70 documents for entire technical design and data flow design between different entities of interface, and handled workflow Issues.
+· Assisted in resolving issues, Development of Custom PL-SQL Package for Payroll Calculation.
+
+Reports:  SGRF Employee Joining Report, SGRF Employee Master Report, SGRF Payroll Pension Deduction Report, SGRF Payroll Reconciliation Details Report, Employee Dependent Report.
+Interface:  Annual Leave Public Holiday Implementation, Employee Position, Job Creation, Salary Proposal, Employee Address and Contact creation through API, Enhanced the BG Absence Fast Formula for Half Day leave, Formula Function for Pending Leave, SGRF -PO Interface API.
+Workflow & AME:  Customize the approval level and rules under AME setup for SIT Approval.
+Client
+
+: 
+Gulf Warehousing Company (GWC), QATAR
+Project
+Title
+:
+HCM Enhancements & Support
+Role
+
+:
+Technical Consultant
+
+Module
+s
+:
+HRMS - Core HR & Payroll,SCM-PO,INV,MRP.
+Responsibilities:
+
+· Custom Report development and Interfaced for HRMS - Position Creation, Assignment API, Eligibility criteria API and Customization of AME PO Approval Hierarchy.
+· Developed Payroll Packages and functions as per the client’s requirement, Data uploaded through API interface and Custom Reports development. 
+
+Interfaces:  Inventory Open Interface for Item Issue and Receipt, Leave Re-credit  Process For Annual Leave and Element Entry Creation attached with the Event Alert in OTL.
+Reports:  GWC Item Code Report, GWC OTL Report for Punch In and Out Time, GWC Pay Slip Report,GWC Salary Certificate Report, GWC Salary Assignment Report, GWC Inventory Transaction Report, GWC HR and Master Leave Detail Report.
+Client
+
+:
+Deyaar , UAE
+
+Project
+Title
+:
+Custom Component Enhancement.
+Role
+
+:
+Technical Consultant
+
+Module
+s
+:
+HRMS  Implemantion- Core HR & Payroll,SSHR.
+Responsibilities:
+
+· Gathered requirements from the client for the development of Core HR and Payroll Custom Report and API Calling for Element Entry and Link Creation.
+
+· Perform day-to-day User Support activities and provide solutions to issues and co coordinating activities with the analysts and team members
+Reports:   Deyaar End of Service XML Publisher Report, Deyaar Leave Encashment Report, Deyaar Loan Report, Deyaar Bank Cash Report, Deyaar Pay Slip Report , Deyaar Payout Report. 
+Interface:  Annual Leave Re-credit for Public Holiday, Element Link Creation and Updation for accounting and balancing, Enhanced existing Package for full Payroll setup.
+
+Fast Formulas:  Enhanced the existing Carry over fast formula, Sick plan fast formula.
+Client 
+:
+Areen East and West, Dubai
+Project Title
+:
+Custom Component Enhancement and Support.
+Role 
+:
+Technical Consultant
+
+Modules
+:
+Production Support for SCM(PO,OM) and Finance(AP,AR).
+
+Responsibilities: 
+
+· Custom Component like XM Publisher Reports Development and Data migration and conversion in Order Management.
+· Enhanced existing sales order creation custom program.
+· Created Invoice and payment of invoice through custom interface program using API.
+· Preparing the technical design document from the functional specification document.
+
+Reports, Interface: Areen Payout Details Report, Element Link API for Creation and updation, SSHR Reports, Areen  Invan Integration Sales Order - Inbound Program, Areen Muti Org Implementation for Sales Order - Outbound Program.Created the security profile setup for MultiOrg structure in R12.
+Total Experience – 4.8 Years (First 3.2 Years in 4I Apps Solutions Pvt. Ltd., Chennai and 1.6 Years in Cognizant Technology Solutions, Pune).
+Current Organization – Cognizant Technology Solutions, Pune. India.
+Current Location – Pune, India (Willing and flexible to move anywhere as business demands).
+
+I (Rohit Singh) hereby acknowledge and declares that above mentioned information are true/furnished to the best of my knowledge. 
+
+                                                                                                                                          Rohit Singh
+
+
+
+
+
+
+
+
+
+
+             Pune
+
+
+Page 5 of 5
+
+

@@ -1,0 +1,285 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+J. Hardik Naidu
+E-mail: hardik.j.naidu@gmail.com                                  
+
+
+                                  Mobile:  +91 9866737836, +91 8801731655
+Professional Summary:
+Work Experience of 5+ years in IT industry which involves various implementations and support roles mainly in SAP Business Objects.
+
+· Expertise on SAP BO 4.x and 3.x  versions.
+
+· Created BEx queries.
+
+· 6+  months of experience in SAP Lumira.
+· 6+  months of experience on Tableau
+· Experience of directly working and interacting with client.
+· Ability to adapt and work under critical project.
+
+· Ability to learn quickly and share knowledge amongst team.
+Experience Summary:
+
+· Working in Accenture Solutions Pvt. Ltd. from Jul-2015 to till date.
+
+· Worked in HCL Technologies Ltd from Jan-2012 to Jul-2015.
+Technical Skills:
+Reporting Tools
+
+ : SAP Business Objects  Tools BI 4.2, 4.1 and 3.2 , BEx Query Designer, 
+Visualization Tools
+
+ :  Tableau, SAP Lumira
+Database
+
+ 
+ : SAP BW, Oracle 11g,  SQL, Vertica, BPC Cubes
+Domain Knowledge
+ : Supply Chain Management and Travelling. 
+
+Educational Qualification: 
+B-Tech from JNTU Hyderabad in 2011.
+
+Achievements:
+
+· Received Delivery R&R Award for OND’12 quarter with HCL Technologies.
+
+· Received ACE Award for AMJ'16 quarter with Accenture.
+· Edureka certified as Tableau Desktop Qualified Associate
+Professional Experience:
+Company
+   : Accenture Services Pvt Ltd. (Jul-2016 – Till Present)
+
+Client
+   : Amadeus AO
+
+Duration   : Nov 2015 – Till present
+Role           : BO Developer
+Duration   : Nov - 2015  –  Sep - 2016
+· Creating complex reports using features like Drill capabilities, @Functions and Cross Tab tables with multiple breaks ,Sections
+
+· Scheduled & published the reports to end users using Publication 
+
+· Involved in presentations, end-user training, and documentation
+
+· Involved in gathering, analyzing, documenting business requirements, functional requirements and data specifications for Business Objects Universes and Reports
+
+· Developed universe from universe design specification document using UDT or IDT  and creating Universe specification document
+
+· Resolved loops and traps using alias and contexts
+
+· Extensively used aggregate awareness for better performance of the universe as well as reports
+
+· Extensively worked on converting reports from Deski to Webi Using RCT & manually.
+
+Role           : Senior Support Analyst 
+Duration   : Oct - 2016  – Mar -2017
+· Involved in platform upgrade from BO 4.1 to BO 4.2
+· Extensive use of CMC for support activities
+
+· Troubleshooting and resolving issues on WebI reports and universes.
+· Scheduled & published the reports to end users using Publication and client tool Allstats Report Engine (ARE)
+· Used Promotion Management to Promote Universe & Report from one environment to other
+· Enabled Monitoring application.
+· Enabled Platform Search application.
+
+· Automated the process of restarting the Tomcat and BO services using batch scripts or 360+ view tool.
+
+· Working on Continuous improvements to reduce the manual efforts using WebI reports.
+· Raised OSS tickets with SAP to resolve issues in the BO product.
+
+Role           : Senior Developer 
+
+Duration   : Apr - 2017  – Till present
+· Creation of visualizations using SAP Lumira.
+
+· Creation of visualizations using Tableau
+· Worked on the server sizing activity for SAP BI4 services.
+
+· Converting reports from Deski to Webi.
+· Working on enhancements on universes.
+
+Client
+   : Shell UBDV
+
+
+Duration   : July 2015 – Oct-2015
+
+Project & Assignment Description 
+MI Foundation Program kick-started in end of 2012 to deliver a new HANA based SAP Business Warehouse environment (PB7) which will eventually replace current 
+
+Blueprint MI Landscape (PB6). This new environment will be the basis for the user reporting development using latest BO suite with BICS technology (BI4.x) and 
+
+will serve as the foundation for the delivery of future upstream business improvements based on the SAP BW 7.4 on HANA platform.                                                           
+
+Roles and Responsibilities:
+
+· Created Web Intelligence Reports with BICS using Bex query.
+
+· Interacted Business Processing Analysts and design authority to understand/review the Functional Specifications.
+
+· Created OLAP connection in Central Management Console.
+
+· Involved in ITC and UAT defect fix.
+
+· Performed Data analysis in Business Objects reports with RSRT in BW.
+
+· Trained end users on WebI tool to personalize reports.
+
+· BO focal on managing the BO content go live to production.
+
+· Prepared Technical design specifications for use cases(deliverables)
+
+Company
+:   HCL Axon (Jan-2012 – Jul-2015)
+
+Client
+:  Fonterra
+
+Duration
+:  October 2012 – Jul-2015
+1. Project :
+VSO
+Responsibilities:
+
+· Data-Modeling, Data Extraction, Data Loading, Scheduling, Monitoring
+
+· Creating BEx queries with Filters, Variables, Structures, Restricted Key Figures, Calculated Key Figures, Conditions, Exceptions
+
+· Creating Web Intelligence reports using BI Launch pad.
+
+· Applying drill down, conditional formatting.
+
+· Inserting charts and cross tabs.
+
+· Formatting the report at standard level.
+
+2. Project : Delegated Authority Reporting
+
+Responsibilities:
+
+· Creating BEx reports using filters, variables and conditions. 
+· Creating Universe, Web Intelligence reports and Crystal reports.
+
+· Creating charts, conditional formatting.
+
+· Formatting the report at standard level.
+
+· Working on access levels.
+
+· Supporting the reports before handing over to the support.
+
+3. Project : Business Objects BAU Support
+
+Responsibilities:
+
+· Resolving issues faced by users in reports and universe.
+
+· Providing access to user.
+
+· Deploying reports and universes between Dev, Quality and Production environment.
+
+· Working on ad-hoc requests raised by the user.
+
+· Involved in migration of reports and universes from BO3.1 to BO4.0 using UMT.
+· Scheduling of reports with calendars as per user requests.
+
+· Managing and monitoring of servers.
+
+· Worked on Performance tuning of reports for which we were appreciated by the client for this activity.
+
+Client
+:  DPSG
+Duration
+:  April 2012 – September 2012 
+
+1. Project
+: Data Quality Reporting
+Responsibilities:
+
+· Creating universe with Oracle as database.
+
+· Creating Web Intelligence reports using the Infoviews.
+· Applying prompts and cascading LOV’s from universe level.
+
+· Applying drill down, charts and necessary filters at report level.
+
+· Formatting the report at standard level.
+
+· Working on access levels.
+
+· Supporting the universe and reports before handing over to the support.
+2. Project
+: AME Sales 
+Responsibilities:
+· Creating universe with Oracle as database.
+
+· Creating Web Intelligence reports using the Infoviews.
+
+· Applying prompts, filters and row level restrictions from universe level.
+
+· Applying cross-tabs, calculation context and necessary filters at report level.
+
+· Formatting the report at standard level.
+
+· Working on access levels.
+
+· Supporting the universe and reports before handing over to the support.
+
+Personal profile:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+         Name                                   :   J. Hardik Naidu
+         Father name                       :   B. Janak Raj Naidu
+         Date of birth                       :   01-05-1990
+         Sex                                        :   Male
+
+         Marital status                     :   Unmarried
+
+ Declaration:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ I hereby declare that the above information is true and correct to the best of my knowledge.
+
+ - J. Hardik Naidu

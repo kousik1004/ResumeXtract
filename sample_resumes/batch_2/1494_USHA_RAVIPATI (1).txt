@@ -1,0 +1,148 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USER
+
+USHA RAVIPATI
+E-Mail: usha.ravipati99@gmail.com
+Mobile: +91- 9640695122
+Achievement-driven professional, targeting assignments in Database Development with IT industry with an organisation of repute 
+
+Location Preference: Hyderabad
+
+	Key Skills
+
+PL/SQL  Development
+Troubleshooting
+Performance Tuning 
+Requirement Analysis
+Coding & Development
+Maintenance
+Implementation
+
+	
+	Profile Summary
+· B.Tech. (Electronics & Communication) Professional with over 4 years of rich experience in development, implementation and maintenance of Oracle SQL & PL/SQL Applications 
+· Expertise in defining requirements, performance tuning of applications, managing software systems 
+· Developed, optimized and tested Oracle projects
+· Steered efforts in working on Oracle DUMP utilities like Export and Import; experienced in using external table feature to access external files
+· Skilled in working with Flat files and Control files
+· Created database tables, indexes, triggers, collections, views, MViews, functions/procedures, packages & cursors, objects, synonyms, sequences, and DBMS operations
+· Hands-on experience in managing complex database objects such as Stored Procedures, Functions, Packages & Triggers using SQL & PL/SQL
+· Capable of identifying and resolving bug/issues related to database performance and providing corrective measures
+· A forward thinking person with strong communication and analytical  skills; well organized with a track record that demonstrates self-motivation & creativity to achieve corporate & personal goals 
+
+
+
+organisational experience
+Nov’16-Present with Liquidhub, Hyderabad as PL/SQL Consultant
+Key Result Areas:
+· Optimizing SQL queries, stored procedures to improve the performance time
+· Spearheading activities like Bulk collect, Bulk bind Operators and Collections
+· Played a key role in migrating the application from html code to java based GUI
+· Creating and managing database objects like tables, indexes, synonyms, users,  roles and privileges 
+· Monitoring the database and maintaining oracle jobs
+· Performing quality assurance and testing in TOAD environment
+· Delivering support on information technology to design, develop, execute, and maintain the Database Application Systems
+Highlights:
+· Engaged in all phases of the SDLC (Software Development Lifecycle) from analysis, development, testing, implementation and maintenance with timely delivery against aggressive deadlines
+· Bagged ‘Pat On The Back’ award in April 2018 for configuring the project from scratch
+· Received appreciation from senior management for meeting the projects deadlines
+· Ensured the modification & implementation activities were met within the scheduled timelines
+
+Organisational Project
+Project Name:	LA (Liquid Analytics)
+Client Name:	Intercept
+Environment:	Oracle, PL/SQL, SQL, UNIX, TOAD, INFORMATICA 
+Period:		Nov'16 –Present
+Role:
+· Managing code in PL/SQL & UNIX whenever required as per business or application requirements
+· Optimizing PL/SQL code to fix performance issues
+· Working with the Architecture Team in case of any business related changes and actively participating in the meetings
+· Responding to calls raised by clients; investigating & analysing client reported issues; conducting defect fixing & code reviews
+· Developing and testing the code changes and generating the test report
+· Actively interacting and coordinating with the team for any issues like code change, running ops jobs and so on
+
+Sep’13- Feb’15 with Hewlett Packard Global Software Ltd. (KPIT), Bangalore as Software Engineer
+Project Name:	Patsy
+Client Name:	Company Level
+Team Size:	6
+Environment:	Oracle, PL/SQL, SQL, UNIX, TOAD, HP UX, Tidal 
+Period:		Oct’13 – Feb’15
+Description:	PATSY (Purchase Agreement Tracking System) is database calculates the discount for products based on purchase agreements, the upstream sent the data for discount calculation and PATSY provided the particular discount pertaining to the agreements provided, there are many downstream’s for which PATSY is provided the discount data, and the local price of a product was calculated based on the discount provided for the product.
+Projects Delivered:
+· On-boarding ITES									Jun’14 –Feb’15
+Federal government has contracts with HP to supply products and these products needed to be compliance with their manufacturing country and the whole process was automated to copy all the products from existing exhibits and copy the same products to destination exhibits.
+· Autopopulation						  			Oct’13 – Jun’14
+Exhibit is the discount building block and group of products associated to Exhibit and the Exhibit is associated to multiple agreements by which discount was assigned. Exhibit will again have a category by which the discount percentage will vary. As part of new requirement, copied all the products from Exhibit to another exhibit by giving different discounts.
+Role: 
+· Created database objects like Packages, Procedures, Functions, Triggers, Cursors, Ref Cursors, SQL Loader scripts, ad hoc Procedures for fixes and monitored jobs using Tidal
+· Provided resolution for tickets and business reports using discoverer tool
+· Developed SQL scripts for data upload from flat files to database tables or transferred the data from one database to another database based on the mapping rules, SQL Loader scripts and extractions as per the business standards
+· Worked on Tuning of the SQL queries and scripts PL/SQL Objects
+
+Previous Experience
+Jun’11-Sep’13 with Logica CMG now part of CGI, Bangalore as Oracle Programmer
+
+Academic Details
+                   B.Tech. in Electronics & Communication from Godavari Institute of Engineering and Technology, Rajahmundry, JNTU, Kakinada; secured 72%
+
+
+
+IT Skills
+
+Operating Systems:	 Windows XP/9x/2000/NT, UNIX
+RDBMS:		 Oracle 8i/9i/10g
+Languages:		 SQL, PL/SQL
+Other DB Tools:	 Toad, SQL * Loader, Informatica
+
+Personal Details
+Languages Known: 	Telugu and English 
+Address: 		AVL Akruthi Apartments, Malikonda, Hyderabad- 500089, Karnataka

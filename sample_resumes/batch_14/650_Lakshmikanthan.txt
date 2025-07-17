@@ -1,0 +1,262 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lakshmikanthan.G
+ S/o,  B.Gajapathy,
+# 15/27, Kumaran Nagar 3rd Street,
+Kaladipet, Thiruvottiyur,					     	Mobile No:  9840088769
+Chennai – 600019.							Email: Lakshmikanthan2211@gmail.com
+           
+
+CARRIER OBJECTIVE
+
+To achieve greater heights in the software field by my skills and abilities along with the company’s growth and to achieve the finest knowledge in technology and become expert in that with parallel learning to handle the highly motivated team to work as a key player in challenging & creative environment.
+
+SKILLS SET
+
+	Programming Languages
+	PL/SQL (Oracle 11g), Finacle Scripting (Owned by Infosys). Shell scripting (Basic level)
+
+	Web Technologies
+	HTML, JSP, JAVA SCRIPT.
+
+	IDE, Editor Tools
+	Oracle SQL Developer, TOAD, Eclipse, Custom Work Bench, Finacle Scripting Studio.
+
+	Operating System
+	 HP-Unix, Windows 2003/Windows7.
+
+	Version Control Tools
+	Microsoft TFS and SVN
+
+	Report Tools
+	Jasper Reports 2.0.5
+
+
+
+SUMMARY OF EXPERIENCE
+
+· Having 5.2 Years of experience in Development, Implementation, Testing in Core Banking Application (FINACLE® - Core Banking Solution by Infosys Technologies Ltd).
+· Good knowledge in banking fundamentals.
+· Good knowledge in PL/SQL, JavaScript, UNIX, Finacle Script.
+· Substantial development experience in creating stored procedures, PL/SQL Packages, Triggers, Functions, Oracle cursor management and exception handling.
+· Strong knowledge in report generation using jasper design tool.
+· Strong knowledge in migration and customization of core banking product Finacle (7.x/10.x versions).
+· Excellent team player and proven track record working in various team sizes performing cross-functional roles.
+PROFESSIONAL EXPERIENCE
+	Company Name
+	Location
+	Duration
+	Role
+
+	Accel Frontline
+Pvt. Ltd.
+	54, Greams Road, Thousand lights, Chennai- 600006.
+	Aug 2013 to Apr 2016
+	Software Engineer
+
+	Indusind Bank Ltd.
+	A2 Phase 3, Thiru vi ka industrial estate, Guindy,
+ Chennai- 600032.
+	Apr 2016 to Till Date
+	Analyst Programmer
+
+
+
+PROJECT SUMMARY
+	S. No
+	Project Title
+	Technology
+	My Role
+	Client
+
+	1
+	IndusInd Bank 
+customization
+	Oracle
+FINACLE 10.2.15
+	 Developer
+	IndusInd Bank, Mumbai.
+
+	2
+	South Indian Bank 
+Migration and customization
+	Oracle
+FINACLE 10.2.15
+	 Developer
+	SIB, Cochin.
+
+	3
+	Federal Bank 
+Migration and customization
+	Oracle
+FINACLE  10.2.15
+	Developer
+	Federal Bank, Aluva.
+
+	4
+	Industrial Bank of Kuwait
+customization
+	Oracle
+FINACLE  10.2.15
+	Developer
+	IBK, Kuwait.
+
+
+
+PROJECTS DETAILS
+IndusInd Bank Customization
+Client:		IndusInd Bank, Mumbai
+Team Size:	15
+My Role:	Developer
+Duration:	April 2016 – Till date
+
+My Responsibilities:
+· Responsible for requirements gathering from Solution delivery group and implement logic in the core banking product.
+· Conversion of functional requirements into approach document as per the business standards.
+· Developed oracle PL/SQL Packages, procedures, Functions and various SQL queries to facilitate the functionality for various modules in banking.
+· Extensively worked in SQL Query performance tuning and created database objects like Tables, Views Indexes, Synonyms and Sequences which are used in finacle scripting and report generation.
+· Worked in data upload using SQL Loader and control file to upload testing data in respective module tables.
+· Development of cron job for various modules which run in backend on bank’s EOD and BOD process.
+· Development of API to Store data in Finacle database which is sent from other applications.
+· Development of custom menus and reports for various modules.
+· Designed reports using Jasper designing tool which generated report in PDF, EXCEL and TXT format.
+· Incorporation of Change request requirement in an existing logic.
+· Analyze the existing code and do the impact analysis.
+· Provided UAT and live support.
+· Taking backup of UAT sources file on weekly basis.
+· Maintaining approach, change request and patch deployment document versions in TFS.
+
+South Indian Bank Migration and Customization.
+
+Client:		South Indian Bank, Kakkanad, Cochin
+Team Size:	16
+My Role:	Developer 
+Duration:	Mar 2015 – April 2016
+My Responsibilities:
+· Responsible for migration of code and data to achieve the upgradation from Finacle 7x version to 10.2.15 version.
+· Developed PL/SQL Packages, Procedures and Corn job for integrating third party software with core.
+· Data upload for customization by using SQL LOADER utilities.
+· Developed custom menu to view report based on the desired input provided by end user.
+· EOD-BOD customization support.
+· Responsible for fixing onsite issues from offshore.
+
+Federal Bank Migration and Customization.
+
+Client:		Federal Bank, Aluva
+Team Size:	26
+My Role:	Developer
+Duration:	Nov 2014 to Mar 2015
+My Responsibilities:
+· Responsible for migration of code and data to achieve the upgradation from Finacle 7x version to 10.2.15 version.
+· Responsible for live data migration activity.
+· To adopt controlled time of migration activity on Project Go live day.
+· Responsible for documentation of issues which are faced during the code and data migration activity.
+
+IBK Customization
+
+Client:	 	Industrial Bank of Kuwait
+Team Size:	30
+My Role:	Developer
+Duration:	Sep 2013 to Nov 2014
+My Responsibilities:
+· Client Interaction and Requirement Analysis.
+· Development of PL/SQL Packages, Procedures, Functions for report generation.
+· Designing Reports using jasper design tool.
+· Finacle customization and new custom menu development for various module and integrating it in existing product.
+· Worked on CR Raised from the end user.
+· Responsible for fixing onsite issues from offshore.
+
+EDUCATION SUMMARY
+	Year
+	Name of the Institution
+	Board/University
+	Percentage
+
+	2012
+
+	Srinivasa institute of engineering & Technology, poonamallee,Chennai.
+	BE-Computer Science
+	65.1
+
+	2009
+
+	Murugappa polytechnic College, Avadi, Chennai.
+	Diploma-Computer Science
+	80
+
+	2006
+
+	Chennai port & Dock educational trust Higher Secondary school, Tondiarpet, Chennai.
+	SSLC
+	57.5
+
+	2004
+
+	Chennai port & Dock educational trust Higher Secondary school, Tondiarpet, Chennai.
+	HSC
+	80
+
+
+
+PERSONAL DETAILS
+
+Nationality                  :     Indian
+Marital Status             :     Single
+Gender                         :     Male
+DOB                              :     22 Nov 1988
+Languages                   :     Tamil,English 
+
+Declaration
+       I hereby declare that all the above furnished details are true to the best of my knowledge and belief. 
+
+
+
+     Place: Chennai
+     Date:								                        	(Lakshmikanthan G)

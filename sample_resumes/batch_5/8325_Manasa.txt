@@ -1,0 +1,441 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CV Template
+
+Resume
+
+               Manasa
+
+Manasa Bezawada
+Infosys
+Email: manasas2008@gmail.com
+Phone: - +91- 8197400642
+EXPERIENCE SUMMARY
+
+· 6 Years and 5 months of experience in Data ware housing tools – SAP Business Objects and Cognos. 
+
+· Professional in Business Objects 4.0, Business Objects 3.1, Cognos 10.0 with databases Oracle and SQL Server 2008.
+
+· Domain Knowledge of Manufacturing and Transportation.
+· Worked on complete Software Development Life Cycle which includes Design, Development, Migration, Test and Implementation phases.
+· Worked on below modules in SAP Business Objects 4.0
+ Information Design Tool (IDT)
+
+ Interactive Desktop Analysis (IDA) –Web Intelligence
+
+ Advanced Analysis – Office and Web versions
+ Central Management Console (CMC)
+
+ BI Launch pad
+· Worked on below modules in SAP Business Objects 3.1
+· Universe Designer
+
+· Web Intelligence
+
+· Info view
+
+· Desktop Intelligence
+
+· Import Wizard
+
+· Central Management Console(CMC)
+
+· Worked on below modules in Cognos 10.0
+
+ Report Studio
+
+ Framework Manager
+
+ Configuration Management
+· Knowledge on Dashboard Design Tool (Xcelsius).
+· Trained on Tableau 10.1
+PROFESSIONAL EXPERIENCE
+
+	Dates
+	Organization
+	Location
+
+	Apr 2012 - Till Date
+	Infosys
+	Bangalore
+
+	May 2011 – Mar 2012
+	IBM
+	Bangalore
+
+
+EDUCATION
+	Degree
+	University/Institute
+	Percentage
+
+	B.Tech [Electronics and Communications]
+	J.N.T.U
+	64.8
+
+	Inter
+	Board of Intermediate
+	84
+
+	A.I.S.S.E
+	Board of S.S.C
+	87
+
+
+PROFESSINAL MEMBERSHIPS/ CERTIFICATIONS 
+
+	Received SPOT Award  [Infosys – Toshiba Project]
+
+	Received SPOT Award  [Infosys – VeriFone Project]
+
+	Received many appreciations from high management and clients for BOIENG ESTAS successful delivery.
+
+	Received many appreciations from high management and clients for TOSHIBA BI Project successful delivery.
+
+
+ASSIGNMENTS
+
+The details of the various assignments that I have handled are listed here, in chronological order.
+Infosys Ltd, Since April 2012 to till date
+	Professional Society / Certification
+	Member Since / Date Certified
+
+	Project Title
+	Toshiba BI Upgrade Project
+
+	Client Name
+	Toshiba
+
+	Period
+
+	Mar 2017  – Till Date
+
+	Description
+	Toshiba has planned to upgrade its BO 4.0 to BO 4.2 version along with BODS data filteration. As part of BO migration engagement the impact on the current BO Universes and BO reports has to be analysed. This will followed by in-depth testing to ensure their seamless usage as before.
+
+	Role
+	Team Member
+
+	Responsibilities
+	· Working closely with Onsite coordinators/PM to produce migration activities and test cases.
+· Responsible for WebI reports and universe migration from 4.0 to 4.2 , using promotion management.
+
+· Responsible for integrity check of universes after migration, testing of reports after data filtration and migration.
+
+· Providing KT to team how to proceed report testing after migration.
+· Involved in creating test cases and test results.
+
+· Created BIAR files for the universes.
+
+	Solution Environment
+	SAP BO 4.0, SAP BO 4.2,  Oracle
+
+	Project Location
+	Bangalore/Hyderabad/Chennai/USA
+
+	Awards
+	Received Spot Award
+
+
+	Professional Society / Certification
+	Member Since / Date Certified
+
+	Project Title
+	VeriFone BI Retro fitment Project
+
+	Client Name
+	VeriFone
+
+	Period
+
+	June 2016  – Feb 2017
+
+	Description
+	VeriFone has planned to upgrade its Oracle EBS 11.x to R12 version. As part of BO Retro-fitment engagement the impact on the current BO Universes and BO reports has to be analysed. This will enable the redesign of the BO entities followed by in-depth testing to ensure their seamless usage as before.
+
+	Role
+	Developer
+
+	Responsibilities
+	· Analyse the tables and attributes which are going to impact in the new R12 database after the up gradation from R11 Database. 
+
+· Created the Impact Analysis document for the list of tables and attributes for Universes. 
+
+· Valuable contribution on Technical Specification document for the complete list of tables for retrofitting the universes and corresponding reports.
+
+· Prepared Impact Analysis document for Deski Reports using Xpress Tool along with the list of table names to be retrofitted.
+
+· Retrofitting the Universes with all the necessary retrofitment changes. 
+
+· Retrofitting the Deski reports and testing with the related connections.
+
+· Created BIAR files for the universes and Deski reports.
+
+	Solution Environment
+	SAP BO 3.1, Universe Designer,  Toad 11.6
+
+	Project Location
+	Bangalore/Hyderabad/Pune/USA
+
+	Awards
+	Received Spot Award
+
+
+	Project Title
+	Atlas Copco ACT Project
+
+	Client Name
+	Atlas Copco
+
+	Period
+
+	Jan 2015  – May 2016
+
+	Description
+	Atlas Copco is a world-leading provider of sustainable productivity solutions. 
+
+The Group serves customers with innovative compressors, vacuum solutions and air treatment systems, construction and mining equipment, power tools and assembly systems. Atlas Copco develops products and service focused on productivity, energy efficiency and safety. 
+
+	Role
+	Developer
+
+	Responsibilities
+	· Involved in creating reports Design Documents.
+
+· Creating connections between BW system and Business Objects using IDT.
+
+· Developed the reports using the BEX query.
+
+· Developed Web Intelligence Reports using advanced BO features like Document Links, Element Links, Input Controls, Report filters using BI Launch Pad (Info view).
+
+· Created Formulas, Variables, Conditional Formatting, and various types of Charts (Combined charts, Bubble Charts...) etc.
+
+· Published Reports to Business Objects Repository [BI Launchpad].
+
+· Involved in testing, performance tuning and troubleshooting the errors while developing the reports and reduced the complications of report delivery.
+
+· Migrated the reports from development to Quality, Quality to production environments using Promotion Management in CMC.
+
+· Scheduled webi reports to different users as per requirements.
+
+· Successfully handled minor enhancements in Dashboards using Dashboard Designer tool.
+
+· Linked Dashboards and Webi reports by passing parameters through Open Doc.
+
+· Published Dashboards to SAP Portal and Business Objects Repository
+
+· Created the reports in SAP OLAP workspace analysis tool.
+
+	Solution Environment
+	SAP BO 4.0, Dashboard Designer,  SAP OLAP Workspace Analysis  Tool, BEX Query (SAP BW), Windows 7
+
+	Project Location
+	Bangalore/Germany
+
+	Project Title
+	ESATS Rewriting
+
+	Client Name
+	BOEING
+
+	Period
+
+	July 2014 – Dec 2014
+
+	Description
+	Boeing is the world's leading aerospace company and the largest manufacturer of commercial jetliners and military aircraft. Additionally, Boeing designs and manufactures electronic and defence systems, missiles, satellites and advanced information and communication systems. 
+
+The objective of the Enterprise Systems Architecture Tool Suite (ESATS) project is to remodel the entire ESATS Standard and application BI Package based on Cognos best practices to provide the business users and stake holders the flexibility to create Ad-Hoc reports on products, Product versions, Standard Category and Software Module.
+
+	Role
+	Developer
+
+	Responsibilities
+	· Analyse the ESTAS reports with old data model and rewrite the reports by using new data model.
+
+· Involved in peer review of Initial Design Document prepared by other team members.
+
+· Created packages to extract data by using framework manager.
+· Developed the reports by using Functions, Prompts and Calculations.
+
+· Written SQL queries for Data validation across Cognos reports data.
+
+· Implement the reports in production environment.
+
+	Solution Environment
+	Cognos 10.0, Framework Manager, SQL Server 2008, Windows 7
+
+	Project Location
+	Bangalore/ U.S.A
+
+
+	Project Title
+	EASource Reports
+
+	Client Name
+	BOEING
+
+	Period
+
+	Jan 2014 – June 2014
+
+	Description
+	Boeing is the world's leading aerospace company and the largest manufacturer of commercial jetliners and military aircraft. Additionally, Boeing designs and manufactures electronic and defence systems, missiles, satellites and advanced information and communication systems. 
+
+The objective of this project is to deliver an EA Source Data Warehouse that integrates data from authoritative sources and a Business Intelligence portal that will provide information to facilitate effective business decisions. This BI portal will also have ad-hoc, canned report and Dashboard metrics capability.
+
+	Role
+	Developer
+
+	Responsibilities
+	· Involved in creating reports Design Documents.
+
+· Involved in peer review of reports Design Document prepared by other team members.
+
+· Developed the reports as per the requirements and design documents with in the time.
+
+· Created unit test cases and standard templates for Boeing reports.
+
+· Written SQL queries for Data validation across Cognos reports data.
+
+· Successfully handled issues and minor enhancements with the expectations in the report development and maintenance.
+
+	Solution Environment
+	Cognos 10.0, Framework Manager, SQL Server 2008, Windows 7
+
+	Project Location
+	Bangalore/ U.S.A
+
+
+	Project Title
+	Syngenta
+
+	Client Name
+	Syngenta
+
+	Period
+
+	Apr 2012  – Dec 2013
+
+	Description
+	Syngenta provide products and solutions to help farmers achieve global food security for a growing population, sustainably. Syngenta work by looking at agriculture through the eyes of growers, and by applying world-class science to develop crop protection products and seeds.
+
+Syngenta innovations help farmers to overcome multiple challenges – from weeds, insects and disease, to the effects of heat and cold on crops. Whether they grow corn or rice, vegetables or coffee, farmers around the world trust Syngenta to help them produce healthy, premium crops and minimize the use of precious natural resources.
+
+	Role
+	Developer
+
+	Responsibilities
+	· Involved in creating reports Design Documents.
+
+· Creating connections between BW system and Business Objects using IDT.
+
+· Developed the reports using the BEX query.
+
+· Developed Web Intelligence Reports using advanced BO features like Document Links, Element Links, Input Controls.
+
+· Created Formulas, Variables, Conditional Formatting, and various types of Charts (Combined charts, Bubble Charts...) etc.
+
+· Published Reports to Business Objects Repository [BI Launchpad].
+
+· Involved in testing, performance tuning and troubleshooting the errors while developing the reports and reduced the complications of report delivery.
+
+· Migrated the reports from development to Quality, Quality to production environments using Promotion Management in CMC.
+
+· Scheduled webi reports to different users as per requirements.
+
+· Linked Dashboards and Webi reports by passing parameters through Open Doc.
+
+· Published Dashboards to SAP Portal and Business Objects Repository
+
+· Created the reports in SAP OLAP workspace analysis tool.
+
+	Solution Environment
+	SAP BO 4.0, Dashboard Designer,  SAP OLAP Workspace Analysis  Tool, BEX Query (SAP BW), Windows 7
+
+	Project Location
+	Bangalore/Switzerland
+
+
+IBM, Since May 2011 to Mar 2012
+	Project Title
+	Canadian Pacific Railways Project
+
+	Client Name
+	Canadian Pacific Railways
+
+	Period
+	May – 2011 to Mar - 2012
+
+	Description
+	Canadian Pacific Railway was founded in 1881 to physically unite Canada and Canadians from coast to coast. 
+
+This is the Canada's second largest company. CPR's network extends from the Canada's West to the Canada's East, and to the U.S. industrial centres of Chicago, Washington and New York cities.
+
+	Role
+	Team Member
+
+	Responsibilities
+	· Monitored critical reports in Instance Manager in CMC, found out the route cause whenever jobs fail and rerun the jobs.
+
+· Monitored Servers in Server Management in CMC.
+
+· Monitored Servers in CCM and Restart servers whenever required.
+
+· Successfully handled jobs monitoring, servers monitoring and maintenance.
+
+· Involved in Universe enhancements.
+
+· Involved in reports enhancements.
+
+	Solution Environment
+	SAP BO 3.1,Unierse Designer, Windows XP
+
+	Project Location
+	Bangalore/Canada
+
+
+Page 8 of 7
+

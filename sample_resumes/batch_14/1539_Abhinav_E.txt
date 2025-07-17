@@ -1,0 +1,293 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abhinav E 
+
+
+
+
+
+
+
+ 
+    Voice : +91-8600991158
+​​​​​​​​​ SAP BW/BI/HANA CONSULTANT               
+
+
+
+      E-Mail: abhinavbw@gmail.com
+SUMMARY:
+
+· Having 6 years of IT experience and 4.7 years of relevant SAP BW/HANA experience in the leading IT Organizations and at client place.
+· Quick learner, willing to accept new challenges which allow me to expand my skill set.
+SAP BW/HANA:
+
+· Expertise in Data Modeling Techniques like Info Cubes, Data staging objects, Transformations, DTPs, Data Marts, Info Packages, Multi providers and Installation of Business content objects.
+· Expertise in designing BEX with Structures, Free Characteristics, Filters, Formulas, Calculated Key Figures, n Restricted Key Figures, Conditions, Variables, Exceptions, and Workbooks.
+
+· Experience in data extraction from flat files and SAP ECC.
+· BW configuration, ETL background and InfoCubes design, Performance and tuning, strong on End to End BW Configurations and Customizations from Extraction, Staging, Loading, Transport, and Reporting through BEx Analyzer, and Performance.
+
+· Worked on Data Modeling, Data Provisioning, Reporting aspects of SAP HANA
+· Importing data from flat file and SAP BW to HANA
+· Experience working on HANA Enterprise Modeling including Attribute Views, Analytical Views, Calculation Views, Analytical Privileges.
+
+· Excellent knowledge on: HANA Optimized Info Cubes, LSA++, HANA Optimized DSO's, Transient, Composite, Hybrid Providers, Publishing HANA Model in SAP BW, Import SAP Net Weaver BW Model to HANA.
+· Trained CERTIFICATION course on SAP BW 7.4onHANA “E_HANABW141” by SAP and Holding SAP CERTIFICATION “C_HANAIMP151”. 
+
+Education:
+· B.Tech (ECE) from JNTU Hyderabad in 2010.
+PROFESSIONAL SUMMARY:
+
+· Working as Senior Software Engineer with HCL from February 2016 to till date.
+· Worked as Senior Software Engineer with IGATE GLOBAL SOLUTION LTD from March 2014 to January 2016.
+
+· Worked as Associate Software Engineer with INCRESOL SOFTWARE SERVICES from March 2013 to March 2014.
+professional PROJECT experience
+
+Project #5 (June 2017 to Till Date)
+
+	Client 
+	Ann Taylor (Implementation & Support  project)
+
+	Role
+	SAP BW Consultant.
+
+	Organization
+	HCL, Chennai/Hyderabad
+
+
+Responsibilities:
+
+
+· Daily monitoring of Process chains for Master Data and Transactional Data. Actively
+
+And regularly involved in Load Monitoring of Daily, weekly, and Monthly, Data Loads using
+
+Process chains.
+
+· Experience in handling Redwood monitoring tool. 
+
+· Created queries using Query Designer involving Calculated and Restricted KFs, different Variables, formulae, Conditions, Exceptions Filters etc.
+
+· Support involves monitoring the loads and handling of continuous improvement requests. Cross Verifying and ensuring the daily data load as per the checklist for ensuring proper data  is uploaded
+
+· Checking the daily time schedule for the run & ensuring that the jobs are finished within specified timelines.
+· Uploading the data to BW through 3rd party server and flat file.
+
+· Involved in creating Enhancement for Data sources.
+
+· Manually triggering the Webi reports.
+· Worked on SPO
+· Worked on Open hub destination.
+
+Project #4 (February 2016 to May 2017)
+
+	Client 
+	BBC(Implementation & Support  project)
+
+	Role
+	SAP BW Consultant.
+
+	Organization
+	HCL, Chennai
+
+
+Responsibilities:
+
+· Responsible for UAT & Interacting as well training the end-users in client place.
+
+· Cut-over activities – Responsible for getting the UAT for the changes mentioned as per enhancement and also for the new objects to get transported to production system and also the drop and reload activities.
+· Worked on BPS.
+
+· Setting the parameter and handling the control table for loading the planning data.
+· Involved in solving High-prioritized tickets regarding extractions, Performance Issues and also load failures. 
+· Created new reports, RKF and CKF to meet the business requirement.
+
+· Development on new queries and web templates.
+
+· Created multi providers to meet the reporting needs of users.
+
+· Reconciliation between SAP BW and SAP ECC
+· Scheduling and Monitoring of Info packages and analyzing the reasons for frequent failures of Info packages
+· Daily monitoring of Process chains for Master Data and Transactional Data. Actively and regularly             involved in Load Monitoring of Daily, weekly, and Monthly, Data Loads using Process Chains. 
+· Clock change activity, scheduling and re-scheduling the process chain.
+
+· Uploading the data through flat file source system for payroll. 
+
+· Working on Currency Conversion (document currency to group currency). 
+
+· Involved in creating Enhancement for Master Data sources. 
+
+Project #3 (March 2014 to January 2016)
+
+	Client 
+	Mosaic(Implementation & Support  project)
+
+	Role
+	SAP BW/HANA Consultant.
+
+	Organization
+	IGATE GLOBAL SOLUTION LTD, Pune.
+
+
+Responsibilities:
+
+· Priority tickets handling and responsible for the resolution within the SLA.
+· Worked on the BW Landscape Data Flow Analysis for AGATE Project.
+
+· Documented the BW server sizing.
+
+· Triggering manually and responsible for the Process chains in New BW system.
+
+· Monitor the chains and fixed the errors with in time.
+
+· Fixed number of ODS activation errors.
+
+· Preparing Technical Documents for Change Requests and New Requirements.
+· Giving demo to the end-users about the newly developed BI Reports.
+· Worked on Quick-sizer.
+
+· Created Info cubes, DSOs, transformations, DTPs in order to meet the end user reporting requirements.
+· Created various information models like Attribute view, Analytical view and Calculation view.
+
+· Consumption of HANA information Models in BW by creating Composite and Transient Providers.
+
+· Experience in migrating the Standard DSO and Info Cube to HANA Optimized DSO and Info Cubes.
+
+· Experience in Importing BW models Info Cube, DSO in HANA as Analytical view.
+
+· Experience in Data-Provisioning techniques suing SLT SAP Landscape Transformation to perform real-time data replication into SAP HANA and data loading into HANA using SAP BODS.
+· Created Multi provider based on Requirement.
+
+· Involved in creating Enhancement for Data sources. 
+
+·  Development on new queries and web templates.
+
+· Created queries for the cluster using Query Designer involving Calculated and Restricted KFs, different Variables, formulae, Conditions, Exceptions Filters etc.
+
+· Documented the analysis on Process chains.
+
+· Daily monitoring of Process chains for Master Data and Transactional Data. Actively and regularly involved in Load Monitoring of Daily, weekly, and Monthly, Data Loads using Process Chains. 
+· Reconciliation of data and if any data inconsistency issues the Root Cause was found out and implemented effective measures for resolving within the time span – In order to not  to effect the business closure. 
+Project #2 (October 2015 to January 2016)
+	Client Name
+	Edwards (Support  project)
+
+	Role
+	SAP MDM consultant
+
+	Organization
+	IGATE GLOBAL SOLUTION LTD.
+
+
+Responsibilities:
+
+· Working on the web-shop Internet sales.
+
+· Creation of customers and linking up the partner function based on the sales orders.
+
+· Creation of the Contact person in web CRM-sales.
+· Handling the tickets w.r.t internet sales and customers
+· Worked on the NC holds for customer and sales orders
+· Custom changes in XD02.
+
+· Worked on TTS Report. 
+Project #1 (March 2013 to March 2014) 
+	Client Name
+	Bemol  (Implementation)
+
+	Role
+	SAP BW Consultant
+
+	Organization
+	INCRESOL SOFTWARE SERVICES
+
+
+Responsibilities:
+· Involved in preparation of technical specification and designed documentation.
+
+· Implemented and designing of data flow from R/3 to BW responsible for development, validation and integration testing.
+
+· Development of new data sources, DSO, master data and info cubes.
+
+· Involved in creating ENHANCEMENT for Data sources. 
+
+· Creating info packages and do data loading as well as monitoring and fixing of load jobs.
+
+· Development on new queries and web templates.
+
+· Created Generic DS as per the business requirement.
+
+· Extensively worked on activating the standard delivered business content Info objects, Info sources, Info cubes, DSO initially to show the reports to end users.
+
+· Created multi providers to meet the reporting needs of users.
+
+· Expertise in data modeling created info cubes, DSOs, info sets, multi providers, transformations, DTP, info packages.
+
+· Created Master Data sources for Attributes, Texts.
+
+· Participated in Cut over activities.
+
+· Maintain and develop ODS objects and info cubes, process chains, BEx Reports, WAD Templates etc.
+
+· Created  Generic data sources based on Tables/Views /FM
+
+· Created queries as per requirement using Query Designer involving Calculated and Restricted KFs, different Variables, formulae, Conditions, Exceptions Filters etc.
+
+· Involvement in Cut Over activities during Pre Go Live.
+
+· Uploaded data into Data Targets (Initial upload and daily roll-up) from flat files and SAP R/3 data sources (LO-Cockpit, Generic DS) and monitoring the load status.
+
+· Solving Critical Errors while loading Data in Quality Box(QB)
+
+· Testing Process Chains in Quality and Acceptance Pre Go Live.
+References: 
+References will be provided on request.
+Abhinav E

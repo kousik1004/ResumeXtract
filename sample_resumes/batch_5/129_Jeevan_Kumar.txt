@@ -1,0 +1,341 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hi,
+
+
+
+Jeevan Kumar.N
+
+
+                  Email : jeevankumar.n@gmail.com
+SAS Admin/Programmer
+
+                              Mobile: +91 – 9769713042
+
+· Having 10+ years of extensive IT experience in the Development and implementation of Business Application Systems for Banking & Telecom.
+· Successfully managing EDWH application for Vodafone Germany, Albania & Ireland.
+· Managing 20 resources and worked with international cross cultural & multi country teams.
+
+· Implementing/Adhering to quality processes in Software development life cycles.
+
+· Received Six Sigma Yellow Belt from Vodafone for leading the automation team in AO1-TIS to save 232hours per Month in 5 different projects.
+· Strong knowledge in Incident & Problem Management Process which helps in incident reduction and quality monitoring.
+
+· Involved in Preparing Monthly Metrics Report, MOM, and various review check lists.
+
+· Extensively worked on implementation of SAS EBI, EDI and all other SAS Modules with different Application Servers.
+· Proficient in SAS/BASE, ENTERPRISE GUIDE, SAS DI STUDIO, SAS OLAP CUBE STUDIO, SAS MANAGEMENT CONSOLE.
+· Extensively worked on SAS9.1, SAS9.2 and SAS9.4.
+· Knowledge on data modeling techniques and Modeling tool ERWIN.
+· Worked on various sources like Oracle, SQL Server, Excel and Flat Files.
+
+· Excellent communication skills used to inform, educate, motivate, and interact with co-workers, and clients. 
+
+
+· Master of Technology (M.Tech in Computers), Acharya Nagarjuna University, Guntur
+
+· Master of Science (M.Sc. in Computers), Maharshi Dayanand University, Haryana
+
+· Bachelor of Science (B.Sc. in Mathematics), Osmania University, Hyderabad 
+
+· Certified Base SAS Programmer
+· Certified SAS Platform Administrator
+
+· ITIL Foundation certified
+
+SAS Version 9.1 & 9.2
+Base/SAS, SAS/MACRO, Enterprise Guide, ETL(DI Studio) , SAS Administration using SAS Management Console (SMC), SAS Information Map Studio , SAS OLAP Cube Studio , Web Report Studio(WRS) , SAS Portal
+
+SAS BI Tools
+ETL (DI Studio), SAS Information Map Studio, Web Report Studio (WRS), SAS Portal, SAS Web OLAP Viewer, SAS Dash Board
+
+DBMS                        
+SQL Server, Oracle
+Statistical Packages
+SAS, R, Python
+Operating System       
+Windows & UNIX
+
+· Associated with Vodafone Shared Services Center, Pune as Manager from Nov’13 to till date
+
+· Associated with Barclays Technology Centre India, Pune as Analyst Programmer from Aug’11 to Nov’13.
+
+· Associated with Cap Gemini India Pvt. Ltd, Pune as Associate Consultant from Mar’10 to Jul’11.
+· Associated with Kairoleaf Analytics Pvt. Ltd, Mumbai as a SAS Programmer from Oct’07 to Mar’10.
+
+Project   # 1:
+Project Name
+: Call Data & Revenue Aggregation  
+Organization
+: Vodafone Shared Services Center India Pvt. Ltd.
+Technology 
+: SAS Base, SPDS, Oracle, UNIX and TWS
+Role
+
+: SAS Administrator
+
+Client                      : Vodafone, Germany
+Description:
+Call Data & Revenue Aggregation is a Data Warehouse application to store the call data in SPDS and Oracle. Detailed data is stored in SPDS and aggregated data is stored in Oracle.  
+Responsibilities:
+· Maintaining the DWH application and providing business support  to end users
+· Monitoring the daily schedules and analyzing the reason for failures if any.
+
+· Optimization of SAS Jobs.
+
+· Handling user queries
+· License renewal and distribution to end users
+
+· User creation in Oracle & SPDS
+
+Project   # 2:
+Project Name
+: SAS Automation 
+Organization
+: Barclays Technology Centre India Pvt. Ltd.
+Technology 
+: SAS Base, UNIX, CronTab
+Role
+
+: SAS Developer/Administrator
+
+Client                      : ABSA, South Africa
+Description:
+SAS Automation system is one platform to execute SAS programs/jobs in Group IM on a scheduled basis monthly/weekly/daily, in order to provide data to the various business units. Approximately 400 jobs run through SAS Automation System and publish the output to IM Portal.
+Responsibilities:
+· Maintain & Monitor the SAS Automation System.
+
+· Handling new automation requests.
+
+· Small changes to the existing SAS Jobs
+
+· Optimization of SAS Jobs and Automation System.
+
+Project   # 3:
+Project Name
+: Bleater Migration
+Organization
+: Barclays Technology Centre India Pvt. Ltd.
+Technology 
+: SAS9.2 BI Suite
+Role
+
+: SAS Platform Administrator
+
+Clients                    : ABSA, South Africa
+Description:
+Bleater is an age old AIX server with limited space provisions, is being used for Analytics/MIS reporting purpose. Most of the ABSA regulatory and non-regulatory financial reporting goes through Bleater server. Due to continuously increasing users and excessive usage resulting in duplication of data in memory, the environment had become highly unstable. To provide the users with better facilitation and infrastructure, a new environment ABSA SAS Analytical Platform (ASAP) has been proposed. 
+
+Responsibilities:
+· Understanding the business process of each unit
+
+· Analyzing the dependencies between different business units
+
+· Gathering the space requirements for each cluster
+
+· Migrating Codes and required data to ASAP
+Project   # 4:
+Project Name
+: Aggregation & Reporting (Basel II Capital Reporting)
+
+Organization
+: Capgemini India Pvt. Ltd
+
+Technology 
+: SAS9.1.3 Intelligence Platform, TWS, SPDS and Web Sphere
+Role
+
+: SAS Platform Administrator
+
+Clients                    : Barclays bank, UK
+
+Description:
+The Aggregation and Reporting (A&R) project is part of the Basel II Capital Reporting Program, its purpose is to ensure that Barclays is able to produce Risk Weighted Asset (RWA) calculations across the group and submit Basel II compliant reports within the timescale laid down by the regulators to FSA. All IMS SAS servers are installed across 4 to 5 different logical partitions and Each Partition consists of different application servers like Metadata server, web-tier etc, to facilitate distributed computing. The Basel II program is run primarily on a UNIX operating system, with SAS utilizing UNIX authentication as their primary mechanism of validating a user along with SAS Metadata users. 
+
+Responsibilities: 
+· Managing the entire application servers Metadata server, DDS Application server, CRE Application server, Report-mart Server and Web-tier (Xythos/Webdav) etc.
+
+· Monitoring the daily Schedules and analyzing the reason for failures if any.
+
+· Implementing the configuration changes like applying hot fixes, licenses etc.
+
+· Performing Full Migration from DEV to other environments like TEST, Pre-Prod and Prod.
+
+· Involved in Administrative activities like restarting services, ACL permission, etc.
+
+· Involved Users and group creation
+
+· Maintaining user permissions at Xythos level and metadata level.
+
+· Involved in upgrading SPDS and installing SSL on Portal and other web applications.
+
+· Maintaining ACT’s.
+
+Project   # 5:
+
+Title
+           : Collection Score Card 
+
+Role                : Administrator
+Environment    : Base/SAS 9.1.3, SAS/Macros, SAS/SQL, SQL2005, ASP.Net, MS-Excel and Windows XP
+
+Description:
+The objective of this project is to facilitate the non-SAS users in developing a Collection score card for Personal Loan product. This score card will be used to predict the payment behavior of delinquent customers and hence applying appropriate collection strategy to improve collection efficiency.
+Responsibilities: 
+· Raw data (Customer and Transactional) files are imported to SAS Environment
+
+· Summarizing customer and transactional data. 
+· Creation of Single Customer View.
+
+· Creation of Derived Variables.
+
+· Treatment (Flooring, Capping, Missing Replacement & Transformation) of variables.
+
+· Scoring & Categorization based on Risk Level.
+
+Project   # 6:
+
+Title
+            : Productivity Planning
+
+Role                  :  SAS Programmer/Administrator
+
+Environment      : Base/SAS 9.1.3, Macros, SMC, EnterpriseGuide, WRS, MS-Excel and WinXP
+Description:
+
+It gives the collector performance based on effort and effectiveness Indicators and the amount collected by each collector and agency with the percentage to total amount collected. It will generate a report which shows the difference between collected amount and expenses made by collector and agencies. This model can set individual business calls for generating productivity and efficiency score. It will gives you trend analysis on collectors and agencies, based up on this business users can take accurate decisions to improve their business in future. 
+
+Responsibilities: 
+· Developed SAS code for creating Bench mark report. 
+
+· Involved in MOM trend analysis SAS code generation.
+
+· Creating macro code for MOM trend analysis report. 
+
+· Created stored procedures for SAS code by using of Enterprise Guide.
+
+· Created web reports for business users in Web Report Studio.
+
+· Maintained SAS Management console.
+
+Project   # 7:
+
+Title
+        
+: Collection Data Mart
+Role             
+:  Developer/Administrator
+Environment 
+:  SAS/DI Studio, Base/SAS 9.1.3, SAS/Macros, SAS/SQL, MS-Excel and Windows XP.
+Description:
+
+To assemble a packet of own risk management information and to meet the deadlines, client has decided to integrate the business processes and data by constructing Data mart. The aim of this project is to enhance the existing Risk frame work and to increase the analytical capabilities with minimum infrastructure.
+· Extracted data from Source systems and standardized as per requirements.
+
+· Involved in Dimensional modeling using Erwin.
+
+· ETL process and Data Mart design and implementation using DI Studio.
+· All aspects of OLAP systems design and implementation for Multi Dimensional reporting, Star Schemas and Snowflake Schemas design.
+
+Project   # 8:
+
+Title
+            : Implementation of SAS Intelligence Platform Architecture
+Role                 :  Administrator
+
+Environment     : SAS EBI Server, Windows
+Description:
+Implemented SAS BI Client-Server architecture in our organization and providing support to users.
+· Resolving server based issues
+
+· Taking data backups at regular intervals
+
+· Client tools Installation
+
+· Server maintenance
+· License renewal
+Summary of experience:
+
+
+
+Education Qualifications:
+
+
+
+Technical Skills:
+
+
+
+
+
+Professional Experience 
+
+
+
+Project Accomplishments:
+
+
+
+
+
+Training and Certification:
+
+
+
+
+
+
+
+ 
+
+
+

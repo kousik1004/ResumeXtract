@@ -1,0 +1,204 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VITAE
+
+
+                                                                                                                                    
+ 
+                                                                                                                                     G.M. CHANDRA SEKAR 
+                                                                                                                                     Mobile:  9176163175/9206977582 
+                                                                                                                                     E-Mail: 83sekar.chandra@gmail.com 
+
+ 
+Business-minded data scientist with a demonstrated ability to deliver valuable insights via data analytics and 
+advanced data-driven methods.Work closely with clients to identify and solve business challenges utilizing large 
+structured, semi-structured, and unstructured data in a distributed processing environment. 
+
+ 
+
+Work Experience:  
+ 
+Working as Lead – Data Analytics & Implementation with Omnicom Media Group (Dec 2016 – present)  
+
+ 
+Worked as a Group Head – Data Analytics & Implementation with Omnicom Media Group (May 2013 – 
+Nov2016)  
+
+Worked as a Manager –Digital Implementation with Leisure & Lifestyle Information Services (May 2011 –   
+
+         May 2013)                                                         
+
+Worked as a Senior Digital Marketing Executive with Hungama Digital Media Pvt Ltd (Dec 2008 - May 2011)  
+
+Worked as an Operations Executive with Cybernet Slash Support (Dec 2006 – Dec 2008) 
+
+ 
+
+ 
+Technical Expertise: 
+
+ Machine Learning Algorithms – Regression,Random Forest, Naïve 
+Bayes,Support Vector Machine,Time Series & Neural Networks                                      
+
+ Natural Language Processing 
+ Decision Analytics 
+ Data Mining 
+ Data-Driven Personalization 
+ KPI Dashboards  
+
+                 
+
+ 
+
+ 
+Projects Worked: 
+1) Customer churn and Retention Modelling: 
+ 
+First, a classification method estimates the propensity of each customer to churn, such that a ranking of customers 
+can be established based on their estimated churn probability subsequently, a fraction of customers, starting from 
+the top of the ranking, is selected as target group for the retention incentive 
+ 
+Variables Used : Policy type,Membership tenure,Product type,  Method of payment,Saleschannel, Premium, 
+Member’s  Age, ethnicity, gender, and marital status.  Number of adults, children in household.  Dwelling type and 
+length of residence.  Hobbies, travel and sport/leisure preferences, and limited credit indicators,Allowed, paid, 
+deductible, copay, and coinsurance amount.  Location of service.  In/Out of network indicator, Monthly counts by 
+contact mode and content.  Average inquiry resolution times. 
+ 
+Programming Environment : Python  
+ 
+Models Used : Random Forest, Support Vector Machines,Naïve Bayes ,Logistic Regression 
+ 
+ 
+Model Training: We first partition data into 70% for training and 30% for validation using stratified sampling on the 
+target variable.Machine learning models are run over the training data and validation set and highest gains were 
+noticed in Logistic regression at a probability of 0.4 instead of base level 0.5. 
+ 
+
+
+
+Model Validation: The Precision and Recall were measured and ROC curve generated from validation dataset were 
+used to assess the model performance. 
+ 
+Retention Strategy: Renewal Probability is calculated and based on renewal probability churn score is predicted. 
+The customers are ranked into four categories and the incentives/loyalty programs are run. 
+Customers are then classified to Low value & Low risk,Low value & High risk,High value & High risk and High value & 
+Low risk. 
+These incentives take multiple forms, such as special offers, discounts, personalized (e-) mailing etc. 
+ 
+2) Fraud detection:  
+ 
+Frauds committed by a Policyholder could consist of members that are not eligible, concealment of age, 
+concealment of pre-existing diseases, failure to report any vital information, providing false information regarding 
+self or any other family member, failure in disclosing previously settled or rejected claims, frauds in physician’s 
+prescriptions, false documents, false bills, exaggerated claims 
+ 
+Variables Used : 
+Hospital details - Type of Hospital, Ranking of Hospital, Number of days in a hospital,total cost, composition of total 
+cost across bed charge, medicine, care, diagnosis, treatment, operation and lab test), disease type,doctor 
+name,number of surgeries 
+Healthcare policy details – insurance id,insurance product name,helath id card,disease type,coverage type, renew 
+status, claim duration, file duration and previous claim frequency etc, 
+Customer details - sex, age, occupation, marital status, and income(derived variables – child,elder,adult) 
+ 
+Programming Environment : Python & R 
+ 
+Models Used : Random Forest,Decision Tree and Logistic Regression 
+ 
+ 
+Current Roles & Responsibilities: 
+ 
+
+ Develop machine learning,data mining and algorithms to create new,scalable solutions for business problems by 
+analyzing structured and unstructured data. 
+
+ Identified, measured and recommended improvement strategies for KPIs across all business areas. 
+ Performing statistical and exploratory analysis using Python & R. 
+
+ Leading tasks which involve the use advanced modelling and statistical techniques - regression, dimensionality 
+reduction techniques and Ensemble Models to provide actionable results, support new & existing products & 
+platforms, and to influence business decisions. 
+
+ Sentiment Analysis: Perform sentiment analysis by mining unstructured data from Social and e-commerce 
+websites to understand consumer perception towards the product/brand. Developed the platform with word 
+cloud, world map using various data visualization libraries, text mining, NLP and sentiment analysis. 
+
+ Marketing Analytics: Develop Indices reflecting efficacy of Ad Campaigns launched by marketing team - Find out 
+important features which impact Ad efficacy and deriving strengths and weaknesses for each specific Ad 
+launched.  
+
+ Cluster Analysis & Segmentation - Used Clustering techniques to understand different market segments and find 
+the target group of likely buyers who would be interested in the product. 
+
+ Maintaining the health of the data architecture by closely monitoring, debugging and improving the  
+
+ Design experiments for A/B testing and define best practices and design diagnostics to monitor performance for 
+online experiments. 
+
+ Communicate the insights using effective visualization techniques and make appropriate recommendations or 
+call to action. 
+
+ Exceptional analytical skills and strong problem solving skills. 
+ 
+
+Academic Details: 
+
+
+
+2004, B.E. (Electrical and Electronics) from Sri Venkateshwara College of Engg. And Technology, Madras University, 
+Tamil Nadu, India 
+
+ 
+
+Personal Details: 
+
+Date of Birth  : 26/11/1983 
+
+Languages Known : English, Hindi, Tamil & Telugu 
+
+Address   :  Bangalore - 560034 
+
+

@@ -1,0 +1,454 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+ 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PROFESSIONAL SUMMARY  
+ 
+
+ 4 years of experience in analytics, model development and business 
+
+analysis. 
+
+ 
+
+ Experience in utilizing SAS Procedures, SAS Macros and other SAS 
+
+applications for data extraction, data cleansing, data modification, data 
+
+loading and reporting. 
+
+ 
+
+ Developed new and modified existing SAS programs to load data from the 
+
+source and create study specific datasets. 
+
+ 
+
+ Experience in SAS/BASE, SAS/SQL, SAS/MACRO, SAS/STAT, 
+
+SAS/ODS, SAS/ACCESS, SAS/CONNECT and SAS/GRAPH. 
+
+ 
+
+ Strong ability to write SQL queries using PROC SQL. 
+
+ 
+
+ Strong analytical, project planning, problem solving capabilities & good 
+
+communication skills. 
+
+ 
+
+ 
+
+ 
+
+E X P E R I E N C E 
+
+ 
+Business Analyst 
+
+Aon Hewitt / Dec 2015 – Present 
+
+ 
+
+KEY PROJECTS 
+
+ 
+
+1) Finding potential Self Directed Brokerage Account (SDBA) customers. 
+
+Developed a model to predict prospective SDBA users. SDBA is a product of 
+
+Aon Advisory Services under retirement benefit. 
+
+Analysis: Data Insight, Data Exploration, Data Cleaning, Model Development, 
+
+Model Assessment. 
+
+SAS: PROC Means, PROC Freq, PROC Sort, Proc Stdize, PROC 
+
+Surveyselect, PROC Reg, PROC Logistic. 
+
+Technique: Outlier and Missing Value Detection & Treatment, Variable 
+
+Selection & Reduction, WOE & IV, VIF, Correlation, Multicollinearity, Training 
+
+& Validation, Logistic Regression, Model Development, Model Assessment, 
+
+Betas, C-value, KS Statistics, Concordant/Discordant. 
+
+MANDEEP SINGH 
+
+ 
+
+AREA OF INTEREST 
+ 
+
+Data Exploration and Data Analysis, Statistics, Research, Business Analytics, 
+
+Business Intelligence, Statistical Data Analysis, Statistical Modeling, Model 
+
+Development, Project Planning, Reporting. 
+
+Business Analyst 
+
+17mandeep09@gmail.com 
+ 
+
+(+91) 9667407158 
+ 
+
+S K I L L S 
+
+ 
+
+Logistic Regression 
+
+Linear Regression 
+
+ANOVA/GLM 
+
+Post-hoc Analysis 
+
+Correlation 
+
+Multicollinearity 
+
+Predictive Modeling 
+
+Segmentation 
+
+Hypothesis Testing 
+
+Univariate Analysis 
+
+Multivariate Analysis 
+
+T-test 
+
+Sentiment Analysis 
+
+SAS 
+
+SQL 
+
+Microsoft Office 
+
+Team Work 
+
+Communication 
+
+Commitment 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+E X P E R I E N C E (C o n t i n u e) 
+ 
+
+ Differentiate the key characteristic between users and non-users. Focus 
+
+on predicting prospective users.  
+
+ Initial exploratory data analysis using PROC Freq and PROC Means, 
+
+outlier treatment and missing value imputation using PROC Stdize. 
+
+ Variable selection and reduction on the basis of WOE, IV and VIF value.  
+
+ Built Logistic Regression model and studied the ROC curve and KS 
+
+statistics. Other generated parameters such as Betas, C-value, 
+
+Concordant/Discordant. 
+
+ 
+
+ 
+
+2) Sentiment analysis of rebranding Aon Hewitt to Alight Solutions. 
+
+ 
+
+Analyzed the sentiments towards rebranding of Aon Hewitt to Alight 
+
+Solutions. The analysis was done by scoring the tweets & re-tweets from 
+
+Aon Hewitt’s & Alight Solutions’ twitter handle. 
+
+ 
+
+Analysis: Data Extraction, Data Exploration, Data Cleaning, Data Merge. 
+
+ 
+
+SAS: SAS/BASE, Proc Sort, Proc SQL. 
+
+ 
+
+Technique: Character Function, Date Function, By Group Processing, 
+
+Merging, Sorting, Format, Informat. 
+
+ 
+
+ The reference for score of a particular word was provided in data 
+
+dictionary developed by experts. 
+
+ More positive score depicts positive sentiments and vice versa. 
+
+ Tweets & re-tweets were scored basis of common words in tweet and 
+
+data dictionary. 
+
+ Total score of a particular time period was analyzed to depict the 
+
+sentiments. 
+
+ 
+
+ 
+
+ 
+
+Analyst 
+
+Royal Bank of Scotland / Sep 2013 – Nov 2015 
+
+ 
+
+KEY PROJECTS 
+
+ 
+
+1) Segmentation of credit card customers through RFM analysis. 
+
+ 
+
+Created different segments of credit card customer based on their RFM rank. 
+
+Segment specific marketing techniques were designed to increase usage of 
+
+credit card and improve the customer life cycle. 
+
+ 
+
+Analysis: Data Insight, Data Exploration, Data Merge, Segmentation, 
+
+Grouping, Comparison 
+
+ 
+
+SAS: PROC Append, PROC Sort, PROC SQL, PROC Rank, SAS/BASE. 
+
+ 
+
+ Customer Segmentation based on their transactional data. 
+
+ Based on last transaction, total transaction and total spend within a 
+
+specific time period, rank the customers on Recency, Frequency and 
+
+Monetary parameters. 
+
+ Based on cumulative RFM rank divided the customer in different 
+
+segments. 
+
+A C H I E V E M E N T S 
+
+ 
+
+BIZ-WIZ Business Quiz (Runner Up)  
+
+2011  
+
+Lovely Professional University 
+
+ 
+
+ 
+
+Placement Coordinator for BBA 
+
+2013  
+
+Lovely Professional University 
+
+ 
+
+ 
+
+Spot Ovation Award 
+
+2015  
+
+Royal Bank of Scotland 
+
+ 
+
+ 
+
+Silver Award 
+
+2016  
+
+Aon Hewitt 
+
+ 
+
+ 
+
+Gold Award 
+2017  
+
+Aon Hewitt 
+
+ 
+
+ 
+
+ 
+
+E D U C A T I O N  
+
+ 
+
+LOVELY POFESSIONAL UNIVERSITY 
+
+Bachelor of Business Administration 
+
+2010 – 2013  
+
+ 
+
+ 
+
+ 
+
+

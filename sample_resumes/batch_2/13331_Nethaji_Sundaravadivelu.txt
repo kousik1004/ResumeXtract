@@ -1,0 +1,411 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nethaji Sundaravadivelu
+Contact No.: (+91)9840262125
+E-Mail: nethajihardworker@rocketmail.com
+
+Programmer Analyst 
+Application Development
+
+PROFILE SUMMARY
+
+
+· A result-oriented professional with around 3 years’ experience in application development & enhancement, service delivery and client relationship management in SCADA & Network Automation Applications
+· Insightful knowledge of Microsoft Application Block, IIS, Domain Control, on HTTP, N-Tier Architecture, Design Patterns (Factory and Singleton), WCF, MVC, Microsoft Reports (RDLC)
+· Led a team that delivered applications across Microsoft Visual Studio (2015, 2013, 2012, 2010 and 2008) .Net (4.0, 3.5, 2.0, and 1.1) C#, VB.NET, ASP.NET, MS-SQL Server and  MySQL
+
+PREVIOUS COMPANY EXPERIENCE
+
+
+ (
+May
+’ 
+1
+6
+ 
+ –
+ Till Date with 
+Cognizant Technology Solutions
+ 
+ 
+Operational 
+Portal(
+MANLOG)
+,
+ Development
+ 
+of
+ 
+Web
+ Portal
+ 
+)
+Key Result Areas:
+· To develop portal for managing the estimates, project plan, project schedule, resource allocation, Timesheet, Metrics, to ensure that targets were reached
+
+
+ PREVIOUS COMPANY EXPERIENCE
+
+
+ (
+Oct’ 13 – 
+Apr’ 16
+ Schneider Electric Infra Limited Client: 
+Advanced Distribution Management System
+ 
+applications.
+ 
+Pivotal
+ 
+in
+ 
+In-house
+ Research &
+ 
+Development
+ 
+of
+ 
+Web
+ 
+(intranet)
+ 
+and
+ 
+Windows
+ 
+applications
+ for Relays & flight
+ devices
+(Designation: Senior Software Engineer)
+)
+
+Key Result Areas:
+· Providing overall leadership to the entire project team including managing deliverables of other functional team leaders in an effective manner
+· Managing large and complex projects or multiple components of a large project involving more than one company’s product/ services including Government Projects.
+· Communicating with internal/external clients to determine specific requirements and expectations; managing client expectations as an indicator of quality
+· Following the project life cycle methodology like Agile and Waterfall; defined under the process  framework; ensured that customer deadlines were met within project budgets
+
+TECHNICAL SKILLS
+
+
+Languages
+· C#, VB.Net, ASP.Net, Web Service, MVC, WCF, HTML, XML, MS-SQL & MySQL.
+
+Software & Technologies
+Development Tools:	Microsoft Visual Studio 2012, 2010, 2008.
+SCADA Application:	ECOSUI, PACiS and DMS applications
+Security:	Developed web, user level & encryption/ decryption applications
+Reporting:	ECOSUI Auto Reporting Tool
+Case Tools:	UML with Rational Rose.
+Database:	Microsoft SQL Server (2005, 2008, 2012), MySQL, and Access
+Platforms:	Microsoft Windows
+Control Center Deployment:	Active Directory, Domain Control with  Highly Availability(HA), 
+Network Configuration:	Firewall, Router, Switch, GPS, SAN & Tap drive.
+Others:	Adobe Photoshop, Network Management System with HA, 
+
+EDUCATION
+
+
+· M.C.A. (Computer Science) from Panimalar Engineering College, in 2013 with GPA: 7.4
+· B.C.A. (Computer Science) from College of Arts & Science, in 2010 with 64%
+
+
+
+Project Experience @ Schneider
+	Title
+	Service Request Management
+
+	Duration
+	Dec 2012- Oct 2013(Internship)
+
+	Platform
+	Asp .Net C#,MVC & MySQL 5.0 database |Web Portal & Windows Server Application(WCF)
+
+	Roles & Responsibilities
+	Software Research & Development
+
+	No of  Users
+	More than 100 users all over India used by customer care department
+
+	Previous Version description
+	Application running in Excel macro with limitation in access, sharing, memory, user & features
+
+	Current Version description
+	This application has a scope of Skill level Matrices, Auto report generation, Test Kit analysis, Automatic job allocation, Reduce man power, Making efficient decision, Excellent service to customer, Pending MOM notification, Allocation job based on Geographical location, (view with Google Map)
+Job status acknowledge, Feedback from customer, Closure documents attachments, (sent to File Server) Backup database, Print report.
+
+	Other description
+	This application running in Client Server distributed architecture
+
+
+
+	Title
+	IO List & SCADA Addressing.
+
+	Duration
+	Oct 2013- March 2014
+
+	Platform
+	 .Net C# & MySQL 5.2 database | Windows Application
+
+	Roles & Responsibilities
+	Software Research & Development
+
+	No of  Users
+	50 Users Noida & Chennai used by Network Automation Team
+
+	Previous Version description
+	Application running in Excel macro with limitation of auto addressing & auto generation of IO List.
+
+	Current Version description
+	This application has a features like Advance IO List mapping, Auto bug report generation,  sync with MS-SQL Database, Report, easy sharing & tracing updates 
+
+	Other description
+	This application running in Client Server architecture
+
+
+
+	Title
+	Bihar RAPDRP
+
+	Duration
+	Oct 2013- April 2015
+
+	Platform
+	ADVANCED DISTRIBUTION MANAGEMENT SYSTEM (ADMS) Software Deployment| smart grid solutions | Control Center 
+
+	Roles & Responsibilities
+	Software Deployment & Configuring Router, Switch, Firewall, SAN, Tap drive. Development in Geographic Information System (GIS) XML Conversation tool.
+
+	No of  Users
+	150+ Government users in Bihar State Electricity Board & n-Public users.
+
+	Previous Version description
+	Local Distribution Management System (LDMS).
+
+	Current Version description
+	ADVANCED DISTRIBUTION MANAGEMENT SYSTEM (ADMS)
+
+	Other description
+	Smart Gird Solution with Distribution System Architecture.
+
+
+
+	Title
+	Advance Auto Wiring & shortest path
+
+	Duration
+	Oct 2015 – Present
+
+	Roles & Responsibilities
+	Software Research & Development
+
+	Platform
+	 .Net C# & MySQL 5.6 database | Windows Application
+
+	No of  Users
+	200+ Users in 2 department.( Panel Manufacturing Factory & Engineering Team)
+
+	Previous Version description
+	Manual calculation made by Engineering Team
+
+	Current Version description
+	Developed with C#.Net & MySQL bridge with AUTOCAD Application. Auto calculation wire length & shortest path identify it reduce engineering cost & time.
+
+	Other description
+	This application running in Remote Client Server architecture. 1 Client N Server Concept.
+
+
+
+	Title
+	Kerala RAPDRP
+
+	Duration
+	Jan 2015- Present
+
+	Platform
+	ADVANCED DISTRIBUTION MANAGEMENT SYSTEM (ADMS) Software Deployment| smart grid solutions | Control Center 
+
+	Roles & Responsibilities
+	Software Deployment & Configuring Router, Switch, Firewall, SAN, Tap drive. Development in Geographic Information System (GIS) XML Conversation tool.
+
+	No of  Users
+	150+ Government users in Kerala State Electricity Board & n-Public users.
+
+	Previous Version description
+	Local Distribution Management System (LDMS)
+
+	Current Version description
+	ADVANCED DISTRIBUTION MANAGEMENT SYSTEM (ADMS)
+
+	Other description
+	Smart Gird Solution with Distribution System Architecture.
+
+
+
+
+
+
+
+	Title
+	Schneider Engineering Management Tool
+
+	Duration
+	Jan 2015- Present
+
+	Platform
+	Asp .Net C# & VB.Net, MVC, MVVC & MySQL 5.0 database |Web Portal & Windows Server Application(WCF)
+
+	Roles & Responsibilities
+	Team Leading,  Software Development & Managing 
+
+	No of  Users
+	More than 100 users all over India used by GEC, DCS  & CCS  team
+
+	Previous Version description
+	Manual analysis by management
+
+	Current Version description
+	1. This portal will manages resources by planning, scheduling and forecasting manpower and resource requirements
+2. Manages all projects related documents.
+3. Accountable for financial management on all assigned projects & delivered to SAP
+4. Forecasting to prepares and updates project schedule and cost estimates
+5. Time sheet management for all the employee & forecast future projects
+6. Monitor & Work load analysis.
+
+	Other description
+	Distribution Service Architecture.
+
+
+
+	Title
+	ECOSUI SCADA Reporting Software
+
+	Duration
+	Feb 2015- Apr-2016
+
+	Platform
+	Asp .Net C# & VB.Net, MVVC| MS SQL DB |Web Portal(MVVC) & Windows Server Application(WCF)
+
+	Roles & Responsibilities
+	Team Leading,  Software Development & Managing 
+
+	No of  Users
+	More than 100 users all over India used by GEC, DCS  & CCS  team
+
+	Previous Version description
+	PACiS Reporting software for PACiS old version software with MS SQL DB.
+
+	Current Version description
+	1. Automatically generate report, mailing & notification
+2. Background WCF Window Server Application.
+3. Forecasting Events.
+4. Windows Application – For Real Time Report Application.
+5. Web Portal – For Other platform user- Mobile, Tab, Java & other OS
+
+	Other description
+	Distribution Service Architecture.
+
+
+
+Project Experience @ Cognizant
+
+	Title
+	TOP Protal
+
+	Duration
+	May 2016- Jul-2017
+
+	Platform
+	Asp .Net C# & Win Forms(Dashboards)| MS SQL & Windows Server Application(WCF)-Version One
+
+	Roles & Responsibilities
+	Software Development.
+
+	No of  Users
+	More than 10000 users all over Cognizant used by Customer.
+
+	Current Version description
+	1. Automatically generate report, mailing & notification
+2. Background WCF Window Server Application.
+3. Forecasting Events.
+4. Windows Application-Dashboard – For Real Time Report Application.
+5. Web Portal – For Other platform user- Mobile, Tab, Java & other OS.
+6. Version One API Integration-WCF Service.
+
+	Other description
+	Distribution Service Architecture.
+
+
+
+	Title’s 
+	Forward Curve, Market Maker, MTM
+
+	Duration
+	Jul-2017
+
+	Platform
+	Asp .Net C# & WPF C#| MS SQL DB.
+
+	Roles & Responsibilities
+	Software Development.
+
+	No of  Users
+	More than 10000 users all over Cognizant used by Customer.
+
+	Previous Version description
+	Migration From windows application to WPF
+
+	Other description
+	Distribution Service Architecture.
+
+
+

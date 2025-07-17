@@ -1,0 +1,179 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mahipalreddy
+
+
+
+
+
+
+NAME: Venkata Krishna Tanneeru.
+Mobile: +91 9550408986.
+Email:  venkatakrishna.tanneeru@gmail.com
+Carrier Objective:
+To work sincerely, building a symbolic relationship with your organization where my effort will be complemented by career growth, higher degree of responsibility and to prove myself as a valuable asset of your organization.
+
+Professional Summary
+· 3+ years of experience in IT industry with expertise in Software Application Development.
+· Good exposure in understanding and analyzing Requirements.
+· Experience in Core Java, J2EE technologies.
+· Experience in Development of Web-based applications using Java and J2EE environment like Core Java, Spring Framework, Web Services, Restful Web Services, Hibernate.
+· Experience in Development of Client side Technologies using JavaScript, Jquery, HTML, CSS .
+· Hands on experience with Eclipse, NetBeans.
+· Highly dedicated to produce professional work with quality and creativity.
+· Commitment, hardworking, Can grasp things quickly and think strategically.
+· I am always eager for obtaining new valuable skills and improving my knowledge.
+
+Professional Work Experience:
+
+· Working as Software Engineer in CYIENT Pvt Ltd, Hyderabad from October 2015 to till date.             
+
+Academic Profile:
+
+· M.Tech (C.S.E)  from JNTU Hyderabad University , kukatpally ,TS, India
+
+Technical Skills:
+
+	Languages			: Core Java.
+	Web Technologies		: JavaScript, TypeScript, JQuery, Angular Js, HTML, CSS.
+	J2EE Technologies		: JDBC, Servlets, JSP.
+	Frame Works			: Spring, Hibernate.
+· SOA				: WebServices, Restful WebServices.
+	IDE & Tools			: Eclipse, Net Beans.	
+	Servers			               : Tomcat, Glassfish. 
+	Databases			: Oracle, PostgreSQL.
+	Version Control System 	               : SVN, Git.	
+	Build Tools				: Maven.	
+	Operating Systems		: Windows 10
+# Project 1: Mining
+
+Client			:  komatsu joy global .
+Domain		               : Mining
+Role			:  Team Member
+Team size		:  10
+Environment		: Java Swings, Design patterns, WebSocket, Hibernate, PostgreSQL.
+
+Description:
+
+The application is about underground mining work and it’s capturing the data from data Adapter Simulators and display to end user on the Human Machine Interface ( i.e HMI). HMI is divided into 3 pieces, the HMI User Interface, Data Adapter, and Server. The HMI Server is usually the source or producer of data and the User Interface is the consumer of the data.  The HMI Server publishes its data using DDS and the Data Adapter converts the DDS to the WebSocket protocol for the User Interface. 
+
+Roles and Responsibilities:
+
+· Involved in creating the UI Design using Graphics classes.
+· Involved Writing logic for connecting to FTP Server and transfer files and download files.
+· Implemented own Pagination table to display the data on the screen. 
+· Implemented singleton design pattern and factory Design pattern.
+· Ensuring smooth delivery of the project.
+
+
+# Project 2: Rail Transport BT
+
+Client		:  Bombardier Germany
+Domain		: Railway Transport
+Role		:  Team Member	
+Team size		:  8
+Environment	: Core java, Restful Service, Web Service, Jquery, Hibernate,EJB,  PostgreSQL ,Glassfish Server.
+
+       Description:
+
+        Bombardier Transportation, a Global Leader in Rail Technology, Offers the Broadest Portfolio in the Rail Industry and Delivers Innovative Products and Services That Set New Standards in Sustainable Mobility. Bombardier Eco4 Technologies – Built on the Four Cornerstones of Energy, Efficiency, Economy and Ecology – Conserve Energy, Protect the Environment and Help to Improve Total Train Performance for Operators and Passengers.
+
+
+
+Roles and Responsibilities:
+· Involved to writing the Rest calls to fetch the data from database.
+· Involved to writing the ORM logic for mapping the classes to persist the data into database and fetch the data from database.
+· Involved to writing the Client side Validations logic and Ajax calls.
+· Testing the all module code to verify flow.
+· Checking all the code and deploy in GIT
+· Ensuring smooth delivery of the project.
+· Individual role is on Application development, Deployments to different Environments like DEV, TEST, and Production.
+· Involved in Defect fixing  it
+
+
+
+# Project 3: Ecommerce
+
+Client			:  PRISMIT Job Portal
+Domain		               : Ecommerce
+Role			:  Team Member
+Team size		:  7
+Environment		:   Java, JSP, Jquery, Spring, Hibernate, Glassfish, Oracle.
+
+Description:
+
+       This distributed application this job portal allows job seekers to sign up for a free account, which allows them to search job openings posted by employers and post their resumes for employers to review where Job seekers can browse through openings apply for positions. Employers to post information about job openings in a centralized location Employers can browse through job seekers' resumes to find potential job openings. This Job portal offer worldwide access for job seekers to view advertisements, providing employers with a wider variety of applicants and a broader candidate pool. 
+
+
+Roles and Responsibilities:
+
+· Involved in creating action classes and request based JSP pages.
+· Designing of underlying architecture along with other members of the team and preparing the base code for the application.
+· Ensuring smooth delivery of the project.
+· Involved in code fixes and maintenance of the application
+· Testing the all module code to verify flow.
+
+Personal Details:
+
+Date of Birth           : 21 April 1991. 
+Marital status          : unmarried
+Languages Known   : English, Hindi, and Telugu
+
+Declaration:
+                       I consider myself familiar with various Information Technology aspects. I am also confident of my abilities to work in a team.
+
+I hereby declare that the information furnished above is true to the best of my knowledge
+
+
+Place: Hyderabad                                                                            (Venkata krishna T) 
+

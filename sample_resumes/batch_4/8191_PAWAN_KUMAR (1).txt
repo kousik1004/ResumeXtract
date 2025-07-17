@@ -1,0 +1,293 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUMVITAE
+
+  PAWAN KUMAR					 
+  E-mail: kumarpawanbit@gmail.com			
+  Mob No: +91- 7738393577, 8433719677
+
+	Job Objective:
+
+	Seeking a position to utilize my skills and abilities as Cloud DevOps Engineer, Python Developer, Shell Script, Linux System admin, NoSQL and Big Data Technology that offers professional growth while being resourceful, innovative and flexible. Prioritize both personal as well as organizational goals.
+
+
+
+	Profile Summary:
+
+	Technically  sophisticated  professional  with  4.7  years  of  experience  in  DevOps/ Cloud  Operation/Python/Shell Script/ Big Data /Linux Administration.
+· Currently Working with RJIL (Reliance Jio Infocomm Limited), Mumbai as Asst. Manager(DevOps Engineer) since Nov-2015.
+· Earlier, I was associated with IGATE Global Solution Ltd, Mumbai as Senior System Engineer since April-2013.
+· Proficient in Cloud Technology (OpenStack), Python Developer, Automation (Python, Shell script, Ansible), Virtualization  and  Big Data (Hadoop Echo System) & Databases.
+· Work Area: OpenStack Cloud, Linux, Python, shell scripting, Ansible, Jenkins, Virtualization, BigData(Hadoop), Database, Storage & RAID. 
+
+
+
+
+	Certifications:
+
+	· Oracle Certified Java Programmer (OCJP).
+· Online Hadoop Certification from Big Data University.
+
+
+ 
+  TRAININGS
+· Attended one week training physically from Mirantis Trainer on Open Stack (100,200).
+· Attended one weak training under Mirantis trainer of MAAS, SALT and Decapod deployment.
+
+	Skill Set :
+
+	Cloud and Virtualization :
+	OpenStack Cloud, KVM Guest VM, G Cloud, Docker Container.
+
+	Scripting :
+	Python, Shell script, Core Java,
+
+	Configuration Management /SCM tool.
+	Ansible, SALT, Heat, Murano, Jenkins
+
+	Operating System:
+	Ubuntu(x), Centos(x), red hat Linux(x), Windows  server.
+
+	Monitoring Tools:
+	Zabbix, Nagios, Consule, ELK.
+
+	Web Tool & Technologies:
+	Flask, HTML, PHP, Apache Server/httpd, etc.
+
+	Deployment Tool
+	MAAS (Metal as a Service), FUEL.
+
+	Big Data  Framework:
+	Apache Hadoop, Hadoop echo System(PIG, Hive, Sqoop, Hbase, Zookeeper), Ambari, etc.
+
+	Hypervisor and Networking
+	KVM, virsh tool, Linux  bonding & bridging, Routing, Nating and IpTables, CIDR, Subneing, DHCP.
+
+	NoSQL and Database:
+	Mongodb, MySQL, P-SQL. 
+
+	Disk Management and Storage: 
+	RAID 0/1/5/1+0, LVM, Disk Quota, Ceph, Swift
+
+	Version Control systems: 
+	GIT,GITLAB,SVN
+
+	         Network/Infrastructure: 
+	 TCP/IP, DNS, DHCP,VIP(HA),Load Balancer.
+
+
+
+DevOps Roles and Experiences:
+
+· Installation of Open stack Cloud with HA failover of all components using Mirantis fuel.
+· Deeply knowledge of all OpenStack service components(Nova, Neutron, RabbitMQ,
+Glance, Heat, Murano, Ceilometer, Designate,..)
+· Designed, Implementation and documentation for events based vm’s auto scaling using OpenStack heat.
+· Installed, configured and maintaining Private cloud infrastructure for RJIL with 900+ Physical nodes and 2500 plus virtual machine hosted on Open stack
+· Working  with  opestack component  Nova,  keystone,  Cinder,  Glance, Heat, Murano,  Ceph,  Neutron  with  OpenVswitch/Open Contrail.
+· Expertise in Python scripting language for (Automation, Reporting tools, Web pages, Configuration, etc.).
+· Expertise in Shell scripting language as writing tools to automate cloud services and monitoring.
+· Hands on experience on heat (HOT) template, Murano application catalog and auto scaling with ceilometer.
+· Expertise in bare metal VMs/ Virtualization with KVM, Virtual Box, virsh libvert tools, Creating and Managing Virtual Machines and Templates.
+· Creating and managing VM interfaces, linux bond & bridges, IP forwarding, routing table, etc.
+· Basic administration and hands on experience on Docker and Swarm.
+· Expertise on Ansible script for patching upgrade, deployment, configuration, etc.
+· Maintaining and upgrading Web Servers APACHE with virtual hosting, SSL certificates.
+· Debugging and troubleshooting on all Linux OS platform (Ubuntu, Centos, red hat, etc.).
+· Adding, re-adding and deleting firewall rules (IPTABLES) as per our requirement in Gateway Server.
+· Handling Squid proxy server with Squid, Squid guard filter, Light Squid web access report.
+· Passion of exploring and learning new tools and technology.
+· Hands on experience on Big Data (Hadoop echo System), deployment, tuning and troubleshooting.
+· Deployed Hadoop cluster using SAHARA and Ambari up to 300 nodes cluster hosted on OpenStack cloud.
+· Hands on experience on Mongodb, MySQL, PSQL database in Installation, tuning & troubleshooting. 
+· Sound knowledge in databases (Mongodb, MYSQL, etc.) complex Queries.
+
+           Handling administration, maintenance and performing daily task i.e. creating users,    mailboxes, distribution groups, contacts, creating and applying policies on server, mailbox store,   public folder store and recipients on mail server.
+· Installation, configuration and administration of core network services i.e. DNS, DHCP, SQUID,       IPTABLES, APACHE HTTPD, and RSYSLOG
+
+	Educational Qualification:
+
+	Degree
+	College
+	University/Board
+	Year
+	Percentage
+
+	B.E.(CSE)
+	 B.I.T. Durg, 
+	C.S.V.T.U. Bhilai
+	2009-12
+	 78 %
+
+	Diploma(CSE)
+	M.V.J.C.E. Bangalore
+	K.T.E.B. Bangalore
+	2009
+	75.12%
+
+	12th
+	S.N.S. College, Tekari, Gaya
+	B.I.S.B. Patna
+	2006
+	 71.10%
+
+	10th
+	T.R. Enter School , Tekari
+	B.S.E.B. Patna
+	2004
+	 68.2 %
+
+
+
+	Projects:     All the mentioned Projects are Completed by me (Single Handed).
+
+
+
+	Project
+	Cloud Metrics Generation Tools
+
+	Languages, Tools
+	Shell script, Python, Flask, HTML, JavaScript
+
+	Database
+	Mongodb
+
+	Descriptions
+	1. Checks all basic functionalities over cloud service components on daily basis and collects their performance data which helps to know about all components of cloud functionalities and their performance.
+2. The data collected above is stored into Mongodb and their graphs are plotted with help of Flask framework.
+
+	Project
+	Cloud Utilization Report Tool
+
+	Languages, Tools
+	Shell script, Apache, Python, Flask, HTML, 
+
+	Database
+	Mongodb
+
+	Descriptions
+	1. Generates utilization report for all resources over the cloud and gives the current status.
+2. Reports are generated in excel and Graphs.
+3. Graphs are generated using Flask framework and data’s are stored in MongoDb database.
+
+
+
+	Project
+	OpenStack Deployment over 250 nodes.
+
+	 Tools
+	MAAS, SALT(MK20)/Drivetrain, Decapod
+
+	Roles
+	1. Participated to add nodes in cloud.
+1.1.  Added bare metal nodes into cluster and deployed OS using MAAS.
+1.2. Did RAID configuration(RAID 1 & RAID 0) for OS and Storage 
+Services installation. 
+2. Once added to cluster deployed OpenStack services using MK20 tool.
+3. Deployed ceph node using Decapod tool.
+
+
+
+	Project
+	6 Months R&D experience on Client Site(Hitachi Bangalore)
+
+	 Technology
+	OpenStack, Zabbix, Nagios, Auto scaling, LBAAS, Heat,Python
+
+	Roles
+	1. Integration of Zabbix with OpenStack Cloud.
+2. Integration of Nagios with ceilometer metrics into openstack.
+3. Multiple challenging heat script for Murano catalogs.
+4. Auto scaling with heat and ceilometer.
+
+
+
+	Project
+	Deployed many Hadoop Cluster up to 350 nodes on Cloud.
+
+	 Technology
+	Hadoop (YARN), PIG, Hive, Sqoop, Zookeeper, HBase, ..
+
+	Roles
+	1. Deployment of all Hadoop echo system with help of SAHARA tool.
+2. Maintaining all echo system with their performance and tuning level.
+3. Addition and deletion of nodes as per requirements.
+4. Handling their jobs, port , anti-affinity and security levels.
+5. Data migration from one cluster to other using distcp toop.
+6. Migrated data from Mysql and Oracle into HDFS using sqoop.
+
+
+
+
+
+	Personal Profile :
+
+	Fathers Name:
+	Jayram Prasad Singh
+
+	D.O.B:
+	5th Jan - 1989.
+
+	Correspondence Address:
+	#501, Adriatica, D-Wing, Casario Gold, Palava City, Dombivali-East.
+
+
+	Languages:
+	English, Hindi.
+
+
+Declaration:
+                     I hereby declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particulars.
+DATE: - 								Signature
+Place: -                                                                                                                                (Pawan Kumar)	
+
+

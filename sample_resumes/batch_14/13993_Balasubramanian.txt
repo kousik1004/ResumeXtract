@@ -1,0 +1,398 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gaurav Muley
+
+Name: - Balasubramanian.P 
+
+
+
+Gmail
+: balakspb@gmail.com
+
+
+
+
+
+
+
+Mobile Number: +91 8870956562
+
+
+
+
+Objective :  Seeking a position to utilize my skills and abilities in the Information Technology Industry that offers professional growth while being resourceful, innovative and 
+flexible.
+Experience Summary: Presently working with Clover InfoTech Pvt. Ltd, Mumbai as a Technical Associate (Oracle DBA). Clover InfoTech is a leading technology services and solution provider. It is recognized as the CIO CHOICE 2015 for database solution support. Over all 3.6 years of experience as a Oracle Database Administrator on 9i, 10g, 11g,12c , maintenance  and Goldengate installation, configuration and  monitoring, Oracle Application Database Administrator on R12 etc.
+
+DBA Skills 
+	· Oracle 10g,11g,12c  Database Administration
+
+· RMAN Backup & Recovery
+
+· Oracle Data Guard
+· Golden gate installation and configuration
+	· EXP/IMP,EXPDP/IMPDP
+·  Unix Shell Script
+· Oracle EBS R12
+· Oracle Cloud solutions
+
+
+Employment Summary
+Clover Infotech : October 2014 to Till Date
+Client Details : 
+
+	         Organization
+	Designation
+	Employment Period
+
+	ICICI Bank Limited, Thane
+	Golden gate Administrator
+	March-2015 to August-2015
+
+
+
+	ING VYSYA Bank Pvt. Ltd Bangalore
+	Oracle APPS DBA 
+	September-2015 to September 2016
+
+	L&T Infrastructure Development Project Limited, Chennai
+	Oracle DBA
+	October-2016 to till date
+
+
+Project Details:
+Project 3
+Client
+
+: L&T IDPL
+Role
+
+: Oracle Database Administrator
+Team Size
+: 1
+Environment
+: 11g,10g
+OS
+
+: Windows
+Duration
+: October-2016 to till date
+
+Roles & Responsibilities:-
+
+•
+Worked as primary Oracle DBA for all 40 live databases with 24*7
+
+•
+Implementation and documentation of password policy for business users.
+
+• 
+Implementation and documentation of audit policies for user logon, logoff, DML, DDL operations by users
+
+•
+Managing and monitoring audit logs 
+
+•
+Purging audit logs on daily basis using scheduler jobs
+
+•
+Implemented daily health check-up script in database
+
+•
+Implemented database size report on regular basis
+
+•
+Monitoring Daily RMAN backup and configured RMAN logs for live databases
+
+•
+Restoring RMAN incremental backup in testing servers on monthly basis
+•
+Scheduling RMAN backups in OEM 
+•
+Creating indexes
+
+•
+Offline Index rebuilding and Gather stats
+•
+Generating AWR and ADDM report
+
+•
+Generating Explain plan and viewing the explain plan
+•
+Gathering table statistics
+•
+Planning Datagaurd implementation 
+
+•
+Importing data from Oracle database to MSSQL server using Microsoft Management Studio (SSMS)
+
+•
+Presentation on Oracle cloud solutions from existing infrastructure to new infrastructure along with Oracle team
+
+•
+Basics of Oracle cloud solutions IaaS, PaaS services 
+
+•
+Creating Cloud services in PaaS and IaaS
+
+•
+Installing Oracle database in cloud IaaS service
+
+•
+Connection to cloud database using SQL developer from local system and connecting to operating system cloud instance using Remote Desktop Connection
+
+Project 2
+Client
+
+: ING VYSYA Bank Pvt. Ltd
+Role
+
+: Oracle Apps DBA
+Team Size
+: 1
+Environment
+: R12 Single node with dataguard
+OS
+
+: Solaris, Windows
+Duration
+: September-2015 to September-2016
+Roles & Responsibilities:-
+
+•
+24x7 production database and application monitoring and support as primary Oracle application DBA
+
+• 
+Cloning of Oracle applications using Rapid Clone and data base clone using RMAN backup.
+
+•
+Refreshing database using RMAN hot backup
+
+•
+Scheduled Daily RMAN hotbackup and Logical backup
+
+• 
+Providing support to Technical and Functional Team
+
+• 
+Applying application patch using Adpatch Utility
+
+• 
+Using “ad” and “FND” utilities e.g. FNDCPASS for password management to manage the application
+
+• 
+Managing the space for achieve logs by purging archives after backup and table space for further grow
+
+• 
+Purging archive logs in DR server and monitoring space
+
+•
+Audit reports in DR database in read only mode
+
+• 
+Monitoring DR and production database sync on regular interval
+
+•
+Oracle application active user list report generation
+
+• 
+Providing solution for application issues to users
+
+• 
+Creating Oracle application userid’s and assigning responsibilities to users and Deactivating Oracle application userid’s
+
+• 
+Month end activity support to Technical and functional team
+
+• 
+Database maintenance activities like index rebuilding, Gather stats
+
+• 
+Daily task like purging application caches, BNE logs, concurrent logs, temp files at application side and purging audit logs, database trace file at database side
+
+•
+Migration activity support during ING VYSYA to Kotak Mahindra Bank
+
+Project 1
+
+Client
+
+: ICICI Bank Pvt. Ltd
+Role
+
+: Goldengate Administrator
+Team Size
+: 2
+Environment
+: 10g,11g,12c
+OS
+
+: Windows Server 2008R2, Sun Solaris, IBM AIX
+Duration
+: March-2015 to August-2016
+
+1)  Oracle Goldengate for Big Data Track
+
+Objective : 
+
+Replication of required tables from five production databases from five servers to two target databases of two servers  .
+Roles & Responsibilities:-
+
+• 
+Goldengate implementation for 7 core databases with live transactional data.
+
+• 
+Implementation of Goldengate in various environments like production, fallback and standby databases across various operating system like Windows server, Sun Solaris, IBM AIX.
+
+• 
+Goldengate configuration with initial load and CDC.
+
+• 
+Implementations done as Business requirements.
+
+•
+Monitoring Goldengate and troubleshooting Goldengate 
+
+•
+Goldengate installation Silent and GUI mode
+
+•
+Handling Goldengate processes during DR drill activity
+
+•
+Handling Goldengate processes during any server maintenance activity
+
+•
+Patching in Goldengate using Opatch 
+
+•
+Migrating Goldengate from one location to another location
+
+•
+24x7 support for ON LIVE Goldengate application
+2)  FCRM GoldenGate Implementation
+Objective : 
+
+Replication of required tables from all tables from FCRM production database to target database for reporting purpose.
+•
+Installation of Goldengate on various environment like Linux,Solaris,Aix.
+
+•
+Configuration of Goldengate  process for initial load and CDC .
+
+•
+Daily monitoring of Goldengate processes and target databases.
+•
+Handling Goldengate processes during any server maintenance activity.
+
+•
+Handling Goldengate processes during DR drill activity.
+
+•
+Configuration of existing Goldengate processes, if any new requirement is given
+
+•
+Troubleshooting of any issue.
+Education Details:
+B.Tech Information Technology 2014
+
+Bannari Amman Institute of Technology, 
+
+Score – 7.57/10
+
+12th,
+2010
+
+Sri Ragavendra Higher Secondary School – Sathyamangalam, Tamil Nadu
+
+Score – 89%
+10th,
+2008
+
+Government Higher Secondary School – Kavilipalayam, Tamil Nadu
+
+Score – 89%
+Personal Details:
+Name
+
+
+
+:Balasubramanian P
+Date of Birth
+
+
+:06-April-1991
+Nationality
+
+
+:Indian 
+
+Gender
+
+
+:Male
+Marital Status
+
+:Single
+Languages Known
+
+:Tamil and English
+Declaration:
+
+I hereby declare that the above information's are true to best of my knowledge.
+
+Place :  Chennai                                              
+
+
+
+
+          
+
+Date  :  26-05-2018                                                  
+
+
+(Balasubramanian P)

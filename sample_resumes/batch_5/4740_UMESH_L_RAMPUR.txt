@@ -1,0 +1,304 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AJAY
+
+UMESH L RAMPUR        
+ 
+
+SAP ABAP Consultant
+                     
+                   
+Objective
+
+Seeking a challenging career in SAP-ABAP technical consulting arena where I can contribute and augment my technical and functional knowledge.
+
+Professional Summary
+3 years of working experience in SAP ABAP programming. My experience includes involvement in developing 3 full cycles Implementation, 1 Support, and Data Migration & Roll out.
+· Expertise in DDIC, Classical, Interactive reports and ALV reports
+· Modified standard SAP Scripts, Smart forms as per client specifications
+· Worked on SAP Enhancements
+
+· Worked on ALE IDOC, Proxies 
+· Good knowledge in OOABAP
+· Familiar with SD, MM, FICO and PP
+· Worked in SAP R/3 systems with versions, EHP 5 , EHP 6, EHP7  S4HANA
+· Good working experience in client locations.
+ABAP Skill Set
+
+· ABAP/4 Reporting: Classical and interactive reports with ALV.
+· SAP Scripts: Worked on SAP standard scripts and SMARTFORMS.
+
+· Module pool Programming: Worked on all areas in screen programming.
+
+· BDC: Worked on Batch Processing Environment for transferring data to and from Legacy System and R/3 System.
+· BAPI: worked on bapi's and RFC's
+· Interfaces: Inbound and Outbound interfaces(IDOCS)
+· Data Dictionary: Database tables, Data element, Domain, Search Help and Lock Objects
+
+· Modularization Techniques: Subroutines, Function Modules
+
+· Standard program modifications: Customer exits, User Exits, BADI’s, and Enhancement points.
+
+Qualification
+· B.E in Electronics and Communication Engineering from VTU in 2015 JAN
+· Diploma in Electronics and Communication Engineering from DTE 2011 JAN
+Experience Summary
+· Working as ABAP Consultant in Zieta Technologies Pvt, Ltd, Bangalore from Jan-2015 to till date.
+Project 1 Summary:-
+Client
+
+: JBF
+Project Type      : Implementation (S4HANA)
+Position 
+: ABAP Consultant
+
+Duration
+:  June 2017 till date
+JBF Industries Ltd. stands on a gleaming pinnacle of success as an industry leader in
+
+the Polyester Industry value chain today.
+
+Established in 1982, JBF Industries was founded by Mr. Bhagirath Arya as a Yarn Texturising company,
+
+and since then has backward integrated into manufacturing Partially Oriented Yarn (POY),
+
+Polyester (BOPET) Film and also various types of Bottle grade,
+
+Film grade and Textile grade Polyester chips.
+Roles & Responsibilities :-
+· Requirement taking 
+
+· Object development and review 
+
+· Code review as per standards.
+
+· Development of Technical specification documents for the developments assigned.
+
+· Conducting Unit Testing
+
+· Estimating the requirement effort.
+
+Contribution:-
+
+· Working on dumps and trace, Performance tuning
+
+· Developed Form for Delivery challan(STO,JOB WORK)
+· Enhancement in MIGO_GR to Trigger mail to PR owner
+· Developed reports which are helpful to higher management to analyse production capacity 
+
+· Customer master and Vendor upload which is new in ECC 7 (S4H) called as business partner 
+· Custom t-codes for capture Gate entry inward and outward 
+
+· Enhancement in ODN no generation as per client requirement in FB01,FB65,FB75,FB50  
+· Enhancement in va01 to restrict the quantity with respect to value contract  
+
+· Added fields in MB52 stock report
+
+· Enhancement in QA32 user decision screen to automation of transfer posting and transfer order
+
+Project 2 Summary:-
+Client
+
+: AMS
+
+Project Type      : Implementation (S4HANA)
+Position 
+: ABAP Consultant
+
+Duration
+:  September 2016 to April 2017
+AMS: - Ace Manufacturing Systems Ltd., is one of the largest CNC machine tool builders in India today. The company has expertise in manufacturing of CNC vertical machining centres, CNC horizontal machining centres and in providing manufacturing solutions cantered around these products. The company was started in the year 1994 and has been able to install over 8000 machines locally and globally in total ever since
+Roles & Responsibilities :-
+· Requirement taking 
+
+· Object development and review 
+
+· Code review as per standards.
+
+· Development of Technical specification documents for the developments assigned.
+
+· Conducting Unit Testing
+
+Contribution:-
+
+· Working on dumps and trace, Performance tuning
+
+· Developed form for SD MM PP module like TAX invoice, export invoice, packing list, material issue list, material return list PO forms 
+
+· Enhancement in CS01 to add % field with component which is automatically fetched while creating production order in settlement rule
+
+· Developed reports which are helpful to higher management to analyse production capacity
+· Developed reports for base build and final assembly planning of machines 
+
+· Customer master upload which is new in ECC 7 (S4H) called as business partner 
+
+· Custom t-codes for capture labour hour and PO operation confirmation with report and print 
+
+· Developed conversions for vendor master, alternative BOM upload etc.
+· Developed  custom T-code for sale order approval strategy 
+Project 3 Summary:-
+Client
+
+: WFB
+
+Project Type      : Implementation
+Position 
+: ABAP Consultant
+
+Duration
+:  July 2016 to Sep 2016
+WFB: - Headquartered in Kakinada, Kerala India, WFB is the leading marketer of 
+Textiles and other related products  
+Roles & Responsibilities :-
+· Object development and review of the development requests assigned.
+
+· Code review as per standards.
+
+· Development of Technical specification documents for the developments assigned.
+
+· Conducting Unit Testing
+Contribution:-
+
+· Developed commercial invoice, Performa invoice, invoice
+· Developed FI related Vouchers forms
+· Developed module pool program for  creating sales order for multiple customers
+· Enhanced FBCJ t-code to restrict credit limit for particular customers
+· Developed Inventory report which is having data both of AFS and ISR client 
+· Developed IDOC for sending material from one to other clients through BD10 and created variants based on size and grid 
+· Development to send mail with attachment of pick list while saving delivery to sales order creator
+
+· Development to send mail with attachment of commercial invoice while saving invoice to delivery creator
+· shop floor forms related to PP module like yarn dying  etc
+Project 4 Summary:-
+Client
+
+: DAP
+
+Project Type       : Implementation
+Position 
+: ABAP Consultant
+
+Duration
+: January 2015 to Feb 2016
+
+DAP:- Headquartered in Baltimore, Maryland, DAP is the leading marketer of caulks, sealants, adhesives, insulating foams, sparkling, glazing, and other general patch and repair products.
+Roles & Responsibilities :-
+· Object development and review of the development requests assigned.
+· Code review as per standards.
+
+· Development of Technical specification documents for the developments assigned.
+
+· Conducting Unit Testing
+
+Contribution:-
+
+· Working on dumps and trace, Performance tuning
+
+· Developed SD forms like Invoices, Memo’s, Bill of lading, Master BOL
+· Developed additional forms like NAFTA, CAFTA,IMO DG
+· Developed Report with back ground job for TR to TO for 941 
+· Developed module pool program for DG Text entries 
+
+· Enhanced screen in sales order for display DG Goods and checking logic and block the scheduled lines for EHS
+· Enhanced Sales Order Creation (VA01) such that Customer PO price compared with standard price at header level and update Billing Block and Delivery Block
+· Enhanced Sales Order Creation (VA01) such that Customer material info record is picked based on ship to party, if no relevant material is available then picked based on sold to party
+· Enhanced Sales Order Creation routines for free goods, and additional material  
+· Enhanced delivery creation such that custom logic for generation for BOL Number
+
+· Enhanced shipment creation such that custom logic for generation of MBOL Number
+· Extended IDOC of basic types: DELVRY07, SHPMNT06
+
+· Developed code for outbound and inbound proxies for INT222 interface 
+
+· Enhanced MM01 for DG text checking from custom table in classification tab
+
+· Developed Reports on open sales orders, invoice, credit and debit, commercial invoices etc
+· Developed smart form for shop paper etc.
+Support projects Summary:-
+Client
+
+: AMUL
+
+Project Type       : Support
+Position 
+: ABAP Consultant
+
+Duration
+: Feb 2016 to July 2016 and Aug 2017 to oct 2017
+· AMUL: - Headquartered in Tripura India. Leading marketer of men and women garments, kids wears Manufacturers. 
+
+Roles & Responsibilities :-
+· Object development and review of the development requests assigned.
+
+· Code review as per standards.
+
+· Development of Technical specification documents for the developments assigned.
+
+· Conducting Unit Testing
+
+Contribution:-
+· Changed production order forms
+
+· Changed SD forms such as Picking and Packing slips
+· Enhanced Me22n for to restrict change in order QTY and change in scheduled lines and enhanced over view for component to put Batch no as per Custom Transaction
+
+· Developed custom screens to transfer post and goods issue of materials 
+
+· Developed GRN report for MM Module
+
+· Changed standard scripts as per customer Requirement’s
+
+· Changed custom developments for GST implementation 
+
+· implemented snote for GST 
+
+Personal Details:-  
+Contact No: 91-8792708706
+Email: urampur@gmail.com
+
+DOB:  25/10/1991
+

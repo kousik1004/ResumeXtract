@@ -1,0 +1,409 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - RavitejaVibhuti.docx
+
+
+ 
+ 
+
+RAVITEJA VIBHUTI 
+ 
+
+E-Mail : rvteja45@gmail.com 
+ 
+
+Contact No : +91 9032395097 
+ 
+
+PROFESSIONAL SUMMARY 
+ 
+
+• Having 3.8 years of experience in Server/Client side Programming 
+
+development by using Java API and related technologies. 
+
+• Good at understanding Software Development Life Cycle (SDLC) 
+
+process in the areas of Analysis, Design, Implementation and Testing 
+
+of Software Applications using Java/J2EE technologies. 
+ 
+
+• Hands on experience in J2SE,Servlet and JSP. 
+  
+
+• Expertise in using JDBC and Hibernate for DB interactions in persistence 
+layers. 
+
+ 
+• Exposure to databases like Oracle & MYSQL. 
+
+ 
+• Good knowledge of Java and J2EE. 
+
+ 
+• Hands on experience in using Application and Web servers like 
+
+Tomcat. 
+ 
+
+• Experience of working in a services oriented architecture and web 
+based development. 
+
+ 
+• Hands on experience in application development using Hibernate and  
+
+Spring IOC frameworks. 
+ 
+
+• Expertise in Object-Oriented Programming/ Development and Design skill. 
+ 
+ 
+
+EDUCATIONAL QUALIFICATION  
+Degree Board / University Year of pass Aggregate 
+B.Tech J.N.T.U Hyderabad. 2014 78 
+
+Intermediate Board of 2010 85 
+ Intermediate   
+ Education (A.P)   
+
+SSC Board of Secondary 2008 80 
+ School Education   
+ (A.P).   
+
+
+
+ 
+SKILL SET  
+Programming Languages Java. 
+
+Java Technologies JavaSE, JavaEE. 
+
+Web Technologies HTML,XML, Servlet, JSP. 
+
+Frameworks Spring IOC, Hibernate 
+
+Database Oracle, MySql. 
+
+Web Server Tomcat 
+
+Scripting JavaScript 
+
+IDE Eclipse, Netbeans, Myeclipse 
+ 
+ 
+
+WORK EXPERIENCE 
+ 
+
+Working as Software Developer in CloudIO Inc. from Dec, 2014 till date. 
+ 
+ 
+
+PROJECT SUMMARY 
+ 
+
+Project # 1 
+ 
+
+Project 
+
+ 
+ 
+: WarehouseConnectWeb 
+  
+
+Team size 
+ 
+: 5 
+ 
+
+Role 
+ 
+: Team Member. 
+ 
+
+Duration 
+ 
+: Feb 2017 to Till Date. 
+ 
+
+Environment 
+ 
+: J2SE, JSP, Spring, Tomcat, Oracle 10g. 
+ 
+
+Tools 
+ 
+: Git, Log4j, SVN. 
+ 
+
+ 
+Project Description: 
+
+ 
+WarehouseConnectWeb is an enterprise application for one of the Largest 
+
+Wholesale Grocers in US, where it consists of the linking of products and services of 
+Different Warehouses.  
+
+This project consists of maintenance of different warehouses and the 
+employee shifts including their Daily activities, Time entries and their wages 
+distribution according to the hours worked. 
+
+ 
+1. Warehouse Management.  
+2. Workers  Shift and Wages Management  
+3. Data Management between different Warehouses 
+
+
+
+ 
+Responsibilities: 
+
+ 
+ 
+
+Involved in the Analysis, Design, Coding, modification and implementation of 
+
+user requirements. 
+ 
+
+Followed SCRUM Agile process for the development of the application 
+ 
+
+Involved in Client interaction on regular basis to understand the 
+Business of the Client. 
+
+ 
+Involved in the development of resource layer, process layer and Integration 
+
+layer in provider side 
+ 
+
+Developed User defined Exceptions for each request and response. 
+ 
+
+Implemented Spring IOC for delegating the process layer request to 
+Integration layer. 
+
+ 
+Used Spring JDBC/ORM  to integrate Spring Framework with Database. 
+
+ 
+
+ 
+Project # 2 
+
+ 
+Project 
+
+  
+: QA Scanner 
+ 
+
+Team size 
+ 
+: 12 
+ 
+
+Role 
+ 
+: Team Member. 
+ 
+
+Duration 
+ 
+: June 2015 to Jan 2017. 
+ 
+
+Environment 
+ 
+
+: J2SE, JSP, Spring, Tomcat, Hibernate, Oracle 10g. 
+ 
+
+Tools 
+ 
+: Git, Log4j, SVN. 
+ 
+
+Project Description: 
+ 
+ 
+To provide the details about the Product which is scanned through the QA scanner device. 
+After scanning fetching the product details and displaying them. Adding the products to 
+Cart and proceeding with the regular Order Procurement cycle. 
+
+
+
+ 
+Responsibilities: 
+
+ 
+ 
+
+Involved in the Analysis, Design, Coding, modification and implementation of 
+
+user requirements. 
+ 
+
+Followed SCRUM Agile process for the development of the application 
+ 
+
+Involved in Client interaction on regular basis to understand the 
+Business of the Client. 
+
+ 
+Involved in the development of service layer, process layer and Integration 
+
+layer in provider side. 
+ 
+
+Developed User defined Exceptions for each request and response. 
+ 
+
+Implemented Spring IOC for delegating the process layer request to 
+Integration layer. 
+
+ 
+Used Hibernate to integrate the application with Database. 
+
+ 
+Project #3 
+
+ 
+ 
+
+Project. 
+ 
+
+Team size 
+ 
+
+Role 
+ 
+
+Duration 
+ 
+
+Environment 
+ 
+
+Tools 
+
+ 
+ 
+ 
+: You First Order Management 
+ 
+: 5 
+ 
+: Team Member. 
+ 
+: December 2017 to Till Date. 
+ 
+: J2SE, JSP, Tomcat, Jdbc, Oracle 10g. 
+
+ 
+: Git, Log4j, SVN. 
+
+ 
+ 
+
+Project Description: 
+ 
+
+You First is a customer based order management project which allows 
+the customer to create a order 
+by entering the customer details populated by default by the login 
+customer and generates the order 
+
+ 
+after entering the lines directly without providing any 
+customer details or order details. As per the 
+login customer the customer and order details are defaulted by using the 
+
+Customer Login details. 
+
+
+
+ 
+ 
+ 
+ 
+
+Responsibilities: 
+ 
+
+Involved in the Analysis, Design, Coding, modification 
+and implementation of user 
+
+ 
+requirements. 
+
+ 
+Followed SCRUM Agile process for the development of the application 
+
+ 
+Involved in Client interaction on regular basis to understand the Business 
+
+of the Client. 
+Involved in preparing XSD, WSDL and Data Mapping Sheet. 
+
+ 
+Involved in the development of service layer, process layer and 
+
+Integration layer in provider 
+ 
+
+side. 
+ 
+
+Developed User defined Exceptions for each request and response. 
+ 
+
+

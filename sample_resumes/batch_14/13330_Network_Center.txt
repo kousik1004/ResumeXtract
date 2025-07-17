@@ -1,0 +1,234 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Experience Summary: 
+Experience of over 2.5 years in I.T Industry in NOC (Network Operations Center), L1 Windows and Network support and an experience of 1.5 years in Mainframe Batch monitoring and incident management. Skilled in Windows administration and support. Completed training for MCSE. Pursuing examinations
+Knowledge in:
+Installing windows server 2012, DHCP – Deployment and configuration, DNS – Forward and reverse lookup, primary/secondary/stub zone, forwarders, root hints, caching only DNS, Dynamic DNS, Installing Active Directory domain controllers, Active Directory user, group, OU management, Create and manage Group Policy objects (GPOs), Deploy and manage Windows Deployment Services (WDS) Install and configure Windows Server Update Service (WSUS), Configure NAT Configure VPN, Configure Network Load Balancing (NLB), Configure failover clustering
+Personal Details:
+	Name
+	Bhupendran A
+
+	Date of Joining
+	10/28/2014
+
+	Passport Info
+	Valid From
+	Valid Till
+
+	
+	N/A
+	N/A
+
+	Visa Info
+	Type of Visa
+N/A
+
+	Visa Validity
+	Valid From
+	Valid Till
+
+	
+	N/A
+	N/A
+
+	Relocation Preferences
+	1. Chennai
+2. Bangalore
+
+
+
+
+	Education 
+1. B.Tech in Computer Science and Engineering ( Full time )
+Training and certifications
+1. Completed full training on Microsoft Certified Solutions Expert and currently pursuing exams.
+2. Administering Windows Server 2012
+3. Installing and Configuring Windows Server 2012
+4. Installing ESXi and virtual machines, configuring Openfiler (storage)
+5. VM Snapshots
+6. Cognizant Certified Professional in ITIL & Process Space.
+
+
+
+
+
+
+
+
+
+
+	Operating Systems
+	Windows XP/200/Win 7, Windows Server 2008,  Windows Server 2012 R2.
+
+
+
+
+	Other tools
+	Nimsoft Monitoring Tool, Service Now, Solarwinds, Altiris, VMware VSphere client, Cisco Integrated Management Console, Citrix Receiver, CommVault, Cloud App Synthetic Monitor, Enterprise Vault Client, Bomgar, ESP Mainframe job scheduler
+
+
+
+	Technical Skills 
+1. Installing and Configuring Windows Server 2012
+2. Administering Windows Server 2012
+3. Configuring Windows Server 2012 Services
+4. Network Monitoring
+5. Symantec Enterprise Vault Administration & Support
+6.  Event ID / log-based monitoring, 
+7.  DNS, DHCP, Symantec Enterprise Management,
+8.  IT Networking/Server/ Website/Desktop Troubleshooting, 
+9. MS Outlook, Office 365
+
+
+
+
+
+
+
+
+
+
+
+
+
+Professional – Project Experience 
+Worked as a team member and shift lead in Travel and Hospitality domain
+Worked as a team member in PnR
+3.8 years of experience
+
+	Current employer’s name: Cognizant
+
+	Duration
+	From  10/28/2014 Till Date
+
+	Technology
+	Network and Operations Center (NOC) – L1 Windows/Network support
+Mainframe Batch support and Operations – L1 Mainframe Support
+
+
+
+
+
+
+Project #1 - 
+Manage and provide L1 support for Servers /Network/Applications. Handle outage calls for critical tickets. End-user desktop troubleshooting and support, Enterprise Vault storage support (end-user)
+Roles and Responsibilities:
+· Monitoring different towers
+· Servers (Nimsoft)
+· Network devices(Solarwinds)
+· Applications (CA APP)
+
+· Part of Global Escalation desk
+· To drive/handle outage calls and notify the leadership team through management notifications.
+· Enterprise vault, citrix, network issues
+· End user support in providing l1.5 support regarding Enterprise vault, citrix, network issues
+· Incident Management
+· To make sure the critical and high tickets are acknowledged by concern tier2/tier 3 teams. To call on-call if necessary 
+· Server status/health check
+· To send various reports of critical server’s status to concern team and report immediately in case of issue.
+· Server Services start and stop and issues
+· To perform server services, start/stop as required by the different application teams.
+· Reboot servers as per request in VSphere client (virtual servers)
+· Engage local support if servers need physical reboots.
+· To work on server related auto-tickets generate by monitoring tool in case of cross of any defined threshold. (Ex. Server hung. Reboots. To check network connections, to find connection drop, check bandwidth on NLB and report, change static IP for servers,)
+
+· Patching
+· To perform pre-patch activity to have all the critical servers checked for disk spaces for new updates/patches.
+· To download and deploy Microsoft monthly Pilot and Production patches to servers as per patch policy and requirement mentioned by client.
+· Tool used: Altiris 
+· Management notices 
+· To send notifications for outages to leadership teams
+· To send monthly outage report to client and explain how the outages are resolved in monthly call.
+· To work on daily report for Disk clean ups/ anti-virus updating
+· End-user support
+· To escalate/resolve user related ticket/queries/issues based on Enterprise vault, citrix and VMware remote desktop, application and outlook issues.
+
+
+Project #2 –Mainframe Batch support and Monitoring (02/13/2017 – Till Date)
+Supporting Mainframe and Batch operations, Monitor batch jobs, Incident management, upload/edit datasets
+Roles and Responsibilities
+Experience in monitoring batch jobs, supporting job failures within scope
+Batch monitoring
+· To monitor critical batch jobs of different applications running in Mainframe
+· Use of QWS3270 to monitor jobs. Filters for critical jobs set and monitored
+· Report tier2/ tier 3 team as per escalation process in case of job failure
+
+Batch Operations
+· To fix jobs failures which ABENDS with SQLCODE errors
+· To fix history job failures
+· To fix contention issues
+· To start stop transactions run in mainframe systems and monitor queue counts
+· To check RMDS reports and to restart jobs based on restart card instructions
+· To provide support for printers configured in Tandem systems, to re-route network traffic, send test prints
+· Edit/upload datasets with correct data and restart jobs
+· Backup datasets
+
+Incident Management
+· To call on-call (application teams) in case of critical and high ticket to make sure response SLAs are meet.
+· Document tickets with KB and steps handled
+· Ticket audits done for incidents resolved to improve accuracy
+· To check and report on FLA and hop-counts of critical and high incidents    
+
+
+
+	Previous employer : N/A
+
+	Duration
+	NA
+
+	Technology
+	NA
+
+	Role
+	NA
+
+
+
+

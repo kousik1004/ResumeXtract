@@ -1,0 +1,503 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curriculum Vitae
+
+	
+	
+
+
+
+	SAP ABAP 
+	                                                                                                                        Ela Pandey
+Mob no:- +91-7007632421 /8800292403
+elapandeyabap@gmail.com 
+
+
+Professional Summary
+
+· Over 10 years of IT Experience in ERP using SAP R/3 ABAP/4 programming as a Sr. SAP ABAP Consultant and Technical Lead with excellent organizational skills and proven track record building positive relationships with stakeholders, client and colleagues at all levels in an organization. 
+
+· 2 Upgrade project and involved in 2 Rollout project and also involved with 1 support projects.
+· Experience in working with different Vertical Centric like Production, Manufacturing, Media and Entertainment.
+· Experience in handling Onsite client.
+· Leading entire project spanning various phases of software development lifecycle such as user requirements analysis, technical specification design, coding, modifications, code reviews, testing, performance tuning etc.
+
+· Managing the deployment phase of large scale projects/ program of varying complexity and accomplishing project fielding on time and within budget. 
+
+· ABAP Skills: FRICE (Forms, Report, Interfaces, Conversion, Enhancements).
+· Extensively worked on transaction SPRO.
+
+· Good Understanding of both Business Processes & Technical Development.
+· Qualification: Bachelor of Technology (B.Tech) in Computer Science (CS) from ABES Engineering College.
+
+Key Skills and Expertise
+
+	ABAP
+
+	· Basic and Interactive Reports
+· Enhancements and Modifications
+
+· BAPI, RFC and Function Module
+
+· Creating and Maintaining Data Dictionary Objects (Tables, Search Helps, Lock Objects, Structures, Data Elements, Domain)
+
+· Smart forms
+
+· ALV Programming
+
+· Debugging
+
+· Exception and Error Handling   
+
+· BDC.
+· Web services
+
+· User Exit and BAdi’s
+
+· SAP ABAP to xml Code.
+· SAP ABAP HTML Reporting.
+
+· SAP ABAP Query Development.
+
+
+	Functional Skills
+
+
+
+	· Relevant understanding of SAP MM (Material Management ) and SD ( Sales and Distribution ) module.
+
+
+
+
+Working Experience
+
+	Sep 2015 - Till Date
+	BCCL - Times OF India Group
+Sr. SAP ABAP Consultant           
+	
+
+	Roles & Responsibilities:
+
+· Interacting with Functional and Technical team to resolve the issues in the given objects.
+
+· Responsible to monitor all ABAP (RICEF) developments.
+
+· Analyzing the Functional Inputs.
+
+· Interacting with Functional consultant and helping them to create the Functional specification.
+
+· Collaborated with users to ensure business requirements were being met and providing feedback to the functional team.
+
+· Ensuring a high quality solution for all the delivered objects within the schedule time. 
+
+· Assigning objects for development to my ABAP programmer and review their assigned developments.
+
+· Resolved performance issues.
+
+· Developed the Technical specification documents for the developments assigned.
+
+· Layouts, reports, BDC, BAPI, BTE's, Enhancement, User Exit and BADI's development.
+
+· Development of Complex Module Pool Program, required for "Call Center" to create order and Check the availability of equipment’s, implants and support person.
+· RFC's Creation.
+
+· Forms, Report, BDC, BAPI, , User Exit and BADI's development.
+
+· Developed RFCs .
+· Development of Technical specification documents for the developments assigned.
+
+· Review coding and created unit test plans for the objects developed.
+
+· Ensuring a high quality solution for all the delivered objects to the client within the schedule.
+
+	
+	Usha International Limited, Gurgaon
+Sr. SAP ABAP Consultant            
+	
+
+	Oct 2010–Sep 2015
+	hnical lead
+
+
+	
+
+
+	Roles & Responsibilities:
+
+· Interacting with Functional and Technical team to resolve the issues in the given objects.
+
+· Resolved performance issues.
+
+· Developed the Technical specification documents for the developments.
+· Layouts, reports, BDC, BAPI, User Exit and BADI's development.
+
+· Development of Complex Module Pool Program, required for "Call Center" to create order and Check the availability of equipment’s, implants and support person .
+
+· RFC's Creation.
+
+· Forms, Report, BDC, BAPI, User Exit and BADI's development.
+· Developed RFCs for Dealer provided support for the same.
+
+· Done Unit Testing.
+June 2007-Oct 2010                   Mawana Sugars Limited, Gurgaon                                       
+
+SAP ABAP Consultant            
+
+Roles & Responsibilities:
+
+· Responsible for new developments as well as for the modifications required in the existing reports and programs.
+
+· Developed numerous ABAP-Reports for SD, HR, and FI Modules like Joining Detail, PF Detail, Customer Detail, Purchase Register, CTC Reports, and Payment for Services etc.
+
+· Requirement gathering and understanding business processes for developing the required reports.
+
+· Understanding functional specifications for module specific ABAP development and enhancements. 
+
+· Developed numerous BDC’s for Transaction –PA30/PA40 like info-types: 0006.
+
+· Developed BAPI for Tcode ME21n, MIGO, and MIRO, KO01.
+
+· Developed BADI for MIGO.
+Academic Qualification: 
+  Academic
+
+    Board
+
+     Year
+
+     Div
+
+     %age
+
+High School
+
+U.P. Board
+
+2000
+
+1st 
+
+74.80%
+
+12th
+
+U.P. Board
+
+2002
+
+1st 
+
+75.06%
+
+B.Tech
+
+U.P.T.U.
+
+1st 
+
+1st 
+
+72.03%
+
+2nd 
+
+1st 
+
+74.04%
+
+3rd 
+
+1st 
+
+77.00%
+
+4th 
+
+1st 
+
+83.50%
+
+
+	
+	
+
+
+Personal Detail
+
+Date of Birth:         09 March 1985
+Marital Status:        Married
+
+Present Address:    Azure Tower Super-tech , Sector 34, Noida.
+Project details
+	Customer Name
+	Mawana Sugars Limited
+
+	Duration
+	Jun 2009 – Oct 2009
+
+	Customer Profile
+	MAWANA SUGARS LTD is a leading Sugar manufacturing Company.
+
+	Project Profile 
+	Project Name :  Upgrade ECC-6 – High Sky .
+
+This was an Upgrade Project from ECC 4.7B to ECC 6.0. Our team’s activities consisted of resolution of nodes/issues during SPDD and SPAU phases, Transport  issues, application of SAP notes via SNOTE.
+
+The 2nd part consisted of code quality checking using tools like EPC and code remediation.
+
+	My Contribution 
+	SPAU and SPDD Monitoring. 
+
+Removal of obsolete statements by checking through the code inspector or EPC.
+
+Code Fixing in Customize Objects.
+
+
+	Customer Name
+	Mawana Sugars Limited
+
+	Duration
+	Oct 2009 – May 2010
+
+	Customer Profile
+	MAWANA SUGARS LTD is a leading Sugar manufacturing Company.
+
+	Project Profile 
+	Project Name :  NAGROLL .
+
+This was an Rollout Project for Distillery Plant .
+
+· Project Initial Preparation
+
+· Business Blueprint
+
+· Realization
+
+· Final Preparation
+
+· Golive And Support
+
+	My Contribution 
+	Understand Functional specification & if any queries, get it clarified
+
+· Prepare the Technical Spec based on Functional spec
+
+· Get the Technical spec reviewed & do rework if any
+
+· Start with the development of objects
+
+· Follow all Development/coding guidelines & processes
+
+· Develop the code
+
+· Unit testing
+
+· Send it for review
+
+· Rework to be done, if any
+
+
+	Customer Name
+	Usha International Limited
+
+	Duration
+	Jan 2011 – Nov 2011
+
+	Customer Profile
+	Usha International Limited is a Leading manufacturing Company of Fans, Sewing Machines, Home and kitchen appliances, automotive components.
+
+	Project Profile 
+	Project Name :  China001 .
+
+This was an Rollout Project for New China Plant of  USHA .
+
+· Project Initial Preparation
+
+· Business Blueprint
+
+· Realization
+
+· Final Preparation
+
+· 5.Golive And Support
+
+	My Contribution 
+	Understand Functional specification & if any queries, get it clarified
+
+· Prepare the Technical Spec based on Functional spec
+
+· Get the Technical spec reviewed & do rework if any
+
+· Start with the development of objects
+
+· Follow all Development/coding guidelines & processes
+
+· Develop the code
+
+· Unit testing
+
+· Send it for review
+
+· Rework to be done, if any
+
+
+	Customer Name
+	Mawana Sugars Limited
+
+	Duration
+	Jan 2011 – Sep 2015
+
+	Customer Profile
+	MAWANA SUGARS LTD is a leading Sugar manufacturing Company.
+
+	Project Profile 
+	Project Name :  SupportMSW .
+
+This was a Support Project .
+In this Project we are just receive the tickets, solve and send back to client.
+
+	My Contribution 
+	Need to check the tickets.
+
+· Based on priority find the bugs and rectify.
+
+· Check the jobs that daily execute, If any failure then re-execute that with proper inputs...
+
+· Update the status in tickets
+
+
+	Customer Name
+	Usha International Limited
+
+	Duration
+	Jan 2015 – Sep 2015
+
+	Customer Profile
+	Usha International Limited is a Leading manufacturing Company of Fans, Sewing Machines, Home and kitchen appliances, automotive components.
+
+	Project Profile 
+	Migration Project HANA
+
+This was a Migration Project .
+
+In this Project we are just Using HANA Studio for Modeling.
+
+	My Contribution 
+	· Need to check Requirement.
+· Create Attribute view and develop the report as per business requirement.
+· done Unit Testing.
+
+· Transport and Setup Production Setup. 
+
+
+	Customer Name
+	Bennett Coleman & Co. Ltd.
+
+	Duration
+	Sep2015-Till Date
+
+	Customer Profile
+	BCCL – Times Of India Group - BCCL is India's most diversified media company with brands across publishing,television,internet,radio & outdoor domains. 
+
+	Project Profile 
+	Working on automation of all manual processes into SAP solutions and internal processes, like DRR’s (Daily Revenue Report’s) for higher management of organization, Integration of SAP & Java.
+
+	My Contribution 
+	· Interacting with Functional and Technical team to resolve the issues in the given objects.
+
+· Responsible to monitor all ABAP (RICEF) developments.
+
+· Analyzing the Functional Inputs.
+
+· Interacting with Functional consultant and helping them to create the Functional specification.
+
+· Collaborated with users to ensure business requirements were being met and providing feedback to the functional team.
+
+· Ensuring a high quality solution for all the delivered objects  within the schedule time. 
+
+· Assigning objects for development to my ABAP programmer and review their assigned developments.
+
+· Resolved performance issues.
+
+· Developed the Technical specification documents for the developments assigned.
+
+· Layouts, reports, BDC, BAPI, BTE's, Enhancement, User Exit and BADI's development.
+
+· Development of Complex Module Pool Program, required for "Call Center" to create order and Check the availability of equipment’s, implants and support person .
+
+· RFC's Creation.
+
+· Forms, Report, BDC, BAPI, , User Exit and BADI's development.
+
+· Developed RFCs For Dealer Provided support for the same.
+
+· To extract all the incorrect posting that has been done in to the SAP system for last six months.
+
+· Development of Technical specification documents for the developments assigned.
+
+· Review coding and created unit test plans for the objects developed.
+
+· Ensuring a high quality solution for all the delivered objects to the client within the schedule.
+
+
+I hereby declare that all the information provided here are true to the best of my knowledge.
+
+Date:
+
+Place:
+NEW DELHI  
+  
+
+
+                (ELA PANDEY)
+
+	
+	Ela Pandey
+	Page 3 of 5
+
+
+
+

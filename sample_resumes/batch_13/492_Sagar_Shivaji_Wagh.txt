@@ -1,0 +1,290 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+Sagar Shivaji Wagh
+SAS Consultant
+Email: sagarwagh.sas@gmail.com
+Phone: 9049106936
+
+Professional Summary
+	
+· Over 4.2 years of core software development experience in Business Intelligence Application Development and Reporting Portal Development. Worked as SAS DI developer and SAS Consultant
+· Technical design of ETL components using SAS Data integration studio.
+· Experience in AML as AML Developer and SAS DI Developer in the field of  watch-list screening and transaction monitoring process.
+· Experience on various BASE SAS procedures like Proc Means, Proc Summary, Proc Append, Proc Tabulate, Proc Import, Proc Export, Proc Contents, Proc Format, Proc SQL, Proc Univariate, Proc Sort, Proc Print, Proc Report, Proc Copy etc.
+· Good knowledge of SAS Functions, Formats and Informats.
+· Have a proficiency in using MACRO – Macro Function, Macro Statements. Proficiency in using _NULL_.  
+· Working knowledge with parallel processing.
+· Experience in extracting, transforming and loading source data into the SAS environment from multiple sources.
+· Trained in various data management skills like Merging, Handling missing values, Reading raw data files, Handling programming errors, Accessing and Managing data.
+· Good knowledge about the DEPLOYING JOBS (SAS Management Console)
+· Proficiency in SCHEDULING and DISTRIBUTE web reports, scheduling jobs in DI.
+·  Experience to handle large data, coded effectively for scalable data using Pass through queries, Hash Table, parallel processing etc.
+· Considerably experience in Data Merging, Data Sub setting with the use of MERGE and SET statements.
+· Formatted HTML, PDF and RTF reports, using SAS - output delivery system ODS.
+· Working with Information Map and Web Report Studio too.
+· Expertise in working with SAS DI Transformations Append, Extract, Table Loader, Lookup, Data Validation, SQL Join, Surrogate Key Generator, Loop, SCD Type 2, File Reader, File Writer, Sort, Splitter and User written Transformations.
+
+Objective
+To contribute strong technical skills and experience in the field of SAS® Programming and its associated business intelligence tools.
+Employment Details
+· Worked as a SAS DI/BI Developer with WNS from September 2013 to Nov 2017.
+· Working as SAS COUNSELTANT with Nupeak IT solutions from December 2017 to till date
+
+ Qualification
+· Bachelor of Computer Applications- Sangamner College, Sangamner from Pune University.
+
+Key Competencies & Skills
+
+	· SAS/BASE
+	· SAS Web Report Studio  
+
+	· SAS DI Studio
+	· Advance SAS
+
+	· SAS EG
+	· SAS Information Map Studio 
+
+	· SAS Management Console 
+	· SAS Information Delivery Portal 
+
+	· SAS Stored Process 
+	· Windows XP
+
+	· SAS AML
+	· Linux OS environment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Experience
+
+	Project Title
+	   Antiy money laundering.
+
+	Period
+	   Dec.-2017 to till date.
+
+	Description
+	Project has Core Requirements is to implement the AML solution for complying with the regulatory requirement of watch-list screening and transaction monitoring process. This process describes the requirements for generating and analyzing the alerts that will be generated in the SAS AML monitoring system.
+
+	Role
+	SAS DI Developer/SAS AML Developer.
+
+	Responsibilities
+	I have worked as Team Member and my responsibility as included:
+· Worked as SAS DI Developer responsible to develop ETL jobs using SAS Data integration studio
+· Also involved in the AGP And PREP creation process. And also manage the AML front-end system.
+· Involved in transaction monitoring process. To analysis the customer requirements and to initiate into AML process.
+· I have experience in customer screening, For customer screening (watch-list screening) we have generate the separate alert generation module by using SAS DI Studio.
+· Involved in development of ETL Job, Extracting data from the multiple sources (PSV, CSV,  Oracle10g) using SAS/Access, SAS SQL procedures and creation of SAS data sets, Transforming  them according to the business requirements and loading of data in FCFCORE to the appropriate data sets using various DI Transformations.
+· Used file reader, Splitter, SQL join, Table loader, Data validation, Lookup, SCD type 2, Surrogate key generator, Extract, Loop transformations Append transformations.
+· Deploying, Scheduling and monitoring of jobs, developed job flows using management console. 
+· Responsible for registering source and target libraries, used change management system, Created project repositories in development, involved in moving metadata from development environment to QA environment using .spk files.
+· Created custom transformations, Parameterized job, Run jobs in parallel.
+· Interacting with the Business Team to understand their requirements and then creating SAS DI jobs, validating jobs of peer team.
+· Automated SAS jobs running a daily weekly and monthly basis.
+· In order to improve performance of job Used different types of techniques like used of views, indexes, look up transformation over sql join, use of loop transformation, running jobs in parallel, use of custom transformation to use data step functionality to join tables, used pass through queries, increased buffer size etc.
+· Created proper documentation of work.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Project Title
+	   Data Loading for Inventory analysis System.
+
+	Period
+	   Dec.-2015 to Nov 2017.
+
+	Description
+	Project is to load the data for inventory Analysis system. Source system is Inventory Management System with inventory Balances, demand etc. Data is to be loaded into warehouse using SAS DI studio.
+
+	Role
+	SAS DI Developer
+
+	Responsibilities
+	I have worked as an Team Member and my responsibilities included:
+· Worked as SAS DI Developer responsible to develop ETL jobs using SAS Data integration studio
+· Involved in development of ETL Job, Extracting data from the multiple sources (PSV, Oracle10g) using SAS/Access, SAS SQL procedures and creation of SAS data sets, Transforming  them according to the business requirements and loading of data in to the appropriate data sets using various DI Transformations.
+· Used file reader, Splitter, SQL join, Table loader, Data validation, Lookup, SCD type 2, Surrogate key generator, Extract, Loop transformations.
+· Deploying, Scheduling and monitoring of jobs, developed job flows using management console.
+· Responsible for registering source and target libraries, used change management system, Created project repositories in development, involved in moving metadata from development environment to QA environment using .spk files.
+· Created custom transformations, Parameterized job, Run jobs in parallel.
+· Interacting with the Business Team to understand their requirements and then creating SAS DI jobs, validating jobs of peer team.
+· Automated SAS jobs running a daily weekly and monthly basis.
+· In order to improve performance of job Used different types of techniques like used of views, indexes, look up transformation over sql join, use of loop transformation, running jobs in parallel, use of custom transformation to use data step functionality to join tables, used pass through queries, increased buffer size etc.
+· Created proper documentation of work.
+
+
+
+
+
+
+
+
+
+
+
+	
+Project Title
+	Lending Process Analysis,
+
+
+	Period
+	     Oct.-2014 to Dec.-2015
+
+	Description
+	  This project Involves Analysis of Micro Finance data given by customer. It is a   reporting and analysis system to analysis total market micro financed given, By monthly, yearly quarterly, by Stores, vendor, products etc. Its Predictive module will tell about trends, risks involved in future.
+
+	Role
+	SAS BI Developer 
+
+	Responsibilities
+	· I was working as SAS Report Developer using SAS EBI reporting tools.
+· Roles involves understanding business requirement from design document, Accept changes in design and provide risk analysis and give appropriate time to incorporate changes.
+· Study DWH data model find relation between different tables to extract data that is required for reports.
+· Develop SAS Information maps using sas Information map studio, define relationship between tables, add filters, joins, prompts, pre-filters, create calculated fields, aggregations, grouping etc.
+· Create proper folder structure on metadata server (foundation repository).
+· Develop reports using SAS web report studio, Created different types of reports like summary detail, drill down, drill up, used report linking feature, crated reports with different sections, created reports with filters prompts, conditional highlighting etc. 
+· Used different objects in reports like bar chart, tile chart, table, cross tab, stored process, image, header, footer, and title in web report. 
+· Created reports with group breaks, scheduled and deploy reports to create reports views.
+· Used data manually refresh feature that is available in web report while saving reports in order to open report fast in next time user can click on refresh data to get recent data in report.
+· Created reports from OLAP as a source for reports, Created drill up and drill down reports.
+· Included in different portlets in SAS IDP like SAS BI dashboard portlet, SAS report viewer portlet, SAS STP viewer, SAS Map viewer Portlet, Collection Portlet etc.
+· Create cascaded prompts in map, used identity driven filters, used pre-filters etc.
+· Developed SAS STP from base SAS, EG and deployed on metadata server.
+· Developing E-mail reports and online reports according to business users Requirement by using SAS Publishing framework and channel from management console.
+
+
+
+
+
+
+
+	Project Title
+	Loan Information system(MIS)
+
+	Period
+	     Sept.-2013 to Oct.-2014
+
+	Description
+	Union bank is one of the leading Bank in India. Responsible for acquisition modeling in the emerging markets of India. Customer data was built internally by gathering demographics and general information card members pertaining to diverse products to extract information about solicited and non-solicited responders over a period of time.
+
+	Role
+	SAS Programmer/Developer
+
+	Responsibilities
+	· Created SAS datasets from oracle database with random sampling technique and created oracle tables from SAS datasets by using SAS macros.
+· Created large datasets by combining individual datasets using various inner and outer joins in SAS and dataset merging techniques of SAS/BASE.
+· Analyzed data using various statistical procedures like PROC SUMMARY, PROC MEANS, PROC FREQ, PROC UNIVARIATE, PROC REG AND PROC ANOVA .
+· Used Enterprise Guide (EG) for creating, editing and submitting SAS code for stored processes to Application server, for running queries against DB2 to bring the data into the SAS environment.
+· Used SAS macro facility to create macros for statistical analysis, reporting results and data extraction. 
+· Proposed a set of action plans to mitigate the risks identified with the sourcing decision.
+· Generated HTML, Listing, Excel and RTF reports for presenting findings of various statistical data using procedures like PROC REPORT, PROC FREQ and also SAS ODS.
+
+
+
+
+Personal Details
+
+	Name
+	Sagar Shivaji Wagh
+
+	Father Name
+	Shivaji Nana Wagh
+
+	Date of Birth
+	08/06/1992
+
+	PAN No
+	ADRPW9248E
+
+	Nationality
+	Indian
+
+
+
+Declaration 
+
+I hereby declare that the above given information is true to the best of my knowledge.
+Date: 
+Place: Delhi.
+Mr. Sagar Wagh

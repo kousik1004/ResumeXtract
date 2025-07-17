@@ -1,0 +1,199 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME OF
+
+RESUME
+
+Name :  Tarun Kumar Verma
+Mob   :  +91 9663983344
+
+Email :  tarun04.verma@gmail.com
+OBJECTIVE:
+     To work and grow in an environment where performance is rewarded with new responsibilities and challenges prove me to be an asset to the organization.
+PROFESSIONAL SUMMARY:
+· Having 3+ years of extensive experience in the field of Information Technology as a 
+Hadoop administrator.
+· Strong knowledge on Hadoop concepts and its Ecosystem components such as HDFS, MapReduce,YARN, PIG, Sqoop, Hive, HBase, Oozie,Zookeeper.
+
+· Troubleshooting, diagnosing, performance tuning and solving the Hadoop issues.
+
+· Exposure in Hadoop shell commands, Hadoop upgrade and rollback, Backup and Restore.
+
+· Used Network Monitoring and servicing tools like Ganglia, Nagios.
+
+· Commissioning and Decommissioning the Nodes to existing and running hadoop cluster.
+
+· Configuring and maintaining Name and Space quotas of users and File System.
+· Knowledge on configuring Kerberos for the authentication of users and hadoop daemons.
+· General Administration of Linux installation, UsersCreation, Group Creation, Permissions and package management using YUM and RPM.
+
+· Having knowledge on Hortonworks Distribution.
+
+· Possess strong problem solving skills, positive attitude, self-starter and team player with good interactive skills.
+· Knowledge on Hadoop ecosystem tools like Kafka ,Storm & Spark.
+SKILL SET:
+Operating System
+: Windows 7, LINUX & CentOS
+
+Languages
+
+: SQL
+Database
+
+: MySQL,Oracle.
+Framework
+
+:  Hortonworks
+Ecosystem Tools          
+: Sqoop,Pig,Hive,HBase,Oozie.
+
+Security Tools              
+: Kerberos, ACL,Ranger.
+Monitoring Tools
+: Nagios,Ganglia
+EDUCATIONAL DETAILS:
+
+· B.Tech from G.H. Raisoni College of Engineering, Nagpur in 2012.
+
+· Board of Secondary Education from Krishna Public School, Bhilai (C.G) 2008.
+
+· S.S.C from D.A.V Public School, Brajrajnagar (ODISHA) 2006.
+WORK EXPERIENCE:
+       I was working as a Software Engineer in IBM from 31-07-2015 to 04-08-2018 .
+PROJECT DETAILS:
+Project #1:
+Project Title
+
+:  MSNWF
+Role
+
+
+:  Hadoop Administrator
+Duration                      
+:  Aug 2015 to Till now
+Operating Systems
+:  Cent os 6
+Work Location
+
+:  Bangalore,  India
+
+Environment
+:  Hortonworks, HDFS, MapReduce, Sqoop, Pig, Hive, HBase, Oozie,
+                                              MySQL & JIRA 
+Project Description : 
+
+     CenturyLink, Inc. is an American worldwide communications company which provides communications and data services to residential, business, governmental and wholesale customers. MSNWF (Microsoft Network Workflow Manager) is one of the applications supported by Century Link. It provides overall information of customer who is using all the services provided. It gives a clear picture about the DSL Speeds, IPTV Speeds, and RCR Product Mapping ID whichever is used by the customer.
+
+Roles & Responsibilities:
+· Installed and configured hadoop ecosystem tools  Sqoop , Flume, HBase,Zookeeper,oozie.
+
+· Configured various property files like core­site.xml, hdfs­site.xml, mapred­site.xml based upon the job requirement.
+
+· Managing alerts from cluster monitoring tools like Ganglia and Nagios.
+
+· Managing and reviewing Hadoop log files.
+
+· Performance tuning of Hadoop cluster and Hadoop jobs.
+
+· Disk space management and monitoring.
+
+· Importing and exporting data into HDFS using Sqoop.
+
+· Performing data balancing on clusters.
+· Managing HDFS cluster users, permissions.
+
+· Involving in Analyzing system failures, identifying root causes, and recommended course of actions. Documented the systems processes and procedures for future references.
+· Taking backup of  hadoop metadata using snapshots.
+
+· Working together with infrastructure,network and application teams to guarantee high data quality and availability.
+
+· Install  Hadoop patches and version upgrades when required.
+
+· Decommissioning and commissioning the Node on running hadoop cluster.
+· Work along with the Service Providers to resolve the tickets that were raised by various business teams
+Project #2:
+
+Project Title
+            : INTEGRATOR-PROVISIONING
+Role
+
+
+:  Production Support
+Duration                      
+:  Feb 2016 to Nov 2016
+Operating Systems
+:  Cent os 6
+
+Database
+
+:  Oracle
+
+Environment
+
+:  HortonWorks, HDFS, MapReduce, Sqoop, Pig, Hive, HBase, Oozie, 
+                                        MySQL & JIRA
+Project Description:
+
+     Integrator is an application that enables ATM/FR Provisioning, manages Network Inventory and supports Trouble tracking of Network elements. Integrator supports Process Workflow, Network Inventory, and Customer Record Management, Trouble Ticketing. Isys is an Oracle database used by Integrator.
+Roles & Responsibilities:
+· Managing and reviewing Hadoop log files.
+
+· Managing alerts from cluster monitoring tools like Ganglia and Nagios.
+
+· Configured various property files like core­site.xml, hdfs­site.xml, mapred­site.xml based upon the job requirement.
+
+· Performance tuning of Hadoop cluster and Hadoop jobs.
+
+· Disk space management and monitoring.
+
+· Importing and exporting data into HDFS using Sqoop.
+
+· Performing data balancing on clusters.
+
+· Managing HDFS cluster users, permissions.
+Declaration:
+I hereby declare that the above furnished information is true to the best of my knowledge.
+Date:
+
+Place: Bangalore                                                                                    Tarun Kumar Verma

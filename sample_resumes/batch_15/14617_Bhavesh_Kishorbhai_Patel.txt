@@ -1,0 +1,402 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bhavesh Kishorbhai Patel  
+Email: bhaveshkpatel85@gmail.com, bks02429@gmail.com  
+
+Mob: +91-8000891666, +91 9429266446  
+
+ 
+Career Objective: 
+As a Technical or Solution Architect to be part of Development and/or R&D team to apply my expertise and skills to create top 
+
+edged innovative solutions & products to achieve goal, vision and meet expectations of the organization and market trends with 
+
+good opportunity for personal growth.  
+
+ 
+Total Experience: 7 Yrs 8 Months 
+
+QUANTELA (PARADIGM IT GROUP COMPANY) (Oct, 2017 – Present) as Project Lead 
+
+DATTUS Pvt Ltd. (Dec, 2014 – Sep, 2017) as Embedded Lead 
+
+INFOSTRETCH Corp (Sep, 2013 – Nov, 2014) as Senior Software Engineer 
+
+KONYLABS INDIA Pvt Ltd (July, 2010 – Sep, 2013) as Senior Software Engineer 
+
+ST MICROELECTRONICS (Jan – June 2010) Trainee / Internship 
+
+COGNIZANT TECHNOLOGY SOLUTIONS INDIA Pvt Ltd, (Mar – Oct 2007) as Programmer Analyst Trainee  
+
+ 
+Strengths: 
+
+- Software Professional with 7+ Years of experience in design and development for Mobile and Embedded Systems. 
+- IoT expertise and Handling team of more than 5 people for Agile Product Development in Embedded Systems. 
+- Familiarity and Working knowledge on Range of Processor families like ARM M4 and A8, Intel Atom and Quark, etc. from 
+
+Texas, NXP, Broadcom, Intel, etc.  
+
+- Expert in Device Drivers, Embedded Systems, Android, RTOS, Mobile application, Agile Development and Scrum Process. 
+- Provide Innovative solutions which can be converted into Product and Intellectual Property. 
+
+ 
+Projects: 
+
+Name: Battery Operated IoT Product development for Aqua Culture  
+
+Objective: Interface different sensors to measure Water Parameters for Aqua Farm. 
+
+Roles & Responsibilities: As a Project Lead, started looking at working of product. Suggesting changes in Hardware and 
+
+Software for interfaces and functionalities. Streamline Development, QA and Release Process, Code Review, Analysis and 
+
+Management. Managing team of 5 people for development and testing. 
+
+Performing and managing Hardware Bring up and Bootloader, Peripheral, I2C and GSM testing.  
+
+Duration: Since Oct, 2017  
+
+Technology and Tools Used: C, GCC, Atmel SAMG55, GSM, Bootloader, Flash, I2C, ADC, Agile Development, GIT. 
+
+ 
+
+Name: Embedded Network Protocols Interface and IoT  
+
+Objective: Interface and collect data from different Protocols like RS485, Modbus, MTConnect etc. 
+
+Roles & Responsibilities: As a Team Lead, provide solutions to Protocol Interfaces on Single Board Computers which are based 
+
+on ARM A8, Intel X86 and Quark processors and Linux as OS. Scan sensors and modules connected, take data stream, perform 
+
+operations on these streams using Multithreading and send it to cloud. 
+
+My role is to create Architecture and Framework for Development, Project Planning, customization or specific requirement, 
+
+interaction with customer on regular basis to translate requirement to technical blocks, mentor team members on different 
+
+technology aspects. Created Process for Testing and Build Deliveries. Also created method to update all boards with truncated 
+
+Linux OS which is base for all installations. Also came up with novel approach for Virtual Boards for cost effective solutions. 
+
+Duration: 1 Yr 6 Months 
+
+Technology and Tools Used: C, GCC, Makefile, Shell, Linux, TCP/IP, Socket Programming, USB, Serial Protocols, RS485, 
+
+JavaScript, Drivers and Kernel Modification, Yocto, Agile Development, Bugzila, GIT, SVN. 
+
+ 
+
+Name: FFT Algorithm on Vibration Data Spectrum  
+
+Objective: To create Solution for Vibration Data and plot different diagrams. 
+
+Roles & Responsibilities: The project was taken as kind of POC for finding Peak Frequency and Frequency Lob from 3-axis 
+
+vibration sensor data. Used libraries available in C and developed code which generates Fourier and FFT output from time domain 
+
+input data.  
+
+Project as developed on board with Linux OS running on it with Sampled data saved in file on board. Data Sampling rate was 
+
+varying from 50Hz to 10KHz and was able to find peak frequency among the sampled data. Also created data points to plot 
+
+Samples Vs. Frequency on Log Graph, Bode Plot. Data was not sent to cloud but was saved in files and tools were used to 
+
+generate different Graphs. 
+
+Duration:  2 Months 
+
+Technology and Tools Used: C, DSP, Linux, GCC, Makefile, Shell, Buildroot, Yocto, Bugzila, GIT, SVN 
+
+ 
+
+Name: IoT based Embedded Application Development for Custom Board 
+
+Objective: Interface different Industrial Sensors to board, collect data and send it to Cloud.  
+
+Roles & Responsibilities: In 1st Phase created framework for Low Power ARM Cortex M4 Processor. Code was developed in 
+
+Embedded C and also had very lightweight server running on processor, which hosts webpages for configuration on the go. Code 
+
+takes all the settings from Cloud, calculates equivalent Sensor Value and send it to cloud using REST Calls. First field testing 
+
+release was achieved within 6 months and Real Time Data was being transferred to Cloud at every 30 sec with at least 99.25% 
+
+data reporting. 
+
+
+
+In 2nd phase, FreeRTOS was added to make application more robust and for governing actual Real Time Operations. Transfer rate 
+
+achieved was up to 5 sec. Optimization was done to save around 10 Months of data to 32 Mbits of memory for 8 Sensor Channels 
+
+at 5 Sec scanning rate whenever internet connectivity is down. This phase lasted for 5 Months and almost 99.5% data reporting. 
+
+Also Math module responsible for converting ADC value to 4-20mA range using fixed point arithmetic and Floating Point 
+
+arithmetic to convert 4-20mA value to equivalent Sensor value with can be of any range. 
+
+Duration: 1 Yr 4 Months 
+
+Technology and Tools Used: C, Code Composer Studio, Embedded C, Socket Programming, USB, I2C, SPI, Flash Memory, 
+
+Tiva Library, JavaScript, HTML, JTAG, Agile Development, Bugzila, GIT, SVN 
+
+ 
+
+Name: Native Mobile application Development for Tablet  
+
+Objective: To develop the product for all Tablets. 
+
+Roles & Responsibilities: The Project work includes developing the application for iPad, Android Tab and Windows 8 tablet 
+
+using Kony and using Native SDKs. As a senior developer cum lead role, created UI and developed functionalities using 
+
+KonyOne for all three tablet platforms. Also developed and integrated native functionalities like Barcode/QR Code Scanning, 
+
+Signature Capture, and Storing data in local storage and in local DB, Dynamic Widget Addition etc. Also the Application requires 
+
+the access to data without Network connectivity so that part is also in implementation and successfully given solution for the 
+
+same. 
+
+Duration: 1 Yr 2 Months 
+
+Technology and Tools Used: C, C++, xml, eclipse, Java, JS. Android, iOS and Windows 8 OS, Agile Development, JIRA, SVN 
+
+ 
+
+Name: Product Development for Tablet.  
+
+Objective: To develop the product for all Tablets. 
+
+Roles & Responsibilities: The Project work includes porting the Mobile Phone application to all Tablet platforms using Kony 
+
+and using Native SDKs. I have ported and modified the UI and functionality using Kony Platform for all three tablet platforms.  
+
+Duration: 4 Months 
+
+Technology and Tools Used: C, C++, xml, eclipse, Java, JS. Android, iOS and Windows 8 OS,Agile Development, JIRA, SVN 
+
+ 
+
+Name: Defect fixing, Application Enhancements and Memory Profiling on Devices 
+
+Objective: To reduce the memory consumption by application on iPhone and Android. 
+
+Roles & Responsibilities: To fix defects reported by client on Remote Check Deposit feature for one of banking application. Also 
+
+to fix some memory issues which were reported due to the crashing of application was happening while using. I have done the 
+
+Memory profiling for Android by which the memory consumption by application was reduced by more than 8 MB and crash issue 
+
+was resolved. Also enhanced some of Camera features like changing the layout and design, this included providing an overlay 
+
+form when the camera is launched for giving user a guide to fit the image while capturing.  
+
+Duration: 5 Months 
+
+Technology and Tools Used: C, C++, C#, xml, Java, JavaScript, eclipse, Memory Analyzer for Android, iOS and Android OS, 
+
+SVN, Bugzilla   
+
+Name: Maintenance, Porting and Testing of Set Top Box Drivers and SoC Validation 
+Objective: Embedded System Drivers and SoC Validation and Maintenance for Set-Top box (STB) 
+
+Roles & Responsibilities: As a part of five members team, to do testing of the SET TOP BOX Drivers for different SoCs and 
+
+peripherals, running different test cases of the driver designed for SoCs and board, and verifying the proper functionality of the 
+
+overall system i.e. SET TOP BOX. C, Shell and Perl etc were used for this project and written some more test cases and reduced 
+
+the program complexity by 20% to enhance the performance and readability of the cide. 
+
+During the training, testing and validation of the SoC and STB drivers were done for Linux and Windows OS. Added 
+
+responsibility were maintaining the drivers and porting of the drivers and SoCs on the SET TOP BOX and perform the sanity 
+
+testing.  
+
+We have also successfully developed and tested the new method of testing by doing changes in Shell script files and make files. 
+
+Also done testing of the IPV6 protocol for the SET TOP BOX which is considered to be one of the advanced technologies to be 
+
+used in SET TOP BOX. 
+
+Duration: 6 months 
+
+Technology and Tools Used: C, Set Top Boxes, Embedded Systems, Device Drivers, RTOS, Linux, Shell, Clear Case, etc. 
+
+Name: Microprocessor design using SystemC and Verilog 
+
+Objective: To develop MIPS Processor using Verilog and SystemC 
+
+Description: The aim of the project is to design a MIPS (Million Instructions per Second) processor. The processor has to be 
+
+designed using certain Flow graphs and Action graphs. And then the comparison of performance between the different 
+
+Semiconductor Technologies used to develop the processor. The processor was designed using Verilog and SystemC language. 
+
+For Verilog we used ModelSim simulator and for SystemC we used VC 6.0. We used Leonardo tool for performance comparison. 
+
+Duration: 6 months 
+
+Technology and Tools Used: Verilog, ModelSim, System C, etc. 
+
+Name: Real Time Dynamic Voltage Scaling for Hard Real Time Systems 
+
+Objective: As a part of Research Project to develop or redefine the algorithm to reduce the Power Consumption for RTOS 
+
+Description: The aim of the project was to design and code an RTOS algorithm to reduce the power consumption of the 
+
+Embedded Systems. As part of research I developed the algorithm and tested the result on simulator. The algorithm was 
+
+developed in C language and it was tested on simulator for Deadline driven algorithm. After refinement and redesign of some of 
+
+
+
+available algorithms, the power consumption was reduced by around 15% while tested on simulator. 
+
+Duration: 6 months 
+
+Technology and Tools Used: C, RTOS. 
+
+Name: Character Recognition from image file, using DSP processor 
+
+Objective: As part of Academic Project to develop code to read character from image 
+
+Description: The Project was developed to find a character from the image and generate the specific frequency for that character. 
+
+The code was written in C and was ported on DSP processor. The image file was transferred to DSP and processor generated the 
+
+frequency whenever the character was recognized.  
+
+Duration: 2 months 
+
+Technology and Tools Used: C, VC 6.0, TI ARM Kit. 
+
+ 
+
+Name: Embedded/Mobile Application development  
+
+Objective: Mobile Technologies for Android, Blackberry, iPhone etc. 
+
+Roles & Responsibilities: The Project work includes developing the smartphone Brokerage application for Android, Blackberry 
+
+and iPhone using JAVA, lua and C. My responsibility was to use and integrate the services exposed by client and modify the 
+
+response of the services to make independent on the type of device being used. I was responsible for managing the middleware 
+
+application on the Web Logic server and have to perform the Business rules for the application depending on the device. 
+
+As part of Post Production support activity, given support for 2 months from client location in USA. The application ranked in top 
+
+3 for more than 2 months with more than 2 lacs+ downloads for all platforms and there were no critical issues with live 
+
+application. 
+
+Duration: 1 Yr 6 Months 
+
+Technology and Tools Used: C, C++, xml, eclipse, Java, lua. Android, iOS and Blackberry OS  
+
+ 
+Other Projects: 
+
+- Research on Real Time Dynamic Voltage Scaling for Hard Real Time Systems 
+- Real Time System for Traffic Controller using RT Java. 
+- Fingerprint Recognition using Gabor Filter and Image Correlation.  
+- Histogram and Sharpening of images using C.  
+
+ 
+Education: 
+Qualification Year of Passing  Name of Institute/ University  Result 
+
+M.E. ( Embedded Systems) 2010 BITS-Pilani, Pilani Campus, Pilani, Rajasthan 8.73 out of 10 
+
+B.E. ( E&C ) 2006 
+G.H.Patel College Of Engineering and Technology / Sardar 
+Patel University, Vallabh Vidyanagar, Gujarat. 
+
+6.93 out of 10 
+
+H.S.C. (Grade XII ) 2002 Gujarat Secondary Education Board, Gandhinagar, Gujarat. 76.62% 
+
+S.S.C. (Grade X) 2000 Gujarat Secondary Education Board, Gandhinagar, Gujarat. 83.57% 
+
+ 
+Additional Information: 
+
+● Software and Tools: C, C#, SystemC, Verilog, Matlab, ModelSim, DSP, Shell, Eclipse, JAVA, Android, Memory Analyzer. 
+● Operating Systems: Windows XP, Linux, RTOS 
+● USA Visa: B1/B2 Valid up to 2021. 
+● Fluent in English, Hindi and Gujarati.  
+● Play Table Tennis, Chess. Reading News Paper, Novels, Magazines.  
+● Solving Puzzles, Sudoku, Software Development. 
+
+ 
+Interested areas: 
+
+● IoT, RTOS, ARM, DSP application Design and Development.  
+● Device Drivers, SoC and Embedded System Design and Development. 
+● Image and Signal Processing, Mobile applications, Data Analysis. 
+
+ 
+Correspondence Address: 
+101, La Gardenia, Pragathi Enclave, Miyapur, Hyderabad-500049, Telangana, India. 
+
+Personal Details: 
+DOB: 25th August 1985 
+
+Sex: Male 
+
+Nationality: Indian 
+
+Marital Status: Married 
+
+

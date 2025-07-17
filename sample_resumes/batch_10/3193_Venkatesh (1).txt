@@ -1,0 +1,197 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+S.Venkatesh
+venk8808@yahoo.com					              9952252397, 9487717766
+Experience Summary
+
+1. Working in Cognizant Technology solutions India Pvt. Ltd., Chennai (Aug 2010- Till date), currently working as Associate-Projects having experience of 7 years in .Net Technology.
+
+1. Ability to work independently and Provided support and assistance to other developers in resolving application errors and bugs
+
+1. Sound knowledge of different phases of Software Development Lifecycle (SDLC). 
+
+1. Strong debugging skills have provided result-oriented solutions to my team. 
+
+1. Experience in code deployment, handled issues of environment set up. 
+
+1. Having good Analytical, Problem solving, Communication and Interpersonal skills with ability to interact with individuals at all levels.
+
+Personal Skills 
+Programming Languages:	ASP.Net MVC, C#.Net, ASP.Net, WCF, Web services, Web API.
+Scripting Languages:		HTML5, CSS, AngularJS, JavaScript, Bootstrap, Ajax, JSON, JQuery
+Databases/Reports:		SQL Server 2005/2008R2, SSIS, SSRS, DB2.
+Version Control System: 	Microsoft Team Foundation Server, Microsoft Visual Source Safe, SVN
+IDE / Tools / Utilities:     	Visual Studio 2008/2010/2012, SQL Server Management studio 2008/2005.
+Hardware / Platforms:		Windows 98/XP/2000/07.
+
+Educational Qualification
+
+1. B.E - Electronics and Communication Engineering with 72% from IFET College Of Engineering, Villupuram Affiliated to Anna University , May 2010.
+
+Visa Status
+1. Holding Valid US – H1B Visa
+PROJECT DETAILS
+
+Project #1
+
+Title:	Ecommerce applications
+Client:  Emblem Health
+Skills:	HTML5, CSS, AngularJS, JavaScript, Bootstrap, Asp.Net, C#, Web Services.
+Period:	 June 2016 – present (June- Dec was on onsite for the same Project)
+
+Project Objective
+	Ecommerce application comprised of member and provider portals which are used by the registered members and providers who checks for the plan information, user eligibility, benefit details, claim details, plan referrals, and so on.
+Project Description
+	Member Online Services (MOS) is the on-line web portal and mobile portal that allows members to review their data online (such as demographics, eligibility, benefits, and claims) and make account modifications such as changes PCP, student enrollment, sign up for go paperless, make premium payment and contact Service via Message Center. Members can view all his personal information and make changes.
+This portal is not system of record .It’s used to display and update member information to Member information
+
+Provider Online Services (POS) is the on-line web portal that allows providers to review patient data online (such as demographics, eligibility, benefits), view their own practice information (such as claims, payment, service locations) and to effect self-service  such as submit referrals, location changes, sign up for EFT, and contact Service via Message Center. PEP is the on-line web portal that allows provides to submit pre-authorization requests. These requests are then fed into MaxMC for pre-auth determinations
+
+Role and Responsibilities
+· Was an Onsite coordinator for Six Months
+· Issue Analysis.
+· Code fixing.
+· Mentoring Team
+· Client Interaction 
+
+
+Project #2
+
+Title:	Pharmacy Benefit Management
+Client:  Humana INC 
+Skills:	Asp.Net MVC, C#, ASP.Net, WCF, Web Services, Web API, SQL Server 2008R2, SSIS, SSRS.
+Period:	 Aug 2013 – Apr 2016
+
+
+Project Objective
+	PBM is the process of providing service to the client in order to help and manage the prescription drug benefits.
+
+Pharmacy Benefit Managers will take care of these below works.
+· To provide High quality pharmaceutical care at low cost.
+· processing and paying prescription drug claims
+· developing and maintaining the formulary
+· contracting with pharmacies, and negotiating discounts
+· rebates with drug manufacturers
+
+Project Description	
+Humana, INC. Provides the Pharmacy benefit management service to the customers which are inside an integrated healthcare system service. They are primarily responsible for processing and paying prescription drug claims. They are also responsible for developing and maintaining the formulary, contracting with pharmacies, and negotiating discounts and rebate with manufacturers.
+
+PBM allows a Member Self Service. This application enables Humana members to process New Prescriptions, Refills, Switch Retail-To-Mail, Renew Prescriptions, Register a member, Placing an Order and Check Order status, Checking Claims status, etc.
+
+PBM build networks of retails pharmacies known as the preferred network pharmacy to provide convenient access to prescription at discounted rates. PBM provide mail order services to the customers that supplies medicines to home without the face to face consultations provided by pharmacies. Drug supply is made through shipment by mail and parcel postal.
+
+Role and Responsibilities
+· Requirement Analysis, Coding, Unit Testing, Bug Fixing
+· Mentoring Team
+· Client Interaction 
+· Handling weekly status calls
+· Providing Warranty support.
+
+Project #3
+
+Title 			MDM Employer Master. 
+Client 		           	 Humana INC	
+Skills			C#, .Net Framework 4.0, SQL Server 2008
+Period		            	Nov 2012 – July 2013
+
+Project Objective
+  In order to create a source of truth of organization information, Humana Inc. takes the MDM initiative to bring the information from different sources and consolidate that information in the MDM hub which will be considered as a most trusted source of information
+Project Description
+	To develop a technology platform that consolidates and intelligently distributes key information about Organization with effectiveness and responsiveness. This would improve business process efficiency, provide ability to up sell and cross sell to organizations by having a clear view of the needs of the organization and reduce maintenance cost for Humana. 
+
+
+Role and Responsibilities
+
+· Requirement Analysis
+· Documentation
+· Coding.
+· Unit Testing and Preparing test cases
+· Client Interaction.
+· Warranty Support
+          	
+
+Project #4
+
+Title 			I Tracker
+Client 		            	First Data
+Skill			Asp.Net, C#.Net, SQL Server 2008.
+Period		            	Oct 2011 – Oct 2012
+
+Project Description:
+Lock Box is simply a post office Box for any organization controlled by Bank. Organizations are issued a remit to address where the customers will send payment for all invoices directly to Lock Box. Bank will open all the correspondence, process them, deposits the checks into accounts, take backups for all transactions, electronically show the daily activities, and prepare statements.
+
+In order to track the configuration current status of Lockbox we developed a web based application named “iTracker” .The Lockbox status was meant to be monitored for internal as well as audit purpose.
+
+Roles & Responsibilities: 
+
+· Requirement Analysis 
+· Development
+· Unit Testing
+· Deployment the Application
+· Involving in Go-Live support.
+
+          	
+Project #5
+
+Title 			Test to Prod (T2P)
+Client 		            	First Data
+Skills			C#.Net, ADO.Net, SQL Server 2008.
+Period		            	Dec 2010 – Sep 2011
+
+Description:
+                    The Lock Box configurations is carried out in Test region and then sent for Testing. Once the testing is passed, the project workflow requires the same configurations to be done manually in Production region.
+	
+Configuration of the tools has many steps which have to be repeated for each client which in turn results in manual work inefficiency. We took this efficiency loss into account and created application tools which will reduce this manual effort. This step has been automated through the development of a tool named “T2P” based on .Net
+
+Roles & Responsibilities: 
+
+· Requirement Analysis 
+· Documentation
+· Development and Unit Testing.

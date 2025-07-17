@@ -1,0 +1,189 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RAVI BK						Email: ravibkdb@gmail.com
+                                                                                                Mobile no: +91-9008922781
+
+
+Objective:
+Over 5.2 years of experience as ORACLE DATABASE ADMINISTRATOR ,to further my career as Data base Administrator that will utilize my organizational skills, quality driven professional ethics, result oriented personality, analytical problem solving skills and dealing with new technology that has opportunity for advancement and learning.
+PROFESSIONAL Experience Summary
+· DEC 2015 to till date - COGNIZANT TECHNOLOGY SOLUTION.Bangalore
+· SEP 2014 to DEC 2015- IBM INDIA PVT LMT , Bangalore.
+· July 2012 to 2014 SEP- SUN MATRIX SOLUTIONS. Bangalore
+SUMMARY OF SKILLS ANDEXPERIENCE
+· Installation and Managing 10g, 11g ,12c database on windows and Linux,unix Platforms.
+· Configuration, Manage and Monitor ASM instance & Space allocation.
+· Experience of Handling Large Database
+· Supported Dev & Testing team in Refreshing & Cloning from PROD databases
+· Provide expert knowledge and support for Oracle 11gR2 Grid Infrastructure.
+· Taking warm handovers and checking for mails from the client
+· Monitor database space and capacity, estimate sizing, growth, and scalability requirements.
+· Creating users and provided Quotas, Roles, Privileges and Profiles.
+· Backups Implementation and automating by implementing scripts for managing backup (Hot strategies backup ,cold backup ,Rman backup ,Export/import and datapump expdp/impdp)
+· Maintain database backups using RMAN
+· Creation of DB Links and granting privileges as per requirement to users to access other databases
+· Implementing backup strategies and maintain backup and recovery procedures.
+· Export / Import of Tables, schemas, database (traditional exp/imp, data pump, using DBLINK).
+· Troubleshooting of Oracle network and difficult ORA-errors.
+· Assume ownership of database related problems;  pursue short and long-term problem resolution and root cause analysis
+· Stats pack Report Generation, AWR Report Generation.
+· Tune database performance; analyses AWR, statspack and ADDM.
+· Database, session trace and SQL trace.
+· Experience in applying patches such as CPU/PSU patches, Patch sets as per the oracle Recommendations.
+· Upgrading the Databases from lower version to higher version
+· Cloning Database Creation, Online Cloning and Offline Cloning for Test database and development database
+· Recovery of lost or deleted Objects and Corrupted Data files and performing complete and incomplete Recovery.
+· Generating Traces at different level to sort out performance issues Using session trace, sql trace and  For Major ora errors 
+· Develop and maintain shell scripts required for database monitoring and performance metrics.
+· Configuration and managing Standby database (Data Guard).
+· Prepared documentation for ongoing maintenance and support & change requests for future reference.
+· Extensively used My Oracle Support for resolving technical issues. Opening SR at Oracle Metalink and use collaborative support for database related issues
+
+
+TECHNICAL SKILLS
+	Databases
+	Oracle 10G, Oracle11G, Oracle12C
+
+	Database Utilities
+	RMAN, ASM, OEM, Exp/Imp, Data Pump, SQL Tuning, Application Tuning, AWR , ASH ADDM & Stats pack , TKProf
+ 
+
+	RAC (11g R2)
+	CRSCTL, SRVCTL, ASMCA,ACFS
+
+	Tools
+	 Putty, WinSCP
+
+	Operating Systems
+	OEL 5 & 6, Windows,Unix
+
+
+
+
+
+education hhistory
+B.E.(Information science),The oxford college of engg, Bangalore ,VTU  University.
+
+Project Summary:
+#1. PROJECT EXPERIENCE:COGNIZANT TECHNOLOGY SOLUTIONS
+	CLIENT
+	ROLE
+	ENVIRONMENT
+
+	Johnson and Johnson
+	Oracle DBA
+	Oracle 10G.11G,12c
+
+
+
+
+
+#1. PROJECT EXPERIENCE: - IBM India.
+	CLIENT
+	ROLE
+	ENVIRONMENT
+
+	ABB
+	Oracle DBA
+	Oracle 10G.11G
+
+
+
+
+
+
+#2.PROJECT EXPERIENCE: - SUN MATRIX SOLUTIONS
+
+	Clients
+	ROLE
+	ENVIRONMENT
+
+	PRAGATI AUTO-MATION,
+NAGA MILLS,
+STANDARD FIREWORKS, BIGBAGS INTERNATIONAL
+	ORACLE DBA
+	Oracle 10G,11G
+
+
+Responsibilities
+· Creating the database manually & dbca.
+· Creating and adding of tablespaces and datafiles.
+· Database Migration, Installation, Upgrades and Patching.
+· Managing Alerts and Notifications.
+· Backup and Recovery Strategies using RMAN.
+· Configuration the asm and Grid software and monitoring the diskgroup
+· Implementing the cloning using RMAN backups.
+· Creation of users, roles, managing user privileges.
+· Moving data between database using utilities like Export/Import.
+· Monitoring unwanted sessions and killing them if needed.
+· Database cloning using RMAN.
+· Performed Media Recovery Tablespace and Datafile Recoveries.
+· Monitoring Alerts for disk space, archive destination, Listener, Instance availability, and ORA errors.
+· Purging the Archive logs.
+· Monitoring different table spaces like user, undo, temporary, system tablespaces usage not more than 90%  usage.
+· Configured listeners on server side and TNS aliases on client side.
+· Tuning of Data Guard especially when the log are not send to the standby on time.
+
+· Experience in  implementing & managing Oracle databases ( 10g ,11g and 12c )on Linux and Windows 	platforms.
+· Taking warm handovers and checking for mails from the client. 
+· Implemented Database Backup (Physical and Logical).  
+· Monitoring the Database and Tablespaces growth and increase the tablespace size in production databases.
+· Monitoring the database growth,and performing Re-Organization ofTablespaces  ,tables and rebuilding indexes. 
+· creating users with quota management and Managing Users with Profiles, Privileges and Roles.
+
+
+
+
+Declaration
+    Looking for a position where I can be a critical input of the organization growth can perform with complete strength and achieve personal growth. I would like to be a loyal soldier of the organization in all weathers.       
+Date:                      							Your’s faithfully 
+Place:   BANGALORE        						(RAVI BK)
+
+

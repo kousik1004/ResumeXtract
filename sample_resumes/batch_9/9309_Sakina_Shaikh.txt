@@ -1,0 +1,284 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAKINA .S. SHAIKH
+
+Sakina Shaikh
+1001, B-Wing, Umarji House,
+
+Telli Galli, Andheri (East), Mumbai-069.
+
+Contact No: 9892252809
+
+Email: saki_13789@yahoo.com
+
+                                             
+
+Executive Summary
+
+6 years of experience in Java EE - Web Application and web services Development.
+Experience in implementing LDAP Authentication, ADFS SSO, Kerberos SSO, OAuth on Jboss and Weblogic application server and Development of monitoring tools. 
+Experience in Web Security assessment (using tool like Burp Suite, ZAP) and Application migration from JBoss AS 6 to Wildfly 10 application Server.
+Experience in Eclipse Plugin development using Mylyn plugin.
+Experience in developing web based applications using Struts 1.3 ,Struts 2, Spring and web services.
+
+Background includes development of technical specifications, programming and implementations, documentation, unit testing and deployment of application. 
+
+Technical Skill Set
+
+	Development Tools
+	Databases
+	Web Technologies
+	Servers
+	Web Security and Performance Tools 
+
+	Eclipse Neon 2 
+
+IBM RAD 6.0
+
+Toad for Oracle, SQL workbench
+
+Firestorm
+
+SOAP UI
+
+Oracle SQL Developer
+
+MS SQL Studio
+
+	Oracle 11g
+
+MS SQL Server 2013
+	Struts 1.3, 2
+
+Spring 3
+
+JSP, Servlets
+
+AJAX
+
+Web services
+
+Javascript
+
+JMS
+	JBoss 6 and Wildfly 10.1.0
+Weblogic 12 c
+Websphere AS
+Tomcat 6 & 7
+
+IBM Content Manager 8.4
+
+Webspere Process Server 7
+	JProfiler
+Burp Suite
+
+
+
+Version Control : SVN and GIT
+Professional Education
+
+Master of Science in Information Technology (M.Sc.- IT) –Passed with distinction. 
+
+Bachelor of Science in Information Technology (B.Sc.- IT) 
+
+	Semester I
+	Semester II
+	Semester III
+	Semester IV
+	Semester V
+	Semester VI
+
+	64%
+	84%
+	91%
+	90%
+	74%
+	78%
+
+
+Pre-University Education
+
+	Class
+	Aggregate Percentage
+
+	S.S.C.
+	80.66%
+
+	H.S.C.
+	83.00%
+
+
+Key Projects Undertaken  
+
+       1. SwiftALM -- DIGITE INFOTECH PVT  LTD
+
+Product Details:
+
+SwiftALM is an Enterprise-Wide Project and Portfolio Management Web-Based Tool 
+that facilitates an organization to manage and track various details of its projects.It 
+gives facilities for Resource Management and DashBoard Reporting. 
+
+Responsibilities:
+
+Migration from JBoss AS 6 to Wildfly 10
+
+ADFS, Kerberos SSO Implementation
+
+Implemented LDAP authentication
+
+Implemented Google Auth
+
+Application Vulnerability Assessment.
+
+Development of monitoring tools
+
+Technical Details:
+
+JBoss AS 6 , Weblogic 12c
+
+SQL Server 2013 and Oracle
+
+2.  WCH(Working Capital Hub) -- POLARIS
+Client : BCA(Bank of Central Asia and Indonesia)
+
+Duration : 3 months
+Project Details:
+
+It is an application which processes loans. (Opening loan account on the bases of invoices for different products like Receivable Finance, Payable Finance , Reverse Factoring) and Loan Repayment.
+
+Responsibilities: 
+
+
+1. Development and maintenance.
+
+             Technical Details:
+
+             WebLogic server
+
+             Oracle database
+
+3.  Polad Decentralisation -- BIRLA SUNLIFE INSURANCE
+Client: Birla Sun Life Insurance
+
+Duration: 8 months 
+
+Team Size: 4
+
+Role: Application Developer
+
+Project Details:
+It is an integration on Talisma(CRM) application and Ingenium(Core App). The cases(Withdrawal/Surrender cases) are processed through this application. This include web services, web application (to approve/reject vouchers), WPS(to poll and further process the flow).
+
+Responsibilities: 
+
+Development of Web application and web services.
+Enhancement in the WPS module
+Test particular module & Deployment on server (UAT & production).
+
+Handling support issues.
+
+            Technical Details:
+
+              Application built in Struts 2 framework.
+
+              Deployed on Apache Tomcat 7 server.
+
+              Database used : MS SQL Server 2008
+
+              WAS 7 and WPS 7
+ EAPP Portal -- BIRLA SUNLIFE INSURANCE
+     Client
+
+: Birla Sunlife Insurance Company
+
+
+ Role
+
+
+: Application Development 
+
+            Team Size
+: 8
+     Technical Details
+: Spring 3, Struts 2, Microsoft SQL Server
+           Description
+: 
+
+EAPP is an Integration project developed for Sales team to given an additional or extended Service to the Customer. Customer or Sales executives fill up application form through various channels of EAPP frontend. The Application data is then processed in Integration flow and Underwriter decision from automated system is confirmed back to Customer. This application offers extended services to customers by providing them information about the eligibility of their Insurance Policy.
+
+  The whole process from data processing and confirming final decision back to customer is done in 2-3 minutes. Implementing this process will increase sales and services of customer.
+
+
+Employment History
+
+Currently working with Digite Infotech Pvt Ltd Since May 2015 till date.
+
+Previous employer Polaris (Intellect Design Arena) from Nov 2014 to April 2015.
+
+Previous employer Mindcraft Softwares Pvt Ltd  from Aug 2011 to Aug 2014
+
+Personal Details:
+
+	Gender:
+
+	Female
+
+	Marital Status:
+
+	Unmarried
+
+	Languages Known:
+	English, Hindi, and Marathi
+
+
+I hereby declare that the above written particulars are true to the best of my knowledge and belief.
+
+Place: Mumbai 

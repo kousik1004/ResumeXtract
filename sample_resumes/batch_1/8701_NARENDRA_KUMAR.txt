@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NARENDRA KUMAR                                                                      10C, Sekaran Everton Enclave,
+SAP ABAP CONSULTANT                                                                     Kailash Nagar, Chennai,
+Mobile. No: - +919176788022                                                                 Tamil Nadu 600100     
+Email-Id: - narenksap4@gmail.com	                                                     
+VISA Status – US B1 Business Visa (Valid till 2026) 
+
+
+	Objective
+
+
+To become a contributing SAP Technical Consultant, in an organization for its success, by applying the best business practices through innovative solutions and constantly updating my skills.
+
+	Achievements
+
+
+Awarded 'Outstanding Performance and Exceptional commitments' from Thomas Cook Group (TCG Project) for an on time deliverables with perfection.
+
+	Profile Summary
+
+
+· Over all 4+ years hands on experience in SAP R/3 4.7E & ECC 6.0. Working as SAP ABAP Consultant in HCL Technologies Limited, Chennai since June 2013 to till date. 
+· Experience in RICEF developments in SD, MM, FICO, HR Modules
+· Data Dictionary: Creation & Maintenance of Tables, Structures & Views, and other dictionary obj.
+· Expertise in ABAP/4 Technical areas includes design, development and debugging of ABAP
+            Programs, Reports (Classical, Interactive and ALV Reports)
+· Data mapping and Conversions with migration tools like LSMW. Batch Data Communication (BDC) Using Call Transaction and Batch input methods.
+· Module Pool Programming: Good Knowledge in Module Pool Programming.
+· Experienced in Customizing and modifying layout sets in SAP SCRIPTS AND SMART FORMS
+· Knowledge on ALE interfaces and IDOC’S, Configured Partner profiles, Ports, Logical systems and RFC destinations
+· Experienced in BAPI’S, BADI’S
+· Experienced in ABAP OOPS Developed and ALV reports and uploaded data through BDC using oops
+· Experience in implementing BADI’S and ABAP development for BPC 7.5 applications
+· Experience in WEBDYNPRO ABAP
+· Having 1 nd half year experience in SAP WORK FLOW in support project. 
+· Worked on Inbound ABAP proxy with PI integration.
+· Having Experience in SAP BW/BI mainly involved in support project.
+· Created Aggregates for frequently used Queries to improve the query performance.
+· Involved in creating and maintaining Info Cubes, Data Store Objects, PSA, Info Objects, Info Areas, Multiproviders, Info Sources, Data Sources, and Info Packages.
+· Expertise in enhancement of Data Source and writing user exits.
+· Involved in monitoring of process chains.
+
+	Professional Profile 
+
+
+· First Class (75%) M.C.A. 
+
+	Software Skill Set
+
+
+· Data Warehousing   :        SAP BI 7.0, BW 3.5,            
+· ERP Language        :	 SAP R/3 and ABAP/4
+· Operating system    :        Windows Xp,Windows 7
+· Database                 :        MS-Access, Oracle RDBMS, SQL Server 2000
+	Projects in SAP
+
+
+
+Project #1 
+Company name		: IMG
+Duration		: May 2016 to till date
+Project Type				: Development & Support
+Environment				: SAP R/3 6.0
+Role					: ABAP/4 Technical Consultant	
+
+Description:
+IMG - global sports and media business headquartered in New York City but with its main offices in Cleveland, originally known as the "International Management Group", with divisions including:
+· Developed the manager reconciliation report for tracking the business details of invoices.    
+· Developed the report to retrieve the customer/vendor master details for respective CC and   download functionality.
+·  BDC program for up loading data of Sales order using transaction VA01.
+· Developed the report to track all the expenses based on the vendor, company code, posting     period etc. 
+· Workflow for Purchase order Change.
+· Workflow for Credit note notification.
+· Creation of BO, Tasks and Program for Workflow Archiving.
+· Workflow for Invoice Approval.
+· Workflow for Quantity and Price block Approval.
+
+
+Roles & Responsibilities:
+      Getting the business Requirement document from functional consultant / functional analyst.
+      Analyze the business Requirement.
+      Analyze the estimated time for development.
+      Development of Object (ABAP application).
+      Unit Testing by Developer.
+      Receiving tickets/issues from business.
+      Analyzing the ticket.
+      Resolving the issue in time.
+      Developer unit testing testing and transporting.
+
+Project #2
+Company name		: Thomas Cook Services Ltd.
+Duration		: June 2015 to April 2016
+Project Type				: Development & Support
+Environment				: SAP R/3 6.0
+Role					: ABAP/4 Technical Consultant
+
+Description:
+Thomas Cook was a frontrunner of establishing tourism system and thus made Mass Tourism possible in Italy. He introduced the circular notes which could be changed at designated hotels, banks, and tickets agents for Italian lire at a predetermined exchange rate. Cook's introduction of tourism-specific currency facilitated easier and effective trips within Italy.
+
+· Developed the report program to send the purchase order details as email to vendors.
+· Developed the report program for creating the PO’s which are not subject to release strategy.
+· Developed the program to produces VAT output report for company codes 310 as well as other company codes which are non 310. It also produces the summary report given as an option for the End-user.
+· Created RFC’s for interface between SAP and other systems.
+· Developed the program to email requisitioner for GR deficits on parked invoices.
+· Report to print total amount of cleared documents by document types.
+· Developed a BDC program in ABAP OOPS to upload vendor master data through transaction
+FK01.
+· Developed a BDC program to upload the parked documents from load file in FB01 based on that file the documents will be posted. 
+· Developed Smart forms, SAP Script for various business requirements.
+· Developed a Webdynpro application for displaying the list of sales orders in a table and   download the details of the sales orders into an excel file 
+
+Roles & Responsibilities:
+This is a supporting project, where my contribution involves the support activities in areas FI and MM modules.
+The primary responsibilities included:
+Coding and creation of unit test plans for the objects developed.
+Performance Improvement of Reports using various Test tools Extended Check, Runtime Analysis etc
+
+Project #3
+Company name		: SHIRE
+Duration		: Aug 2014 to May 2015
+Project Type				: Implementation & Support
+Environment				: SAP R/3 6.0
+Role					: ABAP/4 Technical Consultant
+
+Description:
+Shire Plc. is a Jersey-registered, Irish-headquartered global specialty biopharmaceutical company that is the manufacturer of pharmaceuticals.[3] Originating in the United Kingdom with a large operational base in the United States.
+
+  Reports
+· Inbound Proxy: FI invoice document to be processed with the information coming from sending system (Field glass/Kelly OCG) to receiving system (SAP ECC) through SAP PI.
+· Developed an inactive vendor report.
+· Developed a Vendor healthcare indicator report.
+· Developed an Order Accuracy Report.
+· Developed a Health and Safety Management System (HSMS) report using ALV Grid display oops. 
+  BDC
+· Developed BDC conversion program to upload MATERIAL MASTER MM01.
+· Developed BDC conversion program to upload VENDOR Master XK01.
+· Developed a conversion program to upload Customer Master Data (KNA1) Using Session Method.
+  BAPI:
+· Generated a program to upload  initial stock data using  BAPI   function  module
+(BAPI_GOODSMVT_CREATE).
+· Generated a program to read and display the sales order items  and status of  order using the BAPI BAPI_SALESORDER_GETSTATUS      
+  SAP Script 
+· Modified the existing Sales order confirmation layout (RVORDER01).
+· Modified the existing Invoice layout (RVINVOIVE01) as per client requirement.
+  Smart forms:
+Modified standard RVINVOICE01 to get the company Header, Logo, Changed the Paragraph, Character formats, Total amount in words and displayed terms of payment at the bottom of the layout.
+Developed a smart form for Sales order quotations.
+Created smart form for Vendor Return purchase orders.
+
+
+  Customer Exits & Badi’s:
+Developed Customer Exit ME21N. Added new screen (shipment Date) in Line Item where the 
+    Customer wants Calculate the payment terms for the vendor based on the shipment date.
+Modified user exit in MV50AFZ1 to default batch number from user parameter ID while creating Delivery.
+
+Roles & Responsibilities:
+Support and maintenance
+Analysis of functional documents and preparations of technical specifications.
+Design, coding, review and unit testing.
+Documentation of unit test cases.
+
+Project #4
+Company name		: DELTA TECHOPS
+Duration		: June 2013 to July 2014
+Project Type				: Development & Support
+Environment				: SAP R/3 6.0
+Role					: ABAP/4 Technical Consultant
+
+Description:
+Delta TechOps is a division of Delta Air Lines. Over 9,600 Technical Operations employees system-wide provide full-service aviation maintenance  to Delta and service its fleet of more than 750 aircraft. In addition, we provide complete maintenance for more than 150 other operators.
+
+SAP BW/BI SKILLS:
+
+Responsibilities:
+· Involved in the monitoring of process chains and also to automate the process of loading data into data targets.
+· Used Attribute changerun for the effective use of master data loading and maintained aggregates (rollup)   as part of infocube management.
+. Reconciled the Data of Infoprovider with R/3 datasource.
+. Reconstructing the data request’s from PSA in case of data load failure.
+· Monitored data loads with full update and delta mechanisms for both master data and transaction data.
+· Weekly preparing the status of loads and updating that in client meeting.
+· Maintaining work history for all the tickets until it is closed.
+
+  Reports
+· Developed a Purchase order form will be printed via standard sap transaction code ME9F after all necessary approval done in system.
+· Developed a form for printout for the ROUTINE JOB CARD for Aeromexico connect.
+            This will cover up the AM/AMC customer – Routine job card activities and information.
+· BADI Implementation for Time Button, User Exit For custom fields.
+· Developed code for Data Mapping (Material Master) using BDC.
+· Created a report in SD, that displays the change history of the sales order. The history can be displayed on the basis of either sales order date or customer number or sales order number, as user input on selection screen.
+· Displays the list of Purchase Organization, Document Type and Account Group  according to the Purchase Order Creation Date.
+· Displays the list of Plant, Purchasing Order Unit, Scheduled Quantity, Item Delivery Date, Material Number according to the Purchase Organization, Account Group and Document Type.
+
+   BDC’s (conversions:
+· Developed BDC Program to upload Purchase Orders data from Legacy System to SAP System using the flat file by Session method.
+· Developed BDC Program to upload General Vendor Master Data from Legacy System to SAP System using the flat file by Call Transaction method.
+   SAP-Script:
+· Modified the existing layout for Invoice and the corresponding print program as client requirement. Made use of SAP Standard Report Program RSTXLDMC to upload TIFF files (for logo) and display as Standard text.
+
+Roles & Responsibilities:
+      Getting the business Requirement document from functional consultant / functional analyst.
+      Analyze the business Requirement.
+      Analyze the estimated time for development.
+      Development of Object (ABAP application).
+      Unit Testing by Developer.
+      Receiving tickets/issues from business.
+      Analyzing the ticket.
+      Resolving the issue in time.
+      Developer unit testing testing and transporting.
+
+PERSONAL PROFILE:
+Name                                      : Narendra
+Marital status                          : Married
+Languages Known                 :  English, Telugu, Hindi ,Tamil.
+Location Preferred                 :  Chennai/Bangalore/Hyderabad/Vizag/Kolkata/Bhubaneswar
+
+
+
+
+
+

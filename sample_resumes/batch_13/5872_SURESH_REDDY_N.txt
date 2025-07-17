@@ -1,0 +1,170 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SURESH REDDY N
+Software Engineer (Mindtree)
+Mobile No: +91 9092830961
+Email: sureshreddytech2@gmail.com
+
+.Net developer with 2+ years of experience in developing and maintaining applications. 
+
+Technical Skills:	
+
+Business Areas			:	Manufacturing and Hi-tech, Energy and Utilities
+Programming Languages		:	C#.Net
+Script Languages		            :           JavaScript, JQuery
+IDE					:	MS Visual Studio2010/2013/2015.
+Web Design				:	HTML, CSS.
+Technologies				:	ASP.NET, ADO.NET, ASP.NET MVC, EF.
+Database				:	SQL Server.
+Reporting & Repository		:	TFS.
+Operating Systems		            :   	Windows Family.
+Tools					:	Dapper, .net charting.                                                                             
+
+Professional Summary:	
+
+· Over 2+ years of experience in the areas of analysis, development, implementation of software applications. 
+· Good Experience in implementing the Object Oriented Programming which will improve maintenance and reusability of the code.
+· Strong programming skills in HTML, Jquery.
+· Experienced working in logical structuring of the software applications based on MVC Architecture.
+· Experience in all phases of Software Development Life cycle (SDLC), which includes software analysis, design, development, testing, implementation, maintenance and documentation, deployment of client/server applications using n-tier.
+· Expertise in Database design and development using MS SQL Server 2008/2012, and hands on experience in developing Stored Procedures, functions and triggers. 
+· Having good experience in developing applications using Visual Studio development environment.
+· Equipped with strong analytical, debugging and trouble-shooting skills. Highly motivated and adaptive with the ability to grasp things quickly and possess excellent interpersonal technical and communication skills. 
+· Possess excellent communication, theoretical and leadership skill. Comfortable working both individually as well as in a team. 
+
+
+
+
+Professional Experience:	
+
+· Working as a .Net Developer in R P A S Solutions Pvt. Ltd, Hyderabad from June 2015 to till date.
+Qualification:	
+
+· MCA from OU,HYD with 73% in 2015.
+· B.Sc(Computer Science) from SKU, Anantapur with 74% in 2012.
+·  Intermediate from Sri Vivekananda Junior College With 63% in 2009.
+· SSC from Zp High School with 80% in 2007.
+
+Work Experience:	
+
+Project #3:
+	Project Title		:	Time Sheet Management
+	Client			:	Mind tree (Jan 2017 – Present) 
+	Role			:	.Net Developer
+Environment		:	ASP.NET, C#.NET, ADO.NET.
+Database		:	SQL Server 2012.
+
+Functional areas:
+· Agile Mode of Development
+· Application Migration, Development and Enhancements 
+Project Description:
+			This project is mainly designed to generate the amount of a worker’s time spent on each job. Timesheets may record the start and end time of tasks, or just the duration. It may contain a detailed breakdown of tasks accomplished throughout the project or program. All timesheets must go through approval before they can proceed to the next step of being invoiced. The manager of the employee will have the ability to approve the timesheet that’s been submitted through email. Managers will be able to oversee all their employees timesheets to make sure everything is accurate.
+
+Roles & Responsibilities:
+· Provides Timesheet Newsfeed
+· Submit /Resubmit Timesheets for approval
+· Add notes for a Timesheet
+· Integrated with Tasks in projects.
+· Role based Access control
+· Track and analyze hours by client and project.
+· Used Team Foundation Service in order to access various files from the Repository.
+
+Project #2:
+
+Project Title		:	Mix ERP
+Client			:	Asset Forestry Logistics, New Zealand
+	Role			:	.Net Developer.
+Environment		:	ASP.NET MVC, C#.NET, ADO.NET.
+Database		:	SQL Server 2012.
+
+Project Profile:
+	Mix ERP is insanely fast, rock solid, affordable, and scalable ERP software for business owners who make better-informed decisions. The multiple-establishment feature of MixERP will save business owners time, money, and resources required to re-implement ERP in the future when they open a branch office in a new city. It's just a button click away create the branch office and user logins.
+               This Project one of the module is HRM, project to maintain details about different employees working for the organization like Regular,  Shifts, Project, Leaves, Experience, Time Sheet,  Employee information, Accounts  the details include right from the beginning the employee applied his/her resume to the company to the extent he left the company. Every detail about an employee will be maintained by this application.
+Responsibilities:
+· Involved in designing the user interfaces and coding.
+· Involved in Database design.
+· Involved in maintenance of the application.
+· Used Team Foundation Service in order to access various files from the Repository.
+
+Environment: Visual Studio 2012, MVC, C#.NET, ADO.NET, HTML, jQuery, SQL Server 2012.
+
+Project #1:
+
+	Project Title		:	Dynamic Template
+	Client			:	Canary data solutions ltd
+	Role				:	.NET Developer
+     Environment		:	Visual Studio 2012, MVC, C#.NET, HTML,TFS.
+     Database			:	SQL SERVER 2008.
+Project Description:  
+			Dynamic data websites work on top of the scaffolding framework from Microsoft. The basic idea behind a dynamic data website is that once we have a database ready with us, we can create a data context for this database using either "SQL" or "Entity Framework". 
+
+Once we have the data context ready with us, we can use this context, and the web pages that will perform database operations will be generated at runtime. The important thing to notice is that a dynamic data website generates pages at runtime and it is not some auto generated code by Visual Studio. It does use some template pages and controls to render the actual data, which in fact is a good thing because it gives us the possibility of customization as per our needs.
+
+Responsibilities:
+· Designed and developed user interface using MVC, Entity Framework and C#.
+· Developed SQL queries , Stored procedures and Functions to retrieve and update data from database.
+
+Environment: Visual Studio, MVC, C#.NET, ADO.NET, HTML, SQL Server.
+
+Personal Details:	
+
+DOB				: 	05-03-1992
+Nationality			:	Indian
+
+
+
+
+
+
+
+
+									(Suresh Reddy N)

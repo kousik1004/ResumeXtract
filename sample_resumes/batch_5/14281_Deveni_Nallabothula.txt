@@ -1,0 +1,166 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructions for preparing your “Resume”
+
+     Deveni Nallabothula                                                                            Email: yamini.deveni@gmail.com
+
+ Microstrategy Developer                                                                    Contact: 9949939040                                                                                                                       
+
+Professional Summary
+· 2 yrs of experience as MicroStrategy Developer specializing in MicroStrategy Desktop, Web and 1 yr experience in SQL DB.
+· Good experience in creating interactive dashboards as per requirement.
+· Extensively worked in creating Microstrategy reports, Schema objects (Attributes, Facts) and application objects (Filters, Metrics, Drill maps, Custom groups and Consolidations)
+· Designed dashboards using Visual Insight for quick analysis
+· Good Knowledge in understanding SQL and ability to write SQL queries.
+
+· Basic knowledge in designing workflows using System manager for triggering post ETL events.
+
+· Involved in Migration of objects from Development to Staging and then to Production environments using Object Manager.
+
+· Understand the business needs, developing the solution, testing and rolling out the solution.
+
+· Effective team player with ability to work under pressure and meet demanding deadlines.
+  Technical Skill Set
+	Business Intelligence
+	MicroStrategy
+
+· MicroStrategy Desktop/Developer  (Reporting, Advanced Reporting, Freeform SQL Reporting) version 10
+
+· MicroStrategy Web(Documents, Dashboards, Visual Insight)
+
+
+
+	Database
+	MS SQL Server
+
+
+
+    Work Experience 
+   Microstrategy Developer, Tech Mahindra, Hyderabad (Nov 2015 – Till Date)
+   Client :  LivePerson  
+
+   PROJECT : LPSMART, LP ANALYZER
+   Duration : May 2016 – Till Date
+
+Project Description: LivePerson is an American technology company that develops products for online messaging, marketing, and analytics. LivePerson is best known as the developer of LiveEngage- a messaging platform that allows companies to talk with visitors in real time on websites, mobile, and social networks.
+The project is to design and developed dashboards that will be used by clients to make intelligent business decisions
+
+Responsibilities:
+      On reporting side:
+
+· Interacted with users, gathered requirements and analyzed the needs of end users
+
+· Created Logical Tables, attributes, Facts in Microstrategy
+
+· Imported tables into MSTR from database.
+
+· Created various application objects such as metrics, Drill maps, reports, custom groups and consolidations, filters, Prompts for the project using MicroStrategy Developer 10.x
+· Developed reports with various prompts to generate various reports.
+
+· Created multiple panels and panel stack within the same dashboard and used different functionalities like navigating to different dashboards and reports within the same dashboard.
+· Developed Dashboard with several selectors like time series slider, radio buttons and dropdown menus for the dashboards.
+
+· Created Dashboards using Visual Insights.
+· Used free form SQL editor for report creation.
+
+· Created reports based on intelligent cubes.
+· Involved in testing and bug fixing.
+· Created Email subscriptions to send reports to specific Users.
+
+· Used Integrity Manager to take baseline whenever there is any upgrade or hotfix and compare the reports sql before and after upgrade to check if anything is modified.
+
+On Administration side:
+
+· Provided access to the people who are part of this project by providing a username and a password. Also, worked on the issues raised by them regarding their logins.
+· Used command manager to change the properties of users of a particular user group.
+On Informatica ETL side:
+
+· Created mappings, sessions, worklets, workflows using Informatica ETL tool which are required for ETL process.
+   Educational Qualification
+	COURSE
+	INSTITUTION
+	YEAR OF PASSING
+	AGGREGATE
+
+	B.Tech (ECE)
+	Vasireddy Venkatadri Institute of Technology, Nambur, Guntur(Dt.)
+	2015
+	77
+
+	Intermediate
+	Sri chaitanya Junior college, Guntur
+	2011
+	96
+
+	S.S.C
+	St. Joseph’s High School, Guntur
+	2009
+	94
+
+
+   Al
+ Personal Details
+	 Particular
+	 Details
+
+	 Name
+	 Deveni Nallabothula
+
+	 Father’s Name
+	 Venkateswara Rao Nallabothula
+
+	 Marital Status
+	 Single
+
+	 Nationality
+	 Indian
+
+	 Current Occupation
+	 Microstrategy Developer
+
+
+

@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+	
+	  Mobile: 9989212828      
+
+  Email : kanthreddyb4u@gmail.com
+
+
+
+ Sreekanth Reddy P                            
+	Career Objective
+
+
+To contribute my knowledge and experience in a challenging position, to serve the organization beyond their expectations.
+
+	Professional Summary
+
+
+3+ years of Mainframe experience in Development, Enhancement and Maintenance.
+· Involved in all the Software Development life cycle stages such as Impact analysis, Coding, Review, Unit testing, UAT and Implementation.
+
+· Involved in Production Support Activities, Quality Audits and Implementation process.
+
+· Worked in Insurance domain.
+	IT Experience
+
+
+· Working with COMPUTER SCIENCES CORPORATION, Hyderabad as Engineer – Application Developer from July 2008 – Till date. 
+	Educational Background
+
+
+· B.Tech (Computer Sciences Engineering) with 63% from Sree Vidhyanikethan Engineering College, A.Rangampet, Tirupati in year 2008.
+
+· Pre-degree with 92.8 % from Sri Prathiba Jr College Ongole in the year 2004.
+
+· SSC with 76.6% from St Joseph’s E.M School Pathikonda in the year 2002.
+
+	Technical Skills
+
+
+	Operating Systems
+	Z/OS, OS/390, MVS and Documaker 
+
+	Mainframe Areas
+	VS COBOL II, JCL, VSAM, TSO/ISPF, CICS , DB2
+
+	Tools & Utilities
+	SPUFI, ENDEVOR, SDF2, FILE-AID, EXPEDITOR, QMF, CA VIEW  JOB TRAC and Documerge
+
+	Database
+	DB2 
+
+
+	Project Profile 
+
+
+Company Profile 
+Computer Sciences Corporation India Pvt. Ltd. (CSC India) a CMM 5 and PCMM-3 level company is a wholly owned subsidiary of Computer Sciences Corporation (CSC) headquartered at El Segundo, California. CSC is one of the world's largest computer and data Services Company and operates in the areas of Consulting, Systems Integration and Outsourcing. CSC (NYSE-CSC) is a US $12.1 billion company and has nearly 92,000 employees working in offices across 70 countries. CSC helps its clients achieve strategic and operational results through the use of technology. Its success is based on its culture of working collaboratively with clients to develop innovative technology strategies and solutions that address business challenges.
+	1. Project Name
+	Billing System-General Insurance
+
+	Client
+	Zurich North America,  USA
+
+	Role
+	Team Member
+
+	Team Size
+	12
+
+	Duration
+
+	July 2008 – july 2009
+
+	Environment
+	VS Cobol II, JCL, OS/390, VSAM, DB2, CICS
+
+
+
+	Tools
+	Xpeditor, Endeavor, File-Aid, SPUFI, QMF and CICS
+
+
+
+Project Description:
+Zurich Financial Services Group is an insurance-based financial services provider. It is headquartered in Zurich, Switzerland, founded in 1872, it has a global network of subsidiaries and offices in North America. Zurich NA maintains various Mainframes based applications related to Policy creation, Claims settlement, Billing etc. The following are some of the applications ‘SAM (System of Account Management), Direct Bill, and APAC. The project supports all these applications for ZNA on a 24/7 basis. Apart from that it is also handling various enhancements and development work.
+Responsibilities:
+
+· Involved in all the Software development life cycle stages such as Impact analysis, Coding, Review, Unit testing, UAT and Implementation.
+
+· Involved in Estimating the Task Effort.
+
+· Involved in Job Scheduling and Implementation Process.
+
+· Involved in Production Support and Problem tickets solving.  
+
+· Involved in all the Quality Audits.
+· Interacting with the client and onsite team for status meetings.
+· Involved in training the new team members on both Technical and Project related areas.
+
+	2. Project Name
+	Electronic Document Development (EDD)
+
+	Client
+	Zurich Insurance North America,  USA
+
+	Role
+	Team Member
+
+	Team Size
+	6
+
+	Duration
+
+	July 2009 – july 2010
+
+	Environment
+	VS Cobol II, JCL, OS/390, VSAM
+
+
+	Tools
+	Xpeditor,Endeavor,File-Aid, Documerge,
+
+Oracle DocuMaker Studio® and 
+DAL Scripting
+
+
+	O/S
+	Z/OS 
+
+
+Project Description:
+EDD involves in the development of the end-product of Insurance Company – namely the Policy Documents better known as FORMS. There are a huge volume of forms associated with a single policy. The task involves creation of Forms as per requirements provided by the Client which are also based on lot of conditions and situations given by the insurance Underwriters or the Business Team. There is a lot of Conditions and Logic involved in setting up a particular form for a Policy. EDD designs the forms and also codes the Programs associated with the type of business and generates the required policy. 
+Responsibilities:
+
+· Lead Designer of Policy Documents (FORMS) using Oracle DocuMaker Studio®
+· Testing the designed form in stages of Unit Testing, Quality Assurance and finally moving to Production to Mainframe by way of converting the designed form into META code for transfer to mainframes.
+· Programs coded in COBOL and DB2 to suit Business Requirements.
+· Involved in Estimating the Task Effort.
+
+· Involved in Job Scheduling and Implementation Process.
+
+· Involved in Problem tickets solving.  
+
+· Involved in all the Quality Audits.
+
+· Interacting with the client and onsite team for status meetings.
+
+	3. Project Name
+	Phoenix Ultra Reporting- Prebind and Postbind
+
+	Client
+	Zurich North America,  USA
+
+	Role
+	Programmer  
+
+	Team Size
+	3
+
+	Duration
+	July 2010 – Till-date
+
+	Environment
+	VS Cobol II, JCL, OS/390, VSAM, DB2
+
+
+
+Project Description:
+Data of policy life cycle is stored in multiple databases across different applications. We collect data from different applications (Federated servers) and store it in our tables, this application is ETL part of data warehousing.  Business analyst analyses the data provided in the form of reports and suggest areas of improvement.  This application has served ZurichNA to analyze their failures in business in some of the states. 
+
+Responsibilities:
+
+· Involved in all the Software development life cycle stages such as Impact analysis, Coding, Review, Unit testing, UAT and Implementation.
+
+· Involved in Production Support and Problem tickets solving.  
+
+· Involved in all the Quality Audits.
+
+· Interacting with the client and onsite team for status meetings.
+
+	Environment: 
+
+	· Mainframe-DB2, Cobol, JCL.
+
+
+	4. Project Name
+	  LPL- Lawyer’s Professional Liability
+
+	Client
+	Zurich North America,  USA
+
+	Role
+	Programmer  
+
+	Team Size
+	3
+
+	Duration
+	July 2010 – Till-date
+
+	Environment
+	VS Cobol II, JCL, OS/390, VSAM
+
+
+
+Project Description:
+Data of policy life cycle is stored in multiple databases across different applications. We collect data from different applications (Federated servers) and store it in our tables, this application is ETL part of data warehousing.  Business analyst analyses the data provided in the form of reports and suggest areas of improvement.  This application has served ZurichNA to analyze their failures in business in some of the states. 
+
+Responsibilities:
+
+· Preparing Technical Specification Document, Interface Document, High Level Design Document, Detailed Design Document.
+
+· Providing functional knowledge to team members.
+
+· Involved in all the Software development life cycle stages such as Impact analysis, Coding, Review, Unit testing, UAT and Implementation.
+
+· Involved in Production Support and Problem tickets solving.  
+
+· Involved in all the Quality Audits.
+
+· Interacting with the client and onsite team for status meetings.
+
+	Certifications
+
+
+· INS-21(Insurance Domain Certification)
+	Personal Details
+
+
+Name              : Sreekanth Reddy Potlapati
+Father’s Name  : P.Nagi Reddy 
+
+Date of Birth    : 10th June 1987
+Status             : Single
+E-Mail Id         : kanthreddyb4u@gmail.com 
+
+(SREEKANTH REDDY P)
+
+
+
+Page 1 of 5
+
+
+
+

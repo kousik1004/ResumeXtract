@@ -1,0 +1,225 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CV
+
+
+
+KOMAL K KUMBHARE
+
+W1/11, AWHO Enclave phase 2,					 Mobile: +91 7387241451
+Gondhale Nagar,			 	                 	   EMail: komalkkumbhare@gmail.com
+Hadapsar,	EMail: kkumbhare9@gmail.com	
+Pune- 411 028 (Maharashtra)	
+
+
+Objective:										
+
+· Candidate with sound knowledge about development of automation tests and analyzing specifications for requirements along with a Information Technology degree, seeks to work as an automation test engineer in a recognized company.
+
+Experience:										
+
+· Currently working with Johnson Controls India, Pune as Software Automation QA since May 2017.
+· Worked with Amdocs,Pune as Automation Test Engineer for one year before JCI 
+· Worked with Capita IT Professional Services, Pune as Junior Test Analyst for one year.
+
+Technical:								`			
+
+· Expertise in automating Windows apllication and Web Application using Robot Automation Framework and Selenium Webdriver with Python.
+· Experience of working in PyCharm, RIDE(Robot Framework IDE), Ginger Automation Tool(Amdocs Automation framework/Tool) and Manual Testing. 
+· Very good understanding and hands on experience of Keyword Driven , Data Driven and Hybrid Automation framework.
+· Good understanding of OOP principles.
+· Experience of working in Telecom domain - OSS(Operations Support System),BSS(Business Support System),CRM(Customer Relationship Management) and OMS(Order Management System).
+· Finance and Investment Domain Knowledge - Adviser Management, Customer Creation, Policy Creation, Fund Transfer, Extranet (Front End) and BaNCS(Back End).
+· Experience of writing test cases/test scenario in Qtest and HP ALM and Issue Tracking, Issue Verification and Reporting using JIRA and HP ALM (Application Life Cycle Management).
+· Proactive to suggest, analyze, design, develop and execute Test cases and Test scripts.
+· Intense knowledge of STLC(Software Testing Life Cycle) and SDLC(Software Developement Life Cycle) process. 
+· Good  knowledge of UI testing, Regression Testing, Sanity Testing, Smoke Testing,SIT(System Integration Testing) and UAT(User Acceptance Testing).
+· Awareness of Core Java and Exposure to Linux and DBMS(Sql).
+
+Education:                                                                                                                 
+
+· B.E.(Information Technology) in 2014 with aggregate 65.07% from P.I.E.T., Nagpur (RTMNU).
+· Higher Secondary Certification (10+2) in 2010 with 67% and  Secondary School Certification in 2008 with 92% from State Board.
+
+Certification and Acedemic achievement: :
+
+· Presented Idea on “End-to-End DLS Automation” in JCI Technovate Event. Received Johnson controls Merit Award for Same idea.
+· ISTQB(2015) certified and Merit in Secondary School Certification(2008).	
+
+Knowledge and Skill set:                                                                                                                 
+
+· Languages : 			Python ,Core Java, SQL.
+· Methodology : 		Agile-Scrum, Agile, Waterfall , V-Model
+· Scripting Languages:		HTML, Python
+· Operating Systems: 		Unix and Windows 
+· DBMS:				Oracle, SqlLite
+· Tools:   			RIDE, PyCharm, Ginger, Quality Center(HP),Toad,      					Qtest, JIRA, WebInspect(HP)
+· Awareness:   			SDLC and Software Testing 
+· DevelopmentMethodology:	Object Oriented Programming
+
+Work Experience:									                           
+
+Organization: Johnson Controls India, Pune
+Client: Tyco International plc.(Product of JCI)
+Tenure: May 2017 till date.
+Designation: Software Automation QA
+
+· Experience of working in Embedded Systems for Building Security Solutions.
+· Good understanding of Intrusion Security Applications and Systems.
+
+Pojects:
+· Intrusion Security
+	Module : DLS 1.65 and WebSA
+		
+•	Automating End to End Test scenario of Intrusion Security between panel ,Communicator, 	keypad and DLS application using Robot Framework with Python.
+•	Automation of Regression suite of WebSA Application using Selenium WebDriver with Python.
+•	Automating Testing of all default values on DLS and Comparing with baseline Default data doccument for every new release using Excel Data and Serial Library in Python.
+•	Writing and executing Test cases in Qtest and Raising/reporting Issues and user stories in JIRA.
+•	Working in Agile-Scrum methodology : Attending Sprint meeting, sprint retrospective 	meeting, backlog grooming.
+•	Discussing User stories/Issues with Developers, Scrum Master, Product Owner and 	Functional Testers.
+•	Working with Onshore team - attending daily status, handover calls.
+	
+
+· Intrusion Security
+	Module : DLS 1.64	
+		
+•	Analysis(POC) of different automation tools/framework for UI automation of Windows based 	application. 
+•	Designed and finalized automation approach for UI Automation testing.
+•	Developing and Executing Test scripts for Regression and Sanity Testing using	RIDE 	(Robot Framework IDE)).	
+•	Experience of creating/updating keywords in Python using PyCharm.
+•	Creating Automation Suites using Robot Framework and Python Programming.
+•	Testing of Intrusion Security user stories using embeded systems.
+
+Organization: Amdocs, Pune
+Client: AT&T
+Tenure: May 2016 - May 2017
+Designation: Automation Test Engineer
+
+· Experience of working in BSS(Business Support System) of Telecom Domain.
+· Good understanding of OSS and BSS functionallity.
+
+Pojects:	
+· AT&T LiteSpeed
+	Module : STAR package(BAU Migration)
+ 		
+•	Developing and Executing Test scripts for Regression and Smoke Testing using 	Ginger(Test Automation Framework/Tool).		
+•	Experience of Automation Test Planning using  ATS(Amdocs Testing Studio).
+•	Executing dbms queries using TOAD(Quest Software)
+
+· AT&T LiteSpeed
+	Module : RD(Rapid Development)
+ 		
+•	Developing Test Scripts and Executing Test scripts for CRM(Customer Request 	Management) application in Ginger(Test Automation Framework/Tool).
+•	Performing Test Automation Development and Execution in Agile Methodology.	
+•	Providing feedback and reports to the Functional Team.
+•	Perform responsibilities of testing content.
+•	Work closely with Quality Center(HP).
+	
+Organization: CAPITA IT Professional Services, Pune
+Client: Old Mutual Wealth
+Tenure: May 2015 - May 2016
+Designation: Junior Test Analyst
+
+· Experience of working in Finance and Investment Domain.
+· Experience of working in CMMI Level 5 company.
+
+Projects:
+· Wealth Interactive(CAM 4.0b)
+
+•	Worked for new release of Customer and Management(CAM) project.
+•	Writing Test Scenarios and Executing Test cases on Credit Card module.
+•	Requirement analysis through Buisness requirement Specification(BRS) and High 	Level Design Document(HLD).
+
+· DCM(Security Testing)
+
+•	Perform the responsibility of single point of contact from off-shore for onshore team.
+•	Perform Security Testing using Hp WebInspect Tool.
+•	Understanding of OWASP top 10 vulnerabilities.
+•	Perform Third Party Co-ordination (On-shore).
+•	Raising Firewall Requests and chasing Firewall requests in Service Now(SNOW).
+		
+Strength:		
+		
+· Fast and Quick Learner.
+· Good Team Player.
+· Problem Solving and Aanalytical skills.
+· Disciplined and Punctual.
+
+Hobbies:												
+
+· Playing cricket, Drawing and Travelling.
+· Listening music in leisure time.
+· Watching movies.
+Personal Details:											
+
+Father’s name	:   Krushnarao Kumbhare
+Mother’s name	:   Sandhya Kumbhare
+DOB	:   1st July 1992
+Sex	:   Male                                                                                        
+Marital Status	:   Married                                                                             
+Nationality	:   Indian                                                                                
+Languages Known	:   English , Hindi & Marathi(M)
+
+Declaration:		
+
+	I hereby declare that the above given information is true to the best of my knowledge and belief.	
+								
+Date:						  Komal K. Kumbhare	
+Place:	Pune									 (			)
+
+Curriculum Vitae

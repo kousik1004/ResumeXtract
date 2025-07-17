@@ -1,0 +1,368 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E. Vikram
+
+Email: vikram.enugula@gmail.com	Phone:  +91-8977893018
+
+
+Objective:
+
+To achieve personal & professional growth in work. To accept challenging job opportunities which would show my inner talent, improves my knowledge and want to grab an opportunity to build up my career path.
+
+Profile Summary:
+
+· Having 3.7 years of Professional Experience in Information Technology, In-depth knowledge of object oriented programming using C# and .NET technologies. Worked on HealthCare and online shopping Domains. 
+
+
+	Proven ability to work on multiple projects with deadlines. Detailed oriented with strong problem-solving, communication, interpersonal and teamwork skills.
+
+Technical Skills:
+
+· Having a good hands on experience with Microsoft Technologies, used Object Oriented Programming and Microsoft Technologies to develop solutions for diverse scenarios. 
+
+· Designed and developed web applications using Microsoft .Net Technologies like C#, ASP.NET MVC, Entity Framework, SQL Server, SSIS packages. 
+
+
+· Having a basic knowledge on AngularJS, html/css and JavaScript.
+· Excellent communication skills with strong background working directly with coworkers.
+· Strong but realistic belief in own capabilities and ideas, exhibiting a "can do" attitude and seeing problems as "solvable".
+· Maintaining a positive attitude in the face of changes in work assignments or conditions.
+· Having excellent analytical, problem solving, communication and interpersonal skills, with ability to work with people with different technical knowledge.
+· Designed, coded, and implemented numerous tables and database objects in SQL server 2008/2012. 
+
+
+Experience:
+
+· Working as Senior Systems Engineer since Sep 2016 to till date at INFOSYS Limited, Hyderabad. 
+· Worked as a Software Engineer at NextSphere Technologies private limited, Hyderabad from March 2014 to Sep 2016. 
+
+
+Educational Qualification:
+
+· Bachelor of Technology (CSE) from Jawaharlal Nehru Technological University Hyderabad. 
+
+Achievements:
+
+· Nominated for the Employee of the year award for the year 2015 at NextSphere Technologies among 160+ Employees. 
+
+· Nominated for Employee of the month award for August-2015.
+
+
+Projects:
+	
+#1
+	
+	
+
+	Project Title
+	
+	SESIT Dynamics
+
+	
+	
+	
+
+	Client
+	
+	MICROSOFT
+
+	
+
+	Technologies Used
+	
+	AngularJS,
+
+	
+	
+	, HTML5, Java Script
+
+	
+	
+	
+
+	
+	
+	
+
+	Duration
+	
+	 October-2016 to Till date
+
+
+
+Description: SESIT Dynamics is a Microsoft project mainly focuses on the purchases and claims of Microsoft employees performed using American Express credit cards issued by Microsoft. 
+
+Contribution:
+· As an individual could able to understand the internal functionality quickly and could able to fix the bugs reported by the testing teams. 
+· Able to work on the enhancements in theme designer track by using the technologies such as Angularjs and Typescript.
+· Involved in daily client meetings and could able to communicate with the client and quickly understand the requirements. 
+
+	#2
+	
+	
+
+	Project Title
+	
+	Beacon Member Enrollment Portal
+
+	
+	
+	
+
+	Client
+	
+	HealthAxis LLC
+
+	
+
+	Technologies Used
+	
+	Asp.net MVC, MS SQL Server
+
+	
+	
+	, HTML5 CSS3, JQuery
+
+	
+	
+	
+
+	
+	
+	
+
+	Duration
+	
+	July-2016 to Sep-2016
+
+
+
+Description: Beacon member enrollment portal is a component of Healthaxis Health Plan 2.5. Health plan 2.5 is a complete solution of health insurance domain. It consists of Membership management, Benefits Management, Provider management, Independent practitioners and it has the case management, care management, claim processing features.
+
+Here the Beacon Member Enrollment Portal provides an interface/gateway to the members to be enrolled. To enroll members certain validations and requirements. When the member data satisfies the requirements then member id is generated and it will be moved into Health plan 2.5.
+
+Contribution:
+
+· Gathering requirement from BRD, Business analysts and converting them into functional and technical specifications. 
+
+· Adding estimations to the technical tasks. 
+
+· Coding and Unit Testing. 
+
+· Maintained Tile definitions. 
+
+· Involved in Implementing the Rest Services and Controller Classes with views. 
+
+· Implementing the presentation logic. 
+
+· QC environment releases
+
+	#3
+	
+	
+	
+
+	Project Title
+	
+	HEALTH AXIS NEXT GENERATION SERVICES PLATFORM
+	
+
+	
+	
+	
+	
+
+	Client
+	
+	Health Axis
+	
+
+	
+	
+
+	Technologies Used
+	
+	Asp.NET MVC, C#, MS Sql Server, TFS, Visual Studio 2013,  
+
+	
+	
+	 SSIS packages
+	
+
+	
+	
+	
+	
+
+	Duration
+	
+	October-2015 to June-2016
+	Team Size: 20
+
+
+
+Description: Health Axis group has a system to support all the health care related activities. Members can enroll into health plans with corresponding benefits. Vendors or Providers shall provide services to members. Providers shall submit the claims and eligibility records to the adjudication engine which will process the claim and approve or deny the claim. The Administrator can setup Contracts, Determinants, Benefits and Fee Schedules. The system will also authorize the Providers. Members should be Authorized using Authorization and after authorization only Claims get processed.
+Contribution:
+
+· Understanding the Business requirement and Functional specification documents.
+· Performed the feasibility study for the database with the requirements.
+· Develop Business logic and screen design.
+· Interacting with team lead and translate their requirements, business rules into technical requirements. 
+· Using SSIS Packages done the migration of data from ‘.csv’ files to database.
+
+
+	#4
+	
+	
+	
+
+	Project Title
+	
+	Monavie (NextGenVO).
+
+	
+	
+	
+	
+
+	Client
+	
+	Monavie
+	
+
+	
+	
+
+	Technologies Used
+	
+	Asp.net MVC, MS SQL Server, Entity Frame Work
+
+	
+	
+	HTML5 CSS3, Angular JS, Java Script
+
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+	Duration
+	
+	June-2014 to October-2015
+	Team Size: 15
+
+
+
+Description:  Monavie is the E-Commerce project.  MonaVie manufactures and distributes products made from blended fruit and vegetable juice concentrates, powders through a multi-level marketing (MLM) business model, with the help of the system developed in classic ASP known as Virtual Office.	The idea behind building a new system was to provide easy maintenance against the current Virtual Office. 
+The next generation Virtual Office is a web based application that launches new markets for MonaVie customer on a new .Net solution with all core feature that is currently provided by Virtual Office (Classic ASP). The next generation Virtual Office provides major transactional flows for Products display, Enrolling, Ordering of a product and Account management.  This project which is used to sell the Monavie products through online like health juices and other Monavie products. In this we have Enroll module and Purchase module in different Ways like Personal order and Autoship etc.
+
+Contribution:
+As a team member,
+· Being a fresher to the IT industry involved in Production support.
+· Able to deliver the assigned tasks within the given time limit.
+· Interacting with team lead and translate their requirements, business rules into technical requirements. 
+· Done the client side validations for China enrollments based on the given BRD.
+
+
+	Personal Profile:
+	
+	
+
+	Name
+	:
+	Vikram Enugula
+
+	Father Name
+	:
+	Venakta Subbaiah
+
+	Nationality
+	:
+	Indian
+
+	Date of Birth
+	:
+	06/10/1990.
+
+	Languages known
+	:
+	Telugu, English and Hindi.
+
+	Interests
+	:
+	Listening  to  music,  watching  movies,  Learning
+
+	
+	
+	Technologies
+
+
+
+
+
+Declaration:
+
+I hereby declare that all the above furnished details are true to the best of my knowledge.
+
+	Place:
+	Hyderabad
+	(E. Vikram)
+
+	Date:    
+	   
+	
+
+
+

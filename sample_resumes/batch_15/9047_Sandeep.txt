@@ -1,0 +1,278 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sandeep G
+
+G.Sandeep
+
+
+sandeepabap4u@gmail.com 
+
+9980627267                                                                                                                                          
+
+Objective:
+Seeking a challenging and rewarding career in ERP as SAP-ABAP professional where I can contribute my knowledge and skills for growth and development of the organization. I shall implement solutions that meet the customer requirements using my varied software development skills and technical expertise. 
+Profile Summary:
+· Having 3+ Years experience as a SAP Archiving & ABAP consultant.
+
+· 1 – End to end SAP MM modules projects implementations experience.
+
+· 3 plus years of SD & MM technical experience
+· Expertise on SAP Data Archiving.
+
+· Expertise to analyze and creating the Attributes for archiving.
+
+· Expertise in IDOC’s, FMs and BDCs, BAPI.
+· Hands on experience in User exits, Customer exits, BADI's and Enhancement frameworks.
+
+· Well experienced in performance tuning of developed applications. 
+
+· Participated in team meetings and knowledge sharing activities.
+
+· Self-directed, proactive in nature with good interpersonal, communication, analytical and problem solving skills.
+ABAP Expertise:
+
+· Good experience in SAP Data Archiving, IDOC’s ,BDC,Performance tuning, Data dictionary, ALV reports using ABAP OO, BAPIs, RFCs, FMs, User exits, Customer exits, BADI's, Enhancement frameworks, Smart forms, Classical reports and interactive reports.
+Professional Experience:
+
+· Working with Genpact India Pvt Ltd., Hyderabad from March 2017 to till date as a SAP Consultant
+
+· Worked with Cognate It Services Pvt Ltd., Bangalore from November 2016 to March 2017 as a SAP Consultant.
+
+· Worked with IBM India Pvt Ltd., Bangalore from February 2014 to July 2016 as a SAP Consultant.
+Educational Qualification:
+
+· 2010 - B.Tech from St.Mary’s College of Engg & Tech, J.N.T.University, Hyderabad. 
+Project Experience:
+
+Project #6:
+
+  Client                                           : GE Industry and Services
+  Environment                               : SAP R/3 ECC6.0
+
+  Role                                             : SAP ABAP & CRM RMS Data Archiving
+  Duration                                      : March 2017 to till to date
+Client Profile: 
+Genpact is a global business process management and services and IT corporation. Its charter was to provide business process services to GE's businesses, with the goal of enabling outstanding efficiencies. During the eight years that followed, Genpact began to manage a wide range of processes across GE's financial services and manufacturing businesses.
+Responsibilities:
+
+In the project, my contribution involves the development activities in areas for archiving CRM RMS data. As a member of the SAP Archiving team, responsible for finding the error and error free RMS data and archive the RMS data.
+
+Objects Developed / Customized:
+· Created custom archiving objects for archiving RMS data in AOBJ.
+
+· Developed write and delete programs for customized archiving objects
+
+· Maintained customizing settings for customized archiving objects
+
+· Maintained excel sheet for closed RMS data.
+
+· Archived RMS data using SARA
+Project #5:
+
+  Client                                           : PepsiCo
+  Environment                               : SAP R/3 ECC6.0
+
+  Role                                             : SAP ABAP & Data Archiving
+  Duration                                      : Nov 2016 to March 2017
+Client Profile: 
+
+               PepsiCo, Inc. is an American multinational food, snack and beverage corporation headquartered in Purchase, New York. PepsiCo has interests in the manufacturing, marketing and distribution of grain-based snack foods, beverages and other products. PepsiCo was formed in 1965 with the merger of the Pepsi-Cola Company and Frito-Lay, Inc. PepsiCo has since expanded from its namesake product Pepsi to a broader range of food and beverage brands, the largest of which have included an acquisition of Tropicana Products in 1998.
+
+Responsibilities:
+
+In the project, my contribution involves the development activities in areas for sales documents archiving. As a member of the SAP Archiving team, responsible for finding the error and error free Sales document data and archive the sales document data.
+
+Objects Developed / Customized:
+· Analyze cancelled background jobs and solve the issues.
+
+· Run archiving jobs for sales document dependencies archiving objects. 
+
+· Run DLFL program for error free sales orders using SARA.
+
+· Run Write and store program using SARA.
+
+· Archived Sales Documents using SARA
+Project #4:
+
+  Client                                           : Ericsson
+  Environment                               : SAP R/3 ECC6.0
+
+  Role                                             : SAP FI Document & Workitem Archiving
+  Duration                                      : Jan 2016 to Jul 2016
+Client Profile: 
+
+               Ericsson is a Swedish multinational provider of communications technology and services. The offering comprises services, software and infrastructure within Information and Communications Technology (ICT) for telecom operators and other industries, including telecommunications and IP networking equipment, mobile and fixed broadband, operations and business support solutions, cable TV, IPTV, video systems, and an extensive services operation..
+
+Responsibilities:
+
+In the project, my contribution involves the development activities in areas for workitems and fi_document archiving. As a member of the SAP Archiving team, responsible for finding the error and error free Sales document data and archive the sales document data.
+
+Objects Developed / Customized:
+· Before start workitems, need to analyze the tables for occupied space using TAANA.
+
+· Analyze archiving object selection criteria for archive workitem.
+
+· Maintain residence time for archiving object. 
+
+· Run archiving for workitems using archiving object WORKITEM in SARA.
+
+· Before start archive for fi document data, need to analyze the tables for occupied space using TAANA.
+
+· Maintain residence time for archiving object. 
+
+· Analyze FI_DOCUMNT archiving object selection criteria for archive fi documents data
+
+· Run archiving for fi documents using archiving object FI_DOCUMNT in SARA.
+
+· After finished archiving for fi documents run postprocessing for fi document in SARA.
+Project #3:
+
+  Client                                           : Ericsson
+  Environment                               : SAP R/3 ECC6.0
+
+  Role                                             : SAP ABAP Consultant 
+  Duration                                      : Apr 2015 to July 2016
+
+Client Profile: 
+
+               Ericsson is a Swedish multinational provider of communications technology and services. The offering comprises services, software and infrastructure within Information and Communications Technology (ICT) for telecom operators and other industries, including telecommunications and IP networking equipment, mobile and fixed broadband, operations and business support solutions, cable TV, IPTV, video systems, and an extensive services operation..
+
+Responsibilities: 
+
+· Responsibilities included analysis of technical specification.
+
+· Analysis and development of objects as per client requirements.
+
+· Coding according to Client Standards.
+
+· Interactive reports to call different transactions from primary list.
+
+· Set up  process to deliver the objects in high quality standards with Runtime
+
+· Modified/created SAP documents using Smart forms/Sap scripts
+
+Important Objects Developed / Customized:
+
+· Developed an ALV Report, Displaying the Purchase Order Header details on the basic list and on double-clicking any of the record on the basic list the item-level information is displayed on The Secondary list.
+
+· Created a Hierarchal ALV Report to list delivery details for a customer and corresponding sales order details for each delivery. 
+
+· Created a BDC program to create Vendor Master with reference to the Bank Details by using Table   Controls.
+
+· Extending  the Standard IDOC for Customer General Data with Message Type DEBMAS,
+
+· Printing Total, Carry forward amount and Grand total in Smart Forms
+
+·  Developed Smart Forms for Displaying Invoice Details.
+
+· Picking material description from custom table in the SAP Sales Order (VA01 and VA02) using Enhancement framework.
+
+Project #2:
+
+  Client                                           : Ericsson
+  Environment                               : SAP R/3 ECC6.0
+
+  Role                                             : SAP ABAP & Sales Document Archiving
+  Duration                                      : Aug 2015 to Dec 2015
+
+Client Profile: 
+
+               Ericsson is a Swedish multinational provider of communications technology and services. The offering comprises services, software and infrastructure within Information and Communications Technology (ICT) for telecom operators and other industries, including telecommunications and IP networking equipment, mobile and fixed broadband, operations and business support solutions, cable TV, IPTV, video systems, and an extensive services operation..
+
+Responsibilities:
+
+In the project, my contribution involves the development activities in areas for sales documents archiving. As a member of the SAP Archiving team, responsible for finding the error and error free Sales document data and archive the sales document data.
+Objects Developed / Customized:
+· Before start sales document archiving, first need to check dependencies for other objects.
+
+· Excluded opened value contracts using BADI.
+
+· Excluded opened sales orders.
+
+· Maintain residence time for archiving objects. 
+
+· Run archiving jobs for sales document dependencies archiving objects. 
+
+· Run DLFL program for error free sales orders using SARA.
+
+· Run Write and store program using SARA.
+
+· Archived Sales Documents using SARA.
+
+Project #1:
+
+  Client                                           : Ericsson
+  Environment                               : SAP R/3 ECC6.0
+
+  Role                                             : SAP Project System & IScala Archiving
+  Duration                                      : Feb 2014 to May 2015
+Client Profile: 
+
+               Ericsson is a Swedish multinational provider of communications technology and services. The offering comprises services, software and infrastructure within Information and Communications Technology (ICT) for telecom operators and other industries, including telecommunications and IP networking equipment, mobile and fixed broadband, operations and business support solutions, cable TV, IPTV, video systems, and an extensive services operation..
+
+Responsibilities:
+
+In the project, my contribution involves the development activities in areas for finding the project related error WBS elements and networks. As a member of the SAP Archiving team, responsible for finding the error and error free projects and archive the project related PO’s and PR’s then set the deletion flag and deletion indicator for the project and then archive the projects. In IScala archiving I need to analyze the client requirement for creating attributes and upload to the client server.
+
+Objects Developed / Customized:
+· Downloaded the files from Non SAP system
+
+· Created the attributes based on the client requirement
+
+· Uploaded the attribute files into client server
+
+· Archived network related PO’s & PR’s
+
+· Modified the code for finding the projects related error networks and error WBS elements
+
+· Set the Deletion Flag for the project with related network using SARA
+
+· Set the Deletion Indicator for the project with related network using SARA
+
+· Archived PS Projects using SARA.
+· For Scala archiving prepared attribute files and uploads to IXOS server.
+

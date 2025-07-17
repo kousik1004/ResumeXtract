@@ -1,0 +1,384 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAP ABAP Consultant
+
+
+Karthikeyan R
+
+SAP ABAP Consultant
+E-mail : r.srikarthik@gmail.com
+Cell: +91 9600063536
+ 
+Professional Summary:
+· Current project with S4/HANA version 1511.
+· Having 4 years of extensive working experience in SAP ABAP on HANA.
+
+· Having good working experience in SAP WORKFLOW.
+· Worked in SAP ABAP Web Dynpro.
+· Having knowledge on OOPS, FIORI Standard Applications.
+· Good Experience in working under tight deadlines and client handling skills.
+
+· Highly motivated self-starter with ability to handle multiple projects, excellent team player with solid communications skills.
+
+· Good experience in SAP R/3 involved in development of ABAP/4 programs for SD, MM, PP, PM, FI, HR Modules. 
+
+Achievements:
+· Bagged second price in demo jam on SMAC Technologies.
+Expertise:
+· Worked in Reports, Interfaces, Conversions, Enhancements and Forms (RICEF).
+Academic Qualification:
+        B.E (2011) in CSE from Er.Perumal Manimekalai Engineering College, Hosur. 
+Professional Experience:
+	Company Name
+	Designation
+	Duration
+
+	KAAR Technologies
+	Consultant
+	Nov 2013 - Till Date
+
+
+Project Summary:
+Project #7:  Implementation
+
+Client
+
+:
+AL-Mansoori
+Project Type
+:
+Implementation
+
+Role
+
+:            Consultant
+
+Location              :            Chennai
+Duration              :            March 2107 to Till Date
+
+· Developed Reports using HANA STUDIO with AMDB method.
+
+· Developed CDS View using HANA STUDIO.
+· Developed Master data upload program using BAPI’s for Material Master.
+
+· Developed BDC Program for XK15 Transaction code in multiple conditions. 
+
+· Developed Customizing Reports as per the client’s requirements.
+
+· Designed Adobe Forms for PO.
+
+· Enhancements for multiple Standard transactions.
+
+· Create custom function modules.
+
+· Create Automatic Mail sending and Fax sending program for Dunning process.
+
+· Create Automatic Mail sending with Account statement pdf attachment to particular customer.
+
+· SAP NOTE implemented for ME21N (PO creation).
+· Create Implicit Enhancement for Dunning and Sale Order standard program. As per customer requirement.
+Project #6:  Implementation
+
+Client
+
+:
+Saudi Aramco
+Project Type
+:
+Implementation
+
+Role
+
+:            Consultant
+
+Location              :            Onsite (Saudi Arabia)
+Duration              :            Aug 2106 to March 207
+Roles and Responsibilities:
+· SAP Webdynpro ABAP technical consulting.
+· Analysis requirements in order to develop new developments.
+Key Deliverables:
+·  Developed webdynpro application for Non Compliance Request. This application is used to
+ create non compliance request for pipe materials and get approval from purchase order byer. 
+
+ this request raised from SNC system to ECC system.
+·  Developed webdynpro application for Delivery Schedule. This application is used to
+
+ create Delivery Schedule request and get approval from pipe yard planner. 
+
+ this request raised from SNC system to ECC system.
+
+·  Developed webdynpro application for Document Attachment. This application is used to attach 
+ Relevant document for any process. This one is reusable component.
+·  Developed webdynpro application for Remarks Update. This application is used to write 
+
+ Relevant remarks for any process. This one is reusable component.
+·  Developed webdynpro application for Pipe Profile Creation. This application is used to 
+ create profile for pipe materials this profile has unique ID’s, materials characteristic and 
+
+ RFID  signals. using  this profile able to track the pipe materials.
+
+·  Developed smartforms for Non Compliance Request details.
+·  Developed BAPI program for physical inventory creation.
+·  Developed report for delivery schedule calendar plan.
+·  Developed RFC function module for get PO details from ECC system for create 
+ Non Compliance Request in SNC system.
+
+·  Developed RFC function module for get Delivery Schedule details from SNC system to
+
+ Update ECC system.
+
+Project #5:  Implementation
+Client
+
+:
+Alkifah
+
+Project Type
+:
+Implementation
+Role
+
+: 
+Associate Consultant
+Location              :            Onsite (Saudi Arabia)
+Duration              :            Aug 2105 to Aug 2016
+Roles and Responsibilities
+· SAP ABAP Technical Lead.
+
+· Owner of custom development and control strategy.
+
+· Made developments as per the user requirements.
+Key Deliverables:
+·  Developed enhancement for DMS document attachment to transaction PA30, MIGO, MIRO, FB03. 
+
+·  Created BAPI upload program for DMS document bulk upload.
+·  Developed SAP FI interface between third party system(ORACLE DB) and SAP system.
+
+ In this interface get JV data and customer data from third party system, post financial JV to 
+ SAP system also create customer to SAP system.
+
+·  Created BDC program for PM task list upload.
+
+·  Created maintenance check list form using ADOBE.
+
+·  Created quality notification mail trigger program.
+
+·  Created INVOICE, JOB ORDER, DELIVERY NOTE forms using ADOBE.
+
+·  Created workflow for transaction VK11, condition record approval process.
+
+·  Implicit Enhancement for customer master creation.
+
+·  Implicit Enhancement for automatic invoice from delivery.
+
+·  Report developed for employee end of service.
+
+·  Report developed for employee loan details and summary.
+
+·  Created BAPI upload program for employee communication details upload.
+
+·  Create custom function for payroll process, it is updated the IT and RT table.
+
+·  FIORI transactional application activated for release production order.
+·  FIORI transactional application activated for confirm production operations.
+·  FIORI factsheet application activated for maintenance notification.
+Project #4:  Implementation
+Client
+
+:
+Gulf Ocean Trading Company
+Project Type
+:
+Implementation
+Role
+
+: 
+Associate Consultant
+Duration              :            Jun 2015 to Aug2015
+Roles and Responsibilities
+· SAP ABAP Technical consulting.
+· Analysis requirements in order to overcome the problems in the older system.
+Key Deliverables:
+· Developed Reports using HANA STUDIO with AMDB method.
+
+· Developed CDS View using HANA STUDIO.
+· Developed Master data upload program using BAPI’s for Material Master.
+
+· Developed BDC Program for XK15 Transaction code in multiple conditions. 
+
+· Developed Customizing Reports as per the client’s requirements.
+
+· Designed Adobe Forms for PO.
+
+· Enhancements for multiple Standard transactions.
+
+· Create custom function modules.
+
+· Create Automatic Mail sending and Fax sending program for Dunning process.
+
+· Create Automatic Mail sending with Account statement pdf attachment to particular customer.
+
+· SAP NOTE implemented for ME21N(PO creation) .
+· Create Implicit Enhancement for Dunning and Sale Order standard program. As per customer requirement.
+
+· Done the Workflow development for PR approve process.
+
+· Done the Workflow development for PO approve process.
+Project #3:  Implementation 
+Client
+
+:
+STOMO
+Project Type
+:
+Implementation
+Role
+
+: 
+Associate Consultant
+Duration              :            Apr 2015 to Jun2015
+Roles and Responsibilities
+· SAP ABAP Technical consulting.
+· Analysis requirements in order to overcome the problems in the older system.
+Key Deliverables:
+· Done the Enhancements in MM01 screen for long text, In that long text is added in ME21n, ME22n, and ME23n screen material field search help.
+
+· Customizing report for PO release status comparing release code and release group.
+· Create Enhancements for PO line item restriction.
+· Developed dynamic ALV MM report for PO against PR details.
+
+· Developed screen programs for Cash Journal and that document is parked in standard transaction using BAPI.
+
+· Developed report for bank reconciliation.
+· Created Data Dictionary Object like Tables, Views, and Structures.
+· Developed inventory aging report.
+Project #2:  Upgrade
+Client
+
+:
+Mowasalat
+
+Project Type
+:
+Upgrade
+
+Role
+
+: 
+Associate Consultant
+Duration              :            Mar 2015 to Apr 2015
+Key Deliverables: 
+
+· Activity in SPAU, During SPAU done the note correction’s, adjusted the FRICE object’s reset the object’s as per requirements.
+
+· Activity in SPDD, During SPDD done the adjustment for DDIC (Data Dictionary) objects.
+
+· Activity in SPAU_ENH, During SPAU_ENH done the adjustment for Implicit Enhancement, BADI and Enhancement Implementation also.
+
+· Post upgrade activity like SAP NOTE implementation, Activate some STANDRAD OBJECT, Adopted the customer enhancement object to SAP STANDRAD. 
+
+· SAP Query generation for all the Query based reports. 
+Project #1: Support 
+Client
+
+:
+AL MULLA Group
+Project Type
+:
+Support
+Role
+
+: 
+Associate Consultant
+Duration              :            Nov 2013 to Feb 2015
+Key Deliverables:
+· Created reports for customer aging, vendor aging and enhanced for standard report.      
+· Created interface between ORACLE to SAP system for employee creation, employee timesheet(CATSDB), employee change details and salary JV. This interface get data automatically from ORACLE and also done the SAP transactions. (Got appreciation for this process go-live). 
+· During Upgrade, Done the SPAU and SPDD activity and support the post upgrade process also.
+· Post upgrade activity like SAP NOTE implementation, Activate some STANDRAD OBJECT, Adopted the customer enhancement object to SAP STANDRAD
+· Created Automatic Mail sending program for Employee details.
+· Resolve the Report and Smart form issues.
+· Created Data Dictionary Object like Tables, Views, and Structures.
+· Created report for asset balances in FI module.
+· Created tables to store the data provided by the employees.
+
+· Developed BADI Implementation for customer screen group check.
+· Solved issues for PO approval workflow.
+
+· Created BDC for employee timesheet upload.
+· Created BAPI for employee creation and employee change details.
+· Created BAPI for upload employee leave infotype.
+Personal Details:
+· Name 
+
+
+:  Karthikeyan R
+· Father’s Name
+
+:  Rajendran 
+· Date of Birth. 
+
+:  03.05.1990
+· Sex     
+
+
+:  Male
+· Address
+
+
+:  141-B, Diamond Nagar, 
+                                                    Pudukkottai – 622001,
+
+                                                    Tamil Nadu.
+
+Place:
+
+Date:
+
+
+
+1
+

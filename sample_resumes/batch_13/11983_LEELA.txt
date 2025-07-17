@@ -1,0 +1,220 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VITAE
+
+LEELA.G
+Mail Id:  leela_gt@yahoo.com
+
+
+
+
+                                                                                                                        Mobile No : 9620239565
+
+
+
+
+
+
+                      
+Career Objective:
+To work in a globally competitive environment on challenging assignments that would help me to explore myself fully and realize my potential that shall yield the twin benefits of the job satisfaction and a steady paced growth.
+ Professional Experience:
+
+· Having 2.5years of experience in Software Automation/Manual Testing. 1year experience in Development and 1.5years experience in Testing.
+· Working as a Associate Software Test Engineer for Symphony TELECA from FEB-2010 to till now
+· Work  as a Software Developer  for ARKA Technologies from Jan 2009 to Feb 2010
+
+Academic Qualification:
+· BE(E&C) from  VIT College of Engineering, V.T.U, Belgaum with 70 % in 2007
+· P.U.C from National College, Bangalore with 80% in 2003
+· S.S.L.C from National High School, Bangalore with 88% in 2001
+
+Strengths
+· Good Knowledge on C,python scripts
+· Strong in SDLC, STLC, Defect Life Cycle and Test Methodologies.
+
+· Hands on Experience in Automation/Manual Mobile applications testing.
+· Extensive experience in writing Test Scenarios, Test cases.
+· Hands on experience in implementing Test Case Design Techniques and Execution of Test cases.
+
+· Well experienced in Functionality, System and Regression Testing
+
+· Active participation in test case review meetings.
+
+· Expertise in Problem solving and Tracking Bug Reports using Bug tracking tools.
+
+· Strong Communication and interpersonal skills.
+Technical Skills:
+
+
+Languages
+
+:
+C
+
+Script Language
+:
+Python 2.7 
+
+Tools
+
+
+:
+Bugzilla, Rational Change (RC) tool, Fast trace, Phoenix flashing.
+
+Operating Systems
+:
+Windows XP, Symbian OS, Android
+Project Experience
+Project Title:  Device Customization of variants 
+
+The project involves, Build, testing and releasing activities for Variant creation for different products and Versions on Symbian S60 and 
+Meego platform 
+Role:         Test and Release Engineer
+Team Size and set-up: More than 40 members, Multisite project
+
+Client Industry/Location: Nokia, Bangalore
+
+Platform/OS: Symbian
+
+Tools: Phoenix Flashing, Rational Change tool.
+
+Responsibilities:
+
+· FOTA (Flashing/Firmware update over the air) Creation.
+
+· Data Package Building
+
+· Variant testing activity for different products and S/W versions
+
+· Building production packages
+Project Title:  Remote Android Testing
+The Remote Android Testing can be described as follows:
+
+· Before the test case is executed, the Test script file and the data file shall be load as part the client machine (as described in above diagram). The test scripts are ether stored as: Python file using Monkey script, Test apk files. When the test case is executed, as part of the ”Setup ” the test scripts file , and data files required for testing shall be  uploaded to the server machine, using FTP Upload The FTP server running on the server machine shall download the script file and the data file to specified location.
+
+· As part of the test case body, TCP connection shall be established between the client and server.  Using the TCP connections, the Client sends the TC executable commands After the TC execution completes, the server will send the notification (TC Execution Complete) to the client. After received the notification the client shall start FTP download of the Log file generated at the time of execution.
+Role:         Automated Test Engineer.
+
+Team Size and set-up: 10members
+Client Industry/Location: Internal Client Demo project
+Platform/OS: Android SDK and Python scripting 
+Tools:  Python 2.7, Android SDK 2.3, Android Screen Capture, FileZilla Server, Eclipse IDE
+
+Responsibilities:
+
+· Writing python scripts to Upload and Download files through FTP connection.
+
+· Scripts written to establish TCP connection between Server and Client.
+
+· Send and Receive commands between Server and Client is done.
+· Executed test cases for sending 100 sms and running of APK files for some Applications
+Project Title:  Android Telephony (Gingerbread)
+The main purpose of Android Telephony consulting for Cosmopolitan (GB) project is to develop a WCDMA phone product based on Android Froyo. The product is a variation of LGE’s product for WCDMA network based on HW platform with IFX6260 modem with HSPA+ support. The implementation considers porting, design, coding, integration testing/verification and maintenance.
+Role:         Test Engineer
+Team Size and set-up: More than 25 members
+Client Industry/Location: LG Korea
+
+Platform/OS: Android, Eclipse
+Tools: Phoenix Flashing, Bugzilla
+Responsibilities:
+
+· Study and Analysis of test requirement documents of the application
+· Involved in writing Test specification.
+· Execution of Features and sanity test suites.
+
+· Reporting of issues found during test.
+
+· Regression testing for resolved bugs.
+
+· Verification of duplicate, resolved and invalid bugs and closing them in bug reporting tool.
+Project Title:  S60 Browser
+The Browser application provides an opportunity to open and interact with web pages. Web pages can be implemented in HTML, XHTML or Wireless Markup Language (WML).This specification describes how to access the Browser and how to use the browser features that are not related to bookmarks, settings, or downloading 
+
+The browser has the following views:
+
+Content view:  displays web content. It is a unique view to the phone in several respects. The displayed content can be interactive in many ways, which renders the options available to the user more dynamic than in other cases. To make dynamic content more usable, the content view incorporates a pointer analogous to the mouse pointer on a desktop PC. As the pointer hovers over different interface objects, the user’s options change.
+
+The content displayed by the browser in content view can include plug-in applications, for example to open embedded video content, Bookmarks view is a list view, Downloads view is a list view. Settings view is a list view in which the user sets preferences for the Browser.
+Role:         Developer
+
+Team Size and set-up: More than 28 members
+Client Industry/Location: Nokia, Bangalore
+Platform/OS: Symbian (S60 browser)
+Tools:  TSW, IBM Rational Change, Phoenix Flashing, Carbide C++
+
+Responsibilities:
+
+· Test case execution
+
+· Analysing of bugs
+
+· Finding root cause and resolving issues.
+
+Personal Information:
+Father’s name             :        Gangaraj.M
+Date of birth
+          :        26th Feb 1985
+Sex
+
+          :        Female
+Marital Status
+          :        Single
+
+Nationality
+          :        Indian
+
+Languages Known      :        English, Hindi and Kannada 
+
+I hereby declare that the above furnished information is true to the best of my knowledge.
+
+Date: 
+Place: Bangalore                                                                                               (Leela.G)

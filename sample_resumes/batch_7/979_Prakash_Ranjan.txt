@@ -1,0 +1,238 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prakash Ranjan
+					
+
+
+eMail- ranjanprakash13@gmail.com                                                                          Cell: +91-7032661855
+
+
+
+Career Objective:
+
+To work with an organization where I can get challenging opportunities in order to grow with organization and learn new things.
+
+
+
+Academic Qualification                                                                 
+
+	Degree
+	Year
+	Mark(%)
+	Institution/Board
+
+	B.TECH.
+	2009-2013
+	66.54
+	Yeshwantrao Chavan College of Engineering, Nagpur
+
+	12th
+	2009
+	81.4
+	Loyola High School, Patna (CBSE Board)
+
+	10th
+	2007
+	81.2
+	St. Aloysius’ High School, Ranchi (Jharkhand Board)
+
+
+
+
+Experience Summary  
+· 3.5+ years of experience as the Linux/Solaris System Administrator.
+· Have experience on Networker Backup & Recovery tool and Juke Box Tape Library.
+· Have experience in working with Solaris/Linux environment.
+· Worked directly with businesspersons and end users to understand and fix the issues.
+· Daily Client interaction to provide updates in the Daily Huddles.
+· Worked on Hitachi USPV/VM/VSP storage system
+· Trained in ITIL v3 and worked on incident/change/problem management
+· SVM/ZFS administration
+
+
+Technical skill                                                                                                                                                             
+
+
+	Skill Domain
+	Energy and Utilities
+
+	Primary Skill : Operating System
+	RHEL 5 & 6, Oracle Solaris 8, 10 & 11
+
+	Secondary Skill : Backup & Recovery
+	Dell EMC Networker
+
+	Databases
+	Oracle, MySQL
+
+	Tools used
+	IPA, RHN Satellite, Watch4net, Nagios, BMC Ticketing tool, Networker, Tripwire, OEM Ops Center 12c, 
+
+
+Work Experience
+
+· April’14 to July’16 (Worked as RHE Linux/Solaris System & Backup Administrator)
+· August’16 to till date: working as Oracle Solaris & Backup Admin.
+
+
+Project Profiles : 
+
+Project 1: Southern Water Systems, UK 
+
+Duration	:	April’14 – July’16
+Role		:	 Unix & Backup Administrator L2 & L3.
+Team Size	:	3
+Location	:	Offshore
+
+Description:
+Southern Water Systems is the private utility company responsible for the public wastewater collection and treatment in Hampshire. The IT management was taken care by WIPRO. Southern Water Systems has two data centers: Worthington and NGDC. The key role for Unix admin is to support and administer the RHEL/VMWare environment and also take care of the estate backup.
+
+Solution Environment & Tools:
+IPA, RHN Satellite, BMC Remedy tool, Watch4net, Networker Backup tool, Nagios, Tripwire
+
+Key Responsibilities:
+
+· Linux system administration.
+· Users’ account management.
+· Monitor system performance and network communication
+· SFTP/Exim/Samba/Nfs/Cifs/Printer etc services configuration and management.
+· Incident / problem determination and resolution on a 24x7 basis.
+· Incident, Problem, Change and Configuration management, Service incidents and queries within the agreed service levels and timely escalation of incidents to higher levels when required.
+· Perform Service Requests based on Standard Operating Procedures. 
+· Work on scheduled tasks as part of Change Management. 
+· Handle issues independently and suggest/ implement service improvements plans.
+· Identify and highlight scope of automation to lead or Manager.
+· Proactive housekeeping and monitoring activities, Vendor co-ordination
+· Prepare the monthly SDR/Capacity/Estate data reports.
+· Monitor, schedule, modify schedules, start/stop backup jobs as per the request using Networker Management Console.
+· Configure/remove clients for backups & basic trouble shooting for backup issues.
+· Restoration of data as per the request.
+Project 2: BP EUR ISP (Current Assignment)
+Client		:		British Petroleum, UK
+Role		: 		Solaris Administrator
+Team Size	:		 4
+Location	:		Offshore
+
+Description:  
+ISP (International Systems Program) is an ERP package developed specifically for Oil and Gas Downstream business. The role of the Unix Administrator in BP-ISP (International Systems Program) environment is to support and administer Sun Enterprise servers (with Solaris) environment and Storage Tec tape library backup (with EMC networker) environment.
+
+Key Responsibilities: 
+The role of the Unix Administrator in BP-ISP (International Systems Program) to support Sun Fire, Sun Enterprise servers (with Solaris 8, 10,11) environment and Storage Tec tape library backup (with EMC networker).
+
+I have been responsible to deliver remote support Services for BP Oil, UK. This production support project deals with BP’s downstream business spread across 21 countries.
+
+· Diagnosing, troubleshooting and implementation based on Incident, Problem and Change tickets of Solaris 8,10 servers, within agreed SLA’s
+· File System Administration like creating and extending file systems
+· File System Management (Permissions, mounts, unmounts, NFS)
+· Solaris ZFS administration
+· Managing System Services using SMF
+· Performance monitoring and fine-tuning of O.S.
+· Zone build (both branded and native zones)
+· Backups and recovery (based on EMC networker)
+· Hands on experience in Incident Management, Change Management and Problem Management.
+· Interacting with application team and resolving & planning system events.
+· Responding to Ops Center Alerts.
+· ZFS Internal/External Appliance Management (BUI/CLI)
+
+
+
+
+Environment: 
+
+	DB		:		Oracle 11gR2
+	OS		: 		SOLARIS 11/10/8
+	Hardware	:		SUN Sparc T5240, M3000, M4000,V240
+					Tape Library – SL 150
+
+
+
+Achievements
+
+· Received ENU Excellence Award for 2014-15.
+· Received Delivery Star Award for contribution towards DC Migration Project (2016).
+· Received Star of the month Award/Week for continuous service delivery.
+
+
+Extra-Curricular Activities& Interests
+
+- Playing Carrom, Volleyball, and Badminton and watching movies in leisure time.
+- Listening Music.
+- Surfing Internet
+
+
+
+Personal Details
+
+	Name
+	Prakash Ranjan
+
+	Date Of Birth
+	18/07/1992
+
+	Marital Status
+	Single
+
+	Address
+	House No  1-60/3026/136, Anjaiah Nagar, Gachibowli, Hyderabad, Telangana State
+
+	Languages Known
+	English, Hindi.
+
+
+
+
+
+Declaration
+
+I hereby declare that all the above information is true to the best of my knowledge.
+
+
+Name:  PRAKASH RANJAN
+Place:   Hyderabad					

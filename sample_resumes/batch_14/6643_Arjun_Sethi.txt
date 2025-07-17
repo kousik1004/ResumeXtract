@@ -1,0 +1,286 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arjun Sethi
+
+Arjun Sethi
+Tech Mahindra Ltd
+Email: arjunsethi902@gmail.com, Phone: +91-9545457974
+SUMMARY
+
+Technical Associate with a consistent record of excellence is looking for an opportunity to work in a creative and challenging environment, and to use my knowledge to help an organization achieve its objectives in the most efficient manner, and to grow with the organization.
+
+WORK EXPERIENCE
+
+•
+Working as a Technical Associate in Tech Mahindra Limited, Pune from Jun 2008 till date.
+
+•
+Worked as a Trainee in Tech Mahindra Limited, Noida from Jan 2008 to May 2008.
+
+ONSITE EXPERIENCE
+Worked as a Software engineer on Metasolv products (Objectel, ASAP, OSM) in British Telecomm client of Tech Mahindra Limited, Leicester, United Kingdom from May 2010 to October 2011.
+Technology Skills
+
+	Languages
+
+
+	Core JAVA, C++, SQL, PL/ SQL, Javascript , Servlets
+
+	Strengths
+	Metasolv COTs and programming using  Core Java
+
+	Operating Systems
+	Windows 9x/ Millennium/ 2000/ XP/ 2003, Unix
+
+	Data Bases
+	Oracle 9i,Oracle 10g
+
+	Tools
+	Eclipse 3.1, Weblogic 8.1, Weblogic 9.2,  Toad 9.1, MS-Office 2007, Sql developer
+
+
+Achievements
+· Winner of the “Pat on the back” for Innovation of new ideas into the team.
+
+· Winner of the “Team Valuable player” award for outstanding contribution to the project.
+
+· Winner of a Certificate of Appreciation from the client.
+
+Qualifications
+
+	Degree and Date
+	Institute
+	Marks
+
+	A.I.S.S.E. (Class X, PSEB board) 2002
+	B.S Model School, Mallanwala,Ferozepur (Pb.)
+	76.8 %
+
+	A.I.S.S.C.E. (Class XII, PSEB board) 2004
+	R.S.D. College, Ferozepur (Pb.)
+	77.6 %
+
+	Bachelor of Engineering 2008 (ECE)
+	UCoE, Punjabi University, Patiala (Pb.)
+	82.16 %
+
+
+Assignments
+
+The details of the various assignments that I have handled are listed here.
+	Title
+	iVserve Andes Transformation
+
+	Period
+	May 2009 – Till Date
+
+	Position
+	Technical Associate
+
+	Responsibilities
+	My responsibilities in the current position are as follows:
+
+· Development  in OSM,ASAP and Objectel
+
+· Working as a Team member in COTs upgrade team
+
+· Development of unix shell scripts to automate the deployments.
+
+· Customer Interaction and conducting user forum.
+
+· Requirement Analysis and Design
+
+	Project
+	Vserve is a flow through provisioning and activation system developed using the Common Off The Shelf (COTS) products Metasolv ASAP (Automated Service Activation and Provisioning), OMS (Order Management System) and Objectel (Inventory tracking application). The system has been built to meet the needs of BT Ignite’s IP-VPN product set.
+
+The provisioning and activation system is a scalable, multi-user system that allows IP-VPN activation with Class of Service (CoS), across a network of Cisco MPLS enabled routers.   It configures routers at both service and access layers.
+
+Metasolv ASAP, OMS and Objectel were customized for the provisioning of IP VPNs.
+
+
+	Software
+	Weblogic 7.0, Weblogic 8.1, Weblogic 9.2, Java, Oracle 8i, Oracle 10g, OMS 2.6, OSM 6.3, Objectel 2.7.9, Objectel 2.7.14, ASAP 4.3 , ASAP 7.0 ,JMS, XSLT, TCL, SVN, Toad, SQL Developer
+
+	Operating System
+	Sun Solaris 5, HP UX
+
+	Language
+	Unix Shell Scripting, Java , JavaScript, CPP, XML,XSL, State tables
+
+	Project Locations
+	TechMahindra, Pune, India
+
+
+	Title
+	DMP iVserve
+
+	Period
+	November  2009 – June, 2010
+
+	Position
+	Technical Associate
+
+	Responsibilities
+	My responsibilities in the current position are as follows:
+
+· Attended all the sessions of different activities
+
+· Prepared the documents for the Knowledge transfer with the off shore team.
+
+· Understand the fundamental concept as well as business scenarios of different cartridges.
+
+· Understand the environment build activities as well as configuration issues.
+
+· Explored Metadata editor and Objectel client.
+
+· KT for MPLS domain
+
+	Project
+	The system titled iVserve/ Vserve comes under BT's strategic application within BT Domain Management Platform. This system is an OSS standard solution for Network Configuration & Data Management for MPLS VPN network. The system consists of OMS (provisioning system), ASAP (activation engine) and Objectel(inventory).
+
+	Software
+	Weblogic 7.0, Weblogic 8.1, Java, Oracle 9i, Objectel 2.7.9, OMS 2.6, ASAP 4.3,CVS
+
+	Operating System
+	Sun Solaris 5, HP UX
+
+	Language
+	Unix Shell Scripting, Java,XSL,XML,CPP,Javascript,State tables
+
+	Project Locations
+	TechMahindra, Pune, India
+
+
+	Title
+	Customer Self  Service Network (CSSN-BTRealTime)
+
+	Period
+	Nov 2008 – Feb 2009
+
+	Position
+	Technical Associate
+
+	Responsibilities
+	· Issue tracking and resolution
+
+· Environment support
+
+· Customer Demo
+
+	Project
+	The project started as a Customer Self Service Network (CSSN) initiative by British Telecom Design in order to provide real time, zero touch Customer experience around iVPN products. Later on BT decided to launch the service in the market by the name of BT RealTime. The solution has resulted in radical reduction in cycle time which was envisaged to be major hurdle for the customer going for bandwidth boost, CoS parameter changes, application and CoS mapping requests for their iVPN products. The radical solution will also result in increased revenue for BT. Due to zero touch, real time self service, there will be significant reduction in operations cost and improved customer experience.
+
+
+
+	Software
+	Weblogic8.1, Oracle 9i, Metasolv IPSA, Eclipse
+
+	Operating System
+	Sun Solaris 5, HP UX
+
+	Language
+	Java, shell scripting, Java/J2EE
+
+	Project Locations
+	TechMahindra, Pune, India
+
+
+	Title
+	Initial Training
+
+	Period
+	Jun 2008 - Oct 2008
+
+	Position
+	Technical Associate
+
+	Responsibilities
+	IT Training
+
+	Project
+	Stream – Open Systems
+
+	Software
+	Oracle 9i,Eclipse 3.1
+
+	Operating System
+	Windows XP
+
+	Language
+	Core Java, Programming Fundamentals and Techniques, Object Oriented Concepts ,SQL & RDBMS ,Unix, C Programming,PLSQL,VVnT Testing, Software Engineering, BT Telecom services
+
+
+
+	Project Locations
+	TechMahindra, Pune, India
+
+
+Career Profile
+
+	Dates
+	Organization
+	Role & Responsibilities
+
+	June, 2008 onwards
+	Techmahindra  PUNE
+	Technical Associate
+
+
+Personal Details
+
+	Date of Birth
+	8th February 1987
+
+	Nationality
+	Indian
+
+	Sex
+	Male
+
+	Marital Status
+	Single
+
+	Date of Joining
+	20th June 2008
+
+	Present Address 
+	3F/9,Aditya Garden City,Warje,Pune-Banglore highway Road, PUNE – 410052
+
+
+

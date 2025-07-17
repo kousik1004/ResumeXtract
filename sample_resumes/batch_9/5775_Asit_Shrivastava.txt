@@ -1,0 +1,453 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume of Tarun Jain (Employee ID: 15659)
+
+Asit Shrivastava     (+91)8527864328
+
+SUMMARY
+
+- Result oriented and versatile Technical Delivery Manager with around 16 years of experience in Project Management, Product Development & Delivery, Services & Solutions and Team Management in embedded system software & engineering domain.
+- Worked in the areas like Connected cars, IoT, Automotive and Avionics, Digital TV, Digital Camera software, portable media player, Mobile, Home security gateway, Signal processing, Multiplexers and Communication etc.
+
+- Extensive in design & development experience in Embedded Systems, UART, NAND, Uboot, I2C, SPI, Audio/Video, LCD/Keypad Device Drivers, Linux kernel, BSP Systems programming, debugging, trouble-shooting & board bring-up. 
+- Insightful experience in Project management activities including making proposals, project scoping, estimation, planning, risk management, finalization of technical / functional specifications, software product delivery, resource and quality management of the product / software application.
+
+- Experience in end-to-end product development cycle.
+
+- Strong problem solving & technical skills coupled with confident decision making for enabling effective solutions leading to high customer satisfaction.
+
+- Experience in managing & leading large teams for customer projects based in Japan, US & Korea.
+
+- Managing the project management activities for large programs and customer expectations.
+
+- Effective communicator with emphasis on building strong relationships with stakeholders and clients.
+
+EXPERIENCE
+
+· Working as Project Manager in Tech Mahindra Noida, since Aug, 2015 for IoT Platform development projects:
+· Covisint IoT Platform (PaaS) & Smart IoT Solutions over IoT platform development
+· Openmatics 2.0 & 3.0 IoT platform development for ZF Connected cars
+· Worked as Project Manager in HCL Technologies Noida, from June, 2006 to Aug 2015.
+Onsite (customer site) experience includes:
+· Worked on Digital TV device driver & HAL project from JAPAN (client site) for 4 years from Feb 2009-2013.
+
+· Worked on Mobile NAND device driver project Micron technologies USA (onsite) for 1 year 2008-09.
+
+· Worked as a Sr. Software Engineer (Team Lead) Wipro Technologies Bangalore, from April, 2005 to June 2006.Wipro is a global IT service provider and assessed at SEI-CMM Level 5. 
+
+· Worked as a Sr. Software Engineer in Patni Computer Systems Ltd. from July, 2003 to April 2005. Patni is an ISO 9001:2000 certified organization, assessed at SEI-CMMI Level 5 and P-CMM Level 3, and adopting Six Sigma techniques. Patni is a global IT Services provider.
+
+· Worked for 3 Years from Sept, 2000 to July, 2003 as Software Engineer in AEM Pvt. Ltd. Noida. AEM is a R&D house and reputed name in Defense Electronics Telecommunication.
+SKILLS / EXPERIENCE
+
+
+Microprocessors / Controllers
+TIOMAP24XX, TMS302DM270 (C54X DSP), Toshiba Atreyu, NEC EMMA 3TH/3TL2, Atmel AVR 103, ADSP 2106X, ARM, Raspberry Pi 2, Aurdino Uno R3, BeagleBone
+Languages & Tools
+ 
+C, C++, Trace32, RVI, Code Composer Studio, MATLAB, Imagecraft ICC AVR, Visual DSP++
+Operating Systems 
+ 
+uCLinux, uITRON, Linux, BREW
+
+Project Management tools
+
+Microsoft Project, PMSmart(In-house)
+Design, Defects &
+
+Requirement Management tools
+Artisan, EA, Astah, JIRA, Bugzilla, DOORS
+
+Configuration Management
+ 
+GIT, SVN, Perforce, CVS, Rational clear case, Visual Source Safe 
+Automotive Communication
+ 
+GMLAN, CAN, CANoe, CAPL
+Protocol
+PROJECTS
+
+Project 
+Openmatics Platform Development – Connected Cars
+Platform 
+Microsoft Azure, Power BI, Apache Storm
+HW Platforms            ARM7
+Duration00
+ongoing since April’2017
+Client
+Openmatics, Czech
+The scope of this project includes development of Openmatics IoT Platform services & application features like Asset visibility, Memory caching, Driver overview (Easy rider) & IoT Hub etc.
+Responsibilities included
+
+· Customer relationship management & Product lead for the team of (5-10 associates).
+· Managing end-to-end product delivery of features like Asset visibility, Memory caching, Driver overview (Easy rider), DM1 diagnostics, PowerBI reporting etc.
+
+· Business Roadmap & Requirement, Architecture & Design discussions along with the customer team, product planning.
+
+· Defining, planning and managing project scope & schedule; tasks priorities & assignment to team, Software delivery, release and bug, risks, quality parameters management etc.
+· Project reviews with Senior Leadership.
+· Managing the resource utilization & hiring for the business need.
+· Managing project commercials, business forecasts, EBITDA etc.
+Project 
+IoT Platform Development & Solution Factory
+Platform 
+Java-J2EE, Apache Kafka, MQTT
+
+HW Platforms            Raspberry Pi 2, Aurdino Uno R3, Cortex A8 box
+Duration00
+ongoing since Sept’2015
+Client
+Covisint, US
+The scope of this project includes development of IoT platform (PaaS) over cloud & also creating Smart IoT Solutions for various customer & Tech Mahindra verticals. Covisint in partnership with Tech Mahindra has been building IOT platform, so that it can integrate any kind of devices to its platform and do the required processing like analytic reporting, alert generation, event processing and many more functionalities. It also included platform integration with rule engine, workflow integration and big data for generating analytical reports. It has capability to secure, connect, manage, analyze & build faster, cost effective applications/solutions that connects people, processes, things & systems.
+Responsibilities included
+
+· Customer relationship management, resource management (10-15 associates), scheduling & tracking, stake-holder management, risk management status reporting & reviews etc.
+
+· Sr. Delivery Manager for ensuring end-to-end delivery of features like Device Management, Messaging Data hub, Rules engine, Analytics, Orchestration, BuildUI, Operation Console etc.
+· Design & developing of IoT platform based solutions like Smart Street light for Motwane, Smart bin, Walmart fleet management, NB-IoT for Affirmed Network.
+· Managing the resource utilization & hiring for the business need.
+· Managing project commercials, business forecasts, EBITDA, P&L, Pipelines etc.
+· RFP response, Proposals for world’s leading companies in enterprise, digital, telcos & automotive area like Smart City, Walmart, Affirmed Network, McLaren etc.
+Project 
+Camera Software Development
+Platform 
+C++
+Duration
+20 months
+Client
+Olympus Japan
+The scope of this project includes new feature design, development, refactoring & testing of Camera Software. The layered architecture includes the GUI, Camera Application & High level services over the low level drivers. 
+Responsibilities included
+
+· Product Manager for customer relationship management, requirement gathering, estimation, resource management (35-40 members), task allocation, scheduling & tracking, risk management etc.
+
+· Managing the design, build, testing and implementation of multi-million dollar software projects
+· Managing the end-to-end product features and refactoring of an existing system.
+· Refactoring of playback feature.
+· Conduct requirement workshops with specification team & other key stakeholders.
+· Defining, planning and managing project scope & schedule; Software delivery, release and bug management, priorities and assignment of issues among the team member.
+· Issue and risk management for complete project.
+· Project reviews & quality assurance plans.
+Project 
+Digital TV device drivers 
+Platform 
+C, C++, Linux, Vmware, Toshiba Atreyu, NEC EMMA3TH/3TL2 boards 
+Duration
+48 months
+Client
+Sony Corp. Japan
+The scope of this project includes design, development & testing of various device drivers of Sony’s digital TV platforms. It also includes the support for Hardware Abstraction Layer enhancement like Audio/Video components, Self diagnosis, Smart LED, Service mode, IR/BT remote etc..
+Responsibilities included
+
+· Onsite Technical Manager, customer relationship management, requirement gathering, estimation, resource management, task allocation, scheduling & tracking, risk management etc.
+
+· Supporting development, helping platform bring-up and owning technical relationships with customers.
+· Participation in technical discussions to better understand project specifications and requirement.
+· Contributing to Device drivers, Hardware Abstraction Layer customized design, features implementations for specific requirement code reviews and verification.
+· Design and code review.
+· Work on software problem, debug, analysis, providing fix for the issues.
+
+· Act as bridge between Japanese customers and development team to coordinate on customer issues. Manage communication and coordination with team of 6-10 engineers.
+
+· Software delivery, release and bug management, priorities and assignment of issue among the team member at different site by participating in bug management meeting with customer for weekly update.
+Project
+NAND Device Driver 
+Platform 
+C, Linux kernel, TIOMAP24XX, Marvell PXA3XX, Trace32, Platform Builder, Active Sync
+Duration
+11 months
+Client
+Micron Technology, Inc. USA
+Micron NAND drivers provides the support for storing Boot loader (X-load & Uboot), application, data & OS image on the Non-volatile flash memory. The scope of the project includes update and testing & benchmarking of NAND drivers for bad blocks, power loss on various platforms like TIOMAP24XX & Marvell Zylonite PXA320, Device Emulator over Linux kernel  & windows mobile/CE.
+
+Responsibilities included
+· Onsite project lead, estimation,  task allocation, scheduling & tracking
+· Design, development and testing of MTD NAND drivers, bad block management in xloader & uboot.
+
+· Performance test of NAND drivers on various platforms.
+
+· Requirement Analysis
+Project
+IMS Porting on BREW 
+Platform 
+C, BREW (Qualcomm)
+Duration
+5 Months
+
+Client
+Infineon 
+IMS firmware is used to support Push-to-Talk Calls, Voice Calls, Instant Messaging, Presence and XDM features. IMS firmware is four layer architecture comprised of APP, CORE, ENV and STACK. The scope of the project is to port and implement the BREW OS support in ENV layer which is used for OS abstraction
+
+Responsibilities included
+· Analysis of the requirement specifications
+· Design of ENV layer porting on BREW platform.
+· Porting of media player and OS services
+· Reviews of the documents and source
+
+· Leading and task tracking of the project team
+Project
+Home Security Gateway 
+Platform 
+C, GSLinux
+Duration
+8 Months
+
+Client
+UTC 
+Home security gateway system is used to detect fire and intrusion events for wireless smoke and contact detectors respectively. It also captures the pre-trigger and post-trigger video clips from associated IP camera and sends it to registered contact persons through email/SMS with all the event information. It also provides a webGUI to configure the system parameters and view status like sensor alarm status and live video streaming etc.
+Responsibilities included
+· Leading the project team
+· Client Interaction for requirement clarification and regular project status.
+· Design & implementation of event handler
+· Analysis of the requirement specifications
+
+· Reviews of the documents and source
+
+Project
+Smoke Detection Function 
+Platform 
+C 
+Duration
+6 Months
+Client
+AIRBUS A380 
+The scope of the project is to develop the Smoke Detection for A380 over CIDS director board.  This system is able to detect the smoke from various smoke detectors placed in aircraft. Based on smoke detection it also sends the alarm and warning to flight warning system. 
+Responsibilities included
+· Leading the project team
+· Design & development of smoke detection function in over OSAL layer.
+Project
+SNMP Middleware
+Platform 
+C++, Linux, C++ test tool
+Duration
+9 Months
+
+Client
+Miltope, USA
+The scope of the project is to develop the SNMP middleware for A380 Aircraft telephony server. The ARINC-763 compliant telephony server provides links to multiple client PCs via Ethernet over SNMP. SNMP middleware provides Generic Aircraft Parameters and discrete lines interface through SNMP protocol. The Generic Aircraft Parameters have to be obtained through ARINC-429 or UDP/Ethernet interface connected to the Telephony Server. The SNMPMW transform Generic Avionics parameters comes through interfaces in to SNMP interface. The SNMP middleware is extension of Net-SNMP agent stack.
+
+Responsibilities included
+· Analysis and design the SNMP middleware.
+· Implement the ARINC-429 data acquisition interface.
+· Implement the Discrete interface.
+
+· Implement the system configuration tool.
+
+Project
+Test Procedures Development and Automated Execution
+Platform 
+GMLAN, CAPL
+Duration
+8 Months
+
+Client
+Denso Inc. Japan
+The scope of the project is to develop the test procedures for automotive software based on GMLAN. These test cases cover all the specification and requirements. The requirements are analyzed and mapped to Traceability Matrix to ensure the coverage of all the requirements. The test cases include details about all the GMLAN/CAN messages that are sent or received during the test execution. The test cases have to be automated using CAPL scripting language and executed to test the automotive ECUs.
+
+Responsibilities included
+· Creating Traceability Matrix.
+· Creating Test Procedures and  Automated Execution
+
+Project
+Ogg Vorbis Porting on TMS320DM270
+Platform 
+C, uCLinux, TMS320DM270 (C54X DSP and ARM7)
+Duration
+3 Months 
+
+Client
+Reigncom, Korea
+The scope of the project is to port the Tremor source (supports Ogg Vorbis) to TMS320DM270 for Personal Media Player. PMP supports playing of any Ogg Vorbis standard audio files up to 360 kbps. TMS320AIC23 audio codec is used to play the decoded audio data. 
+
+Responsibilities included
+· Requirement Analysis.
+· Design and Implementation of Sound Driver for personal media player
+
+· Porting and optimization of Tremor source to TMS320DM270
+
+· Testing
+Project
+Game Emulator (RGE)
+
+Platform 
+C, uCLinux, TMS320DM270
+Duration
+7 Months 
+
+Client
+Reigncom, Korea
+To develop RGE which when used in conjunction with game’s data files (ROMs) will reproduce that game on the Personal Media Player (PMP) which is based on uClinux on TMS320DM270.  
+
+Responsibilities included
+· Requirement Analysis.
+· Design and Implementation of Sound Driver for Gaming console.
+
+· Porting and optimization of Game application to TMS320DM270
+
+· Testing
+Project             
+Digital Voice Multiplexer
+
+Platform 
+
+C, Atmel AVR103, Imagecraft ICC AVR
+
+Duration         
+8 Months
+Client              
+Indian Air Force
+The main purpose of this Embedded system is to supports 8-Channel voice/fax communication over a full duplex low bit rate digital link for voice. Analog input is digitized and compressed by the on board voice module (using Codec). The compressed voice data is multiplexed, packetized and transmitted to remote system through HDLC link. The voice module automatically detects fax transmission
+
+Responsibilities included
+· Requirement Analysis
+· Design and Implementation of Voice Codac, Serial Communication Controller and LCD Drivers
+
+Project
+Signal Analysis Module (SAM)
+
+Platform 
+
+C using VisualDSP++ IDE for ADSP 21060 processor, MATLAB Duration
+
+14 Months
+Client
+Pratt & Whitney, U.S.A.
+
+The main purpose of this system is to monitor and record the performance and stress levels of aircraft engine in real time during critical period of aircraft take-off. The signals are processed using IIR and FIR filters and related hardware. The filter output is then analyzed to get information about various aircraft engine parameters. The outputs and parameters are also stored in Flash for further lab testing. The SHARC ADSP21060 processor is used for providing the necessary support. MATLAB used as simulation tool for comparing the outputs of various software filters. The overall system works in coordination with Host system.
+
+Responsibilities included
+· Design and implementation.of packet protocol implementation
+
+· Flash implementation
+
+· ARINC simulator
+
+Project
+
+
+Asynchronous to Synchronous converter
+
+Platform 
+C , Atmel AVR103, Image craft ICCAVR, SCC85C30.
+Duration
+7 Months
+
+Client
+Hughes Esscort Communication Ltd.
+This embedded system is used to receive data from Asynchronous link, framing and transmitting it over Synchronous link or vice versa. For reliable transmission of data over synchronous link LAPB protocol is provided. V.25bis dialing is given for the dynamic use of bandwidth of link.
+
+Responsibilities included
+· Designing and implementation of serial communication driver
+
+· LAPB protocol
+
+· LCD driver. 
+
+Project
+
+
+Host System for Advanced Message Switching System
+Platform 
+Linux, C
+Duration
+7 Months
+
+Client
+Indian Metrological Department
+
+
+This system works in coordination with High speed and Low speed multiplexer. Ethernet is used to connect Host with HSMUX and MP32. HSMUX has 12 channels that can be configured by host system to send and receive data. MP32 has 32 channels that can be used ton send and receive data. Different modes of communication used are Dialup, RS232, and TP. Packet protocol is used to communicate status of both systems with Host
+
+Responsibilities included
+· Design and Implementation of Packet Protocol
+· Integration testing
+
+EDUCATION
+
+Master of Computer Application (1997-2000) from NIT, Raipur.
+
+Bachelor of Science (1993-1996) from Govt. College of Science, Raipur.
+
+PERSONAL INFORMATION
+
+Father’s Name
+:
+Shri I.K. Shrivastava
+
+DOB
+
+:
+28th June 1976
+
+Hobby
+
+:
+Playing Table Tennis
+Current Addr    :
+Flat no. T-1203, Homes 121,Plot No. GH001, Sector-121, NOIDA
+                                            Ph. No. - +91-8527864328
+Passport No.
+:
+M9688982
+Email
+
+:
+shrivastava.asit@gmail.com
+Mobile No
+:
++91-8527864328
+PAGE  
+
+
+Page 9 of 9
+

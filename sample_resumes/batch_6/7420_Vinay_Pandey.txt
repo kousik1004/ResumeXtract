@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vinay​ ​Pandey 
+Cellular:​​ ​+91​ ​9654109809 
+E-mail:​​ ​​vinaypandey0728@gmail.com 
+ 
+Objective: 
+ 
+To​ ​establish​ ​myself​ ​as​ ​an​ ​excellent​ ​corporate​ ​professional​ ​with​ ​major​ ​contribution​ ​in​ ​technical​ ​field​ ​and​ ​by​ ​being 
+true​ ​to​ ​my​ ​chosen​ ​profession. 
+
+ 
+Career​ ​Summary: 
+ 
+Total​ ​2.5Years 
+
+● Working​ ​in​ ​Corpus​ ​software​ ​Pvt​ ​Ltd​ ​Hyderabad​ ​as​ ​a​ ​Software​ ​Engineer​ ​October​ ​2016​ ​to​ ​​ ​Present  
+● Worked​ ​as​ ​Junior​ ​Engineer​ ​Vihaan​ ​Networks​ ​Limited​ ​Gurgaon​ ​from​ ​​ ​February​ ​2015​ ​to​ ​February​ ​2016 
+● Project​ ​based​ ​training​ ​in​ ​Embedded​ ​System​ ​and​ ​Design​ ​from​ ​CDAC​ ​Hyderabad​ ​from​ ​February​ ​2016​ ​to 
+
+August​ ​2016 
+ 
+
+Professional​ ​Experiences: 
+ 
+
+Corpus​ ​software​ ​Pvt​ ​Ltd​ ​[Hyderabad]  Software​ ​Engineer​ ​[​ ​October​ ​2016​ ​to​ ​​ ​Present] 
+Project  BCN​ ​TV​ ​Networks 
+Description Project​ ​is​ ​aimed​ ​to​ ​Develop​ ​and​ ​Port​ ​Software​ ​on​ ​Set​ ​Top​ ​Box​ ​(DVB-C)​ ​on​ ​Mstar-5029.  
+
+Working on Software Development (middleware and application), the project involved          
+development of all the native STB features. Explicit testing includes driver API, validation for RF               
+data(Transport​ ​Stream).​ ​Root​ ​cause​ ​is​ ​determined​ ​for​ ​issues​ ​or​ ​target​ ​crashes,​ ​and​ ​then​ ​fix​ ​them. 
+
+Role​ ​and 
+Responsibilities 
+
+● Implementation of Hardware Abstraction layer (HAL), OS Abstraction layer (OSAL), PVR           
+and​ ​Review​ ​buffer​ ​features​ ​in​ ​STB,​ ​Multimedia​ ​features,​ ​Demux​ ​and​ ​OSD​ ​drivers. 
+
+● Software​ ​component​ ​and​ ​module​ ​level​ ​Integration. 
+● Integration​ ​of​ ​complete​ ​SW. 
+● Preparing​ ​test​ ​cases​ ​and​ ​reports​ ​for​ ​core​ ​drivers’​ ​subsystem​ ​for​ ​STB. 
+● Validating test cases over all subsystems – PVR, Media Player, OSD and WP HLOS.              
+
+Reporting​ ​the​ ​results​ ​and​ ​updating​ ​the​ ​metric​ ​pages. 
+● Software​ ​module​ ​design​ ​using​ ​embedded​ ​C​ ​as​ ​per​ ​customer​ ​requirement. 
+● Performing​ ​basic​ ​sanity​ ​testing​ ​to​ ​ensure​ ​code​ ​functionality. 
+
+Technologies​ ​Used Software​ ​​ ​​ ​:​​ ​Mstar​ ​toolchain,​ ​WinGDB,​ ​Streamxpress,​ ​Source​ ​Insight,​ ​GCC,​ ​GDB 
+ 
+ 
+
+Vihaan​ ​Networks​ ​Limited​ ​[Gurgaon] Junior​ ​Engineer​ ​​ ​​ ​[February​ ​2015​ ​to​ ​February​ ​2016] 
+Project  Left​ ​Wing​ ​Extremist​ ​Area(LWE) 
+Client Bharat​ ​Sanchar​ ​Nigam​ ​Limited​ ​(BSNL) 
+
+Description CoreBTS team is responsible for Development and executing the test cases for various drivers of               
+over different systems –RF Power amp,RF Modulator, DMB and sub systems of Base Transceiver              
+Station both Tx and Rx path, recording the RF readings. Implicit Testing should cover all functional                
+areas of the platform – Base Transceiver Station(RF Power, RF Modulation, Sensitivity, BER, VSWR              
+etc). Explicit testing ensures system API’s are validated using URCT and Telnet tool. Root cause is                
+determined​ ​for​ ​issues​ ​or​ ​target​ ​crashes,​ ​and​ ​they​ ​are​ ​reported​ ​to​ ​appropriate​ ​dev​ ​teams. 
+
+mailto:vicckypandey@gmail.com
+
+
+Role​ ​and 
+Responsibilities 
+
+● Preparing test cases and reports for core drivers’ subsystem for Base Transceiver Station             
+Tx​ ​and​ ​Rx​ ​path. 
+
+● Validating test cases over all subsystems – Modulator, Power amp, VSWR and BER for Tx               
+and​ ​Rx​ ​path​ ​.​ ​Updating​ ​the​ ​result​ ​metric​ ​pages. 
+
+● Performing Calibration, Sanity testing to ensure code functionality and capture the           
+parameters. 
+
+● Testing explicitly using URCT, Telnet and validating several API level and system level             
+tests. 
+
+● Automating​ ​of​ ​Core​ ​Drivers​ ​Functional​ ​test​ ​cases​ ​for​ ​Base​ ​Transceiver​ ​Station. 
+Technologies​ ​Used Tool​ ​:​​ ​Universal​ ​Radio​ ​Communication​ ​Tester,​ ​RF​ ​Synthesizer,​ ​Spectrum​ ​Analyzer 
+
+ 
+Technical​ ​Skills: 
+ 
+Programming​ ​Languages: C,​ ​Embedded​ ​C,​ ​Assembly,​ ​Basic​ ​of​ ​C++,​ ​Basic​ ​of​ ​Java 
+Microcontrollers: 8051,​ ​AVR​ ​atmega8,​ ​ARM7 
+Protocol: SPI,​ ​I2C,UART,CAN 
+Concepts: Linux​ ​Internals,​ ​OS​ ​Concepts,multi-threaded​ ​programs,​ ​Linux​ ​Device​ ​Driver,  
+
+Data​ ​Structure,IPCs,​ ​RF​ ​Communication,GSM,CDMA,​ ​Board​ ​bring-up, 
+Porting,Memory​ ​Management​,  
+
+Operating​ ​System: Microsoft​ ​Windows,​ ​Linux,​ ​Real​ ​time​ ​OS  
+IDE​ ​Used: LinK+​ ​IDE​ ​based​ ​on​ ​Eclipse,​ ​Source​ ​Insight  
+Electronics​ ​Tool: Elementary​ ​Knowledge​ ​in​ ​MATLAB,​ ​GNU​ ​Octave 
+Set​ ​Top​ ​Box: DVB-C​ ​type,​ ​Mpeg-2,​ ​Mpeg-4,Transport​ ​Stream 
+
+ 
+ 
+
+Academics: 
+ 
+■ Post​ ​Graduation​ ​Diploma​ ​in​ ​Embedded​ ​System​ ​Design 2016 
+Centre​ ​for​ ​Development​ ​Of​ ​Advanced​ ​Computing(C-DAC,​ ​Hyderabad)  
+ 
+■ B.TECH​ ​in​ ​Electronics​ ​and​ ​Communication​ ​Engg. 2011-2014 
+Bhagwan​ ​Parshuram​ ​Institute​ ​of​ ​Technology,​ ​Delhi  
+ 
+■ Diploma​ ​in​ ​Digital​ ​Electronics​ ​and​ ​Microprocessor 2008-2011 
+Chhotu​ ​Ram​ ​Rural​ ​Institute​ ​of​ ​Technology,​ ​Delhi  
+ 
+■ High​ ​Secondary(X)-CBSE​ ​Board 2008 
+Kendriya​ ​Vidyalaya  
+ 
+ 
+Projects: 
+
+ 
+
+​ ​​C-DAC​ ​Project 
+Project​ ​Name:​ ​​​ ​Streaming​ ​Data​ ​over​ ​Embedded​ ​Devices​ ​using​ ​RTSP​ ​protocol.  
+Description:​​ ​The​ ​aim​ ​of​ ​the​ ​project​ ​is​ ​to​ ​develop​ ​Video​ ​on​ ​demand​ ​feature.​ ​A​ ​streaming​ ​media serveris 
+established on Beaglebone Black board using embedded Linux and the stored multimedia content on a USB stick                 
+is​ ​fed​ ​to​ ​Video​ ​on​ ​Demand​ ​server.​ ​An​ ​Android​ ​is​ ​implemented​ ​so​ ​that​ ​user​ ​can demand​ ​streaming​ ​videos.  
+ 
+
+Industrial​ ​training 
+Vihaan​ ​Networks​ ​Limited  
+Duration:​​ ​Six​ ​​ ​Week 
+Description:​ ​​The​ ​major​ ​challenges​ ​associated​ ​with​ ​physical​ ​layer​ ​and​ ​RF​ ​propagation​ ​of​ ​GSM​ ​and​ ​CDMA 
+
+
+
+technology​ ​has​ ​been​ ​learnt.​ ​Network​ ​and​ ​switching​ ​subsystem​ ​of​ ​GSM​ ​network​ ​is​ ​studied.​ ​Functioning​ ​of​ ​MSC, 
+BSC​ ​through​ ​an​ ​interface.​ ​Learned​ ​the​ ​basic​ ​working​ ​of​ ​a​ ​telecommunication​ ​system​ ​including​ ​call​ ​set-up,​ ​call 
+forwarding.​ ​Worked​ ​in​ ​OMC-R​ ​(Operation​ ​and​ ​maintenance​ ​center​ ​radio)​ ​which​ ​provides​ ​a​ ​network​ ​overview​ ​and 
+support​ ​the​ ​maintenance​ ​activities​ ​of​ ​different​ ​operation​ ​and​ ​maintenance​ ​organizations. 
+ 
+
+Personal​ ​Information: 
+ 
+Date​ ​of​ ​Birth: ​ ​​28-July-1993 
+Marital​ ​Status: ​ ​​Single 
+Nationality: ​ ​​Indian 
+Languages​ ​known: ​ ​​English,​ ​Hindi 
+Hobbies: ​ ​Playing​ ​flute,​ ​Meditation  
+
+ 
+ 
+Declaration: 
+ 
+I​ ​hereby​ ​declare​ ​that​ ​all​ ​information​ ​given​ ​by​ ​me​ ​above​ ​are​ ​true​ ​and​ ​correct​ ​to​ ​the​ ​best​ ​of​ ​my​ ​knowledge. 
+
+ 
+Date:  
+Place: VINAY​ ​PANDEY 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,156 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Java Developer
+                                            
+
+S Suresh babu                                                                  email: sureshsajja70@gmail.com
+                                                                           MOBILE NUMBER: 7036065355
+
+
+PROFESSIONAL SUMMARY
+
+· Having 2+ years of experience in development of Server/Client side Programming and Front-End development by using all Java API and related technologies.
+· Experience of working in a services oriented architecture and web based development.
+· Experience of developing SOAP (JAXWS) based web services including provider end in enterprise application development.
+· Hands on experience in application development using Spring frameworks. 
+· Hands on experience in using MVC (Model View Controller) architecture for developing applications using JSP, Java Beans and Servlets.
+· Expertise in Object-Oriented Programming/ Development and Design skill.
+· Hands on experience in using Application/Web servers like Tomcat8 server.
+· Good understanding of Software Development Life Cycle (SDLC) process in the areas of Analysis, Design, Implementation and Testing of Software Applications using Java/J2EE technologies.
+· Having excellent analytical, communication and monitoring skills. Easy learning and flexible to work of different kinds of API’s and technologies.
+·  Good knowledge on Hibernate.
+Educational Qualification
+
+· B.Tech from St.Ann’s College of Engineering and Technology Specialization of Electronics and Communication Engineering in 2015, with an Aggregation of 63.98%.
+WORK EXPERIENCE
+	
+· Working as Software Engineer in Siri Cybertech Pvt. Ltd. from Sept 2015 to till date.
+
+
+
+
+
+
+SKILL SET
+
+	Programming Languages
+	Java.
+
+	Java Technologies
+	JavaSE, JavaEE.
+
+	Web Technologies
+	HTML, XML, Servlets, JSP, Json.
+
+	Distributed Technologies
+	JAXB, JAX-WS, JAXRS
+
+	Frameworks
+	Spring 3.0.
+
+	Web Servers	
+	Tomcat7, 8
+
+	Tools
+	JUnit, Log4j, Maven, Svn
+
+	IDE
+	Eclipse.
+
+
+
+Project Summary:
+
+Project #1
+Project: Product Rewards Management System
+Client: Citi Bank
+Team size: 5
+Role: Java Developer
+
+Description:
+Product Rewards Management System (PRMS) is a real-time service allowing clients to purchase goods from Citi BANK.
+PRMS is divided into two operations 
+1. Consumer end
+2. Provider end
+ This service requires a customer details to be part of the request and returns the valid vendors available for the points he own. Customer details can be Card Account Number, Expire date and available points. Once the service returns the products from the vendor’s client can redeem his points for the products.
+
+Responsibilities:
+
+· Involved in Client interaction on regular basis to understand the Business of the Client.
+· Involved in the Analysis, Design, Coding, modification and implementation of user requirements in the PRMS application.
+· Implementing Soap based JAX-WS Web services for requesting processing. 
+· Developed Web services clients using xcj tool provided in JDK tools.
+· Developed service layer, process layer and Integration layer in provider side.
+· Developed User defined Exceptions for each request and response.
+· Used Spring IOC for delegating the process layer request to Integration layer.        
+· Used Spring JDBC to integrate Spring Framework with JDBC.
+· Involved in performing Unit testing using JUnit.
+
+
+
+Technologies Used:
+JAX-WS, spring 3.x, JSTL, Oracle10g, Design Patterns, Java, JSP, SVN, Eclipse JEE, 
+Tomcat Server, and Maven.
+
+
+PERSONAL DETAILS:
+Name	:	S Suresh Babu
+Father Name	:	Gurunadha rao
+Marital Status	:	Single
+Language known	:	English, Telugu
+
+DECLARATION: 
+	 I hereby declare that the above information furnished by me is true and correct to the best of my knowledge.
+
+Place	: 
+Date	:							   	 (s suresh babu)      
+
+
+

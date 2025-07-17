@@ -1,0 +1,235 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Soundar Kumar B R				
+E-mail: soundarpri@yahoo.com						Mobile No: - 9916255628	
+
+RESUME SYNOPSIS
+· Having 9.5 years of experience as Java, Big Data developer using jQuery, BootStrap, HTML5, Micro Services, Java, Spring XD, Spring Boot and Hadoop technologies such as Spark, Hive, Hbase, Sqoop, Kafka etc.
+· Preparing Design for data ingestion framework for more than 100 upstream feeds in different formats ex. Flat file, Binary file, RDBMS Systems etc.
+· Troubleshooting problems related to HDFS, Hive, Hbase, zookeeper, Spring XD in all the environments including UAT and Production.
+· Writing UNIX shell scripts for calling modules of ingestion framework.
+· Developed Retail DB application using Spring Micro Services and Hadoop Spark, Spark SQL & Hive which reads data from flat file and stores into HDFS as Parquets and generates CSV files from ingested data and sends to downstream using NDM.
+· Converted Sybase stored procedure into HIVE equivalent HiveQL. 
+· Developed Oracle Coherence cache application which has event listeners for real time extraction and batch extraction as well.
+· Good Experience in Developing Applications using Struts 2, Spring 3 Framework.
+· Good Knowledge in Developing Applications using Oracle, MySQL, MS SQL Server.
+· Written application to start and shutdown, rsync job to sync files between two servers, sftp job to send files to recipient’s script using shell script, mailing process and automated the entire process in a sequence using Autosys.
+· Developed Application in Python wrapping modules to process binary data and generate CSV data and ingested into the HDFS.
+
+PROFESSIONAL STATUS
+· Currently employed with Genpact Headstrong as Lead Consultant from Aug 2016.
+· Employed with Starcom Information Technology Limited, Bangalore from Aug 2014 to Aug 2016.
+· Employed with Cranes Software International Limited, Bangalore from Oct 2008 to July 2014.
+
+EDUCATION DETAILS
+· B.E  Computer Science from Dr.Ambedkar Institute of Technology, Bangalore Under Visvesvaraya Technology University, Belgaum.
+
+
+TECHNICAL SKILLS
+
+	Skills
+	Experienced In
+
+	Primary Skills
+	Core Java, Spring, Spring JDBC, Spring Batch, Spring XD, Hadoop, HIVE, MapRdb, HBase,  Apache Spark, Kafka, Zookeeper, AVRO, Parquet, Oracle Coherence
+
+	Secondary Skills
+	Oracle SQL/PLSQL, Shell Script, Python
+
+	Web Technology
+	HTML5, CSS3, Bootstrap, JavaScript, jQuery, 
+
+	IDE
+	Eclipse
+
+	Tools
+	Maven, Jenkins, Confluence, Jira, Toad, Aqua Studio, Autosys CA
+
+
+
+PROFESSIONAL SUMMARY
+
+PROJECT # 1
+Project Name: Retail DB
+Role: Lead Consultant
+Client: Wells Fargo
+Duration: Aug-2016 to till date
+
+Description: Retail DB application generates retail market data in huge volumes on daily basis. Existing application is developed in Java/J2EE technologies and Sybase. We had migrated the data storage part into Hadoop environment and exposing data using hive views. 
+
+Responsibilities: 
+· Requirement gathering from business and understanding the business requirement.
+· Performed low level designing, requirement analysis, application development and demonstrated to business.
+· Developed Retail DB application using Spring Micro Services, Spark, hive, parquet to read the source file and ingest into HDFS in parquet format.
+· Written Perl script to convert binary source data into readable format and then invoked it from shell script.
+· Converted Sybase stored procedure into hive sql’s and views to expose data to end user.
+· Completely owned UAT and Production release. Used to train L1 support team about release and to support Retail DB project.
+· Mentoring team of 7 members and assisting them in application development and to understand the requirement.
+
+
+Technologies Used: Java, Spring, Springboot Micro Services, Hadoop, Hive, Spark, Parquet, Avro, Kafka, Shell Script, Python, Maven, Autosys, Jenkins
+
+
+PROJECT # 2
+Project Name: Volcker (Multiple Streams) 
+Role: Lead Consultant
+Client: Wells Fargo
+Duration: Aug-2016 to till date
+
+Description: Volcker project has the multiple projects which receives data from many up stream’s with various formats like Flat file, Binary file, RDBMS, Oracle coherence etc on daily basis, consumes the data, pre-validating, ingest into HDFS file system and generating reports, NDM the data for Down Stream’s, ISP and compliances team.      
+
+Responsibilities: 
+·  Requirement analysis for the data lake of a tier one investment bank.
+·  Preparing Design for data ingestion framework for more than 100 upstream feeds in different formats ex. Flat file, Binary file, RDBMS, Oracle Coherence Systems etc.
+· Defining the Structure of data storage in HDFS and mapping it to Hive.
+· Developed a data ingestion module to ingest data in HDFS in parquet format from source files in different formats using Kite SDK, Spring Batch and Java API for HDFS.
+· Developed a REST client for taking the status of Spring XD job.
+· Developed a HBase connector of Java for ingesting reference data into HBase.
+· Writing HIVE queries to standardize the data from different source tables into standard tables.
+· Spring XD job and module creation.
+· Troubleshooting problems related to HDFS, Hive, HBase, zookeeper, Spring XD in all the environments including UAT and Production.
+· Writing UNIX shell scripts for calling modules of ingestion framework.
+Technologies Used: Java, Spring XD, Spring boot, Microservices, JMS, Shell Script, Python, Autosys, Maven, Jenkins, Oracle Coherence, Kite SDK, Hadoop, Hive, Parquet, Avro, MapRdb, NDM
+
+PROJECT # 3
+Project Name: STAR DQ – Pro and Basic
+Role: Developer
+Client: TATA DOCOMO
+Duration: Aug-2014 to Aug-2016
+
+Description:  StarDQ Pro is a powerful multithreaded (distributed-computing) software product to extract and analyze identities, represented by names and addresses. Incorporating cutting edge search technology, StarDQ Pro provides an integrated environment for acquiring data from remote databases, creating a local data mart, and applying innovative and powerful algorithms to search inexact matches in names and addresses. 
+
+Data Cleansing - The StarDQ Pro product solution is used to verify and validate the customer data. The process follows with Data Quality Check on the fields considered, Verification & Validation of Address, City, Pin code, Telephone Number etc, Enrichment of these components wherever possible.
+
+Data De-duping - Identify the duplicate records and forming clusters based on Names & Address. After the initial inspection of data, identify the key columns that can be used for data quality.
+
+Incremental De-Duping - The new unique & dupe records are compared with master table of dupe records and finds if any cluster or records falls into existing master table cluster of records.
+
+Responsibilities: 
+· Used JSP for View, Struts Action Servlet for Controller, Data Value Object as a Model 
+· Involved in writing client and server side validation using struts framework.
+· Developed Business Logic and Presentation Layers in Java, JSP. 
+· Used Common J2EE Design Patterns like Value Objects, Data Access Object and Model-View-Controller.
+· Wrote JDBC queries to access data from Oracle.
+· Responsible for Unit test case preparation.
+· Involved in Unit Testing and defect fixing.
+· Provide timely and accurate work and progress status via the status reports, and weekly meetings.
+· Oral and Written communication with client and team members.
+· Involve in requirement analysis and functional analysis.  
+· Guiding and explaining for Developing Presentation layer using Jsp, CSS and JavaScript.
+· Guiding and explaining J2EE design pattern and High level designing mainly use case, sequence and class diagram.
+· Working with tools like SVN, Toad and Bugzilla. 
+· Preparing and sending report to the technical manager on daily basis
+Technologies Used: Java, JSP, Struts 2, Spring JDBC, Mysql, HTML, CSS, JavaScript
+Maven, Tomcat 8, Jasper reports. 
+
+
+
+
+
+PROJECT # 4
+Project Name: Project – NONET
+Client: Tata Teleservices, CRM of IBM, Idea
+Role: Software Engineer
+Duration: Sept-2012 to July-2014
+
+Description: It is a Web Application, in which the customer will enter the data, or upload the bulk data, which will stored to the data base. Then the data will be cleansed, and the cleanse data will undergo the second operation called deduping in the sense finding the duplicate records, XIP on-line de-duplication application interface integrated into the web applications.
+
+Responsibilities: 
+· Implementing the Java Server Pages and Developing the Controller classes
+· Fixed bugs in the application
+· Developed modules in the system
+· Enhanced the features of the system
+· Involved in design discussions and client discussions
+· Wrote Stored Procedures
+Technologies Used: Java, Servlets, Jsp, Javascript, Ajax, JQuery, Jasper Reports, Oracle 10g, Maven, Jenkins
+
+
+PROJECT # 5
+Client: IDEA, TATA Docomo, Reliance communications, Vijaya Bank, NABARD, Ratnakar Bank 
+Project Name: XID – Extract Identies
+Role: Software Engineer
+Duration: July-2009 to Sept-2012
+
+Description: This is an extension of XID for on-line de-duplication of data and for data cleansing. Certain new features were built into this for high availability and scalability. It has built-in features for load balancing between clusters of machines running in parallel, and also contains a metadata based configuration wizard, which allows the system to connect to any industry standard database and specify the tables and parameters based on which the algorithm will function.
+
+Responsibilities: 
+· Involve in requirement analysis and customer meetings.  
+· Design of metadata based configuration system.
+· GUI to capture metadata.
+· An interactive GUI for profiling operational data to identify incomplete, inaccurate or ambiguous data. 
+· Data enrichment and augmentation.
+· Data summarization lets you compress large static databases into representative points so they are more amenable for subsequent analysis. 
+· Data quality monitoring lets you continuously examine data in real time and over time to discover when quality falls below acceptable limits. Alerts are issued when corrective action is needed. 
+· Involve in requirement analysis and functional analysis.  
+· Involved  in Design and development of the product
+· Involved in writing of design documents and use case documents for new features.
+· Wrote SQL queries to access and update data from Oracle.
+Technologies Used: Java, Java Swing, Oracle 10g
+
+PROJECT # 6
+Client: Tobacco Board Govt. of INDIA 
+Project Name: E-Auction System
+Role: Implementation Engineer
+Duration: Oct-2008 to June-2009
+
+Description: The E-Auction System, the complete auction process happens on a Handheld Terminal. There are three principal stakeholders participating in the auction: Classifier, Auction Superintendent and Buyer. The Classifiers (essentially Tobacco Board Officials) using Handheld Terminals inspect tobacco bales and evaluate their quality, and record the grades followed by the Auction Controller who starts the auction inviting Buyers to bid for the bales.
+
+Responsibilities: 
+· Wrote SQL Queries to get and update certain records. 
+· Back up and maintenance of SQL Server 2008.
+· Resolving clients queries Tobacco Board e-Auction system Mysore.
+· Installing and Maintenance of Applications.
+· Generating BIRT reports and provided to Tobacco Board Officials daily. 
+Technologies Used:  Java, ASP.NET, SQL Server 2005.
+
+

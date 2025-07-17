@@ -1,0 +1,184 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  Nikhil G Agrawal                                 Email Id :  nagrawal940@gmail.com
+                                                              			   	           Contact Number: 91 9730 433 886
+
+
+Summary
+Have overall 4.1 years of experience in the information technology (IT) industry. Have wide range of experience in application development and is seasoned in developing, coding and implementing business technology solutions. Worked on different projects for IPTV and telecommunication domain with AngularJS and JavaScript technologies with very high focus in the analysing the requirements, Programming and Estimation. Worked with Agile and Scrum methodology.
+
+TECHNICAL SKILLS
+Languages	 :  HTML (HTML5), CSS (CSS3), JavaScript, jQuery.
+Technologies 	 :  Angular JS, bootstrap, HTML5, CSS.
+Methodology	:  Agile & Scrum Methodology
+Tools & Utilities:  WebStorm, Git, Tortoise SVN, Jira 
+
+Work Experience
+	Company Name
+	Designation
+	From
+	To
+
+	Xoriant
+	Software Engineer
+	Oct 2016
+	Till Date
+
+	GlobalLogic
+	Sr. Software Engineer
+	Apr 2016
+	Oct 2016
+
+	GlobalLogic
+	Software Engineer
+	Apr 2015
+	Apr 2016
+
+	GlobalLogic
+	Associate Software Engineer
+	Apr 2014 
+	Apr 2015
+
+	GlobalLogic
+	Trainee
+	Oct 2013
+	Apr 2014
+
+
+
+
+PROFESSIONAL EXPERIENCE DETAILS
+
+Primary responsibilities included
+· Worked on different applications using technologies like AngularJS ,JavaScript, JSON, Bootstrap.
+· Worked on different domains like IPTV, telecommunication.
+· Participate in planning, estimation and execution of project
+· Methodology used - Agile Scrum methodology. 
+
+
+
+
+
+KEY PROJECTS
+
+Project I :- KPMG Quest
+
+Description:
+Quest enables client to create activities or tasks for their employees and assign them so that employee can perform all this activities and client can take feedback for all these tasks.
+Quest enables role wise functionalities as below : 
+1. Change Practitioner(Admin) : 
+a. CP can create multiple segments depending on the criteria like employee’s work location, first name etc.
+b. CP can create activities which can contain text, media(Images and Videos), links.
+c. CP can assign already created activities to multiple segments and can make segments live
+d. CP can do all filtering operations on segment and activities.
+2. Employee(Stakeholder).
+a. Employee can view activities and can perform activities assigned to him/her.
+b. Employee can provide feedback for specific activities or global level feedback.
+c. Employee can view announcement at company level.
+Roles and Responsibilities: 
+· Attending client calls.
+· Requirement analysis for various modules.
+· Worked on Activity Module, segment Module and Activity details for employee.
+· Worked on Generalization of grid and Search-add component.
+
+Environment: HTML5, JavaScript, AngularJS, Bootstrap, CSS
+Project II :- Allocation Processing and settlement system
+
+Description:
+Allocation system is a system to allocate and settle transaction that are occured between service providers and recievers of various business units across globe..
+Roles and Responsibilities: 
+· Attending client calls.
+· Requirement analysis for various modules.
+· Worked on Process Group, Business Day template and Operation Calendar Module..
+· Worked on Generalisation of grid and Search-add component.
+
+Environment: HTML5, JavaScript, AngularJS, Bootstrap, CSS
+
+
+Project III :- Rogers IPTV
+
+Description:
+Live streaming and VOD (Video On Demand) service in Canada, where user can view TV channels live and can
+purchase or rent VOD content right from their laptop/desktop. Which also allows user to share content
+between different profile of same account.
+Roles and Responsibilities: 
+· Leading the Player Module.
+· Attending client calls.
+· Requirement analysis for various modules.
+· Worked on implementation of player module where in user can play any Live TV/VOD content.
+· Worked on profile management module.
+
+Environment: HTML5, JavaScript, AngularJS, jQuery, CSS, LESS, Grunt
+
+
+Project IV :- Reliance Mhood
+
+Description: 
+Message Creation from where different Mobile devices having the mobile application will receive the message with
+different offers. Apart from Message creation and delivery, application also contains different User creation, different
+Admin roles, Dashboard feature.
+Roles and Responsibilities: 
+· Requirement Analysis for different modules.
+· Attending client calls.
+· Implementation of Dashboard creation module.
+· Worked on User creation and management module.
+Environment: HTML5, AngularJS, jQuery, Bootstrap, CSS, Grunt.
+
+
+
+Educational Qualification
+
+	Bachelor in Electronics Engineering - Shri Ramdeobaba College of Engg and Management, Nagpur.
+	 Grade-A
+	2009 - 2013
+
+
+
+

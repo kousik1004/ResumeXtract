@@ -1,0 +1,207 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VIVEK YADAV
+                                                      Flat 505, Shanti Villa Apartment, Sector 9, Airoli, Navi Mumbai.
+Mobile: +91-9907370698, E-mail: vivek.yadav0393@gmail.com
+Aspiring to work with a growing organization in the field of Information Technology that offers a challenging environment where I can carve a niche for myself and effectively deliver towards contributing to the organization’s target & aspirations.
+
+PROFILE
+·    Qualified professional, B.E. (Information and technology) from ChameliDevi Institute of Technology and management, Indore, RGPV, Bhopal having an inborn quantitative aptitude, determined to carve a successful and satisfying career in the IT industry.
+·    Energetic and result oriented professional with 3.2 years of experience in IT. 
+· Associate Consultant with 2 years of experience in Microsoft Business Intelligence (MSBI) Developer and 1 year of experience in PeopleSoft technology.
+·    Technical Proficiency in R, Microsoft SQL Server 2008 R2, SSRS, SSIS, PeopleTools.
+·    Partial knowledge of Tableau.
+·    Experience in Data Analytics technologies like Predictive Analysis, Time series forecasting using R, Excel and Microsoft SQL Server 2000/2008, MySQL.
+·    Awarded with many SPOT awards while working with Syntel.
+·    Rich domain knowledge with comprehensive understanding and practical knowledge of various   languages, operating systems and software.
+·   Good knowledge in Windows OS.
+·    Key Team player with good analytical skills and communication skills.
+
+
+TECHNICAL SKILLS
+
+Computer Language               R, Tableau, SQL, SSIS, SSRS, Peopletools
+Technologies      	Predictive analytics, Time series, MSBI, Application Engine.
+Database	MS SQL Server 2008
+
+
+
+
+
+
+PROFESSIONAL BACKGROUND
+
+Sept’15-Present: Working with Syntel International Private LTD as an Associate Consultant
+MAJOR PROJECTS
+				
+Title: PDAC Reports Automation
+Client: CEO, CFO, Engagement Managers, Vertical Heads & PDAC Team
+Duration: May 2017 – Mar 2018
+Skills: MS SQL Server 2008, SSIS, SSRS.
+
+              Summary: PDAC Reports as below:
+
+1. Onsite Bench:
+· The reports are summary of employees who are Onsite and on Bench.
+· Reports shows the Bench Reason, Band Grade wise and bucket of weeks.
+· Summary report also contains sub report which gives detail information about employees.
+
+2. SIDA Summary:
+· The Employee's with Allocation Type Strategic Investment & Delivery Admin are to be considered.
+· Customer provided the bucket list with project id mapping.
+· The report contains summary of SIDA Employees with their respective bucket.
+3. Headcount Trend:
+· Future 30 days headcount is predicted by Future Releases, Future Allocation & E-separation Employees.
+· Trend reports are Overall Syntel wise, Vertical wise with Offshore & Onsite Split.
+
+4. Billable HC Comparison:
+· Last 2 quarters, Last 3 day’s headcount which compared with today's headcount for delta & QTD Growth.
+· Applies for 2 summary Reports with Overall & Onsite Employees. 
+
+5. Future Release: 
+· Billable Employees who’s Allocation End Date in Next15days, Month End & Next Quarter are to be considered.
+
+Responsibility: Involved in the following activities-
+· Designing project plan.
+· Created Data warehouse in SQL 2008.
+· Created SSIS Packages.
+· Created SSRS reports.
+        
+               Title: QUALITY MIS (Development and Support)
+Client: Quality Team
+Duration: Mar 2018 – Till date
+Skills:  MS SQL Server 2008, SSIS, SSRS, Google Charts.
+
+Summary: This project deals with Audit details of all projects of Syntel, which consist of overall customer satisfaction score, Syntel Offering Score, Net Promotor Score and process quality index percentage of the project.
+• The base data required for the project was taken into excel in specified format and loaded into data warehouse through SQL Server Integration Service. 
+• Using SQL Server Analysis Services multidimensional cube is created on this warehouse to slice and dice data, also calculated members are added using MDX.
+• These reports are designed as combined report of CSAT, PQI, Syntel offerings and NPS score and auto triggered to all BU level and Quality Team as a mailer on monthly basis.
+
+
+
+
+
+Responsibility: Involved in the following activities-
+· Designing project plan.
+· Designing excel upload format and database design
+· Primary developer for Data warehouse creation and report design
+· Configuration of project in production environment
+
+
+
+Title: Tableau Scorecard report
+Client: Syntel KPO organization
+Duration: Jan 2017 – Apr 2017
+Skills: Tableau, SQL.
+
+Summary: Revenue Scorecard is a structured report used by the Syntel Management to keep track of the customer’s activities in terms of revenue generated and to monitor the consequences arising in the near future  along with the data driven answers to their deeper questions.
+
+Responsibility: Involved in the following activities-
+· Data preparation which included all the customer’s related data in terms of revenue.
+· Responsible for data visualization to glance performance of each customer in terms of revenue, cost and margin involved.
+· Designing of various sheets as per the requirement.
+· Responsible for creation of a business dashboard to let management get the data driven answers to their deeper questions.
+
+Title: Syntel Employee Engagement Quotient (SEEQ) 
+Client: HR 
+Duration:  Aug 2017 - Jan2018
+Skills: MS SQL Server 2008, SQL Server Integration Services and R.
+
+Summary: SEEQ (Development and Support)
+• This project deals with Dashboard representation of the SEEQ Survey carried out within the Syntel organization.
+• Main challenge faced in SEEQ Development is to create a bar graph where its bars changes as per selection of parameters and parameters do not belong to single dimension. Different dimensions were passed to single parameter. 
+
+Responsibility: Involved in the following activities-
+· Designing Excel Upload Format and Database Design.
+· Primary Developer for Data warehouse creation and report design
+· Database Designer and Primary Developer
+· Configuration of Project in Production
+· Conducted UAT sessions
+
+
+
+Title: PeopleSoft Techno-Functional 
+Client: Syntel Global	
+Duration: Dec 2015 – Dec 2016
+Skills: People tools, Application engine, SQL	
+
+Summary: Worked as PeopleSoft techno-functional, expertise in PeopleSoft Finance 9.0 Bolt-on modules Resource Management, Project Management, Rate card and Travel modules specific to the company. 
+
+Responsibility: Involved in the following activities-
+· Providing production support for multiple modules. 
+· Completing many enhancements.
+· Worked on Application Engine, People Code and Application Designer 8.54. 
+· Developed and modified Application engines for data manipulations.
+
+
+
+    
+EDUCATIONAL DEVELOPMENT
+· B. E. (Information and technology) from ChameliDevi Institute of Technology and management, Indore, RGPV, Bhopal with first division in 2015.
+· 12th from CBSE, with first division in 2011.
+· 10th from CBSE, with first division in 2009.
+ EXTRA-CURRICULAR ACTIVITIES
+· Participated in many Blood Donation Drives
+· Participated in various management conclaves in college.
+· Was a part of National entrepreneurship network team in college and attended various summits.
+· Active in sports and have played Chess at a zonal level for both school and college.
+  PERSONAL DETAILS
+Date of Birth	   :	03rd December 1993
+Nationality	   :	Indian
+Permanent Address   :	39,40 B Anoop Nagar, near sanghi colony, Indore
+References	   :	Available on Request
+Marital Status	   :	Single
+PAN	   :	AMVPY6812H
+
+
+I hereby declare that the information furnished above is true to the best of my knowledge.
+
+
+     Vivek Yadav

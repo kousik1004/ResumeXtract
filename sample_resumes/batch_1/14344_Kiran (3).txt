@@ -1,0 +1,215 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VITAE
+
+CURRICULUM VITAE
+
+Kiran.A
+#16, 16TH Main, Balaji Layout,
+Padmanabhanagar, 
+
+
+
+
+          Mobile   : +919945302275
+Bangalore - 560070.                                                    Email Id: kiran1563@gmail.com
+
+SUMMARY
+
+· Over 4 years of total experience in software development and implementation in Banking, Retail domain using ASP.Net Technology starting August 2007.
+· Currently working for SM Netserv Technologies since August 2011.
+· Previously worked for Advice America (Fiserv) From August 2007 to August 2011
+· Extensive experience in developing ASP.Net Web applications using C#, HTML, Java Script, XML, Telerik Controls.
+
+· Exposure in ASP.NET 3.5/4.0
+
+· Considerable knowledge of banking, Retail domain.
+Technical Skills:
+
+	Languages  
+	C#, HTML, XML
+
+	Technologies
+	Asp.Net 3.5, 4.0, Ado.Net, web service, JavaScript, Jquery, Telerik, WCF.
+
+	DBMS
+	SQL Server 2005
+
+	Web Server
+	IIS
+
+	Other Tools
+	Microsoft Visual Studio 2005, 2008 and 2010, Visual Source Safe, CVS, Rapid SVN, Microsoft Team Foundation Server
+
+	Operating  Systems
+	Windows 2000, Windows XP, Windows Vista, Windows 7
+
+
+Employment History
+
+	Company
+	Duration
+
+	SM Netserv Technologies
+	18-August 2011 to Present
+
+	Advice America Software, Bangalore Development Centre Pvt Ltd.
+
+Web Site: www.adviceamerica.com
+	01-August-2007 to 1 Aug-2011
+
+
+Education Qualification
+
+	Course
+	Institute
+	Year of Passing
+	Percentage
+
+	Master of Computer Applications (MCA)
+	RNS Institute of Technology
+	2007
+	79%
+
+
+PROFESSIONAL EXPERIENCE
+Project Name      : Trade Promotion Management
+Client                   : AFS Technologies
+
+Period                  :  Aug 2011 – Till Date
+
+Responsibility     :  Developer
+
+Description:
+
+    Trade Promotion Management allow user to enter volume and revenue forecasting  for the   customer and product  for which they will be responsible and what they anticipate to sell. Product has an ability to create and edit initial budget for the annual planning process .The planned data can also be drilled down from Customer Group to Specific customer ,Product Groups to Specific Products .Same planned data is moved to “Discovery Dashboard “ where each individual can be tracked on weekly, Periodically, Quarterly , Summary periods .
+
+Responsibilities:
+· Analysis of the specifications and requirements.
+· Design and implementation, bug fixing.
+· Testing - unit testing, Nunit.
+· Interaction with clients.
+Technologies: 
+· ASP.net 4.0, C#, WCF, Telerik, HTML, CSS, JavaScript, JQuery, Ado.net,
+
+ SQL Server 2008.
+Project Name      : Advisor Vision 7.0
+Client                   : Lincoln Financial Group, UBS, Guide Stone, USAA
+
+
+Period                  :  Nov 2007 – July 2011
+Responsibility     :  Developer
+Description:
+    AdvisorVision represents the most sophisticated financial planning software, which addresses multi-goal financial plans, including retirement planning, education funding, survivor needs analysis, as well as accumulation goals.
+     Calculators is one of the major base module for which i was responsible. This module 
+
+consists of sub modules which accepts the inputs of client requirement, builds up the correct financial planning suitable for each individual.
+
+Responsibilities: 
+
+· Analysis of the specifications and requirements
+· Designing for major enhancements or providing the Impact Analysis document for smaller enhancements and bug fixes
+· Involved in coding and unit testing of the software components
+
+· Prepared the test cases for both positive and negative scenarios
+· Performed functional testing of the application
+
+· Prepared the Impact analysis document for the Change Requests
+· Report weekly status of the project to the Project Leader
+Technologies: 
+· ASP.net 3.5, 4.0, C#, HTML, CSS, JavaScript, SQL Server 2008, Ado.net.
+
+Project Name      : Document Composition Server
+Client                   : Lincoln Financial Group, UBS, Guide Stone, USAA
+
+
+Period                  :  Nov 2008 – July 2011
+Responsibility     :  Developer
+
+Description: 
+
+· An interactive server which accepts client requests for generating client report from request message queue.
+
+· Building of Client report includes the generating report for the planning section of Advisor Vision in Word document (.doc, .docx or .Pdf format)
+
+· Process the client request using Microsoft Word 2007 Open XML file format.
+
+· Processing includes converting Word 2007 document into xml file format and build dynamic contents such as simple texts, graphs, and applying styles for it.
+
+· After process completion send the processed request document into response message queue.
+
+Responsibilities:
+
+· Involved in analysis of the specifications and requirements.
+
+· Involved in the development of server using open xml file format.
+
+· Involved in complete end to end testing of the server.
+Technologies: ASP.Net 3.5,4.0 C#, XML.
+Personal Details:
+	Date Of Birth
+	6-March-1983
+
+	Marital Status
+	Married
+
+	Languages Known
+	English, Hindi, Kannada
+
+	Passport Number
+	 J4619145
+
+	Interest And Hobbies
+	 Reading, Playing Cricket
+
+
+Declaration
+
+I here by declare that the above written particulars are true to the best of my Knowledge and belief.
+
+Date:
+Place:  Bangalore                                                                             (Kiran.A)

@@ -1,0 +1,261 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Resume
+
+MADHUSMITA PANDA
+Bangalore- 560103, Karnataka
+Cont#: +91 8147426287 |   Mailto: madhu11jun@gmail.com
+
+
+EDUCATION & CERTIFICATION/AWARDS
+
+	Raajdhani College of Engineering, Biju Patnaik University of Technology, Bhubaneswar, Odisha: Major in Electrical and Electronics Engineering.
+	                                    
+
+
+                   
+Awards: 
+  
+· Awarded as “PAT ON THE BACK” in my project.
+· Awarded as a “DBA Of The Year” in 2015 in my Project.
+· Recognized for providing Hadoop training to the new joiners.
+Technical Skills:
+
+Primary Skill:
+
+	Primary Skill
+	Hadoop Developer
+
+	Hadoop Data Processors
+	Spark,Hadoop,MapReduce
+
+	Hadoop Ecosystem
+	Hadoop 2.x,HDFS,YARN,Zookeeper
+
+	Hadoop  Tools/Databases
+	Hive,kafka,Flume,Sqoop,Oozie
+
+	NoSQL DB
+	Hbase,MongoDB,Cassandra
+
+	Programming Languages
+	Scala,C,C++ ,SQL
+
+	Dataflow Language
+	Pig
+
+	Distribution
+	MapR/CDH
+
+	Other Tools
+	Eclipse 3.2,Jenkins, GitLab, SBT
+
+
+
+
+Secondary Skill:
+
+	Secondary Skill
+	Oracle Core DBA
+
+	Database
+	Oracle 9i,10g,11g,12c
+
+	Operating Systems
+	WINDOWS, Red Hat, OEL , Ubuntu
+
+	Languages
+	SQL,Unix Shell Scripting
+
+	Tools/Utilities
+	RMAN, DATAPUMP (EXPDP/IMPDP), ITSM TICKETING , OPATCH,
+Srvctl, Lsnrctl, OEM, SQL*PLUS, SQL*Loader
+
+	Softwares:             
+	Winscp, Putty, SQL Developer, TOAD
+
+
+
+Summary
+I have total 6 year and 7 months of experience, currently working as a Hadoop/Spark developer in Allegis Group(Cisco) and earlier in CGI . I have gained wide knowledge on Hadoop echo system tools and have worked on several big projects for multi-national companies.
+Employment Profile
+Roles & Functions- Responsibilities as a BigData/Hadoop Developer:
+
+· Hadoop Developer with 1.5 Years of Experience.
+· In depth understanding of Hadoop Architecture (Job Tracker, Task Tracker, Name Node, Data Node), workload management, schedulers, scalability and various components like Hadoop HDFS, MapReduce, Yarn, Hive, HBase, Sqoop.
+· Scheduled the jobs and dependencies in Jenkin tool. 
+· Used GitLab as code repository and SBT as build tool.
+· Good knowledge on spark Architecture, Core RDD, Spark SQL Dataframe/Dataset, Structured and Unstructured Streaming.
+· Used spark-shell for interactive queries, spark-submit for standalone coding.
+· Involved in converting Hive QL queries into Spark DF/Dataset.
+· Used spark sql to load json/parquet data and create schema RDD and load it into hive tables . Also handled structured data using spark sql.
+· Experience in Installing, Configuring and Testing Major Hadoop Eco System components .
+· Deep understanding and implementations of various methods to load HIVE tables from HDFS and Local File System.
+· Created multiple HIVE tables using HiveQL with partitioning, bucketing and indexing for efficient data processing. 
+· Written scoop scripts to import, export and update the data between HDFS/HIVE and relational databases.
+· Created Flume Agent config file to collect, aggregate and push/store the web log data into HDFS.
+· Loaded data from HBase table to Pig relation using HBaseStorage class.
+· Worked with Oozie and Zookeeper to develop/manage scheduled workflow and job co-ordination in the cluster.
+· Developed HIVE UDF as per project requirement.
+· Experienced in using SequenceFile, RCFile, AVRO, Parquet and HAR file formats.
+· Involved in Data migration strategy from heterogeneous sources of different file formats using Sqoop, Pig &  Hive.
+· Well acquainted with Software Development Life Cycle & Software Test Life Cycle.
+· Performed Data enrichments such as Filtering, Sorting and aggregation using Spark SQL.
+
+Present Work Experience:
+Worked with ALLEGIS GROUP(CISCO), Bangalore as Hadoop/Spark Developer (July 2018 to Till Date)
+Project: Telecom data process and Management system 
+
+· Technologies: Apache Hadoop, Scala, Spark, Sqoop, Hive, Jenkins ,GitLab , MapR 
+
+· Description: This Project aims to do ETL, Data Aggregation, and performance enhancement for Cisco data. We receive data from variety of ticketing tools in form of Json and pull those to HDFS and process using spark then load to various Hive table. This data is further fetched by Tableau team for populating in dashboard. All daily jobs are scheduled using Jenkins.
+
+Responsibilities:
+
+· Monitoring daily production jobs.
+· Modifying/Developing the code as per business requirement.
+· Writing the spark ETL backend code for better performance for tableau scheduled jobs.
+· Wrote Spark and Hive Scripts for Data pulling.
+· Done data transformation using spark.
+· Schedule develop and schedule Jenkin jobs.
+.
+Past Work Experience:
+
+Worked with CGI INDIA, Bangalore as Hadoop/Spark Developer (January 2016 to July 2018)
+
+Project: Wholesale Finance data process and Management system 
+
+· Technologies: Apache Hadoop, Scala, Spark, Sqoop, Hive, Jenkins,CDH 
+
+· Description: This Project aims to do ETL, Data Aggregation, and Data Analysis on top of banking data for an automobile industry. We receive thousands of loan and transactional data from WMS system for customers in form of Json and CSV file . This data is stored in Hive data warehouse through spark after validation. On top of this data we are building analytics like aggregation, prediction, filtering using spark for advanced analysis of data. We are also transferring data from RDBMS OLTP database to HDFS using sqoop for predictive analysis. 
+
+
+Responsibilities:
+
+· Setting up and Monitoring Hadoop cluster.
+· Involved in several client meetings to understanding the problem statements and other requirements.
+· Data Migration from Source Systems to Hadoop.
+· Creating and Running shell scripts for Data transfer from sftp server to HDFS .
+· Load data into Hive partitioned tables and Wrote various queries for Business Use Cases.
+· Wrote Spark and Hive Scripts for Data Analysis.
+· Done data transformation like padding, cleansing, and trimming using Spark.
+· Schedule develop and schedule Oozie workflow xmls and jobs.
+
+Roles & Functions- Working as an Oracle Core DBA
+
+· Taking user managed and RMAN backup and RMAN catalog creation and using that for backup/restoration and recovery.
+· Day to day activities like bouncing database through srvctl, registering parameters in srvctl etc.
+· Upgraded Database from 10g to 11g manually and also from DBUA.
+· Creating Database users and granting roles and privileges.
+· Applying Database patches like Oneoff,PSU,CPU,mini pack ,family pack on Oracle instances.
+· Cloning of data files through RMAN Duplicate, Export/Import and RMAN restoration/recovery methods.
+· Expert in using cluster level utilities like CRSCTL, SRVCTL etc.
+· Data Guard- Managing, Installing and configuring Stand by database.And also Analyzing and resolving gaps.
+· OCR, Voting Disk management in RAC database.
+· Improved query performance by Gathering statistics, Creating indexes, Generating/Analyzing query xplain plan. 
+· Used profiling method of SQLT to export plan from a database and import to another database.
+· Monitoring and Performing full ( Hot, cold ) backup, incremental (cumulative, Differential) Backup, 
+· Restoration & recovery (complete and incomplete) using RMAN.
+· Enabling flashback feature in database and recovering using flashback logs whenever required.
+· Creating Database Links, Creating and Managing Tablespaces like User, Undo ,Temp, System 
+· Creating, Extending, Shrinking/Defragmenting Datafiles/Tables , 
+· Use of SQL diagnostic and tuning tools like TKPROF, AWRRPT, AWRIRPT, SQLT, AUTOTRACE (ADDM Reports).
+· Export/Import of schema, table,partition, full database etc. through data pump tools like expdp/impdp.
+· Partitioning the tables by range, hash, list etc. & indexes also.
+· Scheduling Shell Scripts in Crontab/dbms_scheduler for monitoring day to day activities.
+· Attending daily service requests/Client call for production database.
+· Database code/object deployment activity and performance tuning
+
+OTHER Work Experience:
+
+Worked with Convenient Consultancy Private Limited, Bangalore as Oracle DBA (June 2014 to June 2015)
+
+Project: Telecom Data Management and Processing System 
+
+· RAC Data Base environment maintenance.
+· Scheduling daily hot backups and weekly cold backups.
+· Database cloning and Database backup recovery.
+· Experience in managing very large databases (Multiple TB of size).
+· Good in Client facing and interacting with clients for requirements.
+· Daily server monitoring activity and performance monitoring through OEM12c.
+· Data Guard- Managing, Installing and configuring Stand by database. 
+· Analyzing and resolving sequence gaps in DR.
+· Taking care performance related issues
+
+Worked with Sankalpa Tech PVT LTD , Bangalore as Oracle DBA ( Nov 2011 to May 2014)
+
+Project: Insurance Data Management System 
+ 
+
+· Creation and deletion of users
+· Resizing of datafile according to the requirement
+· Managing/Monitoring backup of databases (Hot, Cold and Export/Import)
+· Monitoring of database health checkup
+· Creating Profiles for the users and managing users.
+· Managing role and database security.
+· Managing tablespace and managing storage.
+· Assigning tickets by using ticketing tool.
+
+
+Education Summary
+
+	Passport Number
+	Date of Issue
+	Expiry Date
+	Place of Issue
+
+	N6244585
+	13-jan-2016
+	12-jan-2026
+	Bangalore, INDIA
+
+
+
+
+Resume									

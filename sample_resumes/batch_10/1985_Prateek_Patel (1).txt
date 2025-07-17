@@ -1,0 +1,441 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prateek Patel 
+E-mail: phpatel_2@yahoo.co.in  Mobile: +91-989-22-353-10 
+
+1 
+ 
+
+OBJECTIVE: 
+
+Seeking a challenging position as a Database Administrator that utilizes my skills, knowledge and 
+
+technical education in an organization where advancement potential increases with demonstrated 
+
+capabilities and proficiency. 
+
+GENERAL PROFILE: 
+
+QAD Certified Professional (Technical Implementation - 2015 EE) with 7 years and 7 months of industry 
+
+experience having expertise in Progress and MongoDB Database Administration. 
+
+CORE COMPETENCIES: 
+
+ A Senior Database Administrator having experience in areas like Database Administration, Data 
+
+Server setup and server/version migration/upgrades 
+
+ Having experience in: 
+
+ Installation of Progress and QAD products and related patches/fixes 
+
+ Installation and support for all the interfaces for MFG/PRO viz. CHUI, GUI and .NET UI (standard 
+
+and retrofitted versions) 
+
+ Shell scripting 
+
+ Managing and supporting QAD/Progress environments in HP-UX, IBM AIX, LINUX (RHEL), SunOS 
+
+and Windows Operating Systems 
+
+ Performance analysis and tuning up the Progress and MongoDB databases 
+
+ Setting up replication for disaster recovery 
+
+ BCP (Business Continuity Planning) and running mock BCP tests 
+
+ Setting up ODBC connections to Progress databases 
+
+ Dump/load for Progress and MongoDB databases 
+
+ Configuring and managing Progress WebSpeed and AppServer 
+
+ Having exposure in: 
+
+ Working with global customer base 
+
+ Working on cloud ERP solutions 
+
+ Mentoring and training new members in team 
+
+ Leading team 
+
+ A team player with good written and verbal communication skills, willing to handle wide variety of 
+
+tasks and new challenges 
+
+EXPERIENCE DETAILS: 
+
+QAD INDIA PVT. LTD., MUMBAI, INDIA (SINCE JULY 2012) 
+
+PROJECT: CLOUD DBA (JUNE 2015 – TILL DATE) 
+
+ROLE: SENIOR DATABASE ADMINISTRATOR 
+
+
+
+Prateek Patel 
+E-mail: phpatel_2@yahoo.co.in  Mobile: +91-989-22-353-10 
+
+2 
+ 
+
+Cloud DBA is a SME (Subject Matter Expert) group for handling highly escalated database issues, 
+
+making recommendations for improvements, in-depth analysis of issues and providing permanent 
+
+fix for issues identified. 
+
+ Progress and MongoDB Database Administration. 
+
+ Installing Progress/OpenEdge and relative service packs and fixes. 
+
+ Troubleshooting issues related to replication. 
+
+ Maintaining user security matrix. 
+
+ Analyzing customer systems and taking necessary actions for performance improvements. 
+
+ Shell scripting. 
+
+ Providing inputs for continuous process improvements. 
+
+ Providing Progress DBA training to new team members. 
+
+ Building web portal to facilitate performance analysis and reporting. 
+
+PROJECT: ON DEMAND SUPPORT (JULY 2012 – MAY 2015) 
+
+ROLE: TECHNICAL CONSULTANT 
+
+On Demand Team provides 24 X 7 technical support to global customer base in QAD MFG/PRO (SE 
+
+and EE) environment in the cloud. 
+
+ Installing Progress/OpenEdge and relative service packs and fixes. 
+
+ Troubleshooting issues related to AI management and OpenEdge replication. 
+
+ Installing/upgrading various QAD Products e.g. .NetUI, MSW/PSW, QXtend, QAD Workflow 
+
+Alerts, CRM, etc. 
+
+ .NetUI uplift (i.e. installation of retrofitted version of .NET UI). 
+
+ Installing QAD patches for SE, EE, QXtend, .NetUI, etc. 
+
+ Monitoring customer systems through the web interface and taking necessary 
+
+preventive/corrective actions for avoiding the system down situations. 
+
+ Shell scripting. 
+
+ Setting up batch/cron jobs. 
+
+ Environment refresh. 
+
+ Customer incident handling. 
+
+ Replicating customer environments in VMware and finding root cause of the issue to provide 
+
+the resolution on the reported issue. 
+
+ Creating and reviewing documents for the tasks to be performed during maintenance activities. 
+
+ Creating and reviewing RCA (Root Cause Analysis) reports for the Production issues. 
+
+ Performing maintenance tasks on Production environments. 
+
+ Mentoring new team members. 
+
+ Working closely with other teams across QAD (including QAD R&D) for installation, configuration 
+
+and troubleshooting of various products. 
+
+ Training team members on Progress and QAD products installation, configuration and 
+
+troubleshooting. 
+
+
+
+Prateek Patel 
+E-mail: phpatel_2@yahoo.co.in  Mobile: +91-989-22-353-10 
+
+3 
+ 
+
+ Assisting team lead for work distribution and doing initial triage of the customer incidents 
+
+whenever required. 
+
+PROJECT: ON PREMISE SUPPORT (SEPTEMBER 2012 – MAY 2015) 
+
+ROLE: TECHNICAL CONSULTANT 
+
+ Analyzing the issue reported by AMS customers through a web based portal and provide 
+
+solution. 
+
+ Customer interaction. 
+
+ Knowledgebase creation. 
+
+ Working with the customer over screen sharing sessions and/or virtual meetings. 
+
+ Working on Production down situations for database related issues. 
+
+THIRDWARE SOLUTIONS LTD., MUMBAI, INDIA (APRIL 2010 – JUNE 2012) 
+
+PROJECT: DATABASE ADMINISTRATION SUPPORT (APRIL 2010 - JUNE 2012) 
+
+CLIENT: REGAL BELOIT CORP. (FORMER - A. O. SMITH), OH, USA 
+
+ROLE: DATABASE ADMINISTRATOR 
+
+ 
+
+A. O. Smith is one of the largest manufacturers of electric motors for residential and commercial 
+
+applications in North America.  
+
+ Customer interaction on periodic basis. 
+
+ Providing 20 X 5 Progress DBA support for all the environments which includes database support 
+
+(database size 200 GB +), code promotions, schema changes promotion etc. 
+
+ In addition to QAD MFG/PRO, supporting other products like QAD QXtend, Fathom management 
+
+and Radley. 
+
+ Periodic activity reporting. 
+
+ ODBC setup, index rebuilding and DB performance tuning. 
+
+ Linux shell scripting to automate the repetitive tasks. 
+
+ Team member for server migration project. 
+
+ Team member for eb2.1 to QAD 2009 SE migration project. 
+
+PROJECT: SERVER MIGRATION AND DBA SUPPORT (JULY 2011 - JUNE 2012) 
+
+CLIENT: RIDE CONTROL, USA 
+
+ROLE: DATABASE ADMINISTRATOR 
+
+ 
+
+Ride Control, LLC (formerly known as Gabriel) has been around for over 100 years. The company 
+
+makes shock absorbers, primarily for the light automotive aftermarket, but also for commercial 
+
+vehicles and industrial applications. 
+
+ Customer interaction on regular basis. 
+
+ Responsible for all the activities related to server migration. 
+
+
+
+Prateek Patel 
+E-mail: phpatel_2@yahoo.co.in  Mobile: +91-989-22-353-10 
+
+4 
+ 
+
+ Installation and configuration of QAD 2007.1 with .NET UI (single-tier and multi-tier) on Sun 
+
+Solaris and RHEL. 
+
+ Installation of QAD Planning and Scheduling (MSW-PSW) Workbenches. 
+
+ Setting up batch jobs and scheduling them from crontab. 
+
+ Process documentation. 
+
+ Proactive environment monitoring and activity reporting. 
+
+ Providing DBA support for all the environments which includes database support, code 
+
+promotions, schema changes promotion etc. 
+
+ Data Dump/Load. 
+
+ Planning BCP and running mock drills for the same. 
+
+ DB performance tuning. 
+
+PROJECT: DATABASE ADMINISTRATION SUPPORT (APRIL 2010 - JUNE 2012) 
+
+CLIENT: VISHAY, ISRAEL AND USA 
+
+ROLE: DATABASE ADMINISTRATOR 
+
+ 
+
+Vishay is one of the largest manufacturers of discrete semiconductors and passive components. 
+
+ Providing on demand DBA support for all the environments. 
+
+ ODBC setup. 
+
+ Proactive monitoring of all the environments. 
+
+ Setting up new servers. 
+
+ Resolving .NetUI connection issues. 
+
+ DB performance tuning. 
+
+PROJECT: DATABASE ADMINISTRATION SUPPORT (APRIL 2010 - JULY 2011) 
+
+CLIENT: LAIRD TECHNOLOGIES INC, USA 
+
+ROLE: SYSTEM AND DATABASE ADMINISTRATOR 
+
+ 
+
+Laird Technologies is a global market leader in the design and supply of electromagnetic 
+
+interference (EMI) shielding, thermal management products, specialty metal products, signal 
+
+integrity components, and antenna solutions, as well as radio frequency (RF) modules and wireless 
+
+remote controls and systems. 
+
+ Responsible for DBA support. 
+
+ Experience in RHEL server patch updates. 
+
+ Maintenance of Progress database and .NetUI. 
+
+ Printer setups. 
+
+ Linux shell scripting to automate the repetitive tasks. 
+
+ Code promotion and schema changes. 
+
+ Periodic database health checkups. 
+
+ Managing 48 sites across 3 regions (NA, APAC and Europe). 
+
+
+
+Prateek Patel 
+E-mail: phpatel_2@yahoo.co.in  Mobile: +91-989-22-353-10 
+
+5 
+ 
+
+MISCELLANEOUS PROJECTS: 
+
+CLIENTS: UTTAM GALVA STEEL LTD., BUNGE INDIA (AGRIBUSINESS) PVT. LTD., OTHERS 
+
+ Responsible for proactive environment monitoring, database performance tuning and setting up 
+
+new environments. 
+
+ Responsible for backing up and restoring the environment during OS reinstallation activity on 
+
+Production server. 
+
+ Responsible for providing Progress DBA Support, periodic database health checkups, analyzing 
+
+environments and providing suggestions. 
+
+CERTIFICATION: 
+
+ ITIL® 2011 
+
+ QAD Certified Professional (Technical Implementation - 2015 EE) 
+
+ Course Completion Confirmation certificates 
+
+ M102: MongoDB for DBAs 
+
+ M202: MongoDB Advanced Deployment and Operations 
+
+ACHIEVEMENTS: 
+
+ Received Champion award (Oct 2014 - QAD) 
+
+ Received Cracker Jack award (Sep 2011 - Thirdware) 
+
+QUALIFICATIONS: 
+
+ Bachelor of Engineering specialized in Information Technology from University of Mumbai with First 
+
+Class (2009) 
+
+ Diploma in Computer Engineering form Maharashtra State Board of Technical Education with First 
+
+Class (2006) 
+
+ SSC from Maharashtra State Board of Secondary and Higher Secondary Education with Distinction 
+
+(2003) 
+
+PERSONAL DETAILS: 
+
+DATE OF BIRTH: 10
+th
+
+ May 1987 
+AGE: 30 years 
+GENDER: Male 
+MARITAL STATUS: Married 
+LANGUAGES KNOWN: English, Hindi and Gujarati 
+NATIONALITY: Indian 
+PASSPORT NUMBER: N0621750 
+HOBBIES: Photography, listening music, playing indoor games. 
+ 
+
+

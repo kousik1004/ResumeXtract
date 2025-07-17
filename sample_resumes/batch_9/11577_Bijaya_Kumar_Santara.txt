@@ -1,0 +1,198 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ganesh Kinkar Giri Telecom Resume
+
+Bijaya Kumar Santara
+Marathahalli, Bangalore – INDIA
+Contact No: +91-9620-108-288
+
+
+	Objective:
+To be part of an advancing organization that provides me with a challenging career to improve my skills in accordance with the latest trends and technologies and utilizing my inherent capabilities and professional education to shoulder responsibilities, take initiatives, add value to the company, thereby become a successful professional in the field of Information Technology.
+
+Summary:
+· Over all 4 years of professional experience in Software development, Enhancement and Maintenance, including 1.7 years in Apache Hadoop development using HDFS, Hive, Pig, Sqoop,  Yarn, Spark,  Python scripting to include designing, developing and deploying n-tired and enterprise level distributed application and 2.5 having Good working knowledge in Python and Django. 
+· Extensive knowledge in design and development of business process using Sqoop, Hive, Pig, Spark. 
+· Expertise in technical background LINUX, Oracle 9i/10g, MySQL.
+· Involved in Requirement gathering and design for script automation.
+· Always goal oriented and maintain excellent professional relationship with customers as well as within team and others team.
+· Always proven good client interaction, communication, organizational skills and team work with committed for hard work and dedication. 
+
+Employment History:
+· Currently Working with Accenture Solutions Pvt ltd, Bangalore. Since 2014 Nov 26th.
+
+Total Experience – 4 years:
+· Hadoop development – 1.7 years.
+· Python, Data Science – 2.5 years.
+
+Educational qualification:
+· B.E Computer Science from B.P.U.T (Orissa) in the year of 2014.
+
+Technical Skills:
+	Hadoop Distribution
+	Cloudera
+
+	Language & Framework
+	Python, SQL, Scala, Spark, Pandas, NumPy
+
+	Operating Systems
+	Windows XP, 7, Unix (Sun Solaris), Linux
+
+	Databases
+	Oracle 9i/10g/11g and MySQL.
+
+	Scripting
+	Shell scripting, Python scripting.
+
+	Data Warehouse tools
+	Hive, Pig
+
+	NoSQL Database 
+	HBase & Mongo Db.
+
+	Data Transfer tool
+	Sqoop.
+
+	Distribution tool
+	Zookeeper.
+
+	IDE
+	Eclipse, Edit plus, Putty. 
+
+	Other Interests
+	Machine Learning, Deep learning, Swimming, Playing volley
+
+
+
+
+
+Projects Details:3
+Accenture Solutions pvt ltd.
+Client – Bank of America
+Duration: May 2017 – present
+
+Description: 
+Bank of America has tapped into Hadoop technology to manage and analyse the large amounts of customer and transaction data that it generates. Big Data analytics and Hadoop are the heart of ‘BankAmeriDeals’ program, that provides cashback offers to bank’s credit and debit card holders. The bank collects transaction data from various propensity models and the bank learns which customers are likely to be benefited from refinancing their credit cards with a competitor. From this analysis, the bank can make offers to these customers, when they contact the bank, either through their branch office, call centre or any other medium. Big data analytics at Bank of America helps run the BankAmeriDeals program with cashback offers based on the past payments of customers for better customer retention who are likely to go to a competitor. 
+
+Roles and responsibilities:
+· Requirement gathering and prepare the Design.
+· Co-coordinate between the Business and the Off-shore team.
+· Export and Import data into HDFS, Hive using Sqoop.
+· Involve in creating Hive tables, loading with data and writing Hive queries.
+· Bulk load HDFS using Pig and hive
+· Implement solutions using Hadoop, Hive, Sqoop, Spark API, etc.
+· Work closely with the business and analytics team in gathering the system requirements.
+· Load and transform large sets of structured and semi structured data.
+· Load data into Hive partitioned tables.
+
+
+Projects Details:2
+Accenture Solutions pvt ltd.
+Client : HENKEL
+Duration: Sep 2016 –May 2017
+Description: 
+
+Henkel AG & Company, KGaA, is a German chemical and consumer goods company headquartered in Düsseldorf, Germany. It is a multinational company active both in the consumer and industrial sector. I was part of the audit team to analyze the type of issue those are arising and average resolution time. We were mapping the data from server and sent mail to the internal teams for the less visibility or need faster resolution. We will send mail with a table showing the incidents/problem tickets those are missed the SLA and nearest upcoming SLA.
+
+
+Roles and responsibilities:
+
+· Read data from MySQL server for specific business requirement
+· Save the details in image format using Pillow library of Python.
+· Crop the image to best fit for outlook wrt to the original table data format.
+· Send the mail to all tower 
+· Run the task and troubleshoot in case of failure.
+
+Projects Details:1
+Accenture Solutions pvt ltd.
+Duration: Feb 2015 – July 2016
+
+Description: 
+Developed AVIS-Budjet-Group website using Django web framework in Python. It’s a car-rental website. Here the registered user can hire any CAR as per choice and will be charged accordingly.
+
+Roles and responsibilities:
+· Created the website and UI using Django1.7 web framework and Python 3.4, with HTML, CSS and JS keeping SEO in mind.
+· Integrated MySQL database on server with Django using python-MySQL connector.
+· Designed and configured database and backend programs with MySQL to store the information about the users and products.
+
+
+Personal Details:
+
+· Gender : Male
+· Mother’s Name : Ranju Santara
+· Nationality : Indian
+· Languages : English, Hindi, Odia
+· Passport No. : P1347457
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proclamation                                                                                  
+Hereby I declared the above reveal data is true and correct the supportive information and document can be provided on demand.
+
+
+	
+
+
+                        -- Bijaya Kumar Santara
+
+
+***********************************************************************************************************************************************************************************************************

@@ -1,0 +1,146 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curriculum Vitae
+Pratik Kumar
+B.Tech (Hons)
+
+Computer Science & Engineering
+
+09968208247
+
+prateekmuz@gmail.com
+
+CAREER OBJECTIVE 
+
+
+My career plans are research oriented. As far as job is concerned I would like to join the R & D cell of a company, pertaining to my area of research.  I  think  myself  capable  of  innovations,  and  hence  I’m  sure  that  I  can significantly contribute towards the product/process development of the industry/Organization, I am involved with.
+
+EDUCATION 
+	Degree
+	University /Institute
+
+	Year 
+	 MARKS/CGPA
+
+	Computer Science and Engg(B.Tech)
+	National Institute of Technology,
+
+Jamshedpur
+	2009-2013
+	82.90
+
+	A.I.S.S.C.E
+
+	Delhi Public School,Bokaro
+	2008
+	80
+
+	A.I.S.S.E
+	Kendriya Vidyalaya
+	2006
+	91.8
+
+
+TECHNICAL EXPERIENCE 
+
+
+Allahabad Bank
+
+ Aug 2018 – till date
+
+· Operation and ForEx management.
+
+Stunner IT Solution Pvt Ltd
+
+ Feb 2015 to Mar 2018
+Technical Lead
+Title: Clustering based on frequency of words from PubMed based on query Neurological disorder
+Top 100 query from PubMed based on query Neurological disorder is extracted and abstract of them is printed. Top 10 most common words is printed and removed extracted words. Remaining corpus is cleansed by removing stop-words .A vector of all abstract is created based on frequency of words. Cosine similarity is created for these vectors and clustering is done on basis of cosine similarity.
+Technologies used: Python, Machine Learning, Clustering, NLP, Text Mining
+
+Title: Sure-Pay
+This project was based on upgrading charging systems used by clients such as Verizon, Vodafone. It uses system configuration and user specification to subscribe them to user bundles. These user bundles are used to run call based on specification. My role was to write automation scripts to reduce the time taken for upgrade and improve efficiency. It resulted in several processes which were non-conflicting in nature to run simultaneously using memory efficiently.
+
+Technologies used: Python
+
+Alcatel Lucent Pvt. ltd: 
+Jul 2013 to Jan 2015
+
+Senior Software Engineer 
+Title: Open service platform
+This project was based on use of shared memory concepts for the services present in the company for using the data underlying it. It uses the concepts of semaphore threading, mutex. These help in effective utilization of memory for running services essential for calling purposes. My role was to write codes for development and effective implementation of shared memory and help underlying services to access it efficiently. It used core network programming on Linux platform.
+
+Technologies used: C
+Area of Interest
+· Machine Learning
+
+· Deep Learning
+
+· Data Science
+
+· Neural Networks
+
+· Tensor Flow
+
+· C
+
+· Python
+
+ADDITIONAL ACADEMIC AWARDS
+
+· Completed Deep Learning Specialization from Coursera
+
+· Completed machine Learning Course from Coursera
+
+· First prize in IT QUIZ organized by CSI,NIT Jamshedpur
+
+· First prize in Tux 2012 in OJASS, A TECHNICAL EVENT organized in NIT Jamshedpur.
+
+· Got certificate from CBSE for scoring 100 % in maths.
+
+ 

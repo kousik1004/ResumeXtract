@@ -1,0 +1,422 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Katta
+
+
+ 
+ 
+
+V V V S K CHAITANYA MAJETI 
+
+Date of Birth : 27-04-1990 
+ 
+
+Contact 
+
+:  +91 – 9505418881 
+
+: krishnachaitanya.majeti@gmail.com 
+ 
+
+ 
+S/O NagendraRao, 
+
+D-No: 16-5-572, Y.S.R.Nagar, 
+
+Rhustumbada, 
+
+Narsapuram, W.G.Dt, A.P. 
+
+PIN: 534275. 
+
+ 
+
+Experience Summary: 
+
+ 4.4 Years of experience in Manual and Mainframe testing. 
+
+ Having Good Experience in US Health Care Domain Manual Testing. 
+
+ Have knowledge in Data Preparation Activity for the HIPAA Transactions like 837 I/P. 
+
+ Possess knowledge on end to end claim behavior in Nasco Processing System (NPS) & 
+Electronic Error Correction (EEC). 
+
+ Have good command in NASCO Mainframes CICS screens like HIQK, HEHK, HRBK, 
+HRDK, HSFK, TPOL, HURK, HRRK, HRSK, HZMK, HRJK, HRCK, HRGK, HROK. 
+
+ Have good knowledge in key in the claims eFDE Application. 
+
+ Have knowledge in checking the compliancy errors in both 4010 and 5010 837 transactions. 
+
+ Experienced in executing Mainframe JCL jobs and DB2 Queries. 
+
+ Managed all Testing activities and responsible for the overall Testing effort. Requirement 
+Analysis, Designing & Executing Test scenarios, Defect reporting & tracking and Metrics. 
+
+ Actively involved in daily status meeting, client status calls and plan review meetings. 
+
+ Excellent communication skills, team playing spirit and strong analytical & problem solving 
+abilities. 
+
+ Have excellent ability to grasp new technologies and implement it to its highest potential. 
+
+ Good Knowledge on the Defect Management tool - Clear Quest. 
+
+Professional Experience: 
+
+Senior Associate  –   Genpact,  June 2016 to Till date. 
+
+Technical Associate –   Genpact,  January 2014 to May 2016. 
+
+Technical Trainee –   Genpact,  July 2013 to December 2013. 
+
+Major Achievements: 
+
+Received Top Gun, Silver and Bronze awards from Genpact rewards and recognition 
+program. 
+
+Technical Skills: 
+
+ Testing – Manual and Mainframe Testing 
+
+ Programming Languages – C Programming, Excell Macros & VB Script 
+
+ Domain – Health Care (HIPAA) and NASCO (ICD9 to ICD10) 
+
+mailto:krishnachaitanya.majeti@gmail.com
+
+
+ 
+ 
+
+Certification & Training: 
+
+ Successfully completed NPS (Nasco Processing System) Claims training and Certified by 
+NASCO Software Quality Assurance Program. 
+
+ Typewriting English Lower passed in the year Aug-2005 secured Second Class under 
+
+State Board of Technical Education & Training, A.P, Hyderabad. 
+
+Academic Profile:  
+
+ MCA in Swarnandhra College of Engineering & Technology, Narsapuram from JNTUK 
+with aggregate of 75.1%. 
+
+ B.Sc (Computer Science with Electronics and Maths Combination) in Sri Y.N.College 
+(Autonomous), Narsapuram from Andhra University with aggregate of 72.1%. 
+
+ Intermediate M.P.C (E.M) from Sri Y.N. College, Narsapuram with aggregate of 53.4% 
+during the academic year 2005-2007. 
+
+Projects 
+
+Project Title 1        Vermont - SIT (System Integration Testing) 
+Client                     BCBS – Vermont 
+Environment         JCL, IBM DB2, Nasco Processing CICS screens 
+Team Size              8 Members 
+Duration                November 2016 to Till Date 
+Role                        Module Lead 
+
+Project Description: 
+
+The intention of this project is to verify all functionalities are working as expected with 
+in the NASCO for Vermont Plan, because Vermont is the new Plan to migrate in to NASCO 
+system. Vermont is decided and coming up with 3 different waves (W1 – ITS Host, W2 – FEP, 
+W3 – Commercial). BCBSVT different waves of testing is to ensure Plan code 915 ITS Host, 
+FEP and Commercial requirements are configured and tested successfully within the NASCO 
+Processing System and BCBSVT systems.  
+
+Responsibilities: 
+
+ Analyzed business and system requirements of the project. 
+ Developed and updated Test plans, Test Scenarios, and Test Cases, for all plan specific 
+
+CSR’s. 
+
+ Analyzing the task and distributed the work to the team members. 
+ Co-ordinating and Guiding the team with daily goals and responsibilities. 
+ Understanding Test Data Requirements and executing the test cases based on given 
+
+HLRs and documented Test results. 
+
+ Finding new short cuts in the work and successfully implementing. 
+ Involved in updating the current and newly develop Macro scripts. 
+ Review of all the day to day deliverables with in the project.  
+ Logging defects in CQ for the failed test cases and upload the Test results in CQ. 
+ Analyze the work and reporting any issues to the Manager/Project lead. 
+ Effective management of the resources and sending regular project status to manager. 
+ Actively participated in daily internal calls, weekly status call with onsite team and Plan 
+
+meetings. 
+
+
+
+ 
+ 
+
+Project Title 2        Add Postitive Matching Payee 
+Client                     BCBS – Carefirst, MASS, Michigan, Horizon, Anthem 
+Environment         JCL, IBM DB2, Nasco Processing CICS screens and Central Financial 
+Team Size             5 Members 
+Duration                July 2016 to October 2016 
+Role                        Module Lead 
+
+Project Description:   
+
+The intention of this project is to increase controls and reduce potential instances of 
+check fraud by adding the Payee name to the Check Issue file for Central Financial processing 
+only. This will allow Wells Fargo to verify the payee when a check presented for payment equal 
+the payee name on the Check Issues File. The value of this project is to add additional security 
+within the check verification process as well as increased subscriber and provider satisfaction 
+through decrease in potential check fraud. 
+
+Responsibilities: 
+
+ Analyzed business and system requirements of the project. 
+ Developed and updated Test plans, Test Scenarios, and Test Cases, for all inscope 
+
+Plan’s. 
+
+ Analyzing the task and distributed the work to the team members. 
+ Understanding Test Data Requirements and executing the test cases based on given 
+
+HLRs and documented Test results. 
+
+ Involved in updating the current and newly develop Macro scripts. 
+ Review of all the day to day deliverables with in the project.  
+ Logging defects in CQ for the failed test cases and upload the Test results in Clear 
+
+Quest. 
+
+ Analyze the work and reporting any issues to the Manager/Project lead. 
+ Effective management of the resources and sending regular project status to manager. 
+ Actively participated in daily internal calls, weekly status call with onsite team and Plan 
+
+meetings. 
+
+Project Title 3        Sub-Plan Determination 
+Client                     BCBS – Carefirst, MASS, Michigan, Horizon, Anthem 
+Environment         JCL, IBM DB2, Nasco Processing CICS screens 
+Team Size             15 Members 
+Duration                January 2016 to June 2016 
+Role                        Module Lead 
+
+Project Description: 
+
+This project is to correct the situations where the Subscriber Plan determintation within 
+NASCO processing system claims processed is not being identified correctly. The 
+enhancement will assign the correct subscriber Plan code consistently to all incoming claims 
+for subscribers regardless of whether the claim is submitted with an alpha prefix or without an 
+alpha prefix, and whether there are active and/or cancelled coverage segments combinations 
+on file for the subscriber. The value of this project is to reduce the subscriber Sub Plan 
+Determination errors that are being encountered today, thus reduce the manual correction 
+process Plans are performing to address the situations where the incorrect Sub Plan was 
+determined. 
+
+
+
+ 
+ 
+
+Responsibilities: 
+
+ Analyzed business and system requirements of the project. 
+ Developed and updated Test plans, Test Scenarios, and Test Cases, for all inscope 
+
+Plan’s. 
+
+ Validated the test cases and documented test results. 
+ Analyzing the task and distributed the work to the team members. 
+ Backup and extract all processed files for Baseline and Parallel using JCL. 
+ Review of all the day to day deliverables with in the project.  
+ Logging defects in CQ for the failed test cases and upload the Test results in Clear 
+
+Quest. 
+
+ Analyze the work and reporting any issues to the Manager/Project lead. 
+ Effective management of the resources and sending regular project status to manager. 
+ Actively participated in daily internal calls, weekly status call with onsite team and Plan 
+
+meetings. 
+
+Project Title 4       NPS CLAIMS REGRESSION (TCR & BMT) 
+Client                     BCBS – Carefirst, MASS, Michigan, Horizon, Anthem 
+Environment         JCL, IBM DB2, Nasco Processing CICS screens 
+Team Size             10 Members 
+Duration                January 2015 to December 2015 
+Role                        Team Member 
+
+Project Description: 
+
+Daily CSR analysis is conducted of the changes being deployed to Model Office for 
+customized test case execution. New Test Cases are identified, created and added to the Test 
+Case Repository based on the new CSR’s being deployed. The CSR test analyst ensures the 
+development of a comprehensive and robust TCR. The initial TCR has been created for the 
+Horizon and BCBSMA Plans and currently there are 1,015 test cases and stored within 
+ClearQuest. Based on the CSR’s being deployed to Model Office and the CSR requirements 
+analysis, the team selects test cases from the repository to execute and capture test results to 
+review with the Plans. In BMT track submitted claims through BMT tool execution will 
+happen weekly wise we will compare master results to current results if we found any 
+discrepancy we will raise a defect. 
+
+Responsibilities: 
+
+ Analyzed business and system requirements of the project. 
+ Developed and updated Test plans, Test Scenarios, and Test Cases, for all plan specific 
+
+CSR’s. 
+
+ Involved analyzing the CSR’S in NASCO environment. 
+ Actively involved in all the Front end Job extracts and Backend Job extracts. 
+ Involved in the Domain related trainings in WebEx Client Sessions. 
+ Understanding Test Data Requirements and executing the test cases based on given 
+
+HLRs and documented test results. 
+
+ Finding new short cuts in the work and successfully implementing. 
+ Running the BMT tool for Master and Current runs.  
+ Analyze the work and reporting any issues to the Project Lead. 
+ Actively participated in daily internal calls and weekly status calls with onsite team. 
+
+
+
+ 
+ 
+
+Project Title 5       NASCO ICD9 TO ICD10 – SIT (System Integration Testing) 
+Client                     Blue Cross Blue Shield of Massachussetts 
+Environment         JCL, IBM DB2, Nasco Processing CICS screens 
+Team Size             8 Members 
+Duration               April 2014 to December 2014 
+Role                       Team Member 
+
+Project Description: 
+
+The move from ICD-9 to ICD-10 promises long-term benefits in efficiency and 
+accuracy, but it also poses a staggeringly complex remediation challenge. This new version of 
+the International Classification of Diseases involves a four-fold leap in the diagnostic codes 
+and a 22-fold leap in the procedure codes used in every part of the clinical and business value 
+chain. While this will eventually help improve care and drive efficiencies, the complexity and 
+breadth of this shift requires organizations to begin remediation and testing now, in close 
+cooperation with business stakeholders, to ensure compliance by the proposed Oct. 1, 2015 
+deadline. 
+
+Responsibilities: 
+
+ Analyzed business and system requirements of the project. 
+
+ Understanding Test Data Requirements and executing the test cases based on given 
+HLRs and documented test results. 
+
+ Deliverables are done with quality. 
+ Analyzing of all the tasks and need to come up with the short cut process to complete 
+
+the work in less time. 
+
+ Providing status reporting of team activities against the project plan. 
+ Actively involved in all the Front end and Backend Job activates. 
+ Finding new short cuts in the work and successfully implementing. 
+ Analyze the work and reporting any issues to the Project Lead. 
+ Actively participated in daily internal calls and weekly status calls with onsite team. 
+
+Project Title 6       NASCO ICD9 TO ICD10 – SIT (System Integration Testing) 
+Client                     BCBS - Carefirst (Plan 580 & 690) 
+Environment         JCL, IBM DB2, Nasco Processing CICS screens 
+Team Size             5 Members 
+Duration               August 2013 to March 2014 
+Role                       Team Member 
+
+Project Description:   
+
+The move from ICD-9 to ICD-10 promises long-term benefits in efficiency and 
+accuracy, but it also poses a staggeringly complex remediation challenge. This new version of 
+the International Classification of Diseases involves a four-fold leap in the diagnostic codes 
+and a 22-fold leap in the procedure codes used in every part of the clinical and business value 
+chain. While this will eventually help improve care and drive efficiencies, the complexity and 
+breadth of this shift requires organizations to begin remediation and testing now, in close 
+cooperation with business stakeholders, to ensure compliance by the proposed Oct. 1, 2015 
+deadline. 
+
+
+
+ 
+ 
+
+Responsibilities: 
+
+ Validated the test cases and documented test results. 
+ Pull claims status for Baseline and Parallel once the files were processed. 
+ Backup all processed files for Baseline and Parallel using JCL. 
+ Extract the processed files for Baseline and Parallel using JCL. 
+ Deliverables are done with quality. 
+ Analyze the work and reporting any issues to the Project Lead. 
+ Actively pariticipated in daily internal calls with onsite team. 
+
+ 
+
+Achievements – N.C.C (Navy) ‘B’ Certificate Holder. 
+
+Declaration: 
+
+I hereby declare that the above written particulars are true to the best of my knowledge 
+and belief.  
+ 
+
+ 
+
+Place: Hyderabad                                                                                
+
+Date:       -      - 20 
+
+                                                                                                          (M.V.V.V.S.K.CHAITANYA) 
+
+

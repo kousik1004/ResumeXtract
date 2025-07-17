@@ -1,0 +1,391 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Narendra Puvvada – B.Tech (CSE),                                         
+(SAP BASIS/SECURITY)
+
+Nationality: Indian
+
+Place: Vijayawada, Andhra Pradesh
+Mobile: 8801104225
+Email: narendrapuvvada6@gmail.com                                                                                                         
+                                                                                                                                                                                                                             
+Objective: - To become a contributing SAP BASIS CONSULTANT in an organization for its success, by applying the best business practices, through innovative solutions, and constantly updating my skills.
+Experience:- 
+· Currently working at Bhilwara Info technology Ltd as SAP Basis Consultant
+· Previously worked with Extranet software solutions as Associate SAP Basis Consultant.
+                                                           Core Competencies_
+
+       SAP SUPPORT                                SAP IMPLEMENTATION                                             SAP SECURITY                                  
+                                                           IT Skill Sets
+
+· SAP ERP Skills
+
+:  ECC 6.0 EHP5, EP, BW, XI, APO, PI
+· GUI
+
+
+: GUI 720, GUI 730
+· Database
+
+
+: Oracle 12c, SQL Server 2008 R2, DB6,SAP HANA SPS02
+· Operating Systems
+: RHEL,SUSE LINUX, Windows Server 2008 R2, Windows Server      2012
+· Ticketing Tools               : Remedy 8.1,Service Desk 
+Details of Projects Executed:
+Professional Work Experience:-
+
+
+Project #2:
+
+Company                  : Bhilwara infotechnology Ltd
+Client                        : DXC Technology(formal of HP)
+Designation              : SAP BASIS CONSULTANT
+Environment            : ERP 6.0 EHP7, BW, EP740, PI/PO, Solman, CC,CM,GWP,SRM
+Tools                          : Service Desk
+Duration                   : 01-03-2018 to Till date
+
+Roles & Responsibilities:-
+· Daily administration activities such as CCMS Alert monitoring, Scheduling periodic jobs and Background processing, user and Spool management, R/3 Buffer monitoring, Database Buffer monitoring.
+
+· Monitoring the memory consumption jobs and inform to users.
+
+· Monitoring DIA WP's held in PRIV mode >1800sec and inform to users.
+
+· Checking work process status and process loads.
+
+· Checking buffer status and swap memory(ST02)
+
+· Adjusting timetables and manually switching operation modes as per Requirement.
+
+· Monitoring of Long running jobs and troubleshooting them.
+
+· Monitoring Standard Housekeeping Jobs.
+
+· Monitoring of active users, work processes & user background jobs
+· Extend the database table space by using BRTOOLS.
+· Checking spool output requests for errors and sending system messages.
+
+· Analyzing ABAP dumps and checking Update errors and lock entries.
+
+· Checking for System messages and batch input processing.
+
+· Creating and checking the RFC connections between the systems.
+
+· Transport Administration like Transport of requests between the system landscapes.
+
+· Working on Transport related activities using CHARM.
+
+· Resolve transport errors/failures and determine old data and clearing from the transport directories. 
+
+· Adding TR's (co-files & Data files) to buffer from OS level
+
+· Performed Kernel Upgrade throughout the landscape.
+
+· Client Administration activities (Local & Remote Client copy/Client Export, Import)
+
+· Applying Support Packs through SPAM.
+
+· Application of Support Packages and Kernel patch Upgrade.
+
+· SNOTES Implementation and checking manual corrections if required.
+
+· Performed Local client copy, remote client copy from PRD to QUA.
+
+· User maintence: user creation and copying user, lock & unlocking users and changing user password, checking user activities.
+
+· Profile generator: Maintaining activity group/role and Assigning roles to users and role attachment.
+
+· Finding missing authorizations and delete old user master records and Analyzing Missing Authorizations, Configured SAP Transaction Codes Lock & Unlock.
+
+· Role creation/ modification using Profile Generator (PFCG) including complex design restrictions.
+
+· Monitoring the status of Work processes and checking the response time for Dialog process (ST03N).
+
+· Worked on Performance issues like finding out Response Time of the transactions which are taking long time to open, any kind of network issues.
+
+· Check the system performance by using t-code(ST06N)
+· Performing Daily SAP System Health checks.
+
+· Preparing regular/weekly reports.
+
+· Monitoring System Health Activities.
+
+· Monitoring Database growth and log size &free space
+
+· Monitoring database performance for response time, hit ratio etc.
+
+· Monitoring DB backup and memory management page in /page out.
+
+· Searching for missing index and Ext. memory Roll in /Roll out.
+
+· Monitoring and troubleshooting of systems in supporting perspective.
+
+· Scheduling and Monitoring of DB backups (OS & SAP Level).
+
+· Monitoring & Capturing the response times of DIA/BTC/RFC WP's.
+
+· Strong Knowledge on Service market Place to download the Various Support Packages, installation guides, SAP notes, reporting incidents to SAP(OSS message)& Generating License Keys.
+· Defined system settings and client setting based on the system and client roles.
+
+· Worked with Trans directory (USR/SAP/SID/TRANS) to transport the requests and analyze the issues of transportation.
+
+· Worked with client specific and cross-client customizing requests.
+· Output Devices in the SAP Spool Systems.
+
+· Monitoring housekeeping jobs related to ABAP dump reorgs, spool reorg, performance collector
+
+· SAP Frontend installation
+· Acknowledgement / Cleaning of alert logs
+
+· Operation mode maintenance
+
+· Client Copy Remote and Local and Client Export/ Import
+
+· SCOT monitoring
+· Monitoring JAVA and ABAP servers and prepared daily health checks lists and doing troubleshotting.
+Client                        : Unilever North America.
+Designation              : SAP BASIS CONSULTANT
+Environment            : ERP 6.0 EHP7, BW, EP740, DB6
+Tools                          : BMC Remedy Tool 8.1
+Duration                   : 12-01-2016 to Feb 2018
+Project Type            : Support And Implementation 
+Project #1 
+Roles & Responsibilities:-
+
+· Daily administration activities such as CCMS Alert monitoring, Scheduling periodic jobs and Background processing, user and Spool management, R/3 Buffer monitoring, Database Buffer monitoring.
+
+· Monitoring the memory consumption jobs and inform to users.
+
+· Monitoring DIA WP's held in PRIV mode >1800sec and inform to users.
+
+· Checking work process status and process loads.
+
+· Checking buffer status and swap memory(ST02)
+
+· Adjusting timetables and manually switching operation modes as per Requirement.
+
+· Monitoring of Long running jobs and troubleshooting them.
+
+· Monitoring Standard Housekeeping Jobs.
+
+· Scheduling the back ground jobs for DB and R/3 and other jobs and checking job status &displaying logs.
+
+· Monitoring of active users, work processes & user background jobs
+
+· Working on Transport related activities using CHARM.
+
+· Resolve transport errors/failures and determine old data and clearing from the transport directories. 
+
+· Adding TR's (co-files & Data files) to buffer from OS level
+
+· Performed Kernel Upgrade throughout the landscape.
+
+· Client Administration activities (Local & Remote Client copy/Client Export, Import)
+
+· Applying Support Packs through SPAM.
+
+· Application of Support Packages and Kernel patch Upgrade.
+
+· SNOTES Implementation and checking manual corrections if required.
+
+· Performed Local client copy, remote client copy from PRD to QUA.
+
+· User maintence: user creation and copying user, lock & unlocking users and changing user password, checking user activities.
+
+· Profile generator: Maintaining activity group/role and Assigning roles to users and role attachment.
+
+· Finding missing authorizations and delete old user master records and Analyzing Missing Authorizations, Configured SAP Transaction Codes Lock & Unlock.
+
+· Role creation/ modification using Profile Generator (PFCG) including complex design restrictions.
+
+· Monitoring the status of Work processes and checking the response time for Dialog process (ST03N).
+
+· Worked on Performance issues like finding out Response Time of the transactions which are taking long time to open, any kind of network issues.
+
+· Checking RZ20 alert monitoring threshold exceptions including page in/out , CPU & memory utilization.
+
+· Performing Daily SAP System Health checks.
+
+· Preparing regular/weekly reports.
+
+· Monitoring System Health Activities.
+
+· Monitoring Database growth and log size &free space
+
+· Monitoring database performance for response time, hit ratio etc.
+
+· Monitoring DB backup and memory management page in /page out.
+
+· Searching for missing index and Ext. memory Roll in /Roll out.
+
+· Monitoring and troubleshooting of systems in supporting perspective.
+
+· Scheduling and Monitoring of DB backups (OS & SAP Level).
+
+· Monitoring & Capturing the response times of DIA/BTC/RFC WP's.
+
+· Strong Knowledge on Service market Place to download the Various Support Packages, installation guides, SAP notes, reporting incidents to SAP(OSS message)& Generating License Keys.
+· Defined system settings and client setting based on the system and client roles.
+
+· Worked with Trans directory (USR/SAP/SID/TRANS) to transport the requests and analyze the issues of transportation.
+
+· Worked with client specific and cross-client customizing requests.
+
+· Worked with end user to configure printers, GUI and other issues.
+
+· Applying License through SLICENSE t-code.
+
+· Applying support packages by using t-code of SPAM.
+
+· Importing the Transport Requests at OS Level
+· Installing SAP GUI for Windows &  Enabling the WEBGUI
+SAP Security& Net weaver:-
+Roles & Responsibilities:-
+
+· Worked with SAP Profile Generator
+· Downloading, Uploading and Transporting SAP Roles
+· Analysing Missing Authorizations, Configured SAP Transaction Codes Lock & Unlock
+· Monitoring inactive users and locking inactive users,
+· Responsible for daily Security checks monitoring for unsuccessful logons,
+· Creating User audit report through using t-code SM20
+· Creating & Assigning SAP Authorization Objects, Configuring Security Profile Parameters
+·   Worked with Visual Admin Tool
+
+·   Worked with Config Tool
+
+· Checking system availability using SAP MMC like DB, Message server, En Queue Server and Java Nodes etc.
+
+· Portal administration activities like user administration, content administration and system administration and system administration monitoring the other Java systems in the Landscape.
+
+· Analysing the system performance by going through the User Load Analysis.
+
+· Having Knowledge on config and visual admin tools.
+
+· Monitoring the Heap memory Utilization, thread monitoring (No. of threads) From CMC and number of Web java sessions.
+
+· Worked with SUM tool for patch Up gradation
+
+· Checking the Accessibility of the Java AS.
+
+· Monitoring the java systems and landscape.
+Key Achievement: Implemented support policies throughout the daily support functions to include educating End users on the proper use of SAP Servers.
+Sap Expertise(Hands-On):
+· Having Installation knowledge ERP 6.0 Versions like EHP5, EHP6.
+
+· Having Installation knowledge in SAP NetWeaver Components like EP 7.4
+
+· Post Installation activities for ECC versions.
+
+· Having installed knowledge on Oracle revision upgrade 11.2.1.1 to 11.2.1.4.
+
+· Having Installed Knowledge on OS/DB migration.
+
+· Having installed knowledge on oracle version upgrade 11g to 12c.
+
+· Having Knowledge on using SUM Tool for support package upgrade and EHP upgrade. 
+
+· Managed login parameters, memory parameters.
+
+· Performed Index creation in DB6 to improve the table access (SE11).
+
+· Knowledge in DB backup strategy, online and offline backup, restore and recovery scenarios.
+
+· Client Administration activities (Local & Remote Client copy/Client Export, Import)
+
+· Kernel Upgradation for Unicode systems(DB dependent & DB independent). 
+
+· Support pack stack upgradation for Java/Abap stack using SUM tool.
+
+· Configured TMS between landscape systems(DEV, QUA, PRD).
+
+· User administration activities like Create, Update, Delete, Lock/Unlock & Assigning roles.
+
+· Spool administration like configuring and troubleshooting of printers(SAP level)
+
+· Operation modes and with respective time intervals to modes(DIA/BTC).
+
+· User tracing and auditing on demand(SM19, SM20).
+
+· Scheduling and monitoring of Background jobs(Event based/Standard).
+
+· Configured Trusted RFC's between ECC & BW systems.
+
+· Table space administration like adding data files, status & Reorg using BRTOOLS.
+
+· Manual TR’s Moving & Troubleshooting from DEV to QUA, QUA to PRD systems.
+
+· Adding TR's (cofiles & Datafiles) to buffer From OS level.
+
+· Performing the backups like Whole, Full, Incremental, Redo log Backups and restore them as well using Brtools.
+
+· Involved in Solution Manager Activities like Early Watch Alerts, Charm creation, moving of transports through Charm.
+
+· Configuration of the Logon Load Balancing for App servers.
+
+· Worked with SUM tool for patch Up gradation
+
+· Worked with Visual Admin Tool
+
+· Worked with Configuration Tool                               
+  
+Academic Qualifications:    
+· Bachelor of Technology (CSE) from Jawaharlal Nehru Technological University Kakinada.
+· Intermediate from S.R.R & C.V.R GOVT Jr. College.
+· SSC from Andhra Pradesh State Board.
+Declaration:-
+
+      I hereby declare that the information furnished above is true to the best of my knowledge.  
+
+.  
+
+Place: - Vijayawada, AP                                                   Thank you for your time & consideration.
+                                                                                                                    Narendra
+1
+

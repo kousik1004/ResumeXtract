@@ -1,0 +1,318 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIVARAMAKRISHNA 
+Mobile: +91-7058634958 
+
+
+
+
+
+
+    E-Mail:javac.krishnan@gmail.com
+
+A BRIEF OVERVIEW
+· Having around 4+ years of IT experience and technical proficiency in Java/J2EE technologies
+
+· Good Experience in Developing Applications using Java/J2EE like JDBC, JSP, Servlets, Spring and Hibernate.
+· Expertise in developing MVC Architecture based web Applications development using  Struts Web Frame works and Angular Js frame works
+· Experience on deployment of applications using Web logic12c and Tomcat6.0.
+
+· Experience in Oracle10g. 
+
+· Specialized in using IDEs like Eclipse & Web Storm.
+· Excellent commitment ,dedication and planning towards goal oriented tasks
+
+· Good working experience in Coordinating and Supporting the Development.
+PROFESIONAL EXPERIENCE
+·  Working as a Sr.Software Engineer with Tech Mahindra Ltd, Pune, from Mar’14 to till Date.
+·  Worked as a Software Engineer for Magna InfoTech Ltd, Pune since Feb’13 to Dec ’13.
+IT FORTE
+
+	Operating Systems
+	Windows XP, Windows7 & Windows10
+
+	Langauges
+	Java
+
+	Java Technologies
+	JDBC,Servlets,JSP
+
+	Web Technologies
+	HTML ,JavaScript, Angular Js
+
+	Frame Works
+	Struts ,Spring & Hibernate
+
+	Databases
+	Oracle 10g,
+
+	Servers
+	Tomcat – Apache6.0, BEA-Web logic10 & Web logic11
+
+	Source  Controls
+	SVN,GIT, Code Cloud
+
+	IDE’s  and Tools
+	Eclipse, WebStrom ,Net Beans ,SONAR, CAST tool
+
+	Logging
+	Log4j.
+
+	Build Tool
+	Maven2.x.
+
+	Unit Testing
+	JUnit4.4.
+
+	Defect Tracking tool
+	 HP quality Center, TDP & Service now
+
+	Other’s
+	Jenkins, Postman REST Client, Bamboo, Putty.
+
+
+EDUCATIONAL CREDENTIALS
+	MCA
+	JNTU
+	81%
+
+	BSc
+	ANU
+	73%
+
+	MPC(Inter)
+	BIE
+	72%
+
+	SSC
+	BSE
+	76%
+
+
+ACHIEVEMENTS
+· Received Associate of Month Award twice in 2015.
+· Received huge client appreciation for add Authorized User Work.
+· Received Pat and of Back Award in 2016.
+
+· Received Standing Ovation Award in 2017.
+· Received Bravo Award in 2017
+
+CAREER CONTOUR
+
+	Project Name
+
+:
+Content Management System –RWD
+Client
+
+
+:
+AT&T
+Role
+
+
+:
+Developer 
+
+Team Size
+
+:
+10
+
+Duration
+
+:
+Jan’16 to till date
+
+Environment
+
+:
+Angular JS, NgInx, AEM, Rest full WebSerivce, Spring3.x, Java1.7 Web Logic12c.
+
+
+Project Synopsis: 
+Content Management System –RWD Project associated Registration, Profile, Forgot Id, Forgot Password, Usage, Login, Billing and Payments modules. Worked on profile Modules. Profile Module deals Customer Account Information. Profile Modules Maintain wireless, Homophone, Users account Information’s and also maintain customer contact information, Service address info, authorized User Info etc.This project implemented Using RWD frame work. So single Angular code will work for Desktop customers and Mobile customers.
+KEY DELIVERABLES: 
+· Involved in the requirement gathering, analyzing of functional documents and workflow from the clients and designing of prototypes based on that.
+
+· Designing of underlying architecture along with other members of the team and preparing the base code for the application.
+
+· Unit Test Plan preparation and Unit Testing.
+
+· Deployment Support.
+
+· Production Support/Defect fixing.
+
+· Writing JUnits for functional testing of various test case scenarios.
+
+·    Active participation in regular project status meetings and client calls and always acted as the sole  point of contact for all the functionalities developed by me.
+	Project Name
+
+:
+My AT&T
+Client
+
+
+:
+AT&T
+Role
+
+
+:
+Developer 
+
+Team Size
+
+:
+40
+
+Duration
+
+:
+Mar’14 to till Dec’15
+Environment
+
+:
+Java7.0, jsp, Angular JS, Struts1.3.8, Spring3.x,WebSerivce, Web Logic12c.
+
+
+Project Synopsis: 
+
+My AT&T Project associated Registration, Profile, Forgot Id, Forgot Password, Usage, Login, Billing and Payments modules. FFRAP supports the applications that are being used by ATT for maintaining Identify management Registration/ FID/FPWD and Profile Management of internet user like wireless/Home Phone/Dial, DSL, Light Speed and Access ID(from 2012 only) customer . From 1st April 2008.
+
+Applications supported by FFRAP are as below:
+· Myatt Registration
+
+· Myatt FID/FPWD 
+· Myatt Profile
+
+These applications are used to manage profiles of Users who take Internet Services (WiFi, DSL, Dialup, High Speed Internet Access, etc) of AT&T. Involved Myatt FID/FPWD and Myatt Profile Module’s, working under Web and Mobile end.
+KEY DELIVERABLES: 
+· Knowing the requirements of business.
+
+· Involved in maintenance of the application.
+
+· Designing of underlying architecture along with other members of the team and preparing the base code for the application.
+
+· Unit Test Plan preparation and Unit Testing.
+
+· Deployment Support.
+
+· Production Support/Defect fixing.
+
+· Writing JUnits for functional testing of various test case scenarios.
+
+· Active participation in regular project status meetings and client calls and always acted as the sole point of contact for all the functionalities developed by me.
+
+	Project Name
+
+:
+MDAS
+
+Client
+
+
+:
+UBS
+Role
+
+
+:
+Developer 
+
+Team Size
+
+:
+11
+
+Duration
+
+:
+Feb’13 to till Dec’13.
+
+Environment
+
+:
+Java6.0, Spring2.0, Hibernate3.2,                     
+
+                                                       Tomcat6.0, Oracle10g, SAPR3, SAP BW.
+
+
+Project Synopsis: 
+
+MDAS (Master Data Administration System) system allows to raise a request to create and edit the Cost Objects and automatically updated in Sap, These requests are automatically approved by MDAS.MDAS mainly consisting the 3 modules i.e. Cost Object ,LOB(Lines Of Business),Material Module. Cost Object Module used create and edit cost objects ,LOB module used to maintain the LOB to Sector mapping ,create LOB parts and allows to create the LOB Structures. Material module mainly used to maintain the inventory.
+KEY DELIVERABLES: As Team Number
+· Involved in coding to implement persistence logic using Hibernate framework. 
+
+· Involved in developing presentation tier using Spring-MVC.
+
+· Involved in spring and Hibernate integration. 
+
+· Involved in spring and SAP R3 integration. 
+
+· Involved in spring and SAP BW integration. 
+
+· Involved in developing the pojo classes using the hibernate framework.
+PERSONAL DOSSIER
+Name
+
+
+:
+VV Sivaramakrishna
+Date of Birth
+
+:
+25th June, 1986
+
+Nationality
+
+:
+Indian
+                The above information is correct to the best of my knowledge
+                                                                                                                                                              (VV Sivaramakrishna)
+

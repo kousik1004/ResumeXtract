@@ -1,0 +1,570 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPLICATION
+
+
+ 
+
+ 
+
+ 
+PRABHAT KUMAR 
+
+ Mobile No: +91-8431510145 
+ E-mail:  prabhatrocks07@gmail.com  
+
+ 
+
+Career Objective 
+
+ 
+
+ Aspiring to build a strong career and work as a team member in a healthy and 
+competitive environment implementing my skills, knowledge and intelligence that lead 
+to the growth and development of the company and self. 
+
+                                                                                                  
+
+Professional Summary 
+ 
+
+ Having 6 years of Experience in IT Industry in software development, 
+
+implementation and on various web and Client/Server application. 
+
+ My technological forte is Java/J2EE and I also have experience in Enterprise 
+
+Application Integration. 
+
+ Experience in using MVC (Model View Controller) architecture for developing 
+
+applications using JSP, Java Beans and Servlets. 
+
+ Experience in design and development of multi-tier applications using Java, J2EE, 
+
+Spring, Hibernate, XML, Java Script, JQuery, JUnit.  
+
+ Experience using Hibernate for mapping Java classes with database and configuring 
+
+Hibernate persistence layer. 
+
+ Hands on experience in development of Business layers using J2EE Design Patterns. 
+
+ Worked on different Application and Web Servers like Apache Tomcat, JBoss and 
+
+Weblogic.  
+
+ Experienced in IDE and editors using Eclipse, STS. 
+
+ Has got experience in interacting with databases like MYSQL and Oracle. 
+
+ 
+
+Technical Proficiency 
+
+Languages Java, SQL, XML, HTML 
+
+Scripting Languages Java Script, JQuery 
+
+Framework Struts, Spring MVC 
+
+ORM Framework Hibernate 
+
+RDBMS MySql5.0, Oracle-11g 
+
+Web Technologies Java EE[J2EE, JEE5], JDBC, Servlet, JSP 
+
+Web/Application Servers Apache Tomcat(6.0, 7.0), Weblogic(11g, 12c)  
+
+IDE Eclipse(Helios, Indigo, Kepler & Juno), MyEclipse7.0, STS 
+
+Version Control CVS, SVN, Tortoise SVN 
+
+Web Designing HTML5, CSS3, Firebug 
+
+Operating Systems          Windows XP/7/8, Mac OS X 
+
+Build Management Tools Log4j , Apache Ant, Maven 
+
+mailto:prabhatrocks07@gmail.com
+
+
+ 
+
+ 
+
+Testing Tools JUnit4 
+
+Other Tools Putty, WinSCP, JIRA 
+
+ 
+
+Professional Experience 
+ 
+
+ Working as Module Lead in Mindtree Limited from November 2013 till date. 
+
+ Previously worked as a Software Associate for Exilant Technology Pvt. Ltd, Bangalore 
+
+[May 2012-November 2013] and Antenna Software Pvt. Ltd, Bangalore [July 2011- 
+
+Jan 2012]. 
+
+ 
+
+Scholastic Profile 
+
+Degree University Specialization 
+
+B.Tech(2007-2011) CUSAT, Kochi, Kerala Computer Science  
+
+ 
+ 
+
+Projects 
+
+ 
+
+Project#1 Avis-Budget Ancillary Bundle Tier Discount 
+
+Client Avis-Budget Group(ABG), USA 
+
+Role Java Developer 
+
+Duration Oct 2017 to  till date 
+
+Team Size 10 
+
+Environment Java8, Spring4, Web Service, Oracle 11g, Weblogic-12c 
+
+Description ABG Ancillary Bundle Tier Discount project is to promote the sale of Ancillary 
+products on step3 of reservation flow. It allows the customer to choose a discount 
+
+packages by offering tiered percentage discount per number of items booked. 
+
+ 
+
+Responsibilities  Developed code using Java8, Spring4, & Web Services. 
+ Developed service and middle layer known as Web-API. 
+ Developed CCRG code base for mainframe tags.  
+ Developed the logic for Tier Bundle evaluation and discount calculation in 
+
+Reservation service. It was one of the critical piece as it involves rate 
+calculation from service end as well as mainframe end.  
+
+ Coordinated well with AEM team & QA team for any query.  
+ Responsible for build & deployment of Services & Web-API application. 
+
+ 
+
+ 
+
+Project#2 Avis-Budget Simplified Registration 
+
+Client Avis-Budget Group(ABG), USA 
+
+Role Java Developer 
+
+Duration Jan 2017 to  Sep 2017 
+
+Team Size 15 
+
+Environment Java8, Spring4, Web Service, Oracle 11g, Weblogic-12c 
+
+Description The objective of the Simplified Registration project strives to improve, modernize 
+and streamline the enrollment process by providing "quick registration" options 
+
+through various points on the website in order to obtain more registered customers. 
+
+ 
+
+Responsibilities  Developed code using Java8, Spring4, & Web Services. 
+ Developed service and middle layer known as Web-API. 
+
+
+
+ 
+
+ 
+
+ Developed Loyalty modules of API.  
+ Also developed MPF flow which was one of the critical module. 
+ Coordinated well with AEM team for any query.  
+ Developed service for Update profile, Forgot Password flow. 
+ Responsible for build & deployment of Services & Web-API application. 
+
+ 
+
+ 
+
+Project#3 Avis-Budget Digital Revenue Optimization 
+
+Client Avis-Budget Group(ABG), USA 
+
+Role Java Developer 
+
+Duration April 2016 to  December 2016 
+
+Team Size 35 
+
+Environment Java8, Spring4, Web Service, Oracle 11g, Weblogic-12c 
+
+Description ABG DRO project is complete redesign of Avis.com with all latest technologies 
+i.e. AEM, Java8, Weblogic 12c, bootstrap CSS & Angular js. The new site is 
+
+responsive and having new look and feel. 
+
+Responsibilities  Developed code using Java8, Spring4, & Web Services. 
+ Developed service and middle layer known as Web-API. 
+ Developed three modules of API.  
+ Coordinated well with AEM team for any query.  
+ I was also part of co-existence project which is having silent login feature. 
+ Responsible for build & deployment of Services & Web-API application. 
+
+ 
+
+ 
+
+Project#4 Avis-Budget Digital Wallet Implementation 
+
+Client Avis-Budget Group(ABG), USA 
+
+Role Java Developer 
+
+Duration January 2016 to March 2016 
+
+Team Size 12 
+
+Environment Java6, Spring3, JSP, Web Service, Oracle 11g, Weblogic-11g 
+
+Description ABG Digital Wallet implementation is to simplify the checkout process and 
+increase security while decreasing fraud. It provides new prepay capability for 
+
+customers by enabling Digital Wallet as alternate payment choice during check out 
+
+process for prepay reservation on ABG Ecommerce channel.  
+
+Responsibilities  Developed code using Java6, Struts2, Spring3, & JSP 
+ Used Javascript, JQuery, Ajax & CSS3 for front-end redesign. 
+ Developed services to implement Amex & Master pass.  
+ Developed logic in Action class to update mainframe. 
+ Responsible for build & deployment of application 
+
+ 
+
+ 
+
+Project#5 Avis-Budget SMS-PUSH 
+
+Client Avis-Budget Group(ABG), USA 
+
+Role Java Developer 
+
+Duration Sep 2015 to December 2015 
+
+Team Size 8 
+
+Environment Java6, Spring3, JSP, Web Service, Oracle 11g, Weblogic-11g 
+
+Description ABG SMS-PUSH project is implementation of SMS-PUSH functionality for the 
+user who registers on Avis.com and book any reservation. PUSH notification is for 
+
+Mobile app where user will get push notification for any upcoming reservation or 
+
+
+
+ 
+
+ 
+
+promo offer. 
+
+Responsibilities  Developed code using Java6, Struts2, Spring3, & JSP. 
+ Used JMS for push notification functionality. 
+ Implemented functionality for profile as well as reservation flow  
+ Developed service logic to update mainframe. 
+ Responsible for build & deployment of application. 
+
+ 
+
+ 
+
+Project#6 Avis-Budget DotCom Conversion Optimization 
+
+Client Avis-Budget Group(ABG), USA 
+
+Role Java Developer 
+
+Duration May 2015 to August 2015 
+
+Team Size 16 
+
+Environment Java6, Spring3, Spring-DAO, JSP, Java Script, JQuery, CSS3, Oracle 11g, Weblogic-
+11g, Teamsite 
+
+Description Conversion optimization project is done to change the complete redesign of 
+Avis.com site. This project is mainly to optimize some of features in old website 
+
+sorting and filtering of cars, new look and feel for car-guide & Signature series 
+
+branding page. Added new feature of last 3 rate shop on home page for 
+
+authenticated, recognized & Remember me user. 
+
+Responsibilities  Developed code using Java6, Struts2, Spring3, & JSP 
+ Used Javascript, JQuery, Ajax & CSS3 for front-end redesign. 
+ Developed logic for sorting & filtering for car.  
+ Developed stored procedure & function. 
+ Responsible for build & deployment of application. 
+
+ 
+
+ 
+
+Project#7 Avis Auto Connect for Concur TripLink 
+
+Client Avis-Budget Group(ABG), USA 
+
+Role Java Developer 
+
+Duration March 2015 to April 2015 
+
+Team Size 06 
+
+Environment Java6, Spring3, Spring-DAO Web Services, Quartz Scheduler, Oracle 11g, 
+Weblogic-11g 
+
+Description Concur Auto Connect project do automatically enroll a Concur traveler in 
+TripLink on Avis.com. The advantage of Auto Connect is that travelers whose 
+
+companies have enrolled in TripLink and travelers who have an Avis Wizard# in 
+
+their Concur profile, will automatically enrolled in TripLink. 
+
+Responsibilities  Developed code using Java6, Spring3 & Quartz Scheduler. 
+ Implemented the backend logic using scheduler to automate the refund 
+
+amount to customer. 
+ Developed logic to run scheduler every day to process input file.  
+ Did all required server configuration to run scheduler 
+ Responsible for build & deployment of application 
+
+ 
+
+ 
+
+Project#8 Avis-Budget Understay Auto-pay Enhancement 
+
+Client Avis-Budget Group(ABG), USA 
+
+Role Java Developer 
+
+Duration Jan 2015 to Dec Feb 2015 
+
+
+
+ 
+
+ 
+
+Team Size 02 
+
+Environment Java6, Spring3, Quartz Scheduler, Oracle 11g, Weblogic-11g 
+
+Description ABG Understay is completely backend application which is mainly responsible for 
+refund the booking amount in case of any system error. Understay team feed the 
+
+booking data (Confirmation number, Booking Date, Amount to be refund) in a text 
+
+file which is processed by every day on execution of scheduler. Once it is 
+
+processed, one output file is generated with “SUCCESS” or “FAILURE” status 
+
+against each confirmation number. 
+
+Responsibilities  Developed code using Java6, Spring3 & Quartz Scheduler. 
+ Implemented the backend logic using scheduler to automate the refund 
+
+amount to customer. 
+ Developed logic to run scheduler every day to process input file.  
+ Did all required server configuration to run scheduler 
+ Responsible for build & deployment of application 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Project#9 Avis-Budget Loyalty Application 
+
+Client Avis-Budget Group(ABG), USA 
+
+Role Java Developer 
+
+Duration Dec 2013 to Dec 2014 
+
+Team Size 18 
+
+Environment Java6, JSP, Struts2.0, Hibernate, Spring, Oracle, Weblogic-11g, Teamsite 
+
+Description ABG Loyalty application is a market-leading loyalty program in the car rental 
+industry that treats people like people and drives revenue, market share and profit 
+
+growth. More specifically a Loyalty program with the following attributes and 
+
+goals: 
+
+ 
+
+Attributes 
+
+ Attractive to the customer 
+
+ Easy participation 
+
+ Built-in financial controls 
+
+ 
+
+Responsibilities  Developed code using Java6, Struts2.0, JSP, Javascript,  JQuery & Ajax. 
+ Implemented JSPs and Action Class as per the requirement. 
+ Written Web-Service Interfaces and their implementations. 
+ Written DAOs and their implementations With Hibernate. 
+ Responsible for build & deployment of application. 
+
+ 
+
+Project#10 Radar Web Application 
+
+Client Apple Inc., USA 
+
+Role Java Developer 
+
+Duration Dec 2012 to Till Date 
+
+Team Size 16 
+
+Environment Java6, JSP, Spring MVC, Hibernate, Spring, Oracle, JBoss 
+
+Description Radar is a tool for managing the quality of hardware and software development 
+projects. It provides institutional memory and facilitates communication. It also 
+
+ensures accountability and measurability. It is a key element of the product 
+
+development process. 
+Radar Web is web based access to radar database. This application is 
+
+
+
+ 
+
+ 
+
+primarily used by the external people like developer or vendors. Radar primary 
+elements are component which contains problems. There is a workgroup 
+required for each component. It identifies the people for roles like ‘Analyzer’, 
+‘Integrator’, ‘Builder’, ‘Verifier’, ‘Owner’ and one more ‘Admin’.  
+
+Responsibilities  Developing code using Java, Spring MVC, and JSPs. 
+ Written Spring Service Interfaces and their implementations. 
+ Written DAOs and their implementations With Hibernate. 
+ Written Hibernate Mappings. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Project#11 DirecTV Meap Sales 
+
+Client DirecTV (California, USA) 
+
+Role Java Developer for one complete module 
+
+Duration July 2011 to January 2012 
+
+Team Size 10 
+
+Environment Java5, JSP, Spring MVC, Hibernate, Spring2.5, Oracle, Tomcat 
+
+Description DirecTV is the software which would be facilitating DirecTV's employees to 
+update their daily-sales-activities on Oracle On Demand. It provides highly 
+secured environment to update sales activities through web applications. 
+It minimizes potential for user errors.   Also allows to view, insert and update 
+business activities. 
+
+Responsibilities  Developing code using Java, Spring MVC, and JSPs. 
+ Written Spring Service Interfaces and their implementations. 
+ Written DAOs and their implementations With Hibernate. 
+ Written Hibernate Mappings. 
+
+ 
+
+ 
+Declaration: 
+
+ 
+
+I hereby declare that the above furnished information is true to the best of my knowledge. 
+
+ 
+
+ 
+
+Place: 
+
+Date:                                                                                                     Prabhat Kumar                                                                                                                                                                                   
+
+

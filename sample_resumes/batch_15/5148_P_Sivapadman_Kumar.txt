@@ -1,0 +1,180 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (
+P.
+ Sivap
+adman Kumar
+Mobile: +91-9741935938
+Email: 
+pallapolu4545@gmail.com
+)
+
+
+
+
+
+Professional Summary:
+
+4+ years of experience in Database Administration in MSSQL Server 2012, SQL Server 2008 R2, and 2008, Experience in setting up, trouble shooting and maintenance of production server databases.
+· Good understanding on SQL Server Database Architecture
+· Working in 24x7 Production Environment
+· Responsible for all functions associated with Database Administration, Management, and Support of the SQL server databases.
+· Good in installing and configuring different versions of SQL Server (2014, 2012, 2008R2).
+· Expertise in planning and implementing Database Security by creating users, Roles, and assigning permissions to them.
+· Ensuring that all databases are backed up on a regular basis by monitoring Full, Differential, and Transaction log backups.
+· Experience in migration and maintenance of data using various utilities like Import and Export, ATTACH/DETACH Data Migration tools.
+· Creating Jobs, Alerts and monitoring Job History.
+· Configuring Database Mirroring, Log-Shipping, Clustering
+· Experience in using Performance Monitor, SQL Profiler.
+· Hands on experience in Creating Stored Procedures.
+· Excellent communication, collaboration, and team building skills with proficiency at grasping new technical concepts quickly and utilizing the same in a productive manner.
+· Possesses good analytical & interpersonal skills, Focused and persistent in problem solving. 
+Experience:
+· Working as Asst.Software Engineer in APTOnline IT Services, a Subsidiary of Tata Consultancy Services from February 2013 to Sept 2017.
+Technical Skills:
+
+· Databases			:   	MS SQL Server 2008/2008r2/2012/2014
+· Operating Systems		:   	Windows, Windows Server 2008/2008R2/2012
+· Languages			:   	SQL,T-SQL
+· Performance Tools     	:   	Perfmon, SQLProfiler
+· Basics 			:   	Microsoft Office and Microsoft Excel
+Educational Qualifications:
+· Master of Technology in Computer Science & Engineering from PES University, Bangalore, Karnataka in the year (2012).
+· Bachelor of Technology in Computer Science & Engineering from Jawaharlal Nehru University, Kakinada, Andhra Pradesh in the year (2006-2010).
+
+Project Details:
+Project 1:
+Project Name		: 	Horticulture (Micro Irrigation Project)
+Client			: 	Government of Andhra Pradesh and Telangana States.
+Role			: 	Database Administrator
+Duration		: 	April 2016 to Sept 2017
+
+Description:
+	Andhra Pradesh Micro Irrigation Project (APMIP) and Telangana State Micro Irrigation Project (TSMIP) is the unique and first comprehensive project being implemented in a big way in Andhra Pradesh for the past 11 years. APMIP was launched in the month of November, 2003.The Project aims at improving the economic conditions of the farmers by conserving water, bringing additional area into cultivation with the available water resources, enhancing the crop productivity and production, quality, facilitating judicious usage of ground water, saving in power consumption and cost of cultivation. APMIP is being implemented with the assistance from Government of India, State Government and farmer contribution.
+Roles & Responsibilities:
+
+· Installing and upgrading the database server and application tools
+· Allocating system storage and planning future storage requirements for the database system
+· Modifying the database structure, as necessary, from information given by application developers
+· Enrolling users and maintaining system security
+· Ensuring compliance with database vendor license agreement
+· Controlling and monitoring user access to the database
+· Monitoring and optimizing the performance of the database
+· Planning for backup and recovery of database information
+· Maintaining archived data
+· Backup and restoring databases
+· Contacting database vendor for technical support
+· Generating various reports by querying from database as per need
+· Interaction with clients for resolving various technical issues.
+Project 2:
+Project Name   		: 	APT Online IT Services
+Client			: 	Government of Andhra Pradesh and Telangana States.
+Role			: 	Database Administrator
+Duration		: 	Feb 2016 to April 2016
+
+Description:
+APT Online is a digital gateway for the Government of Andhra Pradesh and Telangana States to offer multiple services, through a single window, to its citizens. It is a best-of-breed portal, developed by Govt. of AP in partnership with Tata Consultancy Services (TCS). The portal redefines governance and the government-citizen interface. 
+
+Roles & Responsibilities:
+
+· Installing, configuring, and developing using SQL Server 2005 and SQL Server 2008 R2.
+· Creating Jobs, Alerts and monitoring Job History.
+· Implemented backup and Recovery strategies. 
+· Monitoring and optimizing the performance of the database
+· Provide technical assistance to other Developers as needed.
+· Analyze and troubleshoot system issues in a timely manner.
+· Planning for backup and recovery of database information.
+· Maintaining and troubleshooting Log-Shipping and Mirroring
+· As per the client requirements, rendering the Reports in the form PDF, Excel formats.
+
+Project 3:
+Project Name		: 	Andhra Pradesh Electronic Public Distribution System (AP e-PDS)
+Client			: 	Department of Civil Supplies, Government of AP, Hyderabad.
+Role			: 	Database Administrator
+Duration		: 	May 2015 to Jan 2016
+Project Description:
+The Civil Supplies Department was originally only a regulatory Department. Subsequently, its activities have been diversified to include procurement of food grains under Minimum Support Price (MSP) , distribution of essential commodities viz. Rice, Wheat, Sugar, Kerosene, and Red gram dal through Fair Price Shops under the Public Distribution System at subsidized rates through issue of computerized cards, consumer affairs, monitoring of prices of essential commodities, distribution of LPG connections to BPL women (Deepam Scheme), Enrollment under UID (Aadhaar) etc.
+Roles and Responsibilities:
+· SQL Server 2005/2008R2 installation and configuration on windows 2008 servers for Production, Development.
+· Installed SQL Server Patches on SQL Server 2005, and SQL Server 2008R2.
+· Creating additional Temp database files for effective performance.
+· Involved in moving System databases. 
+· Involved in moving and rebuilding user databases.
+· Creating Database Users, SQL Logins and Server Roles.
+· Monitor backup jobs daily and run the jobs manually in case of failure depending upon the      necessity.
+· Creating and scheduling jobs to Monitor Changes in the databases.
+· Performing Database refreshes from Production database onto Test or Development Databases.
+· Interaction with clients for resolving various technical issues.
+· Implement and maintain database security.
+Project 4:
+Project Name		: 	SERP (Society for Elimination of Rural Poverty)
+Client			: 	Department of Rural Development, Government of AP, Hyderabad.
+Role			: 	Application Support Engineer
+Duration		: 	February 2013 to April 2015
+Project Description:
+This is a Prestigious E-Governance project of the Government of Andhra Pradesh and Telangana. This project consists of rural development authority activities like CGAP and NCGAP locations. This project is targeted at all the 110 locations throughout the state.
+Roles and Responsibilities:
+· Have experience in installing, configuring IP addresses 
+· I gave trainings sessions to government peoples 
+· Deploying and installing each and every software’s as per required 
+· Solving all kind of issues and problems
+· Every day discussion with my project managers & Project Managers to know the status.
+· To take day to day feed back in project sites and solve it with in my limits.
+· Every day given feed back to my project team.
+· Taking care of all admin related problems solving.
+Personal Details:
+Name					: 	P Siva Padman kumar
+DOB					:	14-02-1989
+Marital Status				: 	Single
+Email 					:	pallapolu4545@gmail.com
+Phone					:	+91-9741935938
+Religion				:	Indian							
+      Thanks for considering my application
+                                                                                            P Siva Padman Kumar

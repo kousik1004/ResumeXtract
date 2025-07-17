@@ -1,0 +1,220 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RUSUME
+
+                                                       RESUME
+
+NAME
+
+
+
+
+Mrinal Anand
+QUALIFICATION
+
+
+Bachelor of Technology in Electronics & 
+
+                                                            Communications Engineering
+
+LANGUAGES
+
+
+            Java, J2EE
+WEB TECHNOLOGIES
+
+
+JSP, CSS, HTML, DHTML,XML.
+APPLICATION/WEB SERVER
+
+Websphere 7.0, Weblogic 9.0.2
+ECM Product
+
+
+
+FileNet P8 4.0/4.5/4.5.1 (CM, BPM), 
+· Educational Background:                                 
+ 
+
+
+
+
+	Degree / Diploma
+ 
+	University/Institute  
+	(From yy-To yy)
+ 
+
+	B.Tech(ECE)
+ 
+	Jaypee Institute Of Information Technology University,Noida,India 
+	2005-2009 
+
+
+
+	 12th (PCM)
+	Kendriya Vidyalaya,Patna,India 
+	                 2001-2003 
+
+	               10th  
+	St Karens High School ,Patna, India
+	1991-2001 
+
+
+Work / Job Experience (in reverse chronological order):
+Company Name
+
+Designation
+               From (mm/yy)
+ To (mm/yy)
+	HCL Technologies Ltd 
+	      Software Engineer
+	           Feb ‘2010 – Aug’2010
+
+	HCL Australia Services Pty Ltd
+	      Software Engineer
+	           Sep’2010 --Dec’2010
+
+	HCL Singapore Pte Ltd.
+	      Software Engineer
+	            Jan’2011 – till date
+
+
+SUMMARY
+
+1 Year & 7 months of experience in the areas of Internet Technologies, GUI Tools
+ & Web based Applications using Java/J2EE, Struts 2.0, Spring & Filenet 4.0, 4.5, 4.5.1,
+FileNet BPF-4.0, Filenet IS 4.0.2, FileNet P8 BPM Suite 4.5.1
+CERTIFICATIONS
+IBM FileNet Content Engine 4.5.1 Developer Certification.
+IBM FileNet Process Engine 4.5.1 Developer Certification.
+PROJECT DETAILS
+
+1. OCBC Team Collaboration Manager Application 
+
+OCBC Bank
+
+
+
+
+
+          May 2010 – Aug 2010
+OCBC would like to upgrade the existing TCM system implementation based on FileNet 3.0 to FileNet 4.5 to address future TCM requirements with interactive and user friendly interface and keep pace with new technologies provided by IBM FileNet P8 product suites. TCM module is part of the WFI system, which is an Enterprise wide Filenet based content management and workflow system capable of integrating different department of the OCBC Bank. 
+
+TCM will enable the following document functions:
+· Document Management – Uploading and maintaining product related documents.
+
+· Product Approval Workflows (Reviews/Approvals by FS/NPAC members) – Initiating and Progress Tracking.
+
+· Team Collaboration. 
+Location- Offshore(Gurgaon)
+The main project goals and objectives can be summarized as follows:
+· Upgrade the FileNet infrastructure, data and workflows from the current Filenet 3.0 to FileNet 4.5.
+
+· Provide a secure, scalable, interactive and user friendly interface
+
+· Improve user adaptation of the TCM.
+As a Software Engineer, perform following duties:
+
+· Developing components for the TCM Module
+
+· Developing code in Java and integrate with Component Manager
+
+A ten-member team is involving in the development based on Java & J2EE technologies, 
+Filenet P8 4.0,Struts 2.0 ,IBM Websphere Server. 
+2. Lynx Application for Banking Services & Support
+WestPack Bank, Sydney (Onsite)
+
+
+                    Sep '10 – Dec '10
+
+This project is basically a Online Web based application based on Filenet 4.5 & used by the Bank for resolving Customers Issues & cater to all the problems related to Customer Banking. It is used by the Bank internally.
+This Project was to Introduce a new Brand in the Banking Applications which the Bank was re-opening for Customers.
+
+Location-Sydney,Australia
+As a Software Engineer, I was responsible for:
+
+· Designing of the new Brand Introduction in the Application & Enhancement of the Current Applications.
+· Developing components for the BSS Module.
+· Introducing new Brand Both at the FileNet Content /Process Engine & Java Web Application.
+A 6-member team was involved in the development of the system on Java/J2EE, FileNet 4.5.1, Struts 2.0, JSP , Spring & Websphere MQ Series Servers.
+3. WFI Upgrade FileNet 3.0 to 4.5.1
+OCBC Bank, Singapore (Onsite)                                                   Jan’11 – Present.
+
+This is an environment upgrade project which consist both software and hardware upgrade. Existing OCBC WFI environment which is running on WFI FileNet 3.0 is upgrading to WFI FileNet 4.5.1. The main features of this project are: 
+(a) FileNet 3.0 upgrade to 4.5.1 with MS Windows Server 2008 R2, MS SQL Server 2008
+(b) BPF 1.5 upgrade to 4.1
+(c) IS 4.0 upgrade to 4.1.2 
+(d) Capture 4.1 upgrade to 5.2 
+(e) Content Engine data migration (Documents, Custom objects, BPF Cases, Marking Set etc) 
+(f)  Process Engine Data Migration
+
+Location-Singapore
+
+Apart of these following requirements also catered: 
+(a) Application Split 
+(b) Content Engine data segregation 
+(c) Multiple objectstore usage in FileNet BPF application 
+(d) Process Engine data migration 
+(e) Application developed for replacing FileNet TCM (Team Collaboration Manager)
+
+ As a Software Engineer, I was responsible for:
+
+· Developing & Unit Test Code in Java for FileNet environment 4.5.1 & integrating the same with 
+
+Component Manager.
+· Configuring BPF Settings for each Departments (Payment Ops,Account Srvs,Loan Ops).
+
+· Develop & Unit Test Code for WebServices for our Product WFI with rest of the applications.
+
+· Interacting with the client for any change request & also mentoring colleagues in FileNet Administration of version 4.5.1.
+A 6 member team was involved in the development of the system on FileNet P8 BPM Suite 4.5.1, FileNet BPF 4.1, FileNet Workplace Customization, Struts 2.0, Java, J2EE, Web Services, XML, XSL, Web Sphere 7.0 Application Server, MS SQL Server 2008, Win 2008 Server, CVS.
+Contact Details:
+
+mrinal_anand22@hotmail.com
+Ph: +65 91143281
+

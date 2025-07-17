@@ -1,0 +1,337 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sarika_resume
+
+                                                                                                                            Sidharth Grover
+Sidharth Grover
+
+Mobile: +919467770087,
+    +918901055044    
+         	Email   : sidharth.grover90@gmail.com
+
+
+	Experience Summary
+
+	· Having 5 years of experience in Microsoft SharePoint development. 
+· Currently working with EY as Executive from May 2016.
+· Earlier have worked with HCL Technologies Ltd from April 2015 to April 2016 as Software Engineer and De facto Infotech Pvt. Ltd (Mohali) from August 2012 to March 2015 as Software Engineer.
+· Experience in Microsoft SharePoint 2010 & SharePoint 2013 projects featuring rich modules for intranet and public facing sites. 
+· Experienced in C#, ASP.NET, Ajax, JQuery, CSS, HTML and TFS.
+· Experience of requirement gathering and analysis, project planning.
+
+
+
+	Strengths
+
+	
+· I have technical & functional experience of MS SharePoint 2010, 2013 and capable to provide end-end solutions for MS SharePoint.
+· Knowledge in extending Microsoft SharePoint via building custom Web parts, Application pages, Site pages.
+· Experience of working in the complete Software development life cycle involving development, documentation and maintenance.		
+· Ability to work well in both a team environment and individual environment.
+· Capable to delve into the new leading Technologies.
+· Strong negotiation skills and the ability to deal with issues with accuracy & precision.
+· Good communicator with strong analytical, problem solving skills & eye for details.
+
+
+
+	Technical Skills
+
+	Programming Languages
+	C#, JQuery
+
+	Project Methodologies
+	Agile
+
+	Web Technologies
+	SharePoint, Office365, ASP.NET, HTML, XML, CSS, AJAX.
+
+	Scripting Languages
+	HTML5, CSS3, LINQ, JavaScript
+
+	Operating Systems
+	Windows XP, Widows 7, Windows Vista, Windows Server 2008
+
+	Web Servers
+	IIS
+
+	Tools
+	Visual Studio 2012/2013, TFS source control (Both online and on premise).
+
+	Software Engineering Methodologies
+	SDLC
+
+
+
+	Academic Credentials
+
+	· Bachelors of Technology (Computer Science & Engineering) from Ganpati’s institute of technology and management under Kurukshetra University (kurukshetra).
+
+· Higher Secondary from S.D Public School Jagadhri, CBSE 
+
+· Matriculation from St. Thomas School Jagadhri, CBSE
+
+
+
+	Personality Traits
+
+	
+My basic strength lies in my personality traits as mentioned below which would help me take up challenges:
+· Ambitious and Sincere 
+· Hardworking  and Honest 
+· High responsiveness and Decision-making 
+
+
+
+
+Professional Experience                                                                                                            
+
+Project 1
+
+	HR Probation
+
+	Environment 
+	SharePoint 2013, Asp.net 4.5 C#, JQuery
+
+
+	Database
+	MS-SQL Server 2012
+
+	Team Size
+	1
+
+	Description: 
+
+This Project is for Hr departments in the organization, through which they can automate probation process for the employee.
+
+Responsibilities:
+· Involved in understanding Technical Specifications, Writing program Specification.
+· Responsible for Unit Testing and releasing to QA.
+· Coding and documentation.
+· Work as Developer.
+
+
+
+Project 2
+
+	Document Archival
+
+	Environment 
+	SharePoint 2013, Asp.net 4.5 C#, JQuery
+
+
+	Database
+	MS-SQL Server 2012
+
+	Team Size
+	1
+
+	Description: 
+
+This Project is for all the finance departments in the organization, through which they can archive there very old documents to other web-application with same folder structures and same hierarchy.
+· Complete hierarchy is copied to the web application with all subsites and folder structure
+· Copies all the permissions on the documents from the source site. 
+
+Responsibilities:
+· Involved in understanding Technical Specifications, Writing program Specification.
+· Responsible for Unit Testing and releasing to QA.
+· Coding and documentation.
+· Work as Developer.
+
+
+
+Project 3
+
+	docXone (document management system)
+
+	Environment 
+	SharePoint 2013, Asp.net 4.5 C#, jQuery
+
+
+	Team Size
+	2
+
+	Description: 
+
+It is an online document management system that CA firms that enables customers to send their signature documents as email to multiple clients in a single click and also converting them to pdf and saving them to each client’s personal folder that is that is maintained online for their records. It contains many features of merging pdfs, converting documents to pdfs and also includes form based authentication Implementation.
+
+Responsibilities:
+· Involved in understanding Technical Specifications, Writing program Specification.
+· Responsible for Unit Testing and releasing to QA.
+· Coding and documentation.
+· Work as Developer.
+
+
+
+
+Project 4
+
+	Business Management System
+
+	Environment 
+	Office 365-SharePoint 2013, Sandbox solution, Asp.net 4.0 C#, EcmaScript
+
+
+	Team Size
+	4
+
+	Description: 
+
+This Project is for Business Management. It helps user to manage all tasks assigned to users. All meetings, jobs etc. It has facility 
+· People (Clients/Contacts): This module manages clients’ contacts and their tasks and related jobs.
+· Job: This module manages Internal Jobs & External Jobs related tasks.
+· Meetings: This module manages Meetings & related tasks.
+· Human Resource: This module manages Employees & their tasks.
+· KPI: This module manages Key Performance Indicators of user.
+· Task Template: Stores templates of tasks to import in different modules. Also manages related document.
+
+Responsibilities:
+· Involved in understanding Technical Specifications, Writing program Specification.
+· Responsible for Unit Testing and releasing to QA.
+· Coding and documentation.
+· Work as Developer.
+
+
+
+Project 5
+
+	De Facto InfoTech Intranet Portal
+
+	Environment 
+	SharePoint 2013, Asp.net 4.5 C#, JQuery
+
+
+	Database
+	MS-SQL Server 2008
+
+	Team Size
+	2
+
+	Description: 
+
+This Project is for all the co-workers in the organization, through which they can check out current events and news about the organization. Portal Includes
+· Intranet portal for De facto InfoTech team
+· leave management process 
+· timesheet process,
+· Document management. 
+
+Responsibilities:
+· Involved in understanding Technical Specifications, Writing program Specification.
+· Responsible for Unit Testing and releasing to QA.
+· Coding and documentation.
+· Work as Developer.
+
+
+
+Project 6
+
+	De Facto InfoTech Public Site
+
+	Environment 
+	SharePoint 2013, Farm Solution, Asp.net 4.5 C#
+
+	Team Size
+	2
+
+	Description: 
+
+It is public facing website in SharePoint 2013 that contains various web parts for making brochures, case studies etc. available to the audiences to be downloaded and some web parts regarding job openings etc.
+
+Responsibilities:
+· Involved in understanding Technical Specifications, Writing program Specification.
+· Responsible for Unit Testing and releasing to QA.
+· Coding and documentation.
+· Work as Developer.
+
+
+
+
+
+	Other  Projects 
+
+	
+· Window application to import data from an excel file to SharePoint list.
+· Timer job to delete data from list every hour from SharePoint list
+
+
+
+
+
+	Personal Details:
+
+	Date Of Birth
+	17th  March, 1990
+
+	Father’s Name
+	Suresh Grover
+
+	Mother’s Name
+	Ashok Kumari
+
+	Linguistic Proficiency
+	English, Hindi, Punjabi
+
+	Contact Number
+	+91 8901055044
+
+	Marital Status
+	Unmarried
+
+	Permanent Address 
+	#1321, Sector 17, Huda colony, Jagadhri
+District : Yamunanagar (Haryana), Pin code: 135001
+
+
+
+
+
+Date:
+Place: 				                   					(Sidharth Grover)                 
+Page 5 of 5

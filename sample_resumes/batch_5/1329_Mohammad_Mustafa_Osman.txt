@@ -1,0 +1,200 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mohammad Mustafa Osman	Contact No. +91 8341392781
+		 	Email ID: mohammedmustafa.osman@outlook.com	  	
+
+Profile Details:
+
+Having 4 years of experience in Information Technology using SAP Business Objects R3/R4 on varies modules like Universe Designer (UDT and IDT), Desktop Intelligence, BI Launchpad (Info view), WEBI Rich client, SAP Design Studio, SAP Lumira, CMC, SAP BW/BI and requirements gathering, design, installation, development, testing and maintenance.
+
+Educational Details:
+
+· B.Tech from OU Hyderabad
+
+Professional Summary:
+
+Currently working with Infinite Computer Solutions as a Software Engineer from March 2017 to till date. Work location IBM, Hyderabad
+worked with Ntranga IT Services Pvt. Ltd as a Software Engineer from January 2014 to March 2017
+
+Technical Skills:
+
+SAP Platform	: 		SAP Business Objects Enterprise XI 3.1, BI 4.0, BI 4.1, Universe Designer, Desktop Intelligence, Web Intelligence, Report Conversion Tool, Import Wizard, CMC (XIR3.1), Universe Designer Tool(UDT), Information Design Tool(IDT), Web Intelligence, CMC, UMT Launch pad(BI4.0), Xcelsius 2008, Dashboards 4.0, Crystal Reports 2008, 2011, Crystal Reports for Enterprise 4.0,SAP Lumira ,SAP Design Studio, SAP Analysis Office
+Database System 	: 	SQL Server 2008, MS Sql Server 2012, Oracle
+Operating Systems	: 	Windows 7, Windows 2008
+Others			:	 R Language, SpagoBI, Jasper report, MS Office.
+Learning                       :	SAP Lumira Discovery 2.0, SAP Lumira Designer 2.0	
+
+Technical Summary:
+
+· Extensive work experience on SAP Business Objects Design Studio 1.5, 1.6 Applications.
+· Hands on work experience on Analysis for Office and SAP Lumira.
+· Experience in development of reports using Desktop Intelligence and Web Itelligence, deployment, maintenance administration and troubleshooting of Business Objects 
+· Experience in using multi sources in IDT
+· Experience in using Derived tables, Views and prompts in IDT
+· Enterprise using CMC, BI Launchpad, Import Wizard and UMT
+· Extensive knowledge in Enterprise deployment and maintenance of Business Objects Full-client, Designer, XI 3.1 and BI4.0 versions.
+· Hands on experience  in relational databases like  SQL Server
+· Experience in creating Universes, Deski and WEBI reports (Rich Client and Infoview) and Migrating Business Objects environments from earlier versions to the latest version of BO XI3.1 to BI4.0.
+· Extensively worked on new universe building tool Information Design Tool (IDT) of SAP
+	Business Objects BI 4.0
+· Implementation of Universe security for Data security and Row level security while designing universes.
+· Good working experience in creating Sap Business Objects Dashboards and Xcelsius 2008.
+· Business Objects Web Intelligence Connectivity to various reporting databases on Unix Platform.
+· Performed Scheduling and Publishing the reports to the corporate folders and make those available to the Authenticated users
+· Extensively involved in Planning, Designing, Developing, Testing, Distributing and Maintaining Complex Business Objects Universes
+· Experience in creating Hyperlinks in WebI reports to open report from another report by using Open Document
+· Experience in updating source for WebI reports
+· Experience in using Qaaws  and Query Browser, Alert , Automatic refresh and using loading icon in the execution time in the Dashboard level 
+· Experience in creating Mobile dashboards
+· Experience in deploying Reports and Dashboards in Internet
+· Experience in Installation and Configuration of  Business Objects
+· Working experience on migration of reports, universes, users and security between different environments using Import Wizard(XI3.1), Upgrade Management Tool(BI4.0)
+· Exposure on SAP Crystal Reports 2008.
+
+
+SAP Project Experience Details:
+
+Thames Water Upgradation Project
+		Mar 17–till date
+Role	: 	SAP BO Developer
+Client	:   Thames Water Utilities Ltd, known as Thames Water, is the private utility company responsible for the public water supply.
+
+Responsibilities:
+
+· Created universe from various relational databases, OLAP databases 
+· Creating universe level filters and prompts for various reporting needs.
+· Creating report using BEx Query
+· Get requirements from the client and build new webi reports after analyzing the requirements.
+· Created graphical representation of reports such as Bar charts, Pie charts as per End user requirements. Developed full client and WEBI reports.
+· Created WEBI Reports as per Client requirement
+· Developed complex reports using multiple data providers which are Universes and Bex Query as main data providers in Business Objects
+· Created new and modified existing, different types of reports - simple tabular, cross tabs, master/detail, drill down, graphs and charts
+· Used combined queries in the report level to achieve the logic
+· Used prompts and Index awareness
+· Created multi tabbed reports
+· Scheduled reports by using event scheduling in different formats to Email, FTP and Inbox
+· Created different levels of securities for the user
+· Created mobile compatible reports for the client
+· Created different types of reports like Cross tab and normal
+· Created Hyperlinked reports
+· Used different features like Input control, Report level filters and Conditions
+· Created Folding reports
+· Created Drill reports to show the data from Summary level to detail level
+· Created Master detail reports
+Environment:
+
+SAP Business Objects BI4.1 SP5, BI4.2 SP3, SQL Server 2008, SQL Server 2012, Windows 2008 Server
+
+SAP Project Experience Details:
+
+HMSHOST
+                                                                                                                                     Apr 16–Mar 17
+Role	: 	 SAP Design Studio Developer
+Client	:   HMSHost is part of Auto grill S.p.A. – the world’s largest provider of food, beverage and retail services for travelers.
+
+Responsibilities:
+· Developed Design Studio Application based on BW BEx queries and deployed to SAP BOE Platform.
+· Developed Design Studio Application based on UNX and deployed to SAP BOE Platform.
+· Implemented the conditional formatting on chart in Design Studio Application.
+· Export data from crosstab to Microsoft Excel.
+· Apply hyperlink to the Design studio.
+· Implemented member filter to the data source.
+· Implemented background filter to a data source and apply range of the filter.
+· Copy a data source in an application.
+· Add print feature to the design studio.
+· Implemented the personalize and Bookmark feature into the application.
+· Select the specific key figure to display on chart.
+· Set up user interactivity properties for crosstab (Hierarch navigation and sorting enable).
+· Used the list box component with multiple selection capabilities.
+· Implemented cascading filter in the application.
+· Implemented the navigation filter panel into design application.
+· Implemented logic to achieve the functionality of Add/remove the Dimensions and changing the chart types dynamically.
+· Implemented logic to show/hide the Measure values dynamically.
+
+
+		Jan 14–Mar 16
+Role	: 	SAP BO Developer
+Client	:   HMSHost is part of Auto grill S.p.A. – the world’s largest provider of food, beverage and retail services for travelers.
+
+Responsibilities:
+
+· Created universe from various relational databases, OLAP databases 
+· Creating universe level filters and prompts for various reporting needs.
+· Created universe based on stored procedures and webi reports having prompts.
+· Converted the XI3.1 Desktop Intelligence Reports to Web Intelligence
+· To get alternative solutions for features of Deski which are not available in webi
+· Get requirements from the client and build new webi reports after analyzing the requirements.
+· Created reports using cascading prompts for selection of data in a hierarchical manner.
+· Used fold/unfold feature and drill functionality to represent hierarchical data.
+· Used Open document feature to link parent child reports.
+· Used alerters for implementing conditional logic.
+· Used QAAWS/Add query to create Dashboard reports after analyzing the requirements.
+· Created graphical representation of reports such as Bar charts, Pie charts as per End user requirements. Developed full client and WEBI reports.
+· Migration of all the objects from SAP Business Objects XI3.1 to SAP BI4.0 and then updated BI4.0 to BI4.1.
+· Setup of SAP Business Objects BI4.0 server and installation of pre requisites for installation.
+· Installation of BI4.0 server and client components and their support packs and patches.
+· Backup of Business Objects XI3.1 repository using Import Wizard BIAR files and by CMS database backup.
+· Implemented security in BI4.0.
+· Migrated reports along with the universes and connections using UMT.
+· Migrated QAAWS objects and their associated universes using UMT
+· Migrated Dashboards from 3.1 to 4.0.
+· Troubleshoot and resolved issues faced during migration.
+· Created dashboards and webi reports for Android (tablets) and IOS devices (Ipad).
+· Published the dashboard to Internet
+
+
+Environment:
+
+SAP Business Objects BI4.0 SP06, BI4.1 SP1, SQL Server 2008, SQL Server 2012, Windows 2008 Server
+
+
+
+

@@ -1,0 +1,156 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BHARGAVA REDDY REDDEM
+Big Data Engineer in HCL Technologies, Chennai	
+                                                                                                                        Email: bhargavaspark@gmail.com              
+                                                                                                                        Phone: +91-8124242011
+
+Professional Summary
+
+· 4.6+ years of overall IT experience in Application Development in Big Data Hadoop Stack and Spark, Scala, SQL and UNIX Shell scripting
+· Good experience in Hadoop and Spark its components like HDFS, Pig, Hive, Spark, SparkSQL, HBase, Sqoop and Oozie.
+· Experience in Development of technical specifications using Hadoop Echo System tools.
+· Experience in developing applications in Spark and Scala to compare the performance of Spark with Hive and SQL/SQL SERVER.
+· Experience in ETL developing process using Hive Query Language.
+· Experience in writing the Pig scripts to ELT concepts.
+· Developed data queries using HiveQL and optimized the Hive queries.
+· Worked on import and export data from MySQL and Oracle into HDFS and HIVE using Sqoop.
+· Designed Oozie workflow with HiveQL’s scheduled the workflow with time-based Oozie Coordinator.
+· Experience in Agile, Waterfall methodology.
+· Good analytical skills and strong ability to perform as part of team.
+· Exceptional ability to learn new concepts. Hard working and enthusiastic.
+· Sound knowledge in SQL. Familiar with UNIX commands. 
+Technical Skills
+·  Big Data Echo system tool      : Hadoop, Spark, SparkSQL, Kafka, Hive, Pig, HBase, Sqoop, Oozie
+·  Programming Languages        : SQL/PLSQL, Scala, Unix shell scripts
+·  Bigdata Plot form                     : Horton Works and Cloudera 
+·  DevOps Tools                            : Git, Bit Bucket, Maven, SBT, TeamCity, Docker
+·  Other Tools                               : Eclipse IDE, IntelliJ IDE, TOAD, SQL Developer, Putty
+Work Experience Summary Experience Summary
+· Working in HCL TECHNOLOGIES, Chennai as Big Data Engineer since Jun’2018 to Present.
+· Former employee in PayPal Inc, Chennai under the payroll of “Future Focus Infotech Pvt Ltd” as Big Data engineer Since Dec 2017 to present.
+Experience in Transactional data Ingestion an ETL process using Spark, Scala and Hive other tools.
+· Worked as Hadoop Developer for Technosoft Global Services (P) Ltd since Aug 2015 to Sep 2017. 
+Experience in Telecom Domain like data integration and migrating existing RDBMS system to Bigdata platform and improved the performance of process.
+· Worked as associate Developer for Tata Consultancy Services, Hyderabad under the payroll of “Netcomm It Solutions Pvt Ltd.” since Jul’2012 to Feb’2014.Back
+ground
+Academic Background
+
+· Completed Bachelor of technology (B.Tech) under J.N.T.University, Ananthapur
+
+
+
+
+Project # 3:
+Project 				:  Braintree Pfit Integration
+    	Client				:  PayPal Inc.
+Skills				:  HDFS, Spark, Scala, SparkSQL, Hive, Sqoop and Oozie.
+Environment    			:  Horton works HDP 2.2, SQL Server and UNIX
+Period				:  Dec’ 2017 to Jun’2018
+Role				:  Hadoop Developer   
+Description:
+      The purpose of the Braintree PFiT Integration project is to develop a blueprint for the onboarding of Braintree payments into the solution and processes built for PayPal payments. Braintree currently operates a unique set of front and middle-office systems and processes and one of the key objectives of the Braintree Payments PFIT program is the migration of in-scope Braintree middle and back-office processes onto what has been built as part of the PayPal Payments PFIT program. Where needed, the systems and processes that are being built for PayPal payments will be extended to meet additional Braintree business and regulatory requirements vetted and confirmed through the fit/gap exercise.
+
+Responsibilities
+· Developed Spark scripts by using Scala commands as per the requirement.
+· Used Spark API over Hortonworks Hadoop YARN to perform analytics on data in Hive.
+· Optimizing of existing algorithms in Hadoop using Spark Context, Spark-SQL, Data Frames and Pair RDD's.
+· Developed data queries using HiveQL and optimized the Hive queries.
+· Developed data ingestion scripts using HDFS put command to transfer the csv files stored across multiple file paths located in Isolon Data Mediation Server to HDFS.
+· Developed Pig scripts to extract the data from the output files and applied data transformation logic to load data into HDFS.
+· Worked on import and export data from MySQL and Oracle into HDFS and HIVE using Sqoop.
+· Performed data ingestion, ad-hoc queries using HDFS, Hive and Pig.
+
+
+Project # 2
+Project 				:  Nokia and Ericsson LTE
+Client				:  SPRINT Telecom
+Skills				:  HDFS, Spark, Scala, SparkSQL, Hive, Sqoop and Oozie.
+Environment    			:  Horton works HDP 2.2, SQL Server and UNIX
+Period				:  Aug’ 2015 to Sep’2017
+Role				:  Hadoop Developer   
+Description:	
+             With over 100 million wire line, wireless, enterprise customers and a huge global network, data analytics is a critical component of Sprint business. Sprint collects huge amount of usage information about all their products, services and sites such as call records, wireless location, network traffic data, product and device specific information and other similar data and that will be consumed for Business Analytics, Operational Analytics, Text Analytics, Data Services and build Big Data Solutions for various Sprint Business units. The collected data is aggregated and analyzed for adhere legal compliance, business and marketing to improve the services, measure and analyze the usage and to help to find services and advertising more relevant to the customers. 
+Responsibilities
+· Developed Spark scripts by using Scala commands as per the requirement.
+· Used Spark API over Hortonworks Hadoop YARN to perform analytics on data in Hive.
+· Developed the ingestion scripts to transfer content of the file from archive into HDFS.
+· Created Hive Managed and External tables with partition in Hive and loaded data in to Hives.
+· Developed data queries using HiveQL and optimized the Hive queries. 
+· Designed Oozie workflow with HiveQL’s jobs and scheduled the workflow with time-based Oozie Coordinator.
+· Created tables to load large volume of structured, semi-structured.
+· Worked on import and export data from MySQL and Oracle into HDFS and HIVE using Sqoop.
+· Performed data ingestion and ran ad-hoc queries using HDFS, Hive and Pig.
+· Experience in preparing testcases to validate data.
+
+
+Project # 1:
+Project title     			: Accounting Mediation Device and Prepaid System
+Client                 			: Tata Tele Services Limited, Hyderabad
+Environment    			: Oracle 10g, UNIX, windows XP
+Tools & Utilities                	: Toad, SQL Developer, SQL* Loader and Eclipse
+Role                   			: Oracle Developer.
+Duration           			: Jul-2012 to Feb-2014.
+
+Description:
+The main aim of this project is to provide the prepaid revenue accounting entries to sap erp by gathering information from all the source systems which impact the prepaid customer. Project involved extraction of INDRs processing data from transactional systems and populating the data warehouse using a series of ETL jobs. The source system databases are oracle from which data would be extracted. The extracted data from these sources is cleansed and validated in staging area before it is dumped into warehouse.
+Responsibilities
+· Involved in development, testing, implementation and maintenance with timely deliverables.
+· Created Tables, Views, Constraints, Indexes.
+· Involved in development phase of the project. 
+· Implemented the solution using PL/SQL and UNIX shell Commands. 
+· Continued the support and maintenance for the project.
+· Loaded Data into Oracle Tables using SQL Loader.
+· Created Shell Scripts for invoking SQL scripts and scheduled them using crontab.
+
+								
+

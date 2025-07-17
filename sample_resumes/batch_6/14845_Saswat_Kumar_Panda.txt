@@ -1,0 +1,266 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Saswat Kumar Panda							
+Mobile No: +91-8746060897							 
+Email: skpandadba@gmail.com			 			
+      	
+      CAREER OBJECTIVE	
+
+To work in a globally competitive environment on challenging assignments that gives me an opportunity to use and enhance my technical and interpersonal skills and result in my growth as well as the company’s growth.
+
+      WORK EXPERIENCE
+
+	COMPANY
+	DESIGNNATION
+	LOCATION
+	FROM
+	TO
+
+	Wipro Limited
+	System Analyst 
+	chennai
+	August -2014
+	Till date
+
+
+
+     TECHNICAL SUMMARY	
+
+Oracle DBA with 3.8 years of experience in application support and maintenance of Pre Production and Production environment at WIPRO Technologies.
+Database Administration in large production environment and in various platforms like SUN SOLARIS, Red Hat Linux ,HP Unix & Windows.
+Providing L2 Support.
+Installation, configuration and upgrading of oracle software on Sun Solaris, Linux.
+Good knowledge in  Datawarehousing, ITIL & SLA.
+Creating and managing database objects, users, roles, privileges, profiles.
+Creation and maintenance of database,space management and configuring db listeners,tnsnames & services.
+Implementing and monitoring  backup and recovery strategies using Hot/Cold backup, RMAN, Logical (Import/Export, Data pump).
+Participate in DR drill in every quarter & monitoring log shipping info.
+Performing and Monitoring in configuring RMAN & Cloning using RMAN & replication using GOLDENGATE.
+Identifying and removing Fragmentation, row migration/chaining of database objects & Performing and Monitoring in Performance Tuning.
+Report generating by STACKPACK, ASH and AWR.
+Experience in applying CPU and PSU Patching, database upgradation(10g to 11g,11gr1 to 11gr2) & Migration.
+24x7 on-call Production support for database activities.
+Professional experience in managing various team which involves end to end support and development.
+An effective communicator with excellent relationship, management skills and strong analytical, problem solving and organizational abilities.
+
+       SKILL SET 
+
+Platform		    	    : SUN SOLARIS, Red Hat Linux ,HP Unix & Windows
+Languages		   	    : SQL,PLSQL,linux
+Database Technologies	    : oracle 10G/11G,12c
+Support                                 	    : ITSM and Service Now ,ZIRA
+Oracle Tools                                      : RMAN, OEM, EXP, IMP, expdp, impdp,Foot Print incident Mgr,                                                                                 
+                                                                      SRVCTL,GOLDENGATE,RAC                                             
+Tuning Tools	                             : TKPROF, EXPLAIN PLAN, STATSPACK
+
+ACADEMIC QUALIFICATIONS 
+
+	QUALIFICATION
+	BOARD
+	SCHOOL/COLLEGE
+	YEAR OF PASSING
+
+	BTECH(ECE)
+	BPUT, Orissa
+	Orissa Engineering College,Jatni,Orissa
+	2014
+
+	Diploma
+	SCTE&VT,Orissa
+	IGIT,sarang,orissa
+	2009
+
+	10th 
+	BSE, Orissa
+	Kalinga Vidyapitha, Orissa
+	2006
+
+
+
+      ACHIEVEMENTS
+
+Awarded for the outstanding contribution in the project from WIPRO management.
+Have participations in various national events.
+TRAININGS ATTENDED:
+Leadership and Interpersonal Skill conducted by Ministry of Micro, Small & Medium Enterprises (MSME) Development Institute, Cuttack
+
+       PROJECT DETAILS 
+
+Major Assignments: 1
+
+	(AUG-2016) To Till date
+
+	Project:	
+	TNMP- TMS
+
+	Client
+	Texas New Mexico Power
+
+	Environment:	
+	Oracle 11g , OEM ,SNOW
+
+	Role:		
+	Oracle DBA
+
+
+
+· User creation and assigning responsibility
+· Proactively monitor and maintain Database instance
+· Monitoring alert logs for errors 
+· Monitoring Disk space and escalate to OS administrators for any disk space issues.
+· Database User Account Creation and Administration
+· Role creation, modification, and deletion
+· Profile assigning and changing
+· Refresh data from one database to another
+· PROD/Training/test/Experimental environment database support
+· Monitor growth of tablespaces and add Data file to it as and when required
+
+Major Assignments: 2	 						
+
+	(Feb-2015) To Aug 2016
+
+	Project:	
+	DBA Support
+
+	Client:
+	Jetstar Airways Pvt. Ltd
+
+	Environment:	
+	Citrix, Windows 2003, RHEL 5 & 6, Service Desk+,oracle 11gR2
+
+	Role:		
+	Oracle DBA
+
+
+
+Brief description of the Client:
+	Jetstar is a value based carrier network (Australia based) providing all day everyday low fares with an open approach to air travel. In this assignment we are supporting TRAX databases and its application. 
+
+
+Performed following activities:	
+
+· Installation of Oracle 11.2.0.3 on Linux platform and patching it to 11.2.0.3.4
+· Upgrading the database from Oracle 11.2.0.1 to Oracle 11.2.0.2
+· Building Physical Standby database and administrating it
+· Re-synching of standby database
+· Creation of new Databases with required components and administration of existing databases
+· Renaming databases
+· Proactively monitor and maintain Database instance
+· Monitoring alert logs for errors 
+· Monitoring Disk space and escalate to OS administrators for any disk space issues.
+· Database User Account Creation and Administration
+· Role creation, modification and deletion
+· Profile assigning and changing
+· Refresh data from one database to another
+· PROD/Training/test/Experimental environment database support
+· Monitor growth of tablespaces and add Data file to it as and when required
+· Link two databases with database links
+· Providing weekly, and Quarterly reports to the Client on Tickets and database growth.
+
+
+Major Assignments: 3
+
+	(Aug-2014) To Feb 2015
+
+	Project:	
+	KCI Datacenter L2 Support
+
+	Client
+	KCI
+
+	Environment:	
+	Oracle 11g; ITES , OEM 
+
+	Role:		
+	Oracle DBA
+
+
+	
+Brief description of the Client:
+	Kinetic Concepts, Inc., (KCI) is a global corporation that produces medical technology related to wounds and wound healing. KCI produced the first product developed specifically for negative pressure wound therapy. Its products in more than 25 countries.
+
+
+Job Responsibilities:
+
+· Proactively monitor and maintain Database instance
+· Monitoring alert logs for errors 
+· Monitoring Disk space and escalate to OS administrators for any disk space issues.
+· Database User Account Creation and Administration.
+· User creation and assigning responsibility in EBS.
+· Role creation, modification and deletion
+· Making production and standby in sync status.
+· Proactively monitoring FileNet WebLogic Monitoring, , PROD Memory monitoring
+· Monitoring DAC Jobs.
+· Knowledge on Cloning
+· Resolving oracle database issues getting daily basis.
+
+
+
+
+      PERSONAL DETAILS
+	
+Date of Birth			:	9th OCTOBER 1990
+Sex				:	Male
+Father’s Name			:	Mr. Rudraketan Panda
+Marital Status		                :	Single
+Nationality			:	Indian
+Languages Known		:	English, Hindi, Oriya, and Tamil
+Present Address                                   :              golden avenue 2nd street,velachery,Chennai 600042
+
+     DECLARATION
+
+              I hereby assure you that the information furnished above is true to the best of my knowledge.
+
+Place: chennai
+Date:  						                               	 (Saswat Kumar Panda)
+

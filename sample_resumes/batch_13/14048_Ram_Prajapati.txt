@@ -1,0 +1,270 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Profile
+
+
+Ram Prajapati 					email: ram.prajapati@live.co.uk
+                                                                 Mobile: +91- 9088313638
+
+Summary:
+· A Cumulative 7.7 years of experience in IT Industry.
+· Experience in IBM Mainframe environment with projects involving Development, enhancements, testing and production support activities.
+· Exposure to System Acceptance Testing, Business Acceptance Testing and Post Production Warranty Support.
+· Complete SDLC (Project Definition, Analysis, Design, Coding, Testing, Pre-Implementation, Implementation, Post-implementation support) experience.
+· Good exposure in BFSI, Cards and Payments including EMV, Retail.
+· Served as Product Quality Analyst for more than 2 years. (CMMI level 5)
+
+Technical skills:
+	SKILLS
+	TOOLS
+
+	Operating system
+	 IBM MVS, OS/390, z/VM, WINDOWS
+
+	Programming Languages
+	       MVS-Assembler, COBOL, JCL
+
+	Database & File System
+	       VSAM, DB2, Supra
+
+	Tools & Utilities
+
+	       Roscoe,  FILE-AID, TSO/ISPF,  ABEND-AID,
+       Xpeditor, Endevor, HP - QC, HP Service Manager 7,
+       MS-Word, MS-Excel, MS-PowerPoint       
+
+	Platforms
+	       IBM OS/390,zOS, z/VM
+
+
+
+
+Educational Qualifications:
+
+	Period
+	College/ University
+	Qualification
+
+	2004-2008
+	SIT, Jaipur, India
+	Bachelor of Engineering (Computer Science)
+
+	2003
+	Kendriya Vidyalaya, Danapur, India
+	CBSE (Class XII)
+
+	2001
+	Kendriya Vidyalaya, Patna, India
+	CBSE (Class X)
+
+
+
+Work Experience – 7.1 years ( Feb. 2010 – Till Date )
+		 
+Employer – 4: Sopra Steria Ltd.
+Designation: - Team Lead
+Technologies: - Assembler, COBOL, JCL, VSAM, DB2, Supra, Abend-Aid, File-Aid, Endevor. 
+
+Employer – 3: Cognizant Technologies Solutions
+Designation: - Team Lead
+Technologies: - Assembler, COBOL, JCL, VSAM, Abend-Aid, File-Aid, Endevor 
+
+Employer – 2: Time Inc.
+Designation: - Senior Software Engineer
+Technologies: - Assembler, COBOL, JCL, VSAM, Abend-Aid, File-Aid, Endevor 
+
+Employer – 1: Employer – 1:  HCL Technologies Ltd.                    
+Designation: - Software Engineer
+Technologies: - Assembler, COBOL, JCL, VSAM, Abend-Aid, File-Aid, Endevor, Roscoe, HP Service manager, HP Quality Centre  
+
+Project Details:
+
+1. N Brown Group plc
+      (Team Size: 26 - from July-2016 till date)
+
+It is a British home shopping business based in Manchester, England. It is listed on the London Stock Exchange and is a constituent of the FTSE 250 Index. It trades as a home shopping retailer. Current brands include Fashion World, Gray & Osbourn, House of Bath, Jacamo, Marisota, Oxendales, Simply Be, JD Williams, Premier Man, Fifty Plus, Williams & Brown and High & Mighty. Project includes maintenance and enhancement of mainframe applications which work as a backbone of the retail application.
+
+Responsibilities
+
+· Requirement gathering
+· Design, Coding, Unit testing, On-Call Support
+· Supporting - System Acceptance Testing, System integration testing, Business acceptance testing, Operator acceptance testing, Release acceptance testing and also Implementation. 
+· Team management Reporting
+· Escalation management
+· People Management
+
+
+2. First Data Merchant Services
+      (Team Size: 26 - from July-2014 till July 2016)
+
+The project deals with certification of ISVs and merchants in US from First Data in EMV. EMV is an international payment system standard for the use of an integrated chip card. Due to the rush in meeting the 10/01 deadline of liability shift, many of First data merchants are in a rush to certify them in EMV. The basic function of the team is to do the setup for the new merchants on First Data network, perform analysis of the data received from the vendors, report errors if any, route the transaction to multiple brands once the internal comfort level is achieved and get the merchant certified by the different associations like Master card, Visa, Amex and Discover. 
+
+Responsibilities
+
+· Requirement gathering
+· Coding, Unit testing
+· Supporting - System Acceptance Testing, System integration testing, Business acceptance testing, Operator acceptance testing, Release acceptance testing and also Implementation. 
+· Certification Support
+· Analysis of Authorization and settlement data
+· Conduct Testing over First Data Network
+· End to End certification support for ISVs.
+· Attending Client status calls, providing project status update to the customers, managing the issues and concerns
+· Team management Reporting
+· Escalation management
+· People management
+
+3. Time Warner: Domestic magazine
+      (Team Size: 4 - from Sep-2013 to July-2014)
+
+Project for maintenance and enhancement of system meant for Time Warner print media. The system allows customers to subscribe for magazines, gift magazines, make payments for their subscription or gift etc. 
+
+Responsibilities
+
+· Estimating the effort and preparing the low level project plan.
+· Analysis of Assembler modules & providing the resolution document for the changes.
+· Coding, testing and documenting the work done.
+· Review of team members’ work.
+· Quality standards compliance by the team.
+· Support the Implementation
+
+4. HBOS – Banking & Savings Resource Pool – Savings Roll Number      
+      (Team Size: 5 - Feb-2010 to Jul-2011)
+
+Business perspective: The project mainly involved increasing the range of account numbers to accommodate more no. of accounts. 
+ 
+Technical perspective: Unique roll numbers are created under different departments. Roll numbers under savings department (Say dept ‘xx’) was about to exhaust. So from then onwards all new savings accounts opened had to be enrolled under a new department (say ‘yy’). So all the programs which were treating dept - xx as valid department had to be altered to treat dept - yy also as a valid department. 
+
+This project mainly involved analyzing the specifications, searching for all the programs getting affected using some key words related to roll numbers and department field, preparing technical design, build, unit testing, system testing prior to implementation. 
+
+I was involved in technical design for altering existing batch modules and technical design for three new modules, build and unit testing of the modules designed by me. 
+
+As a fresher, I utilized this opportunity to learn a lot of things both in technical area and process areas. 
+
+Responsibilities
+
+· Estimating the effort and preparing the low level project plan.
+· Analysis of Assembler modules & providing the resolution document for the changes.
+· Coding, testing and documenting the work done.
+· Review of team members’ work.
+· Quality standards compliance by the team.
+· Support the Implementation
+
+5. HBOS – SSDC Assembler Integration Project
+      (Team size: 7 - From Mar-2010 to Dec 2010)
+
+This project deals with the integration of HBOS insurance system with that of Lloyds system. Changes in mainframe system mainly include introducing new TPA’s of Llyods system into the HBOS system. Changes required in data warehouse to process large number of new fields introduced and all these information will be supplied from mainframe. Also different new insurance products will be introduced as part of integration project. Work request also involves production support and ad hoc work requests. Modules were written in MVS-Assembler and COBOL. 
+
+Responsibilities 
+
+· Estimating different work packets.
+· Analysis of Assembler modules & providing the solution document for the changes.
+· Coding, testing and documenting the work done.
+· Review of team members’ work.
+· Performing unit testing of the developed module.
+· Support to Integration testing, System testing and UAT.
+· Product Quality Analyst’s role.
+
+6. LBG – Retail Distribution Review                          
+     (Team Size: 5 - From Dec-2011 to Nov-2012)
+
+As per the government regulations imposed in UK, all insurance companies had to perform major changes to their advisor commissioning systems. Which involve large changes at the front-end. This in turn introduced a requirement to save huge volume of data at the back end, which is Mainframe server in this case. A solution had to be designed to save huge data on files effectively.
+
+Responsibilities
+
+· Technical solution design, Coding  and Testing
+· Support - System Acceptance Testing, System integration testing, Business acceptance testing, Operator acceptance testing, Release acceptance testing and Implementation. 
+· Leading the team from process front.
+· Quality Analyst for all deliverables
+·  Peer review, Attending Client status calls, providing project status update to the customers, managing the issues and concerns in the team. 
+
+7. LBG – Project Grass        
+      (Team Size: 4 - from Jan-2012 to Sep-2013)
+
+As per the internal business requirements, all technical and business links of this bank with a third party administrator had to be removed. This involved decommissioning many programs which were processing input files from that third party, decommissioned many programs which were sending output to that third party system. Changed the policy administrator of nearly 1M policies to a new third party administrator and re-established all links with the new system.   
+
+Responsibilities
+
+· Coding, Unit testing
+· Leading the team from process front.
+· Peer review, Attending Client status calls, providing project status update to the customers, managing the issues and concerns in the team. 
+
+
+
+Value additions in project:
+1. Automated the batch suite in test region using JCL. It made submissions of 50+ jobs one after another based on the success/failure of the previous job and several other conditions. It saved 1.5 hrs per batch run. Frequency of the batch run was around 18 per month and so, the total effort saved was around 27 hrs per month i.e. 3.30 Man days per month.
+
+2. Data Copy tool: The tool copies Customer records, their related Policy/AML/Name and description records from production to test/production support regions using DFSORT & HL ASM. This tool saves 30 mins per data copy. Average frequency of data copy request is 10 per day. The total effort saved is around 150 hrs per month/ 18.75 Man days per month.
+
+3. Test file creation tool: This tool used to create cut versions of all the files used in the system (for testing/support purpose). It made volume testing easier and faster. The customer sensitive data were removed by the tool every time a cut version file was created. Nothing is saved in terms of effort but the tool made testing easier than ever before.
+
+Personal Profile:
+
+	
+Name                  :  Ram Prajapati
+Fathers’ name      :  Mahavir Prasad Singh
+Date of Birth        : 14th Oct. 1984  
+Gender                :  Male
+Nationality           :  Indian
+Languages           :  English, Hindi 
+Marital Status       : Single
+Contact                : (+91) 9088313638
+
+
+
+
+DECLARATION:
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for its correctness. 
+
+Place:	Noida					                        
+Date: 	29th Sep, 2017							   Ram Prajapati
+						
+
+
+
+

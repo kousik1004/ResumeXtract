@@ -1,0 +1,256 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B.PRASANTHI
+Mobile No.9886581109	
+Email : reddygaru447@gmail.com
+	Summary
+
+
+To work for an organization which may utilize my skills and potential to deliver robust and innovative solutions in today’s competitive environment. I am willing to work as a key player in challenging and creative environment. I want to establish myself as a successful development and administration professional. I look forward to acquire position in a reputed organization and work assiduously towards achievement of organizational goals.
+I am currently working in WIPRO as an Associate with around 3.4 years of experience.
+
+	Skills
+
+	Key Skills
+
+	· 3.4 years of experience in data analytics industry focused around EAI tools and Implementation of applications and testing applications in BFS domain.
+· Have rich experience in life science domain under advanced solution practice & business process integration by doing analysis of clinical trials.
+· Rich domain Knowledge on Banking and financial sector and Life science.
+· Excellent knowledge in developing medium to complex visualizations and analysis report for different applications and projects using Tibco Spotfire.
+· Having good experience on the administration part of Spotfire in creating user, groups and giving licenses to them of Tibco Spotfire. 
+· Having good experience on system administration of AIX like creating users, groups and filesystems etc.
+· Got trained core java with basics of SQL server,HTML
+· Strong analytical skills, communication skills and flexibility to learn and work on any platform.
+· Good knowledge in Business Objects.
+· Trained people in both spotfire admin and development for around 2+ years.
+
+	EAI and Data Analytics Tool:
+	TIBCO Spotfire Professional client, TIBCO Automation services, TIBCO Application Data service, TIBCO Active spaces, TIBCO Business Works.
+
+
+	Microsoft Tools
+	MS Word, MS Powerpoint
+
+
+	Other Tools
+	Web intelligence, Crystal report and Business Objects XI reports
+
+	Programming Languages
+	
+COREJAVA
+
+
+	Databases
+	 MS SQL server 2008.
+
+	Scripting Languages
+	 HTML.
+
+	Hardware / Platforms
+	Windows 98/XP/2000, 2007, Unix.
+
+	Build Tools
+	Maven
+
+
+
+	
+	Education 
+
+
+
+
+	Title of the Degree with Branch
+	College/University
+	Year of Passing
+
+	Bachelor of Engineering in Electronics and Communications
+
+Sri chaitanya junior college
+	Avs college of engg and technology JNTU(anantapur)
+
+
+Intermediate
+	2013
+
+
+2009
+
+
+
+
+	Employment History
+
+
+
+	Date 
+	Company Name 
+	Role 
+
+	Dec 2013 – Present 
+	Wipro
+	Associate
+
+
+			
+	Project Experience
+
+
+
+1.Abbvie RandD study setup(DSS):
+
+	Operating System
+	Windows 7
+
+	Role
+	Team Member
+
+	Team size
+	3
+
+	Tools
+	Spotfire Client, Server and web player, MS SQL Server 2008
+
+	Period
+	December 2013 to May 2015
+
+	Employer
+	Wipro
+
+
+
+
+
+Project description
+
+This project is about clinical trial where analysis reports are created on the basis of subject details, Lab results, grading details etc.
+
+Role and Responsibilities:
+1. Enhancement of existing report.
+2. Creating new dashboards from the scratch according to the requirements.
+3. Creating Queries for the data’s in database
+4. AIX LVM – creating volume groups, logical volumes, file systems, etc., resizing file systems, working with mount points such as changing mount point for file system.
+5. Migrating logical volumes,, mirroring vgs and lvs, copying logical volumes, export and importing volume groups. 
+
+
+
+Contribution:
+
+	· Created medium to complex SQL queries and procedures to consume data into spotfire.
+
+	· Created jobs to save and export to Library using automation services.
+
+	· Designed dashboards for new clinical trial requirements.
+
+	· Exported and Scheduled updates using Automation services and Web player for faster load time.
+
+	· Delivered all the report before deadline.
+
+	· Delivered reports with minimal or zero UAT defects.
+
+	· Supported in promotion of dashboards to various environments.
+
+	· Created BOXI reports.
+
+	· Worked on web intelligence tool in creating Business Objects reports.
+
+
+
+
+2. AMEX MYCA UMS Intl
+
+	Module
+	LILO, Omniture, OCE Intl,
+
+	Team Size 
+	4
+
+	Role
+	Team member
+
+	Period
+	may 2015 to present
+
+	Tools
+	Tibco Spotfire product Suite, SQL Server
+
+
+Role and Responsibilities
+1. Creating dashboards for banking application using spotfire
+2. Deployment and migration of reports from one environment to other.
+3. Back up for team leader and Business Analyst to communicate and gather requirements from clients.
+4. Creating /removing paging space, checking paging space usage and increase/decrease if required, configuring system dump devices, taking system dump, estimating system dump etc.,
+5. Disk Storage Management– Logical and Physical Volume management, configuring disks, working with volume groups, logical volumes, and physical volumes
+Project Description	
+There are various modules like LILO, Omniture and OCE Intl which I have worked under same project. 
+In LILO module, we redesigned the existing Log Off page with PZN and third party integration with added functionalities. In Omniture tracking module, we are tracking the users entered into the specific application by using Web Analytics &(Adobe SiteCatalyst) Itag and Spotfire Analysis. Spotfire is used to track and analyze the application using visualization and dashboard. It helps to track the users hit to specific applications. OCE is Online Card Engagement it deals with two services which is of Card activation and Card registration. The project is to overhaul, rethink and rebuild the online activation and MYCA Registration processes which includes improved customer experience, better servicing, and tracking the analyzing the improvement using analysis reports prepared using Spotfire.
+Contribution:
+	· Developed a configuration page for dynamic function across the modules.
+
+	· Created Combination chart to find the count of card applications having existing Log Off pages and uplifted Log Off pages. 
+
+	· Depicting the maximum and minimum number of users using the applications with uplifted log of pages using Heat Map. Used Property controls to select different kind of third party integration.
+
+	· Created Map chart to show which country has maximum card applications with uplifted log off page. Used Map chart to depict which Country has the maximum users hitting the url of Card Applications.
+
+	· Created different groups and users in admin for application users with existing Log Off pages and uplifted Log Off pages and giving permissions accordingly.
+
+	· Tracked the Maximum, Average and Minimum Number of Users logging in and Logging out using Heat Map. Created a hierarchy for Country/Region/City and used it in Tree map to find the number of users.
+
+	· Created analysis report for number of cards activated and number of cards registered before the rebuild of the application for the period of 1 year using Summary Table, Cross Table with Detailed Visualization.
+
+	· Statistical metrics of improved customer and service experience percentage in average of half yearly basis.
+
+	· Created CMR (Change Management Request) report depicting the Changes done in the application with respect to Date using Line Chart with Details Of visualization.
+
+	· As admin created different users and groups and provided licenses with respect to Cards.
+
+
+

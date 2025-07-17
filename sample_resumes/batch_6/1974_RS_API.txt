@@ -1,0 +1,127 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rama Krishna                                                                               Mobile : +91 8123000369
+
+                                                                                                                                                                                                                          
+                                                                            
+ Subboji.A
+                                                                                      
+Email: subbojiadhikari103@gmail.com						 Ph (mobile) : +91-8977494103.
+  
+
+Summary:
+
+· Having around 3+ years of IT experience in developing the web Applications in Java, J2EE Technologies.
+· Technical expertise in all phases of Software Development Life Cycle using J2EE Technologies: Java, JDBC, Servlets, JSP, Spring, Hibernate.
+· Experience in the development of web applications adopting Spring MVC Framework.
+· Experience in the development of web applications adopting ORM Framework Hibernate.
+· Having knowledge on Restful Service (JAX-RS API).
+· Worked on Relational Database Management Systems as Oracle.
+· Good Implementation Knowledge in Design Patterns like Strategy, Singleton, DAO and Factory. 
+· Experience in using Integrated Development Environment tools  like Eclipse, STS.
+·  Hands on experience on repositories such as  Tortoise SVN.
+· Expertise on writing unit test cases using JUnit .
+· Experience on deploying the applications in the Web/Application servers Tomcat Server.
+· Effectively communicate with all team members and with the management team.
+·  Ability to organize, motivate others through leadership and a positive outlook.
+Professional Experience:
+· Currently Working at Vayana India Pvt Ltd, Chennai.
+· Worked as a Software Engineer for Prodapt Solutions Pvt (Ltd).
+Educational Qualification:
+· Master of Computer Application (MCA) From JNTUK. 
+Technical Expertise:
+Languages			:	 JAVA/J2EE.
+Java technologies		:	 Core Java, J2EE, Jsp, Servlets and Jdbc.
+Frameworks		        	:	 Spring.  
+ORM Tools			:	 Hibernate.
+Databases			:	 Oracle.	
+            IDE			            :	 Eclipse
+            Web/Application Server       :	 Apache Tomcat.
+	Tools			       	:              Junit, SVN, Log4J	 
+
+PROJECT EXPERIENCE: 
+Project #2
+Project	  :	 IIMS
+Client		  :	 Cass Information Systems, USA
+Role		  :  	 Developer.
+Environment    :         Java, JSP, Spring, Hibernate, Tomcat, Oracle 10g.      
+                                           
+Project Description: 
+
+        Invoice Manager is a simple online invoice billing software and invoice creator that automates online invoicing and assists you in the billing process. Invoice Manager is a flexible and customizable online invoice billing software.
+Invoice Manager can create an unlimited number of invoices, manage recurring invoices, email invoices to clients, print invoices and create invoice templates. Keep clients data up to date with a complete client profile at hand.
+
+Roles and Responsibilities:
+· We strictly followed MVC architecture for the Application.
+· Developed JSP pages for front-end screens.
+· Involved in Business logic as per Client Requirement.
+· Used various Design Pattern for the Application like Singleton.
+· Write  Junit Test Cases for Unit Testing purpose.
+
+Project:#1
+Project		: 	ADP Online Dealer Services.
+Client			:	ADP Dealer Services , USA
+Role			:  	Developer.
+Environment   	: 	JDK 1.5, Java, JSP, Spring Ioc, Hibernate 3.0, Oracle 10g.                             
+
+
+Project Description :
+
+ ADP online dealer services is a web application provides different services and flexibility to different customers deals ADP dealers and front office team. Dealers can also call to ADP dealers front office can give the orders by providing some information. Involved in development of quoting applications for Front Office Solutions Project. Primarily Responsible for the development application that serves Automobile dealers. Application caters to different facets of the vehicle buying process – Inventory Management, CRM, Quoting & F&I.
+
+Roles and Responsibilities:
+
+· We strictly followed MVC2 architecture for the Application.
+· Developed JSP pages for front-end screens and validations.
+· Involved in Business logic as per Client Requirement.
+·  Developing action class and Form Bean classes.
+· Used various Design Pattern for the Application like Singleton, Factory.
+· Write Junit Test Cases for Unit Testing purpose.
+
+

@@ -1,0 +1,375 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DHAKSHNA MOORTHY
+
+ANDREWS SAMSON
++91 8012115532
+ sandrews.roy3@gmail.com
+Carrier Objective
+
+Senior Software Engineer with a keen desire to be successful. My Career objective is to get into the fast track world and compete with the best. Seeking a position to utilize my skills and abilities in the computer industries that offer professional growth while being resourceful, innovative and flexible.
+Experience
+
+
+Accenture Technology Private Limited – Application Development Senior Analyst - Sitecore MVC, Angular JS with 2years experience. Overall 5 Years 2 Month experience in DOTNET ASP .NET MVC 
+Project Details:
+Client/Company: Hearing AID Manufacturer Product
+Project: Hearing Device Sitecore site
+Project Description:
+
+· Sitecore template, layout, content creation.
+
+· Performed task related to jQuery and copy content component.
+
+· Appointment for patient’s calendar components 
+· Communicating with client for daily task.
+
+· Followed work flow for task’s.
+
+Client/Company: US based Health care client
+Project: Customer Portal
+
+Project Description:
+
+· Created templates, Sitecore items and reusable components.
+· The Authentication related details handled through SQL Server database.
+
+· We used Angular JS AJAX call for MVC Controller action call.
+· Communicating with onshore Team for FSD, TDD, Code review and integration service. 
+Previous Experience
+iHorse Technologies Pondicherry – Senior Developer – ASP .Net MVC with 3 years and 1 month.
+Software Proficiency
+Languages
+
+
+:
+C#.
+Operating Systems
+:
+Windows 2000, Windows 7, Windows 8 & 8.1.
+Web Designing
+
+:
+HTML, JSON, XML, JQuery, CSS.
+
+Databases tools
+
+:
+MS Access, Microsoft SQL Server 2008, Azure 
+
+SQL Server 2012.
+Frameworks
+
+
+:
+Dot Net Frameworks 4.0, 4.5.1, Entity 
+Frameworks 5 and MVC4.
+Share point
+
+
+:
+MS Share point.
+SDK's
+
+:
+Windows Phone SDK 8.0 and 8.1, Bing Map, 
+
+Crittercism, Google Analytics, Rate My App and Social networks.
+File server
+
+:
+Vex
+
+Educational Qualification
+· Master of Computer Applications (St. Josephs College of Arts and Science), 74%
+
+· Bachelor of Computer Science (St. Josephs College of Arts and Science), 55%
+
+· Higher Secondary Education (State Board of Tamil Nadu), 59% 
+
+· Secondary Education (State Board of Tamil Nadu), 73%
+Personal Skills
+· Comprehensive problem solving abilities
+
+· Excellent verbal and written communication skills
+
+· Ability to deal with people diplomatically
+
+· Willingness to learn team facilitator hard worker
+
+Project Profile
+Cozumo
+
+Environment
+: Visual studio 2012 with Asp .Net MVC 4.0, Windows Azure Cloud 
+
+
+   Web API, Windows Azure SQL.
+Role
+
+
+: Team Member
+Team size
+
+: 20
+Duration
+
+: 14 months
+Description
+
+: The public Cozumo API allows Value-Added Resellers (VARs) to implement and manage Networks of Interceptors. VARs and the customers of VARs can have separate accounts to control network access. The private Cozumo API is used for direct communication with Interceptor devices. The Interceptor sends the complete scanned string to the Cozumo API. Cozumo API receives a scanned Dynamic Code; it retrieves the matching Dynamic Code record.
+
+Roles and Responsibilities:
+
+Create Web API services in Web API Controller.
+
+Create User Interface in MVC View.
+
+Used EDM to connect to the database using the SQL Server.
+
+Tracking the bugs using Fiddler.
+
+Create Stored Procedures and functions in MS SQL Server 2012.
+PadWorx Digital Media Inc. TNLA-CMS
+
+Environment
+: Visual studio 2012 with Asp .Net MVC 4.0, Windows Azure SQL.
+Role
+
+
+: Team Member
+Team size
+
+: 6
+Duration
+
+: 8 months
+Description
+
+: The purpose of the TNLA-CMS is to provide a secure, consolidated database for there’s Nothing like Australia app content. It will provide both PadWorx and Tourism Australia Personnel, and any third-party designates as applicable, the ability to add, modify and remove content directly to and from the app’s content database.
+
+Roles and responsibilities: 
+Creating Asp .Net MVC 4 Web API Controller.
+
+Create User Interface in MVC View.
+
+Used EDM to connect to the database using the SQL Server.
+
+Tracking the bugs using Fiddler.
+
+Create Stored Procedures and functions in MS SQL Server 2012.
+Nursing Home
+
+Environment
+: Visual studio 2013 with Asp .Net MVC 4.0 WEB API, ORACLE 11 G, ORACLE 9i.
+Role
+
+
+: Tech Lead
+Team size
+
+: 6
+Duration
+
+: 3 months
+Description
+
+: Create API Nursing Home project and also web project using Asp. Net with html5, JQUERY, css3.
+
+Roles and responsibilities: 
+Create the API architecture for NH project.
+
+Creating Asp .net MVC 4 Web API Controller with HTTP response message as return type
+
+(JSON).
+
+Using ODBC driver to connect ORACLE Data Base 11 g and 9i
+
+Tracking the bugs using Advance Rest Client.
+
+Create web project using HTML 5, css3, JQUERY. Access the API using ajax method.
+
+Hosting the API and web in to IIS server both (local and client machine)
+
+Long Pen Signature System
+Environment: Visual studio 2012 with WCF REST Service, Share Point Server and VEX Server with IIS Hosting.
+Role
+
+: Senior developer
+Team size
+: 3
+Duration
+: 6 months 
+Description
+: An online and offline banking documentation maintenance system. Application allows end customer to make correction on given PDF and sign on the document. Our part is writing code for WCF Rest Service for communication for IPhone PDF file signature operation. using this service getting files from share-point site, from i phone doing some changes in PDF document that will converted as JSON data return back to service we have to store and get back from share-point.
+SRP 
+
+Environment
+: Windows Universal App and TFS for source code management.
+Role
+
+
+: Senior developer & Tech Lead
+Team size
+
+: 6
+
+Duration
+
+: 6 months
+Description
+
+: It is an online shopping application for clothes, cosmetics and 
+   household items.
+Responsibilities: 
+UI integration 
+
+Implement of functionality through C# and XAML coding.
+Develop application code and modules for business and technical requirements.
+
+Resolve and troubleshoot problems and complex issues.
+
+Project delivery to client.
+Personal Profile
+Name 
+
+
+
+
+: Andrews S
+
+Father’s name
+
+
+: Samson A
+
+Mobile number
+
+
+: 8012115532
+Linked in
+
+
+
+: https://www.linkedin.com/in/andrews1142
+Date of birth 
+
+
+
+: 5 – Jun - 1987
+
+Gender
+
+
+
+: Male
+
+Nationality 
+
+
+
+: Indian
+
+Passport number
+
+
+: M3772515
+Date of Expiry
+
+
+: 27/11/2024
+Marital status
+
+
+
+: Married
+Strengths 
+
+
+
+: Hard working, Team player, Critical bug fixing.
+
+
+Hobbies
+
+
+
+: Playing Table Tennis, Computer game playing.
+Languages known
+
+
+: Tamil, English [speak, read & write], Telugu.
+Address for Communication
+
+: 125, West Street,
+
+
+
+
+
+
+PanikkanKuppam (P.O), Panruti T.K,
+
+
+
+
+
+
+Cuddalore D.T.
+
+
+
+
+
+
+PIN: 607106
+Declaration
+
+ 
+I hereby declare that the above details furnished by me are true to my knowledge and I bear the responsibility for the same.
+
+Place
+: Chennai

@@ -1,0 +1,243 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ayyanar.V 
+
+Email- vinr87@gmail.com
+Mobile- +91 99726 82102
+
+CAREER OBJECTIVE
+
+To contribute my best with utmost sincerity to aid in the growth of a very reputed organization which encourages and motivates me to learn more and exhibit my skills and abilities
+
+PROFILE ABSTRACT 
+
+· 8+ years of experience in the area of firmware testing(Manual & Automation) with solid understanding of test planning, test design, test execution and defect reporting & tracking
+· Currently working in Hewlett Packard Enterprise, Bangalore 
+
+· Proficient experience with UEFI BIOS and IPMI (BMC) validation
+· Hands on experience with PYTHON and PERL programming
+
+· Willingness to learn new technologies and easily adapt to new environment
+
+· Self-driven individual and a highly motivated team player
+· Good working knowledge in software development cycle and Agile methodologies
+
+WORK EXPERIENCE
+	Organization
+	Hewlett Packard Enterprise, Bangalore
+
+	Duration
+	3 years and 3 months(Aug2014 to till date)
+
+	Designation
+	Software Engineer II
+
+
+	Organization
+	American Megatrends Private Ltd, Chennai and Cisco Bangalore (Client)
+
+	Duration
+	4 years and 11 months(Sep 2009 to July 2014)
+
+	Designation
+	Senior System Test Engineer
+
+
+EDUCATIONAL BACKGROUND
+	Degree
+	College
+	Percentage
+	Year of passed out
+
+	MCA
+	SRM Valliammai Engineering College, Chennai
+	80.4
+	2009
+
+
+SKILL SETS
+
+	Platform
+	WINDOWS 2012, RHEL, SLES 11, VMware
+
+	Scripting Languages
+	Shell script, Java script, PERL, PYTHON
+
+	Technologies
+	IPMI, CIM, UEFI BIOS, PCI, ACPI, SMBIOS
+
+	Testing Tools
+	RAS Tool, PTU, Memtest86, ITP, Beast
+
+	Automation Framework
+	CTI(Perl), FTF(Python)
+
+	Test Management Tools
+	Rally, CDETS, AMI-TestTracker
+
+
+PROJECT EXPERIENCE
+	Project #1
+	BIOS Validation for Superdome X and FLEX
+
+	Operating System
+	Linux(RHEL, SLES), Windows2012
+
+	Technologies
+	UEFI BIOS
+
+	Role
+	UEFI Automation Test Engineer
+
+	Duration
+	Aug 2014 to till date
+
+
+DESCRIPTION
+HPE Integrity Superdome X & FLEX is ideal for the most demanding and critical business processing and decision support enterprise workloads.
+ROLES & RESPONSIBILITIES
+· Identified test cases to automate and automate those test cases using python scripts. These scripts were used for sanity and regression testing each build on Jenkins server.
+
+· Contributed in framework creation and development
+· Validated modules such as, Boot order, PCI, Memory, and Processor, various ports, SMBIOS table, ACPI, USB.
+· Extensively performed manual and automated testing process to ensure stability in the firmware
+
+· Responsible for planning, designing, and implementing test automation for customized firmware
+
+·  Interacted with developers for bug fixes and problem resolution
+· Executed nightly testing and report development team for their sanity testing
+	Project #2
+	AMI Aptio IV & V BIOS
+
+	Client 
+	CISCO Bangalore
+
+	Technologies
+	UEFI BIOS
+
+	Role
+	Quality Analyst
+
+	Duration
+	Dec 2011 to May 2014
+
+
+DESCRIPTION
+The Cisco UCS C220 M3 Rack Server and UCS C240 M3 Rack Server are designed for performance and density over a wide range of business workloads, from web serving to distributed database. 
+ROLES & RESPONSIBILITIES
+· Validated all modules such as, Boot order, DTM, PCI, Memory, Processor, various ports, SMBIOS table, USB, TPM, Memory RAS, SAN boot with EMC Clarion & Cisco N5K
+· Performed Sanity, Integration, Regression and Stress testing on the firmware
+· Extensively performed manual testing process to ensure stability in the firmware
+· Interacted with developers for bug fixes and problem resolution
+	Project #3
+	BMC Eval Board Testing
+
+	Operating System
+	Linux, Windows
+
+	Technologies
+	IPMI, CIM 
+
+	Role
+	Firmware Tester
+
+	Duration
+	17 months
+
+
+DESCRIPTION
+
+
+Intelligent Platform Management Interface, or IPMI, a widely used technology for entry-level and midrange server management. IPMI provides health monitoring of hardware components such as fans, temperatures and the like, as well as OS-independent access to the server via the system’s existing LAN connection for accessing system information, generating alerts and implementing power on/off, reset and cycle operations from a remote text console. 
+ROLES & RESPONSIBILITIES
+· Validate all the features using GUI, KVM/vMedia, IPMI2.0, SNMP and CIM
+· Performed Sanity, Integration, Regression and Stress testing on the firmware
+· Extensively performed manual testing process to ensure stability in the firmware
+· Interacted with developers for bug fixes and problem resolution
+· Hands on experience in writing test plan and test cases 
+· Handling multiple assignments simultaneously
+ACHIEVEMENTS
+
+· Have been recognized from Section Managers & Directors
+· 2nd Topper in Graduation
+
+· 3rd topper in HSC 
+
+· Got 1st mark in HSC mathematics
+STRENGTHS
+· Systematic & confident
+· Good Team Player & Mentor
+· Good Communication skill
+
+COMMUNICATION ADDRESS
+1044-2nd Floor, 
+
+D-Block, 2nd Cross Street, 
+
+AECS Layout, Kundanahalli, 
+
+Bangalore, Karnataka,
+INDIA – 560 037.
+
+I hereby declare that the information furnished above is true to the best of my knowledge and belief.
+Place – Bangalore
+
+
+
+
+
+
+
+Yours Sincerely,
+Date – 17/11/2017
+
+
+
+
+
+
+
+V.Ayyanar

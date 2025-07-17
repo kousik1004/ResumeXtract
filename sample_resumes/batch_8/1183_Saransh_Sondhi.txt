@@ -1,0 +1,257 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Saransh Sondhi
+Wipro Technologies
+Tel: +918802694146
+Email: sam_saransh@live.com
+
+	
+
+
+
+Overview
+
+My career highlights my expertise in Design, Development, Implementation and Testing in the field of Identity & Access Management. I have been a part of the development and testing team in which I have done several security implementations by integrating the Applications with Identity & Access Management Suite i.e. Oracle IAM Suite thereafter doing the end to end testing for all the integrated applications. I have always adhered to the IAM best practices. Did Open LDAP implementation for an open source IDAM product.
+Technical Proficiency:
+
+Languages                            SQL, Core Java
+Web Technologies               HTML, XML
+Operating Systems              Windows 98/2000/XP/7/10, Solaris, Oracle Enterprise Linux Server
+                                              Ubuntu, RHEL
+Database                              Oracle 9i/10g/11g
+IAM                                      OID 10g/11g, 
+                                              OIM 9i/10g/11gR2PS2/11R2PS3, 
+                                              OAM 10g/11gR2 and 
+                                 Oracle Single Sign On, 
+
+                                 Sail Point Identity IQ 7.0 and 7.1
+
+                                 RSA Authentication Manager Overview
+Application Server              WebLogic 8.0/10.3.6.0
+Web Server                          Apache, Oracle HTTP Server
+
+LDAP                                    Open LDAP on Ubuntu and RHEL
+Assignments Handled:
+Project                                  Identity and Access Management (Transformation)
+Role                                       Software Engineer
+Duration                               May 2014 – Till Present
+Description                           The IDAM Internal project is part of the transformation initiative to have 
+
+                                               an enterprise level framework for managing user identity and access of  
+
+                                               Organization applications and data. This project enforces centralized  
+
+                                               authentication and policy-based access and administration of internal 
+                                               applications and data.
+Responsibilities:
+· Installation of OAM 11gR1 in clustered environment.
+
+· Installation of Oracle Web gates 10g and 11g.
+
+· Integration of Java based applications with Oracle Access Manager 11gR1.
+
+· Integration of Oracle E-Business suite with OAM 11gR1.
+
+· Integration of BI Publisher with OAM 11gR1.
+
+· Enabling auditing and reporting in Oracle Access Manager 11gR1.
+
+· Configuration of Policies, host identifiers, cookies and plugins in OAM 11g.
+
+· Creation of SSO login page as per OAM 11g standards.
+
+· SSL enablement in OAM 11g.
+
+· Installation of OIM 11gR2PS2/PS3.
+
+· Installation and configuration of OID connector.
+
+· Developing workflows in OIM 11gR2PS2/PS3.
+
+· Onboarding and provisioning of identities using EBiz connector 9.1.0.7.
+Project                                   Open LDAP on RHEL and Ubuntu for Open source IDAM
+Role                                        Software Engineer
+
+Duration                                Dec 2016 – March 2017 
+Description                            The project scope primarily aimed to make an open source product 
+                                                that can be used for Identity and access management i.e. User 
+
+                                                provisioning and SSO. Open LDAP needs to be implemented for faster 
+
+                                                indexing, searching and sorting from Database. I was responsible for 
+
+                                                design, architecting and deployment of the LDAP repository.
+Responsibilities:
+· Advise, design, implement and deploy the solution
+
+· Gather requirements for the project and plan for complete project life cycle
+
+· Effort Estimation for LDAP repository
+
+· Implemented virtualization in the test lab to make the maximum use of the resources bringing cost efficiency.
+
+· Evaluated server sizing tools and proactive monitoring tools for monitoring the LDAP environment.
+
+· Configured Replication and implemented backup strategies.
+
+· Respond to the changes received from the change management team and ensure that the details provided by the request is complete and correct. Execute the change in the step by step process, as given in the implementation plan and close the change after successful completion.
+
+· Fine tuning of Directory environment to receive highest read & write throughput
+
+· Provided support to QA and Production team for issues related to the LDAP environment
+
+Project                                   Identity and Access Management (Operations & Maintenance)
+Role                                        Project Engineer
+Duration                                Nov 2013 till April 2014 
+Description                            The IDAM Internal project is part of the operations initiative to have 
+
+                                                an enterprise level framework for managing user identity and access of  
+
+                                                organization applications and data. This project enforces centralized  
+
+                                                authentication and policy-based access and administration of internal 
+                                                applications and data.
+
+Responsibilities:
+· Involved in initial phase of requirement gathering.
+
+· Involved in preparation of Technical Design Document and Functional Design Document for OIM and OAM.
+
+· Developing adapters to facilitate the workflow execution.
+
+· Developing scheduled tasks to achieve notification and reconciliation functionality.
+· POC for migration from OIM 9.1.0.0 setup to OIM 9.1.0.2.
+
+· Integration of the applications with OAM to regulate the centralized access for all the users.
+
+· Configuration of Access Gates, Host Identifiers and linking Access Gates to the Access server profiles in the Access System console which was a part of the integration.
+
+· Configuration of Policies in the Policy Manager which was responsible for handling the Authentication & Authorization, again as a apart of the integration.
+· Installed IDM suite (11.1.2.2.0).
+
+· Integrated OIM &OAM 11g R2Ps2 with E-business.
+
+· Analyzing the Requirement and Identifying the Test Scenarios for all the applications integrated with Oracle Identity and Access Manager.
+
+· Involved in integration with IDAM with CRM, Active Directory, and Exchange Server 2007 etc.
+
+· Involved in workflow testing (two level approval workflows) for all the applications integrated with Oracle Identity and Access Manager.
+
+Training                                Sail Point Identity IQ 7.0 and 7.1
+Role                                       Software Engineer
+
+Duration                               Oct 2017 – Till Present
+Description                           IdentityIQ is a premiere identity management software that provides
+                                              complete identity and access management control to your business.
+Responsibilities:
+· Creating identities and accounts
+
+· Creating roles
+
+· Defining policies
+
+· Modeling risk
+
+· Certifying employees using access reviews
+
+· Working with Lifecycle Manager
+
+· Creating reports
+
+
+
+Achievements 
+· Worked on Project Weekly Status Reports being sent to the Customer.
+· Learnt French language as part of the BCA curriculum.
+
+· Cleared IELTS exam for English skills.
+
+· Got Letter of Appreciation from Amity University.
+Educational Background
+
+	YEAR
+	INSTITUTE/UNIVERSITY
+	DEGREE/EXAMINATION
+	DIVISION
+
+	2008
+	VV DAV Public School
+	CBSE
+	First Division
+
+	2010
+	VV DAV Public School
+	CBSE
+	First Division
+
+	2013
+	Amity University
+	BCA
+	First Division
+
+	2017
+	Bits Pilani
+	Pursuing MTech
+Completion Date: - 22 Nov 2017
+	First Division
+
+
+Personal Details:
+
+Father’s name: Sunil Sondhi
+Mother’s name: Neelam Sondhi
+Nationality: Indian
+
+Languages known: Hindi, English
+
+Hobbies:  Listening Music, Virtual Reality Games, Listening Podcasts. 
+Place:
+
+Date:                                                                                                                Saransh Sondhi
+Wipro Technologies
+

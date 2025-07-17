@@ -1,0 +1,187 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CV
+
+Govardhan N									Ph.+91-9959857197
+SAP Basis & Security Consultant				        e-mail: govardhan.n.313@gmail.com
+
+1
+
+	Summary:
+
+
+· Having 2 years of experience as SAP Security Consultant, worked on implementation and support projects.
+· Comprehensive experience with SAP Profile Generator with strong skills related to the Authorization concepts.
+· Having technical skills in processing Tickets, Users & Authorization.
+· Daily Monitoring, Troubleshooting and Support for ERP SAP R/3.
+· Performed User related actives and worked with User Groups
+· Creation Single, Derived and Composite Roles in R/3.
+· Worked on AGR_1251, AGR_1252, AGR_AGRS, AGR_USERS, AGR_DEFINE, AGR_TCODES tables.
+· Usage of SU53, SUIM to assign the missing authorizations to the users.
+· Performed system Trace by using the T-codes  ST01,STAUTHTRACE
+· Fixing of missing authorizations for a user/role through SUIM and using su53 
+· Releasing request for Roles Transport across the system Land space
+· Provided the access to the Tables through S_TABU_DIS & S_TABU_NAM object.
+· Assigned the Critical Authorization Objects to the users.
+· Users Support, Trouble shooting & providing solutions.
+· Analyzing problem messages allocated and resolving them.
+· Manage the annual security and the privacy program by following the guidelines and procedures for SAP systems.
+· Documenting SAP R/3 and GRC administration procedures.
+· Maintenance of authorization objects to transactions using su24.
+· Knowledge on HCM security (Position Based) & BI Security.
+· Worked on ChaRM tool part of SAP Basis.
+· Comfortable in large-team, small-team, or individual environment.
+· Received several appreciation emails from clients and the management.
+· Comfortable with quick pace of change with a passion of learning and flexibility to adapt to changes.
+	Technical Expertise
+
+	SAP
+	SAP R/3 Security
+
+	Ticketing tools
+	Remedy and HP QC
+
+
+
+
+	Education:
+
+
+
+B.Tech from JNTU A.
+
+
+	Employment Summary
+
+	Organization
+	Role
+	Period
+
+	SEAL Infotech
+	Associate Consultant
+	Dec 2015 – April 2017
+
+	SIFY Technologies Pvt Ltd
+	Digital Telecom Service
+	April 2017 to till date
+
+
+
+	
+Projects Profile:
+
+
+
+	Project #2:
+
+
+
+Client		:  e-Mudra Limited	
+Organization	:  SIFY
+Duration	:  April 2017 to till date
+
+Client: e-Mudhra (Digital signature certification) is a Certifying Authority (CA) authorized by the Controller of Certifying Authority (CCA) for issuance of Digital Signature Certificates in India. eMudhra provides Class 1, Class 2 and Class 3 Digital Signature Certificates (DSC) along with digital signatures for specific needs such as Income Tax filing, MCA, e-tendering, e-procurement and Foreign Trade.
+
+	Responsibilities:
+
+
+· Worked as Digital telecom services (DTS) Associate for phone verification on digital signature certification.
+· Being a senior member in team, involved in assigning task to the team and Giving Process training to the fresher’s.
+· Being a senior member, have taken care all issues and raise the complaint to team leader (or) manager.
+	Project #1:
+
+
+
+Client		:  Gutermann	
+Organization	:  SEAL
+Duration	:  Dec 2015 to April 2017
+Environment	:  SAP ECC6.0
+Type of Proj.	:  Implementation/Support
+
+Client: Gutermann is thread manufacturers, located across 80 countries worldwide. Innovative thread technologies arise from Gutach or have been further processed there. 
+
+	Responsibilities:
+
+
+· Create and Maintain User Roles and Authorization profiles
+· Created user groups according to country and department.
+· Managed all users according to user groups.
+· Maintained expiry dates as per company policies.
+· Worked with SUIM reports.
+· Extensively worked on various authorization issues of end users.
+· Troubleshooting with SU53 and ST01.
+· Checking Risk violations of users, using simulation and execution.
+· Assigning mitigation controls as per business policies.
+· Assigning firefighter id’s to super users.
+· Creating and managing FFID’s and FF roles.
+· Worked on ChaRM requests for Transport related requests.
+· Create, Maintain and Manage User Accounts 
+(User Administration using SU01 & SU10). 
+· Perform Authorization Error Analysis (SU53 & ST01) and perform appropriate troubleshooting.
+· Create and Monitor Background Jobs (SM36 & SM37).
+· Maintaining Users in central system by using Central User Administration (CUA).
+· Gained knowledge on Role maintains. (Role Administration using PFCG). 
+· Ability to Create Authorization Groups and Assign Tables to them for maintaining Table Security (SE54).
+· Execute appropriate Reports or Programs to check user access to SAP Systems as per given criteria at the time of Audits (SA38 & SUIM).
+· Managed and created new users, groups and profiles.
+· User Management, User Tracing and Troubleshooting.
+· Resolving missing authorization issues (su53).
+· Role design, development and assignment (PFCG, SU01).
+· Authorization checks using transaction SU24 and maintained check indicators for Transaction codes.
+· Involved in Central User Administration to manage multiple systems/clients.
+· Performed reconciliation of user master record and roles and updated the user master records regularly by running pfcg_time_dependency job.
+· Creation and Deletion of users from the central System.
+· Role administration like, modifying, deleting and assigning to users based on request.
+· Text compare of roles from the child system.
+· Troubleshooting authorization issues of end-users.

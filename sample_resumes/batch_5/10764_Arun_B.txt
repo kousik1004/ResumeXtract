@@ -1,0 +1,183 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arun B
+
+
+
+             
+Mobile - +91-9789142211
+Email – arunb3492@gmail.com
+Teradata Developer  
+
+ OBJECTIVE
+To enhance skills and experience within the heart of Data Engineering in the competitive sector.
+STRENGTH
+· Strong skills in SQL, Teradata, Datastage, Linux.
+· Experience in ETL Design and development using Teradata load utilities (BTEQ, MLOAD, FASTLOAD, FASTEXPORT, TPUMP), Datastage and Shell Scripting.
+
+· Experience in Teradata SQL performance tuning.
+· Good knowledge in Teradata basics, Joins, OLAP functions and Tools.
+· Developed Multiload jobs to load the data in staging tables from raw file.
+· Excellent grasp of data warehousing concepts.
+
+· Understanding of the principles of Data Warehousing using fact tables, dimension tables and star/snowflake schema modelling.
+
+· Involved in the development of various transformation to load the data in slowly changing dimensions
+
+· Experience with development, testing, debugging, implementation, documentation and production support.
+
+· Experience in all the phases of Project – Design, Development, UT, ST, SIT, UAT
+
+· Automation/Scheduling crontab through Linux server.
+
+· Very good understanding in Data Normalization Rules.
+
+· Hands on experience in Incident, Problem Management, Change management by using BMC Remedy Tool.
+· Hands on experience in Quality center, ALM testing tool.
+
+WORK EXPERIENCE
+	DXC Technology (CSC+HPE ES)
+	 3 years  (Aug 2015 – At Present (HP+HPE+DXC))                                                                      Data Engineer
+
+	Role & Responsibility
+	Responsible for ETL Design and Development of Wholesale Data Repository for Telstra Account (Largest Telecom Company in Australia).
+
+Data modeling, Design and development for TWM Reporting in WDR:
+
+· Incorporation of end to end designing for Cubic car Reporting using modelling sheet. Developing of end to end script for the processing of data from CDRlive source and facilitating loading of data for reporting in the PDM tables.
+· Tools: Erwin for designing, Linux shell scripting for polling, pulling and processing, Datastage for ETL, Teradata Load utilities for loading and SQL for reporting.
+WDR Performance tuning:
+
+· Identification of jobs with poor performance in data stage and converting them into BTEQ and Mload scripts with the same functional logic and having very less processing time. 
+· Tools: Linux server for running, TERADATA BTEQ and Mload.
+Other Projects Handled : 
+
+1)  NTT, NBN, CCR – End to end ETL development and Testing. 
+
+2) Developed A job to avoid the sequence missing in a TROAM files
+3) Impact analysis of existing complex ETL design and performing attribute changes as per requirements and performing data validation. 
+
+
+
+
+TECHNICAL SKILLS
+
+
+	Databases
+	Teradata (14.10) , 
+MS SQL Server [knowledgeable]
+
+	ETL Tools
+	IBM Datastage V8.5 [knowledgeable]
+
+	Programming
+	SQL , Shell Scripting
+
+	Testing
+	HP-QC
+
+	Operating Systems
+	Linux, Unix, Windows
+
+
+TRAINING CERTIFICATION
+· Trained on informatica at Hewlett Packard Global soft pvt ltd.
+· Also have good knowledge on programming languages- Linux and Shell Scripting.
+
+ ACADEMIC QUALIFICATIONS
+	Degree/Class
+	Year
+	Institution/School
+	University/Board
+	Percentage
+
+	MCA
+	2015
+	Kumaraguru college of Technology, Coimbatore.
+	Anna University
+	7.76 CGPA
+
+	BSc Computer Science
+	2012
+	Govt. Arts College, Karur
+	Bharathidasan University
+	6.68 CGPA
+
+	Higher Secondary
+	2009
+	Govt. Higher Secondary School, Unjalur
+	TN State board
+	67.08 %
+
+	Secondary
+	2007
+	Govt. High School, Salaipudur
+	TN State board
+	79.80%
+
+
+PERSONAL DETAILS 
+Father's Name
+              :    Balashanmugam R
+Marital status
+              :    Single
+
+Language Proficiency        :    English, Tamil
+Present Address                 :    Electronic City Phase-2, Bangalore
+Declaration: I hereby declare that all the above information are true and correct up to my knowledge.
+Place: Bangalore
+
+
+
+
+
+
+
+(Arun B)
+Phone: +91 9789142211 | Email: arunb3492@gmail.com  
+

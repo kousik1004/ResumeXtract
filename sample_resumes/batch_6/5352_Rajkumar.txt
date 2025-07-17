@@ -1,0 +1,374 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+S.Rajkumar
+ E-mail: rajkumar9787@gmail.com
+ Contact No: +919500239869
+
+                                     
+
+
+                    
+
+Career Objective : 
+
+
+
+
+
+
+
+
+
+
+     Aspiring to take up a dynamic position in the field of Software Development, broadening my vision in the software field and making a distinct contribution for organizational growth.
+
+Summary: 
+
+
+
+
+
+
+
+
+
+
+· 6 years professional experience in designing and development of applications using    MICROSOFT VISUAL STUDIO .NET technologies in C#.Net,Asp.Net, SQL Server.
+· Having a positive and receptive attitude towards the changes in the industry.
+
+· Self-motivated and quick learner with strong analytical, management skills, and leadership qualities.
+
+Current Position: 
+
+
+
+
+
+
+
+
+
+
+· Working  as Software Engineer for Giritechnolgies Pvt Ltd., Chennai
+           From November 14th 2011 to Present.
+
+Academic Profile: 
+
+
+
+
+
+
+
+
+
+
+· M.C.A (2011) from ARJ  College of Engineering, Anna University and secured 80%. 
+· B.C.A  (2008) from SASTRA University and secured 74%. 
+· H.S.C (2005) from Little Flower Hr Sec School, State Board, Kumbakonam  and secured 65%.
+· S.S.L.C (2003)from Little Flower Hr Sec School, State Board, Kumbakonam  and secured 70%.
+Software Skills: 
+
+
+
+
+
+
+
+
+
+
+Programming Languages 
+             : C#, ASP.Net, VB.Net
+Web Technologies
+
+             : HTML, JavaScript, Bootstrap Css
+Database
+
+
+             : SQL Server 2008, MS Access
+
+IDE
+
+
+
+            : Visual Studio 2005, 2010
+OS/Platform
+              
+             : WINDOWS XP/7
+
+Work Preferences: 
+
+
+
+
+
+
+
+
+
+
+Desired Job Type                                     : Full Time
+
+Can Travel For Work                               : Moderately
+
+Current Location                                      : Chennai
+
+Willing to Relocate                                  : Yes
+
+Have Passport                                          : Yes
+
+Notice Period                                           : 1 Month
+
+Project :1
+Project Name    
+: Online Chit Payment 
+Client 
+
+:Nac, Nathella
+
+Website             : www.nacsavings.com,www.nathellagold.com
+Duration        
+: March 2013 – Sep 2013
+Position         
+: Developer – Asp.Net Web Application
+
+Tools & Tech    : Asp.Net, Sql server
+Description:
+
+The Online Chit Payment has been developed to help Jewelers It allows Join New Customer as well as Add Existing customer to make a payment through the online.
+
+·  New customer first create online account then able join new scheme if the customer completes one transaction via payment gateway (pay one installment) they are eligible to get Register No as well as the details will send to their register  email id and phone number. 
+· Existing customer the details will be checked in the show room database and then activation key will be send to registered email id.Customer use this key to activate the account in online 
+then can pay installments through the online.
+Features:
+· Customer can login to the website to check their installments details and also give the description of each installment.
+
+· Customer can activate more scheme in online.
+
+· Multiple payment can be make in a single transaction.
+
+ Roles/Responsibility:
+
+· Worked in developing Web Forms, manual testing  of the Application.
+
+· Responsible for maintaining the database.
+
+· Responsible for creating and maintaining backend services using dot net.
+Project:2
+
+Project Name    
+: Giritech Calls 
+Client 
+
+: Giritechnologies
+
+Website             : www.giritechnlogies.com/giritechcalls
+Duration        
+: Oct 2013 – Nov 2013 
+Position         
+: Developer – Asp.Net Web Application
+
+Tools & Tech    : Asp.Net, Sql server , javascript,Windows service
+Description:
+       This web based application is used to Employee make entry in Received calls, Allotted calls, Reassign Calls, Completed calls and also Send the calls details to the higher employees via SMS using window service.
+
+Features:
+· Monitoring the employee
+
+· Allotted the work to employee
+
+· Reassign the work to employee
+
+· Maintain pending work and complete work
+
+· Current status will be automatically sent SMS to higher employees
+
+Roles/Responsibility:
+
+· Worked in developing Web Forms, manual testing of the Application.
+
+· Responsible for maintaining the database.
+
+· Responsible for creating and maintaining backend services using dot net.
+Project:3
+Project Name                     : Akshaya Savings
+
+Environment                      : VB .NET, SQL Server 2008
+
+Organization                      : GiriTechnologies Pvt Ltd., Chennai
+Duration        
+                : June 2013 – Nov 2015 
+Position         
+                : Developer – Vb.Net Window Application
+
+Description:      
+
+ This window based Application is designed to maintain Jewelry Savings Management system. This Application is mainly used to handle New Member Entry, Monthly Entry based on fixed installment amount as well as variable installment amount. Accordingly, it accumulates either rupees or gold weight to the Savings accounts of the account holder. 
+
+The Administrator Module has privileges to maintain all Administrative Information such as creation of new Company, creation of new Employee and Users of the Application.
+
+This application supplies extra Module of Creating Branches and maintaining the branches in one place by using the concept of synchronization.
+
+Features:
+
+· Quick billing
+
+· Synchronization
+
+· Provides Security Policies
+
+· Easy to view customer payment details using reports
+
+Roles/Responsibilities:
+
+· Understood the business requirement and developed functional specification
+
+· Responsible for creating  Tables and Stored Procedures for required task using SQL Server 2008
+· Supporting the application for support team when required.
+Project:4
+Project Name                     : Akshaya Retail Jewellery
+
+Environment                      : VB .NET, SQL Server 2008
+
+Organization                      : GiriTechnologies Pvt Ltd., Chennai
+
+Duration        
+                : Nov 2015 – Till Date
+
+Position         
+                : Developer – Vb.Net Window Application
+
+Description:      
+ This window based Application is designed to ease an Inventory Management system and Accounting system. This Application is mainly used to Stock Maintenance and  billing purpose, file taxes and  all the activities. 
+The Administrator Module has privileges to maintain all Administrative Information such as creation of new Company, creation of new Employee and Users of the Application.
+
+This application supplies extra Module of Creating Branches and Maintaining the branches in one place by using the concept of synchronization.
+
+Features:
+
+· Quick billing
+
+· Synchronization
+
+· Highly secured. Role based authorization levels to control to access modules/sub modules for enforcing data security.
+
+· Easy to maintain sales, stock ,purchase, sales return using report 
+
+Roles/Responsibilities: 
+
+· Understood the business requirement and developed functional specification
+
+· Responsible for creating Tables and Stored Procedures for required task using SQL Server 2008
+· Supporting the application for support team when required.
+Personal Details: 
+
+
+
+
+
+
+
+
+
+
+Father’s Name
+
+Subramanian.S
+
+Date of Birth
+
+09-07-1987
+
+Gender
+
+
+Male
+
+Permanent Address
+1/42,Agraharam,
+
+
+
+
+Visaloor,Kumbakonam 612402.
+
+Pen Picture: 
+
+
+
+
+
+
+
+
+
+
+With good analytical ability, problem solving and communication skills, I look forward towards a progressive and challenging work in your reputed organization. I am a hard-working person with sincerity. My strengths are self-confidence, punctuality and discipline. Ability to work as a team player. I constantly drive for excellence.
+
+Declaration: 
+
+
+
+
+
+
+
+
+
+
+         I hereby declare that the information furnished above is correct and true to the best of my knowledge.
+
+Place:Chennai
+Date:11/12/2017 
+
+
+
+                                                  Rajkumar.S
+
+PAGE  
+

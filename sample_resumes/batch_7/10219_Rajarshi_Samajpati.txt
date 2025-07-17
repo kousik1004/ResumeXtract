@@ -1,0 +1,302 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rajarshi
+
+Rajarshi Samajpati
+Technical Services Specialist
+raj4rd@gmail.com   
++91 9036226141 | +91 8122344205
+
+Professional Summary
+
+IBM certified "System p Administrator" over 7.6 years of experience in UNIX & AIX system p administration along with Storage/Backup SAP BI/BW, basic Shell scripting & Quality Assurance in IBM India Pvt. Ltd. looking for opportunity to excel in a challenging environment through hard work and constant learning.
+Certifications
+
+	
+	  Completed the AIX 5L V5.3 & 7.1 System p administrator certification from IBM.
+
+
+Educational qualifications
+· B.TECH from Bharath University, Chennai in the year 2008.
+· XII from The Central Modern School, Kolkata in the year 2004.
+· X from Julien Day School, Kolkata in the year 2002.
+Technical Skills
+Operating Systems: IBM AIX, UNIX & Linux (basics)
+Other Tools and Utilities: SAP BI/BW 7.0 & TSM (Basics), UNIX Shell Scripting
+Networking: Basics and Advance
+Hardware: Basics and concept on computer peripheral parts and assembling system
+Employment History:
+
+Technical Services Specialist, IBM India Pvt. Ltd.
+
+
+September 2015 – Till Date
+
+
+Client: Kaiser Permanente, U.S.A
+
+
+Kaiser Permanente is mostly known as KP in short and it is USA’s third largest health insurance cum hospital services and as well as pharmaceutical company which is comprised of these 3 entities and its Infrastructure is vast where more than 5000 AIX servers, 2000 Linux servers, and around 700+ Solaris servers comprised of the total Unix servers count which IBM is managing E2E support and maintenance, build and life cycle management.
+· Handling p-Series Frame and Machines of different models & hardware.
+· Frame migration and hardware migration from Power7 to Power7+.
+· DLPAR, LPAR activities online/offline.
+· HMC and VIOS upgrade in dual mode setup.
+· Securities & patch management as per UNIX guidelines.
+· Coordinating with IBM C.E. for physical and hardware related issues in DC.
+· Supporting for project as well as BAU for frame related activities.
+· Enhancement of Power processors and hardware as per IBM and KP agreement.
+
+· Decommissioning of old frames and rolling them out of DC as per contract.
+
+· Coordinating with the onsite team for support/understanding the activities.
+· Working and helping the new joiners and guiding them to work individually.
+
+· Coordinating with other Incident and BAU Unix teams within KP team.
+
+· Implementing and writing change plans and steps for various changes.
+
+· Attending meetings and huddles with Manager and SME’s to deliver the project work and urgent requirements.
+
+· Attending Change Management & Major Incident meetings.
+· Writing RCA and PBI involved in major outages and in critical impact.
+
+· Well versed with ITIL process and Lean process and also GDF model in IBM.  
+Specialist (B2), Wipro Technologies
+
+
+April 2014 – August 2015
+
+Client: Citi Bank N.A., Singapore
+
+· Handling p-Series Frame and Machines of different models & hardware.
+· Frame migration and hardware migration from Power7 to Power7+.
+· Remediation of VIO servers and HMC and maintenance.
+· VTM patching for VIO servers (online & offline).
+· Project initiation and build activity for different sectors in CITI.
+· Supporting L2 teams for higher level resolution related VIOS & HMCs.
+· Decommissioning of old frames and servers as per CITI’s contract with IBM.
+· Coordinating with vendor (IBM) for physical and hardware related issues in DC.
+· Enhancement of Power processors and hardware as per CATE.
+· Provisioning and designing for client server as per project requirement.
+· DLPAR, LPAR activities online/offline.
+· Securities & patch management as per UNIX guidelines.
+· Attending Change Management & Major Incident meetings.
+· Supporting for project as well as BAU for frame related activities.
+· Firmware update & up-gradation.
+· HMC and VIOS upgrade in dual mode setup.
+· Working with HMC both CLI and GUI modes.
+· Coordinating with the onsite team for support/model activities.
+· Well versed with ITIL process and Lean process.
+Software Engineer G3, Hexaware Technologies
+
+
+October 2012 – April 2014
+
+Client: Citi Bank / AIG
+· AIX/UNIX & Linux server maintenance along with build activity of new server and decommissioning of old servers.
+
+· Taking back-up of applications through TSM and Veeam backup tools.
+
+· Supporting the project teams for internal upgrade for their apps.
+· Installing different packages and rpm for the servers.
+
+· Creating filesystems and other LVM activities.
+
+· Providing technology solution for better enhancement to the clients.
+
+· Performing changes related to the project upgrade & migration activities.
+
+· Attending client calls and meetings to meet the project requirement.
+
+· Working on the hardware enhancement and fixing respective issues.
+· LPAR & DLPAR activities.
+Associate Consultant, Capgemini India Pvt. Ltd (FS)
+April 2012 – October 2012 
+
+Client: Scope International (Standard Chartered Bank)
+
+Project 1: 
+SCB Private Banking & Global Payments
+Duration:
+April 2012 to October 2012
+• Unix/AIX server maintenance along with building new server and Decommissioning old server having all major applications and software running on the boxes.
+· Taking Application backup and DB backup and restoration also for multiple environments in Temenos T24 application Non SAP environment.
+
+· Performance Tuning and house-keeping activities for the project servers.
+
+· Successfully hand over the project and document to client for their support.
+System Admin, (L2), WDC Pvt. Ltd.  July 2009-September 2011
+   Client Supported:
+IBM India Pvt. Ltd (GTS-SD)
+
+Project 1:
+ABN-AMRO BANK (Netherlands)
+
+Duration:
+September 2010 till September 2011
+
+Roles & Responsibility:
+
+· Day to day System and Performance Administration.
+
+· LPAR & DLPAR activity from HMC
+· Scheduling jobs using ‘cron’ and ‘at’.
+
+· Building & Decommissioning the servers
+· Installing Software and packages.
+
+· OS Migration
+· D.C.A activities for C.I.R.A.T.S. and Security Focus.
+
+· Performing Change Activities on Servers.
+
+· Performing and taking roles in DR activity with senior resources.
+· Working and Troubleshooting Tickets on various issues.
+
+· Managing LVMs & Working on them.
+· Documentation of SAND Checklist.
+· Manual Health Checking for Servers.
+
+· Installing T.L.M and upgrading them to latest level.
+
+· Working on the cluster and HACMP servers as per requirement.
+· Basic performing task on the VIO servers.
+· Capacity and Performance Management reporting for servers
+
+· Taking backups and restoring them using native tool as well as 3rd party tools
+
+· Working as QA for Problem and Change Management.
+
+· Performing internal Project works as per client request.
+Project 2:
+i] Pearson & ii] Service Master (Pool project)
+Duration:
+March 2010 to August 2010
+
+Roles & Responsibility:
+
+· Day to day System and Performance Administration.
+
+· Monitoring File system activities.
+· User administration tasks.
+
+· Installing Software and packages.
+
+· Security and permissions in files and directories.
+
+· D.C.A activities for C.I.R.A.T.S. and Security Focus.
+
+· Performing Change Activities on Servers.
+· Working and Troubleshooting Tickets on various issues.
+
+· Managing LVMs.
+
+· Upgrading and Patching APARs and PTFs for security purpose.
+
+· Worked on performing changes for Solaris under supervision.
+
+· Manual Health Checking for Servers.
+· Working on the cluster and HACMP under senior supervision
+· Working with the HMC both CUI and GUI mode.
+· Managing Paging Space activity.
+· Working as QA for Problem and Change Management.
+Project 3:
+i) Realogy Corp. & ii) Target (shared resource)
+Duration:
+July 2009 to March 2010
+
+Roles & Responsibility:
+
+· Day to day System and Performance Administration.
+
+· Monitoring File system activities.
+· User administration tasks.
+· Security and permissions in files and directories.
+· Working and Troubleshooting Tickets on L1 issues.
+
+· Managing LVMs.
+
+· Upgrading and Patching APARs and PTFs for security purpose.
+
+· Worked on performing changes for Solaris under supervision.
+
+· Manual Health Checking for Servers.
+Technical Training
+· Completed Infrastructure Management System training on Networking, Windows 2003- Server Edition, AIX and TSM from Doli System Pvt. Ltd as a Management Trainee for 8 months.
+· Has completed and undergone SAP training and programming in ABAP module R/3 and also SAP BI/BW 7.0
+Personal Details
+Name
+
+ :    Rajarshi Samajpati.
+
+Date of Birth   
+ :    06-12-1985.
+
+Address          
+ :    House No. – 50, Flat – 4B, Rainbow Residency
+
+
+      5th Cross, SGR Dental College Road, Munnekolala
+                                 Marthahalli, Bangalore 560037
+Marital Status   
+:     Single.
+Passport 
+ :     F7529931.
+
+Pan Card
+ :      AODPR4518R
+References:
+References, professional as well as academic will be furnished on request.
+Declaration:
+I HERE BY DECLARE THAT THE INFORMATION GIVEN ABOVE IS TRUE TO THE BEST OF MY KNOWLEDGE.
+
+
+
+
+                                                      Rajarshi Samajpati
+
+Place: 
+Date: 
+PAGE  
+1
+

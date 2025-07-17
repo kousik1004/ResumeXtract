@@ -1,0 +1,222 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meher - BW Resume
+
+
+Suchismita Roy
+ SAP CRM Consultant
+
+
+
+E-mail :  suchismitaroy91@gmail.com
+Mobile: +91-8334909900
+
+To become a contributing person, in an organization for its success, by applying the best business practices through innovative solutions and constantly updating my skills.
+Experience Summary:  
+
+
+
+I have total of 4 years of experience in IT industry as SAP CRM Consultant.
+Current Company: Capgemini India 
+Technical Skills:
+ CRM Web UI - SAP CRM 6.0 ,SAP CRM 7.0 SAP CRM 7.3
+· CRM UI framework (MVC Architecture).
+
+· Custom UI Component creation and UI Component Enhancement.
+
+· Creating Views, Viewsets, Overview Pages, Search Pages.
+
+
+· Developing and modifying Business roles, Defining Navigation Bar Profiles and Transaction Launcher for launching web links. 
+· Navigation links, inbound and outbound plugs. 
+
+· Navigating to a standard component using navigation descriptor.
+
+· Data binding using custom and component controllers.
+· OOPS ABAP and Concepts of OOPS.
+
+· Creating Custom Search Object
+· View the definitions of the objects by GENIL_MODEL_BROWSER.
+
+· View the data of the objects by GENIL_BOL_BROWSER. 
+· Understanding of Genil and BOL Programming.
+· Building Search View and Search Result 
+
+· Navigate from Search Result View to Detailed View 
+· Creating Web UI-BSP Application as per Client Requirement and adding the GenIL model Component set.
+
+· Creating BSP Enhancement set and assigned to client and Enhancing BSP Applications to Enhancement Set.
+
+· Role Configuration key.
+
+· AET (Application Enhancement Tool).
+· Popups with custom buttons, standard buttons,
+
+· Mapping
+Work Experience:
+
+.
+
+· Working as SAP CRM Consultant in Kolkata from June 2013 to till date.
+· I have worked on two implementation project.
+
+.Academic Qualifications:
+
+· B.Tech in Information Technology from B.P.Poddar Institute of Management and Technology
+Project Details:     
+
+
+	Project #1
+	Ericsson 
+
+	Environment
+
+
+	SAP CRM 7.0
+
+	Type 
+	Implementation
+
+
+Client Description:
+                   Ericsson uses innovation to empower people, business and society. Its mobile and fixed networks, multimedia solutions and telecom services make a real difference to people's lives, and the world we live in. Ericsson is implementing SAP CRM for its client T-MOBILE to handle CSR operations.
+Role – SAP CRM WEBUI developer
+Responsibilities and Contributions:
+
+· Involved in handling visibility of different buttons and checkboxes based on permissions of users involved
+
+· Involved in mapping process
+
+· Design of UI pages
+
+·  Involved in Code Review process.
+
+· Involved in functional specification document reviewing process.
+
+· Creating unit test document.
+· Loading of Different Configuration according to business role by which the user has entered. 
+
+	Project #2
+	London Hydro
+
+	Environment
+
+
+	SAP CRM 7.0
+
+	Type 
+	Implementation
+
+
+Client Description: 
+London Hydro is a Local Distribution Company that services the city of London, Ontario, Canada.  With a peak load of 719 megawatts, we deliver a safe and reliable supply of electricity to over 152,549 customers from the residential, institutional, commercial and industrial sectors, through 3,364 kilometres of overhead and underground cables, spanning 420 square kilometres of service territory. As a wholly-owned subsidiary company, we operate much like a private entity under the Ontario Business Corporations Act, paying an annual dividend to our sole shareholder, the City of London. In essence, all Londoners own London Hydro.
+
+Role – SAP CRM WEBUI junior developer
+
+Responsibilites and Contributions:
+
+
+· Create Components from scratch
+
+· Worked on Navigation Bar Profile for changed second level navigation in work centers
+
+· Technical specifications
+
+	Project #3
+	PPG
+
+	Environment
+
+
+	SAP CRM 7.0 later upgraded to SAP CRM EHP 3
+
+	Type 
+	Support
+
+
+Client Description
+PPG Industries, Inc. is an American Fortune 500 company and global supplier of paints, coatings, specialty materials, and fiberglass. With headquarters in Pittsburgh, Pennsylvania, PPG operates in more than 70 countries around the globe. By revenue it is the largest coatings company in the world.
+
+Role – SAP CRM WEBUI developer
+
+Responsibilites and Contributions:
+
+
+· Adding new functionalities in the standard WEB UI screen as per the client requirement.
+
+· Added a custom field to the customer header level by AET.
+· Created new popup screens, Created Configurable table views and form views as per Client Requirements by using component workbench.
+
+· Created Hyperlinks and navigating from one view to another.
+
+· Create Components from scratch.
+
+· Worked on Navigation Bar Profile for changed second level navigation in work centers. 
+
+· Add new Context Nodes so That the data will later be available in the UI Configuration Tool. Change the appearance of the buttons on the Overview, views.
+
+· Technical specifications
+
+· AET
+
+· Spau-Spdd activity
+
+· Attaching an Abap screen in web ui using Transaction Launcher
+
+· Badi Enhancements
+
+· Abap scratch report using joins and displaying using ALV
+
+· Spau spdd 
+
+Personel Details: 
+
+Date of Birth: 1st July-1991
+
+Sex: Female
+Marital Status: Married
+Nationality: Indian
+Passport Number:  K5212813
+Address: 3 No Nazrul Sarani
+
+
+    Italgacha
+
+
+    Kolkata-700079
+
+Disclaimer: 
+
+I hereby declare that the above information is true to the best of my knowledge. 
+                                                                                                                                                      Suchismita Roy
+

@@ -1,0 +1,171 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name:Shyam 
+Mobile :+91-9844127729
+Email:shyamkumaremail89@gmail.com
+
+SUMMARY:
+
+· Around 4.2 years of experience in Software Indursty,I have more than 2.8 years experience into Data science (data analytics) with strong expertise in Telecom domain
+· Strong experience in Building Statistical Predictive models and interpreting results and business problem solving
+· Worked on machine learning and deep learning projects. Having good knowledge in R, Python, Hadoop server (ivHive)
+· Expertise in managing an array of IT management operations inclusive of Predictivemodelling, Data visualization
+· Good implementation knowledge in Advanced Data Analytics using R and advanced Excel.
+· Strong knowledge of data visualization using ggplot (Scatterplot,Boxplot,Barplot,Histograms)
+· Hands on experience in  R , Python,SQL,Unix,Oracle and Toad
+· Worked on advanced Machine Learning algorithms ( Decision trees, Random Forest), Clustering (K-Means, LDA), Time series and, Regression models (Logistic regression, Linear regression) and extensive use of exploratory data analysis (Using ggplot2, excel)
+· Hands on experience on segmentation methologies, regresstion based models factor analysis/PCA
+· Worked with machine learning tools random forest, Clustering, Text mining, sentiment analysis
+· Hands on experience statistical analysis like explotory analysis, cluster analysis,model validation, one way ANOVA
+· Worked on projects from various domains including Telecom and Utilities.
+TECHNICAL SKILLS:
+
+· Machine learning Techniques (Linear regression, Logistic regression, Rigid regression, lasso regression, multiple regression and polynomial regression)
+· Decision trees (CART models and CHAID). Advanced analytical techniques (Random forest, Bagging and Boosting and Support vector machines and NLP(Text mining and sentimental analysis).
+· Over sampling and under sampling techniques.
+· Data visualization using Tableau
+· Platforms like Linux/UNIX, and Virtual Machine Environments
+· Experience with SQL and databases like Oracle, Teradata.
+· Experience with Hadoop cluster for Big Data analytics.
+
+
+EDUCATION:
+
+· Bachelor of Engineering (B.TECH) from JNTU Hyderabad.
+
+PROFESSIONAL EXPERIENCE:
+
+· Working for CenturyLink Technologies Ind Pvt Ltdas Data Analyst from March 2014 to Feb2018.
+
+·  Working for Concentrix Daksh Services Ind Pvt Ltdas Data scientist(Data Miner Analyst) from June 2018 to present.
+
+
+
+PROJECTS SUMMARY:
+
+
+Project Title	: Customer Life Cycle Analysis
+Role		: Data Scientist
+Technologies	: R,Python,SQL,Unix,Tableau and Oracle DB 
+Business object:To define and communicate the stages through which a customer progresses when considering, purchasing and using products.
+
+1. Built the various statistical models throughout the customer journey (CART and Logistic regression).
+2. To reduce the variables used various variable reduction techniques (PCA, VIF, Information value)
+3. Extensively built model for in life customers, out of commitment customers and out of bundle customers.
+4. Built various models for individual and Enterprise level.
+
+
+Built the X-Sell and Up-Sell Model for Enterprise level customers (by using Logistic regression and CHAID)
+Exploratory Data analysis for Billing and Complaints Data
+Objective: Identify the drivers for Billing and complaints data.
+
+Roles and Responsibility:
+
+· Identify the key metrics for Billing and complaints data (Usage information, Roaming information, network information)
+· Did data sanity check (Missing values and Outliers data)
+·  Created univariate analysis for all the key metrics
+· Created various data patterns for Billing and complaints data
+· Applied Cohort analysis to understand customer movement from month on month
+· Identified relation between categorical variables by using Chi-Square test.
+· Identified relation between numeric variables by using the correlation techniques
+· Applied various Anova methods to finding relation between the variables
+· Created multi variate analysis for few variables
+· Generated reports for monthly and quarterly for all key metrics variables
+
+
+
+Project Title	: Identify the NPS (Net Promoter Score) By Using Text Mining Analysis			
+Role		: Big Data Analyst
+Technologies	: Python, NLP, SQL
+
+
+1. Finding out Customer or Agent Name By using Web Chats
+2. Identifying positive and negative words from the web chats.
+3. Identify most frequent or repeated words.
+4. Identifying credit amount from web chats.
+5. Extensively using the NPS score in Python.
+
+
+
+
+
+
+
+
+Project Title    	: Propensity model for customer response model					
+Role	             : Data Scientist
+Technologies	 : R, SQL, Excel, Tableau, Oracle
+Business object: We would like to build a propensity model, who will respond for a product.
+
+Responsibilities:
+· Phase1:Performed Exploratory Data Analysis, Data Cleaning, Features scaling and Features engineering.
+· Performed Data sanitization, Missing value treatment, outlier treatment.
+· Phase 2: Created Dummy variables for Categorical variables and done the Binning variable creation for Continuous variables.
+· Performed Statistics -Descriptive statistics, Hypothesis testing, ANOVA.
+· Performed feature selection by picking the most predictive features from the model.
+· Used variable reduction techniques to drop the in-significant variables (multicollinearity).
+· Divided the data into training and validation datasets.
+· Phase 3: Built Response model at customer’s level (by using Logistic regression).
+· Used P value for finding out the fitness of the model.
+· Used Boosting and Bagging techniques to further improve the accuracy of the algorithm.
+· Finally provided data insights and recommendations for the model. 
+· Understanding the client requirement and developing the requirements 
+· Application of Predictive Analysis and  descriptive statistics
+
+
+
+
+
+
+
+
+2
+

@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHYAM SUNDAR D
++91 9965006634shyaminfotech5@gmail.com
+
+CARRIER OBJECTIVE
+
+Want to become a Technical Developer / Consultant who can contribute to an organization for a bright, successful and development. I’m willing to showcase my skills on various technologies which would help the organization to grow and will make good position in the industry.
+
+PROFESSIONAL EXPERIENCE
+
+Associate Projects- Cognizant Technology Solutions, Chennai, October – 2015 to present
+Software Engineer - Dowell Technologies, Chennai, September – 2013 to October 2015
+
+PROFESSIONAL SUMMARY
+
+●4 Years 11 Months of Professional IT Experience with end to end project knowledge in various phases like Requirement gathering, Implementation, Deployment, Release and Deployment/DevOps, Hyper care phase, stabilization and Production Support.
+●Extensive knowledge in various RDBMS like MS SQL Server and Oracle. Worked on Developing Complex SQL Queries, Packages, Stored Procedures, Functions, Triggers, Synonyms, Views, Cursors, Performance Tuning and Database Monitoring using AWR analysis.
+●Good in ETL Development using Informatica Power Centre of data directly from different source system like Oracle tables & Flat Files with the help of various transformations like Source Qualifier, Expression, Stored Procedure, Lookup, Router, Joiner, Filter, Union, Sequence Generator, Aggregator, Update Strategy, Sorter and Transaction Control.
+●Having great exposure in handling multi countries roll out of the application and handling Technical Implementations& Deployments, Rootcause analysis and supporting the multi-level markets.
+●Interacting with the Customer and Scrum calls to furnish their requirements on the new feature enhancements and provide solutions.
+●Good in Project and Team Management on Implementation, Incident Tracking and Defect fixing with Professional touch of Quality Deliverables in both water fall and Scrum based agile scaling models.
+
+TECHNICAL SKILLS
+
+Languages:		SQL,PL/SQL, HTML, C#.Net, Shell, Unix Commands and Python 
+Databases:		Oracle 11g & 12c, MS SQL Server 2008 & 2012
+Database tools: 	PL/SQL Developer, Oracle SQL Developer and SQL plus 
+ETL:			Informatica Power Centre 9.5.1& 10.1.1 and SSIS
+Reporting Tools: 	SSRS, Crystal Reports, Ramco Decision works.
+Other Tools: 		Magic draw, HP ALM, JIRA, Confluence, Jenkins, Nexus, Tortoise SVN
+
+Project: CLEAR
+
+Client: Leading Foreign Bank, Belgium.
+Tools Used: Linux, Informatica Power Center, Oracle 12c, Tortoise SVN, UAC, Blade Logic, JIRA, Confluence
+Architecture:3 Layers (Staging, Data Mart and Report Mart)
+SDLC Model: Agile
+Duration: Jan – 2018 to present
+
+Description:
+
+	Scope of the CLEAR program is to develop the transactions and positions reports for the bank’s asset management department.Our Client needs to handle their customer’s portfolios to perform some level of data analytics for the financial development.
+
+
+
+Responsibilities:
+
+●Interacting with customer to gather the requirement for furnish and enhancements.
+●Data model Development using Oracle SQL Developer tool, Creating DDL for table creations and modification
+●Developing Informatica ETL mappings and workflows for all the layerswith SCD1 and SCD2 Logics and additionally with add-ons like Error handling, Data Audit, File Validation and Archiving.
+●Performing Unit test for all the layers.
+●Developing UAC workflows to integrate with Informatica for Scheduling, Monitoring and Email Trigger for notifications.
+●Developing Oracle Materialized Views and Stored Procedure to apply the business logic based on the report requirementto extract form report mart to CORIC reporting tool.
+● Involving in overall release management activities like Source code management, Release and Deployment using (SVN, Blade Logic). 
+
+Project:GCAP (Global Credit Assessment Platform)
+Client: World’s Leading Automobile Company, Germany. 
+Tools Used: Linux, SQL Developer, Oracle 12c& 11g, Tortoise SVN, Nexus, HP ALM, Jenkins, JIRA, Confluence
+SDLC Model: Both Agile&Waterfall
+Countries Implemented: China, UK & Italy 
+Duration:Oct – 2015 to Jan-2018
+
+Description:
+	GCAP is the IT platform for handling credit application and rating process within the Application Processing for the retail credit business in Europe and later it could be rolled out worldwide. The overall process view of the application is Obtaining of external information, Data enrichment with internal information, Financial calculations (e.g. DSA), Scoring, Rating, Standard Risk Cost Calculation, Policy Rules, Automatic decisions, Manual Underwriting and Data reporting is the process of collecting and submitting data to authorities entrusted with compiling statistics. Two Major reports have been developed under this GCAP reporting are UK Operational reporting and Risk Analytics Reporting.
+
+Responsibilities:
+●Interacting with customer to gather the requirement for furnish and enhancements.
+●Involved on overall Data model implementations for UK and Italy using Magic Draw for Modelling.
+●Responsible for defining the coding standards and guidelines for the PL/SQL scripts.
+●Responsible for reviewing and deliveryfor overall implementations.
+●Worked on Entire Data Migration from 11g to 12c with different Data model setup such as Client Alignment, Coding with PL/SQL, Release management, Deployment and Documentations.
+●Worked on Data masking during Migration works to mask the sensitive details from existing system.
+●Worked on Data Archival for CLOB values to File system with 90 days scheduler.
+●Worked on Entire Database level performance tuning by Introducing normal and function based indexes, SQL Query tuning with best Practice, collecting statistics and observing explain plan, AWR reports for Analysis, Performance.muc checks, SGA and PGA Suggestions, Global temporary table suggestions.
+●Created Complex views to achieve business logics during reporting development phase
+●Provided impressive solution during the Production issue in Fine-tuning the SQL Query.
+●Worked on UK Performance phase and provided solutions using SQL Queries and Suggested Logical Indexes for frequently using columns.
+●Introduced the new stored procedure approach for workbench module and implemented successfully with better performance. Later on client has requested to do the same approach for Existing UK market with different business logics
+
+
+
+
+
+Project:ADF & MIS Reports
+Client: World’s Leading Bank
+Tools Used: PL/SQL Developer, SQL Server 2008, Oracle 11g, Informatica Power Centre
+Reporting Tool:Ramco Decision Works
+SDLC Model: Waterfall
+Duration:Jan – 2015 to Oct - 2015
+
+Description:
+RBI (Reserve Bank of India) published an approach suggesting banks to adopt a straight-through processing of information to ensure quality and timeliness of data. Straight-through processing requires automation of data flow from multiple banking systems directly into a Centralized Data Repository and then into the RBI report formats, without any manual intervention to ensure data accuracy, integrity and timely Submission of returns
+
+Responsibilities:
+●Implemented Incremental logic i.e. while extracting data from bank data source, extracting only the last modified and newly added records instead of loading full data which saves time and works efficiently in both the project.
+●Involved in Automation logic i.e. ER Report will be generated based on the frequency without any manual intervention.
+●Involved in ETL works and automation in Informatica, Creating Stored procedures, 
+Function, view, synonyms, Etc. using PL/SQL, Enterprise Reports Design using RDW (RAMCO DECISION WORKS).
+●Developed and Generate ER reports with help of RDW (Ramco Decision Works) tool.
+
+Project:HCM (Human Capital Management)
+Client: Leading Indian Cement Company
+Tools Used: Ramco Virtual Works, Ramco Decision Works, SQL Server 2008
+SDLC Model: Waterfall
+Duration:Sep – 2013 to Jan– 2015
+
+Description:
+Human Capital Management product implementation, which used to architect a global function of HR data and to automate many day-to-day record-keeping process. This is a framework for HR staff to manage benefits administration, Payroll and other payroll related modules Time & Attendance, Statutory, Performance management System.
+
+Responsibilities:
+●Involved in overall Implementation of the projects.
+●Developed and Generate ER reports with help of RDW (Ramco Decision Works) tool for generating Pay slip, Tax working sheet and other reports based on the customer requirement.
+●Provided innovative solutions in various modules like Employee Management, Leave, Loans, Hire Process, Payroll, Reimbursements and Employee Self Services.
+●Involved in Creation of Stored procedures, Functions, Views, Indexes, Triggers and used SQL Profiler.
+
+EDUCATION
+M.Sc., Information Technology, Bishop Heber College, Trichy, 2011 to 2013. 
+B.Sc., Computer Science, Bishop Thorp College, Dharapuram, 2008 to 2011.
+
+PERSONAL DETAILS 
+Father’s Name:	Durai Raj
+DOB:			15-Aug-1990
+Passport:		N4070501
+Gender:		Male
+Marital Status:		Single
+Nationality:		Indian
+Languages Known:	English (SWR), Tamil (SWR) and Malayalam (S)

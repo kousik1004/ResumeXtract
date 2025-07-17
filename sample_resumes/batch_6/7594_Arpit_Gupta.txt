@@ -1,0 +1,171 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (
+Arpit Gupta
+Phone 
++91 
+(
+898-378-9344
+)
+Email: arpitgupta1790@outlook.com
+)
+
+Professional summary:
+· 6+ years of work experience in IT in Database Design, Development & Support ofMS SQL Server 2008 R2/2012/2014 for Production/development.
+· Currently working with L&T Infotech as Senior Software Engineer.
+· Previously worked with D2K TECHNOLOGY as Senior Software Developer fromMay 2013 to Sep 2016 and A-connexion pvt. Ltd. as SQL DEVELOPERfrom Oct 2011 to May 2013.
+· Proficient inRelational Database Management Systems (RDBMS).
+· Expertise inTransact-SQL (DDL, DML, DCL)and in Design and Normalization of the database tables.
+· Experience in implementing business logic usingTriggers, Indexes, Views and Stored procedures.
+· Extensive Knowledge of advance query concepts (e.g. group by, having clause, union so on).
+· Experience with tools like SQL Server management studio and SQL Server 2008 R2/2012 integration (SSIS).
+· Proficient inTuning T-SQL queriesto improve the database performance and availability.
+· Experienced hands inQuery tuning and performance tuning.
+· Experience in monitoringSQL Server Performance using SQL Profiler.
+· Experience in Creating and Updating Clustered and Non-Clustered Indexes to keep up the SQL Server Performance.
+· Good knowledge in Normalizing and De-normalizing the tables and maintaining Referential Integrity by using Triggers and Primary and Foreign Keys.
+· Expertise increating Packages using SQL Server Integration Services (SSIS).
+· Excellent analytical, communication and interpersonal skills. Proficient in technical writing and presentations and a good team player.
+
+Education:
+B.E (CSE) with First Class (2007 – 2011)
+Truba Institute of Engineering and Information Technology, Bhopal
+Technical Skills:
+SQL Server Tools: SQL Server Management Studio, Profiler, SSIS
+RDBMS:MS SQL Server2008R2/2012/2014, Oracle 10G 
+Programming Languages:SQL, T-SQL, PL-SQL 
+Productivity Applications:MS Word, Excel, Access, Agile Methodology
+Version Control Application:Team foundation server
+Professional Experience:
+
+Project 1: PTSW
+Company Name:L&T Infotech
+Client                     : CITI Bank
+Designation : Sr. SoftwareEngineer
+Description 	  : This is the Citi bank intranet project. It maintain the data of all vendors and also provides reports based on data.
+Tools and Technologies:Microsoft SQL Server 2012, T-SQL, SSIS, TFS, Agile Methodology.
+Role: Programmer, DBA, Tester.
+
+Project 2: Database Migration
+Company Name:D2K Technologies
+Client : Oriental Bank of Commerce
+Designation: Software Developer
+Description : In that project I write complex queries for insert data from old Database to new database, store procedure, create table withValidation and indexes.
+Tools and Technologies: Microsoft SQL Server 2008R2,Microsoft SQL Server2012, T-SQL
+Role : Database architecture, Programmer.
+
+Project 3: Asset Classification
+Company Name : D2K Technologies
+Client                      : Punjab National Bank, Oriental Bank of Commerce
+Designation: Software Developer
+Description            : Asset classification is a process which gives the rating to its                                                                        financial status and find out the NPA and standard assets. INthis project my work is to understand asset classification logic, implement that into t-sql and troubleshoot errors in Code.
+Tools and Technologies: Microsoft SQL Server 2012, T-SQL.
+Role: Database architecture, Programmer.
+
+Project 4: High availability and Disaster Recovery
+Company Name:D2K Technologies
+Client: Axis Bank
+Designation : Software Developer
+Description         : In that project i set up Mirroring, Replication, Log shipping,
+Auditing, Resource governor and CDC and maintain all these HAand DR components.
+Tools and Technologies:Microsoft SQL Server 2012, T-SQL.
+
+
+
+
+
+
+Project 5: Basel II
+Company Name   : D2K Technologies
+Client                   : Punjab National Bank, Oriental Bank of Commerce
+Designation : Software Developer
+Description : Basel II is an international business standard that requires financial institutions to maintain enough cash reserves to cover risks incurred by operations. The Basel accords are a series of recommendations on banking laws and regulations issued by the Basel Committee on Banking Supervision (BSBS).
+Tools and Technologies:Microsoft SQL Server 2012, T-SQL, SSIS.
+Role: Programmer.
+
+Project 6: User Control Module
+Company Name   : D2K Technologies
+Client                   : Punjab National Bank, Axis Bank 
+Designation : Software Developer
+Description 	  : User control module is module by the help of this we can create new login, change login password , delete logins , give permissions on database objects, create SP backup automatically on database and save .sql file on disk. It is full logins permission and management related module.
+Tools and Technologies:Microsoft SQL Server 2012, T-SQL.
+Role: Programmer, DBA, Tester.
+
+Project 7: Data Mart Development for Clients (Wal–Mart Stores,Inc., Apple Inc.,        Other Clients)
+Company Name: A-connexion PVT LTD.
+Designation	 : SQL Developer
+Description: That project is related to DataMart. There have various tables
+On client database. Client sends a report related to any one oftable which is in database.Loaddata via SSIS services in MS SQL SERVER.
+Tools and Technologies: Microsoft SQL Server 2008r2
+Role: Analysis, Programming, Testing.
+
+
+Personal Details:
+	Name                      
+	   Arpit Gupta
+
+	Date of Birth          
+	  17th April 1990
+
+	Marital Status          
+	   Married
+
+	Languages Known     
+	  English, Hindi.
+
+	Hobbies          
+	  Cooking.
+
+
+
+
+Place:Navi Mumbai		(Arpit Gupta)
+
+

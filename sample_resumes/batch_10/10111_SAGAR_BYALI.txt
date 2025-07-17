@@ -1,0 +1,319 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAGAR BYALI                   
+Mobile: +91 8867036730          
+E-mail: sagarbyali@gmail.com 
+
+in.linkedin.com/in/sagarbyali  
+
+ 
+Brief Introduction: 
+
+M.Tech qualified Software Engineer with 2 years 11 months of experience in Database. Outgoing 
+and team-oriented, I'm proficient in T-SQL development, SSMS, Performance tuning, maintaining 
+database, DB design along with good amount of experience in ETL tool SSIS. 
+ 
+Work Experience: 
+ 
+
+Sl. 
+No 
+
+Employer Designation Role Experience Duration 
+ 
+
+1 EVRY India Pvt Limited 
+(SPAN Infotech India Pvt Limited) 
+
+Software 
+Engineer 
+
+Database 
+developer 
+
+2.4 years Jan 2015 to Apr 
+2017 
+
+2 XLHealth Corporation India Pvt. Ltd 
+(UnitedHealthcare Group) 
+
+Apps 
+Developer 1 
+
+Database 
+analyst & 
+developer 
+
+0.7 years May 2017 to till 
+date 
+
+ 
+Experience summary: 
+ 
+Database design, enhancement & domain 
+ Requirement analysis, ER modeling, converting ER to Relational schema, Functional dependencies & Normalization. 
+ Performing Data analysis through SOP understandings, reconciling the analyzed data. 
+ Have experience working in Mobile platform, Retail and Healthcare insurance domain. 
+ 
+Development: MS-SQL, SSIS, SSRS 
+ Handling Mobile App and Web Product development, Application maintenance, Bug fixing. 
+ T-SQL, CTE, Views, Triggers, Cursors, Functions, Dynamic SQL. 
+ Extensively worked on Stored procedures. 
+ Automation scripts to load data into and from SQL Server using SSIS 
+ Data transformations using SSIS, loading data from various sources using SSIS. 
+ Deploying SSIS packages and setting up jobs. 
+ Creating SSRS reports. 
+
+ 
+Datawarehousing 
+ Familiar to Facts, Dimensions, MOLAP cubes. 
+
+ 
+Performance tuning 
+ Capture events, data, request tracking and trouble shooting using the SQL Server Profiler, SQLDebugger. 
+ Solving Performance issues related to: Parameter snipping, slow running queries, indexes, identifying locks, blocking 
+
+processes, re-writing the logic/stored procedures whenever necessary. 
+ Analyzing the query plans, improving execution time of Stored procedures. 
+ DB Comparer for data synchronization & performance tuning of slow running queries using Db engine tuning advisor. 
+ Load testing using SQLQueryStress, Performance monitor and setting up Extended events to monitor Deadlocks. 
+
+ 
+Database Maintenance 
+ Redgate and devart tools to compare data and synchronize data across environments. 
+ Indexing, Backup & job scheduling, Log file purging, DBA related querying. 
+
+ 
+
+mailto:sagarbyali@gmail.com
+file:///F:/RESUME/in.linkedin.com/in/sagarbyali
+
+
+Technical Skills: 
+ 
+
+Skill Summary 
+
+Technical Language: 
+ T-SQL 
+
+DB Tools: 
+ SSMS 2012 
+ SSIS 2012 
+ SSRS 2012 
+ SQL Server Profiler 
+ Database engine tuning advisor 
+ DB Comparer 
+ SQLQueryStress 
+ Redgate - SQL Compare, SQL Data compare 
+
+Project related SDLC Model: 
+ Agile - Iterative/Incremental 
+
+Project Management Tools: 
+ TFS, JIRA, Asana, SVN, Bit-bucket. 
+
+ 
+ 
+Educational Qualifications: 
+ 
+
+ M.TECH 
+Computer Science and Engineering 
+KLS Gogte Institute of Technology, Belgaum 
+Percentage: 74.9 % 
+Duration: 2012 - 2014 
+
+ 
+
+ B.E 
+Computer Science and Engineering 
+S.D.M. College of Engineering and Technology, Dharwad 
+CGPA: 6.87 / 10 
+Duration: 2007 - 2011 
+
+ 
+Academic Ranks: 
+ 
+
+ M.TECH  PGCET Entrance  
+Rank - 61 
+
+ 
+Recognitions: 
+ 
+
+ Performance issue related to App data in Project was countered using a technique ‘Caching’ and was 
+rewarded with ‘SPOT award’ for successful implementation. 
+
+ ‘Team Spirit award’ - Collaborative effort to ensure successful delivery of the workforce Management 
+system (WMS Error queue), Provider reconciliation and synchronization of NDB-CSP Facets Project. 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Projects: 
+ 
+Project – 1 
+
+Project Name 
+Domain 
+
+HubCiti 
+Retail 
+
+Role Database developer  
+Organization EVRY India Pvt. Ltd. 
+Duration  Feb 2015 to till date 
+Tools and Technologies  SSMS 2012, SQL Server Profiler, Performance monitor, 
+
+DB Comparer, SQLQueryStress, DB engine tuning advisor 
+Team size 21 
+Complexity High 
+ 
+Product: 
+
+1. IOS and Android application (7 instances) 
+2. Web application (5 portals) 
+3. RSS feed news application 
+
+ 
+Project Description: 
+HubCiti™ is a city branded all-purpose mobile app for cities of all sizes. It connects residents and visitors with 
+your city’s public services, local businesses, restaurants, attractions, school activities, news, non-profits, and 
+a variety of other daily life information. Other notable features were: Push notifications, News app, Music 
+bands, Interactive maps. Residents and visitors are now able to access real-time information about where to 
+shop, where to go and what to see on a daily basis, saving time and money. 
+ 
+Web: The Retailer portal helps retailers to tell their story, retailers can register with ScanSee and their 
+multiple locations spanned across US. After registering with ScanSee, retailers can login into ScanseeWeb 
+Portal and setup their ads, products, discounts, hot deals, coupons and special offers to App users. Retailers 
+can upload their Products, add their locations, renew membership.Hubciti portal enables Admin to configure 
+App screens: Mainmenu, Submenu, menuitems, bottombuttons, Launch screens, color, menu icons. Create 
+users. It also provides provisions to set-up Events& fundraisers, schedule events & fundraisers, deals. The 
+scheduled deals, events will be pushed to App users as Push notification. Other functionalities involved: 
+Setting up Music bands and News. Role-based access functionality can be setup for created users in 
+Hubciti.Scansee Admin can create Hubciti or Hubregion. Admin will maintain the created Hubciti’s using using 
+the the portal. 
+ 
+App: App users can view all the information for the city where they areregistered in. Users can set up their 
+preferences like: Cities, Radius, Bookmarks, Push notifications etc. Based on the user settings data gets 
+displayed in the app. IOS & android apps for about 7 instances are provided to the users. 
+ 
+Role Description: 
+
+1. Web and App requirement analysis & logic implementation using T-SQL along with design 
+enhancements, new design, requirement changes.  
+
+2. Responsible for design, UTC and screen specification review and task estimations.  
+3. Supporting the project with critical issue fixes whenever need arises as a part of Project maintenance. 
+4. SQL Server development involved: writing Stored procedures, Functions, Triggers, Cursors, 
+
+Automating data uploads with scripts, Configuring batch process, Push notifications, Unit testing the 
+implementation.  
+
+5. Database activities: Database and schema creation, taking back-up, indexing, scheduling jobs, product 
+
+
+
+ 
+
+support, bug fixing.  
+6. Production movement and QA releases, loading data and DBA related activities.  
+7. Performance activities namely: Query and stored procedure tuning, monitoring performance, re-
+
+writing stored procedures, Blocking and Dead lock detection. 
+8. DB design includes designing from scratch as well as enhancement to the existing design along with 
+
+impact analysis using ER diagrams/Normalization. 
+
+9. Client communication, Knowledge transfer and training other resources. Coordinating with team 
+
+members in solving project related and technical issues. 
+
+ 
+
+Project – 2 
+Project Name 
+Domain 
+
+Provider reconciliation and synchronization of NDB-CSP 
+Facets Healthcare operations 
+
+Role Database Analyst/Developer  
+Organization XL Health 
+Duration  May 2017 to till date 
+Tools and Technologies  SSMS 2012, SSIS 2012, TFS 
+Team size 09 
+ 
+Project Description: 
+The three main storage centers namely: NDB, CSP Facets and UHN contain Healthcare Provider information 
+(Hospital, Practioner and Facility) related to Contracts and Demographics. A nightly feed goes from NDB to 
+CSP. The errors are reported in BSAR, WMS, DotNet Error queue systems. The NDB & CSP is mapped through 
+a Crosswalk report. 
+ 
+Role Description: 
+
+1. Analyze SOP documents, procedural code, ETL packages, data in database and find the 
+discrepancies, false positives and propose a solution. 
+
+2. Compare data between the database systems and identifying the flaws, analyzing the error queue, 
+coming up with a better solution by understanding the business requirement. 
+
+3. Objective is to improve the system and improve the VPH which will add to the business value, CSR 
+rating for United Health care insurance. 
+ 
+
+ 
+
+

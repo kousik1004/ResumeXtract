@@ -1,0 +1,272 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BARNEETA GUPTA
+
+
+SHIVANI BHARDWAJ
+
+         
+
+
+
+Mobile: 9711553113
+   
+Email: shivanibhardwaj5@gmail.com
+Professional Summary:                                                                                        
+· Senior System Engineer at Infosys Technologies Limited having 4 years of experience in SQL with excellent knowledge in ETL (Extract - Transform -  Load) using SAP Data Services.
+
+· Microsoft Certified Technology Specialist worked as a SQL Server Database Administrator (DBA).
+· IELTS certified band score 7.5.
+· Strong data-migration Background with hands-on experience with data migration using SAP BODS with IDOCs etc.
+· Very good understanding & experience of using all SAP DS user interfaces i.e. Designer, Management console, Server Manager, CMC. 
+
+· Good understanding of developing batch jobs in SAP Data Services using Data Services transforms such as Data Integration, Platform & Data Quality transforms.
+
+· Worked on SQL Server 2000, 2005, 2008 R2 and 2012 versions.
+
+· Exposure to the Production/Staging/Development environments and worked with around 6500 SQL instances (Prod/Non-Prod).
+
+· Well versed with database administration involving installation, configuration and migration of databases along with database design and management.
+
+· Have a huge exposure to ITIL processes and Design studio. 
+
+· Experience in working with geographically distributed teams.
+
+· An effective communicator with strong analytical, problem solving and organizational abilities. 
+
+Technical Skills:
+
+Databases
+
+
+
+: SQL Server 2000/2005/2008/2008R2/2012
+
+ETL Tools
+
+
+
+: SAP Data Services 3.2 and 4.2
+
+Database Tools
+
+
+
+: SQL Server Management Studio
+
+Monitoring Tools
+
+
+
+: HP Sitescope, Data Services Management Console
+
+Networker Backup Tools
+
+
+: EMC Networker
+
+Incident Management Tools
+
+: HP service desk, Service Now
+
+Reporting Tools
+
+
+
+: MS Excel, Tableau, Design Studio
+Operating System/Servers
+
+
+: Windows Server 2003/Windows XP/Windows 7
+Programming Languages
+
+
+: PLSQL, HTML
+
+Technical Achievements                                                                                          
+· Microsoft Certified SQL Server 2008 DBA (Completed MS 70-432 Certification)
+
+· HMM trainings such as time management and leading and motivation etc.
+
+Professional Experience                                                                                          
+INFOSYS LIMITED, (Since August 2013 till Date) 
+PROJECTS:
+Project 1
+It is world's largest producer of spirits. They want to migrate legacy data extractors from SAP ECC system to SAP’s new ODP extractors i.e. from ECC to SQL as well as BW with the help of BODS jobs so that reporting can be done on time and delta facilities can be achieved truly.
+Role: Developer
+
+Responsibilities:
+
+· Creating new jobs to migrate SAP BW integration from legacy extractors to ODP extractors and perform integration tests to ensure same quality of data.
+· Interacting with client to resolve any requirement related issue.
+· Creating SAP BODS application to use ODP extractors in secondary subscription model to send data to downstream applications like BPM.
+
+· Designing various Data Flows for extracting data from various sources and working with different transformations.
+· Updating repositories, central repository etc.
+
+· Using SQL Queries to perform integration tests, data quality checks and creating documents required as best practices.
+Project 2
+It is the world’s largest building society that is running for and by the investors/members for the benefit of members. They provide many facilities such as savings facilities, retail sales, housing facilities and many more bank facilities.
+
+Role: Developer and Production support
+Responsibilities:
+
+· Creating new jobs as per requirement, modifying and updating jobs.
+
+· Designing various Data Flows for extracting data from various sources including flat files and relational tables.
+
+· Working with different transformations like History Preserving, Table Comparison, Validation, SQL Transformation, Case and Table Comparison, Row Generation.
+
+· Using SQL Queries like inner joins, Outer joins and DDL, DML commands to test the data at the database level.
+· Updating repositories, central repository, TFS etc.
+
+· Resolving job failures and other issues.
+
+· Creating data-fixes for changes and code –fixes.
+
+· Pro-actively taking care of improvements in jobs to ensure better facilitation of tasks.
+
+· Creating documents required as best practices.
+Project 3
+It is a Pharmaceutical company discovering, developing and marketing innovative medicines to improve health and save lives. For this, they do research and keep tracks of various effects as well as medicines in use, amounts, users, applications along with their data and transactions etc. 
+Role: MS SQL DBA
+Responsibilities:
+· Vast exposure to the regular issues that are seen that include – disk space utilization, job failure alerts, database size alerts etc.
+
+· Working on data fixes, deployments with the application team
+
+· Creating the requisite regular maintenance jobs along with user jobs as requested, SSIS package deployments etc.
+
+· Creation of databases, refreshing them onto non-production from the backups of database from production environment etc.
+
+· Restoring database from old backups due to user requests, disaster recovery etc.
+
+· Providing assistance to the Windows Server team during outages/scheduled maintenance
+
+· Managing database security, creating user accounts, application logins and assigning roles to them
+
+· Working on all the DBA tasks starting from installing and configuring of SQL Server 2005/2008 R2 to retiring databases
+
+· Ensuring recovery of data as well as DB and server health checkup
+
+· Analyze, troubleshoot and solve problems in a timely and accurate manner.
+
+· Incidents management and resolution before SLA warning.
+
+· Worked on clustered systems, log shipping, replication systems etc. Exposure to log shipping servers and troubleshooting the various issues that are faced normally
+Training Undertaken: 
+
+	Organization
+	Infosys Limited
+
+	Duration
+	Training at Mysore, Karnataka(Aug 13 to Dec 13)
+
+	Training
+	Generic training covered basic concepts related to Operating Systems, Object Oriented Programming, Software development lifecycle, RDBMS, Basics of DB and Networking.
+
+
+Academic Qualification:
+	Course
+	Specialization
+	Board/ University
+	Year
+	Percentage
+	School/College
+
+	B.TECH
+	Information Technology
+	GGSIPU
+	2008-12
+	75.12%
+	GPMCE, Delhi
+
+	10+2
+	   PCMB
+	CBSE Board
+	2007
+	80%
+	Nava Hind Sr. Sec. School, Delhi
+
+	10
+	-
+	CBSE Board
+	2005
+	77.4%
+	Nava hind Sr. Sec. School, Delhi
+
+
+Extra-Curricular Activities & Achievement
+· Participated in Zero Distance, Infosys in 2015
+
+· Participated in CMMI level audit in Infosys in 2015
+
+Personal Profile:
+Date of Birth:  
+
+5th Sep 1990     
+
+Gender: 
+
+Female        
+
+Nationality: 
+
+Indian
+
+Marital Status:
+
+Single
+
+Languages Known:   
+English, Hindi 
+
+Declaration:       
+
+I hereby declare that to the best of my knowledge and belief, the particulars given above are true.
+PLACE:  DELHI
+Shivani Bhardwaj/shivanibhardwaj5@gmail.com/9711553113
+

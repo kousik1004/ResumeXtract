@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Vishal Kumar Singh 
+ 
+
+                                                      Email id-  Vishalsingh.dst@gmail.com 
+ 
+
+                                                          Mob-  8294201867/8697803532 
+ 
+
+Career Overview 
+ Having 2.5 years of work experience and work varies from converting business problem into 
+
+analytical case, Predictive model building using classification and regression technique, Model 
+exploration and validation, Clustering,  Exploratory data analysis,  Ad-hoc and periodic report’s 
+analysis , visualization and dashboard
+
+___________________________________________________________________________________________________________________ 
+    Professional Experience 
+
+Bridgetree Research Services Pvt. Ltd.   (Statistical  Analyst )                                  
+         July, 2016 – Present  
+ Customer Propensity Modeling- Built predictive model to predict the customer propensity of 
+
+buying a premium product based on their historical purchasing, product page browsing 
+attributes and validated the model accuracy. 
+Technique used: Data exploration, Logistic Regression, Confusion matrix, ROC curve
+Tool used: R  
+
+
+ Cluster analysis (Identifying the different customers’ clusters based on their differential 
+purchasing interest and buying behavior)- Customer segmentation based on the various 
+parameters to understand the purchasing behavior of each and every cluster of customers who 
+possess similar characteristics within each group. 
+Technique used: K-means clustering, Elbow method, Descriptive statistics and visualization.
+Tool used: R 
+ 
+
+ Sales Prediction with Time Series Modeling - Predicted sales-related time series quantities like 
+number of orders, page view and revenue for a USA based client which allowed company to 
+properly handling the product stock (for Retail and Ecom sales channel), website traffic and 
+customer support during 3 biggest days – Thanksgiving , Black Friday and Cyber Monday. 
+Technique used: ARIMA model, ACF, PACF 
+Tool used: R 
+ 
+
+ KPI (Key performance indicator) report and its dashboard creation - Created and analyzed this 
+periodic report to compare and check the weekly and monthly increment in new buyers’ vs 
+returning buyers, customer acquisition rate, customer acquired through different signup 
+source, product’s review rate, new prospects etc. and created a dashboard in Tableau server to 
+get more insights and to see if any anomalies in stats are there over a period of twelve months.
+Technique used: Descriptive statistics, Reporting insights and visualization.
+Tool used: SQL, Excel and Tableau 
+ 
+
+ Marketing Analytics - Identifying the impact of each email campaign (like Marketing, 
+Transactional and Trigger emails) on sales and customer engagement in term of email sent, 
+delivered, unsubscribed, open rate, click to open rate, conversion rate, AOV (Average order 
+value) and then discuss marketing strategies to significantly increase the ROI.
+Technique used: Descriptive statistics, Reporting insights and visualization.
+Tool used: R, SQL, Excel and Micro strategy. 
+ 
+
+ Text Analytics – Analyzed the product’s reviews and customer’s sentiment associated with the 
+reviews and based on their purchasing behavior of a period of five years and based on their a 
+
+
+
+sports product demographic and life style related variables, a super user score was assigned to 
+each reviewer. 
+Technique used: Text cleaning and processing, Word cloud, Lexicon based sentiment analysis.
+Tool used: R 
+ 
+
+  Karvy Analytics Pvt. Ltd. (Data Science - Intern)                                                   
+         May, 2016- July 2016 
+ Text Analytics –Automation of a sentiment analysis model that was built using 
+
+LDA(Latent Dirichlet Allocation) technique to automatically process the fetched text from  
+social media sites and to give the final sentiment associated with each topics that were   
+discussed or present in the text. 
+Technique used: LDA.
+Tool used: Python. 
+
+ 
+ 
+
+Technical Skills 
+R, SQL, SAS, Python (Learning), Excel, PPT, Tableau, Micro Strategy, Google Analytics  
+  
+
+_____________________________________________________________________________________________________________________   
+Analytics Skills  
+
+Business Statistics, Exploratory data analysis, Supervised and Unsupervised machine learning 
+algorithm, Time series modeling, Natural language processing. 
+
+____________________________________________________________________________________________________________________ 
+                                                                            Educational Qualification 
+
+ PGDM (Business Analytics) 2014-2016                                            Praxis Business School, Kolkata 
+ B.Sc. (Mathematics ) 2011-2014                                                                    College of commerce, Patna 
+ Class XII 2011                                                                                             Devsthali Vidyapeeth, Ballia, U.P.  
+
+_____________________________________________________________________________________________________________________ PGPBM(Business Analytics) Praxis Business S________________________________________________________________________________________ 
+Certifications 
+
+ Certificate I- Data Science and Machine Learning Bootcamp with R
+ Certificate II- Introduction to Python in Data Science from DataCamp
+ Certificate III- Deep Learning Prerequisites: The Numpy Stack in Python from Udemy
+ Certificate VI- The Top 5 Machine Learning Libraries in Python 
+
+____________________________________________________________________________________________________________________
+Activities, Interest and other information 
+
+ Reading books, listening to music, watching movies, playing badminton and carrom
+ Language known: English, Hindi
+ Date of birth: 4 Feb, 1993
+
+____________________________________________________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

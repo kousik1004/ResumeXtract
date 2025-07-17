@@ -1,0 +1,235 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VITAE
+
+SHUBHI AGARWAL
+Present address:
+G-27, Clarion Park, Aundh, 
+Pune, Maharashtra.
+
+Contact No.: +91-9643896518
+DOB: 30/08/1990
+EMAIL ID : shubhi.agarwal30@gmail.com 
+
+                                                                                          
+WORK EXPERIENCE:
+Currently working as ‘Consultant’ in CAPGEMINI SERVICES PRIVATE LTD. 
+Duration: 22th May, 2017.till Date
+Last Company’s Worked was ACCENTURE SERVICES PRIVATE LIMITED, as software Developer,
+Duration:  19th Feb, 2015 till 15th May, 2017.
+NTT DATA DELIVERY SERVICES as ETL developer.
+Duration: 15th Nov, 2012 till 31st Jan, 2015.
+
+ROLES AND RESPONSIBILITY:
+· Handling Compliance Project.
+· Preparing design documents in Design Phase.
+· Developing the code (Ab Initio Graphs).
+· Preparation of test data and performing Unit Testing.
+· Handling Product Quality Assurance for Design Documents and Code review and Testing for Ab Initio Graphs.
+· Preparing Issue log in Requirement Phase.                                                                               
+· Handling Call with the business for gathering requirement and prepare documents or signoff.
+· Code migration from AIX server to Linux server
+· Mentoring team and knowledge sharing.
+
+TECHNICAL SKILLS:
+
+· Abinitio 3.1, 3.3.1.3
+· Informatica 9.x
+· Teradata SQL Assistant, Control M, Quality Center 10.0
+· Database : MySQL.
+· Unix, SQL, HTML 
+· Core Java
+
+PROJECTS:
+
+AIX – LINUX MIGRATION, COPORATE(BARCLAYS)
+
+Client Name: Barclays
+Domain: Financial Services
+
+Description:
+It is an migration project, in which all the Barclays coporate project will be migrated from AIX servers to Linux server, also there is Co>op version upgrade from 2.14 and 2.15 to 3.3.1.3. It is an challenging project as migration and Co>op version upgrades needs to be done in one go. As per the requirements of version change, Ab Initio graphs are enhanced and tested with the mock data.
+Responsibility:
+· Understanding the requirement from the client and preparation of Project Plan.
+· Understand the enhancements and changes, due to version upgrade.
+· Understanding the Environment both AIX and Linux.
+· Working closely with Ab Initio support team and client, to know about the issues and challenges that can come across during the migration process and there fixes.
+· Creation of test data.
+· Validation of graphs and Unit Test.
+· Team bonding and co-ordination.
+· CIT and SIT support.
+
+Tools: Ab Initio 3.3.1.3, Teradata, Oracle, Putty
+
+LARGE CASH REPORTING(CITIGROUP)
+
+Client Name: Citi Bank
+Domain: Financial Services
+
+Description:
+It is a compliance project, in which CTR report is generate through the process LCR process and the 
+report is send to Government on daily basis. CTR report contains the transaction details and the 
+demographic details of the customer performing large amount transactions. Data is received in the file 
+format of fixed length, Abinitio graphs are developed to Map and refine the data according to the
+ requirement and the final file is send to Wolter Kluwer System, from which the CTR reports are generated.
+Responsibility:
+· Understanding the requirement from the business and preparing the requirement document for signoff.
+· Creating Ab Initio Graphs.
+· Validating graphs and Unit Test
+· Handling PQA.
+· Providing support in Audit Activities.
+
+Tools: Ab Initio 3.1, Operational Console, Tectia.
+
+DATA STANDARD(CITIGROUP)
+
+Client Name: Citi Bank
+Domain: Financial Services
+
+Description:
+Data is received in the form of flat files from different sources, standardization logics are performed as per the business requirement and the standardized data is then transferred to the target through NDM.
+
+Responsibility:
+· Creating Ab Initio graphs.
+· Creating CDE lookups used for data standardization.
+
+Tools: Ab Initio 3.1, Operational Console, Tectia, Oracle.
+
+BLUE CROSS BLUE SHIELD OF NORTH CAROLINA(BCBSNC):
+
+Client Name: Blue Cross Blue Shield(NCTIO)
+Domain: Healthcare Insurance
+
+Description:
+Data is extracted from the different source system, as per the requirement, Abinitio graphs are developed or modified. Pre & post validation checks are done on data and graphs to maintain the quality.
+
+Responsibility:
+· Creating Requirement Document.
+· Creating Abinitio graphs.
+· Validating graphs and unit test.
+·  Handling SQA Reviews.
+
+Tools:  Abinitio 3.1, Teradata, SQL, Control M, Quality Center, Code Promotion
+
+
+SAP ETL Migration:
+
+Client Name: Honeywell
+Domain: Aerospace Manufacturing
+
+Description:
+
+Data migration from SAP system to SAP or NON SAP System. Data is extracted from the system and transformed and finally loaded back to the system.
+
+Responsibility:
+  
+· Developing Mapping and workflows.
+· Preparing test data and performing System Testing for all Test cases
+· Handle SQA Reviews. 
+
+Tools: Informatica 9.x, SQL Developer.
+
+CERTIFICATION 
+
+· Credit Card for Bankers
+
+TRAININGS 
+
+· 6 weeks training in ALTTC, Ghaziabad, U.P on Networking. Project on “H R Management System”, 
+· based on Java.
+· 4 weeks training in IFFCO, ANOLA, U.P. Project on “Employee Management System”, based 
+on Java.
+
+EDUCATIONAL QUALIFICATION:  
+
+	QUALIFICATION
+	BOARD
+	INSTITUTION
+	YEAR
+	%  OF MARKS
+
+	         B.Tech (CS)
+	
+Gautam Budh Technical University (India)
+
+	Ideal Institute of Technology,
+Ghaziabad
+	2012
+	
+68.23
+
+
+	Intermediate
+	ISC
+	
+St. Maria Goretti Inter College, Bareilly.
+
+	2008
+	71.66
+
+	High School
+	ICSE
+	
+St. Maria Goretti Inter College, Bareilly.
+	2006
+	75.3
+
+
+
+
+
+
+
+
+
+
+2
+

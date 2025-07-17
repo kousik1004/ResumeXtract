@@ -1,0 +1,225 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+				
+ASHOK.D
+Graymatter Software Services Pvt Ltd
+Bangalore - INDIA
+Contact No: +91 8892509497
+Email Id: sapbi.ashok@gmail.com
+	
+												
+Summary: 
+· 5+years of Experience in all areas of SAP BI/BW like modeling, Extraction and Reporting. And having knowledge on other SAP skills like BODS & ABAP,HANA and have experience in production support as well. Having knowledge on requirement gather and creating Function and Technical Designs. 
+
+Organizational Profile: 
+· Working as a SAP BI Senior Consultant in Graymatter Software Services, Bangalore from Nov 2016 to Till-date
+
+· Worked as a SAP BI Consultant in Aditya Birla Minacs, Bangalore from May 2012 to Nov 2016.
+
+SAP BI Skills:
+· Involved in life-cycle environment like analysis, development, performance tuning, documentation, maintenance and trouble-shooting.
+· Extensively worked on Info Objects, Data Sources, Transformations, DTPs, Info Cubes, DSOs, Info sets, Multi providers, Info packages and scheduling the data requests.
+· Involved in creating Generic Extraction using Database tables and Views and installed relevant Business Content Objects whenever it will be required.
+· As part of Data provider Layer, Migrated data from SAP R/3 using LO Cockpit and Generic Extraction and involved in filling the Set up tables for Logistics Modules.
+· Creation of Transformation and mapping the required fields, Created info package to load the data.
+· Involved in maintenance and creation of SAP BI objects as per user requirements.
+· Detailed knowledge of OLTP Extraction from SAP R/3 using LO Cockpit.
+· Involved in Enhancement of data sources according to client requirement.
+· Involved in Scheduling and resolving of various data load errors.
+· Involved in BEX Reports providing insight of Business Intelligence for Business Analyst for Decision making using Formulas, Selections, Structures, Calculated Key Figure, and Restricted Key Figure.
+· Performance tuning of Queries by maintaining Aggregates, roll-up, Compression, partition of Info cubes and use of statistics for the same.
+· Knowledge of Re-partitioning, Re-modeling, Info Spoke, Open Hub Destination (OHD).
+· Involved in releasing the Transport Request.
+· Involved in Upgrade to 7.0 to 7.4.
+· Involved in BW Pre & Post Upgrade and migration tasks.
+
+
+Academic Credentials 
+· MBA from JNTU University.
+Technical Skill Set 
+	ERP 
+	 SAP ECC 6.0.
+
+	SAP APPLICATIONS
+	 SAPBW 3.5, BI 7.0,7.3&7.4 & HANA
+
+	Reporting tool
+	 SAP BEX , SAP BO, WAD, BEX Analyzer 
+
+	Operating System
+	Windows 2008,Windows 7
+
+	Etl tools
+	SAP BODS
+
+
+
+
+
+PROJECT: # 1
+
+MAHB (Malaysia Airports Holdings Berhad)		May 2016 to Till Date
+
+Description:
+· The holding company, Malaysia Airports Holdings Berhad (MAHB) was incorporated as a public limited company in November 1999 and was thereafter listed on the Main Board of the Kuala Lumpur Stock Exchange, becoming the first airport operating company to be listed in Asia and the sixth in the world.
+The main airport is the KL International Airport (KLIA). KLIA is the result of a visionary strategy to meet the needs of new large aircraft and the traffic demand of the 21st century. KLIA has pioneered the use of state-of-the-art technology in airport management known as Total Airport Management Systems (TAMS). TAMS, managed by Malaysia Airport (Technologies) Sdn. Bhd. consists of more than 40 systems and airport functions including air traffic management, baggage handling, passenger check-in, and flight information display.
+
+
+Responsibilities as Developer:
+
+· Developed reports for FI-AP (Finance Accounts Payable) FI-AR (Finance- Accounts receivable).
+· Installation of business content objects like Cubes, DSO, Info-sets etc.
+· Used formula variables.
+· Variable with Customer Exit used.
+· Generated and Maintained Aggregates and Rollup activities
+· Uploaded master and transactional data from flat files and SAP R/3.
+· Worked on LO-Cockpit extractions, loaded the data from R/3 to BW.
+· Enhanced the Data Sources as per the client requirement.
+· Maintaining Reconciliation’s to verify the data in SAP ECC and SAP BI are same or not after the data loads.
+· Involved in transporting the BW objects from development server to quality server
+· Updating progress of work in monthly and weekly project review meetings.
+· Transported developed objects from development client to Quality and Production.
+· Performed Data Extraction and Data Staging using LO Cockpit (LBWE) and extended the structures using user exits to support the business needs.
+· Involved in BW Upgrade to 7.0 to 7.4 and BW Housekeeping tasks.
+· Tested all objects after upgrade.
+
+PROJECT: # 2
+
+Gatwick Airport                                                                                         Nov’2016 May2016
+
+Description:
+
+· Gatwick Airport began life in 1930 as the Surrey Aero Club, a small flyers club, used exclusively by flying enthusiasts - however it did not stay this way for long. Four years later Gatwick was licensed as a public aerodrome, intended to provide regular air services to Paris and act as a relief aerodrome for London Croydon Airport. In this year Gatwick also gained its first scheduled flights – Hillman’s Airways to Belfast and Paris.
+The descendants of Hillman’s Airways still fly from Gatwick; though you might know them better as the company they later formed a part of - British Airways. Today, they have been joined by roughly 45 airlines flying to 200 destinations and carrying over 38 million passengers.
+We’ve come a long way since the 30s. Take a look below to see the key points in our journey from private aerodrome to RAF base to the busiest single-runway airport in the world.
+Responsibilities as Developer:
+
+· Generated and Maintained Aggregates and Rollup activities.
+· Maintaining Reconciliation’s to verify the data in SAP ECC and SAP BI are same or not after the data loads.
+· Performance tuning of Queries by maintaining Aggregates, roll-up, Compression, partition of Info cubes and use of statistics for the same.
+· Worked on LO-Cockpit extractions, loaded the data from R/3 to BW.
+· Installation of business content objects like Cubes, DSO, Info-sets etc
+· Involved in data Validation report data and ECC data.
+· Extracted data from ECC & BW to excel files.
+· Used APD‘s to send data for non-sap systems.
+· Worked on Variables such as Formula variable, Text variables, Characteristic variables, by processing type user entry/default, Replacement path.
+· Query Building: Define variables, rows (Characteristics), Columns (Key figures), design free characteristics for further drill down.
+PROJECT: # 3
+
+Aditya Birla Nuvo Limited					Dec’2013 to Nov’2016
+
+Description:
+· Aditya Birla Nuvo Limited is an India-based conglomerate operating in the services and the manufacturing sectors. The Company operates through five segments, including Financial Services, Fashion & Lifestyle, Telecom, IT-ITeS and Manufacturing. The Financial Services segment provides life insurance, asset management, Non-Bank Financial Corporation’s (NBFC), private equity, broking, wealth management and general insurance advisory businesses.
+
+Responsibilities as Developer:
+· Undergone Solution Manager Training
+· Developed reports for FI-AP (Finance Accounts Payable) FI-AR (Finance- Accounts receivable).
+· Installation of business content objects like Cubes, DSO, Info-sets etc.
+· Used formula variables.
+· Variable with Customer Exit used.
+· Generated and Maintained Aggregates and Rollup activities
+· Uploaded master and transactional data from flat files and SAP R/3.
+· Worked on LO-Cockpit extractions, loaded the data from R/3 to BW.
+· Enhanced the Data Sources as per the client requirement.
+· Maintaining Reconciliation’s to verify the data in SAP ECC and SAP BI are same or not after the data loads.
+· Involved in transporting the BW objects from development server to quality server
+· Updating progress of work in monthly and weekly project review meetings.
+· Transported developed objects from development client to Quality and Production.
+· Performed Data Extraction and Data Staging using LO Cockpit (LBWE) and extended the structures using user exits to support the business needs.
+
+Responsibilities as Support consultant:
+
+· Prepared KT plan and document for 2nd level
+· Done query and web templates changes as per requirement
+· Involved in daily process chain monitoring.
+· Prepared BPD (Business process Document)
+· Data validation after completion of process chain.
+· Changed web templates as users per requirement.
+· Worked on 3rd level CSS tickets(customer service support).
+· Worked on CSS tickets as per MPT (Maximum Processing Time)
+· Resolved tickets related to data-loads
+· Prepared the flat files and loaded the data into BW as per the User’s requirement.
+· Removed the process chains from scheduling during the down time of the system and rescheduled all the process chains after the down time.
+· Resolution of BW problems relating to data load and data mismatch. 
+· Involved in Creation of Process chains, Meta chains. 
+· Coordinated offshore team to resolve high, medium, low level tickets.
+· Arranging weekly meeting with SME and offshore team to update status of CSS tickets.
+· Given knowledge transfer to 2nd level team on authorization and process oriented tickets.
+· Created profiles and transported to Quality and production.
+· Involved in submitting the Tickets status (open/close) report.
+
+
+PROJECT# 4
+Carban Black					                         May 2012 to 2013 Dec
+Description:
+
+The Fashion & Lifestyle segment is engaged in branded apparels and accessories, and textiles, which includes Linen Yarn and Fabric, Worsted Yarn and Wool Tops. The IT-ITeS segment is engaged in business process outsourcing services and software services. 
+
+Responsibilities as Support Consultant:
+
+· Installation of Business Content Objects (Info-cubes, ODS, Multi-providers, Info-sets, Info-objects etc) for FI module.
+· Enhancement of data source to integrate and SAP R/3 data.
+· Activation and replication of data sources 
+· Execution and data validation of Business content Queries.
+· Transported developed objects from Development to Quality
+· Creation of process chains for loading of Master and Transaction data.
+· Created Info objects, Data source, DSO, Transformations, IP and DTP. 
+· Written Lookup in the End Routine to populate the data for the fields.
+· Performance: Building aggregates, compressing requests on info cubes and free characteristic to improve the query performance. 
+· Transported the Objects from Dev to Qua.
+· Created Process Chains to load data to data target and included ABAP process type.
+· Created and Scheduled the Process Chains.
+
+
+2
+

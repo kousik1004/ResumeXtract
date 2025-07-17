@@ -1,0 +1,235 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Resume
+Rahul Priyadarshi                                   
+
+
+
+
+
+
+   email: rahul.rbei@gmail.com
+#64 BTM 1st Stage
+Bangalore     
+
+
+
+
+
+
+
+                                         mobile : 8123541232 
+                                                                                                                                                                                                                                                 
+Automotive Embedded Developer
+Seeking a position in an organization that provides me ample opportunity to explore & excel while carving out the niche for personal, professional as well as organizational goals.
+Professional Summary: 
+
+·  4 years of Professional Experience with full project Life cycle development in embedded systems, Requirements analysis, Design, Development & Testing of embedded applications.
+· Development of Test Benches / Work Benches for Defense Systems using C, C++ . Versatile    team player with good communication skills, hardworking and result oriented.
+
+· Experience in Embedded C Programming.
+
+· Experience in design development and implementation of multi-threading and multi-processing application using C. 
+
+· Experience in Gnu C, through Function, Array, Pointer, String, File handling, Structure, Linked list and Low level (System) programming.
+· Experience in Linux system programming (Linux Internals), Design Patterns, IPC, Mutex and Semaphore, Socket programming, TCP/IP Sockets.
+· Experience in Porting and Deployment of Linux Kernel on Different Architecture.
+
+· Knowledge of ANSI C++ with Oops Concepts, Constructor, Destructor, Inheritance, Virtual Function, Template, Polymorphism.
+· Knowledge of networking concepts as OSI Model, TCP/IP Model, IP, Classification of IP address, Socket programming using C.
+ SKILL SET:
+· Programming Language:  C(Gnu C), C++ (ANSI/Gnu C++), Embedded C(ANSI C)
+· Platform:  x86/Linux-3.12, ARM9/Linux-3.12, 8051/at89S52.          
+· Libraries: glib c, uclibc, Pithead, Socket, ANSI C.
+· Tools:      GDB, Proteus ISIS7, Orcad 9.1, Kiel vision, Make, Build root, busy box, UBOOT, RTRT, RTC Understand C SVN, MKS, DOORS, and And CAN Analyzer.                       
+· Protocol:   UART, I2C, TCP/IP, UDP, CAN, 1553B, RS422.
+Experience summary:
+	Robert Bosch 
+	Senior Software Engineer
+	April 2016
+	Till Date
+
+	HCL Technologies Limited
+	SENIOR DEVELOPER
+	May 2014
+	April 2016
+
+	Renaissance Soft labs 
+	Software Engineer
+	Feb 2013
+	July 2013
+
+
+PROFESSIONAL EXPERIENCE :
+	Title
+	JLR Video SVC2.5 (IPMA)
+time period (May 2016 to Till date).
+
+	Environment :
+Platform : Windows
+
+	Tools : Visual studio, CSCRM,MKS,RTC,CAN Analyzer, DOORS,T&R,
+Language: C++
+
+	    Hardware: SVC2.5 Board 
+      
+
+	     Description
+	Camera (VIDEO) System is aimed at providing Driver assistance to user by providing a 3-Dimensional overview of the surrounding. This Cam ECU provides 3D view of the surrounding with the help of stitched images obtained by four cameras located at front, rear, left and right sides of the car respectively. At each instance the images acquired from cameras ‘SATCAMS’ are processed by inbuilt micro chips ‘SALSA’ are stitched together by image transformation technique to obtain a 3-D view. The image processing is handled by a high speed dual core processor ‘ZYNQ’. The images are transmitted to Zynq with the help of CAN switch associated with each Camera at 1Gbits/s. Secondary processor ‘i.Mx6’ provide a wide range of viewing angles of the car. It uses the latest CMOS (complementary metal oxide semiconductor) technology for its cameras, ensuring excellent image quality even when faced with great differences in brightness or poor light conditions.
+
+	Role $ Responsibility
+	· Framework development for Can Message reception and transmission between camera ECU and Other connected ECUs.
+
+· Validation of received Messages from Different Issues.
+· Configuring the signals as per functionality.
+· Testing of Signal parameter through Can Analyzer.
+
+
+
+
+	Title
+	IFD PANASONIC EUROPE(INVEHICLE INFOTAINMENT AVCLAN IMPLEMENTATION )
+time period (May 2015 to March 2016).
+
+	Environment :
+Platform : linux-2.6.32.2
+
+	Tools : Understanding  C++, jira, RTRT,SVN
+ Language: C++,Embedded c
+
+	    Hardware: Panasonic_IFD build board 
+       RSE
+
+	     Description
+	AVC-LAN consists of audio visual systems such as the multi-display, navigation ECU, radio and player, stereo component amplifier and gateway ECU.
+We are preparing the packets by receiving the data from media Player (USB, IPOD, SD, DVD, BLUETOOTH, IPHONE) and send it to communication layer through different type of Avclan and Most command to send it to RSE.
+
+	Role $ Responsibility
+	· Framework development for different media Player for Avclan and Most command Notifications.
+
+· Framework development for different media Player for Avclan and Most command Request and Response.
+
+· Storage containers development for data received from media Players
+
+· Interface development of AVCLAN-MOST and Media Player.
+
+· Development  of Packet of data for a  particular command of  AVCLAN-MOST
+
+· Development of Protocol Interface for data sending to communication Layer. 
+
+	Title
+	IFD PANASONIC EUROPE(INVEHICLE INFOTAINMENT(May14 – June 15) 
+
+	Environment :
+Platform : linux-2.6.32.2
+	Tools : , Understanding  C++, jira, RTRT,
+ Language: C++,Embedded c
+	Hardware: Panasonic_IFD build board
+
+	     Description
+	 In-vehicle infotainment (IVI), is a collection of hardware devices installed into automobiles, or other forms of road transportation, to provide audio or video entertainment, as well as automotive navigation systems. This includes playing media such as Aux, CD, DVD, USB, SD, BD, Bluetooth, IPod, I phone or other optional surround sound. We are working as middle-were, We used to get the data from lower layer and as per player type request response and notification forward the data to application Layer.  
+
+	Role $ Responsibility
+	Porting of Kernel Image and Root file system to target board.
+
+· Framework development for different media Player like ITGP, Disc Player,
+ IPod Player.
+· Creating player Interface from Different Libraries like Cinemo, MMCOM and Gracenote.
+
+· Development of source code for USB, SD and CD-MP3, IPOD, DVD, BD media.
+
+· Development of request handler for USB-SD-CD media.
+Sending the notification to GUI. 
+
+
+	Title
+	LAN Based Data Acquisition and Automation system for Industries.
+
+	Environment : High performance embedded workshop(HEW) 
+	Language: Embedded C                            
+	      Hardware:AT89S52(8bit)u/c
+
+	Description
+	It is the system based on 8051 controller which is interfaced with 4 channels ADC (MCP3204) through which it is controlling the four devices connected with it.  I have designed a server application which can access this hardware system through serial communication and Server is capable to get the requests from multiple clients to provide the access of the devices connected on the hardware for authenticated clients. This application of this project can be used for automation industry where different operators can get access the hardware system.
+
+Server and client platform were in LINUX based local area network (LAN).
+
+	Role & Responsibilities
+	· Research in various existing  Access Control system
+
+· Firmware developer.
+
+· Development and testing of different sensor modules 
+
+· Development of the communication b/w host with server and client
+
+
+EDUCATIONAL BACKGROUND
+
+	Duration
+	                    Institution
+	  University
+	       Stream
+	Percent
+
+	2011
+	Ajay Binay Institute of Technology      
+	  B.P.U.T 
+   ORISSA
+	 B. Tech(Electronics)
+	7.26 CGPA
+
+
+Reference: Available on Request.
+

@@ -1,0 +1,212 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USER
+
+
+ 
+
+V I K A S  P H A T A K        E-Mail:  vikasp.instru@gmail.com 
+          Phone: +91 7738719247 
+ 
+
+Result-oriented professional with 6 years of hands on experience in product delivery, application of data 
+sciences to solve problems in manufacturing and power industry. 
+
+ 
+ 
+ 
+
+P R O F I L E  S U M M A R Y  
+
+ Skilled in using data analysis to support decision making process towards strategies that deliver values 
+ Ability to take prototype machine learning models through to production implementations, delivering new 
+
+products and services 
+ Ability to understand and transform data to meet the customer’s needs and business context 
+ Successfully deployed short term load forecasting model for largest public sector power generation utility in 
+
+India which reduced 2.5% generation costs and significantly reduced non-compliance penalties 
+ Successfully deployed India’s first Load shedding and restoration recommendation system for power 
+
+transmission utility responsible for delivering power to over 35% population of India. 
+ 
+S K I L L S E T  
+
+ Programming:   Python, SQL, R, C and familiarity with Java 
+ Libraries:    Pandas, Scikit-Learn, Statsmodels, Numpy, Caret, Tidyverse family, Forecast, 
+
+Prophet      
+ Visualizations:   Tableau, Matplotlib, Seaborn, ggplot2, Rshiny 
+ Big data frameworks and tools:       Apache Hadoop, pig, Cassendra, familiarity with Spark 
+ Machine Learning : Linear regression, Logistic regression, Decision trees, Random forest, SVM,  
+
+ K-means clustering, SVD/PCA, Time series analysis, LSTM 
+ Tools: Git, MS-Excel, MS-PowerPoint 
+ 
+
+ 
+W O R K  E X P E R I E N C E  
+
+Capgemini India Pvt. Ltd., Mumbai (Consultant – Digital Manufacturing)                              (October 2016 - Present) 
+Key responsibilities: 
+ Communicate with the clients and understand their business needs 
+ Develop sophisticated analytical frameworks that add value to addressing client needs 
+ Use statistical tools to identify and evaluate the relationships between data fields, analyze output and 
+
+determine the next action 
+ Perform quality checks during all stages of job delivery and document the process 
+ Timely completion of all deliverables allowing sufficient time for quality checks, analytic and business context 
+
+reviews and associated revisions 
+ Maintain python libraries developed for proprietary ‘Smart Analytics tool’ 
+ Attend training programs facilitated by Capgemini and participate in POC activities 
+ 
+Chemtrols Industries Limited  (Engineer – Utility management systems)                (April 2014- September 2016) 
+Key responsibilities: 
+ Study of project specifications, identifying customer requirements and project deliverables 
+ Collaborate with subject matter experts and data scientists and customers to understand business logic 
+ Development of bespoke software requirements 
+ Maintain code base, builds 
+ 
+Ascent Techno-solutions Private Limited (Engineer – Industrial Automation)              (July 2012-March 2014) 
+Key responsibilities: 
+ Preparation of project deliverable documents 
+ Development of bespoke reports generation utility for manufacturing industry using SSRS  
+
+ 
+A C AD EM IC  D ET A IL S  
+
+ Executive program in Business analytics for MISB Bocconi in 2017 
+ B.E. (Instrumentation) from Bharati Vidyapeeth College of Engineering,, University of Mumbai in 2012 with 61.95% 
+  
+
+
+
+ 
+
+T R AI N I N G S  
+
+Apache Spark 
+Advanced SQL 
+Excel for Business analysts 
+Apache Kafka 
+Industrial IOT 
+ 
+M A J OR  P R O J EC T S  
+
+ 
+Short-Term Load Forecasting (STLF) using time series analysis and LSTM for Damodar Valley Corporation 
+ Load forecasting engine was designed to support decision making such as unit commitment, reducing spinning 
+
+reserve, economic dispatch and maintenance scheduling. 
+
+ This engine deals with the forecasting from 15 minutes to 1 week.  
+
+ Data from Regional SCADA systems, Weather stations was used as primary data sources. 
+
+ Final model was built and deployed on historical data server using python and oracle stored procedures 
+
+Load shedding and restoration recommendation system for Powergrid India Ltd (Eastern Grid) 
+ Load shedding and restoration recommendation system was designed to identify areas where power can be 
+
+shedded in situations such as power shortage, low frequency in grid, excessive loads causing instability in grid. 
+
+ Model was designed to recommend loads that can be shedded without creating power swings and electrically 
+
+isolated islands. 
+
+ Model was designed in such a way that it can recommend restorations when system reaches to normal 
+
+operating conditions. 
+
+ Data from real-time power monitoring systems, optimal powerflow simulator and energy management 
+
+systems was used to build the model. 
+
+ Model was deployed using python and c along with SCADA system where real time status of power loads, 
+
+breaker statuses and grid frequency is available 
+
+Predictive Maintenance model for toothbrush manufacturing facility of Oral-B 
+ Predictive maintenance model was developed to diagnose manufacturing lines in real-time to ensure heath of 
+
+equiments. 
+
+ Historical data from process historians and real-time sensors data from control system were used as to detect 
+
+possible anomalies in the normal behavior of equipments 
+
+ The incipient detection of anomalies improved mean time between failures up to 240 minutes. 
+
+Centerlining process model for diapers manufacturing facility 
+ Centerline process model was developed to make sure that the manufacturing system runs the same way all of 
+
+the time. 
+
+ Historical production data was used to find out important variables and best operating conditions 
+
+ Real-time dashboard was developed to monitor process variability. 
+
+ Centerline model helped to eliminate the need of quality checks on each manufactured diaper which reduced 
+
+inefficient testing of high volume manufactured product like diaper without compromising the consistency in 
+
+the product quality. 
+
+ System reduced the annual operating cost by 5% and helped to improve overall equipment effectiveness 
+
+ 
+PERSONAL INFORMATION 
+Date of Birth:    24th July 1990 
+Languages Known:   Marathi, English, and Hindi 
+Hobbies:    Reading, Travelling 
+Mailing Address:    503, Din Quarry Road, Chembur, Mumbai – 400088 
+
+  
+
+

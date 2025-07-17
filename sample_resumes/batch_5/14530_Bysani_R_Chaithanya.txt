@@ -1,0 +1,119 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+		     
+Bysani R Chaithanya
+Mail : chaitu.bysani@gmail.com					Mobile : +91-8050003431									
+									
+Professional Synopsis:
+
+·  3.3 Years of experience on Oracle 9i/10g/11g/12C as Database Administrator.
+· Seeking Oracle Database Administrator position in a challenging environment, where I can make significant contribution towards company’s immediate and future goals.
+
+Key Functional Areas:
+· The main responsibilities include managing, maintaining and supporting Production environments. 
+· Working on basic DMA tasks on Oracle Exadata X5-2 Eight Rack.
+· Worked on various  backup methodologies like RMAN  Backup, Export and import of table, tablespace, and full database from Production to UAT.
+· Performing Refresh of Test databases using export/import as well as EXPDP and IMPDP.
+· Applying database PSU patches for Standalone using Opatch Utility.
+· Worked on creating Database health check Report with the help of AWR reports
+· Creating and managing database objects like tables, views, and indexes.
+·  User Management steps like Creating users and managing privileges. Also, Creating profiles and attaching them with users and monitoring the users.
+· Monitoring Oracle errors and creating SR in Metal ink.
+· Experience in Configuring and managing backup through RMAN utility.
+· Provided end to end administrative support on applications which involves Oracle databases. 
+· Worked on Creating SOP documents that helps new joinees acquire account related information in efficient way so as to enable them to work on different tasks quickly.
+· Well versed with ITIL process like Incident Management, Change Management, Problem Management.
+
+
+Work Experience:
+
+· Working as an Oracle Database Administrator with IBM from September 2014 to till date. 
+
+Educational Qualification:
+
+· Bachelor of technology (B.Tech) from ANU University. 
+
+Software Skills:
+
+Operating Systems		: 	AIX,Linux,Sun Solaris,Hp-Unix,Windows
+Databases			: 	Oracle 9i, 10gR2 ,11g,12C
+Languages			: 	SQL,PL/SQL
+Tools & Utilities		:	 Data Pump, RMAN,  SQL*Plus,
+            		  putty, Service Now,Remedy,
+Project Details: 
+
+Company		:	IBM Bangalore
+Client 			: 	FIAT SPA,CHRYSLER 
+Work Location	:	Bangalore
+Designation		:	Database administrator 
+
+Responsibilities:
+
+· Taking care of various activities like backup, troubleshooting, performance tuning.
+· Worked on DB related issues which are faced by test team and clients.
+· Creating SR with Oracle Support and follow up.
+· Applying patches using OPatch utility.
+· Implementation of Backup  Strategies using RMAN.
+· Creating health monitoring using pre-written scripts.
+· Configuring, managing DB links and other DB objects.
+· Exporting and Importing database backups using Export & Import and EXPDP/IMPDP.
+· Coordinating with internal teams to troubleshoot Client issues as per the Process guidelines.
+· Performing Re-org activity from time to time as suggested by senior DBAs.
+· Performing routine database activities like 
+a) checking scheduled jobs and troubleshooting failed jobs
+b) disk space analysis  and database space analysis.
+c) Alert log errors by working on Netcool Generated Tickets.
+

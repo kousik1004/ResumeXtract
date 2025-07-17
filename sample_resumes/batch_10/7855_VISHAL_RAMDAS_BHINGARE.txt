@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VITAE
+
+
+	VISHAL RAMDAS BHINGARE
+	
+
+	E-mail:- vishal_bhingare@rediffmail.com                             Phone:-   +91- 8308652457
+               vbvishalbhingare@gmail.com                                                  
+
+
+CAREER OBJECTIVES                                                       
+
+
+
+             
+
+To obtain a position in a well-established organization that will utilize my skills thereby contributing to the company's growth.
+
+PROFESSINAL SUMMARY                                              
+
+            
+
+
+· Around 36 months of experience in SQL and SSIS and 24 months of experience in excel based reporting, spotfire and Nielson answers tools. 
+· Domain Knowledge of CPG market & Data Management.
+
+· Expertise in writing and debugging simple Stored Procedures and Views.
+
+· Supported team in resolving SQL Reporting services and issues.
+
+· Ability to handle multiple projects at a time.
+
+· Conducted trainings for new joiners.
+· Excellent communication skills bridging Client Interaction and Team Management.
+· Strong analytical, problem troubleshooting/solving skills, self-starter.
+· Work on Cost Saving and done huge Cost saving for Project.
+
+· Contributing to setup the processes between client & within Infosys to stabilize the projects.
+· Consistently evaluated as an excellent employee.
+TECHNICAL SKILL                                                                                                 
+
+Development Tools  :  MSBI, Visual Studio, MS Office, Spotfire application
+
+Concepts                   :    Data Structure and Algorithms, Database Management
+
+Databases                 :   MS SQL Server 2008
+Operating Systems  :   Microsoft Windows.
+
+Miscellaneous          :    Crystal Report 8.0, MX Dream Weaver, Neilson Application
+
+AWARDS & RECOMMENDATION                                                                        
+
+· Won the most prestigious award of Infosys i.e. (IStar Award)
+· Rising star & spot awards
+· Proctoid Award (P&G Award) for outstanding performance for entire Quarter.
+· Appreciated by client on representing the data by using SQL queries.
+
+WORK EXPEREINECE                                                                                          
+
+INFOSYS LIMITED PUNE
+1)Project Name : Western Europe Shipment
+
+Role
+              : Sr. Analyst (Working as SQL Developer)
+Technologies 
+   : SQL server
+Duration
+   : Jul 2013– till Date
+PROCTOR & GAMBLE
+Shipment Report is basically for Northern Europe (Total 128 reports).These reports are one of the best reports provided by Infosys to P&G. The data provider for this project is HP team which provides us the RAW data of day to day’s shipment of P&G key customers.
+
+In this project my responsibility was to create SQL procedures, SSIS packages to upload the all extracts in SQL tables to manipulate the data & present the data in terms of the report structure with the help of mapping files. Client suggested to represent the report in excel, so we have constructed a Pivot Table & with the help of Macro we have generated the report template.
+Key Responsibilities:
+· Executing the queries to fetch the required data from client server and prepare the raw data for further use. 
+
+· Creating Technical documents for Project and Effort Estimating for Project.
+
+· Communicating with Client to understand the project requirement.
+
+· Developed SSIS Package and SQL Store Procedures. 
+
+· Use of in house data warehousing tools - Nitro, Source One (OSAWeb), AOS (Wal-Mart) for data extraction in excel format as per category specific requirements, using MS Access external database connectivity template is prepared. 
+2) Project Name : TOP 10 CUSTOMERS & IMEA TOP CUSTOMERS.
+
+Role
+ 
+: Reporting Analyst
+Technologies   : Excel, Access and SQL SERVER
+
+Duration 
+ : Oct 2011 – Jun 2013.
+
+Detail Description:  Top 10 Customer Report is actually created to understand/ analysis the business of top 10 Customer of entire Central East Europe Market. We have Extracted data from SOURCE ONE Tool as per top 10 Customers and then process that data in SQL server. Further mapping and calculation is done in SQL and final report is ready to publish. We have used Pivot SQL table in this project so report work fast as compare to simple PIVOT.
+
+Its monthly report to understand monthly sales and figures of all top ranking customers.
+Key Responsibilities:
+· Creating Technical documents for Project.
+
+· Creating CPS for Project.
+
+· Developed SSIS Package and SQL Store Procedures.
+
+· Communicating with Client to understand the project requirement.
+
+· Communicating with Client to understand the business understanding.
+3) Project Name : France Innovation tracker Report along with Visualization.
+
+Role 
+
+ : Jr.Analyst
+
+Technologies   : Izoom,Spotfire and Advanced Excel
+Duration 
+: Aug 2010 – Sep 2011.
+
+Detail Description:  Top 10 Customer Report is actually created to understand/ analysis the business of top 10 Customer of entire Central East Europe Market. We have Extracted data from SOURCE ONE Tool as per top 10 Customers
+Key Responsibilities:
+· Creating Technical documents for Project.
+
+· Communicating with Client to understand the project requirement.
+
+· Created different kind of visualization to show trends of their products
+AASHAI TECHNOLOGIES
+Project Name : Aashai Payoll system
+
+Role  
+
+: Jr. Software Trainee
+
+Technologies   : Dot Net application and SQL Server
+Duration
+:  Jan 2010 – Jul 2010   
+
+Aashai has programming skills in C/C++/.NET and on a variety of hardware platforms. Along with this, Aashai has very strong technical understanding of key areas in CAD/CAE like Geometry Modeling, Finite Element Analysis, and Application framework.
+
+Key Responsibilities:
+· Dot Net Developer
+
+· Maintaining employee details, pay slip related information, salary structure details, savings details, leave details.
+·  Generated the different kinds of reports as TDS reports, Monthly salary reports, and Monthly Leave details. 
+· Easy to tracks the CDs and Book records.
+· Responsible for Change Management and issue analysis.
+
+· Responsible for Quality audits.
+
+EDUCATION QUALIFICATION                                                                                 
+
+   
+
+	Education
+	Passing Year
+	Average Marks
+	College/School
+	Board/University
+
+	M.C.A
+
+(Management)
+	2010
+	First Class
+	M.I.T college,    Alandi, Pune.
+	Pune University,
+
+Pune.
+
+	B.C.S
+	2006
+	First Class
+	Dr.D.Y.Patil College, Pimpri, Pune.
+	Pune University,
+
+Pune.
+
+	H.S.C
+	2003
+	Second class
+	B.J.College, Bhosari, Pune.
+	Maharashtra Board.
+
+	S.S.C
+	2001
+	Second Class
+	B.J.College, Bhosari, Pune.
+	Maharashtra Board.
+
+
+PERSONAL DETAILS
+Name
+
+
+
+:
+VISHAL RAMDAS BHINGARE.
+
+Father’s Name
+
+:  
+Ramdas Indrabhan Bhingare.
+Date of Birth
+
+
+:
+29th Oct. 1985
+
+Gender
+
+
+:
+Male
+
+Nationality
+
+
+:
+Indian
+Marital status
+
+:
+Married
+
+Languages Known
+
+:
+Marathi, Hindi, and English.
+Hobbies
+
+
+: 
+Playing Cricket, Travelling and Making new friends.
+
+DECLARATION
+I hereby affirm that the particulars given above are true to the best of my knowledge.
+Place:
+
+
+
+
+
+
+
+Date:
+
+
+
+
+Yours Faithfully,
+
+                                                                      (Vishal Bhingare)
+
+

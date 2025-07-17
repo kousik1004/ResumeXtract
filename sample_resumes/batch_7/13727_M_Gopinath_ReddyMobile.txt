@@ -1,0 +1,305 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+                                  						                                               M Gopinath Reddy
+Mobile: +91 8977557772 or +91 9600676745
+E-Mail: gopinath.sapbo@gmail.com
+
+
+
+
+
+SAP BO / BO-HANA/BW-BI SPECIALIST
+Offering nearly 7+ years of rich experience, with core strengths in SAP BO-BI / BO-HANA / BW Solution Design & Development, BO Admin, Project Execution, Production Support and Solution Architecture
+
+Expertise in end to end development and implementation of Business Intelligence Solutions using SAP BW/BPC and related technologies across the enterprise
+
+Domain specialization in implementation of BO Upgrades/ BW-HANA up gradation and BPC, BI BO 4.1 Integration Projects for clients in Pharmaceutical, Healthcare, Banking, Finance, Electrical, IS Oil & Gas and Automobile Industry, involving analysis of business requirements and translation into technical design
+Profile Summary
+
+· SAP BW On HANA : 
+Skills in core BW on HANA migration project for preparing Pre upgrade c Implementations, Development, Administration, Testing & Production Support of Data Warehouse / Data Mart Solutions such as SAP BI BW-HANA, BO 4.1, SAP BW 7.3, SAP Design studio, Crystal Reports and  SAP Lumira.
+· Excellent track record of managing full life cycle implementations with detailed functional knowledge of functional SAP modules and understanding of business & technical integration issues associated with the modules
+· Proficient in working on SAP BW/BI components and Planning components like creating Input schedules/ Reports and  ETL Process like creating Info Cubes, Multi Providers, Remote Cubes, Transactional Cubes, Data Marts, Info Source, Info Package, Data Source, Info Objects, ODS (DSO), Update Rules, Routines, Transfer Rules, Process Chains and Event Management for Automation Process, Transformations in BW 7.3 
+· Strong exposure in creating reports using Launchpad & IDT in Business Objects 4.1, XI R3 & XIR2, BEx Query Designer, Analyzer & Web Application Designer and Dashboards using UI Controls and Data Visualization Techniques
+· Team player with strong analytical, problem solving, interpersonal and coordination skills; capable of leading medium sized teams of 10+ members and able to deliver solutions with minimal guidance from project managers       
+               
+Work Experience
+
+
+                         Since Oct’15 working with Genpact India Pvt ltd, Hyderabad as SAP Consultant
+
+                         June’14 – October’15 worked with HTC Global Services India Pvt Ltd, Chennai Location as SAP BO Consultant 
+       
+                                       May’10 –May’14 worked with Covantech India Pvt Ltd, Hyderabad as BO Developer 
+
+
+
+Responsibilities:
+
+· Developing & implementing Business Intelligence solutions using SAP BW and related technologies across the enterprise BI environment; driving the implementation of enterprise BI Solutions to maximize stability and flexibility while limiting the effects of changes in either the source systems or the BI applications
+· Delivering detailed solutions designs aligned to approved architecture standards, and the brief of the Lead Architects utilizing current defined standards & best practices
+· Operating within a Global service delivery environment to provide a detailed design function to all business lines; turning identified solution delivery requests into project plans, including detailed work plans, timelines, and budgets which meet the needs of functional management and process owners
+· Managing the quality, cost and schedule of technology solutions required to successfully complete unique projects to be integrated into the business portfolio.
+
+Other Technical Responsibilities: 
+
+· Creating OLAP Universes using SAP BW (Multiprovider, Info cubes & Custom Bex Queries)
+· Creating Real-time Dashboards which includes development of custom SDK components for Design studio 1.6 
+· Creation of Geo-Maps and applying drill down functionality  in Design studio
+· In Design studio for Points and Charts layers, the geo dimension ideally includes the standard BW latitude and longitude attributes, otherwise they need to be defined as measures in the columns section of the Initial View.
+· Gathering business requirements, building universes in the IDT, retrieving data using universes, personal data files, stored procedures & free hand SQL methods and creating complex ad-hoc reports using data access and report design using BI Launchpad
+· Working on CMC (Central Management Console) for user management, content management, and server management tasks and CCM (Central Configuration Manager) to manage local & remote servers
+· Developing highly complex reports using reporter used various techniques like Master-Detail, Sectioning, Filters, Slice and Dice; generating Sub Reports, Standard, Mailing Labels, Cross Tab Reports and Graph Reports by using Chart expert of Crystal Reports
+· Queries, Calculation & Restriction of Key Figures, Structures, Variables, Exceptions, Conditions, Crystal Reports, Authorizations, User Profile Maintenance, BEx Analyzer, Info Set Query, RRI, Web Reporting and Workbooks
+· Extracting Data from SAP R3/ECC, non-SAP systems and flat files
+· OLAP reporting in BW and implementation of BEx Analyzer
+· Development of reports, analysis and Web reporting using BEx Query Designer & BEx Analyzer 
+· SAP Installation, SAP Web Dispatcher, SAP Router Configuration, Transport Management System Configuration
+· SAP Implementation, SAP SD, SAP MM, SAP PP Integration for Business Processes
+· Mapping of As Is-To Be system requirements for SAP MM up gradation from SAP R/3 4.7 to ECC 6.0
+· End to end functions on SAP R/3 systems for e.g. role building, configurations, role maintenance, security for new production releases, user creation and troubleshooting
+· Working with external interfaces e.g. Legacy System Migration, etc.
+· Central User Administration and SAP Net Weaver for User Management
+· Use of Linux platform for troubleshooting to enhance the efficiency of the client pipeline and ensured end-to-end connectivity of the data packets
+· Creation of Aggregation Levels, Planning Filters, Planning functions, Planning Sequences, Data Slices, Characteristic Relationships using Integrated Planning
+· Planning Functions using Fox programming to process plan/Actual data based on the requirements
+· Debugging Data load errors, Delta Queue Monitoring, and Extractor Checker by simulating BW asking for data and Customer Exits, Master/Transaction Data Testing
+· Extracting data from SAP R3/ECC, non-SAP systems, and flat files
+· OLAP reporting in BW and implementation of BEx Analyzer (Worked with BEx Query Designer, BEx Analyzer for developing reports, analysis, and Web reporting).
+· Experience in OLAP functionalities like Scope of Analysis, Drill Analysis and Slice & Dice
+· Experienced in Business Objects Universe Designing, Business Objects Desktop Intelligence, Business Objects Web Intelligence, Business View Manager, Info view, CMC and Business Objects Enterprise and Xcelsius Internships  
+
+Accomplishments:
+· Played a stellar role in creating 100+ reports in both Crystal and BO
+· Secured new projects by delivering ahead of deadlines
+· Suggesting the Customer to select the right BI tool based on their business needs
+· Essayed a key role in overcoming several critical challenges during the execution of projects
+
+Onsite Assignments:
+· Migration of development work of NAPESCO Project from Kuwait to Chennai Development Unit including training of technology members & end users, at Kuwait in Jun’15
+
+
+
+Technical Skills
+
+Business Intelligence:	SAP Business Objects BI 4.1 /XIR3, Webi/Deski, Designer, UDT/IDT/CMC, Crystal Reports 2011, Design Studio 1.5/1.6, Analysis for Office, Analysis for OLAP and SAP Lumira
+SAPBI/BW:		ECC, SAP BW 7.3 (ETL &Modeling & Reporting)
+Modeling Tools:		TOAD, SQL Loader, MS Visio 2007
+ETL Tools:		Informatica
+Languages:		C, C++, SQL, T-SQL
+Web Technologies:	HTML, JavaScript, XML
+RDBMS:			Oracle 8i/9i/10g, MS SQL Server 2005, MS-Access 97/2007, DB2, Excel
+Operating Systems:	Windows 7/XP/2008, UNIX
+
+Education
+
+· Master of Computer Applications (MCA) from Sri Venkateshwara University in 2010, Tirupathi.
+· Bachelor of Computer Science (BSC) from Sri Krishna Devaraya University in 2007, Ananthapur.
+ 
+Personal Details
+
+Date of Birth:		31st January 1987
+Address: 		Hyderabad
+Languages Known:	English, Telugu and Hindi
+PAN NO:			BFQPM4210Q
+Passport No: 		J8344200
+Visa Status & Validity:         USA B1 & August 2026
+ 
+
+
+
+ANNEXURE
+
+Projects Details
+
+· Autoplus & PEP Boys								Period:  March’17-August’17
+Team Size: 15								Role: Sr. SAP Consultant
+
+
+
+Environment: 	SAP Business Objects BI 4.1/launch pad/IDT/BO admin/SAP BW 7.3/Design Studio 1.6/Webi Rich Client
+
+Responsibilities:
+· Worked on users creations and roles preparation for new users
+· Established the new connections for New Company specific data.
+· Gathering functional requirements from functional personnel and users on New Development & CRs
+· Created Safety and Productivity Dashboard using the SDK components from SAP.
+· GeoJSON File Consists of Latitude and longitude Information w.r.t States of US Base Map.
+· Created Geo Map component using GeoJSON file and enabled drill down on the map dynamically.
+· Used different components like Guage,Charts to represent total lost incidents and to compare TOP 10 plants with incidents
+· Used different Tab strips like Monthly Lines, Total units, weekly  lines, Total Units,Inventory,DC fill rate to showcase data to business user with respect  to location
+· Monitoring of reports executions, and deleting of history data loads.
+·  Identifying data mapping and table enhancement for getting the data into DW System
+· Developing input query requirements for  Reports, Script Logics including , Applications, Dimension with security setups like Task profile and Member access profiles
+· Introducing BW Object Configuration Changes and BEx Report Changes as per user requirements
+· Resolved ETL / Database performance issues during pre-implementation at customer sites
+· Preparing User/System Report Documentation and User Training & Testing Developed Reports for final deployment 
+· Creating new objects and classes in the Universe based on the report creation requirements; creating complex reports using complex variables, multiple breaks, sorts, cascading prompts, decode objects, etc. 
+· Involved in integrating the data content with Microsoft share point portal.
+· Monitored workload balancing technics to maintain the Server intelligent agent, without failing for  data loads.
+· Using formatting options like cross tab representation, section breaks, data sort options, calculations, font, colors, etc. 
+
+
+
+
+
+
+
+· Pfizer                            					 		Period: May’16 – Nov’17
+Team Size: 5								Role: SAP Consultant
+
+
+Environment: 	SAP Business Objects BI 4.0/SQL Server/launch pad/IDT/ SAP BW 7.3
+
+Responsibilities:
+· Handled planning, requirement gathering and testing phases of Migration Process
+· Developed documentation of all the Reports and Universes, for migration & conversion to BI 4.0-WEBI
+· Created SAP BW OLAP universes over BEx queries in BI 4.0 Environment
+· Built dashboards using Qlikview 11 and sub-reports in a main report to get Summarized and Detail Data and Cross tab reports in Crystal for different business needs
+· Maintained Planning Cubes, Planning Functions and Planning Sequence
+· Participated in activities related to SAP R/3, BW and Adaptor System Maintenance
+· Migrated the Business Objects and Crystal reports from lower versions to BI 4; worked with import wizard in moving reports and universes from Dev to UAT and production environment
+· Resolved ETL / Database performance issues during pre-implementation at customer sites
+· Identified the aggregate reports that analyze yearly & quarterly sales figures and worked with the DBA to create the relevant aggregate tables
+· Delivered trainings on creation of Ad-hoc reports and modification of universes
+· Prepared reports on different data sources such as Business Objects Universes, BEX Queries
+· Developed User/System Report Documentation and User Training & Testing Developed Reports for final deployment
+· Created several new objects and classes in the Universe based on the report creation requirements; created complex reports using complex variables, multiple breaks, sorts, cascading prompts, decode objects, etc. 
+
+
+
+· Energizer Holding INC, USA							Period: Oct’ 15 -Apr’16
+Team Size: 6							                                Role:     SAP Sr.Consultant
+
+
+Environment:	SAP Business Objects BI 4.0/BW 7.3
+
+Responsibilities:
+· Assessed the current system and client’s expectation; analyzed user requirements and prepared Low level Technical Specification documents for all the Web I reports
+· Developed new universe as per the client requirements by identifying the required tables from Data Mart using base queries, report mock-ups
+· Prepared simple to complex report from both Oracle Database and SAP BW using Hyperlink, Rank, Combined Queries, and Merged Dimension
+· Involved as key resource for analyzing SAP BI and BO 4.0 query requirements.
+· Completely took the responsibilities to deliver the reports in the prescribed formats.
+· Creation of BO reports as per the report specification, matching the User needs.
+· Created the backend BICS connections to the Bex Queries and Prepared the Bex Queries for the requirement.
+· Designed Dashboards for Top management using Dashboard Designer, by BICS Connection and published those into BW Portal.
+· Worked on Complicated Bex reports by enabling the Cell definitions and structures.
+· Integrated WEBI and crystal reports into PPT.
+· Created periodical reports monthly, quarterly and annual reports like ‘Category Analysis Report Volume Share’ which gives insight into the Volume Share amount for the past 3, 6 and 12 months, Calendar and Fiscal years across different product levels.
+· Developed all Faineance reports by Bex and crystal reports.
+· Designed Analysis Edition for OLAP Reports and Analysis Edition for MS office Reports.
+· Implemented Drill mechanism for BICS connection Bex Reports in WEBI.
+
+
+· NAPESCO, Kuwait							                Period: June ‘14 – July’15
+Team Size: 3								                Role: SAP BO Consultant
+
+Environment:	SAP ECC / BO 4.1, Web Intelligence/ Analysis for office/Dashboard Manager
+Responsibilities  
+· Involved in complete Life Cycle Implementation of SAP BW and  BO 4.0
+· Understanding and analyzing the business requirements of the users and providing valuable feedback and inputs to the business implementations managers and the development team.
+· As part BW team member involved in analyzing the reports, and collected the predefined reports and mapped with Functional reports.
+· Designed Technical Specification Document by analyzing the Functional Specs for BO reports.
+· Involved in Transport mechanism for BO Reports and handled the transports into Dev to QA systems.
+· Trained the BO Users to understand the BW Bex Processing.
+· Worked on Cost center and FI and SD data models.
+· Involved in preparation of documents for complete data flow Diagrams, like prepared the DFD( Data flow diagrams), BPD( Business Blue print Documents) 
+· Created the transformation for data source to infocube, DSO objects. 
+· Modified the existing Infocubes, DSO objects, Master data objects and navigational attributes to map the exact requirement. 
+· Install the Business content objects like Infocubes for FI,MM,PP ,SD , Sales and Distribution application areas and Dependent objects
+· Configured Data Sources in ECC by using LO Cockpit (LBWE) initialized the setup tables. Scheduled and Implemented delta mechanism for Periodic loads.
+· Build Process Chains for InfoCubes, DSO and master data loads.
+· Extensively worked in Business Intelligence InfoCubes, DSO Objects, DTP, Info objects, Transformations, Info Packages, Info objects Catalogs, DataSources, Data Extraction, Business Content, and Process Chains.
+· As part of Information Consumer Layer designed BEx Reports providing insight of Business Intelligence for Business Analyst for Decision making using Formulas, Selections, Structures, Calculated Key Figure, Restricted Key Figure and Used Variables with User Entry/Default Value, Replacement Path and Customer Exit.
+
+· Park dental Resource Group								Period: Jul’12 – Mar’14
+Team Size: 3									                Role: BO Developer
+
+
+Environment:	Business Objects XI R3, Crystal Reports, Oracle 9i, Info view, Designer, CMC, Web Intelligence, Deski.
+Responsibilities: 
+
+· Developed Universes for report generation using Designer
+· Created reports using User Module in Business Objects
+· Maintained different types of reports like Master/Detail, Cross Tab and Chart
+· Created thin client reports using Web Intelligence in order to view the reports from Intranet
+· Used Calculations, Sorting, Rank, Drilldown, Drill through, Slice and Dice
+· Handled migration and deployment of the universes and reports across multiple domains
+· Worked with Import wizard to import existing user accounts, groups, categories, Webi documents, universes, connections and universe restrictions to BO XI environment
+· Undertook verification of Migrated Repositories and Reports like Crystal reports, BO (Deski) Reports, and Webi Reports
+
+
+
+· UHS										                Period: May’10-Jun’12
+Team Size: 7										Role: BO Developer
+
+
+Environment:	Business Objects  XI R3.1, Crystal Reports ,Oracle 9i, Info view, Designer, CMC , Web Intelligence, Desktop Intelligence.
+Responsibilities: 
+· Developed universes for report generation using Designer Module in Business Objects
+· Created filters on Record level and grouping & sub reports to validate business criteria
+· Validated reports as per change requests submitted by Functional Team
+· Worked on Infoview, Central Management Console, Central Configuration Manager, to provide access to users
+· Worked on publishing wizard to export different document types as objects to different folders in CMC
+· Created reports using User Module in Business Objects
+· Maintained different types of reports like Master/Detail, Cross Tab and Charts
+· Used Explorer to view reports from different prospects
+· Created thin client reports using web intelligence in order to view the reports from intranet
+· Handled formatting, changing displays and prompts for creating BO reports
+· Loaded data into the Target tables through the DTS jobs
+· Recovered failure jobs and Excel files data loading into the target tables
+· Developed Universes for report generation using Designer Module in Business Objects 
+· Carried out formatting, changing displays and prompts for creating BO reports
+· Prepared thin client reports using web intelligence in order to view the reports from Intranet
+· Published Business Object reports through Web
+· Scheduled jobs to update the target using Microsoft DTS
+· Created filters on Universe and Report level to filter data
+· Validated reports with UAT Team using UAT Database

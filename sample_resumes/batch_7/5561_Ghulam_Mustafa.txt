@@ -1,0 +1,550 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ghulam Mustafa                                                           	
+SAP Basis Associate Consultant
+Email: mustafayunus94@gmail.com                             
+Mob: 8286626432
+	
+
+
+
+
+Experience Summary
+Current Experience – SAP BASIS ( 2.4 years’ experience )
+· Working with Intellect Bizware Services Pvt. Ltd since August  2015
+=====================================================================================
+Highest Qualification
+· Post-Graduation– M.Sc.(Information Technology)
+Training Attended (If Any)
+· SAP Basis 
+· Red - hat Linux 7.0
+Technical Skills and Languages Known
+· Linux & Networking
+· Oracle 
+· Programming languages (C, C++, java,C#,ASP.NET)
+Qualification:
+	Standard
+	Board/University/College
+	Passing year
+	Percentage
+
+	M.Sc.(IT) 
+	G.N.KHALSA COLLEGE(Mumbai University)
+	2015
+	74%
+
+	B.Sc.(IT)
+	KNOWLEDGE CENTER(Mumbai university)
+	2013
+	66.2%
+
+	H.S.C
+	ALLAHABAD BORD
+	2009
+	60.6%
+
+	S.S.C
+	ALLAHABAD BORD
+	2007
+	63.03%
+
+
+	
+Personal Details:-
+· Date of Birth		:     10.01.1992
+· Gender			:     Male
+· Mother tongue		:     Hindi
+· Nationality		:     Indian
+· Passport No		:     N9702589
+· Languages		:     English, Hindi, Urdu
+· Date of Birth		:     10/01/1992
+	
+	Project Summary
+(In chronological order starting from the most recent)
+	No.
+	Company Name
+	Client Name
+	Project
+
+	13
+	Intellect  Bizware
+	VIP Bag  Pvt Ltd
+	Migration of BI/BW Production system
+
+	12
+	Intellect  Bizware
+	Client  Export /  import
+	Medley  Pvt Ltd
+
+	11
+	Intellect  Bizware
+	B9 Beverages Pvt Ltd
+	Sybase database restoration
+
+	10
+	Intellect  Bizware
+	Intellect Bizware Services
+	System copy with Export/Import
+
+	9
+	Intellect  Bizware
+	Isagro Asia Agrochemicals Pvt. Ltd.
+	Solution manager installation, and configuration
+
+	8
+	Intellect  Bizware
+	Glenmark pharmaceutical Pvt.  Ltd
+	Support + project
+
+	7
+	Intellect  Bizware
+	Help Desk(Waaree,Gilbarco,Iball,VIP,AMINAT,etc)
+	Support
+
+	6
+	Intellect  Bizware
+	Waaree
+	Solman upgrade
+
+	5
+	Intellect  Bizware
+	Radiant Hitech
+	Solman installation & upgrade
+
+	4
+	Intellect  Bizware
+	Anthea
+	Sap router installation
+
+	3
+	Intellect  Bizware
+	Radiant Hitech
+	ECC EHP8 Installation 
+
+	2
+	Intellect  Bizware
+	Waaree
+	SAP router installation
+
+	1
+	Intellect  Bizware
+	Intellect Bizware
+	 DMS  installation
+
+
+
+
+
+Project Detail in “Intellect”(In chronological order starting from the most recent)
+Project No: 13
+	Employer
+	Intellect Bizware services
+
+	Project Description
+	Migration of BI/BW Production system
+
+	Client Name
+	VIP Bag  Pvt Ltd
+
+	Position
+	SAP Basis Associate Consultant
+
+	Responsibility / Tasks
+	· Taking the offline backup of oracle database and move to target system
+· Intallation of Oracle 12 c Database on Windows server
+· Upgrade the Oracle database Patch (Opatch and Sap Bundle Patch)
+· Restoration of  the Oracle Database  
+· Post Installation setup 
+· STMS Configuration 
+· Client Creation and Copy 
+· SGEN 
+
+
+
+
+
+
+
+
+
+Project No: 12
+	Employer
+	Intellect Bizware services
+
+	Project Description
+	Client  Export /  import 
+
+	Client Name
+	Medley  Pvt Ltd
+
+	Position
+	SAP Basis Associate Consultant
+
+	Responsibility / Tasks
+	· Export the Production Client 500
+· Post Installation Setup
+· Deletion of Client 500
+· Taking the backup of KO.KT,KX TR’s and move to Develoment Serever
+· Create the New  Client 700 in Devlopment Server
+· After used the STMS and import all Three TR’s in Develoment Server
+· Perform the Post Installation setup for new client
+· 
+·  
+
+
+	
+	
+
+
+
+
+Project No: 11
+	Employer
+	Intellect Bizware services
+
+	Project Description
+	Sybase database restoration in Development server to Production server
+
+	Client Name
+	B9 Beverages Pvt Ltd
+
+	Position
+	SAP Basis Associate Consultant
+
+	Responsibility / Tasks
+	· Taking database backup and move this file to Production system
+· Use the sysbase dump command restore the database 
+· Post Installation setup 
+· STMS Configuration 
+· Client Creation and Copy 
+· SGEN 
+
+
+
+Project No: 10
+	Employer
+	Intellect Bizware services
+
+	Project Description
+	System copy with Export/Import , Migration DB2 to Maxdb database 
+
+	Client Name
+	Intellect Bizware Services Pvt. Ltd.
+
+	Position
+	SAP Basis Associate Consultant
+
+	Responsibility / Tasks
+	· Taking the Export of DB2 database system
+· After import the Maxdb system in Windows server
+· Post Installation setup 
+· STMS Configuration 
+· Client Creation and Copy 
+· User Creation 
+· Roles and authorization maintenance 
+· Request Transport
+
+
+
+
+
+Project No: 9
+	Employer
+	Intellect Bizware services
+
+	Project Description
+	Solution manager installation, configuration  and up gradation
+
+	Client Name
+	Isagro Asia Agrochemicals Pvt. Ltd.
+
+	Position
+	SAP Basis Associate Consultant
+
+	Responsibility / Tasks
+	· Installation of Solution manager 7.2
+· System Preparation 
+· Basic Configuration  
+· Managed System Configuration 
+· Upgrade the solution manager service pack in sysbase 16 ASE server
+· Configuration of Early Watch Alert
+
+
+
+
+
+
+Project No: 8
+	Employer
+	Intellect Bizware services
+
+	Project Description
+	Helpdesk Support  + Project
+
+	Client Name
+	Glenmark pharmaceutical Pvt.  Ltd
+
+	Position
+	SAP Basis Associate Consultant
+
+	Responsibility / Tasks
+	· Request transport
+· Taking the backup manually in Oracle 11g database
+· Roles and Authorization
+· Extending the table space by using BRTOOLS 
+· Scheduled standard background jobs periodically
+· Scheduled standard background jobs periodically
+· Download and applying Support Patches and SAP Notes
+· User Management like User Creation, deletion of user, users locks
+· Spool & print management
+· Monitoring activities like system status, analyzing system logs, system traces, 
+· Start and Stop of the SAP and Database
+· Analyzing backups online/offline and archive.
+· Configure TMS 
+· ABAP dumps, SAP System Buffers and Database Buffers, workload analysis
+· Solution manager charm process(service request, Normal change, incident  etc.)
+· Open Text support (user id creation, group assignment, etc.)
+· Sap router installation/Renewal
+· Knowledge of full cycle implementation of US based project.
+· Up gradation of SP9 to SP17 EHP 6 system for GST project
+· Oracle patch up gradation
+· Kernel up gradation
+· SAP language installation 
+· Got “Extra mine award”from client side
+
+
+
+
+
+
+
+
+
+Project No: 7
+	Employer
+	Intellect Bizware Services Pvt. Ltd. Mumbai
+
+	Project Description
+	Helpdesk Support
+
+	Client Name
+	Intellect bizware services
+
+	Position
+	SAP Basis Associate Consultant
+
+	Responsibility / Tasks
+	       Roles and Authorization
+· Taking the backup manually in Sybase My sql server,Oracle,DB2  databases
+· Roles and Authorization
+· Extending the table space by using BRTOOLS 
+· Scheduled standard background jobs periodically
+· Scheduled standard background jobs periodically
+· Download and applying Support Patches and SAP Notes
+· User Management like User Creation, deletion of user, users locks
+· Spool & print management
+· Monitoring activities like system status, analyzing system logs, system traces, 
+· Start and Stop of the SAP and Database
+· Analyzing backups online/offline and archive.
+· Configure TMS 
+· ABAP dumps, SAP System Buffers and Database Buffers, workload analysis
+
+
+
+
+
+Project No: 6
+	Employer
+	Intellect Bizware Services Pvt. Ltd. Mumbai
+
+	Project Description
+	Solman upgrade SP5 to SP14 
+
+	Client Name
+	Waaree
+
+	Position
+	SAP Basis Associate Consultant
+
+	Responsibility / Tasks
+	· Installation of Solution manager 7.01 
+· System Preparation 
+· Basic Configuration  
+· Managed System Configuration 
+· Upgrade the solution manager 7.01 SP5 to SP14 with Sybase database
+
+
+
+
+
+Project No: 5
+	Employer
+	Intellect Bizware Services Pvt. Ltd. Mumbai
+
+	Project Description
+	Solution manager installation, configuration  and up gradation SP4 to SP14 
+
+	Client Name
+	Radiant Hitech
+
+	Position
+	SAP Basis Associate Consultant
+
+	Responsibility / Tasks
+	· Installation of Solution manager 7.01 
+· System Preparation 
+· Basic Configuration  
+· Managed System Configuration 
+· Upgrade the solution manager 7.01 SP4 to SP14 with Sybase database
+
+
+
+Project No: 4
+	Employer
+	Intellect Bizware Services Pvt. Ltd. Mumbai
+
+	Project Description
+	SAP router installation
+
+	Client Name
+	Anthea
+
+	Position
+	SAP Basis Associate Consultant
+
+	Responsibility / Tasks
+	· Sap router installation on windows server
+· Apply certificate for SAP router 
+· Configuration of rout tab file  
+
+
+
+
+Project No: 3
+	Employer
+	Intellect Bizware Services Pvt. Ltd. Mumbai
+
+	Project Description
+	ECC EHP8 Installation 
+
+	Client Name
+	Radiant Hitech
+
+	Position
+	SAP Basis Associate Consultant
+
+	Responsibility / Tasks
+	· ECC EHP8  installation with Sybase Database 
+· Post Installation setup 
+· STMS Configuration 
+· Client Creation and Copy 
+· User Creation 
+· Roles and authorization maintenance 
+· Request Transport
+· OSS note apply 
+
+
+
+
+
+
+Project No: 2
+	Employer
+	Intellect Bizware Services Pvt. Ltd. Mumbai
+
+	Project Description
+	SAP router installation
+
+	Client Name
+	Waaree
+
+	Position
+	SAP Basis Consultant
+
+	Responsibility / Tasks
+	· Sap router installation in AIX  server
+· Apply certificate for SAP router 
+· Configuration of rout tab file  
+
+
+
+
+
+
+
+
+
+
+Project No: 1
+	Employer
+	Intellect Bizware Services Pvt. Ltd. Mumbai
+
+	Project Description
+	DMS installation
+
+	Client Name
+	Intellect 
+
+	Position
+	SAP Basis Consultant
+
+	Responsibility / Tasks
+	· Sap router installation in AIX  server
+· Apply certificate for SAP router 
+· Configuration of rout tab file  
+
+
+
+Declaration:-
+ I do hereby declare that the particulars of information and facts stated herein above are true, correct and complete to the best of my knowledge and belief.
+
+PLACE: Mumbai						GHULAM MUSTAFA
+
+

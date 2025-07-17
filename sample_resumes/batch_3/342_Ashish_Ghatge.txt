@@ -1,0 +1,247 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curriculum Vitae
+Ashish Ghatge
+
+
+
+
+
+
+             Phone: +91- 7045354989                
+ E-mail: ashishghatge@yahoo.com                                                                                     91-  9028473292                    
+BE(IT) with 5+ years of experience in Software Development, Enhancement and Maintenance on Sharepoint 2010, C#, ASP.NET, SQL Server.
+OBJECTIVE
+
+To seek challenging and rewarding assignments where my passion for exceptional software troubleshooting and analytical skills can be realized and can significantly contribute to the organization.
+
+SYNOPSIS
+
+· Overall 5+ years of experience in IT industry including Software Maintenance & enhancement, requirement analysis.
+· Experience in analyzing, impact analysis, debugging, trouble-shooting, runtime analysis, requirements gathering and translating business requirements into technical designs.
+
+· Excellent capability to explore, learn and understand newer business domains and technology.
+
+· Participated in the design, of new applications and enhancements of the existing applications.
+
+· Capability of meeting deadlines and likes to work in a collaborative environment.
+
+· Effective team player with good communication, inter-personal and analytical skills and a good problem-solver.
+
+· Hands on experience with MS Sharepoint2010 SQL Server 2005/2008, C#, ASP.NET
+TECHNICAL SKILLS
+
+	Database Tool
+	SQL Server 2005/2008.
+
+	Languages/Technologies
+	MS Sharepoint 2010, SQL, PL/SQL, C#, ASP.NET
+
+	Operating System
+	Windows,Unix
+
+
+PROFESSIONAL EXPERIENCE
+
+· Presently working as a Engineer Application Management with Wipro Infotech at their client location YES Bank, Mumbai.( December  2014 till date).
+
+Project: Enterprise Application Application (w3.yesbank.com)
+Sharepoint 2010
+
+
+It is a portal developed using MS Sharepoint 2010, used by YES bank. The portal contains different list & libraries of different departments of the bank. Different document list,libraries,surveys,etc. are sorted according to their departments.
+Project Details:
+
+· Database 
+
+               :             MS Server 2008
+
+· Environment                                     : 
+MS Sharepoint 2010.
+
+Enterprise Application(HRIS)
+
+
+It is a web based application for maintaining the human resource team for yes bank. Its an integrated system with all the sub site of yes bank eg ARMS, BEMS.. etc. It deals with overall HR activite such as leaves, transfers, appraisal, goal sheets etc.
+Project Details:
+
+· Database 
+
+               :             MS Server 2005
+
+· Environment                                     : 
+Visual Studio 2008, C#,ASP.net.
+
+ RESPONSIBILITIES
+· Handling enterprise applications(HRIS,CQMS,YesVigil,Yescomply,w3-sharepoint,LMS,RMS,ARMS) of Yes Bank Ltd.
+
+· Performing EOD/BOD activities of enterprise applications.
+
+· Executing SQL queries and stored procedure on Oracle 11 g, MS SQL Server 20005/2008, Postgresql 8.2, MySQL5 database.
+· Data extraction from database (back-end) by developing the complex SQL queries, unions and multiple table joins and experience with Views, triggers.
+
+· Creating jobs on MS SQL Server 2008 and monitoring their execution.
+· Performing database maintenance, taking backup of database and restoring database as per requirement. 
+
+· Monitoring various task schedulers running on various servers.
+· Continuous monitoring of long running queries on database server during production hours.
+· Performing maintenance activity on Window Server 8.
+· Executing shell scripts over Linux (Red Hat/Ubantu) platforms.
+
+· Application pool recycling and ISS reset in case of heavy load on server.
+
+· Restarting services of MS SQL Server 2005/2008 and Postgresql as per requirements.
+
+· Resolving branch user query/issue through backend or front end.
+
+· Replicating production issue on UAT and resolving that issue on UAT to get UAT signoff 
+
+· Finding RCA (Root Cause Analysis) of Issues on application, preparing patch, deploying patch on UAT, creating POA and raising RFC (Request For Change) for that issue and then presenting that RFC  in CAB(Change Authority Board).
+
+· Testing new version of application or patch on UAT server, if necessary coordinating with development team, making necessary changes and deploying same on production server.
+· Granting/Revoking access to branch users on Sharepoint trackers.
+
+· Creating and modifying views in sharepoint trackers.
+
+· Making changes in live sharepoint trackers to meet business requirements post UAT sign off.
+
+· Performing sharepoint central admin task like restricting file upload size, file types and image type etc. 
+
+· Coordinating with various teams in case of fail over scenarios.
+· Maintaining issue tracker list for all application and discussing same on weekly meeting with client.
+· To prepare weekly, monthly incident reports of issue/queries of Ehelpline tickets.
+
+· Previously worked as a Senior Application Engineer with Magnum Opus IT Consulting Pvt. Ltd. (November  2011 to December 2014).
+
+Project: Basix CSC (Common Service Center)
+         Government of Maharashtra has implemented a National e-Governance Plan (NeGP) to provide government services to the rural population at their doorstep and at an affordable cost. With an aim to bring transparency in the system and establish citizen centric governance.
+
+         Maharashtra government launched a CSC scheme called 'Maha e-Seva Kendra'. In this project the services provided are classified as G2C (Government to Customer) and B2C (Business to Customer). Under G2C we have different certificates to be issued such as domicile, non-creamy layer, caste etc. Under B2C we have Mobile/Dish e-Recharge, Insurance Policy, PAN card, Electricity Bill and many more other services are provided.  This is web application.
+
+Project Details:
+
+· Database 
+
+               :             MS Server 2008
+· Environment                                     : 
+Visual Studio 2008, C#, ASP.NET.
+Project: E-Chawadi (Land Record Management System)
+The Project is about managing land records of people who owned land or land related mutation changes. This project is all about Land Record Management System for talathi's (Users) consisting of 21 types of different forms related to land, mutation, jamabandi, editing of existing land details of particular person. Through this project one can get 7/12 and 8A certificates of his land. This is desktop application.
+Project Details:
+· Database 
+
+               :             MS Server 2005
+
+· Environment                                     : 
+Visual Studio 2008, C#.
+· Team Size
+
+
+:
+12
+
+
+My Contributions:
+
+· Understanding the customer requirements.
+· Resolving the various incidents and defects.
+· Coordinate with other teams and among the team during resolution of some challenging issues.
+
+· Investigate problem, perform impact analysis and root cause analysis.
+
+· Also includes knowledge transfer to new L1 team members
+
+ROLES & RESPONSIBILITIES
+1.
+Process and Implementation:
+
+· Analyzing the new requirements and providing the estimates.
+· Developing new functionality as a part of enhancement.
+· Monitoring and maintaining the application post release.
+2.
+Troubleshooting and Analysis:
+
+· Addressing all technical and functional issues concerning the application.
+· Solving software bugs.
+· Identifying potential software enhancement opportunities. 
+3.
+Other Responsibilities:
+
+· Involved in work status reporting and official meetings.
+· Transferring knowledge to new team members, explaining the entire process to the technical support team.
+· Attending webinars and seminars on technical up-gradation through various technical communities.
+
+ACADEMICS
+
+Bachelor of Engineering in Information Technology.
+
+· Completed in June-2010 with 68.50%
+· D. Y. Patil College of Engineering & Technology (Shivaji University).
+
+                                                 PERSONAL DETAILS
+· Father’s Name: Mr. Kishor Govindrao Ghatge.
+
+· Date Of Birth: 08-March-1989.
+· Languages known: English, Hindi, Marathi.
+· Nationality: Indian.
+· Sex:  Male.
+                                                    DECLARATION        
+
+ 
+  I hereby declare that the information furnished above is true to the best of my knowledge.
+
+Date: Sep 2017
+Place: Mumbai
+
+
+
+
+
+
+
+(Ashish Kishor Ghatge)
+PAGE  
+

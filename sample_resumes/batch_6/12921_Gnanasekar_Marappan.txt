@@ -1,0 +1,201 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gnanasekar Marappan			       		      	email: mail2gnans@gmail.com
+SAP Basis Consultant 				     		Phone No: +91- 99804 07744
+
+Professional Details
+Possesing 6+ years of IT experience with better hands-on experience in SAP Netweaver Administration and Database Administration in Oracle and SAP HANA.
+Technical Summary
+· 6+ years of SAP System administration experience in support activities, troubleshooting, user administration, Kernel & Support Pack upgrades using SUM patching (Spam & Saint)and Background job administration & Client administration, Transport administration, BRTOOLS & HANA Studio activities. 
+· Having hands on Installation of SAP Net weaver on both HANA and Oracle Databases 
+· Experienced in support projects. Having good exposure on system monitoring & handling error resolution. An effective team member with proven abilities to be a part of the team during the project phase & guiding team members 
+· Worked on Incident and Change management using Service now, CISM and resolving them within SLA 
+· Analyzing of workload, ABAP Dumps, Housekeeping jobs and monitoring alerts & backups for oracle & HANA databases. 
+· Client creation, Client Export & Import, Local Client Copy, Remote Client Copy.
+· Downloading support packages from service market place and Applying support packs. 
+· Performing Kernel upgrades, Add-ons & apply OSS notes. Creating RFC’s, creating change request, releasing change request and importing into quality assurance and production systems.
+· User Administration, role maintenance and troubleshooting authorization issues. User administration using central user administration
+· User and Security Administration on ABAP Stack, Analyze Root Cause of Authorization Problems and fix the missing authorizations
+
+Technical Skills
+
+SAP Components	: SAP ECC, SOLMAN, PI, BW
+Database		: Oracle, HANA, MAXDB.
+Tools & Utilities	: BR*Tools, HANA Studio, XANDRIA, EMON, UC4, Service Now, CISM
+Operating System	: Windows 2003/ 2008, SuSe Linux, IBM AIX, HP-UX
+
+Experience Summary
+
+Previously worked as Systems Engineer in LNT INFOTECH for 3.9 years.
+
+Currently working as an Senior Associate Consultant in INFOSYS from Sep 2014
+
+Educational Qualifications
+
+Bachelors of Engineering in Elec. & Comm. 
+
+
+
+
+Projects at Infosys Limited – Senior Associate Consultant
+
+Project 1:
+
+Client Description: Daimler AG is one of the largest multinational automotive corporation in Stuttgart, Germany and has shares in a number of car, bus, truck and motorcycle brands. By unit sales, thirteenth-largest car manufacturer and second-largest truck manufacturer in the world.
+
+Project Description: The project involves support and activities on various SAP modules and versions in the client landscape along with the subsequent monitoring, troubleshooting, administration, hardening and Post- implementation tasks of SAP systems and its respective databases. It also involves configurations for certain tailor-made situations.
+
+Duration: Jan 2016 to till date
+
+Roles & Responsibilities:
+	
+· Handling escalated incidents from Operations Team(ABAP,JAVA,Oracle,UC4  Administrations, Problem Management, Max DB, Xandria and Password Tool)     
+· Installation of Support packages and Add-ons
+· Kernel Upgrade for better performance of system
+· Client administration remote & local client copy
+· Upgrade of Support packages using SUM tool.
+· SPAM upgrades and add-on installation using SAINT
+· System refresh activates
+· File system related issues
+· Index rebuild/Table re-organization using BR tools
+· Performance issues and HANA administration of SPS9/SP10
+· Data area/Log area related issues in MaxDB
+· Regular tasks on Oracle/MaxDB/SAP HANA database like start/stop, parameter changes and backup/recovery.
+· Creation of SLD, Technical and Business systems in SLD
+· Installing components through Telnet.
+· Configuring SAP system messages and initial screen messages
+· Export and import of technical and business systems across the landscape
+· Communication channel monitoring and taking necessary actions as per the errors
+
+Project 2:
+
+Client Description: Johnson Controls is an American multinational conglomerate producing automotive parts such as batteries and electronics and HVAC equipment for buildings. It employs 170,000 people in more than 1,300 locations across six continents. As of 2012 it was listed as 67th in the Fortune 500 and 251st in Global 500
+
+Project Description: The project involves implementation and support activities on various SAP modules and versions in the client landscape along with the subsequent monitoring, troubleshooting, and administration
+
+Duration: Oct 2014 to Nov 2015
+
+
+
+Roles & Responsibilities
+
+· Hands-on experience in Installation of ERP Central Component (ECC 6.0) 
+· Hands-on experience in Installation of NetWeaver 7.0
+· Installation of SAP NetWeaver on both HANA and Oracle Databases
+· Manual Backup triggering for both HANA and Oracle Databases
+· HANA System Refresh using SWPM
+· Start & stopping of HANA database
+· Managing transport administration through STMS
+· Handled Incident and Change management using Service now (Remedy) 
+· Scheduling and monitoring background Jobs 
+· Download and apply licenses to ABAP/Java systems 
+· Troubleshooting user queries & cleaning up of file system 
+· User Management in HANA
+· Client Administration including client creation, client copy, Opening and Closing Clients 
+· Handle BRtools activity such as database backups, table space extension & archive log backups
+· Troubleshooting SAP Backups and fixing the issues in right time and maintained zero backup failures
+
+Projects at L&T Infotech – SAP Basis Consultant 
+
+Project 3:
+
+Client Description: Caring for the world, one person at a time. Inspires and unites the people of Johnson & Johnson. We embrace research and science - bringing innovative ideas, products and services to advance the health and well-being of people. Employees of the Johnson & Johnson Family of Companies work with partners in health care to touch the lives of over a billion people every day, throughout the world.
+
+Project Description: The world’s sixth-largest consumer health company, the world’s largest and most diverse medical devices and Diagnostics Company, the world’s fifth-largest biologics company and the world’s eighth-largest pharmaceuticals company.  We have more than 250 operating companies in 60 countries employing approximately 118,000 people.  Worldwide headquarters is in New Brunswick, New Jersey, USA
+	
+Duration: May 2013 to Sep 2014
+
+Roles & Responsibilities
+
+· Providing 24X7 support.
+· Performing system health checkups on daily, weekly and monthly basis and generating reports.
+· Parameters changes as per SAP recommendation.
+· Applying s-notes, opening OSS connection
+· Creating and maintaining of RFC connections
+· Performing Client copies like Local Client Copy, Client Export and Import.
+· Performed Kernel patch level upgrade 
+· Applied Support Packages on ABAP and JAVA stack
+· Worked on BR*TOOLS for DB related activities like, Backup, Restore and Recovery and Table space administration 
+· EWA report analysis and preparing service preparation report
+· Background Jobs creation/modification 
+· File system permission issues, ABAP dumps, locks, Updates status failures and etc.
+· Participating SAP system maintenance windows (monthly) to bring down and bring up the SAP application on the servers
+· Worked on printer configuration at SAP and printer related issues
+· Spool administration which includes Temse and deleting old spool requests and solving printer issues
+
+
+Project 4:
+
+	Client Description: Al-Mulla Group is a diversified privately held business group in Kuwait with over 15,000 employees operating in 8 countries through more than 40 companies, and affiliations with over 200 international brands and companies. The Group's operations range from automotive and heavy equipment distribution and servicing, electro-mechanical contracting, civil construction, diversified manufacturing to consumer & corporate financing, investments, insurance, healthcare, education, real estate, office automation and industrial product distribution, rental and leasing of vehicles and heavy equipment, and money exchange services.
+	Project Description: End to end Support of user administration and also level 1 support of basis activities.
+
+Duration: Dec 2011 to Mar 2013
+	
+Roles & Responsibilities
+
+· Administration of Transports using STMS 
+· Raise OSS Incidents to SAP for unknown issues and opening connections for SAP
+· Download and apply licenses to ABAP/Java systems 
+· Scheduling and monitoring Jobs at SAP system level 
+· Performed user administration activities such as creating, deleting, renaming, locking and unlocking users, and resetting passwords, maintaining logon data and assigning roles to the users 
+· Generating and assigning roles to the users depend on the client type
+· Troubleshooting missing authorizations for the users
+· Downloading and uploading of an role 
+· Export and import of profiles across the clients in the system
+· Managing complication of authorizations in the system
+· Importing transports in Quality and Pre-production systems
+· Background jobs monitoring
+· Monthly report preparation for production systems   
+
+Personal information
+
+Name		 	: Gnanasekar M
+Notes ID 	 	: mail2gnans@gmail.com
+Date of birth		: 23/09/1988
+Father’s name	 	: P.A.Marappan
+Nationality	 	: Indian
+Marital Status		: Unmarried.
+Languages known	: Tamil, English
+

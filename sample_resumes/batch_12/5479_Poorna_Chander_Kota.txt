@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poorna Chander Kota
+Mobile No: +91 9705118711
+Email-ID: poornachanderkota@gmail.com     
+
+	OBJECTIVE:
+
+
+
+To excel in the field of software design and development with a progressive organization where career advancement and professional growth is offered and I can prove my capabilities and stay ahead of others.
+
+	PROFILE:
+
+
+
+· Highly motivated professional with 3.2 Years of experience as a Software Developer primarily in development of web-based solutions.
+· Has exposure in the Design and development of health care project.
+· Has good knowledge of J2EE application model to develop web-based solutions using Hibernate, Spring and JSP.
+
+	PROFESSIONAL EXPERIENCE:
+
+
+
+·  Working as a Java Developer at CPET Solutions Pvt. Ltd., Hyderabad since Dec’ 2015. 
+
+	EDUCATIONAL QUALIFICATION:
+
+
+
+· Bachelor of Technology in Computer Science and Engineering  from Ganapathy College Of Engineering (JNTUH)  in 2014.
+· Intermediate (M.P.C.) from  Lal Bahadur College  in 2010.
+· S.S.C  from Z.P. High School in 2008. 
+
+	TECHNICAL PROFILE:
+
+
+
+· Programming Languages	:     Java
+· Scripting Languages	:     Javascript, Angular JS
+· Distributed Technology       :     Spring Rest
+· J2EE Technologies		:     Servlet, JSP
+· Markup Languages		:     HTML, XML
+· Frameworks		:     Hibernate and Spring
+· Database			:     MySQL
+· Web Servers		:     Apache Tomcat
+· IDE`S			:     STS
+·  Tools                                        :     Maven, Log4j
+
+
+	PROFESSIONAL EXPERIENCE:
+
+
+
+Project #1:
+Title		             :  My Aaptha	
+Duration	             :  Jan’2016 – till Now
+Environment                  :  Jsp 2.0, Spring 4.0 (Core, MVC), Hibernate4.0,Javascript, JQuery, AngularJS
+Team Size                        :  2
+Role		             :  Developer
+Description                     :  This project is easy to use, full-featured and flexible appointment management portal and overcomes the issue of managing and booking appointments  user choice and demands. It allows patient to view list of doctors, available appointment time and book appointment. The system manages the appointment data for multiple doctors for various dates and times. Next time a user logs in, he may view his/her entire medical history as when needed. The system has the option for the doctor to write the prescription for the patient who booked the appointment with him.
+Modules:
+· User : Users have to first register themselves to login into the system.
+·    Doctor : System allows for doctor search through specializations and location.
+· Path Labs : User can approach the Lab Technician for doing lab tests prescribed by Doctor.
+· Medical : User can approach the Medical shop and get the medicines as described by the           Doctor.
+· InPatient :  Will be maintaining all the patient records from the date of join in the Hospital to discharge process .
+Roles and Responsibilities 
+· Designed JSP’s as per the requirement.
+· Implemented Custom Validations as per the requirement.
+·    Implemented business logic in service layer.
+· Written DAO’s and their implementations with Hibernate.
+· Implemented Page layouts using Tiles Framework.
+
+
+
+
+DATE:	 								POORNACHANDER  KOTA

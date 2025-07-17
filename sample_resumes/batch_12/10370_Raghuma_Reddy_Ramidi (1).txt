@@ -1,0 +1,163 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SQL Server DBA
+	Raghuma Reddy Ramidi
+Email: ramidiraghuma.reddy8@gmail.com
+Mobile: +91-9505474043
+	                                           
+
+
+
+Objective
+To take up a challenging position where I can combine my skills and innovative ideas and contribute towards the success of the organization.
+
+Professional Summary
+           
+· Over 2+ Years of Experience in MS SQL SERVER 2008 R2/2014 DATA BASE ADMINISTRATION which includes 
+· Provide 24*7 Production support as well as ON CALL support for SQL Server Databases. 
+· Experience in Database Administration, Management using RDBMS such as SQL Server under WINDOWS environment.
+· Experience in installing, configuring, managing, monitoring and troubleshooting SQL Server 2008R2/2014.
+· Experience in SQL Server Backup/Restore, Migration, and having knowledge in upgrading of SQL servers. 
+· Experience in Log Shipping, mirroring and clustering environments.
+· Experience in configuring, administering and troubleshooting Merge, Transactional Replication of Sql servers.
+· Managing Logins, Users, Roles and User Permissions.
+· Experience in monitoring, tuning, and analyze data base performance to achieve optimum data base performance.
+· Performed partitioning on large tables with billions of rows in critical databases.
+· Good knowledge on creating a partition, splitting the partition, merging and removing the partitions.
+· Worked on migrating the databases from sql data center to Azure Virtual machines and azure sql database.
+· Check the backup failure alerts, correct the errors and if any, rerun the backups. Confirm that backups have been made and successfully saved to a secure location.
+· Checking the fragmentation on all large indexes in the databases weekly and rebuilding/reorganizing them accordingly. 
+· Hands of experience on performing maintenance activities like Rebuilding indexes, updating statistics and dbcc check dbs.
+· Maintaining servers, checking the health of the servers and space issues on servers.
+· Excellent communication, presentation and interpersonal skills.
+· Strong troubleshooting and organizational skills.
+
+Technical Skills
+
+Programming Languages   :   C, Java, SQL, T-SQL
+RDBMS                                   :  SQL Server 2008/2014, MySQL
+              Utilities                                  :  SSMS, MySQL Workbench, putty
+Environment                         :  Windows, Unix/Linux.
+
+Work Experience
+
+· Currently working for Infoane Technologies.
+
+	Project Name
+	YottaMark Authentication Platform
+
+	Client 
+	YottaMark Inc
+
+	Role
+	Team Member
+
+	Duration 
+	September 2015 to till date 
+
+	Team size 
+	10
+
+	Environment
+	Sql server 2008R2/2014, Windows 2012 Server, Sql server Profiler, Sql Server Management Studio
+
+
+
+Description
+
+            YottaMark, Inc. provides the most secure and simple to deploy unit-level brand security and real-time channel intelligence solution in the market. YottaMark's powerful technology platform delivers effective product authentication and unit-level traceability to help brand owners increase consumer trust, build new levels of channel intelligence, and drive sales.
+
+Responsibilities
+
+· Installation, configuration and upgrading of Microsoft SQL Server and related products.
+· Implement and maintain database security (create and maintain users and roles, assign privileges).
+· Provide 24*7 Production support as well on call support for SQL Server Databases. 
+· Handling 3 servers (SQL Server 2014) and 30 databases average sizes of DB’s are about 250 GB, max of 1.5 TB.
+· Monitoring LS_Backup, LS_Copy and LS_Restore jobs of High Availability using Log Shipping and taking action in case of failure.  
+· Monitoring the databases as per the daily schedule tasks to check the Health of Databases using DBCC Commands.
+· Monitoring jobs like backup, restore check the Error Log for daily running batch jobs.
+· Identifying slow running Queries	
+· Check disk space utilization.
+· Reorganization of data and index pages and Fragmentation of indexes using Sql
+· Apply the latest hot fixes and security patches released by Microsoft.
+
+Additional Skills
+
+· MySQL installation and up gradation.
+· Hands of experience in setting up multiple instances on a single server.
+· Good knowledge on setting up replication.
+· Backup and recovery of the databases.
+· Establishing client connection to the server through MySQL workbench.
+· Monitoring the databases and the cron jobs scheduled for backups etc.
+· Worked on migrating the databases to Azure cloud.
+· Hands of experience in rebuilding the indexes and tables.
+· Expertise in working on Linux environment.
+
+Academics
+· B.TECH (ECE) from Vignan Institute of Technology and Aeronautical Engineering affiliated to JNTUH-University, May 2015.
+· Intermediate from Sri Chaitanya Junior college, I.P.E April 2011.
+· SSC from Heralds High School, April 2009.
+
+Strengths
+
+· Able to work in a team.
+· Good Communication Skills.
+· Active learning and critical thinking.
+· Confidence and strong belief in completing the assigned work successfully.
+·  Willingness to work in shifts/flexible hours.
+· Willingness to relocate/travel on requirement.
+
+
+
+
+
+PLACE:                                                                                                                 (Raghuma Reddy)                              
+DATE:                                                                                                                                
+

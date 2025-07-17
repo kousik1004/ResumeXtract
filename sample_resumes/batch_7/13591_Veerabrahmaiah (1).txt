@@ -1,0 +1,197 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.Veerabrahmaiah                                                          			PHONE: 9866768787
+MS SQL Server Developer, MSBI Developer		  EMAILID:ravulapalli24@gmail.com
+
+PROFESSIONAL SUMMARY:-
+· Having 4 +years of Professional experience in IT Industry on MSBI and SQL server projects.
+· Efficiently helped in the Software Development Life Cycle (SDLC) processes including Analysis, Design, Programming, Testing and Documentation.
+· Implemented SSIS data transformation scripts, created maintenance procedures and provided data integrity strategies.
+· Has very good experience in complete ETL cycle including data analysis, database design, data mapping and conversion and data load.
+· Extensive experience in Data Massaging, Data Cleansing, and Data Scrubbing using different SSIS Transformations e.g. Fuzzy Lookup, Lookup, Derived Columns, Conditional Splits, and Execute SQL Task.
+· Experience in SSIS debugging and Error Handling, Precedence Constraints, Break Points, Tasks, Containers, Check Points and Logging.
+· Good Knowledge in identifying relationship between different aggregates and attributes.
+· Hands on experience in Deploying Reports and Subscriptions on the Reports.
+· Designed and developed different reports like Matrix and Tabular reports, Cascaded, Parameterized, and pie chart reports using SSRS. 
+· Expertise in developing Ad-Hoc,Drill down, Drill through and Dashboard reports using Local and Global Variables, Expressions and Filters in SQL Server Reporting Services (SSRS).
+· Expert in uploading SQL Server Reports on to the report manager and organize them in folders and worked with delivering the reports using ‘pulled' and ‘pushed’ methodologies.
+· Complex Report Building Experience by using Filter, Calculation, Customized Prompts. 
+· Usage of Query Studio and Report Studio to build advanced reports (multi-page, multi-query report)
+· Worked on existing reports in Report Studio and testing Report Performance.
+· Ability to create cubes using dimensions and fact tables
+· Good knowledge about data modelling and worked in dimensional modelling of Data warehouse design concept.
+· Good knowledge in creating calculations, KPIs and Partitions using SSAS.
+· Having knowledge in creating data sources and data source views and dimensions in SSAS.
+· Highly proficient in the use of T-SQL for developing complex Stored Procedures, Triggers, Tables, User Defined Functions, views, indexes, user profiles, Relational Database models, Data integrity, query writing and SQL joins.
+· Experience in monitoring SQL Server Performance using SQL Profiler and Execution plans.
+· Maintained data integrity by performing validation checks.
+· Good knowledge in Normalizing and De-normalizing the tables and maintaining Referential Integrity by using Triggers and Primary and Foreign Keys.
+
+
+
+EDUCATION: Master of Business Administration (MBA)
+                            Bachelor of Commerce (B.COM)
+SKILLS:-
+	
+Databases
+	MS-SQL Server 2014/2012/2008R2
+
+	Database Technologies
+	 SQL Server Management Studio, SSIS, SSAS, SSRS, BIDS – SQL Server Data Tools. SQL Query Analyser, SQL Profiler T-SQL, MDX
+
+	Reporting Tool
+	SQL Server Reporting Services (SSRS)
+
+	Integration tool
+	SQL server Integration Services(SSIS)
+
+	Languages
+	C,C#.Net
+
+	Other Tools
+	Microsoft Project/Office 2013/2010/2007/2003
+
+
+
+WORK EXPERIENCE:-
+
+· Currently working in CAPGENINI, HYDERABAD.As SSIS, SSRS, SSAS and SQL Developer. Oct 2015 to till date.
+· Worked With SYNTEL,PUNE as SSIS,SSRS and SQL Developer from may 2013 to 2015 
+
+
+PROFESSIONAL EXPERIENCE:-
+PROJECT #1:  INTEGRITY					(OCT 2015to Till date.)
+Client		:  US GOVERNMENT (VOTERS)
+Technologies	: SSIS, SSRS, SQL Server 2012
+Role		: Software Developer
+Team size	: 6
+Company	: CAPGEMINI
+
+PROJECT DESCRIPTION:
+The Project is mainly concentrate on VOTERS in the US states, we got voters list from 52 states in monthly and two weeks of time period in the form of different delimited Flat files. We take care all of them and do the some modifications before loading in to the fix table by creating a packages using SSIS, and also using some custom components (Transformations) for generating the output and do the some developer validation checks by writing some related SQL scripts be for sending to the QA test all these will done using the SSIS, and SQL Management tools and then build the model called Cube by using the SSAS and lastly send to the Client.
+
+
+
+RESPONSIBILITIES:
+· Primarily responsible for developing applications in SSIS as per Business Rules and features of the tool.
+· Importing Source/Target tables from the respective databases by using Execute Package Task using Control Tasks in SQL Server 2012 Integration services.
+· Used Control Flow Tasks like For Loop Container, For Each Loop Container, Sequential Container, Execute SQL Task, Email Task, and Data Flow Task.
+· Well utilization of the Custom Components in SSIS.
+· Good knowledge and well use the Condition Split, Data conversion, Derived column, multicast transformations in the project.
+· Provided database subject matter expertise and query consultation for the system.
+· Creating the modules to convert .NET code into SQL code in a pretty short period and ability of error handling. 
+· The data migration consisted of transformations, translations and straight mapping.
+· Coded the SSIS package to validate the chosen translation or transformation
+· Create an SSIS package for each translation validation and each transformation validation based on the technical document
+· Deployed the packages to the SSIS catalog  in the appropriate environment
+· Executed the packages manually or via scheduling process
+· Generated a report on the results of the package execution.
+· Logged Pass or Fail status from each package to an Excel document using excels file destination transformation.
+· Created database objects like tables, views, indexes, stored-procedures, triggers, and user defined Functions.
+· Wrote T-SQL queries for the retrieval of the data.
+· Worked with various tasks such as Control Flow (Execute SQL task, for each loop container, Data Flow task, File System, Script Task etc.) and transformations such as Aggregate, Sort, Lookup, Fuzzy Lookup, Merge join, multicast, conditional split, derived column etc.
+· Created database objects like tables, views, indexes, stored-procedures, triggers, and user defined Functions
+· Monitored, tuned and analyzed database performance and allocated server resources to achieve optimum database performance.
+· Using all kinds of SQL Server Constraints (Primary Keys, Foreign Keys, Defaults, Check, Unique etc.
+· Created Stored Procedures to transform the Data and worked extensively in T-SQL for various needs of the transformations while loading the data.
+· Involved in performance tuning using indexing (Clustered Index, Non Clustered index) tables.
+· Created and rebuilt multi-dimensional cubes using SSAS to support business reporting and forecasting process.
+· Written and reviewed functional specifications, performed unit and system tests, troubleshoot and implement logged bug fixes.
+· Designed and Developed Technical specifications for the packages created, for future reference as per the client’s request.
+· Involved in troubleshooting at database levels, error handling and performance tuning of queries and procedures.
+· Create Enterprise reports  as business requirements and giving Access to create reports through Subscriptions 
+Environment: Microsoft SQL Server 2008/2012/2014 Enterprise edition, SSAS, SSIS, SSRS, Internet Information Server (IIS), MS Excel 2007, Team Foundation server (TFS) 2010
+· Project#2: Humana Dental Reporting                     ( 2014 to 2015	)		 
+Client		: Humana, Green Bay U.S.A.
+Technologies	: SSIS, SSRS, SQL Server 2008
+Role		: SQL & SSIS, SSRS Developer
+Company	: SYNTEL
+	
+Description: Humana Dental reporting is a reporting project that is developed using SSRS and SQL Server2008.It has a multiple reports for different Dental Insurance groups (Employers).Whenever if they want to see their employees dental claims ,they will login to Humana portal with their credentials and by entering the group number they can able to see all the reports with claims data.To accommodate data for these reports I have created SSIS packages to get data from MSP system and upload to SQL Database on daily basis.
+RESPONSIBILITIES:
+· Wherever required, ETL process was created, where in the historical data (last 13 months) for the reports, will be stored, refreshed and utilized in the report each month.
+· Development of the reports undertaken in SSRS, SSIS thereafter getting the approval from business users.
+· Managing the database and work with jobs and performance tuning.
+· Performed extensive data extraction from web and other sources and handled data preparation, 
+· Missing values, formatting, transformations using SSIS.
+· Written Stored Procedures and SQL scripts both in SQL Server and Oracle to implement business 
+· Rules for various clients.         
+· Designed T-SQL scripts to identify long running queries and blocking session.
+· Writing and Debugging T-SQL, stored procedures, Views and User Defined Functions.
+· Data migration (import & export) from Text to SQL Server Through SSIS
+· Error handling using Try-Catch Block.
+· Normalization and De-Normalization of tables.
+· Used Joins and CTE’S to simplify complex queries involving multiple tables and Established relationships between tables using Primary Key & Foreign Key Constraints.
+· Evaluated database performance and performed maintenance duties such as Tuning, Backup, Restoration and Disaster Recovery.
+· Created database objects like tables, views, indexes, stored-procedures, triggers, and user defined 
+
+· PROJECT #3:  Enterprise Loan Management System (ELMS)	 April 2013 to June’14
+   Client:  Manulife Financial, Toronto, Canada
+   Technologies: SSIS, SSRS, SQL Server 2008
+   Role: SQL & SSIS, SSRS Developer
+
+   Description: The Enterprise Loan Management system (ELMS) provides canned reports for general operation.  It also integrates a reporting services interface to allow clients to modify existing canned reports or create new and fully customized reports as well as scheduling them. An ELM is the vendor’s package that Manulife employed to manage their Mortgage portfolio. Midland, the vendor, has indicated that they are not in the business of custom report writing. They will ensure that ELMS contains the basic reports that are generally agreed upon by the client community. Any other custom reporting specific to a particular client will no longer be developed by the vendor, it has the set up an environment   allowing each willing client to develop their own customized reports. We Manulife develop the custom reports as per the business requirements and deploy on to ELMS for business use.   
+· Responsibilities:
+· Design Reports in SSRS.
+· Upload the SSRS reports on SharePoint.
+· Creation of reports in SSRS from the cube and ad-hoc reporting in excel.
+· Technical Design Documents for the BI development work.
+· Check in the objects into VSS after unit testing.
+· Creating ETLs for data available for different reports.
+· Monitor and review the jobs on daily basis.
+
+
+
+
+            
+							
+
+
+

@@ -1,0 +1,157 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bezawada Sai Siva Kumar
+
+Email: saisiva666666@gmail.com                                                             Contact No: +91 8977196439
+Career Summary
+· Having 2+ years of experience in Innovate Apps Pvt Ltd as a Software Developer in C#, ASP.NET  MVC.
+· Hands-on knowledge and experience in Object Oriented Design using C#.
+· Having good knowledge in developing web applications using ANGULAR JS.
+· In-depth knowledge of MYSQL with hands-on experience in designing and implementing databases, writing queries, functions and automated jobs.
+· Hands-on experience in MVC Software Engineering Architecture.
+· Experience in software unit testing and efficient at fact-finding, root cause analysis and bug-fixing.
+· Excellent verbal and written communication skills and strong interpersonal skills with the ability to work as a part of a team as well as in an individual contributor
+Technical Skills
+	Languages		: C#, ASP.NET MVC, Angular Js
+	Frameworks		: .NET framework 3.5/4.0/4.5, Zend framework
+	Web Technologies	: HTML5, JavaScript, JQuery, CSS3
+	Tools			: Visual Studio   2010/2012, SoapUI, Toad, Mysql workbench,
+				  VDI, eclipse, Atom
+	Databases		: MySQL, mongo
+	Operating Systems	: Windows 7/ 8, Ubuntu
+	Version Control		: GIT, SVN
+Work Experience
+Client		: LexisNexis 					Duration: Jun 2015 - Jul 2015
+Project Name	: Customer Test Data Query Tool (CTDQT)
+Technology     	: C#, PHP, Javascript, JQuery, Ajax
+Role                   : Team Member
+Description
+Instrumental in developing Customer Test Data Query Tool, a tool used for internal LexisNexis users and external customers to select test cases from the Customer Test systems at LexisNexis. This tool consists of a query panel which allows the customer to define his or her search criteria. Data will be returned in a .CSV format for user analysis/consumption. Implemented Backend Web Services in C# and front-end application in PHP using Zend MVC architecture.
+Responsibilities
+· Programmed in C#.NET 4.5, for developing ASMX web services
+· Integrated MBS auth services for user management
+· Developed front-end application using Zend MVC architecture and designed UI using HTML CSS.
+· Handled all code base deployments of services in IIS web servers, and the web application in Apache servers.
+
+Client		: LexisNexis				             Duration: Aug 2015 - Sep 2015
+Project Name	: Customer Test Data Loading Console Application
+Technology     	: C#
+Role                   : Team Member
+Description
+	To support Customer Test Data Query Tool, the customer data is collected from HPCC systems on daily basis in different formats. The Application loads the different data formats to the DQT application’s mysql servers.
+Responsibilities
+· Created a Console Application in C#
+· Application reads data from excel spread sheets and inserts data into specified table through mysql.
+· This application supports different format of excel sheets CSV, XLS, XLSX for data consumption. Mapping of data is achieved through XML configurations.
+
+Client		: LexisNexis 				             Duration: Oct 2015 - Mar 2017
+Project Name	: EPIC 
+Technology     	: PHP with ZEND framework, C#.NET, PYTHON, HTML5,CSS
+Role                   : Team Lead
+Description
+The Electronic Payment and Invoice Center(EPIC) provides online electronic solutions for invoicing, payment options and management of user’s account(s). Email notification is received when user invoice is available to access. The invoice data is available in PDF images, customized reporting and file exports to assist with analysis and cost allocation.
+Responsibilities
+· Adding new features to application using C#, PHP, PYTHON, MYSQL , JAVASCRIPT, JQUERY.
+· Resolving the issues that are reported in the application.
+· Deploying the code in production servers (PHP code in apache servers, C# code in IIS servers) and managing the deployment back up process for every deployment.
+· Programming in python to automate backend operations those makes EPIC database in sync with MBS database. Written many batch processes in python as per the requirement.
+· Done many enhancements in the CSV file generation processes in the application. 
+
+Client		: FlexShopper 				             Duration: Apr 2017 - May 2017
+Project Name	: kraken-purchase-journal (FXADMN) 
+Technology     	: Angular 1.5, Node js, Hapi Framework
+Role                   : Team Lead
+Description
+FXADMN  is the user interface for the internal users of the Flexshopper to perform internal operations. In this we have implemented a tab for the purchase journal project, Flexshopper as a company sold items for lease to customers with some terms and conditions by buying it from different vendors, and they collect payment from customer in installments. Kraken purchase journal will track all the transactions of Flexshopper based on search criteria and display in table. The user has ability to download the data in CSV format.
+Responsibilities
+· Implemented the front End UI form with search criteria and table to display data with export to CSV functionality using angular 1.5 components, services.
+· Implemented a micro service which will return a JSON response by collecting purchase journal data from four different micro services using HAPI frame work in Node Js. 
+· Written test cases for the service using assertion libraries mocha and chai with 100% code coverage.
+
+Client		: Flexshopper 				            Duration: June 2017 – July 2017
+Project Name	: kraken-image-ocr 
+Technology	: Node JS, HAPI Framework
+Role                   : Team Lead
+Description
+Kraken Image OCR is a restful micro service which will extract the invoice formation from the uploaded PDF(invoice) and returns JSON response with required fields with respect to vendor. The service will have vendor type and file upload option as inputs, and this micro service will be consumed in other service which will store this invoice related data.
+Responsibilities
+· Implemented a micro service which will return a JSON response by extracting the required data from the invoice related to vendor using HAPI frame work in Node Js. 
+· Implemented the logic using configuration files for each vendor so that configuring a new vendor type is configuration based not code based.
+· Written test cases for the service using assertion libraries mocha and chai with 100% code coverage.
+
+Client		: Flexshopper 				            Duration: July 2017 – Sep 2017
+Project Name	: Vendor Invoice Reconciliation
+Technology	: Node JS, HAPI Framework, Angular 1.5
+Role                   : Team Lead
+Description
+             Vendor Invoice Reconciliation project is to automatically compare the invoice data with 
+ purchased data. This project is done for accounting team in flexshopper to reduce their work load
+flexshopper usually buys items from different vendors and sold it to their customers for lease. The 
+vendors will send invoices to flexshopper for the items they have purchased monthly or weekly
+basis and flexshopper need to pay the amount by verifying each invoice. In this project we have
+created UI to for accounting team to upload invoices, we are comparing invoice data with  
+purchased item data at this level and showing the comparison status for each item in invoice. We 
+have  also created UI to search invoice data and also to export invoice data.
+                      
+Responsibilities
+· Implemented the front End UI for uploading invoices and for searching invoice at item level and invoice level using angular 1.5 components, services. 
+· Implemented the automatic reconciliation process at the upload level and also UI for manual verification.
+· Implemented the UI for exporting invoice data to CSV file.
+· Implemented micro services which will return a JSON response for upload, search, export, and reconciliation functionalities using HAPI frame work in Node Js
+
+
+Educational Qualification
+· Btech - Computer Science Engineering at Anil Neerukonda Institute of Technology and Sciences and secured 7.9 CGPA.
+
+Personal Profile 
+   Date Of Birth          : 28th October 1994
+   Languages Known  : English, Telugu 

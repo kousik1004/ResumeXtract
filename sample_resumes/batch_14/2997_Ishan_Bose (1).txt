@@ -1,0 +1,183 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ishan Bose
+
+Contact: +91-9836286622
+
+E-Mail: ishan.bose91@gmail.com
+High-energy technocrat with nearly 4 years of experience; targeting assignments in Technical Support (Linux and Solaris) and Linux System Administration with an organization of high repute
+Profile Summary
+
+
+· Provided technical support to Linux and Solaris Platform with data back-up & recovery and maintenance
+· Appreciated by customers for successful software installation, updation & troubleshooting such as Aruba SDP Update, Claro-Brazil AIR Update, Korek-Telcom SDP and AIR Update and BSNL CS3 IN Support with critical problem resolution capabilities
+· Installed & replicated Postgres on Linux Servers and implemented Postgres query for data extraction
+· Expertise in installation, back-up & recovery of SDP & AIR and administration & maintenance of Ericsson in SDP, VS & AIR nodes; upgraded software of SDP, AIR & CCN nodes
+· Conducted installation & upgradation of all packages in Unix
+· Proficient in administration of signalling (SS7 & SIGTRAN) for CAP & INAP applications
+· Worked on system like CS 3.0. CS 5.0, CS 6.0, CS16, CS17 and Postgres Database
+· Resolved challenges related to route addition, crontab handling, link failure resolution with CCN – SDP & SDP-SDP node, back-up to recovery task, traffic failure issue and maintenance of critical nodes
+Core Competencies
+
+Technical Support (Linux and Solaris)
+Linux System Admin
+
+Installation & Configuration
+Software Updation
+
+
+Maintenance / Troubleshooting
+File System Management
+Data Back-up & Recovery
+
+
+DB Development
+
+
+Charging System Exposure
+Organizational Experience
+
+Since Apr’14 with Ericsson, Location
+Growth Path / Deputation: (Pls. Check)
+Apr’14-Apr’15: Engineer-Ericsson India Pvt. Ltd. (Pay Role Nr Switch-N-Radio Services Pvt. Ltd.) 
+Since May’15: Support Engineer-Ericsson India Global Services Pvt. Ltd. 
+Key Result Areas:
+· Monitoring the design, installation, upgradation, maintenance & troubleshooting of database servers
+
+· Managing user creation, modification & deletion, directory permission, creation & modification, Unix file system, partitioning, LVM and RAID concept
+
+· Anchoring installation & configuration of web server 
+
+· Identifying difference between Yum & RPM and Shell & Kernel; updating Kernel
+· Reviewing the killing & running of process in background
+· Finding out zombie process
+
+· Viewing service attached with a specific port
+
+· Using Copy, Cut, Diff & Comp Command including Sed & Awk Command 
+· Monitoring installation, replication & query writing of Postgres 
+· Updating firmware, controller, software & emergency package for SDP node
+
+· Leading pre & post HC, error & manually back-up handling and set-up & preparation for SDP node
+
+· Ensuring that systems, applications & communication equipment within the organisation are managed and maintained in accordance with documented processes, procedures, guidelines, and instructions
+Highlights:
+· Commended by customers for successfully managing:
+
+· Nodes for 24*7 with solution for avoiding traffic interruption
+· Software update with critical problem resolution capabilities
+· Resolved challenges related to route addition, crontab handling, link failure resolution with CCN – SDP & SDP-SDP node, back-up to recovery task, traffic failure issue and maintenance of critical nodes
+· Recipient of XX award for contributing XX performance in YYYY
+Education 
+· B.Tech. (Specialization) from Narula Institute of Technology, Location, West Bengal University of Technology in 2013
+
+
+Technical Skills
+
+· Solaris 10, Linux and Postgres
+
+· SDP, VS, AIR and CCN 
+
+Personal Details    
+Date of Birth: 31st January 1991     
+
+Languages Known: English, Hindi & Bengali
+Address: Kolkata.
+Please find the attached Annexure for Projects Undertaken
+
+ANNEXURE
+
+Projects Undertaken
+
+Title: Aruba SDP Update
+Responsibilities:
+· Engaged in pre & post HC, error & manually back-up handling and set-up & preparation for SDP node
+
+· Managed stand-by replication breaking before updates and stand-by replication creation
+· Updated firmware, controller, software & emergency package for SDP node
+Highlights:
+
+· Appreciated by customer for successful software update with critical problem resolution capabilities
+
+· Resolved challenges related to route addition, crontab handling, link failure resolution with CCN – SDP and SDP-SDP node
+
+Title: Claro-Brazil AIR Update
+Responsibility:
+
+· Engaged in pre & post HC, error & manually back-up handling and set-up & preparation for SDP node
+
+· Managed stand-by replication breaking before updates and stand-by replication creation
+· Updated firmware, controller, software & emergency package for SDP node
+Highlight:
+
+· Resolved challenges related to route addition, crontab handling, component creation and traffic rejection issue 
+
+Title: Korek-Telcom SDP and AIR  Update
+
+Responsibility:
+· Engaged in pre & post HC, error & manually back-up handling and set-up & preparation for SDP node
+
+· Managed stand-by replication breaking before updates and stand-by replication creation
+· Updated firmware, controller, software & emergency package for SDP node
+Highlight:
+
+· Resolved challenges related to route addition, crontab handling, link failure resolution with CCN – SDP & SDP-SDP node, sudoers issue, permanent root login issue and database corruption issue 
+
+Title: Aircel SDP Installation 
+
+Responsibility:
+· Anchored installation of SDP, created link and monitored backup-recovery task & load balancing
+
+Title: BSNL CS3 IN Support
+Responsibilities:
+· Performed installation of SDP & AIR nodes
+· Managed operations & maintenance and backup & recovery task on a daily/weekly/monthly basis
+Title: Etisalat, Egypt
+Responsibilities:
+
+· Supervised daily HC and DB table to avoid wrong entries
+
+· Collected data for KPI & capacity analysis, created proper formula for the calculation and provided their reports to customer

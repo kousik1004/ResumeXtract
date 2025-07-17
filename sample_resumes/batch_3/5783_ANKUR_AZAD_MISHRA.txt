@@ -1,0 +1,331 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANKUR AZAD MISHRA
+								
+ankur7874@gmail.com
++91-7077439368
+								
+
+
+CAREER OBJECTIVE 
+
+· To excel in the field of Software Development by working in a Team Oriented and Challenging Environment in the areas of DW and BI as a developer.
+
+· To aid professional growth while being resourceful, innovative and flexible.
+
+
+PROFESSIONAL SUMMARY
+
+
+· 4 years of overall experience in the field of Business Intelligence.
+
+· Proficient in INFORMATICA and decent knowledge in IBM COGNOS.
+
+· Good Knowledge of Microsoft SQL Server, DB2 and DATA WAREHOUSING CONCEPT.
+
+· Have good working experience in Unix Scripting.
+
+· Ability to work in team oriented projects.
+· Proficient work experience in Agile and SAFe culture.
+
+· Worked as a key Resource at Offshore and delivered product with zero defects within SLA.
+
+
+	EMPLOYMET HISTORY
+
+
+
+· Currently working as a Technical Analyst in Infosys Limited [www.infosys.com]
+from October 2014.
+
+
+TECHNICAL SKILLS
+
+· Development Tools	: Informatica, Business Objects
+
+· Database Server	: DB2, Sybase
+
+· Language		: Unix Scripting Language, Basic knowledge in programming language	                         viz. C, SQL
+
+· Operating Systems	: Windows 2000, Windows XP, Windows7
+· SDLC: Waterfall, Advanced Waterfall, Agile Methodology, SAFe practice.
+
+
+PROJECT PROFILE
+
+Project 1:
+	1
+	Project Name: Enterprise Information Integration
+
+	t
+	Northwestern Mutual [www.northwesternmutual.com]
+
+	Role
+	Developer
+
+	Organization
+	Infosys Ltd
+
+	Duration
+	August 2016 to Till date
+
+	Team Size
+	3
+
+	Environment
+
+	Technologies: Business Intelligence
+Tools : Informatica, Rapid SQL, Unix
+Database: DB2, Sybase, Mainframe Flat files
+
+
+
+
+Project Description:
+Main objective of this project is to maintain the daily mainframe backed calculations of Northwestern Mutual in warehouse. In this project we load the end to end data of regular and contractual employees of Northwestern Mutual according to business rule. We use the informatica mapping and transformations to extract the data from different source and perform some business logic to load the data into target tables. Autosys jobs are made which used Unix scripting to run informatica workflow. Autosys jobs are scheduled to run on daily basis to update the employee records on daily basis. 
+
+Responsibilities: 
+
+· Understanding and analyzing the business requirements.
+· Creating Mapping using various transformations.
+· Creating Workflows and Sessions.
+· Creating Jobs using UNIX scripts for workflow execution and various data files.
+· Creating Detail level design document.
+· Stress testing and Performance Testing.
+· Scheduling and automate the process of Workflows via Autosys.
+· Documentation of root cause analysis for production level defects.
+
+Project 2:
+	2
+	Project Name: Catlin Warehousing
+
+	
+	 XL CATLIN [www.xlcatlin.com]
+
+	Role
+	Developer
+
+	Organization
+	Infosys Ltd
+
+	Duration
+	Jan 2016 to August 2016
+
+	Team Size
+	3
+
+	Environment
+
+	Technologies: Business Intelligence
+Tools : Informatica, Rapid SQL, Unix
+Database: DB2
+
+
+
+
+Project Description:
+Main objective of this project is to manage the merger data for both the named clients as per the client name. In this project we used to maintain and get the data of entities in same track and same business specifications. We used to calculate the Interest, payments, total loan according to business rules using informatica mappings.
+
+Responsibilities: 
+
+· Understanding and analyzing the business requirements.
+· Creating Mapping using various transformations.
+· Creating Workflows and Sessions.
+· Ensures that all the standard requirements have been met and is involved in performing the technical analysis.
+· Enhancing the informatica mapping on various business requirements
+· Verify the results and identify the problem/Error and provide efficient resolution for same.
+
+Project 3:
+	3
+	Project Name: EBIS Re-platform
+
+	Client Client	Client
+	Northwestern Mutual [www.northwesternmutual.com]
+
+	Role
+	Developer
+
+	Organization
+	Infosys Ltd
+
+	Duration
+	May 2015 to Dec 2015
+
+	Team Size
+	8
+
+	Environment
+
+	Technologies: Business Intelligence
+Tools : Informatica Power Center, Rapid Sql
+Database: Sybase, DB2
+
+
+
+
+Project Description: 
+Main objective of this project is to perform run continuous cycle for data transformation and load from sybase to DB2 of Northwestern Mutual in warehouse. In this project we load the end to end data of regular and contractual employees of Northwestern Mutual according to business rule. We use the informatica mapping and transformations to extract the data from sybase source and perform business logics to load the data into target tables in DB2. Autosys jobs are made which used Unix scripting to run informatica workflow. Autosys jobs are scheduled to run on daily basis to update the employee records on daily basis.
+
+Responsibilities: 
+
+· Understanding and analyzing the business requirements.
+· Creating Mapping using various transformations.
+· Creating Workflows and Sessions.
+· Maintain stability of run-continuous job environment by tuning and tweaking as per the required performance guidelines.
+
+
+Project 4:
+	4
+	Project Name: InfyTV
+
+	Client Client	Client
+	Infosys Ltd
+
+	Role
+	Developer
+
+	Organization
+	Infosys Ltd
+
+	Duration
+	Dec 2014 - March 2015
+
+	Team Size
+	8
+
+	Environment
+
+	Technologies: Business Intelligence
+Tools : Informatica 9.1, Cognos 10.2, Rapid SQL
+Database: Microsoft SQL Server
+
+
+
+
+Project Description:
+InfyTV is an internal project of Infosys in which we used to store and analysis the data of Infosys TV channels viz. Infosys News, Technology news, Entertainment, Events. We also generate the different types of cognos report based on InfyTV data.
+
+Responsibilities: 
+
+· ETL work (Creating, Deploying) Using Informatica
+· Creating Mapping.
+· Creating Job 
+· Run the Job using UNIX Scripts
+· Reporting Work Using IBM COGNOS
+· Creating Reports (Table, Matrix etc.)
+· Creating Dashboards
+· Data Validation
+· Analyze and fix the defects if any.
+
+
+ACADEMIC QUALIFICATION
+
+	Year(s)
+	Qualification - Degree / Diploma / Certificate
+	Board
+	College/ Institute/ University
+	
+% / CGPA
+
+	2008-2012
+	B.Tech (Electronics and Communication Engineering)
+	Biju Patnaik University of Technology
+	The Techno School, Bhubaneshwar, Odisha
+	6.83
+
+	2006-2008
+	Higher Secondary (10+2)
+	Board of Higher Secondary Education, Odisha
+	Vikash Junior College, Bargarh, Odisha
+	63.2
+
+	2004-2005
+	10th standard
+
+	Central Board of Secondary Education
+	Madnawati Public School, Sambalpur, Odisha
+	78.4
+
+
+
+
+PERSONAL INFORMATION
+
+Date of Birth 				: February 14, 1991
+Father's Name 			: Annada Prasad Mishra
+Sex 					: Male
+Marital Status 				: Single
+Language Known			: Hindi, English
+Permanent Address 			: Near Govt. Girls High School, Bhuyan Sahi, Deogarh, Odisha
+Nationality 				: Indian 							  Email					: ankur7874@gmail.com
+Phone no.                                             : +91-7077439368
+
+
+
+I hereby declare that the information furnished above is true to the best of my knowledge.
+
+
+
+DATE:	
+PLACE:		(ANKUR AZAD MISHRA)
+
+
+
+
+
+
+
+
+
+
+
+	                    
+
+
+

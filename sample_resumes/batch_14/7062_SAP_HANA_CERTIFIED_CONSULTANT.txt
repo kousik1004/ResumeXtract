@@ -1,0 +1,350 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Srinidhi G
+
+Sudhir Ranjan Sahu(SAP HANA CERTIFIED CONSULTANT)
+
+
+
+Profile
+· SAP NW Basis/HANA consultant with 8.5+ years of SAP Basis/HANA, NetWeaver Administration experience. Proved in analysis & support SAP Development, Quality and Production environments. Being competent in SAP Basis, demonstrated a proven ability to enhance development completion cycle times reducing overall development timelines.  
+
+· Ability to quickly determine and meet specific client needs, good communication skills, interpersonal skills, self-motivated, quick learner, and team player.
+
+· Executed projects for Foods&Bevarages, FMCG, Automotive and Insurance industries.
+
+Certifications:
+
+SAP HANA SPS12 (C_HANATEC_12)
+
+ORACLE
+
+ITIL V3 Foundation
+Worked extensively in the following areas:
+
+· Installation and configuration of SRM and Portal.
+
+· HANA DB Administration/ DB Refresh.
+· SLT Configuration
+
+· HANA SPS Upgrade from SPS11 to SPS12.
+· HANA Revision Upgrade.
+
+· Have Done Migration to Azure Cloud.
+· Performed EHP/Support pack Upgrades for all SAP Components.
+· Have performed System Refreshes/System Copies for ECC, BW, CRM,R/3 4.6C/4.7EE,Portal systems.
+· Have Performed BOBJ 4.0 SPS upgrade (SP3 to SP5), promotion management.
+
+· Designed, configured and maintained Transport Management System (TMS).
+
+· Configured MOPZ, Early watch Alert on Solution Manager. Have worked on Incident Management, Change Management. Have Followed the Charm process.
+· Client management – Creating and Deleting clients, Local and Remote client copy, Client export/import. 
+
+· Applied patches to SAP system (SPAM/SAINT), performed Kernel upgrades, applied support packages and Add-on installations.
+· Configured Logon Groups with multiple Instances for Load Balancing.
+
+· Performed Database admin tasks like table space admin, Startup/Shutdown of Instance, Backup and restore, Re-Organization of Indexes and recovery of data files.
+
+· Experience in SAP NetWeaver Administrator (NWA), Visual J2EE Admin, Config Tool and System trouble shooting.
+
+· Experience in applying Java support packs using Java support pack a manager (JSPM) and deploying the software using software deployment manager (SDM) and use of SUM tool etc.
+· Language installation like Dutch, Japanese and Swedish for one of the projects.
+· Oracle Upgrade 10g to 11g and 11g to 12 g.
+· Have applied patches on Oracle, tablespace extension through brtools.
+
+· Have involved in calls with customer and have given RCA for sev-1/sev2 issues.
+Skill Set
+ERP:  
+SAP 4.7EE,ECC 6.0,ECC 6.0 EHP7 ,BI 7.0,SolMan 7.1,
+                    NWDI,,CRM 7.01 and PI 7.3Ehp1 ,HANA 1.0
+
+RDBMS: Oracle 9i/10g/11g/12c, DB2 , MSSQL
+O/S: 
+Windows, Solaris 10.0, IBM AIX, HP-UX, zLinux and zOS
+Organization Experience:
+     Working with HPE as a Senior Sap-Basis Consultant since May 2016.
+     Worked at IBM as a Sap-Basis Consultant from Aug 2012 to May 2016.
+     Worked at CSC as a Sap-Basis Consultant from Oct 2011-Aug 2012.
+
+     Worked at Accenture Services Pvt Ltd as a Sap-Basis Consultant from May 2008 to Oct 2011.
+Education:  
+
+Bachelor of Technology (B.Tech) in Electronics and Communication Engg.  From NIST , Orissa  in 2007.
+Professional Experience
+May 2016 – till date  
+Senior Sap-Basis Consultant 
+       HPE,Bangalore,India
+Project Description: E.ON is basically into the energy networks, renewables, and customer solutions. 
+It operates in over 30 countries and serves over 33 million customers. E.ON is the world's largest investor-owned energy service provider company.
+
+We are supporting more than 150 SAP systems across the globe 24/7 support.
+
+Job Roles: We are responsible to support, implement and services that would best fit the customer requirements and consequently propositioning. This project involves installing, upgrade, support and configuring of SAP products. We interacts with business team to resolve SEV-1 calls for corporate clients. Works with marketing teams to identify potential customers and conduct client meetings/presentations.
+
+Responsibilities: 
+· Have done System Refreshes for various Products( ECC,BW,SRM,CRM,Portal).
+
+· Have Done EHP/Stack Upgrades for various SAP Components.
+· Have done Oracle upgrade from 11g to 12c and have applied SBP.
+· Apply the Java support patches using JSPM
+
+· Kernel upgrade in non-production and production systems.
+· Apply the ABAP/JAVA support packages through SUM Tool.
+· Perform client administration –Client creation, Client copy and Client deletion
+
+· Configure SSO between SAP ECC and SAP portal
+
+· Handle SAP work load analysis and provide the solution to improve the performance of the system
+
+May 2014 – May2016  
+Senior Systems Engineer 
+       IBM India Pvt ld, Hyderabad, India
+Project Description:American International Group, Inc. (AIG) is a leading international insurance organization serving customers in more than 130 countries. AIG companies serve commercial, institutional, and individual customers through one of the most extensive worldwide property-casualty networks of any insurer and are leading providers of life insurance and retirement services in the United States. The aim of the project is to integrate the all the system in the different countries into one global system by using various SAP and non SAP tools i.e Datastage, SAP NetWeaver products, ECC, MDM, BPMS and BPC etc
+Job Roles: We are responsible to support, implement and services that would best fit the customer requirements and consequently propositioning. This project involves installing, upgrade, support and configuring of SAP products. We interacts with business team to resolve SEV-1 calls for corporate clients. Works with marketing teams to identify potential customers and conduct client meetings/presentations.
+
+Responsibilities: 
+· Have done System Refreshes for various Products( ECC,BW,SRM,CRM,Portal).
+
+· Have Done EHP Upgrades for ECC(ECC EHP 6 to EHP7) through SUM.
+
+· Provide Basis support activities for SAP ECC 6.0, BI7.0Ehp2, PI7.3Ehp1, Solution manager 7.1, 
+· and BOBJ 4.0 sp5.
+· Maintain the Sabrix and Open Text connectivity to ECC systems
+
+· Perform the pre and post system copy steps and deliver the systems to business users in time
+
+· Attending weekly and monthly meeting update the status of the work
+
+· Apply the Java support patches using JSPM
+
+· Kernel upgrade in non-production and production systems
+
+· Apply the ABAP/JAVA support packages through SUM Tool
+· Configure ChaRM auto import jobs in solution manager for all child systems 
+
+· Perform client administration –Client creation, Client copy and Client deletion
+
+· Configure SSO between SAP ECC and SAP portal
+
+· Handle SAP work load analysis and provide the solution to improve the performance of the system
+
+· Configure TMS in all landscapes and import the transports 
+
+· Perform the pre and post system copy activities 
+
+· Configure load balancing, RFC server group administration, and operation modes
+
+· SAP Router administration
+ERP:  
+SAP 4.7EE,ECC 6.0,ECC 6.0 EHP7 ,BI 7.0,SolMan 7.1,
+NWDI,BPC7.5 &10.0,CRM 7.01 and PI 7.3Ehp1 & HANA 
+RDBMS: Oracle 11g, DB2 390, MSSQL
+O/S: 
+Windows, Solaris 10.0, IBM AIX, HP-UX, zLinux and zOS
+
+Team Size
+: 12
+
+Sep 2012 – Nov 2013    Senior Systems Engineer 
+       IBM India Pvt ld, Hyderabad, India
+Project Description:  Friesland Campina-A large dairy product manufacturer in the Netherlands improves resource utilization, gains the ability to create accurate reports 50 percent faster than before and increases overall efficiency when it works with IBM Business Partner Centre Consulting and implements IBM Cognos Financial Statement Reporting software to provide a secure, centralized platform with automation for its reporting processes.
+
+Responsibilities:
+· End to End Implementation of SRM and Portal.
+
+· Integration and configuration of SRM and Portal
+
+· Configuration of SRM with Backend system(ECC,R3)
+· SSO Configuration
+· System Refreshes for SRM and Portal.
+· Data file addition and file system increase through BRtools.
+
+· Implement OSS notes and All Sap-Market Place Activity .
+· File system monitoring(Housekeeping of Filesystems)..
+
+· Support pack upgrade in ABAP and JAVA.
+
+· Handling user calls and troubleshooting.
+
+Environment:   ECC 6.0 (EHP6),SRM 7.01,Portal (NW 7.02), Oracle 11g, AIX 6.1
+Oct 2011 – Aug 2012 
+Senior Software Engineer
+CSC India Pvt Ltd, Hyderabad, India                            
+
+Project Description: Royal Mail is the government-owned postal service in the United Kingdom of Great Britain and Northern Ireland. Royal Mail Holdings plc owns Royal Mail Group Limited, which in turn operates the brands Royal Mail (letters) and Parcel force Worldwide (parcels). Post Office Ltd. (Counters) and General Logistics Systems, an international logistics company, are wholly owned subsidiaries.
+This project is run maintain having more than 100 SAP systems in the landscape varying from Dev, QA and production and sandboxes including R/3,Netweaver,E-portal.
+Responsibilities:
+· Applying JVM Patches through SAPINST.
+
+· Java Thread dump Configuration.
+
+· Analyzing Out of Memory Error in Java stack.
+
+· Enterprise Portal Patching.
+
+· Installation of Diagnostics Agent 7.30 in Solman.
+
+· CCMS Alert Configuration.
+
+· Client Administration(local,remote client copy)
+
+· Data file addition and file system increase through BRtools.
+
+· Database Upgrade(10.2.0.2 to 11.2)
+
+· Oracle Patching.
+
+· Implement OSS notes and All Sap-Market Place Activity .
+· File system monitoring(Housekeeping of Filesystems).
+
+· Spool & print management 
+
+· Configured Operation Modes and Profile parameters maintenance.
+
+· DB Refresh and Restore activities.
+
+· Implemented Kernel Upgrade and Applied Support Packs
+
+· Handling user calls and troubleshooting
+
+Environment: 
+
+NW2004s,ECC 6.0,Sap R/3 4.6 C,Solman 7.0, Oracle 11g,UDB DB2 , AIX 5.3/6.1,Windows NT2003
+May 2008 – Oct 2011
+ Software Engineer
+Accenture India Pvt Ltd, Hyderabad, India                                
+
+Project Description: DuPont-This project is run maintain having more than 150 SAP systems in the landscape varying from Dev, QA and production and sandboxes. We supported more than 20 production servers including R/3.
+
+Responsibilities:
+· Ensure SAP system instances are up & running 365 days 24x7 with proactive health monitoring.
+
+· Implement OSS notes and All Sap-Market Place Activity .
+
+· Daily backups & verify/rectify  for any reason.
+
+· Client Administration which includes creation, deletion, export and import.
+
+· File system monitoring 
+
+· Spool & print management 
+
+· Checking Failed update record & system logs
+
+· Short dump analysis, managing lock entries, lock/unlock transaction codes, displaying and monitoring of Database and Application servers, managing user sessions
+
+· Configured  Operation Modes and Profile parameters maintenance.
+
+· CCMS Alert Configuration .
+
+· DB Refresh and Restore activities.
+
+· Implemented Kernel Upgrade and Applied Support Packs.
+Environment: 
+
+Sap R/3 4.6 C , DB2 , AIX 5.3
+PERSONAL DETAILS
+
+Name
+
+
+ : Sudhir Ranjan Sahu
+
+Date of Birth 
+ 
+ : 16 Apr 1985
+
+Gender 
+
+               :  Male
+
+Marital Status 
+               :  Married
+
+PAN Card                           :  BVSPS9552D
+
+Passport No                       : H1418325
+
+Nationality 
+
+ : Indian
+
+Language Known 
+ : English, Hindi, Oriya (speaking, reading and writing)
+
+Hobbies                             : Listening to music, Surfing, Cricket 
+DECLARATION
+
+I here by declare that the above given details are true to the best of my knowledge.
+
+Place: Bangalore
+Date:
+
+
+
+
+
+
+
+
+(Sudhir Ranjan Sahu)
+
+
+Flat. No: 303,SLV Apartment, Hulimavu,BG Road
+
+Bangalore-560076
+
+Email id: � HYPERLINK "mailto:sudhir267@gmail.com" �sudhir267@gmail.com�
+
+Mob No: +91-9980154654
+
+
+
+
+
+
+

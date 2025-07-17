@@ -1,0 +1,280 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Krishnaveni Garapati
+
+Mail: Garapati.Veni@gmail.com
+Call 924 733 7222
+        
+	
+
+
+
+	
+
+	
+
+	
+
+
+Experience Summary
+· Having 4.1 years of IT experience as a Technical Consultant in Oracle Applications Release 11i/R12 E-Business Suite
+· Good Technical knowledge of the Modules (PO, INV, AP, GL and OM).
+
+· Experience in development & customization of RICE Components.
+
+· Knowledge in AOL activities like Defining Responsibilities, Value Sets, Flex fields, Registering menus, reports and Concurrent programs. 
+
+· Good Knowledge on Procure to Pay and Order to Cash Cycles.
+· Having Good Exposure in Oracle AIM Methodology (Technical Design and Installation Document).
+
+· Experience in developing reports from XML Publisher Reports. 
+· Expertise in SQL * Loader programming for inbound process in Oracle Applications.
+
+· Have worked with oracle utilities like SQL* Loader, UTL_FILE packages.
+
+· Expertise in PL/SQL and SQL programming.
+· Having Good Experience on Form Personalization.
+· Having Knowledge on Discoverer
+· Self motivated and dedicated fast learner with good communication and interpersonal skills. 
+Professional Summary
+
+· Working as a Technical Consultant in Mahindra Satyam   May-2011 – Till date
+
+· Working as a Technical Consultant in Netpeach Technologies Pvt Ltd    Oct-2009 – Mar-2011.
+· Worked as a Technical Consultant in Callippus Solution Pvt Ltd. (Feb -2008 to Sep-2009)
+Educational Background
+
+· M.Com from Andhra University.
+
+· B.Com from Andhra University.
+Technical Skill
+
+· Languages                        : SQL, PL/SQL 
+
+· Database                          : Oracle9i, Oracle 10g
+
+· Report Tools                     : Reports 6i and XML Publisher
+
+· Utilities                             : SQL*LDR and UTL_FILE 
+
+· Apps Development Tools : Oracle Workflow Builder 2.6
+
+· Other Tools                      : Toad, SQL Developer, SQL Tools,
+
+
+
+
+
+ Kintana and PVCS
+                  
+· Operating System           : Windows NT/ 2000/XP
+Project Details
+Project: Global Tax and Customs (GTC) 
+
+
+Client: Cisco Systems Inc, US
+
+Role            : Team Member 
+
+Location     :  Hyderabad 
+
+Technology:  Duration     : May 2011 to till date
+Environment: R12
+Project Description 
+
+Cisco’s objective is to enable Star Net entities (MITG entities) as Type 4a entities in Oracle ERP (Buy/Sell) in three phases (Wave1, Wave2 and Wave3). During the first phase (Wave1), seven MITG entities (Germany, France, Spain, South Africa, Turkey, Singapore and Mexico) are being enabled as Type 4a entities in Oracle ERP. 
+
+Virtual Trader will be configured for MITG entities to create Intercompany Accounting for eligible transactions. Virtual trader will create Intercompany journals directly in GL without using sub-ledgers Accounts Receivables and Account Payables.
+
+Responsibilities:
+
+· Preparation and Review of Technical Design Documents 
+
+· Development of New Report based on the client requirement.
+· Code deployment using Kintana tool. 
+· Preparing UTC and UTR documents.
+· Responsible for overseeing the Quality procedures related to the project.
+· Creating all the Kintana Packages and get BM approvals from the client and provide the list     to ERMO team. This process continues for all the Test Cycles till Go-Live.
+Project: Oracle R12 Implementation 
+
+Role
+                    : Team Memeber
+Client
+                    : Nowent Inc
+
+Duration                  : Aug 2010  - Mar 2011
+Environment           :  R12
+Description:-
+
+              Nowent Inc is Developed Tool called Apps Companion, a USA based software Solutions Company. Apps Companion is a productivity application for Oracle E-Business suite for R12 users. Apps Companion is a Client Software which runs on MS Windows platform This Tool has many Features like 
+
+· Spread Sheet Download 
+
+· Spread sheet Upload
+
+· Generate SQL
+
+· Generate Script 
+
+· Generate Document.
+
+Responsibilities:
+
+· Developed RICE Components as per the Client Requirement.
+
+· Registration of Concurrent programs, attaching concurrent programs to Request Groups.
+
+· Creation of Value sets, Flex fields for all modules and done Registrations like Reports, Forms, PLSQL Stored Procedures and SQL*Loader files.
+
+· Developed purge programs using Dynamic SQL.
+Created Control Files for SQL* Loader to load data from Text Files.
+
+· Developed new forms as per the client requirement.
+
+· Involved in Development of PLSQL scripts using API’s
+Involved in Forms (Customization/Personalization).
+· Involved in developing XML Publisher reports from scratch.
+
+· Design the Technical DOC (like MD 070) of respective Components.
+
+· Involved in developing Interfaces (Inbound and Outbound).
+· Involved in developing Conversions.
+· Involved in the development of Stored Procedures and PL/SQL Packages. 
+
+· Experience in Multi Organization, Flex Fields and Profiles.
+· Developed and Customization of Reports and Forms based on Customer Requirements. 
+· Involved in importing Standard PO  from legacy system to Oracle Applications using the standard programs. Wrote package to validate data before loading into the corresponding interface table.
+
+Project: Oracle 11i Implementation 
+
+Client                  :   Placon, USA.,
+Organization        :  Netpeach Technology Services Pvt Ltd
+
+Role                    :  Team Member
+Duration              :  Oct 2009 – July 2010
+Description:                                                                                                                                                  
+
+Placon is implementing Oracle Applications 11i –version 11.5.10.2 (Financials, Inventory, Order Management, Procurement to do technical development work related to interfaces, Reports, workflows, Forms and extension Components.
+
+
+Inclusions: Techinical Design, coding & testing of conversions, interfaces, forms, extensions and Reports in Oracle Applications Release 11i Support for Integration Testing and Post Production.
+
+ Responsibilities:
+
+· Development of Reports, Forms.
+
+· Development of Conversions & Interfaces.
+
+· Writing extensive PL/SQL code for Development as needed.
+
+· Unit Testing.
+
+· Preparation of Technical Design Documentations, Unit Test Cases.
+
+· Interaction with the clients for Requirement clarifications.  
+
+· Bug fixing.
+
+· Development of various conversions in INV, PO.
+· Migration of AOL objects using FNDLOAD from Development instance to Test Instance
+Title
+                  :  TGF Oracle EBS Support and Maintenance project 
+Environment         : Oracle Apps 11i
+Role
+
+         : Team Member
+Client                        : The Global Fund, Geneva, Switzerland
+
+Duration                   :Dec 2008  - Sep 2009
+Description
+   :  Oracle Application implemented at TFG is termed as GFS (Global Fund Finance System).  This is implemented using Oracle Application 11.5.10.2.  This is like a supporting project solving L2 and L3 level issues.  
+
+Responsibilities: 
+· Involved in understanding the issues.
+
+· Resolved an updating issue in a form.
+
+· Resolved the issues in RDF report. 
+
+· Customized the standard report Suppliers Payment History in AP module by including some extra fields.
+
+· Technical Design (MD70) Documents preparation.
+
+Project Title
+: Online Hotel Booking System
+
+Platform
+: D2K
+Client
+          : Zirafee Solutions
+
+Role
+          : Team Member
+Description:
+
+Callipos Hotel Online Booking System (CHOBS) is a highly sophisticated and flexible
+
+Booking Engine with an integrated payment gateway solution, which enables
+
+end customers to reserve rooms online from a hotel's website.
+
+Responsibilities:
+
+· Developing Forms and Reports by using Forms6i and Reports6i.
+
+· Developing Packages, Stored Procedures, Functions, Cursors, Triggers, Views as per client requirement.
+· Creating Tables and Indexes as per client requirement.
+
+	Mail: Garapati.Veni@gmail.com | Call 9247337222
+	1
+
+
+

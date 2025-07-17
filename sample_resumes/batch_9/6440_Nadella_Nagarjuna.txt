@@ -1,0 +1,260 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+Nadella Nagarjuna
+E-Mail: nagarjunan.dw@gmail.com
+         Ph.: +91-9790091393
+______________________________________________________________________________________________
+			
+Synopsis: Over 6 plus years of IT experience in different capacities, primarily in the areas of Application Development, Maintenance & Support, Quality and Systems Analysis in MSBI stack for Insurance, Telecom, Sales, and Weather verticals.
+EXPERIENCE SUMMARY
+
+·  (
+Areas of Experience
+Industries
+Supply Chain/Sales
+Healthcare
+Insurance
+Telecom
+Wea
+ther
+Applications
+MSBI Stack
+SQL Server Analysis Services 2008 R2/10/13/15 (SSAS)
+SQL Server Integration Services 2008 R2/10 (SSIS)
+SQL Server Reporting Services 2008 R2/10/13 (SSRS)
+Report Builder 3.0
+Power Bi Desktop
+Databases
+MS SQL Server 2005/0
+8 R2/10/12
+/16
+ 
+Oracle 11g
+Version Controls
+Team Foundation Server 2013
+Operating Systems
+Windows 2000/XP, Windows 2008R2, Windows 2012
+Ticketing Management
+Service Now (SNOW)
+Utilities
+MS Office Suite
+)Extensive Knowledge of Relational databases and Data Warehousing.
+· Worked with Calculated Measures and MDX queries in Cubes and ad-hoc Reports.
+· Experienced in Creating Cubes, Partitions and Aggregations in SSAS. 
+· Worked with KPI’s.
+· Able to perform performance optimization.
+· Used to create the reports as per requirements in the form of table, matrix, charts.
+· Ability to create sub reports and linked reports from queries in SSRS.
+· Skilled at Development of Mappings according to the ETL Specifications for the Staging Area Data Load & Warehouse Data Load.
+· Proven proficiency at Data Transformations like Derive Column, Conditional Split, Aggregate, Union All, Merge Join, Lookup, Sort, and Slowly Changing Dimensions to load data into Data Warehouse. 
+· Expertise in designing and developing at Control Flow Items like Containers, and Tasks such as Analysis Services Process, File System, Script, and Execute SQL Task.
+· Experienced in Package Security protection levels, Check Points and Isolation Transaction levels.
+· Equal competence in Integration Services, Analysis Services and Reporting Services for Development, Integration & Implementation of Information Management Solutions.
+· Well acquainted with different BI architectures, Integration, frameworks and methodologies.
+· Good hands-on technologies in resolving any type of SSIS Production Issues and also have ability to resolve SSAS issues.
+· Proven proficiency in resolving the Tickets/Incidents/Tasks.
+· Configuration of Kerberos and Delegation in Power BI report services.
+· Extensive experience Application Development, Maintenance & Support.
+· Experience in managing small and medium projects. 
+· Knowledge of Quality processes.
+· Flexible enough to adapt to new environments.
+· Sound knowledge in analysis of functional and technical issues.
+· Knowledge in CMMI Level process.
+EDUCATION DETAILS
+
+· MCA (Master of Computers Application) from JNTUniversity in 2011.
+
+PROFESSIONAL SUMMARY       
+
+· Working as Consultant for Capgemini (Bangalore) from October 2017,
+· Worked as Senior Software Engineer at Hexaware Technologies Ltd, Chennai from July’2015 to Sep 2017,
+· Worked as Software Engineer at Cognizant Technology Solutions - from Feb 2012 to July 2015.
+
+PROJECT EXPERIENCE SUMMARY
+
+ASSIGNMENTS
+Please find below a list of assignments carried out successfully. More information can be provided on request. 
+	1.  PROJECT NAME 
+	UNILEVER
+
+	Type
+	Development, Maintenance
+
+	Role
+	Sr. BI Developer & Support
+
+	Tools & Environment
+	SQL server 2008 R2, SSAS, SSIS, SSRS, REMEDY
+
+	Location
+	Bangalore, INDIA
+
+
+
+Project Description: 
+Unilever is a British-Dutch transnational consumer goods company, Its products include food, beverages, cleaning agents and personal care products. It is the world's largest consumer goods company.
+Responsibilities:
+· Developed OLAP Cubes by using SQL Server Analysis Services (SSAS), worked on Performance tuning of SSAS Cubes.
+· Developed a cube by dividing the database fields in to measure groups and dimensions using SSAS.
+· Extensively involved in the SSAS storage and partitions, and aggregations, calculation.
+· Used various containers like Sequence, For loop, For each loop; and precedence constraints as per the business needs.
+· Used to create transformations and mappings using data flow tasks.
+· Used to create Configurations to change the package properties dynamically.
+· Manage retentions for all intervals.
+· Used transformations like Derive Column, Conditional Split, Aggregate, Row Count, Lookup, sort, Data Conversion, Merge, Merge Join, and Union All to load data into Data Mart.
+· Generating reports SSRS reports from SQL Server Database (OLTP) such as group by, drilldowns, charts, sub-reports, linked reports.
+· Submitting MOP’s (Minutes of Process) as part of the deployments. 
+· Resolving production issues in SSIS and SSAS.
+
+	2.  PROJECT NAME 
+	UNISYS
+
+	Sector
+	Business Objects Universes to MSBI Migration(SSAS )
+
+	Role
+	SSAS Developer 
+
+	Project Specific Skills
+	SSAS 2013, SQL Server 2012, Tableau
+
+	Location
+	Chennai, India
+
+
+
+Project Description: 
+Unisys Corporation (Unisys) is a worldwide information technology (IT) company, which provides a portfolio of IT services, software and technology. 
+
+Responsibilities:
+· Involved in understanding the requirements and KT sessions. 
+· Requirements and design goals of data warehouse.
+· Worked on data modeling for development of SSAS cubes.
+· Created technical design, functional and limitation document for SSAS Cube.
+· Extensively worked on OLAP cubes using SSAS.
+· Designed Cubes with Star and Snowflake Schema using SQL Server Analysis Services 2012.
+· Created and Managed OLAP Cubes using SSAS.
+· Involved in creating calculated members, named set, roles for the SSAS cubes.
+· Identified the dimension, fact tables and designed the Cube using star schema.
+· Developed Aggregations, partitions, Created Hierarchies and calculated members for cube as per business requirements.
+· Developed Multi-dimensional Objects (Cubes, Dimensions) using SQL Server Analysis Services.
+· Defined appropriate measure groups & deployed cubes.
+· Developing the Unit Test Plan for the component.
+· Unit and Independent Testing and bug fixing.
+	
+
+	3.PROJECT NAME 
+	WALGREENS
+
+	Industry
+	WALGREENS
+
+	Role
+	Team Member
+
+	Project Specific Skills
+	SSRS, Database Testing, SQL Server and Windows xp
+
+	Location
+	Chennai, India
+
+
+
+Project Description: 
+Walgreens provides access to consumer goods and services, plus pharmacy, photo studio, health and wellness services in the United States through its retail drugstores, Walgreens Health Services division, and Walgreens Health and Wellness division. Walgreens had 8,206 drugstores as of January 31, 2014. Walgreens runs several online stores, such as: Beauty.com, Drugstore.com and VisionDirect.com.
+
+
+
+
+Responsibilities:
+· Had a good relationship with onsite team in understanding the project requirements.
+· Understanding the Project requirements, allocating projects to team members and make them understand the project related information.
+· Having a control on day-to-day project activities by assigning tasks and updating the status to onsite and Client.
+· Preparing metrics for weekly, monthly and release reports.
+· Developing the SSRS Reports and validating the reports with the source,
+	
+
+	4.PROJECT NAME 
+	XL INSURANCE
+
+	Industry
+	XL INSURANCE
+
+	Role
+	L2
+
+	Project Specific Skills
+	SSRS, Database Testing, SQL Server and Windows xp
+
+	Location
+	Chennai, India
+
+
+
+Project Description: 
+XL Group plc's ("XL"), through its subsidiaries, is a global insurance and reinsurance company providing property, casualty and specialty products to industrial, commercial and professional firms, insurance companies and other enterprises throughout the world.
+
+Responsibilities:
+· Involved in creating the table, chart reports by using SSRS,
+· Working on the SSRS supporting the team,
+· Involved in the fixing critical bugs based on customer,
+· Involved in creating the model based reports by using SSRS,
+· Prepared SSRS Test scenarios and Test Cases,
+· Setup the test environment in Windows 7, 8 and 10 with IE 8,9,10 and 11 Configuration,
+· Executed the SSRS Reporting Test Scenarios in Both environments,
+· Uploaded the test results in Client portal for future verifications,
+· Project Initiation: Scope defined, Test Case Generation, Effort estimation, Test Data Preparation and Execution,
+· Preparing metrics for weekly, monthly and release reports,
+· Functional Testing and Regression Testing,
+· Posting and tracking the bugs through IT Support,
+· Project Planning and Tracking: Query Log is maintained to track the queries,
+· Preparation of Test data,
+Page 4 of 4

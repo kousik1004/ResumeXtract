@@ -1,0 +1,204 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BIO-DATA
+
+ SHRUTHI D.T                                       
+	Email: shru.asha@gmail.com
+Phone:+91–8095009177/6362993362
+
+
+
+	Career Objective
+
+
+
+To associate with an organization that gives me a chance to prove my ability, knowledge and efficiency and enhance my skills in the state of technology and to be a part of the team that excels in work towards the growth of the organization
+
+
+	Career Highlights
+
+
+
+· ISTQB Certified Tester &5+ years of experience in Testing. 
+· Over 5years of IT industry experience in ETL Testingwith a wide variety of projects and environments.Currently working as test analystat Infosys Technologies Ltd.
+· Proficiency in all phases of STLC from test planning to test closure.
+· Involved in various other activities like FLT audit, mentoring and guiding a small team, driving various calls and handling Projects along with resource management.
+· Extensive experience in ETL/ Data warehouse backend testing and BI Intelligence reports testing.
+· Worked on Big data project, knowledge on Hadoop systems.
+· Proficient inin the Designing, Preparing, Execution and Maintenance of the test cases.
+· Strong experience in software testing methodologies Functional, Integration/System Testing, Regression and User acceptance testing.
+· Knowledge on unix, mainframe, and writing complex queries.
+· Coordinating with development team forand test managers for requirement understanding and testing activities.
+· Extensive experience in using HP quality center for test management from requirement phase to defect tracking
+· Ability to understand the testing scope and deciding on the test strategy based on SRS and BRS.
+· Hands on experience using Informatica 9.1.0 (Power Center/ Power Mart) and Abinitio.
+· Excellent Knowledge of Database Systems – Oracle 10g, SQL server, DB2, HIVE and Data ware house concepts.
+· Extensive experience in developing SQL scripts to validate the databases tables and reports data for backend database testing.
+
+	Technical skills
+
+
+
+	Testing Tools
+	HP Quality Center 11.0 (ALM), Informatica 9.1.0, Abinitio, SSIS, Selenium, UNIX, Mainframe.
+
+	Databases
+	Oracle 10g, DB2 9.7.0, HIVE, SQL Server 2005/2008, Toad, Mysql
+
+	Operating Systems
+	Windows 2000 and XP, Window 8.1, Windows10
+
+	Programming
+	PL/SQL, SQL, Unix, Hadoop
+
+	Microsoft Office
+	Word, PPT, Excel, Access and Visio	
+
+
+
+		Employment History
+
+
+
+
+
+
+Currently workingas, a Test AnalystatInfosys Technologies Ltd,Mysore from October 2016 to till date
+Worked as Clinical Analyst – QA at eClinical Works pvt ltd, BangaloreFrom October 2015 to September 2016
+Worked software Engineer for Satwic Software solutions Pvt Ltd, Bangalore from May 2013 to September 2015
+
+	Project Experience
+
+
+
+Infosys Test Analyst
+
+Project Description: 
+DCCG is focused on automatign the client conversation when client walks into the branch. The branch team mates currently use paper form of the questionnaire. The objective of this intiative is to digitize the conversation with the clients and have the workflow and ruels driven in the application to recommend the products to the clients based on clients needs.
+
+
+Roles &Responsibilities:
+
+· Analyzing and Developing test scenarios and test cases requirements
+· Test data preparation which meets the test scenarios
+· Writing the SQL queries for validating the data and transformation rules
+· Creating Data profiling graph using Abinitio to validate Meta Data in Meta Data Portal
+· Working with Abinitio graphs for extracting different source files.
+· Loading Data in to DB using SSIS package and UNIX. 
+· Hadoop file validation using HUE(HIVE)
+· MS SQL,Oracle,DB2 table validation.
+· Validation of CDC Scenarios - FULL, Delta and Incremental loads, different types of SCDs Active participation in Status calls and Defect Calls with Onshore, Onsite &Development team
+
+Environment and tools: Hadoop, Hive (HUE), DB, Unix, Abinitio, Oracle, DB2, Mysql, SSIS
+
+
+eClinicalWorks EMR Analyst
+As an Analyst in Healthcare domain I was involved in Reviewing/Approving the Compliance Plan, Compliance Analysis, SOP Document, User Requirements Specification, Functional Requirements Specification, Test Protocol, Test Scripts (Pre-review & Post Review), and Test Report
+Environment and tools: Tableau, Team foundation Server, Jira, SQL Yog
+
+Role and Responsibilities:
+
+· To ensure documentation and practices meet quality standards, applicable regulatory compliance and company guidelines/policies
+· Review functional or technical requirement documents and develop test cases to the stated requirements including positive and negative testing
+· Worked with fellow validation and project team members in a dynamic environment with shuffling priorities and responsibilities
+· To provide expertise in the review of all deliverables across the project lifecycle, ranging from requirements documentation to final protocol reports
+· To accurately report the status of assigned deliverables and support other compliance work as necessary
+	
+
+Satwic software solutions Software engineer
+Project Description: 
+The concurrency of the two different system load is difficult to set.
+One system users continue to change transactions while these interfaces are run.
+3 to 5 contracts are reported each day which are caught-up by the next data load.
+During the week, between other system interfaces and the weeks when two systems interfaces are offline, contract swaps will result in detail/contract-level variances.
+
+Role & Responsibilities:
+· Tested Informatica folders, global sources, global targets, global ODBC connections, global FTP connections workflows, data profiling and manage metadata.
+· Tested data models and data maps (extract, transform and load analysis - ETL analysis) of the datamarts and feeder systems in the aggregation effort.
+· Formulate methods to perform Positive and Negative testing against requirements.
+· Reviewing Test Case
+· Identification / Review of Test Cases & Test Scenarios
+· Test Case Execution
+· Handle the tasks of reviewing testing documentation to ensure that it meets the software development and testing standards
+· Perform responsibilities of evaluating defect metrics data and update the finding report to the appropriate management
+· Bugs tracking and Defect resolution and Management
+· Communication with client & giving project understanding to Dev team.
+· Communication with Development team.
+· SQL querying for retrieving data from Database.
+· Writing technical documents/emails with the correct level of details.
+
+Environment and tools: Oracle 10g, Informatica, UNIX, HP ALM, DB2, Mysql, Microstrategy
+
+	Personality Traits
+
+
+· Self-Learner
+· Punctual and Hard worker
+· Complete commitment towards my work
+· Easy to be settled in each environment
+· Ability to work in team
+
+	Education Qualification
+
+
+B.E (TCE) from SSIT, TUMKUR with 77.46% aggregate (2008-2012)
+Intermediate: Board of Intermediate Education 69.33% aggregate
+S.S.L.C from Mycemco junior college with 77.73% aggregate
+	Personal Profile
+
+
+
+Name			: Shruthi D.T
+Sex   			:       Female
+Date of Birth		:21/11/1990
+Nationality  		:      Indian
+Languages known		:  English, Kannada, Telugu
+Hobbies		:      Listening music, Watching food and travel vlogs

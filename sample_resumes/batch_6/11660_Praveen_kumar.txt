@@ -1,0 +1,194 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+Praveen kumar
+hellopraveengupta@gmail.com
++91-9453400128
+
+Professional Summary:
+
+· Having 2 years 4 months of experience as a Software Engineer in the IT industry.
+· Experience in creating web applications using Spring Core, Spring JDBC, Spring MVC, Spring ORM, Hibernate and Web Service (JAX-RS). 
+· Hands on experience on AngularJs, Jquery and JavaScript.
+· Hands on experience on SpringBoot. 
+· Experience in applications using Eclipse IDE for Java.
+· Experience in Java design patterns such as Singleton, Factory Design Pattern, and DataAccess Objects (DAO).
+· Good exposure to Web/Application servers Tomcat / Web logic, Boss. 
+· Working experience on Eclipse, Maven, Ant, Putty, WinSCP, Postman.
+· Ability to learn new concepts and to adapt to new environments.
+
+Professional Experience:
+· Currently working as Java Developer at Virinchi Technologies Limited (http://www.virinchi.com/) from DEC-2016 to till date. 
+· I have done Internship with Nacre Software Services as java Trainee from Jul 2016 to Nov 2016.
+
+Education Qualification:
+
+· Post-Graduated (MCA) from University Institute of Technology RGPV, Bhopal with 76.5% in the year 2016.
+
+Career Objective:
+
+To make optimum use of my strengths and capabilities as an engineer in the organization and to contribute  to the maximum success of the organization.
+
+Skills Summary:
+
+	Programming Languages
+	Java
+
+	Java Technologies
+	JavaEE
+
+	Web Technologies
+	HTML, Servlets, JSP, javaScript , JQuery.
+
+	Distributed Technologies
+	Web Service (JAX-RS)
+
+	Frameworks
+	AngularJs, Spring, Hibernate 
+
+	Database
+	Oracle10g
+
+	Application Servers	
+	JBOSS
+
+	Web Servers	
+	Tomcat7
+
+	Tools
+	Log4j,Maven,CVS,ANT,Putty,Winscp,Postman
+
+	IDE
+	Eclipse, STS
+
+
+Industry Exposure:
+
+Project:3
+
+             Project Title	:    Lendnation  (http://www.lendnation.qfund.net/) 
+              Company Name           :    Virinchi Technologies
+             Period	:    January 2018 to till date
+             Team Size		:    12	
+             Technologies used	:    AngularJs,Web Service (JAX-RS), HTML, JQuery
+
+Description:
+
+Lendnation for short term financial Industry for major lenders in USA. Lendnation is Short-Term Loan Solution Get the loan through online 24/7. Right now it is having only one product PDL . In Lendnation loan options is different compared to store (Qfund). Once the customer registered and Apply Online for loan, after approved, customer can have the money transferred into their bank account as soon as the next business day.
+There are 2 modules involved
+
+· LMS Module
+· Online Module.
+Responsibilities:
+
+· Involved in End to End Development.
+· Involved in Designing of User Interfaces and Validations.
+· Implementing Rest based JAX-RS web services for request processing. 
+· Developed service layer, process layer and integration layer in provider side.
+
+Project:2
+
+             Project Title	:    Qfund (http://www.qfund.net/)
+              Company Name           :    Virinchi Technologies
+             Period	:    Dec-2016 to Dec-2017
+             Team Size		:    20		
+             Technologies used	:    Spring, Hibernate, JSP, HTML, JavaScript
+
+Description:
+
+QFund is the market leading premier software for short term financial solutions Industry in the United States of America. QFund provides a various short-term financial transactions such as Payday Loan, Check Cashing, Installment Loan, Title Loan and Auto/Equity Loan. QFund have over 6000 stores front locations in the geographies of USA, UK & Canada
+There are 2 modules involved.
+
+Admin Module:
+
+It is used for administration purpose like Store Configuration, Employee creation, Access-Rights, Transactions, and Reports. In which it includes system configuration, employee creation and editing, privileges given to the CSR, transaction of a particular customer and Reports for generating all kinds of reports based on the search criteria given or mentioned in the report. 
+
+
+
+Csr module:
+
+It is used for issuing a loan like PDL, ILP, LOC and Title Loans. There are different kinds of modules like Borrower, Loan Transactions, Cash Management. In Borrower, the customer registration and editing customer details etc will be there. In Loan transactions, the loan transaction of a customer can be done. For every transaction, receipts and agreements are generated.
+
+Responsibilities:
+
+· Involved in solving defect, testing of the Project.
+· Responsible for resolving issues/bugs reported by the QA Team.
+· Responsible for writing Maven POM file for dependency Management.
+· Test Build and Production Build Management.
+
+Project:1
+
+             Project Title	:    BOOK MY EVENT 
+              Company Name           :    Nacre Software Services
+             Period	:    Jul-2016 to Nov-2016
+             Team Size		:    30		
+             Technologies used	:    J2SE, J2EE, Spring, HTML, JavaScript
+
+Description:
+
+This is an automated system which can be used to browse and book tickets of movies to one's convenience, providing him/her with proper information of show timings, seating arrangement and also the address of theaters. The person who is booking the ticket for particular show is the client for the admin who provides the ticket for all shows in the particular theater. The information about the events like movies, musical show etc., will be there on the website city-wise accordingly.
+
+Responsibilities:
+
+· Developed the View pages in JSP, using CSS, JavaScript validations, and Business, service layer coding.
+· Writing Classes and Database Connectivity.
+
+
+Personal Profile:
+
+Name:                                                                     Praveen Kumar
+Father's Name:                                                      Sunil Kumar Gupta
+Date of Birth:                                                         18/07/1991.
+Interests:                                                                Learning new technologies
+Languages Known:                                                English and Hindi
+
+Date:
+Place: Hyderabad                                                                                                               (Praveen Kumar)

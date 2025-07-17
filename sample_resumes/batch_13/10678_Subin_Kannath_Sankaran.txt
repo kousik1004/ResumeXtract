@@ -1,0 +1,365 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+
+
+- 1 - 
+
+Subin Kannath Sankaran e-mail : subin.cet@gmail.com 
+B.Tech.                      Mobile  : +91 8129946727 
+
+   
+
+SUMMARY 
+ 
+
+      
+
+• Over  9  years  of experience in software development and programming in Java related 
+technologies. 
+
+• Currently working as a Technology Lead with Infosys 
+
+• Proficient in developing enterprise & web applications in Java /J2EE environment. 
+
+• Excellent communication, analytical and interpersonal skills. 
+
+• Worked in requirement gathering , analysis & design , implementation and testing phases of 
+development cycle. 
+
+• Experienced in working at client locations in US and interfacing with client for requirement 
+gathering and smooth delivery of projects. 
+
+ 
+
+SKILL SET 
+ 
+
+ 
+
+Technical 
+
+ 
+
+• Java Technologies : Core Java , Spring ,Spring boot , JMS ,  EJB , Servlets 
+,Spring cloud 
+
+ 
+
+• Web Technologies  : HTML(5) , AngularJS , CSS , Javascript , JQuery  
+
+• Web Service  :  RESTFul(Microservice architecture) , SOAP 
+
+• Database : MySQL , Oracle  
+
+• Servers : Tomcat , WebLogic 
+
+• Tools  : Eclipse , Spring Tool Suite , MySQL Workbench , Toad 
+ 
+
+• Build frameworks : Maven , Ant 
+
+• Version Control System : GIT , SVN 
+
+• Cloud Technology : Pivotal Cloud Foundry 
+
+• Continuous integration : Jenkins 
+
+ 
+
+  
+
+
+
+- 2 - 
+
+Functional 
+ 
+
+• Managing requirement gathering , analysis , technical/functional design . 
+
+• Proficient in developing , testing , debugging and troubleshooting applications  
+
+• Interfacing  with different stakeholders of projects at client location for requirement 
+gathering , analysis and finalization of designs. 
+
+ 
+
+• Communicating and cooperating with team members for efficient work management .  
+
+• Providing technical guidance and support to team members to ensure smooth running of 
+project 
+
+ 
+
+• Implementing and delivering projects as per scheduled timelines.  
+
+• Preparing documents related to the product components  and keeping them updated as per 
+the changes in products.  
+
+ 
+
+PROFESSIONAL EXPERIENCE 
+
+ 
+
+ 
+Infosys Limited                      Dec 2007 –Till Date  
+ 
+Currently working as a Technology Lead 
+ 
+Responsibilities include the following 
+
+• Gathering and understanding  requirements and finalization of design after interacting with 
+client. 
+
+• Implementing the solution adhering to the standards and conventions . 
+
+• Testing and troubleshooting of application to make sure quality deliverables are completed 
+within the scheduled timelines. 
+
+• Manage and support the team to ensure efficient management of work. 
+
+• Guiding new resources in project related standards and frameworks 
+ 
+ 
+
+ 
+
+Projects handled in Infosys 
+ 
+
+Customer Support Portal for Telecom client August 2017 – Till date 
+July 2013 – June 2016 
+
+ 
+Was onsite lead for developing and enhancing the customer facing support portal for a major 
+telecom client in US. Functionality of the portal included bill payment , account management , TV 
+Program recording , Voice service configurations etc. for the customers. 
+Technologies involved : HTML 5 ,Angular JS , Spring , RESTful Web Services, Cassandra ,MySQL 
+ 
+
+Responsibilities include the following 
+
+
+
+- 3 - 
+
+• Interfacing with product owners  for  requirement gathering. 
+
+• Analyze , design and implement solutions.  
+
+• Assign tasks and manage offshore development team. 
+
+• Supporting QA activities and fixing bugs to ensure quality code delivery to production 
+adhering to timelines. 
+
+• Providing post production support for all modules. 
+ 
+ 
+Microservice Development for telecom client                     Feb 2017 – July 2017 
+ 
+Was lead for the development of microservice over the legacy systems of the client. Project was to 
+build a set of restful micro services replacing  the existing legacy services. Services are deployed on 
+cloud using Pivotal Cloud Foundry and uses spring cloud services available on PCF for 
+configuration , service registry and other backing resources. 
+Technologies involved : Spring , Spring Boot , JMS , MySQL  
+ 
+Responsibilities included the following 
+
+• Requirement gathering from client team. 
+
+• Analyze requirements and come up with technical design for the solution. 
+
+• Communicate with client to finalize technical/functional design 
+
+• Lead the development to implement the solution within the timeline. 
+
+• Provide post production maintenance and support service for the application. 
+ 
+
+ 
+Nexbox STB Testing Tool                                  June 2016 – Feb 2017 
+ 
+
+Worked as the lead for the automated test script generation utility for a the STB testing tool. 
+Implemented a web console for running STB tests with live preview and parallelly generating test 
+scripts for the test steps.  
+Technologies involved : Angular JS , HTML5 , Spring RESTful web services  , MySQL 
+ 
+Responsibilities  
+
+• Communicate with product architects to decide on the features of the tool. 
+
+• Design the technical solution and implement the features. 
+
+• Testing the implemented solution and trouble shoot issues if any. 
+• Maintain documentation of different components to ensure continuity of the ongoing 
+
+development. 
+ 
+Trouble Ticket Management System September 2012 – June 2013 
+ 
+
+ 
+
+Worked as a developer in the team . Involved  in maintenance and enhancement of trouble ticket 
+management application for the client. Application was for managing end to end flow of trouble 
+tickets for tracking issues raised by the business customers of the client. Users can create , update , 
+reassign and track tickets till closure through the desktop application 
+ 
+Technologies involved : Core Java, Java swing , Oracle  
+ 
+
+Responsibilities include the following 
+
+• Requirement gathering and impact analysis. 
+
+
+
+- 4 - 
+
+• Coding and unit testing of the solutions. 
+
+• Analyzing and fixing bugs existing the system. 
+ 
+
+ 
+Ordering System for Telecom client August 2010 – August 2012 
+ 
+
+Involved  in maintenance  and enhancement of the middleware platform for the ordering and 
+provisioning system for the products of major telecom client. The system was handling the business 
+validations and workflow of the orders placed form multiple front-end systems and supported the 
+provisioning flow for the orders placed. 
+ 
+Technologies involved : Core Java, EJB , Oracle  
+ 
+
+Responsibilities include the following 
+
+• Requirement gathering and impact analysis. 
+
+• Coding and unit testing of the solutions. 
+
+• Providing support for QA testing activities and bug fixing during the test cycle. 
+
+• Post production support. 
+ 
+Loyalty Management Solution September 2010 – August 2011 
+ 
+
+ 
+
+Worked as a developer in the project. Involved  in development of a loyalty management product. 
+The product was capable of managing loyalty points , enabling redemption of points , publishing 
+promotional campaigns etc. for the customers of the client. The product was customizable 
+according to the client requirement  
+ 
+Technologies involved : Core Java, Struts , Oracle 
+ 
+
+Responsibilities include the following 
+
+• Requirement gathering and impact analysis. 
+
+• Coding and unit testing of the solutions. 
+
+• Analyzing and fixing bugs existing the system. 
+ 
+Ordering  Solution for telecom client May 2008 – August 2011 
+ 
+
+ 
+
+As a developer , involved  in maintenance and enhancement of the ordering application for data 
+products of the client. Application will enable the users to configure and place orders of data 
+products after validating the eligibility of the customers. 
+ 
+Technologies involved : ASP .NET , MSSQL , C#  
+ 
+
+Responsibilities include the following 
+
+• Requirement gathering and impact analysis. 
+
+• Coding and unit testing of the solutions. 
+
+• Analyzing and fixing bugs existing the system. 
+  
+
+
+
+- 5 - 
+
+ACHIEVEMENTS AND CERTIFICATIONS 
+ 
+
+  
+
+• Won the Infosys “Bravo Award” for excellent performance. 
+
+• Appreciated for the performance and value additions in projects. 
+
+• Completed Infosys internal certifications in Java related technologies 
+
+  
+
+ACADEMIC BACKGROUND 
+ 
+
+ 
+
+B.Tech from Kerala University with Specialization in Electronics & Communication Engineering 
+completed in 2007 
+ 
+ 
+
+ 
+
+

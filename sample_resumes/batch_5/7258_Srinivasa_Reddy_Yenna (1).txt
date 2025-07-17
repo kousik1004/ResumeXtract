@@ -1,0 +1,293 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Srinivasa Reddy Yenna
+Email: srinivasareddy.yenna@gmail.com
+
+
+
+              Mobile: +919666206317  
+
+Professional Summary:
+
+· 6+ years of experience in IT includes strong knowledge in development and implementation
+· Currently working for Capgemini since October 2016
+· Strong working experience in Material GWT, EJB 3.2, JPA 2.1, RESTful web services,  SmartGWT Framework, GWT, Sencha GXT, Struts, Spring and Hibernate   
+· Good understanding of most commonly used Java and J2EE Design Patterns
+· Excellent skills in creating and accessing Database using SQL Queries
+· Hands on experience with Tools & Utilities:  CVS, SVN,  Clear Case, Oracle,   SQLDeveloper
+· Experience in Agile and Agile development frameworks Jira
+· Worked on application development tools Eclipse
+Employment Summary:
+· Working as Consultant for Capgemini, Bangalore from November 2016 to till date.
+
+· Worked as a Software Engineer Intermediate for JDA Software, Hyderabad from January 2014 to October 2016.
+· Worked as a Senior Software Engineer for SymphonyTeleca, Bangalore from May 2012 to Dec 2013.
+
+· Worked as a Software Engineer for ITC Infotech India Ltd, Bangalore from Feb 2011 to April 2012.
+
+Education Summary:
+
+· Master of Computer Applications from Anna University, Chennai 2010.
+
+· Bachelor of Science from Osmania University, Hyderabad in 2007.
+
+Skills Summary:
+Operating Systems
+
+
+: 
+Windows 2007
+Java/J2ee Technologies
+: 
+Java 1.7, Struts 1.x, Spring 3.0, Hibernate 4.x, GWT 3.0, 
+
+
+EJB 3.2, JPA 2.1, Material GWT, RESTful web   
+
+
+
+services(JAXRS 2.0).
+Application and Web Servers
+:  
+Weblogic 12.1.2, JBOSS, Tomcat6.0, Jetty
+Databases
+
+
+
+: 
+Oracle10G/11G, MySQL
+Enterprise IDE
+
+
+
+: 
+Eclipse 4.3
+Source Control Management Tools
+: 
+SVN, CVS, Clear case
+Design Patterns
+
+
+:
+J2EE core pattern
+Achievements:
+
+· Received SPOT award at JDA
+· Received Star Performer award twice at Symphony Teleca
+Project Summary:
+#1
+
+Project Title
+      
+: eDealroom
+
+Company
+      
+: Capgemini(before IGate Global Solutions)
+Client                 
+                   
+: SwissRe
+Role
+             
+
+
+
+: Consultant
+Team Size 
+
+
+
+: 8
+Duration 
+
+
+
+: November 2016 to till date
+Description:    SwissRe is a reinsurance company based in Switzerland. eDealroom is one of the SwissRe application used for the complete process of its deals. This application is used for its end to end deal process. Every deal can be initiated through eDealroom application and all the deal faces, deal communication and deal related documents can be saved for the future reference. This application is used by SwissRe employees and other company employees who involves in the deal.
+Role and Responsibilities:
+
+· Involved in the technical design 
+
+· Creation of JUNIT Test Cases and integration test
+· Involved in UI development using Material GWT
+· Involved in adding RESTful web services
+· Implemented entity classes using JPA 2.1
+
+· Involved in data model design
+
+Environment: JDK 1.8, GWT 3.0, Material GWT 2.0, Resty GWT, JAXRS 2.0, EJB 3.2, JPA 2.1, Eclipse 4.3(Kepler), Websphere Liberty Server 8.5, Oracle 12G.
+Project Summary:
+#2
+Project Title
+      
+: Transportation Smartbench
+
+Company
+      
+: JDA
+
+Client                 
+                   
+: LG, PepsiCo, P&G, Michelin, Lowes, J&J etc
+Role
+             
+
+
+
+: Senior Developer
+
+Team Size 
+
+
+
+: 10
+Duration 
+
+
+
+: Jan 2014 – October 2016
+Description:    Transportation Smartbench (Management tool) is one of the major transportation products in JDA which is used to define entities, plan and execute the freight without manual intervention. It contains the financial module which can be used to generate the freight bills and vouchers for customers. This application can be accessed by Carriers and 3PL users.
+
+It can be configured with different applications such as Transportation Planner which is used to fetch the best carrier with less charge for a lane.
+
+Role and Responsibilities:
+
+· Understand Spec Requirements and taking the spec ownership
+· Involvement in the module design 
+
+· Creation of JUNIT Test Cases
+· Application Development using SmartGWT
+
+· Involved in framework integration (GWT integration with Spring)
+
+Environment: JDK 1.7, GWT 2.6,  SmartGWT, Weblogic Application Server 12.2.1, HTML, CSS, Java Script,  Eclipse 4.3(Kepler), JRebel, JIRA,  Clearcase, Oracle 12G, Oracle TOAD
+
+#3:
+
+Project Title
+
+:         Merchandise Desktop
+Company
+
+
+:         Symphony Teleca
+
+Client
+
+
+:         Redprairie (now JDA)
+Role
+
+
+:         Developer.
+
+Team Size                     
+:         15
+
+Duration
+
+:         May 2012 to Dec 2013
+Description: JDA Merchant Desktop is a tool to manage the databases for eCommerce 
+
+application. Fundamentally the application is used for merchandise users. Merchandise users have access to creating, updating, viewing, deleting and searching for product, product folders and SKU objects. Enterprise Desktop is a swing based application. Merchant Desktop is a web application provides user friendly features.
+
+Role and Responsibilities:
+
+· Involved in development of Merchant Desktop using GWT and GXT. 
+
+· Involved in writing and executing unit test cases
+
+· Involved in writing design documents.
+
+· Involved in bug fixing in Enterprise Desktop and RI.
+
+Environment:  Java 1.7, GWT 2.5, GXT, weblogic12c, Microsoft SQL Server, Eclipse Indigo
+
+#4:
+
+Project Title
+
+:         FiftyP / Three Jars
+Company
+
+:         ITC
+
+Client
+
+
+:         ThreeJars, Norwalk U.S.A
+
+Role
+
+
+:         Developer.
+
+Team Size                      :         10
+
+Duration
+       :         Feb 2011 to Apr 2012
+Description:  Fiftyp.com/threejars.com (Money Management for kids) is an internet based application which helps parents to teach their children financial education, the value of money and most importantly, how to manage the money. Here the child can save/spend/share with their money credited in the form of allowance or deposited from their parent. The child can also make some friends and see how they are utilizing their money in the form of save/share/spend.
+Role and Responsibilities:
+
+· Designed and Developed Domain Objects, Validations, and Controllers.
+
+· Mapping domain objects to tables using hibernate mapping xml.
+
+· Wrote HQL queries using Hibernate.
+
+· Involved in integration of Spring with Hibernate.
+
+· Implemented Data Access layer using Hibernate.
+
+· Designed user interface using JSP.
+Environment: Java, spring, hibernate, JSP, Tomcat, JavaScript, HTML, Oracle                                           
+	1
+	
+
+
+

@@ -1,0 +1,141 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rakesh Kumar Sah					        	Email: rkskvv@gmail.com
+C-1001, Icon Linera, Bhumkar Chowk				Mobile:   +91 7447704411                                 
+Wakad, Pune – 411057						Date of Birth: 29th Sept’91
+
+Career Objective
+To prove myself dedicated and energetic as Oracle DBA in a progressive organization that give me scope to apply my knowledge and skills and be a member of a team that dynamically works towards success and growth of the organization.
+Professional Details
+· Total 3.6 years of experience in Oracle databases administration with High availability architecture.
+· Good knowledge on Installation and configuration of Oracle Real application clusters, ASM.
+· Installs, configures and maintains database instances, creates various database objects, creates users with appropriate roles and levels of security on multiple platforms.
+· Install, upgrade, patch Oracle Server.
+· Oracle installation and Database creation using silent installation.
+· Taking scheduled backup as per backup strategy using RMAN.
+· Configured and maintaining the Data guard (Physical/logical Standby database) for the production database and tested for Switchover, Failover, activating the standby to primary and zero data loss, also used for upgrading and migration purpose. 
+· Good experience in Cloning/Refreshing Database.
+· Provides Oracle DBA support and technical support for multiple applications in development, test, staging and production environments.
+· Data Migration using data pump, export and import utility. 
+· Daily monitoring and analysis of systems to ensure 24x7 stable operations. 
+· Troubleshoot day-to-day database issues to ensure system stability and throughput. 
+· Capable of handling Database Performance Issues.
+· Experience on working with TOAD, Putty, Oracle Metalink, SQL Loader and OEM.
+· Keen knowledge of ITIL Processes, Problem Management, Change Management, Incident Management and Configuration Management.
+· A quick learner with strong analytical, functional, technical skills and possess leadership and excellent communication skills.
+· Quick learning ability and strong will to learn new technologies.
+
+Academic Profile
+· B.Tech from Rajasthan Technical University, Kota in 2013 with 73.39%.
+· H.S.C from CBSE Board, New Delhi in 2009 with 89.60%.
+· S.S.C from CBSE Board, New Delhi in 2007 with 85.60%.
+
+Career Profile
+· Working as a Senior System Engineer for Infosys Limited from February 2014 to till now. 
+
+
+
+Technical Skills
+· Operating Systems	: Linux, Sun Solaris, HP-UX, Windows.
+·  Database		: 12c,11g, 10g, and 9i
+· Languages		: SQL, PL/SQL
+· Tools & Utilities	: PuTTY, OEM, OUI, TOAD, Sql*Plus, Sql*Loader, RMAN, lsnrctl, emctl, Exp/Imp, Expdp, Impdp, ASMCMD
+
+Certifications and Trainings
+· Internal Certifications in ITIL Service Desk and Incident Management
+· IMS ITIL Problem and Change Management
+· Other Trainings done at Infosys are:
+DBMS, PL/SQL, Oracle DBA, SQL DBA, UNIX, JAVA
+
+Professional Experience
+· Client			:	Pfizer Inc.
+· Role			:	Oracle Database Administration
+· Databases		: 	Oracle Databases 9i, 10g,11g and 12c
+ 
+	
+Description
+	Pfizer Inc. is the one of the largest pharmaceutical company in the world. 
+It was started in 1849 and was named after German-American cousins Charles Pfizer and Charles Erhart.
+We offer 365 x 24 x 7 database support to Pfizer Inc which comprises of over 2500 databases which include over 800 Production databases.
+
+	Team Size
+	28
+
+	 Environments
+	Development/Testing/Staging/Production
+
+	 Roles &
+Responsibilities
+	· Creating and Managing Database Accounts which include Personal Accounts, Service Accounts and Schema accounts.
+· Handling Database Alerts like:
+· Tablespace Usage above threshold
+· Unable to connect to Database
+· Agent not reachable
+· Production and Standby not in sync
+· ORA-600, ORA-700 errors
+· Analyzing and resolving Performance issues like ‘slow running query’, ‘unable to allocate memory’ etc.
+· Analyse Oracle problems/defects using Oracle Metalink and raising SR for the unknown issue.
+· Carrying out deployments in Dev/Test/UAT and Prod Databases as per the Deployment Instructions.
+· Performing Schema Refresh and Schema Retirement activity.
+· Performed Database Cloning and refresh on to Prod/UAT/Dev/Test environment.
+· Software Installation and Patching Activity.
+· Taking Care of Database Outages
+· Assisting development teams and Application support teams by taking care of tasks like schema refreshes, generating explain plans, finding blocked sessions and performance analysis with the help of AWR reports/Statspack reports.
+· Working as Shift Lead who is responsible for managing ~10 DBAs across different locations along with working on day to day database activities
+· Interacting with clients on call to understand requirements/issues and take necessary actions.
+
+
+
+General Information
+Nationality		:	Indian
+Sex			:	Male
+Marital Status		: 	Single
+Languages		:	Hindi, English
+Passport No.		:	K5192520
+
+
+Declaration
+
+I hereby do solemnly affirm that the details furnished above are true to the best of my knowledge.
+
+Date:									            Signature

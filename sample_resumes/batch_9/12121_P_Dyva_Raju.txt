@@ -1,0 +1,289 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VITAE
+
+                                           P Dyva Raju
+Profession
+
+:
+Network Engineer 
+
+      Specialisation
+
+:
+System Integration related to Network Technologies 
+Date of Birth
+
+:                    28-12-1993
+Marital Status / Sex
+:
+Single / Male
+
+
+
+
+
+      Mobile No.
+
+:
++91 8099229195
+E-mail ID
+
+:
+raj09028@gmail.com
+
+
+Network Engineer with 3.1 years’ experience in Systems Integration with various Network Components such as Cisco switches and routers & VoIP phones,  Access points etc. primarily with large Data centre Projects.
+Career Summary:
+
+· 3.1 Years of experience working on network elements.
+
+· Having a work experience in NOC environment
+· Experience in Core layer Cisco Switches, Routers & Access points
+· Good understanding on Switches and Routers Technologies
+
+· Working experience in Snmpc & DHCP .
+
+· Good working experience in Cisco Call Manger and Cisco VoIP Phones.
+
+· Having good knowledge about cisco Access points and Cisco Meraki ,WLC.
+· Good Technical and Problem solving abilities.
+· Monitoring and maintain data centre facilities and related equipment to meet SLA uptime standards.
+· In-depth knowledge and experience in enterprise network system configuration and management.
+· Extensive experience in network administration in Data Centre environment and 1000+ Networking Equipment's.
+· Experience in Cisco Routers and Switches Configuration.
+Key Expertise:
+Network Administration
+· Good Knowledge of Routing protocols like RIPv2, OSPF, EIGRP.BGP
+· Good Knowledge of switching concepts such as VLAN, VTP, STP, RSTP, HSRP.VRRP.
+· Upgrading IOS and Backup of IOS.
+· Good working experience in Snmpc & DHCP.
+
+· Cisco VOIP phone installation & configuration.
+
+· Good working experience in CISCO call Manger.
+· Maintaining Backups of 500+ Network devices.
+
+· Monitoring health status.
+· WAN Links monitoring through PRTG monitor tool & NMS.
+
+· Working experience in multiple projects at same time.
+· Configuration of E1 Links and Ether Chanel 
+
+· Performance monitoring and capacity planning of network
+· Good Knowledge Cisco Meraki wireless 
+· Good Knowledge of standard and extended Access lists and  NAT
+
+Hardware
+
+CCNA R/S
+
+· Cisco Routers 7613, 7609, 2811, 1841.1941,2901,1911,899
+· Cisco Switches 6513, 6509, ME3400. 3750 Series , 4500x series,6500series & 2960 series, 3850-24S,3850-24XS & etc 
+CCNA Voice
+
+· Cisco VOIP 7940 Series &7960 Series 7821, 8831 ,8841 phones
+· Cisco call manger 
+CCNA Wireless
+· Cisco CAP3702I-N-K9,CAP3502I-N-K9 & LAP1142  
+· WLC 
+ Monitoring Tools
+· Moogsoft
+
+· solarwinds
+
+· PRTG Monitor.
+· Snmpc 
+
+· HP Open View Network Node Manager.
+· HP Open View Performance Insight 
+· Cisco works LMS
+Ticketing Tools
+
+· HP Service Manager (HP-SM)
+· Managed Engine IT service.
+· Service Now 
+Academic Qualifications:
+· B.Tech  in Electrical and Electronics engineering at Eluru college of Engineering and Technology with 72.6%(2012-2015)
+
+· Diploma in Electrical and Electronics engineering at Sir C.R.R. Polytechnic with 80.3% (2009-2012)
+· SSC at ST XAVIER’S High School with 81.3%
+
+Work Experience:
+
+1. Infosys Pvt Ltd.
+      Project
+:
+AUS Client project
+      Client
+:
+One of best client for Infosys
+      Location       :
+  Bangalore
+      Platform       :
+  Cisco & Juniper & Aruba & Meraki 
+      Period          :
+  Dec 2017 –Till date 
+
+      Role             :
+  Technical analyst
+Responsibilities:
+· NOC operation using moogsoft  and solarwinds Monitor.
+
+· Vendor & OEM management / Co-ordination, Call tracking for required support.
+
+· Working  on Cisco 2811, 1941, 2902 1841,3800 series Routers and Cisco 4500X Series, 3750 series, 2960 series, 6500 Series, 3850 24S & 3850-24XS Switches & etc.
+· Responsible for network performance and Links Monitoring.
+
+· Responsible for changing configuration in Routers & Switches as per customer requirements.
+
+· Maintaining Backups of Switches & Routers, Access Points.
+· Responsible for installation and configuration & maintenance for Access points and Cisco Meraki Wireless.
+
+· Responsible for adding access points in controller (WLC) & providing guest id creation for as per customer request
+· Working experience In DHCP and Snmpc
+
+· Preparing RCA if any issue resolved..
+· Working experience in multiple project’s at same time.
+
+· Prepared design document for network equipment’s 
+· Responsible for ensuring application SLA performance targets are met.
+
+2. DXC Technology   (payroll on Globtier Info Tech)
+      Project
+:
+HP-JCB
+      Client
+:
+JCB
+      Location       :
+  Pune
+      Platform       :
+  Cisco 
+      Period          :
+  Apr 2017 –Till date 
+
+      Role             :
+  Network Engineer
+Responsibilities:
+· NOC operation using PRTG Monitor.
+· Vendor & OEM management / Co-ordination, Call tracking for required support.
+
+· Working  on Cisco 2811, 1941, 2902 1841,3800 series Routers and Cisco 4500X Series, 3750 series, 2960 series, 6500 Series, 3850 24S & 3850-24XS Switches & etc.
+· Responsible for network performance and Links Monitoring.
+
+· Responsible for changing configuration in Routers & Switches as per customer requirements.
+
+· Maintaining Backups of Switches & Routers, Access Points & Cisco call manger.
+· Responsible for Cisco phones registration & installation & troubleshooting.
+· Responsible for installation and configuration & maintenance for Access points and Cisco Meraki Wireless.
+· Responsible for adding access points in controller (WLC) & providing guest id creation for as per customer request
+· Working experience In DHCP and Snmpc
+
+· Preparing RCA if any issue resolved..
+· Working experience in multiple project’s at same time.
+
+· Prepared design document for network equipment’s
+· Upgrading IOS / other OS’s and taking regular back up of switches & routes & access points.
+· Responsible for ensuring application SLA performance targets are met.
+
+                Internal Projects done in JCB. 
+
+        1. UPTIME Project.
+2. DS SWITCHES Project.
+
+3. CCTV CAMERA Project.
+3. HCL InfoTech.Ltd
+
+      Project
+:
+CDR Project
+
+      Client
+:
+Bharat Sanchar Nigam Ltd (BSNL)
+      Location       :
+  Pune
+      Platform       :
+  Cisco & Radware 
+
+      Period          :
+  Sep 2015 –Apr 2017
+      Role             :
+  Network Engineer
+Responsibilities: 
+· NOC operation using HP-NNM.
+
+· Prepared design document for network equipment’s
+· Vendor & OEM management / Co-ordination, Call tracking for required support.
+· Worked with management team in developing network security related policies and documented the policies. 
+
+· Conducted Validation & Acceptance Test for network and security equipment’s 
+
+· Worked on  Cisco 2811, 7609, 7613 Routers and Cisco ME3400, 6509, 6513 switch’s
+
+· Upgrading IOS / other OS’s and taking regular back up of systems 
+
+· Maintaining & Configuring Networking equipment’s using Cisco work’s LMS.
+
+· Responsible for network performance and security monitoring.
+
+· Responsible for Preventive Maintenance for all Network devices in data centre  & SSA.
+· Responsible for adding routes in Routers as per customer requirements 
+· Responsible for changing configuration in SSA Routers & Switches as per customer requirements 
+· Responsible for monitoring health status and  load at Load Balancer. 
+· Responsible for monitoring the traffic and restrict the unwanted traffic at BBR and IR.
+· Responsible for installation and configuration & maintenance for Hp thin client. 
+
+· Maintaining Backups of Network devices.
+· Responsible for ensuring application SLA performance targets are met.
+
+· Preparing RCA if any issue resolved.
+Declaration:
+
+        I hereby declare that the above mentioned Information is true to the best of my knowledge and experience  
+
+                      P Dyva Raju

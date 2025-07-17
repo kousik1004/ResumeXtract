@@ -1,0 +1,183 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructions for preparing your “Resume”
+
+   Mounika Sai Prathyusha Nandigama                      Email: mounikanandigama78@gmail.com
+Microstrategy Developer                                                                          Contact: +91 7287884896                                                                                                                   
+
+Summary
+· 2 years of experience as a MicroStrategy developer specializing in MicroStrategy Desktop, Web and 13months of experience in MS SQL SERVER DB.
+·    Highly self-motivated and able to set effective priorities to achieve immediate & long-term goals and meet project & operational deadlines.
+· Extensively worked in creating Microstrategy reports , Schema objects (Attributes, Facts) and Application objects (Filters, Metrics, Drill maps, Prompts, Custom groups and Consolidations)
+
+· Designed dashboards using Visual Insights for quick analysis
+
+· Proficiency with SQL, its variation among SQL Server, Oracle11i, AquaDataStudio and skilled at optimizing complicated SQL statements.
+· Good knowledge in programming views, stored procedures and functions, creating table index and triggers to ensure performance and automation.
+· Basic knowledge in designing workflows using System manager for triggering post ETL events.
+
+· Involved in Migration of objects from Development to Staging and then to Production environments using Object Manager.
+· Worked on managing various configuration settings, to list the folders and reports, users and their access levels within the Microstrategy platform for project sources using Command Manager.
+· Basic knowledge in creating mappings, sessions, tasks and workflows in Informatica.
+
+· Basic knowledge in creating reports using SAP BusinessObjects.
+· Good knowledge in taking baseline whenever there is any upgrade or hotfix comparing the reports’ sql\data prior and post modification using Integrity Manager. 
+· Quick learner and vibrant team player with ability to work under pressure and meet demanding deadlines.
+  Technical Skill Set
+	Tools
+	Hands-On Experience
+
+	Business Intelligence Reporting Tools
+	MicroStrategy
+
+· MicroStrategyDesktop/Developer  (Reporting, Advanced Reporting, Freeform SQL Reporting) version 10
+
+· MicroStrategyWeb(Documents, Dashboards, Visual Insight)
+
+
+
+	Database
+	MS SQL Server
+
+	ETL Tools
+	Informatica
+
+· InformaticaPowerCenter Client(RepositoryManager,Designer, Workflow manager, Workflow Monitor) Version 10.1.0
+
+
+
+	Trained Skills
+	Informatica, SAP Business Objects, SQL\PLSQL
+
+
+
+    Work Experience 
+   Microstrategy Developer, Tech Mahindra, Hyderabad (Nov 2015 – Till  Date)
+   Client:  GE 
+
+   Project: HealthCare
+
+   Duration: May2016 – Sep2016
+
+   Project Description:  GE HealthCare is a manufacturer and distributor of diagnostic imaging agents and
+
+    radiopharmaceuticals for imaging modalities that are used in medical imaging procedures.
+
+    Middleware deals with raw data of pricing, invoice, customer, inventory, item and transforms the raw   
+
+    data into the format that is required for business needs.
+
+   Responsibilities:
+
+· Implemented small changes required in Informatica transformations and mappings. 
+
+· Created sessions, worklets and workflows to test the mappings.
+
+· Worked for PST for 2 weeks, resolving tickets which we can, following up the requestors on the tickets and closing the tickets.   
+
+   Client:  LivePerson  
+
+   Project: LPSMART, LP ANALYZER
+
+   Duration: October 2016 – Till Date
+   Project Description: LivePerson is an American technology company that develops products for online    messaging, marketing, and analytics. LivePerson is best known as the developer of LiveEngage- a messaging platform that allows companies to talk with visitors in real time on websites, mobile, and social networks. The project is to design and developed dashboards that will be used by clients to make intelligent    business decisions.
+
+Responsibilities:
+
+· On Informatica side: Incorporated new changes requested by clients in the ETL, Monitored ETL daily, resolved failure of any session\command tasks. Created mappings, various types of tasks, sessions, worklets and workflows for business needs.
+· On Database:  Created new\modified existing stored procedures, tables, views as per the Business requirement. Wrote SQL queries to test the dashboards. Collaborated with other team members to ensure performance, security and availability of databases. Migrated database objects from DEV to PROD. Listed out the dependencies of database objects before modification to ensure reliability and zero dependency errors.
+· On administration side: Provided access to the people who are part of this project by creating logins (giving a username and a password), worked on the issues raised by users regarding their logins.
+
+· On Reporting side: 
+· Interacted with users, gathered requirements and analyzed the needs of end users
+· Imported tables into MSTR from database, created various schema objects and application objects such as metrics, Drill maps, reports, custom groups and consolidations, filters, prompts for the project using MicroStrategy Developer and also on WEB.
+· Developed dashboards with dynamic titles, graphs, panels, panelstacks, filterpanels, various types of selectors, linked the dashboards as per the Business requirement.
+
+· Created freeform reports, intelligent cubes and dashboards using Visual Insights
+
+· Created Email subscriptions to send reports to specific Users.
+
+· Involved in testing, bug fixing and migrating MSTR objects to production after testing using ‘Object Manager’ 
+   Educational Qualification
+	COURSE
+	INSTITUTION
+	YEAR OF PASSING
+	AGGREGATE
+
+	B.Tech (ECE)
+	Vasireddy Venkatadri Institute of Technology, Nambur, Guntur(Dt.)
+	2015
+	83.3
+
+	Intermediate
+	NRI Junior college, Guntur
+	2011
+	97.0
+
+	S.S.C
+	Naveena VidyaNikethan, Guntur
+	2009
+	94.1
+
+
+   al
+ Personal Details
+	 Particular
+	 Details
+
+	 Name
+	 Mounika Sai Prathyusha Nandigama
+
+	 Father’s Name
+	 Satyanarayana N
+
+	 Marital Status
+	 Single
+
+	 Nationality
+	 Indian
+
+	 Current Occupation
+	 Microstrategy Developer
+
+
+

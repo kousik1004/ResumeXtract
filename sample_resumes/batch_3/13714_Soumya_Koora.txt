@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+2
+Soumya k
+(Continued)
+
+Soumya Koora
+
+
+
+
+
+                     
+ soumyareddykoora@gmail.com
+
++919908127463
+
+ SUMMARY
+· Java begginer with 1 year of experience in the client/ server development projects.
+
+·  Experience in design and development of  applications using core J2SE, J2EE, XML, SOAP,WSDL.
+· Extensive GUI development experience using HTML, CSS
+· Expertise in DDL, DML SQL queries (MySQL).
+·  Beginner experience in Agile methodology, Test Driven Development and  SDLC.
+
+· Excellent Communication and Interpersonal skills.
+· Trained on Git,BitBucket.
+
+· Familiarity with continuous delivery, configuration management, continuous integration, and source control software processes and tools a requirement
+
+· Knowledge of different SDLC Methodologies (Waterfall, Agile, etc)
+· Actively looking for jobs and cloud and devops trainee.
+EDUCATION
+         Bachelors in Computer Science, MRCEW (Hyderabad)
+TECHNOLOGY
+       Programming Languages     : 
+Java,  SQL, PL/SQL,C#
+      Java/J2EETechnologies      :   Servlets, JSP, JDBC
+      J2EE Frameworks                :    java MVC
+      Web Technologies                 :   XML                                                                        
+
+       Web technologies                :     Servlets, JSP, EJB, XML.
+
+       Web/Application Servers    :   Apache Tomcat 5.5
+       Scripts and Mark ups         :     HTML,  Java Script                             
+
+       Database                            :      MySql
+       IDEs                                   :      Edit plus, Eclipse 
+       Operating Systems             :     Windows 7/8.1/10,  Linux.
+
+EXPERIENCE
+
+Awake Productions pvt ltd 
+
+
+
+
+
+
+Aug 2016-Jan  2017
+JAVA/J2EE Developer
+
+Awake Productions offers custom software testing and consulting services, training, methodologies and first-in-class test products since 2015. It also develops breakthrough automated software test automating tools. This product is a Collaborative, 3rd Generation test automation solution that helps software-testing team to create cost-effective, maintainable test suites by generating the scripts automatically. It is the first and the only one of its kind to provide a true keyword driven test automation suite development. Clients: FedEx, Pepsi Co, Fidelity Investments
+
+Environment: Java, J2EE 1.4, Jakarta Struts Framework, JSP, Servlets, EJB2.0, JDBC, DAOs, Tomcat, WebSphere Application server 6.0, ANT, Oracle, My SQL, SQL Server, Windows
+
+Awake Productions pvt ltd                                                                                                    Feb 2017- Sep 2017
+
+Java/J2EE Developer
+Online Ordering and Tacking System (OOTS) is a complete online shopping solution for a small to mid size business needs. The software provides an easy way of creating an online shopping catalog, online ordering system as well as a tracking module.
+
+Environment: Java, J2EE, Struts 1.1, Hibernate 2, Oracle 8i, Rational Rose, Ant, Win CVS 1.2, JUnit, Eclipse 3.0, LOG4J, JDBC, JRUN, Windows NT.
+
+academic projects :
+Major project :
+
+· Developed a mobile application for Access of Android mobile from remote device.
+· The application is based on sharing information such as battery status; miscall info and message from android device to web application. 
+
+· whenever the battery drains or any missed calls or when a message comes all this information will be updated on server system and the user can view that information using the web application from anywhere.
+
+· The application deals with Database as backend which is based on Apache Tomcat 7.0
+· I have used programming for this project is java 7
+· We used Adobe flash builder(4.5) and flex (4.5) for debug and test the application.
+
+· We used My Eclipse for development in java EE IDE for full stack application.
+
+· This project constitutes 3 modules they are Registration and login validation, Description and priority, Response sequence.  
+
+· The Registration and login validation module explain about the user provides registration details and registers then logins by providing Username and password. 
+· The description and priority module explain about the user click in android mobile to get missed call, messages and battery information.
+
+· In this Response Sequence it will show the missed call ,messages and battery information using Datagrid.
+
+ENVIRONMENT : java 6,Android SDK 2.2.1, Eclipse Indigo ,J2EE Web Services, Apache Tomcat 7,Mysql 5.1, MyEclipse 8.6, Adobe flash builder 4.5 
+mini project :
+
+· Developed a website for reviewing and rating of books
+· The website is a informative system,which provides the review of latest books
+· It helps in effective and timely utilization of the hardware and the software resoureces.
+· The application deals with Database as backend which is based on Apache Tomcat 6.0
+· I have used programming for this project is java 6
+· for develop the web pages we use Html5
+· This project constitutes 2 modules they are Admin module and User module
+· The Administrative module consists of services like User registration , view user, change password, write review, logout.
+· The  User module consists of services like Change password, view review, comment,rating,logout.
+ENVIRONMENT :
+
+Java 6, HTML5, Eclipse Indigo IDE, Apache Tomcat 7,MySql 5.1
+

@@ -1,0 +1,180 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ISWARYA D
+Mobile: +91 9791040952
+ E-mail:bluespark.92@gmail.com
+
+· Three years and six months of experience as Project Engineer in Wipro Technologies
+· Working as a Datastage Developer
+· Appetite for learning new technologies and verticals
+· Ability to thrive in fast-paced, dynamic environment
+
+Technical Skills
+Tools and Technologies
+
+· Primary Skill: Datastage
+· Secondary Skills: SQL, Basics of Unix(Unix commands)
+· Database: Oracle
+· Tools: SQL Developer
+
+Operating systems		
+· Windows
+· Mac OS
+· Unix
+
+Project Details (Apple)
+Description
+
+Develop DataStage jobs to extract, transform and load data from various sources and archive systems. The jobs are created and enhanced to meet the business requirements on the logistics of Apple products.
+
+Develop a HANA Excel Add-in that will enable business users to access HANA cubes via Mac Excel for Ad-Hoc reporting. Users can access and analyze data from Essbase and HANA Server simultaneously.
+
+
+
+
+Tools and Technologies: 
+· Data stage 9.1
+· Ad-Hoc Reporting Tool
+· Oracle SQL
+
+Responsibilities
+· Developed code to implement changes in the jobs.
+· Fixed bugs raised during testing phase
+· Coordinated with the testing team for bug analysis
+· Developed test cases for integration testing 
+· Supported Integrated, Unit and Regression testing
+
+Project Details (Lloyds Banking Group)
+TBT Soc Onboarding
+
+Description	
+Lloyds is a very well established bank in UK. This bank manages so many portfolios like retail, wholesale, IT sector to integrate and secure business data. Real Time Decision management is a sophisticated mechanism to balance insight into customer interests, risks and loyalty with corporate priorities such as revenue, costs and branding.
+	In TBT Soc Onboarding project is to develop datastage jobs to migrate all bank customers related information from existing (COL,LOLI) database to new(SOC) data warehouse.
+
+
+Tools and Technologies: 
+
+· Data stage 9.1
+· Oracle SQL 
+· UNIX commands
+
+Responsibilities
+
+· Understood existing design (DPAD) for Datastage flows.
+· Discussed and ensured that the client standards are incorporated during job developments. 
+· Developed datastage jobs using an optimum number of stages. 
+· Performed Unit testing and documented the test results.
+· Supported the QA team for system testing.
+
+
+Project Details (CITI Bank)
+CITI Genesis
+Designed DataStage jobs to extract, transform and load data from various sources and archive systems like Oracle, Text files and Teradata into Data Marts. Jobs used all major components within DataStage including transformer stages, lookupstages, join stages, sequential files, datasets. Created schedules in Tivoli Scheduler.
+Tools and Technologies
+· Datastage 11.3
+· Sql developer
+· Teradata
+· Oracle SQL 
+· Unix commands
+
+Responsibilities
+
+· Designed and created end to end ETL jobs using Business requirements.
+· Created the list of parameters to be passed to particular job and store them in automation framework.
+· Automated jobs for a given frequency.
+· Promoted jobs to higher environments using version control tool RTC.
+· Tested jobs in UAT and preproduction.
+· Resolved errors in compilation and execution of different jobs.
+
+P2X Migration
+P2X Migration is migration of genesis datamart from lower version to higher. Precisely, migration from datastage 8.5 to 11.3 and from UNIX to Linux.
+
+Responsibilities
+· Supported end to end Project environmental setup.
+·  Created Automation framework as per the new environment.
+· Understood the flow of jobs to backtrack for any issues
+· Modified the scripts as per the changes to the new environment.
+· Scheduled jobs for the required frequency
+· Ensured proper validation of Data
+· Addressed Production Issues
+
+
+Educational Qualifications
+	Qualification
+	College/School
+	University/Board
+	Year
+
+	B.E
+	Anand Institute of Higher Technology, Chennai
+	Anna University
+	2013
+
+	HSC
+	C.S.I Ewart Matriculation Higher Secondary School, Chennai
+Nadu
+	State Board
+	2009
+
+	SSLC
+	C.S.I Ewart Matriculation Higher Secondary School, Chennai
+
+	Matriculation
+	2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+

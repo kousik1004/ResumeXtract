@@ -1,0 +1,196 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ravi
+
+
+  GANESH PATSA                                                                
+Data Base Administrator                                                                  Mobile: +91-8147250543                                    
+
+MS SQL Server                                                                                                    E-mail: ganesh.patsa@gmail .com 
+Experience Summary:
+
+· 4.3 years of total IT experience as a Production Support DBA Supporting Production and Test environments.
+· Looking for assignments in SQL Server DBA, preferably in production environment.
+
+· Expert in installation, upgrade and configuration of SQL Server 2005 & 2000 and exposure in clustered environments    
+· Work experience in 24x7 Production support for SQL Server 2005 and SQL Server 2008.
+
+· Good knowledge of Relational Database Management Systems.
+· Design Development and Implementation Experience in SQL Server 2000/2005/2008.
+· Experience in Log shipping with SQL Server.
+· Experience in implementing Snapshot and Transactional replication models.
+· Successfully implemented Database Mirroring in SQL Server 2005 for High availability.
+
+· Good knowledge in preparing Disaster Recovery documentation, planning and Testing  
+· Developed backup and recovery strategies for production environment.
+
+· Experience in Upgrading from MS SQL Server 2000 to MS SQL Server 2005.
+· Experience in Performance Tuning, Query Optimization, Client/Server Connectivity, and Database Consistency Check using DBCC Utilities.
+
+· Experience in Extracting, Transforming and Loading of Data from Excel, Flat file, Oracle to MS SQL Server by 
+
+     Using DTS Import/Export utility, SQL Server Integration Services (SSIS).
+· Up gradation of the environment from 2000 to 2005 and 2005 to 2008
+
+· Performed Database Refreshes
+
+· Participated in launching the Application in the production environment
+
+· Working with SQL Profiler and Windows Performance counters for diagnose SQL
+
+· Server health check.
+
+· Management of users including creation/alteration, grant of system/db roles and permissions on various.
+
+     Database objects
+
+· Having very good exposure in backup and recovery policies and procedures.
+
+· Automating the environment for all regular activities by using sql server jobs and maintenance plans
+
+· Analyzing the growth of databases as a part of capacity planning
+
+· Good team player with strong analytical skills.
+
+· Flexible, enthusiastic and project oriented team player with solid leadership skills to develop creative solution for challenging client.
+· Administration of critical updates for the network O/S and Anti-virus application to ensure that it is current and checked periodically.
+· Worked with development team in creation & administration of BI solution using SQL 2008.
+· Participation in several end to end implementations of data-migration projects.
+Education Qualifications:
+
+· Bachelor of Science form Andhra University affiliated college, Visakhapatnam A.P 
+Certifications:
+
+· MCTS—IMPLEMANTATION AND MAINTANANCE OF SQL SERVER 2005 (70-431)
+Professional Experience:
+
+· Working as SQL DBA in Positive Edge Technologies Pvt. Ltd, Bangalore from August 2007 to till date.
+Technical Skills:
+
+Operating Systems             :  Microsoft Windows Environments (2000, 9x, XP, 2003, 2008).
+Databases
+
+             :  SQL SERVER 2005/2008.
+Database Tools
+                :   SQL profiler, Performance Monitor, Database tuning advisor
+Languages                          :  SQL, T-SQL.
+Engagement Overview: Project Profile
+#1 Role
+      
+
+:  SQL SERVER DBA
+Client
+
+
+:  Genworth Financial, US 
+Project                        
+:  Medicare Supplement
+Duration
+
+
+:  July 2008 to till date
+Responsibilities:
+
+· Installation and configuration of MS SQL Server 2005.
+
+· Resolving Tickets which include creating and maintaining databases, monitoring Disk Space, database integrity, identifying missing Indexes, handling blocking
+
+· Implement and maintain database security as per business rules and requirements
+
+· Configuring and troubleshooting high availability scenarios i.e. Log Shipping and Replication.
+
+· Implemented Database Mirroring with High Availability Mode in SQL 2005
+
+· Maintained & Monitored Alert/Schedule to make smooth replication process.
+· Ensure and maintain sound backup and recovery policies and procedures.
+
+· Database performance monitoring and tuning when required as per application and business requirements.
+
+· Ensuring Data consistency in the database through DBCC commands.
+· Providing disaster recovery support and ensure business gets back online with minimal downtime.
+
+· Understand and troubleshooting issues such as High CPU, Slow Queries, Server Slow, etc
+
+· Ensure capacity planning activity is undertaken and well planned manner.
+
+· Performing requirement analysis and designing the database infrastructure.
+· Maintain documentation and standards for all activities performed.
+Engagement Overview: Project Profile
+
+#2 Role                               :   SQL SERVER DBA
+Client                                 :   DBA Direct.
+Duration                            :   August 2007 to Jun 2008
+Responsibilities:
+
+· Installed and configuration of SQL Server 2005.
+· Migrated of databases from SQL Server 2000 to SQL Server 2005.
+
+· Provided 24/7 Support for Production of MSSQL Servers.
+
+· Implemented Database Mirroring with High Availability Mode in SQL 2005.
+
+· Implemented and maintained database security.
+
+· Database Capacity planning.
+
+· Administrator tasks like managing users, roles, and profiles.
+
+· Combined a few simple, unrelated Database Accesses to improve performance.
+
+· Configured the SQL Server’s Optimal Settings (Multithreading, Locking Memory) according to the usage of its tables, # of users and hardware.
+
+· Adding users in the Database and granting permissions.
+
+· Scheduling jobs in Sql server.
+
+· Developed standards and guidelines to maintain and develop and administer the SQL Server database.
+
+· Handled corrupt databases diagnosed and repaired them.
+· Installation of SQL Server 2000/2005 and user & in house software developing team
+
+                                                                                                                                          (Ganesh Pastsa)

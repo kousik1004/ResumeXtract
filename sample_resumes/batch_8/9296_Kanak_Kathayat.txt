@@ -1,0 +1,147 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curriculum Vitae
+
+Kanak Kathayat
+SAP BASIS and HANA CONSULTANT
+Email: kanak.kathayat@gmail.com				Contact No.: +91 9561213554
+
+Profile Summary 
+	
+· Having 4.9 years of experience as a SAP Basis and Hana Consultant with four projects at Accenture.
+
+· ITIL V3 FOUNDATION Certified in 2015.
+
+· Technical Skills:
+· ERP: SAP R/3 ECC 6.0 EHP7, Solution Manger 7.01 on AIX/Linux
+· Database applications: Oracle 11g, Hana 1.0 SPS 10, 11, 12
+· Operating System:AIX, LINUX, Windows 2003
+· Ticketing Tools: ITSM, Service NOW
+· Upgrade Tools:SUM, SWPM
+
+HANAknowledge
+
+· Installed and uninstalled HANA server.
+· HANA SPS and revision upgrade.
+· Done start and stop of the HANA using the Hana studio as well as HDB.
+· Done Hana administration and Monitoring using the Hana studio.
+· Worked on the HANA Transport Mechanism, Imported and exported Delivery units.
+· Done Backup and Restore of the HANA DB.
+· Performed end to end Refresh with HANA DB. 
+· Setuped ODBC connection on HANA system.
+· Hands on in HANA Studio.
+SAP Basis knowledge
+
+· Monitoring tools: CPU/Memory monitoring, response times, locks, update errors, dumps, Work Process, Active & Cancelled Batch Job, Idoc Monitoring, Trfc, Qrfc.
+· Monitoring the failed jobs and troubleshooting.
+· Daily optimize health check of production system.
+· Fine-tune the production server. Identified the expensive SQL statements and given to ABAP programmer for fine-tuning.
+· Performance Tuning and analyzing the system workload for the high response time.
+· Administered SAP database using Brtools and db02.
+· Raising the OSS message, opening the connectivity and providing the access to SAP and coordinating with them to resolve issues.
+· Resolving SAP (OSS connectivity) access related issues.
+· Working on EWA reports and implementing the recommendation of SAP.
+· Local and remote client copy
+· Component Installation and upgrade
+· Upgrades: SPS via SUM tools, Addons vai SAINT
+· System rename vai SWPM tool.
+· Kernel patches: planning and implementation of the latest kernel patches.
+· Background jobs: planning in scheduling and background jobs.
+· RFC/HTTP/TCP-IP connection: creation of RFC, HTTP and TCP/IP connection.
+· Parameter Change implementation in System.
+· OS level monitoring & DB Check.
+· Reprocessing of stuck TRFC in the system.
+· Contribute to the documentation for the various activity.
+
+Solman Knowledge
+
+· Manage system configuration
+· DVM configuration
+· Genarate and analyse EWA report
+· Manage to put system in maintainace mode while planned outtage
+· ConfiguredDBA jobs for JAVA system
+· Technical Monitoring
+· Working on BPMON configuration in solman 7.2
+
+Project details
+
+Project 1: BHP Billiton
+· Environment: ECC 6.0, Solman 7.01 on AIX, Oracle 11g
+· Description: In a team of 50,I took care the maintainance of SAP landscape with community of 90K active user.
+· Roles & responsibility: Part of 24*7 Team, Prod & non-prod system health check, analyse client issues and help them to resolve it within SLA.
+
+Project 2: Energy COE
+· Environment: ECC 6.0, HANA 1.0 SPS 10, Linux Suse
+· Description: Its an internal project of Accenture. In this we prepare the SAP system for client demo.
+· Roles & responsibility: Part of 24*5 Team, SPS upgrade, HANA administration & upgrade
+
+Project 3: Marathon Oil
+· Environment: ECC 6.05, SMP 3.0, BW 7.4
+· Description: In a team of 6, I was responsible for upgrades and daily health checks for the systems
+· Roles & responsibility: Part of 24*7 Team, work on client tickets on priority basis, poc for HANA DB with 50 active user, performed SMP upgrade.
+
+Project 4: Sun Chemical
+· Environment:ECC 6.0, Solman 7.2
+· Description: In a team of 2, I am implicitly working on configuration of BPMON
+· Roles & responsibility: Configuring automatic monitoring and alerting through SAP Solution Manager 7.2 to inform different recipient for 7 sales org.
+
+Soft Skills
+
+· Having good communication skills and of being a smooth team player with good interpersonal skills, ability to learn easily and adapt to new technologies in a short time.
+· Capable of clearly and efficiently communicating with team, leadership and client with strong capacity to perform under pressure.
+· Ability to work in a team and train, mentor other team members for effective collaboration and knowledge sharing.
+· Take ownership of work and be punctual in deliverables.
+· Always Open-minded for new opportunities.
+
+Education
+
+· 2006 – 2009	Bachelor of computers Applications	Kumaun University
+· 2009 – 2012	Master of computers Applications		Uttrakhand Technical University

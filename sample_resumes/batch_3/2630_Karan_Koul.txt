@@ -1,0 +1,289 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Karan Koul 											
+Gender:  Male 
+E-mail Address:  karankoul.er@gmail.com 							
+Mobile No. :  +91-9910133442
+Permanent Address:B-36,Vipin Garden, Nawada Housing Complex, Uttam Nagar near Dwarka Mor metro station (NEW DELHI). Pin – 110059 
+
+
+Career Objective: To work in a challenging carrier of programming and integration services, where there is a friendly environment where I can put my hard earned skills and talents to practice. 
+Professional Experience:
+· Working as Engineering Analyst in Qualtech Consultants from Sep, 2016 to Present. 
+· Working in My Money My Agent Project for MAX Life Insurance.
+· Worked as Application Developer in Cosmom Technologies Ltd. from Dec, 2013 to Sep, 2016.
+· Worked in CSMS (Commercial and Billing) Project for MTNL Delhi.
+
+Professional Summary:
+· 4.9 years of development experience in Oracle PL/SQL. Engaged in requirement analysis, designing, development, unit testing, support and implementation of business requirements.  
+· Good experience on creating procedures, functions, constraints, views, sequences, collections, exception handling, packages, unit testing and release preparation.
+· Good experience in analyzing and fixing defects faced in testing and production. Performance Tuning of SQL statements using Explain plan.
+· Strong knowledge on writing complex queries and coding by using advanced concepts in Oracle DB, Oracle Forms.
+· Writing complex queries to avoid the code change for a requirement change.
+· Good experience in writing queries using Dynamic SQL.
+· Stored SQL statements in tables to avoid the code change for future requirement changes.
+· Expert in creating test data and in preparing test cases for unit testing.
+· Automated the test data preparation required for unit testing.
+· Successfully delivered projects under strict schedules.
+· Flexible and able to work effectively in a team environment or as an individual.
+· Good experience in using UNIX commands and Oracle Forms. 
+
+
+EDUCATIONAL QUALIFICATIONS
+
+	EXAMINATION 
+	DISICIPLINE 
+	SCHOOL/ COLLEGE 
+	BOARD/ UNIVERSITY 
+	PERCENTAGE 
+
+	B.Tech (2013) 
+	Computers Sc.
+	B.P.R. College of 
+Engineering,Gohana (Sonipat)
+	M.D.U Rohtak
+	67% 
+
+	Class XII (2009) 
+	Science 
+	Anuradha Higher Sec. School, Barnai, JAMMU 
+	J&K Board 
+	62% 
+
+	Class X (2007) 
+	S.S.C 
+	Anuradha Higher Sec. School, Barnai, JAMMU 
+	J&K Board 
+	67% 
+
+
+
+
+
+TECHNICAL SKILLS 
+
+· Language			:	Oracle SQL, PL/SQL,Java & UNIX
+· Databases			:	ORACLE 10g/11g
+· Operating Systems		:	Windows 7, Windows 8, Windows 10 & Linux.
+· Tools		:	SQL Developer, Toad for Oracle, SQL *Loader, MS Office, 
+			             Adobe Photoshop
+
+
+PROFESSIONAL SUMMARY (Current Employer) 
+
+QUALTECH CONSULTANTS (SEP 2016 to till date):  
+Deployed over client side at MAX LIFE INSURANCE which is a leading Life Insurance Company in India
+
+
+	Project 1:  My Money My Agent 
+(May’17 to  till now) 
+	
+Gurugram, India(2017-18)
+
+	Engineering Analyst  (May 2017 – till now)  
+	
+
+	Team Size : 7
+	
+
+	Project Overview 
+	This Project My Money My Agent is a Financial Product which is used by ‘Max Life Insurance’ for the management of Agent commission, disbursement, Allocation and de allocation of commission and many more and My Money is used as an interface between Collection and Ingenium application which manages Money flow from Collection to different Applications.
+
+This whole Project runs over batches which are been ran multiple times a day which is been designed by Back end team through Procedures, Packages, Jobs and Front end screens are also developed for the end user at collection centre to perform different stages of collection. Every collection made at Collection centre have to go through multiple process which are part of My Money application and is been performed by end user at collection centre.
+
+	Responsibilities  
+	· Understanding requirements. 
+· Using PLSQL for creating SQL queries, procedures, triggers, Packages, Collections  
+· Used DDL and DML for writing stored procedures, data manipulation, SQL queries and functions. 
+
+
+
+
+
+	Project 2:  Production Development 
+	
+Gurugram, India(2016-17)
+
+	Application Developer (AD) (SEP 2016 – Apr 2017)  
+	
+
+	Team Size : 10
+	
+
+	Project Overview 
+	This is a learning management project. It is being developed for MAX LIFE INSURANCE.
+Developing reports as per user requirements while using various methods in PL/SQL. Optimization of complex queries for fast data fetching. Creating different logics for different scenario as per user requirements and breaking them into jobs for fast output
+
+	Responsibilities  
+	· Understanding requirements. 
+· PL/SQL, Development of Procedures, Packages
+· Used DDL and DML for writing stored procedures, data manipulation, SQL queries, Views, Triggers, Tuning, Packages and functions. 
+
+
+
+
+
+		COSMOM TECHNOLOGIES (DEC 2013 to SEP 2016):  
+Deployed over client side at MTNL Delhi which is a leading Telecom industry in India
+
+
+	Project 1:  CSMS (Billing and Commercial Part) 
+	
+Delhi, India(2013)
+
+	Application Developer (AD) (DEC 2013 – SEP 2016)  
+	
+
+	Team Size : 4
+	
+
+	Project Overview 
+	This is a learning management project. It is being developed for MTNL. 
+For the convenience of customer MTNL provides commercial and billing facilities to provide new connections, Premium numbers, Pre connection and post connection services. 
+
+	Responsibilities  
+	· Understanding requirements. 
+· PL/SQL, developing forms using Oracle form builder, UNIX commands, Shell scripting, HTML and JAVA  
+· Used DDL and DML for writing stored procedures, data manipulation, SQL queries, Views, Triggers, Tuning, Packages and functions. 
+
+
+
+
+		
+	Project 2:  Complaint Management System and Tender Uploading 
+(Feb’13 to  June’13) 
+	
+Delhi, India(2013)
+
+	Application Developer (AD) (Feb 2013 – June 2013)  
+(Project Trainee) 
+	
+
+	Team Size : 6 
+	
+
+	Project Overview 
+	This project was developed for the customer part of Delhi Transco Ltd.  
+This project includes creating dynamic web pages using ASP.NET C# for customer end which include Registration of complaints, status of complaints, management of the users, feedback form, direct mailing system for complaint status to the customer end and managing of data at the backend using SQL2008. 
+Backend contain creating of store procedures, tables DDL and DML and calling them to front end 
+The tender uploading project was the commercial project of Delhi Transco Ltd. 
+
+	Responsibilities  
+	· Understanding requirements. 
+· Using SQL 2008 for creating SQL queries, procedures and using ASP.NET to create dynamic web pages  
+· Used DDL and DML for writing stored procedures, data manipulation, SQL queries and functions. 
+
+
+
+
+INTERNSHIP PROJECT
+
+
+	PROJECT 
+	COMPANY 
+	LANGUAGES 
+	DESCRIPTION 
+
+	Pet Care 
+	HCL CDC
+	Advance JAVA, 
+ORACLE 
+database and 
+DreamViewer
+	This site helps the employees to save 
+the data of client in its database and also it fetches the data whenever the client visits the clinic again. 
+
+
+
+
+TRANING AND PARTICIPATION
+· 6 weeks Training in DOEACC, during the training I studied the concepts of core java like applets, creation of database connectivity with program. 
+· Participated in Ethical Hacking Workshop at College Level. 
+· 2 months Training in “HCL Career Development Center”, during the training I studied core JAVA, Servlets, JSP, etc. 
+· 6 Months Training course from IIHT during which I learnt DOTNET, C#, SQL Database.  
+
+
+ACHIVEMENTS AND CERTIFICATIONS
+
+· Participated in scholarship test of National IT Aptitude Test at national level conducted by NIIT and got rank in top 4% of all the candidate across India. 
+· Participation in Crezone Ethical Hacking Workshop. 
+
+	PERSONAL  INFORMATION 
+	
+
+	
+		Date of Birth
+	: 10th of December 1992.  
+
+			Fathers Name  	
+	: Balraj Koul 
+
+			Nationality                    
+	: Indian 
+
+			Languages Known         
+	: English, Hindi and Kashmiri   
+
+			Qualities                        
+	: Managing Events, Teamwork, Easily Adaptable, Fast  
+   Learner, Persistency. 
+
+			Hobbies                          
+	: Playing Cricket, Internet Surfing, Playing Computer Games. 
+
+	DECLARATION 
+	
+
+
+
+      I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.  
+
+P 
+PLACE: DELHI 								Karan Koul

@@ -1,0 +1,160 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arahanth A Gogi
+Mobile No: (+91) 9901077440
+Email Id: arahanth.gogi@gmail.com
+Professional Summary
+· Around 11+ of experience in IT having experience in Database Design, Development & Support of MS SQL Server 2008/2005/2000 for Production/development.
+· Proficient in Relational Database Management Systems (RDBMS).
+· Expertise in Transact-SQL (DDL, DML, DCL) and in Design and Normalization of the database tables.
+· Experience in implementing business logic using Triggers, Indexes, Views and Stored procedures.
+· Experience in monitoring SQL Server Performance using SQL Profiler, Index Tuning Wizard and Windows Performance Monitor.
+· Proficient in Tuning T-SQL queries to improve the database performance and availability.
+· Experienced hands in Query tuning and performance tuning.
+· Extensive Knowledge of advance query concepts (e.g. group by, having clause, union so on).
+· Experience with tools like SQL Server management studio and SQL Server 2005/2008 integration (SSIS) and reporting services (SSRS).
+· Expertise in creating Packages using SQL Server Integration Services (SSIS).
+· Experience in Creating and Updating Clustered and Non-Clustered Indexes to keep up the SQL Server Performance.
+· Good knowledge in Normalizing and De-normalizing the tables and maintaining Referential Integrity by using Triggers and Primary and Foreign Keys.
+· Transformation of data from one server to other servers using tools like bulk copy program (BCP), data transformation services, data conversions from legacy systems to SQL server.
+· Excellent analytical, communication and interpersonal skills. Proficient in technical writing and presentations and a good team player.
+Education:
+· Bachelor of Engineering  (Information Science & Technology) from VVIET College (Affiliated to Visvesvaraya Technological University, Belgaum), Mysore in 2004.
+· Diploma (Computer Science & Engineer) from J.S.S. Polytechnic, Mysore in 2000.
+Technical Skills:
+SQL Server Tools: Enterprise Manager, Profiler, Query Analyzer, SSRS,SSIS,SSAS 
+RDBMS: MS SQL Server2005/2008, Sybase 12.5, MS Access 
+Programming Languages: C, C++, Java, SQL, T-SQL, PL-SQL , VB
+Internet Technologies: XML. HTML 
+Productivity Applications: MS Word, Excel, Access 
+Reporting Tools: Crystal Reports 10, 11, SSRS
+Tools : Mercury Quality Center, JIRA, Rapid SQL 
+Version Control : Subversion/Tortoise (SVN), Visual Source Safe
+
+
+Professional Experience:
+
+Project: LongView Trading System (LVTS Version 7.3 & 6.5) 		Jan 2008 – Till Date
+Client: Alliance Bernstein Corp, USA 
+Tools : LV 6.5 : VB.Net, Sybase & Crystal Reports
+ LV 7.3 : .Net, SQL Server, SSRS & SSIS
+Role - Project Lead and Developer	
+Description:  Longview Trading System is a fully integrated multi user front office order management system.  LVTS is for both international and domestic trading.  It acts as a portfolio management product. It helps the individuals and various institutions to make decisions about investment mix and matching investment.  The investor can choose and monitor his investments profitably.  This product is used by the Administrator, the Portfolio managers, Traders and the Trade Supporters.  This product is not accessible by Individual/group account holders. LVTS has different blotters, which displays various information about individual/group portfolio, domestic/international securities.  
+The functionalities of LVTS application are portfolio management, order management, order placement, order executions , order allocations & settlement.  It involves the complete cycle of the order creation till broker confirmation process including the portfolio management.  It involves the values and growth trades.
+Orders Creation -> Pre-Trade Compliance -> Order Blocking ->Trading -> Broker Connectivity -> Allocation -> Reporting -> Data Maintenance -> Post-Trade Settlement (Secondary Staging)
+Responsibilities:
+· Interacted with Team and Analysis, Design and Develop database using ER Diagram, Normalization and relational database concept.
+· Involved in Design, Development and testing of the system
+· Developed SQL Server Stored Procedures, Tuned SQL Queries( using Indexes and Execution Plan)
+· Developed User Defined Functions and created Views
+· Created Triggers to maintain the Referential Integrity.
+· Prepare detailed statistical reports in SSRS and Crystal Reports to track progress of weekly, monthly and quarterly.  Scheduling the reports
+· Reviewed existing business procedures and recommended and implemented changes.
+· Responsible for setting preferences for various ad-hoc requests and distribution of tasks.
+· Trouble shoot problems with the various teams including network related issues
+· Creating and automating the regular Jobs using Cron Job,  Control-M & SSIS
+· Tuned and Optimized SQL Queries using Execution Plan and Profiler
+· Rebuilding Indexes and Tables as part of Performance Tuning Exercise
+· Involved in performing database Backup and Recovery
+· Worked on Documentation using MS word
+· Prepare project-phase plans and implementation schedule, plan and conduct meeting and workshops related to the project plans, and communicate day to day project status to all levels of management. 
+Project: Web and Intranet Reporting Engine (WIRE)        		Jan 2008 – Till Date 
+Client: Alliance Bernstein Corp, USA 
+Tools : Business Objects & Crystal Reports
+Role - Project Lead and Developer	
+Description:  WIRE is browser based application which provides access to reports and ability to schedule and run individually selected reports.  Functionally WIRE resembles windows explorer which allows the user to interact with files.  WIRE similarly interacts with reports.  Using WIRE we can view pre run reports, run a report interactively, schedule in advance to run a report at any closer date / time.  Report uploading via Central Management console, Developer WIRE
+
+Responsibilities:
+· Gathered requirements from business analyst.
+· Publishing .rpt files to WIRE with the help of Business Objects console.
+· Configuring Pre & Post events for scheduled reports.
+· Managing access rights for users & groups.
+Project: BR MFO        					       		May 2006 – Dec 2007
+Client: Ujjivan Bank, India 
+Tules : VB 6.0, MS SQL Server 2000 & 2005, Crystal Reports
+Role - Software Developer	
+
+Description:  This is a complete customization of existing banking product BR-mfo to suit the need of a typical Indian Micro Finance Institution like Ujjivan. Branch level data backup from a consolidated database using a tool.Completely overhauled loan process including loan application, approvals, sanctioning, booking process, disbursement, reschedule & Top Up Loans, Provision for fixed assets in Indian market scenario, Offline data transfer/view using XML data, Provision for maintaining the insurance for the customers, Multiple Branch Access Rights. 
+· Improved data entry for customer profile to suit small earning borrowers.
+· Branch level data backup from consolidated database using a tool.
+· Completely overhauled loan process including booking process, reschedule, refinance, payoff, credit approval.
+· Replication of loan application in the loan process.
+· Provision for fixed assets in Indian market scenario.
+· Offline data transfer/view using XML data.
+· XLS based loan schedule upload for old loans.
+· Integrated GL and customer maintenance.
+· New interest procedure for savings based on monthly average balance.
+· Monthly end accrual and next day reversal to account for monthly expectation.
+Responsibilities:
+· Responsible for development of new tool to cater transaction from disconnected branches. This tool uploads the transaction data at remote branches when come online and sends email to head office where its counterpart downloads it and puts data into centralized database.
+· Training to staff at bank.
+· Creation of new reports.
+· Online support for new customization.
+· Application Programming and Maintenance.
+· Handled Bug Correction / Any changes required in the project.
+· Involved in Implementation & Training for the Client
+· Managed Testing Process.
+· Managed UAT Process with the Clients.
+· Implemented SQL Server Replication on SQL 2005 for connecting database of different locations.
+
+
+
+
+
+
+
+Personal Details
+
+Name			:  ARAHANTH ASHOK KUMAR GOGI
+Marital Status		:  Married
+Permanent Address	:  VS SUNRISE APARTMENT, FLAT NO. 203,  1st ‘A’ Cross, B.D.S.Layout, 
+   Dr. Shivaramakaranth Nagar & Post, Bangalore-560016.
+Languages Known	:  English, Hindi and Kannada
+

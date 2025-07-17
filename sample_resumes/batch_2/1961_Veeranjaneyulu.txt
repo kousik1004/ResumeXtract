@@ -1,0 +1,152 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Veeranjaneyulu
+
+veeranji0425@gmail.com	+91-7026316178
+
+
+
+Summary of Qualifications:
+· Extensive IT experience of around 3 years of Big Data related architecture experience developing Spark/Hadoop applications.
+· In-depth knowledge and hands-on experience in dealing with Apache Hadoop components like HDFS, HiveQL, Pig, Spark, Sqoop, Oozie, Kafka, Cassandra, Spark-Streaming, Java and Scala.
+· Excellent knowledge on Hadoop Architecture such as HDFS, Job Tracker, Task Tracker, Name Node, Data Node, Yarn and MapReduce programming paradigm.
+· Work Experience in Hadoop & have knowledge of Java and Spark.
+· Experience in creating Spark Contexts, Spark SQL Contexts, and Spark Streaming Context to process huge sets of data.
+· Implemented Real Time Analytics with Apache Kafka & Spark Streaming.
+· Designing and creating Hive external tables using shared meta-store instead of derby with partitioning, dynamic partitioning and buckets.
+· Good Understanding Knowledge of NoSql CAP Theorem. 
+· Experience in writing HiveQL queries to store processed data into Hive tables for analysis.
+· Worked on different file formats (ORCFILE, TEXTFILE) and different Compression Codec’s (GZIP, SNAPPY, LZO).
+· Used Spark Streaming API to consume the data from the Kafka topic.
+· Storing the data in No SQL database Cassandra.
+· Strong experience on Hadoop distributions like Cloudera, and HortonWorks.
+· Good working experience using Sqoop to import data into HDFS from RDBMS and vice-versa.
+· Quick learning skills and effective team spirit with good communication skills.
+
+
+Expertise Skills:
+
+
+· Programming languages : Java, SCALA  
+· Operating Systems : Windows, Unix, Linux 
+· Big Data Tools : Spark, Spark SQL, Spark Streaming, HDFS, Hive, Sqoop, Oozie,  
+                                     MapReduce, YARN, Cloudera 
+· No SQL Databases: Cassandra, Hbase. 
+· Streaming Tools : Kafka 
+· Databases : Oracle, MySQL 
+· IDEs : Eclipse, IntelliJ 
+· Tools: Maven, Git, SBT, WinSCP, and Zeppelin.
+
+
+
+
+
+MAYO CLINIC: 							Nov’17 – Till Date
+
+Role: Spark Developer
+
+ 	This project mainly deals with collecting, clustering, and the data analysis of patients 
+Health records, which is differ from other applications in many ways. The customer wanted MAYO Labs to identify a patient's chance of getting re-admitted upon discharge within 30 days. So, Clinicians can be prepared to provide better post-discharge care for patients who are likely to get re-admitted.  
+  Cloudera CDH cluster with spark as the distributing computing engine.
+
+Responsibilities: -
+· Used spark streaming for Transformations and Actions, which gets the data from Kafka in real time and stores in Cassandra.
+· Consumed and processed JSON Messages from Kafka topics using apache spark.
+· Development of Kafka producer and consumer applications to write into and to read the data from Kafka cluster topics. 
+· Data in Kafka is pulled by the spark streaming, processing the data using the DStream API and send the resultant data to Cassandra. 
+· Implementing the windowing of the stream data using the spark streaming application. 
+· Storing the resultant data to Cassandra for further analysis. 
+· The resultant data also must be sent as an email attachment. 
+
+Environments:
+HDFS, Spark, Kafka, Spark Streaming, Cassandra, Maven, Zeppelin, and Git, Windows and Linux
+
+
+
+
+BMG Rights Management (BMG):			Sept’15 – Oct’17
+
+Role: Hadoop Developer
+This project is based on data analysis which focuses on sales and revenue calculations.BMG collects sales from various retailers like (Spotify, Amazon, Deezer, GFK, Nielson etc) and sends data files on daily basis. This project will convert these files in to detailed reports. There are reports on top publications, top albums, country wise details, reports and analysis has to be done as per client requirement.
+
+Responsibilities: -
+· Moving the data from local file system to HDFS and create a Hive tables on top of that location.
+· Using Spark to do transformations as per client requirement.
+· Storing the required results in target hive tables.
+· Worked on importing and exporting data from relational database into HDFS and HIVE using Sqoop.
+· Created Hive External tables and loaded the data into tables and query data using HiveQL.
+· Involved in writing Hive queries to load and process data as per the business requirement in Hadoop File System.
+· Scheduling the system to manage Apache Hadoop jobs in Oozie workflow.
+
+
+Environments:
+HDFS, Hive, Spark, Sqoop, Hbase, Pig, Hue, Hcatalog and Git, Windows and Linux
+
+POC:                    						May’15 - Aug’15
+
+Data Ingestion:
+
+
+· The data ingestion tool ingests data from RDBMS (MySQL), NoSQL (Cassandra), HDFS, and local file system in listed file formats - JSON, CSV, Text, Sequence file.
+· It supports keyword based filtering of ingestible records. The filtering should be done on <Variable>.
+· Filtered data set has to be egressed to different target systems like RDBMS, NoSQL, HDFS, and Kafka. 
+· A wrapper UI to submit batch jobs along with selection of property file location, and number of cores and memory.
+
+Environments:
+· Scala IDE, Maven, Spark.
+
+
+
+Education Qualification:
+
+	B.Tech in Electronics and Communication Engineering from JNTUK. 
+
+2
+

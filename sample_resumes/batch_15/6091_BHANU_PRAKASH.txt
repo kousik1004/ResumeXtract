@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+BHANU PRAKASH 	                                                            Email:   prakashmamidi102@gmail.com
+			      Phone: 9513289064
+
+Objective
+Aspiring for a challenging position that would utilize my skills as SAP Security administrator and continuously updating the skills for best performance.
+Professional summary:
+Around 4 years of total IT experience in large-scale enterprise support in SAP includes ECC Security, GRC AC 10.0.
+
+· Hands on Experience in Role Administration in ECC Security
+· Hands on Experience in User Administration in ECC, BI, Enterprise Portal.
+· Design/ Create/ Modify Roles as per business requirements, Mass modification to Roles and SU24 setting maintenance
+· Create transport for security role changes in SE09/SE010.
+· User ID Creation / Modification / Deactivation / Termination for different type of users like SAP User, Web Channel User, Vendor User, Portal User, Maintain User defaults, alias etc.
+· Providing prod information of status reports using user information system (SUIM) and Table level (SE16)
+· Worked on CUA  and Tcodes SCUL.
+· Create and maintain user groups and authorization groups with transactions SUGR & SE54
+· Trouble shooting analysis authorization issues
+· Worked on licensing activity.
+· Knowledge on Portal Security.
+· Resolving Security Tickets based on Service Level Agreements.
+· Hands on experience on support project activities of GRC A.C 10.0.
+· Assigning owners and controllers to firefighter Id’s.
+· Performing simulation at user level and role level.
+Technical Skills:
+	SAP Version
+	SAP R/3,ECC 6.0
+
+	Tools
+	GRC AC 10.0, HP Service Manager,Service Now ticketing tool.
+
+
+Educational Background 
+
+Bachelor of Technology (IT) from Vidyaniketan Engineering College, Tirupati.	
+
+
+Professional Experience: 
+· Currently working with Capgemini (IGATE Global Solutions) from Dec 2013 to till.
+· Worked for UK based and US based clients
+Projects:
+Company:		Spectra Energy
+Designation:		SAP Consultant
+Duration:		From Feb 2016to till
+Environment:           	SAP ECC 6.0, GRC10.0
+Ticketing Tool:          	HP Service Manager
+Project type:		Support.
+
+Roles & Responsibilities:
+· Performing user administration.
+· Working onall types of role changes.
+· Trouble shooting authorization issues using ST01 & SU53.
+· Use of SU24 to maintain and add authorization objects for transaction codes based on client defined requirements.
+· Have performed SU25 configuration steps during upgrade.
+· Fetching user / role related reports according to the client needs by using SUIM and tables in SE16
+· User administration in Enterprise Portal.
+· Worked on ECC role re-design project.
+· Perform licensing activity using USMM and SLAW/LICENSE_ADMIN.
+· Worked on CUA.
+· Have created security reports using security tables like agr_1251, agr_1252, USR06 etc.
+· Have maintained the SAP default users like SAP*, DDIC as per SAP standards across the landscape.
+· Have knowledge over the transaction codes SCUL, SCUM and SCUA.
+· Pulling the Audit logs using transaction code SM20 and activating the logs using SM19.
+· Worked on ST03N to find out the transaction analysis.
+· Have created user groups using the transaction code SUGR.
+GRC AC 10.0:
+· Maintaining SOD by providing authorizations by checking SOD compliance on GRC AC 10.0
+· Resolution of SOD conflicts at transaction and authorization object level.
+· Applying mitigation controls to mitigate risks at user level.
+· Creation of mitigation control id - with suggested owner and monitor for same.
+· Experience on Emergency access management in GRC and VIRSA –Creation of firefighter IDs, firefighter Owner, reason Codes.
+· Assignment of firefighter IDs to firefighter and fetching report of firefighter logs for further review and sign off.
+· Performed user administration.
+· Worked with profile generator in creating and changing single roles and derived roles
+· Create and release transports.
+· Troubleshooting authorization issues.
+· Fetching user / role related reports according to the client needs by using SUIM and tables in SE16.
+· Usage of GRC Approval tool to check SOD conflicts.
+· Registered developers in SAP service market place.
+· Creating OSS IDs and open OSS connection in SAP service market place.
+
+BI Security:
+· Have a good knowledge over the BI authorization objects S_RS_COMP, S_RS_COMP1 and S_RS_AUTH.
+· Hands on experience on Analysis Authorization.
+· Trouble shooting authorization issues using SU53, ST01, RSECADMIN and tables.
+Projects:
+Company:		Kronos
+Designation:		SAP Security Consultant
+Duration:		From Dec 2013 to Feb 2016
+Environment:		SAP ECC 6.0
+
+Client Profile:
+Worked in Manufacturer functional domains and provided SAP security support for one of the world leading Ceramics, glass producer and distributer.
+
+ECC Security:
+· Perform user administration
+· Create single and derived roles using profile generator tool.
+· Create and release the transports and facilitate for user acceptance testing.
+· Trouble shooting authorization issues.
+· Maintain table level security.
+· Add and maintain authorization objects for transaction codes based on client defined requirements.
+· Fetching user / role related reports according to the client needs by using SUIM and tables in SE16.
+BI Security:
+· Create Analysis Authorization.
+· Trouble shooting authorization issues.
+Achievements:
+· Received “Pat on the back” for a remarkable and diligent work in security administration.
+
+			
+

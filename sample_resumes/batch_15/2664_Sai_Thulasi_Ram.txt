@@ -1,0 +1,312 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+·Total  IT experience  3
+
+Sai Thulasi Ram                                                    sai.thulasiram@gmail.com
+
+Overview 
+
+
+
+
+
+
+
+
+    
+
+       
+
+
+·  Total IT experience of 9.5 years in Java/J2EE, React/Redux and PLSQL.
+· Currently working as Technical Lead in Aricent India.
+· Worked as Senior Software Engineer in Wipro Technologies India.
+
+· Experience in “Product Development, Support & Maintenance, Software Development”. 
+· Expertise in React, Redux and ES6, JQuery, Knockout, D3, Google MAP, Am Charts JavaScript API
+· Expertise in Java,  PL SQL, spring, HTML5, JSP, Servlets, SOAP/REST Web services, Design patterns, UML, UNIX Shell scripting, CORBA.
+
+· Have done POC using Flume and Hive and have decent knowledge about other Hadoop eco system components such as Map Reduce, Sqoop and Hbase.
+· Excellent Communication skills and articulation ability.
+
+Education 
+
+
+
+
+
+
+
+
+    
+
+       
+
+
+Aug 2003 - May2007      Sri Venkateswara University College of Engineering, India
+
+            
+
+
+  (B.Tech) Bachelor of Technology
+
+           
+
+
+  Major: Electrical and Electronics Engineering
+Technical Skills
+
+
+
+
+
+
+
+
+
+   
+
+	Language
+	Java (Java 2 to Java 8), Java Swing, PLSQL, Python
+
+	Web Based
+	JSP, Servlet, JavaScript, AJAX, XML, JDBC
+
+	Web Services
+	SOAP based and Restful web services
+
+	JavaScript frameworks
+	JQuery, Knockout, D3, Google MAP API, Am Charts, React, Redux 
+
+	Java Framework
+	Spring, ZK
+
+	IDE
+	Eclipse 
+NetBeans
+
+	Application/Web Servers  
+	Tomcat, WebLogic
+
+	Database-Related
+	Oracle, MYSQL.
+
+	Architectural 
+	UML, OOD, Design Patterns.
+
+	Version Control
+	CVS, Clearcase
+
+	Operating System
+	Windows, Solaris,HPUX
+
+
+POC
+
+
+
+
+
+
+
+
+
+    
+
+Analyzing Twitter Data Using CDH
+
+Product description:
+This application is mainly for analyzing Twitter data using a variety of CDH components, including Flume and Hive.
+Environment:
+
+Technology: - Flume, Hive  
+
+Project Details
+
+
+
+
+
+
+
+
+
+    
+
+Company: - CalAmp, US
+Team: LO (Product Development).
+
+Product Name: - Lender Outlook(lenderoutlook.calamp.com)
+Project Description:-
+H/W which sends data collected from the device to server. Here I am part of the UI development team where I write web interface for the device, it includes features like, reporting, data tables, admin functionality, dashboard and many more. 
+Environment:
+
+Technology: - React JS, Redux, JSX, JavaScript, ES6, Eslint, Babel, Web Pack, NPM, Css, Html, Material UI
+Operating System: - Windows.
+
+Team Size: 6.
+
+Duration: - 6 months (from Mar 2017 till now) 
+Role: - Lead UI Developer 
+
+Responsibility:
+
+· As a Functional Group Lead was responsible for the successful development of the module.  
+· Developed modules as per the tight timelines from the clients.  
+· Responsible for key design and architectural decisions in the product, based on a highly-scalable, service-oriented framework, using React, Redux, HTML5.
+
+· Responsible for gathering the business information, designing, development, testing and    
+
+      deployment.
+
+· Designing and implementation using Design patterns
+Company: - EMC Satcom, Norway
+Team: Train Location Software (Product Development).
+
+Product Name: - RailLine UI Software.
+
+Project Description:-
+The Software will serve as an aid to specialized operators sitting at an Operation’s Center where traffic is planned based on pre-defined demand for cargo and passenger loads. The network infrastructure allowing the data and voice communication among Operation’s Center, Train Stations and Trains leverages on a Satellite VSAT system. All Trains, Train Stations and Operation’s Center will be equipped with a satellite terminal allowing the flow of data and voice communication among them.
+
+Environment:
+
+Technology: - HTML5, Knockout JS, D3, JQuery, Java/J2EE, PLSQL, JSP, Java Script, spring, Design Pattern, UML
+Operating System: - Windows.
+
+Team Size: 12.
+
+Duration: - 1 years (from August 2012 –August 2013) 
+Role: - Senior Java Developer 
+
+Responsibility:
+
+· As a Functional Group Lead was responsible for the successful development of the module.  
+· Developed modules as per the tight timelines from the clients.  
+· Responsible for key design and architectural decisions in the product, based on a highly-scalable, service-oriented framework, using Java, Knockout JS, D3, HTML5.
+
+· Responsible for gathering the business information, designing, development, testing and    
+
+      deployment.
+
+· Designing and implementation using Design patterns
+Company: - EMC Satcom, Norway
+Product: SatLink WebNMS.
+Product description: -
+The SatLink WebNMS (Network Management System) is an integral and essential part of the total SatLink Hub system which provides FCAPS functionality of the network. It is used to configure and control all aspects of a SatLink network, including the Hub, all its carriers, VSATs, VSAT Groups, plus all its services, QoS policies and related features. It also collects a wide range of performance and accounting data, providing graphical displays and tabular reports of this data for analysis by network operators.
+
+The communication between a client and the SatLink NMS application is achieved through
+
+• HTTPS – using WebNMS, a Web GUI-based application
+
+• XML over HTTPS – using SOAP and REST based API
+
+Environment:
+
+Technology: - Java 7, PLSQL, Python, JSP , Google MAP API , Amcharts, JQuery,  Spring, ZK, SOAP/REST Web services,  UML, UML Designing(Class Diagram, Sequence Diagram, Use Case Diagram), Tomcat,  JIRA.
+Operating System: - Windows.
+
+Team Size: 20.
+
+Duration: - 3.7 years (from August 2013 -Mar 2017) 
+Role: - Technical Lead
+Responsibility:
+
+· Agile methodology.
+
+· Analysis and study of the existing object model and designing new Object model. 
+
+· Understanding of the existing system, Requirements gathering for the new modules and 
+
+   refining the existing requirements.
+
+· Development in Java, PLSQL to manage EMC SatLink equipment.
+· Implementing SOAP/REST Wevbservices
+· Worked on Upgrade, migration module from java and Oracle side.
+· Worked on Jira
+· Writing and execution of python and selenium scripts.
+
+· Writing/executing test case.
+
+Company: - Ciena Networks (Nortel Networks), Canada
+Location: Ottawa, Canada.
+
+Product: - Network Data Server (Product Development).
+Project Description:-
+
+ The NDS is a NMS component of NORTEL which consolidates data from different EMS (Element Management Systems) and store in its database and sends to the clients on request. The Northbound Interface of NDS provides CORBA based interface to clients and handles request. The Southbound Interface Provides ability to learn the network through communication through XDR. Data Management Layer allows for the restriction and identification of monitored network devices.
+Environment:
+
+Technology: Java, Swing, CORBA, Shell Scripting, PLSQL, JAXB, MySQL. 
+Operating System: - Solaris, HP-UX
+Team Size: 30
+Duration: - 4.7 years (from December 2007 –July 2012) 
+Role: - Java Developer
+Responsibility:
+
+· Responsible for key design and architectural decisions in the "next generation" product, based on a highly-scalable, service-oriented framework, using Java, CORBA and Shell Scripting.
+
+· Responsible for gathering the business information, designing, development, testing and deployment.
+· Responsible for onsite Coordination.
+· Designing and implementation using Design patterns, UML diagram. 
+
+Personal Details
+
+
+   
+
+
+
+                             -
+Name 
+
+          :           Sai Thulasi ram Ramachandruni
+Email id                    :           sai.thulasiram@gmail.com 
+Contact no 
+          :
+          +919986728008
+

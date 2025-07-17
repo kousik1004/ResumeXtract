@@ -1,0 +1,362 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+
+
+
+Objective
+
+Aspiring for Higher Level assignments in Networking with a growth oriented organization of repute. 
+Summary
+
+11.10 years’ experience in Network Operations support and Project Implementation which includes –Banking ,Retail and Financial Services - Network, Security and ADC (SLB[LTM], GSLB[GTM], WAF[ASM]).
+
+Have good experience in Network Administration under dedicated and multi-tenant environments, including project deployment, operations support, network audit, impact-less maintenance / up-gradation, Disaster Recovery Management
+
+Experience Specific to ADC
+In Application Delivery Controllers, I have good experience in various products of F5 Networks,Cisco and Radware. I have good experience in F5 BIGIP LTM, GTM, Cisco ACE ,CSS,Server Loadbalancer, Citrix Netscaler , Radware Appdirector and Alteon, I have also got opportunity to work in F5 ASM, AFM, as well in couple of project deliveries.
+
+Also, I have good exposure in Route Domains, Partitions, TMSH, Bash Command Line, VCMP, and good troubleshooting skills specific to applications by using diagnostic tools like tcpdump, wireshark, fiddler/httpwatch, dig, nslookup and various client web browser in-built developer tools.
+
+Work Experience
+
+Working in Wipro Techlogies Pvt Ltd (Since 4th Nov 2014) 
+
+Projects
+
+Position: Lead Administrator 
+Project:  UK based Financial Services Client Project
+ I am part of F5 Service Delivery Team. Project requires good experience in F5 Products - LTM, GTM and AFM Solution Deployment and Service Delivery Support.
+
+Roles and Responsibilities
+
+· Service Delivery Engineer for F5 Network Products
+
+· Responsible to deliver the Services specific to F5 products in the Project Scope
+
+· Responsible to handle Incidents and Problems specific to F5 LTM/GTM/AFM Post Deploying the Solution for 15 days till providing handover to Operations Team
+
+· Responsible to coordinate with Solution Architects, Product Vendors, Client Management, Project Managers
+
+· Responsible to complete POC for new product deliveries
+Technical Experience Gained
+
+Have got good experience in below F5 specific Technologies
+
+· High Volume of Configuration Deployment using TMSH and Bash
+
+· Got experience in irule scripting for complex redirections, monitoring, filtering of traffic, logging for secure Banking Applications
+Project:  US based Retail Services Client Project
+
+I was working as Offshore Technical Lead and managing Neiman Marcus Infra Security.
+Roles & Responsibilities
+
+· Responsible for Infra Security Operations of Neiman Marcus Network.
+· Administration of 2 Tier architecture firewall channels.
+
+· Worked with Change Management, Incident Management and Problem Management Process as per ITIL.
+
+· Change Review & implementation of Neiman Marcus network – Change Approval, Implementation planning etc..
+
+· Worked with Checkpoint Firewall ,Paloalto Firewall , Bluecoat Proxy, Netscreen Firewall, CISCO ASA, Juniper firewall, F5 Load Balancer ,PKI and Cisco Ironport & Juniper SSL VPN
+· Troubleshooting, managing and migrating Paloalto ,Juniper ,Checkpoint and ASA firewall ,F5 Load balancer and Bluecoat Proxies.
+· Implement and replace new Paloalto firewall .
+
+· Configure HA and Upgrade IOS of Paloalto ,Juniper ,Checkpoint and ASA firewall ,F5 Load balancer and Bluecoat Proxies.
+
+· Troubleshoot and managing the F5 ASM .
+
+Worked on SCOPE International Pvt Ltd (Since 19 Apr 2010 to Oct 28 2014) 
+Roles & Responsibilities
+
+· Responsible for Global Network Support and Operations of Standard Chartered Bank Network.
+· Administration of 3 Tier architecture firewall channels.
+
+· Responsible for planning and design network infrastructure data flows. 
+
+· Lead for internal projects of Standard Chartered Network.
+· Network Support lead of Global Network Operation Centre Level-2 Team.
+
+· Works with Change Management, Incident Management and Problem Management Process as per ITIL.
+
+· Change Review & implementation of SCB network – Change Approval, Implementation planning etc..
+· Working with Cisco routers, Switches, Bluecoat Proxy, Netscreen Firewall, SRX Firewall, CISCO ASA, Juniper firewall, Network Load-balancer (Alteon, F5) and Netflow Analyzer.
+· Support Operations - WAN, LAN, Multiple VPN (s2s, Client, SSL...), Firewall Channels, DNS (Public & Private).
+Worked with Accenture Bangalore as Network Engineer (July 2008 – April 2010) 
+Roles & Responsibilities
+
+· Responsible for designing and implementation of customer’s network infrastructure.
+
+· Configure and implement Remote Access Solution: VPN, ISDN dial up.
+
+· Implement Cisco IOS Firewall using 3600 series router.
+
+· Network Assessment and Documentation (including technical, operational).
+
+· Configure Cisco VPN 3000 Concentrator to allow VPN clients.
+
+· Implement Cisco Secure Access Control Server (ACS 3.0) for Tacacs+/ Radius. Configure Pix to Pix, and Router to Router VPN.
+
+· Redistribution of routing protocols and ATM configuration.
+
+· Build and maintain Visio documentations for Clients.
+
+· Implementation of TCP/IP & related Services-DHCP/DNS/WINS.
+
+· Responsible for designing, implementing and troubleshooting infrastructures for Live Hosting and internet websites.
+
+· Responsible for designing, implementing and Troubleshoot ADSL, ISDN, Serial, MSE, VPN and DWDM, connectivity issues.
+
+· Configure Cisco Switches (layer 2 and 3 switching) and Routers.
+
+· Design and implement security policies using ACL, PIX firewall (515, 520) and Provide intranet VPN solution using Cisco 2621 and IPSec Tunneling.
+
+· Configure and Troubleshooting CSS, and CSM to provide Load Balancing for server.
+
+· Upgrade Cisco Routers, Switches and Firewall (PIX) IOS using TFTP 
+
+Worked with CMC as NOC Engineer (Dec 2005 - Aug 2008)
+· Installation and Configuration of Cisco routers for Leased Line connectivity ISDN as backup.
+
+· Installation, configuration and troubleshooting of L2/L3 switches for the Enterprise LAN.
+
+· Designed and implemented VLAN’s for the Enterprise LAN.
+
+· Commissioning of New Leased line and ISDN BRI Lines through 3rd party service.
+
+· Installed and Configured Cisco 3745 Router and LAN Switches.
+
+· Responsible for trouble shooting and management of network spread over 200 locations
+
+· Monitoring and troubleshooting network performance using Network management software and tools like Cisco Works, Network View and MRTG. 
+
+· Worked on restructuring the Local Area Network with VLAN and setting up the ACL as per the Customer requirement.
+
+· Using Centralized Symantec Antivirus server, deploying the Antivirus Server to remote location and install Antivirus client from that server.
+
+· Responsible for the installation and maintenance of Local Area Network cabling through 3rd party service Includes Voice cabling.
+
+· Coordinate delivery of Network Devices and peripherals to remote sites. Responsible for local installation of Network Device and peripherals and ensuring LAN connectivity.
+
+· Installation of Video conferencing Equipments and giving support for the same.
+
+· Preparing WAN Status Report for Daily, Weekly and monthly basis with Cisco works.
+
+· Maintenance of RADWARE Load Balancer for the web servers
+
+· Protection of customer networks and data through packet level filtering and session level firewall using PIX Firewall and ACL
+
+· Responsible for designing and implementation of customers network infrastructure 
+
+· Redesign customers office copper and fiber cable plant for scalability 
+
+· Configure and implement Remote Access Solution: VNC, ISDN dial up, IP Messenger
+
+· Implement Cisco IOS Firewall IDS using 3800 series router
+· The France Telecom group is one of the world's leading telecommunications operators. In 2009, the Group further strengthened its global footprint, while developing new services such as content and healthcare and expanded its customer base to over 192 million customers worldwide
+
+· As the global leader in integrated communications, Orange Business Services operates the world’s largest seamless voice and data networks, with local support in 166 countries servicing more than 3,750 multinational customers. Having experts have a wealth of knowledge available for perusal, from WAN optimization and application acceleration to VoIP and security.
+Professional Certifications & Training 
+
+Certifications 
+
+      Juniper Networks certified specialist 
+
+      Juniper Networks certified Associate 
+
+Cisco Certified Network Professional
+
+Troubleshooting Cisco Data Center Unified Fabric (DCUFT)
+
+Cisco Certified Network Associate
+CISCO ID: CSCO11501351
+Trainings 
+
+· Cisco Data Center Unified Fabric Troubleshooting (DCUFT v5.0) by Global Knowledge
+
+· Juniper routers & Firewall by Juniper Vendor.
+
+· BIGIP Training by F5 vendor.
+· Citrix Load balancer by Citrix
+
+· Bluecoat Certified ProxySG Administration by Red Education (Bluecoat Partner).
+
+· Checkpoint & Palo alto training 
+
+Technical Purview
+
+· Routers: 
+
+· Cisco 7600 Routers
+
+· Cisco 3845 Routers
+· Cisco 2600 Series Routers
+
+· Cisco 2500 Series Routers
+
+· Switches:
+
+· Cisco 6500 Series
+
+· Nexus 7000 Series
+
+· Nexus 5000 Series
+
+· Nexus 3000 Series
+
+· Catalyst 3750 Series
+
+· Catalyst 3550 Series
+
+· Catalyst 3560 Series
+
+· Catalyst 2950 Series
+· Firewalls
+
+· Cisco ASA 5580
+
+· Cisco ASA 5520
+
+· Cisco ASA 5510
+
+· Juniper Netscreen
+
+· Juniper SRX series
+
+· GB Firewalls
+
+· Check Point 
+
+· Palo Alto
+
+· Network Load Balancers
+
+· F5 Load Balancers
+
+· Alteon
+
+· Cisco ACE
+
+Education
+
+· Bachelor of Engineering (Computer Science) from Anna University, Graduated in 2005.
+
+· Diploma in computer Technology from DOTE, Graduated in 2002.
+
+Personal Dossier
+Date of birth
+
+
+
+: 23 Feb 1983
+Gender
+
+
+
+: Male
+
+Marital Status
+
+
+
+: Married
+Religion & Caste
+
+
+
+: Hindu
+
+Nationality
+
+
+
+: Indian
+
+Languages Known
+
+
+: English &Tamil
+Passport details                              : F7920831 till 01 Jun 2016
+Permanent Address
+
+
+: Kondhalur Village, Asanur Post
+
+
+
+
+  Kallakurchi (TK), Villupuram (Dt).Tamilnadu.
+
+
+
+
+  PIN – 606305
+Declaration
+
+I hereby declare that the information furnished is true to the best of my knowledge.
+
+Srinivasan Sellappan.
+�
+
+
+
+Srinivasan Sellappan
+
+Plot No: 4, Saraswathi Nagar, 
+
+Kolathur, Chennai, TN–600099, India
+
+
+
+(:srinivasan.sellappan@gmail.com or srinisellappan@yahoo.com	
+
+(: +91 8939964640, +91 9962277833
+
+
+
+
+

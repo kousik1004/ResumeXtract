@@ -1,0 +1,258 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page | 1
+
+Suraj Gunjal
+Consultant
+Email: surajsgunjal@gmail.com
+Phone:+91-8605353377
+Experience Summary
+· Having 4+ years of experience as a SAS BASE, SAS ETL and BI Developer.
+· Working Knowledge in SAS/BASESAS/PROC, SAS/SQL, SAS/ODS, SAS Enterprise Guide 7.1, SAS Information Delivery Portal 4.4, SAS Field Quality Analytics 6.1, SAS Management Console, SAS Web Report Studio 4.4, SAS BI Dashboard 4.4,
+· Worked as ETL developer to develop ETL jobs using SAS DI studio and SAS Programs.
+· Responsible for the Extraction, Transformation & Loading of data from multiple sources into Data Warehouse. Worked on various sources like Sql, Oracleand Flat Files.
+· Extensive knowledge in data management like Merging, concatenating, interleaving and moving of SAS datasets, created custom formats, informats, functions etc. 
+· Experience on various procedures like Proc Means, ProcFreq, Proc Import, Proc Export, Proc Datasets, Proc Format, Proc Sort,Proc Tabulate, Proc Report etc.
+· Proficiency in developing SAS DI jobs using SAS Data integration studio, Experience in scheduling and deploying the jobs. Developed jobs with parameters.
+· Hands on experience include large and complex Databases and RDBMS, oracle 10g/11g.
+· Experience to handle large data, coded effectively for scalable data using Pass through queries, parallel processing.
+· Expertise in working with SAS DI Transformations Append, Extract, Table Loader, Lookup, Data Validation, SQL join, Surrogate Key Generator, SCD Type 2, Splitter and User Written Transformations.
+· Expertise in using MACROS extensively to ease the process of coding and to standardize programs.
+· Ability to learn and adapt new technologies quickly.
+Technical Skill
+	SAS Programming   
+	· SAS/BASE
+· Advance SAS
+
+	SAS Data Integration Tools
+	· SAS Data Integration Studio 4.9
+· SAS Enterprise Guide 7.1
+
+	SAS Business Intelligence Tools
+	· SAS Field Quality Analytics 6.1
+· SAS Web Report Studio 4.4
+· SAS Information Delivery Portal 4.4
+· SAS BI Dashboard 4.4
+
+	SAS Administrative Tool
+	· SAS Management Console 9.4
+
+	Database                   
+	· Oracle 
+· Microsoft SQL Server 
+
+	Operating Systems
+	· Windows Server, Windows XP, Windows 7.
+
+
+Academic Qualification
+	Qualification
+	Degree
+	Year
+	Board/University
+	Aggregate
+
+	Graduation
+	BCA
+	2013
+	Pune university, Pune.
+	72.5%
+
+
+Professional Experience 
+	Organization
+	From
+	To
+
+	Bristlecone India Ltd.
+	Mar 2017
+	Till Date
+
+	Nihilent Technologies.
+	Jul 2013
+	Mar 2017
+
+
+Project Experience
+Project#4:
+	Project Title:
+	Field Quality Analytics (FQA)
+
+	Duration:
+	Mar 2017 – Till Date.
+
+	Description:
+	Project is to develop and implement at Mahindra & Mahindra (M&M).SAS Field Quality Analytics is an integrated reporting and analysis tool that provides the flexibility and functionality to perform warranty-related problem identification, prioritization, and definition for root cause analysis.Early Warning workspace, Data Selection workspace, Analysis workspace, Administration workspaces in SAS Field Quality Analytics 6.1 have been redesigned to enhance the user’s experience in monitoring and analyzing warranty data.
+
+	Role:
+
+	· Work as SAS Developer responsible to Data Cleaning, Data Manipulation,Data Validation and staging table’s preparation Using SAS Enterprise Guide.
+· Develop ETL jobs for loading Stage Tables Data into FQA Data Mart environment using SAS Data integration studio.
+· A DI jobs are scheduled on weekly, monthly basis, some of jobs are scheduled on ad-hoc basic using SAS Management Console.
+· Analyzed user requirements and business rules to design develop and implement analysis system.
+· Create 14 Analysis Using SAS Field Quality Analyticslike-Details Tables, Decision Tree, Event Forecasting, Failure Relationship, Geographic, pareto,Reliability, Summery Tables, Text Mining etc.
+· Used SAS Management Console to user’s creation and assign Specific group and role to the users.   
+· Developed Web Reports using SAS Stored Process as a Data Source in Web Report Studio. 
+· Used Information Delivery Portal to deploy the report, arranged content with different Portlet like SAS Report Viewer Portlet, SAS STP Viewer and SAS BI Dashboard, Collection Portlet.
+
+	Environment
+	SAS EG, SAS SQL, SAS DI Studio, SAS Management Console, SAS WRS, SAS IDP, SAS VA, SAS FQA.
+
+
+Project#3:
+	Project Title:
+	Commodity Trader Evaluation system.
+
+	Duration:
+	APR 2015 – Mar 2017.
+
+	Description:
+	Project is to load data of commodity trades into data warehouse from trading terminal for one of the MCX exchange broker. This data is for their customer trades, settlement, ledger balances etc. This data is loaded in daily aggregated format on each week-end for each customer. Source system for this is a flat file, oracle table. Data warehouse is building on Oracle database. Further this data is used for reporting and analysis purpose. This help client in offering brokerage plans for their customer.
+
+
+	Role:
+	· Worked as SAS Report Developer using SAS EBI reporting tools.
+· Analyzed user requirements and business rules to design develop and implement analysis system.
+· Create SAS Information maps using sas Information map studio, define relationship between tables, add filters, joins, prompts, pre-filters, create calculated fields, aggregations, grouping etc.
+· Used Web Report Studio to create a various report (summary detail, drill down, drill up, used report linking feature, crated reports with different sections, created reports with filters prompts, conditional highlighting etc.) as well as used SAS Stored Process in Web Report Studio.
+· Used different objects in reports like bar chart, table, cross tab, stored process, image, header, footer, title in web report.
+· Created reports with group breaks, scheduled and deploy reports to create reports views.
+· Create cascaded prompts in map,used prefilter
+· Used Information Delivery Portal to deploy the report, arranged content with different Portlet like SAS Report Viewer Portlet, SAS STP Viewer and SAS BI Dashboard.
+· Used Report Schedule and Distribute feature of Web Report Studio.
+· Developed web reports using OLAP cube as a data source and SAS Stored process.
+
+	Environment
+	SAS IMS, SAS WRS, SAS IDP, SAS BID,SAS Management Console.
+
+
+Project#2:
+	Project Title:
+	Insurance claim Reporting and Analysis.
+
+	Duration:
+	MAR 2014 – APR 2015
+
+	Description:
+	Project is to develop a data warehouse for insurance claim management, Source data for this was daily flat files data of adjustment denials, claims etc. Target for this project was Oracle database. DI jobs are scheduled on weekly, monthly basis, some of jobs are scheduled on ad-hoc basic. 
+
+
+	Role:
+	· Worked as SAS DI Developer responsible to develop ETL jobs using SAS 
+Data integration studio.
+· Involved in development of ETL Job, extracting data from the multiple sources (PSV, Oracle10g) using SAS/Access, SAS SQL procedures and creation of SAS data sets, transforming them according to the business requirements and loading of data in to the appropriate data sets using various DI Transformations.
+· Used file reader, Splitter, SQL join, Table loader, Data validation, Lookup, SCD type 2, Surrogate key generator, Extract, Loop transformations.
+· Deploying, Scheduling and monitoring of jobs, developed job flows using management console.
+· Responsible for registering source and target libraries, used change management system, created project repositories in development, involved in moving metadata from development environment to QAenvironment using .spk files.
+· Interacting with the Business Team to understand their requirements and then creating SAS DI jobs, validating jobs of peer team.
+· In order to improve performance of job Used different types of techniques like used of views, indexes, look up transformation over sql join, use of loop transformation, running jobs in parallel, use of multi treading option for sorting data, use of custom transformation to use data step functionality to join tables, used pass through queries, increased buffer size etc.
+· Created proper documentation of work.
+
+	Environment
+	SAS DI Studio, SAS Management console, SAS EG.
+
+
+Project#1:
+	Project Title:
+	Insurance claim Reporting and Analysis.
+
+	Duration
+	JUL 2013-MAR 2014.
+
+	Description:
+	IDBI Bank is the leading international bank in India. Responsible for acquisition modeling in the emerging markets of India. As it was not easy to buy geographical and demographic data In India, customer data was built internally by gathering demographics and general information of card members pertaining to diverse products to extract information about solicited and non-solicited responders over a period of time
+
+	Role:
+	· Getting Requirement from project manager or onside coordinator to mail.
+· Understanding requirement with taking help from business analyst.
+· Understanding database table with taking help from DBA.
+· Extracting the data from database table to SAS.
+· Manipulating the data or according the client requirement. Here use of six stepsthat are-Validation, Scrubbing, Demoralization, Structuring, Summarization, and Integration.
+· Loading the data by using proc append.
+· Data analyzing by using various SAS Procedures like PROC REPORT, PROC MEANS, PROC FREQ, and PROC PRINT.
+· Using ODS when converting that analyst information exporting the requirement format like HTML, PDF.
+· Performing report validation, Data validation or testing the program to identified correctness and completeness of report. Here I am testing on various test cases like Data wise, Decimal value wise, Formatting wise, Look and fill of the report wise etc.
+· Moving the programmer into UAT if user accept the program then Deliver the reports to all business users using E-Mail and Scheduling.
+
+
+	Environment
+	SAS Base, SAS/Access, SAS ODS, Macro, SQL, Oracle10, Windows.
+
+
+
+Personal Details:
+	Name:
+	Suraj Subhash Gunjal
+
+	Father’s Name:
+	Mr.Subhash Rambhau Gunjal
+
+	Present Address:
+	House No.608, ESSBEL, Lokhandwala, Kandivali, Mumbai-400101
+
+	Permanent Address:
+	At-Gunjalwadi, Post-Rajapur, Tal-Sangamner, Dist-Ahmednagar.
+
+	Date of Birth:
+	23rd jun 1993
+
+	Language Known:
+	English, Hindi, Marathi
+
+	PAN:
+	BKKPG4979D
+
+	Nationality:
+	INDIAN
+
+
+Declaration:
+I hereby declare that the above given information is true to the best of my knowledge.
+Date:
+Place:                                                                                                                                                          Signature
+

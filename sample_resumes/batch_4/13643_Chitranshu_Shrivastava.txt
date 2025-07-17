@@ -1,0 +1,230 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chitranshu Shrivastava
+		E-mail  	:Chitranshu.3107@gmail.com
+Title               Business Support Senior Associate		Phone	: +91 9513114364
+Location       Bangalore, India		Address	: BTM, Bangalore, Karnataka, 
+Languages   English (fluent), Hindi (native)		India.
+					
+
+Experience Summary
+
+I aim to work as an integral part of a reputed organization to put in my efforts for the growth of the organization and to enable myself to achieve and surpass corporate and personal goals.
+
+This role involves user access security administration to Dell’s Key Financial Systems, Other Significant Systems and Non Key Systems and also responsible for implementing controls on all the Security processes for Global Information Solutions (GIS) Securities.
+
+Skills
+
+	Technical
+	
+	
+	
+	
+
+	
+· SQL
+
+· MS excel
+	
+	
+	
+	
+
+	· Manual Testing
+	
+	
+	
+	
+
+	· RPA TOOL- UiPath
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+
+
+Work experience
+
+DellInternational Services Pvt Ltd	April 2016 — April 2018
+
+Business Support senior associate
+
+Responsibilities:
+
+· Experience in Information Securities in Dell.
+· This role involves user access security administration to Dell’s Key Financial Systems, Other Significant Systems and Non Key Systems and also responsible for implementing controls on all the Security processes for Global Information Solutions (GIS) Securities.
+· Dell Internal tools include DFS (Dell Finical Services) for Access and Termination	.
+· Identify and remove terminated users from applications that GIS supports.
+· Troubleshoot and resolve issues maintaining SLA
+· Define and Document processes and procedure by following standards and procedures to comply with government regulations and internal controls
+· Follow up on escalations and issue tracking      .
+· Undertaking research on root cause of Incidents to resolve the ticket raised on Service now.
+· Involved in projects like ownership and approver changes, application and AD group creations or modification.
+· Pulling of users list and details from the data base, consolidating and validating for User Access Review.
+· Keep a track on user’s termination on Weekly termination, Scouts review and Audit reviews.
+· On job training for new hires in guiding them the process and training
+· Experienced in Handling Escalations, Internal Auditing and Team Management.
+· Ability to understand functional requirements and design documents.
+
+
+
+
+
+
+Uipath Automation Bots:
+
+
+
+Task 1: User Creation Process
+
+Application: Delta Application (Siebel based)
+
+Challenge: Support team receives user creation request on daily basis and every time then need to perform same steps for multiple users to create them or giving them access in Delta Application (Siebel based).
+
+Details:I have created bot on Delta Application (Siebel based) for user creation process, bot will read the data from excel file then login to application, navigate to User creation process page and fill the details into application which robot read from excel file.
+Once all the information filled robot will click on new button on application and read the 2nd rows data from excel and enter them into application again.
+After entering all the information into application from excel file robot will send an email to all users along with support team, stating that access has been given to users please verify and revert in case of any concern.
+
+Awards & Recognition
+
+· Got Appreciation from team members for quick learning and onboarding into project within the short time.
+· I have done Manual testing Course from SEED Pune.
+· Successfully completed Ui-Path (RPA) certification.
+
+
+Education
+
+	Course
+	Institution
+	Major/Minor
+	Score
+	Year of Passing
+
+	Bachelor of Technology
+	Guru Nanak Institute of Engg&Tech,Nagpur
+	Computer Science.
+
+	69.2%.
+	June, 2014
+
+	HSC
+	KendriyaVidyalayaBalaghat School (M.P).
+	Mathematics, Science, Computer Science.
+	64%
+	March, 2010
+
+	SSC
+	KendriyaVidyalayaBalaghat School (M.P).
+	Mathematics, Science, Computer Science.
+	75%
+	March, 2008
+
+
+
+PERSONAL INFORMATION
+
+	Date of Birth
+	31 July 1992
+
+	Father’s Name
+	Mr. Manoj Shrivastava
+
+	Gender
+	Female
+
+	Contact No.
+	9513114364
+
+	Nationality
+	Indian
+
+	Languages
+	English, Hindi
+
+	Permanent Address
+	BTM Bangalore
+
+
+
+Declaration
+
+I hereby declare that the particulars given here in are true to the best of my knowledge and belief and I am in possessionof the documents as proof of the claims made above.
+
+
+Place                                                                                                                                           Date
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		4

@@ -1,0 +1,191 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	VENKATESH ALAKUNTA                                                     E-mail: venkatesh.a1414@gmail.com      
+	                                                                                                 Mobile: +91 9985421414	
+
+                                                                 	
+
+
+Professional Summary:
+
+· Having 2.10 years of experience as Software tester in “Product” domain.
+· Expertise in Manual testing/Mobile applications testing for iOS and Android mobile applications.
+· Extensive work experience in Sanity Testing, Functional Testing, Validation testing, GUI Testing, Regression Testing and Compatibility testing.
+· As a Validation Tester developed, maintained and executed the test cases and test scenario’s as per the requirements and test plans.
+· Participated in all phases of the product development and release processes and contributed towards creation of test strategy, test plan, test summary, validation report documents and quality process improvements. 
+· Execution of test cases and logging the defects in to Bug Tracking Tool.
+· Handling the communication between onshore and offshore teams.
+· Having experience in communicating with clients and handling their queries.
+· Doing RCA by analyzing the logs for the issues which occur in production.
+· Co-ordinating with the development team for quick resolve of all high priority issues. Experienced in handling 6 to 8 member team and acted as POC for Device Switch product.
+· Performing root cause analysis of issues found in application.
+· Strong knowledge of STLC and SDLC with experience in writing & executing test cases and test scenarios.
+· Sound knowledge in Defect tracking tool (Redmine).
+
+Experience Summary:
+· Currently working as a Quality Analyst with Pervacio India Pvt. Ltd., Hyderabad Since Nov 2015 to till date.
+
+Technical Proficiency:
+· Worked on Test Management tool “Tarantula”.
+· Worked on Bug Tracking tool “Redmine”.
+· Basic knowledge on SQL.
+· Worked on Operating systems like Windows 7, Windows  8.1, windows 10, iOS and Android.
+
+
+Projects profile:
+# 1: Device Switch
+         Client                : BELL,SBE Canada
+         Environment: IE, Chrome, Firefox browser in Windows 8.1, Windows 7, Windows 10.
+         Technology    : Java/j2EE, CSS, HTML, Android, iOS
+         Team size        : 13
+          Role                  : Quality Analyst
+
+
+Description:
+
+ It is migration of data from one OEM to other OEM of different platforms (Android, iOS and BB) without loss of data. 
+Clients will able to easily select& transfer the required data. After the data has been sent the data count will be displayed on the WEB-GUI.
+Tethered Device Switch:  Here we can transfer the data by connecting to PC/Laptop Using USB cables.
+Wireless Device Switch: Here we can transfer the data without connecting to PC/Laptop.
+Responsibilities:
+· Designing and Executing test scripts.
+· Involved in Functional, Non-Functional, Sanity, Regression Testing and acted as POC.
+· Clear understanding of the Business Requirement Specifications.
+· Reporting the results of the Releases globally.
+· Raising the bugs and preparing Bug Reports.
+· Generating Bug reports and raising the bugs during certification using Redmine.
+
+# 2: Data wipe
+         Client                : Asurion, Japan
+         Environment: IE, Chrome, Firefox browser in Windows 8.1, Windows 7, Windows 10.
+         Technology    : Java/j2EE, CSS, HTML, Android, iOS
+         Team size        : 4
+         Role                  : Quality Analyst
+
+Description:
+
+Pervacio data wipe product completely based on Web & device (we can perform Mobile data wipe using a web with PC/Laptop).Data Wipe auto-identifies, records the asset tags and wipes nearly every type of mobile device clean in about 30 seconds. It erases all types of user data in the mobiles quickly and cleanly. Running up to 50 properties on the product to find the source of problems and errors on all mobile device . It is applicable for different manufacturers and different models with different carriers.
+Single-unit Datawipe - We can perform with only one device.
+Multi-unit Datawipe - Here we can able to perform 7 devices and 14 devices at a time.
+
+Responsibilities:
+· Designing and Executing test scenarios.
+· Authoring of  test cases and test scenario’s as per the requirements and test plans.
+· Analyzing and reviewing the required documents.
+· Reporting issues in Quality center.
+
+
+# 3: Device Diagnostics
+         Client                : BELL Canada
+         Environment: IE, Chrome, Firefox browser in Windows 8.1, Windows 7, Windows 10.
+         Technology    : Java/j2EE, CSS, HTML, Android, iOS
+         Team size        : 9
+         Role                  : Quality Analyst
+
+
+Description:
+
+ The product is designed for Telecom service provider to diagnose hardware and software features of smart phones provided of different platforms mainly (iOS & Android) in their Retail Stores. Using the product, they can detect the faulty devices used by their customer by running multiple automatic and assisted tests on device and generating a detailed summary report.
+
+Responsibilities:
+·  Executing Test Cases.
+· Analyzing and reviewing the Requirement documents.
+· Reporting issues in Quality center.
+· Involved in Issue Verification task for the prioritized Issues.
+
+# 4: Retail 3.2
+         Client                : Sprint, USA
+         Environment: IE, Chrome, Firefox browser in Windows 8.1, Windows 7, Windows 10.
+         Technology    : Java/j2EE, CSS, HTML, Android, iOS
+         Team size        : 18
+         Role                  : Quality Analyst
+
+Description:
+Retail 3.0 has Multi-mode Diagnostics and Multi-Session Device Switch.
+
+Multi-mode Diagnostics:  Diagnostics is used to check the each and every module in the mobile device. iOS and Android  devices are able to perform diagnostics.  Here we can  able to perform 7 devices at a time.
+
+Multi-Session Device Switch: It is migration of data from one OEM to other OEM of different platforms (Android, iOS and BB) without loss of data. Here we can able to perform  4 Sessions at a time.
+Responsibilities:
+· Involved in Functional, Non-Functional, Sanity, Regression Testing.
+· Clear understanding of the Business Requirement Specifications
+· Reporting the results of the Releases globally.
+· Raising the bugs and preparing Bug Reports.
+· Generating Bug reports and raising the bugs during certification using Redmine.
+
+Education Qualification:
+
+· Bachelor of Technology (EEE)-2012 From J.N.T. University, Hyderabad.
+
+Personal details:
+
+Date of Birth	             :	   22nd September
+Gender		             :    Male
+Marital Status	             :	   Single
+Languages Known       :    Telugu, Hindi, and English
+
+
+Declaration:
+ 
+I hereby declare that the above mentioned information is true to the best of my knowledge.
+
+Place: Hyderabad                                                                                                          (Venkatesh.A)
+
+
+
+
+
+
+
+
+
+
+
+

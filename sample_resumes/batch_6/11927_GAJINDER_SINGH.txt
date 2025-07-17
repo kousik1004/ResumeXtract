@@ -1,0 +1,407 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sample Resume for an Entry-Level IT Help Desk Worker
+
+GAJINDER SINGH
+B-76 Sector 52 Noida    +91-9599930298   gajinder23@gmail.com
+
+	Summary
+
+
+
+	
+	
+
+
+· SAP Basis and NetWeaver consultant having More than 8 years of total experience into SAP Basis.
+· Worked on multiple projects which includes 24*7 Support, upgradation, enhancements, implementation and served international and domestic clients.
+· Fiori configuration (HUB and Embedded deployment).
+· Good hands on migration of DB2 to HANA 2.0.
+· DB2 upgrade from 9.0 to 9.7 to 10.5 and OS / DB migration.
+· Language package installation, ADS configuration, DMS server implementation, SAP Router installation and configuration, Object Archiving and CUA configuration
+· EHP & SPS upgrade through SUM using different techniques (Single system, Standard and Advance) and SP Upgrade
+· Consistently recognized for technical troubleshooting skills used to rapidly and cost-effectively resolve challenging technical issues.
+· Quickly learn and master new technology; equally successful in both team and self-directed 
+	
+
+
+	Technology Summary
+	
+
+
+
+
+	SAP Products
+	SAP ECC, SAP CRM, SAP BW,SAP SRM, SAP PI ,SAP EP and  SAP SCM.
+
+	Non SAP Tools
+	Batch job scheduler(Control M, UC-4 and Redwood),PBS (Object Archiving) and Ticketing tool(Service now, ITSC, and HP SM9).
+
+	Operating system
+	Windows NT, AIX , Linux and Unix
+
+	Database
+	MS SQL and Oracle
+
+
+
+	
+
+	IT Experience
+	
+
+
+	
+	
+	
+
+	Period 
+	Organization
+	Title
+
+	Mar 2017-till Now
+	Shivansh Solutions
+	SAP Basis Consultant
+
+	October 2012 –  Mar 2017
+	HCL Technologies (Noida)
+	SAP Basis Consultant
+
+	Aug 2010 – June 2012
+	IBM India Pvt. Ltd (Pune).
+	Application Architect
+
+	Mar 2010 to June 2010
+	Nityo Infotech (Mumbai)
+	SAP Basis Consultant
+
+	Nov 2008 to Jan 2010
+	Ganage Pressing Pvt Ltd.(Pune)
+	Officer IT
+
+
+
+24* Support Projects: Daily Health checks, handling Production and non-Production issues on regular basis, SAP SSO issues, system outages, Maintaining OSS connection and coordinated with SAP for reported issues, OSS notes implementation, IDOC, Queue Monitoring, PI XML message Monitoring, handle various Cutover activities, Providing technical support to external users (dealer and distributors) on regular basis. Weekly meeting with client manager and discussion about the ongoing issues, Analyzing Early watch report on weekly basis and proposed recommendations if required, Handle Planned and non-planned SAP system outages. Single/Multiple import of Transport Request on QA and PROD, Printing issues,
+
+ABAP and Java Monitoring: Analyze ABAP dumps, system logs, Batch jobs logs, Rfc logs, work load analysis,
+Traces, work process logs, Database logs, Java logs, nwa. 
+
+Installation: Solution manager(7.0 and 7.2), NetWeaver 740, EPH 7 for ECC 6.0,DAA Agent Installation, Standalone webdispatcher allowing HTTP/HTTPS URL to access PI system, Installation of B2B component on PI system, Built new dialog instance for load balancing.
+User Administration: Strong experience on ABAP and java user administration, troubleshooting issues related to users Creating OSS Users and Authorization, Portal Role assignment. Extensively worked on user information system, exposure on managing global users via central system.
+
+Performance Tuning: Adapt EWA report and tune system by setting up various memory parameter, Managing logon load balancing by installing new dialog server.
+
+Upgradation and Migration: SAP ERP 6.0 for EHP 5 to EHP 6 SP08 upgrade and  ECC 6.0 to ECC SPS 26 to ECC 6.0 EHP8.
+Homogenous and heterogeneous refresh for ECC, SRM and CRM.
+ABAP and Java Support Package installation\up gradation and kernel Upgrades.
+
+Exposure of Solution Manager 7.0 and 7.2: MOPZ configuration, Technical Monitoring, system monitoring, Patches and stack generation activity during upgrade, Solman key for system build, performed the initial configuration, basic configuration and managed system configuration steps for initial set ups.
+Archiving and Table reorganisation: Archiving of SD, MM and FI objects, Application log clean up and Archiving for XML messages, table reorganisation.   
+   
+      Configuration: Fiori configuration, SF configuration SSO, CUA, Japanese language installation on BW system, Success factor configuration for HR system, Applied Oss note implementation for Revenue Department in Thailand, SSL certificates renewal, PI alert configuration on error XML messages, ADS configuration.
+
+Projects and Responsibilities 
+	Company # 1 
+	Shivansh Solutions 
+
+	Client  
+	Petronah FZE , SKH Metals Gurgaon and Almaria Group of companies.
+
+	System Environment 
+	HPUX and DB2 9.1  
+
+	Duration 
+	06 Mar 2017 to till now 
+
+	Position 
+	SAP Basis Consultant 
+
+	Basis team size 
+	2 members 
+
+	Job responsibility 
+	Installation, Upgrade and Migration. 
+
+	SAP Product 
+	SAP ECC and Solution Manager 
+
+
+ 
+Responsibility: 
+EHP and SPS upgrade ECC 6.0 
+OS/DB Migration on HANA platform.
+Fiori configuration. 
+GST implementation and applied necessary note.
+Solution Manager 7.2 installation and initial configuration
+SAP ROUTER installation and configuration.
+DMS Server installation and configuration.
+Language pack installation and ADS configuration.
+Handling offshore basis team. 
+
+
+
+
+
+
+
+
+
+
+
+	Company # 2
+	HCL Technologies
+
+	Client  
+	Spansion LLC, AGILENT Technologies, ETIHAD Railways.
+
+	Duration 
+	Oct 2012 to Mar 2017 
+
+	Position 
+	SAP Basis Consultant 
+
+
+
+
+Projects and job responsibilities.
+	Client 
+	Agilent ASM Project
+
+
+
+	System Environment
+	AIX, Linux, Windows and Oracle 12.1.0.2.0
+OFFSHORE SAP BASIS CONSULTANT
+
+	Duration
+	Oct 2016 to Mar 2017 
+
+	Position
+	Offshore SAP Basis Consultant
+
+	Basis team size
+	6 members
+
+	Job responsibility
+	Maintenance and  24*7 support 
+
+	SAP Product
+	SAP ECC,CRM,SCM,BW,IDM ,SOLMAN, Red wood and open text.
+
+	Non SAP Product
+	HP SM9 for incident management.
+
+
+
+Agilent is a leader in life sciences, diagnostics and applied chemical markets. The company provides laboratories worldwide with instruments, services, consumables, applications and expertise, enabling customers to gain the insights they seek.
+
+        Daily Health checks,
+        Handling Production and non-Production system issues.
+        Troubleshooting issues related to SSO for Agilent users.
+        Performed all basis related activity as when it is required.
+        EWA report analysis.
+        Coordination with sys admin and dba about system issues.
+        Planned Maintenances activity.      
+        Providing Technical support to in house team, end users, external user. 
+        Weekly meeting with client manager and discussion about the ongoing issues.
+
+      
+	Client # 2
+	Spansion LLC
+
+	System environment
+	Windows NT & MS SQL
+
+	Position
+	Offshore SAP Basis Consultant
+
+	Project Duration
+	Oct 2012 – Oct 2016
+
+	Job responsibility
+	Maintenance, support and enhancements
+
+
+	SAP Product
+	SAP ECC,CRM,SRM,BW,PI,EP,
+
+	Non SAP Product
+	Control M , PBS, Service now.
+
+
+
+Spansion is a leading provider of the Flash memory technology at the heart of the world’s electronics systems.                                                                                                                                                                           Worldwide location: Japan, Germany, Israel, Malaysia and Sunnyvale US                                                                              
+       Solving Production-Non Production issues on regular basis.       
+       Daily Health Checks
+       Archiving of SD , MM and FI objects , Application log clean up and Archiving for XML messages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Success factor configuration for HR system.                                                                                                                                      Installation of SAP webdispatcher for providing external HTTP/HTTPS URL to access PI system.                                                                                 Worked on performance monitoring of different SAP severs. 
+       Renewal of SSL certificates for all the landscapes.                                                                                                                                                       PI Support activities and enhancements of B2B components as per recommendation from SAP.                                                                                       Providing technical support to external users (dealer and distributors) on regular basis.                                                                                                                                                         QA refresh for ECC, SRM and CRM by database specific tool.                                                                                                                                        DAA Agent Installation for all newly build QA system and connected with solution manager.   
+	Client #3
+	Etihad Rails Abu Dhabi UAE
+
+	Position
+	SAP Basis Consultant
+
+	SAP System specification
+	Windows NT & Oracle 11.2.0.2.0
+
+	Project
+	Upgrade SAP ECC 6.0 EHP1 to SAP ECC EHP 4 and System build
+
+	Role
+	Offshore SAP Basis Consultant.                                                                                                                           
+
+
+                                                                                                                                                                       
+Etihad Rail was established in June 2009 under Federal Law no. 2, with a mandate to manage the development, construction and operation of the UAE’s national freight and passenger railway network.                                                                          Worldwide location: Abu Dhabi UAE 
+       Responsibility 
+       System copy via Software Provisioning Manager 1.0 to build new DEV and included the system in transport domain controller and handover the newly build DEV to in-house support team for development.                                                                                                                                                                       Started upgrade in old development system by generating the Stack via Solution Manger through MOPZ of SAP ERP 6.0 EHP 5 to EHP 6 SP08 by using SAP latest tool SUM 10 SP07                                                                                                                                                                                  Disconnect QA environment from Transport Management system and performed upgrade to QA system and then connected with upgraded dev. system.                                                                                                                                                              Performed upgrade on mock system with similar hardware as in Production system to estimate the downtime and issues.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Production System upgrade with downtime of 48 hrs and Pre and Post Upgrade Activities.                                                                                                                                                         Go-Alive support for week.     
+
+	Company # 2
+	IBM India Pvt. Ltd,Pune
+
+	Client
+	John Deere
+
+	Duration
+	Aug 2010 – June 2012
+
+	Position
+	Offshore Basis Consultant
+
+	System Environment
+	AIX,linux and DB2
+
+	Team size 
+	8 members
+
+	Location
+	Pune 
+
+
+Responsibilities:                                                                                                                                                                                 Worked on Production and non-Production system issues.                                                                                                            Daily Health checks, Critical T-RFC administration monitoring.                                                                                                            Worked on Transports Management system.                                                                                                                                               IDOC, Queue Monitoring, PI XML message Monitoring through runtime workbench.                                                                                                                                                 Monitoring of A class job in UC4\SAP and reported issues to functional constants for any job failure or delay in the start of job for necessary actions.                                                                                                                                                                                                                                                                          Analysing Early watch report on weekly basis and proposed recommendations if required.                                                                                                                                                                                                                                                                             Handle CRB meetings and responsible for importing the transports into Production transports.                                                                              Documentation for all the transport requests that are planned for production system and placed in share net.                                                                                                                                                                            Responsible for SAP Note implementation and maintaining documentation and support messages.                                               Maintaining weekly report on the health check-ups for all servers and handover to client on weekly call.                                                                                                                                                                                                                                                                                                                     Weekly meeting with client manager and discussion about the ongoing issues.                                                                                                         Handled planned production system outages. 
+
+
+
+
+
+
+
+
+	Company # 3
+	Nityo Infotech
+
+	Duration
+	Mar 2010 to June 2010
+
+	Position
+	SAP BASIS Consultant
+
+	Project # 1
+	Implementation of Mahindra-Harmony Project(Mumbai) 
+
+
+	Team size
+	3
+
+
+
+Participated in SAP System build.
+System copy and client copy.
+Client administration.
+User creation and role assignment.
+Batch job Management.
+Transport Management system.
+Regular import of transports in QA and Prod.
+Applying OSS notes to resolve the bugs in SAP systems.
+Applying patches to update the system. 
+Regular backups.
+System tunings.
+Maintaining and creating RFC destination.
+Oss connection and coordinating with SAP on ongoing issues.
+
+
+	Company # 4
+	Ganage Pressing Pvt. Ltd.
+
+	Duration
+	Nov 2008 to Jan 2010
+
+	Position
+	Officer SAP Basis
+
+	Project 
+	Support maintenance and enhancements
+
+
+
+Basis point of contact.
+Support and assist functional and end user queries and issues.
+Backup administration, Regular maintenance of servers.
+User authorization issues, Job scheduling, Monitoring long running reports                                                                                                                                                                                                                                                                                               Performing/Health checks on all Production systems on a daily basis and maintained the monitoring sheet.                                                                                                                                                                          Transports related issues, Short dumps in systems, Lock entries.
+Issues related to printing, Batch job administration.
+
+
+                                                     Qualifications
+	Level
+	Subject
+	College / University
+
+	Masters / MBA
+	Masters in Marketing Management
+	Pune University
+
+	Degree
+	BCA
+	Jammu University
+
+	Diploma
+	12th.
+	Jammu Board
+
+
+
+
+
+Declaration:
+   I hereby declare that the above furnished details are true and correct to the best of my knowledge.
+                                                                                                                                      Gajinder

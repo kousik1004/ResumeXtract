@@ -1,0 +1,287 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+Uday Kumar Kanulla
+Gachibowli                                                                                 
+
+ Mobile No. +91-9966977240
+Hyderabad, 500081                                                                 
+
+ Email :udaykumarkaanulla@gmail.com                                                                                                   
+
+
+CAREER OBJECTIVE:
+Seeking a challenging career in an esteemed organization to put in my innovative ideas and hard work to the best use of the organization. 
+SUMMARY
+
+· A technology driven Professional with 2+ years of IT experience, around 24 months of experience as Azure admin\SQL DBA.
+· Experience in Microsoft Azure cloud platform on managing different components like Azure Data Factory (ADF), managing and monitoring pipelines, Application Insights, Logic App, Web App, Azure SQL databases, Azure SQL Data Warehouse, Azure Cosmos DB.
+
+· Knowledge on creating Azure Data factory, linked services, datasets, pipelines, Azure service fabric cluster from Azure portal.
+· Knowledge in creating web application and deploying it to azure web apps.
+
+· Adding certificates for a particular webapp or web service and worker roles in azure portal.
+
+· Troubleshooting production issues related to Azure and SQL.
+
+· Basic knowledge in Dot Net technologies like C#, ADO.NET  and ASP.NET
+
+· Knowledge in ASP.NET MVC architecture.
+
+· Knowledge in SQL 2008R2, 2012, 2014 and 2016 Administration.
+
+· Performing maintenance tasks in Databases like index rebuilding and reorganizing.
+
+· Ability to perform all common Database Administration (DBA) tasks like performing database backups and recovery, monitoring logs and hard disk consumption growth rate etc.
+
+· Knowledge in Store Procedures, Views, Indexes, Logins etc.
+
+· Creating new databases, files and file groups.
+
+· Experience on code reviewing, writing /debugging complex T-SQL Statements
+
+· Able to configure jobs for routine activities and troubleshooting them in case of failures.
+
+· Experience in supporting the production (24 x 7) environment and handling day to day issues.
+· Knowledge on creating a Windows virtual machine from Azure portal.
+EMPLOYEMENT HISTORY
+
+	Company Name
+	Designation
+	Employer Location
+	From
+	To
+
+	Tech Mahindra
+	Software Engineer
+	Hyderabad
+	27th Aug, 2015
+	Till Date
+
+
+	
+	
+
+
+PROFESSIONAL EXPERIENCE
+
+Organization: 
+Tech Mahindra
+
+Profile:                   Azure Administrator / SQL DBA                                           
+
+Client:                     Microsoft
+
+TeamSize:              10 members
+Duration:               Jan 2016 to till date
+Roles and Responsibilities:
+· Working 24x7 at L3 level of support which includes managing and troubleshooting different production issues/ Escalated issues from L2 support.
+
+· Working experience in different components that are hosted in Microsoft Azure environment including Azure Data Factory (ADF), Web App, Logic App, Azure SQL Databases, Azure SQL Datawarehouses, Storage accounts.
+
+· Automating processes like Scheduling Virtual Machine Shutdown/Startup, Truncate table in SQL DB, Backup Azure SQL Databases to Blob storage,  Azure SQL Database: Vertically Scale etc., by using runbooks from gallery
+· Monitoring all the ADFs and troubleshooting in case of any dataset failure and sending the status to higher level.
+
+· Deploying new changes in ADF’s pipelines through author and Deploy as per the code fix given by Engineering Team.
+· Experience in creating index rebuilding jobs for azure databases in production environment.
+
+· Creation of Logic apps in dev environment and storage account as per the requirement.
+
+· Monitoring the DTU of the Database and purging the data if required, and further monitoring by creating azure alerts to avoid the issues prior. Knowledge on DTU’s and EDTU’s.
+· Working knowledge on tools like Storage explorer and Cloud Berry.
+· Creation of Webapps, performing configuration changes and analyzing the logs to debug the issues. Knowledge on App service plans.
+· Monitoring all the AppInsight alerts and taking action accordingly.
+· Azure Active directory(AAD) management (Adding and creating users and groups, access delegation and assigning roles etc...), creating custom domains and new directories in azure portal.
+· Engaging Azure product support team and working with them in case of any issue in any Azure component.
+
+· Adding and removing the users and groups in azure for a particular subscription or for multiple subscriptions.
+
+· Azure SQL database export and import from azure portal to blobs.
+
+· Adding and removing firewall exception in azure portal for Azure SQL servers.
+· Working experience in creating login and granting access to specific objects in SQL azure db.
+
+· Resize Azure Resource Manager(ARM) VM OS and data disk using azure portal.
+· Taking backups and restoring in Dev, Test and Production environment as per request.
+
+· Ensuring all the DB backups are running fine and maintaining proper disk space for backups.
+
+· Regularly monitoring and identify blocking issues and open transactions and acting.
+
+· Checking the fragmentation level and rebuild/ reorganize the indexes as appropriate.
+
+· Monitoring all the jobs are running fine and ensuring data should not be stale in reports.
+
+· Checking if any query is taking long time and creating indexes as appropriate.
+
+· Creating SQL Server database objects (Tables, Views, Indexes, Logins) as per business requirement.
+· Troubleshooting the SQL jobs related to the applications.
+· Web site management and managing the bindings and creating the new websites and managing the authentication modes.
+· Creating different knowledge articles and publishing it to L2 support.
+
+SKILL SET
+	Cloud Platform
+	Microsoft Azure
+
+	Operating Systems
+	Windows XP, 7, 8, 8.1, 10.
+
+	Tools(Automation, Storage and other)
+	Cloud berry, Azure storage explorer, visual studio , Kusto Explorer,SSMS, Service Now, MS Office.
+
+	Languages and scripting 
+	C, C# ,JSON and Powershell basic commands
+
+	Domain Knowledge
+	SQL Database administration, .net, basic desktop administration. Azure.
+
+
+   AWARDS AND RECOGNITIONS
+· Certified in 70-533 on Implementing Microsoft Azure Infrastructure solutions. (registration id: 326548377)
+· Received appreciations from business for resolving the issues on time and meeting their expectations.
+
+  EDUCATIONAL QUALIFICATION
+	Degree
+
+Institution
+
+University
+      
+Duration
+
+% Marks
+B.Tech
+
+(ECE)
+NRI INSTITUTE OF TECHNOLOGY, Agiripalli.
+JNTUK
+   
+2011-15
+73.15
+10+2
+Sri Chaitanya Junior College, Vijayawada.
+Board of Intermediate Education
+2009-11
+
+90
+SSC
+
+S.F.S High School,
+
+Agiripalli.
+Board of Secondary Education
+2008-2009
+83.5
+
+	
+
+	
+	
+
+	
+	
+
+	  PERSONAL INFORMATION
+Name
+
+Date Of  Birth
+
+Nationality
+
+Linguistic Skills  
+Sex
+
+Marital Status
+
+Phone No.
+
+Uday Kumar Kanulla
+
+5th May 1993
+
+Indian
+
+English,Telugu & Hindi
+
+Male
+
+Single
+
+9966977240
+
+
+	
+
+	DECLARATION
+I hereby declare that the information furnished above is true to the best of my knowledge.                               
+
+Date:                                                                                                            Uday Kumar Kanulla
+
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+

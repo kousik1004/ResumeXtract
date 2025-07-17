@@ -1,0 +1,432 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ranjan Kumar Dubey
+[B-Tech 5.11 yrs. Of Experience in J2SE/J2EE ]
+
+Mobile
+:      +918496853040
+
+Email
+:       ranjan.javadeveloper7@gmail.com 
+
+Professional Summary:
+
+· An experienced programmer and software engineer with experience in development, testing and maintenance in domains like Application Development (Web Development) and Product Development using various technologies including J2SE and J2EE.
+
+· Possess excellent coding and debugging skills.
+
+· Proven ability to transform concepts into working and stable applications.
+
+· Highly motivated, excellent team player with problem solving and troubleshooting capabilities.
+
+· Quick Learner with tremendous interest in new technologies.
+
+· As a person, I am hard working and have the confidence to work under pressure and face challenges on my way. Capable to work as a key player in a challenging and creative environment.
+
+Career Path:
+
+	Name Of The Company
+	Designation
+	Period
+
+	Teamware Solutions
+	Senior Software Engineer
+	Sep 2015 – Till Date
+
+	YourSeoServices
+	Software Engineer
+	Aug 2013 – Sep 2015
+
+	    LanceSoft India Pvt Ltd.
+
+
+	Software Engineer
+	Nov 2011 –July 2013
+
+
+Training:
+
+· Undergone Certification in Java from Nov 2010 to Oct 2011 in Lara Technologies http://www.laratechnology.com/  in Bangalore 
+Technical Skills:
+
+Technical Skill Set:
+
+
+J2SE, Servlet, JSP. 
+
+Framework Knowledge:
+
+Hibernate
+Scripting Languages:
+
+
+HTML, JavaScript, Ext-JS, CSS.
+
+Build Tools:
+
+
+
+Apache Ant
+
+Version Control Servers:
+
+SVN, CVS
+
+Database:
+
+
+
+MySql, Oracle10g
+
+Operating System:
+
+
+Linux ,Windows XP
+
+Java IDE:
+
+
+
+Eclipse
+
+Web Server:
+
+                       Apache Tomcat.
+
+Application Server :                            JBOSS.
+
+Domain Knowledge:
+
+
+Core Java & J2EE.
+
+Project Experience:
+
+	Time Period
+	Project Title
+	Organization/Institution
+
+	Mar-2014 to
+
+Sep 2105
+Aug-2013 to
+
+Mar-2014
+
+Aug-2012 to
+
+July-2013
+
+July-2012 to
+
+Nov-2011
+
+
+	Intelligent Device Processing(IDP)
+
+Pimpra
+
+Total Environment Build System
+www.dandb.com
+	           YourSeoServices, Bangalore
+
+           YourSeoServices, Bangalore
+
+   LanceSoft India Pvt Ltd, Bangalore
+
+   LanceSoft India Pvt Ltd, Bangalore
+
+
+
+
+Project Description:
+
+#1
+
+
+Intelligent Device Provisioning
+
+
+
+Client
+
+
+ACT Network
+
+Tools
+
+            Eclipse, JSF, Prime faces , Hibernate, EJB, Java Script, CSS, MySQL, JBOSS.
+
+Team Size
+
+5
+
+Role
+
+
+Software Developer
+
+Responsibilities
+
+
+
+· Working as a team member to analyze the business and platform requirements.
+
+· Design and develop the technical solution for the project.
+
+· Involved in implementing the UI pages and action classes using JSF.
+
+· Involved in implementing database interaction using Hibernate.
+
+· Involved in Test plan development and Testing of module.
+
+Project Description
+
+ACT is a Triple play service provider. IDP is product developed to manage their network 
+devices (mainly switches). This involves 
+
+· Inventory of all the deployed switches
+
+· Store configuration of the switches
+
+· Hierarchy based, Location aware dynamic configuration
+
+· Scalable to add future devices
+
+· Multi-User 
+
+· The ACT network consists of various Fx and the Cx devices. The Cx devices are connected to a port of Fx device. The idea is to automate the Fx and Cx configuration so that once the device is attached on the live network; it works seamlessly without any further configuration requirement. From a use case perspective this setup of Cx will be dependent on Fx and should be done after the Cx device is pulled out of the Inventory.
+
+#2
+
+
+www.pimpra.com
+
+
+
+
+
+Client
+
+
+YourSeoServices
+
+Tools
+
+            Eclipse, JSP, Servlet, Java Script, MySQL, Tomcat6.0.
+
+Team Size
+
+8
+
+Role
+
+
+Software Developer
+
+Responsibilities
+
+
+
+· Worked as a team member to analyze the business requirements.
+
+· Design and develop the technical solution for the project.
+
+· Involved in implementing codes to interact with database by JDBC and developing the JSP pages.
+
+· Involved in Test plan development and Testing of module.
+
+Project Description
+
+· This project refers to Yellow Pages of businesses, categorized according to the product or service provided. The project comprises of design and development of the versions of an online business directory.
+
+· The directory will contain over 25 million business listings (part of an existing data set). All the listing has been categorized into different categories within particular cities and states. Anybody can search/get all the details about particular business listing. The search technique has been done by Apache solr to minimize the search. It is fully information side. 
+
+#3
+
+
+Total Environment Build System
+
+
+
+Client
+
+
+Total Environment
+
+Tools
+
+            Eclipse, Restful Web Services, Ext-Js, Jmetter, MySQL, Websphere.
+
+Team Size
+
+6
+
+Role
+
+
+Software Developer
+
+Responsibilities
+
+
+
+· Involved in implementing server side components using J2EE REST API.
+
+· Implemented  web GUI components for designer and admin interface using Extjs4 and html.
+
+· Involved in meetings to gather information and requirements from the clients and preparing the requirement document.
+
+· Developed Jmeter test cases for the enhancement done in the application.
+
+· Used JDBC to access database & stored procedures.
+
+Project Description
+
+· Total Environment Build System (TEBS) facilitates customization of homes using the eBuild service. eBuild software service offers full capacity of customization which includes home interior, spaces and layouts. eBuild customer interface is intuitive and offers 2D and 3D views of interiors. Using the eBuild system a customer can choose from a wide range of options such as layout, styles, colors and themes. It also provides instant information on costs and feasibility; customers can even compare between costs of various options and select the desired one.
+
+· eBuild solutions enables real estate players (architects, developers, contractors, interior designers) the ability to integrate with other market players and offer the end consumer complete personalization of their homes (apartments or villas).
+
+#4
+
+
+www.dandb.com
+
+
+
+                            
+Client
+
+
+Dun & Bradstreet, US.
+
+Tools
+
+
+ Eclipse, JSP, Servlet, Java Script, CSS,  MySQL, Tomcat5.5.
+
+Team Size
+
+8
+
+Role
+
+
+Software Developer
+
+Responsibilities
+
+
+
+· Worked as a team member to analyze the business requirements.
+
+· Involved in implementing server side components using Servlet.
+
+· Involved in implementing codes to interact with database using JDBC.
+
+· Involved in Test plan development and Testing of module.
+
+Project Description
+
+The project comprises of design and development of the versions of an online business directory.  The directory will contain over 25 million business listings (part of an existing data set) . All the listing has been categorized into different categories within particular cities and states. Anybody can search/get all the details about particular business listing. The search technique has been done by Apache solr to minimize the search. It is fully information side.
+
+Educational Background:
+
+· B-tech from KIIT University Bhubaneswar, with 68% marks 
+
+Extra Curricular Activities:
+
+· Coordinator of National level college IT fest and Cultural fest. 
+
+· Participated in the university cricket tournament. 
+
+· Participated/Organized in Personality Development Seminars in College. 
+
+Personal Info:
+
+Date of Birth:
+
+07-09-1986
+
+Present Address:
+C/O - Prakash R,
+
+
+
+
+Plot No 33, Ground floor,
+
+                                      16th main road, 15th cross,
+
+                                       BTM 2nd Stage,
+
+                                       Near Mico Layout Police Station,
+
+                                       Bangalore-560076
+
+Permanent Address     C/O-Shiva Shankar Dubey,
+                                       446, Chakeisihani, P/O- Rasulgarh
+                                       Bhubaneswar , 751010
+
+Language Known: 
+English(R-W-S), Hindi(R-W-S)
+Hobbies:
+             listening music, Playing Cricket, Carom & Browsing net
+
+The above information is true to best of my knowledge
+
+References: Can be provided on request.
+
+ Place :  Bangalore
+
+
+
+
+  
+ (Ranjan Kumar Dubey) 
+
+

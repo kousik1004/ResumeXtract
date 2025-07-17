@@ -1,0 +1,275 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+abhay
+
+
+Abhay Shankar Prasad
+Address
+: Flat No- 1741, Block- E, Galaxy North Avenue-2, Gaur City 2, Greater Noida (West), UP
+ 
+Mobile
+
+: +91- 9313365412 
+Email
+
+: asprasad.se@gmail.com                           
+Skype
+
+: sdg_abhay
+
+PROFESSIONAL PROFILE:
+
+More than 7 years of extensive experience in Analysis, Design, Development, Customization and Implementation of complex Software applications, Standards and Policies.
+· Around 3 years of experience in Sailpoint IDM and 1 year in Sun IDM
+· More than 2 years of experience in banking domain.
+
+· Proficient in analyzing and translating business requirements to technical solutions and architecture.
+· Involved in implementation and configuration of an automated build and deployment framework, configuration management, quality initiatives, process improvements, mentoring and team building.
+TECHNICAL SKILLS
+
+
+· IdentityIQ (Sailpoint IDM), BeanShell
+· SUN IDM
+· Java, JEE, JSF 2, PrimeFaces
+· REST WS, SOAP WS
+
+· Oracle, MySQL, AD, LDAP
+
+· Jboss, Tomcat
+
+· CVS, SVN, GIT
+
+ASSIGNMENT DETAILS:
+
+
+PROJECT 1:
+
+· Duration: Oct 2015 to Cont.…
+
+
+· Project : OneIDM Sailpoint Migration
+
+· Client : General Electric (GE) 
+· Role: Technical Lead
+Technical Environment: IdentityIQ6.2, RESTful WS, SOAP WS, JSF2, Primefaces, Oracle, AD, LDAP, JDK1.7, Netbean, Tomcat7, Jboss EAP6.1
+The migration project will allow the applications users to manage their identity and access management is to centralize and streamline the provisioning/de-provisioning process through GE Corporate & Energy Identity Manage system. It provides a central repository for storing and managing identify profiles, access privileges, GE Corporate identity solution will act as centralized solution for all applications integrated and managed across various GE businesses.
+
+Did migration of different types of applications that is used connector like AD, JDBC, Delimited, logical and custom connector.
+
+· Ensure requirements gathered, processes defined, and use cases documented follow out of the box configuration vs. customization as much as possible 
+
+· Participate in all SailPoint deployment activities - connector configuration, custom rule development, workflow configuration and development, third party system integration. 
+
+· Participate in and/or User Acceptance Testing and bug-related reengineering efforts 
+
+· Build and Configure SailPoint in-built tasks like aggregation, ID refresh, schedule tasks, correlation, etc. 
+· Develop custom form and connector for web service based applications.
+PROJECT 2:
+
+· Duration: Oct 2014 to Sept 2015
+
+
+· Project : OneIDM Sailpoint L3 Support
+
+· Client : General Electric (GE) 
+
+· Role: Technical Lead
+Technical Environment: IdentityIQ6.2, RESTful WS, SOAP WS, JSF2, Primefaces, Oracle, AD, LDAP, JDK1.7, Netbean, Tomcat7, Jboss EAP6.1
+· Started working as an Individual Contributor and worked on Bug fixes and Enhancements. Some important enhancements and bug fixes as below.
+
+1. Implement group (Distribution list, Network security group and B2B group) creation and management in LDAP.
+
+2. Did enhance one scheduler task where some application needs to update email id when leaver event occurred.
+
+3. Fixed some of bug of custom connector where issue was in provisioning of multiple roles/entitlements and aggregation.
+
+4. Identified and fix bug on JML process where bug was in Mover
+
+5. Fixed some of bug of logical applications, delimited applications
+
+6. Leaver issue fixed for many applications where de-provisioning got failed. 
+PROJECT 3:
+
+· Duration: March 2012 to Sept 2014
+
+
+· Project : Swiss eService
+
+· Role: Sr. Software Engineer
+
+Technical Environment: JAVA / J2EE, JSF2.1, Primefaces4, Web Services (REST), Unix, JBoss, Vignette portal, JSR-286 portle , Ajax, Netbean, SVN, PMD tool.
+This application provides an interface to credit card users to access their credit card account online. The SSO authenticated business users can do the following:- Register an account, Manage their profile, view transaction, account summary, view payments, view statements, enrolled for paperless statements, start paper statement etc. This pilot is integrated with SESB web services to interact with the legacy system. The application uses SSO and EAS two way authentication services to authenticate and authorize a user. The application has built-In multilingual support. Currently the application runs in three languages French, German and Italian.
+
+· Various new enhancements implemented like OTP in login process, SMS alert on transactions, new PIN code request and new pay slip request for different types of Cards.
+· My profile implementation for registered customer to update different types of target systems.
+
+· Client implementation for different types of web services. 
+
+· Interaction with client on enhancements, understanding their requirement, plan the development process and review project plans for technical deliverables.
+
+· Contributed to the definition of various quality and development processes and ensured that they are being followed by the team.
+
+PROJECT 4:
+
+· Duration: March 2011 to March2012
+
+
+· Project : NBCU Migration
+· Role: Software Engineer
+
+Technical Environment: Sun Identity Manager 8.1, XPRESS, JSP, JDK 1.6, Web services, Jboss4, XML, Java Script and AJAX, CSS.
+Description:
+NBCU Migration is project for managing workers, Mail resources, Mailbox, Groups/DLs of NBCU Business through IDM. It is also used for modifying worker in IDM and resource database account from admin user (user with administrative capabilities) or end user (simple user). It deals with the all temporary workers information. 
+
+Module: Black Berry Integration and group management for admin and end user.
+Roles & Responsibilities:
+· Client implementation to connect Blackberry server via web services.
+
+· Group management from admin and end user.
+
+· Created complete application document for support.
+
+· Customization of product to maintain constant look and feel throughout the application according to client standards
+
+· Documentation and Designing some of the Modules.
+
+PROJECT 5:
+
+· Company: SDG SIPL, Noida 
+
+· Duration: Jan 2011 to Mar 2011
+
+· Project : Work Order
+
+· Role: Software Engineer
+
+· Environment: JSP, JDK 1.5, XML, Java Script and AJAX, CSS.
+· Application server: Jboss4
+
+Description: 
+
+Client has many non-employees (ie. Contingent Workers or CW’s).  This CW population is tracked in CDI today and historically there have been loose controls surrounding this population which have resulted in inaccurate and insufficient data.  To address this we are proposing a new approval process for all work engagements where contingent workers will be used.  All contingent workers will need to be assigned to an approved work request (once launched any existing workers will need to be assigned as they come up for renewal).  We are also proposing enhancements to the process for contingent worker record creation.
+
+Roles & Responsibilities:
+
+· Print work request details in PDF format as dynamically.
+
+· The PDF should be allowed to be generated at any time in the work request process.
+· Documentation and Designing some of the Modules.
+PROJECT 6:
+
+· Company: SDG SIPL, Noida
+· Duration: Aug 10 – Jan 2011
+
+· Project: AHIS
+· Client: AHIS
+· Role: Software Engineer 
+
+· Environment: EGate 5.0.5,  JDK 1.2, XML
+Description: 
+
+AHIS is an application which is used to integrate different Health Ministries to a centralized System.  This application is used to access the information of a particular Health Ministry from a centralized location. Different Health Ministries have built their individual application on different platforms. There was no common platform available to access the information regarding them. Symphony is the centralized system which interacts to a Health Ministry through EAI layer. SeeBeyond EGate is used to integrate Health Ministries to Symphony.
+
+Roles & Responsibilities:
+
+· Performed requirement analysis and developed the transformation using EGate 5.0.5.
+
+·  Helped team members to understand EAI and Web Services concepts.
+
+· Performed Unit Testing and review of the Code.
+
+ACADEMIC QUALIFICATION:
+
+
+· MCA (2006-2009) from IGNOU Delhi 
+
+· BCA (2003-2006) from IGNOU Kolkata
+
+· A - Level from DOEACC Kolkata
+
+STRENGTH:
+
+· My willingness to learn and quick and effective decision making makes me suitable for corporate world.
+
+· Ability to work in a team.
+
+· Flexible to change condition.
+
+· Keen to learn new things.
+
+· Ability to work hard in a difficult work condition.         
+       
+
+PERSONAL PROFILE:
+
+· Date of Birth
+
+: 1st October 1983
+· Marital status
+
+: Married
+· Nationality
+
+
+: Indian
+
+· Languages known
+
+: English, Hindi, Bengali
+OTHER DETAILS:
+
+· PAN Number
+
+: AZVPP3337M
+
+· Passport Number
+
+: K2535072
+Employee-Personal
+
+

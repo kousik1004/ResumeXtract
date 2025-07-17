@@ -1,0 +1,199 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+karnakar REDDY
+
+
+Nagireddy                                             Mobile: 09966190793
+Consultant                                              Email: mnreddy539@gmail.com
+OBJECTIVE 
+
+To achieve and surpass professional and personal targets in the organization where I work and to demonstrate my inbuilt to attain the highest level of success by performing to the best of my abilities.
+Professional Summary
+· Around 3 years of experience as an SAP BASIS CONSULTANT and NETWEAVER Administrator.
+PROFESSIONAL EXPERTISE 
+
+· Worked in HCL as a BASIS CONSULTANT from Apr 2015 to Feb 2018.
+ACADEMIC
+
+· M.C.A from Osmania University, Hyderabad.
+TECHNICAL SKILLS
+
+ERP
+:  SAP R3 ECC 6.0, NetWeaver 7.0, 7.1, 7.3, 7.4.
+Database
+:  Oracle, DB2, HANA.
+Operating System
+:  Windows, LINUX, UNIX, AIX.
+ Worked Applications on the Project
+
+· SAP R3 ECC 6.0
+· NetWeaver 7.0 & 7.1 & 7.3 & 7.4
+· Solution Manager 7.1
+R/3 skills:-
+
+· Installation of SAP R/3 ECC 6.0 and Netweaver 7.4 on windows and Linux.
+
+· Performed post Installation activities
+
+· Monitoring of active users, work processes overview.
+
+· Managing Load balancing with multiple dialog instance
+
+· Starting and stopping the SAP systems.
+
+· User administration i.e. creating, deleting, Lock, Unlocking Users.
+
+· Creation of client and Creation of Logical systems, Performed local client copy, remote client copy, Client export and import.
+· Creation of RFC Connections.
+
+
+· Defined operation modes and defined timetable for operation modes and the same have been assigned to the instance profile.
+· Defining the background jobs and monitoring the background jobs and performing the housekeeping jobs.
+
+· Good Setting Up system Landscape: Configured Transport Management System, Creating the Transport Domain Controller, Include the System into the Domain, and Configuring the Transport Routes
+
+· Analysis of system short dumps and system logs
+
+· Performed Kernel patch upgrade. 
+
+· Apply Support Package & Notes: Prepare Pre-Request to Apply Support Package, Download Support Packages and Notes from SAP Services Market Place and Apply Support Package through SPAM and SUM tool
+· R/3 System Administration: Workload Analysis, Performance Tuning, Error Analysis, System landscape configuration, client copies / transport.
+
+· DBA tasks, Table space management, adding and resizing data files using BR Tools.
+· Performed DB Refresh.
+
+HANA:-
+· Performed Installation and Uninstallation of SAP HANA database systems and Live cache Applications (LCAPSS).
+· Adding SAP HANA System in SAP HANA Studio, Stopping and starting of sap HANA System.
+· Managing SAP HANA License, SAP HANA users and monitoring the system.
+
+· Performed SAP HANA database revision and Sub-Revision patch upgrade.
+
+· SAP HANA Client installation and upgrade.
+
+· Importing of delivery units in to the HANA Systems.
+
+· Performed DP Agent installation and upgrade.
+
+· Taking of HANA database backup’s and performed HANA database recovery.
+
+WEB AS JAVA Administration :-
+· Working   on Configtool& visual admin tool.
+
+· Configure the services using Configtool.
+
+· Adding Server Process Using Configtool.
+
+· Change The Passwords of Administrator and J2ee_admin Using Config Tool.
+
+· Applying Java support packages through SDM & JSPM.
+
+· Created JCO RFC connections between Portal systems and ABAP systems.
+
+PROJECT DETAILS
+
+Project #1
+             Organization
+    : HCL
+             Client
+               : Unilever
+             Duration
+               : Apr 2015 to Feb 2018          
+
+             Designation              : Consultant 
+CLIENT DESCRIPTION
+
+Unilever is an Anglo-Dutch multinational 
+
+HYPERLINK "https://isdmail.hcl.com/owa/redir.aspx?C=vr1TpHPhnLaQc4OvER8q81sWItN0FYxnSw-rXGmdZtpxvXrFcu7TCA..&URL=https%3a%2f%2fen.wikipedia.org%2fwiki%2fFast_moving_consumer_goods" \t "_blank"consumer goods company co-headquartered in Rotterdam, Netherlands, and London, United Kingdom. Its products include food, beverages, cleaning agents and personal care products. It is the world's third-largest consumer goods company measured by 2012 revenue, after Procter & Gamble and Nestlé. Unilever is the world's largest producer of food spreads, such as margarine. One of the oldest multinational companies, its products are available in around 190 countries. 
+
+Roles & Responsibilities: 
+
+· Monitoring the systems and take corrective action for good response time.     
+· Worked with STMS, performing transports, scheduled background jobs.
+
+· Analysis & Monitoring – System Logs, Background Jobs, ABAP/4 Dump Analysis, Work Process Overview, Lock Entries, Update Errors.
+
+· Downloading support packages, patches and sap Notes from SAP service market place.
+
+· Performed kernel patches level upgrade.
+
+· Performed SPAM/SAINT version upgrade.
+
+· Applying support Packages through SPAM/SAINT.
+
+· Setting up of Operation Modes & maintaining for a better performance of the systems.
+
+· Configuring logon load balancing.
+
+· Configured and maintained RFC connection between the systems.
+
+· Client Administration: Client creation and Performed local, remote, client Export and Import.   
+· Working with BR*TOOLS for DB related activities like, Backup, Restore and Recovery.
+
+· Table space administration like adding the data files.
+
+· Performing DBREFRESH Activity.
+
+· Applying support packages through SDM/JSPM.
+
+· Creating RFC connections using JCO RFC provider.
+
+· Working on visual admin tool and config tool.
+· Performed Installation and Uninstallation of SAP HANA database systems and Live cache Applications (LCAPSS).
+· Adding SAP HANA System in SAP HANA Studio, Stopping and starting of sap HANA System.
+· Managing SAP HANA License, SAP HANA users and monitoring the system.
+
+· Performed SAP HANA database revision and Sub-Revision patch upgrade.
+
+· SAP HANA Client installation and upgrade.
+
+· Importing of delivery units in to the HANA Systems.
+
+· Performed DP Agent installation and upgrade.
+
+· Taking of HANA database backup’s and performed HANA database recovery.
+

@@ -1,0 +1,267 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASHWINI RAMESHRAO BAWSKAR
+
+Shrikant Somwanshi
+
+Contact No: +91 9823588064
+Email: shrikantsomwanshi@gmail.com
+pROFILE
+· 35 Months of experience in SAP Business Objects (Implementation, Deployment, Administration, Migration, Authentication, Support internal projects and conducting relevant trainings). 
+· Hands-on on HANA.
+· A results-driven, customer-focused, articulate and analytical SAP BI/BO administrator with 3 years of experience in the area of SAP BusinessObjects Administration.
+
+· Currently associated with KPIT Technologies as Engineer.
+
+· Possess good interpersonal skills that have been put to good use in coordinating with Teams to provide solution to client.
+
+· Experience of handling SAP BI/BO production live environments along with the Test, DEV and UAT environments.
+
+· Team player with effective communication skill and proven abilities in resolving complex issues
+
+· Worked on Business Objects Technical consulting scenarios from various Clients.
+
+· Quick learner to master new technologies.
+
+· Overall experience of 7 years.
+
+EMPLOYMENT HISTORY
+
+IT Intellect Micro Solutions PVT LTD.  (Sep-2011 to till July-2013)
+Technical Support Engineer.
+
+Project : E-Governance
+Mphasis LTD.  (Aug-2013 to May 2014)
+Specializn Info Engineer 
+
+Project : E-Governance
+
+KPIT Technologies, Pune (Sep 2014 to Till date)
+
+SAP Business Objects EngiNEER – SAP Business Objects software
+Project: BOSAP
+Key Responsibilities:
+
+· Deliver Training on SAP BO/BI Platform and mentor new joiners to the Project.
+
+· Handle Implementation, Administration and Maintenance of BOE XI and SAP BI 4.0/4.1 deployments.
+
+· Provide Technical support for troubleshooting and fixing of BOE/BI issues.
+
+· Testing of SAP BO Bugs and Enhancements, Fix packs, Service Packs on Supported Platforms.
+
+· Setting up VMware Images including Windows 2003/2008/2008R2 and Redhat Linux server 5/6 with Service Packs.
+
+Technical Proficiency:
+
+	PRODUCT
+	VERSIONS
+
+	SAP Business Objects Platform suite (Enterprise, Edge and *IPS)
+	BOXI 3.1, BI 4.X
+
+	SAP Business Objects Client package
+	BOXI 3.1, BI 4.X
+
+	SAP Crystal reports Designer
+	2008 V1, 2011 and 2013
+
+	SAP Business Objects Explorer
+	BOXI 3.2, 4.X
+
+
+Implementation
+
+· Installation of SAP BO server for different requirements and environment types
+
+· Clustering Management Tier and Distributing Web tier/Processing tier against the management tier.
+
+· Deploying Web application to Web application servers using Wdeploy command line utility
+
+· Deploying and configuring the webparts to the supported MS SharePoint portal
+
+· Configuring SAP BO Iviews on SAP EP.
+
+· Setup Windows AD authentication and SSO for the BO
+
+· Configuring LCM-CTS plug-in with the BI Promotion Management.
+
+· Setup BW publisher service for Crystal reports
+
+· Configuring Tenants and tenant objects using Multi-tenancy manager (MMT)
+
+· Installing Client tools (BO client package, Dashboards, Live office).
+
+· Installation & Configuration of Application Servers  with BO(Tomcat, WebSphere, Weblogic) on Windows and UNIX platform.
+
+Migration
+
+· Migrating Business Objects contents from one environment to another using the following methods.
+
+· Import Wizard.
+
+· Promotion management (LCM)
+
+· Database Migration (Copy Data Source from CCM utility)
+
+· Migrating old versions of Business Objects XI R2/XI 3.1 to BI 4.0/4.1 using Upgrade management tool.
+
+· Importing Users, Groups, Reports and Rights from one environment to another.
+
+· Migration from Dev, UAT to Prod systems.
+
+Administration
+
+· Performing Server Management Tasks, using Central Configuration Manager (CCM) and Central Management Console (CMC).
+
+· Back and restoring the database and using different options like update datasource, copy datasource and reinitialize datasource
+
+· Create Publications for Enterprise and Dynamic recipients.
+
+· Assigning rights to objects (users, severs, applications) and building a security model using the features of XI 3.1 and 4.X Access levels, granular rights, and application specific rights.
+
+· Configuring middleware connection for the CMS repository and the Audit database.
+
+· Setup and manage Version Management system for the objects stored in the Enterprise repository.
+
+· Create SQL queries and run against the CMS database in Query Builder(AdminTools)
+
+· Complete Business Objects Server Administration.
+
+· Handling Performance issues and BI sizing.
+
+· Clustering between more than 2 BOE servers and Deploying Business objects product on Distributed environments.
+
+· Tomcat Clustering
+· Fair knowledge of WEBI designing. Working on testing and Maintenance of BO universes, Web Intelligence and Desktop Intelligence Reports 
+· Building reports on different databases and deploying CMS Database:
+AUTHENTICATION
+
+· Configured authentication/ Setting up LDAP, AD, SAP and NT authentication for Business Objects.
+· Configured trusted authentication.
+· Implementing SSO and manual with AD, LDAP and SAP authentication on all BO applications.
+· Configured manual and Kerberos SSO authentication in various production environment
+· HANA SSO authentication with BO.
+
+Troubleshooting:
+
+· Handling issues related to all types of SAP Business Objects Installation, Deployment, Clustering, Report view/refresh, Scheduling, Connectivity, Performance, Networking, Stability, Migration issues, Authentication, publication etc.
+· Active participation in Knowledge management by creating SAP KBA’s released to customers and internally. (SAP Notes)
+· Analysing Logs like BO logs, End to End traces, Fiddler, Wireshark etc
+· Analysing BI inspector tool report form different issues mainly performance issues.
+
+Trainings Conducted:
+
+· Conducted trainings in KPIT for Business Objects on BO administration and authentication for BOEXI 3.1 and BI 4.X and Multitenancy with 
+Design
+
+· Build Universe using IDT and UDT on RDBMS.
+
+· Design simple Web Intelligence Reports, Desktop Intelligence and Crystal reports.
+
+· Create Exploration Views and Infospaces on Explorer.
+Academic Qualifications
+· B.C.S (Bachelor of Computer Science) Dr. B.A.M. University Aurangabad (2004 Pass out)
+· H.S.C. Aurangabad Divisional Board (2001 Pass out)
+· S.S.C: Aurangabad Divisional Board (1998 Pass out)
+
+OTHER TECHNICAL KNOWLEDGE
+Familiar of Operating Systems:
+
+Windows server 2012 , Windows server 2008, Windows Server 2003, Different UNIX?LINUX operating systems like RHEL, AIX, SUSE Linux etc. 
+
+Software's Knowledge
+
+Ms Office, SQL, C, Adobe Photoshop, Basics of Java concepts
+
+Database:
+
+Microsoft SQL Server , MySQL, Oracle etc
+Other/Tools:  HTML, WebEx, SAP Netweaver integration with Business Objects.                                                 
+
+Languages Known:  English, Hindi, Marathi
+
+Interests and Hobbies:  travelling and exploring new places.
+Related Skills
+· Strong organizational skills. 
+· Expert in interpersonal, written, and verbal communication skills.
+· Effectively handles multiple tasks simultaneously.
+· Demonstrated ability to acquire and apply knowledge rapidly.
+· Independent; works with minimal supervision and contributes to a team.
+Personal Details
+Date of Birth
+
+:
+15th Mar 1983
+
+Marital Status
+
+:
+Married
+
+Passport No
+
+:
+
+
+Permanent Address
+
+:             “Shri Datta Niwas”, 86 New SBH Colony, 
+
+                                
+
+Shahanoorwadi, Aurangabad-431005, Dist-Aurangabad, 
+
+                             State-Maharashtra.
+
+Present Address
+:
+Flt no. 401, Swaroop Chandrangan- Shubh, Near Sinhgad Institutes, Ambegaon
+BK, PUNE-46 Maharashtra (India)
+
+E-mail 
+
+
+:
+shrikantsomwanshi@gmail.com

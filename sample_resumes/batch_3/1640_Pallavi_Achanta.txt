@@ -1,0 +1,427 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+
+Pallavi Achanta
+
+Mobile: +91 9701203733
+ Experience Summary
+· Overall IT Experience of 91 months (7+years) performing  Mainframe Developer, System Analyst& Test Analyst roles 
+
+· Strong understanding of Healthcare domain processes and good understanding of Member Enrollment process
+
+· Extensive knowledge in Requirement study, Analysis, Design, Development, Maintenance, Enhancement, Testing and Deployment.
+· Involved in Code reviews, Requirement Specification document reviews, System testing and UAT plan reviews to assure quality deliverables.
+
+Mainframe Development Experience:
+
+· Proficient in analyzing COBOL, COBOL-VSAM, COBOL-DB2 and CICS modules.
+
+· Designed and developed new programs using COBOL, COBOL-VSAM, COBOL-DB2, COBOL-MQ, COBOL-XML and CICS.
+
+· Designed and created new JCLs, PROCs and JCL using DB2 queries.
+
+· Re-designed Cobol/CICS/DB2 application using Dynamic SQL and CICS Containers.
+
+· Worked on new Test regions setup which includes Impact analysis, Load data into the new tables, creating VSAM files, enhance JCLs/ COBOL/CICS modules to support the new region, Scheduled batch trails etc. 
+
+· Hands on experience with Z/OS, ISPF, File-Aid, Xpeditor, Endevor, TWS OPC scheduler, QMF, SPUFI and IBM utilities.
+
+· Familiar with File transfers – FTP (File Transfer Protocol), SFTP (Secure File Transfer Protocol), CFT (Cross File Transfer).
+QA Experience
+
+· Working experience in Graphical User Interface (GUI) Testing & Mainframe batch process and Online (CICS) Testing.
+· Well-versed in Functional, Regression, Integration, UAT, Performance, Penetration & other NFR’s testing.
+
+· Worked in leadership position for various FAs (functional areas – like Test improvement, Test Productivity, Test Optimization, Design Test Co-ordination). 
+
+· Experience in Test Manager Activities like Test Planning, Test Strategy Formulation, Test Estimation, Effort Estimation, and Test Retrospection & Closure.
+· Developed tools using REXX to automate testing activities on the mainframe
+· Created full proof unit test plan, prepared data setup for the unit test cases and performed unit testing, provided System testing support and UAT support.
+
+· Handled Production deployments and provided Warranty support. 
+
+· Analyzed the job log and resolved ABENDs in both Test and Production regions.
+
+· Worked as Release Lead and involved in transferring knowledge and grooming new team members.
+
+· Good at analytical, technical and interpersonal skills.
+
+Education and Certifications
+
+	Degree and Date
+	Institute
+	Major and Specialization
+
+	B.Tech, April 2009
+	ADAMEC JNTU-H
+	Electronics & Communication Engineering
+
+	BIE, April 2005
+	Board of Intermediate Education , AP
+	Math, Physics & Chemistry
+
+	SSC, May 2003
+	Board of Secondary School Education, AP
+	SSC 
+
+
+TECHNICAL SKILLS: 
+Operating Systems
+: OS/390 V2R10, Z/OS, Windows. 
+
+ Programming Languages
+: COBOL, CICS, JCL, SAS, REXX
+
+ Databases
+
+: DB2 and VSAM
+
+ Scripting Languages  
+: XML 
+
+ Other utilities                  : MQ series, Endevor, File-Aid, Abend-aid, SPUFI, QMF, Xpeditor,ChangeMan.
+	Relevant Project Experience
+
+
+CLIENT DESCRIPTION
+NextEra Energy, Inc. is a publicly traded electricity generation, transmission, and Distribution Company headquartered in Juno Beach, Florida. NEE employs about 15,000 and operates 43,000 megawatts (MW) of generating capacity in 28 US states and three Canadian provinces. The company had 2010 revenues of $15.3 billion and net income of $2.0 billion. NEE is listed as #161 in the 2011 Fortune 200. NEE have three subsidiaries: NextEra Energy Resources (NER), Florida Power &Light (FPL), and FPL Fibernet. FPL delivers rate-regulated electricity to 4.5 million customers in Florida and is the US's third largest utility company. FPL is the largest of the three subsidiaries that NextEra Energy Inc. owns today. Florida Power & Light Company, the principal subsidiary of NextEra Energy Inc. (formerly FPL Group, Inc.), commonly referred to by its initials, FPL, is a Juno Beach, Florida-based power utility which serves roughly 4.4 million customers in Florida. FPL Group holds power generation assets in more than 20 U.S. states.
+
+
+
+
+
+
+
+
+
+Main Frame Tech Lead
+Client: Florida Power and Light
+
+
+
+
+March 2017– Till date
+Environment: Z/OS Mainframes
+Programming languages: COBOL, DB2, JCL, CFT, CICS, VSAM
+Project:
+CIS Billing serves as the primary application for utilization based billing and bill printing applicationswhere electric bills are generatedfor the customers periodically based on billing cycle.
+
+Responsibilities:
+· Analysis and Understanding the requirements & functional specifications.
+
+· Preparation of TS (Technical Specifications) based on the existing functionality and requirements.
+
+· Created detailed technical design specification for enhancing the batch programs, care was taken to re-use most of the existing components/modules.
+
+· Knowledge Transfer to the offshore team with business functionality and the new requirements.
+
+· Development of the new batch programs using COBOL, CICS, DB2, JCL, REXX and VSAM.
+
+· Involved in preparing test plans for Independent Unit testing and System testing.
+
+· Impact analysis for requirement changes, finding affected list of programs and homogeneous implementation.
+
+· Setting up Process to be followed from Offshore.
+
+· Perform Peer review and log any issues and track till it is closed.
+
+· Status Reporting and Responsible for the final delivery.
+
+CLIENT DESCRIPTION
+United Healthcare, along with sister company Uniprise, Inc., and serves more than 18 million individual customers around the world. They provide access to high quality care from more than 470,000 physicians and 4,500 hospitals across all 50 states and in four international markets. United Health Care (UHC) Inc. is one of the leaders of health care in dental, pharmacy, group life, disability, and long-term care insurance and employee benefits. The company also serves individuals and Medicare beneficiaries in certain markets. UHC is a diversified health and well-being company that provides broad spectrum of products and services. 
+
+
+Senior Developer/Analyst
+Client: United Healthcare
+Jan 2016 – March 2017
+
+Environment: Z/OS Mainframes
+Programming languages: COBOL, DB2, JCL, MQ, XML, CFT, CICS, VSAM
+Project:
+This project is part of the larger CSG Eligibility Program, which will ultimately sunset HC3 FACETS in lieu of new capabilities built into CDB, EEMS, BOSS and the Optum Clinical Rules Service. The project will enhance current functionality where ICUE consumes data from BOSS via real-time web services and enhance the existing process to allow for the migration of clients to the strategic solution. This will allow BOSS / ICUE system integration required to remove ICUE as a consumer of HC3 FACETS data. ICUE will use these systems in parallel while the business enables populations in BOSS. 
+
+Responsibilities:
+
+· Impact analysis. 
+
+· Parallel Load the data into new tables using JCL-DB2.
+
+· Enhanced JCLs/ COBOL/CICS modules to support new test regions.
+
+· Foundation view programs setup for the new test region.
+
+· Scheduled batch trials in new test region through OPC.
+
+· Performed unit testing for the enhanced modules and unit tested the online functionalities.
+
+· Involved in running the batch trials to test the new region setup.
+
+· Abend resolution and job restart.
+
+· Created new COBOL DB2 modules to generate a complex report for BOSS rules engine and also the module will update/delete the data in existing CORE DB2 tables based on the criteria.
+
+· Developed JCLs using catalogued PROCs
+
+· Worked on CFT(Cross File Transfer) process to send the report.
+
+· Performed unit testing, supported system testing and UAT phases, deployed to Production and provided Warranty support.
+
+· Performed code reviews for the code developed by the team.
+
+· Mentored the team members.
+· Have worked on DTRs to enhance performance of the existing processes.
+
+· Worked on Problem tickets for critical functional processes and successfully delivered in short span of time.
+
+
+
+
+
+
+
+
+
+Senior Developer
+Client: United Healthcare
+
+
+
+
+
+
+Feb 2015–Dec 2015
+Environment: Z/OS Mainframes``
+
+Programming languages: JCL, COBOL, DB2, CICS
+
+Project:  Consumer Database (CDB) is a centralized repository of consumer’s information residing across 13 eligibilitysystems which were acquired by UHG over several years and hence possess eligibility information pertaining to several million consumers. Handled Q1, Q2, Q3, Q4’15 and Q1’16 related projects and majorly involves
+
+· New Test regions Setup – Bravo and Charlie regions
+
+· Create a new report to BOSS rules engine by processing set of rules for the membership having Medical, Pharmacy and Behavioral coverage’s
+
+· Medicare Secondary and Primary (MSP) – Query extract
+· Work package – PHS migration
+
+Responsibilities:
+
+· Impact analysis. 
+
+· Parallel Load the data into new tables using JCL-DB2.
+
+· Enhanced JCLs/ COBOL/CICS modules to support new test regions.
+
+· Foundation view programs setup for the new test region.
+
+· Scheduled batch trials in new test region through OPC.
+
+· Performed unit testing for the enhanced modules and unit tested the online functionalities.
+
+· Involved in running the batch trials to test the new region setup.
+
+· Abend resolution and job restart.
+
+· Created new COBOL DB2 modules to generate a complex report for BOSS rules engine and also the module will update/delete the data in existing CORE DB2 tables based on the criteria.
+
+· Developed JCLs using catalogued PROCs
+
+· Worked on CFT(Cross File Transfer) process to send the report.
+
+· Performed unit testing, supported system testing and UAT phases, deployed to Production and provided Warranty support.
+
+· Performed code reviews for the code developed by the team.
+
+· Mentored the team members.
+
+
+
+
+
+Developer
+Client: United Healthcare
+
+
+Feb2014 to Jan 2015
+Environment: Z/OS Mainframes
+
+Programming languages: COBOL, DB2
+
+Project: The Network Database (NDB) is a strategic platform for United Health Care (UHC) for managing
+
+Provider information and physician reimbursement. NDB was converted from the ElectronicProvider Data system in November 2002 and over the years, functionality has been enhanced inNDB to support more robust pricing logic, broader provider management utilization across multiple claim platforms and provider search functions for various domains Core processes. Business Areas supported by NDB are Commercial Networks, Medicare &Retirement, Community & State Networks and Alliance Networks.
+
+Responsibilities:
+
+· Analyzed the existing process to add new Search options.
+
+· Developed new programs to apply the new search criteria on the existing Provider Data Base.
+· Worked on a COBOL-DB2 programs which involves Stored procedures for effective search processes.
+
+· Developed JCLs using catalogued PROCs
+· Scheduled batch trials in new test region through OPC.
+· Involved in documenting the entire technical process.
+
+· Unit tested the changes and also regression testing of the existing plans.
+
+· Supported system testing and UAT phases, deployed to Production and provided Warranty support.
+
+· Performed code reviews for the code developed by the team.
+
+· Mentored the team members.
+
+
+
+
+
+Developer
+Client: United Healthcare
+
+
+Jan 2013 to Feb 2014
+Environment: Z/OS Mainframes
+
+Programming languages: COBOL, DB2, CICS
+
+Project: As a part of UHG major Eligibility system “CES Sunset”, functionalities of CES should be migrated to CDB (Consumer Database). CDB GUI (CDB Graphical User Interface) online projectisabout building the process to replace the CES CICS based transaction to Rich Internet Application with Flex front-end. Java Distributed end which connects front-end Flex and back-end Mainframe.
+
+Responsibilities:
+
+· Analysis of the existing functionality.
+
+· Gathering requirements.
+
+· Developed new online COBOL-DB2 programs to update/inquire tables.
+
+· Worked on new COBOL-DB2 modules to log historical transactions of the eligibility data.
+
+· Worked on programs which handle CICS Channels and Containers.
+
+· Took complete ownership on DEMOGRAPHIC, HEALTH COVERAGE, HEALTH SERVICES, PCP update modules.
+
+· Worked on enhancing the online existing modules to update FAMILY LAST SEQUENCE NUMBER table
+
+· Unit tested the functionality of the modules using GUI (Graphical user interface).
+
+· Supported System testing, UAT and Production deployments and provided Warranty support. 
+
+
+
+
+
+Developer
+Client: United Healthcare
+
+
+Oct 2011 to Dec 2012
+
+Environment: Z/OS Mainframes
+
+Programming languages: JCL, COBOL, VSAM, MQ, XML, CFT
+
+Project: Consolidated Eligibility Systems (CES) contains Membership Eligibility data in form of File system files. As part of CES, Worked on the following major projects.
+
+· SAL decommission and creation of new ELGS feed 
+
+· PCP auto-randomization process.
+
+Responsibilities:
+
+· Decommissioned the existing jobs to SAL.
+
+· Analyzed the existing SAL feed to support the Data stage team to create dthe similar feed from Data stage.
+
+· Created new program to call the foundation view to get the HIPAA Indicator and Customer Service Phone Number and add these fields to the file received from Data stage. This output data file is later converted the into XML format for ELGS feed.
+
+· Handled the program to create different kinds of XML based on the input data.
+
+· Worked on CFT process to transfer the XML file to ELGS.
+
+· Worked on COBOL-MQ program for PCP Auto Randomization process.
+
+· The PCP Auto Randomization process was implemented in TEST, UAT, PSEUDO PRODUCTION and PRODUCTION regions.
+
+· Performed unit testing and supported System testing UAT and Production deployments and provided Warranty support.
+
+
+
+
+Quality Analyst
+Client: United Healthcare
+
+
+Mar 2010 to Sep 2011
+Environment: Z/OS Mainframes
+
+Programming languages: JCL, VSAM, MQ
+
+Project:Consumer Data Base(QA role). As a part of UHG major Eligibility system “CES Sunset”, functionalities of CES have been migrated to CDB. Few of such functionalities are Structure Extract (batch), Membership NRT and Batch Processes.
+Responsibilities:
+
+· Review Functional Description and Design Documents
+
+· Attending the Spec Walkthroughs provided by System Analyst
+
+· Create estimates for the releases
+
+· Scheduling the Test Design Walkthrough with BAs and Client teams
+
+· Provided end-to-end to support to complete testing as per milestone
+
+· Taken care of artifact’s submissions in ADR2 to make deployment ready
+
+· Performed Root-Cause Analysis for Defects leaked
+
+	
+	
+	
+
+
+

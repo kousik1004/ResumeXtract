@@ -1,0 +1,322 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nirmala Gattu
+Email id :nirmalagattu@yahoo.com
+Moblie no: +919731444199
+
+
+
+OBJECTIVE :
+
+To be associated with a progressive organization so as to enhance my knowledge and sharpen my skills and progress through my contributions that would add both high economic as well as social value to the organization.  
+
+PROFESSIONAL SUMMARY:
+· Total Work Experience of around 8 + years in supporting of Infrastructure management services in sectors Banking, Finance and Telecom and in Hadoop  Development and Data Analyst for Enterprise applications.
+· Total 6+ years of experience in IT support for huge Datacenter Operations, worked as a Senior IMS-Engineer at Mind Tree Ltd. From May 2010 to Feb 2017, Bangalore.
+· 1 year and 3 months Worked as a Technical Support Executive in HCL Technologies, Chennai, From Dec 2008 to March 2010.
+· 9 months Worked as a Process Executive with Infosys LTD, Bangalore, From Feb 2008 to Nov 2008.
+· Experience as an Hadoop Analyst and Developer for large-scale data warehouse applications.
+· Created Hive tables, loading and analyzing data using hive queries
+· Hands on experience in analyzing Log files for Hadoop and eco system services and finding root cause.
+· Experience in importing and exporting the data using Sqoop from HDFS to Relational Database systems Mysql and vice-versa.
+· 3 Years Experience as an Big Data support and Development.
+· Experience in handling large dataset.
+
+SKILL SUMMARY:
+Big Data Technologies	             - Sqoop, HDFS, Kafka
+Big Data Tools			- Hadoop User Experience (HUE), Eclipse IDE 
+Database			- Oracle(10g, 11g),Mysql
+Ticket tracking tool                      - Remedy 5.0.1,Service Now, Service Desk Express 
+Operating System		-LINUX ,UNIX, WINDOWS, Ubuntu
+NO SQL Database                      -Cassandra
+
+DETAILED WORK EXPERIENCE:
+	Project Name
+	European Client
+
+	Company Name
+	Mind Tree Ltd.
+
+	Team Size
+	8
+
+	Role
+	Senior IMS Engineer
+
+	Description
+	Our team involves in ingesting, Processing and provisioning large-scale data from various systems to downstream consumers for analyzing and report generation on daily basis.
+Data from different sources was ingested into HDFS using Sqoop. Spark was used to process the data in real time and generate adhoc reports quickly for end users.
+
+	Technologies Used
+	HDFS, Hive, Sqoop and spark
+
+	Technical Experience in Project
+	· Involved in Design and Development of technical specifications using Hadoop technology
+· Worked extensively with Sqoop for importing data from RDBMS into HDFS and Hive.
+· Created external tables in Hive.
+· Wrote Sqoop scripts to import the data to HIVE in incremental fashion
+· Created hive partitions based on requirements.
+· Monitored and validated the data coming from RDBMS to HIVE.
+· Developed Oozie Workflows for daily incremental loads, which gets data from RDBMS and then imported into hive tables.
+· writing spark programs in Scala as per the business requirement
+
+
+	Role in Project
+	Part of Technical Solution Providing Team.
+Discussing Requirements with Solution Architect and performing analysis and working on solution concept.
+Part of Development team:
+Part of Design & Tuning Team
+
+
+
+
+	Project :
+	European client
+
+	Company Name
+	Mind Tree Ltd.
+
+	Team Size
+	6
+
+	Role
+	Senior IMS Engineer as Oracle DBA and Application support Senior IMS-Engineer
+
+	Description
+	It’s a European client which provides the information technology solutions in the field of human resources and payroll services in the Netherlands. It provides Client specific Online services, a Software as a Service solution, which includes varies modules or components, Each component is exhibits as a different application as a front end and the data processed is stored in the Oracle  and SQL databases.
+
+	Technologies Used
+	Web based ticketing tool, SDE for ticketing & HPDP for backup
+Connect to Oracle on Linux and UNIX servers   
+Windows servers, Linux and UNIX servers login
+Tools familiar with: Micro focus, Workload Automation Desktop client, Service Desk Express and Internal tools 
+
+	Technical Experience in Project
+	Understand the application specific requirements from the existing Onsite teams. Participation in Technical and business discussions with the existing Onsite, Study about the Entire System and Environments.
+· Deployment of new software’s to the existing environment and making sure of all the Client’s Applications are up and accessible normally to the users. 
+· Support  for Application performance and make Applications available to customers
+· To resolve more complex, less defined issues. Able to work & identify scope of issues and recommend best practices to prevent further occurrences.
+· Monitored the production Oracle alert logs for database errors and system resource availability and responded to system memory and data issues.
+· Checking for performance issue related to Oracle Database, to check the alert logs and Database availability, executing the scripts during the Production Deployments.
+· Work experience in deploying the software Release packages on Monthly basis for both Acceptance and Production Environments.
+· Co-ordination with testing Team while performing the Load testing. Timely Analysis and monitoring of Application performance and status through the monitoring tools.
+· Preparing the in detailed performance and Analysis report for the Applications on which the Load testing been performed. 
+· Experience on Backup and recovery concepts.
+· Performing the Database backup manually and analyzing the Scripts and executing the scripts with regards to the Data fixes. 
+
+	Milestones Achieved
+	· Knowledge Acquisition from onsite team and KT to offshore team with regards to managing the Client’s Applications. Travelled to Netherlands and worked with onsite team during the transition phase of the project. Acquired the Knowledge from the onsite teams and provide the knowledge transition to the offshore teams.
+
+	Role in Project
+	Part of Technical Solution Providing Team.
+Discussing Requirements with Solution for the Major performance issues
+Part of Weekly meetings
+
+
+
+	Project :
+	European client
+
+	Company Name
+	Mind Tree Ltd.
+
+	Team Size
+	6
+
+	Role
+	Junior IMS Engineer as NOC Engineer
+
+	Description
+	KPN is an ICT service company, founded in 1887, Amsterdam, Netherlands. It provides the services in sectors - Workspace, Applications, Unified Communications, Data Centre, Cloud, Professional Services, Managed Services, Security
+
+	Technologies Used
+	Web based Service ticketing tool, SDE for ticketing & HPDP for backup
+Connect to Windows servers, Linux and UNIX servers login
+Clients specific Internal tools 
+
+	Technical Experience in Project
+	· Experience on taking daily Backup Reports.
+· Monitoring the OEM as per the locations specific.
+· Proactively involved in Daily checks Reports & providing permanent resolution on daily executable failed Job‘s.
+· Hands on Table space, Archive destination full & backup issues.
+· Handling alerts popped-up in OEM and Monitoring tools.
+· Resolving the Instance down issues, Agent unreachable issues.
+· Coordinating with Onshore Engineers on high priority issues.
+· Handling Level -1 task.
+· Immediate actions taken towards P1 calls in parallel handling all the Medium, Complex issues and the Low priority calls. 
+· Keen monitoring of Mail box, Grid Controls (as per the customer specific  location -South & North) in parallel working on to resolve the alerts based on the Criticality, warning and normal criteria’s.
+· Always tried to resolve the incidents and changes as per the response and resolution time lines. 
+· Suggested queries for broker reduction to problem management Team.
+· Preparing weekly reports.
+· First, to accept the alerts or calls or request  mails related to:
+Table space issues, Disk space Critical, Backup issues and
+DB - down/unknown status/failed to connect issues - worked/escalated or Resolved   accordingly & immediately.
+· Experience on Database Reload activities.
+· Taking care of Agent unreachable issues and Making sure the alerts in Grid are disappeared.
+· Taking care and responsible for the Daily proactive Report.
+· Preparing the weekly PPT with regards to the ticket handling, team performance, High and low lights of team, number of high critical issues Resolved within the SLA , new issues recorded and resolutions provided to it.
+· Preparation of in detailed ticket analysis reported on daily basis.
+
+	Milestones Achieved
+	· Knowledge Acquisition from onsite team and KT to offshore team with regards to managing the Client’s Applications. Acquired the Knowledge from the onsite teams and provide the knowledge transition to the offshore teams.
+
+	Role in Project
+	Part of Technical Solution Providing Team.
+Discussing Requirements with Solution for the Major performance issues
+Part of Weekly meetings
+
+
+
+
+	Project Name:
+	Phoenix
+
+	Company Name
+	HCL Technologies Ltd.
+
+	Team Size
+	18
+
+	Role
+	Technical Support Officer
+
+	Description
+	US customer 
+AT&T is the world's largest telecommunications company. AT&T is also the second largest provider of mobile telephone services and the largest provider of fixed telephone services, Broadband connections and famous for Internet services in the United States.
+
+	Technologies Used
+	Client specific ticketing tool, CRM 
+
+	Experience in Project
+	· Assisting in registration process of an internet account.
+· Assisting the customer with regards to modem, Internet installing and internet connection issues.
+· Providing support related to the wireless and wired router issues.
+· Configuration Knowledge on the routers such as Netgear, Linksys, 2 Wire, Belkin, and D link.
+· Helping the customer in setting up the e-mail client i.e. Outlook Express, MS Outlook.
+· Knowledge in operating systems like Windows XP, Windows Vista, and Windows7.
+· Supporting Wireless and Wired Internet issues.
+· Supporting system issues.
+· Anti-virus software Download.
+Additional responsibilities
+· Helped the TL in generating the daily, weekly and monthly reports. 
+· Assisted the TL in training and mentoring new trainees regarding the product and process.
+· Managing the daily activities such as 
+· daily reports,
+· arranging weekly meeting, 
+· preparing the MOM’s, 
+· taking care of leave trackers, 
+· Monthly trainings
+· Analysis on customer’s survey for the Employees.
+· Preparing the customer’s survey weekly report.
+Won some Goodies from clients for parameter FCR (First call resolution).
+
+	Operating System
+	File sharing in Windows XP, Vista, and Windows7
+
+
+
+
+
+
+
+	Project Name:
+	British Telecom
+
+	Company Name
+	Infosys Technologies Ltd.
+
+	Team Size
+	12
+
+	Role
+	Process executive
+
+	Description
+	British Telecommunications is a British multinational telecommunications services company with head offices in London, United Kingdom.
+        Customers give orders for telecommunications lines in BT, which will be captured in Oracle RDBMS DB. Order related tables and asset tables are updated daily. A customer specific frontend  application was been developed using which the executives takes in the requests from the customers and the details are been updated when the customers called in for services requests to BT.
+
+
+	Technologies Used
+	Client specific ticketing tool, CRM 
+
+	Experience in Project
+	Confirmation of Technical information from the customer.
+· Handling calls and sending mails to customers regarding confirmation of Technical billing details.
+· Providing and suggesting the timely updates on the bill plans.
+
+
+	Operating System
+	Windows XP, Vista, and Windows7
+
+
+
+
+
+
+CERTIFICATIONS:
+· ITIL V3
+· Structured Query Language (SQL)  Certified  
+· Oracle Certified Associate (OCA) Certified  
+
+
+SPECIAL ACHIVEMENTS:
+· Handled the Escalation call and got the Appreciation Award at HCL Technologies in Feb 2010
+· Awarded with "Pat on the Back" for Team Mentoring and handling the process at MindTree in Dec 2011
+
+EDUCATION : 
+· B.E in Information science & Engineering from VTU Belgaum KA
+
+
+MY STRENGHTS
+· Can manage Application and Oracle database.
+· Quick learner and excellent team player and ability to meet tight deadlines 
+· Ability to manage situations & relationships at all levels and a Good team player.
+· Self motivated with a strong work ethic.
+· Multi-tasking, high energy levels & Flexible at work.

@@ -1,0 +1,161 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+Thamaskumar Selvaraj
+2/382, BHARATHIYAR STREET,
+SANTHOSAPURAM,
+CHENNAI- 600073
++91 - 9578187312
+thamaskumar@gmail.com
+Summary
+Associate - 5 years of IT experience, programming of web based application in Java/J2EE technologies, and hands on experience in Access Management projects development and deployment using Forgerock OpenAM tool and Ansible automation script.
+Good verbal and written communication skills compliment a proven ability to multi-task, maintain an organized approach, and ensure success - even when faced with high-pressure or high-risk situations.
+Experience Summary
+· Excellent knowledge in JAVA.
+· Hands on experience in Development and Testing of web based application in Java/J2EE technologies (J2EE, JavaScript, JQuery, HTML and CSS).
+· Hands on experience on Relational Database Management, SQL and PL/SQL.
+· Good knowledge on web based application framework, Struts2, Hibernate and Spring Framework.
+· Good working knowledge on REST (JAX-RS) services.
+· Good knowledge on Access Management product Forgerock OpenAM,
+· Having knowledge in different Security SSO protocols, SAML 2.0 and Oauth.
+· Working knowledge on AWS cloud technologies, managing instances and automate the deployment with ansible. 
+· Hands on experience with Jasper tool for report generation
+· Proficient in understanding the business process, involved in development projects.
+· Team and Independent player with excellent Organizational and interpersonal skills.
+· 1 month onsite experience to client location (Malaysia) for a critical fix.
+Professional Skills
+February 2016 - PRESENT
+Cognizant Technology, Chennai - Associate
+May 2014 - February 2016
+Changepond Technologies, Chennai - Software Engineer
+November 2012 - May 2014
+Pantech Solutions Pvt Ltd, Chennai - Project Engineer
+Technical Skills
+Programming Language
+· Core Java, Java/J2EE, SQL
+Web Programming
+· Struts 2, Hibernate 3.0, JSP, HTML and CSS
+Scripting Language
+· JavaScript, JQuery and Ansible
+Databases
+· MySQL and MS SQL Server 2008
+Server
+· Apache Tomcat
+Products
+· Forgerock OpenAM, OpenDJ.
+Project Details
+Project #1
+Project Name: 	IdAM Operations
+Client	: 	Leading Educational service provider
+Duration: 	Jun 2016 - till date
+Technologies: 	OpenAM, OpenDJ, AWS Cloud, JIRA, Git and Ansible
+Description:
+It has an existing custom single sign-on (“SSO”) solution consisting of an open source Central Authentication Service (“CAS”) service.  It is looking to replace this existing solution with the ForgeRock Open Identity Stack. 
+A key component in this initiative is a product that provides Web-based single sign-on (“WSSO”) services for their users and components.  A WSSO solution provides both the authentication and authorization services necessary for a client component to determine whether a user has successfully authenticated into their environment and if so, what permissions they may have within the client component.
+Responsibilities:
+· Analyzing and understanding the requirement and participating daily basis SCRUM meeting.
+· Involving in application integration with different approaches like SAML, OAuth and Rest API.
+· Customizing OpenAM UI interface based on the realms configuration.
+· Automating the complete IAM deployment and configuration using ansible scripts.
+· Managing environment (Dev, Stage and Prod) on AWS cloud, on different datacenters.
+
+
+
+
+Project #2
+Project Name: 	E-Facilicare
+Client	: 	MoH - Malaysia
+Duration: 	Jul 2014 - Jan 2016
+Technologies: 	Struts 2.0, Hibernate 3, SQL Server 2008, Tomcat Server 6.0, Jasper Reports
+Description:
+(E-Facilicare) is a non-clinical support service provider of choice. Radicare delivers total reliability to ensure the success of the hospital's patient care program that spans from the cradle to the grave. In tandem with the Government's intention to provide better health service to the public, Radicare aims to be a proactive and responsible healthcare partner to hospitals and strives to remain accountable to the communities it serves. 
+Responsibilities:
+· Analyzing and understanding Client requirement.
+· Implementing and unit testing the business logic
+· Developing PL/SQL  for manipulating data with database
+· Customizing reports using Jasper tool
+· Participated in daily-basis SCRUM call meetings.
+
+Project #3
+	Project Name: 	Customer Relationship Management
+Client	: 	Pantech Solutions
+Duration: 	Mar 2013 - Feb 2014
+Technologies: 	Struts 2, Hibernate 3, MYSQL, Tomcat
+
+Description:
+Designed and developed Struts based web application to manage company interactions. Modularized, storefront component helps in categorized product selection, easy buying and administrator component to manage products, categories, discounts, orders, shipping and payment settings, etc.
+Responsibilities:
+· Analyzing and understanding Client requirement.
+· Implementing different modules with Struts and Hibernate framework
+· Unit testing the business logic to meet client requirement.
+Education
+Aug 2008 - Apr 2012
+Surya Engineering College, Erode - B.E in Computer Science Engineering
+
+
+
+
+
+
+
+
+
+Declaration
+                      I do hereby declare that the above furnished details are true to the best of my knowledge.
+
+
+
+
+
+Date:
+Place:     Chennai   						      (THAMASKUMAR S)
+
+

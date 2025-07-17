@@ -1,0 +1,276 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+SAKTHIVEL .P
+E-mail: Sakthi.perumal2511@gmail.com,
+
+Phone: + 91-996-249-0749,
+PROFESSIONAL SUMMARY: 
+· Over 8 + years of experience in Software Development especially using Microsoft Technologies SQL Server 
+
+· Having almost 5 years of experience in SQL Server 2008R2 and Microsoft Business Intelligence Tools (SSIS & SSRS). 
+· Having experience in creating database objects such as Tables, Views, writing Stored Procedures, UDFS, usage of Triggers and Indexes to facilitate efficient Data Manipulation and Data Consistency. 
+· Having experience in creating cluster index and non-cluster index on the tables for performance tuning. 
+· Having a good Experience in Designing and Developing the SQL Server Integration Services-SSIS Packages with different Control Flow Tasks and Data Flow Transformations, Securing Packages and Deploying the Packages. 
+· Hands on experience and outstanding knowledge in building and deploying the reports by using SQL Server Reporting Services-SSRS 2012. 
+
+· Experience in report writing using SQL Server Reporting Services (SSRS) and creating various types of reports like table, matrix, Drill Down, Parameterized, Cascaded and Sub-reports using SSRS. 
+· Experience in design and implement processes for Deploying and Extracting data for reporting using SQL Reporting Services (SSRS). 
+· Experienced in Data Warehouse concepts. 
+EXPERIENCE: 
+· Working in Aspire Systems– Chennai as Senior Software Engineer May 2013 – Till date
+
+· Working in Zylog Systems Limited – Chennai as Software Engineer Dec 2010 – May 2013
+· Worked in SA EonSofttech – Chennai as Software Developer from Nov 2009 – Nov 2010.
+
+EDUCATION
+
+· B.C.A. (Computer Applications) –Maruthupandiyar College of Arts and Science (2003-2006) 
+· Technical Skills 
+
+· Operating System: Windows family 
+· Databases: MS SQL Server 2005/ 2008 R2/2012 
+
+· ETL: SSIS 
+
+· Reporting: SSRS, TABLEAU
+· Web Technologies: ASP.NET, ADO.NET, MVC, JavaScript, Ajax, JQuery 
+
+· Languages: C#, SQL AND T-SQL
+· Tools: Tortoise SVN
+
+PROJECTS
+Aspire Systems – Chennai
+1. Audatex  
+· Role: Senior SQL Server Developer 
+· Technology: SQL Server 2012
+
+Autofocus provides the power to easily manage all aspects of collision repair from tracking sales and production to job costing, invoicing, repair notes, cycle times, employee efficiency, profit margins and claim processing. With Autofocus, you get an ALL-INCLUSIVE, cost effective software system for any size shop, and even the most demanding enterprise that requires customization.
+
+Roles & Responsibilities:
+
+· Data discrepancy analysis and fixed 
+
+· Developed Stored Procedures, Functions and Views
+· Wrote Stored Procedures, functions and Views in SQL server 
+
+· Unit Tested the SQL Server Jobs and Analytics Reports 
+
+2. AOM Analytics 
+Role: SSRS, ETL (SSIS) and SQL Developer 
+
+Technology: SQL Server 2008 R2, SSIS, SSRS, ASP.NET MVC, C#, JQuery 
+
+Active Operations Management (AOM™) is an innovative approach to operations management, focusing front-line managers and their staff on the achievement of quality and service levels at the optimum cost. AOM transforms the typical top-down, data-driven, command-and-control management style into a collaborative, method-driven, bottom-up culture, where good decisions are made daily at the heart of the operation. 
+
+Roles & Responsibilities:
+
+· Developed ETL scripts in SSIS to extract data from Workware database which is the source system 
+
+· Developed Analytics Reports using SSRS as well as Telerik Kendo Grid reporting tools 
+
+· Wrote Stored Procedures, functions and Views in SQL server 
+
+· Integrated SSRS and Kendo Grid reports into the ASP.NET MVC Web Application 
+
+· Scheduled and Monitored SSIS package Jobs 
+
+· Unit Tested the SQL Server Jobs and Analytics Reports 
+
+Zylog Systems Limited   – Chennai
+SingTel (Singapore Telecommunication) 
+
+Application 
+
+
+: Field Power Management
+
+Client
+
+
+
+: SingTel Telecommunication Singapore
+
+Environment
+
+
+: asp.net, c#, Sql Server, IIS, Visual Studio 2008
+
+
+
+
+
+   Xml, Three tier architecture, Ajax, wcf, Javascript, Jquery
+Role 
+
+
+
+: Software Engineer
+
+Description:
+
+Field Power is a leading commercial Field Service Management application with the ability to optimize internal operation efficiencies through picking the right technician, with the right skill, at the right time, with the right equipment and parts at the lowest cost per job. Field Power includes Work order assignment, scheduling, dispatching, maintaining the task status, reporting, and spare parts inventory with service allocation. 
+
+Responsibilities:
+
+· Development of code for new application 
+
+· Handling the DLL provided by the Player Provider, making the updates based on releases by the provider
+
+· Impact Analysis, Estimation and performed as point of contact from Offshore
+
+· Performed unit testing
+
+· Support the System Integration testing, User Acceptance testing, Production
+
+· Providing technical support after the release
+
+4. TSTT (Telecommunications Services of Trinidad and Tobago Limited) 
+
+Application 
+
+
+: Field Power Management
+
+Client
+
+
+
+: Telecommunications Services of Trinidad and Tobago Limited
+
+Environment
+
+
+: asp.net, c#, Sql Server, IIS,Visual Studio 2008
+
+
+
+
+
+   Xml, Three-tier architecture, Ajax, JavaScript 
+
+Role 
+
+
+
+:  Software Engineer
+
+Description:
+
+Field Power is a leading commercial Field Service Management application with the ability to optimize internal operation efficiencies through picking the right technician, with the right skill, at the right time, with the right equipment and parts at the lowest cost per job. Field Power includes Work order assignment, scheduling, dispatching, maintaining the task status, reporting, and spare parts inventory with service allocation. 
+
+Field Power facilitates the Technician's team maintenance and helps to create a team of complementing technicians with the right skills, management of technicians’ schedule and availability. 
+
+Responsibilities:
+
+· Development of code for new application 
+
+· Handling the DLL provided by the Player Provider, making the updates based on releases by the provider
+
+· Impact Analysis, Estimation and performed as point of contact from Offshore
+
+· Performed unit testing
+
+· Support the System Integration testing, User Acceptance testing, Production
+
+· Attending daily and weekly meetings and providing project status
+
+	SA Eonsofttech   – Chennai
+
+
+Slinks - UK
+
+Role: Software Developer
+
+This Project is used to run the business effectively in this woman footwear. It consists of Default page, Product Detail page. Customer can view the products in every category and add to shopping cart for adding product to shopping basket and checkout by providing billing and shipping address for online payment through world pay
+
+Responsibilities:
+
+· Functional Specification Review with team.
+
+· Maintain the site for showing Gallery in Product and Product Detail page.
+
+· Write Stored Procedures in SQL server 2005.
+
+· Designed the Database in SQL server 2005 along with team.
+
+· Implemented disconnected architecture for database connection.
+
+Environment
+:. Visual Studio 2008, SQL Server 2005.
+PERSONAL DETAILS
+
+	Name
+	Sakthivel 
+
+	Email
+	Sakthi.perumal2511@gmail.com 
+
+	Marital Status
+	Married
+
+	Permanent Address
+	309, boyar street S.naraiyur(po),Nainarpalaiyam(via),Tittagudi(Tk),Cuddalore(Dt)
+Pincode:606301
+
+
+DATE:
+
+
+PLACE:
+
+
+          
+
+
+
+                   (SAKTHIVEL)
+
+Sakthivel
+
+Page 2 of 4
+

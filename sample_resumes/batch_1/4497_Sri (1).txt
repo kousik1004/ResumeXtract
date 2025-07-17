@@ -1,0 +1,327 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4GI Resume Template
+
+E-mail: konakanchi.sri@gmail.com                                        Contact: +91 9030840680
+
+Sri.konakanchi111@gmail.com                                                     
+
+
+
+                                                     CURRICULAM VITAE
+
+SUMMARY:
+· 4 years of experience in software analysis, object oriented design and development.
+
+· Experience in Developing Web Based Applications Using Java/J2ee Technologies.
+· Proficient in Core Java, Jdbc, Servlets, Jsp, Struts, Ajax, Oracle10g.
+· Having Good Knowledge on JavaScript, Html, CSS, and XML.        
+· Comfortable working on Tomcat (5.X, 6.0), JBoss4.X, My Eclipse 5.X/6.X/7.X.
+· Having Knowledge on Struts Framework, Ajax Framework, and Ant tool.
+EXPERIENCE:
+
+	Company name
+	Location 
+	Designation
+	From date
+
+(DD/MM/YY)
+	To date
+
+(DD/MM/YY)
+
+	4G Identity Solutions Pvt.Ltd.
+	Hyderabad
+	SoftWare Engineer
+
+	Feb 2010
+	Till date
+
+	Ipog Software Technologies Pvt.Ltd.
+	Hyderabad
+	SoftWare Engineer
+	Oct 2007
+	Jan 2010
+
+
+EDUCATION QUALIFICATION:
+	Course
+	Institution
+	Board/University
+	Year of Passing
+	% of marks
+
+	B.Tech
+	Sri Sarathi Institute Of Engineering & Tech, Nuzvid.
+	JNTU
+	2007
+	65%
+
+	Intermediate
+	SGHR & MCMR Junior College, Guntur.
+	BIE
+	2002
+	68%
+
+	SSC
+	ZPHSchool
+	BSE
+	2000
+	65%
+
+
+
+	ProjectNo:1
+-----------------
+
+From ( Sep 11) to (Till Date)
+
+Company Name            : 4G Identity Solutions.
+
+Designation                  : Software Engineer.
+
+Project Name               : Rachhabanda Application.
+
+Client, Location           :  Civil Supplies, AP Govt, Hyderabad. 
+
+	Description: This is the AP Government prestigious project to give the new ration cards to the eligible citizens who are the category of BPL(Below poverty level) and including the new members into the existing cards and splitting the cards from existing cards and converting the pink to white cards. Government of AP issued the 24 lacks of new ration cards from this rachhabanda scheme. This is a Web Based Application, it has 4 formats of data input forms for taking the data from the Districts offices,they enter the applicants details through the online, operators can show the corresponding 4 formats reports of entered data district wise and mandal wise and fpshop wise and they can show the printed cards  and rejected applications reports.
+Responsibilities:
+
+· Developed the input forms for to enter the 4 formats of the data.
+· Developed the Rejected cards re-entry forms of 4 formats data.
+
+· Developed the Reports on formats Wise.
+· Developed the Database Table structures.
+· Processing on the tables data and generating the card numbers.
+Environment:
+
+Windows XP, JDK1.6, Struts 1.2,Spring 2.0, JSP, Ajax, Oracle10g,Java Script, HTML, CSS,Tomcat 6.0,MyEclipse 7.0
+
+
+	ProjectNo:2
+
+--------------------
+
+From ( MAY 11) to (Till Date)
+
+Company Name            : 4G Identity Solutions.
+
+Designation                  : Software Engineer.
+
+Project Name               : AADHAAR ENROLLMENTS
+Client, Location           : Civil Supplies, AP Govt, Hyderabad. 
+
+	Description: This is the Indian Government Prestigious project to give the Unique number (12 digits) for every citizen in india.Government of AP Civil Supplies Department is one of the Registrars in AP for Aadhaar Enrollments. This project involves monitoring AADHAAR ENROLLMENTS Field Operations through online and maintaining UID Data and corresponding reports of KYR+ data reports.
+Responsibilities:
+
+· Developed Web Service to Synchronize KYR PLUS data from workstation to Server and developed reports.
+
+· Feeding the Ration Cards Data with Uid Numbers.
+
+· Developed Online Form to Enter Daily Enrollments in Each Workstation.
+
+· Developed Graphical reports to Analyze Population and no of Enrollments.
+
+· Developed Operator Wise Enrollments report to Analyze Performance on Enrollments.
+
+· Developed the Reports on Enrolled Ration Cards, Population and UnEnrolled Ration Cards, Population District Wise Report.
+
+· Developed the Report on Agencies Wise Enrollments.
+
+· Developed the Form for Name Wise Search and Ration Card Wise Search. 
+· Developed the Reports on Aadhaar Enrollments.
+
+Environment:
+
+Windows XP, JDK1.6, Struts 1.2,Spring 2.0,Web services, JSP, Ajax, Oracle10g,Java Script, HTML, CSS,Tomcat 6.0,MyEclipse 7.0
+
+
+	ProjectNo:3
+
+--------------------
+
+From ( Jun 10) to (May 11)
+
+Company Name            : 4G Identity Solutions.
+
+Designation                  : Software Engineer.
+
+Project Name               : AP Ration Cards IRIS De-Duplication
+
+Client, Location           : Civil Supplies, AP Government, Hyderabad.
+
+	Description: This is the AP government prestigious project for identifying the bogus ration cards and deletes them and provides the all welfare schemes to the genuine citizens who are eligible for different schemes. Almost all government departments such as civil supplies department and housing and pension and aarogyasri departments are depending on this database to find out the genuine citizens. This project uses the biometric technology based siris server to find out the bogus ration cards. After finding the genuine ration cards we developed the web based application to integrate the all government services, and developed the input forms and developed the corresponding reports. From this application AP government getting the benefit of 1300 crores from the total budget in every year.
+
+Responsibilities:
+· Developed the Forms for Data Entry of Citizen Survey data.
+
+· Developed the Forms for Rationcards, Housing and Pensions Data.
+
+· Developed the Reports Corresponding Data Entry forms and Query Form.
+· Developed the forms for migration of citizen from one place to another place.
+
+· Developed the reports on ration cards and housing and pension’s data.
+
+Environment:
+
+Windows xp, Jdk1.5, Spring, Struts, JBOSS 4.2, Tomat 6.0,Oracle10g, Ajax, JavaScript, Html, CSS.
+
+
+	ProjectNo:4
+
+--------------------
+
+Project Name : EAC PANEL
+Company Name: 4G Identity Solutions.
+Designation: Software Engineer.
+Duration: Feb 10 - May 10.
+
+	Description: This is 4G Prestigious product based application, here we can register a person by taking his iris and finger prints data, we can use this product to door lock and unlock, when the authenticated person gives his iris if the iris matches with the existing iris template then only the door will be unlock, we can put the person as a block list person also.From this product we can maintain an organization employees attendances reports also.
+Responsibilities:
+
+· Configuring the system and maintaining the system.
+· Developed the Employee Registration form.
+· Developed the Product Configuration Settings Form.
+· Developed the employee’s attendance reports.
+· Involved in database design of the application.
+Environment: Embedded XP, JDK1.5, Struts 1.2, Web services, JSP, Java Script, HTML, BerdyDatabase, and Tomcat 6.0.
+
+
+
+	ProjectNo:5
+
+--------------------
+
+Project Name : INVENTORY MANAGEMENT SYSTEM
+Client, Location: INDIC SOLUTION, Hyderabad.
+Company Name: Ipog Software Tech Pvt Ltd.
+Designation: Software Engineer.
+Duration: Oct 08 - Jan 10.
+
+	Description: This is the Web Based Application For maintaining the devices and its corresponding reports.It Gives the Status of the all the Devices.
+· Here we can create the Supplier Purchase Orders through Supplier po Order Form and we can show all the statuses of the Supplier po Orders in the Reports.
+· After get the Devices from the supplier We can Enter into the Stock through Stock Entry Form.
+· We Can create the Client Purchase Orders through Client Purchase Order form and we can show the all Client Po Orders in the Reports.
+· We can show full stock devices status by enter the corresponding device serial no.
+· We can maintain the Quality Checks of the Devices. 
+Responsibilities:
+· Involved in design of data base table structures.
+· Developed the Forms like Creating the Devices Masters and Supplier Purchase Order and Client Purchase Orders.
+· Developed the  Issuing the Client Purchase Orders  form  by reading the serial no through Barcode Reader.
+· Developed the Reports for getting the full stock details reports.
+· Developed the Reports to show the supplier Purchase Orders and Client Purchase Orders.
+Environment: Windows XP, JDK1.5, Struts 1.2, Spring 2.0, JSP, Oracle, Java Script, HTML,CSS.
+
+
+	ProjectNo:6
+
+----------------------------
+
+Project Name : Work Log Management System
+Client, Location: Indic Solution, Hyderabad.
+Company Name: Ipog Software Tech Pvt.Ltd.
+Designation: Software Engineer.
+Duration: Jan 08 – Oct 08.
+
+	Description: This Application can monitor the Organisation employees daily work log status.Here Employee can enter the work done by him in a day and he can apply the  leave from this
+ Application, the project managers can show the employees work status reports.
+Responsibilities:
+· Designed the database table’s structure.
+· Developed the Employee registration form and updation and deletion forms.
+· Developed the work log entry form.
+· Developed the work scheduled form.
+· Developed the reports of the work log status.
+Environment: Windows XP, JDK1.5, Struts 1.1, JSP, Oracle, Java Script, HTML, Tomcat,CSS.
+
+
+
+PERSONAL DETAILS:
+
+Name 
+
+          
+       : Srinivasarao K.V.
+Father Name      
+
+       : Venkateswarlu
+
+Date of Birth        
+       : 15th July 1985
+Marital Status       
+       : Single
+Sex
+
+    
+       : Male
+Nationality
+    
+       : Indian
+Place                        
+       : Hyderabad
+Present Address     
+       : Yousufguda, Hyderabad.
+Permanent Address      
+      :  Hno: 1-74, Adigoppula (po), 
+         Guntur (D.t), Durgi (M.D),
+                                                 Andhra Pradesh.
+
+
+
+
+
+
+
+   Projects Involved
+
+
+
+
+
+KV.SRINIVASARAO                                                                                                                                        
+Page 6 of 8 
+
+

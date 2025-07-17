@@ -1,0 +1,288 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+
+Database Architect (MS SQL Server / MY SQL / Big Data)
+
+MOB:         8826681625
+
+Email:        Hemant.apt@gmail.com
+
+ HEMANT KUMAR
+Objective:
+
+To excel and grow in the sphere of Information Technology by working with such organization, which gives better opportunity to prove skills & rewarded to fulfill dreams as well as of organization.
+
+Experience summary:  
+· Around 11+ years of experience in various database technologies such as (SQL Server, MYSQL, Oracle) in Health Care, Insurance, Infrastructure and Gaming (Casino) domain including Big Data solutions.
+
+· Presently working with Unitedhealth Group on various projects as “Database Architect” role with “Sr. IT. Operating System Analyst” designation. 
+
+· My day to day activities are 
+· Team management
+· Database Design & Development 
+· Query Optimization & Performance tuning
+· Database Maintenance & Monitoring
+· Data Warehouse Design & Development
+· Data Mining 
+· Big Data Analytics 
+· Machine Learning and Predictive Analyssis 
+· Training & Skill Development
+· Dashboard Design
+· Scripting (Batch, Power Shell & Shell)
+· Database Migration
+· Code fix of C# and VB.NET
+· Automation of complex processes various programing language
+· Involved in Identify & provide Big data architecture & solution of High volume data projects
+· Experience in installation & configuration of Hadoop 2.0 on Linux
+
+· Experience in Big Data Analytics using Hadoop, Hive, Pig and R
+· Experience in Internal and External trainings on Big Data Analytics using Hadoop, Hive, Pig and R Programing.
+· Experience in Predictive Analysis using R.
+· Experience in Spark Mlib.
+· Experience in Tableau
+· Worked on R&D project using Hbase and MapReduce
+· Experience in Data Warehousing and Data Mining
+· Experience in data transfer into Hadoop using Flume and Sqoop.
+
+· Expertise on Query Optimization & Performance Tuning
+· Expertise on MSSQL-SSIS/SSAS/SSRS, Database Migration
+· Experience on Configuring, Managing, Monitoring, and Troubleshooting MS SQL/MYSQL Server.
+
+· Experience in Database Backup and Recovery procedures, Log Shipping, Mirroring, Replication and Automation of various DBA activity etc.
+
+· Experience in MySql database configuration and maintenance.
+
+· Database Development experience with medium to large databases 
+
+· Strong MS SQL/MYSQL Server Developer Skills including writing stored procedures, user defined functions, views, Triggers to facilitate efficient data manipulation and data integrity.
+
+· Experience on Relational Database Management systems (RDBMS), Conceptual, Logical and Physical Data Modeling.
+
+· Expertise in the physical modeling of the database (SQL Server & MySQL) which involved creating the database objects like Tables, Views, Indexes, Relationship keys, Partition, Columnstore Index, Triggers, Stored Procedures, and Functions etc.
+· Expertise in Data Warehouse and Data Mart design using MSIB.
+· Experience in Data Lake design on Hadoop.
+· Involved in performance tuning of Stored Procedures, Triggers, User Defined Functions and inline SQL scripts.
+
+· Experience in writing T-SQL scripts and Distributed Queries on linked servers for different database utilities.
+· Experience in MDX scripting
+· Experience in Documentation of Database business logic
+· Experience in VBA, Excel and Access
+Highest Academic Qualification:  
+Master of Computer Application (MCA)
+
+Certifications:  
+Microsoft Credential:
+
+1. Microsoft Certified Professional
+2. Microsoft Certified Application Developer
+3. Microsoft Certified Database Administrator
+4. Microsoft Certified Solution Expert (Data Platform)
+
+5. Microsoft Certified Solution Expert (Business Intelligence)
+
+6. Microsoft Certified Solution Expert (Data Management and Analytics)
+7. Microsoft Professional Program for Data Science (Perusing – Started in Sep-2017)
+SUN Credential:
+
+· MySQL 5.0 Data Base Administrator Certification (CMDBA)
+
+Achievements:
+· Aquamarine Bravo Award in OPTUM (2015)
+
+· Start Award in OPTUM (2014)
+
+· Best Database Developer award in WIPRO on completion of ESIC project Q4 (2010).
+
+· Understanding and analyzing the Requirements of the Clients.
+
+· Creating and Maintaining Source Code in an Efficient Manner. 
+
+· Preparation of Software Requirements Specification (SRS) Reports. 
+
+Technical Skills:  
+PRIVATE
+Operating Systems: Windows Server 2003 & 2008R2, Windows 2K and XP, Linux
+GUI: ASP.NET, VC#.NET, ADO.NET, VB.NET, MSSQL/SSRS/SSIS/SSAS, Excel, Access
+
+
+Language: C, C++, VB6, C#, VB.NET, ASP.Net, ASP, T-SQL, PL/SQL ,MDX, R, Hive, Pig, HBase, Flume, Sqoop , Python, Spark, Scala etc.
+RDBMS: SQL Server 2000/05/08R2/2012/2014, MYSQL 5.0/5.1/5.6
+
+ 
+
+Reporting Tools:  
+SSRS, R, Crystal Report, Tableau, Datameer
+
+
+Script: Batch, PowerShell, Shell, VBScript, Javascript
+
+Employment History
+
+	Company
+	From
+	To
+	Designation
+
+	YBAG Software
+	DEC-2005
+	MAY-2007
+	Database Developer
+
+	WIPRO
+	JAN-2008
+	JAN-2010
+	Executive- Database Developer
+
+	vCentric Technologies
+	JAN-2010
+	AUG-2010
+	Sr. Software Engineer - Database
+
+	WIPRO
+	AUG-2010
+	JUNE-2012
+	Database Administrator
+
+	R Systems International 
+	JUNE-2012
+	FEB-2013
+	Sr. Software Engineer
+
+	UnitedHealth Group
+	FEB-2013
+	Present
+	Sr. IT Operating System Analyst
+
+
+UnitedHealth Group Project Experience
+Roles: Database Design, Development, Performance tuning, Database Maintenance, Data Mining, Data Analysis, SSIS, SSAS, SSRS, Tableau, Batch scripting, High volume data transfer job for Hadoop on BDPaaS (Big Data Platform as Services), Hive and Pig development, Code fix of C# and VB.NET and automation of complex processes.
+
+· Clinical dashboard : This tool is basically presents a high level predictive dashboard for insurance planning on the base of previous customer behavior and the feedback by using very complex algorithm using R and Hive.
+
+· Fraud detection tool for claim: On the base of payer & provider historical pattern it detect the fraud claims of medical insurance. 
+
+· Acquired Entity Data Center (AEDC): AEDC supports the process of collecting merger & acquisition company information. The data collected by this tool is significant because it is leveraged to plan for training and moving the acquired business to Optum network, desktop and application standards. It is also used to ascertain compliance with Optum security standards and practices. Several teams in the past have attempted to build such a data center.
+· Asset Reporting and Management Agent (ARMA): ARMA is the UnitedHealth Group Windows based Desktop & Server Asset Inventory Agent for non-UHG managed assets. It is developed by BITS team; ARMA is an Enterprise data-driven solution that leverages a client and server component to harvest various data from workstations in M&A legacy environments via the Internet. Information collected includes: Installed Applications, Hardware, Profile and User Data, Registry data, File System info and much more.
+
+The hardware and application data collected fills existing standard UHG reports used by:
+
+· IT Asset Management, 
+· Information Risk Management, 
+· Patch Management, 
+· Anti-Virus Management and 
+· Software Compliance
+· Application Bundling Tool (ABT): The application allows a user to bundle applications for deployment to machines and schedule deployments.
+· Migration Management Tool (MMT): A Reporting & Tools site for aggregations of ARMA and other Enterprise data including: PeopleSoft, Altiris, Active Directory, Enterprise Access Control and others.
+
+· Deployment Metrics Tool (DMT): This application will save the DSM Remediation team countless hours of effort in calculating metrics for management. DMT allows the reports and calculations to be generated with a click of a button vs. having each team member manually enter data into an Access database.
+Previous Organization Project Experience:
+
+(1) Project: Wagering Information Network [Company: R Systems]
+Description: WIN (Wager Information Network) is a network which store information about various types of wager events taking place at different stations. WIN is used to manage events on which bets to be placed by the player. The rules and regulations follow by WIN are decided by Nevada Gaming Control Board and Nevada Gaming Commission. (Which regulates all the casinos in Las Vegas and throughout the state of Nevada?) WIN is in the compliance with Gaming Control Board.
+
+Main components of WIN: 
+
+· Security/Routing Manager- Provides authentication services and routing configurations to all other WIN components
+
+· Services Manager- Provides a platform upon which to deploy service specific plug-in assemblies.
+
+· Administration Host- Provides a platform upon which to deploy function specific UI plug-in assemblies.
+
+· Ticket Issuing Machine (TIM) - TIM is available at user-end as a Kiosk and provides the functions necessary to sell and cash wagering tickets along with associated administrative functions necessary to a writer at a race or sports book.
+(2) Project: NEXGEN HIS V4   [Company: WIPRO]
+
+
+Description: This is upgraded version of Health Information System (HIS), written in C# and backend in SQL Server. It runs on Client machine and stores all information in Centralize database.
+
+ (3) Project: Hospital Information System [Company: WIPRO]
+Description: The Indian Navy is the naval branch of the armed forces of India. The President of India serves as the Commander-in-Chief of the Navy. It currently has approximately 67,000 personnel on active duty, including 5,000 members of the naval aviation branch, 1,200 marine commandos and 1,000 Sagar Prahari Bal soldiers, making it the world's fifth largest navy. The Indian Navy currently operates around 170 ships, including the aircraft carrier INS Viraat, along with operational jet fighters.
+
+Though the primary objective of the navy is to secure national maritime borders, India also uses its navy to enhance its international relations through joint exercises, port visits and humanitarian missions, including disaster relief. In recent years, the Indian Navy has undergone extensive modernization and expansion as part of its aim to become a blue water navy in the near to medium term future.
+
+This is web based application written in C# and backend in SQL Server & MySQL having 32 modules like Front Office, IP Billing, Doctors, Ward, MMS, and OT etc. Each Module has their unique functionality and all modules are integrated to each other, like MMS is use for Material management system which maintains the all inventory data of sales and purchase of equipment or medicines.
+
+(4) Project: Dhanwantri   [Company: WIPRO]
+Description: Employees' State Insurance Corporation (ESIC), a statutory Corporation, under the Ministry of Labor & Employment, Government of India (GoI), is the implementing agency of a pioneering Social Security Scheme in India. The scheme provides social security protection to over 1 crore industrial workers and their family members in all over the country within the ambit of ESI Act 1948.
+
+To leverage Information technology and brings in efficiency, transparency and accountability by implementing integrated Hospital/Dispensary application where medical services are provided to all the insured/Registered Persons of ESIC.
+
+This is web based application written in C# and backend in SQL Server & MySQL having 32 modules like Front Office, IP Billing, Doctors, Ward, MMS, and OT etc. Each Module has their unique functionality and all modules are integrated to each other, like MMS is use for Material management system which maintains the all inventory data of sales and purchase of equipment or medicines. Application implemented at approx. 2200 location across all India.  Each location is connected to Central server.
+(6) Project: Birth & Death Registration [Company: Y BAG Software]
+Description: Birth & Death Registration is a web based application having backed in SQL Server. Application access in all zonal offices of entire city and stored all information of Birth and Death Registration.
+
+Personal Details
+
+	Name
+	Hemant Kumar
+
+	Date Of Birth
+	19/12/1984
+
+	Languages Known
+	Hindi, English
+
+	Marital Status 
+	Married
+
+	Present Location
+	NOIDA (DELHI)
+
+	Nationality
+	Indian
+
+	Valid Passport
+	YES
+
+
+6
+
+ PAGE 1
+
+ PAGE 1
+
+ PAGE 1
+
+ NUMPAGES 6
+

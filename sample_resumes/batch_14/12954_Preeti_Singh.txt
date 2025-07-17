@@ -1,0 +1,181 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USER
+
+Preeti Singh
+E-Mail: preetisingh0094@gmail.com
+Phone: +91-9741434147
+OBJECTIVE
+
+Targeting challenging assignments in the domain of BIGDATA HADOOP with a growth oriented organisation of high repute, preferably in IT Consultancy.
+PROFILE SUMMARY
+
+· 2.4 years of experience in IT industry for. 
+
+· Hands on experience on BigData HADOOP.  
+· Experience in working with HIVE, OOZIE ,SQOOP ,HBASE for ingestion and transformation of user data (ICICI,HP)
+
+· Experience in working with HIVE, PIG ,SQOOP ,OOZIE ,HBASE for ingestion and structuring of raw data 
+(BNSF)
+· Sound knowledge on Hive,Map Reduce ,Scala ,Core Java ,Sql ,Unix,ASP.net. 
+· Strong communication, problem-solving, analytical and technical skills enables effective solutions that positively impact quality of the role performed
+CORE COMPETENCIES
+
+Hive, Pig,  Sqoop, Oozie
+  Asp.net,SQL                                                                       Design Development
+ MapReduce
+                                                             Documentation
+ORGANISATIONAL EXPERIENCE
+
+Hewlett Packard (HP), Bangalore
+
+
+
+
+
+     
+Hadoop Developer 
+
+Key Result Areas:
+
+· Configuring Databases like MFGProd , Dzyon ,Progress DB in DBeaver.
+
+· Writing sqoop command to fetch data from the above mentioned databases.
+
+· Prepare DDLs for loading data from Flat Files.
+· Creating Temporary table to load the initial data into it.
+· Creating HIVE table to load data into it and analysis over it.
+· Write HQLs to load Hive data from AZ layer to IC layer.
+
+· Put flat files in Cloudera Home using WinSCP.
+· Validate the data loaded to Hive ITG.
+
+Highlights:
+
+· Handling a small team of 4 for development work.
+
+· Monitors and solves all performance issues on the same day. 
+
+· Interacts with the client to resolve their query and join them for daily call.
+
+
+DXC Technology
+
+
+Dates
+GPSVAT
+
+
+
+April 2016 till now.
+· Primary developer for this application, I do enhancements, provide support   and implement any business requirements.
+ACADEMIC DETAILS
+
+2015
+
+B.Tech 
+
+
+IT
+
+                        Graphic Era University Dehradun
+2011
+
+12th
+
+              PCM                                             St. Theresa School                  
+2009
+
+10th
+
+              St. Theresa School                   CBSE Board
+Projects Info
+	Project Title: RADAR
+· Client: HP
+	
+
+	· Project Location: Bangalore
+	· Site:Offshore
+
+	· Skill Used: Hive ,Sqoop ,Oozie ,Hdfs  
+	· Team Size: 16
+
+	· Project Description: 
+Hewlett Packard Enterprise Company is an American multinational enterprise information technology company. 
+It uses various databases like- MFGProd, Dzyon, SapProd, Sybase, Netsuit to store its transaction details. We fetch the data into HDFS and do analysis. We have two layers in Hive. AZ is the first layer to which we directly dump the data either using Sqoop or using the WinScp to load the data to Hadoop local and from there using load command to Hive table. As we have some tables to be loaded the data from FlatFiles, We create a Temporary table to store the intermediate date, where we use SerDe to clean the data and store it in the format we want.  Using Insert command we put the Temporary table data in the External table. Once the AZ load is over, we move to the second layer called IC-layer. To which we load the data from AZ by writing HQLs, referring to the STTMs written by the data modeller. For security we encrypted the data and store in HDFS. 
+
+· Role Description   : 
+
+Worked in data ingestion of transactional as well as historical data into Hdfs using Sqoop. Involved in writing UDF to encrypt and decrypt the data. Create Temporary and External tables to store the data. Writes insert command to load the data from temporary to external to handle date which is not in hive supported format and Boolean values which are in the forms of 0s and 1s. Using Regex command replace and ignore the unwanted symbols which is there in data.
+
+
+
+IT SKILLS
+
+· Databases: Oracle,SQL. 
+· Operating Systems: Windows 2000/2003/NT/XP, 7, 10, UNIX, Linux, 
+
+· Applications: SQL-DEVELOPER, Eclipse, CloudEra  
+· Languages: Core Java, Sql, ASP.net, Unix
+PERSONAL DETAILS
+
+	Date of Birth
+	06th Jan, 1994 
+
+	Sex
+	Female
+
+	Nationality
+	Indian
+
+	Current Address
+	Bangalore 
+
+	Languages Known
+	English, Hindi
+
+
+

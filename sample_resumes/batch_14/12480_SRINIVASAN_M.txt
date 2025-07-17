@@ -1,0 +1,261 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          
+
+                                       
+SRINIVASAN M	Mobile: +91-9003538223, +91-8123579854. 
+SAP BASIS Consultant	E-Mail: sriniinfotech.ya@gmail.com 
+                                                                     
+
+OBJECTIVE 
+
+To achieve and surpass professional and personal targets in the organization where I work and to demonstrate my inbuilt to attain the highest level of success by performing to the best of my abilities.
+
+PROFESSIONAL EXPERTISE 
+
+Having 3 years and 10 months of experience in SAP Basis Administration in implementation and support as well. 
+During the course in HCL, I have learned SAP BASIS Administration through training and live project experience. I have expanded my knowledge to a great extent by improving my skills and transforming them to live assignments. The scenarios faced in my project helped me improve my technical competency, understand the priorities, criticality and growing demands of the industry. Eager to grow with the growing needs of the industry and would like to add value to self and the organization. Interested to work and contribute in SAP ERP environment and provide practical optimized solutions for clients within strict deadlines and be ready for challenging roles and responsibilities.
+
+SAP NETWEAVER SKILLS:
+· DMO migration from NW 7.01 to NW 7.50 with Oracle to HANA database.
+· HANA Refresh
+· Installation of NW 7.50 Application
+· Installation of BO Business Intelligence 4.1, BO Explorer, Design Studio, SAP Lumira 1.31 on Windows.
+· Installation of Sybase ASE 16 SP02 PL04 on Windows & Unix.
+· Registered technical systems in SLD.
+· System Preparation & Basic Configuration in Solution Manager 7.1 & 7.2
+· Managed system configuration.
+· Technical Monitoring Setup, Job Monitoring & PI Monitoring setup in Solution Manager 7.2.
+· EWA Setup, DVM Setup & Generating Reports, RCA Work centers. 
+· Generated Stack.xml file in MOPZ and Maintenance Planner for SP upgrade.
+· Oracle Upgrade from 11.2.0.3 to 11.2.0.4
+· User Management like User Creation, User Un-locks.
+· System Refresh through BR backup, restore.
+· Installed Oracle ASM 11g DB in UNIX server & configured disk groups and solved the issues faced during the installation single handedly.
+· Installed BODS, BFC, ICS on windows server.
+· Installed SMD agent on Windows, Linux and AIX servers.
+· Triggering Offline Backup in normal oracle and taking DB Export in case of ASM DB.
+· SPS Upgrade in both ABAP and JAVA stack systems using SUM tool.
+· SAP Kernel and IGS Upgrade.
+· SAP Note Implementation.
+· Additional Server Node configuration for JAVA stack.
+· SAP Profile and Database Profile Parameter changes.
+· Configured instance parameters at OS level.
+· Java administration tools – Configtool, Visual administrator, JSPM.
+· Configuration of SSO Certificate export & import method.
+· Configured Transport Management System (STMS).
+· Moved transports from system to system both at SAP level and through scripts in OS level(In case of bulk transports).
+· Resolved Oracle Database related issues faced during installation.
+· Monitoring the system logs and ABAP dumps and fixing the problem when occurred.
+· Installation of add-on components using SAINT.
+· Client Administration including local & remote client copy / export / import .
+· Configuring SAP GUI Log on groups for load balancing.
+· Defining RFC connection for Data transfer.
+· Familiarized with Linux and AIX OS commands.
+
+Educational Qualifications:
+
+· M.E. in Software Engineering (2010-2012) at Easwari Engineering College, Ramapuram, Chennai affiliated to Anna University with 8.35 CGPA (First Class).
+· B.TECH. in Information Technology(2006-2010) at Ganadipathy Tulsi’s Jain Engineering College, Kaniyambadi, Vellore affiliated to Anna University with 76% (First Class)
+· H.S.C at Sri Ramakrishna Matric & Hr Sec School (2006) from state board with 74.75%
+· SSLC at Sri Venkateswara Matriculation School (2004) from matriculation board with 75.90%
+
+Employment History:
+
+Working in HCL Technologies from Jan 2014 to till date.
+
+
+Technical Skills:
+
+ERP 	: SAP R/3 ECC 6.0, Net Weaver 7.4, Net Weaver 7.5, CRM7.0 EHP2,     Solution Manager 7.1
+Operating Systems	: Red hat Linux 6.6, Suse Linux, AIX, Windows XP, Windows 2012 server edition
+Database		: Oracle 10g, Oracle 11g, Oracle 11g with ASM, HANA & Sybase ASE 16
+Third Party tools	: Axis tool, ServiceNOW
+     
+Professional Experience: 3 Years & 10 Months
+
+PROJECT Details:
+
+Client		: Lloyds Banking Group
+Designation	: Consultant 
+Environment	: SAP ECC6.0, SAP NW BI 7.0 EHP1/2, SAP SRM 7.0/1 on NW 7.01/2, BI JAVA, PI 7.11,CRM, SRM, Oracle 10g/11g(ASM), BFC, ICS,  BODS, BOE, AIX, UNIX & Windows
+Duration		: Jan 2014 to Jan 2017.
+        
+         Client Description:
+
+Lloyds Banking Group plc is a major British financial institution. LBG provides true end-to-end banking solutions, from back-office support to the customer support. LBG SAP includes all core modules & new dimensional products too.
+
+Roles & Responsibilities:
+
+· Installed and configured SAP Intercompany Services on Windows Server.
+· Installed and configured Oracle ASM DB.
+· Additional Server Node Configuration for Java Stack.
+· Table movement from one tablespace to another tablespace.
+· Table Reorganization & Data files Re-alignment.
+· Client Deletion and Client Locking.
+· EWA Report analysis and implemented the resolution.
+· Solution Manager Configuration for Windows, ABAP and JAVA systems.
+· Tuned the Solution Manager Metrics for reliable automated monitoring.
+· Parameter analysis and tuning (SAP and Oracle database).
+· TMS configuration and performing transports using STMS and also at the OS level.
+· Applying SAP License.
+· SAP Note Implementation.
+· Troubleshooting ABAP/Java system startup issues.
+· Performance analysis and troubleshooting.
+· Troubleshooting Enterprise Performance Management(EPM) components like BFC, ICS, FIM, DS, BI4, BOE3.1, EAD.
+· Starting and stopping of SAP systems (ABAP, JAVA, EPM Components, BODS).
+· Starting and stopping of Oracle ASM DB.
+· Schema refresh, export and import.
+· Working on Axis tool incident tickets, Problem records and Change records.
+· Opening HTTP and R/3 connections from SAP service market place.
+· System Refresh through BR backup & restore.
+· Applying Support Packages as per latest version.
+· Proactive System Health check to maintain the performance.
+· Kernel Upgrade for better performance of system.
+· Lock Monitoring and ABAP Dump analysis.
+· Taking an offline backup of Oracle DB.
+· Day to day monitoring of systems and reporting to the Management.
+· Client Maintenance including client open/close, local client copy and Client export/import.
+· Administered Oracle database using BR Tools.
+1. Working with Service market place, Maintained system data and Generated SCCR keys.
+1. Moving bulk transports requests using scripts through OS level in the specified sequence.
+1. PI Transports movement through OS level.
+1. Configured SSO by Exporting and Importing Certificates.
+1. Supporting various Go-Live activities.
+1. Setting up the Technical Monitoring for all the system in the landscape. 
+1. Knowledge Transfer about Solution Manager to the team.
+
+
+Client		: Chemtura Corporation U.S.
+Designation	: Consultant 
+Environment	: SAP ECC6.0, SAP NW BI 7.01, APO BW 7.01, PI 7.01,Oracle 11g/12c,BOE 3.1, NW 7.4, NW 7.5, BI4.1, EXPLORER, DESIGN STUDIO, LUMIRA, HANA, SYBASE ASE 16,  AIX, LINUX & Windows
+Duration		: Feb 2017 to Sep 2017
+        
+         Client Description:
+
+Chemtura Corporation, one of the world’s leading suppliers of flame retardant and lubricant additives, was acquired by LANXESS. Chemtura was operating manufacturing plants in 11 countries and operating in North America, Latin America, Europe and Asia. Chemtura SAP includes all core modules & new dimensional products too. 
+
+
+Roles & Responsibilities:
+
+· Installed and configured SAP Business Intelligence 4.1 services on Windows Server.
+· Installed and configured Business Object Explorer 4.1 on Windows.
+· Installed and Configured Design Studio 1.6, SAP Lumira 1.31 Addons for BI platform
+· Installed and configured Sybase ASE 16 SP02 PL04
+· Done HANA Refresh for BW (NW 7.50)
+· Dual stack split of HR ECC & BW.
+· DMO Migration of HR ECC & BW from Oracle to HANA database and NW 7.01 to NW 7.5 through SUM tool.
+· Installed & Configured Web Dispatcher for Fiori.
+· Integrated BOBJ Analytical reports (Webi, Design Studio & Lumira) on Fiori launchpad.
+· Troubleshooting the performance issues on BOBJ.
+· TMS configuration and performing transports using STMS and also at the OS level.
+· Applying SAP License.
+· SAP Note Implementation.
+· Troubleshooting ABAP/Java system startup issues.
+· Performance analysis and troubleshooting.
+· Troubleshooting of Sybase ASE database
+· Starting and stopping of SAP systems (ABAP, JAVA, BI4).
+· Starting and stopping of Sybase ASE DB.
+· JAVA Export.
+· Proactive System Health check to maintain the performance.
+· Kernel Upgrade for better performance of system.
+· Client Maintenance including client open/close, local client copy and Client export/import.
+· Administered Sybase ASE database using ASE Cockpit.
+1. Configured SSO by Exporting and Importing Certificates.
+1. Knowledge Transfer about Sybase ASE to the internal team.
+
+Client		: Lanxess 
+Designation	: Consultant 
+Environment	: SAP ECC6.0 EHP8, SAP NW BI 7.5, APO BW 7.5, PI 7.4, GRC, Fiori, Solution Manager 7.2, BI4.1, EXPLORER, DESIGN STUDIO, LUMIRA, HANA SP12, SYBASE ASE 16, AIX, LINUX & Windows
+Duration		: Sep 2017 to Present
+        
+         Client Description:
+
+Lanxess Corporation, leading specialty chemicals company and is represented at 75 production sites worldwide. The core business of LANXESS is the development, manufacturing and marketing of chemical intermediates, specialty chemicals and plastics. Lanxess is also a leading supplier of synthetic Rubber. Lanxess SAP includes all core modules & new dimensional products too. 
+
+
+Roles & Responsibilities:
+
+· Installed & Configured Wily Introscope.
+· Mandatory Configuration – System Preparation, Infrastructure Preparation & Basic Configuration in Solution Manager 7.2
+· Installed Diagnostic Agent in Windows, Linux & AIX.
+· SLD Bridge Configuration, SLD Configuration, JCo destination creation.
+· Managed SYSTEM Configuration for all ABAP, JAVA, HANA & Business Intelligence Systems.
+· Technical Monitoring Setup.
+· Job Monitoring Setup.
+· PI Monitoring Setup.
+· SNMP Trap Adapter deployment.
+· Troubleshoot & resolved Outside Discovery issue for native Sybase, Data Supplier issues, issues during Managed system configuration, AC Tool issues in BOBJ.
+
+Training Undertaken:
+
+· SAP BASIS conducted by EAS ACADEMY, HCL
+· SAP Solution Manager Administration Workshop Conducted by SAP AG
+
+Hobbies & Achievements:
+
+· Playing & watching cricket, browsing, listening to music.
+· Awarded as Best Performer of the Month (October, November & December’14).
+· Innovation Award of the Month (April, May & June’17).
+
+Profile Details:
+Name				: Srinivasan M
+Email ID			: sriniinfotech.ya@gmail.com
+Contact No.			: +91 9003538223, +91 8123579854
+Date of Birth			: 30 September 1989
+Passport No.			: K3280917 expires on 16 May 2022
+Employment Status		: Full-Time, Permanent
+	
+Declaration:
+I hereby declare that the above mentioned information is true and correct to the best of my knowledge.
+
+Date:                                                                                                  
+Place:									(SRINIVASAN M)

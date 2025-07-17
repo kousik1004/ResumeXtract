@@ -1,0 +1,407 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
+
+
+Neelima.Tangutoori
+
+
+
+
+
+
+
+
+              Email: tneelima54@gmail.com
+ H1B Visa Holder-valid till Oct-2019
+
+
+
+
+                 Mobile: +91 9535197631
+
+Summary
+· 8+ years of professional experience which includes 1 year of domain experience and 7+ years in analysis, design, development and implementation of business applications that includes SAP BW/BI/BOBJ as Techno Functional consultant.
+
+· Worked at client place for 1.5 years in Singapore and done deeper analysis on client needs along with deliverables.
+
+· Strong planning and organizing with demonstrated ability to master new concepts quickly, incorporate the latest technology, and develop business solutions that increase efficiency, productivity and profitability
+
+BOBJ SKILLS
+· Proficient in Web I Report creation
+· Proficient in Analysis for MS Office Report Creation
+· Proficient in Universe designer 
+· Proficient in IDT tool
+· Proficient in Data federator
+· Proficient in BI Launchpad and CMC maintenance 
+· Proficient in Report Bursting (Report Broadcasting)
+· Knowledge in QlikView , QlikSense 
+· Knowledge in  Tableau
+· Knowledge in  HANA on BW
+· Proficient in Blue print, User Manual, Test Scripts preparation
+· Proficient in creating Planning model using Analysis for Excel and Design Studio
+BW/BI Skills
+· Proficient in data modelling using BW extended star schema model
+
+· Extensively built Info Objects, Info Sources, Data Sources, ODS, Info Cubes
+
+· Performed extensive LO Cockpit extractions and generic extractions
+
+· Worked on ABAP coding for transfer rules, update rules 
+
+· Worked on queries using BEx analyzer and BEx browser.
+
+· Extensively used MultiProviders, structures, variables, exceptions, conditions, restricted and calculated Key Figures in reporting
+
+· Created aggregates and designed process chains for different applications
+
+· Worked on transports.
+
+· Proficient in handling support projects. Analyzed and corrected production problems as they occur in the SAP BW system.
+
+EXPERIENCE
+· Working as a SAP BW/BO Consultant in CBSI Global, Bangalore from Dec 2016 to till Date.
+· Worked as a SAP BW/BO Consultant in Altimetrik, Bangalore from Nov 2010 to Nov 2016.
+· Worked as a Team Lead in ICICI, Hyderabad from Mar 2008 to Jan 2009.
+
+Project 7
+Environment
+
+:  SAP BO/BW (Developments & Support)
+Role
+
+
+:  BO/BW consultant.
+
+Client 
+
+
+:  ABB
+
+            
+
+Duration                        :  AUG 2015 to till date
+ABB is a global leader in power and automation technologies.  Based in Zurich, Switzerland, the company employs 150,000 people and operates in approximately 100 countries.  The firm’s shares are traded on the stock exchanges of Zurich, Stockholm and New York.
+· Developed Planning Templates for OBL Periodization, Revenue and OCF using Analysis for Excel Reporting Tool
+
+· Developed Project Dashboard using Analysis for Excel Reporting Tool and RRI Concept
+· Developed Income Statement Dashboard using Design Studio Tool
+
+· Involved in escalating high-prioritized tickets regarding extractions, Performance Issues and also load failures.
+
+· Worked on change requests like enhancements, performance issues in report issues etc and moving changes to production system. 
+
+Project 6
+Environment
+
+:  SAP BO 4.1 Implementation- Onsite
+Role
+
+
+:  BI consultant
+Client 
+
+
+:  Singtel (Singapore)
+
+            
+
+Duration                        :  Sep 2014 to Jun 2015
+Headquartered in Singapore, SingTel has more than 130 years of operating experience and played a pivotal role in the country’s development as a major communications hub. Optus, their subsidiary in Australia, is a leader in integrated telecommunications, constantly raising the bar in innovative products and services. 
+
+Responsibilities: 
+
+· Re-architect Optus BO platform to be able to support SingTel Group reporting and analytics need, which includes:
+
+· New capacity for SingTel domain
+
+· High Availability (through clustering)
+
+· Scalability (through 3 tier solution and clustering)
+
+· Deliver a set of SAP BO Reports: 
+
+· 1 WebI report for GIT (Report pack of 20 analysis)
+
+· 4 WEBI report for Finance
+
+· Interact with users to capture requirements
+
+· Capture various metrics, dimensions and facts, rules & other calculations
+
+· Design the meta data layer 
+
+· Design and develop the report content
+
+· Responsible for Unit testing of the developed reports
+
+· Interact and assist users in UAT for analytic reports.
+
+Project 5
+Environment
+
+:  SAP BO 4.1 Implementation- Onsite
+Role
+
+
+:  BI consultant
+Client 
+
+
+:  Land Transport Authority (Singapore)
+
+            
+
+Duration                        :  APR 2014 to AUG 2014.
+LTA responsible for planning, operating, and maintaining Singapore’s land transport infrastructure and systems. To implement SAP BO for LTA-Singapore (“Land Transport Authority) HR analytics by making use of current landscape set-up i.e. SAP HR ECC6, SAP EP and SAP BW platform for HR analytics that means from end-to-end implementation of HR analytics
+
+HR Analytics Reports are categorized as below under the subject areas 
+
+· Employee Profile Analysis
+
+1. Employee Staff Strength Analysis
+
+2. Employee Promotions
+
+· Attrition Analysis
+
+1. Employee Turnover Rate
+
+2. Employee Resignations
+
+· Recruitement Analysis
+
+1. Employee Vacancy
+
+2. Employee Recruitments
+
+· Employee Snap shot data
+Project 4
+Environment
+
+:  SAP BO Developments (BO Implementation) (SAP BO 4.0 SP04)
+
+Designation 
+
+:  SAP BO Consultant.
+
+Client 
+
+             :  ABB
+Duration 
+
+:  APR 2013 to FEB 2014
+ABB is a global leader in power and automation technologies.  Based in Zurich, Switzerland, the company employs 150,000 people and operates in approximately 100 countries.  The firm’s shares are traded on the stock exchanges of Zurich, Stockholm and New York.
+
+Responsibilities:  
+· Created the Data Quality Dashboard for Sales, MM and PS
+· Created the Web I data feeders for the dashboard
+· Created the connections using universe design tool
+
+· Collected all the objects and transported from Dev to Prd system using Promotion Management
+
+· Created Process chain for data load automation
+· Validated the System at Application Level
+
+· Maintained the authorizations at Bex Query level
+Project 3
+Environment
+
+:  BW 7.3/ BO 4.0 Implementation (SAP BW 7.3 and BO 4.0 FP3)
+Designation 
+
+:  SAP BW/BO Consultant.
+
+Client 
+
+             :  Wheels India Pvt Ltd 
+Duration 
+
+:  APR 2012 to MAR 2013
+Wheels India Limited is company promoted by the TVS Group, India’s largest auto component manufacturers.   The main objective of SAP BI Implementation is to provide a strong decision support system to address the core business concerns related to reporting performance and manual generation of MIS. By providing a platform to enable self-service multi-dimensional analysis, the end users will be facilitated with easy to use, intuitive analysis functionality to uncover the business insights for more informed decision making with respect to their functional domains.
+
+Responsibilities:  
+· Understanding the specifications provided by the Functional Consultants and suggest them the changes where required and then develop the objects as per the evolved specifications
+
+· Installing and Customizing the Business content objects and involved in migrating them if required 
+
+· Involved in creating and maintaining Info Cubes, DSOs, PSA, Info objects Transformations, Data Sources and Info packages
+
+· Uploaded Master and Transactional Data from Flat files & SAP R/3 to SAP BW
+
+· Statistical Setup for the LO-Cockpit with update mode as Queued Delta and used the V3 Update for Delta Management. Extended the Extract Structures by adding new fields
+
+· Created basic formulas and Look up Routines in Transformations. 
+
+· Extensively used BEx analyzer, created queries with variables, filters, calculated key figures, restricted key figures, exceptions, conditions etc.
+· Involved in Transporting the objects form Development to Quality Server
+
+· Generated What If Analysis dashboard using Xcelsius
+
+· Created Trend Analysis Charts (MIS Analysis) using Web I
+
+Project 2
+Environment
+
+:  Secondary Sales Analytics (Production Support)
+Designation 
+
+:  SAP BW/BO Consultant.
+
+Client 
+
+             :  Britannia Industries Pvt Ltd
+Duration 
+
+:  JAN 2011 to MAR 2012
+Britannia strode into the 21st Century as one of India's biggest brands and the pre-eminent food brand of the country. It was equally recognized for its innovative approach to products and marketing. The secondary sales analytics project aims at building a flexible and dynamic reporting system using SAP BI and BO.
+
+Responsibilities:  
+· Daily Monitoring Process chains which include Meta Chains
+
+· Resolving issues occurred while Process Chains Running
+
+· Monitoring the data load from SAP BI and R/3 and UDAAN (Java based system)
+
+· Daily validations of the R/3 reports values with BI Query monitored values
+
+· Executing DTPs and Scheduling Info packages for data loading for the requests where the records have not transferred and added
+
+· Daily Broadcasting (Email Bursting) reports within time from BI for major Business analysis
+
+· Created User manuals for Web Intelligence and gave training for End Users.
+
+· Attending User Calls and Mails
+
+· DB Restoration whenever is required
+
+· Weekly Updating of the work status to the management
+
+· Communicating with the BASIS team for job related issues
+
+· Removing the Process Chains from schedule at the time of SAP BI Production downtime for the regular BASIS activities
+
+· Added and removed the existing users mailing list based on the requirement
+
+Project 1
+Environment
+
+:  Secondary Sales Analytics (BO Implementation)
+Designation 
+
+:  SAP BW/BO Consultant.
+
+Client 
+
+             :  Britannia Industries Pvt Ltd
+Duration 
+
+:  APR 2010 to DEC 2010
+Britannia strode into the 21st Century as one of India's biggest brands and the pre-eminent food brand of the country. It was equally recognized for its innovative approach to products and marketing. The secondary sales analytics project aims at building a flexible and dynamic reporting system using SAP BI and BO.
+
+Responsibilities:  
+· Involved in designing and building of universe, Classes and Objects by resolving complex loops by defining contexts and aliases
+
+· Created Projects using Data federator in order to create the interface between BI and BO
+
+· Changed the universe parameters settings to optimize the performance of universe
+
+· Create the users and user groups, set up the privileges to them according to their requirement
+
+· Create folders and categories
+
+· Prepared reports by using master details, cross-tabs and drill mode as per the requirement of the end user
+
+· Creating the new reports like Webi and dashboards and modifying the existing reports as per the customer’s requirements 
+
+· Scheduling the reports by daily, weekly, monthly and yearly in the CMC level
+
+· Created Report Bursting methodologies in order to schedule reports to the users mail inboxes and also their BO inboxes
+
+· Prepared BW Info Providers List Documentation
+
+· Prepared BO Reports, Connections List
+
+· Prepared User manual for BI/BO
+
+· Prepared BW Process Chains Documentation
+
+· Prepared Report Recurrence Timings List
+
+· Prepared BI/BO Technical Document
+
+· Prepared Complete flow of Report Creation from BW to BO
+
+Domain:
+Environment
+
+:  Marketing
+Designation 
+
+:  Team Lead
+Client 
+
+             :  ICICI
+Duration 
+
+:  MAR 2008 to JAN 2009
+Responsibilities:
+· Supervise 17 Outbound PBO’s 
+
+· Conducting team meetings to setup target on a daily basis
+
+· Monitor the daily status reports
+
+· Responsible to take the supervisors calls.
+
+Confidential
+Page 1
+Confidential
+Page 2
+

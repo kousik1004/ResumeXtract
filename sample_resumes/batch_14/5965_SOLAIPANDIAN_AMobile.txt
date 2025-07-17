@@ -1,0 +1,210 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (
+SOLAIPANDIAN. A
+) (
+Mobile #: +91 – 8939611129
+Email id: solaiasp@gmail.com
+                 solai@live.com
+)	
+
+OBJECTIVE
+           Quest to work in a professional atmosphere, which gives me a scope to display my skills and, to work in an organization, which gives me ample scope to grow along with it. To learn new programming languages and technology and explore my potential.
+PROFILE SUMMARY
+· Software Developer with 3 years of experience in designing User Interface (UI) and dynamic web applications using HTML 4.0.1/5, CSS, Angular JS, JQuery, JavaScript, Node.js, AJAX, PHP, Yii 2.0.12 and JSON. Extensive use of Angular.js for developing the SPAs (Single Page Applications) for internal application/tool. Created Web Applications with real-time, two-way connection, where both Client and Server can initiate communication by using Angular.js. Expertise in using version code control systems such as GIT, SVN.
+· Expertise in current and emerging trends and techniques.
+· Course completed Diploma in J2EE.
+· Participated in National Level Technical Symposium Event Quiz won First Prize.
+· Participated in Inter College Competition Event Chess Competition won Second Prize.
+PROFESSIONAL EXPERIENCE
+1) Spinta Digital                                 								Mylapore, Chennai.
+Sr. Software Developer								1 Year - (October 2016 – Till Date).
+· Responsibilities to developing web application using Angular.js, Material design,  Html, Css, JavaScript, JQuery, Ajax, Json. To Use MySql Sever for backend operation and Other Functional works and Unit Testing.
+
+2) iStrides Technologies                                 							T-Nagar, Chennai.
+Software Developer							     8 Months (March 2016 – October 2016).
+· Involved in dynamic web application development using Php, Angular.js, Material design, Yii 2.0.8, Slim, Html, Css, JavaScript, JQuery, Ajax, Json. To Use MySql Sever for backend operation and Other Functional works and Unit Testing.
+3) Rapid Care IT Services	                           							 Saidapet, Chennai.
+Software Developer							        1-Year 4 Months (Oct 2015 – Feb 2016).
+tECHNICAL SKILL SET
+	Operating System
+	Linux, Windows 8, Windows 7
+
+	Programming Language
+	C, C++, Core Java, J2EE, PHP 
+
+	Frameworks Knowledge
+	Yii 2.0.11, Slim 2.0.6 
+
+	Web Technologies
+	HTML, CSS, JavaScript, JQuery, JSP, Json, MVC, Ajax, Angular.JS, REST API
+
+	Data Base Severs
+	SQL Server, MySql
+
+	Applications & Tools
+	Net Beans 8.0.2, Eclipse Juno, Apptana, MS Office, Photoshop.
+
+
+education details
+· 2011 – 2014: M.C.A. (Master of Computer Application) from Anand Institute of Higher Technology Affiliated by Anna University, Rajiv Gandhi Road, Kazipattur, Chennai, 7.88(CGPA).
+· 2008 – 2011: B.C.A. (Bachelor of Computer Application) from Guru Nanak College Affiliated by University Of Madras, Velachery, Chennai, 70.72%.
+PROJECT details
+1:   National skill development Corporation (NSDC, Skill India) Admin Portals UI
+· Technologies	:	Html5, Css, JavaScript, Json, Ajax, JQuery, Angular 1.5.0.
+· Contribution	: 	Assessor details, Training master page UI, Grid Integration UI.
+
+2:   ICICI UK Current Account Registration Form
+· Technologies	:	Html5, Css, JavaScript, JQuery, Material Design, Angular 1.5.0
+· Contribution	: 	To validate the form and based on input restriction and submit.
+
+3:   PetsApp Admin Control (www.petsapp.pet)
+· Technologies	:	Html5, Css3, JavaScript, JQuery, Angular.JS, OnSen UI
+·  Contribution	: 	Vendor listing module, Category selection and pre-loader
+
+4:   NASA (National Association of Students of Architecture), INDIA (www.nasaindia.co)
+· Technologies	:	Php, Yii2.0.9, MySql, Html5, Css, JavaScript, Json, Ajax, JQuery.
+· Description	: 	This is a student’s event management portal conducts some events for architecture students in India.
+· Contribution 	:	To integrate backend admin panel into frontend and CMS Controls. Different user login flip book pdf view, and youtube channel integration. 
+
+5:   SolnWiz (www.solnwiz.com)
+· Technologies	:	Php, Yii2.0.9, MySql, Html, Css, JavaScript, Json, Ajax, JQuery.
+· Description	: 	To provide business solutions to customers and partners has upload their business solutions and customer to view their needed solution.
+· Contribution 	:	Admin, partner, customer login, partner solution module and switch control, customer request handling, partner/admin chat, global search for business solutions, review and comment modules. 
+
+6:   Headlines TV (www.headlinestv.in)
+· Technologies	:	Php, Yii2.0.8 , MySql, Html, Css, JavaScript, Json, Ajax, JQuery.
+· Description	: 	Admin has uploads up-to-date news, videos, and links. All contents of news that has to display in frond end based on news category.
+
+7:   Rapid Medical Billing System (Product)
+· Technologies	:	Php, Slim 2.6.2, MySql, Html, Css, Material design, JavaScript, Json, Ajax, Angular.JS
+· Description	: 	The core part of application to maintain medical billing documentation, file upload, download, category types, client details, project details masters.
+
+
+
+
+
+8:   easyDictate  (Product)
+· Technologies	:	Php, Yii2 , MySql, Html, Css, Material template, JavaScript, Json, Ajax, Angular.JS.
+· Description	: 	To get the recorded voice from both web and mobile apps then send to voice data to medical documentation specialist and convert those records to documents. 
+
+9:   Rapid Express Courier Services 
+· Technologies	:	Php, Yii 2, MySql, Html, Css, JQuery, Json, Ajax, Angular.JS 1.2
+· Description	: 	The application to propose all in one system that include both pick up and drop the order, tracking and map the whole delivery process. The System maintains the order information and search order, order history.
+
+10:  Kumaran Hospital Management System
+· Technologies	:	Php, Yii 1.1.6,  MySql , Html, Css, Bootstrap, JQuery, Ajax
+· Contribution 	:	The application used for full hospital management system that is from placing the order, patient appointments, in/out patient’s details, and billing.
+
+11:   Professional portable X-Ray
+· Technologies	:	Php, Yii 1.1.6 , MySql, Html, Css, Bootstrap, JQuery, Ajax
+· Description	: 	Alias The application used for full hospital management system that is from placing the order until claim the insurance for that patient’s order.
+
+12: Text Chat Application.
+· Technologies	:  Html5, Jquery Mobile, Node.JS, Socket.IO, JQuery.
+· Description	:  Sending text message to one end to another.	
+
+rest api PROJECT details
+1:   TEKWIZARD
+· Software	:	Php, Yii2.0.9, MySql, REST API.
+· Description	: 	Tekwizard is an organization they are teaching robotics to school/college students this project maintains faculty attendance management system with their photographs and location details which matches the education institute location. 
+· Contribution 	:	Backend admin panel, Multiple User login, to allocation the faculty to particular school, group the school based on cluster wise, allocate the school into clusters. Get the faculty photo, attendance start timing and end timing, location tracking. 
+
+2:   SELFIE SNAPPER
+· Software	:	Php, Yii2.0.9, MySql, REST API.
+· Description	: 	Make the Selfie photographs, upload and printing.
+· Contribution 	:	User registrations, Login, photo upload, and log creation. 
+
+
+
+
+
+
+INTERNSHIP PROJECT details
+1: Domain Name Registration and Web Hosting By Using RASM.
+· Technologies	 :  Java, Jsp, Html, Css, Javascript, MySql, Apache Server
+· Description	 :  To Host the web content into server allocate space for server using RASM Protocol.
+
+PERSONAL details
+
+	Name
+	SOLAIPANDIAN. A
+
+	Father Name
+	Aasaipandian. V
+
+	Gender
+	Male
+
+	Age
+	26
+
+	Date of Birth
+	04 / 05 / 1991
+
+	Marital Status
+	Married
+
+	Language Known
+	English, Tamil
+
+	Permanent Address
+	# 54/64, 9th Cross Street, Trustpuram, Kodambakkam, Chennai – 600024.
+
+
+
+DECALARATION
+          
+         I hereby declare that the information furnished above is true to the best of my knowledge and belief.
+
+
+Place:       Chennai
+Date :        /    / 2017									(SOLAIPANDIAN. A)
+

@@ -1,0 +1,157 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AKASH	 .K					  	    Mobile: +919885876158
+SAP CONSULTANT				                   Email: abb.basis16@gmail.com
+
+Career summary	
+
+· Having 3.5+ years of experience as a SAP Basis and NetWeaver Admin.
+· Currently working as an SAP BASIS Consultant for WELLS FARGO, Bangalore. From November 2013 to till Date.
+
+TECHNICAL Skills
+
+· Performed Kernel upgrade from 730 to 740
+· Performed Database Upgrade from Oracle 10g to 11g
+· Performed system refresh from PRD into QAS
+· Performed EHP upgrade from EHP3 TO EHP5
+· Performed SSO configuration
+· Knowledge on SAP HANA Database.
+· Performed Installations of SAP ECC 6.0, NW7.4 and SOLMON 7.1.
+· Performed Post Installation Activities, performed system health checks.
+· Setting Up System Landscape: Configured Transport Management System, Creating the Transport Domain Controller, Include the System into the Domain, and Configuring the Transport Routes.
+· Client Maintenance and Administration: Define Client settings, Performed Local Client Copy, Remote Client Copy, Client Transport.
+· Change Request Management: Importing the Transport Request Using STMS, Manually Importing the Transport Request Using TP at OS level.
+· Apply Support Package & Addons/Plugins: Prepare Pre-Request to Apply Support Package, Download Support Packages and Addons/Plugins from SAP Services Market Place and Apply Support Package through SPAM from front end or application.
+· Background administration like Scheduling background jobs &analyzing long running jobs
+· Tablespace management adding and Moving data file using BRTOOLS
+· Worked on New printer setup in sap and print related issues troubleshooting 
+· Configured RFC Connection using SM59, Logon Load Balancing.
+· Monitoring Operation Mode and Assign Time table.
+· Knowledge on ABAP & JAVA Engine startup procedure
+· Regular Monitoring of systems.
+Web as java: 
+· SSO configuration in Enterprise Portal (EP).
+· Creating RFC Connections Using JCO RFC Provider.
+· Configuring Memory Parameters, adding server process Using Config Tool.
+· Applied support packages using SDM and JSPM.
+
+HANA Data Base : 
+
+· Experience in HANA Data Base Installation 
+· Experience in HANA Start and Stop Process
+· Experience in HANA Studio Installation ,
+· Experience in HANA Client installation
+· Experience in HANA additional components installation 
+· Involved in backup and restore using HANA Studio
+
+Solution manager 7.1: 
+· Installed SOLMON 7.1 and Performed Post installation activities
+· Configure maintenance optimizer (MOPZ).
+· Performed download the patches using maintenance optimizer.
+
+EDUCATIONAL QUALIFICATIONS:
+· B.Tech from JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY.
+
+
+
+TECHNICAL SKILLS:
+SAP ERP package		: SAP ECC 6.0 EHP5/7, SAP NetWeaver 7.4
+Database			: Oracle 10&11g
+Tools & Utilities		: BR*Tools, ConfigTool, SDM, JSPM, SUM, SWPM
+Operating System		: Windows server 2003/2008/2012, RHEL 6.5
+
+PROJECT DETAILS:
+Project # 1: (previous)
+  Organization  :  WELLS FARGO Pvt. Ltd
+  Environment :   ECC 6.0, NW7.4 ORACLE 10&11g, Windows, RHEL 6.5.
+  Client		 :  BANCO BRADESCO
+  Duration          :  November 2013 TO July2015
+
+Roles & Responsibilities:
+· 24/7 monitoring of the SAP systems.
+· Performed Database restore and recover using BRTOOLS
+· Client Administration: Client creation and client copy as per the request. Also deleted the clients which are not in use in Qua/Dev systems.
+· Authorization Changes: Role Maintenance by adding/removal of Tcodes, authorization objects, authorization field values to the existing roles as per the change requests.
+· Participated in Roll outs: Created single and derived Roles as part of the Roll outs. Transporting Roles to production. 
+· Participated in Technical cutover activities and service breaks.
+· Analysis and deletion of old locks
+· Resolving incidents as per the priority.
+· TMS: Configured TMS and created transport routes.
+· Changing TMS Landscape according to client Transport Policy.
+· Scheduling auto-imports in Quality systems.
+· Importing of weekly and daily production transports. Importing TR’s in weekly and Monthly release. Trouble shooting import errors. Importing transport requests from OS level.
+· Configuring Printers at SAP level and troubleshooting printing issues.
+· Database Administration BRTOOLS Tools
+· Table space management: Extending Tablespaces and resizing data files.
+· Scheduling and monitoring background jobs. Reporting cancelled jobs as per the priority.
+· Creating and maintain RFC destinations.
+
+Project # 2: (current)
+  Organization  :   WELLS FARGO Pvt. Ltd
+  Environment	:   ECC 6.0, NW7.4 ORACLE 10&11g, HANA DB, Windows, RHEL 6.5
+  Client	  	:  ROYAL BANK OF CANADA
+  Duration	:  July2015 to TILL DATE
+
+Roles & Responsibilities:
+
+· Providing 24X7 support.
+· Performing system health checkups on daily, weekly and monthly basis and generating reports.
+· Involved monthly production systems maintenances to perform   start and stop the systems 
+· Parameters changes as per client recommend.  
+· Solving Day to Day issues to end users.
+· Client Maintenance and Administration: Define Client settings, Performed Local Client Copy.
+· Creating and maintaining of RFC connections
+· Performed Client copies like Local Client Copy.
+· Performing transports across Landscape and monitored transport logs.
+· Monitoring the lock entries and removing the entries that are all running for long period.
+· Performed Kernel patch level upgrade.
+· Monitoring System Performance and working on dialog response time related issue.  
+· Performed System Copy & DBREFRESH Activity from production to Quality.
+· EWA report analysis and address the issues to client.
+· Working on memory related issues on systems 
+· Background Jobs and file system permission issues, workflow configurations, ABAP dumps, locks, Updates status failures.
+
+

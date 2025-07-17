@@ -1,0 +1,403 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VITAE 
+
+  
+
+Rupa Halder                                                         
+Vivekananda Nagar, Madhyamgram.                                  
+
+P.O.- East Udayrajpur,  
+
+P.S.-Madhyamgram                                                                                    email: rupahalder1@gmail.com 
+
+Kolkata -700129                                                                                         Contact no: +91-9038756220                                                                               
+
+                                                                                  
+
+  CAREER OBJECTIVE:-         
+
+ 
+
+To secure a challenging position where I can effectively use my skills and Knowledge as an Efficient 
+
+Professional.  
+
+ 
+
+ 
+
+ACADEMIC QUALIFICATION:-        
+
+ 
+
+Examination Discipline/ 
+Specialization 
+
+School/college Board/ 
+University 
+
+Year of 
+
+Passing 
+
+Marks 
+
+ 
+
+M.SC IN 
+
+ECONOMICS 
+
+Money Banking 
+
+and Finance 
+Kalyani University University Of 
+
+Kalyani 
+          
+
+2017 
+
+ 
+
+     54.13% 
+
+ 
+
+B.SC(Hons) 
+
+ 
+
+Economics 
+
+Barasat Govrnment 
+
+College 
+
+West Bengal 
+
+State University  
+
+ 
+
+2015 
+
+      
+
+     50.1% 
+
+Higher 
+
+Secondary 
+
+Examination 
+
+ 
+
+Eco Science 
+
+ 
+
+Madhyamgram  Girl’s 
+
+High School 
+
+ 
+
+W.B.C.H.S.E 
+
+ 
+
+2011 
+
+ 
+
+     62.6% 
+
+Madhyamik 
+
+Examination 
+
+ 
+
+General 
+
+Madhyamgram  Girl’s 
+
+High School 
+
+ 
+
+W.B.B.S.E 
+
+ 
+
+2009 
+
+ 
+
+ 
+
+67.0% 
+
+ 
+
+                                                 Computer Skills:                                    
+ 
+
+Course name                                            Session                                       Modules Covered 
+
+ 
+Certificate in                                 April’2009 to sept’2009                   Fundamental, MS-VISTA, 
+
+Information Technology                                                                        MS WORD, MS Excel, 
+
+Application                                                                                 MS Power Point and 
+
+                                                                                                               Visual Foxpro 6.0                                                                                                                  
+
+Advance Diploma in                     July’2010 to Dec’2011                   C, C++,VB.Net, HTML, 
+
+Information Technology                                                                       DHTML,JAVA Script 
+
+ 
+
+Business Analytics                      March’2018 to still going                Advance Excel,SAS,SPSS,R  
+
+                                                                                                              VBA, SQL, Core Analytics 
+
+                                                            Project Work-  
+ 
+
+ CASHLESS  INDIA (Under The Guidance of Miss Bishakha Ghosh, 
+                Associate Professor of Kalyani University) 
+
+
+
+ 
+
+ ORGANIZED RETAIL MARKET IN INDIA (Under The Guidance of Miss Bishakha 
+Ghosh, Associate Professor of Kalyani University. 
+
+ 
+
+ Project on LPG DISTRIBUTION MANAGEMENT SYSTEM (Under The Guidance of 
+Souvik Sen, Senior Faculty of Youth Computer Training Centre).  
+ 
+
+ Consumer Preferences (Traditional Market/Supermarket) 
+ 
+
+                                   Area Of Interest 
+ 
+
+                 Linear Regression,Logistic Regression,Decision Tree,K-Means Clustering 
+
+ 
+
+ Work on Decision Tree 
+ 
+
+Data-Bank Marketing Dataset 
+
+About- The dataset has been downloaded from UCI Machine Learning Repository.The data is related with 
+
+direct marketing campaigns of a Portuguese banking institution. 
+I have done with the dataset.The goal is to build models which predict if the client will subscribe a term 
+
+deposit(Y) 
+
+Analysis- Perform some analysis on the dataset by choosing one or two variables and visualizing them,this 
+
+way we can get an idea of how values are distributed for the entire set. 
+Take ggplot functions to visualize the data distributions across the variables. 
+
+Modeling- A decision Tree is a robust and transparent Machine Learning Model.It can be used to predict 
+
+whether a particular variable would have mattered in the customer’s decision to subscribe or not to the 
+Bank’s term deposit. 
+
+Finally the summary of the Decision Tree plotted with the Chi-Squared value and the P-value. 
+
+ Work on Logistic Regression 
+ 
+
+Data-  The Quality Dataset 
+
+About- In this dataset we have 131 observations,One for each of the patients in our dataset,and 14 
+
+different variables.The 12 variables from InpatientDays to AcuteDrugGapSmall are the independent 
+
+variables.I am using the number of office visits and the number of prescriptions for narcotics that the 
+patient had. 
+
+Analysis- Use Table function to find out the outcome of the variable PoorCare.Next,We will randomly 
+
+split our data into two dataset, Train  and Test dataset.Now,Finding the correlation between all numeric 
+variables. 
+
+Modeling- Correlation between PoorCare and AcuteDrugGapSmall is significant,But Correlation between 
+
+AcuteDrugGapSmall and Narcotics is higher and it can Cause the Multicollinearity so we will prefer to 
+
+drop this variable from the Predictions because Narcotics seems more significant variable.So,We will build 
+Logistic Regression Model using PoorCare as dependent Variable and OfficeVisits and Narcotics as 
+
+independent variables.Made a Logistic Regression Model that can accurately identity Diabetic Patients 
+
+Who receiving low quality care.The model provide probabilities of somebody Receiving Poor Quality 
+
+Care. 
+
+ Work on Linear Regression   
+Data- AirQuality Dataset 
+
+About- I have downloaded the data from stat.ethz.ch site.There are 153 observations and 6 variables.We 
+
+have to create Linear Regression Model.But before that we have to identify the missing values. 
+
+
+
+Analysis- In our dataset only Ozone and Solar.R attributes have some missing value.We need to impute 
+those missing values(NA).After removing missing values now we perform Linear Regression on our 
+
+dataset. 
+
+Modeling- Apply Linear Regression Algorithm using Least Square Method on Ozone and Wind.Now 
+
+Build scatterplot. The slope of the scatterplot of the line goes downwards,hence there exist a negative 
+correlation between Ozone and Wind.  
+
+ 
+
+ Internship- 
+ 
+
+ ‘Research Intern’ for the NITI  Aayog study on “Status on Women in Science          
+among  Select Institutions in India: Policy Implications’’ conducted by the Society for 
+
+Socio-Economic Studies and Services (SSESS) during the period 1.08.2017-31.08.2017.  
+
+ 
+
+ Experience-  
+ 
+
+ Working with a NGO (THE GREEN CORNER), as a teacher (for underprivileged children) 
+for last 1.5 years. I have also been appointed as the Treasurer in the NGO. 
+
+ 
+
+ 
+
+                                      EXTRA-CURRICULAR  ACTIVITIES :-     
+
+  
+
+ 
+
+ Interests:    Reading Story Book, Listening music, Singing, Painting. 
+ 
+
+PERSONAL DETAILS :-          
+
+            
+
+            Father’s Name           : Mr. Haripada Halder 
+
+            Date of Birth              : 12
+th
+ January, 1993. 
+
+           Permanent Address: Vivekananda Nagar, Madhyamgram, P.O.-East Udayrajpur,  
+
+   Kolkata - 700129 
+
+ Sex    : Female 
+
+  Marital status  : Unmarried 
+
+Languages Known      
+
+      Can Speak   : English, Bengali and Hindi  
+
+      Can Write & read: English, Bengali, Hindi 
+            Nationality   : Indian 
+
+              
+
+                          
+
+DECLARATION  :- 
+          
+
+    I hereby declare that the information’s given above are true to the best of my knowledge. 
+
+                                                                                                                                          
+
+       Signature: _________________ 
+                   (RUPA HALDER)         
+ 
+
+ 
+
+
+	CURRICULUM VITAE
+	Rupa Halder
+	Vivekananda Nagar, Madhyamgram.
+	P.O.- East Udayrajpur,
+	P.S.-Madhyamgram                                                                                    email: rupahalder1@gmail.com
+	Kolkata -700129                                                                                         Contact no: +91-9038756220
+	CAREER OBJECTIVE:-
+	ACADEMIC QUALIFICATION:-
+	EXTRA-CURRICULAR  ACTIVITIES :-
+	PERSONAL DETAILS :-
+	DECLARATION  :-
+
+

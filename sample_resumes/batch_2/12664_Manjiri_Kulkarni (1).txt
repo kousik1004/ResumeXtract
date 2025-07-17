@@ -1,0 +1,263 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Manjiri Kulkarni
+
+		Thane, MH
+	
+
+	+91 99877 13415
+	
+
+	manjiris.kulkarni@outlook.com
+	
+
+	LinkedIn Profile
+	
+
+
+
+
+
+6 years of experience in all stages of software development right from design, analysis, development, testing and implementation of web and client-server applications. Successfully interacted with clients at various levels for requirement gathering and documentation, development, production, resolving bugs and post- production enhancements. 
+Technical Skills
+	Microsoft Technologies
+	:
+	C#. Net, ASP.NET, MVC, XML, LINQ, Entity framework, jQuery, JS, WPF, ADO.NET.
+
+	Web technologies
+	:
+	Web Services, WCF, and Ajax
+
+	Web Designing Tools
+	:
+	Photoshop, Picasa
+
+	RDBMS
+	:
+	MS SQL Server 2012,2014, MS Access
+
+	Tools/Utilities/IDE
+	:
+	MS Visual Studio.Net, .Net Framework 4.5, Team Foundation server
+
+
+Experience
+May 2016 – Till date
+Senior Software Engineer / Capgemini India
+Worked on enhancements and security checks in existing web applications. Also attended internal trainings like Bootstarp, Angular Js. 
+Jan 2013 – Apr 2016
+Software Engineer / 16Works
+Worked on different web and windows applications from requirement documentation to production phases. Also visited client places for requirement gathering, deployments, post production maintenance and enhancements activities.
+June 2012 – NOv 2012
+Software Developer(intern) / Crossover Technologies
+Joined as software developer (intern) and worked on different innovative modules of project.
+Education
+May 2012
+Bachelor of Engineering / Mumbai University
+Passed with First class in Computer Engineering.
+
+Work Experience
+	Project 1 – Member Portal Application
+	Aug 2018 – TILL DATE
+
+	Role – Senior Software Engineer
+
+	Environment - .NET C#, SQL server 2008, Visual studio 2013
+
+	Description -
+· Member portal is a web application for users who has purchased policies from providers.
+This application is used to track the status of current claim initiated by user and also able to see history of all claims irrespective of status ie Approved or Rejected.
+· Another tab is available for policy details.
+· On additional functionality was added for providers search, where user can search for providers for specific service or within his/her distance criteria. 
+
+	Project 9 – Rethink
+	Nov 2016 – Apr 2017
+
+	Role - Senior Software Engineer
+
+	Environment - .NET C#, SQL server 2012, Visual studio 2012
+
+	Description -
+· Rethink was developed by Passion Global. The Life team and the Rethink application has been purchased by WTW. Rethink is currently being hosted by Wired Media Data Center (for Rethink) and Amazon Web Services (for Web Server and Rethink2) and is being migrated to the WTW data center. 
+· Rethink is a web application to help our clients (insurers) generate Price Quotation for their Group Benefit products. It is mainly used by our client’s marketing team to generate price of their group benefit products such as Group Health, Group Term Life, and Group Personal Accident. Meet client for requirement document.
+· Security fixes.
+· Some enhancement in existing application.
+
+
+
+	Project 8 - Tele Calling
+	Sept 2015 - May 2016
+
+	Role - Software Developer, Tester & Implementation at client side
+
+	Environment - .NET C#, MVC 4.5, SQL server 2014, Visual studio 2013
+
+	Description -
+· This is a web application, developed for an event organization company, which organize exhibitions. Client has their own calling team, for different activities like visitor promotion calling, lead generation calling etc. It was easy for senior management to do business intelligence and get count of called data on daily basis using this application. And main purpose of this application was security which is covered by not giving entire data access to callers, instead caller can see single record on screen at a single moment.
+· meet client for requirement document
+· Create UI screens using ACE template and database using SQL server2014
+· Coding is done in C# MVC and Entity Framework  
+· Test application
+· I was also worked on enhancement and bug fixing after production.
+· Make application live.
+
+
+
+
+	Project 7 - Sales Force Registration
+	May 2015 - Sept 2015
+
+	Role - Software Developer & Tester
+
+	Environment - .NET C#, MVC 4.5, SQL server 2012, Visual studio 2013
+
+	Description -
+· This is a web application, developed for an event organization company, which conduct exhibitions. This client wants to track sales people activities on daily basis and generate report for the same.eg daily attended client by one sales person.
+· Prepared UI screens using ACE template & database SQL server 2014 based on requirements
+· Coding is done in C# MVC and Entity Framework  
+
+
+	Project 6 - Onsite Registration
+	June 2014 - Sept 2014
+
+	Role - Software Developer & Tester
+
+	Environment - .NET C#, MVC 4.5, SQL server 2012, Visual studio 2012
+
+	Description -
+· This is a web application, developed for an event organization company, which conduct exhibitions. For this client we created an Onsite registration system which is used by client at each event for registration of visitor onsite and also maintain pre-registered and onsite registered data. Also print entry pass for visitors. Client can also do business intelligence using this application.
+· Prepared UI screens using ACE template & database SQL server 2014 based on requirements
+· Coding is done in C# MVC and Entity Framework 
+
+
+	Project 5 - Touchworks application
+	July 2013 - Nov 2013
+
+	Role - Software Developer, Tester & Implementation at client side
+
+	Environment - WPF, Visual studio 2012, Web-Service
+
+	Description -
+· This is windows application Reliance Hospital Project. Application is basically for display departments, doctors’ information in hospital.
+· This application developed using WPF technology.
+· Data is directly fetching from Reliance’s internal web- service and displayed on screen.
+· From January 2014 to June 2014, I was working on small WPF applications for Touchworks Product (For different Clients)
+
+
+	Project 4 - Touchworks application
+	June 2013 - July 2013
+
+	Role - Software Developer & Tester
+
+	Environment - WPF, Visual studio 2012, SQL server 2012
+
+	Description -
+· This is windows application for internal product Touchworks. Using this application user can schedule contents should display on screen. Kiosk can also be used as photo kiosk or some other user interactive purpose based on requirement.
+· This application developed using WPF technology.
+· Touchworks in created to keep user engage in different activities, so using this application user can schedule what media contents should be display on screen, on what time and for what duration.
+· Also, there was feedback form for user to keep him/her more engage.
+
+
+	Project 3 - Web Site for Client
+	Nov 2012 - Feb 2013
+
+	Role - Software Developer & Tester
+
+	Environment - .NET C#, MVC 4, SQL server 2012, Visual studio 2012
+
+	Description -
+· User can go through the articles, latest news, recent activity’s photos, videos etc.
+· Also, can register for upcoming program in OWA campus. Similarly, can share his experience to the OWA management.
+· Worked on UI part using HTML, CSS, jQuery and bootstrap
+· Database created in SQL server and implemented full text search in project for searching functionality.
+· Worked on enhancement part. 
+
+
+	Project 2 - Web Site for Client
+	July 2012 - May 2013
+
+	Role - Software Developer & Tester
+
+	Environment - .NET C#, SQL server 2012, Visual studio 2012, CCAvenue payment gateway.
+
+	Description -
+· Website developed for music company. User can register to site to purchase or gift songs to others or user can listen sample tracks online without registering.
+· Developed all UI part using HTML, CSS, jQuery.
+· Database created in SQL server 2012.
+· Got chance to work on payment gateway integration to existing application.
+· Backend coding done using C#, MVC architecture and Entity Framework.
+· Also worked as manual tester and bug resolving activities in production environment.
+
+
+
+	Project 1 - Internal Project
+	Jan 2012 - June 2012
+
+	Role - Software Developer & Tester
+
+	Environment - .NET C#, SQL server 2012, Visual studio 2012
+
+	Description -
+· Touchworks is a kiosk developed basically for user engagement activities. This project was a web site for accessing those kiosks remotely.
+· Developed all UI part using HTML, CSS, jQuery.
+· Database created in SQL server 2012.
+· Backend coding done using C#, MVC architecture and Entity Framework. 
+
+
+
+2

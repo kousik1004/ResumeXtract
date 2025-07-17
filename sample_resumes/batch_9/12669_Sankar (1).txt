@@ -1,0 +1,146 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+Sankar.P									+91-7760915569
+spsankar9@gmail.com							+91-9600327473	
+Objective:
+Seeking a challenging position in a Professional Organization, where my skills and my education background can add value to the growth of the organization and allow development of my skills to organization potential.
+Professional Summary:
+· Around 5 years of experience as a Software Developer in software design, analysis, development, testing and implementation of web and client server applications using Microsoft Technologies.
+· Having the onsite experience of activities like requirement gathering, knowledge
+transfer, client management, attending business meeting, integration and project transition.
+· Hands on experience to design 3-tier, n-tier, MVC and MVVM architecture.
+· Hands on experience in application development using C#, Windows Forms, WPF, Web Forms,MVC, REST Web API, Soap Web Services in Asp.Net using C# as the code-behind language and ADO.Net as the Database data consumer.
+· Extensive experience in design and development of applications using .Net and Web technologies like XML, CSS, Ajax, JavaScript and HTML.
+· Functional domain experience involves HealthCare Provider Portal, Patient Portal Web Application and e-Signature Embedded Web Application.
+Work Experience:
+· Working as a Software Developer in Ideasurge Solutions Pvt. Ltd, Bangalore from February-2013 to till date.
+Education:
+· Post Graduate Diploma in Information Technology from Symbiosis Centre For Distance Learning, Pune with 69.9%.
+· Bachelor of Information Technology from Park College of Engineering and Technology, Coimbatore affiliated to Anna University, Chennai with 87.6%.
+· Higher Secondary Examination from Eden Gardens Higher Secondary School, Udumbiam with 90%.
+· SSLC Examination from Government Higher Secondary School, Nainarpalayam with 92%.
+Technical Skills:
+· Microsoft Technologies		: C#, ASP.Net, WIN Forms, WPF, MS-SQL.
+· Web Technologies		: HTML, JavaScript, XML, Web API
+· Database Technologies		: Microsoft SQL-Server 2005, 2008&2014, MS –Access.
+· Performance Tool		: Microsoft Visual Studio 2015,2008 &2005,SQL Server 2008,2012
+· Architecture worked		: 3-Tier, n-Tier, MVVM, MVC
+
+Project Profile:
+1. Patient Portal:
+Role			: Requirement analysis, design and development of Web Forms
+Environment		: Microsoft .Net 4.5, MS SQL Server 2012.
+Tools			: Microsoft Visual Studio 2015, MS SQL Server 2012
+Description:
+The Patient portal from WIN is a secure online website that gives patients convenient 24-hour access to personal health information from anywhere with an Internet connection. Using a secure username and password, patients can view health information such as medications and their treatment plan. By using this portal, Patient can enroll themselves and they can pay the money through secured online payment gateways like First Data and PayPal.
+Responsibility:
+· Played a key role in the development of Patient Enrollment and involved in production support.
+· Analyzed the requirements and successfully released the transaction version.
+2. Provider Portal:
+Role			: Requirement analysis, design and development of Web Forms
+Environment		: Microsoft .Net 4.5, MS SQL Server 2012.
+Tools			: Microsoft Visual Studio 2015, MS SQL Server 2012
+Description:
+The Provider Portal from WIN is a simple web-application which facilitates individual Physicians, Group of Physicians and the Hospitals to review the patients status as on date and allows the physician to make any suitable update in the Patient’s Outcome through the course of treatment. This portal allows the provider’s to see the status of their claims and also they can download the copy of outcomes and remittance report. Providers can do their e-signature for the prescriptions through this portal.
+Responsibility:
+· Requirement analysis planning, designing the web form and implementing the code.
+· Involving in Requirement gathering and Production Support Activities.
+3. Authorization Tracking System
+Role			: Requirement Gathering, Requirement analysis, design and development of      
+			  Web Forms 
+Environment		: Microsoft .Net 4.5, MS SQL Server 2012.
+Tools			: Microsoft Visual Studio 2015, MS SQL Server 2012
+Description:
+WIN’s Authorization Tracking System, commonly known as ATS.Net, is more than just an application to track Medical or Pharmacy related authorizations.  It is a fully integrated Care Management System, an Electronic Medical Records Management System, an Outcomes Management System, and a Prescriptions Processing System combined into one. Designed with flexibility in mind, the application can support multiple fee schedules and can scale to serve multiple contracts. It maintains tight integration with a Claims Management System and includes numerous ancillary capabilities like a powerful routing and workflow module, an eligibility engine (with COB functions), and such document transaction tools as faxing, emailing, and mail-merging.  
+Responsibility:
+· Designing the windows forms and implementing the code and updating the ATS application according to provider portal website updates.
+· Involving in Requirements gathering and Production Support Activities.
+4. Genetics Portal:
+Role			: Requirement analysis, design and development of Web Forms
+Client			: WIN Healthcare, USA.
+Environment		: Microsoft .Net 4.5, MS SQL Server 2014.
+Tools			: Microsoft Visual Studio 2015, MS SQL Server 2008
+Team Size		: 5
+Description:
+	WIN’s Genetics portal provides an ability for their genetics client to communicate with patients, to receive the genetics samples from the patients and process it through the portal. The portal also provides ability to submit the claim for their clients and they should be able to see the status of the claim as well. 
+Responsibility:
+· Designing the Web forms and implementing the code and updating the ATS application according to provider portal website updates.
+· Involving in Requirements gathering and Production Support Activities.
+5. Pharmacy Benefits Management System:
+Role			: Requirement analysis, design and development of Web Forms
+Environment		: Microsoft .Net 4.5, MS SQL Server 2012.
+Tools			: Microsoft Visual Studio 2015, MS SQL Server 2012
+Description:
+	WIN’s PBMS portal provides ability for their pharmacies to communicate with patients, to dispense the drugs to the patients and process it through the portal. The portal also provides ability to submit the claim for their clients and they should be able to see the status of the claim as well. 
+Responsibility:
+· Designing the Web forms and implementing the code and updating the ATS application according to provider portal website updates.
+· Involving in Requirements gathering and Production Support Activities.
+6. Diabetes Management System:
+Role			: Requirement analysis, design and development of Web Forms
+Environment		: Microsoft .Net 4.5, MS SQL Server 2012.
+Tools			: Microsoft Visual Studio 2015, MS SQL Server 2012
+
+Description:
+	CDC’s Diabetes Management system allows the user to intake the patient details, store the information of various diabetes testing results, schedule the follow-up date for patient and notify the patient through SMS. It allows the user to generate the various reports and populate the patient records from the various templates.
+Responsibility:
+· Designing the Web forms and implementing the code.
+· Involving in Requirements gathering and Production Support Activities.
+Personal Details:
+Name			: Sankar. P
+Father Name		: Polachi .P
+Date of Birth		: 27-Jan-1991
+Marital Status		: Single
+Languages Known	: Tamil, English
+Passport No		: L 7419996
+Present Address	: 390/7 29th A Main,BTM Layout,Bangalore-560076
+
+Declaration:
+	I hereby by declare that all the information given above is true to the best of my knowledge

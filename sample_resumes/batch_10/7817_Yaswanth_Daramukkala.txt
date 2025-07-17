@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yaswanth Daramukkala
+Email: yaswanthdsers@gmail.com
+Mobile: +91 9538021115
+
+
+Professional Summary:
+
+· Around 5 years of IT experience with 1+ year of experience in Data Science & 3.5 years of relevant & extensive experience in the field of Quality Assurance  & Software Testing
+· Had experience in working with statistical algorithms like Linear Regression, Logistic Regression, SVM, KNN, Time Series etc.
+· Had great understanding on Algorithms like Decision Tree, Random Forest.
+· Proven knowledge on Hypothesis Testing and performed Chi-Square Test, t-test etc. to validate Null and Alternate Hypothesis.
+· Had experience in Data Cleansing techniques like Outliers Handling, missing Values handling.
+· Had expertise in working with different Data Sources like SQL Server, Flat files etc.
+· Proficient statistical programming skills in R, strong analytical skills and understanding of quantitative and statistical analysis
+· Proficient in building Predictive Models.
+· Proficiency in  Data Visualization using Tableau and had created Dashboards to visualize the generated Results.
+· Timely Review of Algorithms and recursive implementation.
+· Ability to analyze and understand the requirements 
+· Ability to clearly and concisely explain to the team everything from individual goals to specific tasks
+· Excellent Planning and organizing skills ensuring completion of project within the estimated cost and budget
+· Experience in Client Handling, Project and People Management.
+· Expertise in Data Obfuscation & Migration Testing Projects.
+· Proficient in SDLC, STLC and Testing Methodologies
+· Experience in BFSI Domain – Banking (Retail Banking & Investment Banking).
+· Experience in the Project Management Activities like – Preparing Estimations, Work Orders, Status Reports, Org Reports, Billing, Invoicing, QA Metrics
+
+Education Qualification
+· Bachelor of Technology from JNTU, Kakinada in 2013.
+
+Professional Experience:
+
+· Company 	: CAPGEMINI
+Designation       : Associate Consultant
+Period      	: Apr 2017 – Till date
+Technology        : Data Analytics
+
+· Company 	: Technosoft Corporation Pvt.Ltd.
+Designation        : Software Engineer
+Period      	: Oct 2016 – Apr 2017
+Technology        : Quality Assurance
+
+· Company 	: IBM through Magna Infotech. 
+Designation 	:  Software Engineer
+Period 		: Apr 2016 – Oct 2016
+Technology        : Quality Assurance
+
+
+· Company 	: Attra Infotech
+Designation 	: Software Engineer 
+Period 		: Mar 2014 – Jan 2016
+Technology        : Quality Assurance
+
+Technical Skills
+· Programming Languages: VB Script, R 
+· Machine Learning Algorithms: Linear Regression, Logistic Regression, Cluster Analysis, Decision Tree, 
+Random Forest, SVM, KNN & Naive Bayes
+· Operating System: Windows10/7/XP
+· Reporting Tools: Tableau and Excel
+· Database: Oracle, SQL Server
+· IDE - RStudio
+· Business Domain: Banking (Retail & Investment)
+Kaggle & Pilot Projects:
+Project: To develop a model to predict the propensity of a consumer committing fraud at the underwriting stage for unsecured business loan product
+Tools used: - R and SQL
+Approach: - After initial data exploration and significant features in the dataset were found out, business ratios helped to better understand the depth of the problem, like FOIR, DSCR, D/E, LTV etc. Variable Scoring concept was used for better implementation. Logistic Regression was applied for better accuracy.
+
+Project: To develop predictive model to improve Automation Index for testing projects 
+Tools used: - R and Tableau
+Approach: - After finding the multiple factors influencing the automation index, we applied Multiple Linear regression was applied for better equation.
+
+Project: To develop predictive model to improve Productivity for testing projects 
+Tools used: - R and Tableau
+Approach: - After finding the multiple factors influencing the Productivity for Design and Execution, we applied Multiple Linear regression was applied for better equation. We derived two separate equations for Design and Execution
+
+Critical Data Migration  Projects worked on
+· Bank Mutual Merger and Acquisition: As part of the Bank Mutual M&A project, we had to review the Bank Mutual products, applications, business processes etc. for integration to Associated Bank systems and processes. This includes however not limited to application mapping, product mapping, customer profiling, data mapping and migration of 100K+ account data and 200K+ customer profile data to 50+ Associated Bank systems, conversion of 70K debit card and 40K online banking profiles etc.
+· Associated Connect to Universal Online Banker (UOB): Associated Connect is Online banking Platform for Associated Bank which will be Migrated to Universal Online Banker application. As part of Migration testing, we are validating the data from Source to destination and also perform regression testing between interface applications.
+· Business Banking Service Provider: As part of this project, we have create a model which can analyse the Type of Business Services that can be offered to any specified Client based on the set of conditionalities and to suggest whether the Client can be offered with requested Services or not. The Services may include like Positive pay, ACH Services and Loan Limits etc.
+Responsibilities:
+· To understand the Business problem and interact with the client on regular basis to get more and deep insight of the data shared by the client
+· To find out the outliers in the data and use statistical concepts to study the effect of these outliers on the given data
+· Developed in house tools for Data Analysis (Data Health Check, Data Mapping and Data Load) using VB Script 
+· Perform Cross Browser and Mobile testing using Sauce labs
+· Develop end to end traceability matrix of online banking profile migration to ensure that no profile is dropped
+· Mentor the offshore team containing Data Analysis and functional resources 
+· Document the test results in HP Application Lifecycle Management and ensure all the requirements are covered
+· Review the test artifacts with client and ensure there is no gap in requirements coverage
+· Prepare the daily and weekly project status report and send it to project stakeholders
+· Prepare the test closure report at the end of a project and send it to project stakeholders
+
+Awards & Recognition
+· Appreciation from client and Capgemini managers for handling QA and Predictive Modelling activities for Associated Connect to Universal Online Banker Migration project. 
+· Received “Best Team” award for the results delivered.
+· Received “Customer Delight” award.
+· Various appreciations from client, end users and other teams for delivering the on-time deliverables in time critical projects, reducing time and effort by creating Value Adds.
+
+Training and Papers Presented
+· Had completed the Data Science Course offered as part of Capgemini Trainings.
+· Had presented a paper named “Implications of Artificial Intelligence on Software Testing” in “Software Testing Council(STC) – 2018”, which got selected for Reginal rounds.
+Declaration:
+I, hereby, declare you that the information provided above is true to the best of my Knowledge and Belief.
+
+                                                                                                                                                         Yaswanth Daramukkala.

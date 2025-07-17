@@ -1,0 +1,436 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ravindra Reddy_Mainframe Testing_8+exp
+
+Ravindra Reddy Nallamilli	                                         Mobile : +91- 8939540543
+	                                                     E-mail : ravindrareddy.nallamilli@gmail.com
+
+Ravindra Reddy Nallamilli	                                                 Mobile : +91- 8939540543
+	                                                              E-mail : ravindrareddy.nallamilli@gmail.com
+
+PROFESSIONAL SUMMARY
+
+· Having 8.3 years of professional experience in the field of Information Technology and focused experience in Mainframes technology with a strong background in manual testing in Core Banking and Cards & Payments domains.
+· Well versed in manual testing of the mainframe applications and have sound knowledge of test cycle process with the knowledge on different types of testing activities like system testing, integration testing, user acceptance testing.
+· Worked extensively in JCL, COBOL and VSAM and well versed with DBMS like DB2 and Z/OS concepts.
+· Strong in testing both batch applications using COBOL, JCL, DB2, IMS DB and web-based applications involving stored procedures at the backend.
+· Good in understanding business processes / requirements and translating them into 
+Test scripts.		
+· Good in handling the end to end testing of applications by coordinating with different interfacing teams and tracking the testing status to completion. 
+· My abilities are complemented by sound communication and good user interaction abilities. I am well versed with the quality processes.
+· Eminent in handling the offshore team operations like Supply and demand, Productivity metrics, and SLA- KPI indicators tracking.
+· Well-developed interpersonal and communication skills with excellent documentation and presentation skills. 
+· Good team player with ability to grasp new concepts quickly and implement them in a productive manner.
+· Also have a good knowledge on HP Quality Centre, CA Agile and JIRA for the testing cycles, running the test scripts, defect status tracking and reporting.
+· Have knowledge of agile methodologies and Fidelity Systematics. I am a certified Scrum Master from Scrum Alliance.
+
+EMPLOYMENT HISTORY 
+
+	Name of the Company
+	Designation
+	Address of the employer
+	From
+	To
+
+	BTCI(Barclays)
+	Test Analyst
+	EON IT Park, Pune
+	Apr 2017
+	Till date
+
+	WIPRO LTD
+	Sr. Test  Engineer
+	Mahindra City, Chennai
+	Nov 2015
+	Mar 2017
+
+	INFOSYS LTD
+	Test Analyst
+	Mahindra City, Chennai
+	Nov 2013
+	Nov 2015
+
+	SYNTEL LTD
+	Testing Engineer 
+	SIPCOT IT Park, Chennai
+	Aug 2010
+	Oct 2013
+
+
+
+EDUCATION
+
+	Title of the Degree with Branch
+	College/University	
+	Percentage 
+	Year of Passing
+
+	Bachelor of Engineering in Electrical and Electronics Engineering
+	Sanketika Vidya Parishad Engineering College Affiliated to Andhra University, Visakhapatnam, Andhra Pradesh.
+	73%
+	2008
+
+
+
+TECHNICAL SKILLS	
+
+	Operating System	
+	MVS, Mainframes OS/390(Z/OS)
+
+	Programming Languages
+	COBOL, JCL
+
+	Databases 
+	DB2,VSAM and basic working knowledge of IMS DB
+
+	Other Utilities and Tools
+	TSO, ISPF, FILEAID, CHANGEMAN,ENDEAVOR,SPUFI, QMF, JHS, Jobtrac, TWS, BMC utilities, Basic knowledge on IMPACS and ST in Systematics core banking application
+
+	Defect Management
+	HP Quality center 10.0, CA Agile Central, JIRA
+
+	ECM BPM Technologies
+	Filenet, KOFAX 10 batch manager,
+
+
+
+ACHIEVEMENT
+
+· I was awarded with a “Certificate of Appreciation” by the Vice-President of American Express for my hard work and commitment for delivery excellence.
+· Received a ‘WINNERS CIRCLE’ award in WIPRO Technologies as an appreciation for my deliverables and metrics presented to the client.
+· I am a Certified Scrum Master (CSM) from the Scrum Alliance.
+
+PROJECTS
+
+	1. Balance expansion, Barclays
+
+
+
+	Project Title	
+	UKBA Balance expansion
+
+	Duration
+	Apr 2017-Till date
+
+	Location
+	BTCI, Pune, India
+
+	Hardware
+	IBM- 3090
+
+	Operating Systems
+	MVS,OS/390
+
+	Programming Languages and DBMS
+	COBOL, JCL, DB2, IMS
+
+	Tools
+	CA Agile Central, Excel, TWS
+
+	Business Area
+	Barclays UK technology
+
+
+
+PROJECT DESCRIPTION:
+
+Barclays is one of the oldest British multinational banking and financial services company with its operations in retail, wholesale and investment banking as well as in wealth management, mortgage lending and credit cards.
+UKBA (United Kingdom branch accounting) is the portfolio in the retail banking business (UKRBB) of Barclays handling the day to day branch accounting activities of all the branches in UK. Balance expansion is a mainframe optimization initiative by the Barclays UK technology division as a part of the company’s strategy in optimization and modernization. All the balance fields in the core banking systems programs are being expanded to cater to the larger balance values thereby reducing the failures occurring in LIVE due to balance overflows and optimizing the execution time of the batch runs in LIVE.
+
+ROLES AND RESPONSIBILITIES IN THE PROJECT: 
+
+As a Test Analyst leading the team of 4, I was responsible for the deliverables from offshore and involved in following activities.
+· Develop test approach and test plan documents for the business requirements and review them with the stakeholders and obtain signoff.
+· Create and review test cases for all the technical requirements assigned to me and the test cases written by other members of the team. 
+· Perform the System testing and review the results for the impacted components and publishing the daily status report to all the stakeholders and business.
+· Multiple overnight UKBA batches execution in TWS covering all the impacted applications and resolving the abends. 
+· Defect identification and reporting them to the development teams and doing the follow-up for defect fixing and retesting the defects once fixed.
+· Coordinate with the different stakeholders like Technical Delivery manager, Project manager, Designers, Business Analysts, and Developers to track the project status and take corrective actions for an on-time delivery within expected costs.
+· Maintaining the CA Agile central for the project as per SDLC standards and performing activities like test cases mapping to requirements and execution of SIT test cases, defect tracking and reporting.
+
+	2. ECM BPM Portfolio , Toronto Dominion(TD) Bank
+
+
+
+	Project Title	
+	NAMES Replatform-Panagon to FileNet
+
+	Duration
+	Nov2015 – Mar 2017
+
+	Location
+	WIPRO, Chennai, India
+
+	ECM BPM Technologies
+	FileNet, KOFAX 10.0
+
+	Tools
+	HP Quality Centre, Excel
+
+	Client
+	TD Bank, US
+
+
+
+PROJECT DESCRIPTION:
+
+The Toronto-Dominion Bank is a Canadian multinational banking and financial services corporation.TD Bank Group is the second largest bank in Canada by market capitalization and a top-10 bank in North America. Globally, it ranks as the 19th largest bank in the world. 
+ECM BPM portfolio in the US operations of TD is the Enterprise Content Management and Business Process Management portfolio. NAMES is an application in this portfolio used by customer associates to determine the anti-money laundering activities of any newly opened account in the bank and gives scoring to the customers. NAMES which is currently on the Panagon E-process platform is being rewritten to FileNet process engine. 
+
+ROLES AND RESPONSIBILITIES IN THE PROJECT: 
+As a Sr. Test Engineer, I was responsible for the deliverables from offshore and involved in following activities.
+
+· Create detailed SIT strategy and plan and write test cases for all the functional requirements assigned to me and review the test cases written by other members of the team. Handle the test case review calls with BA and Business teams and obtain signoff.
+· Data setup on the accounts for various combinations of account creations for store, online and phone banking customers.
+· Perform the System testing in the application, review the results for the impacted functionality and publishing the daily status report to all the stakeholders and business.
+· Defect identification and reporting them to the development teams and doing the follow-up for defect fixing and retesting the defects once fixed.
+· Maintaining the Quality Centre for the project as per SDLC standards and performing activities like test cases mapping to requirements and execution of SIT test cases, defect tracking and reporting.
+· Publishing the SIT closure report and obtaining signoff. Coordinate with BAT and PAT testers from Lines of Business (LOB).
+
+	 3. 7 Days Account Switching, Barclays
+
+
+
+	Project Title	
+	7 Days Account Switching
+
+	Duration
+	Aug 2014- Oct 2015
+
+	Location
+	INFOSYS, Chennai, India
+
+	Hardware
+	IBM- 3090
+
+	Operating Systems
+	MVS,OS/390
+
+	Programming Languages and DBMS
+	COBOL, JCL, DB2, IMS
+
+	Tools
+	HP Quality Centre, Excel, TWS
+
+	Client
+	Barclays, UK
+
+
+
+PROJECT DESCRIPTION:
+
+7 Days accounting switching is a regulatory framework proposed by payments council in the UK and being participated by 33 banks along with Barclays. This new system allows the customer to switch his account to or from Barclays in 7 working days. There are a set of activities happening on each day and finally the customer will be able to operate his  new account with the same details he has on his old account like standing orders, direct debits etc. Any payments made to the customer’s old account should be redirected to the new account for a period of 13 months.
+
+ROLES AND RESPONSIBILITIES IN THE PROJECT: 
+
+As a Test Analyst leading the team of 2, I was responsible for the deliverables from offshore and involved in following activities.
+· Develop test approach and test strategy document for business requirements and review them with the client.
+· Create detailed SIT test plan and write test cases for all the functional requirements assigned to me and review the test cases written by other members of the team. 
+· Perform the System testing and review the results for the impacted components and publishing the daily status report to all the stakeholders and business.
+· Complete UKBA batch execution in TWS covering all the impacted applications and resolving the abends. 
+· Defect identification and reporting them to the development teams and doing the follow-up for defect fixing and retesting the defects once fixed.
+· Coordinate with business users during UAT and ensuring that the product is reaching their expectations and also support LIVE proving activities.
+· Maintaining the Quality Centre for the project as per SDLC standards and performing activities like test cases mapping to requirements and execution of SIT test cases, defect tracking and reporting.
+
+	3. Alchemy Platinum- Migration of accounts from interest to daily fee, Barclays
+
+
+
+	Project Title	
+	Alchemy Platinum
+
+	Duration
+	Dec 2013- July 2014
+
+	Location
+	INFOSYS, Chennai, India
+
+	Hardware
+	IBM- 3090
+
+	Operating Systems
+	MVS,OS/390
+
+	Programming Languages and DBMS
+	COBOL, JCL, DB2, IMS
+
+	Tools
+	HP Quality Centre, Excel, TWS
+
+	Client
+	Barclays, UK
+
+
+
+PROJECT DESCRIPTION:
+
+Alchemy is a critical project from both the bank and the customer point of view which enables the bank to charge a structured daily fee on the customers in place of the existing debit interest in case of overdraft or emergency borrowing as well as significant revenue generator for the bank. Alchemy Platinum is the project that supports and enables this transition of customers from debit interest proposition to daily fee proposition. It also has a functionality to change the borrowing limits of the retail customers besides ensuring that the wealth customers are not covered in scope of this transition. The design also covers the feeds from the backend mainframe systems to ETL systems to generate reports of successful transition which is an easy and convenient way for business to review.  
+
+ROLES AND RESPONSIBILITIES IN THE PROJECT: 
+
+As a Test Analyst leading the team of 3, I was responsible for the deliverables from offshore and involved in following activities.
+· Develop test approach and test strategy document for business requirements and review them with the client.
+· Create detailed SIT test plan and write test cases for all the functional requirements assigned to me and review the test cases written by other members of the team. 
+· Perform the System testing for the impacted components and publishing the daily status report to all the stakeholders and business.
+· Complete UKBA batch execution in TWS covering all the impacted applications and resolving the abends and sending feed to other systems i.e. customer system and ETL.
+· Had regular walkthrough with the Test Architect assessing the status and coverage of our testing as we are testing commission cycle which one of the complex parts in UKBA application involving pricing.
+· Defect identification and reporting them to the development teams and doing the follow-up for defect fixing and retesting the defects once fixed.
+· Coordinate with business users during UAT (User Acceptance Testing), done the data setup required for the UAT testing, performing the batch executions and consolidating the results for UAT users.
+· Maintaining the Quality Centre for the project as per SDLC standards and performing activities like test cases mapping to requirements and execution of SIT and UAT test cases, defect tracking and reporting.
+· Documentation of the process and sharing them with the team as part of Knowledge management.
+
+	4. Third Party Acquirer Wholesale Pricing, American Express
+
+
+
+	Project Title	
+	Third Party Acquirer(TPA) wholesale pricing
+
+	Duration
+	Dec 2012- Oct2013
+
+	Location
+	SYNTEL, Chennai, India
+
+	Hardware
+	IBM- 3090
+
+	Operating Systems
+	MVS,OS/390
+
+	Programming Languages and DBMS
+	COBOL, JCL, DB2, VSAM, IMS
+
+	Tools
+	HP Quality Centre, Excel
+
+	Client
+	American Express(AmEx),USA
+
+
+
+PROJECT DESCRIPTION:
+American Express Company popularly known as AmEx is a multinational financial services corporation best known for its credit card, charge card and traveler’s cheque businesses. AmEx cards accounts for approximately 24% of the total dollar volume of the credit card transactions in the US.
+ESNA (Establishment Services North America) is a portfolio in the AmEx Technologies division which handles the setup and maintenance of the merchants known as Service Establishments.ESNA is also responsible for all the payment related activities like capturing the merchant submissions, applying pricing to the transactions and processing the transactions till payment for the merchants in the US and Canada.
+Third party acquirer wholesale pricing project will enable the functionality to systematically capture and store Sponsored Merchant data elements from Authorization, Submission and Sponsored Merchant files. The data will be used to track charge volume, display on Card member statements and reporting. TPA model opens the opportunity for the merchant to enroll on a flexible pricing and will also allow AmEx to reduce their spending on handling the merchant data by outsourcing the actual merchant data handling to sponsored merchant partners.
+ 
+ROLES AND RESPONSIBILITIES IN THE PROJECT: 
+
+As a senior testing engineer in the team, I was involved in the following activities.
+· Develop test approach and test strategy document for business requirements and review them with the client.
+· Create SIT test plan and write test cases for all the functional requirements covering SCOUT, ESP and MSSS applications.
+· Perform the system integration testing for all the impacted components and publishing the daily status report to the end to end teams and business.
+· Execute the end to end job cycle execution covering all the impacted applications.
+· Defect identification and reporting them to the development teams and doing the follow-up for defect fixing and retesting the defects once fixed.
+· Coordinate with business users during UAT (User Acceptance Testing), done the data setup required for the UAT testing, performing the batch executions and consolidating the results for UAT users.
+· Maintaining the Quality Centre for the project as per SDLC standards and performing activities like test cases mapping to requirements and execution of SIT and UAT test cases, defect tracking and reporting.
+
+	5. Service Establishment (SE) number generator, American Express
+
+
+
+	Project Title	
+	Service Establishment  Number Generator
+
+	Duration
+	Oct 2010- Nov 2012
+
+	Location
+	SYNTEL, Chennai, India
+
+	Hardware
+	IBM- 3090
+
+	Operating Systems
+	MVS,OS/390
+
+	Programming Languages and DBMS
+	COBOL, JCL, DB2, VSAM, IMS
+
+	Tools
+	HP Quality Centre, Excel
+
+	Client
+	American Express(AmEx),USA
+
+
+
+PROJECT DESCRIPTION:
+
+Service Establishment (SE) number generator project provides a unified platform for various applications both domestic and international to generate the unique service establishment numbers for all the markets both GMS (Global Merchant Services) and GNS (Global Network services). It helps in increased control of the SE numbers globally by business and eliminates the risk associated with SE duplication globally.
+An online application is developed to address the concerns of the inadequate SE numbers for the GNS markets by releasing the blocked numbers from the GMS markets. There are batch processes to generate the SE numbers requested from various markets within their respective SE03 (first 3 digits of the SE numbers) and distribute them through Axiom reports, Secured file transfers (SFT) and CSV file downloads. The system also has certain capabilities like sending the feed to merchant authorization systems (CAS) with numbers generated, recycling the unused numbers within 90 days of generation and syncing the existing data with the new one. It also serves as an additional authentication level for international merchant setup by systems like JAPA (Japan Asia Pacific Australia), Genesis (International).
+
+ROLES AND RESPONSIBILITIES IN THE PROJECT: 
+
+As a senior testing engineer in the team, I was involved in the following activities.
+· Develop test approach and test strategy document for business requirements and review them with the client and end to end teams.
+· Providing the end to end test management for more than 15 interfacing applications by proving the test data for their testing and involving in the connectivity and functional issue resolution.
+· Conduct the issue resolution calls and coordinating the application teams for faster issue resolution and defect fixing thereby ensuring that the project testing deliverables adhere the timelines. 
+· Create SIT test plan, understanding the business requirements and converting them into functional test cases and perform the system testing covering the newly developed online application and its associated batch processes.
+· Generating the feed for the authorization and sync up systems as per their test needs. 
+· Coordinating with business users during UAT and understanding their testing needs to provide test data for their testing. Ensuring that the business queries are clarified and signoff for implementation is provided by them.
+· Perform regression testing of the application as a new system is being introduced by eliminating the decades old SE number intelligence and ensuring that  the changes doesn’t produce an adverse effect on the application.
+· Following all the quality processes as per SDLC standards and maintain the Quality Centre for the project.
+
+PERSONAL DETAILS:
+
+Full name:                    Ravindra Reddy Nallamilli
+Father’s name:             Prabhakara Reddy Nallamilli
+Address:  	          Door No: 53-41-27/2, Flat no: 101,
+		          Sai Krishna Vihar, Maddilapalem,
+		          Visakhapatnam – 530013.
+Nationality:                  Indian
+Passport No:                H0412042
+Date of birth:               2nd Nov 1986.
+
+
+- 1 -
+- 2 -
+
+

@@ -1,0 +1,221 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RANGE OF EXPERIENCE
+
+  
+														
+PRAVEEN									    PH :    , +91-7207974911
+SAP BI Consultant                                                                                                          Email:   pravin.t548@gmail.com
+
+RANGE OF EXPERIENCE	
+Having around 6+ years of IT Experience and having 3+ relevant in SAP BW/BI Environment, I have completed one full life  cycle implementation in SAP BI with functional areas like FI, SD and MM modules and Reporting, Support activities.
+SAP BW/BI Skills:
+· Involved in creating and managing of Info Areas, Info Object Catalogs, Info Objects, Application components, PSA, DSO’s, Info Cubes, DTP, Info package, transformation, Multiproviders, and Info sets
+· Expertise in Data Modeling, Extraction, and Loading (Full/Delta upload).
+· Expertise in creating Aggregates, Partitioning, Roll-up and Compression to improve the Query performance
+· Expertise in front-end BI Components like Queries, Formula, Variables, Calculated Key figures, restricted key figures, Structures, Selection, Exceptions, and Conditions 
+· Involved in SAP BI Project Life cycle that includes Development, testing and Production Support.
+· Involved in Production support system like Process chain monitoring and ticket handing. 
+· Uploading master data and transactional data both from flat files and SAP R/3 Systems.
+· Monitoring and Error handling in PSA like modifying the error records and reloading the data. 
+· Worked on extracting the data using LO Extraction and Generic extraction.  
+· Involved in identifying and activating the necessary Business Content.
+· Extracted data from Logistics module. 
+· Hands on experience in BW reporting using BEx Query designer, BEx Analyzer and creating Queries.
+· Experience in job scheduling tools, event triggers and Process chains, Scheduled, Monitored and managed data loads with full update and Delta mechanism.
+· Good knowledge in SAP HANA Modeling and implementation for data modeling using Packages, Attribute View, Analytic View, and Calculation Views. 
+· Good knowledge with Data Extraction Transfer Loading (ETL) using SAP BODS 4.1 for loading data from SAP ECC system to SAP HANA with exposure to SAP HANA Data Provisioning using SAP LT Replication Server (SLT).
+
+EDUCATIONal QUALIFICATION
+B.Tech in Computer Science and Engineering from JNTU, Visakhapatnam.
+Advance diploma in HR from Leinster college, Dublin,Ireland.
+Certified in Salesforce Admin and Dev
+Technical skills
+Data Warehouse 	: 	SAP BI 7.3, 7.0, 3.5
+ERP Packages    	: 	SAP R/3, ECC 6.0
+ERP Integration 	: 	SAP R/3 – SD, MM, FI
+Reporting Tools  	: 	SAP BEx, SAP BO 3.1, 4.0
+Languages               :    c, c++, SQL , java, Abap
+Database                 :    Oracle, MySql, Hana
+Operating System     :    Win XP, Vista, Win 7,8,10
+
+EMPLOYMENT HISTORY
+· Working as a SAP BI Consultant for VetaraSoft Application SDN BHD, Bukit Jalil, Malaysia since March 2016 to till date.
+· Worked as a SAP BI Consultant for Avyaya technologies, Madhapur, Hyderabad since February 2014 to Feburary 2016.
+· Worked as Executive HR in Biz Edge India Pvt. Ltd, Hyderabad since January 2011 to December 2013.
+
+· Worked as part time Manager in Cedbury, Dublin, Ireland from January 2009 to March 2011. 
+· Worked as a Assistant manager in Sree Kasi Reddy Constructions, Visakhapatnam since June 2005 to August 2008.
+Project Profiles:
+PROJECT # 4   :( Implementation & Support )
+Industry	: Pharma Company
+Role		: SAP BI/BO Consultant
+Duration	: October 2016 to tilldate
+
+Description:
+ Starting out in Asia over 60 years ago, it has established itself as the leading healthcare distribution solution specialist in the region. Serving 15 countries and regions in Asia, they are constantly evolving our quality services, IT systems, facilities and management in order to create enduring market partnerships based on trust, open communication, responsiveness, vision and top results.
+
+Responsibilities:
+· Modeling tasks include creating of IO’s, IC’s, MP’s, Data Sources, DSO objects and Process chains. And reporting tasks includes creating Queries.
+· Created Generic Extractors on Function Module and table Views.
+· User exits used to fill the test variables based on the number of the month in report output.
+· Maintenance of Queries, Cubes, Multi providers, IO’s and Transfer/Transformation/Update rules.
+· Creating/Maintaining of Process Chains. 
+· Involved in project support including daily load monitoring, solving master data load issues.
+· Involved in database performance using features such as cube partitioning, indexing, maintaining aggregates and compression. . 
+· Involved in validating the data between BW and R/3 documents (MM, SD and FI) to assist the end users. 
+· Created reports with Restricted Key Figures, Calculated Key Figures, Exceptions, Conditions, Variables and Filters.
+· Technical documentation, component specification for all the objects involved in the data model was written including the Info Cube, ODS, Report documentation template for the user knowledge and business users.
+· Involved in Load Monitoring and Process Chain Monitoring using RSPC, SM37, and RSMO.
+· Providing Daily Production Support from Offshore and quickly responded to alerts.
+· Involved in escalating high-prioritized tickets regarding extractions and load failures.
+· Involved in submitting the Ticket Status (Open/Close) report, test cases, and system tests.
+· Maintain Work History Documentation and Screen shots for all the tickets until it is closed down.
+· Installed Custom cubes to meet user needs. Extensively involved in setting up of procedures for
+             extracting data from SAP R/3 by using Generic Extraction and Customizing LO Cockpit by using 
+             enhancements.   
+
+
+
+PROJECT # 3   : Support
+Industry	: Marine Service
+Role		: SAP BI/BW Consultant
+Duration           : March 2016 to September 2016
+
+Description:
+      It was incorporated in 2011 with the goal of to be the leading oil and gas offshore marine support service provider as well as constructions support. An entirely company all set with the commitment of the Directors and the dedicated support of the core management team strives to provide comprehensive marine services to targeted clients well equipped with the required systems, products and services to meet client’s expectations. With the rapid growth number of clients and moving toward in becoming one of the marine and vessel expertise in Malaysia. The company is licensed by PETRONAS for the provision and supply of Marine Services such as Anchor Handling Tug,Tug Boat,Anchor HandlingTug/Supply Vessel,Towing Tug, Mooring Vessel, Crew Boat, Diving Support Vessel, Straight Supply Vessel, Utility Vessel, Flat Top Barge, Lift Boat, Workboat & Work barge and other services across the board to support marine spread
+
+
+Roles and Responsibilities:
+
+· Involved in data model designing. 
+· Created Data Source for data loading from flat files.                      
+· Activation and Enhancement of standard LO data sources related to SD.                      
+· Activation and Enhancement of info objects, data sources, transformation, DTP, DSO info packages and info cubes based on the requirement documents.
+· Query designing using Bex query designer.
+· Transporting query objects to production environment. 
+· Creating, scheduling and maintenance of process chains.
+· Created reports on Sales Primary Trend, Brand Sub-brand Grammage wise sales report, Brand Sub-brand Grammage wise contribution report,Brand Zone Depot wise sales report, Depot wise running Avg. reports., Super Stockiest sales report, Week wise sales analysis trends.
+
+
+PROJECT # 2   : Implementation & Support)
+Industry	: Financial Corporation
+Role		: SAP BI/BO Consultant
+Duration	: July 2015 to Feburary 2016
+Description:
+      It is a constituent of CNX nifty junior and MSCI India, is part of the finance Group. It is one of India’s leading and amongst most valuable financial services companies in the private sector and has interests in asset management and mutual funds; life and general insurance; commercial finance; equities and commodities broking; investment banking; wealth management services; distribution of financial product; exchanges; private equity; asset reconstruction; proprietary investments and other activities in financial services.
+Reports:
+Module FI
+ Balance sheet Reports.
+ Profit and loss Reports.
+ Product wise Profitability Reports.
+ Expense Reports. 
+ Vendor Balance Reports.
+
+Module HR
+ Consolidated Head Count Reports for RCL Companies.
+ Company wise Head count Reports.
+ Company and Grade wise CTC Reports.
+ CTC Salary Element wise[wage type] Company wise Report.
+ Avg CTC per Annum Grade-wise for RCL companies
+
+Roles and Responsibilities:
+· Created Generic Data Source for the actual data which is based on the view as per the requirement.                      
+· Activation and Enhancement of info objects, data sources, transformation, DTP, DSO info packages and info cubes based on the requirement documents.
+· Performance tuning of BW reports like creating of Aggergates, compression based on the analyses of Bi statistics reports.
+· Worked on the Report Generation, extensively in BEx analyzer, Query designer.
+· Created custom queries using condition, variables, structures and calculated key figures.
+· Designed web intelligence reports using SAP Business Objects XI 3.1
+· Created Universe using Universe Designer based on Bex queries.
+· Created web intelligence reports based on the customer reequipments.
+· Created web intelligence reports using variables, breaks, sections, ranking, sorting, drill down, slice and dice.
+· Preparing detailed technical specification for the dataflow, data marts and reports based on the client requirement.
+
+SAP BO Roles and Responsibilities:
+· Created web intelligence reports based on the customer requirements.
+· Used the formatting options like cross tab representation, sections, breaks, data sort Options, font, colors.
+·  Developed various Tables, Graphs and drill down reports in webi.
+·  Worked extensively with the major functionality of BO like Breaks, Ranks, Alerter, Filters, Sorts, in Webi.
+·  Extensively created Business Objects reports like charts and tables.
+· Performed unit testing of the reports.
+· Used slice and Dice, Drill Down, Drill Up, Prompt filters, Cascading list of values etc.
+
+PROJECT # 1  : (Implementation & Support)
+Industry	: Furniture Company
+Role		: SAP BI/BW Consultant
+Duration	: Feburary 2014 to June 2015
+
+Description:
+          This Corporation is in the manufacture, sale, distribution and installation of furniture and fixtures in Japan and internationally. The company offers office furniture, including desk systems, office seating, low partitions, storage systems, filing supplies, wood furniture, reception/meeting room furniture, and amenity space furniture; and outdoor fixtures, stadium seats and benches, sign systems, and fixtures for lodging facilities, as well as furnishing and fixtures for educational institutions, libraries, lobbies and lounges, exhibition halls, and theaters and halls. 
+
+Responsibilities:
+· Modeling tasks include creating of IO’s, IC’s, MP’s, Data Sources, DSO objects and Process chains. And reporting tasks includes creating Queries.
+· Created Generic Extractors on Function Module and table Views.
+· User exits used to fill the test variables based on the number of the month in report output.
+· Maintenance of Queries, Cubes, Multi providers, IO’s and Transfer/Transformation/Update rules.
+· Creating/Maintaining of Process Chains. 
+· Involved in project support including daily load monitoring, solving master data load issues.
+· Involved in database performance using features such as cube partitioning, indexing, maintaining aggregates and compression. . 
+· Involved in validating the data between BW and R/3 documents (MM, SD and FI) to assist the end users. 
+· Created reports with Restricted Key Figures, Calculated Key Figures, Exceptions, Conditions, Variables and Filters.
+· Technical documentation, component specification for all the objects involved in the data model was written including the Info Cube, ODS, Report documentation template for the user knowledge and business users.
+· Involved in Load Monitoring and Process Chain Monitoring using RSPC, SM37, and RSMO.
+· Providing Daily Production Support from Offshore and quickly responded to alerts.
+· Involved in escalating high-prioritized tickets regarding extractions and load failures.
+· Involved in submitting the Ticket Status (Open/Close) report, test cases, and system tests.
+· Maintain Work History Documentation and Screen shots for all the tickets until it is closed down.
+· Installed Custom cubes to meet user needs. Extensively involved in setting up of procedures for
+             extracting data from SAP R/3 by using Generic Extraction and Customizing LO Cockpit by using 
+             enhancements.   
+ 
+Strength:
+· Good inter personal skills and discipline team player.
+· Posses a great zeal to work with dedication and improve my expertise in what I do.
+· Very meticulous and punctual.   								

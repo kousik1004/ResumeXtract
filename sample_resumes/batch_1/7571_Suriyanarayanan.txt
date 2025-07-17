@@ -1,0 +1,303 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page 1 of 4 
+ 
+ 
+
+ 
+
+RESUME 
+ 
+
+ 
+Suriyanarayanan 
++919043948348 
+ksuriyanarayanan.shr@gmail.com 
+
+ 
+
+OBJECTIVE 
+
+ 
+Seeking a challenging and rewarding career in ERP as SAP consultant where I can contribute my 
+knowledge and skills for growth and development of the organization. 
+
+ 
+
+PROFESSIONAL SUMMARY: 
+ 
+
+ Playing the role of SAP ABAPer
+ 4.5 years of working experience in SAP ABAP 
+ Sound knowledge in RICEF object development models 
+ Good knowledge in SAP HR and SAP SD Module 
+ Well exposed to SAP upgrade 
+ Worked in Development, Support and Enhancement projects 
+
+ 
+
+EDUCATIONAL QUALIFICATION: 
+ 
+Bachelor degree in Computer Science from Madras Institute of Technology, Anna University, 
+Chennai, India – graduated in August 2012 (Cumulative GPA:6.3). 
+ 
+
+ 
+
+EMPLOYMENT HISTORY: 
+ 
+Company Name : Cognizant  
+Job Title :  Consultant 
+Division : SAP Managed Development Services  
+Industry : Information Technology Services 
+Date Joined :  November, 2012  
+Duration : November, 2012 to present  
+Work Location  : Chennai, India. 
+
+ 
+
+SKILL SET: 
+
+ 
+SAP ABAP Skill Set: 
+ 
+
+ Data Dictionary 
+ Reports, ALV (Normal and OO ALV) 
+ BAPI 
+ Enhancements (BADI and User Exit) 
+ Script and Smart Forms 
+ IDOCs 
+ Conversions (BDC and LSMW) 
+ Webdynpro
+
+
+
+Page 2 of 4 
+ 
+ 
+ 
+
+ 
+
+CONSULTING PROJECT EXPERIENCES 
+ 
+1. July 2014 – Till date: 
+ 
+Company : The Clorox Company, US and ATLAS   
+My Role : SAP Consultant 
+ 
+ABAP Responsibility: 
+
+ 
+ Created many custom tables along with table maintenance generator. Applied 
+
+validations through TMG events. 
+ Added custom fields by APPEND structure to sales order tables. 
+ Developed reports for country-specific taxation using XML transfer to the Government 
+
+Website. 
+ Created a report that automatically post invoice documents. 
+ Created many ALV reports (both normal and interactive) using function module and 
+
+converted the spool output into PDF. 
+ Developed class to display ALV and send the report to mail recipients. 
+ Developed a report to mass update the sales order details. 
+ Created internal table dynamically and displayed it in ALV.
+ Worked extensively on sales order and billing user-exits, MV45A*** and RV60A***. 
+ Implemented BAdi’s BADI_FDCB_SUBBAS05 to add additional field in MIRO for 
+
+facilitating Electronic Accounting. 
+ Implemented implicit enhancement to update the internal order number in the 
+
+purchase requisition creation for Third Party Order process. 
+ Worked with BAPIs to update the custom fields in material master. 
+ Used BAPI BAPI_SALESORDER_CREATEFROMDAT2 to create sales orders along with 
+
+custom fields created in Additional Data tabs. 
+ Good experience in handling pricing condition routines and output control requirement 
+
+routines. 
+ Worked on extract programs during migration of SAP HR to WORKDAY.
+ Worked on reprocessing the failed inbound IDOCs. 
+ Worked on extension of standard IDOC segments and manipulating data to those custom 
+
+segments.
+ Modified Smartforms for billing documents and Sales order based on the new 
+
+requirements and implemented barcode for shipping and delivery number. 
+ Created BDC programs (both session and call transaction) to post accounting documents, 
+
+sales deal, etc. 
+ Created LSMW to maintain the plan data for transaction code PP02 via batch input 
+
+session. 
+ Involved in developing Technical specification by understanding the Functional 
+
+requirements.
+ Very good in debugging and troubleshooting techniques. 
+ Worked closely with functional consultants from requirement gathering to implementation. 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+Page 3 of 4 
+
+ 
+ 
+ 
+
+2. April 2016 – Till date: 
+ 
+Company : PETSMART   
+My Role : SAP Consultant 
+ 
+ABAP Responsibility: 
+
+ 
+ Worked on reprocessing the failed inbound IDOCs. 
+ Created few custom fields to the existing custom table and changed the primary key 
+
+fields to improve the performance of existing program.
+ Created a program to automatically reprocess the FI related IDOCs. 
+ Prepared Knowledge base documents for frequently occurring incidents.
+
+ 
+ 
+ 
+ 
+
+3. December 2012 to – July 2013  
+ 
+Company : United Nations, US 
+Project Name  : UN-UMOJA  
+My Role : ABAP Consultant 
+ 
+Responsibility : 
+ 
+
+ Preparation of technical specification documents based on the functional specifications. 
+ Developed Webdynpro Applications for updating the bank details of employees and 
+
+transfer of an employee within organization, changing the designation of an employee 
+and termination of an employee using WebDynrpo Application. 
+
+ Worked on simple changes in Adobe Forms (non interactive)
+ Worked on hook methods as well as methods defined for custom action. 
+ Worked on Assistance class
+ Worked on controlling various parameters of the objects like visibility, text, input enabled 
+
+based on roles. 
+ Prepared Unit Test cases and performed the same. 
+
+ 
+ 
+ 
+ADDITIONAL EXPERIENCE: 
+ 
+Jan 2013 – Till date: 
+ 
+
+ Part of a development team for a tool that minimizes the effort required for understanding 
+the functional configuration in a SAP system (Reverse Engineering Tool).
+
+ Developed multiple extraction reports from configuration tables for this tool. 
+ Prepared technical solution for all the modules in the tool. 
+ Part of a development team for IDOC and Background job monitoring tool. 
+ Conducted training on basic concepts of Webdynpro for the freshers.
+
+
+ 
+ 
+
+ACHIEVEMENTS 
+ 
+
+ Awarded ‘Above and Beyond the Call of Duty’ for taking care of critical incidents. 
+ Awarded ‘Associate of the Quarter’ for outstanding overall performance. 
+ Awarded ‘Stellar Success’ for completing a project single-handedly. 
+
+ 
+ 
+
+ 
+
+
+
+ 
+
+Page 4 of 4 
+
+ 
+
+ 
+TRAININGS ATTENDED 
+ 
+
+ 3 months full time ABAP training 
+ Webdynpro ABAP 
+
+ 
+
+ 
+GENERAL 
+ 
+Name : Suriyanarayanan K 
+ 
+Date of Birth : 21 August, 1990 
+ 
+Gender : Male 
+ 
+Nationality : Indian 
+ 
+Languages : English and Tamil 
+ 
+Marital Status   : Single 
+ 
+Hobby : Music, Sports. 
+
+

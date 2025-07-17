@@ -1,0 +1,335 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                    
+
+ 
+
+ 
+
+G.VENKATESH                                                                  Mobile:  +91-9963631434 
+KPHB 3rd Phase, Hyderabad                                                                                          Email   :  venkateshgvk@yahoo.com 
+
+ 
+Objective 
+
+ To contribute creative technical skills, experience and collaborate with a team that enhances me and the 
+organization's success 
+
+Summary 
+
+  
+
+ 2 years 9 months of experience as Software Developer in Design, Analysis, Cross Platform Application 
+Development, Testing and Deployment of web and client server applications using Microsoft Technologies. 
+
+ Excellent Hands-on experience in application development using with ASP.Net.MVC, Web API, Angular JS, 
+C# as the code-behind language with ADO.NET  as the Database Data Consumer. 
+
+ Experienced in working with Angular 2, React Native, Redux and Microsoft Azure. 
+
+ Extensive experience in SQL Server Database design, Database maintenance, developing T-SQL queries, 
+stored procedures, and triggers using SQL Server. 
+
+ Experience in DOM manipulation and utilizing various plug-ins using jQuery and Java Script. 
+
+ Worked with with TFS, SVN, IIS, AJAX, XML and consuming Web Services. 
+
+ Good working experience in Ag-Grid, RDLC Reports, Entity Framework, LINQ  and Bootstrap. 
+
+ Expertise in debugging an application using the debugging tools provided by the Visual Studio.Net IDE 
+
+ Exposure to software architecture, Requirements definition, client interface implementation and hosting in 
+Server. 
+
+ Effective in working independently and collaboratively in teams. 
+
+ Creative thinker and analytical problem-solver with demonstrated ability to solve project issues under the 
+pressure of fast-paced, time-sensitive environments. 
+ 
+
+Company Name Location Duration Role 
+
+XAMPR Hyderabad Feb’17 to till date Software Developer 
+
+SatNav Technologies Hyderabad Nov’15 to Jan’17 Software Engineer 
+
+ 
+       
+
+Skill Set 
+
+  
+
+Languages  C#.Net, VB.net 
+
+Technologies ASP.Net, ADO.Net, MVC, Angular JS, JavaScript, jQuery, Web API, Web 
+services, Entity Framework, LINQ, React Native, Redux, Angular 2 
+
+Development/Productivity Tools Microsoft Visual Studio 
+
+Databases MS SQL Server , Microsoft Azure, Sqlite 
+
+Source Safe Tools TFS, Tortoise SVN 
+
+Application Server IIS 
+
+ 
+
+Academic Profile 
+
+ 
+
+ Master of Engineering M.E.(ECE) from MVSR Engineering College, Osmania University 
+
+ B.Tech MallaReddy Engineering Colleg, JNTU Hyderabad. 
+
+
+
+ 
+
+ 
+
+Projects Summary 
+
+ 
+
+1.   XAMPR  
+
+Role Software Developer 
+
+Clients  ITC 
+
+Duration  February 2017 – till date 
+
+Environment 
+
+ 
+
+Software 
+
+ 
+
+Languages: C#.Net, LINQ 
+
+Web Application: MVC 4.0, Web API, Angular 2, JavaScript, jQuery, AJAX 
+
+Mobile Application: React Native, Redux 
+
+Database: Azure Cloud Storage, SQLite 
+
+Responsibilities  Served as Full Stack Developer for the XAMPR product development team.  
+
+ Involved in all phases of the project life cycle and Integration of the front-end and 
+back-end aspects of the web and mobile application 
+
+ Analysis of requirements and converting raw problem statement into working 
+software on Mobile and Web in technology stack  
+
+Back-End: 
+ Extensively used WebAPIs to power the application and building reusable code. 
+ Worked on TableQueries to query  Azure Table Storage for data transaction 
+ Designed and implemented scenarios of customizable push notifications for Cross 
+
+Platform Applications 
+ Created WorkerRoles for background processing in Azure Cloud Service. 
+ Implementation of customized workflow requirements on daily basis 
+ Created system design/implementation and recommended improvements in areas such 
+
+as role based control over the UI components in mobile application 
+Front-End: 
+ Designed and developed web applications like Admin Portal and Web version of 
+
+XAMPR  using C#, ASP.Net MVC 4, Angular2, AJAX, Bootstrap, html, CSS with Azure as 
+backend 
+
+ Extensively worked from the scratch on ReactNative for building XAMPR Cross 
+Platform Mobile App 
+
+ Implemented chat functionality for User level and Group Level 
+ Developed the interactive and reusable UI components for various modules  which will 
+
+work on IOS and Android 
+ Consumed SQLite to perform data operations locally in mobile application 
+ Integrated Redux store with Native Application 
+ Worked on performing background tasks after receiving the notifications and the 
+
+synchronization with server 
+ Hands on experience with Expo SDK 
+ Involved in Unit Testing for the builds  
+ Handled many production issues in effective way 
+
+ 
+
+Description:  
+
+        Xampr is a new age Technology first mobile enterprise platform designed to enable Enterprise 
+Collaboration on top of Business workflows. Xampr allows seamless integration of transactions by enabling micro 
+workflow templates and contextual collaboration. Xampr offers as powerful suite of collaboration tools like project 
+management, community creation, forums, questions, surveys, to-do list and chats built over each workflow and 
+hence becoming an integral part of the business process. Capturing data from last mile integration, corroborating 
+into backend, generating insights to make decisions allows for superior user experience helping build company brand 
+and market place agility. 
+
+ 
+  
+
+
+
+ 
+
+ 
+
+2.  QuickFMS 
+
+Role Software Engineer (a-mantra Product Team) 
+
+Clients Reliance Capital, Bin-Drai, Oliva Clinic, Capgemini and Yes Bank 
+
+Duration November 2015 – January 2017 
+
+Environment 
+
+ 
+
+Software 
+
+ 
+
+Languages: C#.Net, VB.net, LINQ 
+
+Web Technologies: Asp.net 4.0, JavaScript, jQuery, Angular JS 
+
+Database: MS SQL Server 
+
+Responsibilities  Involved in development of all modules in QuickFMS 
+
+ Developed and Provided support work for various prominent clients like RCAP, Bin-Drai, 
+and Capgemini. 
+
+ Written stored procedures, triggers, Cursors using SQL Server 2008. 
+
+ Worked on exporting RDLC Reports to Excel, PDF and Word from Ag-Grid using 
+Angular JS extensively for various modules 
+
+ Worked on customized workflow requirements for the client Yes Bank using Asp.Net 
+MVC 4.0 and Entity Framework. 
+
+ Handled many production issues and enhancement to the existing live portals. 
+
+ Developed Web Forms using C# and ASP.NET. 
+
+ Extensively used Grid Views sorting and paging and Used AJAX in some web forms. 
+
+ Wrote Mail Triggering procedures for sending Emails to clients after any kind of 
+transaction and Created SQL Server Agent Jobs 
+
+ Deployment of Application on Test and Production Server. 
+
+ Provided Production Support.  
+ 
+
+Description:  
+
+        The scope of facility management software (QuickFMS) is in the range of modules Space, Asset, 
+Property, Help Desk, Conference Room booking and Employee Service Portal. Maintaining control within 
+organizational spaces and the employees and assets occupying those spaces can be stored & tracked down. The 
+team a- mantra also includes a customizable work flow for a new item to be added to the system.  
+
+  
+
+3.  Pre-School Admission Management System 
+
+Role Software Engineer 
+
+Client Sunshine Preschools & DayCare 
+
+Duration October 2016 – December 2016 
+
+Environment 
+
+ 
+
+Software 
+
+ 
+
+Languages: C#.Net, VB.Net,ASP.Net 
+
+Database: Microsoft SQL Server 2008 
+
+O/s: Windows 7 
+
+Platform: VS2012 
+
+Responsibilities  Worked intensely on the User Interface using ASP.Net, JAVASCRIPT, HTML, CSS 
+
+ Analysis of requirement, software design specifications.  
+
+ Database design and Stored Procedures using MS SQL Server 2008. 
+
+ Integrated SMS/Mail alerts as reminder to the Parents 
+
+Description:  
+
+                Pre-School Admission Management system is the system for making life of Preschool’s office staff easier. 
+It can search students and staff according to the parameters like Name, Class, and Student Id.  Admin can make 
+student enrollment and Proper fee updates when parent pay the term fee.  It has the following in-built features:- 
+
+ Role based Authentication & Authorization 
+
+ Auto Computations of  due amount,  annual fee summary, Fee Not Paid, Drop Out Student lists etc are 
+generated in Reports and facility of Exporting to PDF & Excel. 
+
+
+	Objective
+	Summary
+	Skill Set
+	Academic Profile
+	Projects Summary
+

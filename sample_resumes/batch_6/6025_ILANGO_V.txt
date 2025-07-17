@@ -1,0 +1,454 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ILANGO V 
+
+E-Mail   : vilango.be@gmail.com 
+
+Mobile   : +91-9578857578 
+
+Experience: 4.10+ Years 
+
+Position: Senior Java Developer 
+
+ 
+
+Objective 
+
+To be associated with an organization that gives me scope to update my knowledge and in 
+
+accordance with the latest trends in IT industry and be a part of a team that dynamically works 
+
+towards the growth of organization. 
+
+ 
+
+Professional Summary 
+
+ Experience in software development using Java, J2EE technologies.  
+
+ Expertise in developing web-based applications using JSP, Servlets, Spring.  
+
+ Excellent analytical & logical abilities and relationship management skills. 
+
+ Extensively worked in Hibernate, Postgres, Oracle and MySQL. 
+
+ Have good client interaction experience during the implementation / support phase of a 
+project. 
+
+ Good interpersonal skills, committed, result oriented, hard working with a quest and zeal 
+to learn new technologies. 
+
+ Flexibility to work independently or in a team environment. 
+
+ 
+
+Work Experience 
+
+ 2 years of working experience as a Software Developer in Xortican Technologies 
+
+Private Limited at Coimbatore from 2013-2015. 
+
+ Currently associated with Altavista Tech as Sr. Java Developer from November 2015 
+to till date. 
+
+ Have had an opportunity to interact and work with client at Cyberjaya, Selangor, 
+Malaysia from June 2017 to August 2017. 
+
+ Involved in User Acceptance Test for the product at Petaling Jaya, Selangor, Malaysia 
+from Feb 2018 to Mar 2018. 
+
+ Involved in Pilot Test during product deliverable phase at client place Muar, Johor, 
+Malaysia in July 2018. 
+
+ 
+
+ 
+
+Educational Qualification 
+
+ Graduated in Bachelor of Engineering (Computer Science) from TamilNadu College of 
+
+Engineering, Coimbatore in 2011 with an aggregate of 67.20%. 
+
+ Higher Secondary Certificate from E.R.S. Hr. Sec. School, Tuticorin in 2007 with an 
+
+aggregate of 70.75%. 
+
+mailto:vilango.be@gmail.com
+
+
+ S.S.L.C from E.R.S. Hr. Sec. School, Tuticorin in 2005 with an aggregate of 74.60%. 
+
+ 
+
+Technical Skills 
+
+Operating System   : Windows XP, Windows 7 and 8 
+
+Languages    : Java  
+
+Framework    : Spring, Hibernate 
+
+Database    : MySQL, Oracle, Postgres 
+
+Web Technologies   : Servlet 2.4, JSP 2.0, JDBC 2.0, HTML,  
+
+   JavaScript, ZK framework, JSON 
+
+Window Technologies  :        JavaFx 
+
+Web Publishing Tool  :  Scene Builder 
+
+Web/Application Server : Tomcat 6.0, 7.0 
+
+IDE’s/Tools  : Eclipse, MyEclipse, IReport 5.6 
+
+ 
+
+ 
+
+Project #1      
+
+Title            : Business Continuity Process  
+
+Technologies used   : JavaFX, Scene Builder, IReport, Eclipse, Postgres.  
+
+Role                          : Sr.Java Programmer (Member of Six-Person Team)           
+
+Description:  
+
+BCP (Business Continuity Process) is pharmacy based application that allows 
+
+users effectively involved by placing order of medicine or making prescription when web-
+
+based application having issues like server down or network down, hence users can able to 
+
+proceed without any paper works. Project mainly involved based on login users and their 
+
+credentials, and on ordering medicine, dispensing medicine to inter unit or intra unit of the 
+
+hospital. Ordering/Dispensing, based on clinic/wad/hospital. When web-based application 
+
+issue resolved BCP data synchronized with web-based application data.  
+
+ 
+
+Responsibilities: 
+
+ 
+
+ Gathering and analyzing the requirement. 
+
+ Designed Fxml pages as per business requirement 
+
+ Implemented Java Classes  
+
+ Written Service Interfaces and their implementations. 
+
+ Written DAO`s and their implementations. 
+
+ Written Services and exposing it. 
+
+ 
+
+Project #2     
+
+Title           : IPHIS 
+
+Technologies used  : ZK Framework, IReport, Eclipse, Postgres.  
+
+
+
+Role                         : Sr.Java Programmer (Member of Ten person Team)           
+
+ 
+
+Description: 
+
+Iphis (Integrated Pharmacy Information System) is pharmacy based on web-
+
+application that allows users effectively involved by registering new patient, placing order of 
+
+medicine or making prescription. Project mainly involved based on login users and their 
+
+credentials, and on ordering medicine, dispensing medicine to inter unit or intra unit of the 
+
+hospital. Ordering/Dispensing, based on clinic/wad/hospital. Project has been segregated 
+
+based on Hospital (IPHIS), IWP (MOH) and Ep services.IWP playing authorization role where 
+
+requests are sent by Hospital level. Hospital/IWP is connected and data updated in each 
+
+Db’s using Schedulers, hence user’s requests on hospital level can move to IWP for approval 
+
+of orders. 
+
+ 
+
+Responsibilities: 
+
+ 
+
+ Gathering and analyzing the requirement. 
+
+ Designed Zul pages as per the Requirement. 
+
+ Implemented Action Classes. 
+
+ Written Service Interfaces and their implementations. 
+
+ Written DAO`s and their implementations with Hibernate. 
+
+ Written Services and exposing it. 
+
+ 
+
+ 
+
+Project #3: 
+
+Title             : SRTS 
+
+Technologies used    : Spring, Hibernate, IReport, Eclipse, Oracle.  
+
+Role                           : Java Programmer (Member of Three-Person Team)           
+
+ 
+
+Description: 
+
+           SRTS (Special Request Tracking System) is use by facility to do online special 
+
+request direct to their higher authority, which helps the entire user to easily manage their 
+
+request and get real time update on their request. Request is based on inventory items which is 
+
+not available in the facility. The user can Request required items from the higher end. Totally 
+
+three levels involved in this project, User, JKN and Project Team. 
+
+ 
+
+Responsibilities: 
+
+ 
+
+ Gathering and analyzing the requirement. 
+
+ Designed JSP’s as per the Requirement. 
+
+ Implemented Action Classes. 
+
+
+
+ Written Struts Service Interfaces and their implementations. 
+
+ Written Struts DAO`s and their implementations with Hibernate. 
+
+ Written Services and exposing it. 
+
+ 
+
+Project #4: 
+
+Title   : Jewelry management system 
+
+Technologies used     : J2EE, Spring, Hibernate 3, Eclipse, MYSQL server 5.5 
+
+Role       : Java Programmer (Member of Five-Person Team)        
+
+    
+
+Description: 
+
+Jewellery management system, shop managers can easily handle their shop and business 
+
+transactions by accessing a single window. This Jewellery Management System will have 
+
+Utilities, Transactions and Report generations menus. Utilities section will deal with backing up 
+
+databases either on daily basis, timely basis, monthly basis etc as set by the admin, adding new 
+
+employee, deleting new employee, managing existing employee details, adding new customer, 
+
+adding and deletions of new supplier, changing the password, categorize different Jewellery 
+
+items etc. 
+
+Transaction will deal with financial accounting part of this business scenario. It will provide 
+
+information on sales, purchase, Cash In and Cash Out associated with this business process. 
+
+ 
+
+Responsibilities: 
+
+ 
+
+ Designed JSP’s as per the Requirement. 
+
+ Implemented Action Classes. 
+
+ Written Service Interfaces and their implementations. 
+
+ Written DAO`s and their implementations with Hibernate. 
+
+ Written Services and exposing it. 
+
+ 
+
+ 
+
+Project #5: 
+
+Title   : Hospital Management System 
+
+Technologies used     : J2EE, Spring, Hibernate 3, Eclipse, MYSQL server 5.5 
+
+Role       : Java Programmer (Member of Five-Person Team)           
+
+Description: 
+
+ This project covers all functional areas of a health care center. Project was aimed to 
+
+computerize all the paper work done by the nurses and other staff in the hospital environment. It 
+
+deals with different modules for different functionalities. Patient Module: This module covers 
+
+Registration, appointments, staff and configures reports, user management, waiting list and 
+
+Documentation. Find A Doctor Module: This covers doctors’ schedules, weekly and daily 
+
+appointments, patient allergies, diagnose and diet of patients and prescription, tests etc. Bill 
+
+Module: This module covers registration bill, diagnose bill, lab bill, drug bill receipts, and 
+
+patient balance and also maintenance bill. Inventory Module: This covers all areas of inventory, 
+
+
+
+supplier history and payment details. It also deals with blood bank information available in 
+
+hospital like donor name, blood issued. 
+
+ 
+
+ 
+
+Responsibilities: 
+
+ 
+
+ Written DAO’s and their implementation with Hibernate. 
+ Responsible for writing the Hibernate Mapping Documents and Persistence Classes. 
+ implemented Hibernate DTO's using annotations 
+ implemented controller classes 
+
+ 
+
+ 
+
+ 
+
+Personal Details 
+
+Full Name   : Ilango V 
+
+Date of Birth           :  14th May 1989 
+
+Languages Known  :  Tamil, English 
+
+Permanent Address  :  40, Uppupalayam,  
+
+       Vellakovil,  
+
+Tiruppur-638111, 
+
+     Tamil Nadu, 
+
+     India. 
+
+Passport Number  : N4289992 
+
+Passport Expiry Date  : 08-12-2025  
+
+ 
+
+               
+
+DECLARATION 
+
+ 
+
+I hereby declare that the above written particulars are true to the best of my knowledge and 
+
+belief. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Place : Tiruppur       
+
+Date :                           [Ilango. V]   
+
+

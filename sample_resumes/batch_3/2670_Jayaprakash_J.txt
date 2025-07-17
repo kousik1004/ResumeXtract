@@ -1,0 +1,147 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terry Baxter
+
+                                                                                      Jayaprakash J
+M.sc (Integrated) Information Technology              jayjayaprakash@gmail.com                           Contact: +91 9916999355
+                                                                                                                                                          PAN No : AREPJ8978R
+                                                                                                                                                          
+
+
+PROGRESS 4GL Database Administrator
+                                                                                   6.1 Years’ Experience
+
+· Proficient with database analysis, design and performance tuning as well as strong working experience in Unix, Linux, Windows and networked PC environments for a wide range of business applications. 
+· Good analytical problem solving skills coupled with teaching abilities. 
+· Good working experience in database conversions, data dump/load and basic Progress 4GL queries.  
+· Good Working experience in disaster recovery and business continuity plans. 
+· Preparation of documents for various maintenance and housekeeping activities
+
+Database Systems & Processing Languages:
+  Progress 4GL RDMS (Versions: 9.1D, 9.1E, 10.1A, 10.2B&11.5), Fathom replication, Progress/OE explorer, Unix Shell scripting, DOS scripting, SQL.
+
+Operating Systems / Network environments:
+   HP-Unix, Red hat Linux, Windows 2003, and Windows 2007.
+
+Application Packages: MfgPro (QAD), Mfgpro Enterprise Edition, Edimat, AIM and Safekeeper Plus.
+
+Experience:
+Tata consultancy services – Tata Global Beverages 
+   July 2011 - April 2013
+Tata Global Beverages is an International non-alcoholic beverages company which is world’s second largest manufacturer of tea and major producer of coffee.
+
+Roles and responsibilities:
+· Managing production and secondary databases using fathom replication and troubleshooting replication synchronization issues.
+· Performing manual database failover from primary to secondary during production server crash and configuring replication properties for log based replication.
+· Managing replication server and replication agent processes and performing roll forward of after image files during replication failure between primary and secondary.
+· Troubleshooting database and OS level issues and performing database routine activities as well as tuning of database parameters.
+· Assisting and providing extensive support in the time of natural calamities with feasible solutions by performing proactive and reactive measure.
+
+Major scripting utilities developed:
+· Replication synchronization monitoring (With mail acknowledgement).
+· Database availability monitoring (With mail acknowledgement).
+
+Tata consultancy services – Johnson and controls Inc 
+   May2013 – April 2014
+Johnson Controls is a global diversified company which has business units in four categories viz; building efficiency, Global workplace solutions, power solutions, automotive experience.
+
+
+
+
+
+
+
+
+Roles & responsibilities: 
+· Managing database packages in cluster environment and troubleshooting the issues during package failover
+· Installing different versions of progress along with service pack (Unix and Windows) and Configuring Web services including webspeed, appserver and webserver for progress NETUI environment.
+· Installing JITs(Just in time sequencing) in Windows environment and configuring runtime/web client.
+· Supporting different environments like Production, QA and development and performing customization and localization code deployments for those environments.
+· Performing periodic database analysis to check table and index utilization as well as fragmentation.
+· Optimizing database startup parameters to utilize database license completely based on the calculation.
+· Restructuring and repairing database to avoid I/O contention and performance degradation.
+· Performing periodic dump and load, Index rebuilding and index compaction to enhance database performance.
+· Performing database version migration and code page conversion for different locales and troubleshooting issues in both CHUI and NETUI Environments 
+· Managing users and their security privileges to follow SOX compliance and auditing.
+· Managing progress/Open Edge Explorer in Windows to configure database and appserver properties also to perform database maintenance activities.
+· Managing various modules/menus in QAD MFGPRO including user maintenance, Audit configuration, and printer configuration.
+· Developing and automating shell scripts (Unix&Linux) as well as batch scripts (Windows) for monitoring and database housekeeping activities. 
+· Developing and scheduling batch scripts to get the reports through QAD MFGPRO application.
+
+Major scripting utilities developed:
+· Auto QA refresh tool with Maximum validations (With mail acknowledgement).
+· Autos disconnect users, accessing more than total working hours (With mail acknowledgement).
+· Code deployment tool (With mail acknowledgement).
+· Batch script (MS DOS) for Auto backup and to monitor appserver process availability (with mail acknowledgement).
+
+Iron Mountain Solutions Pvt. Ltd - Safe Keeper Plus
+ February 2015 – Present
+Iron Mountain is a company which plays pivotal role in storage and record management business.
+
+Role and responsibilities:
+· Planning and supporting dump&load, version upgrade, auditing as well as maintenance activities.   
+· Preparing basic triggers, procedures & 4GL code snippets to improve monitoring level, auditing and performance.
+
+Major 4GL codes developed:
+· Trigger programs which will be useful to monitor tables and capture the changes.
+· 4GL programs which will be useful to notify all the sql users about maintenance and authentication changes.
+
+Education:
+		Anna University Chennai [2006-11] 
+      	Master of Science [5 yrs. -Integrated] Information Technology 
+     	CGPA - 7/10
+      	Chief Minister Scholarship award (2006-11)
+
+Training:
+Oracle 10g with PL/SQL.
+Advanced Microsoft Excel 
+ITIL - V3foundation with Certification 
+

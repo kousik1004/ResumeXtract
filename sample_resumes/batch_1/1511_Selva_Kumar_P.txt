@@ -1,0 +1,435 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PERSONAL INFORMATION
+
+Selva Kumar P                                                                                                                        	rose.selvak@gmail.com
++91 95661 30093
+Professional Synopsis
+
+· 9 years of SAP Basis administration
+· SAP Experience includes SAP ECC implementations, Solution Manager, BI/BO Implementations, BI/BO Upgrades with Specialization in Installation, Upgrade and support in various heterogeneous Platforms. 
+· Installation and configuration of SAP BW 7.4 in Cluster Environment.
+· Installation and configurations of ECC6.0 EHP5 in Cluster Environment
+· Installation and Configuration of Solution Manger 7.01, EP 7.01, XI 7.01, BW 7.01, APO 7.0, 
+· Upgrade of ECC 6.0 to ECC 6.0 EHP5 and EP 7.0 to EP 7.4 using SUM
+· Experience on Homogenous System Copy and Heterogeneous System Copy
+· Worked in on-site projects at Kengen, Kenya, Geothermal Development Company, Kenya, Load Star, Srilanka
+· Worked in various phases of Software development life cycle activities like Analysis, Design, Development, Coding, Testing and Implementation.  
+· SAP EP Administration 
+· Maintaining roles and authorizations 
+· Oracle upgrade from version 9 to 10g,10g TO 11g
+· Client Administration including client copy / export / import / delete
+· User Management like User Creation, deletion of user, user’s locks
+· Applying Support packs and kernel upgrade
+· Performance monitoring and Oracle fine tuning
+· Maintaining Profile parameters and Analysing short dumps
+· Maintaining and Configuring Transport Management System
+· Hands on Solution Manager Installation and Solution Manager Configuration
+· Oracle Database monitoring and backups.
+· Monitoring LiveCache administration.
+· MaxDB 7.7 database monitoring and backups using Database Manager 7.6. 
+· Experience on environments of SAP BO 3.1, 4.0, 4.1
+· Knowledge in SAP HANA Administration
+· Strong Knowledge in developing, testing, Migrating, Administrating, security management and production support on various platforms like Windows and UNIX.
+· My strengths are my ability to work hard, self-confidence, enjoy troubleshooting and continuous learning of new systems and software. Excellent analytical & administrator skills
+
+SAP Skill Sets
+
+· 
+· SAP HANA
+· ERP 6.0, EHP4, EHP5, EHP7
+· BW 7.0, 7.3, 7.4
+· SCM 7.0 (APO)
+· Business Object 3.0, 3.1, 4.1
+· Solution Manager 7.0, 7.1, 7.2
+· EP 7.0, 7.0 EHP2, 7.4
+· Oracle 10g, 11g, 12c, MS SQL 2005, 2008, MaxDB, Sybase
+· Linux, AIX, Windows, HP Unix
+· PI 7.0, 7.1 EHP1
+
+
+
+Scholastic Credentials
+
+· Master of Computer Science (MSc), St. Joseph’s College, Bharathidasan University, Trichy.
+
+Work History
+ 
+· Worked as a contract in Enteg Infotech Pvt. Ltd. As apprentice from October 2008 to May 2009. 
+· Worked as a contract in SOA Software Service Pvt. Ltd. as Admin-SAP Basis from May 2009 to Dec 2009. 
+· Senior Basis Consultant in Altimetrik India Pvt. Ltd. (Formerly known as Enteg Infotech Pvt. Ltd.) from Dec 2009 to Jul 2016.
+· SAP Basis Practice Lead - KarpagaITech from Aug 2016 – Feb 2017.
+· Senior SAP Basis Consultant – TruSpeQ Consulting Pvt. Ltd. from Mar 2017 – till. 
+
+
+Project History
+Client Name	: BION
+Type		: Support 
+	SAP Solutions
+	Operating System /Database
+
+	· SAP ERP 6.0 Ehp 7
+· Solution Manager 7.1
+· SAP BO 4.1
+	· Windows Server 2012 R2 
+· Sybase 15.7
+
+
+
+
+Accountabilities:
+· Configure ECC system with Solman for LMDB configuration 
+· Troubleshooting BO related issues
+· ECC Performance tune in Sybase database level
+· Backup schedule for SAP systems 
+· Troubleshooting saprouter issues for open connection to SAP.
+
+Client Name	: Sasken
+Type		: Upgrade  
+	SAP Solutions
+	Operating System /Database
+
+	· SAP EP 7.4
+· SAP ERP 6.0 Ehp 7
+· SAP BPC NW
+	· Windows Server 2012 R2 / Windows Server 2008 R2
+· MSSQL Server 2012
+
+
+
+
+Accountabilities:
+· Upgrade from SAP NW EP 7.0 to SAP NW EP 7.4 using SUM - DEV, QAS and PRD.
+· CMS configuration in portal  
+· Installation of BPC NW 7.4 in Windows Server 2008 R2  
+· Backup and restoration 
+· Troubleshooting and Applying Support Packs 
+
+Client Name	: emami
+Type		: support 
+	SAP Solutions
+	Operating System /Database
+
+	· SAP EP 7.4
+· SAP ERP 6.0
+	· Suse Linux Enterprise Server 
+· Windows server 
+· Oracle
+
+
+
+
+Accountabilities:
+· Daily Basis support, performance tuning and troubleshooting  
+· Single Sign On configuration between SAP Enterprise Portal and Windows AD using Kerberos tickets
+· Back-up restoration 
+· Applying Support Packs 
+
+
+Client Name	: Usha Martin
+Type		: Server Setup
+	SAP Solutions
+	Operating System /Database
+
+	· SAP S/4 HANA
+· SAP HANA 1.0 SPS 12
+· SAP NetWeaver 7.5 
+· SAP Landscape Transformation 
+	· Suse Linux Enterprise Server 
+· Windows server 2003, Windows server 2008 R2 and HP Unix
+
+
+
+
+Accountabilities:
+· Involved in Landscape Design 
+· Involved in Landscape Sizing
+· Building landscape for POC and Internal Training in Cloud
+· Integrating existing systems with newly installed SAP environment
+· Installation and Post Installation activities for SAP S/4 HANA
+· Import and Activating SAP HANA Live
+· Scheduled the Backup for the landscape
+· SAP Fiori Implementation and Configuration
+· User Management and Security
+· Involved in Internal training
+
+Client Name	: Daimler India Commercial vehicle, Chennai
+Type		: Support
+	SAP Solutions
+	Operating System /Database
+
+	· SAP ERP 6.0 EHP 5
+· SAP APO(SCM) 7.0
+· SAP PI 7.1 Ehp1
+· SAP EP 7.0 Ehp2
+· SAP Solution Manager 7.0 Ehp1
+· SAP BW 7.4
+	· Windows server 2003, Windows server 2008 R2 and HP Unix
+· Microsoft SQL server 2005 and 2008, Oracle 10.2 & 11.2 and MaxDB
+
+
+
+Accountabilities:
+· Installation: SAP ERP 6.0 on HA in Windows, SAP PI 7.1 EHP 1, SAP BW 7.4 on HA in Windows
+· SAP PI system migration from Windows Server 2003 to Windows Server 2008 R2
+· Post installation activities.
+· QAS refresh of SAP ERP 6.0 Ehp 5
+· QAS refresh of SAP SCM 7.0 (liveCache 7.7)
+· SNC Configuration Between R/3 and Enterprise Portal
+· Back-up restoration both ABAP and JAVA
+· Performed Oracle upgrade from 10.2 to 11.2
+· Performed O Patch upgrade 
+· STMS Configuration
+· SLD Maintenance
+· Handling SAP APO system support.
+· System Copy of Solution Manager 7.0 Ehp1
+· Daily Basis support, performance tuning and troubleshooting 
+· Support roles and authorization. 
+Client Name	: Geothermal Development Company in Kenya
+Type		: Implementation
+	SAP Solutions
+	Operating System /Database
+
+	· SAP ERP 6.0 EHP 4
+· SAP Solution Manager 7.0 Ehp1
+	· Windows server 2008 R2 and HP Unix 
+· Microsoft SQL server 2008, MaxDB
+
+
+
+Accountabilities
+· SAP ERP 6.0 3 system landscape Implementation and support
+· Installation and configuration of DMS(Document Management System) 
+· Training conducted for Basis Team.
+· Schedule the reports on the daily basis
+· Troubleshooting the issues while Implementation
+Client Name	: Hero motor , Delhi
+Type		: Implementation
+	SAP Solutions
+	Operating System /Database
+
+	· SAP ECC 6.0 EHP4- 3 system landscape.
+· SAP Solution Manager 7.1
+	· IBM AIX 
+· Oracle 10.2
+
+
+
+Accountabilities
+· Support pack upgrade
+· System performance tuning  
+Client Name	: KenGen - Kenya Electricity Generating Company Ltd. , Kenya 
+Type		: Rollout 
+	SAP Solutions
+	Operating System /Database
+
+	· SAP ECC 6.0 EHP4
+· SAP Solution Manager 7.0 EHP 1
+· SAP BO 3.1
+	· Sun Solaris 10
+· Oracle 10.2
+
+
+
+Accountabilities
+· Installation of Business Objects XI 3.1
+· SSO configuration between ERP and BO
+· Installation SAP ERP 6.0 and Upgrade to EHP4 using EHPI  
+· Role and authorization maintained based on role matrix.
+· Configuration of EWA.
+· Daily Support
+Client Name	: KenGen - Kenya Electricity Generating Company Ltd. , Kenya(offshore support) 
+Type		: Upgrade & support
+	SAP Solutions
+	Operating System /Database
+
+	· SAP ECC 6.0 EHP4
+· SAP Solution Manager 7.0 EHP 1
+· SAP BO 3.1
+	· Sun Solaris 10
+· Oracle 10.2
+
+
+
+Accountabilities
+· Upgrade from 4.5B to SAP ERP 6.0 and ERP Support
+· System Landscape maintenance using solution manager.
+· EWA Configuration for 3 system (DEV , QAS and PRD)
+Client Name	: Loadstar, Sri Lanka  
+Type		: Implementation 
+	SAP Solutions
+	Operating System /Database
+
+	· SAP Netweaver 7.0 EHP1.
+	· Windows Server 2008 R2
+· Oracle 10.2
+
+
+
+Accountabilities
+· Installation of SAP BI 2 system landscape
+· Installation of SAP PI 2 system landscape 
+· Installation of SAP EP 2 system landscape
+· SSO configuration between BI and EP.
+· Troubleshooting and support.
+
+
+
+Client Name	: Britannia, Bangalore
+Type		: Implementation 
+	SAP Solutions
+	Operating System /Database
+
+	· SAP BO 3.1 SP3
+· SAP BW 7.01 EHP1
+	· IBM AIX
+· IBM DB2
+
+
+
+Accountabilities
+· Installations of Business Objects XI 3.1
+· Installation and configuration of BO Data Federator 3.0
+· Installation and configuration of BO Integration Kit 3.1
+· Single Sign On configuration between BI and BO
+· BO Security and performance tuning.
+· BW Performance tuning in database level
+· Daily monitoring 
+Client Name	: Delloitte, Singapore (offshore)
+Type		: Implementation 
+	SAP Solutions
+	Operating System /Database
+
+	· SAP ECC 6.0 EHP4
+· SAP EP 7.01 EHP1
+	· RedHat Linux
+· Oracle 10.2
+
+
+
+Accountabilities
+· Installation of SAP ERP 6.0 EHP4 
+· Installation of EP EHP1
+· Applying the ESS and MSS packages.
+· Single Sign On configuration 
+· ADS configurations 
+· Basis Support 
+Client Name	: Zappos, USA (offshore)
+Type		: Support
+	SAP Solutions
+	Operating System /Database
+
+	· SAP BO 3.1 SP3
+· SAP BW 7.01 EHP1
+	· Suse Linux
+· Oracle 10.2
+
+
+
+Accountabilities
+· Installation of Business Objects server in Linux operating system
+· Installation of Business Objects client software in Windows.
+· Standalone oracle installation and configuration for BO
+· Installation of SAP EP 
+· Setting up SSO between BI and BO
+Client Name	: Enteg, Bangalore
+Type		: Upgrade
+	SAP Solutions
+	Operating System /Database
+
+	· SAP R/3 4.7
+· SAP ECC 6.0
+	· RedHat Linux
+· Oracle 10.2
+
+
+
+Accountabilities
+
+· Upgrade from SAP R/3 4.7 to SAP ECC 6.0
+Client Name:  Enteg, Bangalore; Type: Support; Role:  Basis Administrator
+	SAP Solutions
+	Operating System /Database
+
+	· SAP Solution Manager 7.0
+· SAP EP 7.0
+· SAP PI 7.0
+· SAP BI 7.0
+· SAP ECC 6.0
+	· RedHat Linux
+· Oracle 10.2 
+
+
+
+Accountabilities 
+· Installation of BI production and BI training NW 7.0.
+· Business Objects setup in Windows Server 2003
+· Business Object setup in Linux operating system
+· Installation of PI / NW   7.0, BI / NW EHP1, EP/NW EHP1. 
+· Installation of ERP 6.0 / EHP4
+· Business Planning Consolidation NW 7.0 setup
+· Applying Support Packs in ABAP and JAVA stack
+· Update the database patches.
+· EP administration– Support, SSO, Creating Jco Destinations and bug fixing 
+· BI, Business Objects and BPC – setup and configuration
+· Client copy.
+· Analysing Java dumps and fixes the errors.  
+· Import transport request.  
+· Daily monitoring ABAP and JAVA systems.
+· Database growth
+· User administration
+· Kernel Upgrade
+· Resolving Oracle database issues
+· Monitor database using BRTOOLS.
+· Backup and restoration
+· Business Continuity Planning (BCP is working out how to stay in business in the event of disaster).
+· Refreshing IDES system
+
+
+

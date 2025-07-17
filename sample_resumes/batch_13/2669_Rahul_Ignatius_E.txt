@@ -1,0 +1,611 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Education and Qualifications :
+
+
+                                                          Rahul Ignatius E  
+          
+
+Page 1 of 5 
+
+RAHUL IGNATIUS E      #1487, 1st Floor,  
+
+E-Mail    :   rahuliggu@gmail.com     23
+rd
+ A Cross, 4
+
+th
+ Main, Sector 7, 
+
+Mobile   :   +91 96321 34009      HSR Layout, Bangalore - 560102 
+
+          
+
+EXPERIENCE SUMMARY  
+
+ 
+
+ Currently working as Associate Principal Analytics Consultant with [24]7 Innovation Labs for 
+
+the past 3 years. 
+
+ Prior work experience as Data Analyst with Myntra, Senior Analytics Consultant with [24]7 
+
+Innovation Labs as part of the Data Sciences Group (DSG) and as a Senior Business Analyst 
+
+with MindTree Ltd as part of the Data and Analytics Solutions (DAS). 
+
+ Overall experience of 8 years in the field of Data Analytics with 3.5 years in CPG/Retail Domain 
+
+& 4.5 years in the field of online sales through Web Analytics, VA Chat Bots & Personalization. 
+
+ Published and presented a Position paper on ‘Data driven web experimentation on design 
+
+and personalization’ at COMPLEXIS Conference 2017, Portugal. 
+
+ Published & presented a research paper on ‘Integration of trained text processing model 
+
+with a speech system’ at BDA ‘17 which is available for download on Springer Link 
+
+ Experience in Advanced usage of MS-Excel. 
+
+ Experience in handling statistical modules in R & Python. 
+
+ 
+
+TECHNICAL SKILLS  
+
+ 
+
+Languages               
+
+Analytical Tools    
+
+ 
+
+R, MS-SQL, Pig 
+
+R, Vertica 
+
+Reporting Tools     Tibco SpotFire, MS-Excel, Tableau 
+
+Statistical Techniques Linear/Logistic Regression, Naïve Bayes, Hypothesis Testing 
+
+Data Mining/Modelling 
+
+Techniques 
+
+Clustering, Decision Tree, Random Forests, Ensemble, SVM, KNN, 
+
+Gradient Descent & Boosting Algorithms, Neural Network basics 
+
+ 
+
+PROJECTS  
+
+ 
+
+[24]7  INNOVATION LABS –  PERSONALIZATION &  OPTIMIZATION  
+
+Description 
+[24]7 help businesses attract and retain customers, and make it possible to 
+
+create a personalized, predictive and effortless customer experience online. 
+
+Responsibility 
+
+ 
+
+ Developed algorithms for identifying High Propensity to chat customers at the 
+
+top of the funnel for multiple clients to qualify them as hot leads to offer chat. 
+
+ Developed Personalized Chat invites for the High Propensity Visitors and 
+
+measured performance using A/B testing. 
+
+ Built Virtual Assistant (Chabot) – Involved in scoping intents with text-mining, 
+
+building solution from analysis, workflow designing, intent prediction using 
+
+SVM and post-deployment reporting. Our solution was discussed in detail in 
+
+the Forrester CX NYC Keynote presentation in 2018 by our Client. 
+
+ Optimizing Chatbots, with addition of new intents and workflow changes which 
+
+helped in enhancing user-experience and increasing self-service rates. 
+
+ Reporting provided for Speech Account on trending KPI’s on regular basis 
+
+Tools and 
+
+Technologies 
+R, Python, MS-SQL, Vertica, SQL, Pig 
+
+Role Consultant 
+
+mailto:rahuliggu@gmail.com
+
+
+                                                          Rahul Ignatius E  
+          
+
+Page 2 of 5 
+
+MYNTRA DESIGNS –  INVENTORY LEVEL OPTIMIZATION  
+
+Description 
+Myntra Designs is India’s largest Online Fashion Retail store based out of 
+
+Bangalore 
+
+Responsibility 
+
+ 
+
+ Developed algorithms for identifying the correct % splits of ‘to be’ inward 
+
+inventory for various warehouses across India based on the Purchase Orders 
+
+rose by Category Managers. 
+
+ Developed an approach for identifying the optimum % splits across sizes for 
+
+all brand-article type combination using multiple product attributes. 
+
+ Performed product physical attribute level clustering to identify similar styles 
+
+which could be used for replenishment decisions. 
+
+ Performed Ad-Hoc analysis for various Category/Strategy Managers to help 
+
+them in identifying patterns and provided insights 
+
+ Created and automated sizing level dashboards for category managers 
+
+Tools and 
+
+Technologies 
+R, MS-SQL, AWS SQL, Tableau 
+
+Role Data Analyst 
+
+ 
+
+ 
+
+D ISH NETWORK ONLINE SALES OPTIMIZATION -  [24]7  INNOVATION LABS  
+
+Description 
+
+Dish Network is an American direct-broadcast satellite service provider. The 
+
+company provides satellite television, satellite internet, audio programming, and 
+
+interactive television services to commercial and residential customers in the 
+
+United States with over 14 million subscribers 
+
+Responsibility 
+
+ 
+
+ Providing End to End solutions starting from the top of the sales funnel as an 
+
+affiliate partner for Dish 
+
+ Providing data backed decisions by building models to identify visitor channel 
+
+affinity/Propensity to chat/Propensity to purchase etc. 
+
+ Built and developed clusters of visitors based on their attributed to proper 
+
+segment them to provide target based treatment 
+
+Tools and 
+
+Technologies 
+R, Vertica, HeidiSQL 
+
+Role Statistical Business Analyst 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+http://en.wikipedia.org/wiki/Direct-broadcast_satellite
+http://en.wikipedia.org/wiki/Satellite_television
+http://en.wikipedia.org/wiki/Satellite_internet
+
+
+                                                          Rahul Ignatius E  
+          
+
+Page 3 of 5 
+
+UNILEVER INTERNATIONAL ANALYTICS CELL -  M INDTREE  
+
+Description 
+
+Unilever is a highly reputed company specializing in Fast Moving Consumer 
+
+Goods. Analytics Cell was successfully implemented in Hindustan Unilever and 
+
+the developing markets where General Trade is predominant (Thailand, Pakistan 
+
+& Vietnam) wanted to implement the same to improve their business 
+
+Responsibility 
+
+ 
+
+ Create product classification based on RFM Analysis 
+
+ Predict Out-Of-Stock for Outlet Specific Basepack for the coming month 
+
+ Improve Cross-Selling by using Width pack modelling through Logistic 
+
+Regression 
+
+ Interact with Clients on a daily basis to understand requirements and perform 
+
+Ad-Hoc analysis 
+
+ Validation of the results by performing Quality Checks 
+
+Tools and 
+
+Technologies 
+R, MS-SQL, MS-Excel 
+
+Role Business Analyst 
+
+ 
+
+UNILEVER SRI LANKA LTD SUPPLY CHAIN ANALYTICS-  MINDTREE  
+
+Description 
+
+Unilever-SL is a highly reputed company specializing in Fast Moving Consumer 
+
+Goods. They needed to migrate from their existing basic level planning to an 
+
+advanced analytical approach similar to the one used in HUL(Hindustan Unilever 
+
+Ltd) to predict the future baseline of their primary sales values to carry out 
+
+accurate production level planning. 
+
+Responsibility 
+
+ 
+
+ Study of Existing Unilever-SL prediction technique was done and mapped with 
+
+the existing model in HUL  
+
+ Made use of time series forecasting techniques – Moving Average, Exponential 
+
+weighted moving average 
+
+ Involved in the cleaning of sales data, validation and prediction of future 
+
+baseline based on SAP-APO models 
+
+ Delivered the outputs and predicted values to UL-SL production planners and 
+
+the new prediction model was deployed successfully 
+
+Tools and 
+
+Technologies 
+SAP-APO, R, MS-Excel, BEX Analyser 
+
+Role Statistical Business Analyst 
+
+ 
+
+H INDUSTAN UNILEVER LTD SUPPLY CHAIN ANALYTICS-  MINDTREE  
+
+Description 
+
+Hindustan Unilever is a highly reputed company specializing in Fast Moving 
+
+Consumer Goods. They needed an analytical approach to predict the future 
+
+baseline of their primary sales values to carry out accurate production level 
+
+planning. 
+
+Responsibility 
+
+ 
+
+ Made use of time series forecasting techniques – Moving Average, Exponential 
+
+weighted moving average 
+
+ Involved in the cleaning of sales data, validation and prediction of future 
+
+baseline based on SAP-APO models 
+
+Tools and 
+
+Technologies 
+SAP-APO, R, MS-Excel, BEX Analyser 
+
+Role Statistical Business Analyst 
+
+
+
+                                                          Rahul Ignatius E  
+          
+
+Page 4 of 5 
+
+ 
+
+UNILEVER IQ  -  M INDTREE  
+
+Description 
+
+Unilever is a highly reputed company specializing in Fast Moving Consumer 
+
+Goods. They wanted to implement their IQ system globally across countries like 
+
+Pakistan, Nigeria and Brazil as it was already implemented successfully in 
+
+Hindustan Unilever (HUL). Unilever wanted to conduct a consulting exercise to 
+
+identify and understand the readiness of the countries for IQ to be implemented. 
+
+Responsibility 
+
+ 
+
+ Gap Analysis for multiple countries to assess their readiness to implement 
+
+intelligent sales system. 
+
+ Approached by means of preparing questionnaire and interacting with the 
+
+clients through telephonic conversation. 
+
+ Assessed the readiness of the country for IQ to be implemented and reports 
+
+were submitted 
+
+Tools and 
+
+Technologies 
+MS-Excel 
+
+Role Business Analyst 
+
+ 
+
+W IPRO CONSUMER CARE &  L IGHTING LIMITED -  MINDTREE  
+
+Description 
+
+Wipro Consumer Care and Lighting, a Business Unit of Wipro Limited, has a 
+
+profitable presence in the branded retail market of toilet soaps, hair care soaps, 
+
+baby care products and lighting products. They wanted to improve their Outlet 
+
+level execution by tapping the full potential of their distributors and products. 
+
+Responsibility 
+
+ 
+
+ Formulated KPI’s to address the objectives based on a “Know your Outlet- 
+
+Know your Product” approach. 
+
+ Techniques used included ‘Rule based segmentation’ and ‘RFM’ analysis 
+
+ Packaged the KPI’s and outputs in the form of an approach note and delivered 
+
+to client 
+
+Tools and 
+
+Technologies 
+R, MS-SQL, MS-Excel, Spotfire 
+
+Role Statistical Business Analyst 
+
+ 
+
+ACTIVITIES &  ACHIEVEMENTS  
+
+ 
+
+ Gold Medallist in MBA 
+
+ Member of the MindTree Internal ‘Data & Analytics Solution Strategy Project 2012-2013’, 
+
+conducted Market Research and submitted a report on the same 
+
+ Represented the Analytics Team of Data & analytics Solutions to present “Text Mining using 
+
+R in Twitter” for the event Osmosis ’11 in MindTree Ltd., Chennai. 
+
+ Member of organising committee for the event Osmosis ’10 in MindTree Ltd., Bangalore  
+
+ Completed a Certificate Course in Retail Management in MindTree Ltd., Bangalore 
+
+ Conducted workshops and classroom sessions for juniors at St. Joseph’s Institute of 
+
+Management (JIM) on basics of Analytics and Excel during the academic years running 
+
+2011-2013 
+
+ Student Placement coordinator at St. Joseph’s Institute of Management(JIM) 
+
+ Represented school athletics team for Long Jump event at district level meet. 
+
+ 
+
+ 
+
+ 
+
+
+
+                                                          Rahul Ignatius E  
+          
+
+Page 5 of 5 
+
+EDUCATION  
+
+ 
+
+MBA 
+(Marketing  and  Systems) 
+
+St Joseph’s College, Bharadhidasan University, Trichy 2010 80% 
+
+B.Tech (Biotechnology) Shri Andal Alagar College of Engineering, Anna 
+University, Chennai 
+
+2008 80% 
+
+Class XII St. Anne’s Matriculation Hr. Sec. School, Chennai - 
+Matriculation Board 
+
+2004 89.5% 
+
+Class X St. Anne’s Matriculation Hr. Sec. School, Chennai - 
+Matriculation Board 
+
+2002 74.7% 
+
+ 
+
+ 
+
+POSITIONS OF RESPONSIBILITY  
+
+ 
+
+ Placement Cell Coordinator – As part of the placement cell was involved in coordinating 
+
+with various companies to conduct placement drives in our college. 
+
+ Excel Trainer – Took sessions for St. Joseph’s Institute of Management students on Basic 
+
+& Advanced usage of MS-Excel 2007 and guided the students 
+ 
+
+ 
+ 
+ 
+ 
+
+              PERSONAL DETAILS   
+
+ 
+
+Father’s Name : T. Eugine 
+
+Date of Birth  : 19/11/1986 
+
+Languages Known : English, Malayalam, and Tamil 
+
+Hobbies  : Reading Books, Football, Watching movies 
+
+Gender  : Male 
+
+Marital Status  : Married 
+
+ 
+
+ 
+
+              REFERENCES   
+
+ 
+
+ Debo Jyothi Dey, Tech Lead, Data and Analytics Solutions, Mindtree Ltd., Bangalore. Ph: +91 99862 65440 
+
+ Dr. S. Gnaana Bhragasam, Dean, Dept. Of Management, St. Joseph’s College, Trichy. Ph: +91 99449 58355 
+ 
+
+ 
+
+              DECLARATION   
+
+ 
+
+I hereby declare that the above information is correct and true to the best of my knowledge. 
+
+ 
+
+Date:        
+
+Place:              (Rahul Ignatius E) 
+
+

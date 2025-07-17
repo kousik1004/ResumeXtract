@@ -1,0 +1,396 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<First name Last name>
+
+		
+
+Kuntal Das
+
+Dialmetrics
+Email: 	kuntald1@gmail.com
+Phone No: + 91 9732609965
+
+Experience Summary 
+I am working in Dialmetrics since from December 2015 with a total of 7 years 10 months of work experience. My main area of experience has been developing and maintaining projects. My technological forte includes .Net Framework 1.1, 2.0, 3.5,4.5,WCF, Web services, ASP.Net, Windows Application, Web API,C#, MVC,JWT, SQL Server 2005/2008/2014/2016.
+
+
+Skills Summery
+
+Technical
+Languages	: 	ASP.Net, Windows Application,C#, MVC
+Design pattern	:	3 Tier Architecture
+Services		:	WCF, Web service.Web API
+RDBMS		: 	SQL Server 2005/2008/2014/2016.
+Reporting tool	:	SSRS.
+
+Functional / Domain
+· Real Estate
+· Multi-level Marketing
+· Payroll Management System
+
+Present Responsibilities
+· Designing & Development.
+· Involve in application development as well as Unit Testing.
+· Debug and troubleshoot applications.
+· Writing server side programs, presentation layer using C#. Net, ADO. Net, MVC, Web API,client side validation using JavaScript and Cookies etc.
+· Writing Functions, Procedures, and Triggers in SQL Server.Also Creating SQL Table. Replication.
+Certification
+· MCTS Certified (SQL Server 2005, Asp.Net, and Windows Application).
+
+
+Career Profile
+
+	Dates
+	Organization
+	Designation
+
+	December-2015 To till Date
+	Dialmetrics
+	Sr.Software Developer
+
+	October-2014 To November-2015
+	Gamut Infosystems Limited
+
+	Software Developer
+
+	August-2010 To October-2014
+	StarliteInfotech Limited
+	Software Developer
+
+
+
+
+
+
+
+
+
+Projects
+The details of the various assignments that I have handled are listed here, in reverse chronological order.
+
+	Project
+	NG-CSS
+
+	Description
+	Customer can register their problem over phone,Email or by website and admin/ employee review problems and assign proper employee to solve problems.They support 1500 customer and give support 50 software packages.They receives 3500 support request every month.Support request come in 3 ways phone,email or by website.This software use 100 users at a time.
+
+	Solution Environment
+	3 tier architecture, C#, Web API,SQL Server 2014.
+
+	Tools
+	Microsoft .Net Environment Framework 4.5
+
+	Role
+	Writing functions, procedures in SQL,Trigger
+Frontend coding (c#),Cookies,
+Creating SQL Table.
+
+
+
+
+	Project
+	Covenant courier
+
+	Description
+	This project is courier base project. Customer can login there site and same Id can not be login from multiple device. Customer can place order and also this order can be deliver to the delivery address. Also mail goes to the customer mail Id with the delivery status. latitude and longitude get against each address by the use of Google API. 
+
+	Solution Environment
+	JSON Web Token (JWT), C#, Web API,SQL Server 2014.
+
+	Tools
+	Microsoft .Net Environment Framework 4.5
+
+	Role
+	Writing procedures in SQL, Web API,
+Frontend coding (c#).
+
+
+
+
+	Project
+	None Stop Work
+
+	Description
+	This project is Project Management System. You can create a particular task and under this task you can also create sub-task. You can also assign any employee under any task. If you not able to complete it will track how log time it taking to execute this task.
+
+	Solution Environment
+	MVC, C#, SQL Server 2014.
+
+	Tools
+	Microsoft .Net Environment Framework 4.5
+
+	Role
+	Writing procedures in SQL,
+Frontend coding (c#).
+
+
+
+
+
+	Project
+	ERP On Real-estate
+
+	Description
+	A real estate project developed to provide a facility to customer to apply for a flat or plot based on the location. Customer can pay for this with different EMI structure.
+Sales person also you can tag for a project, Target of a sales person, transfer of call.Enquery against a project.Followup for a client.
+Finance Portion.
+
+	Solution Environment
+	3 tier architecture, C#, WCF, SQL Server 2014, SSRS.
+
+	Tools
+	Microsoft .Net Environment Framework 3.5
+
+	Role
+	Writing functions, procedures in SQL,Trigger
+Frontend coding (c#),
+Creating reports.
+
+
+
+	Project
+	Real Estate Management System
+
+	Description
+	A real estate project developed to provide a facility to customer to apply for a flat or plot based on the location. Customer can pay for this with different EMI structure.
+
+	Solution Environment
+	3 tier architecture, C#,WCF, SQL Server 2008, SSRS.
+
+	Tools
+	Microsoft .Net Environment Framework 3.5
+
+	Role
+	Architecture design,
+Developing operation contracts in WCF service,
+Writing functions, procedures in SQL,
+Frontend coding (c#),
+Creating reports.
+
+
+
+	Project
+	Attendance Generate Software
+
+	Description
+	In this software Attendance System maintains the attendance details 
+Report of all employee of different shift.
+
+	Solution Environment
+	3 tier architecture, C#, Windows Application.
+
+	Tools
+	Visual Studio 2008, SQL Server 2008.
+
+	Role
+	Architecture design,
+Invoking Web service,
+Writing functions, procedures in SQL,
+Frontend coding (c#).
+
+
+
+	Project
+	Multi-Level Marketing(MLM)
+
+	Description
+	Non-Banking Financial project.In this project there are mainly two entity .They are associates & their business and customer partially. Based on different business criteria customer can purchase policy or plan and submit their EMI and collect interest on the time.
+
+	Solution Environment
+	3 tier architecture, C#, SQL Server 2008.
+
+	Tools
+	Visual Studio 2008, Windows Application, SQL Server 2008.
+
+	Role
+	Architecture design,
+DB Modification, Form Design,
+Writing functions, procedures in SQL, Replication,
+Frontend coding (c#).
+
+
+
+
+
+
+
+	Project
+	HRMS
+
+	Description
+	This software is developed for employee payroll management. By this software user can generate pay slip for each and every employees with respect to their attendance which is automatically inserted into database through biometric
+
+	Solution Environment
+	Microsoft .Net Environment Framework 2.0, Windows Application, 
+
+	Tools
+	Visual Studio 2008, SQL Server 2008.
+
+	Role
+	Architecture design,
+DB Modification, Form Design,
+Writing functions, procedures in SQL,
+Frontend coding (c#),
+Creating reports.
+
+
+
+	Project
+	Cheque Printing Software
+
+	Description
+	This is to developed to provide the facility to print the various bank cheques. This software uses the crystal report to generate the print format based on different bank cheque.
+
+	Solution Environment
+	Microsoft .Net Environment Framework 2.0, Windows Application.
+
+	Tools
+	Visual Studio 2008, SQL Server 2008, Crystal Report 1.1.
+
+	Role
+	Architecture design,
+DB Modification, Form Design,
+Writing functions, procedures in SQL.
+Frontend coding (c#),
+Creating reports.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Qualifications
+
+	Degree 
+	Institute
+	Major and Specialization
+	Marks
+
+	GNIIT 3yrs Diploma(2010)
+	NIIT
+	
+	81%
+
+	B.Sc(H)(2007)
+	Midnapur College
+	Zoology
+	48%
+
+	Higher Secondary (2004)
+	West Bengal Council of Higher Secondary Education
+	Science
+	60%
+
+	Secondary (2002)
+	West Bengal Board of Secondary Education
+	General
+
+	64%
+
+
+
+
+Personal Details
+
+	Date of Birth
+	15th January, 1986
+
+	Nationality
+	Indian
+
+	Marital Status
+	Married
+
+	Gender
+	Male
+
+	Present Address
+	Vill:Krishnopur,P.O.:Dantan,Dist:Midnapur(w).Pin:721426
+
+	Permanent Address 
+	147 Ram Krishna Avenue, A-Zone, Durgapur -713 204
+
+	Languages Known
+	English, Hindi, Bengali
+
+	Hobby
+	Playing Cricket
+
+
+
+
+                                       I hereby declare that the above information given by me is true to the best of my knowledge and concern.
+		
+
+Date:  ___/___/_____	
+Place:KOLKATA								(Kuntal Das)
+Page 3 of 4

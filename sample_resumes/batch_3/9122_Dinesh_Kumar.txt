@@ -1,0 +1,239 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+
+Dinesh Kumar
++91-8978559092                                                        E-Mail:dinesh.kmrgupta@gmail.com
+
+
+
+Professional Summary:
+· 4 years of overall IT experience in Application Development in Java and Big Data Hadoop.
+· 2 years  of exclusive experience in Hadoop and its components like HDFS, Map Reduce, Pig, Hive, Sqoop , HBase and Oozie
+· 6 months of experience in Spark and Scala
+
+· Extensive Experience in Setting Hadoop Cluster
+
+· Good working knowledge with Map Reduce and Pig 
+· Involved in writing the Pig scripts to reduce the job execution time
+· Involved in creating Data Frame Set from RDD using Spark
+
+· Involved in Spark and Hive Integration
+
+· Involved in Spark and RDBMS integration
+
+· Involved in bringing live streaming log data from client server to HDFS using Flume 
+· Have executed projects using Java/J2EE technologies such as Core Java, Servlets, Jsp, Struts, Spring, Spring Boot , Hibernate
+· Very well experienced in designing and developing both server side and client side applications.
+· Strong and extensive experience in programming with  Struts, spring and Hibernate. Experience in programming Web Applications and Web Services using J2EE Technologies
+
+· Experience in developing and deployment of web applications in Tomcat 5.5, WebLogic.
+· Good understanding of Apache Tomcat and WebLogic in the areas of development, deployment, configuration settings and deployment descriptors.
+· Experience with various IDE’s for development of project (STS and Eclipse) and efficiently worked on version controlling systems like SVN and Git.
+
+· Excellent communication, interpersonal, analytical skills, and strong ability to perform as part of team.
+
+· Exceptional ability to learn new concepts.
+
+· Hard working and enthusiastic.
+· Knowledge on FLUME and NO-SQL
+Professional Experience:
+
+· Currently Working as a Software Engineer in Birlasoft Pvt Ltd, Hyderabad, India since Feb’ 2017. 
+· Worked as a Software Engineer in Value Labs Pvt Limited, Hyderabad from June’ 2015 to 2017.
+· Worked as a Software Engineer in Hexaware Pvt Limited, Chennai from Aug’ 2013 to 2015.
+Qualifications:
+· B.tech from Computer Science And Engineering under Biju Patnaik University Of Technology,Odisha, 2009-2013 having 8 CGPA.
+Technical Skills:
+
+	Big Data Technologies
+
+	MapReduce ,HDFS, Pig, Sqoop, Hive, Hbase,Flume,Oozie,Spark and Scala
+
+	Language
+	Java,Java Script,HTML,XML,XSD,Web Services 
+
+	J2EE Technologies : 
+	JSP, Servlets, JDBC 
+
+	Servers
+	Web Logic and Tomcat
+
+	Frameworks
+	Struts, Spring, Hibernate, Hadoop,Web Services.
+
+	Java IDEs
+	 Eclipse , STS
+
+	Version Control / Tracking Tools
+	 SVN,  CVS,  GIT
+
+	Databases
+	Oracle, SQL (DDL, DML, DCL) ,MONGO DB ,No SQL and PL/SQL.
+
+	Design Skills
+	J2EE design patterns, Object Oriented Analysis and Design (OOAD), UML.
+
+	Operating Systems
+	Windows7, Windows XP, 2000, 2003, Unix and Linux
+
+
+Project Details:
+
+PROJECT #1:
+
+Project Name
+
+ : Target – Web Intelligence
+Client
+
+
+ : Synchrony Financial, Stamford, USA.
+Environment                : Hadoop, HDFS ,MapReduce ,Pig, Hive, Spark, Oozie, Java,          UNIX, MySQL
+Duration
+
+ : Feb 2017 to till Date
+Role                             : Hadoop Developer
+Description:
+
+ This Project is all about the rehousting of their (Target) current existing project into Hadoop platform. Previously Target was using Oracle DB for storing their customer information.
+ But as and when the customers are increasing the data generated out of their data base is also increased massively and which cannot be accomodable in a Oracle kind of data box with the same reason Target wants to move it Hadoop, where exactly we can handle massive amount of data by means of its cluster nodes and also to satisfy the scaling needs of the Target business operation.
+And after bringing live streaming log data on to the HDFS cluster ,processed log data using Pig scripts and Spark SQL store the filtered data back to RDBMS for analyzing purpose to increase the business based on those analysis.  
+Roles and Responsibilities:
+· Moved log  data flat files generated from various servers logs to HDFS for further processing using Flume.
+· Written the PIG scripts to process the HDFS data.
+
+· Created Hive tables to store the processed results in a tabular format.
+
+· Developed the Spark scripts in order to make the interaction between Hive Table and Spark SQL
+
+· Involved in gathering the requirements, designing, development and testing
+
+· Writing the script files for processing data and loading to HDFS
+
+· Writing CLI commands using HDFS.
+
+· Developed the UNIX shell scripts for creating the reports from Hive data.
+
+· Completely involved in the requirement analysis phase.
+· Setup Hive with MySQL as a Remote Metastore 
+
+· Moved all log/text files generated in server  into HDFS location
+
+· Written Map Reduce code that will take input as log files and parse the logs and structure them in tabular format to facilitate effective querying on the log data
+· Created External Hive Table on top of parsed data.
+PROJECT #2:
+
+Project Title
+
+:
+ANZ – (Customer Insight & Retail Analytics)   
+
+Environment
+
+:
+Hadoop, HDFS, Map Reduce, Pig, Hive, Java, Sqoop, Cloudera   Distribution for Hadoop, MySQL
+Role
+
+
+:
+Hadoop Developer
+
+Duration
+
+:
+Aug’, 2015 to Feb’, 2017
+Description:
+
+The Australian division caters for the bank's retail, commercial and wealth management customers in Australia. The Retail businesses are responsible for delivering a range of banking products and services to retail customers, while Commercial services small to medium enterprises through to smaller corporate. The division also has a dedicated Merchant analytics management business designed to meet the needs of high net worth individuals. This Solution is concerned with the development of a cost-effective Data Warehouse using Hadoop and Hive for storage of large amount of historical data and log data. The raw data will be coming from various sources and dumped directly into Hadoop file system through Sqoop(data extracting tool used to extract data from RDBMS(Oracle,Db2,Teradata,etc)). Then, data is processed (like un-normalization, partitioning, bucketing, etc.) using hive queries. After that, the data is updated (using customized and optimized queries) into hive and ad-hoc queries can be run to get any form of data.
+
+Responsibilities:
+
+•Imported all the ANZ Customer specific personal data to Hadoop using SQOOP component of Hadoop
+
+•Written Map Reduce code that will take input as customer related flat file and parse the same data to extract the meaning full (domain specific) information further processing. 
+
+•Practical work experience with Hadoop Ecosystem (i.e. Hadoop, Hive, Pig etc.)
+
+•Created Hive External tables to store the processed data from Map Reduce.
+
+•End-to-end performance tuning of Hadoop clusters routines against very large data sets
+
+•Coordinate Hadoop system implementation, system support and performance tuning
+
+•Conduct Hadoop cluster training for a team of 10 members.
+Personal Details:
+
+Date of Birth: 
+18/07/1990
+
+Sex: 
+
+Male
+Location:
+Patna
+Languages: 
+English, Hindi 
+Address: 
+#Sadar Bazar Machharhatta Road,
+ Danapur Cantt ,
+
+ Patna,       
+
+ Bihar - 801503, India
+Declaration:
+
+   I hereby declare that all the above mentioned is true to the best of my knowledge.
+
+Date:
+                                     
+
+           
+
+
+
+    (Signature)
+

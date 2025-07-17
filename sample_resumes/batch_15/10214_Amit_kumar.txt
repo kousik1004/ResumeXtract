@@ -1,0 +1,407 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amit kumar 
+
+#Manjunath PG , 
+
+Roopena Agrahara, 
+
+NearVishal mega mart , 
+
+Bangalore, 
+
+Karnataka– 560068. 
+
+amit.k.r.p.10@gmail.com 
+                                  Mobile : 7050303245 
+
+ 
+
+Experience Summary 
+
+Offering 1.6 years of industry experience with expertise in ORACLE SQL, ORACLE 
+
+PLSQL, ORACLE FORMS, ORACLE REPORTS, and Designing procedure, function for 
+
+Performance &reduce time complexity, Report Analysis. 
+
+ 
+
+CURRENT POSITION 
+
+Engaged with KTTM as Associate ORACLE DEVELOPER in System dept. (Oracle Forms & 
+
+Reports developer) since “JAN 2017 – Till Date” 
+
+- Develop sql and plsql query in AMRUT   -Design reports in Amrit as per 
+user requirements.     - Project Analysis 
+
+- Support in network activities    - Project Management 
+
+ 
+
+Recently, I am working with Kirloskar Toyota Textile Machinery Pvt. Ltdas a SQL & 
+
+PLSQL Developer. I can perform all 9i joins & subquries with multiple tables. I can also 
+
+create System triggers or DDL triggers on schema. I am creating authority level of 
+
+securities with different users. And also perform DML operation with the help of instead of 
+
+trigger. I can also create procedure for particular user and also assign some specific task 
+
+for different type of users using DCL.Recently I was working with AMRUT, hereI’m 
+
+exporting & importing the data from amrut with the help of webutill library file.  
+
+WORK EXPERIENCE 
+
+Company  : KasNet Private Ltd., Pune. 
+
+Duration  : JUN 2016 to Dec 2016. 
+
+Designation  : SQL & PLSQL developer. 
+
+ 
+
+Company  : Kirloskar Toyota Textile Machinery Pvt. Ltd, Bangalore. 
+Duration  : Jan 2017 to be continue….. 
+
+Designation  : SQL & PLSQL developer. 
+
+ 
+
+ 
+ 
+
+EDUCATIONAL DETAILS 
+
+Qualification Board/University Year Marks 
+
+M.C.A. Birla Institute of Technology 2016 76.35% 
+
+B.Sc. (IT) Sikkim Manipal University 2011 61.73% 
+
+Intermediate CBSE Board 2008 54.44% 
+
+Matriculation CBSE Board 2006 60.00% 
+
+mailto:amit.k.r.p.10@gmail.com
+
+
+ 
+
+SKILL SET 
+
+Operating Systems Windows 2000, Windows XP, Windows 2007 
+
+Programming Languages Java 
+
+Web Technologies Jdbc, Servlet, JSP 
+
+Databases Oracle 10g ,11g,12C 
+
+Oracle tools SQL & PLSQL 
+
+Documentation Microsoft office(Word & Excel) 
+
+ 
+
+ORACLE SQL 
+
+ 
+
+ Basic knowledge of Database management system (DBMS). 
+
+ Experience in Structure Query Language (DDL, DML, DQL, TCL, DCL). 
+
+ Good Knowledge of Structure Query Language functions. 
+
+ Responsible for creating tables with index on cluster with the help of DDL operations. 
+
+ Expertise in Data manipulation language. (Insert,Update,delete,merge).  
+
+ Clear understanding of 8i joins and 9i joins. 
+
+ Good Knowledge Of Subqueries,View,Sequences. 
+
+ Experience of creating tables with constraints. 
+
+ Basic knowledge of ORACLE 11g and ORACLE 12C Features. 
+
+ 
+
+ORACLE PLSQL 
+
+ 
+
+ Experience in Procedural language of Structure Query Language (PLSQL). 
+
+ Good Knowledge of Anonymous Block and named blocks. 
+
+ Responsible for creating CURSORS with attributes of the table. 
+
+ Good Knowledge of Exceptions. 
+
+ Clear understanding of types of Exceptions. 
+
+ Experience in plsql sub-programs (PROCEDURE & FUNCTIONS). 
+
+ Consulting different project teams and identifying their pain areas IN PLSQL Codes. 
+
+ Feasibility study of the ideas for using fo PLSQL COLLECTIONS. 
+
+ Design checklist to implement best practices across the project for Autonomous 
+
+transactions & autocreate with the help of TRIGGERS. 
+
+ Experience in Trigger,Package,Bulk Bind,Utl_File Package,SQL Loader. 
+
+ Avoiding Mutating Error by using Compound Trigger. 
+
+ Experience in DYNAMIC SQL. 
+
+ Creating auto increment with the help of Row level Trigger. 
+
+ Controlling the execution level of trigger with the help of Follows Clause. 
+
+ Using Database TRIGGER handle the unauthorised users login into database. 
+
+ 
+
+ 
+
+ 
+
+CERTIFICATION 
+
+ Oracle Form Development Professional certification 
+
+ Oracle PL/SQL Developer Associate certification 
+
+
+
+PROJECT DETAILS 
+
+PROJECT 1 : SMART CITY IN INDIA. 
+
+Environment : Front end-JAVA & Back end-ORACLE 
+
+Team Size : 4 
+
+Description : Smart City in India This project is basically gives the information and 
+
+facility about the given smart city name. This project is help to those types of 
+
+users who visit first time in any smart city in India and also gives the previous 
+
+users reviews for selecting better facilities in smart city. 
+
+Role            : Database Developer 
+
+ 
+
+Responsibility: 
+
+ Working as a database developer on smart city project. 
+
+ Creating all tables with constraints, indexes and cluster with the help of 
+
+normalization. 
+
+ With the help of auto increment and follow clause create all types of trigger on tables 
+
+ Creating all types of System trigger for security of tables and databases. 
+
+ Automatically data copy from one table to another table with the help of statement 
+
+and row level trigger. 
+
+ Fetch all data from table with the help of non-correlated and correlated subquries. 
+
+ With the help of 9i joins data retrieve from multiple tables. 
+
+ With the help of dbms_utility package data read and write in a files of a system. 
+
+ 
+
+PROJECT DETAILS 
+
+PROJECT 2 : College Bus Database Monitoring and Tracking System. 
+
+Environment : Front end-JAVA & Back end-ORACLE 
+
+Team Size : 4 
+
+Description : A College Bus Database Monitoring and Tracking System is a monitoring of 
+
+the all information about Bus route and their timing system, which provides a 
+
+profitable platform for Student and College Bus stuff, which is help to give 
+
+more and more Information about college bus route and their timing in 
+
+different bus stop Locations. 
+
+Role            : Database Developer 
+
+ 
+
+ 
+
+Responsibility: 
+
+ Creating of all table based on college bus route and their timing. 
+
+ Creation Constraints on every table. 
+
+ Execution of Sub queries for assigned modules. 
+
+ Conducting of views, Sequence,Synonyms&Clustor on Tables . 
+
+ Joining of Different tables with the help of JOIN.. 
+
+ Coordinating with java developers to resolve the issues. 
+
+ Worked on basically INDEX, BULK BIND & UTL FILE PACKAGE. 
+
+ Apply trigger in every important tables & Views 
+
+ To provide security for unauthorized users with the help of row level triggers. 
+
+Transfer the file with the help of SQL LOADER and Data Utility package 
+
+
+
+PROJECT DETAILS 
+
+PROJECT 3 : Advance Manufacturing Resource Utilization. 
+
+Environment : Oracle Forms & Reports 
+
+Team Size : 2 
+
+Description : we are working with ERP system. In this tools we are importing the data 
+
+from excel to database or exporting the data from database to excel sheet as 
+
+per user requirements and making a new forms and reports as per users 
+
+requirements. 
+
+Role             : Oracle Forms& Report Developer 
+
+ 
+
+Responsibility: 
+
+ Creating forms with the help of property palette and pl/sql Editor. 
+
+ Creation Constraints on every table. 
+
+ Execution of Sub queries for assigned modules. 
+
+ Exporting the all parts of one machine as per user requirements. 
+
+ Joining of Different tables with the help of JOIN. 
+
+ Coordinating with Oracle forms tools we resolve the issues of Clients. 
+
+ Worked on webutill library files for new developments. 
+
+ Apply all types of trigger in different modules of each forms. 
+
+ Creating relationship between different modules.  
+
+ To provide security for unauthorized users with the help of row level triggers. 
+
+ Transfer the file with the help of SQL LOADER and Data Utility package. 
+
+ Sometimes we handles the networks supports. 
+
+ I can also make patch cable for connecting all systems through a networks. 
+
+ I support our server accessing with all employees. 
+
+ 
+
+ 
+
+PERSONAL DETAILS 
+
+Date of Birth 30th April 1991 
+
+Marital Status Unmarried 
+
+Mother’s Name Urmila Devi 
+
+Father’s Name Suresh Prasad Pandit 
+
+Permanent Address S/o Suresh Prasad Pandit 
+
+M11Bccl colony chandwadi,devnagar 
+
+Dugda bokaro ,JHARKHAND– 828404 
+
+DECLARATION 
+
+ 
+
+I do hereby declare that the particulars furnished by me are correct to the best of my 
+
+knowledge. 
+
+ 
+
+Place :                                          Signature 
+
+                                     (AMIT KUMAR) 
+
+ 
+
+

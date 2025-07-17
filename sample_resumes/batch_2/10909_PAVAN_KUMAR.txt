@@ -1,0 +1,264 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pavan Doc
+
+S.PAVAN KUMAR                                                                   
+
+Email:pavansunkara09@gmail.com
+GSM: 91-9916025691                                                                                                                                                          
+Experience Summary 
+· A result-oriented professional with over 7 years’ experience in application development & enhancement, service delivery, support and client relationship management in Service domain.
+
+· Extensive exposure to the entire project life cycle phases including Requirement Analysis, Design, Construction, Testing and Implementation.
+
+· Highly skilled and experienced in Agile Development process for diverse requirements 
+
+· Proficient in developing web applications using JAVA/J2EE technologies. 
+
+· Experience in HTML, JavaScript, jQuery, AJAX, NodeJs and Angular.
+· Excellent communication & interpersonal skills with abilities in resolving Complex issues
+Technical Sills
+
+Java Technologies:
+Core Java, Struts, JPA, Web Services, Springs
+Web Technologies:
+HTML, JavaScript, Angular, Nodejs and DOJO.
+
+Repository Tools: 
+SVN, IBM RTC, GitHub
+Application/Web Server:
+Web Sphere 7/8, WebSphere Liberty.
+Tools:
+RAD, Eclipse 3.x and log4J.
+Database:
+
+
+Oracle, MS-SQL, DB2,IBM Cloudant.
+Operating Systems:
+
+Win XP/2007, Linux.
+Academic Qualifications
+· Bachelor of Technology - Electrical Engineering from Anurag Engineering College, Andhra Pradesh Secured 68%
+Professional Profile
+Employer
+     : IBM India Pvt Ltd
+Date of Employment     : May 2015 to Till Date.
+
+Previous Employee
+     : Infinite Computer Solutions Limited.
+
+Date of Employment     : Jan 2013 to May 2015.
+
+Previous Employee       : Kamineni 
+Group’s.
+Date of Employment     : Mar 2009 to May 2012.
+
+Projects:
+
+Project# 1   
+             : IBMid(Development)
+Technology                 : Java1.6,Rest Services,Spring Ajax, HTML and  
+
+                                       Java Script,Angular.
+Duration
+ 
+ : July 2015 - Till date.
+Team Size                    : 10.
+
+Description:
+
+As IBM transforms to become a leader in cloud, a unified identity platform is essential to our growth strategy. By extending IBMid across the IBM Digital Experience, we change the conceptual model the customer has of IBM as we become a digital destination IBMid provides a unified User experience that converges to a single, consistent, cross-IBM sign-in, registration and profile management user interface. Our services include, registration, sign-in, contextual messaging, forgot password, trail provisioning & integration with IBM Web Marketing. Watson Analytics & IBM Blue-mix are the primary adopters of our application and there are 100+ other adopters.
+An IBMid is a single ID that you use to log into your Bluemix account for infrastructure, services, and application features. Your IBMid is the same ID that you can use to access other IBM applications.IBMid authentication will enabled for all new accounts in SoftLayer and existing SoftLayer accounts can switch to IBMid authentication. Bluemix already uses IBMid authentication.
+Responsibilities:
+· Analyzed the business requirements, design and coded the application using Web Services, Angular.
+
+· Involved in application Architecture and creating web services.
+
+· Involved in application UI Design & Development
+
+· Involved in Bug Fixing based on test case report, Provided ongoing support & Implemented Enhancements to the application.
+
+· Creating requirement document and updating wikis 
+
+· Responsible for giving daily updates to the Management.
+
+· Responsible for developing and deploying applications on different hosting environments.
+
+· Responsible to interact with testing team to clarify the business requirements.
+
+· Should be able to decide about the upcoming releases.
+
+· Writing unit test cases and properly validated by the testing team.
+
+Project# 2   
+             : IDM- Individual Data Master(Development)
+Technology                 : Java1.6,Rest Services, Dojo, Ajax, HTML and  
+
+                                       Java Script
+Duration
+ 
+ : Jan 2014 – Jun 2015.
+Team Size                    : 8
+Environment
+
+  : Events Infrastructure
+
+Description:
+
+This Project contains several Modules like Registration, Account List, Profile Services, Next Generation , Overlay Services with profiling, Location Services, Reorganization with 3rd party Id's
+
+This Profile services involves a number of sub efforts 
+
+The R/W Profile Service -- A Restful Web service that allows Web applications to retrieve and update all Web Identity (WI) + key IBM Connections(ICe) data from a single source. It uses the existing WI API to interact with Web Identity, it supports all the WI functions including registration. In addition to the profile data itself, it supports a robust set of user permissions to control whether other users can view elements of a user's profile. It is built around an architecture called the Annotation Framework to join together fields from various sources into a composite or aggregated profile. The framework will allow additional sources of profile information to be integrated over time.
+
+Next Generation - A Restful Web service which interacts with R/W Profile API, Email Verification Services and Next Generation User Services for registering and Sign in for IBM and Next Generation having UI. The Overlay Service -  A Restful Web service which interacts with R/W Profile API, Email Verification Services, SWWIF for registering and Sign in for IBM and Overlay having UI.
+Responsibilities:
+· Analyzed the business requirements, design and coded the application using Web Services, Dojo, jQuery.
+
+· Involved in application UI Design & Development
+
+· Involved in Bug Fixing based on test case report, Provided ongoing support & Implemented Enhancements to the application.
+
+· Creating requirement document and updating wikis 
+
+· Responsible for giving daily updates to the Project Manager.
+
+· Responsible for developing and deploying applications on different hosting environments.
+
+· Responsible to interact with testing team to clarify the business requirements.
+
+· Should be able to decide about the upcoming releases.
+
+· Writing unit test cases and properly validated by the testing team.
+
+Project# 3    
+             : ENTRUST(Development)
+Technology                 : Java1.6,JPA,struts2.0, Dojo, jsp’s, Ajax, HTML and  
+
+                                       Java Script.
+Duration
+ 
+:  Jan 2013 – Jan 2014.
+Team Size                   : 06.
+
+Description:
+
+When the IBM Sales, Solutions or Account Mgmts. teams work on a bid (New 
+Deals) or intend to strategically offshore work (Lift & Shift work), they identify the scope of services that can potentially be delivered from Delivery Centers in India, China, Argentina, Brazil, Bruno etc. This scope of work, specifically for India, will go through feasibility assessment by India Delivery Center stakeholders by taking various solution aspects into consideration such as baselines to be supported, number of resources estimated, product / technology to be supported, skill levels required, timelines factored for hiring, transition duration, expected go live date, Infrastructure requirements, seating feasibility, support window requirements and so on. This content is packaged in a template called SRR (Delivery Readiness Review). The various groups within India review the SRR and provide their approval/suggestions for changes (if any) on any of the requirements. Post review and approval, these inputs then need to be consolidated and presented in a structured and easily understandable package back to the Deal team who in turn would incorporate these inputs into their Approval package for Proposal submission (for new bids).
+
+
+Responsibilities:
+
+· Interacted with the Client to understand the business requirements.
+
+· Developed User interface using Jsp's and DOJO integrated with Struts 2.
+
+· Worked in DOJO Grids and Charts.
+
+· Responsible for transforming UI data in JSON format and sending it to backend services and vice versa.
+
+· Implemented layered architecture.
+
+· Implemented LDAP for user authentication.
+
+· Written Entity classes and configuration files for mapping entities with the database tables using JPA.
+
+· Responsible for persisting the Entities into DB using JPA.
+
+· Implemented front end logic using Struts2 framework.
+
+· Developed DAO classes to provide data for business logic.
+Project# 4    
+             : Process Automation (Leve-2 Support).
+Technology                 : Java1.5, Hibernate, Jsp’s, HTML and Java Script.
+Duration
+ 
+: Apr 2009 –May 2011.
+Team Size                   : 05.
+Description:
+
+
+Automation System removes the time-consuming inefficiencies of manually filing and retrieving documents there by replacing a paper-based process with a fully customizable workflow system. Automation System deals with complete information about the Bar and generating a process card and it provides tracking the job in various stages.
+
+A complete web based paperless environment is maintained with the help of the system. Business process automation begins whenever a request comes to the User the information will display in the system.
+
+Responsibilities:
+
+
+· Actively involved in ongoing day to day Production Support activities/issues.
+
+· Providing problem resolving solutions to Tickets.
+
+· Providing technical support for various modules.
+Project# 5   
+        
+ : Payroll Management System ((Leve-2 Support).
+Technology                 : Java1.5, Hibernate, HTML and Java Script.
+Duration
+ 
+: May 2011- Dec 2012.
+Team Size                   : 03.
+
+Description:
+The objective of the project is to maintain Employee Profile, Attendance, Leave and Payroll It calculates Employee Earnings, Deductions and generates Pay slips; it is workflow enabled and provides a paperless office or Electronic office. It is cost effective and provides the latest information on the entire operations.
+Responsibilities:
+
+
+· Actively involved in ongoing day to day Production Support activities/issues.
+
+· Providing problem resolving solutions to Tickets.
+
+· Providing technical support for various modules.
+Personal Details:
+
+Name                         : S. Pavan Kumar.
+Father Name            : Somashaker Rao.
+Date of Birth            : 09th September 1985.
+Marital Status          : Married.
+Address
+           : H-No:30, 2nd Floor,8th Cross, 
+Vignan Nagar,Bangalore – 75.
+Pavan Kumar S

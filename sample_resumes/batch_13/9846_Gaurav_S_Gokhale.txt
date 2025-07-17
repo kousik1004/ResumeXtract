@@ -1,0 +1,243 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rohan R Patkar
+
+Mr. Gaurav S Gokhale                                                   Email:  gaurav.gokhale29@gmail.com                                                                                                                                                                                             
+            Phone: +91- 9850258844
+Total Experience – 3+ Years     Qualification : B.E. In Computer Science    
+                      
+TECHNICAL SKILLS
+
+· Big Data 
+
+
+: Hadoop, YARN, Spark
+
+· ML – Supervised Learning
+:  Regression, Classification, Decision Trees, Time Series Forecasting
+· ML – Unsupervised Learning
+: Clustering, Naive Bayes
+· Text Analytics
+
+
+: Text classification, Sentiment Analysis
+· NoSQL Exposure
+
+: Elasticsearch, Crate
+
+· Programming Languages
+: R, Python
+
+· Other Open Source Tools            : Logstash (Log Analytics) 
+
+· Operating systems
+
+: Windows , Linux
+PROFESSIONAL EXPERIENCE
+· Gurucul Solutions Pvt. Ltd.  
+
+
+       
+
+
+        (May,2016 - till date)
+As a Data Scientist, I am designing and developing products in security analytics domain. Along with that, I am also part of the core R &D team which focuses on optimizing the scalability of the product.
+· Telestratum Networks     
+
+                           
+
+       (Dec,2015 – Apr,2016)
+As a Data Engineer, I was responsible for designing and developing an end to end predictive analytics solution  using machine learning.
+· INSOFE   
+
+  
+
+                           
+
+       (Mar,2015 – Nov,2015)
+As a Data Science Associate, I worked upon couple of Predictive Analytics business use – cases in Retail & Marketing.
+
+· Bentley Systems 
+                                       
+
+
+                                 (Apr,2014 – Feb,2015)
+As a Data analyst, I was responsible for discovering new insights from data. In turn convert these insights to actionable decisions to be utilized by the business teams in the organization.
+· Code Dynamix    
+
+
+                                                           (July,2013 – Mar 2014)
+As a Software developer, I understood the application from the technical as well as domain aspects and then applying this understanding together for development, testing and supporting the applications much more effectively.
+STRENGTHS
+· Quick learner and excellent team player. 
+· Passionate about explaining data science to non-technical business audiences. 
+· Analytical thinking and problem solving using data to aid business decisions.
+PROJECT DETAILS
+· Text based outlier detection – since Nov 2016
+Organization -   Gurucul Solutions Pvt Ltd 
+
+Product Description - 
+
+Its new utility, kicked off in Nov 16. Being part of core team, I am involved in conceptualization, design and development. 
+
+The utility will enable to work directly on raw logs to detect any outliers from the incoming transactions. It takes leverage of the text based analytics and enables faster insights from the raw data.
+Role
+
+:  Data Scientist
+
+
+Area of work
+:  Text pre-processing, BOW, Sentiment Scoring, Outlier detection
+
+
+Environment
+: Python 2.7, Crate, Logstash, Apache Hadoop Big Data Lake
+
+· 
+Anomaly Detection – May 2016 – Jan 2017
+Organization -   Gurucul Solutions Pvt. Ltd. 
+
+Product Description - 
+
+The product helps customers managing the Invoices, Credit Memos, Payments and Reports. It 
+
+provides platform for buyers and suppliers to communicate and send Invoices, Credit Memos to each other. 
+
+The different modules like costing, taxation, discounts, accounting helps users to create and manage invoicing 
+
+efficiently. The system provides platform to manage workflows in approval processes.
+
+Role
+
+:  Data Scientist
+
+
+Area of work
+:  Data Cleansing,Time Series based anomaly detection, Windowing functions, 
+
+
+Environment
+: Apache Hadoop Big Data Lake
+
+
+Tools
+
+:  Logstash, R, SQL on Spark
+· Library / Package building – Worked for 5 months
+
+Organization – Telestratum Networks
+Role
+
+:  Data Engineer
+
+
+Area of work
+:  Built an end to end package in R framework for forecasting as well as customer 
+
+
+
+    segmentation.
+
+
+Tools
+
+: R, Rstudio, Mysql
+· Projectwise Analyst – Worked for 10 months
+Organization – Bentley Systems
+Role
+
+:  Data Analyst
+
+
+Area of work
+:  Requirement Analysis, Design, Implementation, Discover Patterns, Generate Insights
+
+
+Tools
+
+: Putty, SQL developer
+
+· Multiple Projects – Worked for 10 months
+
+Organization – Code Dynamix
+Role
+
+:  Software Developer
+
+
+Area of work
+:  Requirement Analysis, Design, Implementation
+
+Tools
+
+:  HTML, CSS, SQL developer
+
+EDUCATION
+
+Research Program – Big Data & Analytics
+
+
+
+
+Period: Mar 2015 – Nov 2015
+
+(Certified by LTI – Carnegie Mellon University)
+
+INSOFE, Hyderabad
+Bachelor of Engineering in Computer Science                                                      Graduation Date: June 2013
+
+PICT,Pune, Maharashtra.                                                           
+
+
+ Score: 65.00% (Aggregate)
+
+PERSONAL DETAILS
+· Date of Birth           :  2nd September, 1989
+
+· Gender                    :  Male
+
+· Permanent Address : C-1 Samarth Nagar Nr Highway Sinhagad Rd, Pune - 411041

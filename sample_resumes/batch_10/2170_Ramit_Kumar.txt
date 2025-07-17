@@ -1,0 +1,139 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					               Name: Ramit Kumar
+Mobile: +91 7307116888 
+Email: ramitk17@gmail.com
+
+
+
+Professional Summary:
+· 2+ years of IT Experience in Database Administration in solution designing, implementation and support projects
+· Expertise in Database Administration, Backup & Recovery and Data migration functions
+· Expertise in MS SQL Server Installation, Upgrade, Patching and Hardening
+· Having strong knowledge in snapshot and transactional replication. Worked on designing, implementation and troubleshooting replication
+· Expertise in scheduling jobs through SQL Server Agent and creating maintenance plans.
+· Working knowledge on MSSQL Cluster, Log-shipping and Mirroring
+· Having an experience on BMC Remedy Ticketing Tool Incident Management and CRQ Management. Having knowledge of ITIL process
+· Identifying and Monitoring memory usage, CPU utilization, IO utilization, physical reads counters required for performance tuning using Performance monitor
+· Maintaining Disk Space report of Servers and resoling space issues
+· Deploying and maintaining monitoring tools like Idera, AppManager
+· Proficient in writing queries using joins, cursor etc. 
+· Knowledge of reporting and query tools and practices
+· Exposure to Azure and AWS
+· Modify, update deploy SSIS packages
+· Understanding of PaaS, SaaS offerings on Azure and AWS.
+· Basic knowledge of oracle database
+
+Work Experience: 
+LTI (Larsen and Toubro Infotech) July 2015- Till Date
+Project #1: Honda Dba Managed Services
+Client 		: Honda 
+Role 		: DBA 
+Team Size 	: 10	
+Platform 	: Windows 2008/2012 R2
+Environment 	: SQL SERVER 2012/2014
+
+About Project:
+24*7 support project for small, medium and large mission critical databases. Providing solution to the issues related SQL server adhering to the SLAs. Deploying CRQs and maintenance of database infrastructure.
+Responsibilities:
+· Manage SQL Server databases through multiple product lifecycle environments, from development to mission-critical production systems.
+· Installation, configuration, upgrading, patching and hardening of MS SQL Server 
+· Preparing backup strategies and maintenance plans
+· Compliance and information risk management tasks. 
+· Deploying monitoring tool app manager 
+· Technical Documentation.
+· Detailed schema analysis to design replication.
+· Monitoring SQL Server Agent Job and check failure reason and give resolution. 
+· Configuring and Handling Replication. 
+· Update statistics and re-indexing 
+· Monitoring database performance using DMV’s and DBCC commands (checking backup status, log space, execution plan etc.) 
+· Creating Reports of space details. And resolving space issues by shrinking database or log files or by deleting old backups 
+· Grant Server level or Database level access to User 
+· Working on BMC Remedy Ticketing Tool-Raising and Resolving Incidents, Creating CRQs and Tasks and Generating report of Incidents 
+
+
+Project #2: Chevron MCBU LOWIS Project
+
+Client 		: Chevron 
+Role 		: Project DBA 
+Team Size 	: 5
+Platform 	: Windows 2008/2012 R2
+Environment 	: SQL SERVER 2014
+
+Responsibilities:
+Second-largest integrated energy company in the United States - Played key role in upgrade, re-design and development of the mission critical OLTP application LOWIS (Life of Well Information System). Upgrade the application from 6.5 to 7.0 as the older version was running out of support, planned, checked compatibility and upgraded to the new version, redesigned replication and analytical database/data warehouse for smooth functioning of reports/dashboards.
+
+· Strategically designing an environment which includes over 100 SQL servers hosting about 250 databases which also involves a complex transactional replication architecture which is used both for applications and reporting purpose
+· Data Profiling and Schema Analysis 
+· Monitoring and troubleshooting replication issues
+· Providing offsite support service for all incidents and CRQs raised by multiple end users.
+· Planning and performing deployment activities
+· Being proactive in identifying the problems and the possible solutions at the same time escalating it to the incident management team for proper communication. 
+· Co-ordination with the stakeholders and BAs of the client for daily status meetings and discussions involving any critical issues and their feasible solutions.
+· Documentation of the process and solution following client standards. 
+· Quality defects and fixes
+· Assist developers with schema refinement.
+
+
+Technical Efficiency: 
+Operating Systems: Windows server 2008 R2/2012
+Database: SQL Server 2016 and lower version
+Backup Tool- Tivoli
+Monitoring Tool-App Manager, Idera  
+Ticketing Tool-BMC Remedy, Service now
+Language: T-SQL 
+
+Education Details: 
+Bachelor in Technology
+12th (Science) from CBSE
+10th from ICSE
+
+Languages: English, Hindi, Punjabi 
+Nationality: Indian

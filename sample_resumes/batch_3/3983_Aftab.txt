@@ -1,0 +1,459 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IT Experience summary
+
+Aftab                                                                                                                        Ashirwad Colony                                                                                                                                                                                                    B.Tech (Computer Science & Engg.)                                                                    Haramuv, Banaswadi                                                        E-mail aftabam89@gmail.com                                                                             Bangalore, Pin-560043
+ Ph. No.:- 6363509049                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
+	PROFESSIONAL SUMMARY
+
+
+ 5.7 Total year of experience in the IT industry, worked on Development, Maintenance, and Production Support project. Over 2.5 years of experience in Hadoop  Development and Data Analyst with Spark/Scala. I have been involved in complete Life Cycle of the SDLC, Agile methodology.
+· Hands on experience on Hadoop Clusters using Hortonworks (HDP), Cloudera (CDH4, CDH5), IBM BigInsights.
+· Work in large teams developing and delivering solutions to support large scale data management platforms following Agile methodology
+· Possessing skills in Apache Spark, SCALA use of Eclips,  Hadoop, Map-Reduce, Hive, Cassandra,
+· Zookeeper, Sqoop, Flume, Kafka.
+· Design and deployment of Spark cluster integration with Kafka ,Cassandra, Hive and Scala. 
+· Experience in deploying and managing the multi-node development and production Hadoop cluster with different Hadoop components (Hive,  Sqoop, Oozie, Zookeeper) using Hortonworks Ambari.
+· The key areas worked SPARK,SCALA, SPARK SQL, Saprk Streaming, Hive,HDFS, Apach Kafka, RDD.
+· Experience in importing and exporting the data using Sqoop from HDFS to Relational Database systems Mysql and vice-versa.
+· Develop data ingestion programs to ingest realtime data from LIVE sources using Apache Kafka, Spark Streaming.
+· Worked on NoSQL databases including Cassandra
+· Design and deployment of Spark cluster integration with Kafka ,Cassandra, Hive and Scala. 
+· Hands on experience in analyzing Log files for Hadoop and eco system services and finding root cause..
+· Knowledge of classification and regression analysis
+· Hands on experience in Apache Kafka .
+· Experience in handling large dataset. 
+· Hands on Linear Regression and logistic Regression module in the project .
+
+· Good knowledge of Machine learning with Spark Mlib.
+
+· Hands on kafka integration on cluster using kafka broker,kafka producer and kafka consumer .
+
+· Developed the module LCM as per KPN generic of  kafka producer and consumer using Scala and Spark in the project .
+
+· Hands on Data migration with Mysql,DB2 to HDFS and HIVE using Sqoop.
+· Good knowledge of sqoop and experience in production level . 
+
+· Hands on experience using spark streaming integration Kafka .
+· Hands on Experience on Mainframe related skill such as COBOL, JCL, IMS-DB/DC, SQL,VSAM,     DB2, CICS, Exact Billing Expert.
+· Experience in development, testing and maintenance support on IBM Mainframes.
+
+· Experienced in Healthcare, Telecom.
+
+· Hands on Experience in handling the Tool PACBASE, Fil-Manager,Fil-Aid.
+· Good work ethics with excellent Analytical, Programming, Communication and Interpersonal skills     that provide me with the ability to interact with end-users, managers, technical personnel and team members.      
+
+	TECHNICAL PROFICIENCY
+
+
+· Big Data(Hadoop Eco System)   : Hadoop, HDFS, Hive, Spark, Oozie, KAFKA
+
+· Areas of Interest                          :  SPARK\SCALA
+
+· Database                                       :  CASSANDRA
+· Tool                                               :  PACBASE,TSO-ISPF, File-Manager,Xpediter,File-Aid
+
+· Methodology                                 :  Agile
+
+· Operating System                        :  OS/390, MVS, Linux(Ubuntu 14.04)
+
+· Programming Languages           : SCALA\SPARK, COBOL , JCL         
+
+· File System                                   :  VSAM
+
+· DBMS                                         :  DB2,IMS-DB/DC,MySQL                                                                            
+	Certification
+
+
+IBM Cognitive Certification:
+
+1. Hadoop Fundamental
+
+2. Hadoop Data access 
+
+3. Scala Programming Language
+
+4. Spark fundamental I
+
+5. Spark Fundamental II
+
+6. Apache Kafka
+
+	PROJECT UNDERTAKING
+
+
+Project Summary 
+Project# 4:
+
+	Organization
+	: 
+	Tech Mahindra.
+
+	Period
+	:
+	August 2016 to till date
+
+
+
+	Project
+
+	:
+	KPN Telecom ( Billing Application)
+KPN Telecom, Netherlands is based Telecommunication giant which provides
+
+Change related to the invoice process. This is an intermediate Billing Application which prepares the invoice proposals for billing. The system is also responsible for incorporating the price plans details with customer invoices.
+Applications          :  UDEX, Exact Billing
+
+
+	Client
+	:
+	 KPN Telecom, Netherlands.
+
+	Technical Skills Involved
+	:
+	· Framework : Hadoop2.7.3,Spark2.2 
+· NoSQL : Cassandra3.0
+
+· Bigdata Tools : Hive2.1,Sqoop1.4.3,Ooize4.1
+· Streaming Tools : Spark Streaming 
+
+· Messaging System : Kafka-2.1.0
+· Programming language : SCALA 2.11.8 
+
+· Build tools : Maven
+· Hadoop Distribution : Hortonworks 2.5 (HDP2.5)
+· OS                         :  Linux(Ubuntu14.4)
+
+· Methodology        : Devops, Agile 
+
+
+	Team Size
+	:
+	       6
+
+	Role
+	:
+	Big Data Developer and Analyst 
+
+	UDEX, Exact Billing                        Responsibiliy
+	:
+	· Involved in requirement analysis 
+
+· Involved in design analysis for module flow of the project 
+
+· Involved in the team interaction to get functional requirement of each modules LCM(Life Cycle Management)
+
+· Written pig script to convert data set into csv format in the data migration project 
+
+· Used xml,JSON and RDBMS dataset 
+
+· Developed Billing process module using Spark SQL,Cassandra ,Scala .
+
+· Telecom demand analysis developed using Scala,Spark-SQL,Spark-MLib  using K-Means Clustering Algorithm 
+
+· Involved in integration of Kafka with Spark Streaming with Scala to 
+
+Write the online data in cluster for further analysis .
+
+· Developed Predictive modeling using Spark-Hive and Hive table .
+· Configured all the running jobs into Oozie and monitor job process using Oozie . 
+· Data migration from current IBM application to HDFS & Hive  using Sqoop .
+
+· Implemented Incremental loading in data migration modules LCM.. 
+
+· Coding of batch programs according to the change request.
+
+· Preparing executing test case based on client requirement.
+
+· Analysis, Design, Coding, Unit Testing. 
+· Gaining Business Domain Knowledge in Exact applications. Analysis and Design as required.
+
+· Ensure Client defined Procedure and Guidelines are followed..
+
+· Resolving user queries.
+· Resolved Authorization/Termination tickets within SLA.
+
+
+
+
+Project # 3
+
+	Organization
+Period       :                   
+	: 
+	IBM.
+
+January 2016 to July 2016
+
+	Project
+	:
+	KPN Telecom ( Billing Application)
+KPN Telecom, Netherlands is based Telecommunication giant which provides
+
+Change related to the invoice process. This is an intermediate Billing Application which prepares the invoice proposals for billing. The system is also responsible for incorporating the price plans details with customer invoices.
+
+CDS(Central Accounts Receivable System):
+
+CDS system within the KPN organization is in support of a ( central ) department for billing and control of revenue . This support is intended for one or more operational services for those with a debtors' ledger and /or
+
+Information is not profitable. CDS is designed to be flexible which makes it relatively quickly, initiating a new administration ( accounts receivable from an executive service ) is not a problem . This makes it possible to , relative, short -term activation . Process a billing and collection process .
+
+KPN has decided to extend the service life of the PSTN and ISDN delivery/service chain till 2018 because these products still are profitable. 
+
+This change is related to the invoice process. The business will be able to indicate whether a debtor with payment manner collect giro after all does not have to pay for the collect giro. This is only possible via the batch delivery & in Name/Address/City interface therefore nothing will change.
+
+	Client
+	:
+	 KPN Telecom, Netherlands.
+
+	Technical Skills Involved
+	:
+	· Framework : Hadoop2.7.3,Spark2.2 
+· NoSQL : Cassandra3.0
+
+· Bigdata Tools : Hive2.1,Sqoop1.4.3,Ooize4.1
+· Machine learning : Spark-Mlib 
+
+· Streaming Tools : Spark Streaming 
+
+· Messaging System : Kafka-2.1.0
+· Programming language : SCALA 2.11.8 
+
+· Build tools : Maven eclipce
+
+· Hadoop Distribution : Hortonworks 2.5 (HDP2.5)
+· OS                         :  Linux(Ubuntu14.4)
+
+
+
+	Team Size
+	:
+	           4
+
+	Role
+	:
+	       Application Developer
+
+	Exact Billing                        Responsibiliy
+	:
+	· Working in Enhacement and change backgrount, change invoice layout
+
+· Working on all operational activity
+
+· Working in monitoring job status and  schedule  job by Flume.
+
+· Working in Exact Enchancement.
+· Understanding and preparing Low level Designs. 
+
+· Coding of batch programs according to the change request.
+
+· Preparing executing test case based on client requirement.
+
+· Analysis, Design, Coding, Unit Testing. 
+· Gaining Business Domain Knowledge in Exact applications. Analysis and Design as required.
+
+· Ensure Client defined Procedure and Guidelines are followed..
+
+· Resolving user queries.
+· Resolved Authorization/Termination tickets within SLA.
+
+
+
+
+Project #2:
+
+	Organization
+	: 
+	IBM.
+
+	Period
+	:
+	August 2014 to  January 2016
+
+
+	Project
+	:
+	KPN Telecom ( Billing Application)
+KPN Telecom, Netherlands is based Telecommunication giant which provides
+
+Change related to the invoice process. This is an intermediate Billing Application which prepares the invoice proposals for billing. The system is also responsible for incorporating the price plans details with customer invoices.
+
+KPN has decided to extend the service life of the PSTN and ISDN delivery/service chain till 2018 because these products still are profitable. 
+
+This change is related to the invoice process. The business will be able to indicate whether a debtor with payment manner collect giro after all does not have to pay for the collect giro. This is only possible via the batch delivery & in Name/Address/City interface therefore nothing will change.
+
+	Client
+	:
+	 KPN Telecom, Netherlands.
+
+	Technical Skills Involved
+	:
+	· Competency          : IBM Mainframe, Unisys Mainframe 
+
+· OS                         :  IBM MVS (OS/390)
+
+· Skill Set                 :  COBOL, DB2, JCL.
+
+· File Organization  :  VSAM
+
+· Tools                      :  PACBASE, File-Manager.
+
+· Applications          :  CDS(Central Debtors System),GKV,ITCIS
+
+
+	Team Size
+	:
+	           2
+
+	Role
+	:
+	       Application Developer
+
+	CDS Responsibility
+	:
+	· Understanding and preparing Low level Designs. 
+
+· Coding of batch programs according to the change request.
+
+· Preparing executing test case based on client requirement.
+
+· Analysis, Design, Coding, Unit Testing. 
+· Gaining Business Domain Knowledge in CDS applications. Analysis and Design as required.
+
+· Ensure Client defined Procedure and Guidelines are followed.
+
+· Coding and peer review in PACBASE.
+
+· Resolving operation tickets within SLA.
+
+· Working on weekly/monthly/quarterly activities.
+
+· Resolving user queries.
+
+· Involved in coding and unit testing for Enhancement. 
+
+· Involved in low-level design for two modules. 
+
+· Involved in data setup for system test environment.
+
+· Ensuring timely deliveries of work request.
+
+· Documenting the tasks performed.
+
+
+Project #1:
+
+	Organization
+	: 
+	IBM.
+
+	Period
+	:
+	January 2013 to August 2014
+
+	Project
+	:
+	BCBSMA:
+
+Blue Cross Blue Shield of Massachusetts is US based healthcare giant which provides quality health care coverage to approximately 3 million members. As a nonprofit, they are not only committed to delivering worldclass service to our members, but also are dedicated to being a good corporate citizen and community partner as well. And as a natural extension of there pledge, "To always put our members' health first," they are working to improve the health of there members and the care they receive. They believe in rewarding doctors and hospitals for delivering safe and effective care, and in empowering patients to take more responsibility, become educated health care consumers and become stronger partners with their doctors.
+
+
+
+	Client
+	:
+	 BLUE CROSS BLUE SHIELD-MASSACHUSETTS.
+
+	Technical Skills Involved
+	:
+	· Competency        :  IBM Mainframe 
+
+· OS                        :  IBM MVS (OS/390)
+
+· Skill Set                :  COBOL, IMS DB/DC,VSAM, JCL.
+
+· File Organization :  VSAM
+· Tools                     :   PACBASE, File-Manager.
+
+· Applications         :  RTMS-DB
+
+
+	Team Size
+	:
+	           12
+
+	Role
+	:
+	           Application Developer
+
+	Responsibility
+	:
+	· Understanding and preparing Low level Designs. Preparing Business understanding documents for RTMS application.
+
+· Coding of batch programs according to the change request.
+
+· To compare the test results with the expected results.
+
+· Preparing executing test case based on client requirement.
+
+· Locate the proper business functionality from the code and documentation.
+
+· Analysis, Design, Coding, Unit Testing.
+
+· Involved in unit testing and creating unit test plans. 
+· Gaining Business Domain Knowledge in RTMS applications. Analysis and Design as required.
+
+· Ensure Client defined Procedure and Guidelines are followed.
+
+· Coding and peer review in PACBASE.
+
+
+
+
+
+                                                                                     Page 1 of 6                                                                              
+
+
+

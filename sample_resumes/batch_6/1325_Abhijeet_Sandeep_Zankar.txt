@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name:  Abhijeet Sandeep Zankar
+
+
+   
+    
+       Email ID: abhijeet_zankar@yahoo.com
+Mobile No:  +91 - 94042 42091
+
+
+
+Net Backup Administrator
+Objective:
+ To work which appreciates smart work and creativity so that I can utilize my knowledge and skills to give my best for the growth of the company as well as to gain practical experience
+Technical Skill:-
+· OS operating system
+:IBM AIX, Linux
+
+· Platform 
+
+: VERITAS Net Backup, Amazon Web Services
+
+· Tools
+
+
+: BMC Remedy and Tivoli Monitoring Tool.
+Professional Certifications:-
+· IBM certified AIX 7.1 System administration.
+
+· IBM Certified Systems Expert High Availability for AIX Technical Support and Administration – v2
+· Jetking Certified Hardware and Networking Engineer
+Professional Experience: 1.3 years
+· On Project of Vodafone India National Data Center, Pune working as a VERITAS NetBackup Administrator:
+
+16th July 2017 to till date:  Alchemy solution Pune  
+1st June 2016 to 15 July 2017: SOFTENGER India.PVT.LTD Pune, 
+Job Profile:
+NetBackup Administrator Job Responsibilities:
+· Working with net backup GUI and command line interface as well
+
+· Performing catalog backups and restore.
+
+· Troubleshooting the backup issues by analyzing the net backup logs.
+
+· Knowledge of different types of libraries and tape drives with the density
+
+· Installation of client and media server.
+
+· Configuration of tape drive
+
+· Initiating Backup and Restore jobs upon request.
+
+· Monitoring Activity for any minor & major error in Backups, Restores or any other net backup operations.
+
+· Managing backup policies, volume pool for daily, weekly & Monthly backups
+
+· Provide report for the entire backup and tape media.
+
+· Freeze and unfreezing of the media based on requirement.
+
+· Performing the Robotic inventory.
+
+· Troubleshooting the tape library issue.
+
+· Working on library and tape drive Firmware up-gradation 
+
+· Working on tickets basing on the severity level and closing the tickets.
+Amazon Web Service Admin:-
+Vodafone recently started implementing AWS environment and currently we are building Dev & Test environments. Being active team member I am involved and contributing in below tasks.
+· Basic knowledge on cloud computing and Service such as SaaS, IaaS, PaaS, MSP and Utility Computing.
+
+· Cloud Type: -Public, Private and Hybrid.
+
+· Type of Infrastructure: - Vertical scale up and Horizontal Scale up.
+
+· Worked on Amazon Web Services (EC2, ELB, VPC, S3, CloudFront, IAM, RDS, Route 53, CloudWatch).
+· Worked on Virtualization (LVM, Bridge, KVM, Disk, Ram, CPU, SWAP) on Superb DC.
+· Log Analysis, Maintaining documents of production server error log's reports.
+
+· Providing data for weekly and monthly report to senior management.
+· Setup/Managing Linux Servers on Amazon (EC2, EBS, ELB and IAM).
+
+· Setup/Managing CDN on Amazon CloudFront (Origin Path: Server / S3)  to improve site  performance.
+
+· Create/Managing buckets on S3 (CLI) and store db and logs backup,  upload images for CDN serve.
+
+· Setup/Managing Databases on Amazon RDS. Monitoring servers thorough Amazon CloudWatch, SNS.
+
+· Creating/Managing DNS records on Amazon Route 53.
+
+· Basic knowledge on AMI/Snapshots, Upgrade/downgrade AWS resources (CPU, Memory, EBS)
+
+· Basic knowledge on Snowball services
+ TECHNICAL SKILLS
+
+Operating Systems:
+
+
+UNIX (IBM AIX)
+
+Knowledge of AIX
+· Good knowledge of device management.
+
+· Good understanding about LVM concepts.
+
+· Knowledge about manage portability of VG (Volume Group)
+
+· Good practice of LVM (VG Migration, LV Migration, PV Migration)
+
+· Practice of mirroring VG level, LV level, PP level
+
+· Good practice of creating and managing File System (JFS and JFS2)
+
+· Practice about User Administration create and manage A/C and group with access.
+
+· Knowledge of native backup like mksysb and savevg etc.
+
+· Understanding about rootvg/file system structure.
+
+· Knowledge of AIX Installation and OS migration.
+
+· Familiar with best practice implementation of paging space
+Operating Systems:
+
+Red Hat Enterprise Linux 7
+Knowledge of RedHat 
+· Good understanding about LVM concepts
+
+· Good practice of creating and managing File System 
+
+· Good Knowledge configuring RAID 
+· Practice about user Administration create and manage A/C and group with access
+
+· Knowledge of Linux operating system Installation
+
+· Knowledge about network configuration
+· Understanding about hard disk partitioning in Linux
+Cluster Technology:                    
+
+       HACMP: IBM (HACMP) Power HA Cluster
+Knowledge of PowerHA
+· IBM HACMP installation
+
+· IBM HACMP configuration.
+· Creating and Adding Resource groups and assigning Service IP Labels 
+
+· Setting up Resource Group Policies (Startup, Fallover and Fallback)
+
+· Moving the Resource group Manually to another node 
+
+· Creating and Restoring a Snapshot backup of the HA Cluster.
+
+· Creating user in HA level 
+
+· Creating VG, LV & File Systems in HA level
+
+· configuring the Network Installation Management (NIM)
+
+· Good understanding of configuring Network file systems (NFS)
+Educational Qualification:
+	Sr.No
+	Exam Passed
+	Year of Passing
+	University/ Board
+	Class
+
+
+	1
+	TY BCOM
+	2016
+	Pune university
+	Second Class
+
+	2
+	SY BCOM
+	2015
+	Pune university
+	Second Class
+
+	3
+	FY BCOM
+	2013
+	Pune university
+	Second Class
+
+	4
+	12th
+	2012
+	Maharashtra Board
+	Second Class
+
+	5
+	10th
+	2010
+	Maharashtra Board
+	First Class
+
+
+Personal Details:
+Name                 : Abhijeet Sandeep Zankar.
+
+Gender               : Male
+Date of Birth     :  16th September, 1994
+
+
+Language           : English, Hindi, Marathi
+Thank you,
+
+Date:   November 19th , 2017                                                                                                   
+
+Place: Pune
+
+Abhijeet Sandeep Zankar.
+_2147483647.wmf
+

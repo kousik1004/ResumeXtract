@@ -1,0 +1,437 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME 
+ 
+
+Name: Mr.Devendra Purushottam Joag  
+
+Email: devjoag@gmail.com 
+Contact No: +919922945262 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+Objective 
+
+To be an active employee who contributes to the Mission, Vision, and Values of the company 
+
+and to interact on a professional level with other employees. To give excellent performance 
+
+And to translate my experience, knowledge, skills and abilities into value for the organization. 
+
+Profile 
+
+ Total 4 years of competitive work experience in Software Design, Development 
+
+and Implementation of Distributed Window’s & Web applications using Java 
+
+technologies. 
+
+ Expertise in Programming Java applications using JAVA, Swings, Servlet, JSP, 
+
+Hibernate and Web Services, Angular JS. 
+
+ Experience in Developing Algorithm for Computer Aided Drug Design (CADD) 
+
+using C++ 11 which is now part of vLife MDS Product. 
+
+Educational Qualification 
+
+ Degree University/Board 
+Percentage Year of Passing 
+
+M.Sc. (Comp.Sci.)  University of Pune 64.86% 2014 
+
+ B.Sc. (Comp.Sci.) University of Pune 65.91% 2012 
+
+ H.S.C. Maharashtra State Board 51.17% 2009 
+
+ S.S.C. Maharashtra State Board 71.07% 2007 
+
+Technical Skills 
+
+Programming Languages  C, C++,Java, J2ee. 
+
+Web Technologies 
+JSP, Servlet, JSF 
+
+Databases MySQL, PL/SQL,SQLite,Oracle10g 
+
+Scripting 
+Angular JS ,Angular 4 ,JavaScript, jQuery, 
+JSON, Type Script 
+
+Mark-up Languages HTML 
+
+Application Server  Apache Tomcat 
+
+Other  Spring , Spring MVC,, Hibernate ,SOAP 
+
+Web Services, REST Web Services, SVN, 
+
+Sonarqube , JProfiler, GIT,PMD 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+Work Experience 
+
+Name of Company  : Deloitte Consulting USI. 
+Duration  : 24April 2017to Present 
+Designation  :  Consultant  
+
+Name of Company  : Tata Technologies Pvt Ltd. 
+Duration  : 6June 2016to 31 March 2017 
+Designation  :  Developer (PLM) 
+
+Name of Company  : Cosmos eSolutions& Services Pvt Ltd Pune 
+Duration  : 1  Dec 2014  to 31 May 2016 
+Designation  :  Software Developer  
+
+Name of Company  : VLife Sciences Technologies Pvt Ltd Pune 
+Duration  : 1  Jan 2014 –30th May 2014  
+Designation  :  Software Developer 
+
+Educational Qualification 
+
+ Degree University/Board 
+Percentage Year of Passing 
+
+M.Sc. (Comp.Sci.)  University of Pune 64.86% 2014 
+
+ B.Sc. (Comp.Sci.) University of Pune 65.91% 2012 
+
+ H.S.C. Maharashtra State Board 51.17% 2009 
+
+ S.S.C. Maharashtra State Board 71.07% 2007 
+
+Professional  Experience  
+
+Product Dashboard 
+
+Client              :Public Sector (Integrated Eligibility) 
+
+Duration :1Year 1Month.Team size :10 
+
+Environment :Angular, Spring, REST Web Services, Hibernate, SQL Server  
+
+ Description   : The United States Department of Health and Human Services (HHS) protects the health of 
+Americans. Typically, Federal HHS formulates policies, provides implementation guidelines 
+And funding. Integrated Eligibility (IE) allows  
+Citizens apply for all applicable programs by providing all required data together. IE Solution 
+Offering has multiple components, such as Screening and data Intake, Eligibility Processing 
+And Case Management, Check Benefits / Report Changes / Renew Benefits. 
+
+Roles and Responsibilities: Involved in Requirement analysis Design, Coding and Unit Testing, Performance 
+Improvement, Profiling and Code review.   
+
+Product Dashboard 
+
+Client              :Tata Motors Limited 
+
+Duration : 4 Months. Team size :2 
+
+Environment :Angular JS,HTML,CSS,W3CSS,REST Web Services, MySQL 
+
+ Description   : This system is used for sales purpose by dealers of company for giving demo of different features 
+
+of  products This  dashboard is used to display different variants of products according to customer needs  
+
+Roles and Responsibilities: Involved in Requirement analysis Design, Coding and Testing, Deployment 
+
+
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+  
+
+SeeXP BOM Loading 
+
+Client              :SINGAPORE TECHNOLOGIES AEROSPACE LTD (ST AEROSPACE) 
+
+Duration :4 Months .Team size :2 
+
+Environment :J2EE,Servlet, JSP , JavaScript ,Oracle10g 
+
+ Description   : Through a global repair and logistics support network, the company provides aircraft 
+
+maintenance repair and overhaul services for a wide range of aircraft components and engines.The project was to 
+
+load the SeeXP output file to Windchill server and read it.Create BOM structure in PDMLink product level, as per the 
+
+client’s requirements. And to create a Utility to Associate EPMDocument to WTPart. 
+
+Roles and Responsibilities: Involved in preparing the flow of execution document of an application. 
+Requirement analysis Design, Coding and Testing  
+
+Home Clearing System  
+
+Client              :Cosmos Co-op Bank Pune 
+
+Duration : 4 Months. Team size :1 
+
+Environment :JSF, Hibernate, RDBMS – Oracle10g 
+
+Description   : This project is small scale Clearing System which is designed for Cosmos Bank & its Sub Member 
+banks for checks clearing. This system contains mainly two modules Outward & Inward transactions. 
+
+Roles and Responsibilities: Involved in preparing the flow of execution document of an application 
+   Requirement analysis Design, coding and Testing and support. 
+
+Finding Maximum Common Sub-Structure 
+
+Environment :C++(11) 
+
+Team size: 1. 
+
+Project Description: This Algorithm is developed at VLife Sciences Technologies Pvt.Ltd for finding maximum 
+common sub structure amongst set of molecules. This algorithm is used on Congenric and Non Congenric set of 
+molecules. This algorithm has novel uses in field of Medicinal Chemistry. This Algorithm is now part of VLife MDS. 
+
+
+
+ 
+
+ 
+
+ 
+
+  
+
+ECS (Electronic Clearing System). 
+
+Client              :Cosmos Co-op Bank Pune 
+
+Duration : 7Months.Team size :2 
+
+Environment :    Servlet, Jsp , JSF, Hibernate Java Script REST Web Service,  RDBMS – Oracle10g 
+
+Description This systems  works as mediator between bank and various organizations  like NPCI,NSDL ,LIC etc. for 
+various processes like NECS,NACH,ECS,ACH for transfer of funds credit or debit to customer & various organizations. 
+This system consist various modules like NECS Credit/Debit  ,NACH(National Automated Clearing House) 
+Credit/Debit, ACH  Credit/Debit APY(Atal Pension Yojana),PSBY(Pradhan Mantri Suraksha BimaYojana) 
+,PMJJBY(Pradhan Mantri  Jeevan JyotiBimaYojana). 
+Roles and Responsibilities:  Involved in Development (coding) & Testing of all above mentioned systems. Also 
+involved in coordinating for understanding of process with NPCI & NSDL. 
+
+Currency Chest Operation Management System. 
+
+Client              :Cosmos Co-op Bank Pune 
+
+Duration : 2Months.Team size :4 
+
+Environment : Spring MVC, Hibernate ,REST Services, RDBMS – Oracle10g 
+
+Description This system is product of company which contains two main parts Remittance & BIN Management. This 
+system   will used for Currency management &  report generation for RBI.BIN management is part in which all 
+currency bins are automated with an algorithm & are auto updated based on remittance request. Daily inward & 
+outward cash of all branches & ATMS under one currency chest is handled through this system.   
+
+Roles and Responsibilities:  Involved in Development (coding) of this system 
+
+User Access Control System 
+
+Client              :Cosmos Co-op Bank Pune 
+
+Duration : 5 Months. Team size :2 
+
+Environment :JSF, Hibernate, JSP,REST Web Services, RDBMS – Oracle10g 
+
+Description   : This project is basically designed to manage roles & accesses of the users. From this system menu wise 
+accesses can be given to the user. These systems have various masters like Application Master, User master, Role 
+Master, Menu Master, Access Master etc. These systems have various functionalities like Application wise menu 
+access, User to role mapping, Role to Access mapping etc. This System further integrated with All In house Systems 
+developed in Applet, JSP Servlet & JSF technologies. 
+Roles and Responsibilities: Involved in preparing the flow of execution document of an application 
+Requirement analysis Design, coding and Testing. 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Certifications  
+
+ISTQB CTFL 
+ 
+
+International Software Testing Qualification Board (ISTQB) 
+
+Certified Tester Foundation Level (CTFL)  
+
+Personal Information: 
+
+Name: 
+Mr. Devendra Purushottam Joag 
+
+D.O.B: 26-08-1991 
+
+Marital Status: 
+Single 
+
+  Permanent Address: Flat No C-8 Shree Chintamani Co-Hsg society, 
+Mayur Colony, Kothrud, Pune-411038. 
+
+Languages: English, Hindi, Marathi. 
+
+E- Mail Id: devjoag@gmail.com 
+
+Contact: +919922945262 
+
+

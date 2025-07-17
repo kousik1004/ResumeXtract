@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                      Name:B.Venkateswarlu
+Mobile Number: 8309003571
+      E-Mail Id: vbukkishetti@gmail.com
+
+
+Objective:
+To work in a creative, challenging environment and achieve growth-oriented career in an organization where I can contribute best to the growth of the organization and my technical skills, knowledge and functional experience will always be utilized.
+Professional Summary:
+· Having 2+ years of professional experience in Software Design, Development, Integration and Implementation of Web Applications using Microsoft .Net Technologies.
+· Worked extensively in ASP.Net, C#.Net, ADO.Net,ASP.Net MVC, HTML5 and SQL SERVER.
+· Experience with Data Accessing including using DataAdapter, DataReader, DataSet in ADO.NET.
+· Extensive experience in web-based page and site designs using HTML, CSS, JavaScript, jQuery and AJAX.
+· Involved in implementation of Web applications using ASP.Net.
+· Having good experience in designing the GUI.
+· Experience in Relation Database System (RDBMS) and creating/using Tables, writing complex queries, Stored Procedures, functions, triggers using MySql Server.
+· Proficient in developing Web Services creating in Microsoft VisualStudio.Net2010 IDE using C#.
+
+Work Experience:
+· Working as a .Net Developer in Data rakshak Technologies Pvt Limited.
+Acadamic Qualification:
+· B.Tech CSE (61%) Tenali Engineering College Tenali 2014  ,(JNTUK).
+· Intermediate (76%) Jayabharathi Junior College Gurazala 2010.
+· SSC (61%)  ZPHS Miryalaguda 2008.
+
+Skill Set:
+· Operating Systems		:   Windows XP, Windows 7. 
+· Languages			:   C#.Net.
+· Web Technologies		:   ASP. Net, ASP.Net MVC, HTML5, Ajax,    								    Entity Framework.
+· IDE				:   MS Visual Studio .NET 2008/2010
+· Data Access Technologies	:   ADO .Net
+· Scripting Languages		:   Java Script, JQuery.
+· Database			:   Mysql Server
+
+Project-1:
+Project Name	   : 	Smpp Reseller admin
+Client              	  	   : 	Sap Teleservices
+Role                 	                : 	.Net Developer
+Team Size       	                 : 	4
+Environment  	    : 	C#.NET, ASP.NET MVC 4.0, HTML5, CSS3, JavaScript, JQuery, 
+                                                       MySql Server, Ajax, ADO.NET, Jquery Datatable. 
+Project Description: 
+Sapteleservices is a Platform offering To Manage Resellers and users with associated interface Gateways and Configuration settings for Smpp Client Conectivity platform to send Different SMS using Different routes,  change the routes to manage and balancing the network for avoid the network traffic in the application. Through this Software the End Users and Reseller will flexibly maintain and Do the Work all their software applications. 
+Roles & Responsibilities: As a team member I involved in the following activities
+· Understanding the functional requirements.
+· Used N-tier architecture for presentation layer, the Business and Data Access Layers and were coded using C#.
+· Developed Cascading Style Sheets (CSS) for User Interface uniformity throughout the application.
+· Developed Material Responsive Jquery Datatables to perform crud operations. 
+· Designed and Developed Admin, Reseller Admin, User Panel’s.
+· Use Ajax controls to make the pages more efficient in less response time.
+· Used ADO.NET to implement data access layer.
+· Developed Business logic for respective modules.
+· Using JSON Data from server request to bind in data to Jquery Datatable.
+· Design database with considering future needs and application design with full reusability.
+· Created necessary tables, Stored Procedures, functions and triggers in SQL Server.
+
+Project-2:. 
+Project Name		:        Customer Relationship Management (CRM)	
+Role                         		:         .Net Developer
+Client				:         Green Ads Global Solutions
+Team Size               		:         4
+Environment          		:         C#.NET, ASP.NET MVC 4.0, SqlServer2008, HTML, CSS, 
+                                                                 Java Script, JQuery, Ajax, ADO.NET.    
+Description:  
+           Customer Relationship Management (CRM) is a web based application to manage the Relationship between Employees and Customers. In essence CMS is a collection of multiple subsystems with each providing a specific and unique functionality. These subsystems consist of managing employee’s sales data, production related data, Plan and schedule about customer related information, company related expenses, payments, call reports ,leaves and payment reminders, on line activity, and budget.
+
+Roles & Responsibilities: As a team member I involved in the following activities
+· Understanding the functional requirements.
+· Executing Tickets and Change Requests, which involve Analysis, Coding, Testing, Implementation, and Documentation.
+· Used N-tier architecture for presentation layer, the Business and Data Access Layers and were coded using C#.
+· Developed Cascading Style Sheets (CSS) for User Interface uniformity throughout the application.
+· Use Jquery Ajax controls to make the pages more efficient in less response time.
+· Used ADO.NET to implement data access layer.
+· Developed Business logic for respective modules.
+· Developed Jquery Datatable and bind data through Webservice calls in the form of JSON objects and make sorting, paging, filtering data
+· Created necessary Stored Procedures and triggers in SQL Server.
+
+
+Personal Details:
+	Name	:	Bukkishetti Venkateswarlu
+	Father Name	:	Bukkishetti Nageswara Rao
+	Mother Name	:	Bukkishetti Adhilaksmi
+	Date of Birth	:	10/04/1992
+	Gender	:	Male
+	Languages Known	:	English, Telugu
+	Nationality	:	Indian
+
+Declaration:
+I hereby declare that above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of above mentioned particulars.
+
+Place: Hyderabad 						B.VENKATESWARLU
+
+
+

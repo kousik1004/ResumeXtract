@@ -1,0 +1,261 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MohanVamsi-Resume
+
+ (
+                         
+    
+                        
+      
+  
+       
+           
+                                                                                     
+            
+                                                                         
+           
+                                                      
+ 
+  
+Email 
+  
+: 
+  
+sunilsap14
+@gmail.com
+ 
+      
+              
+SUNIL KUMAR  Y
+ELURI
+               
+  
+       
+ 
+                   
+         
+              
+ 
+Mobile
+:
+   
++91
+ 9642259795
+             
+)Qq
+
+
+Work experience in SAP R/3 Platform
+
+
+· Working with Mind Tree as a Basis Consultant with 4 years of experience.
+Key skills
+
+· Sap NetWeaver 7.31/7.4
+· Database 11g,12c(Oracle),Hana
+· Good command on Windows, Linux and UNIX.
+SAP Basis Skills   
+
+· Having Around 4 Years of Experience as SAP BASIS Consultant
+· Capable to work in 24*7 environment extensively to monitor and provide required service
+· Performing daily monitoring activities (Health checks).
+· Performed SAP installation along with Post Installation activities.
+· Performed Kernel Patch Upgrade in the entire Landscape.
+· Expertise in applying Support Packages i.e. SPAM/SAINT
+· Logon Group creation and Logon load balancing. 
+· Extensive experience in configuring Transport Management System (TMS) for the system landscape using STMS
+· Releasing the Change requests and Importing transport requests in the Landscape.
+· Start/Stop of SAP Systems and troubleshooting problems with Start/Stop.
+· Creating Logical Systems and Assigning logical systems to clients.
+· Client Administration 
+· Client Creation, Deletion, Locking/Unlocking Client
+· local client Copy, Remote client copy 
+· client export, import
+· Transports between Development, Quality and Production Systems. 
+· User administration 
+· Creating user ids based on standard naming convention
+· Resetting passwords, locking and unlocking user ids
+· Mass user creation
+· Scheduling and monitoring of Background jobs. 
+· Configure & Assigning Operation modes. 
+· Creating single roles, Composite roles and assigning them to users.
+· Experience on Service market Place to Download the Various Support Packages, Kernel Patches, Generating License Keys, SSCR keys etc.
+· Experience on backup strategy, online and offline backup, restore and recovery scenarios
+·  System Copy / System Refresh 
+· EHP Upgrade
+· BOBJ administration
+· DB Administration
+(Adding data files to the table spaces, DB BACKUP, DB RESTORE, DB RECOVERY, Running database statistics, DB Instance management)
+
+ J2EE ENGINE SKILLS: 
+
+· Java Engine monitoring.
+· Applying Patches through SDM, JSPM
+· SLD Configuration.
+· Experience on Config tool, NWA tools.
+· SSO Configuration.
+· Solution manager administration.
+
+HANA DB ADMINISTRATION: 
+
+· Backup and recovery of HANA database, 
+· Update revisions for Hana.
+· Monitoring and troubleshooting Hana.
+· License management for Hana and ECC.
+· HANA Monitoring related to Space management, DB alerts.
+· Hana Studio and Hana Cockpit tools experience.
+· Hana DB Installations. 
+· Installing sap HANA Client and Studio.
+· Adding HANA System in SAP HANA Studio.
+· Stopping, starting and restarting sap HANA services.
+·  Installation in SAP HANA Database.
+· Understands and Performs the Monitoring of HANA Systems.
+· Managing Users and Monitoring system.
+· Backing up and Recover activities in SAP HANA Database.
+· Checking the Alerts and notifications.
+· SLT installation proceeding with DATA replication/transfer the data.
+· Upgrade the HANA database revision and version.
+· Hana database monitoring via hana studio and hana cockpit.
+· Taking delta backups like Differential and Incremental.
+
+
+
+ PROJECTS:
+ 
+
+ Project #2
+ Client		: Volkswagen PROJECTAMS- ET2000	
+ Role		: SAP BASIS Consultant.
+ Duration            : Jan 2014 to till date
+
+Project Roles & Responsibilities:
+
+· Monitoring System Health Activities.
+· Monitoring the Back Ground jobs and resolving the run time issues.
+· Pre and Post Refresh activities.
+· Performed Kernel Patch Upgrade.
+·  Applying Support Packs. 
+· Importing the change requests between the systems in the landscape and other systems which are not in the landscape.
+· Creating the RFC destinations
+· Start/Stop of SAP Systems and troubleshooting problems with Start/Stop.
+· Performing logical system creation.                                                                                                                                                                                                      
+· Client Administration 
+· (Client Creation, Deletion, Locking Client, Including local client Copy, Remote client copy and client export, import.)
+· TMS configuration and maintenance landscape.
+· Transports between Development, Quality and Production Systems. 
+· Implementing sap notes 
+· Opening OSS Connections
+· User administration 
+· (Creating user ids based on standard naming convention, resetting passwords, locking and unlocking user ids, Mass user creation.)
+· Scheduling and monitoring of Background jobs. 
+· SSO Configuration
+· System Refresh / System Copy.
+· DB Administration using BRTOOLS.
+· (Increasing the Table Space, DB BACKUP, DB RESTORE, DB RECOVERY)
+· Java Engine monitoring.
+· Applying Patches through SDM, JSPM.
+· SLD Configuration
+· Java Tools Administration. 
+· EHP Upgrade 
+· SPS Patch Upgrade
+· System copies via Homogeneous and Heterogeneous  
+· DB Refresh via Restore and Recover method 
+
+Project #1
+       Client		: Quippo Telecom Infrastructure Limited
+       Role		: SAP BASIS Consultant.
+       Duration                     : August 2013 to Jan 2014
+Project Roles & Responsibilities:
+
+· Monitoring System Health Activities.
+· Installed GUI and configured Logon groups etc.
+· Hands on Performed DB Refresh with BR*Tools.
+· Hands on Performed Homogeneous System copy.
+· Extensive Experience in trouble shooting and performance monitoring of SAP systems.
+· Scheduled and monitoring back ground jobs.
+· Client Administration: Client Creation, Remote & local Client Copy, Client Export& Import.
+· Configuring of Transport Management System (STMS).
+· Configuring the RFC connections between the systems.
+· Applying Support Packages with SUMTOOL.
+· Applying Support Packs through JSPM.
+· Performed kernel upgrade.
+· Spool administration.
+· EHP Upgrade
+· User creations, role creation, lock/unlock user password reset.
+· Maintained the profile parameters.
+· Starting and stopping sap & database instances.
+· Defining operation modes and assigning time intervals to the operation modes.
+· Data base management Backup, Restore a Table space administration using BRTOOLS.
+· Performed java stack administration using tools like config tool, visual admin tool and NWA tool.
+· System copies via Homogeneous and Heterogeneous  
+· DB Refresh via Restore and Recover method
+           SCHOLASTIC RECORD
+·             Bachelors in INFORMATION TECHNOLOGY  from Jawaharlal Nehru Technological University,                     Kakinada, India.          
+
+Personal Details:
+Name 			      : SUNIL KUMAR YELURI
+Date of Birth	         	      :  12/06/1991
+Sex 			      :  Male
+Marital Status	           	      :  Single
+Nationality		      :  Indian
+Contact No 	     	      :  +91- 9642259795
+Languages Known               :  English and Telugu and Hindi.
+
+I hereby declare that the above information is correct and complete to the best of my knowledge and belief.
+
+
+Date:                               			                                                                                          (Signature)
+
+
+
+

@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+Akshay Gupta		Phone: +91 9540925222
+A-443, Sector 46, Noida
+
+
+
+PROFILE SUMMARY
+	Name
+	Akshay Gupta
+
+
+	Experience 
+	4 + years of total experience.
+· Experience in SAS Programming in Mainframe, and DB2 Database for clients offering services in Health & Welfare, Defined Benefits and Defined Contributions domains. 
+
+	Role
+	· Writing codes to generate Reports using SAS and SQL in different formats (CSV, XLS, etc.)
+· Processes to fetch, update and delete required data from Aon Hewitt’s various Databases via SQL queries.
+· Processes to load Client’s Payroll and HR Data into Aon Hewitt’s various Databases.
+· Development and Ongoing Support for Mainframe Batch Jobs.
+
+
+	Core Skills
+	
+	Languages		        :
+	Base SAS, SAS Macros,  SQL, Job Control Language
+
+	Database & Tools	        :
+	Bluezone 6.1 (IBM Mainframe Emulation), DB2
+
+	
+	
+
+
+
+
+	Employment History
+	Programmer Analyst at Aon Hewitt (November 2012 – Present)
+
+	Achievements / Awards
+	· Two times winner of “Live Our Values Award” for appreciation received from client  for work exceeding clients expectation.  
+· Developed various reusable SAS codes for Aon Hewitt to save effort and improve productivity.
+
+	Core Strengths
+	· Ability to provide thought leadership
+· Ability to lead teams in development and implementation.
+· Ability to work individually and as part of cross functional teams 
+· Demonstrated decision making and problem solving skills 
+· Excellent communication, written, analytical skills
+· Team oriented with excellent collaboration skills
+· Attention to detail and commitment to quality of work
+· Passion to learn and improvise
+
+	Education
+	
+· B.Tech in Information Technology from G.N.I.T, Greater Noida (2008-12).
+· C.B.S.E - 12th, D.A.V, Noida in 2008.
+· C.B.S.E - 10th, Somerville School, Greater Noida in2006.
+
+	Personal Information
+	· Email: fitakshay@gmail.com
+· Phone: +91 9540925222
+
+
+
+	Project Experience
+
+	Organization: Aon Hewitt
+
+Duration :
+October 2016
+November 2016
+
+Platform & Tools:  Bluezone 6.1 (IBM Mainframe Emulation), DB2,  Base SAS, SQL, Job Control Language
+
+Team Size: 1
+
+	Project Name:
+Communication Files
+
+Project Description :
+The purpose of the development of this project was to develop a single SAS  that can run every year, this SAS utilizes different query to provide client set of reports that are required during the year
+ Role:  Analyst/Configuration Controller/Tester.
+Worked as a core member of the team where I was responsible for developing new SAS codes and SQL queries.
+Responsibilities:
+· Developed new SAS codes implemented it in the existing system followed by its testing and deployment.
+· This way a cost saving project that uses single SAS that can be run by anyone to fetch relevant reports.
+
+	Organization: Aon Hewitt
+
+Duration :
+August  2016 September 2016
+
+Platform & Tools:  Bluezone 6.1 (IBM Mainframe Emulation), DB2,  Base SAS, SQL, Job Control Language
+
+Team Size: 1
+
+	Project Name:
+Log Proc implementation. 
+
+Project Description :
+This project involved implementation of  two Log Proc that were responsible for always loading a correct file in the TBA, it involved maintaining a separate file that would work as count keeper so that always correct file is loaded irrespective of any delay or any mishappening  due to which wrong file may be received.
+ Role:  Analyst/Configuration Controller/Tester.
+Worked as a core member of the team where I was responsible for developing new SAS codes and SQL queries to fetch the participants plans and combining them with the inbound file to report them out.
+Responsibilities:
+· Developed new SAS codes implemented it in the existing system followed by its testing and deployment.
+· Convinced the client to get it implemented as  it would be a benefit if we would add it to existing system.
+
+	Organization: Aon Hewitt
+
+Duration :
+June  2016 – July 2016
+
+Platform & Tools:  Bluezone 6.1 (IBM Mainframe Emulation), DB2,  Base SAS, SQL, Job Control Language
+
+Team Size: 4
+
+
+	Project Name:
+Creating New Cigna Outbound file
+
+Project Description :
+This project involved reporting out the Participants that were involved in Specific Health & Welfare Plans offered by the client, who were out there inbound file and reporting out there Plan status and eligibility. 
+Role:  Analyst/Configuration Controller/Tester.
+Worked as a core member of the team where I was responsible for developing new SAS codes and SQL queries to fetch the participants plans and combining them with the inbound file to report them out.
+Responsibilities:
+· Developed new SAS codes and SQL queries to report out eligible participants  and place them in correct layout of outbound file.
+· Studied and discovered cases of plans.
+
+	Organization: Aon Hewitt
+
+Duration :
+ April 2016 –May 2016
+
+Platform & Tools:  Bluezone 6.1 (IBM Mainframe Emulation), DB2,  Base SAS, SQL, Job Control Language
+
+Team Size: 5
+
+
+	Project Name:
+Address Preference Implementation
+
+Project Description :
+This project involved implementation of new tables from where Preferred Address (Permanent, Alternate, Email, etc.) of the client’s employees and their dependents, who were enrolled in the Health & Welfare Plans offered by the client, could be fetched easily, instead of retrieving all the addresses.
+
+Role:  Analyst/Configuration Controller/Tester.
+Worked as a core member of the team where I was responsible for developing new SAS codes and SQL queries to fetch preferred addresses.
+Responsibilities:
+· Developed new SAS codes and SQL queries so that preferred addresses could be fetched.
+· Updated any existing SAS codes and SQL queries from where addresses were being fetched. 
+
+
+	Organization: Aon Hewitt
+
+Duration  February  2016 – March 2016
+
+Platform & Tools:  Bluezone 6.1 (IBM Mainframe Emulation), DB2,  Base SAS, SQL, Job Control Language
+
+Team Size: 6
+
+
+	Project Name:
+Inbound-Outbound Implementation for Data Transfer
+
+Project Description :
+This project involved exchanging of information about participants and their dependents, which were enrolled in the Health & Welfare Plans offered by the client, with the vendor.
+
+Role:   Analyst/ Configuration Controller/Tester.
+Worked as a core member of the team where I was responsible for developing new SAS codes and SQL queries to fetch and load client specific data.
+Responsibilities:
+· Developed new SAS codes and SQL queries, so that existing data from Aon Hewitt databases could be fetched and sent to vendor in the form of reports.
+· Developed new SAS codes and SQL queries so that new data from vendor could be loaded to Aon Hewitt databases. 
+
+
+	Organization: Aon Hewitt
+
+Duration :
+January 2016 – March 2016
+
+Platform & Tools:  Bluezone 6.1 (IBM Mainframe Emulation), DB2,  Base SAS, SAS MACROS,  SQL, Job Control Language
+
+Team Size: 5
+
+
+	Project Name:
+
+Eligibility File Compare
+
+Project Description :
+This project involved developing SAS codes and queries due to compare  eligibility files being offered by the client, for the participants which were enrolled in the Health & Welfare Plans offered by the client, and creating reports different reports out of them based on their presence in  eligibility files in different files with the data combining with DB2 according to client requirement. 
+
+Role:   Analyst/ Configuration Controller/Tester.
+Worked as a core member of the team where I was responsible for developing and updating new SAS codes and SQL queries to fetch and load client specific data.
+Responsibilities:
+· Developed new SAS codes using MACRO functionality and SQL queries, so that existing data from Aon Hewitt databases could be fetched and sent to vendor in files.
+· Developed new SAS codes and SQL queries so that new data from vendor could be loaded to Aon Hewitt databases. 
+
+
+
+
+	Personal Details
+	
+	Father’s Name		        :
+	B.M. Gupta
+
+	Date of Birth   		        :
+	 29th January 1991
+
+	Languages Known	        :
+	English and Hindi
+
+	Nationality                  	        :
+	Indian
+
+	
+	
+
+
+
+
+
+

@@ -1,0 +1,312 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULAM VITAE 
+ 
+
+YOGESH  S. NIRMAL 
+
+Phone: 7058088910 
+
+E- mail: nirmalyogesh2014@gmail.com 
+
+ 
+
+ 
+
+To excel in the field of Information Technology as an Oracle Database Administrator by 
+
+contributing continuously towards organizational growth by providing seem less database 
+
+support and to utilize every opportunity to achieve both personal and professional development.  
+
+ 
+
+ 
+
+ Having 3.7 years of experience in Oracle Database administration. Presently working as 
+
+‘Oracle Database Administrator’ with Capgemini Technology Services India Limited, 
+Mumbai. 
+
+ Having in-depth knowledge in oracle Architecture.     
+
+ Having Experience on database creation using DBCA method 
+
+ Having knowledge of ASM.  
+
+ Having Experience on RAC Administration. 
+
+ Having knowledge of RAC Architecture. 
+
+ Having knowledge of RAC(Real  Application Cluster) 
+
+ Having knowledge of Backup OCR, Voting Disk and OLR. 
+
+ Creating and monitoring the tablespaces, allocating tablespaces for users. 
+
+ Good experience on working for Remedy Tool. 
+
+ Managing Redo log, Control file and Archive log files. 
+
+ Diagnose and monitoring Alert log files. Cleanup of old logs and traces. 
+
+ Having good Experience in configuring pfile, spfile and parameter management. 
+
+ Having good Experience in Export and Import Utility.                                 
+
+ Performed and maintained backup and recovery strategies for the database using logical 
+
+(Export & Import), physical (hot & cold) and RMAN backups. 
+
+ RMAN Backup and recovery (HOT & COLD Backup) 
+
+ Cloning of the database using online, offline, RMAN using Duplicate and Without 
+
+Duplicate commands.      
+
+ Having experience on applying the database patches and patch set using Opatch.  
+
+ Having Experience to Upgradation of database 11.2.0.3 to 11.2.0.4 
+
+ Experience of Upgradation of database Manual & DBUA method. 
+
+ Backup of Databases - Making Backup Schedules depending upon Business Strategy: 
+
+Daily Backup, weekly Backup etc. 
+
+ Having experience on flashback techniques like restore point. 
+
+ Configuration & Administrating of Data Guard (Physical Standby Database). 
+
+CAREER OBJECTIVE 
+
+DBA SKILLS 
+
+mailto:nirmalyogesh2014@gmail.com
+
+
+ Configured Data Guard and tested for switchover. 
+
+ Working in 24/7 production support environment. 
+
+ 
+
+ 
+ 
+
+ 
+
+#PROJECT DETAILS:  (Jully 2016 to till date) 
+ 
+
+     Organization: Capgemini Technology Services India Limited 
+
+Role               : Oracle DBA. 
+
+Client    : BOSCH 
+
+    Environment:  Linux , Oracle 10g/11gR2 
+
+ 
+
+Responsibilities: 
+
+ 
+
+ Oracle software installations and Database creations. 
+ Database upgrade & patching in Standalone database servers. 
+ Database cloning in Standalone database servers. 
+ Database refreshes from Production to Non Production environments.  
+ Schema & Table level refreshes using data pump.  
+ Transferring the data between one database to another database using logical backups like 
+
+EXP/IMP and DATAPUMPS. 
+
+ Configure tnsnames.ora, listener.ora files. 
+
+ Create and maintaining the dblink. 
+
+ Good hands on experience on configuring RMAN backups using catalog and no catalog 
+
+model. 
+
+ Handling responsible for both manage and support for all production, development and 
+
+staging instances. 
+
+ Creating, granting and monitoring user access rights and privileges and roles. 
+
+ Configuration & Administrating of Data Guard (Physical Standby Database). 
+
+ Configured Data Guard and tested for switchover & failover. 
+ Checking of Alert log and Trace files to monitor the database on a daily basis.  
+
+ 
+
+TECHNICAL SKILLS 
+
+Database  Oracle 10g/11gR2 
+
+DBA Utilities SQL*Plus, Import, Export, expdp, impdp, RMAN 
+
+Operating Systems 
+Linux, Windows 
+
+ 
+
+Ticketing Tools BMC Remedy,Service Now 
+
+Tools Putty , DBCA, DBUA, WinSCP, OEM,NETCA,PL/SQL Developer 
+
+  
+
+Work Experience: 
+
+
+
+ 
+
+#PROJECT DETAILS: (23
+rd
+
+ Jun 2014 to Jun 2016) 
+
+ 
+
+            Organization : Capgemini Technology Services India Limited 
+
+Role              : Database Administrator 
+
+Clients  : Fairfax Media Entertainment 
+
+Environment  : Linux ,Oracle 10g/11gR2 
+
+ 
+
+Responsibilities:  
+
+ 
+
+ Oracle software installations and Database creations. 
+ Managing the client sessions. 
+
+ Troubleshooting unknown issues through SR. 
+
+ Patching (PSU and CPU) on several databases.  
+
+ Use External and Internal tickets with Remedy tools for the project. 
+
+ Provide end-user assistant for Database. 
+
+ Configuration & Administrating of Data Guard (Physical Standby Database). 
+
+ Upgradation of database from 11gR1 to 11gR2. 
+
+ Configuration & Administrating of Data Guard (Physical Standby Database). 
+
+ Configured Data Guard and tested for switchover & failover. 
+ RMAN Backup and recovery (HOT & COLD Backup) 
+
+ Manual cloning and Duplicate Cloning. 
+
+ 
+
+ 
+
+Successfully completed BCA (Computer Application) with Aggregate 63.54% in the year 2014. 
+
+ 
+
+ 
+
+Date of birth 17
+th
+
+ May 1994. 
+
+Language known           English, Marathi, Hindi 
+
+Contacts Mob.no. : +91- 7058088910 
+
+Email : nirmalyogesh2014@gmail.com 
+
+ 
+
+ 
+
+I hereby declare that the above written information is true to the best of my knowledge and 
+
+belief. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EDUCATION QUALIFICATION 
+
+PERSONAL DETAILS 
+
+DECLARATION 
+
+mailto:nirmalyogesh2014@gmail.com
+
+
+                           
+
+ 
+
+ 
+
+ 
+
+

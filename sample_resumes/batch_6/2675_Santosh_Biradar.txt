@@ -1,0 +1,303 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Prod Test Engineer - Junior 2.docx
+
+Resume
+
+Santosh Biradar
+Mob: +91-808716881
+Email Id:santoshbiradar88@gmail.com
+
+	Professional Summary		
+
+
+
+· 3.5+ Years of Experience in application development using Java/ J2EE technology
+· Experience in working Struts1.3,Spring Core, Sprin-MVC, Spring RestAPI, Hibernat, HTML, CSS, Javascript, jQuery, AJAX.
+· Good knowledge of Object oriented programming
+· Experience in working with Databases like SQL Server, Oracle.
+· Well acquainted Worked with IDE’s like Eclipse.
+· Working knowledge of tools like TortoiseSVN, PL-SQL Developer
+· Good knowledge of Software Development Life Cycle
+
+	Inter-Personal Skill  Sets
+
+
+
+· Business process oriented thinking for efficient process implementation.
+· A self-starter with good analytical, problem solving skill. Ability to adapt quickly to new environments, learn new technologies, deliver quality work under pressure and aptitude to meet deadlines.
+· A team player with good inter-personal skills, decision maker, committed to quality 
+· Excellent written and verbal communication skill.
+
+
+	Technical Skill		
+
+
+
+	Programming Languages       
+
+	Java, J2EE, HTML, Javascript
+
+	Frameworks
+	Struts1.3, Spring, Hibernate
+
+	Operating Systems
+	Windows XP/7
+
+	Application / Web Server        
+	JBOSS,Weblogic
+
+	Database
+	SQL Server, Oracle
+
+	Tools	
+	TortoiseSVN, Eclipse. 
+
+
+
+
+
+	Professional Experience			
+
+
+
+	Company
+	Designation
+	Start Date
+	End Date
+
+	Vara United
+	Senior Associate
+	4th Dec, 2017
+	      -
+
+	TECHPROCESS PAYMENT SERVICES PVT
+	Sofftware Engineer
+	18th Mar, 2015
+	28th Nov, 2017
+
+
+
+
+	Educational Qualification
+
+
+
+· PGDAC(CDAC) MET IIT Bandra, Mumbai.
+· B.E(Computer Science) with 66.86% from North Maharashtra University,Jalgaon.
+· 12th 60% HSC Board, Maharashtra
+· 10th 83.38% SSC Board, Maharashtra
+
+
+	Professional Project Details		
+
+	
+Project #1
+	Title
+	Money2India
+
+	Clients
+	ICICI Bank
+
+	Role
+	Developer
+
+	Technology
+	JSP,Servlet,JSTL,Spring,Struts,Hibernate,Oracle
+
+
+
+Description:
+Money2India is inward remittance application where customer who residing outside India can send money to beneficiaries in India based on commission and exchange rate.
+Deals with application for internal processing of all required calculation for above mentioned process.
+As a Developer, Responsible for
+· Involved in developing various modules.
+· Involved in handling and bug fixing of various modules.
+· Involved in Building Business logic.
+· Involved in Technical Design Document.
+· Involved in Code Review.
+· Coordination with Client.
+
+
+
+
+Project #2
+Payment Gateway
+
+	Title
+	Bank Integration
+
+	Environment
+	Core Java, JSP, Servlet and SQL Server 2008
+
+	Role
+	Developer
+
+	Team Size
+	4
+
+	Synopsis
+	Integration with different Banks in order to facilitate payments modes in Payment Gateway system.
+Following payment mode banks has been integrated with Payment Gateway:-
+	Wallet
+	NetBanking
+	Card Gateway
+	New
+	Emandate
+
+	PayZapp
+	ICICI & ICICI Corporate.
+	HDFC Gateway
+	UPI
+	Axis eMandate
+
+	MasterPass
+	RBL BanK
+	SBI Card Gateway
+	mVisa
+	Hdfc eMandate
+
+	Mpesa
+	Axis Bank
+	UBI Card Gateway
+	
+	
+
+	PayTM
+	SBI Net Banking
+	
+	
+	
+
+
+
+
+
+
+
+	Title                         
+	Paynimo Platform Integration
+
+	Environment
+	Core Java, Spring RestAPI ,JSON
+
+	Role
+	Developer(Rest Service Developed for Paynim Platform )
+
+	Team Size
+	3
+
+	Synopsis
+	Paynimo is a revolutionary way to send, receive and request money with your smartphone using simple details like a phone number or an email ID. Develop a proxy to handle JSON request, which is then converted to Payment Gateway request format for processing the transaction. Implemented factory design pattern in proxy, to process different transaction request. Proxy support transactions both from mobile device app and JavaScript payment checkout.
+
+
+
+
+
+	Title                         
+	Online E-Mandate Registration &Txn Shedulling (HDFC Bank,AXIS Bank,
+ICICI Bank)
+
+	Environment
+	Core Java, Spring RestAPI ,JSON
+
+	Role
+	Developer(Spring Rest API for E-Mandate Registration.)
+
+	Team Size
+	7
+
+	Synopsis
+	Online E-Mandate registration for direct debit, which enable paper less work. This integration comprises of net-banking transaction authorization by bank and mandate registration through Elite system. Both this system is integrated with Techprocess product Paynimo. Merchants will be integrated with Paynimo. For customer mandate registration, Paynimo JS checkout will capture mandate parameter and customer will perform online net-banking transaction. Mandate will be registered only when transaction is successful.
+
+
+
+	Title                         
+	HDFC LIFE Online Payment Checkout.
+
+	Environment
+	Core Java, jsp Servlet , SQL Server 2008
+
+	Role
+	Developer
+
+	Team Size
+	4
+
+	Synopsis
+	We are developing Payment checkout or online registering details for Hdfc Life Insurance.
+
+	
+	
+
+
+
+
+
+
+	Extra-Curricular Activities		
+
+
+
+· Active participation in Sports like Cricket, Chess at College level.
+· Active participation in Social activities like Blood Donation and Cleanliness camp. 
+· Worked as active committee member of Intercollege level software presentation event Phonix2k13.
+
+ 
+	Personal Details			
+
+
+
+Permanent Address: C/O Ganapati N Biradar, Nivasi Mukbhadhir Vidhyalay ,Mudkhed Road, Bhokar .
+Current Address: Room No 07,Ram bag Society Near Crystal Palace ,Powai Mumbai-400076 
+Date of Birth: 15th June, 1991 	PAN Number: BZTPB8273R
+Languages Known: English, Hindi, Marathi and Kanada.
+Hobbies: Playing Cricket, Surfing Internet.

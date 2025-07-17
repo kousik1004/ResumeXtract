@@ -1,0 +1,211 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nandhini Vasudevan
+Kumbakonam
+Contact Number: +919791374190
+Email: nandhinivasudevan@gmail.com
+
+
+PROFESSIONAL SUMMARY
+
+I have 4.5 years of IT experience in Mainframe technology having been involved in various phases of project life cycle like Analysis, Design, Development, Test Plan Preparation and Testing.
+WORK EXPERIENCE
+
+	EMPLOYER
+	ROLE
+	DESIGNATION
+	FROM_DATE
+	TO_DATE
+
+	Tata Consultancy Services
+	Developer
+	IT Analyst
+	July 2010
+	Jan 2015
+
+
+EDUCATIONAL QUALIFICATION
+
+	Qualification
+	Specialization
+	Board/University
+	Year
+	Marks
+
+	High School
+	Mathematics/Physics/Chemistry/Biology
+	Tamil Nadu State Board, India
+	May 2006
+	81%
+
+	B Tech
+	Bio Medical Engineering
+	SASTRA, Tanjore, India
+	May 2010
+	84%
+
+
+SKILL SET
+
+Programming Languages
+
+
+: COBOL, JCL, VSAM, DB2 Utilities
+Databases/Tools 
+
+
+
+: DB2, FileAid, Changeman, TOM, TWS, Fault Analyzer
+Operating Systems and other generic skills
+: Windows-XP/Vista/7, z/OS, MS Office
+
+PROJECT EXPERIENCE
+
+I was a part of Morgan Stanley account for the past 4.5 years associated with AAA product.
+
+Client Description:
+
+Morgan Stanley is a global financial firm that, through its subsidiaries and affiliates, provides its products and services to a large and diversified group of clients and customers, including corporations, governments, financial institutions and individuals. Morgan Stanley conducts its business from its headquarters in New York, its regional offices and branches throughout the United States and its principal offices in London, Tokyo, Hong Kong and other world financial centers. Morgan Stanley maintains leading market positions in each of its business segments — Institutional Securities, Retail Brokerage, Asset Management and Discover.
+
+As Morgan Stanley’s premier service for individuals and families with significant means, it also specializes in providing its clients with custom-tailored financial solutions and a level of sophistication and access to expertise and investments typically reserved for large corporations, financial institutions and governments. 
+
+AAA Product Description:
+
+The Active Assets Account is a brokerage account with Morgan Stanley Smith Barney. It offers a robust suite of benefits and services which include essential cash management services and practical investment features.
+
+The Morgan Stanley Smith Barney Debit Card application offers various features to its customer like 
+
+· Integrated account statement
+
+· Annual spending summary
+
+· More spending power
+
+· ATM free rebates 
+
+· Comprehensive purchase and travel insurance 
+
+The Morgan Stanley Smith Barney check application offers various benefits to its customers like
+
+· Free unlimited check writing
+
+· Free for first 50 checks
+
+· Access to all available funds
+
+· Convenient check images 
+
+· Full details on every month
+
+
+Project #1
+Title
+
+: Joint Venture Conversion between Morgan Stanley and Smith Barney
+Duration
+: September 2010 to July 2012
+Description
+
+
+The Joint Venture between two Financial Institutions, Morgan Stanley (MS) and Smith Barney (SB) was described as one of the significant events on the Wall Street. The actual conversion happened in three phases. During each and every phase,  a list of accounts was provided by Smith Barney to assign the corresponding entries in Morgan Stanley. A cross-reference  file was provided listing the SB account numbers with their corresponding card and check numbers.
+Responsibility
+
+· I was one of the team members to be involved in the project design to finalize which modules are to be changed and which modules are to be created anew.
+
+· We developed mainframe modules which accessed DB2 tables to get information and to add new information to the database.
+· We did the testing of newly added modules and the modified modules in three phases which included mock and dress rehearsal runs and delivered the reports and statistics to the clients which helped us in having a smooth production run.
+· Post conversion, we provided support for a period of six months during which I had a chance to work on enhancements.
+
+Project #2
+
+
+Title
+
+: Eligibility Verification
+Duration
+: May 2013 to December 2013
+Description
+
+
+Every AAA account holder in Morgan Stanley can have Card and or Checks only if the account is eligible for the same. An account holder might be ineligible for card or checks for a number of reasons like moving out to an ineligible country or he has pledged his assets, etc..,.  When an account is checked and found to be ineligible, the card and/or the check usage is blocked for the account holder.
+Responsibility
+
+
+· I was the lead for the project from offshore. So, I had to coordinate with my onshore counterpart regarding project design.
+· I was a part of developing mainframe stored procedures for the project.
+· I developed a common module, which accesses DB2 tables to provide information whether the account is card/check eligible, is invoked by many other mainframe modules.
+· I was responsible to track the modules developed by my teammates and to deliver the quality product on time. 
+Project #3
+
+
+Title
+
+: Unique Numbering
+
+Duration
+: January 2014 to December 2014
+Description
+
+
+If an account holder in Morgan Stanley has Card and Checks, both the Card and Check numbers used to be the same. This project involved changing the card and check numbers to be different for an account so that it will be easier in the future to identify whether the transaction has been performed by the user by using the card or by the check. Also, an extra feature of having a maximum of 99 active debit cards per account holder was implemented.
+Responsibility
+
+· I was the lead for this project as well from offshore. This project involved changes in many systems within the firm. So, as a lead I had to coordinate with other systems mainly RTA, 3D, Margins, Statements, etc..,
+·  Since I had experience with conversion projects earlier, I was able to draft the project design with clarity.
+· I also designed and developed an automated process which was used to validate the conversion results.
+PERSONAL DETAILS
+Nationality 
+: Indian 
+Gender 
+: Female 
+Date of Birth 
+: 24th April, 1989
+Email 
+
+: nandhinivasudevan@gmail.com
+Phone 
+
+: +919791374190

@@ -1,0 +1,261 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VITAE
+
+Aliasgar Travadi                                                                                                    Email: antravadi@gmail.com                                                    
+
+SAP Basis Admin                                                                                                  Mobile: +91 8123708186                                                                                                                                                                          
+Over 5 Years of total IT experience and 4+ in SAP BASIS Administration and BASIS Support including vast experience in infrastructure support. Fully dedicated and committed to work and quick learner of new technologies.
+
+Professional Experience
+· Hands on experience of S4HANA 1610 OP system installation and upgrade to FSP02. ECC EHP8 upgrade, Solution manager 7.2 installation, configuration and upgrade using SUM tool, MSSQL Upgrade
+· Knowledge of ECC and BW System Refresh with MSSQL, Oracle and HANA database and installing add on through SPAM and SAINT
+· Worked on Unicode conversion and migration from Windows server to Linux OS and Oracle 10g to Oracle 12c database
+· Oracle database recovery and restore​
+· Installed Solution Manager 7.1 SAP system with Sybase ASE 15.7 with setup and configuration of solution manager
+· Creating and Monitoring OSS messages, SP download through Service Marketplace
+
+· Experience in upgrading SPAM, ST-PI and ST-A/PI components of ECC 6.0 SAP
+· Hands on experience of Kernel upgrade on a Windows and Linux OS platforms
+
+· Monitoring and Administration of Oracle, MS SQL database which includes maintaining table spaces, table space reorganization using brtools, performing and monitoring Database backup and user creation with proper access
+· Applying license, SNote and renewing SAP Router certificate
+· Experience of client Administration (Client copy,  Client export/import and client deletion)
+· Worked on Document Management system configuration (Filesystem based) and ADS configuration on S/4 HANA system
+· Daily, differential and weekly full back up by designing & implementing backup plan for SAP systems
+
+· Participated in Recruitment team for Level1 hiring and training
+· Help in developing training material and process for new level employee
+· Creating Logon Screen Message and Company logo for SAP GUI users
+Work Experience                                                 
+Employer 
+: ManageServe Technology Pvt. Ltd (May 2013 – Present)
+Client 
+
+: Tuthill, Frontier, Wdiamond, Merisant, MACOM
+Environment
+: S4HANA 1610, ECC 6.0, BW 7.3, EP 7.0, SM 7.1, 7.2
+3rd Party
+: Vertex, RealTek ServiceDesk & theGuard
+OS & DB
+: Windows Server, Linux, And DB: Oracle, HANA and MSSQL         
+
+Role
+
+: SAP BASIS Administrator
+​​
+Responsibilities:
+SAP SUPPORT ACTIVITIES:
+
+· SAP System refresh.
+· Background Job Administration: Creating jobs, scheduling jobs, modification, deletion, troubleshooting and checking for long running jobs and taking appropriate action.
+· Oracle database table and Tablespace maintenance using brtools in linux.
+· SAP Support Packages Application using SPAM and Add-on installation using SAINT.
+· Creating and maintaining of RFC Connections.
+
+· Transport Management Systems:
+
+· Configuring Transport domains, Transport routes and Troubleshooting TMS. 
+
+· Importing Transport requests using STMS.
+· Kernel Upgrade.
+· Defining and Maintaining Operation Modes.
+· Spool Administration: Configuring of Printers, Spool requests administration & troubleshooting.
+· Involved in Monthly report generation for the Clients and Monthly Vertex update.
+· System monitoring:
+
+· Checking whether SAP Systems are up and running.
+
+· Checking for Server and Work Processes.
+
+· Administering & Maintaining of Lock Entries.
+
+· Checking System Logs.
+
+· Consistency checks of Old Spools.
+
+· Checking failed Update Records, 
+
+· Analyzing and troubleshooting of ABAP Short dumps. 
+SYSTEM ADMINISTRATOR:
+
+· Monitoring Server health status including running services on it using Icinga Monitoring tool
+· Perform L1 troubleshooting for server issues like High CPU, Memory, Drives or File Systems usage and route to proper senior engineer for level 2/3 troubleshooting
+· Collaborate closely with Windows and VMware team and perform vMotion, Storage vMotion, Increase CPU and Memory, DataStore size as per request, create new VM etc.
+· Monitor and take necessary action for incoming customer created tickets using Helpdesk ticketing tool
+· Create VPN account, Mail account, Servicedesk account and Manage Internal database to upload and download documents
+· Create FTP account as per Customer Request on Windows 2008 server
+· Monitor Backup jobs using Backup Exec 2012 and Net Backup software and take necessary action for failed jobs
+· Responsible to monitor Backup tapes and worked with onsite person to perform tape rotation activity on every week 
+· Creating templates, deploying VMs, Performing Snapshots, Cloning, cold migrations and hot migrations. 
+
+· Infrastructure Monitoring with Graphs and Alarms of VMs & ESXi servers (CPU, Memory, Disk, Network Utilization)
+
+· Creating vmfs Data stores by using the LUNs assigned by SAN
+
+· Hot and Cold Cloning of Virtual Machines
+CLIENTS:
+
+Frontier Logistics (United States – July 2015 – Present)
+
+Projects:
+
+SAP R/3 Implementation & Support.
+Platform:
+
+
+Windows Server, MSSQL, SAP ECC 6.0, SAP BC 4.6.
+Responsibilities:
+· Datacenter Migration.
+
+· SAP system copy.
+
+· Installing SQL Server 2005 and optimization.
+
+· Database backup restoration.
+
+· SAP Business Connector 4.6 and 4.8 Installation.
+
+· SAP Business Connector migration from 4.6 to 4.8.
+TUTHILL, Wdiamond, Merisant (United States- July 2014 – Present)
+
+Project:
+
+      
+    SAP R/3 support.
+Platform:
+
+
+      Windows Server, Linux, MSSQL, ORACLE, SAP ECC 6.0, SAP Netweaver 7.3
+Responsibilities:
+· Complete post installation tasks (support packages, kernel patches, setting up STMS)
+
+· Monitoring the system on daily basis.
+
+
+· Performance analysis of the system.
+
+· Transports Management
+· Preparing monthly reports as per customer’s request.
+· Responsible to update Vertex every month and work with customer if any issue.
+· Spool jobs monitoring and analyzing spool jobs problems.
+
+· Database Monitoring and performances.
+· Kernel upgrade.
+
+· Database backup job scheduling and maintenance.
+
+
+· Profile maintenance
+· Oracle tablespace monitoring and increasing space on requirement using brtools
+· Kernel upgrade.
+
+
+· Profile maintenance.
+ Technical Customer Support
+
+ C-Cube Solutions India Pvt. Ltd                              Aug 2012 – Apr 2013
+
+· Supported Sony customers in US and Canada region 
+· Troubleshot hardware connectivity and other issues
+
+· Evaluated software compatibility and downloading
+· Provided resolution to almost  all clients within resolution rate (30 min)
+Academic Details:
+	Degree/Course
+	Institution
+	University/Board
+	Year of Passing
+	Percentage (%)
+
+	B.E (ECE)
+	Atmiya Institute of Technology & Science
+	GTU
+
+
+	2012
+	7.58  out of 10
+
+	HSC
+	S.G. Dholakiya, Rajkot
+	G.S.E.B.
+	2008
+	75.60
+
+	SSC
+	Virani School, Rajkot
+	G.S.E.B.
+	2006
+	74.43
+
+
+Technical Skills:
+
+Database                        MSSQL, Oracle, HANA, Mysql
+Operating Systems          Linux, Windows Server, Solaris
+Backup Tools                  Symantec NetBackup and Backup Exec 2010R3
+
+Ticketing Tools                Realtek Service Center
+Storage Tools                   EMC ^2 Celerra/Clariion Monitoring, Dell Modular Storage
+
+Monitoring Tool               Icinga, Guard
+Declaration:
+
+I hereby declare that above written particulars are true to the best of my knowledge and belief.
+
+Place: Bangalore
+
+
+
+
+
+
+
+
+Aliasgar Travadi

@@ -1,0 +1,417 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vivekkumar Yadav (Software Developer)  Resume_sakinaka
+
+
+Summary 
+
+Educational Qualifications 
+
+Working Details 
+
+Technical Proficiency 
+
+Objective 
+
+      Curriculum Vitae 
+Vivekkumar R. Yadav      
+Address: R/No.19, Marwadi Hsg-Soc, 
+Ganesh Maidan, Kajupada, Sakinaka,               Contact: 9869716064 
+Mumbai - 400072.                                E-mail Id: vivek_111000@yahoo.com    
+ 
+ 
+ 
+
+ 
+ 
+
+ To work with an organization offering a dynamic and professional environment which will help to 
+achieve the goals of the organization and simultaneously enhance my skills and knowledge and enable to 
+grow professionally within the organization. 
+ 
+
+ 
+ 
+ 
+
+ 4.8 years experience of web development with ASP.NET 4.5 Technology, ms-sql server  2012, 
+Bootstrap, JavaScript, Jquery, Ajax and CSS, MVC 5, WebApi. 
+ Used SQL Queries to create tables, stored procedures, function, join and view in MS Sql server. 
+ Enhanced and developed attractive UI functionality using Bootstrap framework. 
+ Developed Project using MVC5. 
+ Developed WCF Services. 
+ Used SSRS for report purpose. 
+ Used Dev Express Microsoft Tool for UI. 
+ 
+
+ 
+    
+ 
+Languages                  : - ASP.Net 4.5, C#, VB, MVC 5, WebApi, Ajax, Bootstrap, WCF,SSRS 
+Database                     : - MS- SQL Server 2012 
+Script languages        : - JavaScript, Jquery 
+ 
+ 
+ 
+ Scored 50.6% in M.Sc. I.T. from Mumbai University during the year 2012-13 
+ Scored 61.86% in B.Sc. I.T.  from Mumbai University during the year 2008-2011 
+ Scored 63%  in HSC Maharashtra Board during the year  2008 
+ Scored 77.73% in SSC Maharashtra Board during the year  2006 
+ 
+ 
+ 
+ 
+
+Company Name Working period 
+Sphere Info Solutions Pvt. Ltd. Vile Parle 
+(East),Mumbai 
+
+10th Feb, 2014 to 31st Oct, 2016 
+
+ETP International Pvt. Ltd. 1st Nov,2016 – till present 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+Project Experience 
+ 
+
+ 
+ 
+ 
+ETPAccelerator (worked at ETP International Pvt. Ltd.) 
+
+       ETP Accelerator, is developed to help retailers plan, execute, and monitor retail marketing promotions      
+and deploy them quickly accordingly across their various channels online and offline. It is designed 
+with a powerful business rule engine that allows you to visualize a promotion across merchandise, 
+channel, location, time and customer dimensions. 
+
+ In this project I have worked on Data Archival, Unarchival, send promotion to store level, export 
+promotion & import that promotion on new server, changes process from creating business rule, 
+promotion, exclude feature for merchandise, location & attached to strategy. 
+
+ 
+Project  :  ETPAccelerator 
+Designation : Software Engineer 
+Technology : Asp.Net 4.5, C#, DevExpress Tool, JavaScript, Jquery, Bootstrap 
+Database  : MS Sql Server 20012, 
+Tool  : Visual Studio 2013 
+ 
+
+     Roles and Responsibilities: 
+ Design and Develop Forms, create Stored Procedures, views. 
+ Used Jquery/Json for fast performance. 
+ 
+Web Replication Server (worked at ETP International Pvt. Ltd.) (In MVC) 
+
+      Web Replication Server, is developed to see status of replicated data from Store to EAS, EAS to Store, 
+master details entry for store which depends on division and facility, create scheduler for job with day 
+and time, send mail for different type of report and deploy them quickly accordingly across their 
+various channels online and offline. 
+
+ 
+Project  :  Web Replication Server 
+Designation : Software Engineer 
+Technology : MVC 5 with Entity Framework, JavaScript & Bootstrap 
+Database  : MS Sql Server 20012, 
+Tool  : Visual Studio 2013 
+ 
+
+     Roles and Responsibilities: 
+ Design and Develop Forms, create Table, Stored Procedures, views. 
+ Used Ajax method for insert, update and delete. 
+ 
+BSS Billing (worked at client side Brinks India Pvt. Ltd.) 
+
+      This software is used for creating new Rules (instruction given for calculating charges) for applying on 
+       the existing data of the customers and generate Invoice for the customer.  
+      Functionalities that has is Creating New Rule, Copy Rule to Different Customers, Maintaining log & 
+
+rollback rule etc. 
+ 
+Client   : Brinks India Pvt. Ltd. 
+Module  :  Correction 
+Designation : Software Developer 
+Technology : Asp.Net 3.5, C#, JavaScript, Jquery, Bootstrap 
+Database  : MS Sql Server 2008, 
+Tool  : Visual Studio 2008 
+Report Tool : SSRS 
+ 
+
+
+
+ 
+     Roles and Responsibilities: 
+
+ Design and Develop Forms, Stored Procedures and Reports. 
+ Used Jquery/Json for fast performance. 
+ Used Java Script, Ajax, Jquery. 
+ 
+BrinksCustomerPortal (worked at client side Brinks India Pvt. Ltd.) 
+
+      BrinksCustomerPortal project is completely developed by me. 
+      This software is used for taking order from customer for transfer their product from one location to  
+      another location & save all status on different location with date so we can track records of product    
+      which are transfer by custodian. 
+ 
+
+Client   : Brinks India Pvt. Ltd. 
+Designation : Software Developer 
+Technology : Asp.Net 3.5, C#, JavaScript, Jquery, Bootstrap 
+Database  : MS Sql Server 2008, 
+Tool  : Visual Studio 2008 
+Report Tool : SSRS 
+ 
+
+     Roles and Responsibilities: 
+ Design and Develop Forms, Stored Procedures and Reports. 
+ Used Jquery/Json for fast performance. 
+ Used Java Script, Ajax, Jquery. 
+ 
+ 
+CBR (worked at client side Brinks India Pvt. Ltd.) 
+This is web based application. The primary focus of this project is to track the distribution of money for 
+ATM as well as opening and closing balance status. 
+ 
+Client   : Brinks India Pvt. Ltd. 
+Designation : Software Developer 
+Technology : Asp.Net 3.5, C#, JavaScript, Jquery 
+Database  : MS Sql Server 2008, 
+Tool  : Visual Studio 2008 
+Report Tool : SSRS 
+ 
+
+     Roles and Responsibilities: 
+ Design and Develop Forms, Stored Procedures and Reports. 
+ Used Jquery/Json for fast performance. 
+ Used Java Script, Ajax, Jquery. 
+ Understand impact of change requirements into module and implement those changes. 
+ 
+Ex Employee (worked at client side Zee Entertainment Enterprises Ltd) 
+This is web based application. I have used Bootstrap framework for good UI. The primary focus of this 
+project is to communicate between ex employee of Zee Entertainment Enterprises Ltd and HR 
+department. Using this project ex employee can send any query regarding any document they want and 
+they can apply for job himself or for their friends. 
+Client   : Zee Entertainment Enterprises Ltd 
+Designation : Software Developer 
+Technology : Asp.Net 4.5, C#, JavaScript, Jquery, Bootstrap 
+Database  : MS Sql Server 2012, 
+Tool  : Visual Studio 2013 
+ 
+ 
+
+
+
+ 
+
+     Roles and Responsibilities: 
+ Design and Develop Forms, Stored Procedures and Reports. 
+ Design Master Page and other forms using bootstrap framework for good user interface. 
+ Used Jquery/Json for fast performance. 
+ Used Java Script, Ajax, Jquery. 
+ Direct interaction with HR Manager to understand the process. 
+ Understand impact of change requirements into module and implement those changes. 
+ 
+ARF & Tracking (worked at client side Zee Entertainment Enterprises Ltd) 
+This is web based application. I have used Bootstrap framework for good UI. This product is 
+about to track and approval to get the copy rights of movies, music’s etc.  The main purpose of 
+this project is to track the request from one person to another. It gives detailed history of reports 
+of various request made by the person.  
+Client   : Zee Entertainment Enterprises Ltd 
+Designation : Software Developer  
+Technology : Asp.Net 4.5, C#, JavaScript, Jquery, Bootstrap 
+Database  : MS Sql Server 2012, 
+Tool  : Visual Studio 2013 
+
+ 
+     Roles and Responsibilities: 
+
+ Design and Develop Forms, Stored Procedures and Reports 
+ Design Master Page and other forms using bootstrap framework for good user interface. 
+ Used Jquery/Json for fast performance. 
+ Direct interaction with client 
+ Understand impact of change requirements into module and implement changes. 
+ 
+Training Module (worked at client side Zee Entertainment Enterprises Ltd) 
+This is web based module. This is for to get the review those who are under training in HR department. 
+Client   : Zee Entertainment Enterprises Ltd 
+Designation : Software Developer  
+Technology : Asp.Net 4.5, C#, JavaScript, Jquery 
+Database  : MS Sql Server 2012, 
+Tool  : Visual Studio 2013 
+ 
+
+     Roles and Responsibilities: 
+ Design and Develop Forms, Stored Procedures and Reports 
+ Used Java Script, Ajax, Jquery 
+ Direct interaction with HR Manager 
+ Understand impact of change requirements into module and implement changes. 
+ 
+Customer request (worked at client side Zee Entertainment Enterprises Ltd) 
+This is web based application. I have used Bootstrap framework for good UI. This product is 
+about to track and approval of Add Film of customer through agency for showing in between 
+serials, movies and news. 
+Client   : Zee Entertainment Enterprises Ltd 
+Designation : Software Developer  
+Technology : Asp.Net 4.5, C#, JavaScript, Jquery, Bootstrap 
+Database  : Sql Server 2012, 
+Tool  : Visual Studio 2013 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+     Roles and Responsibilities: 
+ Design and Develop Forms, Stored Procedures and Reports 
+ Design Master Page and other forms using bootstrap framework for good user interface. 
+ Used Jquery/Json for fast performance. 
+ Used Java Script, Ajax 
+ Performed task of testing and implementing the software. 
+ Understand impact of change requirements into module and implement changes. 
+ 
+Zee Connect (worked at client side Zee Entertainment Enterprises Ltd) 
+In zee connect project I handled HR Portal (555_survey) module. The primary focus of this module is to 
+get feedback on many scenarios from all employee of Zee Entertainment Enterprises Ltd who has 
+completed 5 days, 5 weeks and 5 months from joining date. 
+ 
+Client   : Zee Entertainment Enterprises Ltd 
+Designation : Software Developer  
+Technology : Asp.Net 4.5, C#, JavaScript, Jquery 
+Database  : Sql Server 2012, 
+Tool  : Visual Studio 2013 
+ 
+
+     Roles and Responsibilities: 
+ Handled HR Portal(ess_555_survey) 
+ Design and Develop Forms, Stored Procedures and Reports 
+ Used Java Script, Ajax, Jquery 
+ Direct interaction with HR Manager 
+ Performed task of testing and implementing the software. 
+ Understand impact of change requirements into module and implement changes. 
+ 
+PMS (worked at client side Zee Entertainment Enterprises Ltd) 
+In PMS project I handled Artist Factsheet module. The primary focus of this module is to save details of 
+artist regarding their charge on per episode. Charge is dependent on per episode or per day and also save 
+previous year charge. 
+ 
+Client   : Zee Entertainment Enterprises Ltd  
+Technology : Asp.Net 4.5, C#, JavaScript, Jquery 
+Database  : Sql Server 2012, 
+Tool  : Visual Studio 2013 
+ 
+
+     Roles and Responsibilities: 
+ Handled Artist Factsheet module. 
+ Design and Develop Forms, Stored Procedures and Reports 
+ Used Java Script, Jquery 
+ Performed task of testing and implementing the software. 
+ Understand impact of change requirements into module and implement changes. 
+Project: Lead Management System 
+The primary scope pertains to the lead tracking cycle of Sphere Info Solutions. It focuses on the 
+stakeholders, the organization business goals and objectives, which define the complete process of the 
+lead generation to closure. The project is currently in Go Live phase. 
+ 
+Module  :  Call, Meeting 
+Technology : Asp.Net 4.5, C#, Javascript 
+Database  : Sql Server 2012, 
+Tool  : Visual Studio 2013 
+ 
+ 
+
+
+
+Declaration 
+
+Personal Details 
+
+ 
+      Roles and Responsibilities: 
+
+ Handled Call, Meetings Module 
+ Design and Develop Forms, Stored Procedures, Views and Reports 
+ Used Java Script Validations, Ajax and CSS 3. 
+ Performed task of testing and implementing the software. 
+ Understand impact of change requirements into module and implement changes. 
+ 
+  
+ 
+Father’s Name   : Ramkesh Yadav 
+Date of Birth    : 22th February, 1991 
+Sex                                              : Male 
+Marital Status   : Married 
+Nationality   : Indian 
+Religion    : Hindu 
+Language Proficiency  : English, Hindi, Marathi 
+Hobbies    : Cricket, Carrom and Chess 
+ 
+ 
+ 
+ 
+I do hereby declare that all above information are true to the best of my Knowledge. 
+Place: Mumbai 
+Date:                                                                                                                                                   
+ 
+                                                                                                     (Vivekkumar Yadav)  
+
+

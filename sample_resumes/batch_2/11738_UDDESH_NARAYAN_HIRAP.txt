@@ -1,0 +1,384 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 1 
+
+ 
+UDDESH NARAYAN HIRAP 
+
+SS-III, Sec-8, Room No 351 ,Kopar khairane ,Navi mumbai 
+
+Mob. No.: 8454928333 
+
+Email Id : uddeshhirap@gmail.com 
+
+ 
+
+Professional Experience: 
+▪ Developing Applications using  MVC, C#.Net, VB.Net, ADO.Net, SQL Server 2008 and 2012, 
+
+JavaScript, jQuery,WCF,Web API. 
+
+▪ Excellent Programming, Problem Solving and Analytical Skills. 
+
+▪ Proficient knowledge on the concepts of Software Development Life Cycle (SDLC). 
+
+▪ Team player with a strong work ethic, committed to hard work. 
+
+▪ CMMI Documentation. 
+
+ 
+
+Academics: 
+
+ 
+Degree Institute Board / University Year % marks 
+
+B.E.I.T GIT, lavel,Khed Mumbai 2014 73.20 
+
+HSC RPD College Sawantwadi Mumbai 2010 69 
+
+SSC MMV Sonurli Sawantwadi Mumbai 2008 90.46 
+
+ 
+
+Technical Skills: 
+
+ 
+ Operating System       : Windows NT/XP/2000, Windows 7, 10 
+ Database                         : SQL Server 2008, 2012 
+
+ Programming Skills        : C#.net, VB.Net,MVC, ADO.Net, WCF 
+
+                                             and Web API.  
+
+ Scripting Language         : JavaScript, JQuery 
+
+ Other            : CMMI 3, Documentation 
+
+      Management Tools          : TFS 
+
+ 
+
+Work Sequence: 
+
+ 
+
+1. Current Organization:   HDFC BANK (Corporate office), I –Think Techno Campus   
+                                                         Kanjurmarg East from 13th Jan 2015 
+
+           Designation:   DM (Deputy Manager) (Senior Software Developer) 
+
+ 
+
+PROJECT PROFILE 
+
+ 
+
+PROJECT # 1 (HDFC BANK) 
+
+Title Role Team Size Technologies 
+KYC Checklist Programmer/Database Developer 2 C#, SQL Server2012, WCF 
+
+ 
+
+Description: 
+
+▪ Application used for to do data entry for new as well as existing customer. 
+
+Separate modules are available for data entry on basis of account type. 
+
+▪ Application used by Retail Branch, WBO Branch users. 
+
+ 
+
+Responsibilities: 
+
+▪ Reading and analyzing the Requirement Documents. Discussing with my team members 
+
+▪ Involved in review meetings or discussions with client/requirement team.  
+
+▪ Doing programming,Implementing database queries and logic 
+
+▪ Working on CMMI Documentation,Preparing daily Status Reports. 
+
+ 
+
+mailto:uddeshhirap@gmail.com
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 2 
+
+PROJECT # 2 (HDFC BANK) 
+
+Title Role Team Size Technologies 
+
+Form60 Programmer/Database Developer 1 MVC, C#, SQL Server2014,WCF 
+
+ 
+
+Description: 
+
+▪ This is Form60 application which is used to store customer submitted form60.  
+
+▪ Customers submit form60 for different transaction type Cash deposit, FD booking 
+
+,RD booking, Bank draft, Card issuance ,Account opening. 
+
+▪ Data entry modules to fill form 60 details for all transaction type. 
+
+▪ After every six month all form 60 data reported to RBI. 
+
+▪ Application used by WBO and Retail and BPO branches. 
+
+ 
+
+Responsibilities: 
+
+▪ Reading and analyzing the Requirement Documents. Discussing with superviser 
+
+▪ Involved in review meetings or discussions with client/requirement team.  
+
+▪ Doing programming,Implementing database queries and logic 
+
+▪ Highlighting any technical issues or concerns with my supervisor. 
+
+▪ Closing live issues, Working on CMMI Documentation,Preparing daily Status Reports. 
+
+ 
+
+PROJECT # 3 (HDFC BANK) 
+
+Title Role Team Size Technologies 
+
+Common KYC Programmer/Database Developer 1 MVC, C#, SQL Server2008 
+
+ 
+
+Description: 
+
+▪ This application used to share new customer POI,POA and photo information to CERSAI. 
+
+▪ CKYC team inputted required customer id and POI and POA doc details in ckyc application 
+
+▪ WBO user mapped POI and POA against customer id’s and summitted to cersai 
+
+▪ All scanning, uploading of documents done in this application. 
+
+ 
+
+Responsibilities: 
+
+▪ Reading and analyzing the Requirement Documents. Discussing with superviser 
+
+▪ Involved in review meetings or discussions with client/requirement team.  
+
+▪ Doing programming,Implementing database queries and logic 
+
+▪ Worked on existing live issues and fixed them. 
+
+ 
+
+PROJECT # 4 (HDFC BANK) 
+
+Title Role Team Size Technologies 
+
+CURRENCY EXCHANGE Programmer/Database Developer 1 MVC, SQL,webApi 
+
+ 
+
+Description: 
+
+▪ Utility used to save the all deposits details at retail branches. 
+
+▪ Track the hole information about all deposits and report that to CPU’s 
+
+Which further reports to RBI on daily basis. 
+
+ 
+
+Responsibilities: 
+
+▪ Reading and analyzing the Requirement Documents. Discussing with superviser 
+
+▪ Involved in review meetings or discussions with client/requirement team.  
+
+▪ Doing programming,Implementing database queries and logic 
+
+PROJECT # 5 (HDFC BANK) 
+
+Title Role Team Size Technologies 
+
+Scan lite Programmer/Database Developer 2 C#, SQL Server2008 
+
+ 
+
+Description: 
+
+▪ All type of A3 and A4 are document scanning done through this application.  
+
+▪ Users scan paper through scanner then using application documents are organize on basis of 
+
+barcode and batches. 
+
+▪ Blank and white, greyscale images are scan 
+
+▪ This scan images are then uploaded in many HDFC applications 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 3 
+
+Responsibilities:  
+
+▪ Reading and analyzing the Requirement Documents. Discussing with my team members 
+
+▪ Involved in review meetings or discussions with client/requirement team.  
+
+▪ Doing programming,Implementing database queries and logic 
+
+▪ Working on CMMI Documentation,Preparing daily Status Reports. 
+
+ 
+
+PROJECT # 6 (HDFC BANK) 
+
+Title Role Team Size Technologies 
+
+KDR Programmer/Database Developer 2 C#, SQL Server2008,Web API. 
+
+ 
+
+Description: 
+
+▪ KYC Documents tagging in this application. 
+
+▪ This application provides required documents for account opening to IDEA. 
+
+▪ Tagging of Bar codes and account no done in this application 
+
+▪ Different pending and processed data reports available for WBO user. 
+
+ 
+
+Responsibilities: 
+
+▪ Reading the Requirement Documents and analyzing the end to end Requirements. 
+
+▪ Discussing with my team member for any issues in the detail client requirements. 
+
+▪ Involved in review meetings or discussions with client/requirement team.  
+
+▪ Doing programming for functional requirements. 
+
+▪ Writing complex database queries. 
+
+ 
+
+Achievements: 
+
+➢ Awarded Gold Star award for the Quarter Jul - Sep 2016, in HDFC BANK 
+
+➢ Awarded Gold Star award for the Quarter Oct - Dec 2016, in HDFC BANK 
+
+Personal Profile: 
+
+  
+
+▪ DATE OF BIRTH    :      20 August 1992 
+
+▪ MARITAL STATUS  :      Single 
+
+▪ NATIONALITY            :      Indian 
+
+▪ GENDER   :      Male 
+
+▪ Notice period             :      60 Days. 
+
+ 
+
+ 
+
+PLACE: - Navi Mumbai                                                 
+
+                   UDDESH NARAYAN HIRAP 
+
+

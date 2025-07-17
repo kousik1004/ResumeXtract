@@ -1,0 +1,167 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name: Annapurna Prathipati		                                   Contact number: +91-7095814977
+Email Id: prathipati.annapurna@gmail.com             						           
+               
+
+Professional Summary
+· Around 3.8 years of experience in the IT industry with Cyient ltd(1.8 years) and MNS Cyprus Informatics PVT LTD(2 years). 
+· Main area of expertise is in HTML, CSS, ASP.NET, MVC, AngularJS, Web API, SQL Sever and Bootstrap.
+· Experience in converting business requirements into functional, technical specifications and developing the client/server, web based and n-tier applications. 
+· Currently Working on MVC, Angularjs and ADO.NET Entity Model.
+· Experience of working in the complete Software development life cycle involving development, 
+documentation, testing and maintenance. 
+· Excellent analytical and logical programming skills with a good understanding at the conceptual level and possess excellent presentation, interpersonal skills with a strong desire to achieve specified goals.
+· Good knowledge on Object Oriented Programming concepts in asp.net.
+· Flexible and versatile to adapt to any new environment, work on any project.
+· Good Knowledge of Angular JS and MVC.
+· Good knowledge of Database Management, programming and Web Application.
+· Good work ethics with excellent communication and interpersonal skills.
+· Ability to work well in both team environment and individual environment.
+
+
+ 
+Technical Skills
+· Development Platforms: ASP.NET WebForms (C#), ASP.NET MVC (C#).
+· Back-End Platforms: SQL Server.
+· Programming Languages: C#, JavaScript, JQuery, AJAX, HTML5 and CSS, AngularJS, MVC and Web Api.
+· Other Knowledge: LINQ, Entity Framework, Web Services & Methods, Generic Handlers, Console Applications, Bootstrap.
+
+Professional Employment
+· Worked as Associate Software Engineer in MNS Cyprus Informatics PVT LTD from Feb 2014 to Mar 2016.
+· Working as Software Engineer in Cyient PVT LTD from April 2016 to till date.
+
+Academic Details
+· B.Tech [Bachelor of Technology] in Electronics and Communication in the year 2014 from Pragati Engineering College, JNTU Kakinada University, A.P, India with 81.81%.
+· Intermediate from Board of Intermediate Education, Andhra Pradesh, in the year 2010 from Sri Chaitanya Junior College, Kakinada, India with 93%.
+· 10th from Board of Secondary Education, Andhra Pradesh, in 2008 from Gowtham model School, Kakinada, India with 88.33%.
+
+
+Achievements
+· Got ‘Best Project’ Award for the project which we are currently working on.
+· Was the ECE department topper and secured Certificate of Merit in B-tech with 81.81%.
+
+
+
+
+
+
+Projects Summary - Project # 1
+
+Project Name: ISDP-SPEC2000 Adapter Application 
+Client: Boeing
+Role: Developer
+Duration: Dec 2016 to till date
+Location: Hyderabad, India
+
+Environment:	C#, SQL Server, AngularJS, MVC.
+Project Description:
+The ISDP-SPEC2000 Adapter Application is used to convert Boeing operator’s Data Subjects (FH,SQ,CR)reliability data provided in standardized Boeing defined templates (Excel formats) into ATA SPEC2000 standards. This tool provides a solution for all upcoming SPEC2000 737 MAX airlines to process their data which will be provided in input templates as defined by Boeing or with minimal modifications through an application preferably web application deployed in Boeing. 
+This application is developed as common code base for WebUI and Scheduler. Scheduler will be scheduled through Boeing auto sys program and will executes on daily basis. Web UI is used for manually processing data subject(s) for any single date or date range.
+
+Roles and Responsibilities:
+· Developed Web UI using Angularjs and Bootstrap and MVC.
+· Developed  Nunit tests for each action method.
+· Designed the Schedular to run the project automatically.
+
+
+Projects Summary - Project # 2 
+Project Name: Data Dissemination Matrix Tool
+Client: Boeing
+Role: Developer
+Duration: Mar 2016 to Dec 2016
+Location: Hyderabad, India
+
+Environment:	C#, SQL Server, AngularJS, MVC.
+Project Description:
+The web based DDM application provides the rules for sharing in-service data with internal Boeing organizations and with organizations that are external to Boeing.  The rules apply to data that is managed by Reliability, Maintainability and Testability (RM&T Engineering), organized under Operational Performance and Analytics, within Customer Support. Proposed DDM Tool provides the user with rules upon selection in order to share in-service data.
+
+Roles and Responsibilities:
+· Developed Login modules and some user modules.
+· Developed  Error logging system using ELMAH.
+· Designed the web pages using MVC, AngularJS.
+
+
+
+Projects Summary - Project # 3
+Project Name: LABORATORY EQUIPMENT FOR EDUCATION AND RESEARCH SYSTEM
+Role: Developer
+Duration: Jul 2014 to Feb 2016
+Location: Hyderabad, India
+
+Environment:	C#, SQL Server, AngularJS, MVC.
+Project Description:
+The LEERS resides on an Information Systems Agency web-based server and is accessible using a web browser. Only authorized users like .EDU, .com email extension will be able to register onto the LEERS. Mainly this project is developed to accurately identify excess laboratory and research equipment in Research Laboratories of various Government Organizations and Private Agencies.
+
+Roles and Responsibilities:
+· Developed Login and User Modules.
+· Integrating module with other modules.
+· Developed the common Database functionalities.
+
+	
+Personal Profile:
+
+Name				:	Annapurna Prathipati
+
+Nationality			:	Indian
+
+Date of Birth			:	11-Mar-1993
+
+Marital Status                                 :             Married
+                                         
+
+           
+ 
+
+
+
+
+
+

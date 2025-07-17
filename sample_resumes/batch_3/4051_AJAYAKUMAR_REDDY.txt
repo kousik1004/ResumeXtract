@@ -1,0 +1,226 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A
+
+                                                   AJAYAKUMAR REDDY.G
+
+                                                      ajayreddy.g@hotmail.com
+                                                          Phone: 9502014032
+
+
+CAREER SUMMARY:
+· Having 10 years of strong IT Experience with Business Intelligence and Data warehousing tools and Technologies.
+· Excellent hands on in Business Intelligence Domain – DW Architecture, Data Modeling, ETL Design and Development, Reporting Design and Development
+
+· Extensive experience in Analysis, Design, Development, Implementation, Deployment and maintenance of Business Intelligence applications. 
+· Technical skill set includes OLAP Tools like MicroStrategy 10x/9.x, SAP Business Objects XI 3.x/4.x, MS BI, Cognos 8.4, Apache Hadoop, Hive and Datameer.
+· Experience in MicroStrategy tool suite including MicroStrategy Architect, MicroStrategy Administrator, Integrity Manager, Object Manager, MicroStrategy Desktop/Developer, and MicroStrategy Web.
+· Extensively worked on designing schema and creating Attributes, Facts, Hierarchies and Transformations. 
+
+· Extensively worked on creating Reports, Dashboards in Developer and Web.
+
+· Extensive Experience in Creating Visualizations in Tableau.
+
+· Extensive Experience in Business Objects Tools (Webi Rich client, Information Design Tool, Desktop Intelligence, Universe Designer, Info view, CMC).
+· Involved in the full software lifecycle covering planning, requirement gathering, design, implementation, testing, documentation, delivery, maintenance and Support.
+
+ACADEMIC PROFILE:
+
+· B. Tech in Electronics and Computers from J.N.T.U with First Division.
+EXPERIENCE     
+· Currently working as Senior Lead Developer with Great West Global – Bangalore from June 2017 to present Date.
+· Previously Worked as Senior Software Engineer with UnitedHealth Group (Optum) – Hyderabad from June 2009 to till June 2017
+· Previously worked as Senior Associate with Headstrong – Noida, from November 2008 to June 2009.
+· Previously worked as Software Engineer with CHETU India Pvt Ltd - Noida, from January 2008 to November 2008.
+Technical skills
+BI Tools:                       MicroStrategy 10x/9.x, Tableau, SAP Business Objects XI 4.x/3.x,
+                                      IBM Cognos 8.4/8.1, Hadoop Hive.
+ETL Tools:                    MS BI (SSIS), Apache Sqoop.
+Databases:                  Oracle 11g, SQL Server 2008, Hadoop Hive.
+
+Programming:            SQL, PL-SQL, HiveQL.
+
+Operating Systems:   Windows 7, Linux/UNIX. 
+PROJECT DETAILS:
+
+Great West Global (Putnam Investments)
+Project: Putnam BI Reporting
+June 2017 to Till Date.
+
+Description: The Aim of the project is to fetch the transactional data from various cloud databases and use it to analyze the financial investments in retirement areas as well as insurance areas. The same is achieved by creating reports and visually appealing and interactive dashboards.
+Responsibilities:
+
+· Working as MicroStrategy Architect, Developer and Admin.
+
+· Created Schema Objects Logical tables, Attributes, Facts, Transformations etc.
+
+· Created Public Objects Metrics, Filters, Prompts and Reports. 
+· Worked on VLDB properties for performance tuning.
+
+· Worked on Creating Intelligence Cubes.
+
+· Worked on Creating Custom Groups and Consolidations.
+
+· Created visually appealing dashboards, documents and visual Insight Dashboards
+· Worked on adding conditional formatting, Thresholds into dashboards
+
+· Worked on Creating Subscriptions, Events and Schedules.
+
+· Worked on Adding Transmitters, Devices and User Contacts.
+· Worked on Object Manager to move objects across different Environments
+
+· Worked on Integrity Manager
+
+· Created Mobile compatible Dashboards (iPad and iPhone) 
+
+· Worked on Migrating Reports from Business Objects to MicroStrategy
+
+· Worked on Transactional Service reports
+· Worked on Migrating Reports from Business Objects to MicroStrategy.
+
+Environment: MicroStrategy 10.x, Oracle Composite, SQL Server, Oracle 11g.
+UnitedHealth Group
+
+Project: Operations, Analytics and Reporting
+June 2009 to May 2017.
+Description: Planview is a Portfolio and Resource Management tool; In UHG we use Planview for Resource Management, Project Management and Program Management purpose. I was part of Operations, Analytics and Reporting team. Job of our team is to create and maintain reports for Senior Management Leaders, PMO, ASG and WFM Teams across UHG.
+Responsibilities:
+
+· Developed Schema Objects like Attributes and Facts using Microstrategy Architect.
+
+· Created Metrics, Filters, Consolidations, Custom Groups and Transformations.
+
+· Worked on VLDB properties for performance tuning.
+
+· Worked on creating complex and visually appealing dashboards in MicroStrategy.
+
+· Worked on adding users and creating User Groups in MicroStrategy.
+
+· Worked on Creating Subscriptions, Events and Schedules.
+
+· Worked on Creating dashboards compatible for iPad.
+
+· Worked on Integrity Manager and Object Manager.
+
+· Worked on Migration of Bo Reports to Microstrategy.
+· Created ad-hoc and complex reports using Webi Rich Client and Desktop Intelligence Tools.
+
+· Involved in creating Universes using Universe Designer and InformationDesign Tool.
+
+· Created Reports with charts, cross-tabs, alerters, filters, rank and Prompts
+
+· Scheduled Reports using BO scheduler in CMC.
+
+· Involved in addressing Incident Tickets raised by the customers.
+
+· Created Time Accounting, Resource Management and Project Management Reports.
+
+· Created reports with multiple data providers and custom SQL.
+
+· Involved in gathering Requirements for creating Reports.
+· Actively participated in Daily Scrum Meetings.
+
+· Exported Reports and Universes from Development to Production.
+
+· Created users, user groups and maintained user access rights by using CMC.
+
+· Created tables using SSIS for reporting purpose.
+
+· Taken responsibilities of all deliverables.
+
+· Review and understand functional requirement documents prepared by the business Analysts and prepare detail technical design document.
+
+Environment: Microstrategy 9.x, Business Objects XI 3.x4.x, SSIS, SQL Server2008, Oracle 11g.
+UnitedHealth Group:
+
+Project: PPM Optics.
+
+March 2014 – May 2017 
+
+Responsibilities:
+
+· Worked on Creating Dashboards in  Tableau using hive as datasource
+
+· Created ad-hoc and complex reports using Webi Rich Client.
+
+· Involved in creating Universes using InformationDesign Tool.
+
+· Scooped Data from Oracle to Hadoop Hive database
+
+· Created Derived tables in Hive database
+
+· Created Data links and Work books in Datameer.
+
+· Created Time Accounting, Resource Management and Project Management Reports.
+
+· Created reports with multiple data providers and custom SQL.
+
+· Actively participated in Daily Scrum Meetings.
+Environment: Business Objects XI 3.x/4.x, Oracle 11g, Hive, Datameer, Tableau, MicroStrategy.
+Headstrong
+
+End Client: Merrill Lynch
+
+Project: IBK DWH
+
+November 2008 – June 2009
+
+Responsibilities:
+
+Involved in complete life cycle of the project, Analyzed Impromptu Catalog and Reports. Developed the Framework Model as per Impromptu catalog. Involved in creating Framework Model with multiple layers, Added Data level security for each group in model, created simple and complex reports in report studio, Involved in testing both reports and model. 
+Environment: Cognos 8.4, Oracle 10g.
+Chetu India
+
+End Client: Data2Logistics
+
+Project: D2L – Reporting
+
+January 2008 – November 2008
+
+Role: Involved in developing Framework model in Framework manager. Added Data level, object level and package security in Framework manger, created standard reports for every end user of our customer for further reporting purposes, Developed List, Cross-tab’s and chart reports, which consists of Multiple prompts, Master-Detail, Conditional formatting and Conditional blocking in report studio. Involved in developing Dashboard reports. Worked on resolving performance issues for the reports. Worked on both production and development environments, worked on analyzing time estimation for delivering the reports, involved in updating the weekly status to client.
+Environment: Cognos 8.3/81, SQL Server 2005, Windows XP.
+PAGE  
+

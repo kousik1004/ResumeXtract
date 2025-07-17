@@ -1,0 +1,264 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mailid: soumyarocks90@gmail.com
+Phone No: 9051300089                                                                  
+
+Name –Soumyabrata Dutta
+Skill    - SAP BASIS
+
+Professional Summary:
+
+· Around 5.0 years of SAP BASIS Technical experience in Support projects.  
+· Specialized Basis Administration in the key areas of SAP R/3 Installation and system monitoring.
+· Monitoring ERP System and Troubleshooting R/3 Related Problems
+
+Education:
+
+· Bachelor in Electronics and communications, SRM University, Chennai
+Work Experience:
+
+· Worked with Accenture India Pvt. Ltd. Kolkata as SAP BASIS consultant from April 2012 – Apr 2016.
+· Working with IBM india Pvt.Ltd Kolkata as SAP BASIS consultant from May 2016 – till date.
+
+Technical Skills:
+· Operating Systems              :  Windows , Unix
+· ERP			   :  SAP ECC 6.0,Netweaver 7.3/7.4
+· Database			   :  MS SQL Server 2008/Oracle 11g
+
+Awards and Recognitions:
+· Awarded the Client Success champion for Quarter 2 and Quarter 3 for Metso Project in Accenture in the year 2015.
+· Awarded with Managers choice award for Best Employee of the Quarter in the year 2016.
+
+
+SAP Basis Skills
+
+· Troubleshooting R/3 Related Problems.
+· Transport Management system.
+· CTS+ configuration for moving portal transports.
+· Client Administration.
+· Worked on DR(Disaster recovery system) and also worked on clusters(veritas cluster)
+· Have individually drove DR drills
+· Have intensive experience in HA cluster SAP system primarily on Veritas cluster.
+· Maintaining Instance profile and Operation modes.
+· Spool administration.
+· Setting up Transport Management System (TMS)
+· System Trace.
+· Monitoring Batch jobs, Dump analysis.
+· SAP System performance check.
+· Kernel upgrade and Support Pack implementation.
+· Background job administration and monitoring.
+· Worked on both ABAP and JAVA.
+· Solution Manager (Basic configuration, Managed system configuration, Technical monitoring, IT calendar setup, Management Dashboard, system monitoring, Root cause analysis).
+· System Refresh.
+· Performance tuning of application server.
+· SAP installation.
+· SAPROUTER installation.
+· Oracle upgrade 11.2.0.3 to 11.2.0.4 and Oracle SBP patching every quarter.
+· ECC, CRM (ABAP and JAVA),BW EHP and SPS upgrade.
+· Worked on 3 rd party softwares like Active Docs, MFT, BSI taxfactory.
+· CUA(Central user administration) configuration and support.
+· Table reorg/Index Rebuild/table and Index compression.
+· SAP Data deletion/archiving and its setup.
+· Diagnostic Agent Installation.
+· DR(disaster recovery) system drill.
+· Worked on Java system build with BW java stack refresh.
+· Worked on DR(Disaster recovery system) and also worked on clusters(veritas cluster).
+· Have worked on Oracle data guard.
+· Implemented/upgrade cybersafe for activating SNC in our client SAP systems based on Unix/solaris.
+· Basics of HANA and administrative task.
+· Working on the tickets created by user.
+· Weekly updates to client (Deck presentation).
+· Provide KT to junior team members.
+
+
+
+
+
+
+
+
+
+
+Project: 1#
+Organization         : Accenture India Pvt. Ltd.
+Client                   : AGA
+ERP                      : SAP ECC 6.0 
+RDBMS                 : MS SQL Server
+Operating System: Windows Server
+Duration               : April 2012 to march 2014
+Project Description 
+AGA (Anglogold ashanti) is a gold mining company which is located in South Africa.
+Contribution
+Providing 24*5 support & is responsible for:-  
+
+· Background job Monitoring, error handling and escalation.
+· Timely acceptance, resolution and close of tickets as per SLAs agreed with customer for project.
+· Documentation of critical system operation procedures.
+· Backup troubleshooting Escalation Process.
+· Implementation of SAP notes.
+· Checking syslog. 		
+· TMS: Importing the Transport request from RT to Pre-Prod & Prod & implementing them. 	
+· Doing the proper analysis of errors related to Import. 
+· Update: Analyzing & re-processing the failed update.
+· Client: Client Administration: Client Copy, Client Open/Close.
+· Spool administration and issues on printers.
+· System Performance Analysis based on user ticket.
+· CHARM and Transport Management.
+· Kernel upgrade and Support Pack implementation.
+· Support Pack implementation and OS Patching.
+· System monitoring using solution manager.
+
+Project: 2#
+Organization         : Accenture India Pvt. Ltd.
+Client                   : Metso Minerals
+ERP                      : ECC 6.0/NW 7.3/7.4
+RDBMS                 : Oracle/MaxDB
+Operating System : Linux
+Duration               : April 2014 to Apr 2016
+
+
+
+
+
+Project Description
+
+Metso is a very large minerals enterprise which is located in Finland.
+
+
+
+Contribution
+As a team member, providing 24*7 support 
+· Working based on Ticket. 
+· Oncall support and worked on problem tickets and change request.
+· Worked on urgent system maintenance such as OS/DB related issues.
+· DB parameter changes in oracle.
+· Solution Manager (Managed system configuration, Technical monitoring, IT calendar setup, Management Dashboard, system monitoring).
+· Worked on Java system related problems such as maintaining system alias and UWL configuration.
+· Start/Stop sap systems.
+· Kernel upgrade.
+· Sap installation of ERP system based on linux and oracle, SAP application server installation, Diagnostic agent installation.
+· System Refresh.
+· Changing java parameters using config tool.
+· System performance tuning and profile parameter tunning for a newly installed SAP application instance.
+· Scheduling and maintenance of DB related jobs both from SAP level and from oracle database using brtools.
+· IDOC deletion and archiving.	
+· Daily monitoring and health checks. 	
+· Analyzing failed job & rescheduling of jobs. 			
+· System availability. 	
+· Checking syslog. 		
+· Back Up: 	Taking care of Backup, Analyzing & rerunning the failed backup. 	
+· Working with TMS. 
+· Client: Client Administration: Client Copy
+· Worked with Solution Manager 7.1.
+· Printer & Spool
+· Support Pack Implementation (Stack) and upgrade.
+
+
+Project: 3#
+Organization         : IBM India Pvt. Ltd.
+Client                   : BP(British Petroleum)
+ERP                      : ECC 6.0/NW 7.0 EHP2/7.4
+RDBMS                 : Oracle
+Operating System : Unix
+Duration               : May 2016 to till date
+
+
+
+
+
+Project Description
+
+Metso is a very large minerals enterprise which is located in Finland.
+
+
+
+Contribution
+As a team member, providing 24*7 support 
+· Working based on Ticket. 
+· Oncall support and worked on problem tickets and change request.
+· Worked on urgent system maintenance such as OS/DB related issues.
+· DB parameter changes in oracle.
+· CTS+ configuration for moving portal transports.
+· Solution Manager (Managed system configuration, Technical monitoring, IT calendar setup, Management Dashboard, system monitoring).
+· Worked on Java system related problems such as maintaining system alias and UWL configuration.
+· Start/Stop sap systems.
+· Kernel upgrade.
+· Sap installation of ERP system based on linux and oracle, SAP application server installation, Diagnostic agent installation.
+· System Refresh.
+· Changing java parameters using config tool.
+· System performance tuning and profile parameter tunning for a newly installed SAP application instance.
+· Scheduling and maintenance of DB related jobs both from SAP level and from oracle database using brtools.
+· IDOC deletion and archiving.	
+· Daily monitoring and health checks. 	
+· Analyzing failed job & rescheduling of jobs. 			
+· System availability. 	
+· Checking syslog. 		
+· Back Up: 	Taking care of Backup, Analyzing & rerunning the failed backup. 	
+· Working with TMS. 
+· Client: Client Administration: Client Copy
+· Oracle SBP patching.
+· Worked with Solution Manager 7.1.
+· Printer & Spool
+· Support Pack Implementation (Stack) and upgrade.
+· Worked on Java system build with BW java stack refresh.
+· Worked on DR(Disaster recovery system) and also worked on clusters(veritas cluster)
+· Have individually drove DR drills
+· Have intensive experience in HA cluster SAP system primarily on Veritas cluster.
+· Have worked on Oracle data guard.
+· Implemented/upgrade cybersafe for activating SNC in our client SAP systems based on Unix/solaris.
+· Worked on 3 rd party softwares like Active Docs, MFT, BSI taxfactory.
+
+
+
+
+
+
+
+                                                                             (Soumyabrata Dutta)

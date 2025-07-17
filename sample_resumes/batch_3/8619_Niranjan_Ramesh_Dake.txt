@@ -1,0 +1,226 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BIO-DATA
+
+CURRICULUM VITAE
+
+Niranjan Ramesh Dake 
+Tel          :  +91 9011091288
+E-mail   : niranjan95@gmail.com
+                               
+
+CAREER OBJECTIVE:
+To work in a challenging environment that provides opportunity towards continual learning and professional growth
+
+SUMMARY:
+Having total experience of 12.3 years out of which 2.2 years in design and development of applications and frameworks in BIG Data, Hadoop Related Technologies.
+
+WORK EXPERIENCE:
+Wipro Technologies, Pune from 14/12/2009 to till date.
+Designation: Tech Lead 
+Duration: 8.9 years
+
+Nihilent Technologies Pvt. Ltd, Pune, from 18/09/2006 to 07/12/2009.
+Designation: Systems Engineer
+Duration: 3+ years
+
+SKILL SET:
+	Tools
+	Eclipse, JIRA, Cloudera Manager, MS Visual Studio 2010, PL/SQL Developer, MS SQL Management Studio
+
+
+	Programming Model/Language
+	· Scala, Sqoop, Oozie, C#
+· Hive, SQL, Spark SQL
+· Cloudera 5.9,  Linux
+· Eclipse, JIRA, Cloudera Manager
+
+	Database
+	Oracle  10g ,11g, MS SQL Server 2008/10
+
+
+
+
+	
+Educational Qualification:
+
+· Post Graduate Diploma in Advanced Computing from C-DAC, in August 2006.
+· B.E. (Mechanical) from Pune University, in June 2004.
+
+Primary Responsibility
+· Lead the team towards application development and maintenance tasks
+· Analysis / Preparation of Technical Design Specifications and Development.
+· Preparation of Unit test Plan, Unit testing for Quality Assurance of the objects developed.
+· Troubleshooting (SIT/UAT support)
+· Troubleshooting (Production support).
+
+PROJECTS:
+	
+Project : DataMart DB migration to Hadoop
+· Client		: Credit Suisse
+· Organization	: Wipro Technologies.
+· Role		: Technical Lead, Senior Developer
+· Environment	: Cloudera 5.7.1,  Apache Spark(Scala, spark sql, hive, Sqoop), Linux
+· Team Size	: 3
+· Duration 	: Sep 2017– Till date
+
+Description:
+DataMart is central data hub for the various application in the portfolio where multiple upstream data gathers through multiple jobs like Timesheet data, HR data, Cost Center data etc. which is further getting used for reports generation in DataMart and for processing in other applications like VIPS, PAS.
+
+      Responsibilities:
+· Worked on design and development of Hadoop rewrite of existing Oracle based data hub (DataMart) with Apache Spark Framework along with Sqoop and Hive.
+· Worked on one-time data migration from Oracle Database to Hadoop cluster using Sqoop and Hive. 
+· Worked on processing and loading the feed files (xml, .csv) into Hive tables.
+· Worked upon processing of input data and generating required report data for the business using Spark Scala and SparkSQL.
+· Worked on design and development of scheduling the different workflows under Hadoop rewrite using oozie
+
+Project : CAPS Reporting
+· Client		: Credit Suisse
+· Organization	: Wipro Technologies.
+· Role		: Technical Lead
+· Environment	: Cloudera 5.7.1,  Apache Spark(scala, spark sql, hive), Linux
+· Team Size	: 4
+· Duration 	: Nov 2016– Aug 2017
+
+Description:
+CAPS is corporate action processing system application in Asset Servicing domain. It processes the Corporate Actions declared by security companies and create outcomes to feed to downstream systems. Users need to see reports related to outcomes history generated and processed.  
+
+      Responsibilities:
+· Worked on processing and loading the feed files (.dat) into Hive tables.
+· Worked upon processing of input data, generation of outcomes data and reports for downstream using Spark Scala and SparkSQL.
+· Worked on design and development of scheduling the different workflows under Hadoop rewrite using oozie
+
+
+Project : CCIT (COO and Corp IT )
+· Client		: Credit Suisse
+· Organization	: Wipro Technologies.
+· Role		: Technical Lead
+· Environment	: MS Visual Studio 2010, PL/SQL Developer Tool, Oracle 11g 2.2.3
+· Team Size	: 8
+· Duration 	: Jan 2012– May 2017
+
+Description:
+CCIT consists of many applications required for IT staff. It consists of applications such as Time@, SDLC, VIPS, GRT, Project Accounting, Technology Risk Management tool. These applications are used by IT staff for various purposes across various regions like Americas, APAC, EMEA, SWISS.
+
+Responsibilities:
+· Worked as Technical lead for various applications under IT4IT area. It includes end to end delivery of the Bow items. Also done the design review, code review and supported SQA audits for the team.
+· Major responsibilities -
+· Requirement Gathering from client
+· High level Estimation and creation of detailed project plan
+· Design and creation of Technical Design document
+· Construction and Code review for the team members
+· QA and UAT support
+· Production release and post deployment support
+
+
+
+Project : POETS
+· Client		: Credit Suisse
+· Organization	: Wipro Technologies.
+· Role		: Software Developer
+· Environment	: MS Visual Studio 2008,  SQL Server Management Studio
+· Team Size	: 3
+· Duration 	: Dec2009 – Dec 2011
+
+Description:
+Maintenance and Support of POETS application for Credit Suisse. Involves enhancing existing systems for the client and supporting existing systems in order to enable their uninterrupted run. Development of POETS application which involves migration from VB6.0 to .Net platform.
+
+Responsibilities:
+· Design and creation of Technical Design document
+· Construction and Code review for the team members
+· QA and UAT support
+· Production release and post deployment support
+
+
+Project : SAB Miller
+· Client		: South African Breweries
+· Organization	: Nihilent Technologies.
+· Role		: Software Developer
+· Environment	: MS Visual Studio 2008,  SQL Server Management Studio
+· Team Size	: 4
+· Duration 	: Mar 2008 – Nov 2009
+
+Description:
+Development and support of various applications for SAB. Involves developing new systems, enhancing
+existing systems for the client and supporting existing systems in order to enable their uninterrupted
+run.
+
+Responsibilities:
+· Design and creation of Technical Design document
+· Construction and Code review for the team members
+· QA and UAT support
+· Production release and post deployment support
+
+      
+Project : Euro RSCG Worldwide	
+· Client		: Euro RSCG
+· Organization	: Nihilent Technologies.
+· Role		: Software Developer
+· Environment	: MS Visual Studio 2005, MS SQL Server Management Studio
+· Team Size	: 5
+· Duration 	: Sep 2006 – Feb 2008
+
+Description:
+The aim of the project is to keep the track of all employees, offices, and clients of the organization worldwide. The developed system maintains all the records of relationships between employees, offices and clients worldwide. 
+Responsibilities:
+· Design and creation of Technical Design document
+· Construction and Code review for the team members
+· QA and UAT support
+
+
+PERSONAL DETAILS:
+
+Date of Birth: 9th May 1983.
+Marital Status: Married.
+Languages: English, Marathi, Hindi
+Permanent Address: E3-301, Daffodils Society, Pimple Saudagar, Pune-411027

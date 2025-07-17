@@ -1,0 +1,275 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abhishek Khandelwal
+
+
+
+
+
+ Flat no. 202, Vastushree society,
+
+                                                                                                                                Pimple Nilakh, Pune
+
+                                                                                                                          Mobile No: 7840974457
+
+E-mail: abhisheksapabap05@gmail.com
+
+
+
+Professional Summary
+
+ 
+
+· 3.4 years of work experience of SAP R/3 and ABAP/4 with functional areas of MM, SD, PP, and QM
+· Involved in one life cycle implementation, rollout, and upgrade and support projects
+· Used ABAP/4 programming techniques with quality-driven methodology, including analysis and design of technical/functional specifications, development and testing
+· Have good onsite-offshore co-ordination experience, good logical skills and have Positive work attitude and self-motivated to work independently and as well as in team
+
+Professional Experience
+
+· Working as a Senior Associate Consultant with Zeteo Consulting Pune since May 2014 to till date
+Educational Qualifications
+	Education
+	University
+	Percentage (%)
+
+	 B.E in (ECE)
+	Nagpur university
+	74
+
+
+SAP Expertise 
+· Worked on Dictionary components like Tables, Data Elements, Domains, Views, Structures, Search Help, Lock objects and Table maintenance generator
+· Developed Reports classical, ALV grid, list, blocked and interactive using OOPS
+· Developed Dialog Programming
+· Developed Batch Data Communication (BDC) using Call transaction method and 
+Sound knowledge on session method
+· Worked on SAP Scripts, Smart-forms, and their corresponding print programs
+· Used standard BAPI’s and created RFC’s to sending data to the other system
+· Worked on BADI’s, Customer exit and Implicit Enhancement to meet the business requirement without changing the standard business process 
+· Worked on SAP Business Workflow and good knowledge on IDOCS processing & monitoring
+· Worked on debugging of various standard & old custom programs for enhancing & code optimization using parallel cursor method
+· Used performance workbench tools like Run-time analysis, SQL trace to improve the performance of coding and analysis of the short dumps in ST22 of programs and background jobs
+· Good exposure on SD, MM, PP and QM modules
+Project Summary
+
+Project – 1
+
+Client:      Mitsubishi Tanabe Pharma America             Environment: SAP R/3, ECC 6.0, and EHP7
+Project:    Implementation                                                Team Size:      10     
+
+Role:
+   SAP ABAP Developer                                       Period:            August 2016 to April 2017         
+
+Client Description: Mitsubishi Tanabe Pharma America (“MTPA”), One of biggest US-based Pharmaceutical Company which is a new division of Mitsubishi Tanabe Pharma Corporation based in Japan.MTPA have their own scientific research and development teams which discovered and produced some of the most widely used medicines in the world.
+We have implemented SAP MM and QM module for the client as per the business process.
+
+Responsibilities:
+
+· Participated in the customer meetings
+· Analyzing the business process and interacting with the onsite and functional team
+· Prepared analysis, technical specifications, and unit test document based on various scenarios
+Objects Developed:
+       Smartforms and print programs:
+· Developed Purchase order smartforms and its print program which is generated while creating a purchase order
+· Developed Certificate of Analysis and Certificate of compliance smartforms and its print program which is generated while doing stock transferring from one storage location to another using MIGO
+Enhancements: 
+· Enhance material master (MM01) to add an additional field on the basic data1 tab
+· Did Implicit enhancement to avoid * in place of the tax code while posting the FI document objected impacted SAPLFACI
+File Interface: 
+
+· Developed a custom program using BAPIBAPI_ACC_DOCUMENT_POST for posting the FI document using a flat file for the T-code FB03 and displayed a list of error and success FI document in ALV block format
+     Reports:
+
+· Developed ALV GRID report to shows Purchase order and its related goods movement details based on the posting document date with a logo in an ALV header
+· Developed a custom report to reverse the stock back to the Quality inspection from the unrestricted area for the specific inspection lot
+Project – 2
+
+Client:      Noltex USA                                                  Environment: SAP R/3, ECC 6.0, and EHP7
+
+Project:    Roll-out                                                        Team Size:      4 
+
+Role:
+   SAP ABAP Developer                                Period:            January 2016 to July 2016        
+
+Client Description: Noltex, One of the largest of its kind in the world manufacturer of the special chemicals used in traditional applications like food packaging, films and coatings for North and South American markets. Noltex also manufactures products like a plastic vehicle, fuel tanks, plastic bottles and plastic containers.
+We have implemented SAP MM module and configured Procurement cycle, document type, and number ranges as per the client business process. 
+Responsibilities:
+
+· Participated in the customer meetings
+· Analyzing the business process and interacting with the onsite and functional team
+· Prepared technical specifications and unit test document based on various scenarios
+Objects Developed:
+
+Business workflow:
+· Setting up the PR approval workflow at header level and its unit testing and provide the workflow substitution option and related report.
+Enhancements:
+· Developed solution to an add the custom tab on ME53n in addition to the already existing custom tab. SAP Screen exit allows only 1 custom tab at the item level. Used Customer exit MEREQ001 and functional module MEGUI_BUILD_REQ_ITEM_PLUGIN
+Custom tab contains the last approver details like release code, name, date and time
+· Added custom tab on ME21/22/23N transaction code at header level to hide the terms and conditions and PO amount to save the pages using exit MM06E005
+· Restricted user from resetting already released PR when total PO Quantity is equal to the total PR quantity using customer exit MEREQ001
+Reports:
+
+· Developed OOPS ALV using class CL_GUI_ALV_GRID and CL_GUI_SPLITTER_CONTAINER to display top paid vendors i.e. top paid 25 vendors and top paid 50 vendors, also displayed a list of open and invoiced PO separately for the selected vendor in a single screen.
+· Developed OOPS ALV report to display purchase requisition and its respective purchase order details on the same screen based on the purchasing group, PR number, and document date and there subtotal based on the requisition
+· Developed alv report to close multiple unwanted PR at a time using function module ME_UPDATE_REQUISITION_PO and lock object concept
+· Developed alv report to set the "Delivery Completed" Indicator for the multiple service purchase order
+Smartforms:
+
+· Added terms and condition on the Purchase order smartforms and hide/display the same based on the user action on ME23N
+· Hide the Purchase order line item and total price based on the user action
+Project – 3
+
+Client:      MCUSA                                                        Environment: SAP R/3, ECC 6.0, and EHP7
+
+Project:    Upgrade                                                      Team Size:      5
+Role:
+  SAP ABAP Developer                                Period:           August 2015 to October 2015       
+
+Responsibilities:
+
+· Upgrade the SAP system from EHP0 to EHP7
+· Participated in the customer meetings
+· Involved in testing system after upgrade and resolving issues 
+Project – 4
+
+Client:       BorgWarner Inc.                                         Environment: SAP R/3, ECC 6.0, and EHP8
+
+Project:    Development and Support                       Team Size:      5
+
+Role:
+   SAP ABAP Developer                                 Period:            September 2016 to till now
+
+Client Description:  BorgWarner Inc. is an American worldwide automotive industry component and parts supplier. It is primarily known for its powertrain products, which include manual and automatic transmissions and transmission components.
+Responsibilities:
+
+· Participated in the customer meetings
+· Analyzing the business process and interacting with the onsite and functional team
+· Prepared technical specifications and unit test document based on various scenarios
+Objects Developed:
+
+·  Developed interactive alv report to compare the costing and the operation details of the materials in two different dates and provide traffic light if the costing values are different for the selected date. Also added Toggle button on application bar to display the details of operations from the costing output
+· Attached the credit memo document as an attachment, which is created using custom program to the MIRO transaction using function module BINARY_RELATION_CREATE
+· Added handling unit information in the packing list smartforms and modified bill of lading smartforms as per the requirement.
+
+· Developed the Master, Container and mixed labels for handling unit information  in delivery using SAP script and their driver program
+Project – 5
+
+Client:      Teekanne                                                     Environment: SAP R/3, ECC 6.0, and EHP7
+
+Project:    Development and Support                      Team Size:      4
+
+Role:
+    SAP ABAP Developer                               Period:            April 2017 to till now
+
+Client Description: Teekanne is a German tea trading company. It is the world leading company in the production of tea bags and produces 7.5 million tea bags per year.
+
+Responsibilities:
+
+· Responsible for carrying out analysis and  developments of objects
+· Preparation of unit testing documents using all the test scenarios
+Object Developed:
+· Developed a solution for Offline approval to SAP-Workflow for Purchase requisition
+· Developed a solution for vendor evaluation process based on the certification
+
+· Designed a solution to automatically attach, attachments of PR, in PO using BADI ME_PROCESS_PO_CUST ,class CL_BINARY_RELATION, and Function module BINARY_RELATION_CREATE_COMMIT
+Project – 6
+
+Client:    Mitsubishi chemical                                     Environment: SAP R/3, ECC 6.0, and EHP7
+
+Project:  Development and Support                         Team Size:       7
+Role:
+ SAP ABAP Developer                                   Period:            September 2014 to till now
+
+Client Description:  Mitsubishi chemical USA is a highly respected Japanese conglomerate with interests in chemicals, specialty chemicals, carbon composites and high-performance polymers manufacturing in the US. We are handling their chemical division in the USA.
+It has eight different companies with eight company codes under it.
+
+Responsibilities:
+· Responsible for carrying out all the developments and Estimation for the new object and also responsible for grooming junior
+· Participated in the weekly customer meetings and understanding client business
+· Handle multiple priority issues at a time and its delivery
+· Preparation of unit testing documents using all the test scenarios
+Object Developed:
+Data dictionary:
+
+· Included Elementary search help in the standard collective search help KRED for to show deletion flag for the vendor
+Reports:
+
+· Developed an ALV report to display Material stocks and it’s subtotaling using Material number, Plant, Storage location, month and year
+· Developed Dynamic ALV report to show total shipment, production and inventory quantity in month wise of the material based on selected month, year and plant and it’s subtotal by creating dynamic table using class CL_ALV_TABLE_CREATE and field symbol
+· Developed ALV report to show list of active and inactive vendor and customer with their information for the selected duration and provided excel download functionality using class CL_GUI_FORNTEND_SERVICES
+· Developed report to download, upload the delivery and sales related information and send this information as an email attachment notification to those email address which is maintained in the custom tab of the customer master
+· Developed ALV report to display list of BOM where the raw material used and its last production order and it’s quantity based on the raw material, plant and posting date
+· Developed an OOPS ALV using factory method of class CL_SALV_TABLE to display list of FI document posted against the GL and there debit and credit amount based on the GL account, company code, posting date and amount
+File Interfaces and BDC:
+· Replace the old BOM component with the new BOM component from flat file using BAPI CSAP_MAT_BOM_OPEN, CSAP_MAT_BOM_MAINTAIN and adjust its quantity based on the priority maintained in the custom table
+· Update application and production code for the material and plant combination in MM02 t-code( costing view ) from flat file using call transaction method and displayed error message using BDCMSGCOLL in ALV format
+Smartforms and script:
+· Upload the new logo and background picture in the smartforms related to purchase order, sales order, delivery and invoice and modified layout as per the requirement
+· Handled the quantity and amount issues for multiple units in order acknowledgment, bill of lading and credit memo using FM CURRENCY_AMOUNT_SAP_TO_DISPLAY and MD_CONVERT_MATERIAL_UNIT
+Enhancements:
+· Implemented customer exit ME590001 to create separate PO’S for the different purchasing group and for the different fixed vendor with the same purchasing group
+· Added extra tab on customer master by implementing BADI CUSTOMER_ADD_DATA and CUSTOMER_ADD_DATA_CS and additional data to custom table
+· Developed implicit enhancement in function module CK_F_CK23_INITIALIZATION
+For CK24 transaction to show current period 
+Personal Details
+
+
+· Date of Birth:      05/10/1990
+
+· Hobbies:              Cricket, Listening Music
+
+· Strengths:            Adaptable, Team spirit, Balanced
+
+· Nationality:         Indian
+
+· Languages:          English, Hindi, Marathi
+
+3
+

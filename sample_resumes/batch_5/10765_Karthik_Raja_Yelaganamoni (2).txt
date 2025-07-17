@@ -1,0 +1,142 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Karthik Raja Yelaganamoni 
+ 
+
+               ykarthikraja@gmail.com (+91 9566113625) 
+ 
+
+PROFILE SUMMARY  
+________________________________________________________________________________________________________ 
+
+ 
+Senior Analyst with 3 years of experience in Data Analytics. Experienced in understanding and providing business solutions 
+through analytics. Strong proficiency in Python, R, SQL, Tableau and Excel. Primary experience in Modeling and Data 
+Visualization techniques   
+______________________________________________________________________________________________________________ 
+ 
+
+Latent View Analytics Pvt Ltd Chennai, India                                                                [Nov’15 – Present] 
+ 
+Churn Predictions for a leading provider of Education materials & Learning solutions company 
+
+• Built a classification model to predict churn at a subscription level by considering important features 
+
+• Introduced few featured engineered variables from existing variables resulting in boosted up accuracy of the model 
+
+• Avoided few common issues like Data Leakage  
+
+• Used H2O framework in R to build the models 
+
+• Techniques used – Logistic Regression, Random Forest & Gradient Boosting Algorithms 
+ 
+
+Reliability Analysis of components for leading US retail client 
+
+• Constructed a failure analysis for all parts of various products 
+
+• Using historical failures data, fit the data into Weibull, lognormal distribution functions for all the parts and find a better 
+distribution for Reliability calculation 
+
+• Leveraging the equations, predicted product’s life & actively helped manage spare part inventories 
+
+• Built a web application where clients can check part associations and recommend anticipatory maintenance 
+
+• Automated the entire process for several other products 
+
+• Tools used – R & RShiny   
+ 
+
+Digital Marketing analysis for a US largest retailer 
+
+• Created a data cube by extracting data from multiple data sources and developed Tableau dashboards tracking the 
+conversion funnel  
+
+• Developed an ETL structure using SQL 
+
+• The Tableau dashboards developed by connecting SQL tables provides Marketing KPI’s at a channel level across 
+geographies on a weekly basis 
+
+•  Created multiple filters and navigations in the dashboard that follow a Top Down Approach   
+
+• Had been SPOC for the project maintaining smooth workflow throughout the project execution 
+ 
+
+______________________________________________________________________________________________________________ 
+Technical Skills: 
+
+• Business Tools: Python, R, Advanced Excel, VBA, and MS PowerPoint. 
+
+• Databases: Teradata & MS SQL Server 
+
+• BI and Reporting Tools: R Shiny and Tableau 
+
+• Others: Google Analytics & Omniture (Adobe tool) 
+______________________________________________________________________________________________________________ 
+ 
+ 
+
+______________________________________________________________________________________________________________ 
+
+EDUCATION 
+                           B. Pharm (Hons.), from BITS Pilani, Pilani Campus (Rajasthan): 2011-2015  
+
+
+
+______________________________________________________________________________________________________________ 
+
+Extra-Curricular Activities 
+• Participated in a solo dance video that went viral on twitter, Facebook & YouTube with over 80K+ views 
+
+• Winner in short film video making during College fest (BITS APOGEE) 
+
+• Other Skills: Proficient in video editing & Photoshop  
+• Languages Spoken: English, Hindi, Telugu 
+
+

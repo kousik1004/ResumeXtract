@@ -1,0 +1,351 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RENJU OOMMEN CHERIAN
+
+RENJU OOMMEN CHERIAN                
+E-mail: oommen007eie@yahoo.co.in
+Phone: +91 9916115595 (India)
+· I am a SAP CRM and SAP CRM with IS-U consultant with an overall SAP experience of  12 years.
+
+· I am a SAP Certified Application Associate in CRM fundamentals with SAP CRM 2007. 
+· My experience includes consulting done for various industry areas like C&IP, IT Leasing,  and utility.
+· I am also holding basic experience in SAP Hybris C4C ( Cloud for Customer ).
+IT Experience
+
+12 years overall work experience in SAP.
+	Area of Experience
+
+
+· SAP CRM technical in SAP CRM Sales, Service, Interaction center and Marketing.
+· SAP Hybris C4C ( Cloud for Customer ) sales, SAP Cloud Applications studio.
+· SAP CRM WebUI, SAP Shared Service Framework
+· SAP CRM 5.2, SAP CRM 6.0, SAP CRM 7.0, SAP CRM 7.0 EHP1 – CRM One Order framework, Business Partner, Actions, External List Management ( ELM ), Transaction Launcher, data conversions using parallel processing technique, BADI.
+· Data exchange between SAP CRM and SAP R/3
+
+· BSP Applications – Model View Controller (MVC)
+· SAP ABAP, SAP CRM ABAP
+· SAP Content Management
+· ABAP reports
+
+· Module Pool
+
+· Smartforms
+· FI posting for the transaction F-02 using BAPI.
+· SAP IS-U technical experience in BPEM case, service order and device management, SAP CRM ISU Contract Management, Master Data Template.
+· Experience as Technical Lead, onsite coordinator and experience in object estimations.
+
+	Experience Summary
+
+
+	
+   Organization    -   Utegration India Pvt Ltd
+
+
+   Period
+
+:         4th May 2015 till date
+   Role
+
+
+:         Lead Consultant
+
+	
+   Organization    -   Deloitte Consulting India Pvt Ltd
+
+
+   Period
+
+:         16th April 2012 till 21st April 2015
+
+   Role
+
+
+:         Consultant
+
+	
+   Organization    -   Wipro Technologies
+
+
+   Period
+
+:         07th July 2010 to 30 March 2012
+   Role
+
+
+:         Technical Lead
+	
+   Organization    -   SAP Global Delivery 
+
+
+   Period
+
+:         31st May 2007 to 28th June 2010
+   Role
+
+
+:         Associate Consultant   
+	
+   Organization    -   ASAP Info Systems Pvt. Ltd.
+
+
+   Period
+
+:         2nd May 2007 to 30th May 2007
+   Role
+
+
+:         Associate Consultant
+	
+   Organization – IVL India Private Limited
+
+
+   Period
+
+:         18th April 2005 to 20th April 2007 
+
+   Role
+
+
+:         SAP Development Consultant
+
+	Projects Executed
+
+
+	1. Client : Birmingham water works board
+
+
+Currently involved in requirement analysis, writing technical specification, development and unit testing. Has involved in enhancements in SAP CRM Interaction center for IS-U like enhancements in account search, premise search, business partner creation. Has involved in enhancements during service order technically complete and reversal scenarios in SAP IS-U (ECC).Has technical experience in device management by creation of interface between route smart and SAP IS-U. Has involved in BPEM case creation and enhancing the BPEM case with custom fields. Has involved in enhancing the SAP CRM Web UI ISU BOTREE, SAP CRM ISU Contract management, master data template.
+Technical Environment: SAP CRM ABAP, SAP CRM Web UI, SAP ABAP, SAP IS-U, Master Data template, SAP CRM ISU Contract Management.
+	2. Client : Utegration India Private Limited
+
+
+Currently also involved in Internal support for SAP Hybris C4C sales (Cloud for Customer) for Utegration India Private Limited. Had experience in adding new field which is a drop down with set of values in Lead overview page, exposing the same field in opportunity, exposing the same field during lead to opportunity conversion and making the field as mandatory. Had experience in making the custom field available in custom reports by adding to the required data source. Had experience in user management, business roles, and work center and view assignment. Had experience in configuring involved parties in Leads and opportunities. Had experience in migration of customers. 
+Had experience for the below as part of training/POC:
+
+Creation of Custom BO, Creation of elements in BO, Creation of screens. 
+
+Create script files after modify, custom action, raise of error messages. 
+Creation of events/event handler/decision pop-up.
+Attaching search help of standard employee to custom screen.
+Business object extension, Process Extension Scenario.
+Creation of Code List, Queries.
+Technical Environment: SAP C4C (Cloud for Customer), SAP Cloud Applications studio.
+	3. Client : Avnet 
+
+
+Different enhancements and validations required as per different business scenarios and rules in customer master, contacts for customer, partner functions in customer, sales documents in SAP ECC SD module.
+
+Technical Environment: SAP ECC, SAP ABAP, and enhancements in VAP1, XD01, XD02 and VA01 transactions.
+
+	4. Client : Infineon – SAP CRM 7.0
+
+
+Implementing Service Request management system on basis of the SAP Shared Services Framework (SSF) for the Infineon Shared Service Center (SSC) in the area of Finance. The SAP SSF system enables all Requestors to raise a Service Request without initial involvement of the Agent. After the Service Request has been initiated by the Requestor, i.e. by calling the Agent, the agent creates the Service Request in SAP SSF. Depending on the type of Service Request, the Service Request is either processed in SAP SSF only or an action is triggered towards to a SAP ERP system. This is done to create or change a financial object, by launching a transaction through SSF within SAP ERP (transaction launcher). I have worked on launching finance related ECC transactions like FBR2, MIRO and FB01 from SAP CRM Web UI and updating business context in Service Request. I have also worked on requirements like creating a PDF as attachment with service request details on the save of service request when status is 'Closed'. I have also worked on content management in moving the documents from source content repository to target content repository.
+Technical Environment: SAP CRM Web UI (7.0), SAP CRM ABAP, Transaction Launcher, Attachments to Service Requests, content management.
+	5. Client : Whirlpool – SAP CRM 7.0
+
+
+Implementing the SAP CRM Interaction Center solution. Work mainly includes SAP CRM Web UI enhancements such as sales order search enhancements, business partner enhancements, Activity enhancements, Complaints and Returns management, data conversions using parallel processing technique, Iobject conversion program, Product Service Letter conversion program, launching SAP R/3 transactions such as VA03, VA02 and VA01 from SAP CRM Web UI using transaction launchers and data exchange between SAP R/3 and SAP CRM, creation of Iobjects directly from Web UI on the click of a button by checking the Iobject existence in CRM, Equipment existence using serial number in R/3, launching HTTPS and HTTP URLS from SAP CRM Web UI.
+Technical Environment: SAP CRM Web UI (7.0), SAP CRM ABAP, Transaction Launcher.
+	6. Client : Avnet – SAP CRM 7.0
+
+
+Implementing the SAP CRM Marketing solution for Europe region. Work mainly includes SAP CRM Web UI enhancements, enhancements in External List Management (ELM), Lead reminder emails, Mailforms in SAP CRM Marketing.
+Technical Environment: SAP CRM Web UI (7.0), SAP CRM ABAP, Actions, External List Management (ELM).
+	7. Client : Nokia Siemens Networks (NSN) – CRM 6.0 to CRM 7.0 – Munich, Germany
+
+
+Supporting NSN’s SAP CRM application called CSP. The application deals with NSN’s Common Sales Platform.NSN were using SAP CRM 6.0 system and I worked as Technical Lead in successfully completing the upgrade from SAP CRM 6.0 to 7.0 from NSN location Munich, Germany. This being Wipro Technologies first engagement in CRM upgrade and successfully completing the upgrade helped me in acquiring the SAP CRM Build award from Wipro in recognition of great contribution and playing key role for success of NSN upgrade.
+Technical Environment: SAP CRM Web UI (6.0 and 7.0), SAP CRM ABAP.
+
+	8. Client : ATB, Canada
+
+
+Implementing SAP CRM 6.0 Solution. I was responsible for the technical specifications for CRM enhancements for business partner. I was also responsible for the EEWB enhancements. I also had done the enhancements for business partner both in SAP CRM UI as well as in SAP GUI.I had a major role in the development for reassigning relationship from one business partner to another.
+Technical Environment: SAP CRM Web UI (6.0), SAP CRM ABAP, EEWB.
+	9. Client : CSI Leasing , USA
+
+
+Implementing SAP CRM 5.0 Solution – CRM Leasing. I was responsible for the enhancement and development in CRM Leasing for CSI proposal change process. I was also responsible for the creation of proposals and executing change process from proposal. I was also there in the conversion team for the proposal conversion.
+Technical Environment: SAP CRM ABAP.
+	10. Client : Corbis , Seattle , USA
+
+
+Implementing SAP CRM 5.1 Solution – CRM sales. I was responsible for the interface for License Sales Contract Create, Change and Display.
+Technical Environment: SAP CRM ABAP.
+	11. Client: Network Appliance , Sunnyvale, USA
+
+
+As Network Appliance Inc is implementing SAP CRM 5.2 Solution, I was responsible for Parallel Processing of Conversion Programs to map the data to SAP CRM.I was also responsible for the conversion program for assigning employees to positions in the organizational model.
+Technical Environment: SAP CRM ABAP.
+	12. Client : Novell – CRM 
+
+
+I was responsible for the implementation of custom CCMS monitoring in the SAP CRM system. I was responsible for trapping the different error messages to the custom CCMS monitoring.
+
+Technical Environment: SAP CRM ABAP.
+	 13. Client : Banco Bradesco – Upgrade Project
+
+
+Banco Bradesco Project is a Non Unicode Upgrade Project from Release 4.7 to ECC 6.0. 
+Technical Environment: SAP ABAP, SPAU and SPDD.
+	14. Client: Robert Bosch India Limited (RBIN) – Onsite  BSP Consulting
+
+
+Intranet Application – Course Software for ZFLS - “WeiterbildungsProgramm”.                                             
+
+ZFLS – ZF Lenksysteme GmbH (Customer of RBIN).
+
+Course software for ZFLS called “WeiterbildungsProgramm” is an Intranet BSP application using MVC design pattern. 
+
+The software addresses the needs of ZF Schwäbisch Gmünd users in general and for ZF - OW department (in Schwäbisch Gmünd) in particular.
+
+OW – ZFLS HR Department in-charge of Course management.
+As a team member I was responsible for creation of Views, Controllers and event handling for:
+1. Registration Employee-wise by a Manager/Coordinator
+
+2. Registration Course-wise    by a Manager/Coordinator
+
+3. Direct Registration by OW for regular staff 
+
+4. Report on all training attended by an employee
+
+Technology Used: SAP BSP Applications- MVC Design Pattern
+	15. Client: SVI Public Company Limited - Thailand
+
+
+· Project: Auto Freight Accrual Program - Development and support.
+The program will do FI posting for the transaction F-02 using the data given in the excel format. There were separate excel sheets for inbound and outbound freights. Inbound freight consists of items to be posted to Freight G/L account and Clearance G/L account. Outbound freight consists of items to be posted to Freight G/L account, Clearance G/L account, and Duty   G/L account. This program will upload data from excel file by separate accounting  by line item  to SAP  for the transaction F-02.It is posted  by type  of  Freight, Clearance, Duty type  and credit to Accrued Accounting. If upload data is successful, program will be generate Doc.61XXXXXXXX type “AJ” by line item. It will display total record for upload data complete. It will also generate log file and error detail when program upload data is not complete.FI posting here is done using the BAPI ‘BAPI_ACC_DOCUMENT_POST’.
+	16. Client: Apollo Tyres Limited.
+
+
+· Incentive Management for Apollo Tyres  Limited     
+Apollo Tyres limited is one among the leading tyre manufacturing company in India. Incentive Management Module deals with processing the different incentives for the workmen working in different plants using the production details, manpower details and breakdown details. Incentive calculated for different categories of workmen is finally given to payroll for payroll upadation.
+
+Real Time Support and Maintenance (Help Desk).
+As a team member I was responsible for the support and Maintenance (Help Desk) for Incentive Management Module for Apollo Tyres Limda, Apollo Tyres Perambra and Apollo Tyres Premier Plants. I could solve several critical issues raised during the actual processing of Incentive Management Module. I could do some optimization in running of a report program.
+	17. Client: IVL India Private Limited
+
+
+Productization of Incentive Management (Reward)    
+
+Reward, is a comprehensive add-on package for the SAP, which facilitates easy and centralized management of multiple Incentive schemes for employees. The system allows authorized end users to define any incentive scheme in English, using the super-set of possible inputs provided by Reward. A user-defined scheme becomes applicable only after this is activated. First time activation of an incentive scheme requires assistance from IVl.Once activated, the incentive scheme would be included for actual computation of incentives based on inputs and data periodically captured from standard SAP modules.
+Training Attended          
+1. Training given by IVL India Private Limited in SAP ABAP. 
+2. Training given by SAP Global Delivery – SAP CRM Customizing Fundamentals, SAP CRM WebUI.
+3. Training on the basics of SAP C4C (Cloud for Customer) by Utegration India Private Limited.
+ADDITIONAL QUALIFICATION
+1. SAP Certified Application Associate - CRM Fundamentals with SAP CRM 2007.
+2. Open SAP record of achievement in developing web apps with SAP UI5.
+3. TATA HONEYWELL certification on DCS, PLC and SCADA from 
+
+28-9-04 to 15-10-04.
+
+4. In-Plant training on DCS and PLC at Rashtriya Chemicals and   Fertilizers  
+
+Limited, Mumbai, from18-10-04 to 23-10-04.
+
+OBJECTIVE
+Attain still better heights, knowledge and experience in the field of SAP.
+EDUCATIONAL QUALIFICATION
+Bachelor of Engineering                             :  Noorul Islam College of Engineering
+
+Electronics and Instrumentation                  Manonmanium Sundaranar University
+
+Engineering                                                           Thirunelveli, Tamil Nadu.
+
+(2000-2004)                                                             72.34% (according to university norms                             
+
+                                                                               From 3rd semester to 8th semester)
+
+                                                                     71.19% (from first year to 8th semester)
+
+                       First Class
+
+Pre-Degree                                                   :   Government Arts College
+
+Science Group                                                  Thiruvananthapuram
+
+(1998-2000)                                                       University of Kerala
+
+                                                                           75.6% First Class
+
+S.S.L.C
+                                       :    St.Thomas High School
+1998                                                                   Thiruvananthapuram
+
+                                                                           Board of Public Examinations Kerala State
+
+                                                                           88.8%   Distinction
+
+OTHER ACHIEVEMENTS
+1. Proficiency Prizes at High School level.
+2. SAP CRM Build award from Wipro in recognition of great contribution and playing key role for success of NSN upgrade.
+3. Received spot award from Deloitte Consulting India Pvt Ltd  in recognition of contribution towards one of the project.
+EXTRA CURRICULAR ACTIVITY AND INTERESTS
+Playing Cricket.
+Interested in watching Cricket and listening music/songs.
+
+PERSONAL PROFILE
+Gender                             : Male                                                      
+
+Age                                   : 33 yrs.                                                                            
+
+Nationality                        : Indian
+        
+
+Languages Known           : English, Malayalam, and Hindi
+         
+
+Permanent Address         : Aikkerethu, Mangarathoppil
+
+                                           Pappanamcode P.O
+
+                                           Trivandrum-695018, India.
+                                           Ph: No: +91 471 2493597
+
+RENJU OOMMEN CHERIAN
+

@@ -1,0 +1,195 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JAVA DEVELOPER
+BANDARU GANGADHARA SWAMY	  				     +91 9966414452
+
+Email:bgswamy333@gmail.com              
+
+Experience Summary:  
+· Having 2 years of experience in developing web, client/server applications using Java/J2EE technologies
+· Strong experience in implementing  Spring, Hibernate framework
+· Good hands-on experience in J2EE technologies Servlets, JSP and JDBC
+· Knowledge on development of web-based applications using Spring (IOC,MVC,ORM)Framework
+· Good Experience in Implementing UI validations using JavaScript
+· Developing web-based applications in MVC architecture using  Spring Framework
+· Experience in Object Oriented Programming Concepts
+· Experience in web application development using IDE like Eclipse, MyEclipse
+· Experience in Configuring and deploying web applications using Tomcat web Server, WebLogic Application Server
+· Experience in writing SQL queries for Oracle
+· Knowledge on  SOAP,RESTful Web Services
+· Committed team player with strong analytical and problem solving skills, and ability to quickly adapt to new environments and technologies
+· Good understanding the business process and quick learner and Involved in an end-to-end developing and Implementation.
+PROFESSIONAL EXPERIENCE:
+· Worked as a Software Engineer  in  Saama Technologies  from July 2015 to July  2017.
+
+EDUCATIONAL QUALIFICATIONS:
+· B.Tech(Mechanical Engineering) in BVC Engineering College (2011-2015) with aggregate of 74.77%. 
+· Board of Intermediate Education in Sasi Junior College (2009-2011) with aggregate of 94%. 
+· School of Secondary Education in Sasi Residential High School(EM) (2009) with aggregate of 91%. 
+
+Skill Summary:
+	Languages   
+	:
+	JAVA, J2EE (JDBC, JSP and Servlets),Objective-C
+
+	Frameworks
+	   :
+	Spring(IOC,ORM,MVC), Hibernate
+ 
+
+	Servers
+	   :
+	Weblogic  and  Apache Tomcat 
+
+	Web Technologies
+	   :
+	HTML, AJAX, XML  and JavaScript
+
+	Testing Tools  
+	   :
+	Junit 4.0
+
+	IDE& Tools                       
+	   :
+	Eclipse, SVN
+
+	Database
+	   :
+	ORACLE 10g (Sql)
+
+	Operating Systems
+	   :
+	Windows XP/2000/2007
+
+
+
+Projects:
+Project 1:
+
+	Project
+	AdvisoryWeb
+
+	Client 
+	CRISIL Risk and Infrastructure Solutions Limited
+
+	Role
+	Java Developer
+
+	Environment
+(With skill versions)
+	Tools & Technologies: Java Servlets, JSP,JDBC , JavaScript, AJAX, Spring ,Eclipse, SVN.
+Database: Oracle 10g
+O/s: windows 7
+
+
+				         
+ Project Description:
+
+	AdvisoryWeb  is the business process workflow system which starts from lead identification to assignment creation, bill raising, payment collection, to client feedback and also involving timesheet entries, OPE, Revenue Transfer. AdvisoryWeb has modules like BUD , TRAVEL, MASTERS, KHub, BPT,
+EXTERNAL ASSSIGNMENT, BILLS,ACCOUNTS,BD PIPELINE,RDT etc.,
+
+
+ Responsibilities:
+
+1. Analyzing and Understanding the business requirements
+1. Developed Spring action Classes based on the DAO classes, beans, service classes.
+1. Implementing effective JSP pages and user interfaces.
+1. Developed Spring action classes for store and retrieve data by the user.
+1. Developed application presentation logic using JSP, Spring.
+
+.
+Project 2:
+
+	Project
+	Single Point Of Entry
+
+	Client 
+	CITI BANK, USA
+
+	Role
+	Java Developer
+
+	Environment
+(With skill versions)
+	Tools & Technologies: Java,Servlets, JSP, Spring, Hibernate, JavaScript, AJAX, Log4J, Junit, Eclipse, SVN.
+Database: Oracle 10g
+O/s: windows 7
+
+
+				         
+ Project Description:
+
+	Single Point Of Entry is a bi-directional hub that receives data files from Citi clients and delivers the files or extracted messages to Citi‟s back -end systems (BES). In addition, SPE can receive data files from Citi‟s BES and deliver them to Citi clients via Global Exchange Services (GXS), CitiSwitch or Citisft. 
+SPE has the capability to bundle and un-bundle inbound or outbound messages and files. For example, it can unbundle the messages received from clients and then route them to the appropriate back-end system (BES) providing traffic monitoring of all inbound and/or outbound files.
+
+
+ Responsibilities:
+
+1. Understanding the business requirements
+1. Developed Spring Controller Classes.
+1. Developed POJO classes to store and retrieve data by the user.
+1. Developed application presentation logic using JSP, Spring Tag libraries.
+· Implemented the data access layer using Hibernate persistence framework
+
+declaration  :  I here by declare that all the details furnished here are true to the best of my knowledge. 
+
+DATE :                                                      
+PLACE:                                                                   SIGNATURE: B.G.SWAMY
+
+
+
+
+
+
+

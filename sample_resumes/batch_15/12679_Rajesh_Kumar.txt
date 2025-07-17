@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Experience Summary:
+
+		                         Page 3 of 3
+
+		Rajesh Kumar
+	
+
+	+91- 9540287103
+	
+
+	rajjobs87@gmail.com
+	
+
+	6+ years of work experience in Cloud Computing, Microsoft Azure, Database Technologies (Oracle and SQL). Currently working as Module Lead (Cloud computing, Database development and R&D) in GoInfinity Technologies Pvt. Ltd. Noida (a subsidiary of Beyond360 Limited- a UK based organization). Here I am driving Cloud-based Employee Engagement Program projects using Microsoft Azure IAAS, SAAS, PAAS services using Azure Powershell, Visual Studio and SQL and Oracle databases. 
+	
+
+
+
+
+
+
+	Have extensive experience in Cloud computing PAAS, SAAS, IAAS, Power BI, SQL Azure, Azure Web app, Azure Web Role, Azure Worker Role, Azure storage, Azure Virtual Machine, Azure Networking, Azure Powershell, Azure Automation, Application support, SQL and Oracle databases and many others.
+
+· Involved in various cloud-based solutions using Windows Azure IAAS, PAAS and SAAS.
+· Have extensive experience in dashboard development using Power BI.
+· Application/Service migration Planning and support to MS Azure cloud well versed in planning and execution of Azure cloud-based migrations and IAAS Solutions.
+· Have extensive experience in database designing.
+· Hands on experience in windows server platform.
+· Involved in all phases of application development, from needs assessment to QA, design, and support. 
+· Expert in migrating the whole database from SQL to Oracle.
+· DBA Activities- database backup and restore Oracle and SQL database.
+· Applying agile software development methodologies in delivering software.
+· Having experience in ETL Process (SSIS packages).
+· Exposure to data warehouse design (Star and Snowflake schema).
+· Created security compliance report on the database for the clients based on Azure Infrastructure.
+
+
+
+	
+	Skill Set
+
+	Advance Analytics
+	:
+	Power BI
+
+	Storage Technologies
+	:
+	SQL Azure, Azure Storage
+
+	Microsoft Azure
+	:
+	Web App , Azure Active Directory, Storage, VM-Backup-Restore-Recovery, Cloud VM, Cloud Service, Load Balancer, Traffic Manager, Virtual Network, SendGrid for Email Communication, Backup Vault, Key Vault, Aure Encryption, Azure Automation, Azure resource manager, Antimalware, OMS Portal, Capacity Planning for migration. 
+
+	Languages/Script
+	:
+	PowerShell, C#
+
+	Database Technologies
+	:
+	Sql Server 2012, SQL Server IaaS, Oracle 11g on Azure IaaS
+
+	Operating Systems
+	:
+	Windows 8.1, Windows 10, Windows Servers
+
+	Tools/Software
+	:
+	Visual Studio 2015
+
+	Domain Expertise
+	:
+	CRM, Banking, Employment engagement platform (HR)
+
+
+
+	Professional Experience                                                                                                                                                             6.5 Years 
+
+	GoInfintiy Technologies Pvt Ltd (Noida) - Beyond360 Ltd (United Kingdom)
+	Module Lead (Database architect and Azure Cloud computing)
+	July 2016 to Till Date
+
+	Clients
+
+Project Description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Responsibilities
+	Bhrati Infratel Ltd., Zuventus, Indus, UK clients-AucklandCastle and AR Controls etc
+
+Beyond360
+
+Beyond360 is a SAAS based employee engagement application where organizations can run different engagement programs. The application includes concept of a social wall, notification center, budgeting and e-wallet.   
+Engagement Modules: Reward & Recognition, Job Referral Program, Employee Feedback, Surveys.  
+Dashboard and Reporting: Dashboard and reporting of the application along with data visualization to give real-time analytics on employee engagement. 
+On-boarding module: On-Boarding module to configure the engagement programs along with different criteria’s and rule-setup.
+Redemption module: An e-commerce application to sell different products and offer using the points earned by users using with engagement programs. 
+Content Management System: A CMS for the redemption module to upload a variety of product types- Retail, offers, subscriptions and gift cards.
+
+
+· Lead a team of IT Professionals and individual contributor.
+· Design SQL database for various modules- Engagement, Dashboard and reporting, On-Boarding, Redemption and CMS.
+· Design the data warehouse (snowflake design) for Dashboard and reporting.
+· Created ETL process (SSIS packages) for uploading data to data warehouse using snowflake schema.
+· Implemented the database failovers on Azure SQL PaaS.
+· Ability to learn new technologies quickly and independently and to formulate and implement standards, procedures and best practices
+· Plan, develop and manage the infrastructure to enable the strategic and effective use of tools.
+· Working on Azure Web Role, Worker Role and Web Apps.
+· Implement Azure Storage blobs/files/Tables/Queues & SQL databases & Manage Access.
+· Integrate an app with Azure Active Directory.
+· Experience in Azure Automation (Stop/Start Virtual Machines).
+· Configure a virtual network/ Modify network configuration, NSG, Network Interface and subnets & Design and implement a communication strategy.
+· Reporting to the Chief Technical Officer (CTO) for technical escalations, analyze top-issues and top call drivers for the week and provide action plans to streamline processes.
+· Exposure to working with various issue severities, engaging specialized teams, close deadlines.
+· Installation of Oracle database server on windows platform and experience in maintenance tasks (Backup and Restore- RMAN and data pump utility).
+· Coordinating with application team for troubleshooting the application or Database outages.
+· Involved in Project Transition, project documentation and signoff from the client
+· Perform root cause analysis and Troubleshooting technical issues.		
+
+
+	Acidaes Solutions Pvt Ltd. (CRMnext)
+	Senior Database developer
+	April 2011 to July 2016
+
+	Client
+
+Project Description
+
+
+
+
+
+
+
+
+
+
+Responsibilities
+	ICICI, HDFC, IDFC, AXIS Bank, RMF, Tata AIG, BFL, IIFL etc. 
+
+CRMNEXT -A Customer Relationship Management Product
+
+CRMNEXT is a CRM software product. It is a large web application that is used in banking, insurance, pharmacy, retail etc. CRMNEXT software is commonly used to manage a business-customer relationship; however this software system is also used in the same way to manage business contacts, clients, contract wins and sales leads. CRMNEXT software is highly scalable and customizable, allowing businesses to gain actionable customer insights with a back-end analytical engine, view business opportunities with predictive analytics, streamline operations and personalize customer service based on the customer's known history and prior interactions with your business.
+
+· Managing team of three members to get the assigned task completed on given time-lines and leading them through coordination and training.
+· Coordinate physical changes to computer databases; and codes, tested and implemented Oracle and SQL database, applying knowledge of database management system.
+· Expert in debugging PL-SQL procedures and functions for troubleshooting database issues
+· SQL to Oracle 11g database and data migration.
+· Database backups and restore (using data pump utilities) whenever required.
+· Creation and addition of data files and Table spaces.
+· SQL Server script migration to Oracle compatible scripts and single code maintenance for SQL and Oracle databases.
+· Debugging c# code for bug fixing reported by QA team or client (Production and UAT issues).
+· Coordination with other teams in the organization to solve their problems.
+· Initiating and managing documentation of related work with the team.
+
+
+
+
+	Educational Experience
+
+	B Tech. (CS)
+	UP Technical University- BIET Jhansi
+	2009
+	65%
+
+	Intermediate(10+2)
+	UP Board	
+	2004
+	67%
+
+	High School(10th)
+	UP Board
+	2002
+	66%
+
+
+
+
+	Key Strengths
+
+	· Strong analytical problem determination/solving skills.
+· Excellent communication skills, both verbal and written.
+· Ability to work independently and within a team.
+· Ability to learn & develop using new technologies quickly.
+· Self-motivated and Goal Oriented.
+· Flexibility and adaptable
+
+
+
+
+
+	Personal Information
+
+	Father  
+	Ratan Singh
+
+	Date of Birth
+	15th Sep 1987
+
+	Address
+	A 41B First floor Gali No.-7 Pratap Nagar, Mayur Vihar Phase -1, New Delhi-110091
+
+	Company
+	GoInfinity Technologies Pvt Ltd. (Beyond360 Limited-UK)
+
+	Time required joining
+	2 Months
+
+	Skype
+	Rajesh Kumar (rajesh.kumar.chandela)
+
+
+
+	
+
+       Rajesh Kumar
+

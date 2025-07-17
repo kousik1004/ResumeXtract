@@ -1,0 +1,260 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOHAMMED JABAIR
+SAP BASIS Consultant
+								Email: jabair9@gmail.com	
+Mobile: +91 8801627288
+		
+
+Career Objective:
+
+I am seeking a challenging technical position in a pleasant working environment, which will permit me to continue practicing and expanding my skill set and knowledge base.
+
+
+Professional Summary:
+
+Total 2.4 years of experience in SAP BASIS.
+· Currently working as a SAP BASIS Consultant in PrimeNumerics Consulting Pvt Ltd, Pune, during the period Aug 2017 to till date.
+· Also Worked in Terrenos Software Technologies Pvt Ltd, Hyderabad as a BASIS Consultant during the period Feb 2016 to July 2017. 
+· Worked as Lab Faculty for SAP BASIS in Version IT Institute during Aug 2015 to Feb 2016
+· Worked on SAP BASIS Administration for Net Weaver products including SAP ECC, HANA, Solution Manager and System Administration on Oracle, Sybase, HANA, DB2, Windows and LINUX.
+· Exposures in interacting with IT team manager in SAP BASIS environment
+
+
+EDUCATIONAL QUALIFICATION:
+
+· Master of computer application (MCA) from Osmania University.
+· Bachelor of Computer Application (BCA) from Osmania University.
+
+TECHNICAL SKILLS
+
+ERP Applications		: SAP ERP/ ECC 6.0, Netweaver, Solution Manager.
+Operating Systems	: Windows server 2003, 2008, 2012, SUSE Linux 10, 11, 12, Red hat.
+Databases		: Oracle, SYBASE ASE, DB2, SAP HANA Database.
+
+SAP BASIS SKILLS:
+
+· User Management: User Creation, users lock and unlocking, password reset.
+· Support Packages: Downloaded support packages, SAP Notes and applied on SAP System (ABAP) and BW systems. Updated SPAM/SAINT Versions. Applied Add-ons. Performed Kernel Up gradation.
+· Client Administration: Created clients and defined settings. Performed client copies like local client copies, remote client copies, client export and import.
+· Transport Management: Configured Transport Domain controller and System Landscape. Created virtual systems, transport layer, transport routes. Transported change request using STMS and manual tp from DEV system to other systems in the landscape. 
+· Data Transfers: Created and maintained RFC destinations.
+· Backup: Performed Online, Offline, Incremental backup on Oracle and Sybase through Command Line and DBA Cockpit on Windows and Linux platform
+· Restore: Performed Homogeneous Copy and Database Refresh on Sybase and Oracle.
+· Operation Modes: Maintaining the profiles and operation modes for day and night operation 
+· Daily Monitoring Activities: Defined and monitored Background, Update jobs and maintained Spool queue. Performed SAP standard housekeeping jobs.
+· Database Administration: BR*TOOLS, BRGUI.Performed Table Space Administration by Altering Table spaces and Adding Data files as per System requirements
+· Re-organization of single and overall Table Spaces(Oracle)
+· Security Administration: Creating Single roles, Composite roles and derived roles and assign to users. Performed activities on Missing authorizations.
+
+SOLUTION MANAGER SKILLS:
+
+· Performed Installation and configuration of SAP Solution Manager 7.0, 7.1, 7.2.
+· Knowledge on SLD of ABAP and JAVA STACKS
+· Configuration of Satellite Systems into Solution Manager.
+· Configuration of Maintenance Optimizer.
+· Configuration of Early Watch Alert.
+· Centralized Monitoring of the Satellite Systems.
+
+
+SAP HANA SKILLS:
+
+· Performed Installation of SAP HANA Version 1.0 SPS10.
+· Installed HANA Database as Single-Host System and Multiple-Host System.
+· Installed and Configured SAP HANA Studio.
+· Installed additional components of HANA by HDBLCM.
+· Created Users and Deployed Roles to Users In SAP HANA Studio.
+· Installed S/4HANA,on-premise edition 1511 on HANA 1.0 SP 10
+· Installed EHP7 for SAPERP6.0 SR2 ABAP System on HANA Database
+· Performed Backup through Command Line, HANA Studio and HANA Cockpit. 
+· Performed Restore through Command Line and HANA Studio.
+· Converted HANA Database From Single Tenant System to Multiple Tenant System by Command Line
+· Diagnosis of Index Server and Name Server in HANA Studio.
+· Performed Post Activities on HANA Application Server(EHP7 ERP6.0 ABAP)
+· Configured HANA Cockpit on Browser.
+· Performed SAP HANA Database Revision and SP level upgrade through hdblcm tool and command line.
+
+
+
+
+
+UPGRADATION AND MIGRATION SKILLS:
+
+· Performed EHP7 SP upgrade from SPS06 to SPS13 on LINUX SUSE 11.3.
+· Successfully Performed Oracle Upgrade from Oracle 11.2.0.4 to Oracle 12.1.0.2 on LINUX SUSE 11.3.
+· Successfully performed DB migration from Oracle 11.2 to HANA 1.0 SP10 on LINUX SUSE 11.3.
+· Successfully Performed Version Upgrade from SAP ERP6.0 SR3 to SAP ERP 6.0 EHP4 on Win Serv 2008.
+· Successfully Performed Oracle Upgrade from Oracle 9.2.0.1 to Oracle 10.2.0.2 on Windows 2003.
+· Updated Solution Manager 7.1 SP04 to Solution Manager 7.1 SP12. 
+· Successfully Upgraded Sybase Database from Version 15.7 to Version 16.0.
+
+
+PROJECT: 1
+
+Client	 	: Kabra ExtrusionTechnik Ltd			                     Duration: Aug2017 to till date
+Role		: SAP Basis consultant 
+Environment 	: SLES 12.1, S4HANA ON PREMISE 1610, HANA 1.0
+Project		: Implementation and Support.
+
+Roles and Responsibilities:
+· Performing post installation activities and configuring Transport Management System.
+· Creating and modifying clients for Development, Quality and Production Activities.
+· Creating users and roles. Assigning roles to users upon approval from PM. Performing spool configuration.
+· Transporting Requests from DEV to QAS and PRD. Adding authorization objects to end user when required.
+· Performing Authorization check, maintaining authorization objects.
+· Locking the end users until the go live date and monitoring the performance of servers.
+· Performing and scheduling regular Backups. Managing users and performing user administration.
+· 24/7 Production Support, User support, resolve end user problems on day-to-day basis.
+· Monitoring ABAP systems for fine tuning
+· Checking the OS space for daily backup.
+· Monitoring HANA database with HANA Studio and resolving the alerts.
+· Starting and Stopping HANA servers and Application when required.
+· Configuration of SMTP server upon user request in Quality and development systems.
+
+PROJECT: 2
+
+Client	 	: Alicon Castalloy Limited			                     Duration: Sep2017 to till date
+Role		: SAP Basis consultant 
+Environment 	: SLES 12.1, S4HANA ON PREMISE 1610, HANA 1.0
+Project		: Support
+
+
+
+Roles and Responsibilities:
+· Daily monitoring and Health check of ABAP Development, Quality and Production Systems.
+· Daily monitoring of OS space across all servers and deleting the Backup Data and Logs.
+· Applied Notes for ST03 issue and imported TR.
+· Disabled the multiple login for all SAP ABAP servers.
+· Monitoring the HANA database with HANA Studio and Cockpit.
+· Resolving Alerts which occurred in HANA Studio.
+· Starting and Stopping of HANA servers for memory issues and for maintenance activity.
+· Corrected Time Zone settings and Background Jobs which was not set properly.
+· Applied Maintenance License in development system.
+
+PROJECT: 3
+
+Client	 	: Lakshmi Group of Industries		                     Duration: Sep 2017 to till date
+Role		: SAP Basis consultant 
+Environment 	: SLES 11, EHP5 FOR SAP ERP 6.0, DB2 10.05
+Project		: DB2 Upgrade and Support
+
+Roles and Responsibilities:
+· Successfully Upgraded Db2 Database from Version 10.1 to Version 10.5 on DEV, QAS and PRD.
+· Performed Offline backup and online backup through DB13.
+· Installed Db2 license after upgrading the database.
+· Providing authorizations and Importing TRs upon user request.
+· Solving end users issues by communicating with them.
+· Monitoring of Database space and alerts through Dbacockpit.
+· Applied note as it was a prerequisite for Db2 upgrade.
+
+
+PROJECT: 4
+
+Client		: Heritage Foods		 				Duration: Oct 2016 to May 2017
+Role		: SAP Basis Consultant
+Environment	: Linux SUSE 11SP3, Oracle 11.2.0.4, ERP6.0 EHP7, SOLMAN 7.1 SP14 
+Project        	: Support, GST Patch Upgrade
+Roles and Responsibilities:
+· Downloaded GST patches and upgraded in SAP Systems through SUM tool.
+· System Copy in Homogeneous environment using production database to build a Quality system with Database restore method.
+· Homogeneous system copy (Export/Import method) using Software Provisioning Manager.
+· Daily administrative tasks include monitoring system logs, Work processes, locks and updates
+· Moving Transport Requests within the Landscape
+· Performed Daily monitoring of SAP system (Check List)
+· SAP System shutdown and start for technical maintenance.
+· Applying License to SAP systems and updating Maintenance certificates to SAP systems.
+· Monitoring application servers up and running
+· Checking the disk space available for database, archives and backups on timely manner
+· Adding data file when the table space size is exceeding the size limit.
+· Performing authorization tasks like creating roles, assigning roles, restricting the critical t-codes.
+· Monitoring the background jobs and their status
+· Monitoring Logged Users locally and globally
+· Monitoring activities like system status, analyzing system logs, system traces, ABAP dumps, SAP System Buffers and Database Buffers, workload analysis
+· Analyzing backups online/offline and archive.
+· Copied Daily Backup on safe Location
+· Monitoring ABAP system for fine tuning
+· Scheduled standard background jobs when required
+· User Management like User Creation, deletion of user, users locks/Unlocks
+· Analyzing of missing authorizations and assigning Roles to users.
+· Increasing the Mount point Space for database by adding the new volumes.
+
+
+PROJECT: 5
+
+Client		: Thirumala Milk Products Pvt Ltd		 		Duration: May 2016 to Sep 2016
+Role		: SAP Basis Consultant
+Environment	: Linux SUSE 11 SP3, DB2 10.05, ERP6.0 EHP7
+Project        	: Support
+
+Roles and Responsibilities:
+· Daily Monitoring and performing health check of all SAP servers
+· Performing user administration like user creation, deletion, etc.
+· Transporting Request from DEV to QAS and PRD
+· Performing and scheduling daily online backups and weekly offline backups
+· Performing authorization tasks like creating roles, assigning roles, restricting the critical t-codes etc.
+· Checking the disk space available for database, archives and backups on timely manner
+· Checking the consistency of spool activities
+· Monitoring complete database like space availability, alerts, logs, etc.
+· Maintaining all reports of backups, monitoring sheets, critical t-codes utilization etc.
+· Generating Developer access keys and object keys.
+· Solving the issues for end users when required.
+
+
+
+Personal Details  
+
+Date of Birth		: 09-11-1989
+Marital Status		: Single
+Father’s Name		: Mohd Yousuf
+	Permanent Address	: Hyderabad, Telangana, India, 500024
+
+											Signature

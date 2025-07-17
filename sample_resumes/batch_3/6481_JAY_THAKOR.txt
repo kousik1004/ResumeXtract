@@ -1,0 +1,170 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+
+
+Last Updated : November 2017
+
+JAY THAKOR
+[M.E.-Embedded System Design]
+Plot No. 830/1, Sector -7-C, Gandhinagar, Gujarat
+Contact: (+91) 7745079370  Email: thakor.jay@gmail.com
+
+Seeking a challenging position with opportunities for career advancement and learning.
+
+WORK EXPERIENCE:
+
+1. Aug 2015 – Present System Level Solutions – Engineer
+Embedded Software Dept.
+
+Responsibilities and Achievements:
+
+ Currently working on Emulator Project  for GSME/ESME with Atheros(AR9331) as a Host
+Processor and Silab's EFR32 as network co-processor
+
+ Worked on Toshiba DBCH project for range test application with Telit(UE910 V2) as a Host
+Processor and Silab's EFR32+Si4468 as a network co-processor for dual band operation over
+Zigbee Protocol.
+
+ Worked extensively on GBCS based Smart  meter system(Toshiba - CH) software based on
+Telit as a host processor and Silab's EM357 as network co-processor
+
+ Test coordinator for different modules, defects management, reports editing. 
+ Analyzing the Test Cases prepared by other team members and tested same for bug reproduce
+
+and solution of it.
+ Giving mandatory information of a defect to developers in order to fix it
+ Prepared detailed reports concerning project specifications, user training and other activities.
+
+ 
+
+TECHNICAL SKILLS:
+
+Operating Systems Linux Ubuntu, OpenSuse, and Windows
+RTOS FreeRTOS
+Programming Languages C, Basic  C++, 8051,  MISRA C,  Assembly
+Project Management Tool TFS, SVN, Tuleap, Agile Review
+Hardware Silab's EM357/EM3588/EFR32, Si 4468, Telit(UE910 V2) 
+Scripting Languages Basic Python
+
+Tools
+IAR, Eclipse, Simplicity Studio, Ember Desktop, TRACE32, IREC,
+WDS, Keil  uVison,  Orcad, AltiumDesigner,  Visual  Studio,  Code
+Composer Studio.  
+
+Debugger J-Link(Inbuilt on Silab'sWSTK6000A) , Lauterbach Trace32 (T32) 
+Protocols Serial: UART, SPI ; Wireless: Zigbee, MQTT
+
+Educational  Qualification:
+
+  M.Tech (Embedded Systems) from GTU PG School, Ahmedabad with 8.31 CGPA. 
+ B.E. Electronics and Telecommunication, from BVM – VV Nagar in 2014 with 8.4 CGPA.
+ H.S.C from St. Xavier's High School Gandhinagar, GSEB in 2009 with 84%.
+ S.S.C. from St. Xavier's High School Gandhinagar GSEB in 2007 with 90%. 
+
+Page 1 of 2
+
+
+
+Last Updated : November 2017
+
+PROJECT(S):
+
+ M.E. Dissertation Work Details:-  C-DAC(PUNE)
+
+ Development  of  Horizontal  IoT  Platform as  a  generic  solution  for  IoT  application
+development
+
+ Developed  "Service Capability Layer(SCL)"  for providing common service to every vertical
+domains. Like, device registration, device management, notification and command mechanism,
+multiple device connections.
+
+ For this "Device Hive Framework" is used for developing IoT application and mainly work
+with C++ language.
+
+ B.E. Projects:-
+
+ Temperature Sensor & Real Time Clock with GSM Application
+
+The project is suggested and guided by industry for use in application of temperature control
+and observation from remote place. In this project I worked in group. I used Orcad & Proteus
+for circuit simulations. Keil uvison Software is used for coding purpose. 
+
+ Study Project:- MATLAB use in Communication
+
+The project is suggested and guided by my faculties. I used the MATLAB coding for different
+concepts and theories of Communication.
+
+AREA OF INTEREST:
+
+Embedded System Design, IoT Application Development, Device Driver
+
+PUBLICATION(S):
+ Thakor Jay Chandrasinh, Chaintannya Mahatme.
+
+"Development of Horizontal IoT Platform using DeviceHive Framework"
+International  Journal  on Recent  and  Innovation Trends  in  Computing  and Communication,
+Volume: 3 Issue: 5, Pg - 2574 – 2578, May, 2015
+
+PERSONAL DETAILS
+
+Date of Birth       : 17 October, 1991.
+Sex   : Male. 
+Marital Status   : Married.
+Hobbies   : Soccer,  Music, Swimming, Chess, Photography
+Language proficiency        : English, Hindi,Gujarati. 
+
+I hereby declare that the information given is true to the best of my knowledge.
+
+JAY THAKOR
+
+Page 2 of 2
+
+
+	JAY THAKOR
+	[M.E.-Embedded System Design]
+

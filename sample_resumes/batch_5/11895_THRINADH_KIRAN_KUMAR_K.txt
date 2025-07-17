@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thrinadh
+
+
+
+            
+                                                             Data Scientist
+                    THRINADH KIRAN KUMAR K
+       Phone: +91- 8550000665
+                      E-Mail: thrinadhkiran@gmail.com
+
+	PERSONAL AND CONFIDENTIAL
+
+
+
+Professional Summary
+
+
+
+· Data Scientist with more than 6 years of experience across Retail, Manufacturing, Banking and Insurance domain.
+· Expertise in Machine Learning, Predictive Analytics, Text mining, Deep Learning, R, Python Sklearn, SAS, and Azure ML.
+· Experience in Data Extraction, Data Exploration, Data Munging of large data sets using Python stack (Pandas, Numpy, Scipy) and R
+· Expertise in understanding complex business requirements and communicates effectively with clients.
+· Ability to work in a team as well as an individual contributor and deliver accurate deliverables within the timeline.
+· Manipulate large data sets, apply basic statistical techniques to understand data, including measures of central tendency and dispersion, ANOVA and hypotheses testing, regression and correlation analysis
+· Worked with engineering and research teams on designing, building and deploying data analysis systems for large data sets
+· Interact with consultants/clients to formalize data sources, understand data, acquire relevant business knowledge.
+· Responsible for working with IT teams to productionize the models.
+
+
+Technical Expertise
+
+Programming Languages            : R, Python and SAS.
+Machine Learning Tools              : R, Python Scikit-learn, Spark, SAS and Azure ML.
+Operating System           	: Windows, Linux and z/Os.
+Visualization Tools                       : matplotlib, Plotly, PowerBI
+	NoSQL DB			: Neo4j
+	Others				: Scikit-image, OpenCV
+
+
+
+
+Data Scientist in Cognizant Technology Solutions, May 2014 to till date
+
+1) CIP Phase Prediction and Automation for a Manufacturing company:
+Objective: - Prediction of phases and automation of CIP (Cleaning in Place) analysis using CIP sensor unit data.
+
+· Built data pipelines using Azure Data factory to extract the CIP sensor data from Cassandra database to azure storage. 
+· Developed multiclass classification model using Azure ML.
+· Developed R scripts to create, save and validate model in Azure ML and create a web service to score the model.
+· Using Azure data factory, Automate the process of running the model for the sensor data in Azure storage using web service of Azure ML model.
+
+2) Ticket Analysis and Prediction Engine
+· Segmentation - Created Text Mining and Clustering models for identifying recurrent defects to explore automation as a resolution.
+· Root Cause Prediction - Created Random Forest model for identifying the root causes to defects.
+· Release Plan Analysis - Created an optimized released plan so that high priority related defects are targeted first.
+· Turnaround Time Prediction – Created Linear Regression model to predict the turnaround time of defects.
+
+3) Recommender Engine for a Food & Beverages company
+        Objective: Build Recommender Engine to recommend products using the purchase history of users.
+· Data loaded into Spark environment as RDDs from Cassandra. 
+· Implemented Collaborative filtering with Matrix Factorization methods like ALS using PySpark.
+Suggest similar food and beverage products to the users with low purchasing behavior from the available list of users.
+
+4) Customer Segmentation and Churn Analytics for a Food & Beverages company
+Objective: Customer analytics for a leading Food and Beverages company focusing on predicting customer churn and segmenting customers on to various profiles.
+
+· Worked on Customer Retention and built a Logistic Regression Model to predict the probability of customer churn. Model was validated to check across the Actual Vs Predicted churned customers and obtained 80% accuracy. 
+· Model was built taking care of the multi collinearity and interpreted by looking at the Coefficients, Odds Ratio and AUC 
+· Segmented and Profiled customers based on revenue, products, Volume, brand category, tenure etc. and summarized for different solutions. 
+· Generated list of customers for Customer retention team based on several business rules which helped in targeting the inactive customers much earlier
+· Various descriptive and visualization was carried out on customer data, Inquiry and call history data along with data regarding customer equipment, products and seasonality of customers
+
+Data Analyst - HCL Technologies Ltd, November 2010 to April 2014
+
+1) PnL Projection:
+        Objective: Forecasting for Profit and Loss items such as Sales, CGS, margins, Expenses and EBITDA.
+· Extract the transactional data from Teradata database.
+· The time series techniques like ARIMA, Holt-Winter and Exponential smoothing were carried out to come up with the model giving out best accuracy.
+· Monthly forecasts for 6 months ahead have been arrived based on Trend, Seasonality and Cyclical pattern observed in historical (training) data.
+
+2) Resolve Analytics
+Objective: Analysis on resolve IT data to identify and drive improvement in processes.
+· Extraction of Data (structured and unstructured) from the Unix servers.
+· Data Cleaning – Converting unstructured into structured data from R and Data validation. 
+
+· Exploratory analysis on sampling data in SAS.
+· Accountable for Data Extraction, Cleaning, Explore, Model, Assess and Refine.
+· Decision Tree Technique - Chi-square Automatic Interaction Detector (CHAID) to determine the major area of concerns and estimated value impact calculation and decision on how SLA performance will impact /drive KPI performance
+
+
+
+
+3) Campaign Tracking Automation for Banking & Financial services company
+       Objective: Data extraction, Data manipulation and generating reports.
+· Extensively Used Base SAS, PROC SQL and advanced macros in SAS Enterprise Guide. 
+· Automating the reports separately for 3 types of Acquisition, Portfolio and Usage campaigns 
+· Created the stored process in SAS EG with parameters 
+· Generated the web based dashboard and KPI reports in SAS WEB REPORT STUDIO
+· Generated monthly, quarterly, yearly dashboards and provided insights to management.
+
+
+Achievements
+
+· Received Rainmaker Award from Cognizant Technology Solutions.
+· Awarded Czar of the Month - Award from Client. 
+
+
+
+Educational Qualification
+
+· Bachelors of Engineering in E.C.E from Anna University, 2010
+
+
+Trainings Undergone
+
+· Cognizant certified SAS programmer.
+· INSOFE training(Corporate): Fundamentals of statistics, machine learning, Deep neural networks, text mining and Spark.
+· Big Data Specialist from Jigsaw Academy(Corporate).
+· Microsoft Azure ML.
+
+
+
+Personal Details
+
+Date of Birth	 : 12th July 1989	
+
+Marital Status	 : Single
+
+Gender	 : Male
+
+Languages	 : English, Hindi, Telugu, Tamil.
+
+Declaration
+
+
+I hereby declare that all the Information furnished here is true to the best of my knowledge.
+
+Place: Hyderabad         
+Date: 								(Thrinadh Kiran Kumar Kottagundla)
+	PERSONAL AND CONFIDENTIAL

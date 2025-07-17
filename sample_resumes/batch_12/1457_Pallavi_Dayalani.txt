@@ -1,0 +1,262 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pallavi Dayalani
+
+Pallavi Dayalani
+
+E-mail: pallavi.dayalani@gmail.com
+Phone:
++91-9503009988
+
+D.O.B: 22nd June, 1985
+
+Present Address:
+
+
+
+Permanent Address:
+
+Flat no- 2625,
+
+
+
+
+5-A-21 Housing Board Colony,
+
+Building – H-5, 1st floor,
+
+
+Sector 5, Talwandi, 
+
+Housing Board Society,
+
+
+Kota (Rajasthan)
+
+Next to  Park Island Society,
+
+
+Pin-324005
+
+Yerwada (Pune) - 411006.
+
+
+Ph No: +91-744-2406721
+
+Objective:
+
+To make an effective commitment towards learning and utilizing the developed skills through problem solving approach & creative inputs to achieve organizational & personal goals
+
+Academic Profile: 
+
+	YEAR
+	DEGREE
+	INSTITUTE
+	BOARD/UNIV.
+	RESULT (%)
+
+	2007
+	B.E. (Comp.)
+	FET-MITS, Lakshmangarh
+	Rajasthan Univ
+	68.2
+
+	2003
+	XII
+	Sophia Girls Sr. Sec. School, Kota
+	C.B.S.E.
+	60.0
+
+	2001
+	X
+	Sophia Girls Sr. Sec. School, Kota
+	C.B.S.E.
+	73.3
+
+
+Work Experience:
+
+Organisation: IBM India Pvt. Ltd.
+
+          Period: Jul ’07 – Till date (55 months)
+
+Designation: Application Developer
+
+Job Responsibilities:
+
+· Management and coordination interface:
+
+· Coordination with client and onsite team for smooth and efficient execution of the project
+
+· Understanding the functional requirements for providing technical solutions
+· Analysis of business aspects of Enterprise Resource Planning (ERP) and understanding integration of different modules in SAP. 
+· Coordinating Project Audit Review and managing performance improvement as a part of Quality function 
+
+· Maintaining Ticket tracker & list of deliverables for BI team
+· Technical:
+· Modules : Sales & Distribution (SD), Material Management (MM), Financial Accounting(FI) 
+· ERP : SAP – BI, SAP - ABAP
+· Data Modeling: Creating, modifying and activating Info-Objects, Data Sources, DSOs, Info-Cubes and Multi Providers 
+· BW Operations: Creating and maintaining process chains
+· BW Enhancements: ABAP/4 code for Customer exits, Transfer rules, Update rules and Transformations to filter, cleanse, transform and load data to data target
+· BW Transports: Testing data loads and reports before going into production and transporting BW objects from Development to Quality and subsequently into Production server
+· BW Reporting: BEx Analyzer, Query Designer
+· Data Extraction: Maintaining Extract Structure, Generating & Activating Data Source
+·  Team Building:
+
+· Mentoring new entrants into the business unit through trainings and knowledge sharing initiatives for SAP BW and project specific processes
+Achievements
+
+· Rated as Top Contributor for 5 consecutive years
+Trainings Attended:
+
+Technical
+
+· SAP BI 
+· ABAP training in SAP R/3
+· ALE IDOCs
+· Web Dynpro & Adobe Forms Overview
+· SAP Workflow
+· SAP - SD, MM, FI Overview
+Quality
+
+· Lean Six Sigma training with courier simulation 
+· Quality Process Awareness & Competency Evaluation (QPACE)
+· Online Process Asset Library(OPAL) 
+Assignment History:
+
+Assignment 1
+
+
+        
+· Client: Volkswagen
+· Period: May ’11 – Till Date (9 months)
+· Role: SAP-BI Consultant
+· Platform: SAP BI 3.5
+· Assignment description: 
+Volkswagen is a leading automobile manufacturer in Europe & 4th Largest in world. Volkswagen ET (Spare Parts) is the central provider of VW Spare Parts the world over. Project provides AMS support for the spare parts business of VW in Europe, Asia Pacific & North America regions
+· Contribution:
+· Monitored daily, weekly and monthly loads of master & transaction data on daily basis and suggested process improvements
+
+· Analysed & resolved errors in process chains by doing Root Cause Analysis
+· Scheduled master & transaction data loads through info-package (with INIT/Full/Delta Up-Load mode) into the data targets and fixed the failures to complete loads
+
+· Worked with data staging using PSA to stage the data before transferring contents to ODS(Staging & Conformance) and  info cubes
+· Validated data consistency in reporting with data target against PSA after loading them to data targets
+· Involved in User defined Enhancements
+· Handled tickets by following Standard Operating Procedures (SOP) recording 100% compliance to Service Level agreement (SLA)
+· Performed production support activities like Ticket analysis report
+
+· Raised tickets to other resolution groups regarding performance of the system or spacing issues
+Assignment 2
+
+
+        
+· Client: Hawker Beechcraft (Formerly Raytheon Aircraft Company), USA
+· Period: May ’08 – May ’11 (36 months)
+· Role: SAP-BI Consultant
+· Platform: SAP BI 7.0
+· Assignment description: 
+World’s leading business, special-mission and trainer aircraft manufacturer – designing, marketing and supporting aviation products and services for businesses, governments and individuals worldwide
+· Contribution:
+
+· Understanding customer’s requirement and performing feasibility analysis 
+· Preparation of Design documents (ETL Docs) for BI objects by using Data-Flow diagrams performing GAP analysis 
+· Extracted data from OLTP source like SAP R/3 (using LO-Cockpit or Customized LO cockpit by using enhancements or generic extractors) and flat file into BW 
+· Worked on Administrative Work Bench and created & configured Info cubes, Multi providers, Operational Data Store (ODS), Info objects, Info providers, Transfer structures, Transfer rules  Communication structures & Update rules
+· Created process chains according to requirements
+
+· Developed and modified queries  using formulas, selections & checked query data using BEx Analyzer and Query Designer
+· Participated in Unit and Global Integration Testing
+· Involved in transport activities like collecting objects in request and transporting to Quality and subsequently in production successfully
+· Maintained reconciliations to compare data in SAP R/3 and SAP BI
+
+· Weekly update of deliverables & work efforts of BI team into Rational Portfolio Management (RPM) tool for Quality Audit of project & reporting this to onsite client representative
+
+Assignment 3
+· Client: General Motors, AP
+· Period: Sept ’07 – May ’08 (9 months)
+· Role: SAP-ABAP Consultant
+· Platform: ECC 6.0
+· Assignment description: 
+The General Motors SAP project caters to the Asia Pacific region and provides support for SAP FI, MM, SD Modules. It included sub-projects like GWM (Global Warranty Management) project, catering to Japan, Singapore, Thailand, Philippines & Indonesia regions. 
+· Contribution:
+
+· Reviewing the Functional Specifications & Creating Technical Design 
+· Preparation of code using functionalities in SAP-ABAP
+
+· Unit testing and preparing UTP
+· Code Review and Performance tweaking
+· Resolving & addressing concerns at client end
+Other Experience:
+
+· Completed a 30 day training in DCM Shriram Consolidate Limited (a manufacturing giant) in SAP R/3 (Production planning module) 
+Honors & Other Achievements:
+
+· Contributed in developing “E-Learning” application in java technology as a final year project, providing education for geographically dispersed students
+
+· Presented paper on the topic ‘IRRIDIUM- Satellite Data Communication’ at National Level Technical Festival “Cordinazo- 2005”
+· Exhibited a painting at “Jaipur Jawahar Kala Kendra”, in a national level art exhibition
+· Choreographed & won prizes in dance competitions including “Renaissance-2005- National level technical cum cultural symposium” and “Endeavour-2005, Endevor-2006- Cultural Fest in college” 
+Place: 
+
+
+
+
+
+
+
+
+                                       
+
+Date:                
+
+
+
+
+
+
+
+Signature
+

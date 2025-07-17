@@ -1,0 +1,171 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Himani Sikarwar - Deloitte Consulting - VisualCV
+
+
+Hyderabad
+9617799026
+himanisikarwar91@gmail.comHimani SikarwarHimani Sikarwar
+
+Deloitte Consulting
+
+Working as a Business Technology Analyst in Deloitte Consulting with 3 years of overall IT experience
+Three Years of experience in Hadoop and its components including HDFS, Pig, Hive, Sqoop and Oozie
+One year of experience in Apache Spark
+Involved in developing Apache Spark applications using Spark Context, Spark SQL, Data Frame and Pair
+RDDs
+Created Hive tables using scripts and loaded data into them
+Experienced in Cloudera Hadoop Distribution
+Experience in handling different file formats like Parquet
+Experience in huge data processing with Hadoop by writing PIG Latin Scripts and HIVE Queries
+Importing and exporting data using Sqoop to and fro from HDFS
+Committed to Excellence, Self motivator, Team player and a far sighted developer with strong problem
+solving skills and proven ability to learn quickly and apply on new technologies
+Excellent communication, inter-personal and analytical skills
+Has a good Business Exposure with clients and a good understanding of offshore-onshore model
+
+2017 - 2018
+
+2015 - 2017
+
+Business Technology Analyst
+Deloitte Consulting
+
+Co-ordinated with Functional team to get an overview of the requirements so as to provide an
+appropriate design
+Worked on development of Spark applications for loading data into RDBMS from Hive for use of
+downstream applications
+
+Software Engineer
+HSBC GLT
+
+Involved in understanding the requirements and drafting Technical Design Document for the project
+Gained knowledge of the Hadoop Ecosystem
+Loaded data from FTP mount path to HDFS system using Unix scripts
+Performed development of Pig, Hive and Sqoop scripts
+
+B. E. Information Technology
+MIT, Ujjain (Affiliated to RGPV, Bhopal)
+CGPA: 8.06
+
+Professional SummaryProfessional Summary  
+
+Work experienceWork experience  
+
+EducationEducation  
+
+mailto:himanisikarwar91@gmail.com
+
+
+Technologies
+Pig
+Hive
+Sqoop
+Spark
+Bash Scripting
+
+Databases
+MS SQL Server
+HBase
+
+Scheduling Tools
+Oozie
+
+2017 - 2018
+
+2015 - 2017
+
+Hadoop and Spark Developer
+US Based Insurance Company
+Worked on extraction of data from already existing Hive tables in data lake and then transforming it as well
+as loading it into MS SQL server using Spark. This data was then consumed for reporting and dashboard
+purposes.
+
+Understood the requirements and designed the application to perform the refresh of dashboard data
+for historical as well as incremental hourly runs
+Developed Unix scripts for date logic and parameter generation
+Created Spark applications to extract data from Hive table and then use transformation by means
+of RDD  and Data Frames to implement logic
+Stored and archived parquet files on HDFS as well as exported the data to MS SQL server after the
+transformation logic was complete
+Used scheduling tool to run jobs in production environment
+Provided support for execution of applications as a part of Warranty phase
+
+Hadoop ETL Developer
+US Based Banking Corporation
+Worked on transforming the data obtained in various csv files into Hive tables and subsequently storing
+them in HBase for future use
+
+Developed Unix Scripts to load data from FTP mount point on the local system to HDFS
+Created Pig scripts to read csv files and process data based on criteria provided by business and loaded
+the results into Hive tables
+Extracted the data into text files from Hive table using incremental dates by the virtue of HiveQL scripts
+for further Audit and Validation
+Loaded the data into HBase using Sqoop scripts
+Monitored daily, weekly, and monthly loads during the support phase
+
+SkillsSkills  
+
+Project ExperienceProject Experience  
+
+
+	Himani Sikarwar
+	Deloitte Consulting
+	Professional Summary
+	Work experience
+	Business Technology Analyst
+	Software Engineer
+
+	Education
+	B. E. Information Technology
+
+	Skills
+	Technologies
+	Databases
+	Scheduling Tools
+
+	Project Experience
+	Hadoop and Spark Developer
+	Hadoop ETL Developer
+
+
+
+

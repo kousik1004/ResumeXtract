@@ -1,0 +1,171 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Neeraj Kumar Sharma
+
+
+Date of birth: 15/07/1992
+Current Employer: Cognizant Technology Solution
+Nationality: Indian
+Address: 111, Building No: F-10, Nonadanga, Ruby, Kolkata 700105,
+
+India
+Phone number: 9563489075
+Email address: neeraj.07023@gmail.com
+
+ Profile
+An IT professional with 27+ months of working experience in Hadoop Development at Cognizant Technology 
+Solutions
+ 
+Skills/Technical Expertise
+ In-depth understanding of MapReduce, Spark and the Hadoop Infrastructure
+ Big Data Ecosystems: Hadoop, Scala, Spark, MapReduce, HDFS, Hive, Sqoop
+ Programming Languages: Core-Java, SQL, Scala
+ Scripting Languages: Unix Shell Script
+ Tools: Eclipse( Java and Scala IDEs) ,Hue
+
+ Skills
+ETL/ Reporting Software
+
+Informatica PowerCenter 
+TIBCO Spotfire 
+
+Familiar Database
+
+Oracle 
+MySql 
+SQL server 
+HBase 
+
+Big Data Tools
+
+Pig 
+Hive 
+Sqoop 
+Flume 
+Spark 
+Scala 
+Java 
+OOZIE 
+Kafka 
+HBase 
+Cloudera 
+Horotnworks 
+AWS EC2 
+
+ Project Details
+Cognizant
+
+Technology
+Solutions 
+
+Kolkata 
+India
+
+USA Insurance Client 07/2016 – present
+Project Title: Migration and Transformation of Data
+Role: Developer(Project Associate)      Team Size: 5
+Skill Used: HDFS, Spark, Scala , Hive , Core-Java
+
+mailto:neeraj.07023@gmail.com
+
+
+ Project Details
+ 
+Project Details:
+This project primarily involved migration of data from legacy systems like Oracle, DB2 into 
+HDFS file system . Data was fetched from Oracle , DB2 and files from FTP server using 
+Core-Java and stored into HDFS. Spark was used to check the data quality and thereafter 
+the files were stored as avro file format. External table was created into hive with the data.
+ 
+Role Description:
+� Implementation of codes in Java and scala to fetch data (includes metadata) from 
+Oracle, DB2 as well as files from FTP server. 
+� Junit testing for codes written in Java
+� Ensure day to day delivery in Agile environment
+
+Cognizant
+Technology
+
+Solutions 
+Kolkata 
+
+India
+
+USA Insurance Client 07/2016 – present
+Project Title: Data Ingestion
+Role: Developer(Project Associate)     Team Size: 8
+ 
+Skill Used:
+ Hadoop technology stack which includes HDFS, Hive, Pig, Sqoop, Shell Scripting, Core Java
+ 
+Project Details:
+This was a development project to ingest their sensitive and non-sensitive data into 
+Hadoop ecosystem. Raw data Ingested into HDFS system using sqoop and Hive queries 
+were run. Finally, the Processed data consumed by Analytics team for reporting purpose.
+ 
+Role Description:
+� Coding (involved fetching metadata for various data sources like Oracle, DB2 using Jar. 
+Sqoop the data based on that then basic cleansing with Pig. Put the data into Hive Landing 
+and persistent zone.
+� Unit Testing
+� Ensure Day to Day Seamless Delivery
+
+ Education
+WBUT 
+
+Kolkata 
+India
+
+Computer Science and Engineering 08/2012 – 06/2015
+Dr. B. C. Roy Engineering College, Durgapur  68.25
+
+WBSCTE  
+Darjeeling 
+
+India
+
+Diploma in Computer Science and Technology 07/2009 – 06/2012
+Darjeeling Polytechnic Institute  72
+
+CBSE 
+Darjeeling Central school for Tibetans, Darjeeling  79.8
+
+

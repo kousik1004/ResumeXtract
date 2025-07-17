@@ -1,0 +1,109 @@
+
+
+
+
+
+
+
+
+
+	Abhijit Nath
+Senior Admin Analyst
+Accenture Services Pvt. Ltd.
+
+ㅡ
+Summary
+	
+Ph: +919742677851
+abhijitnath89@yahoo.com                                                          
+
+Abhijit has overall 5 years of experience in IT industry. Around 2+ years of Experience in configuring, implementing and supporting Splunk Server Infrastructure across Windows, UNIX and Linux. He  worked on Process Assessment,   Software Development and Delivery for International Pharma client managing multiple stakeholders across globe.
+
+	ㅡ
+Skills
+	
+   ●  Splunk Enterprise 6.4 - (2 years)
+   ●  PL/SQL Scripting (on Oracle 9i, 10g & 11g) - (5 years)
+   ● Scripting Python, Unix Shell JavaScript, CSS, Batch 
+   ● Robotic Process Automation (1 year)
+   ● Tableau  v9.1,  HP ALM - (2 years)
+
+	ㅡ
+Experience
+	
+Accenture Services Pvt. Ltd. / Sr. Admin Analyst
+JULY 2012 - PRESENT, BANGALORE
+Worked in development project for a Global Pharma Company with the responsibility of managing a team of 4 members and designing and developing automation procedures and application setup from scratch. Hands-on experience in Splunk and Automation Anywhere.
+
+Splunk Enterprise
+• Through understanding of Splunk Admin and Architecture processes(Architect trained), involved in architectural Cluster splunk setup of 6.4 and deployed splunk in multiple sectors using Jenkins continuous deployment.
+●Certified in Splunk Power User and Splunk Admin
+• Installed, configured and administered Splunk Enterprise Server and Splunk Forwarder on Redhat Linux and Windows servers. 
+• Setup Splunk Forwarders for new application tiers introduced into environment and existing applications.
+•Used various Splunk Apps such as Splunk app for AWS(to collect aws logs), Splunk App for UNIX/Linux, Splunk DB1 Connect, website monitoring, website input
+•Worked with source code organization instruments like SVN and Git and devops tool like Jenkins
+• Built dashboards, views, alerts, reports, saved searches using XML, HTML and Search Processing language (SPL) as and when required.
+• Performed Field Extractions and Field Transformations using the Regular Expressions in Splunk.
+• Created Splunk Apps using XML and Web Components. Knowledge of app creation, user and role access permissions.
+• Created tags, Event types, field lookups, using regular expressions, aliases for search-time outputs and visualizations.
+• Worked with Splunk app for Enterprise Security and Machine Learning to identify and address emerging security threats through the use of continuous monitoring, alerting and analytics.
+• Created custom app configurations (deployment-apps) within SPLUNK to parse, index multiple types of log format.
+• Used SPLUNK's REST API in order to perform searches from various application interfaces.
+• Configured Splunk forwarder to send unnecessary log events to “Null Queue” using props and transforms configurations to reduce license costs.
+• Knowledge of Network Firewalls, Load-balancers, LDAP and complex network design.
+• Involved in developing complex scripts to automate batch jobs,troubleshooting and resolved the Splunk -- performance, search poling, log monitoring issues; role mapping, dashboard creation etc.
+• Developed a POC on usage of Jenkins Configuration Management tool.
+• Handled production issues and non-production issues and worked with application teams, database teams and networking teams to resolve the issues.
+• Involved in Root cause analysis for the issues encountered. Provided on call support for all the production applications.Environment: Splunk Enterprise Server 5.x/6.x, Universal Splunk Forwarder 5.x/6.x, RedHat Linux, Oracle, Jira, HTML, Java Script, XML, Use of Regular expressions.
+
+RPA- Robotic Process Automation
+●Worked in a client-facing role involving metrics reporting, Business Analysis activities such as requirements gathering, HLD creation, signoff, end-to-end process implementation for RPA
+●Multiple RPA BOTs created and implemented coordinating with multiple stakeholders across globe,
+a) Server maintenance
+b) Self healing - automated error resolution
+c) Ticket creation and resolution in servicenow
+d) Learning and clinical trials process automation in pharma sector
+e) Financial process review and automation in pharma financial audit
+
+●Trained in AWS Solution Architect, involved in setup of AWS architecture involving EC2, EBS, S3, VPC
+●Coding experience in Oracle 11g and Linux shell scripting for packages and      procedure creation.
+
+
+	ㅡ
+Education
+	
+Year                 Degree                  Institution                                                               Score
+2012             B. Tech (EE)       Meghnad Saha Institute of Technology,           8.5/10
+                                                           West Bengal University of Technology
+ 
+ 2008	      WBCHSE (XII)         Hijli High School, Kharagpur, WB                   79%
+ 
+  2006             WBBSC (X)            Hijli High School, Kharagpur, WB                     86%
+
+	ㅡ
+Awards
+	
+Best Performer Life Sciences Indigo Award, Best achiever in Project award
+
+
+
+	ㅡ
+Personal details:
+
+	
+Date of birth             	:   11  Nov 1989
+ Address                   	:    Kundanahalli, Bangalore
+ Marital Status           	:    Single
+ Nationality                	:    Indian
+ Languages Known   	:    English, Bengali,  Hindi
+
+
+
+	ㅡ
+Declaration:
+	
+I here mentioned by all that the details given above are true to the best of my knowledge.
+                                                                                           Abhijit Nath
+
+
+

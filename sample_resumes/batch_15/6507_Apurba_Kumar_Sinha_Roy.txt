@@ -1,0 +1,258 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Apurba Kumar Sinha Roy-CV 4.docx
+
+
+Apurba	Kumar	Sinha	Roy	 	 	 	 	
+	
+	 	 	 	 	 	 	 Email:	apurbasr91@gmail.com	
+	 	 	 	 	 	 	 												Phone:	+91	9830059880	
+
+	 	
+A result oriented, self-taught, motivated IT professional. Presently 
+working with I and We, an educational startup, in the role of Cloud 
+Solution Architect. Having a strong technical skill to manage project 
+migration from development to production with a rich experience to 
+provide quality delivery. Proficient in technologies like AWS, 
+Openproject. Looking forward to a challenging role with lots of 
+learning experience ahead. 
+
+		 	 	 	 	 	 	
+	 	 	
+	 	
+										B.Tech	in	Electronics	&	Communication	Engg.	 	
+										Meghnad Saha Institute of Technology	
+
+            Passed with 7.52 CGPA 
+ 
+            WBHSCE       
+            South Point High School     
+            Passed with 75.8%   
+ 
+            WBBSE         
+												South Point High School     
+
+                Passed with 80.1%   
+ 
+ 
+
+	
+										
+							Jul	2016-	Present													
+						
+							I And We (Seekhlo Education Pvt. Ltd.) 
+       Cloud Solution Architect & Server Administrator 
+       Kolkata-India 
+
+ 
+• 16 months experience as cloud solution architect of a startup “ i&We” an EduTech 
+
+startup.  
+• Responsible for creating/managing development server for i&We website based on 
+
+MEAN stack.  
+• Successfully migrated the production server from LAMP stack to mean stack without 
+
+any major failure.  
+• Currently the site and running with zero downtime. It’s a dynamic website serving 
+
+approximately 700-800 users/day hosted on EC2 cluster.  
+• Responsible for upgradation and maintenance of their online teaching portal 
+
+(development and production server)  
+• Providing infrastructure as a service for one of their clients, an app based on ionic2, 
+
+node and MongoDB.  
+• Overall Responsibility to develop tool to automate backup and restore from client 
+
+workstation & populate/generate backup inventory out daily, weekly & Monthly. 
+• Client Handling, Business Generation and Business Analysis on a pan India basis. 
+• Content Development and Trainer of Linux Based courses as well. 
+• Have worked on Big Data Analytics profile. 
+
+Contact	
+
+Professional	
+Summary	
+
+Education	 Aug	2010-July	2014	
+
+May	2008-Mar	2010	
+
+March	2008	
+
+WORK 
+EXPERIENCE 
+	
+
+
+
+	2	
+
+Aug 2014-Jun 2016 
+ 
+
+    Infosys Ltd. 
+    Linux Server Administration and Testing 
+    Client: Rwest, Xerox, McDonalds 
+    Bengaluru, India 
+
+• Install	 and	maintain	 security	 patches	 on	 the	 operational	 and	 development	
+system,	 which	 includes	 but	 is	 not	 limited	 to,	 Red	 Hat	 Linux,	Windows	
+2003/2008,	Solaris,	VMware,	PostGreSQL,	and	Apache	web	services.	
+
+• Report	Security	Patch	compliance	in	Online	Compliance	Report	System.	
+• Perform	 daily	 system	 monitoring,	 verifying	 the	 integrity	 and	 availability	 of	 all	
+
+hardware,	 server	 resources,	 systems	 and	 key	 processes,	 reviewing	 system	 and	
+application	logs,	and	verifying	completion	of	scheduled	jobs	such	as	backups.	
+
+• Perform	 daily	 backup	 operations,	 ensuring	 all	 required	 file	 systems	 and	
+system	 data	 are	 successfully	 backed	 up	 to	 the	 appropriate	 media,	
+recovery	 tapes	or	disks	 are	 created,	 and	media	 is	 recycled	and	 sent	off	
+site	as	necessary.	
+
+• Create,	change,	and	delete	user	accounts	per	request	as	necessary.	
+• Analyze	and	create	Test	Plans	for	the	Change	requests.	
+• Define	various	test	conditions	to	test	the	requirements	and	build	test	cases.	
+• Execute	 test	 cases	 in	 specified	 test	 region	with	 specified	 inputs	 and	 verify	
+
+test	results.	
+• Flexibility	in	work	to	meet	the	deadlines	while	sending	quality	deliverables	
+
+to	customer.	
+ 
+
+ 
+ 
+
+• Amazon Web Services, Azure, Linux, LAMP, DB, Automation tools Jenkins.  
+• Settings, Configuring, Managing, Securing, following technologies:-  
+
+o Cloud Computing:- Amazon Web Services. (RDS, Route53, Autoscaling,   
+ELB, VPC,S3 , EC2,etc. )  
+
+o Web Tech:- Apache, Tomcat, Nginx(Load Balancer, Reverse Proxy, Web Server)  
+o OS:- CentOS RHEL5/6, Ubuntu 16.04 LTS  
+o DB:-Mysql, Mongodb 
+o Domain Record Managing:- Managing domain entries & maintaining 
+
+records.  
+o Web Tools:- Elasticsearch, Google Analytics etc.  
+o Monitoring:-Nagios (50+ Clients Linux+ Windows basic setup and 
+
+monitoring only)  
+o Scripting:- Bash ,Perl basics 
+o Google Cloud Platform 
+o Knowledge on OpenStack 
+o Knowledge on Tableau 
+
+• Working Knowledge on Hadoop Architechture, Spark, Pig,R and Hive. 
+ 
+
+ 
+ 
+ 
+ 
+Designing AWS architecture as per customer need which involve below   
+activities. 
+
+• Creating VPC & launching instances in it, Security Groups & managing it.  
+• Setting Elastic Load Balancers & attaching EC2 instances under it.  
+• Setting Cloudwatch Alarm for monitoring & integrating it with ELB,EC2 etc.  
+
+WORK 
+EXPERIENCE 
+	
+
+Key	Skills	
+
+Experience	
+
+
+
+• Setting Auto scaling groups & managing its policies, RDS & snapshot 
+policies & CDN(Elastic Cache) to boost web speed.  
+
+• Resolving issues with the help of log monitoring & tools.  
+• Working with coding team to trace & debug system & website related issues.  
+• Server Hardening, Installing latest available update, closing unwanted ports 
+
+etc  
+    
+ REDHAT LINUX RHEL5 & Ubuntu  
+
+• Implementation and Maintenance of Redhat OS, Servers 
+• Creating and Managing users, groups, group policies  
+• Providing system security with access-control list.  
+• Installing and configuring LINUX remote server  
+• Resource allocation for the new users i.e. , user login, user space.  
+• Service Allocation like Web Access, FTP ,mail etc. 
+• Configuring DHCP, DNS, Print server, setting up FTP Server in LINUX.  
+
+ 
+ 
+
+ 
+• Awarded	‘Most	Valuable	Team	Player	2016’	award,	Infosys,	for	my	
+consistent	performance	.	
+• Recognized	for	‘Put	the	Client	First’	initiative.	
+• Performed	well	at	Infosys	Foundation	Training	Programme	(FTP),	
+Infosys	Mysore,	with	specialization	on	Linux	,	Windows	and	Solaris	
+Server	Administration	along	with	Bash	and	Perl	scripting.	
+
+ 
+ 
+• Comprehensive problem solving abilities. 
+• Decent verbal & written communication skills. 
+• Decent leadership abilities. 
+• Willingness to learn and easily adjust with environment. 
+
+Achievements	
+
+Personal	
+Skills	
+
+

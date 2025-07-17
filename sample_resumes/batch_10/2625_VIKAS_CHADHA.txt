@@ -1,0 +1,226 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MANI RANJAN
+
+VIKAS CHADHA
+ E-Mail: vikas.chadha@live.com
+
+
+
+
+
+Contact: +91 9811555535 (M)
+Assignments in system administration with an organization of repute
+SYNOPSIS
+· Possess 10 years of experience in Linux System Administration, IT Administration & Networking with technical expertise in implementation, operations & support functions.
+
+· Presently associated with TechMahindra as Tech Lead.
+· Extending high-end technical support and ensuring high customer satisfaction levels through prompt redressal of their problems.
+
+· Good decision making skills with a positive approach.
+
+· Good communication and interpersonal skills with proven abilities in resolving complex networking and OS related issues.
+
+WORK EXPERIENCE
+
+Since Aug’10 with TechMahindra, Chandigarh as Tech Lead
+Key Skills:
+· Operating System:  
+   Red Hat Enterprise Linux, Sun Solaris 10, Cent OS
+· AWS Cloud:
+
+   VPC, EC2, ELB, EBS, Route53, S3, IAM, RDS
+· Virtualization:
+   VMware vSphere 6.0 & 5.5. vMotion, High Availability (HA)
+
+· Web Server:
+
+   Apache HTTPD, Apache Tomcat, JBOSS, Resin
+
+· Network Server: 
+   DHCP, FTP, NFS, Squid
+
+· Hardware/Software:   Implementation & Maintenance, IBM Blade servers HS21, HS22, HS23 & HP 
+
+
+
+   ProLiant DL380p
+· Load Balancers
+   Radware 6420, Radware 5412, Alteon 3408
+· Databases
+
+   MySQL, Maria DB
+· Networking:
+
+· Good understanding of IP, Sub Nets, VLAN, 
+· Well versed with Network protocols:  RIP2, EIGRP
+
+· Configuring Network routing & switching, access list on routers. 
+Responsibilities: -
+
+Systems Administration
+
+· Perform day-to-day Technical Support- Analyzing, Troubleshooting and Resolving Technical Problems related to Servers.
+
+· Responsible for providing for 24x7 support for production and responding to users' tickets.
+
+· Configuring Volume Groups and Logical Volumes, extended logical volumes for the system growth needs using Logical Volume Manager (LVM). 
+· Involved in designing and deploying a multitude applications utilizing AWS stack (Including EC2, Route53, S3, RDS, CloudFront, IAM).
+
+· Build Amazon EC2 instances and assigned required firewalls using security group (SG) and Network Access Control List (NACL) rules. 
+· Configuring IAM roles for EC2 instances and assigns them policies granting specific level access to S3 buckets. 
+· Installed and configured SAMBA server for windows and Linux connectivity.
+
+· Creating and maintaining user accounts, profiles, security, rights, disk space and process monitoring
+
+· Administering the NFS, FTP, DHCP, Apache tomcat, HTTP Servers.
+· Developed Cron jobs and Shell Scripts for automating administration tasks like file system management, process management, Server reboots etc.
+· Creating and maintaining user accounts, profiles, security, rights, disk space and process monitoring
+
+· Worked along with Monitoring teams to identify and troubleshoot issues on servers. Performed in package and patch management.
+
+· Administration, maintenance and management of LVM, NFS, SUDO Management
+
+· Hardware failure replacement, vendor co-ordination after case log with REDHAT/RADWARE/IBM.
+
+· Delivering technical support to Application team.
+
+Virtualization
+· Installation, configuration, administration, troubleshooting and maintenance of VMware virtual infrastructure (ESX 5.x and ESXi 6.x vSphere) platforms.
+
+· Build, configure and deploy VMs and Templates and cloning VMs.
+
+· Creation of clusters for (HA) High Availability, (DRS) Distributed Resource Scheduling and vMotion.
+
+· Manage VMware virtual infrastructure with vCenter appliance. 
+
+Networking
+
+· Good understanding of IP, Sub Nets, VLAN, Network routing, firewalls and switching.
+· Configuring and managing Cisco Router and Switches ( product range 4500,4900, 3500, 3845 and 2800)
+
+· Managing, Troubleshooting and Configuration Radware Application Load Balancers 8420, 6420, 5420. 
+
+· Managing, Configuration IBM BNT Switches.  
+
+· Troubleshooting networking problems to ensure minimum downtime & maximum availability of network.
+
+· Configuring firewall, Access-lists to provide access on port basis.
+
+Technical/ Customer Support
+
+· Interacting with the various clients and operators to resolve the problems.
+
+· Addressing queries regarding system and Byte application related.
+
+· Troubleshooting problems pertaining to Linux/Unix servers and network related issues. 
+
+Previously worked with ACL Wireless Ltd. From Sep’06 to June’10 as Team Lead.
+Responsibilities: -
+
+· Installation, Configuration, and Maintenance of Linux Servers like RHEL, Centos.
+
+· Implement patches and upgrade the Linux operating system
+
+· File System and Disk Management using LVM.
+
+· Configure cron jobs for scheduled make backup jobs.
+
+· Installation, configuration and management of Apache and Tomcat servers.
+· Installing, configuring and troubleshooting SMPP/CIMD SMS Gateways (Pull and Push).
+
+· Remote administration and troubleshooting of Linux Servers on which services and Kannels run.
+
+· Looked after the:
+
+· Smoother delivery of messages to customers (content provider) i.e. Push services.
+
+· Provided support to pull shortcodes of various companies.
+
+· Interacting with various Telecom Operators to resolve connectivity’s related problems or other technical problems.  
+
+· Supported various short codes and 555 STK Services in North and West Circles. 
+
+· Managing functions pertaining to VAS roll outs.
+
+· Playing a major role in up keeping the system security on Linux Servers with IPtables.
+
+· Configuring access list and Natting on Routers to provide access to internal servers.
+
+· Steering initiatives towards minimizing the downtime and analyzing troubleshooting occurring and providing assistance for the same. 
+
+· Assessing and resolving customer queries & qualifying requests by gaining their satisfactory level.
+
+ACADEMIA 
+
+· B. Tech. in Information Technology from Punjabi University Patiala (Punjab) in 2005.
+
+· H.S.C – Himachal Pradesh Board of School Education – 2001
+
+· S.S.C -  Himachal Pradesh Board of School Education – 1999
+
+CERIFICATIONS & TRAINING 
+
+· RHCE (Red Hat Certified Engineer) on RHEL 5.0
+
+· RHEL -7 system administration- Training
+
+· VMware vSphere: Install, Configure, Manage [V6.0] – Training
+· Sun Solaris 10 Administration – Training
+
+· CCNA(Cisco Certified Network Associate)
+· Radware Application Load balancer administration - Training 
+PERSONAL DOSSIER
+
+Date of Birth: 
+
+4th March 1985
+Permanent Address    
+Patta, Distt. Hamirpur, Pin Code: 176041(H.P.)
+
+Languages Known:     
+English & Hindi
+

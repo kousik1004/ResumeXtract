@@ -1,0 +1,258 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIKITA THAKUR
+C: +91 9949195116 | nikita.thakur6@outlook.com			                  
+
+PROFESSIONAL SUMMARY
+
+In-depth knowledge and 4 years of experience in SAP FI/CO implementation multiple projects, one of which is full implementation cycles from Blue Printing to Realization and Go Live.
+
+
+SAP FICO SKILLS
+
+General Ledger (FI-GL) and New GL:  Understanding the existing structure of G/L Accounts, Defining Account Groups, G/L Accounts for each Company code, Defining Fiscal year variant, Posting periods, Tolerance groups, Document types, Number ranges, Maintaining Field Status Variant and Posting Keys.
+Knowledge of Configuring New GL, Document split, zero balancing of documents in the New GL. Concept of Leading and Non-Leading Ledgers.
+
+Account Payable (FI-AP): Creating vendor Master, Specified number ranges, screen layouts,
+Configuring of different payment terms, Configuration and processing for Automatic Payment Program.
+
+Accounts Receivable (FI-AR): Creating Customer master, specified number ranges, screen layouts and Configuration for Dunning
+
+Asset Accounting (FI-AA): Define chart of depreciation, Assignment of chart of depreciation to Company code, Define Asset Class, Creating depreciation areas and Depreciation key. 
+
+Taxes: Define condition type, Check and change settings for Tax Processing, Define Procedure, Assign country to calculation procedure and Define tax code for sales and purchase.
+
+Controlling: Setting up of controlling area, Assigning company codes and creating CO version. Created Cost Centers, Primary Cost Elements, Cost Element Groups and Cost Centre Groups. Defining different Activity types and Statistical key figures. Creation of Different Internal Order Types, maintain planning and budgeting of Internal orders(CO-IO).
+
+
+WORK HISTORY
+
+INFOSYS LIMITED 
+March 2017 – Current
+Project Type       -      Migration and Support Project
+Client                  -      Transportation
+Region	            -     Europe 
+Environment       -      ECC 6.0
+
+Responsibility:
+
+· Consolidating France system to German system.
+· Leading a team of five.
+· Modifying the AS-IS scenario document to include FR configuration also.
+· Analysing the conflict at table level.
+· Configuring FR system finance settings in the German sandbox system and check for feasibility.
+· Client discussion to agree upon what configuration and settings must be finalized in German system.
+· Alongside, working on change requests. 
+
+INFOSYS LIMITED 
+November 2016 – March 2017
+
+Project Type       -      Implementation Project
+Client                  -      Pharmaceutical
+Region	            -      US
+Environment       -      SAP S/4 HANA 1610
+
+Responsibility:
+· Understanding the existing business procedures and documented the “AS-IS processes” mapped the processes onto the SAP system and prepared the “TO-BE processes” document.
+· Business Signoff for the development changes.
+· Configured document splitting. 
+· Configuration of AA (FI-AA)– such as Chart of Depreciation, account determination, screen layouts, asset classes.
+· Configuration of controlling area (CO), maintaining CO version, and maintaining number ranges for planning and actual transactions in CO and defining primary and secondary Cost Elements.
+· Includes an analysis of the current banking structure and interfacing with the Bank responsible for the ‘single source’ data transfer approach.
+
+INFOSYS LIMITED 
+March 2016 – October 2016
+
+Project Type       -      Enhancement Project
+Client                  -      Pharmaceutical
+Region	            -     US and UK
+Environment       -      ECC 6.0
+
+Across R2R, there were number of generic problems. The data on our source ledgers and systems (SAP) were not complete, correct, and consistent. So, to collate, consolidate and report correctly, we worked in implementing solution for 3 initiatives across the landscape.
+Providing real-time views of P&L, B/S and cash flows by Management Unit.
+Off-system manual manipulation to achieve Brand P&L statements.
+Project System was globally implemented, which provides the latest spend position for a project (actuals and commitments). 
+
+Responsibility:
+· Understanding the business requirements base and documenting the impact assessment and deep dive based on business processes.
+· Offshore FICO consultant for one of the initiative.
+· Initial impact analysis for custom fields that was to be added in coding block and table. And worked on derivation logic for custom fields. 
+· Prepare Functional Specs for RICEFW objects for SAP- FI/CO and coordinating development team for the development, testing and moving the changes to Production System. 
+· Coordinating with client for acceptable solution.
+· Implemented document splitting in FI-SL based on management unit dimension.
+· Created report painter report to view P&L by Management unit.
+· Preparation of LSMW data upload templates for creation of WBS template and WBS update.
+· Configuration related to field status variant to make custom field optional.
+· Configuration of SPL Field Movements, Project Code Masking, Project profile Creation, Creation of Project type, Defining Layout of WBS Element Detail Screens, Creation of user status and assigning it to Project profile.
+· Creation of new substitution and validation.
+· Involved in Unit Testing, System Testing, and UAT.
+· Used charm tool for uploading Functional Documentations and configuration.
+· Providing KT to support team for assurance unit testing by summarizing to be process.
+· Coordinated Interface related changes with PI team. 
+· Post Go-Live support to handle day to day ticket/issue. 
+
+INFOSYS LIMITED 
+November 2015 – February 2016
+
+Project Type       -      Migration Project
+Client                  -      Pharmaceutical
+Region	            -     NAM, APAC, ICON, EU, FRANCE, LATAM and IPR
+Environment       -      ECC 6.0
+
+Migrated the middleware of 250 FICO interfaces from AZIA (AstraZeneca Integration Architecture) to SAP PI.
+
+Responsibility:
+· Offshore Lead Consultants.
+· Initial impact analysis for custom programs that transfers the data to 3rd party system. 
+· Worked for 7 landscape were NAM, APAC, ICON, EU, FRANCE, LATAM and IPR was involved.
+· Reprocessing and IDOC generation.
+· Handling Interfaces (IDOC) issues and fixation.
+· Performing End to End testing.
+
+INFOSYS LIMITED 
+December 2014 – October 2015
+
+Project Type       -      Enhancement Project
+Client                  -      Pharmaceutical
+Region	            -      US
+Environment       -      ECC 6.0
+
+Purpose of this project was to replace regional charts of accounts with a new, single, unified chart of accounts globally. This includes master and transactional data updated through System Landscape Optimization (SLO).
+
+Responsibility:
+· Standard table and configuration analysis that relates to conversion of data by SAP through SLO. 
+· Checking report/table consistency before and after the SLO run in development testing, pre-production and production client.
+· Configuration related to chart of account, account group and retained earning account.
+· Creating new and updating the existing validation and substitution logic by replacing old G/L with new G/L.
+· Creation of new FSV in accordance with the newly created GL accounts
+· Documented the processes using standard templates.
+· Involved in cut-over activities and provided hyper care support three weeks and end support of 1 month. 
+· Providing KT to support team for assurance unit testing by summarizing to be process.
+
+INFOSYS LIMITED 
+June 2014 – December 2014
+
+Project Type       -      Support Project
+Client                  -      Pharmaceutical
+Region	            -     US and UK
+Environment       -      ECC 6.0
+
+Scope of this project includes supporting Pharmaceutical client based in UK and US.
+
+Responsibility:
+· Proactively monitoring all the SAP batch jobs and resolving the issue in case of failure.
+· Responsible for Production support and CR (Change Request) for FI- GL, AP, AR, AA.
+· Resolved issues relating to   Payment program
+· As Part of the Production Support Team worked closely with Technical and Functional consultants of other modules to resolve the issues as per priorities.
+· Handling daily tickets and mails in support, participate in regular meetings with other consultants and managers regarding the status and solution of issues per the severities.
+
+
+SKILL SETS 
+
+
+	ERP:
+	ECC 6.0, SAP S/4 HANA 1610 and SAP Solution manager 4.0
+
+	SAP R/3 Tools:
+	SAP-FICO(expert) SAP- NEW GL and ABAP/4(prior experience)
+
+	Tools & Utilities:
+	MS-Office
+
+
+
+
+
+TRAININGS & CERTIFICATIONS
+Infosys Global Education Center, Mysore		                        October 13 – June 2014 
+ 
+· Underwent Foundation training which included Software Development Life Cycle, Programming techniques - Java, PL/SQL, Analysis of Algorithms along with assignments and minor project for each module and successfully completed a comprehensive test covering all the modules. 
+· Received stream specific training on SAP-ABAP and SAP-FICO. 
+· Received soft skills training for Business Communication which included Written Communication Skills, Articulation Skills, Presentation Skills, Effective Meetings and Group Discussions. 
+· Infosys Certified SAP FI and SAP CO.
+
+
+
+
+
+
+
+
+
+EDUCATION
+
+B. TECH in Civil Engineering from Vasavi College of Engineering
+Hyderabad | 2013
+7.3 GPA
+
+Board of Intermediate Education from Sri Chaitanya
+Hyderabad | 2009
+93 percentage
+
+Secondary School Examination from Nalanda
+Hyderabad | 2007
+92 percentage
+
+
+DECLARATION
+
+I hereby declare that all the information provided here is correct to the best of my knowledge and belief and I promise to abide by all the norms laid down by your esteemed organization.
+						                                                                                                                            	        											 
+
+								     Nikita Thakur
+
+
+
+
+
+
+

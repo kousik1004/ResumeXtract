@@ -1,0 +1,174 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HarikaMadhirala
+madhirala.harika@gmail.com | 8978535883
+
+EDUCATION
+SVUNIVERSITY
+BTECH IN MECHANICAL ENG.
+Expected May 2015 | Tirupathi, AP
+Cum. GPA: 8.03
+
+NARAYANA JUNIORCOLLEGE
+BOARD OF INTERMEDIATE EDU.
+Expected May 2011 | Tirupathi, AP
+Cum. GPA: 9.77
+
+RAYALASEEMAPUBLIC SHL.
+BOARD OF SECONDARY EDU.
+Expected May 2009 | Tirupathi, AP
+Cum. GPA: 9.38
+
+SKILLS
+Programming
+Python
+Data Analysis and Visualization
+Pandas•Numpy •Matplotlib
+• Seaborn • Folium •Dask
+ML ToolBox
+Sklearn •NLTK • KERAS
+
+OPERATING SYSTEMS
+•Windows
+• Linux
+
+PERSONALDETAILS
+9/316,MangalamQuarters
+Tirupathi, Chitoor dst.
+Andhra Pradesh - 517507
+PHONE
++918978535883
+MAIL ID
+madhirala.harika@gmail.com
+
+EXPERIENCE
+Worked as Senior Systems Engineer with 3 years of Hands-on experience in Data
+Analytics and Visualization
+Started my Professional career designated Systems Engineer at Infosys back in 2015
+September
+
+PROJECTS
+IATA PASSENGER SURVEYANALYTICS
+
+• Provided passenger details and reviews, predictwhether a passen-
+ger would choose to fly in the same airline again or not .
+
+Contribution:
+
+• PerformedData Processing and Uni-variate analysis to find themost
+influencing parameters
+
+• Applied GridSearchCV to find best Hyper parameters and built Random Forest
+Machine Learningmodel to predict the results
+
+WATERDEMANDFORECAST
+
+• To forecast the water demand using Historical and weather data.
+Built the model onMachine Learning Regression algorithms to
+predict the water demand.
+
+Contribution:
+
+• Performed EDA on the extracted data to understand the structure of
+dependent variables
+
+• Built Linear, SVR and Random Forest regressionMachine learningmodels to
+forecast the results
+
+CUSTOMERCHURNPREDICTION
+
+• Provided customer details, predict if the customer will churn or
+not which can be used for further business analysis.
+
+Contribution:
+
+• PerformedData Processing on the extracted data
+• Applied GridSearchCV, Random SearchCV to find best Hyper Parameters and
+Built the model on Logistic Regression, SVM and Random ForestMachine
+Learning algorithms to predict the results
+
+• Provided important features in predicting the churn of a customer for Business
+analysis
+
+1
+
+mailto:madhirala.harika@gmail.com
+
+
+INDEPENDENT PROJECTS
+
+TAXI DEMANDPREDICTION
+
+• To predict the demand of taxi for next 10min interval from provided current time in different regions of
+Newyork city which will be accessed by end user(Taxi driver)
+
+• Applied Dask, Folium packages for handling large data and for visualizations
+• Applied various Machine learning Regression models like Linear, Random Forest, Xgboost regression
+and compared themodel performance
+
+PERSONALIZEDCANCERDIAGNOSIS
+
+• To predict the probability of givenGene and variation data belonging to different categoricalMutations.
+• AppliedMulti Log loss to get the exact probabilities of gene data belonging to eachMutation
+• Applied various Machine learning Classification models like KNN, Naive bayes,Logistic, SVM and ran-
+dom Forest Classifiers and compared themodel performance
+
+SENTIMENTANALYSISOFAMAZONFINE FOODREVIEWS
+
+• Performed variousVectorizer techniques like TFIDF,BOW,Word2Vec andTfidfweightedword2vec for
+featurization of customer reviews
+
+• The featured dataset was then trainedwith variousML algorithms like Logistic Regression, Linear SVM,
+RBF SVM, Random Forest, XGBoost and compared the performance of model
+
+ACHIEVEMENTS
+• Promoted to senior Systems Engineer in 2007 September
+• Awarded with Best Player of the team in the appraisal cycle(2017-2018)
+
+2
+
+
+	Education
+	SV University
+	Narayana Junior College
+	Rayalaseema Public shl.
+
+	Skills
+	Operating Systems
+	Personal Details
+	Experience
+	Projects
+	Independent Projects
+	Achievements
+

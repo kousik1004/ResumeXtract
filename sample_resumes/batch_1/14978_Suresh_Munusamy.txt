@@ -1,0 +1,311 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suresh Munusamy			                                                                   
+Mobile: 91 – 8056063798                                                     
+Login2shivam@gmail.com
+
+
+Professional Summary
+
+I have 5 years of IT industry as Oracle DBA on UNIX and Windows platforms with Oracle 10g, 11g and Data guard, Installation, Configuration, Migration, Sizing and Space management, Backup and Recovery and troubleshooting. 
+ 
+Technical Summary 
+ 
+· 4+ years of experience working with Oracle DBA
+· 1 year Onsite Experience in Singapore. 
+· Implement 2-Node RAC id different UNIX platforms and installing Oracle11g RAC  
+Software with ASM and file system
+· Installing and configuring Oracle11g grid and Data Guard maintenance in large environments.
+· I have knowledge conflicts between the target and source database in Goldan gate 
+· I have knowledge of goldangate on 11g database for unidirectional
+Replication
+· Supporting production/development and testing databases on 24/7 basis.
+· Installation of 10g and 11g servers on Linux and Windows OS environments.
+· Exposure in Table space Administration, User Management, Index Monitoring.
+· Experience in Logical and Physical Backup and Restoration
+· Good exposure in performance tuning of databases, database cloning & Database Migration.
+· Experience DB refresh and Data guard implementation and support.
+· Experience in database backup using Hot/Cold and Logical Backup.
+· Developed RMAN scripts for database backups ( Full / Incremental / Archivelog / Cold backup)
+· Database cloning and refresh using RMAN recovery.
+· Creation / Maintenance of roles, groups as per user category, application use.
+· SQL tuning using explain plan, auto trace and Tkprof utility. 
+· Maintaining and monitoring logical and physical structure of database.
+· Experience of monitoring Index usages, rebuilding techniques.
+· Configured Data Guard (Physical Standby database) for the production database and tested for Switchover, Switchback, Activating the Standby to Primary.
+· Configure LISTENER & TNSNAMES files & Troubleshooting.
+· Administering ASM Instances and Disk Groups.
+· Monitoring data guard activities plan for switchover AND switchback as and when required. 
+· Took Hot and Cold backups, Performed Full and Point in Time Recoveries using RMAN, investigated causes for failures and resolved them.
+· Experience in Database installation, up gradation and migration.
+· Experience in applied oracle CPU patches and PSU patch set   
+
+Work Experience  
+
+	Organization Name
+	 Designation 
+	   Location
+	Year of Experience
+
+	HCL Technologies
+	 Senior Specialist 
+	    Chennai
+	 ( Aug 2016 – Till date ) 
+
+	Nanosoft Technologies 
+	 Database Analyst
+	    Chennai
+	 (June 2011 – Aug 2016)  
+
+
+
+ Education Qualification    
+
+	Degree
+	Year
+	              Board/University
+	     Percentage
+
+	MCA
+	2009
+	     SRM UNIVERSITY (Regular Full Time)
+	85.01 %
+
+	BCA
+	2005
+	     MADRAS UNIVERSITY (Regular Full Time)
+	70.10 %
+
+
+
+Technical Skills
+
+	· Database                  : Oracle 10g ,11g , SQLSERVER 2008,12
+· Programming            :  SQL,TSQL,SSRS.
+· Database Tool           : TOAD,GOLDAN GATE,RAC
+· Monitoring Tool        : HP Service Manager
+· Tools & Utilities        : Data pump ,SQL Loader , TKProd  ,Putty , Win-SCP ,Xstart
+· Operation System      : Windows server 2008 and XP/Vista/7/Linux
+· Oracle Product          : GOLDAN GATE, ASM, RMAN,  Export/Import, Data Pump, SQL*Loader
+
+
+
+
+
+
+
+Project Experience
+
+HCL Technologies
+
+	Project Type
+	PepsiCo  , USA
+	
+	
+
+	Duration
+	  Sept 2016 – Till date 
+	   Role 
+	Oracle  DBA L2
+
+
+
+
+
+
+Responsibilities: 
+
+
+· 24/7 on call support for production databases.
+· Proactive database monitoring and maintenance.
+· Experience with working on various UNIX platforms (Solaris, HP_UX, AIX,Linux) windows sever 2003/2008/2012 with Oracle (9i, 10g, 11g )  Data Guard and RMAN
+· Database tuning and performance monitoring.
+· Monitoring the database for CPU utilization, Blocking Sessions and killing of requested user processes. 
+· Creations of oracle users, oracle roles, granting privileges and profiles to the users
+· Creation of tablespaces, Adding and resizing datafiles
+· Performing all sorts of recovery like recovering from missing or corrupted data files, redo log, control files, and recovery from block corruption etc.
+· Experience performance tuning, alert log monitoring, and solving problem related to storage, indexing, SQL Queries, DML Operations.
+· Experience Full Database/Schemas/Table refresh using Export/Import.
+· Experienced in Database cloning and relocation activities.
+· Rebuilding of Indexes for better performance, maintenance of Oracle Database.
+· Taking Backups on scheduled time and monitoring scheduled Backups through RMAN
+· Took Hot and Cold backups, Performed Full and Point in Time Recoveries using RMAN, investigated causes for failures and resolved them.
+· Data Guard to ensure high availability, data protection and disaster recovery for enterprise data and monitored regularly whether primary and standby databases are in sync and clearing the backed up archive log files after confirming that they are applied on the standby database.
+· Alerts management which includes archive log destination monitoring, tablespace monitoring, DB & Listener down issues
+· Deploying database related monitoring scripts on the servers to identify the issues before affecting the database services and take necessary actions
+· Generating stats pack, AWR reports and scheduling stats gathering
+
+
+Nanosoft Technologies
+
+	Project Type
+	Thenas cool Riser  , Singapore
+	
+	
+
+	Duration
+	( Oct 2015 – Aug 2016)
+	   Role 
+	Oracle  DBA 
+
+
+
+
+
+
+Responsibilities: 
+
+
+· 24/7 on call support for production databases.
+· Proactive database monitoring and maintenance.
+· Troubleshooting several issues related to Tablespace, Data file, Recovery etc.
+· Administration and support of Application teams involving user creation, disk space monitoring, managing user privileges etc.
+· Maintaining and Monitoring ASM instances.
+· Configuring and managing Physical standby databases.
+· Regular Monitoring Alert log Files and trace files on Day to Day Basis.
+· Analyzing the Tables and Indexes on performance base regularly.
+· Monitoring space utilization of Tablespaces.
+· Managing Undo Tablespaces, Redo Logs, Control files and Archive logs. 
+· Performing physical backups using RMAN utility.
+· Extensively using DATAPUMP and Export /Import utilities for logical backups.
+· Performing database cloning using RMAN.
+· Performed Full and Point in Time Recoveries using RMAN, investigated causes for failures and resolved them
+
+	Client
+	 Shri Chakra Logistics ,INDIA
+
+	
+	
+
+	Duration
+	36 Month ( June 2012 – Oct 2015 )
+	   Role 
+	 Oracle DBA
+
+
+
+
+
+
+
+
+
+Responsibilities:
+
+· Backup and Recovery by Export / Import / Data pump of Table, schema, full database level.
+· Creation of users and maintaining them with Quota Maintenance
+· Allocation of Roles, Privileges and Profile.
+· User, Tablespace Management in ASM technology and File System Management.
+· Monitoring the database for CPU utilization, Blocking Sessions and killing of requested user processes. 
+· Created and Maintained Users and Roles with appropriate privileges and profiles.
+· Creation of Standby databases.
+· Creation of Tablespaces, User Management.
+· Planning for Backup Strategy.
+· Creation of Schema with Quota maintenance and roles and privileges.
+· Creating Profiles and setting Password management.
+· Check Alert Log errors and make necessary actions to rectify them.
+· Automatic Scheduling of logical backup and Update statistics.
+· Monitoring and performing RMAN backups.
+· Cloning databases using RMAN.
+· Performed Hot and Cold Backups, Logical Backups RMAN Backup and recoveries.
+· AWR and ADDM report generation.
+· Tablespace management in ASM technology.
+· ASM instance and Disk group management.
+· Install oracle and apply patches to upgrade oracle.
+· Monitoring of Export and RMAN Backup on daily basis.
+· Refresh of development databases & Recovery of lost objects by export and import.
+· Cloning and duplicating of databases by clod backup (Using Control file re-creation).
+· Fixing Archive gaps and Long Archive gaps.
+· Data guard management (Stand-by database) under switchover and failover
+· Configuring Oracle Data Guard for Physical Standby and also handled concepts like transferring Online RLF to standby machines to make sure zero percent data loss.
+
+
+
+
+
+
+
+
+
+	Client
+	Fright System  
+	   Role 
+	Database  Analyst
+
+	Duration
+	12 Month  (June 2011 – May 2012)
+
+	      
+	 
+
+
+
+Responsibilities:
+
+· Successfully migrated the data from SQL Server 2005 to SQL Server 2008/R2
+· Created reports using SSRS from OLTP data sources and deployed on report Server. 
+· Created Sub-reports, Drill-down reports, Drill-through reports, Summary reports and Parameterized reports in SSRS.
+· Performed Backup and Recovery tasks in SQL server 2005 using SQL server Management Studio.
+· Responsible for providing application development support for Query Optimization, Stored Procedures, Triggers, Indexes etc. for multiple development application
+· Implemented and maintained Database security (creates and maintains users, roles and Assign privileges.
+·  Managed data warehouse projects improvement and growths.
+· Performance monitoring, Alert Log monitoring and backup monitoring.
+· Created tools and processes to automate jobs and monitor Database performance tunings.
+
+Personal Information
+
+· Date of Birth       	  : 16-04-1985
+· Marital Status     	  : Single
+· Languages         	  : Tamil, English
+· Nationality         	  : Indian
+· Passport No         	  : H3981290
+· Passport Validity 	  : 2019
+· Skype Name      	  : suresh mnsamy
+· Resident Address 	  : 16/25 , Reserve Bank Colony, Chrompet, Chennai

@@ -1,0 +1,222 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+
+
+RESUME
+
+RAJESH KOLLURU	
+E-mail: rajeshkolluru.r@gmail.com
+Rajesh.kolluru@cognizant.com
+
+Mobile: 9840344737
+
+Objective:
+
+In a conventional growing environment and pool of opportunities to integrate and exploit my analytical, problem solving, technical, testing and knowledge in software skills through design and development of the innovative software applications and to become an excellent software professional.
+
+Experience Summary:
+
+· Currently Working at Cognizant Technology Solutions (CTS) from September 2014 to till date.
+· Worked as Mainframe Developer at HCL Technologies from Sep 2010 to August 2014.
+
+Skill Summary:
+
+· Having overall 7.3 Years of professional experience in Software Development Life Cycle on IBM Mainframes applications
+· Having strong technical knowledge and working experience on COBOL, JCL, VSAM, DB2 and CICS
+· Excellent working knowledge of mainframes tools like File-Aid, Endevor, SPUFI and PANVALET.
+· Strong working knowledge on SSIS and SSRS.
+· Having good knowledge on production support environment like Batch monitoring, fixing batch issues
+· Good working knowledge on both Banking and Insurance domains.
+
+Educational Qualification:
+
+· Bachelor of Technology in Electronics and Communications engineering from Jawaharlal Nehru Technological University (JNTU).
+
+Technical Skills
+
+	Operating Systems
+	MVS OS/390, z/OS, Windows 95/98, Windows NT, Unix
+
+	Languages
+	VS COBOL II, JCL, SQL, EASYTRIEVE, SSIS & SSRS
+
+	Databases
+	DB2 and VSAM
+
+	Tools & Utilities
+	QMF, SPUFI, File-Aid, Endevor, Xpediter, Code manager, Connect Direct, OPC scheduler, SAR, SM7, CA7, JIRA and Service Now
+
+	Domain Knowledge
+	Banking  and Insurance
+
+
+
+
+
+
+
+
+Project Details:
+
+
+Project #1
+Title				:	Special Billing System (SBS)
+Client				:	CHUBB Insurance
+Duration			:	September 2014 – Till Date 
+Operating System		:	MVS, z/OS
+Environment		           : 	COBOL, JCL, VSAM, DB2, PANVALET, SQL,
+					File-Aid, CA7, SSIS & SSRS
+
+Project Description:
+
+Special Billing System (SBS) Application is developed to process claim transactions, capture and maintain billing transactions and to generate the invoices for the ACE clients under ARM (Ace Risk Management) and ESIS Causality.
+
+SBS will receive the feeds from CDW (both registered claims & and update claims), Bank Feed (Wells Fargo, Mellon, Royal Bank of Canada, etc.), ACES (client set up information), CRIS (Account structure) and other inbound applications during daily batch cycles. Frontend application is developed in Power Builder (PB) and DB2 is the backend database. Batch programs are written in VS COBOL will run during batch cycle to process the billing transactions. VSAM files were used for achieving old data.
+
+Data keyed by the users from frontend will be stored in SQL tables during day, will be loaded to db2 tables using SSIS jobs. Mainframe batch jobs will process the data and the updated data will be copied back to SQL and COGNOS database using SSIS jobs to maintain data in sync. COGNOS database will be used for reporting purpose. All the service requests and maintenance tickets will be created in JIRA.
+
+Responsibilities:
+
+· Supporting daily night batch cycle and fixing batch issues.
+· Will be doing Impact analysis and providing estimates for the service requests which were prioritized in JIRA.
+· Design document preparation, Coding and preparing UTR.
+· Running SIT/UAT batch cycles and fixing defects if any which were raised by QA.
+· Implementing the changes into production and fixing any post production defects.
+· Preparation of WSR, monthly dashboard, supporting documents for Service Audits.
+
+
+Project #2
+Title				:	Local Change
+Client				:	DLG - RBS
+Duration			:	July’13 – August 2014 
+Operating System		:	MVS, z/OS
+Environment		           : 	COBOL, JCL, VSAM, DB2, Easytrieve, CICS, ENDEVOR, 
+					File-Aid, Xpediter and Code Manager.
+
+Project Description:
+
+DLG is the largest Insurance group in UK, which provides various types of insurance products like Home, Motor, and Pet etc. In Local change project, I have implemented modules RBS NW Rationalization, NBS CIS Annual Refresh, Bristol Reports and UIS Toggle issue.
+RBS NW Rationalization: All the active policies from the policy file were read sequentially and extract the relevant information from Client file using the client key. This extract file will be sent to the target server via connect Direct. 
+NBS Annual CIS Refresh: Yearly extract file generated with all the customer information to ensure that data is accurate during daily feed.
+Bristol Reports: Layout changes to the easytrieve reports 
+UIS Toggle Issue: Scheme code validations between standard and enhanced policies during the policy creation through online. 
+
+Responsibilities:
+
+· Requirement Analysis and design
+· Coding and Unit Testing
+· Capturing Test results and creating UTR.
+· Support for System Integration Testing
+· Project related Pre and post implementation activities.
+
+
+Project #3
+Title				:	Credit Management Loans - Development
+Client				:	Lloyds Banking Group (LBG)
+Duration			:	January 2012 – June 2013
+Operating System		:	MVS, z/OS
+Environment		           : 	COBOL, JCL, VSAM, DB2, Easytrieve, CICS, ENDEVOR, 
+					File-Aid, OPC scheduler, Connect Direct, SAR
+
+About Lloyds Banking Group: Lloyds TSB Group plc was renamed Lloyds Banking Group plc on 19th January 2009 for the following acquisition of HBOS plc. The company provides its services through five divisions namely: Retail, Corporate, Insurance & Investment, International, Treasury and Asset Management.
+
+About the Project:
+Credit Management Loans project process full life cycle of personal loans in Chester mainframe applications. In addition to the applications we have implemented several changes in the system like Gold, Payment Protection Insurance (PPI), ITRAP and SPID changes for CMT customers. These changes are mainly to extract the required reports from DB2 tables and archived files daily and sending to General Data Warehouse (GDW) via connect Direct for further processing.
+
+Responsibilities:
+
+· Worked as a senior developer in the team to guide them technically, prioritize & assign the tasks to team members by coordinating with onshore team.
+· Involved in Impact Analysis, Technical Design, and coding and test script preparation.
+· Warranty support to the implemented changes.
+· I have worked as Configuration control in the team to maintain the project artifacts.
+
+
+Project #4
+Title				:	Credit Management Loans 
+Client				:	Lloyds Banking Group (LBG)
+Duration			:	October 2010 – December 2011 
+Operating System		:	MVS, z/OS
+Environment		           : 	COBOL, JCL, VSAM, DB2, Easytrieve, CICS, ENDEVOR, 
+					File-Aid, OPC scheduler, Connect Direct, SAR
+
+About the Project:
+Credit Management Loans project process full life cycle of personal loans in Cheater mainframe applications for Sainsbury, Bank of Scotland (BOS), Halifax and Lloyds bank customers.
+We have provided an end to end support for the applications.
+                 Customer details will be entered through online, Strategy ware application is loaded with set of rules to check the loan eligibility. Agreement numbers will be generated by New Business System and will send to the FTC/Enquiry for the loan process. Agreement numbers with missed payments will be sent to FBS collections. Daillers will send the alerts to the customers.  
+
+Responsibilities:
+
+· Resolved batch issues during Live Batch support.
+· Analyzed programs, Implemented several changes and problem records
+· Essential maintenance like parameter changes, extracting account level reports from system as per business requirement 
+· Weekend support for CMT batch
+· Weekly status reports to the business
+· Preparation of Metrics, Team Utilization documents in Organizational level for Quality purpose
+
+Value add to the customer:
+
+In addition to generating several dairy reports manually from the archived files will be time consuming and will take one person effort daily. These reports will be generated by submitting JCL each and every time and the Easytrive programs are set up to generate the reports. 
+             This manual submission was automated in such a way by providing the TSO command.
+Now some screen will be appeared asking for agreement number and email to be send.
+
+
+Declaration: 
+
+I do here by confirm that the information given in this form is true to do the best of my knowledge and belief.
+
+										Thanks & Regards,
+										    Rajesh Kolluru
+
+
+Rajesh Kolluru		Page 1 of 4

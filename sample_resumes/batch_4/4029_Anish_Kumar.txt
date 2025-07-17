@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anish Kumar
+Phone: 9686516343
+Email: kr.anish063@gmail.com
+
+Professional Summary:
+Retail and e-Commerce Analytics professional with 5.7 years of experience in machine learning, consumer insights and retail/e-commerce domain. Skilled at Machine-learning Algorithms, Business/Data Analytics, problem solving using Statistical/ML techniques, and devising data-driven strategies for business development teams.
+Key Competencies:
+· Hands on experience in working with ML Algorithm such as Regression/Classification/Natural Language Processing(NLP).
+· Implemented ML algorithms for Anomaly Detection, Sentiment Analysis, Market Basket Analysis, 
+ Intent classification, Named Entity Recognition.
+· Experienced in delivering analytics solutions using various quantitative and statistical analysis.
+· Worked on various data wrangling/preprocessing technique such as Up-Sampling/Down-Sampling, Normalization/Standardization etc.
+· Extensive experience in analyzing and interpreting complex raw data in retail/e-commerce domain.
+· Strong problem-solving and analytical abilities and ability to work independently and in small teams.
+
+
+Key Skills & Tools Used:
+· Machine Learning Algorithms:
+     Naive Bayes, Regression, Classification, Random Forest, Clustering, Neural Network, Word2vec.
+· Scripting and Statistical Tool: 
+Python, R
+      (Libraries Used:  Scikit-Learn, Pandas, Keras  ,Gensim, Keras , Spacy ,RASA etc.)
+· Statistics and Machine Learning: 
+Good Knowledge various statistics and ML techniques such as Descriptive Statistics, Supervised-Unsupervised machine learning techniques such as Regression/Decision Tree/Clustering etc.
+· Visualization Tools: QlikView/Tableau
+· Query Languages: MySQL
+
+
+Work Experience:
+Senior Analyst, Accenture (Bangalore)
+October/2017-Present
+
+Key Projects Undertaken:
+Project1:
+Client: British Telecom
+Objective: Classification of email queries into relevant Categories. Assignments of Classified email to human agents to resolve the query and providing auto resolution of queries for certain set of categories.
+Solution Provided: Using Machine Learning algorithms built a model to classify emails, wherein incoming email query was classified and assigned automatically to the respective specialist agent for resolution.
+Project 2:
+Objective: To develop a proof of concept for Anomaly Detection using statistical techniques.
+Solution Provided: Developed a statistical model to identify anomaly(outliers) on data pertaining to Tech Support related queries from users.
+Project 3:
+Client: Campbell Soup LLC
+Objective: Extracting relevant Custom Named Entities(NER) from a text data(email) to provide payments status of invoices.
+Solution Provided: Built a deep learning model using Spacy to identify entities present in the email queries (text data) and extracted relevant information such as Invoice Number, Due Amount, Invoice date etc. Based on extracted entities provided auto resolution in the form of invoice payment status.
+Project 4:
+Objective: To Identify the correct Intent and Entities from user’s queries and build a Conversational Bot as a Virtual Helpdesk to answer tech related queries of users.
+Solution Provided: Created a conversational bot to replace human managed helpdesk team to provide answers to users on various range of tech related queries.
+Data Analyst, Flipkart (Bangalore)
+March/2015-Oct/2017
+
+Roles and Responsibilities:
+· Developed Aspect Based Sentiment Analysis to gain insights from customer reviews and ratings data.
+· Implemented Market Basket Analysis using Apriori Algorithm in ML to gain insight of customers behavior and promote cross category sales of products.
+· Worked on various Customer Retention (Cohort Analysis) and Customer profiling/segmentation analysis techniques.
+· Analyzed Multidimensional data such as Sales/Payment/Web Traffic data to create timely, relevant and data driven actionable insights 
+
+Data Analyst, Tesco HSC (Bangalore)
+Feb/2014 - March/2015
+
+Roles and Responsibilities:
+· Analysis of sales data for various stores formats to generate insights.
+· Provided complete technical and analytical support to the team in terms of analyzing, manipulating, extracting and managing data using different Data management tools.
+· Automated manual processes to run automatically and deliver results on a recurring basis.
+· Supported all business functional components.
+
+Operations Analyst, Altisource Business Solution (Bangalore)
+Feb/2012 - March/2013
+
+Roles and Responsibilities:
+· Have been part of executive management business reporting and analysis team.
+· Worked with different teams to understand operational issues and identify operational inefficiencies.
+· Understand the business in detail and track operational performance through various reports.
+· Done Quality analysis for various clusters within the business.
+· Helped Operations teams with SQL queries for data extraction as well as writing VB scripts to Automate Excel reports.
+
+Education:
+Bachelor of Technology-ECE | 2011 | ICFAI University | Dehradun
+
+

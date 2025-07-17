@@ -1,0 +1,171 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nagarajan G        
+                                                                                                                     E-Mail:nagarajantamzhi20@gmailc.om 
+Contact:   +91-8951402758
+
+
+SYNOPSIS
+
+· Diploma in Information technology, NTTF-Bangalore with around 5 years of experience as Software Developer.
+· Experience in Asp.net,  SQL SERVER 2012, Windows Azure, Win forms, T-SQL, Visual Studio 2013,Webservices, WCF
+· Experience in Writing complex Stored Procedure, Function, Indexing, Joins, Views, Azure Federation, Linq 
+· Excellent analytical and problem solving skills with good knowledge of SDLC
+· knowledge in TFS
+· Proficient in Asp.Net, C#, JAVASCRIPT, JQUIRY
+· Experience working in Non-Prod and Prod environments 
+· Experience on Build and Deployments by using MS build and performing testing activity
+· Experience on both front end and back end application
+· Responsible for the deliverables bound to the time lines & Knowledge Transition for new resources.
+· Ability to manage, co-ordinate, cooperate and adapt in any team as an efficient team player.
+· Excellent Communication and Presentation Skills, Quick Learner, Self Starter, Team player.
+
+
+Technical Skills
+
+· Data Base: Microsoft Sql Server 2014, Windows Azure
+· Design Tool: Expression Blend
+· Operating Systems: DOS, WINDOW XP Professional, Windows 7.
+· Programming Languages: C#.Net,T-SQL, XML,XAML,Webservices,WCF,selenium with C#.
+· Scripting Languages: Java Script.
+· Version Control: TFS
+· Build Tool: MSBuild
+
+WORK EXPERIENCE         
+
+Experience as a .Net Developer and Designer
+
+Previous Company                    Software Developer – ISSL-CPG                                       01/2012 to 09/2015
+
+Currently Working in               Software Programmer-Fore Support Service                     10/2015 to Till date
+                                                
+
+PROJECTDETAILS
+ 
+Fore Support Services India Pvt Ltd:
+
+I. Title: Authpal 1.0
+Project Details: Medical billing domain – Development and Support – Client access
+Platform:  ASP.NET, C#, Windows application SQL Server 2012, Web Services. Report viewer, Azure , IMacro tool, TFS
+Team Size: 6
+
+Description:
+          Authpal™ Application is a Multi-tenant SaaS web health insurance application designed to automate Prior authorization and coverage determination with inbuilt workflow. Authpal is a web-based application that means you will access it via web browser. The application is hosted at secure data center and provided to you as a service. It contains several module and sub-module which make Authpal user easy to get Prior auth and eligibility of patient insurance. Authpal make payers and patients information highly secure and mission critical communications.
+
+
+Role: As a programmer 
+
+· Designed and Developed Various Modules and Reports(Daily reports, Client access reports)
+· Involved in fixing bugs by using bugzilla and Support activities related to application.
+· Report and Report Model creation for clients, using Crystal Reports
+· Creating Database and stored Procedure 2012,Functions,Shard
+· Creating Web Services Maintaining Web Services 
+· TFS Software Configuration Management processes 
+
+
+II. Title: HL7 Inbound 1.0
+Project Dtails: Medical billing domain – Development and Support – Client access
+Platform : C#, Windows services, Mirth, SQL Server 2012, Azure, Linq, TFS
+Team Size: 3
+
+Description:
+Inbound HL7 messaging operation that receives the HL7 messages from an external system by using Mirth Channel queue, provides sequence numbering.
+
+Role: As a programmer 
+
+· Developed windows service
+· Creating tables and stored Procedure 2012,Functions,Fedrations
+· Involved in fixing bugs by using bugzilla and Support activities related to application.
+
+
+III. Title: Authorization 1.0
+Project Dtails: Medical billing domain – Development and Support – Client access
+Platform : C#, Windows services, SQL Server 2012, Azure,TFS
+Team Size: 2
+
+Description:
+Authorization used to capture information from payer portal and validate with patient information to get valid information to process further. Inquiry, Status check and Auth submission can be done by using this project.
+In this model we have future to capture website screenshot and store in azure storages. This can process multiple transactions at a time in back end process 
+   
+
+Role: As a programmer 
+
+· Developed windows service
+· Creating tables and stored Procedure 2012,Functions,Fedrations
+· Involved in fixing bugs by using bugzilla and Support activities related to application.
+· Used Blob Storage to store the documents.
+
+ 
+
+IV. Title: Airtel
+Project Dtails:Telecom domain – Development and Support – Client access
+Platform : C#, Asp.net, SQL Server 2012	
+Team Size: 2
+
+Description:
+This Application used to track details new vendors registration, user registration, port information and cancelation with reasons. 
+It will help to reduce maintaining manual documentation and help vendors to pull reports from there system when it required.  
+   
+
+Role: As a programmer 
+
+· Creating tables and stored Procedure 2012.
+· Involved in fixing bugs and Support activities related to application.
+
+
+PERSONAL VITAE:
+
+  Date of Birth	:  20th Jan 1991
+  Pan Card       	:  AWQPN4273N
+Address	:  Nagarajan G, S/O:P Govindaswamy. Post: latteri Tq:katpadi Di:Vellore.
+Linguistics	:  English, Tamil, Kannada and Malayalam.
+
+
+

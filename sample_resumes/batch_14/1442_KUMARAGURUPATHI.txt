@@ -1,0 +1,450 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+N.KUMARAGURUPATHI
+No. 57/2, Subramaniya Mudali Street, 1st Floor, West Saidapet,Chennai-600015
+
+Mobile No: +919489113684   E-mail
+: gurupathi89@gmail.com
+TECHNICAL SKILLS
+	· .Net Technology
+	:
+	Asp.net,C#.net,VB.Net, Web services, Windows services
+
+	· Web Technology
+	:
+	HTML, JavaScript,Jquery, CSS 
+
+	· Mobile Technology
+	:
+	Android, ionic.
+
+	· Operating Systems 
+	:
+	Windows XP/ 7/8.1.
+
+	· GUI Tool                        
+	:
+	Visual Studio 2008/2010/2012/2015, Eclipse Android SDK.
+
+	· Database
+	:
+	Ms SQL Server 2005/2008, MySQL.
+
+	· Domain
+
+	:
+	Healthcare, e-commerce, Retail, BFS
+
+
+EXPERIENCE SUMMARY
+· An IT consultant with 6 years and 1 month of experience in Asp.Net, C# .Net, mobile application development and implementation.
+· Strong problem analysis, problem-solving, good communication skills and an inspiring team coordinator and team player.
+CAREER PROFILE
+· Working as a Software Engineer at Foray Software Private Limited from May 2016 to till date (1 year and 5 month). 
+
+· Worked as a Programmer at Apollo Hospitals Enterprise Limited from August 2015- March 2016 (8 months). 
+
+· Working as a Programmer in Medi-infotec April 2014- July 2015 (1 year and 3 month).
+· Working as a Senior Engineer in Feeders Technologies from June 2011 –March 2014
+
+(2 years and 9 months).
+
+ACADEMIC DETAILS
+· B.Tech (Information Technology) from Sudharsan Engineering College, Anna University, Tiruchirappalli, with 71%, during 2008-2011.
+· DECE (Electronic and communication Engineering) from Mohamed Sathak   Polytechnic College , Kilakari, with 78% aggregate, during 2006-2008.
+· H.Sc (State Board) from Kshathria Nadar Hr.Sec.School, Kamuthi, with 63.9% aggregate,during 2005-2006.
+· SSLC (State Board) from Kshathria Nadar Hr.Sec.School, Kamuthi,with 78% aggregate, during 2003-2004.
+
+ENGAGEMENT OVERVIEW 
+Project 1:
+Project Name
+
+: ARRO
+Client Name
+
+: Bank of Montral, US
+Team Size
+
+: 5
+Role
+
+
+: Programmer
+Environment
+
+: C#.net, MVC, Ms Sql Server 2008
+Description
+: ARRO (Account Review Regulation 9 Oversight) is a web based application. It is used to review all the individual, relationship and related accounts once per the year. ARC (Account Review Committee) is review all the accounts exception’s commands based on the regulation 9 and they are providing valid response for approving the accounts. This application has 2 login types. There is 1.Users, 2. System admin.
+
+
+Users able to view the configured PMs accounts exception and provide the proper commands, create relationship accounts. System admin Create and modify the users, create and modify the relationship accounts, configure the user PMs and ARCs.
+Responsibilities
+: Analyzing and Understanding the project requirements.
+
+Developing optimized code to implement the expected functionality.
+
+Reviewing Test Cases and Test Conditions to ensure all the positive and negative scenarios and functionalities are captured. 
+
+Creating the Stored Procedure and SQL queries.
+Project 2:
+Project Name
+
+: CHIPS
+Client Name
+
+: Bank of Montral, US
+Team Size
+
+: 3
+Role
+
+
+: Programmer
+Environment
+
+: VB.net, Asp.Net, Ms Sql Server 2008
+Description
+: CHIPS (Client Harris Investment Policy Statement) is a web based application. It is used to create and validate IPS (Investment Policy Statement) document for individual and relationship accounts. Relationship accounts details and users access come from the ARRO web services. This application has 2 login types. There is 1.Users, 2. System admin. 
+
+Users able to access the configured PMs open accounts. System admin able to access all the PMs open and closed accounts. System admin view the IPS count by manager report and Audit report based on the PM selection. System admin have access to change the PM accounts. And night job synchronized the T3K and CHIPS PMs accounts.
+Responsibilities
+: Analyzing and Understanding the project requirements.
+
+Developing optimized code to implement the expected functionality.
+
+Reviewing Test Cases and Test Conditions to ensure all the positive and negative scenarios and functionalities are captured. 
+
+Creating Stored Procedure and SQL queries.
+Project 3:
+Project Name
+
+: SMART
+Client Name
+
+: Bank of Montral, US
+Team Size
+
+: 2
+Role
+
+
+: Programmer
+Environment
+
+: VB.net, Asp.Net, Ms Sql Server 2008
+Description
+: SMART (Sales Management Activity and Referral Tracking) is web based application. It is used to tracking the sales transactions, referrals and computing in bonus for BPB employees. BPB sales person submit the sales transaction details. Once a form is submitted user cannot retrieve / view the form and cannot change the information on the form. Finance department verifies submitted forms for accuracy of sales details. Form details may be modified / corrected by the finance department. Form is either approved or declined by finance department. Finance department prints monthly/ quarterly reports for reporting to upper management and audit purpose.
+Responsibilities
+: Analyzing and Understanding the project requirements.
+
+Developing optimized code to implement the expected functionality.
+
+Reviewing Test Cases and Test Conditions to ensure all the positive and negative scenarios and functionalities are captured. 
+
+Creating Stored Procedure and SQL queries.
+Project 4:
+Project Name
+
+: IP Referral
+Company Name
+:  Apollo Hospitals Enterprise Limited
+Team Size
+
+: 2
+Role
+
+
+: Analyst, Programmer
+Environment
+
+: C#.net, Asp.net, Ms Sql Server 2012, Cordova, ionic.
+Description
+: IPReferral is web and mobile application. It is used to raise referral to the doctors. This application has 4 login types. There are 1.Doctor, 2.Ward nurses, 3.Admin and 4.Superadmin.
+
+
+Doctor’s only used in mobile application other users use website.
+
+Doctor’s see our referral patient details, consulted patient details, rejected patient details in the doctor’s mobile.
+
+
+Ward nurses raise referral request to the doctor’s, that time we are sending message as well as mobile notification.
+Admin can view reports based on the referrals. Superadmin create users and configure escalation matrix.
+Responsibilities
+: Analysis the project requirement, design project flow, develops web and mobile application.
+Project 5:
+Project Name
+
+: SUD
+Company Name
+:  Apollo Hospitals Enterprise Limited
+Team Size
+
+: 2
+Role
+
+
+: Analyst, Programmer
+Environment
+
+: C#.net, Asp.net, Ms Sql Server 2005
+Description
+: SUD(Single Used Device) is web based application. It is used to monitor device inventory and device usage details on particular department.
+Responsibilities
+: Analysis the project requirement, design project flow and develop application.
+Project 6:
+Project Name
+
+: AWACS
+Company Name
+:  Medi-Infotec
+Team Size
+
+: 2
+Role
+
+
+: Programmer
+Environment
+
+: VB.net, Asp.net, Ms Sql Server 2008 R2
+Description
+: AWACS is web based application. Stockiest upload sales data file in our website. This file used to approximately calculate marked share of the manufacturing company sales. Field staff‘s monitor the stockiest file upload, incase stockiest not upload the file means field staff follow the stockiest and upload the file in our application, field staff update the daily work details in our application. 
+Responsibilities
+: Upload files format and data verification, upload file based provide reports, field staff creation and modification.
+Project 7:
+Project Name
+
+: Webcheque
+Company Name
+:  Medi-Infotec
+Team Size
+
+: 2
+Role
+
+
+: Programmer
+Environment
+
+: C#.net, Asp.net, Ms Sql Server 2008 R2
+Description
+: Webcheque is web based application. It is used to retailers pay amount in stockiest on the particular invoice using pool account. Windows services used to generate debit, credit file and get relevant revers feed from bank.
+Responsibilities
+: User management, windows service used to create payment file and upload file in banks FTP folder.
+Project 8:
+Project Name
+
+: GeoTrac
+Company Name
+:  Medi-Infotec
+Team Size
+
+: 2
+Role
+
+
+: Programmer
+Environment
+
+: C#.net, Asp.net, Ms Sql Server 2008 R2
+Description
+: GeoTrac is web based application. It is used to get medicine sales details in particular geo logical area based on the retailers, Medicine Brand, Molecule wish. 
+Responsibilities
+: User registration, payment gateway integration, invoices generation.
+Project 9:
+Project
+
+
+: 99electric
+Company Name
+:  Feeders Technologies
+Team Size
+
+: 3
+Role
+
+
+: Analyst, Programmer
+Environment
+
+: Asp.net, C#.net, Java script, Ms Sql Server 2008 R2
+Description
+: 99electric is web based application. It is e-commerce application to interact with the customer. It is usually comprised of several modules and sub modules. This application has 2 login types.
+Admin login : Which is used to create and manage products, offers, promotional mailing and customer details.
+User login: Which is used to view product, sent product related enquiry, and Order the product.
+Responsibilities
+: user management, product management, promotional mailing and enquiry.
+Project 10:
+Project Name
+
+: Super Market Management System
+Company Name
+:  Feeders Technologies
+Team Size
+
+: 2
+Role
+
+
+: Programmer
+Environment
+
+: VB.net, Ms Sql Server 2008 R2
+Description
+: Super Market Management System is windows based Application. It is used in the super markets. This application used to maintain super market stocks and sales details. Easy way to find counter wise, day wise, month wise and year wise sales report. 
+Responsibilities
+: Billing and Reports.
+Project 11:
+Project Name
+
+: Serviceman
+Company Name
+:  Feeders Technologies
+Team Size
+
+: 3
+Role
+
+
+: Programmer
+Environment
+
+: VB.net,Asp.net, Ms Sql Server 2008 R2
+Description
+: Serviceman is web based Application. It is used to monitor the warranty product services, other product services, Cancelled services, Repeat services, spare inventory, vendor management and user management. 
+Responsibilities
+: User management, spare management and vendor management.
+Project 12:
+Project Name
+
+: HMS
+Company Name
+:  Feeders Technologies
+Team Size
+
+: 3
+Role
+
+
+: Analyst, Programmer
+Environment
+
+: C#.net, Ms Sql Server 2008 R2
+Description
+: HMS (Hotel Management System) is windows based Application. It is used in the hotel management. Maintain hotel billing, inventory and petty cash. In this application contain Auto generate bill print, view inventory details and view profit. In this application deployed on windows platform. It is simplify the hotel management and customer satisfaction. 
+Responsibilities
+: Billing and petty cash.
+PERSONAL DETAILS
+Name
+
+
+
+
+N.KUMARAGURUPATHI
+
+Date of Birth/Gender
+
+
+10-05-1989/Male
+
+Father’s Name
+ 
+
+
+A.Nesathurai
+
+Permanent Address
+
+
+105-22 /NA,
+
+Pasumpon,
+
+Thavasikurichi(Post),
+
+Kamuthi(Taluk),
+
+Ramanathapuram(Dist) – 623604.
+
+Nationality
+
+
+
+Indian
+
+Language known
+
+
+Tamil and English
+
+Marital Status
+
+
+
+Single
+
+DECLARATION
+ 
+ I (N. KUMARAGURUPATHI) hereby acknowledge that all the above information are correct and true to the best of my knowledge.
+
+DATE   : 
+
+
+
+
+
+
+
+
+
+     
+
+PLACE:                                                
+
+
+ (N.KUMARAGURUPATHI)
+
+
+
+
+
+
+
+
+

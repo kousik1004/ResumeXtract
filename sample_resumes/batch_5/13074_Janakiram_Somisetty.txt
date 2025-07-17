@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Janakiram Somisetty
+Email:  janakiramsomisetty@gmail.com
+Phone: +91-9581084400, 9666621983
+
+
+Summary of Experience and Qualifications
+
+2 years of proven IT work experience with Enhancement, Testing and Production Support skills in IBM Mainframe.
+Graduated with Bachelor of Technology from Lakkireddy Balireddy College of Engineering, Vijayawada.  
+
+· 2016 August – Till Date : ACS Global Tech Solutions Pvt Ltd, Hyderabad, Engineer IT
+Client: Anthem, Domain: Health Care
+
+· 2015 June – 2016 June : Foray Software Pvt Ltd, Hyderabad, Software Engineer
+Client: Citi Bank, Domain: Banking
+
+· 2015 January – 2015 March: Alchemy Solutions, Bangalore, Intern 3 months.
+
+ ACS Global Tech Solutions Pvt Ltd
+
+Industry:  Health Care and Life Sciences Service Area: Technology
+Service Line:  Application Management Services 
+ 
+Anthem, Inc. is one of the largest health benefits companies in the United States. Through its affiliated health plans, Anthem companies deliver a number of leading health benefit solutions through a broad portfolio of integrated health care plans and related services, along with a wide range of specialty products such as life and disability insurance benefits, dental, vision, behavioral health benefit services, as well as long term care insurance and flexible spending accounts.
+Provider Application maintains information of all the health care providers associated with Anthem. This is source of truth for all downstream applications like Claims, Membership and Provider Finder.
+
+Role:
+· Handling multiple test loads and daily production loads using Control M
+· Working on production abends with the help of Control M, SAR and Fault Analyzer
+· Creating packages using Change Man to resolve production abends
+· Taking care of critical production jobs in order to achieve the SLA
+· Extracting data and sending it to the downstream using mainframe jobs
+· Took part in testing activity during the IPL maintenance and upgrade through the weekends
+· Preparing various reports and sending it to the client as part of business requirement
+·  Running DB scripts in mainframe to support the downstream testing and release activities
+· Performed region refresh in mainframe to support various testing’s.
+Technical Environment:  JCL, COBOL, DB2, CICS
+Development Tools: MAINVIEW, File-Aid, ChangemanQ, ChangemanD Fault Analyzer, IT Connect Service, Service Now, Control M, SAR, SDSF
+
+
+
+	
+	Foray Software Pvt Ltd
+
+Industry:  Banking Domain
+Service Line:  Banking and Financial  Services 
+
+CITI Bank is the leading global bank has approximately 200 million customer accounts and does business in more than 160 countries. CITI is the biggest giant in the cards provider in North America.
+Description of the Application Handled
+Customer data improvement by replacing the customer incorrect/old information having in CIS database with correct/updated information and solving issues facing in the current existing interface.
+Payments Services will be acting as a network to receive and process the initial validation of IBS and other bank payment and schedule them for posting and clearance.  It has the interfaces like Pay by Phone, Click to Pay, Global Payment Utility etc. We interact with Federal Reserve Bank, Citi-share and Transaction services for clearance and they will interact with customer to collect the money.
+
+Role:
+· Understood customer data issues and suggested with design new changes required for the interface.
+· Make code changes or write new code as per the business requirement.
+· Perform unit testing for each component.
+· Written DB2 queries to fetch customer data for different requirements.
+· Participating in code reviews.
+· Interacting with customers in weekly status meetings.
+
+Technical Environment:  JCL, COBOL, DB2
+
+Development Tools:  Change man, RTC, File Manager, SAR, SDSF
+
+
+System Experience 
+
+· Software/Products:                       JCL, COBOL, DB2, CICS
+· Middleware/Databases:              DB2
+· Hardware/Operating Systems:   Mainframe Z/OS, Microsoft Windows
+· Development Tools/Languages: SPUFI, File-Aid, File Manager, Control-M, RTC, Changeman, Mainview, IT Connect Service, Service Now
+· General Tools:                                 Microsoft Excel/PowerPoint/Word                        
+
+
+Achievement
+
+    Won A Galaxy of Thanks award for staying committed to working together as a team.
+    Cobol II -  Brainbench certification from NSE.IT
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+

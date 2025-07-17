@@ -1,0 +1,364 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kishore Kumar Vatthaluru
+
+                                
+
+
+
+           Kishore Kumar V 
+
+
+     Sybase DBAdministrator
+
+                                                                                 kishore.sybasedba@gmail.com
+                                                                                        +91 9966719994
+__________________________________________________________________________________
+
+Experience summary:
+
+Having ~9 years of experience in IT industry, in which ~7 years as Sybase ASE 15.X DBA.  I have rich experience in Installing, upgrading, applying patch and configuring Sybase ASE and Replication servers, Maintaining Records, Backups, Recovery of Databases, Monitoring Resources, Users/Login Control, proficient in Trouble Shooting and Performance Tuning, database and operating systems UNIX, Solaris, and Windows 2000. Proficient in T-SQL and SHELL scripts to write various wrapper scripts which automates all DBA activities to cater day-to-day requirements according to the Database & Application needs. Documenting/updating the RUN-BOOKS. Providing estimates for development work outside the scope of project and to prepare SOW’s. I am a self-motivated individual always work on planned calculations but not on mere speculations; possess good communication and interpersonal skills and has good problem solving skills, eager to learning and understanding systems concepts and works well both independently and in a team environment.
+Work experience:    
+
+· Currently working as Infra. Technology Specialist with Cognizant Technology Solutions from December 2016 to till date.
+· Lead Database Administrator with Tech Mahindra from August 2014 to December 2016.
+
+· Sybase Database Administrator in IBM India Private Limited from November 2011 to August 2014.
+· Sybase Database Administrator in CGI from March 2011 to November 2011.
+
+· Software Engineer in Covalense Technologies Private Limited from December 2008 to March 2011.
+Educational qualification:
+
+· Master of Computer Applications, 2008 from Osmania University - Hyderabad, with first class (70%).
+Technical skills:
+· Operating Systems  
+:   UNIX, Solaris, Windows 2000, Windows XP.
+·  RDBMS
+
+:   Sybase Adaptive Server 15.0.X & Above, MSSQL Server 2008.
+· Replication
+
+:   Sybase Replication Server 15.5 and 15.7.
+· Tools
+
+      
+:   OTRS, HP OVSC, Service Now and BMC ITSM. 
+· Programming
+      
+:   T/SQL, C#.
+· Technologies             
+:   .Net.
+· Certifications
+
+:   MS SQL Server 2012 Administration.
+
+Personal Details:
+
+· Name                        
+:   Kishore Kumar V
+
+· Current Address            
+:   E-55, First Floor, Madhura Nagar, Yousufguda, 
+
+                                    
+    Hyderabad – 500038
+                                
+
+· Permanent Address    
+:   5/36, M Gollapalli(V), Mylapalli (P),
+
+                                           Chitvel(M), Kadapa(D), Andhra Pradesh - 516104 
+
+Professional experience:
+Infra. Technology Specialist
+December ’16 to Till date
+
+Organization: Cognizant Technology Solutions.
+
+Client: American International Group, Inc (AIG).
+
+Role: Database Administration
+
+Environment:  Sybase 12.5.4, 15.X, Solaris 5.10, AIX, Windows Server, Sybase Replication 15.7, Service Now.
+Description: 
+
+American International Group, Inc., also known as AIG, is an American multinational insurance corporation with more than 88 million customers in 130 countries. AIG companies employ over 64,000 people in 90 countries. The company operates through three businesses: AIG Property Casualty, AIG Life and Retirement and United Guaranty Corporation (UGC). AIG Property Casualty provides insurance products for commercial, institutional and individual customers. AIG Life and Retirement provides life insurance and retirement services in the United States. UGC focuses on mortgage guaranty insurance and mortgage insurance. AIG also focuses on global capital markets operations, direct investment and retained interests. My key responsibility on this project is to support and maintain APAC based Sybase database servers (support for Development, UAT and Production environments & servers) and implementation of database services; these services are used by the applications development teams on the supported DBMS systems.
+Responsibilities:
+
+· Sybase ASE Server Installation, upgrade, Applying patch and configuration. Setting DB options, Managing Thresholds.
+· Creating new database objects: tables, views, indexes, triggers, stored procedures per the customer requirement.
+
+· The major responsibilities includes Advanced Performance tuning, High Availability/Disaster Recovery selection and setup, Storage and Capacity management, Security and Audit remediation, Cost efficiency & Service improvement initiatives, Incident Management and RCA.
+
+· Database Creation, Disk Initialization. Defining Altering and Maintaining Database and Logs. 
+· Managing Adaptive Server Logins and Database Users. Creation of all DBA related jobs (Backup/restore/Reorg/T-log/update stats/dbcc).
+
+· Performance Tuning of Queries/Stored Procedures. Monitoring the locks and the processes running on to the server.
+
+· Implementing Applying Patch and Version Upgrade on Sybase ASE Servers.
+
+· Disaster recovery tests every quarter record the timelines and document the results, familiar with backup strategy and management of backup’s trouble shooting backup failures. 
+
+· Hands on Experience in UNIX/Sun Solaris 10.and shell Scripting.
+· Taking care of alerts and Service Now Tickets generated by monitoring tools, Application team and Users thus ensuring the servers are up and running at all the time. 
+· Creation of devices, databases and segments. 
+
+· Backups of databases and logs. 
+
+· Refresh of databases in replication as well as non-replication environment.
+
+· Dealing TempDB full issues,
+
+· Transaction log management and handling of jobs failures. 
+
+· Replication Server monitoring and troubleshooting. 
+
+· Troubleshooting, which includes check/ validation for the replication configuration, threads down, stable device full, RSSD log full, stop and restart threads and rep agents.
+Lead DBA 
+
+August ’14 to December ‘16
+Organization: Tech Mahindra Limited.
+
+Client: TIP Trailer Services, Europe.
+Role: Database Administration
+
+Environment:  Sybase 15.0.X, Solaris 5.10, Sybase Replication 15.5 and 15.7 and Service Now.
+Description: 
+TIP Trailer Services is one of Europe's leading equipment services providers. It is specialised in leasing and rental of trailers, tankers and other equipment. Its lease and rentals can be combined with a range of smart services including maintenance, damage repair, fleet management and telematics, providing their customers with even more value. My key responsibility on this project is to support and maintain Europe based Sybase database servers (support for Development, UAT, BI and Production environments & servers) and capacity management, implementation of database services; these services are used by the applications development teams on the supported DBMS systems.
+Responsibilities:
+
+· Senior DBA having very good understanding and exposure to storage as well as Unix and solid performance tuning, troubleshooting, and database administration skills.
+
+· Involved in END to END data center migration, building and configuration of new Sybase ASE Servers and Replication Servers. 
+· The major responsibilities includes Advanced Performance tuning, High Availability/Disaster Recovery selection and setup, Storage and Capacity management, Security and Audit remediation, Cost efficiency & Service improvement initiatives, Incident Management and RCA.
+
+· Sybase ASE Server Installation and configuration. Setting DB options, Managing Thresholds
+
+· Creating new database objects: tables, indexes, triggers, stored procedures per the customer requirement.
+
+· Database Creation, Disk Initialization. Defining Altering and Maintaining Database and Logs. 
+· Managing Adaptive Server Logins and Database Users. Creation of all DBA related jobs (Backup/restore/Reorg/T-log/update stats/dbcc).
+
+· Performance Tuning of Queries/Stored Procedures. Monitoring the locks and the processes running on to the server.
+· Implementing Applying Patch and Version Upgrade on Sybase ASE Servers.
+
+· Hands on Experience in UNIX/Sun Solaris 10.and shell Scripting.
+· Taking care of alerts and OTRS Tickets generated by Application team and Users thus ensuring the servers are up and running at all the time. 
+· Creation of devices, databases and segments. 
+
+· Backups of databases and logs. 
+
+· Refresh of databases in replication as well as non-replication environment.
+
+· Dealing TempDB full issues,
+· Transaction log management and handling of jobs failures. 
+
+· Replication Server monitoring and troubleshooting. 
+
+· Troubleshooting, which includes check/ validation for the replication configuration, threads down, stable device full, RSSD log full, stop and restart threads and rep agents.
+Awards:
+
+· Received Pat On Back (POB) Award for implementing END to END data center migration, building and configuration of new Sybase ASE Servers and Replication Servers. 
+· Client rewarded for the successful migration with minimal production interruptions with in the specified window.
+Sybase DBA 
+
+November ’11 to August ‘14
+Organization: IBM India Pvt Ltd.
+
+Client: Ericsson Global, Sweden        
+
+Role: Database Administration
+
+Environment:  Sybase 15.0.X, Solaris 5.10
+
+Description: 
+
+Ericsson is a Sweden based IBM client and one of the top clients in its portfolio; Sybase database support main aim is to support and maintain the Sweden based database servers (support both the development/UAT environment and the production environment) and database implementation services to the application development teams on the supported Database Management Systems.
+
+Responsibilities:
+
+As a MS SQL and Sybase DBA at IBM, my roles and responsibilities include:
+
+Sybase Role:
+
+· Sybase ASE Server Installation. Setting DB options, Managing Thresholds
+
+· Creating new database objects: tables, indexes, triggers, stored procedures per the customer requirement.
+
+· Database Creation, Disk Initialization. 
+· Defining Altering and Maintaining Database and Logs. 
+· Data Migration Sybase tools for Migrating Data by Bulk Copy utility, Definition Copy Utility.
+
+· Managing Adaptive Server Logins and Database Users. 
+· Creation of all DBA related jobs (Backup/restore/Reorg/T-log/update stats/dbcc).
+
+· Performance Tuning of Queries/Stored Procedures. 
+· Monitoring the locks and the processes running on to the server
+
+· Security and User Administration Permissions, Roles, Adding remote Logins, Configuring Variables for Remote Logins
+· Monthly review of SOX Hardening Parameters and attend Internal SOX Audits and Provide SOX evidences.
+· Implementing Applying Patch and Version Upgrade on Sybase ASE Servers.
+· Resolving cron job failures.
+· Hands on Experience in UNIX/Sun Solaris and shell Scripting.
+
+MS SQL Roles:
+
+· Regularly Monitoring DB Full backup, Transactional backup.
+
+· Regular Monitoring\space and user administration.
+
+· Resolving all types of severity incidents in BMC tool.
+
+· Installation of SQL server 2008, 2012.
+
+· Creation of databases, jobs.
+
+· Restoring databases.
+
+· Developing the successful Backup strategies and maintenance plans based on Recovery models.
+
+· Refresh Database of lower environments with Production database dumps.
+
+· Taking manual backups before deploying changes into Production environment.
+
+· Monthly review of SOX Hardening Parameters and attend Internal Sox Audits and Provide SOX evidences.
+
+· Creation of SQL server logins and Database users.
+
+· Monitoring drive and log spaces.
+
+· Troubleshooting and resolving database performance issues, blocking and deadlocking issues, connectivity issues, security issues etc.
+
+· SQL Server related CPU, memory, I/O, disk space issues.
+
+· Change and Problem Management handling.
+
+· Experience on Performance tuning (cpu usage, Memory usage ,slow running queries, etc), database tuning techniques using SQL Server profiler
+
+Additional Roles: 
+
+· Actively involved in the SOX Audits for the client Ericsson for all the SOX related application level database security scrutiny.
+
+· Have been actively involved in Change Management activity as an IBM representative.
+
+· Acted as Change Supervisor/Manager, Problem manager and Incident manager for BAS operations.
+
+Sybase DBA 
+
+March’ 11 to November’ 11
+
+Organization: CGI Group Inc.
+
+Client: Bell Aliant, North America        
+
+Role: Database Administration
+
+Environment:  Sybase 15.0.X, Sybase 12.5.3, Solaris 5.8
+
+Description: 
+
+Bell Aliant is a North America based CGI client. Sybase database support main aim is to support and maintain the Sweden based database servers (support both the development/UAT environment and the production environment) and database implementation services to the application development teams on the supported Database Management Systems.
+Responsibilities:
+· Taking care of alerts and Remedy Tickets generated by Enterprise Alert Group thus ensuring the servers are up and running 24/7. 
+
+· Creation of Devices, Databases, Segments. 
+
+· Backups of databases & logs. 
+
+· Ensuring regular dumps are taken
+
+· Space Management
+
+· Running database consistency checks periodically and on request
+
+· Refresh of databases with prod dumps to other environments
+
+· Transaction log management. 
+
+· Monitoring free space in different segments of database
+
+· Handling of jobs failures.
+
+Software Engineer
+
+December’ 08 to March’ 11
+
+Organization: Covalense Technologies Private Limited.
+
+Client: GoSecure Inc, USA        
+
+Role: Application Developer
+
+Environment:  ASP.Net 2.0, VB.Net, MS SQL Server 2005 and SVN
+
+Description: 
+
+
+GoSecure is a web based application developed using Microsoft ASP.Net 2.0 and C#.Net technologies. GoSecure Inc. is an information security portal for the consumer market deploying security solutions that offer the strongest levels of commercially available information protection in the industry, with zero incremental investment in infrastructure.The security technology and solutions developed by GoSecure protect the sensitive electronic data of the users.
+
+Responsibilities:
+· Functional analysis
+
+· Developing user management module
+
+· Developing content management module
+
+· Developing role management module
+
+· Developing user management module
+
+· Developing subscription management module
+
+· Functional, Integration and unit testing of the application
+Kishore Kumar V
+Place: 
+Date: 
+
+
+
+
+
+
+
+

@@ -1,0 +1,102 @@
+
+
+
+
+
+
+
+
+Ankita Gupta
+S.V.residency, 9Th cross,
+ Munnekollala,                                                                                   email: ankitagpt28@gmail.com
+Bangalore – 37                                                                                 Mobile: +919972410745                                                                                                  
+
+
+OBJECTIVE:
+To build a long term career in Linux System Administration which provides scope to utilize my potential and add value to the organization.
+
+
+TECHNICAL SKILLS:
+· Installation, Configuration and Administration of Red Hat Linux Servers
+· Troubleshooting & maintaining Linux servers
+· User management (Managing users & groups in linux)
+· Installing & configuring FTP, NFS, SSH, Telnet, DNS & DHCP
+· File system management, Disk Management and Volume management Enterprise Unix skills.
+· Installing, Configuring and managing Mail servers such as sendmail and exim.
+· Worked on IPcenter and IPmon based on Nagios
+· Knowledge in LVM.
+· Basic knowowledge in Poweshell/windows/Citrix 
+· Knowledge in Automation tool: IPautomata
+Operating systems: RedHat Linux, Cent OS
+Monitoring tools: Control-M, IPmon tool based on opensource Nagios
+Ticketing Tools: Service-Now, Jira, IPradar based on opensource RT
+
+
+EMPLOYMENT HISTORY
+TOTAL EXPERIENCE: 2 years 11 months
+1. CURRENT EMPLOYER: IPsoft Global Services Pvt Ltd                                             (21st Apr,2017 – till date)
+ROLE: Platform Administrator
+JOB DESCRIPTION:
+· Working on Linux based IT Infrastructure Management tool "IPcenter" which is based on ITIL framework and Six Sigma methodology
+· Monitoring the servers using Nagios based "IPmon" and ensuring all the checks are working properly in customized Nagios based monitoring servers.
+· Managing sendmail and exim mail servers across the infrastructure and ensuring the mails are getting delivered appropriately through the applications
+· Server management and troubleshooting to ensure the uptime offered is met all the time on both servers and instances.
+· Troubleshooting IPcenter tomcat application servers and working with tomcats like alfresco and jasper
+· Throubleshooting IPcenter related windows/poweshell devices like memory utilization, maintaining system health.
+· Troubleshooting apache tomcat based application servers, apache webservers, DNS servers, MySQL servers
+· Maintaining and troubleshooting ActiveMQ messaging brokers, openvpn servers, load balancers.
+· Maintaining and troubleshooting automata by checking the logs and services on servers.
+· Finding out RCA of outage, dead engines and services.
+· Involving on P1 bridge calls with client and troubleshooting IPcenter application issues as oncall support.
+· Providing support on IPcenter issues through client tickets
+· Involving in activities like patching, failover, slave rebuild, kernel patching, server rebooting, OS upgrade, DB replication.
+
+2. PREVIOUS EMPLOYER: Wipro Technologies                                        (Oct 27st 2014 – Apr 19th 2017)                                                                                                                                                          
+ROLE: Project Engineer
+JOB DESCRIPTION:
+.
+· Making scripts for automation of tickets.
+·  Patching the Servers and fixing the patching script if it has any issue.
+·  Capture the cluster health
+·  Fixing the Cluster health by collaborating with the Application team(for down time)
+·  Making the scripts to send the various server reports via mail to the team
+·  Performing Change activity
+·  LVM management
+·  Tuning server performance
+·  User Administration
+·  Getting involved in SRT(Service Restoration Team) for production servers(critical issues)
+·  Increasing RAM, CPUs, Disk space etc via VM.
+· Opening cases with different vendors
+· Server Audit (Making server from Built to Run Team managed)
+· Making configuration in server through cf-engine
+· Client interaction on daily basis for discussing various issues
+·  Resolving multiple tickets on daily basis and roubleshooting.
+·  Enhancing infrastructure
+·  Checking VM logs and troubleshooting the associated issues
+
+  KEY ACCOMPLISHMENTS:
+· Reduced the File System administration alerts to 50% by automata designing
+· Effective Execution of the Change Request approved by the client
+· Appreciation from client for resolving issues on P1 Bridge calls
+· Managed various client regions as Technical Engineer and improved the Quality of Service
+
+
+EDUCATIONAL QUALIFICATION:
+Bachelor Of Computer Application
+Magadh Mahila College (2011 – 2014), Patna University.
+
+
+PERSONAL INFORMATION:
+Date of Birth		:	28-01-1994
+Gender           		:	Female
+Marital Status     	: 	Single
+Languages             	: 	English and Hindi
+Nationality             	:	Indian
+Email Id               	:	ankitagpt28@gmail.com
+
+
+DECLARATION:
+I declare that the information and facts stated above are true and correct to the best of my knowledge and belief.
+
+Date:
+Place: Bangalore						                                           (Ankita Gupta)                                   

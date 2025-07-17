@@ -1,0 +1,318 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Prashant Devram Avhad                                                                                    Contact: +91-9167823533
+     E-mail: prashant_avhad@hotmail.com
+
+	Role 
+	MSBI Developer
+
+	Designation
+	Senior Software Engineer
+
+	Current Organization
+	Clover InfoTech (Dec-2013 to Till Date)
+
+	Career Objective
+
+	To work with an organization offering a dynamic and professional environment which will help to achieve the goals of the organization and simultaneously enhance my skills and knowledge and enable to grow professionally within the organization.
+
+	Summary
+
+	· 7.5 years of IT experience Analysis, Design, Development, Implementing and Testing application using Microsoft SQL server, BI suite and Oracle 9i.
+· Proficient in MS SQL Server 2008R2/2012, Business Intelligence using MS SQL Server Integration Services(SSIS), MS SQL Server Reporting Services(SSRS) and MS SQL Server Analysis Services(SSAS).
+· Experienced in writing Stored Procedure, Views, Joins, Index, function, Packages, Complex queries.
+· Experienced in ETL implementation using SSIS and data warehouse Environment.
+· Involved in Huge data migrations, data transfers from various sources using utilities SSIS
+· Experienced in creating Jobs, SQL Mail Agent, Database Mail and Scheduled SSIS Packages.
+· Experienced in creating tabular, drill-down reports, Parameterized reports, Sub reports using SSRS 2008.
+· Experienced in creating SSRS report normal and Data Driven Subscriptions 
+· Designing and Deployment of Reports for End-User requests using Web Interface & SSRS.
+· Experienced in Insurance, Media, Ship management and Banking Domain.
+· Team Lead skills encompassing coordination team members at different location.
+
+	Technical Proficiency
+
+	Programming Languages:           SQL, T-SQL 
+Databases:                                     MS SQL Server 2012/08/05, oracle 9i
+ETL and Reporting Tools:	 SSRS, SSIS, and SSAS 
+Environment:                                Client Server Architecture, Windows
+
+	Education 
+
+	· B.Sc. in Computers from University of Mumbai (2008)
+· Pursuing Masters in Information Management Degree from Welingkar Institute of Management(Final Year)
+
+
+	Project Experience 
+
+	Project Name
+	WIP OpenItems DashBoard 
+BranchWiseIssuance MIS
+BankRegionWiseCollection MIS
+Premium Collection against Renewal, Grace  & Lapse MIS
+
+	Role
+	SSRS Developer
+
+	Tool
+	SSRS, MS SQL Server 
+
+	Client
+	SUD Life Insurance (Jan 2015 – Till Date)
+
+	Responsibilities
+	· MIS development to remove mannual preparation reports of using advance excel
+· Requirement gathering and requirement analysis from operational users
+· Indepth understanding of functional roles of each departmental verticals
+· Users required two and half hours to prepare it manually
+· MIS Automation through email
+· Develped MIS report to extract the data in excel Multi sheets using Tablix component of SSRS
+· Involved in subscription creation of report to auto mail triggerd on scheduled time
+
+
+	Project Name
+	Incremental DW   
+
+	Role
+	MSBI Developer
+
+	Tool
+	SSIS,  MS SQL Server & MS-Excel
+
+	Client
+	SUD Life (DiaIchi Life Japan)
+
+	Responsibilities
+	· Replaced existing procedure based Data Warehouse  to fully ETL development 
+· Developed existing Data Warehouse full load for better performace & error free
+· Involved in creation of DW refreshes only changed data i.e.incremental load 
+· Saved time to refresh DW and error free 
+· Implemented checkpoints and Audit trail scenrios 
+· Testing of final data with existing reports
+
+	Project Name
+	CMS & MIS Automation  
+
+	Role
+	MSBI Developer
+
+	Tool
+	SSRS,SSIS,  MS SQL Server & MS-Excel
+
+	Client
+	SUD Life (DiaIchi Life Japan)
+
+	Responsibilities
+	· Effectively integrate new requirements in the form of reports using SSRS as per department user needs.
+· Maintain data integrity during extraction, manipulation, processing and storage.
+· Created SSIS packages to extract data from AS-400 DB to SQL DB and scheduled jobs to call the packages and stored procedures along with Error handling in package.
+· Created and maintained databases, tables, views, indexes and check constraints using T-SQL.
+· Trained new joiner for data analysis and SSIS packages.
+
+	Project Name
+	Sony SAMBA Application   
+
+	Role
+	SSRS Developer, Team Lead
+
+	Tool
+	SSRS, MS SQL Server 2012
+
+	Client
+	Sony Entertainment (Mar 2014 – Dec 2014)
+
+	Responsibilities
+	· Successfully migrated Oracle reports into SSRS and integrated in .Net Application
+· Development and deployment of reports using SSRS (sub reports, Drill down and tabular).
+· Involved in writing stored procedure and functions to handle database automation task
+· Formatted the reports using the parameters, Global variables, functions and expressions.
+· Created stored procedures for commonly used queries involving join and union of tables.
+
+
+	Project Name
+	DTS to SSIS Migration   
+
+	Role
+	Senior ETL Developer
+
+	Tool
+	SSIS, MS SQL Server 2008
+
+	Client
+	Reliance Life (Dec 2013 – Feb 2014)
+
+	Responsibilities
+	· Involved in migration DTS packages to SSIS packages from sql server 2005 to sql server 2012.
+· Deploying new code base release to UAT and Production Environments
+· Involved Database Refresh tasks from production to Development and Staging Servers.
+· creating complex Stored Procedures, packages, functions, triggers, cursors, tables, indexes and views and other SQL joins and statements for applications.
+· Involved in Development, Testing, Release & Implementation.
+· Post Implementation Support and User Acceptance Testing Support.
+
+
+	Project Name
+	Crewing & Purchase Module ERP       
+
+	Role
+	SSRS Developer
+
+	Tool
+	Microsoft Dot net MVC, SSRS, MS SQL 2012 
+
+	Organization 
+	CBT InfoTech  (May 2013 – Oct 2013)
+
+	Client
+	BSM Schulte Cargo Ship management
+
+	Responsibilities
+	· Integrated SSRS reports into .Net MVC architecutre for Shipmanagement ERP
+·   Single point of contact for all functional/technical understainding & issues in Implementation.
+· Development, Testing, Release & Implementation, Post implementation support and Knowledge Transition.
+·  One of the first member in team who worked on research and development of SSRS reports into .Net MVC with the help of DB Admin team
+
+	Project Name
+	Transactional Data Processing System (TDPS)       
+
+	Role
+	Functional and Database support
+
+	Tool
+	MS SQL 2008, MS-Excel, SSRS
+
+	Organization
+	Software Support & Management Services Pvt Ltd  (May 2012 – Apr 2013)
+
+	Client
+	Fino Paytech LTd
+
+	Responsibilities
+
+	· Development and optimization of stored procedures through graphical execution plan
+· Data Consistency checking and handling adhoc data request from the Internal Team and technical support.
+· Optimized database structures, and developed stored procedures and functions to make the application runs faster
+· Development and deployment of reports using SSRS.
+
+
+	Project Name
+	Mellisa Data                  
+
+	Role
+	Functional and Database support
+
+	Tool
+	MS SQL 2002 and 2005, MS-Excel
+
+	Organization
+	Softgainz Technologies (DSS Data Solutions. NJ, USA.) (Mar 2010 – Feb 2012)
+
+	Responsibilities
+
+	· Creating & Maintaining Database objects, SQL, T-SQL scripts.
+·   Maintaining the Database Integrity & Objects.
+·   Files Imports/Exports/Updates using BCP, Bulk Insert and DTS (Fixed length, Tab delimited, comma delimited formats, etc.)
+·   Develop vendor and client reports using SSRS that meet provided specifications
+·   Perform quality checks on SSRS reports and exports to ensure exceptional quality
+
+
+
+Other Work Experience
+· Worked as Tele Broking Executive at HDFC Securities Ltd (May-09 to Mar-10)
+· Worked as Ecommerce Executive at Iksula Services P-Ltd (Sep-08 to Mar-09)
+
+ACADEMIC QUALIFICATIONS
+	Degree
+	College/School
+	University/Board
+	Passing Year 
+	Class
+
+	B.Sc (Computers)
+	Patkar College
+	Mumbai
+	2008
+	2nd
+
+	HSC
+	Harnai Vidyalaya
+	Maharashtra
+	2005
+	2nd
+
+
+	SSC
+	Harnai Vidyalaya
+	Maharashtra
+	2003
+	Distinction
+
+
+
+
+PERSONAL DETAILS:
+· Current Location		: Mumbai
+· DOB 				: 09/01/1987
+· Marital status			: Married
+· Nationality			: Indian
+· Languages Known		: English, Marathi, Hindi
+· Passport Details			: N9981617
+· Permanent Address		: 15 C 6, Prayag Soc, Plot 6,
+   NNP Colony, Goregaon (E)
+   Mumbai-65
+
+
+I hereby declare that all the information mentioned above is true and to the best of my knowledge.	
+
+
+
+Name: Prashant Devram Avhad
+Date:
+
+

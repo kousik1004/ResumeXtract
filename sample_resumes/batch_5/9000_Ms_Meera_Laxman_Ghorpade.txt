@@ -1,0 +1,324 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+Ms. Meera Laxman Ghorpade       
+e-mail-ID: meera.l.ghorpade@gmail.com                                                    Contact No: +91-9036927030  
+
+  
+
+  
+
+Career Objective  
+
+To contribute to the technology by being a part of an organization which has been constantly involved 
+with innovation and to develop my skills through constant learning to excel in my career and for the 
+
+growth of the organization  
+
+Technical Skills  
+
+  
+
+Languages & Scripting                     Java, Shell scripting, PowerShell scripting  
+
+RDBMS & NoSQL                           MS SQL server, Oracle, MongoDB  
+
+Operating Systems                            Linux, Windows, MAC  
+
+Solutions Supported                          MyBI, BMC Remedy, xMatters, Altiris, ADDM, CAM/CII,  
+
+                    Rules Wizard, Patrol, IntelliNet, SecureLink, GoToAssist  
+
+Tools                                                 GARP, CISCO ASDM, Oracle SQL Developer, BMC Remedy, 
+
+      IntelliNet VPN Concentrators, SQL Server Management Studio    
+
+ Big Data Technologies                      Microsoft Azure, Apache Kafka, Datadog Monitoring 
+
+ Data Visualization Tools        PowerBI, Tableau, Microsoft Excel  
+
+ 
+
+ 
+
+ Experience  
+
+Working as an Associate Senior Software Engineer with Cerner (Cerner Technology Services unit), Data 
+
+and Analytics team. 
+
+Total experience at Cerner (Jan 06th 2014 – Current) (4 years 4 months) Joined as a Seasonal Intern in 
+
+Cerner Technology Services unit, Enterprise Applications Operations team 
+
+ 
+
+Roles and Responsibilities  
+
+  
+
+• Worked on Microsoft Azure projects  
+
+• Worked on Microsoft Azure to PowerBI data visualization projects  
+
+• Network troubleshooting and setup Microsoft Azure Environment On-Premise  
+
+• Create Resources and Pipelines in Microsoft Azure Data Factory for Data movement from On-
+
+Premise Database to Azure Cloud Database  
+
+• Create Azure Resource Manager templates in Microsoft Azure  
+
+• Create runbooks to deploy code from one Environment subscription to Production Environment 
+
+subscription  
+
+• Create PowerShell scripts to deploy code from Azure data factory to GitHub and vice-versa  
+
+• Attend support calls with Microsoft to resolve real-time issues  
+
+• Mentor team members on Microsoft Azure  
+
+• Create producer and consumer setup with Apache Kafka  
+
+• Create custom Kafka streams of specific in-house source data 
+
+
+
+ 
+
+ 
+
+• Created Azure Runbooks to deploy On Cloud Infrastructure Services 
+
+• Data Ingestion into Azure Data lake store from Kafka 
+
+• Create Azure Data Lake store to  
+
+• Pulled Azure detailed billing from Azure API 
+
+• Created Azure Data Factory pipeline to pull AWS detailed billing from the details billing S3 
+
+location  
+
+• Created and deployed a PowerShell script to push a local data file into Azure data lake store 
+
+• Created and deployed azure data factory data pipeline to push data from azure data lake store 
+
+into SQL database  
+
+• Create custom role-based access in Azure Dev tenant to provide specific azure services for 
+
+projects handled by other teams and users 
+
+• Ingest (Cerner travel partner) Travel API endpoint data into Kafka Data Streams for downstream 
+
+systems 
+
+• Coordinated Production releases 
+
+• Created deployment scripts for Productions releases 
+
+• Created a consumer that can process the data from AVRO format and write every transaction to 
+
+the data lake 
+
+• Created USQL script to run data lake analytics and create a data pipeline to get elastic fabric 
+
+search data into azure data lake store  
+
+• Setup Oracle GoldenGate replication to replicate data from On-Premise Database to Kafka 
+
+• Create basic Informatica mappings  
+
+• Provided MyBI support for users having issues generating reports, troubleshoot links for reports 
+
+in MyBI, Work with BI developers to generate reports for users for a specific period  
+
+• Creating monthly reports/dashboards for the team for data analysis  
+
+ 
+
+Achievements & Extracurricular Activities  
+
+  
+
+• The first point of contact for Microsoft Azure in the team at Cerner Corporation, Cerner, 
+
+Bangalore 
+
+• Attended ‘The Fifth Elephant’ data science conference, 2017, Bangalore 
+
+• ITIL Certified, Completed ITIL V3 Foundation Training  
+
+• Completed ‘Oracle Training for Non-DBAs’   
+
+• Completed ‘Agile Boot Camp – Scrum to Lean’ training  
+
+• Completed ‘Symantec Client Management Suite 7.5: Implementation’ training by Symantec  
+
+• Won STAR AWARD twice in TEAM category and Nominated twice for individual STAR 
+
+AWARD in Cerner  
+
+• Supported 10 out of 21 Solutions in the team with >90% SLA on tickets handled every quarter  
+
+• Mentored 5 associates at Cerner Corporation in 3 years of tenure, Cerner, Bangalore  
+
+• Team Captain for Volleyball, Cricket and Throwball sports held at Cerner 
+
+• Finalist at Cerner Hackathon event 
+
+• Volunteered Events at Cerner, Kids@Work, and Sangam - Cerner sports event 
+
+• Placement coordinator, Dept. of MCA, RV College of Engineering-Bangalore  
+
+• College topper during Under-Graduation BCA, Gadag and College topper during Post-
+
+Graduation MCA, Bangalore  
+
+• Participated in “WIE Congress on Information Processing”-2012 at B.M.S College of 
+
+Engineering-Bangalore  
+
+
+
+ 
+
+ 
+
+• Participated in “Android Mobile Application Development Contest-2013” (AMA Contest-13) 
+
+conducted during 27th CSI Karnataka Students Convention organized by CSI Bangalore Chapter 
+
+& Reva Institute of Technology and Management-Bangalore  
+
+• Attended a workshop on “Building Windows phone apps” and “Drupal”-2012 at R V College of 
+
+Engineering, Bangalore  
+
+• Co-ordinated State and National Level IT fests in JTVP’s BCA College, Gadag and R V College 
+
+of Engineering, Bangalore  
+
+• Trained Indian Classical Dancer (Graduated Junior Bharatanatyam)  
+
+  
+
+Research Papers and Publications  
+
+  
+
+• Submitted a paper on “A study on various wireless technologies” to International Journal of 
+
+Communication Systems and Information Security (IJCSIS)  
+
+• Presented a paper on “Remote Tech Support Automation for the vital success of ERP  
+
+Implementation” at National Conference “Techprints 1.0” organized by SJEC Mangalore-2013  
+
+• Co-authored, presented and published a paper on “Green software engineering and sustainable 
+
+approaches in software development process” in International Conference on Leveraging 
+
+Operations and IT for Sustainable Development - ICOIT2013 at CMR Institute of Management 
+
+Studies, Bangalore  
+
+ 
+
+Educational Qualification 
+
+  
+
+• MCA (Master of Computer Applications), R V College of Engineering-Bangalore, under 
+
+Visvesvaraya Technological University, Year of passing- 2014 – 81.18%   
+
+• BCA (Bachelor of Computer Applications), J T V P’s BCA College-Gadag, under Karnataka 
+
+University Dharwad, Year of passing-2011 – 82.19%   
+
+• PUC 2, Pre-university board, J T College-Gadag, Year of passing-2008 - 47.5%  
+
+• SSLC, Karnataka Secondary Education Examination Board, Loyola high school–Gadag, Year of 
+
+passing – 2006 - 82.08%   
+
+ 
+
+Personal Details  
+
+  
+
+  Name                             Ms.  Meera L. Ghorpade  
+
+  Father’s Name Mr. Laxman M. Ghorpade  
+
+Date of Birth 18-12-1990  
+
+Languages Known         English, Hindi, Kannada, Marathi, Telugu  
+
+Hobbies   Teaching, Cooking, Photography, Painting     
+
+ 
+  
+
+      
+
+  
+
+Place: Bangalore  
+
+Date: 04/08/2018                                                                                                Meera L. Ghorpade                
+
+  
+
+

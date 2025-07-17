@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CIRRICULUM VITAE
+Prem Kumar.S
+#19/1,4th main, 5th cross,
+Magadi Main Road, A.D Halli 
+Bangalore-560079
+Mob: +919886615648
+      E-mail: prem.mei04@gmail.com
+
+OBJECTIVE:
+  I am a result-driven professional with extensive experience in the LAN, WAN Engineering. I have competitive expertise in the Implementation and Troubleshooting of LAN/WAN Network Systems and I would like to align with an organization which would enable and harness my existing skill sets towards its goals. Seeking a challenging environment that encourages continuous learning and creativity that provides exposure to new ideas and stimulates personal and professional growth.
+
+PROFILE:
+A results oriented individual Expertise is broad in scope. I understand and believe in the integration of techniques, I learn more and do more of the work, add more value to the team. Be able to handle complex situations and time crunch schedules, would create more value for the company and for the customer.
+
+SKILL SET:
+	
+Utilities
+	
+Ping, Trace route, Telnet, Nslookup etc.
+
+	Network Hardware
+	
+Cisco switches (2950, 3550, 3750, 4500), Cisco-Routers (1700, 2500, 7201, 7604, GSR-12000).
+
+	Technologies
+	Frame relay, Routing, Switching, OSI model, IP addressing. Basic level of Wireless troubleshooting Radwin, proxim
+
+	Internet Protocols
+	TCP/IP, IP, ARP, TCP, UDP, FTP, TFTP, SNMP and SMTP. 
+
+	Routing Protocols
+	Static and Dynamic (Routing and Routed -- RIP, OSPF).
+
+	Switching concepts
+	LAN technologies (Ethernet-CSMA/CD), STP (IEEE 802.1d/ IEEE 802.1w, IEEE 802.1s) VLANS, Tagging (IEEE 802.1q), Redundancy concepts (HSRP).
+
+	Monitoring tools
+	Beacon (SIFY Proprietary), Bit familiar with Whats up Gold.
+
+	Devices
+	Hub, Switches, Routers, LAN Testing.
+
+	
+	
+
+
+Professional Training Programs Undergone:	
+
+· Basic Network Training.
+· Wireless Systems Training 
+· Personality Development
+
+
+EXPERIENCE:
+
+	Sl No
+	Designation
+	Company
+	Period
+	Start date
+	End date
+
+	1
+	Junior Network Engineer
+	Sify Technologies
+	1 Year
+	September 2008
+	August 2009.
+
+
+	2
+	Engineer- FTO-GIO
+	Sify Technologies 
+	1 Year
+	September 2013
+	August 2014.
+
+
+	3
+	Senior Engineer
+	Ambey Enterprises 
+	1.6 Year
+	September 2014
+
+	Apr-2016
+
+	4
+	IT Infrastructure Lead
+	Ambey Enterprises
+	2 Year
+	Apr-2016
+	Till date
+
+
+
+
+ROLES AND RESPONSIBILITIES (SIFY TECHNOLOGIES)	
+
+1. NOC Support :
+
+· Network maintenance and Troubleshooting.
+· Co-coordinating with different service providers for maximum uptime of Sify’s backbone links and customer.
+· Coordinating with Vendors and different teams like Project management group, Broadband support, Corporate support for maximum uptime of network services
+· IN NOC maintaining the following networking devices: Cisco GSR 12406,Cisco GSR 12404 router, Cisco 7604 & 7206 routers & 3 COM Hipers, Cisco WS-C4506 Layer 3 switches, Different FMS modules & leased line modems and convectors(Ascom, RAD, etc), PRI lines, ISDN lines.
+· Assist in the establishment and implementation of LAN and WAN. 
+· Performing daily monitoring of network utilization, network traffic.
+· Backing up and recovering the IOS, Running and Startup configuration.
+· Network design for new network requirement.
+· Capacity planning and management of network devices for entire KA region.
+· Risk assessment and optimization of risk during a Change management.
+· Coordination between internal teams and Service delivery and Customer support team.
+
+2. RF Planning/Testing:
+
+· Possess adequate knowledge in planning, implementing, integrating and reviewing of RF   
+             devices (Access Points & Subscriber Units). 
+· Implementation of Subscriber Units for corporate customers. 
+· Implementation of Access Points at Base Stations.
+· Troubleshooting of P2P, P2MP RF links, Leased Lines, Optical fiber links & Customer links     
+       from PE to CE.
+· Monitoring the base station routers, switches & Access Points.
+· Planning & scheduling the POP down time for various upgrades and maintenance through 
+       change management.
+· Responsible for uptime of Dark Fiber links
+· Responsible for implementing Wireless Backhaul as a backup for the E1 link POP’s to 
+             avoid POP isolation during the E1 / EOS link failures. 
+· Involved in Implementing Dual lambda in metro base stations.
+Products Handled:
+
+Radwin : Models:  Win link 1000 Access, Pro, Combo.
+Radwin 2000 provides 100 Mbps net throughput Long range Point to point products.
+Proxim Tsunami MP.11 product family (5054-R,5054-R-LR, 5012 SU models) offers fixed and mobile Wi-MAX capabilities to distribute wireless broadband access
+Nexus family.
+Airspan Wi-MAX products: Micro Max 3.3 GHz and 5 GHz, centralized Operations & Management (O&M) system, Net Span.
+
+
+ROLES AND RESPONSIBILITIES (AMBEY ENTERPRISES) – Senior Engineer
+
+
+Job Responsibility:
+
+· Users raise tickets and we respond and attend the issues on time.
+· Worked in TCP/IP networking and Internetworking.
+· Maintaining devices like cisco Routers and Switches, cabling, communication lines, and other communication systems.
+· Assist in the establishment and implementation of LAN and WAN. Performing daily monitoring of network utilization, network traffic.
+
+
+ROLES AND RESPONSIBILITIES  (AMBEY ENTERPRISES) – Infrastructure Lead
+
+
+Summary of duties:
+· Coordination with internal teams for resolving network level issues.
+· Planning and Coordination for any in network infrastructure.
+· Active participation in network changes and expansion.
+· Network design for new network requirement.
+· Capacity planning and management of network devices for entire KA region.
+· Understanding and designing solution for new customer requirements.
+· Coordination between internal teams and Service delivery and Customer support team.
+
+
+PROJECT DETAILS - : 	
+
+ (FIBER CONNECTIVITY)
+
+      Title			: Internet Link on Fiber
+       BSO			:  Bell Teleservices 
+       Client			: KSDC (Karnataka State Data Center)
+       Description		: Internet circuit has been established for KSDC
+Responsibility		: Was involved in the Installation and configuration and was responsible for getting Fiber links between KSDC and Sify NOC. Installed and configured the Cisco 36xx routers and 35XX L3 Switches and HP H3C Switches and enabled at KSDC side). 
+
+
+(APERTO WI-MAX)
+
+TITLE	                 : TESTING OF APERTO DEVICE
+PERIOD	     : 3 MONTH
+DESCRIPTION   : This project was mainly to test the reliability for low bandwidth customer.
+
+(MUTHOOT FINANCE)
+
+TITLE	                    : MUTHOOT BLUE
+PERIOD	        : 6 MONTH
+DESCRIPTION   : This project was mainly to plan and implement wireless internet & IVPN connectivity to all branches in Bangalore and providing the MPLS infrastructure for Muthoot on Sify Backbone network.
+
+
+ACADEMIC PROFILE:
+
+	QUALIFICATION
+	INSTITUTION
+	PERCENTAGE
+	YEAR
+	UNIVERSITY
+
+	B.E in Electrical and Electronics
+	SJB Institute of Technology
+	65.25%
+
+	2013
+	Visvesvaraya
+Technological
+University
+
+	DIPLOMA in Electrical and Electronics
+	MEI
+POLYTECHNIC
+
+	
+68.66%
+	2008
+
+	Department of
+Technical Education
+
+	S.S.L.C
+
+	NEW PUBLIC ENGLISH SCHOOL
+	80%
+	2005
+	Karnataka
+Secondary
+Education
+Examination
+Board
+
+
+
+
+
+	EXTRACURRICULAR ACTIVITIES:
+
+
+1. Best cadet in NCC camp 2004.
+2. Participated in Rotary cycle expedition in 2004.
+3. Participated in blood donation camp through Rotary club Bangalore. 
+
+
+PERSONAL PROFILE:	
+
+NAME					:	PREM KUMAR.S
+FATHER’S NAME			:	(L) SHIVANNA.G.B
+DATE OF BRITH			:	04-12-1988
+LANGUAGES KNOWN		:	KANNADA, ENGLISH  AND HINDI
+PERMANENT ADDRESS      		:             #19/1,4th main, 5th cross,
+‘A’ Block Magadi Main Road, A.D Halli
+Bangalore-560079.				
+MOBILE NO				:	+919886615648		

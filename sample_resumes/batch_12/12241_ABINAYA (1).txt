@@ -1,0 +1,156 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABINAYA.T						Mobile: +91-9566274235
+Project Trainee					           Email: tabinayacse@gmail.com
+
+
+CAREER OBJECTIVE
+
+	To achieve a position that gives an opportunity to render creative solutions and quality services towards the progress of the organization and achievement of its business interests and acquire practical and professional experience in the area of Quality Assurance and Control.
+
+PROFESSIONAL SUMMARY
+
+· Having 1+ years of experience in Manual & Automation Testing on Web-based and 
+Desktop applications.
+· Presently working as a Project Trainee at Ramco Systems.
+· Exposure in testing web based applications, ERP applications using testing tools like Test Complete.
+· Experience in using Enterprise Tester tool for writing the test cases, executing the test cases and defect reporting. 
+· Used RTrack to manage, coordinate and report defects. 
+· Interacted actively with the team in identifying bugs.
+· Quick learner, Self-motivated and problem solving skills.
+· Good team player with an ability to work independently in a time sensitive environment.
+
+TECHNICAL EXPERTISE
+
+Functional Automation Testing Tools: Test Complete, Enterprise Tester, SeeTest Automation and Xamarin.
+
+Defect Tracking Tools: RTrack.
+
+Configuration Management Tools: VSS.
+
+Operating Systems: Windows, Mac.
+
+Technologies/Domain: HTML, CSS, J-script, Aviation.
+
+Testing: Automation, System Testing, Regression, Performance Testing.
+
+
+
+
+
+PROFESSIONAL QUALIFICATION
+
+· Bachelor of Engineering (Computer Science and Engineering) at Alpha College of Engineering, Thiruvallur district / Anna University during 2011 -2015, securing 7.12 CGPA.
+· Higher Secondary (HSC) at Guntur Subbiah Pillai T.Nagar Girls Higher Secondary School, Chennai in 2011, securing 75%.
+· Secondary School (SSLC) at Guntur Subbiah Pillai T.Nagar Girls Higher Secondary School, Chennai in 2009, securing 80%.
+
+ACHIEVEMENTS
+
+· Efforts towards R&D in Experitest tool was appreciated as “RESEARCH AND CRACK” at Ramco Systems ltd, Chennai dated Nov 2016.
+· Team of the Quarter for my contributions in Test Automation Using Test Complete Tool at Ramco Systems ltd, Chennai dated Nov 2016.
+
+PROJECT SUMMARY
+
+Project #1
+Project Title			:	 Base Aviation Modules Automation (Sales & Materials)
+Environment			:	 Jscript, SQL Server 2008
+Configuration Tool                           :              Visual Source Safe (VSS)
+
+Project Description:
+ Ramco Base Aviation Solution Release 5.9 –Sales & Materials Modules Automation
+· Recorded and play backed all the A,B & C classified left pane activities with the help of functional consultants and made the test suite Ready (Milestone 1 Achieved)
+· Tools/methods: Test Complete, Control & Data Excel, J script (80% Jscript approach & 20 % Key word approach)
+· Executing Recorded test suits of materials and sales modules for multiple regression programs such as product release and support release regressions and extracting test result Excel’s for analysis and fix
+
+Work Products & Nuances
+· Prepared generic automation script to use several times for several applications.
+· Designed a Data generator to generate data for web application.
+· Designed Flexible keywords for covering test cases of Web application.
+· Recorded a script through test complete tool and make useable classes and excels.
+· Test case writing, execution, reviews, bug reporting.
+·  Creation of J-Script functions and integrates them to the framework of web application.
+· Effective co-ordination between development team and testing team.
+· Design Jscript for generate output log and test results in Excel format.
+· Debugging the work-flow error as according to the configuration process by setting their time-out, actions and their allowed rules.
+· Design help documents for all keyword data.
+· As a member of the Scrum team participated in daily stand-up meetings. 
+· Tested applications compatibility on different platforms (Windows, Mac OS), browser versions (IE and Chrome) and IPAD Devices (iOS).
+· Performed testing in Mobile Apps.
+
+Project #2
+	Project Title			:	 Mobile Applications 
+Operating System		  	:	 Windows & Mac
+	Mobile Testing Tools		: 	SeeTest Automation and Xamarin
+
+
+Project Description: 
+Base Aviation Mobility APPS Automation: Warehouse, Mechanic and Approve Anywhere Apps
+· Performed exploration analysis for automating mobile app transactions in real devices using SeeTest Automation Tool and came up with feasibility findings such as
+· Ability to record test suite in one device and run it in other devices
+· Ability to input data through Excel using eclipse framework
+· Ability to capture success and error messages using eclipse framework
+
+Work Products & Nuances
+
+· POC -Analyzing various software automation tools on multiple parameters including cost.
+
+· Currently Working on Xamarin Test Recorder & Xamarin Studio Tool, we have automated basic cycles and exploring further on various capabilities and requirements.
+
+
+
+
+
+
+
+
+I certify that all the information furnished above is true and complete to the best of my knowledge.    
+			                                                                                		           
+									 (ABINAYA.T)
+

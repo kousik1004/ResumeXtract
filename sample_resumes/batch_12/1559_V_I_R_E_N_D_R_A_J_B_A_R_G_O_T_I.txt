@@ -1,0 +1,437 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sawyer - Resume A4
+
+
+ 
+
+V I R E N D R A  J  B A R G O T I  
+   System Administrator-IDC/ Senior Engineer  
+ 
+
+ 
+ 
+C O N T A C T  D E T A I L S  
+
+ 
+A/602 Surya Kiran, Plot No: 11,12 Sector: 34 
+Kamothe, Navi Mumbai: 410209 
+
+Mobile : 7666784410 |   Email ID : virendrabargoti@gmail.com 
+
+ 
+P R O F E S S I O N A L  E X P E R I E N C E  
+ 
+ 
+I have total 6.5 years of work experience which includes 5 plus years of working in Data Centre managing Linux servers, 
+Networking, Storage devices & implementing Data Centre infrastructure by following ITIL operation process & guidelines. 
+Completed RHCE, ITIL certification & also done DevOps course from reputed institute. Worked on RHEL, Ubuntu and HP-UX OS 
+for Administration, Troubleshooting and Implementing. Recently gained knowledge on HPUX, SAN infrastructure by being a 
+team member of implementing HA project totally based on HPE products. Also have a good exposure in DevOps with tools like 
+Docker, Jenkins, Ansible, Chef, AWS, Azure, etc. Always eager to learn and experience something new in IT. 
+ 
+
+ 
+E X P E R I E N C E  
+
+ 
+Senior Engineer - Aforeserve.com - From: May 2017 - Present       
+
+      
+
+• Implementing, Managing & Monitoring the Data Centre Infrastructure. 
+• Working in 24 X 7 shifts to maintain uptime of IDC infrastructure. 
+
+• Perform health check-up on all production & NR hardware for Monitoring. 
+
+• Implement Hardening on HPUX/Linux OS. 
+
+• Maintaining and also executing SOP related activities. 
+
+• Perform administration task like managing Filesystem, User management, etc. 
+
+• Managing & Implementing HP-UX Virtualization like NPAR, VPAR, SRP. 
+
+• Applying OS updates, patches and configuration changes. 
+
+• Managing & troubleshooting Linux, HPUX OS related issues. 
+
+• Installation of HPUX/Linux on HPE Integrity & other servers. 
+
+• Managing Storages like HPE 3PAR, XP7 for SAN administration. 
+
+• Managing and working on automation tools like Ansible & Chef. 
+
+• Implementing & Managing opensource tools like Jenkins, Docker, etc. 
+
+• Ensuring that the processes and procedures involving all company services are kept up to date & followed 
+appropriately. 
+
+• Managing Incident, change and problem managements per ITIL process. 
+
+• Server Hardware installation & configuration. 
+
+• Raise RFC’s for major & critical activities and follow up for same with concern teams. 
+
+• Raising and also technically updating the tickets in ticketing system for all the issues handled / worked. 
+
+• Co-ordination with different internal teams like Network, Firewall, Logistics, etc. for various Incidents & Changes. 
+
+• Maintain & update the assets of all IDC infrastructure. 
+
+• Ensuring high quality, consistent technical Customer Support ensuring that the Services meet their internally and 
+externally SLA. 
+
+     
+
+Data Centre Engineer-Linux - Pantheon India Inc. - From: Aug 2016 – Dec 2016    
+ 
+
+• Install & configure racks of hosts in line with internal SLA. 
+
+• Managing all Data Center changes/events/incidents/problems from beginning to end as well as overseeing   the 
+completion of post-mortems, root cause analysis and follow-up resolution actions. 
+
+• Triage & resolve trouble tickets for all devices in our region. 
+
+• Working on ticketing tool Remedy for day to day operation. 
+
+• Assessed, planned Change Management process.  
+
+• Chairing weekly Change Advisory Board (CAB) meeting and facilitated stakeholder analysis & impact assessment, 
+FSCs (Forward Schedule of Changes). 
+
+
+
+• Responsible for Asset and Inventory management. 
+
+• Manage and coordinate with vendors to resolve any incidents during emergency situations.  
+
+• Reviewing incident reports, documenting periodic trend summaries, and providing updates and recommended 
+actions to management. 
+
+• Managing information flow during incidents while providing regular updates to management. 
+
+• Physical replacement of servers and network devices. 
+
+• Replacement of server hardware parts motherboard, NIC, HDD, RAM, etc. 
+
+• Co-ordination with external Vendors like Dell, HP etc.  
+
+• Build & Deploy docker container for testing the application. 
+
+• Using Ansible & Puppet for deploying machines & configuration. 
+
+• Working in 24 X 7 rotational shifts. 
+
+• Maintaining the Data Center Setup by completely monitoring. 
+ 
+
+ 
+ System Administrator - Indiabulls Housing Finance Ltd. – From Mar 2015 – July 2016     
+ 
+
+• Manage & Support Data Center Infrastructure. 
+
+• Managing devices like Servers, Storage, Switches, Firewall, etc. 
+
+• Working in 24x7 shifts. 
+
+• Monitor the stability of our products with Solarwinds. 
+
+• Mounting/Un-mounting servers, network devices etc. 
+
+• Installation/configuration of Linux and Windows OS. 
+
+• Handle incident response, troubleshooting and fix for various product/services. 
+
+• Handle escalations as per policies/procedures. 
+
+• Get different internal/external groups together to resolve production site issues effectively. 
+
+• Communicate clearly on tickets, phone calls made to the team about various issues. 
+
+• Exhibit a sense of urgency to resolve issues. 
+
+• Managing vendors for internal/external projects. 
+
+• Build & deploy docker for some trading application. 
+
+• Managing & Support Virtualization setup of VMware, KVM.  
+
+• Installation of OS on the VMware, KVM. 
+
+• Taking Backup on the weekend basis. 
+
+• Providing on-call support on phone, email, tickets, etc. 
+
+• Raise, update and resolve the change tickets as per process. 
+
+• Logged and prioritized all Requests for Change (RFCs) with all required information to appropriate   
+standard and presented the daily and weekend.   
+
+• Logging the call with vendors like EMC, Dell, HPE for complete uptime of Data center setup.  
+
+• Work with our infrastructure team to deploy and maintain Linux/Windows servers.  
+
+• Assume personal responsibility for resolving problems in most effective way possible within SLA reaching root 
+cause and preventing problems. 
+
+ 
+System Associate - TATA Communication LTD.  - From: Sept 2012 – Oct 2014 
+
+ 
+
+• Working in 24 X 7 X 365 Shifts Environment (NOC). 
+
+• Using ticketing system like Viznet, Remedy for Day to day handling for incidents. 
+
+• Installation & Configuration of Windows/Linux OS like Redhat, Centos, ESXi, etc. 
+
+• Troubleshooting on server/network related issues based on tickets. 
+
+• User management on Linux/Windows OS. 
+
+• Providing technical support to (MHS)Managed Hosting Services customer. 
+
+• Support engineering and project teams during implementation of new build or special Projects, participate in 
+commissioning activities of new setup. 
+
+• Providing support to customer on call based on ticket. 
+
+• Monitoring data center infrastructure using tools like Nagios. 
+
+• Extend technical support to the Clients over email as well as phone. 
+
+• Ensure that the Tickets raised per shift are closed in the time limits and follow the escalation matrix defined. 
+
+• Raise and also update the tickets in Remedy & Viznet for all the incidents handled & resolve. 
+
+• Ensuring smooth IT operations and responsible for uptime of server and critical. 
+
+• Mounting & un-mounting the servers & other networking devices. 
+
+• Following up with Vendors whenever required & resolve issues by minimizing downtimes. 
+
+• Maintaining Incident, Problem management, Change management, CMDB trackers. 
+
+• Ensure earlier resolution to the issues to meet SLA. 
+
+• Managing the MHS Area & all Co-location area of IDC. 
+
+
+
+• Help project team in commissioning of new customer and change request 
+ 
+
+Operation Engineer - Webstream Communication Pvt Ltd.  From: April 2011 to July 2012    
+  
+
+• Creating the Webcast link and uploading the content. 
+
+• Broadcasting the webinar event & Travelling to Metro Cities. 
+
+• Maintaining Hardware/repairing of computer hardware. 
+
+• Managing & Executing the webinar event. 
+
+• Managing multiple vendors for Audio/Video/Hotel. 
+
+• Coordinating with national & international clients. 
+
+• Editing the Video for Archiving. 
+
+• Archiving the Webcast event. 
+
+• Managing & Executing the Voting Pad event. 
+
+• Coordinating with the clients. 
+
+• Coordination with Vendors for Audio Video setup. 
+
+• Maintaining the Encoder- Computer  
+
+• Managing & Arrangement for Video Conference. 
+ 
+
+E D U C A T I O N  
+ 
+ 
+
+T.Y.B.SC (C.S.)  :  D.G. Ruparel College 
+
+2006 – 2010    Mumbai University  
+
+      Second Class 
+ 
+
+H.S.C.   :   A.F.A.C Junior College       
+2004 – 2006    Maharashtra/Pune Board 
+
+      Second Class 
+  
+
+S.S.C.   :   A.F.A.C English School 
+
+2003 – 2004    Maharashtra/Pune Board 
+
+      First Class 
+
+ 
+
+A C H I E V E M E N T   
+ 
+
+ 
+
+  
+
+RedHat Certified Engineer (RHCE)  :   CERTIFICATE NUMBER: 140-103-334 
+
+ EX300     RHEL 6  
+
+ 
+
+  
+
+ITIL V3 Foundation     : CERTIFICATE NUMBER: GR750126918VB 
+
+ 
+
+ 
+
+DevOps Training Certificate     :  Training Certificate from Collabera 
+ 
+
+ 
+
+T E C H N I C A L  S K I L L S  
+ 
+
+ 
+
+ 
+
+Linux/Unix Administration  : RHEL 6/7, Ubuntu, HP-UX, CentOS 6/7 
+
+       
+
+ 
+
+Virtualization    : VMWare ESXi 5.5/6, AWS, Azure 
+       
+
+ 
+
+Server Hardware/Network : HPE, Dell Servers, Cisco Catalyst Switches 
+          
+
+  
+
+Tools    : Docker, Jenkins, Chef, Ansible, GIT, Nagios. 
+
+ 
+
+  
+
+ 
+
+ 
+
+  
+
+ 
+
+
+
+ 
+
+P E R S O N A L  D E T A I L S  
+     
+
+Name    :  Virendra Jagdish Bargoti  
+
+ 
+ 
+
+Date of Birth   :  11th January 1987 
+ 
+ 
+Languages Known  :  English, Hindi, Marathi 
+ 
+ 
+Marital Status   :  Single 
+ 
+ 
+Gender    :  Male  
+ 
+  
+
+ 
+
+D E C L A R A T I O N  
+ 
+
+ 
+
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for 
+
+the correctness of the above-mentioned particulars. 
+
+ 
+
+Place:          Thanking You, 
+
+(Virendra Jagdish Bargoti ) 
+
+

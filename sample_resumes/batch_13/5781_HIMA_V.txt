@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HIMA. V
+E-mail id: himakarthika@gmail.com
+Contact No: +91 9400437001
+
+
+
+OBJECTIVE
+Seeking a position in challenging and healthy environment where I can utilize my skills and knowledge 
+while being resourceful, innovative and flexible. 
+PROFESSIONAL EXPERIENCE SUMMARY
+
+· Having overall 2.3 years of experience in data warehousing, ETL design and development.
+· Having knowledge in Ab Initio and SQL.
+· Experience in Extraction, Transformation and Loading of data directly from different heterogeneous source systems like Database (db2) and from UNIX environment.
+· A quick learner with an ability to rapidly achieve organizational integration, assimilate job requirements and employ new concepts, methodologies and technologies.
+WORKING EXPERIENCE SUMMARY
+
+Working as Software Engineer in Syntel International Pvt Ltd, since July 2015 to October 2017.
+TECHNICAL SKILLS
+
+· ETL Tools
+
+: Ab Initio (GDE 3.1.2, Co>operating System 2.15)
+
+· Languages
+
+: SQL, Unix Shell Scripting
+· Databases
+
+: DB2, MySQL
+
+· OS
+
+            
+: Microsoft Windows, UNIX 
+
+PROJECT EXPERIENCE SUMMARY
+
+· Project #1:
+	Title 
+	
+	:
+	Pegasus Japan Project
+
+	Client
+	
+	:
+	American Express, USA
+
+	Role
+	
+	:
+	Developer
+
+	Designation
+	
+	:
+	Software Engineer
+
+	Tenure
+	
+	:
+	Nov’ 2015 - Aug’ 2016
+
+	Team Size
+	
+	:
+	8
+
+	Tools
+	
+	:
+	Ab Initio, DB2, Unix
+
+
+
+
+DESCRIPTION
+
+
+Global Commercial Card (GCC) has received an approval to migrate all legacy and shared International AR platforms to GlobeStar (G*), a modern industry standard system.  This overall effort, referred to as Project Pegasus (PP), a long term project and represents a substantial investment for the future of GCC. This Requirements Report addresses an important sub-project of Project Pegasus – the integration of data from G* into the Global Data Repository (GDR) known as the GDR G* Data Integration project, this effort enables the overall initiative by providing consistent, quality data to clients and internal systems to help manage their Commercial Card programs.  Specifically, it provides the CORE infrastructure to receive/store Transaction, Hierarchy and Demographic data related to Commercial Card accounts on G*. 
+
+RESPONSIBILITIES
+· Understanding of business & various applications 
+
+· Providing multiple technical and functional approaches
+
+· Interact with the Onsite coordinator, to get the System Requirements to cover the functionality , technical issues and scope of work
+
+· Developing the new functionality/ enhancing the existing functionality by making changes to the programs.
+
+· Involved in the enhancement activities based on the requirement.
+
+· Involved in giving code walkthrough to Production support team.
+
+· Project #2:
+
+	Title 
+	:
+	Service Establishment Data Quality (SEDQ)
+
+	Client
+	:
+	American Express, USA
+
+	Role
+	:
+	Developer
+
+	Designation
+	:
+	Software Engineer
+
+	Tenure
+	:
+	Aug’ 2016 – Oct’ 2017
+
+	Team Size
+	:
+	4
+
+	Tools
+	:
+	SQL, MS Excel, Client’s Webtool
+
+
+
+
+DESCRIPTION
+
+Service Establishment Data Quality (SEDQ) project is a support project which helps to maintain the data quality with respect to merchant details. SE numbers are generated each time when a customer swipes the AMEX corporate cards in various retail industries i.e. Airlines, Auto, Lodging etc. These SE numbers capture information of the merchant such as Merchant name, location etc.  SQL queries are used to get the merchant information captured in the system. This project authenticates such details by doing a complete search using web browsers. If there are any mismatch in the merchant details they are altered in the provided web application which directly reflects in GDR. All information from GDR regarding merchant details are explored using SQL queries. SE numbers are also chained to a particular hierarchy by identifying their brands. GDR also has the hierarchy, Chain & brand data and the same can be verified using SQL queries.
+
+RESPONSIBILITIES
+
+· Extract weekly SEDQ reports for Air, Auto & Lodging Industry.
+· Identifying the actual properties to which a SE belongs.
+· Locate the address of the SE’s for Hotel, Airlines or Auto Industry with their websites by an internet search.
+· Verifying the name and address along with ZIP in the website and our database (GDR - Global Data Repository) using SQL queries.
+· Updating our database if any mismatch is found.
+· If the merchant is unchained, then the brand and chain of the SE should be identified and the SE should be added to them.
+· Working on under SE’s according to the brand and move or add them to their respective brand.
+· Updating the weekly metrics with the working hours and counts for all SEDQ resources and sending the same to the client every week.
+· Completing additional responsibilities entrusted by the client within the expected time without any errors.
+· Handling ‘Client Inbox Requests’ as an additional responsibility.
+ACADEMIC SUMMARY
+· Completed MCA from St. Joseph’s College of Engineering & Technology, Palai, Kottayam in the year 2014 with an aggregate of 66%.
+· Completed BCA from Ettumanoorappan College, Ettumanoor, Kottayam in the year 2010 with an aggregate of 63%.
+PERSONAL PROFILE
+Date of Birth
+
+: 17th July, 1989
+
+Gender
+
+
+: Female
+
+Nationality
+
+: Indian
+
+Mobile No
+
+: +91 9400437001
+Email id
+
+
+: himakarthika@gmail.com
+
+DECLARATION
+I hereby declare that all the information stated above are true to the best of my knowledge and bear the responsibility for the correctness of the above mentioned particulars.
+
+
+
+
+
+
+
+
+
+
+HIMA. V

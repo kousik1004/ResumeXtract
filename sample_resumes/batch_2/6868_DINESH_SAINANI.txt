@@ -1,0 +1,200 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DINESH SAINANI
+
+                                                                   Pune, Maharashtra, India 
+Mobile: 09990561198 E-Mail: sainanidinesh19@gmail.com 
+
+
+Experienced Associate Actuarial Consultant with a demonstrated history of working in the insurance and actuarial industry. Good business understanding of Health insurance, US healthcare, Personal Line property insurance. Skilled in Pricing (especially for health products), GLM, Emblem, Data Science (Logistic Regression, Text Mining), SAS, Python, R, Shell Scripting, VBA and SQL. Strong professional with a Master of Computer Applications (MCA) focused in Computer Science from Birla Institute of Technology 
+
+
+
+
+ANALYTICAL PROFICIENCY:
+
+· Knowledge of performing Factor Analysis, Logistic Regression using SAS, Python and R.
+· Knowledge of performing GLM using SAS, R and Emblem.
+
+CAREER HIGHLIGHTS
+
+ Associate Actuarial Consultant, AXA Business Services
+
+ Oct’16 - Present
+
+Key Responsibilities:
+
+
+·  Currently supporting for GLM Risk Pricing models for 2 key perils for Property Personal Line Insurance for AXA UK, which includes data preparation, Analysis and Emblem modelling.
+· Successfully individually performed ELR (Expected Loss Ratio) Study for Property Personal Line Insurance for AXA UK, which includes Data preparation, Analysis and presenting different views for the whole portfolio.
+· Successfully performed Portfolio Experience Study for Group Health Insurance for AXA Indonesia, which includes data Handling, Cleaning, Analysis and Pricing.
+· Successfully completed GLM Risk Pricing models for AXA GULF, several GLM Models were built in this project; led data preparation part.
+· Successfully completed guidelines document for “Identifying Large Claims and their treatment”; took an initiative to perform Cluster Analysis to find anomalies.
+
+ Sr. Business Analyst, EXL Services
+
+May’13- Sep’16
+
+Key Responsibilities:
+· Worked for Aetna (one of the Fortune 500 US health insurer).
+· Successfully completed onsite assignment in Philippines where taken a key role in knowledge transfer and training onsite employees.
+· Automated the manual processes of information extraction from different type of file sources through UNIX shell scripting.
+
+· Experienced in  text mining for converting  an unstructured raw text file to a structured (CSV, xls etc) form using GATE tool.
+· Creating reports and analysis extracting data from clients’ data warehouse using SAS.
+
+
+Projects Undertaken (in AXA Business Services)
+
+   Group Health Pricing for Gulf Entities
+ 
+Objective and Role: Pricing activity for Group Health Insurance was performed for AXA Gulf Entities. This project includes below steps:
+
+· Led data preparation and regulating (Event Creation, splitting of policy data at month level, Merging of claim and policy data) activities.
+· Successfully completed Analysis of the group health portfolio at various level and proposed the modelling structure to the client.
+· Successfully build GLM models using Emblem.
+· Worked on Quotation Tool responsible for final pricing for a group by applying all adjustment factors such as Inflation, Large Claim Loadings, Business specific discounts.
+ 
+Skills used: SAS, SQL, Excel, Emblem
+
+Risk Pricing for AXA UK
+ 
+Objective and Role: Pricing activity for Property Personal Line Insurance was performed for AXA UK. This project includes below steps:
+
+· Individually performed and managed very vast data preparation to create profile table which matches with the previous profile table for modelling.
+· Created very wide range of rating factors (more than 400 factors), which includes MTA factors, NCD factors, factors from claim, external factors on postcode level.
+· Successfully completed EVT Analysis on cap-collar (outliers) assumption for different perils.
+· Different types of reconciliation performed.
+· Currently working on GLM models.
+ 
+Skills used: SAS, SQL, Excel, Emblem
+
+
+
+
+ELR (Expected Loss Ratio) Study for AXA UK
+ 
+Objective and Role: ELR study for Property Personal Line Insurance was performed for AXA UK. This project includes below steps:
+· Individually performed and managed very vast data preparation to create profile table which matches with the previous profile table for modelling.
+· Handled more than 400 rating factors in this activity.
+· Successfully completed prediction on new profile table.
+· Presented different ELR views to the partner based on various rating factors, which widely appreciated by all the stakeholders.
+· Received Best Enabler award as an appreciation.  
+ 
+Skills used: SAS, SQL, Excel, Emblem
+
+Group Health Portfolio Experience Study
+
+Objective and Role: Portfolio analysis for Group Health Insurance was performed for AXA 					  Indonesia Entities. This project includes below steps:
+· Led data preparation and cleaning ( Splitting of policy data at month level, Merging of claim and policy data) .
+· Successfully completed cap-collar analysis using EVT.
+· Led and completed Analysis of the portfolio at various level and presented to the client in visual analytics tool PowerBI.
+
+Skills used: SAS, SQL, Excel, PowerBI
+
+
+Projects Undertaken (in EXL Services)
+
+
+Process Analytics (Onsite Project in Philippines)
+
+Objective: Analysed some process related issues in our client’s care programme Outreach teams in Philippines. I created a SAS code for their Disease Management programme which helped the onsite teams to analyse the successful and unsuccessful calls, productivity of the call executives.
+
+Skills used: SAS, SQL
+
+Version Control Scripts
+Objective: Two scripts (Check-in and check-out) were created to control the different versions of a code in production folder. These scripts are responsible for allowing one user at a time to work on the original file with its unique check-in, check-out feature; also, these scripts maintain history of edited files.
+It was a highly appreciated project by client.
+Skills used: Putty, Unix Shell Scripting
+
+
+
+Text Mining from the unstructured file
+
+Objective: The objective of this project was to dig out the desired data for every patient from a colonoscopy report which is an unstructured free text file with the information of multiple patients’ colonoscopy test. This information is exported in a CSV file which contains a row for every patient. This information is used for filling a form at client’s end.
+
+Skills used: GATE (General Architecture for Text Engineering), JAPE (Java Annotation Pattern Engine).
+
+
+EDUCATIONAL CREDENTIALS
+	M.C.A. 
+	Birla Institute of Technology, Mesra
+	2013 
+	7.76(10)
+
+	B.C.A
+	MLS University, Udaipur
+	2010
+	71.00%
+
+	Higher Secondary
+	H.H.S.S. School, RBSE
+	2007
+	60.12%
+
+	Secondary
+	H.H.S.S. School, RBSE
+	2005
+	85.17%
+
+
+
+
+
+CERTIFICATION
+Successfully completed AHM 250 certification conducted by AHIP ( America’s Health Insurance Plans ).
+
+
+
+
+TECHNICAL SKILLS
+Statistical Tools: Base SAS, SAS SQL, SAS Macro, Microsoft Excel, R, Emblem
+Databases: SQL Server 2008 R2, Microsoft Access
+Programming Languages: Unix Shell scripting, C#, C++, C, VBA

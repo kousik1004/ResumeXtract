@@ -1,0 +1,251 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Satish Raghavan
+
+	Satish Kumar                
+	+91- 8335887412
+
+	
+	satish345@gmail.com
+
+
+       			
+
+CAREER OVERVIEW
+
+· 12+ years of diverse experience in the field of Information Technology with emphasis on Business Intelligence, Data Analysis with Pre-Processing, Data ware Housing & Inclined towards Data Science with R, Python and Spark ML.
+· Good Knowledge in Machine Learning – Supervised & Unsupervised, Predictive Analytics - Regression, Classification, Clustering & Time Series Forecasting.
+· Skilled in Spark ML Lib, R & Python for Machine Learning and Model building.
+· Skilled in preprocessing the data and bringing it in the best suitable form required for the ML algorithm. 
+· Hands on experience using various ETL tools such as Datastage & Informatica for DWH assignments. 
+· Extensive experience in requirement gathering and designing Analytical applications.
+
+EDUCATION
+
+Master in Computer Applications
+New Horizon College of Engineering 
+70% | 2006
+
+CERTIFICATION
+						
+	IBM Websphere Datastage 8.5 Certificate
+Post Graduate Program in Big Data Analytics and Optimization from INSOFE, Bangalore (ETC: Sep 2018)
+
+
+
+ACHIEVEMENTS
+
+· Received Best Collaboration award in March 2015 -- Wipro Technologies.
+· Received Excellence Award in Apr 2016 – Wipro Technologies.   
+· Received Excellence Award in Jan 2014 – Wipro Technologies.
+· Received 5 years Longs Service Award in August 2011 – Polaris Financial Technologies Ltd
+						
+Data Science Projects 
+
+	#1 Project
+	Disease Identification/Diagnosis 
+Enabling the client, a chain of hospitals, to provide proactive healthcare by predicting the probability of a stroke.
+
+
+	
+	Approach: On Pre-processing the Data through PCA and K Mean clustering applied stacking of models to achieve better prediction accuracy 
+Models Built: Data preprocessing, including handling class imbalance; various Visualizations techniques for data exploration, application of various ML algorithms for
+maximizing evaluation metric of AUC-ROC score .Decision Tree, Logistic Regression, Naïve Bayes, KNN Classifier, SVM (Linear), Random Forest 
+
+
+	Technology
+	Data Loading: Spark
+Software Language: R & Python
+Data Visualization  : ggplot & plotly
+
+
+
+	#2 Project
+	Prediction of Company Bankruptcy
+The attributes are various financial ratios and the target is whether the 
+company will bankrupt or not in the subsequent years.
+
+	
+	Approach: On Pre-processing the Data through PCA and K Mean clustering applied stacking of models to achieve better prediction accuracy 
+Models Built: Decision Tree, Logistic Regression, Naïve Bayes, KNN Classifier, SVM (Linear), Random Forest 
+
+	Technology
+	Data Loading: Spark
+Software Language: R & Python
+Data Visualization  : ggplot & plotly
+
+
+
+
+
+	#3 Project
+	Prediction of credit card payment defaulters
+The data depicts the cases of customers’ default payments in Taiwan. Given the general information, past payment history and bill history of customers, the task is to predict customers that might default the credit payment in the subsequent month.
+
+	
+	Approach: Data exploration and pre-processing prior to model building
+Models Built: Logistic Regression and Naïve Bayes
+
+
+	Technology
+	Data Loading: Spark
+Software Language: Python
+Data Visualization  : R
+
+
+
+
+TECHNICAL SKILL
+
+	Big Data Tool
+	HDFS, Sqoop, Hive & Spark
+
+	Databases
+	Oracle & Teradata
+
+	ETL Tools
+	Datastage & Informatica
+
+	Software Language
+	Python, R & Spark
+
+	Data Visualiazation Tool
+	R & Python
+
+
+
+
+ONSITE EXPERIENCE
+
+	Company
+	Date
+	Client Location
+
+	Polaris Financial Labs Ltd.
+	Oct 2007 – Feb 2008
+	NYC, US
+
+	Polaris Financial Labs Ltd.
+	May 2008 – Feb 2009
+	NYC, US
+
+	Polaris Financial Labs Ltd.
+	Oct 2009 – Mar 2010
+	Sydney, AUS
+
+
+
+
+
+CAREER HISTORY
+
+	Company
+	Date
+	Position
+
+	UST Global
+	August 2016 - Till Date
+	Senior Analyst
+
+	Wipro Technologies
+	March 2012 – August 2016
+	Solutions Consultant
+
+	Polaris Financial Labs Ltd.
+	July 2006 – February 2012
+	Associate Consultant
+
+
+
+
+
+Employer – UST Global, India       							 			                            Aug’ 2016 – Till Date
+
+	Role
+	Technical Lead
+
+	· POC on Recommender Engine using User-Based Collaborative Filtering for Product Suggestion
+· Creation of Data Lake using Hadoop consisting of 200+ Table from heterogeneous Data sources
+· Working on POC for Conversion of Datastage ETL jobs using Sqoop, Python & Spark
+· Delivered 30+ Enhancements on Datastage over 2 years  
+
+
+
+
+Employer – Wipro Technologies, India       							 			                   Mar ’2012 – Aug’2016
+                                
+	Role
+	Tech Lead/ Developer/Implementation Manager
+
+	· Hands on experience in BFSI, MFG-Hitech & Retail domains on Data warehouses.
+· Expert in Test Data Management, Data warehouse, and Backend testing using SQL queries
+· Proven experience in managing/leading/coordinating multiple Software Development Resources/Teams, Test activities, and multiple Programs/Projects at multiple geographic Locations
+· Hands on experience using Waterfall Development methodologies
+· Proven experience in implementation of QA best practices, Testing Strategies and Methodologies in Software Development Life Cycle and Software Test Life Cycle stages.
+· Mentoring the team mates and helping them in the Project work is also a part of the responsibility.
+
+
+
+Employer – Polaris Financial Labs Ltd, India       							 			       Jul’2006 – Mar’2012
+
+	Role
+	Developer
+
+	· Understanding the requirements from the business.
+· designing the Specification Document 
+· Designing the ETL Jobs as per the requirement
+· working on the adhoc changes received 
+· Preparing Summary Reports and Lesson Learnt documents from the previous project’s development and testing experience.
+
+
+
+
+

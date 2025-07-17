@@ -1,0 +1,330 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OBJECTIVE:
+
+ SUMANTA KUMAR ADHIKARI
+Group Manager, Advanced Analytics; IBM India 
+
+ 
+
+
+ 
+           Passport No.:  K9244955
+
+M. Tech. in Quality Reliability & OR
+
+                  
+
+                        Mobile:  (+91)8454001942
+
+Indian Statistical Institute, Kolkata; 2003.
+                                                                                                  sumanta_adhikari@yahoo.com
+
+
+PRESENT STATUS:
+Working in Cognitive Business Decision Support team at IBM India from 12th October,2015 onwards as Group Manager, Advanced Analytics.
+
+CAREER PROFILE:
+· 15 Years of work experience in different fields of analytics across domains, across business units, across techniques. 
+
+· Lead a team of 12, including 3 Managers. Responsible for their KRA \ Goal setting & appraisal at Idea Cellular Limited.
+
+· Drove large transformation initiatives consisting of multiple vendors & different departments across organization.
+
+· Timely accomplishing bigger milestones in large analytical framework & facilitated it’s conversion into business ROI.  
+
+· Strong analytical & data understanding capability. Hands on experience in Data Mining, Forecasting & Text Mining.
+
+· Knowledge of different domains, exposure to different business problems and relevant solutions. 
+
+· Proven capability to deliver results both as an individual contributor and as a team leader.
+
+CAREER NARRATION:
+IBM India (From 12th October 2015 onwards)
+DESIGNATION:
+Group Manager, Advanced Analytics, Cognitive Business Decision Support
+JOB PROFILE:
+
+Being a part of the Analytical Leadership team, I am instrumental in driving new business initiatives as well as driving the existing projects to on time delivery. Currently leading the Advanced Analytics practice based out of Kolkata location. Managing a 9-member team directly and overseeing another 3 resources.
+JOB DESCRIPTION:
+
+Leadership Role - Account Mining:
+
+To increase the penetration of Advanced Analytics in the existing accounts, an initiative was taken to keep traction with the Managers of the existing IBM accounts and through them pitch analytical value-adds to the clients. This involves a thorough understanding of the business needs of the account, potential business challenges that they are facing, sizing & effort estimation & solution roadmap creation etc. Some of the key such initiatives that later converted into new projects are as follows:
+· Nestle Price Elasticity Solution: In order to populate the optimization model with the expected behavior of consumers to a price change properly, the relationship between quantity and price must be estimated and put into a mathematical formula to be used within the optimization engine. According to the basic principle of nature on supply and demand, when prices increase, consumers will demand less of a good or service. When prices decrease, the reverse happens. The goal of the demand modeling is to estimate the degree of response for quantity to a change in price.
+The team has worked on to calculate the Own Price Elasticity of one set of products for different Market & SKU’s. They went on to derive the Cross-Price Elasticity of the same set of SKU’s against its competition.  Further, the team has also developed the Split Price Elasticity models. All these models were developed in R environment and were compared against the existing SAS environment models. This project received huge client appreciation with client agreed for next phase of this work. Additionally, the client has asked for support to solve some existing business challenges.
+· AmerisourceBergen Robotic Process Automation: The business challenge is to create a standalone service to automate benefit verification process for coverage of specific treatment \ services, as well as how much insurance will pay for these services, if anything at all. Current State Process can be split into three parts.
+
+· Intake part has no scope of improvement.
+
+· Eligibility of verification, 2nd part of the process is also outside the scope of refinement. 
+
+· Our scope is to automate the process of benefit verification checking which is currently done by Verification Counselor.
+
+After the verification depending on the accuracy of the data either it is sent to the provider or it is returned to the CRM System to recover.   
+As a part of the automation process developed machine learning algorithms using R to predict the requisite parameters with certain degree of confidence. The idea is, if for certain record all parameters are predicted with certain degree of accuracy, the record will not be scrutinized manually, but the recommendation will be provided immediately.
+The final automation rate in the implemented environment was calculated around 35-38% on a day to day basis.
+· Anthem Robotic Process Automation: Insurance Companies gets a lot of customer information from multiple channels. The challenge that Anthem is facing is to identify a customer uniquely. The bigger challenge is, in case of scenarios where the identified unique customer is not actually unique. Then chances are high that confidential health related information of one individual is send to another person. If such a situation happens then the organization must pay huge penalty.
+
+So, the expectation is twofold:
+
+· Ensure that the customers who are contacting through different touchpoints are identified as unique customer.
+
+· Two different customers cannot be kept under same umbrella at all.
+The result was deployed at 96% accuracy level (zero tolerance in the critical parameter) with an automation rate of 45%. 
+· Ikea Customer Analytics & Pricing Analytics: Ikea is one of the largest global retailer into home furnishing business. IBM has its long presence into Data warehousing and BI area. Next logical step would be to step into Advanced Analytics area.
+
+Along with existing Lead Architect, the team identified two areas where Advanced Analytics PoC can be done - Pricing & Customer Analytics. Conceptualized solution framework and data model for the identified use cases. Helped Ikea team members to come upto speed in terms of Advanced Analytics model building (in R); and presenting findings using a single integrated Visualization platform (using .NET framework). 
+
+The team has recently presented the overall concept and implementation in front of the client (during their Offshore visit) team. There is a new set of work in the pipeline. 
+
+There are couple of more threads are also in discussion mode.
+· Idea Cellular Watson Agent Assist Pilot: Call centers receive numerous calls regarding various issues and sometimes they are repeat calls. Also, it is difficult for agents to attend to different issues fast and give prompt as well as accurate response. Indian telecom giant, Idea Cellular, a prime client of IBM also faced this issue at many call centers. The Goal was to create an automated Chatbot for Idea call center agent, to help in handling their huge amount of customer calls efficiently. 
+
+Watson Agent Assist is a chat-based interface – a guide on all possible steps required for call handling. Watson Agent Assist Pilot a cognitive assistant that understands natural language and provides solutions to call center agents through conversation, was undertaken for selected business processes to assist agents in call handling and getting it “First Time Right”. The key objectives (Results in brackets) of the POC were –
+
+Watson Accuracy – Measure and improve Watson Accuracy based on feedback from experienced agents (Grew from 68% on Day 1 to 89% on Day 7, while the initial target was to achieve 80% accuracy)
+Repeat TAS Reduction - Reduce calls from same customer for same issue (6.9% reduced)
+
+Feedback – Capture customer feedback (96% Users felt that Watson would help reduce Repeat Calls) and Help in training new agents fast. Overall avg. Rating – 8.4/10.
+
+This POC received huge appreciation from client and top leaders of IBM, Client is evaluating the business and cost benefits to take this forward and asked IBM to work on the next phase.
+Leadership Role – New Account Creation:
+
+
+Apart from exploring existing opportunities, the team was also involved in creating new opportunity creation. This includes both creation of new accounts as well as creation of new solutions.
+
+· Godrej Vector Borne Disease Predictor: Leading the engagement to predict the intensity of the spread of vector borne diseases using weather data. Later, the project was extended to predict sales using these indices. ML algorithms were used for these.
+
+· Bata Store Productivity Improvement:  Bata Singapore is struggling to maintain it’s market share & they wanted to leverage Analytics to improve their Store productivity. As a part of the work, analyzed data of 10 stores (of overall 41 stores that Bata has in Singapore) and provided insights. We segmented the stores based on their transactional, customer profile & sales pattern, identified stores where actions can be taken and also recommended possible actions. The recommendations include bundling of non-moving products with regular products, store specific incentive for digital transactions etc.
+· Bank of Cyprus Customer Analytics: Converted a small request of providing an answer to a query of an RFP to a full-fledged project. Supported the Presales phase, had a few rounds of client calls to explain & convince them about our competency. Also, provided complete support to the IBM Greece team (Sales & Pre-sales) in answering technical and logistic (finding references) queries.  The idea is, once this get converted, this will be primarily delivered from here by me & my team.
+· IBM Maintenance Optimization Aviation Cognitive Platform: IMO is IBM's big bet Product in the Predictive Airlines Maintenance area. Team contributed in developing the Advanced Analytics modeling framework on selected Use case. This resulted in huge appreciation successfully and promise for next two quarters to take this initiative forward.
+Leadership Role – Team Development:
+
+
+· Currently leading the Advanced Analytics practice in Kolkata. Currently having a team of 9 members. 3 more resources are my dotted line reportee.
+
+· To spread the awareness about Advanced Analytics, taken sessions on Advanced Analytics across multiple project & service lines.
+
+Individual Contributor Role - Project Delivery:
+· Worked in a POC to develop a failure detection model of Tunnel Boring Machine for a large Infrastructure company located in Malaysia.
+· Initiated the implementation of CRM Analytics for Turkish Airlines. As a lead of 3 data scientists I am currently involved in customer enablement (onsite) business & data understanding (onsite\ offsite). As a part of agreement, the team is supposed to deliver customer value segmentation (for the entire customer base), customer behavioral segmentation (for the entire customer base), Segment wise churn models, upsell models for identified products. This project was purged due to political uncertainty at Turkey.
+· As a part of solution development team created an analytical driven solution known as Pro-active Learning Experience (PLE) for the Learning & Knowledge Team. This solution is envisaged as a customized solution catering to the employee learning needs across organizations.
+· Lead a team of 3 freshers to streamline the global supply chain management system of the Royal Dutch Shell Group. The team successfully reduced the overall execution time to less than 3-hours against the initial execution time of nearly 27/30 hours. The overall project duration was 4-weeks only and the technology used by the team was R.
+Capita India Ltd. (From 4thAugust 2014 to 28th August2015)
+DESIGNATION:
+Deputy General Manager (Head) Analytics
+
+JOB PROFILE:
+
+As a part of the organization’s transformation initiative, create its Analytics vertical. The three-fold expectation from this role are; bringing on the table a strong thought leadership to envisage the analytical opportunities that can be serviced for the existing clients, translate these opportunities to tangible revenue stream by driving the pre-sales & delivery initiatives, ensure the spread of analytics as an integral part of strategic decision making within the organization. Gradually this team is expected to grow to a level where it can create its own opportunities and support Capita by providing them the competitive edge while they are bidding for newer accounts. Creation of an agile team with a mixture of in-house resources & external experts is a part of the expectation. This team can be grown based on need.
+JOB DESCRIPTION:
+
+Opportunity Creation:
+· Multiple business analytics modules were prepared for the existing clients that comprises of text analytics, forecasting and other business analytics modules using different available datasets. These were to showcase our understanding of clients’ business as well as competency in diversified analytical approaches. A holistic proposal is prepared and presented showcasing our analytical insights and art of possibilities to help the client.
+
+Internal Focus:
+· Worked closely with HR and other cross functional team members to analyze Employee Satisfaction results. Also gave relevant actionable inputs to the Directors.
+
+· Was instrumental in re-visiting the productivity & FTE calculation method. This alternate approach is proposed to different on-shore teams for their views. Once approved, it will be rolled out as standardized method of calculating productivity & FTE.
+
+Idea Cellular Ltd. (From 6th June 2011 till 1st August 2014)
+DESIGNATION:
+Deputy General Manager (Advanced Analytics)
+
+JOB PROFILE:
+
+Build the Advanced Analytics Framework and to ensure the spread and acceptance of analytics across the organization. Cater to the analytical needs of different verticals of the organization (corporate as well as circles), both as an individual contributor and also as a team leader. Enable the business end users about the analytical findings and potential benefits coming out of it. At the same time raise timely alert to the business users (including senior management) about potential threats envisaged and corresponding business impacts. Provide necessary inputs related to impact on analytical processes (and value-adds that analytics can provide) for upcoming transformation initiatives or product\ consulting initiative.
+JOB DESCRIPTION:
+
+Leadership Role:
+· Driving the Business Benefits by Effective Churn Management Program:
+Currently top 70% of the pre-paid stable customer base (about 90% revenue generators of) in all of the 22 Circles is covered under Churn management programs. 150+ different Analytical Models were developed, deployed & regularly monitored by our team. The deployed models are integrated seamlessly with the Campaign Management system so that the updated scores get reflected into CM system. Campaigns are regularly executed by the Operations team with the help of these output. Around 60% of the base on which Marketing initiatives takes place is identified by analytical scores (for all the Voice, VAS & Data businesses). As of the latest calculations campaigns run on the basis of base identified by these models are expected to give around INR 1 billion of incremental revenue.
+
+· Institutionalized the Analytical Modeling Process across Organization: 
+Streamlined the requisite processes for model development. Ensured the TAT of each process is optimized without compromising on the quality parameters. By rolling out Server based Code access mechanism, the consistency & sanity of the ABT (& hence the model) is maintained. Currently post business problem identification, the TAT of the complete modeling cycle up to operationalization of scores is around 15 person days.  Also put the Model Tracking mechanism for Analytical Model Performances in place. Identified the KPI’s to be tracked, tracking cycle & inferences to be drawn out of the tracking mechanism. In case the tracking shows a deterioration of performance of any model, a challenger model is developed by the team (similar or alternate statistical techniques) for models with better performance. Won the deal against competitors like Accenture & SAS. The project will start from January.
+
+· Navigating from Product-Centric Approach to Customer Centric Approach:
+To get maximum benefits out of the campaigns, a new more customer centric approach was initiated. To identify the affinity of the customer towards a specific product & specific price point a two stage analytical approach is currently explored. The first stage is to segment the customers using their usage & revenue parameters & the second stage is to identify the most likely product based on their product consumption history in recent past (through association \ sequencing methods).
+
+· Driving the Transformation Initiatives:
+As a leader of Analytical team, one of the major achievements is to drive the transformation initiative (taken by Idea & the IT partner IBM in December 2010) and ensure that it gets business acceptance. As a functional Project Manager, my job is to co-ordinate and track with multiple IT & Analytics vendors and ensure that due diligence is maintained at their end in terms of quality & timeliness of their output. Also, need to regularly assess the impact of transformation projects\ initiatives (Business Intelligence \ Campaign Management) on analytical processes and ensure that the necessary risk mitigation system is in place.
+
+· Increased Business Interfacing:
+In an effort to play larger role in providing analytical solution for existing business problems one initiated a process to understand the business problem, translate it into analytical problem and give the corresponding download to the team. Similarly, understand the suitable analytical solution and ensure that it gets correctly translated into actionable business solution to the end user. 
+
+Some of the analyses driven in this line include:
+
+· Identifying the data pockets within a circle for focused campaigning of data packs
+
+· Identifying quality of new acquisition base based on its initial days of usage to differentiate the intensity of the handholding products.
+
+· Identifying potential migrant subscribers so that they can be addressed during the migrating period
+Individual Contributor:
+· Conceptualized analytical modeling approach for Churn prediction for Voice, VAS & Data verticals. Developed and tested it for multiple circles, based on different business definition of churns (pre-paid customer base).
+
+· In a unique initiative to increase the usage days among the irregular users, a predictive analytical model was developed to identify among the users of the previous day how many of them are not going to use in next few days.
+Cross Functional Activities:
+
+· Designed the analytical roadmap and make it in sync with the organizational focus.
+· Articulate and tactically manage issues and handle resolutions encompassing technology and new processes.
+SAS Institute India Pvt. Ltd. (From 3rd January 2008 till 2nd June 2011)
+DESIGNATION:
+Consultant
+
+JOB PROFILE:
+Held the dual responsibility of Pre-sales as well as consulting for Analytical Practice. As a part of consulting activity, drove the analytical implementation of SAS solution for the complete implementation life cycle. As a part of SAS Sales support team, was engaged in showcasing SAS (mostly analytical) capabilities and identifying business value-add for different prospective customers. Enablement of (consulting) Partners, developing the Proof of Concepts, replying the RFP documents were also part of my job. 
+JOB DESCRIPTION:
+
+
+Consulting Activity:
+
+Short Term Load Forecasting Implementation at BSES, New Delhi (Dec-2010 to May-2011): Drove the Short Term (Day Ahead) Forecast of Power Demand at company level (for 2 companies Rajdhani & Yamuna) implementation at BSES, New Delhi single handedly. As a part of the implementation my role includes starting from defining the Scope, prepare the solution definition document, analyze the gaps in the data, rectification procedures, forecasting & fine-tuning, automation and getting the final sign-off from the customer. The Project went live on 2nd of May, and out of first 30 days, 21 days it was attaining an accuracy level of 97% or above.      
+Analytical CRM Implementation at Maruti Suzuki India Limited(Oct-Dec 2008): As a part of consulting team for SAS CRM implementation at Maruti Suzuki India Ltd. completed 2 Cross-sell & Up-sell models for true value & created customer segmentation based on the type of vehicle he is buying from MSIL. 
+Pre-sales Activity:
+As a pre-sales resource clinched deals on Data Mining at ARCIL, AVIVA Life Insurance & IndusInd Bank, was a major contributor in the win of Geetanjali group. Completed a deal win for Fraud Framework implementation at Securities and Exchange Board (SEBI). Opportunities where I was involved at different stages of sales cycle include one Government Undertaken Oil Company, one state Sales Tax Department, one of India’s largest Automotive Companies etc.  
+
+Some key assignments completed in as a pre-sales resource include:
+
+· Identified potential irregular dealers from a list of 350,000 dealers (over 4,800,000 transactions) on the basis of circular transaction report and linear transaction report. The first report was provided within one hour of receiving the data (NOV-DEC2010).
+
+· Completed a cross-sale model POC and identified potential customers in an automotive company. Initial reports suggest a 13% positive leads vis-à-vis 1% of base line conversion (OCT2010).
+
+· In a large Oil Sector Company, got amazing level of accuracy in forecasting Sales of High Speed Diesel for 5 months running. Got a country level accuracy of over 98% month on month basis which is clear 2-5% above the current solution the organization is using (JUN-OCT2010). 
+Text Analytics:
+Picked up a newly acquired product (Teragram) without any proper training and successfully completed the POC with a huge data volume (more than 500,000 records in all). This was done at one of the largest Indian Private Banks, where E-mail routing was automated using call-logs and historical e-mails. Post the POC, helped our global counterparts in their POCs with the knowledge acquired.  After that POC, completed another couple of Text Analytics POCs for different verticals. 
+Forecasting:
+Upgraded the global standard Scenario Analysis Demo Solution by adding more user-friendly features and new forecasting & optimization scenarios. The whole Scenario Analysis was represented in Portal using SAS Enterprise BI solution.
+
+As a part of the team, created a solution in one of the largest Pvt. Banks for the ATM cash management.  The solution was implemented in a phase-wise manner and the ROI’s have started coming from day1. At the first level, the cash outflow for ATM was predicted for quite a few ATMs on a daily basis. This was supplied to the concerned person so that he can take necessary actions. Then at the next level the cash prediction was optimized based on different criteria. In the final level, through route optimization, the transportation cost was also reduced.
+Knowledge Sharing:
+2 of the 3 Entries that I have made in 2009 for SAS Global knowledge sharing portal were among top 5 entries in terms of popularity. One of the entries "Text Mining in Banking Domain using SAS Text Miner and Teragram" was ranked 3rd and the other "ATM Cash Forecasting Solution - A Pre-sales Pitch" was ranked as 5th. Also, with other SAS Global colleagues conducted a Tech Exchange program on Text Mining for Global consultants and Tech support teams (on 24th February). Helped SAS Singapore with the Text Mining POC, SAS Argentina with ATM Cash Forecasting. Other than these resolved plenty of queries from within & outside India on Data Mining, Text Mining & BI.
+Professional Achievement:
+· Received SAS Excellence Award for the contribution of successful completion of Analytical CRM Implementation at Maruti Suzuki India Ltd in January, 2010.
+
+· Received SAS Outstanding Performance in Pre-Sales award for Q-3 2010 from SAS Institute India.
+Global Decision Sciences Lab, GE MONEY (From 13th September 2005 to 5th December 2007)
+DESIGNATION:
+Assistant Manager
+JOB PROFILE:
+As a leader of the team; was responsible for managing all UK related projects and other activities. Had direct client interaction; scheduled the projects by calculating the effort and managing the resource and knowledge. At the same time as an individual contributor I also delivered multiple projects of strategic importance. From February 2007 onwards; supported GE Money Bank, Germany in its KYC & other analytical needs. 
+
+JOB DESCRIPTION:
+
+Auto to Cash Loan Cross-sell Model:
+
+
+· Built a cross-sell model for auto loan customers in Germany to respond to the cross-sell offers of cash loan.
+Know Your Customer, GE Money Bank Germany:
+· Worked on the in-depth customer profiling of internet-banking customers of GE Money Bank Germany.
+
+· Completed Active Customer Base Analysis. This looks into customer choice of products, the product transitions, time between two products etc. Based on this analysis, some key strategies on acquisition and cross-selling are proposed.
+
+· Completed the customer profiling of Money Market Customers of GE Money Bank Germany. 
+Headroom Identification GE Money, UK Mortgage:
+· Identified and quantified the 2nd Mortgage customers of GE Money UK Home Lending who have potential of further borrowing. Using this analysis one has identified potential headroom of multi-million dollar for them.
+Cards to Mortgage Cross-sell GE Money, UK:
+· Provided analysis of closed accounts and Never-active accounts to identify segment(s) for 1st mortgage direct mail campaign.  As a follow-up action to the above analysis, the customers were identified for mailing. 
+
+· Using consolidated database for direct-mailing cross-sell campaigns (cross-selling 1st mortgage to unsecured loan customers by direct mailing) for the months of January 2005 to June 2006 demonstrated to business the reduction in conversion rate for the most profitable segment of customers and also to identify the segment of customers having lower conversion rates. The same data was used for other analysis like identifying the group of customers whom we can offer the loans at lower APR.
+Customer profiling and segmentation GE Money Bank, Russia:
+· Profiled the customers of a bank in Russia based on Socio-demographic variables and economic variables. Followed up with an in depth analysis on the Sales Finance loan holders and credit card holders for the same bank. This analysis was used in cross-selling the right product to the right person (for the customers in SF base) and increases the credit card business by providing right offers.
+Leadership Role:
+· Conducted the Annual Off-site of the whole team (comprising of 80 members including families and children). Shown the leadership qualities starting from identifying the spot, to deciding on logistics, and deciding on events\gifts, conducting the events smoothly. 
+
+· Shouldered the responsibility of a team of 5 people and successfully lead the team from October 2005 to December 2006. The team delivered over 100 reports & 4 modeling projects in 2006 alone. 
+SYSTAT SOFTWARE ASIA PACIFIC Ltd. (From 1st August 2003 to 12th September 2005)
+DESIGNATION:
+Senior Statistical Analyst
+JOB PROFILE:
+As a member of the core development team, worked in a team to develop Six-Sigma Module (Add-on) for version-12 (jointly with the experts of ISI, Bangalore). Instrumental in providing the algorithm for the development of different new statistical features (giving special attention to the features in Quality Analysis Module) that have been implemented in SYSTAT (version-11). 
+JOB DESCRIPTION:
+· Developed algorithm for few features like Moving Range Charts, Non-normal Control Charts in the upcoming Add on module of Six-Sigma for SYSTAT 12 and Run Chart, Run Tests in Control Charts & XMR Chart that were introduced in SYSTAT-11 Quality Analysis module. 
+
+· Tested the coding of those features and the overall software at different phases.
+
+· Coauthored the manual for the existing version. 
+Seminars & Conferences:
+· Panelist of Panel Discussion on “AI in Customer Science - Enabling Growth and Engagement” as a part of Analytics Event (C2i – Collaborate to Innovate) held in HSBC Kolkata on 26 April, 2018.
+
+· As an eminent speaker delivered a talk on “Robotic Process Automation Using Machine Learning in Healthcare” and, also delivered the valedictory speech on short term course on 'Biomedical Data Analytics' (BioMeDicS-2017) on September 17, 2017 at IIT Kharagpur.
+· Took a Tech Talk Session at IIT Kharagpur on 1st September,2017 on behalf of IBM. The focus of the Tech Talk was on HR Analytics.
+· Conducted a 2-day "Data Sciences and Analytics Workshop" on behalf of IBM in the Tech Fest of NIT Raurkela on 5th & 6th November,2016.
+· As an invited speaker, gave lectures on “Marketing Analytics” at Shailesh J. Mehta School of Management, IIT Bombay, on 18th October, 2014. 
+
+· As invited speaker presented in Big Data Innovation Virtual Summit held during 31st October-1st November, 2013 on “Soaking Into Big-Data Analytics: A Telecom Approach”. Link: http://membership.theiegroup.com/2840
+· As invited speaker in the One-day Seminar on “Application of Statistics related to Data Analysis” organized by The Department of Statistics, University of Mumbai presented “ABC of Marketing Analysis” on 2nd of March 2013.
+
+· Presented papers on addressing Quality related business concerns using features of Quality Analysis module in Systat in couple of conferences.
+
+Articles:
+· https://www.linkedin.com/pulse/forgotten-inward-eye-analytics-focusing-employees-sumanta-adhikari/
+· https://www.linkedin.com/pulse/missing-link-art-data-science-sumanta-adhikari/
+EDUCATIONAL:
+
+Educational Qualification:
+· Completed Master Of Technology in Quality, Reliability & Operations Research at Indian Statistical Institute (66.4%) in 2003.
+
+· Completed Post-graduation from University of Calcutta in Statistics (53%) in 2001.
+
+· Graduated in Science from R. K. Mission Residential College, Narendrapur (51.75 % in Statistics Honors & 49.6% in aggregate) in 1999.
+
+· Completed schooling from Baranagore R. K. Mission High School (81.9 % in standard 10 board examinations in 1994) & B. T. Road Govt. Sponsored Higher Secondary School (69.6 % in standard 12 board examinations in 1996)  
+PERSONAL:
+
+Address:         
+
+Permanent: 
+BG-175, Sector-II, Salt Lake City, Kolkata-700091.
+PRESENT:
+
+BG-175, Sector-II, Salt Lake City, Kolkata-700091.
+Date of Birth:         
+11th February 1978 (11-02-1978)      

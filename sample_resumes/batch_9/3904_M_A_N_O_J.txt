@@ -1,0 +1,362 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MAN OJ  ADDANK I  
+SAPUI5 & FIORI Consultant                                                                          Email: amanoj1201@gmail.com 
+
+                                                                                                        Mobile: +91- 9967878544 
+ 
+
+S/o Addanki Satayanarayana,K.Jaggavaram(Village),T.Narsapuram(Mandal),WestGodhavari District,Andhra 
+pradesh-534467 
+
+ 
+Experience Summary 
+
+2 Years 6 Months of experience in SAPUI5, FIORI with around 20 implementations & multiple support 
+projects. Worked on various technologies like SAP NETWEAVER GATEWAY Using OData Services. 
+
+Technical Summary: 
+ 
+
+ SAPUI5 & SAP Fiori. 
+ SAP ODATA. 
+ HTML5, CSS, JavaScript, jQuery, JSON. 
+
+ REST, XML, SOAP. 
+ IDE’s: Eclipse, Web IDE. 
+
+ 
+Additional Skills: 
+
+ Mobile Apps with SAP HANA Cloud Platform. 
+ Launchpad creation and Tile creation of SAPUI5 apps. 
+ Roles assignment to the SAPUI5 apps. 
+
+ Databases: MySQL. 
+ Expertise in Debugging of SAPUI5. 
+ Custom SAPUI5 controls creation. 
+ Development of SAPUI5 Application in HANA cloud platform using the xsoData and XSJS. 
+
+ 
+ 
+
+Professional Summary 
+ 
+Organization :  Rigved Technologies, Mumbai 
+Duration :  March 2015 to Till Date 
+Role                      :  SAPUI5 & FIORI CONSULTANT 
+
+Technologies        :  SAPUI5, ODATA 
+
+Designation :  Associate Consultant 
+
+ 
+ 
+PROJECTS HANDLED: 
+ 
+PROJECT #1   
+Client : Reliance JIO Infocomm Limited 
+
+Project Name : Issue Material to Channel 
+Project Type : SAP FIORI/ SAPUI5, Cordova, JavaScript and HTML5 
+Duration : May 2015 to August 2015 
+Role : SAPUI5 Developer 
+ 
+
+ 
+
+Responsibilities: 
+ Dashboard design , Maintaining the assisted care information like jio center ,  
+
+Dispatching Materials, Scanning Serial Numbers, Delivery Numbers, StorageLocationss etc. 
+ Integrating the OData service on SAP ABAP.  
+ Build on Phone-gap. 
+
+ 
+Description:  
+JIO 4G is going to Launch in Dec 2015. I had been engaged with SCM MM Team and Assisted Care 
+contains the information of jio center available in Material Dispatching, Serial Number Scanning Material , 
+distributed channel etc in analytical form. It’s a pure HTML web application but for maintaining the 
+responsiveness we used Bootstrap, Jquery Mobile and css media query. 
+ 
+
+mailto:amanoj1201@gmail.com
+
+
+PROJECT #2   
+Client : Reliance JIO Infocomm Limited. 
+Project Name : Physical Inventory 
+Project Type : SAP FIORI/ SAPUI5, Cordova, JavaScript and HTML5 
+
+Duration : August 2015 to December 2015. 
+Role : SAPUI5 Developer. 
+ 
+
+Responsibilities:-  
+ Dashboard design, showing the data using different types of physical inventory numbers like 
+
+pending, In Process, Completed status in Master List  
+ Application data contains information about physical Inventory Numbers, Material Posting.  
+ Integrating the OData service on SAP ABAP. 
+
+ 
+
+ 
+
+Description:  
+This application was more about containing Movement type describes the type ofstockposting 
+ininventory. It represents the posting in stock is due to which type of order like whether stock is  
+posted against goods receipt or goods issue. It’s a pure HTML web application but for maintaining 
+theresponsiveness we used Bootstrap, Jquery Mobile and css media query. 
+ 
+ 
+
+ 
+
+PROJECT #3   
+Client : Reliance JIO Infocomm Limited 
+Project Name : Transfer Order 
+Project Type : SAP FIORI/ SAPUI5,JavaScript and HTML5 
+
+Duration : January 2016 to April 2016. 
+Role : UI Developer 
+ 
+
+Responsibilities:-  
+ Develop modules for displaying Transfer Material Order No’s status. How many Materials are 
+
+Dispatched, Pending and Returned.  
+ Integrating the OData service on SAP ABAP. 
+
+ 
+
+Description: It is a basically HTML Mobile application. The main functionality of this application displaythe 
+Transfer Order No’s Details. It’s a pure HTML web application but for maintaining the responsiveness we 
+used Bootstrap, Jquery Mobile and css media query. 
+ 
+PROJECT #4   
+Client : Reliance JIO Infocomm Limited 
+Project Name : Daily Transaction Register 
+Project Type : SAP FIORI/ SAPUI5, JavaScript and HTML5 
+Duration : January 2016 to May 2016. 
+Role : UI Developer 
+ 
+
+Responsibilities:-  
+ Develop modules for displaying GRN, Dispatch material, Stock Transfer Transactions along with 
+
+related Order No’s based on Date.  
+ Integrating the OData service on SAP ABAP. 
+
+ 
+
+Description : It is a basically HTML Mobile application. The main functionality of this application 
+displaythe Transaction Details based Date. It’s a pure HTML web application but for maintaining the 
+responsiveness we used Bootstrap, Jquery Mobile and css media query. 
+
+
+
+PROJECT #5   
+Client : Reliance JIO Infocomm Limited 
+Project Name : Pop Up Type 
+Project Type : SAP FIORI/ SAPUI5,JavaScript and HTML5 
+Duration : June 2016 to December 2016. 
+
+Role : UI Developer 
+ 
+
+Responsibilities:-  
+ Develop modules which have functionality is Select Parent Material from available 
+
+materials after child materials available based parent material. Showing Event numbers in 
+master list  
+
+ Integrating the OData service on SAP ABAP. 
+ 
+
+Description : It’s a pure HTML web application but for maintaining the responsiveness we used 
+Bootstrap,Jquery Mobile and css media query. This Application is saying only for Material Handling. 
+Materials handled based on Event numbers available in master list 
+
+ 
+
+PROJECT #6   
+Client : Reliance JIO Infocomm Limited 
+Project Name : Pop Up Store 
+Project Type : SAP FIORI/ SAPUI5, Cordova, JavaScript and HTML5 
+Duration : December 2016 to January 2017 
+Role : UI Developer 
+ 
+
+Responsibilities:-  
+ Develop modules which have functionality to Issue the Materials and Returned Material to 
+
+customer. Delivery a material based on serial number. Showing Event No’s in Master List  
+ Integrating the OData service on SAP ABAP. 
+
+ 
+
+Description : It’s a pure HTML web application but for maintaining the responsiveness we used 
+Bootstrap,Jquery Mobile and css media query. Scan the serial number using camera and manual 
+
+entry in input field. 
+
+ 
+
+PROJECT #7   
+Client : Reliance JIO Infocomm Limited 
+Project Name : Return To Dc  
+Project Type : SAP FIORI/ SAPUI5, Cordova, JavaScript and HTML5 
+Duration : January 2017 to April 2017 
+Role : UI Developer 
+ 
+
+Responsibilities:-  
+ Develop modules which have functionality to Issue the Materials and Returned Material to 
+
+customer. Delivery a material based on serial number.   
+ Integrating the OData service on SAP ABAP. 
+
+ 
+
+Description : It’s a pure HTML web application but for maintaining the responsiveness we used 
+
+Bootstrap,Jquery Mobile and css media query. Scan the serial number using camera and manual 
+entry in input field.Return the damage material to JIO center, 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+PROJECT #8   
+Client : Reliance JIO Infocomm Limited 
+Project Name : Display Article Master 
+Project Type : SAP FIORI/ SAPUI5,JavaScript and HTML5 
+Duration :      April 2017 to September 2017 
+Role : UI Developer 
+ 
+
+Responsibilities:-  
+ Develop modules which have functionality to Display the all information regarding every 
+
+and every material.  
+ Integrating the OData service on SAP ABAP. 
+
+ 
+
+Description : It’s a pure HTML web application but for maintaining the responsiveness we used 
+Bootstrap,Jquery Mobile and css media query. Display Material Information like 
+Quantity,Mesaurments,Serial Numbers etc based on day to day. 
+ 
+
+ 
+PROJECT #9   
+Client : Reliance JIO Infocomm Limited 
+Project Name : Issue Against Reservation 
+Project Type : SAP FIORI/ SAPUI5, Cordova, JavaScript and HTML5 
+Duration :      September 2017 to Present 
+Role : UI Developer 
+ 
+
+Responsibilities:-  
+ Develop modules which have functionality to Issue the Materials and Returned Material to 
+
+customer. Delivery a material based on serial number. Showing Reservation Numbers ’s in 
+Master List  
+
+ Integrating the OData service on SAP ABAP. 
+ 
+
+Description : It’s a pure HTML web application but for maintaining the responsiveness we used 
+Bootstrap,Jquery Mobile and css media query. Scan the serial number using camera and manual 
+entry in input field. 
+
+ 
+ 
+ 
+Educational qualification: 
+
+ Completed B.Tech (Information Technology) from Sri Vasavi Institute of  Engineering and 
+
+Technology, TadepalliGudem, Andhra Pradesh with 66% Marks. 
+
+ Secondary Education from Siddartha junior college, Eluru, Andhra Pradesh with 83% marks. 
+
+ S.S.C from Z.P High school, K.Jaggavaram, Andhra Pradesh with 72% marks. 
+
+Personal Details 
+ 
+Nationality  : Indian 
+
+Gender   : Male 
+Languages Known : English, Hindi 
+Pan Card                     : BJGPA04484 
+ 
+
+I hereby declare that the above furnished information is true to the best of my knowledge. 
+
+Place: Mumbai                                          Manoj Addanki 
+ 
+
+
+	Organization :  Rigved Technologies, Mumbai
+	Duration :  March 2015 to Till Date
+	Designation :  Associate Consultant
+

@@ -1,0 +1,256 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UMAPATHY
+
+PALANISAMY N
+
+Phone: +91 9952852476
+EMAIL ID: n.psamy88@gmail.com
+
+OBJECTIVE
+
+                   Seeking for a challenging technical position, where my skills and knowledge can be enhanced, shared, applied and enriched. Overall 6+ years of experience in IT environment as a Administrator with hardware management.
+PROFESSIONAL QUALIFICATIONS
+Completed M.Sc [IT] (2010) in Kongu College of Arts & Science Karur. Secured an aggregate of 66.98 %
+
+Completed B.Sc Physics (2008) in Government College of Arts & Science Karur. Secured an aggregate of 69.41 %
+
+Completed HSC (2005) in Government Higher Secondary School Karur. Secured an aggregate of 65.16 %
+
+Completed SSLC (2003) in Government High School Karur. Secured an aggregate of 84 % 
+PROFESSIONAL EXPERIENCE
+
+Designation
+:
+Aix Administrator 
+Organization
+:         Wipro InfoTech PVT LTD.
+
+Client
+
+:         Karur Vysya Bank.
+    
+Duration
+:
+August 2016 to till date. 
+Designation
+:
+Aix Administrator 
+Organization
+:         Wipro InfoTech PVT LTD(Retainer).
+
+Client
+
+:         Vasan Healthcare Private Ltd. & Karur Vysya Bank.
+    
+Duration
+:
+October 2014 to August 2016. 
+Designation
+:
+Engineer Desktop Management
+Organization
+:         Adecco India Private Ltd. (Franchise of Wipro)
+Client
+
+:         Vasan Healthcare Private Ltd.
+    
+Duration
+:
+April 2013 to October 2014. 
+Designation
+:
+Engineer Desktop Management
+Organization
+:         Primaccess Technologies (Franchise of Wipro)
+Client
+
+:         Vasan Healthcare Private Ltd.
+    
+Duration
+:
+July 2012 to April 2013. 
+Designation
+:
+Linux Admin 
+Organization
+:         Crown Solutions India (P) Limited (Franchise of Wipro)
+    
+Duration
+:
+July 2011 to February 2012. 
+Designation
+:
+System Administrator 
+Organization
+:         Prabhu a agencies.
+Duration
+:
+June 2010 to December 2010
+Roles and Responsibilities: 
+
+· Domain: Aix, Linux, Backup, Storage
+
+· Handling, installing and troubleshooting in AIX 5.3/6.1/7.1/7.2, Linux flavors of Red Hat, centos, suse and Ubuntu.
+· Installed software, patched and maintained system performance by performing system monitoring and troubleshooting system hardware, software, networks and operating systems.
+· Performed file system maintenance relative to mounting and unmounting, periodic cleanup and troubleshooting any discrepancies in performance of the file systems. 
+· Mount point utilization monitoring and clearing unwanted logs.
+
+· User, group creation, modification, deletion. User profile configuration.
+· Sudo installation and configuration for restrict the user privileges.
+
+· Nim configuration to install server and take the mksysb for aix servers.
+· Vio server management, lpar creation and resource allocation for lpars.
+
+· Scheduling jobs using crontab and at command. NTP server and client configuration.
+· Red Hat satellite server mapping and client configuration for getting update and new package installation for RHEL.
+
+· Ssh configuration for secure the server (root login block, password less login etc..)
+
+· Good LVM skills, used LVM, created VGs, LVs, and disk mirroring.
+· Varyon varyoff the VG and export, import for move the volume group to another server 
+
+· Mirroring the disk in rootvg. Blv creation and set the boot order to disk in rootvg.
+· smitty command to easy installation and modification in aix
+
+· File and directory permission managed based on customer requirement using chmod, chown, sticky bit, ACL, firewall command. 
+· Writing Shell scripts using ksh, bash for process automation of databases, applications, backup
+· IP configuration using LACP, Etherchannel, routing, VLAN concepts.
+· Removing and adding the device using cfgmgr. Change the device attribute and modify device performance in online 
+· Performed administrative tasks such as System Startup/shutdown, Backup strategy, Documentation, User Management, Security and Network management.
+
+· Physically monitoring P series and x series servers. Collecting snap, SOS logs to find and fix the hardware problems in p & x series servers switches storage library etc. 
+· Enabling and configuring kdump for receive vmcore file if any kernel error in linux server. 
+· Managing and maintain the server logs (syslog, corn log, errpt, audit log, history, etc..) /application logs/database logs. Using log rotate files are dumping for auditing purpose.
+· Monitoring the server processes, CPU & Memory utilization, network, pagin pageout values through errpt, vmstat, iostat, topas, nmon, ps command output and analyze for RCA if any bottleneck in the serves
+· Installing, configuring and managing the HMC for managing the p series servers and monitoring the server health status through HMC.
+
+· Using HMC LPAR creation, CPU and memory movement using DLPAR, IO card assigned unassigned to lpar, hardware replacement, BIOS configuration for server through ASM.
+· Monitoring and managing the x series servers, blade servers in rack setup using IMM console for installing and managing the Linux servers.
+· Handling backup and restore process using Tivoli storage manager.
+· Knowledge to install TSM V6, TSM V7 and configuration.
+
+· Installing and configuring TSM BA client for communication the TSM server.
+
+· Configuring TDPO for taking oracle RMAN backup through online.
+
+· Configuring dsm.opt, dsm.sys file for LAN free backup.
+· Define the TS3500, TS3310 library, tape drive in storage manager.
+
+· Path define to communicating the library and server.
+
+· Scratch, private and cleaning tape check in and checkout for backup process.
+
+· Using Define, Update, delete command managing all library, tape drive, node, stgpool, etc.
+· Installing and updating tape drive & library firmware version up-to-date.
+· Perform restores of customer data as well as assist in complete server recovery due to failures or as part of disaster recovery scenarios using TSM.
+
+· Define and configure the client schedules and administrative schedules.
+
+· Solving Failed and missed backup problems and to work on root causes.
+· Monitor components of TSM, including databases, logs, tape libraries, messages and backups.
+· Handling DS3K, DS4K, DS5K, DS8K, V7K Storage and brocade switches.
+· Installing and configuring the IBM DS Storage manager and add it to manage the entry level IBM storages.
+· Connectivity of Storage with SAN Switches and pSeries, xSeries Server, Tape library.
+· Using WWN number of devices creating the alias name. Using Zonecreate command device adding and enabled configuration for further use.
+
+· Checking the FC connectivity from device to SAN switch to successful data transfer.
+
+· Configuring and replacing the switch SFP ports. Collecting the switch logs using switchshow, supportshow command. Disble, enable, restart the ports for fix the error.
+· Creating and managing storage pool for allocating the LUN to hosts or hostgroups
+· Adding Hosts and Host Groups on Storages with server WWN number.
+· Creation of Arrays, Logical Volumes (LUN) and mapping, un mapping, extend, reduce to Hosts\Host groups.
+· Creating the LUN with compressed or uncompressed, thin provision or thick provision like based on storage configuration and assigned to hosts. Migrate the LUN to different storage pool or different storage.
+· Troubleshooting of IBM SAN using recovery guru and analyzing event logs and ASD Logs, and taking configuration backup.
+
+· Analyzing controller load performance and monitoring the storage performance.
+
+· Configuration mail alerts to mail recipients for any H\W failure for IBM Storages.
+
+· Replacing failed Disks, PSU, SFP, FC cable and any H\W.
+
+· Willing to adapt to flexible work hours including evenings and weekends 
+
+· Handling & Coordinating with various vendors for hardware procurement, Installation, configuration and troubleshooting of hardware & software. 
+
+· Prompt the incidence reporting & escalating to next level.
+
+· Ensuring the effective management of hardware and software assets.
+
+Personal information
+· Date of Birth
+
+:   25.05.1988 
+
+
+· Father name
+
+:    Natesan A
+· Nationality
+
+:    Indian
+· Languages
+
+:    English, Tamil,
+· Present address
+:    4/57 Maharajapuram main road, Santhosapuram, Chennai 600073.
+· Permanent address
+:    11/28 VaalkattuPudhur, Mookanangurichi PO Karur, TN. - 639005.
+Declaration
+
+I hereby declare that all the particulars stated above are true to the best of my knowledge and assure that I will put the best out of myself.
+
+      Yours faithfully,
+
+
+
+Palanisamy N
+                                  
+
+
+
+
+

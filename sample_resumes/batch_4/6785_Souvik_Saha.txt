@@ -1,0 +1,567 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		 Souvik Saha
+
+SUMMARY
+· SAP ABAP with SAP NetWeaver 7.40 Certified 
+· ITIL® Foundation Certified
+· More than 10 years of experience in Software Industry as an ABAP Consultant in SAP R/3 along with ABAP on S4 HANA in MM, SD, PP, FI/CO, PSCD, EHS modules.
+· Expertise in managing teams across locations
+· Expertise in Full Software Development Life Cycle (SDLC) implementation of SAP R/3.
+· Expertise in working on CDS/ AMDP .
+· Heavy experience in ABAP/4 Interfaces development, Data Conversions, Enhancements, User Exits.
+· Good experience on BAPI, ABAP/4 Object programming.
+· Multiple projects on Data Migration with BDCs, Legacy System Migration workbench (LSMW) for data upload for various SAP Projects.
+· Experienced in using various modularization techniques like subroutines, Function modules, RFC’s and class modules.
+· Good experience in Dialog Programming, designing and developing layouts and forms using SMARTFORMS /SAP Scripts/ Adobe Forms.
+· Expertise in performance analysis and tuning using various debugging tools like run time analysis and sql trace.
+· Good Experience using ABAP/4 Workbench Tools, reporting, customization, conversion and data extraction.
+· Excellent communication and time management skills with strong analytical, problem solving and decision-making capability.
+· Good Understanding of both business processes and technical development.
+· 3 Months of experience in Configuration Management for Auditing.
+
+TECHNICAL SKILLS
+ERP		:	SAP R/3 4.7, ECC 5.0 , ECC 7.4
+Languages	:	ABAP for S/4 HANA, ABAP, C, C++
+Database	:	Oracle
+Technical Areas	:	CDS			AMDP		Reports	Smart Forms	SAP Scripts 		Adobe Forms 	LSMW		Debugging	Interface 	SAP Proxy
+			Enhancements	OSS Notes	FPM		Web-Dynpro	Workflow
+			Online Programming				
+	
+WORK EXPERIENCE:
+1. Company		: Accenture Solutions Pvt. Ltd. 
+Duration 		:12th September, 2011 – Present
+Project Details:
+
+	Sl. No.
+	Client
+	Details
+
+	1.
+	Kirloskar Brothers Limited
+		Timeline
+	July’17 – Till Date
+
+	Role
+	Associate Manager
+
+	Module
+	FI,SD,MM,QM,PP,PPSD
+
+	Environment
+	SAP Version 7.4, ABAP on S4 HANA
+
+	Responsibilities
+	· Managed a team of around 15 members to deliver the RICEFW objects.
+· Responsible for understanding and analysing the high priority RICEFW objects and assign the same to respective team.
+· Monitor the SIT/UAT defects and get them resolved ASAP along with the team.
+· Coordinate and communicate with the Functional team to understand the requirement clearly and deliver with minimum rework.
+· Guide my team to deliver the objects with quality and to help them in resolving the issues.
+· Follow and adhere to Accenture Guidelines and Policy for development.
+
+	Development Type
+	CDS, AMDP, Reports, Enhancements, SAPScripts, Smartforms, BADI, User Exits, Function Modules, Flat File Interfaces, Adobe Forms
+
+
+
+
+	2.
+	Family and Community Services
+(FACS), Government of Australia
+		Timeline
+	October,2015 –June’17
+
+	Role
+	Associate Manager/Team Lead
+
+	Module
+	P2P, FI, EHS
+
+	Environment
+	SAP Version 7.2, ABAP/4
+
+	Responsibilities
+	· Managed a team of around 20 resources across multiple locations to get the objects delivered as per the timelines
+· Responsible for understanding and analysing the Client's Functional Requirement and prepare the Technical Specification for the same. Map the AESG provided solutions and find the GAPS in requirement which needs to be addressed.
+· Perform the Quality check for the code being delivered to maintain the Project Standards and Naming Conventions.
+· Coordinate and communicate with the onsite counterpart /Functional team to understand the requirement clearly and deliver with minimum rework.
+· Define the Data Migration Strategy. 
+· After go-live, I was responsible for understanding and analysing the Hypercare incidents and assign the same to respective team.
+· Monitor the SLA breach time for the incidents.
+· Coordinate and communicate with the onsite counterpart /Functional team to understand the requirement clearly and deliver with minimum rework.
+· Guide my team to deliver the objects with quality and to help them in resolving the issues.
+Follow and adhere to Accenture Guidelines and Policy for development
+
+	Development Type
+	· Reports, Enhancements, SAPScripts, Smartforms, LSMW, BADI, User Exits, Function Modules, Flat File Interfaces, IDOCS and ABAP Proxy interface, Web Dynpro, Adobe Forms.
+
+	Achievement
+	Received the ACE Award [FY16 Q3 - Client Champion].
+
+
+
+
+	3.
+	British Petroleum
+		Timeline
+	April,2013 –  October,2015
+
+	Role
+	Team Lead/ABAP Developer
+
+	Module
+	FI, SD,PP,QM
+
+	Environment
+	SAP Version 7.2, ABAP/4
+
+	Responsibilities
+	· I was responsible understanding and analysing the Client's Functional Requirement and prepare the Technical Specification for the same along with design and deploy various LSMW objects in FI and MM modules.
+· Perform the Quality check for the code being delivered so as to maintain the Project Standards and Naming Conventions.
+· Coordinate and communicate with the onsite counterpart /Functional team in order to understand the requirement clearly and deliver with minimum rework.
+· Guide and help junior members as and when required.
+· Look into the issues and guide the team to deliver the objects with proper standards and documentation 
+· Worked on multiple sub-projects at the same time .
+Follow and adhere to Accenture Guidelines and Policy for development
+
+	Development Type
+	· Reports, Enhancements, SAPScripts, Smartforms , BADI, User Exits, Function Modules, Flat File Interfaces, IDOCS and ABAP Proxy interface
+
+	Achievement
+	Received the ACE Award [FY13 Q4 for Business Operations].
+
+
+
+
+	4.
+	NEWCREST MINING LIMITED
+		Timeline
+	June,2012 – April,2013  
+
+	Role
+	ABAP Developer
+
+	Module
+	FI,MM,SD
+
+	Environment
+	SAP Version 6.0, ABAP/4
+
+	Responsibilities
+	· I am responsible understanding and analysing the Client's Functional Requirement and prepare the Technical Specification for the same.
+· Perform the Quality check for the code being delivered so as to maintain the Project Standards and Naming Conventions.
+· Coordinate and communicate with the onsite counterpart /Functional team in order to understand the requirement clearly and deliver with minimum rework.
+· Define the Data Migration Strategy 
+· As a senior resource, guide and help junior members as and when required.
+· Follow and adhere to Accenture Guidelines and Policy for development.
+
+	Development Type
+	Reports, Enhancements, SAPScripts, Smartforms , Adobe Forms ,BADI, User Exits, Function Modules, Flat File Interfaces, Web Dynpro
+
+
+
+
+	5.
+	Microsoft
+		Timeline
+	March,2012 – June,2012
+
+	Role
+	BI-ABAP Developer
+
+	Module
+	BI
+
+	Environment
+	SAP Version 6.0, ABAP/4
+
+	Responsibilities
+	· As an ABAP Consultant I had developed different Objects in BI-ABAP based on the client requirement. 
+· I had perform the performance Improvement on different extractors as well.
+· Development Types: BADI, User Exits, Function Module
+
+	Development Type
+	BADI, User Exits, Function Modules
+
+
+
+
+	6.
+	Saffron
+		Timeline
+	October,2012- February,2012
+
+	Role
+	ABAP Developer
+
+	Module
+	MM, SD, PP
+
+	Environment
+	SAP Version 6.0, ABAP/4
+
+	Responsibilities
+	· Development of new objects (such as LSMW objects, SAP Scripts) as per client 
+· requirement,
+· Resolution of Support Requests,
+· Technical Development of the Support Requests.
+· Analysing the issue and resolving the same sticking to the Project Quality Norms within the specified time line.
+· Documentation (Technical Specification, Unit Test Document and Code Review Document) in Common folder
+
+	Development Type
+	Report, Smart forms, SAP Script, User-Exit, Interface, LSMW, Enhancement Points.
+
+
+
+
+
+
+2. Company		: Capgemini India Pvt. Ltd.  
+Duration 		: 30th March, 2010 – August,2011
+Project Details:
+	Sl. No.
+	Client
+	Details
+
+	1.
+	SteelCase
+		Timeline
+	November,2010 – January,2011
+
+	Role
+	ABAP Developer
+
+	Module
+	WM, SD, PP
+
+	Environment
+	SAP Version 6.0, ABAP/4
+
+	Responsibilities
+	· As an ABAP Consultant, I have to develop different Objects based on the client requirement.
+· Development Types: RF Transactions, Reports, Interfaces
+Development of various documents such as Technical specification, Unit testing,etc
+
+	Development Type
+	RF Transactions, Reports, Interfaces.
+
+
+
+
+	2.
+	Alcatel Lucent
+(France)
+		Timeline
+	April,2010 – November,2010
+
+	Role
+	ABAP Developer
+
+	Module
+	MM, SD, PP, FIN
+
+	Environment
+	SAP Version 6.0, ABAP/4
+
+	Responsibilities
+	· Resolution of Support Requests,
+· Technical Development of the Support Requests.
+· Analyzing the issue and resolving the same sticking to the Project Quality Norms within the specified time line.
+· Documentation (Technical Specification, Unit Test Document and Code Review Document) in Common folder.
+
+	Development Type
+	Report, Smart forms, SAP Script, User-Exit, Interface, Routines, Online Programming, Enhancement Points.
+
+	Achievement
+	In addition to my regular work I participated in Innovative Business Prototyping Solution (IBSP), 2010 and developed a tool called enhanced Job Monitoring Tool. This was also published in Capgemini internal newsletter called SAP COE Times in the Month of October, 2010.
+
+
+
+
+
+
+3. Company		: IBM India Pvt. Ltd.
+Duration 		: 9th March, 2007 – 29th March, 2010
+Project Details:
+	Sl. No.
+	Client
+	Details
+
+	1.
+	Philip Morris International – Poland
+		Timeline
+	9th March 2007 – 29th March, 2010
+
+	Role
+	ABAP Developer
+
+	Module
+	MM, SD, PP, FIN
+
+	Environment
+	SAP Version 5.0/4.2, ABAP/4
+
+	Responsibilities
+	· Solving priority tickets, mainly critical and urgent ones that have high impact on production system. Time and effort estimation to solve different tickets based on the priority. Documentation in Solution Manager.
+· Application Development: Developing different objects as per client’s requirements.
+ 
+Mini Project: Migration of Purchase Order Layout from SAP Script to Smart forms 
+Project Description: In PMI the purchase orders were being printed using SAP Script for 22 different affiliates. Over the period of time due to different requirements of the affiliates the SAP Script had become difficult to handle and also while changing the SAP Script and testing the outcome it was time consuming to debug the issues. So, it was changed to Smartforms in order to have easier maintenance and more flexibility.
+Responsibilities: 
+- Understanding the business requirement
+- Technical Analysis and proposal of the technical solutions
+- Development and parallel testing
+- Documentation
+
+	Development Type
+	Report, Smart forms, SAP Script, User-Exit, Interface, OSS Notes, Online Programming
+
+	Achievement
+	I had successfully accomplished this critical and extremely complex development which was running as a separate mini project entirely under the purview of my responsibility. The development 	was on Smart forms to allow higher integrity, flexibility and dynamicity for printing Purchase Orders for multiple affiliates in multiple languages.
+This development was also published in the IBM internal newsletter and has also been selected as nomination for the Innovation Award, 09.
+The development is also nominated for the Enterprise Business Awards, 09.
+
+
+
+
+
+
+ACHIEVEMENTS:
+1. Certified as C_TAW12_740 Development Associate – ABAP with NetWeaver 7.40
+1. Certified as ITIL® Foundation Examination
+1. Received the ACE Award [FY16 Q3 - Client Champion] at Accenture.
+1. Received the ACE Award [FY13 Q4 for Business Operations] at Accenture.
+1. Participated in the Innovative Business Prototyping Solution (IBSP, 2010) at Capgemini. Our solution Enhanced Job Monitoring tool was showcased in the Capgemini internal newsletter India SAP CoE Times.
+1. Client as well as team recognition as an expert in smart forms at IBM.
+1. Received the Star of the Month Award for the Month of July, 2008 from the PMI Project at IBM.
+1. Clients’ appreciations for solving critical problems in Report, Enhancements, Smart forms and in case of OSS Note implementations at IBM.
+1. One of my developments has been nominated for the Innovation Awards and is also published in IBM internal newsletter.
+The same development is also nominated for Enterprise Business Awards, 09.
+1. Involvement in Configuration Management using the SDMS tool to create Audit report for three months (July’2008 – September’2008 ) at IBM.
+
+EDUCATION:
+	Qualification with Specialization 
+	Institution Name & City (School/College)
+	University Name & City / Board Affiliated to
+	Program
+(Part Time / Full Time)
+	% age marks / CGPA
+
+	MCA
+	Jadavpur University, Kolkata
+	Jadavpur University, Kolkata
+	Full Time
+	75.83% / 8.18
+
+	B.Sc.
+(Three Year Honors’)
+in
+Computer Science
+	St. Xavier’s’ College,
+Kolkata
+	Calcutta University, Kolkata
+	Full Time
+	58.37%
+
+	12th
+	Vivekananda Mission School,
+Joka, Kolkata
+	CISCE, New Delhi
+	Full Time
+	81.5%
+
+	10th
+	Vivekananda Mission School,
+Joka, Kolkata
+	CISCE, New Delhi
+	Full Time
+	78.8%
+
+
+
+PERSONAL DETAILS:
+Name	: Souvik Saha
+Date of Birth		: 11th July, 1982.
+Sex			: Male
+NSR ITPIN                 	: 761045259404
+Nationality		: Indian
+Languages Known	: English, Bengali & Hindi
+Address	: 6/14, Kailash Ghosh Road,
+  PO- Barisha 
+  Kolkata- 700008(WB) 
+  India.
+Mobile			: +91 98303 92278 
+E-Mail			: souvik_saha@yahoo.com	
+
+
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the particulars mentioned above.    
+
+Souvik Saha	
+
+1 | Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAP_Certi_Associate_CG10_C_pos
+

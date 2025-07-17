@@ -1,0 +1,397 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+        
+
+
+
+
+
+
+
+
+
+
+	DHIVYA G
+
+	Contact Address:
+Flat No: H8K, Second Floor, 
+Ponnambalam Colony,
+
+Ponnambalam Salai,
+
+Near Ajanta MTC Bus Stop,
+
+West K.K Nagar,
+
+CHENNAI-600078.
+Tamilnadu, INDIA
+	Mail Id: dhivhum@gmail.com
+
+	
+	Contact Phone:(+91) 8098563044
+
+	
+	Date of Birth:15-05-1992
+
+	
+	Gender: Female
+
+	
+	Nationality: INDIAN
+
+	
+	Father’s Name:  Gopalan R
+
+	
+	Marital Status: Married 
+
+	
+	Spouse Name: Satheesh Kumar P
+
+	
+	Languages Known: English and Tamil
+
+
+Objective
+
+
+To work in the most challenging position with an organization that provides an opportunity to learn and seeking a position to utilize my skills and abilities in the industry that offers professional growth while being resourceful, innovative and flexible.
+Technical Skills
+	Programming Languages
+	Java, C/C++, Data Structures
+
+	DB System
+	DBMS
+
+	Operating Systems
+	Windows XP, WIN 7
+
+	Packages
+	MS Office
+
+
+Work Experience Details:                                        
+
+	Name of the Organization
+	Date of Joined and Resigned
+	Name of the Role assigned
+	Job Location
+
+	JavSystems India Pvt. Ltd.
+	06-January-2014 
+
+and 
+
+03-March-2017 
+
+(3.3 years)
+
+	Software Engineer
+
+Employee Number : JS15514
+	Erode, Tamilnadu. India.
+
+
+Academics Details 
+	Degree/
+
+Class
+	Specialization
+	Name of the Institution
+	University/Board
+	Year of Passing
+	CGPA /Percentage
+
+	B.E
+	Computer Science and Engineering
+	Bannari Amman Institute of Technology, Sathy.
+	Anna University of Technology
+	April,2014
+	CGPA =9.06)
+
+(85.33%)
+
+
+
+	H.S.C
+	NA
+	Saratha Matric and Higher Sec. School, Gobi.
+	State Board
+
+
+	May,2010
+	95.4%
+
+
+
+	S.S.L.C
+	NA
+	Saratha Matric and Higher Sec. School, Gobi
+	State Board
+
+
+	May,2008
+	95.3%
+
+
+
+
+CGPA: Cumulative Grade Point Average (10 points)
+Co-Curricular Activity
+· Participated in the INTERNATIONAL WORKSHOP on the topic “ANDROID APPLICATION DEVELOPMENT” held at Institute of Road and Transport Technology, Erode D.T.
+· Participated in the ORACLE CERTIFICATION COURSE on the topic “SQL Query” held at Bannari Amman Institute of Technology, Sathy, Erode D.T.
+· Participated in the “Real-Time Networks” on the topic of “Networking” held at Cisco Lab, Erode.
+· Participated in the BEC EXAM on the topic “British English Communication” held at Bannari Amman Institute of Technology, Sathy, Erode D.T.
+Extracurricular Activity (at Bannari Amman Institute of Technology, Sathy, Erode)
+· Participated as an Active Volunteer on “Earth Day” Celebration (Every year)
+· Organizer in “Women's Day” Celebration (Every year)
+· Organizer in “FUTURA” Inter-College level Project Demonstration in every year Competition 
+Area of Interest
+· JAVA
+· C/C++ 
+
+· Software Engineering
+· Networking
+· Operating Systems
+
+JavSystems Projects
+Project: #01
+
+	Project Name
+	Cloud-User Security Based on RSA and MD5 Algorithm for Resource Attestation and Sharing (JS_CUS_J014)
+
+	Description
+	      The increased degree of connectivity and the increasing amount of data has led many providers and in particular data centers to employ large infrastructures with dynamic load and access balancing.
+
+     We have made and developed this project into two parts. First part was controlled by a normal user which gets permission by the cloud environment for performing operations and for loading data. Second part was shown a secure and trusted computing for the cloud. Along with this, the project also provided two way security protocols which help both the normal user and the cloud. In this project we employ two algorithms for security purpose they are RSA and MD5. 
+
+	Programming Language & Platform
+	Java, Cloud computing, and Cryptography
+
+	Team Size and Client
+	10 and MATIO Software Solutions [Bangalore]
+
+	Duration of Project
+	10 Months (From Jan 2014 to Oct 2014)
+
+	Responsibility
+	Developed and Tested in Java Environment for Cloud-User Security Based on RSA and MD5
+
+
+Project: #02
+	Project Name
+	Developed Elliptic Curve Cryptography (ECC) applets in JAVA CARD (JS_CUS_J015)
+
+	Description
+	Its object-oriented model allows smart card programmers to develop interoperable applets that can be deployed on smart cards independently of their manufacturer. Elliptic Curve Cryptography (ECC) is a branch of public-key cryptography based on the arithmetic of elliptic curves. Java Card is a technology that has benefited from the success of the Java language. 
+We developed this project for implementing ECC applications in smart cards will be an attractive option for many companies willing to create new security services.
+
+	Programming Language & Platform
+	Java and Cryptography
+
+	Team Size and Client
+	10 and MATIO Software Solutions [Bangalore]
+
+	Duration of Project
+	10 Months (From Nov 2014 to Aug 2015)
+
+	Responsibility
+	Developed and Tested in Java for ECC 
+
+
+Project: #03
+	Project Name
+	Developed and deployed a High Speed Algorithm for Identifying Hand Gestures for ATM Input System for the Blind (JS_CUS_J016)
+
+	Description
+	 With the evolution in science and technology, a lot has been done over the past few years to make the lives of the Differently-abled more comfortable and easy. This project concentrates on a novel methodology to ease the use of an ATM machine for the blind. It describes an approach wherein both the
+
+User-name and PIN for the ATM machine can be input using British Sign Language. A cost effective setup and also a high speed algorithm for hand gesture recognition has been elaborated. In comparison with previous algorithms, the method explained in this project is 1.65 times faster thus proving its efficacy and efficiency. All algorithms were first designed and
+
+developed in MATLAB 2011b and then later deployed as software using the Java programming language
+
+	Programming Language & Platform
+	JAVA
+
+	Team Size and Client
+	10 and MATIO Software Solutions [Bangalore]
+
+	Duration of Project
+	10 Months (From Sep 2015 to June 2016)
+
+	Responsibility
+	Developed and Tested in Java
+
+
+Project: #04
+	Project Name
+	Developed Java based Computer Algebra System for Symbolic Computing (JS_CUS_J017)
+
+	Description
+	    To solve complex and large mathematical expression manually using pen and paper is a time taking task which in most cases ends up in an erroneous result. This is a major drawback which may lead to heavy losses to people dealing in numbers. 
+
+         Henceforth we have come up with a vision of Symbolic
+
+computation which provides a quick, efficient and user friendly
+
+environment to its users. Symbolic Computation is a computer algebra system which has been designed in Java. The Object oriented Programming(OOP) concept and predefined packages of the language have been used to solve expressions consisting of differentiation, integration, series and many more symbols.
+
+	Programming Language & Platform
+	Java/ Mathematical Pseudo Language (MPL)
+
+	Team Size and Client
+	10 and MATIOTL Software Solutions [Bangalore]
+
+	Duration of Project
+	09 Months (From July 2016 to March 2017)
+
+	Responsibility
+	Developed and Tested in Java
+
+
+Academic Projects 
+Final Year Project:
+
+	Project Name
+	 “Mining of high utility item-sets using Transactional Database”
+
+	Description
+	In this project front-end based up on ASP.Net and the back-end depends on MS-Excel. The main objective of this project is to identify high utility candidate item-sets by efficient algorithms. Based on UP (Utility Pattern) growth and UP Growth+ algorithms high utility item-sets was effectively constructed. These algorithms reduce the space requirement and execution time by generating UP-Tree. The transactional database was used for working with large candidate item-sets it reduces runtime of long transactions.
+
+	Programming Language & Platform
+	ASP.Net, MS-Excel, UP (Utility Pattern) growth and UP Growth+ algorithms
+
+	Team Size and Client
+	04 and BITs, Erode
+
+	Duration of Project
+	07 Months
+
+	Responsibility
+	Taken care the System design, Coding, Testing & Documentation
+
+
+Mini Project:
+	Project Name
+	 “Criminal Face Identification System (CFIS)”
+
+	Description
+	In this project front-end based up on Java7 and the back-end depended on Oracle10g. The main objective of this project was identifying criminal face by eyewitness. Based on this the image was segmented using Mathlab tool for correct assurance. One of the criteria among detecting criminal face was the segments of face image must match with existing image. Application of this technology was used by CBI and FBI.
+
+	Programming Language & Platform
+	Java7, Oracle10g, Mathlab
+
+	Team Size and Client
+	04 and BITs, Erode
+
+	Duration of Project
+	06 Months
+
+	Responsibility
+	Taken care the System design, Coding, and Testing
+
+
+Competencies
+· Excellent Problem Solving Skills
+· Independent and Self-Motivated
+· Will-power and Logical thinking
+· Team work and Adaptability
+Languages Known
+
+· Tamil (Read, Write, & Speak)
+
+· English (Read, Write, & Speak)
+
+Responsibilities Undertaken
+
+· Class Representative in UG Class
+· Member of ISTE Group
+Hobbies 
+
+· Gardening
+
+· Playing shuttle
+
+· Reading newspaper
+
+· Watching movies
+
+Personal Detail:
+Permanent Address: 
+
+#141, Kalaramani, 
+
+Modachur P.O,
+
+Gobichettipalayam T.K
+
+Gobichettipalayam- 638476
+
+Erode D.T, Tamilnadu, INDIA.
+
+Declaration
+I hereby declare that the information furnished above is complete and true to the best of my knowledge
+Place: CHENNAI
+
+
+
+
+
+
+Yours faithfully,          
+ 
+Date:      -        -     
+                                                             
+ 
+
+
+
+
+
+
+
+
+
+
+ DHIVYA  G
+Page 1 of 7
+

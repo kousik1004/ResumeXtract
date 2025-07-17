@@ -1,0 +1,213 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Sayantan Chaudhuri_resume_draft4
+
+
+ 
+
+CAREER SUMMARY 
+ 
+Analytics professional with 3.5+ years of experience in customer and operational analytics. Experienced in Predictive and 
+descriptive analytics, strategic insight generation using statistical and data mining tools- SAS, Teradata, SQL, HIVE-QL, Excel. 
+Lead resource of Services Analytics team of a top U.K. Utility firm. B.E in Electrical Engineering, majoring on Control Theory and 
+Signal Processing, from IIEST, Shibpur. 
+ 
+
+PROFESSIONAL EXPERIENCE     September2014 – Till Present 
+
+3.5+ years of analytics experience in Utilities domain focusing primarily on customer analytics and operational analytics.                                         
+
+EXL Analytics (Inductis)  
+Lead Assistant Manager                                                                   1stJan2018 - Present 
+Senior Business Analyst               1stJul2016  -   31stDec2017 
+Business Analyst                                                            1stSep2014  - 30thJun2016 
+ 
+Achievements & Recognition 
+
+ Promoted twice in a span of 3.5 years 
+ Received Rising Star Award 2015 Q1 and Master mind award 2015 Q3 at EXL-DA Level, for bringing in robustness and 
+
+scientism across analysis making the insights valuable and unimpeachable  
+Roles & Responsibilities 
+ 
+ Responsible for creating actionable insights from customer behavior, trends and characteristics extracted through analytics, 
+
+data mining, and statistical hypothesis testing using SQL and SAS 
+ Individual contributor for major strategic analysis & insight generation projects – independently handling their end to end 
+
+delivery 
+ Development of major regulatory dashboards and MI scorecards – and ensure their timely delivery  
+Organizational development 
+ 
+ Mentored campus hires within the team – in terms of technical and business knowledge transfer and QC-ing all their major 
+
+analysis.  
+ Frequently conducted knowledge sharing session involving both offshore and onshore analytics team to discuss advanced 
+
+statistical techniques- K means algorithm, PCA – which were greatly appreciated by client. 
+ 
+
+MAIN PROJECTS 
+ 
+Designing Services profiling tool for any arbitrary cohort of customers 
+
+ Designed a fully automated SAS MACRO based tool which is capable of creating comparative profiles of any two arbitrary 
+cohort of customers  
+
+ Implemented proportionality Z-test in the tool, to capture simultaneously, any statistically significant difference in the profile 
+distribution of the two given cohorts 
+
+ Through profile distribution and Z-test , the tool helped the client to infer how are two customer cohorts different/similar to 
+each other 
+
+ The tool virtually became ubiquitous in almost every project involving profiling of customers and was highly appreciated by 
+client  
+Tools used SAS MACRO , Excel 
+Technique used Profiling, comparing equality of proportions using Z Test 
+ 
+
+Logistic regression model for predicting on demand jobs 
+
+ Developed logistic regression model to predict whether a particular customer would request for an on demand job or not 
+ Validated the model on test dataset and obtained significant cumulative lift ~68% in top 50 percentile population 
+ The model got implemented on ground by stakeholder and it helped them to optimize their logistic resources by focusing 
+
+primarily on regions with higher concentration of high propensity customer  
+Tools used Teradata, SAS EG, Excel 
+Technique used Logistic regression 
+
+ 
+Analyzing the effect of smart meters on customers’ fuel usage pattern 
+
+ Prepared test and control group (ensured  independence b/w the two) of customers by considering “Smart Meter installed” as a 
+treatment. 
+
+ Studied the mean fuel consumption of test and control group using Two Sample TTest, to infer about the effect of Smart Meters 
+on reduction of it. 
+
+Sayantan Chaudhuri 
+ Contact number: +91 9654917945 Email: sayantan7072@gmail.com 
+ 
+
+
+
+ For some of the cohorts fuel consumption in test/control group was not following Normal distribution. Used non parametric 
+Wilcoxon rank-sum test (Wilcoxon Mann-Whiney U-Test) for these cases using PROC NPAR1WAY 
+
+ Identified those cohorts where mean consumption had not significantly decreased  even with Smart Meter installation. Profiled 
+these cohorts to understand their behavior and thereby develop strategic insight for them. 
+Tools used Apache HIVE, SAS EG, Excel 
+Technique used Two Sample TTest, WMW Test, KS & Cramer-Von-Mises 
+
+test of normality, Profiling  
+ 
+Survival analysis of HIVE customers 
+
+ Extensive use of Teradata to create an end to end view of customer relationship from acquisition to churn  
+ Preparation of test & control group to study the effect of smart devices( HIVE active heating) on customer survival rate 
+ Used chi-square test of homogeneity to ensure that there is no statistically significant difference b/w the “test & control” 
+
+group in terms of customer attributes. Upon rejection of the above hypothesis, used stratification using PROC 
+SURVEYSELECT to ensure that the test and control group are  indeed homogeneous  
+Tools used Teradata, SAS EG, Excel 
+Technique used Designing test & control group, Chi square test, Survival 
+
+curve 
+ 
+
+KEY SKILLS 
+Predictive modeling  Logistic regression, Linear regression, Inference using hypothesis 
+
+testing 
+Other techniques Principal component analysis( PCA), K-means clustering, 
+
+Descriptive analytics using PROC UNIVARIATE, Distribution 
+theory, Linear Algebra 
+
+ 
+
+ACADEMIC BACKGROUND 
+
+2014 B.E.( Electrical Engineering) IIEST, Shibpur 72% 
+2009 XII(WBCHSE) Jodhpur Park Boys’ School 83% 
+2007 X(WBBSE) Narendrapur R.K. Mission 93% 
+
+ 
+
+PROFESSIONAL TRAININGS 
+
+ Successfully completed training in SAS, SQL, Excel, and Analytical methodology as a part of EXL campus batch of Sep,2014 
+ Completed the online certification course: Probabilistic system and analysis from Massachusetts Institute of Technology 
+
+achieving a passing grade of 95% 
+ Completed the online certification course: Applied Multivariate Statistics from IIT Kanpur achieving a passing grade of 94% 
+ Completed the online certification course: Statistical Inference from IIT Kharagpur achieving a passing grade of 89% 
+
+ 
+
+ACADEMIC INTERNSHIPS 
+
+Project Title    Advanced spectral analysis techniques to be adopted in embedded systems for power quality control  
+Description     Designed a MATLAB based code to solve Symmetric Eigen Value Problem and find generalized Pseudo inverse of  
+                          a high order matrix, which is easily implementable on Disk-Space platform. 
+Areas covered Eigen value-eigenvector decomposition of a symmetric matrix, generalized inverse 
+Tools used       MATLAB  
+Supervisor      Dr.Debjani Ganguly, IIEST Shibpur  
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+  
+
+

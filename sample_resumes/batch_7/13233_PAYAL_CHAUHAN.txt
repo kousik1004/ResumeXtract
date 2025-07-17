@@ -1,0 +1,205 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ PAYAL CHAUHAN 
+ 
+
+Contact: (+91) 9571103706 
+Email: 94payalchauhan@gmail.com 
+
+ 
+
+A proactive and fast learning individual seeking an opportunity to work while utilizing 
+analytical & Business Intelligence skills and relevant expertise to help the 
+company achieve business goals while sticking to vision, mission and values 
+ 
+
+GRADUATION 
+ 
+
+Malaviya National Institute of Technology July, 2011 – May, 2015 
+Jaipur, Rajasthan  
+B.Tech. in Information Technology  
+Overall CGPA: 7.86 (out of 10) 
+ 
+  
+
+PROGRAMMING LANGUAGE & OTHER SKILLS 
+ 
+Languages: TSQL,Python,R, DATA STRUCTURE & Algorithms 
+ 
+ 
+Other Tools used: MS-SQL Server 2012/2014,SSIS,SSRS,SSAS, 
+Visual    Studio, Tableau,  
+ 
+Web Designing Language-PHP,CSS HTML, JSP, Servlets 
+ 
+Other Skills: Data Analytics,MS Word, MS Excel, MS Powerpoint 
+ 
+ 
+
+WORK EXPERIENCE(3.5 years) 
+ 
+Software Engineer      June,2015 –Nov 2017 
+NAV IT Solutions Pvt. Ltd 
+Database Development Team 
+ 
+Database Developer     Dec 2017 – Till Date 
+Pine Labs Pvt. Ltd 
+
+ 
+ 
+Current responsibilities and relevant experience: 
+ 
+Created and scheduled sql server jobs for automating the processes. 
+ 
+Designed the data architecture, created data lakes to embrace the existing history 
+data and also to suffice the need to process the transactional data for a financial 
+domain project and then pipeline the data to the destination. 
+ 
+Splitting of large database into multiple and migrating the structure along with the 
+data migration. 
+
+mailto:94payalchauhan@gmail.com
+
+
+ 
+Extracted data using SSIS packages (ETL) from different server locations and 
+data sources. 
+ 
+Experience in ETL Development, Cleansing, Data Integration and Deployment 
+of SSIS packages 
+ 
+Designed SSIS Packages for risk Dashboard to extract data from various data 
+sources (SQL Server, Excel Spreadsheet, Flat Files etc) and loaded the data into 
+destination data sources by performing different kinds of transformations. 
+ 
+Used various SSIS tasks such as Conditional Split, Derived Column etc, which did 
+Data Scrubbing, including data validation checks during Staging, before loading the 
+data into the Data warehouse 
+ 
+Development of the business logic for the client `s portfolio Dashboards and 
+reports using complex SQLs using Joins,Subqueries and Distributed Queries. 
+ 
+Automated the client Database setup for every new client in the system and 
+Implemented the code through Stored Procedures, Triggers, Views, Functions, 
+Indexes, Tables, SQL XML code. 
+ 
+
+Implemented the Data partitioning from scratch of heavy transaction tables. 
+ 
+Responsible for performance tuning and Optimization of existing stored 
+procedures using Dynamic Management Views and SQL Server profiler. 
+ 
+Development of Master Data Management to synchronize all the applications and 
+changed the database design,implemented Identity Store,User Data 
+Types(UDT`s),alter tables  and code to fetch the data from push and pull. 
+
+ 
+
+Designing & Managing basic Tablix Reports, Drill-through reports using 
+SSRS for monitoring the employees activities,active and inactive computer 
+time,application name,Website URL. 
+ 
+Implemented the cube setup (blank cube generation) for enabling the 
+DataWarehouse on the client`s DB. 
+ 
+ 
+
+TECHNICAL EXPERIENCE AND PROJECTS UNDERTAKEN 
+ 
+ 
+
+ 
+
+1. Employee Track Time System                                               Industrial Training 
+
+ 
+Implemented modules of an application based on online Employee Time 
+tracking system using JSP Servlets. Worked on IDE of Eclipse and followed 
+the SDLC principles. 
+
+ 
+Languages Used: JSP,Servlets  
+Company: Monsoon Varsity,Jaipur 
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+AREAS OF INTEREST 
+
+ 
+
+Data Structures and Algorithms 
+Database Management Systems  
+Computer programming 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ACADEMIA 
+  
+  
+
+XII (CBSE) 2011 
+K.V.No.1,Jaipur  
+Percentage : 81%  
+
+X(CBSE) 2009 
+K.V.No.1,Jaipur  
+Percentage : 90%  
+
+ 
+Payal Chauhan 
+
+ 
+
+

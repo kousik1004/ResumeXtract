@@ -1,0 +1,275 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+	
+
+
+
+Umar Azeem Khan
+Contact: +971-509705493 ~ E-Mail: umar1005@live.com
+
+OBJECTIVE: To become a successful database administrator with in-depth technical knowledge and excellent management skills, searching for position that invites technical challenges in database administration. Currently working in Pact Employment Services  with a total experience of 4 years and 2 months in the IT domain.
+
+	Profile Summary
+
+
+ 
+· Database administrator working in 24*7 support environment handling critical databases on SQL Server 2005,2008,2008r2, 2012 & 2016 Standalone & Cluster systems 
+· Interacting with higher management and other stake holders about their requirements and implementing the same.
+· Strong knowledge in Installing, configuring & managing SQL Server 2005,2008,2008r2, 2012 & 2016 Standalone & Cluster systems 
+· Knowledge of High Availability (Clustering) , Disaster Recovery (Log shipping& Mirroring) & HADR(Always on)  options for MSSQL Server
+· Migrating SQL Server databases to newer versions
+· Knowledge of DTS,SSRS & SSIS 
+· Hardening of SQL Server as per audit requirement
+· Good expertise in Performance Tuning , using Performance Monitor, SQL Profiler, Extended events, Execution plans & Query Store
+· Design and implement database health check process, security policy and backup contingency tests
+· Knowledge of configuring various SQL Server alerts using Database mail
+· knowledge of database backups, restores ,logins ,user ,roles, link server & index management 
+· Experience in troubleshooting SQL server related  CPU, Memory & I/O resource contention , Blocking and Deadlocking Issues, Log Shipping & mirroring Issues , Connectivity & Security Issues
+· Documentation Report/Review – Site Documents, System Study, Backup Policy, Security Policy, Patch Management Document, Activity Report, Incident Report, Plan of Action, Monthly Service Report etc.
+· Knowledge of SQL Server tools (Profiler, SSMS, Configuration Manager, Perfmon & Extended events)
+· Good Documentation Skills and Communication Skills
+
+
+EDUCATION
+	Degree
+	Institute
+	Board/University
+	Year
+	Performance (CGPA or %)
+
+	B.Tech(Electronics)
+	NMIMS, MPSTME
+	NMIMS
+	2013
+	3.25/4(78.08%)
+
+	XII
+	Cosmopolitan College Of Arts Science And Commerce
+	Maharashtra Board
+	2008
+	64.17%
+
+	X
+	St . Joseph High School
+	Maharashtra Board
+	2006
+	72.53%
+
+
+
+
+TECHNICAL SKILLS
+
+· MS SQL Technologies Worked On- MS SQL Log Shipping, Database Mirroring, Replication, AlwaysOn FCI & Availability Group ,Performance Monitoring and tuning.
+
+· Database - SQL Server 2000, SQL Server 2005, SQL Server 2008, SQL Server 2008 R2, SQL Server 2012, SQL Server 2014 & SQL Server 2016
+
+· Operating Systems- Windows Server 2003, Windows Server 2008, Windows Server 2008R2, Windows Server 2012, Windows Server 2012R2 & Windows Server 2016
+
+· Database Tools Used-  SQL Enterprise manager, Management Studio, Profiler, Extended Events, Query Store & Performance Monitor.
+
+
+EXPERIENCE
+
+APRIL 14 - OCTOBER 14 (6 Months)                 CLOVER INFOTECH PVT. LTD.                                                       MUMBAI
+
+Client: DSP Blackrock mutual fund
+
+Function:  Database Administrator  
+Database Technologies Used on Job: SQL Server  2000, SQL Server 2005 & SQL Server 2008
+Operating Systems Used on Job: Windows Server 2003 & Windows Server 2008
+Role: 
+· Installing & configuring SQL Server 2005 & 2008r2 standalone systems
+· Successfully migrated DTS packages to SSIS packages
+· Successfully migrated & consolidated SQL server production databases
+· Implemented SQL Server best practices & configure various SQL Server alerts
+· Monitored system resource availability and responded to system memory and data issues. 
+· Design and implement database health check process, performance tuning, security policy and backup contingency
+· Responsible for maintaining and managing  Production, UAT & DEV Server
+· Daily monitoring of Servers
+· Creating jobs & carrying out daily activities as per application team requests
+· Implemented Log shipping on all production databases
+· Export/ Import data using in-built utility
+· Hardening of SQL Server as per audit requirement 
+· Version upgrades and Patch management.
+· Implement Re-index, Update stats & usage on weekly basis.
+
+Achievements:
+· Planning and working on migration from SQL Server 2008R2 to SQL Server 2012
+· Successfully done Consolidation of UAT and DEV Servers and syncing them with production servers.
+· Successfully completed Log Shipping DR-Drills including reverse Log Shipping
+
+
+
+
+OCTOBER 14 - FEBRUARY 18 (40 Months)                 CLOVER INFOTECH PVT. LTD.                                                       MUMBAI
+
+Client: RBL Bank Ltd.
+
+Function:  Database Administrator  
+Database Technologies Used on Job: SQL Server 2008 R2, SQL Server 2012 & SQL Server 2016
+Operating Systems Used on Job : Windows Server 2008, Windows Server 2008R2, Windows Server 2012 & Windows Server 2012R2 
+
+Role: 
+· Installing & configuring SQL Server 2008, 2008r2 ,SQL 2012 & SQL 2016 Cluster systems
+· Planning and working on database migration to SQL Server 2012 and implementing HA/DR using Always On FCI & Availability group multi-subnet Cluster
+· Hardening of SQL Server as per audit requirement 
+· Implemented SQL Server best practices & configured SQL server alerts
+· Implement Re-index, Update stats & usage on weekly basis.
+· Successfully done various DR Switchover & Switchback on Log shipping , 
+Database Mirroring & Always On
+· Identifying long running, blocking queries & deadlock on databases 
+· Responsible for maintaining and managing  Production, DEV and UAT Servers
+· Implemented Log Shipping/Mirroring/Always On all production databases
+· Daily monitoring of disk space, backups, jobs, Log Shipping, Mirroring, Always on & EOD/BOD processes
+· Creating jobs & carrying out daily activities as per application team requests via release management process
+· Planning Data warehouse Database migration from Vectorwise to SQL server 2016 dev edition using SSIS & implementing Cluster Column store index
+· Design and implement database security policy and backup contingency test
+
+
+Achievements:
+
+· Initiated and Implemented data purging activity to tackle massive database growth and resolved space issues.
+· Optimized core banking database EOD/BOD process using execution plan & recommending index creation
+· Troubleshoot & reduced intra parallel deadlock issue by index creation & reducing max DOP values of individual queries involved in deadlock
+· Successfully migrated SSRS(RDL) , SSIS(Packages) & databases to new server
+
+
+
+
+
+
+
+
+FENRUARY 18 - TILL DATE (3 Months)                      PACT EMPLOYMENT SERVICES                                     ABU DHABI (U.A.E)
+
+
+Client: First Abu Dhabi Bank
+
+Function:  Database Administrator  
+Database Technologies Used on Job: SQL Server  2005,SQL Server 2008 R2, SQL Server 2012, SQL Server 2014 & SQL Server 2016
+Operating Systems Used on Job: Windows Server 2003, Windows Server 2008, Windows Server 2008R2, Windows Server 2012, Windows Server 2012R2 & Windows Server 2016
+Role: 
+· Installing & configuring SQL Server 2008, 2008r2 ,SQL 2012 & SQL 2016 SQL Cluster systems
+· Planning and working on database migration from NBAD & FGB domain to BANKFAB domain
+· Hardening of SQL Server as per audit requirement 
+· Implemented SQL Server best practices & configured SQL server alerts
+· SSRS,SSRS & SSIS migration from one domain to another
+· Successfully done various DR Switchover & Switchback on Always On
+· Identifying long running, blocking queries & deadlock on databases 
+· Responsible for maintaining and managing  DM profile, DEV,SIT and UAT Servers
+· Implemented Mirroring/Always On all databases which are going to be migrated to new domain
+· Daily monitoring of disk space, backups, jobs, Log Shipping, Mirroring & Always on
+· Creating jobs & carrying out daily activities as per application team requests via release management process
+· Design and implement database security policy and backup contingency test
+· Creating SQL Logins, Assigning Roles to the users and Authentication Modes as a part of Security Policies for various categories of users. 
+· Created Linked Servers between SQL Servers and other Heterogeneous environments.
+
+
+
+Achievements:
+· Optimized data load operation from MS SQL Server to Oracle through SSIS using Oracle attunity driver(Bulk Insert) for Enterprise editions
+· Troubleshoot performance issue using Query store
+
+
+Certifications
+
+· Microsoft Certified Professional
+· Completed Exam 70-462 : Administering Microsoft SQL Server database
+· Completed Exam 70-473: Designing and Implementing Cloud Data Platform Solutions
+· Pursuing Exam 70-764 (Administering a SQL Database Infrastructure) exam of MCSE track.
+
+
+
+
+EXTRA CURRICULAR ACTIVITIES, INTERESTS & ACHIVEMENTS
+
+· Received 'PAT on the Back Award' and cash reward from my unit head for excellent performance  at Clover InfoTech Pvt. Ltd
+· Received appreciation mail from the company director of delivery and the vice president for successfully Migrating the database of our client RBL Bank at Clover InfoTech Pvt. Ltd. Within the stipulated downtime.
+· Interests include keeping tabs of the latest technologies in gadgets, automobiles, gaming and watching spiritual and motivational videos.
+· Outdoor interests include playing Cricket and Football.
+
+PERSONAL DETIALS
+
+· Date of Birth: 		10th May 1990
+· Address:		                1201-Malvani West View Society,Malvani no 8,Malad West,Mumbai-61
+· Languages Known:	Hindi and English
+
+Declaration:
+I hereby declare that the above mentioned information is true to the best of my knowledge.
+										-Umar Azeem Khan
+
+                                                                                                                                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+	
+
+
+
+
+
+

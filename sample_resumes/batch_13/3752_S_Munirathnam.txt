@@ -1,0 +1,246 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+RESUME 
+
+                                                                                                          
+T.S. Munirathnam                                                                                                                                        No.14/39, Perambalu Street                                         
+Old Washermenpet,
+Chennai – 600 0021. 
+Mail: muni_tel@yahoo.com
+Mobile : +91 9840973218 
+                                                                                         
+
+Summary 
+Having more than 16+ years of experience in Telecommunication and Information Technology Industry in that 9+ year have vast experience in Cisco unified Communication and contact center products. My responsibilities include consulting, design, Implementing, integrating, testing, customization and providing L4 support.
+
+EDUCATIONAL QUALIFICATION
+
+· Completed Diploma in Electronics and Communication Engineering from the State Board of Technical Education in April 2000 with First Class Honors.
+
+PROFESSIONAL QUALIFICATION
+· Avaya Certified Expert --- IP Telephony ( Not Renewed)
+· CCNA – Collaboration 
+· Cisco Video Network Specialist
+
+TRAININGS	
+
+Cisco UCCE/CVP Implementation 
+CISCO TELEPRSENCE TRAINING
+Cisco Meeting Sever Advanced ( COLLAB350)
+
+WORK PROFILE
+
+Servion Global Solutions Limited  (Dec 2014 Till date )
+
+As a Technical Manager I am responsible for below key activates in cisco unified and contact center migration/upgrade projects.
+
+· Requirement study for unified communication and contact center migration projects.
+· Design and implement Cisco UC and UCCE components.
+· Gap Analysis and consulting services for Cisco UCC Projects. 
+· Playing as a mentor for cisco implementation projects.
+· Providing Support to sales/presales team on technical and effort estimation for UCC Service offering.
+
+
+Key Projects Handled
+
+Ministry of Education (Singapore-Onsite) – Contact Centre implementation Project.
+Neuberger Berman  ( USA-Onsite)- Contact Centre implementation Project.
+Cooper Health University Hospital (USA-Onsite)- Contact Centre support and call flow migrations.
+Servion Global Solutions ( India)-  Expressway C and E deployment for B2B Video Calling & UC on Internet.
+Bank Rakyat (Malaysia) – UCCE outbound dialer implementation 
+ANZ Bank Indonesia – UCCE Technology refresh upgrade from 8.5 to 11.0.1  
+Roche  Pharmaceuticals Singapore – UCCE PGs Consolidation 
+SMARTDUBAI ( DUBAI-UAE) – Full UC deployment with Jabber and Telepresence ( CUCM,IMP,Unity Connection, Cisco Webex meeting server, cisco Meeting sever (Acano), expressway C&E for Jabber MRA Telepresence management system)
+Liberty Global (Leading telecom service provider 13 countries in Europe)- UCCE Migration ongoing Project.
+
+
+
+HCL Technologies-Infrastructure Services Division (26th March 2012 to Dec 2014)
+
+HCL UCC Team ( Jan 2014 to Dec 2014)
+
+Major tasks handled in UCC Practice Team 
+1. Prepared Cisco UC Reference Architecture document for HCL Team.
+2. Build and tested Cisco expressway solution for Jabber remote and mobile access in HCL Lab and prepared Lab Guide and conducted webinar on expressway.
+3. Provide technical leadership for UC Consulting Services projects.
+4. Working HCL Pre sales team on preparing Cisco Bill of material  .
+5. Cisco Jabber Guest ( WebRTC)feature testing and POC in Lab.
+
+HCL MSI  Team ( April 2012 to Dec 2013)
+
+Assigned to General Motors Project as Global Voice Engineering/Architect was responsible for UC Design & Architecture. General Motors having more than 120,000+ devices & 150+ remote offices Running on cisco IPT.
+
+· Build High Level design, Low Level Design document templates for Cisco CUCM ,Unity Connections and ISR Gateways.
+· Build Session Manager Edition (SME/TANDEM)all centralized clusters interconnected with SME for ONNET Call Routing.  As part of SME build, I spent significant amount time to understand GM dial plan and implemented E164 Numbering Plan.
+· Build Centralized unity Connection using SME, this unity Connection shared between multiple clusters for voicemail services. 
+· Designed & Implemented Centralized SIP PSTN Routing for US GM Locations using Session Manger.
+· TEHO Call Routing enabling using SME Cluster.
+·  Prepared standard procedure of CUCM Upgrade from 8.6 to 9.1.2, this document shared with Ops team  they followed same process all CUCM upgrade ( 5 CUCM  Centralized Clusters + 1 Session Manager )
+· Build Pre POD LAB and Advance Cluster Lab for UC Engineering team. 
+· Provided Architectural & Configuration support INTERCALL ONNET Project, INTERCALL is Audio Conferencing Vendor for GM. 
+· Provided Architectural & Configuration support implementing Jabber softphone on mobile.
+· Providing technical guidance to Implementation & operations team on understand GM Setup & on call support if any technical clarifications
+
+Ford Technology services Limited ( April 2009 to March 2012)
+
+Getronics India Private Limited (Feb 2011 to 23rd March 2012) & Mascon Global Limited, CHENNAI (April 2009 To Jan 2011)
+
+Worked as a Voice Architect  and being deputed in Ford Technology services Limited as a Regional Voice planner (AP&A) was responsible for the  Unified Communication  Planning & Implementation Activates for Cisco Call Manger for Asia & Africa regions.
+
+Responsibilities
+
+· Providing High level Cost Estimation for IP Telephony Migrations for AP&A Region FORD Manufacturing Plants & Regional Offices.
+· Providing High level Design & Bill of Material for IP Telephony Migrations once business agreed on IPTelephony deployments    
+· Preparing IPTEL Low level Design Documents Remote Site Migrations & Once LLD Completed it will be review by Global IPTEL Planning/Engineering Teams.
+· Preparing detailed  IPTEL Project Plan as per internal ITO PMO Process.
+· Coordinate VoIP and PABX integration, Voice network upgrade for Joint Venture 
+· Ensure compliance with international regulatory voice guidelines
+· Assist clients and peers with planning for voice services and equipment
+· Enabling IPSoftphones Across AP&A Region for IPTEL & NON IPTEL Business users
+
+
+ Major Project Handled in FORD Motor Company 
+· Multiple PBX sites in APA Region migrated from legacy PBX to Cisco IPT and multiple green filed IPT deployments using centralized CUCM.
+· Successfully upgraded South Africa & Singapore  Call manger to 6.1.5 version as Part of corporate Regulations in April 2010.
+· Unified Communication Service transition from Internal NOC to UC Vendor
+· Successfully build new Cluster for AP&A Region with 1 Publisher & 8 Publisher & 2 dedicated TFTP servers to support incremental IP Telephony deployments in Region
+· Migrated all Remote IPTEL Sites from  Old Cluster to newly build Cluster over the weekends.
+· Proposed and implemented  Single line logical Partition for all Indian FORD Locations as per TRAI regulations.
+
+
+Ciber Global Solutions Center, CHENNAI (24th Sep 2008 TO March 2009)
+
+    Working as Senior Consultant and being deputed in Maersk Global service center, is responsible to carry out the Planning & Operations Activates for Cisco Call Manger & IPCC Enterprises Components for GCA (China) locations.
+
+Responsibilities
+· Designing & Implementing Cisco IPT/IPCC Network Infrastructure in China Mainland and Hong Kong
+· Traveled China for Remote support (Level2) Migration Process
+· In GCA five Call manger clusters are being used, One Multisite Singe call processing servers For IPT Users, four single Site Call manager Clusters for IPCC users
+· Supporting More than 4000 IPT/IPCC End users  
+· Escalate unresolved problems to appropriate teams, Vendors & Service Providers
+· As part of planning we will provide consultant service to Business Units related to IPT/IPCC services. 
+
+SERVION GLOBAL SOLUTIONS LIMTED, CHENNAI (Feb 2008 TO 22 Sep 2008)
+
+Major Projects Handled 
+
+Implemented Cisco IPCC Express with Cisco Call Manager 6.0 for WEB18(CNN Group)
+
+· Inbound and outbound Contact Centre with 30 Agents
+· Voice Call recording and Quality Monitoring Management tool 
+
+3i INFOTECH LIMTED, Dubai-United Arab Emirates (MAY 2007 to 31st Jan 2008)
+
+          Working as Telecom Engineer and being deputed in Emirates Bank International Limited, is responsible to carry out the below mentioned activities on Avaya EPABX system.
+
+· Administration & Maintaince of Avaya S87XX, S8300 series PABX (More Than 60 S8300 series servers  around UAE)
+· Installation of  Avaya PABX for new sites
+· Administration & Maintaince of Audix Voice Messages System 
+· Administration & Maintaince of  Witness Loggers systems  
+· Administration & Maintaince Of Emirates Bank( BUZZ) Contact Center
+· Administration & Customization Of all 46xx series & 96XX series Of IP Phones
+
+
+
+SERVION GLOBAL SOLUTIONS LIMTED, CHENNAI (OCT 2005 TO APRIL 2007)
+
+Responsibilities:
+
+·  Administration and Maintenance of Avaya S8720, s8300, G3si series PBX.
+·  Customization/programming for avaya phones( including IP Telephone)
+·  Checking the daily alarms and errors of Avaya S8720,S8300,G3Si communication server, troubleshooting the alarms and errors according to process
+· Creation of Hunt groups, Agent Ids, Skill Groups, VDNs and Vectors according to the Developer & Testing Engineer requirement.
+·  Administration and Maintenance of E1/T1 Links (Configuring E1 lines for IVR, Dialogic Testing, Intervoice Testing, Office PRI etc)
+· Creating & Monitoring of CTI links in MAPD & AES server depending upon the requirements
+· Responsible for Creating Auth codes, Updating on a regular basis
+· Level 2 Avaya support for existing customers including Sify, Royal Sundaram and HDFC phone banking. Administration and Maintenance of Avaya G3si and BCMS vu server.
+· Vendor Coordination for billing (Like AIRTEL & BSNL) & Coordinate with service provider for problem resolution
+· Proving VOIP Solutions to reduce the telecom cost of the company  
+
+Achievements
+
+· Successfully Configured Soft dialers Using CTI Link (This is first Time configured Dialers Using ASAI Link)  
+· Successfully installed Avaya s8720 PABX for our in-house Setup 
+· Enabled Meet-me Conference Bridge in Avaya S8720 Server for Internal Customers. It will help to communicate between Servion employees & External Customers  
+· Cisco ICM integrated with Avaya ACD for Lab setup( Using ASAI link)
+
+ORIGIN INFOSYS PVT LIMITED, CHENNAI: (OCT2004 TO Oct 2005)
+
+Worked as a Network Administrator and being deputed in E-Serve International(A subsidiary of Citibank Co.) as a AVAYA PBX Administrator responsible for day to day operations to Voice MACD & taking PBX backup & Sending backup to offsite.
+
+Report / Log generation
+Coordinate with service provider for new line installation & technical issues.
+Inventory maintenance
+Applying for STD / ISD facility based on requirement
+Giving Desktop Support to around 500 users
+
+WINTELECOM (SIEMENS), CHENNAI: (OCT 2000 to Dec 2003)
+
+Responsibilities:
+Installing Siemens Hicom 150 E series, HIPATH 3XXX series PBX systems 
+ISDN BRI & PRI Installation
+PC Based operator console installation
+E & M Line Installation
+ISDN Line Installation for Video Conferencing
+Integrated Voice Mail Installation (PC Based & Non PC Based)
+DECT Installation
+Remote Maintenance of EPABX System.
+
+Personal Details:
+Nationality		: Indian
+Languages Known	: English, Tamil, Telugu 
+Marital Status          : Married
+Date of Birth	         : 01-07-1980
+Passport Number      : G2403660
+
+

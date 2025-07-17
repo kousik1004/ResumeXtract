@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Barbara Power
+
+
+SWATHY RAGHU
+SUMMARY
+· An IT professional with more than 2 years of experience in development of web based applications using Liferay,java/J2EE technologies. 
+· In-depth knowledge in designing,coding and supporting of applications using jsp, Spring,Hibernate,HTML,XML,CSS, Javascript,JQuery,AJAX.
+· Excellent knowledge in Object Oriented Programming Concepts (OOPS).
+· Extensive experience in working with database software like MYSQL.
+· Extremely dedicated and hardworking with good inter-personnel and communication skills.
+IT SKILLS
+Packaged Applications
+:   Eclipse IDE
+Frameworks
+
+
+:   JSF/Primefaces, Spring, Hibernate, JSP/Servlets
+Web Technologies:
+
+:   HTML, JavaScript/jQuery, Liferay Portal
+Languages and Tools
+:   Core Java, Liferay ,J2EE, Spring, Hibernate, JDBC, JSP, Maven
+Databases
+
+
+:   Oracle Database 10g/11g, MySQL 5.6
+Servers
+
+:   Jboss, Wildfly, Apache Tomcat
+Version Control
+
+:   SVN
+PROFESSIONAL EXPERIENCE
+Employee Benefits Portal – Speridian Internal Application
+Technology – Java, J2EE, Spring, Hibernate
+This is an internal project to rebuild the existing Employee Benefits Portal in Speridian Technologies using Java technology. The company offers benefits such as medical reimbursement, food coupon, group health insurance, income tax declaration to each of its employees. Each employee can avail these benefits by using Employee Benefits Portal of the company. 
+Responsibilities: 
+· Developed Flexi benefits Portal that allows organization to implement any benefit plan schemes with full customization on them which was an added benefit from existing portal. 
+· Implemented income tax declaration module having advanced jquery validations that leverages organization to create entire form fields dynamically.
+· Involved in weekly server monitoring, Maintenance and Production deployment.
+Voyager Travel Module – Raymond
+Technology – Java, J2EE, Spring, Hibernate, JSF
+Voyager is a product from Speridian, which can be used by organizations having Success Factor implementation for their HR management  , to manage their employee international as well as domestic travels. Voyager let employees to raise travel requests, which goes through the organization defined approval cycle and helps Travel Desk to create travel packages according to that. Every organization can define their own work-flows , choose themes and templates etc. 
+Responsibilities: 
+· Developed modules raise request,packages and approval cycles based on  organization defined templates in a unique integration of JSF,spring and hibernate. 
+· Created an interface for fetching master datas from success factor and storing them locally for applications.
+FARO-Sambro
+Technology – Liferay,MariaDB
+FARO-Sambro application is an online portal that is accessed by subscribers of KPMG to view the services that are exposed by KPMG and monitor their use. It also include features like uddi,api documentation, unique chart representation of service usage,success rate etc.
+Responsibilities
+· Developed modules to provide information about services and connectors such as their security,api documentation,api URL,subscribers etc.
+· developed charts to  showcase service performance.
+EDUCATIONAL QUALIFICATION
+Bachelor  Technology.
+EXPERIENCE SUMMARY:
+Speridian Technologies Pvt. Ltd as  Software Engineer.
+Confidential
+Page 3
+       01/12/2018
+

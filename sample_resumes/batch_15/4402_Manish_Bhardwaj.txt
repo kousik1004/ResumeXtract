@@ -1,0 +1,210 @@
+
+
+
+
+
+
+
+
+Manish Bhardwaj	 	 
+Mobile no: (+91)9742428300						                 Designation: Technology Analyst
+Email: manish14061@gmail.com			   		                 Current Loc: Chandigarh
+
+
+PROFILE SUMMARY:
+
+6.6 years of total IT experience with 6+ years of relevant experience in the area of iOS application development with Objective C using Cocoa and Cocoa Touch Framework.
+
+
+TECHNICAL SKILLS:
+
+· Programming Language	: Objective C, Basic knowledge of Swift
+· Framework				: Cocoa, Cocoa Touch
+· IDE						: Xcode(4.x, 5.x, 6.x, 7.x, 8.x)
+· Operating System			: iOS (version 4, 5, 6, 7, 8, 9, 10) 
+· Database	Management		: CoreData, SQLite	
+· Repositories Used			: SVN, Git
+· Skill Set					: XML, JSON, HTML, CSS, JavaScript, Objective C 
+ 
+
+WORK EXPERIENCE:
+
+Company						  Period							Designation    
+Infosys						 	 Sep 2015 – Present					Technology Analyst
+Tech Mahindra       	     Apr 2011 - Aug 2015					Sr. Software Engineer
+		
+
+PROJECT EXPERIENCE:
+
+1. Project Title: iDetailing  
+ 
+Client: One of the leading pharmaceutical company in US 				Jun’16-Present
+
+iDetailing app was focused for the Sales Rep to present the agency’s product presentation using their iPads, digitizing the experience allowing sales rep to create an appointment with the doctors, showing presentations while meeting. The entire meeting data is synced to the server where the company can view the meeting details and accordingly pays their sales rep.
+
+Role: Technology Analyst
+
+Responsibilities:
+· Development and Unit Testing
+· Handling client interaction for new requirements and providing inputs for the enhancement of the app.
+· Help out other team members in the development
+
+Programming Language: Objective C
+Operating System: iOS 8, iOS 9
+
+
+2. Project Title: Cosentyx  
+ 
+Client: One of the leading pharmaceutical company in Switzerland 		Nov’15-Apr’16
+
+Cosentyx app was focused for the patients to track their illness on the day-to-day basis. User can share the report to the doctor including the notes, pictures (taken by their iPhone camera) of physical diseases and history of the disease.
+
+Role: Technology Analyst
+
+Responsibilities:
+· Development using Xcode 7.x and Unit Testing,
+· UI designing of the screens with support for all the devices using Autolayout.
+· Worked with the AVFoundation framework
+· Used Core Data for saving data locally.
+· Help out other team members in the development
+
+Programming Language: Objective C
+Operating System: iOS 8, iOS 9
+
+
+
+3. Project Title: mSportz   
+
+Client: Internal 													Jun’15-Aug’15
+
+mSportz app was focused on screen casting the iPhone screen for gaming and then broadcasting the live gameplay video to the server. 
+
+	   Role: Sr. Software Developer 
+
+Responsibilities:
+· Development using Xcode 6.x and Unit Testing.
+· Screen casting screen of the iPhone and recording the gameplay.
+
+Programming Language: Objective C
+Operating System: Mac OS x
+
+
+4. Media Playbook App			            
+
+Client: Internal							           			   Mar’15-Apr’15
+
+This app focuses on the creation of framework, which includes different widgets in a page. All the widget and page layout design with data is saved in the JSON and from there the design and the specific data is parsed and displayed on the screen. This framework can be used with any app having its own design layout and data JSON files.
+  
+Role: Software Developer
+
+Responsibilities:
+· Developing the code for the framework.
+· Creating the JSON files and to consume it within the app.
+· Testing the functionality of the code.
+
+Programming Language: Objective C
+Operating System: iOS 6, iOS 7, iOS 8
+
+
+5. Fox Sports Mobile App Enhancements				            
+
+Client: FOX Sports							           			   Aug’13-Feb’15
+
+This version of Fox Sports Mobile Application was mainly focused on enabling the app to support iOS7 including the lower versions of iOS. It also includes developing new features like pull down page to refresh, displaying stats, schedules, playoffs, etc for the games. New screen UIs were designed where the data was displayed from the feeds using XML/JSON parsing. Other purpose of this project is resolving the issues, which were present in the previous version of the project.
+  
+Role: Software Developer
+
+Responsibilities:
+· Enabling the app to have iOS 7 support including lower versions of iOS.
+· Developing new features where the data is being displayed for the screens using JSON/XML parsing for the application and pull down page to refresh the page.
+· Resolving the issues and update it to the repository.
+· Testing the functionality of the code and update the test case report and bug analysis document. 
+
+Programming Language: Objective C
+Operating System: iOS 5, iOS 6, iOS 7
+
+
+6. FOX Sports Go
+
+Client: FOX Sports							         			   Nov’12-May’13
+
+The primary purpose of this product is to provide authenticated access on iOS devices and mobile web to live video streams of the sports events, which a user can see on the Fox Sports channels he is entitled to receive via his Multiple Video Program Distributor. The secondary purpose of the product is to provide a fast, reliable, and fun means to access sports scores, statistics, and video highlights for all sports. The third priority is to provide differentiating features and functionality that strengthen the Fox Sports brand as the user’s most valuable and trusted resource for sports content.
+
+Role: Software Developer
+
+ Responsibilities:
+i. Integrating 3rd party ad libraries in the project to render banner and post roll, pre roll, mid roll video advertisements using Admanager, AdSupport, and MediaPlayer frameworks.
+ii. Implementing logic for Analytics (Localytics and Omniture).
+iii. Testing the app on both simulator and on the devices (iPad and iPhone).
+
+	    Programming Language: Objective C
+	    Operating System: iOS 6
+	
+
+7. Freewheel Ad Platform Integration 
+
+Client: FOX Sports							             		   Apr’12-July’12
+
+This version of Fox Sports Mobile Applications use Free Wheel in-app advertising solution that supports rendering advertisements across all sections, targeting advertisements by sport, section or pages. The focus of the current initiative is to enhance Fox Sports iPhone Application to support rendering pre-roll advertisements in sections that contain videos.
+	
+Role: Software Developer
+
+Responsibilities:
+· Integrating 3rd party libraries (Free wheel) in the project to render banner ads and post roll, pre roll and mid roll video advertisements using Admanager, AdSupport, and MediaPlayer frameworks.
+· Implementing the code for displaying ads.
+· Testing the functionality of the code.
+        
+Programming Language: Objective C
+Operating System: iOS 4, iOS 5
+
+8. Mobile Ad Targeting project 
+
+Client: FOX Sports							             		   Oct’11-Mar’12
+
+This version of Fox Sports Mobile Applications use Ad Marvel in-app advertising solution that supports rendering common advertisements across all sections, but does not support targeting advertisements by sport, section or pages. The focus of the current initiative is to enhance Fox Sports iPhone Application to support rendering targeted advertisements by sport, section, or pages. This will enable FOX Sports sales to sell specific sections of the applications.
+
+Role: Software Developer
+
+Responsibilities:
+· Integrating 3rd party libraries (Free wheel) in the project to render banner ads and post roll, pre roll and mid roll video advertisements using Admanager, AdSupport, and MediaPlayer frameworks 
+· Designing User Interface.
+· Functionality changes as per requirement.
+
+Programming Language: Objective C
+Operating System: iOS 4, iOS 5
+
+
+9. Mobile Content Framework
+
+Client: Internal							             
+
+This project has one user application and one administrator application (Editor’s application) linked via push notification. Whenever, user uploads any image, video or audio to content server, a push notification is sent to the Editor’s application. The editor can then view the newly uploaded list and approve/reject the uploaded files. If approved by editor, user can see the contents.
+This app enables user to view videos, images and audios via RSS feed. Also it offers to upload the content to the users account for Facebook, Twitter, and Youtube and to the local server. 
+
+Role: Software Developer
+
+Responsibilities:
+· UI designing for the application.
+· Implementing the code for parsing the data from the RSS feed.
+· Implementing the code for integrating the application with Twitter, Facebook and Youtube using third party libraries.
+· Testing the application. 
+
+    Programming Language: Objective C
+	    Operating System: iOS 4, iOS 5
+
+
+
+
+EDUCATIONAL QUALIFICATIONS:
+1. B. Tech with 61% from University Institute of Engineering and Technology, Panjab University, Chandigarh, 2010
+2. Higher Secondary with 72% from Maj. R.N. Kapoor D.A.V Public School, Ambala Cantt, 2006
+3. Secondary with 78% from Maj. R.N. Kapoor D.A.V Public School, Ambala Cantt, 2004
+
+PERSONAL PROFILE:
+
+Full name			  	:   Manish Bhardwaj
+Sex			 	  		:   Male
+Date of Birth		  		:   25th September, 1988
+Total IT Experience	  	:   6.6 years
+
+		Page of 

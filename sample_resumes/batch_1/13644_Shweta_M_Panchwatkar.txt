@@ -1,0 +1,286 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curriculum Vitae
+
+Shweta M. Panchwatkar                                                                           shweta.panchwatkar@gmail.com                                                                                                                                                                                        
+Moshi, Pune.                                                                                                9921827583
+Objective 
+
+          Seeking a position to utilize my skills and knowledge in Information Technology Industry, that offers professional growth while being resourceful, innovative and flexible.
+
+Brief Profile 
+
+· Software Professional having more than 5.5 years of experience in Software Industry.
+· Working experience on MSBI Tools SSIS from 3.5 years SSRS for 6 months.
+· Have experience with Microsoft SQL Server development including SQL programming more than 5 years
+· Expert in analyzing, designing, developing, testing, installing, configuring and deploying MS SQL Server suite of products with Business Intelligence in SQL Server Integration Services(SSIS), SSRS.
+· Good understanding of Data warehousing design concepts and physical data modelling skills.
+
+· Also worked on .Net(C#) technology with SQL Server as a backend for 2+ years.
+
+· Experience in writing SQL Queries, sub-queries and complex joins for generating Complex Stored Procedures, Triggers, User-defined Functions.
+· A true team player; understand the need of teamwork for any project success.
+
+· Strong commitment towards delivering quality work on time. 
+
+· Good knowledge of software Development life cycle (SDLC).
+Experience Summary
+
+· Worked as a MSBI Developer for Pall Corporation, Pune (Dec 14 – Jun 15)
+
+· Worked as a Senior Software Engineer for Infosys Technologies Limited. Pune (Oct 11 – Mar 14)
+
+· Worked as Software Engineer (.Net 2yrs) for Lakshmi Irrigation Pvt. Ltd., Pune (Aug 09 – May 11)
+· Worked as Software Developer (VB6.0 1 yr) at Jain InfoTech Pvt. Ltd., Wardha (June 08 - July 09)
+Educational Qualification 
+
+· B.E.(IT) (Year 2008 / Percentage: - 63.42%): Amravati University
+      Jawaharlal Darda Institute of Engg. & Technology, Yavatmal.
+
+· H.S.C. (Year 2004 / Percentage:- 72.36%): J.C. Junior College, Karanja. Maharashtra
+· S.S.C. (Year 2002/ Percentage:-73.66%): J.C. High School, Karanja. Maharashtra
+	Technical Expertise
+
+	ETL Tools
+
+	SQL Server Integration Services (SSIS), SQL Server Reporting
+
+Services (SSRS), Basic knowledge of SSAS
+
+	Programming Languages
+	VB6.0, C#
+
+	Databases
+	SQL Server 2000/2005/2008/2012, MS Access
+
+
+Projects Handled at Previous Employer
+
+
+	Organization Name :   Infosys Technologies Limited, Pune
+
+	Project Name 
+	SIS Migration
+
+	Duration
+	6 months
+
+	Client
+	Shinsei Bank, Japan
+
+	Key Responsibilities
+	Analysis, Designing, Coding, Testing
+
+	Description   
+	In this module we Changed Existing system according to new requirements which includes SSIS packages, SQL database and batches. We did migration of the existing system to newer version as per the new requirement of client. In this project we created batch jobs with the help of ssis packages which runs automatically on daily basis or monthly basis.
+
+	Project Name 
+	AST Invoice Reconciliation
+
+	Duration
+	1 year 6 months
+
+	Client
+	Westpac Bank, Australia
+
+	Key Responsibilities
+	Complete analysis, designing, coding, Testing
+
+	Description   
+	Developed SSIS Packages for automation of time sheeting process. Generated Invoice Report with the help of batch jobs for Invoice Reconciliation Project. Automated whole attendance and time sheet concept with flow from SSIS packages. Generated Invoice reports according to the Data filled in time sheets by employees.
+
+	Project Name 
+	BMO Japan
+
+	Duration
+	5 months
+
+	Client
+	Japan
+
+	Key Responsibilities
+	Complete analysis, designing, coding, Testing
+
+	Description   
+	According to the needs of client the product is design and made flexible. Huge data was to be migrated to excel sheets on a daily basis. So we created ssis packages and batch jobs to automate whole data handling process.
+
+	Technology Used
+	SQL Server 2005, SSIS
+
+
+	Organization Name: Lakshmi Irrigation Systems Pvt. Ltd., Pune
+
+	Project Name 
+	Centralized Accounting and Inventory Management
+
+	Module 1: 
+	Inventory Management
+
+	Duration
+	6 months
+
+	Key Responsibilities
+	Analysis, Designing, Coding
+
+	Description   
+	In this Module we manage Order process, Stocks of warehouse. The project involves Input and output of Stock register. Also Valuation of stock and warehouse is maintained. Damaged stock register is also included for the ease of reports and stock maintenance
+
+	Module 2: 
+	Accounts management
+
+	Duration
+	5 months
+
+	Key Responsibilities
+	Analysis, Designing & maintenance
+
+	Description   
+	In this module we have extended the order process with accounting management. This module consists of as Invoice, cash transaction, receipts, Payment, etc. We added journal entry for balance adjustment. We are now producing cashbook, Account statement, and day report. Discount report on Invoice basis, Item basis, Order basis
+
+	Module 3:
+	Realization
+
+	Duration
+	7 months
+
+	Key Responsibilities
+	Analysis, designing, Report generation
+
+	Description   
+	 Module A: Account
+             In this we calculate realization on the basis of invoice. Some invoices are on credit base. We calculate here the interest on the days required to collect invoice payment.                                                                                                  Module B: Inventory
+             In this we calculate realization on the basis of item. How many days are item is kept in warehouse. Shortage of item, its baring is considered in this module.                                                                                                              Module C: Production cost
+             In this we calculate 1) what is row material cost of current market 2)How much row material require for Item 3) then what is cost of production of that item 4) what is selling prize of Item after discount 5) Comparing this report we give them the analysis report.
+
+	Module 4: 
+	Expenses Report
+
+	Duration
+	2 months 
+
+	Key Responsibilities
+	Designing, coding, Testing
+
+	Description   
+	In this module sales officer enter their expenses in the system. We map the order, receipt, and customer with sales officer. We calculate how much cost is occurred on each order from taking the order to collecting of Payment.
+
+	Module 4: 
+	Sales officer report
+
+	Duration
+	4 months
+
+	Key Responsibilities
+	Designing, coding, Testing
+
+	Description   
+	In this module how much sale is done by sale officer in particular month, quarter, and year is calculated. While calculating the target given to the sales officer, How much he achieve, his incentive are taken into consideration. We calculate debit report on the basis of sale officer, region wise.
+
+	Technology Used
+	Front end: C#.Net/ VB.net/ADO.Net  Back end:  SQL Server 2005/2008
+
+	Organization Name :   Jain InfoTech, Wardha 
+
+	Project Name 
+	Readymade Shop Project (Billing and Inventory management of products)
+
+	Duration
+	4 months
+
+	Client
+	Bachpan Readymade, Wardha
+
+	Key Responsibilities
+	Analysis, Designing, Coding, Support
+
+	Description   
+	In this project we have automated the whole working of readymade shop with Labels having Barcodes for identification. The project involves inventory management and billing starting from barcode scanning of a product. 
+
+	Project Name 
+	Coaching Institute Automation
+
+	Duration
+	5 months
+
+	Client
+	Mr. Sahu, Wardha
+
+	Key Responsibilities
+	Complete analysis, designing, coding, Testing
+
+	Description   
+	Automation of coaching institutes with I-cards printed with barcode as their roll number which is then used for issuing notes, appearing for tests, daily attendance, etc with backup facility.
+
+	Project Name 
+	Hospital Management System (Gynic, OPD)
+
+	Duration
+	3 months
+
+	Client
+	Dr. Jajoo, Wardha
+
+	Key Responsibilities
+	Complete analysis, designing, coding, Testing
+
+	Description   
+	According to the needs of client the product is design and made flexible for use of doctors for gynic department and OPD with patients information, their reports details, their follow-ups at every time they visit hospitals and many such facilities.
+
+	Technology Used
+	Front end : VB, Back end :  SQL Server 2005, Reports : Crystal Report
+
+
+Date of Birth
+                  :
+      19th November, 1986
+
+Languages Known            :           English, Hindi, and Marathi
+
+Marital Status                   :           Married
+Passport No                      :           H6839936 (Valid Till 2019)
+Address                            :           Moshi, Pune – 412105
+Place : Pune                                                                                                   Shweta M. Fursule
+

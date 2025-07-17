@@ -1,0 +1,317 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Rishu Kansal
+	
+Senior software engineer
+rishuu1989@gmail.com
++91-9550565873
+
+	
+
+	· Personal Objective: - To be associated with an organization that gives scope to apply my knowledge, skills ,explore new technologies and thus to work with sheer grit and dedication to the best of my abilities towards the growth of the organization
+
+
+· Professional Summary:-
+· Nearly 5 years of IT experience involved in developing and maintenance of Software applications using Spring and Java/J2ee.
+· Executed end to end Developments and implementations of software projects 
+· Extensive working experience on Spring, springboot, micro services architecture, Hybris and Oracle ADF 11g 
+· Good knowledge of Java\J2EE ,web services, WSDL, SOAP,REST,Eureka, Ribbon, Hystrix, Feign, JPA and zuul.
+· Hands on experience on technologies like JMS,ActiveMQ and Kafka.
+· In-depth knowledge on UI development with JSFF, ADF skinning, JSP, HTML, CSS , Java script and JQuery.
+
+
+· Excellent analytical, inter-personal ,verbal and written communication skills 
+
+
+
+ 
+PROFESSIONAL EXPERIENCE
+
+	Banking
+
+
+	One of the largest bank in the world maintaining a portal which was developed over decades ago. The challenge was to break the legacy monolithic application into individual micro services.
+
+	Module
+	The job was to disintegrate mesh of interdependent services into stand alone applications. 
+
+
+	Duration
+	May 2016 - present
+
+	Team Size
+	4
+
+	Role
+	Lead
+
+	Responsibilities
+	· Migrating to boot project 
+· Creating POM with needed dependencies
+· Created Eureka cluster and registered services
+· Eureka integration
+· Load balancing using Ribbon
+· Implemented design patten like circuit breaker
+· Exposing as edge service using zuul
+· Implemented ETL(Extract, Transform, Load) using Kafka, Confluent and Zookeeper.
+
+	Technology Used
+	Spring, springboot, Eureka, REST, Ribbon, Feign
+
+
+
+
+	Vodafone RedSky - Hungary  
+
+	A B2C E-commerce solution using SAP Hybris platform to provide customers rich online product and service consumption experience and covering all the end points[web,shop,back-office,admins]. This platform allows user to select various different products[phones] and services[Contract based communication services] from Vodafone’s inventory.
+
+	Module
+	Order Management System[OMS]
+After the user completes the OMS kicks in. It has number of sub modules which involve the tasks from credit vetting to service activation and order delivery interacting with various back-ends.
+
+	Duration
+	Feb 2015 –  April 2016
+
+	Team Size
+	4
+
+	Role
+	Senior-Software Engineer/ Partial Lead
+
+	Responsibilities
+	· Creating process
+· Back-office integration
+· Service integration
+· Exception handling,loggers and code quality.
+
+	Technology Used
+	Hybris OMS,Spring ,JAVA.
+
+
+
+
+	Vodafone OnePortal- Vodafone UK
+
+	A B2B portal which uses Oracle ADF, WCP, WCS, JSF as core technologies and gives a common platform to all its customers with services like raising quotes, placing order, checking availability , raising fault tickets and lot more for Vodafone’s various enterprise and wholesale products.
+
+	Present Journey
+	Net View
+It is one of the portal which aims at providing services and support to Vodafone network device users and Support Engineers. It aims at reducing the overhead on the scripting server team by providing interactive and easy interface.
+
+	Duration
+	March 2013 – Jan 2015
+
+	Team Size
+	2
+
+	Role
+	Software Engineer
+
+	Responsibilities
+	· Currently working as core developer on NetView  journey 
+· Developed UI screens
+· Service layer integration
+· Task flow creation
+· Exception handling
+
+	Technology Used
+	JAVA, Oracle ADF, Javascript, JSF, Web services, SOAP,REST,Rundeck,Grails
+
+	
+	
+
+
+
+
+	VCarpooling  
+
+	· strives to provide and coordinate carpool information for  Virtusa’s employees
+· It is an automated system that replaces the manual work of contacting each other i.e., between a person who wants to provide the car and person who wants to share/pool his car.
+
+	Duration
+	Feb 2013 –  June 2013
+
+	Team Size
+	6
+
+	Role
+	Trainee 
+
+	Responsibilities
+	· Requirements analysis
+· Developed the provider part of the carpooling system.
+· Prepared the ui screens using html and css
+· JUnits and loggers
+
+	Technology Used
+	Spring 3.0, JAVA, Servlets & JSP(J2EE),  JavaScript, Html, CSS
+
+
+
+
+EDUCATION
+
+
+	Year
+	Degree
+	Institution
+	CGPA/Percentage
+
+	2008-2012
+	B. Tech. (IT)
+	Maharishi Markendshwar Engineering College ,Ambala
+	6.7
+
+	2006-2007
+	      12th
+	St. Kabir Convent School
+Bathinda
+	
+65%
+
+	2004-2005
+	      10th
+	St. Xavier’s High School
+Bathinda
+	
+84%
+
+
+
+
+STRENGTHS
+· Good Leadership and Presentation Skills 
+· Logical Approach towards problem solving
+· Positive Attitude 
+· Confidence and easy adaptable to various environments.
+
+
+	
+Current Organization:
+Virtusa Consulting Services PVT LTD., Hyderabad
+
+
+Skills
+Java
+J2EE
+Springboot
+Web Services
+JavaScript
+HTML
+CSS
+JSF
+
+
+Frameworks
+Oracle ADF
+Spring 3.0
+
+
+SDLCs Followed
+Agile
+Waterfall
+
+
+
+IDES
+MS Office
+Oracle J-Developer
+Eclipse
+Sts
+
+
+
+Operating Systems
+DOS
+Win2000/XP/7/Window8
+Linux( Basic)
+OS X
+
+
+
+	PERSONAL PROFILE
+Being an easy-going person, am keen to learn new technologies with minimal time period, guidance and am a team Player with excellent communication skills. I have the patience to listen when someone speaking and proactive to share my views.
+		Father’s Name
+	 Mr. Bhir Bhan Kansal
+
+	Nationality
+	 Indian
+
+	Sex
+	 Male
+
+	Date of Birth
+	 25/02/1989
+
+	Languages Known
+	 English, Hindi,Punjabi
+
+	Marital Status
+	 Single
+
+	
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	Date:
+	
+	
+
+	Place: Hyderabad
+	
+	Rishu Kansal
+
+
+

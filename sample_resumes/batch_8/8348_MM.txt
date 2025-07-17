@@ -1,0 +1,191 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.3HEALAH ANVEKA A
+Email id: hanveka23@gmail.com
+Contact: +91- 7338846125
+
+	
+	OBJECTIVE
+	
+
+
+
+Seeking for a challenging and rewarding career in ERP SAP ABAP where I can implement solutions based on business needs through my software development skills and technical expertise.
+
+	
+	Executive Summary
+	
+
+
+
+· Having 3.3 Years of experience as ABAP programmer in SD,MM,QM,HR modules.
+· Worked on both Implementation Project and  Support Projects.
+· Report developments are done in OOPS concept.
+· Good Knowledge of IDOC,Authorization Objects, user exits, BAPI, BADI, Function Modules, Module Pools. 
+· Expertise in Conversions: LSMW, Conversion programs (Report), BDC.
+· Good Working Experience in Enhancements- Customer exits, BADI’s.
+· Developed Various Layouts:  SMARTFORMS, ADOBE FORMS.
+· Debugging techniques -  Break Points –  Have experience to debug SAP Std. Programs, Smartforms.
+· Practical Knowledge in Webdynpro ABAP.
+· Working knowledge in HR ABAP.
+· Had SAP HANA and UI5 training .
+	
+	Technical Skill
+	
+
+
+
+· Primary Skill 		      :  ABAP, HR ABAP, Webdynpro ABAP, OO ABAP.
+	
+	Educational Details
+	
+
+
+
+· B.E (Computer Science and Engineering) from Krishnasamy College of Engg and Technology
+With 8.03 CGPA.
+· HSC from St. Joseph Higher Secondary School with 90.75%
+	
+	Professional Experience
+	
+
+
+
+	Organization
+	From
+	To
+	Role
+
+	
+Cognizant Technology Solutions
+	
+July 04,2014
+	
+To present
+	
+Programmer Analyst
+
+
+ 
+
+
+
+
+
+SAP Project Experience
+  
+1) Client:  Monsanto (Nov 2016 – present)
+Role: SAP ABAP Developer
+Project: Monsanto AVM BFD
+     RESPONSIBILITIES:
+· Developed 2 invoices (VF03) using Adobe forms.
+· Changing already existing smartforms, sapscript , Adobe Forms created for VF03,VL03N,VT03N.
+· Developed a report for QM module that involves displaying custom operation list and a BDC program for QE23.   
+· Worked on user exits of SD module, code changes for MM,QM.
+· Debugging and analyzing programs to find the issues and providing the solution on the where the code needs to be fixed based on the new client requirement.
+
+2) Client:  Macys (July 2016 – Oct 2016)
+Role: SAP ABAP Developer
+Project: MST_MMG_m360_SAP_FMS
+     RESPONSIBILITIES:
+· Conversion program to upload an excel sheet which contains Duty Rates from US government to a custom table.
+· LSMW to create info record for transaction ME11 and included conversion routine for validations.
+· Enhancement to automate vendor block during vendor creation through tcode’s XK01, MK01, FK01.
+· BADI enhancement to assign profit center automatically whenever a plant level data or MARC table is modified through MM41, MM42.
+· Enhancement in an exit to include custom functionality for inbound IDOC for processing bulk sales order and update the VAS details.
+
+3) Client:  Endo Pharmaceutical (Oct 2015 –June 2016)
+Project: Endo SAP Consolidation-Reliztn
+RESPONSIBILITIES:
+· Developed a smartform and print program for billing document (vf03) for one newly acquired companies of ENDO.
+· Created a BDC program for transaction VK11 for uploading condition records.
+· Did production monitoring and analysed the same when dumps occurred.
+
+4) Client:  Clorox (Oct 2014 – Sep 2015)
+Role: SAP ABAP Developer
+Project: Clorox Reboot PMO
+RESPONSIBILITIES:
+· Did enhancement with BADI -Implemented for tcode PA40 (HR) and gave additional functionality for Re-hire action type under PA40 .
+· Included Email functionalities with multiple file attachments for both HR data and shipment data.
+· Developed an object from scratch that involves selection screen with multiple validations and logics to provide an alv report.
+· Modification under Vendor document update (FB02/FB03) to save text.
+· Modified existing reports to improve performance by introducing field symbols, removing nested loops and removed codes with predefined function modules that SAP already provides.
+· Changed the program logic for already existing SMARTFORMS involving invoice (Tcode VF02) based on business requirement.
+· Changed the logic for creating IDOC when a sales order is created based on requirement.
+· Have analyzed both inbound and outbound IDOC. Provided solution for an outbound idoc whose segment data was not as per business requirement.
+· Developed alv program through OO concept for extracting shipment data as per business requirement.
+· Getting ZIP file containing vendor details as input and extracting data from it and used OO ALV to display as ALV output an
+· Involved in the analysis of various HR payroll interfaces that generates files to transfer into third party system.
+	
+	Awards
+	
+
+
+· Got ‘Campus Associate of the Quarter award’ for outstanding performance after deployed to projects.
+	
+	Personal profile
+	
+
+
+D.O.B:		23/06/1993
+Gender:		Female
+Nationality:		Indian
+Languages Known:	English,Tamil
+		Address:		Plot No:3 Mani Chettiar Nagar
+Pathirikuppam
+Cuddalore-607 002
+
+Declaration:
+ 	I hereby declare that all the details furnished above are true to the best of my knowledge
+
+PLACE: Chennai                      						Healah Anveka
+DATE: 09/11/2017                                           										 
+3 | Page
+

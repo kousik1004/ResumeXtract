@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	         Curriculum Vitae
+	
+
+
+
+Ardhra Asok P
+	Experience Summary
+
+
+Have completed 3 years of experience as a SharePoint Developer in Cognizant Technology Solutions. Have Knowledge and hands on experience in SharePoint 2010 and 2013 Out of the Box functionalities. 
+Successfully led a team in the migration of LiveLink content to SharePoint 2010, 2013 and O365 while retaining document version history, security settings and permissions.
+Have working knowledge in HTML, CSS, JavaScript, JQuery, C#, CSOM and Rest API.
+ 
+	Education and Certifications
+
+	
+	
+	
+
+	Title of the Degree with Branch
+	College/University
+	Year of Passing
+
+	Bachelor of Technology
+	Vidya Academy of Science and Technology/ Calicut University
+
+	2014
+
+	Technical Skills
+
+	
+	
+
+	Technology
+	: SharePoint 2010, 2013
+
+	Programming Languages
+	: C#
+
+	Databases
+	: SQL Server 2008, MySQL
+
+	Scripting Languages
+	: JavaScript, JQuery, Angular JS
+
+	Mark up Languages
+	: HTML, JQuery, CSS
+
+	Working knowledge
+	: Rest API, CSOM, SharePoint Designer 2013
+
+
+
+	Current Role
+
+
+
+CTS, Kochi​ - SharePoint Developer
+From October 2014 - Present
+	Contact Details
+
+
+
+Mobile No: +91 8086272283		E-Mail ID: ardhraasok@gmail.com
+
+	Project Details
+
+
+
+Project #1
+Title				: Cognizant Global FP&A
+Client				: Cognizant Global Financial Planning & Analysis Team
+Tools & Technology		: SharePoint 2013, Rest API, JavaScript
+Duration			: 01/02/2017 to Present
+Detail Project Description	: 
+Financial Planning and Analysis (FP&A) is a department of cognizant involved in all types of insightful financial planning and analysis. The aim of this project is to develop a SharePoint 2013 portal for the Global Financial Planning & Analysis Team, Cognizant Technology Solutions. This portal provides the one-stop shop for all their collaboration and teamwork. Responsible for the development of out of box and customized SharePoint 2013 Apps. Utilized jQuery, JavaScript and CSS to create custom enhancements for customer satisfaction and efficiency.
+Role & Responsibility		: 
+· Consult regularly with the clients to understand the requirement and introduce.
+· Add features according to the user requirements
+· Write scripts to implement the user requirements
+
+Project #2
+Title				: Shell EAS & COE
+Client				: T-Systems International GmbH
+Tools & Technology		: SharePoint
+Duration			: 02/11/2016 - 31/01/2017
+Detail Project Description	: 
+The project deals with supporting Shell external users about the new access system to Shell environment. Users need to register for a new authentication system before SharePoint is going online. Users will come up with their concerns and team need to resolve them.
+Role & Responsibility		: 
+· Handled end to end client interactions
+· Got client appreciation for efficient support and communication.
+
+Project #3
+Title				: Shell Mass Migration
+Client				: T-Systems International GmbH
+Tools & Technology		: Docave v5, .NET, SharePoint
+Duration			: 01/02/2016 to 01/11/2016
+Detail Project Description	: 
+The project deals with migration of data from Livelink to SharePoint sites. It is a 5 weeks of process which includes two stages of migration, full migration and incremental migration. Project has mainly 6 phases. Scheduling, Soft freeze period, Full migration, Read only state, Incremental migration and Delivery. Once scheduling is done soft freeze banner will set in destination site. Soft freeze period is of 3 weeks. During this time user will be able to make modifications in source. Full migration will start once banner is placed. After the soft freeze period, read only banner will be set. Read only is of 2 weeks and user will have only read access to source data. Incremental migration will start in this time period which will migrate the modified data. After the completion of entire migration, sites will be given live.
+Role & Responsibility		: 
+· Migrated large amount of data from Livelink to SharePoint
+· Developed tool for health check. Health check is the process of checking the feasibility of migration once orders are submitted. Tool will check whether the library is created in site and default views are present for the library.
+· Developed tool for getting details of not migrated items. Once the migration is completed, tool will retrieve the reasons for not migrated items. This will reduce the time spent for validation.
+· Developed tool for post migration activities. Once the migration process completed tool will set the default versioning settings and views. 
+· Developed tool for recycle bin deletion. Tool will clear items from the recycle bin before the sites are given live.
+	             		
+Project #4
+Title				: Shared Drive Migration
+Client				: T-Systems International GmbH
+Tools & Technology		: Docave v5, .NET, SharePoint
+Duration			: 02/01/2016 - 31/01/2016
+Detail Project Description	: 
+The Main theme of the project is to migrate data from Livelink to Shared drive. Shared drive migration is one of the fastest migrations when compared with Livelink to SharePoint migration and more over it is less expensive. It is easy to manage the data in one drive as a whole and can be used as a backup source in the future. It is two migration process and has mainly 3 stages. Scheduling, Migration and Delivery. 
+Role & Responsibility		: 
+· Migrated large amount of data from Livelink to Shared Drive.
+· Delivered contents on time with client appreciation for timely delivery and coordination
+
+
+Project #5
+Title				: Shell Fast Track Migration
+Client				: T-Systems International GmbH
+Tools & Technology		: Docave v5, .NET, SharePoint
+Duration			: 04/01/2015 to 01/01/2016
+Detail Project Description	: 
+The project deals with migration of data from Livelink to SharePoint sites. Migration takes 3 weeks of time. Project has mainly 4 phases. Scheduling, Read only state, Migration and Delivery. Once the orders are scheduled, read only banner will be placed in destination sites and migration process will start. During migration process user will not be able to make any changes in source data. Once the migration is completed sites will be given live.
+Role & Responsibility		: 
+· Migrated large amount of data from Livelink to SharePoint in a short span of time
+· Delivered contents on time with client appreciation for timely delivery and coordination
+
+	Personal Information
+
+
+
+	Date of Birth
+	: 17/05/1993
+
+	Gender
+	: Female
+
+	Nationality
+	: Indian
+
+	Permanent Address
+	: Parekkat House, Manakody P.O, Thrissur-680012, Kerala
+
+	
+	
+
+
+  

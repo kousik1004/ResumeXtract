@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRASANTH.K.R
+
+prasanth.raghavendran@gmail.com
+
++91-9842773881
+
+Professional Summary:
+
+·     Around 3 years of experience in IT Industry having strong skills in SMPP, SS7, SMS operations, UNIX, SQL and Production application support.
+·     Expertise in Unix Shell Scripting for Automation and proactive application monitoring.
+·     Expertise in resolving the incidents in stipulated timelines.
+·     Ability to learn concepts quickly & implement them with positive results.
+·     Excellent team player and a quick learner with strong communication and interpersonal skills.
+
+Educational Qualification:
+Bachelor of Technology in Computer Science and Engineering from Nandha Engineering College – Anna University,Chennai.
+
+Professional Experience:
+·     Currently working with Tech Mahindra Limited Software Engineer from Oct 2015.
+
+Projects Profile:
+Current Project	:	Google SMS Testing
+
+Client	:	Google India PVT. Limited
+
+Environment	:	SMPP, SS7, Linux, SQL, UNIX shell scripting
+
+Duration	:	April 2016 – Ongoing.
+
+Description:
+
+Google's Mobile Gateway Platform is the infrastructure of all the messaging related services offered to Google's Internal and external clients. This platform is the single point source for new Partners and support for the all existing messaging services spread across the globe.
+
+Responsibilities:
+·   Handling Mobile Gateway Platform day to day operational activities along with Routing Configurations, Carrier Integrations and Onboarding, Partner Integrations and Onboarding, New Client integrations, Shortcodes management.
+·   Incident management for all issue reported by internal and external clients within agreed Service Level Agreements(SLA’s).
+·   Monitoring of IDV completion rates, Error rates, connectivity and taking necessary actions to resolve the issues.
+
+Contributions:
+·   Took accountability for SMSC part of the project. SS7 routing and testing, Integrations, Establishing Process and Creating documents and training rest of the Team.
+·   Took the Short code related process transition from Negotiators team and     later documented and trained whole team. Currently working to simplify the configurations and introduced a new process and routing methods for Short codes and initiated for one Aggregator presently. Once all Aggregators are moved to this new process the whole shortcode process can be automated.
+·   Took training for creating dashboards and created many proactive monitoring Dashboards for daily analysis by my team and some for Management to use for reporting.
+·   Automated Daily Performance Reports which are shared to multiple Aggregators. Currently working on providing feed through SFTP and a repository for Negotiators.
+
+Achievements:
+·   Bravo award for completing the SSL certificate renewals before freeze period which prevented service outage.
+
+Project #1	
+
+Client	:	British Telecom. Environment	:	SQL, UNIX shell  scripting ,intermediate knowledge in Python.
+Duration	:	Oct 2015 – Apr 2016.
+Description:
+
+24x7 BT Mobile Gateway Operations supporting. The function of Operations team is to handle the issues related to SMS delivery, carrier/country/coverage or any queries related to traffic volumes/cost or quality, Onboard new carrier/aggregator, manage SMS routing and configurations. 
+
+Responsibilities:
+
+· Manage hosted application in the production environment.
+· Upgrading, patching and deployment on production instances.
+· Application configuration management and performance fine tuning.
+· Analyzing problems, perform troubleshooting, communicate with customers, carriers, inter department and track issues. 
+· Automation of monitoring and implementing the best practices to improve the pro-active monitoring with the help of cron/scripts/application.
+· Integration of new national/international Telco connectivity and performing the functionality test cases.
+· Technical operator coordination, troubleshooting and resolving the Telco issues.
+
+Contributions:
+
+· Managing the customer traffic and effectively using the TPS across all Telco’s.
+· Analyzing the traffic pattern of high potential customers and providing the daily latency report to the Management.
+· Weekly forecast reports to management about future issue predictions due to increase/decrease in traffic.
+· Performing basic DBA activities based on Client/Telco request and design queries to fetch necessary data from the database.
+· Suggestions to DBA team to fine tuning the table level partitioning/split based on traffic pattern.
+· Analyzing the hardware requirements based on the traffic pattern.
+· New POC setup creation and customer onboarding.
+· Providing technical support for the pre sales and CSM’s.
+· Online testing with the Aggregator customers for connectivity/bind related issues.
+
+Personal Details :
+
+Nationality                   :             Indian
+
+Date of Birth                :             14th July 1994
+
+Languages Known       :              English,Tamil & Kannada
+
+Address                        :              351, Agraharam Street,Erode - 638001
+
+
+
+
+
+

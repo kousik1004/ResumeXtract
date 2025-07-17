@@ -1,0 +1,225 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+REKHA KILARU 
+Flat No. 1-98/90 , Madhapur, Hyderabad - 500081 
+Contact : (+91)9700172974;                                                                             
+E-mail : kilaru.rekha6@gmail.com 
+ 
+
+        Embedded Software Engineer  
+ 
+CAREER OBJECTIVE 
+ 
+
+                Seeking a challenging position as an embedded firmware engineer in a prestigious organization, 
+who has hands on experience in software processing, developing advanced architectures, prototyping, 
+and verification of software products. 
+ 
+
+PROFESSIONAL SUMMARY 
+ 
+
+• 3 years of experience in Embedded System Development, this includes C, Linux, Operating 
+
+system concepts and developing firmware for ARM based microcontroller. 
+
+• Good knowledge of RAM, ROM, EEPROM and Flash memories, Linkers, Build process, Memory 
+
+Mapping  techniques. 
+
+• Basic knowledge of the Linux Device driver programming. 
+
+• Good knowledge of the techniques of developing and designing embedded firmware. 
+
+• In-depth knowledge of micro-controllers assembling languages, digital hardware design, and                                       
+
+hardware features and codes 
+
+• Good knowledge of debugging firmware, embedded firmware engineering concepts, and logic  
+
+analyzers. 
+
+• Good knowledge in FPGA level validation for peripherals of microcontroller 
+
+• Good knowledge of AHB, APB protocols, simulation of firmware on test bench. 
+
+• Ability to solve technical issues with good communication skills 
+
+• Skilled in meeting deadlines and work collaboratively in a team environment 
+ 
+
+TECHNICAL SKILLS 
+ 
+
+Compilers & Tools Keil uVision,  CoIDE, IAR Workbench,  Microsoft Visual Studio. 
+
+Debuggers JLink,  JTrace, CMSIS-DAP, JFlash 
+
+Programming Languages Assembly, Embedded C, XML 
+
+Hardware/MCU 
+MCUs - ARM Cortex-M4, 8051, ARM7TDMI, LPC54102, Spansion MCU,  
+Sensors - Proximity/Ambient Light, motion, Pressure, Temperature/ 
+Humidity. 
+
+Familiar Protocols SPI, UART, I2C, I2S, CAN,JTAG/SWD, MQTT, Ethernet 
+
+Operating System Linux, Windows,  Micro C/OS, FreeRTOS, FAT32 file system 
+
+Analysis Tools Logic Analyser,  Protocol Analyser, Oscilloscope, ChipScope 
+
+ 
+
+EDUCATION 
+
+• B.Tech (ECE) from Narasaraopeta Engineering College, in 2012 with 77.5% . 
+
+PROFESSIONAL EXPERIENCE 
+
+• Working as an Embedded Software Engineer for Redpine Signals Inc. from June 2016 to till date. 
+
+• Worked as an Embedded Software Engineer for Onchip Technologies from October 2014 to 
+
+June 2016. 
+
+mailto:kilaru.rekha6@gmail.com
+
+
+ 
+
+ 
+
+ 
+
+Title of the project: RS9116 microcontroller Firmware Development (IoT Platform) 
+
+Description: The purpose of RS9116 product is to provide a good platform for Internet of-Things (IoT) 
+
+applications. The platform consists of Redpine Signals RS9113 Wi-Fi 802.11bgn module, ARM Cortex M4 
+
+processor.   
+
+My role of project is to develop firmware and validate the peripherals of MCU 
+
+• Implemented API’s for serial communication interfaces like I2C, I2S, UART, SPI, Quad SPI. 
+
+• Implemented API’s for peripherals like PWM, Quadrature Encoder Interface, TIMERS , FIMQ and 
+
+DMA. 
+
+• Testing and bug fixing of peripherals and validation of peripherals on FPGA. 
+
+• Implemented flash algorithm for various development environments like Keil , CoIDE and IAR 
+
+Workbench. 
+
+• Created startup code and header files for the new microcontroller device based on CMSIS 
+
+standards 
+
+• New MCU device support for development tools like Keil and IAR Workbench. 
+
+• Documented all the firmware development steps according to standards. 
+
+• Implemented CMSIS Drivers for I2C ,Ethernet and I2S peripherals to port various MCU vendor 
+applications easily. 
+
+ 
+
+Title of the project: Video Streaming with OV788 kit 
+Description: To capture video from camera module of OV788, stores the raw data in server and stream 
+
+it through RS9113 WiFi module. 
+
+My responsibility of the project is bring up SPI communication between OV788 and Cortex-M4 based 
+
+microcontroller (WiseMCU). 
+
+• Implementation of SIF protocol of OV788 board 
+
+• Application implementation for SPI communication on WiseMCU. 
+
+• Debugging and Integrating the firmware. 
+
+• Captured video stream from OV788 board camera module successfully. 
+ 
+
+Title of the project: Sensored BLDC Motor Control Application using PWM module 
+
+Description: RS9116 has six PWM outputs that can be driven with PWM signal. The MCPWM module 
+
+has been designed specifically for motor control applications. The important feature of the MCPWM 
+
+used in this application is the Override Control and immediate duty cycle update. 
+
+• Implementation of PWM application to run motor in clockwise or anti clockwise.  
+
+• Generating desired motor speed by reading Hall sensors . 
+
+• Analysing shaft direction and position and velocity with QEI. 
+
+• Testing , bug fixing  and documentation. 
+ 
+
+Title of the project : I2S Audio Application Development using Freescale’s SGTL5000EVB 
+
+Description: SGTL5000 is a Low Power Stereo Codec with Headphone Amp from Freescale. This EVB is 
+
+configured as I2S master to provide 3.12Mhz clock to the RS9116 I2S slave module. This application will 
+
+sent audio data from slave to master and master module plays this audio using stereo codec. 
+
+• Configuring  stereo codec control software for required master clock 
+
+• Created initialization script to program registers of SGTL5000 
+
+• Implemented code to transmit audio data from slave to master. 
+
+• Testing , bug fixing  and documentation. 
+
+ 
+
+

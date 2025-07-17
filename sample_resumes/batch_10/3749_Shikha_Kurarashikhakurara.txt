@@ -1,0 +1,517 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                Shikha Kurara
+shikhakurara@gmail.com
++91 9704558170
+Hyderabad
+
+
+
+
+			
+
+Professional Summary
+
+
+
+· 9+ years of experience while working for BT and AT&T in complete Software development life cycle starting from requirement gathering/analysis, preparing requirement/design documents, Application Analysis, Design, Development, implementation, maintenance and testing of large and complex Web, Client-Server based Enterprise Applications using Java/J2EE technologies and Software Development Methodologies/Frameworks such as Waterfall and AGILE.
+· Have worked closely with clients at onsite as requirement manager & Onsite Lead. (Have valid H1-b visa)
+· Extensive experience in design and rapid development of web and J2EE applications using Core  Java, JSP, Servlets, JDBC, Spring, Hibernate, Struts, design patterns like MVC (Model, View, Controller), Front Controller, Strategy, Prototype, Proxy, Decorator, Factory, Singleton and Data Access Object (DAO) etc.
+· Experience in developing applications using spring framework, spring web MVC using features like IOC and configuring application context for spring bean factory.
+· Good experience in SQL and UNIX for writing complex SQL statements, procedures/views/materialized views/triggers etc. and scheduling these through shell scripts, handling logs, writing basic shell scripts, using SQL loader etc.
+· Expertise in developing data models using Hibernate (Caching, Relationships and Hibernate DAO) Object Relational Mapping (ORM) framework and configuring Hibernate persistence layer. Have experience in Toplink too.
+· Expertise in XML and related technologies like XSD and parsers like JAXB.
+· Good Experience in Web Services (SOAP & REST) using Struts and Spring framework respectively with clear understanding of WSDL standards & UDDI.
+· Experience with WEB technologies like Ajax, JavaScript, jQuery, AngularJS, dojo and fusion charting.
+· Experience in gathering requirements from clients, analysing requirements, suggesting solutions to them.
+· Expertise in preparing HLD/LLD, Business to Technical requirement mapping and UML modelling using tools like MS Visio.
+· Experience in deployment of applications on Web logic 10 & 12, & Jboss servers.
+· Worked extensively on build and deployment tools like ANT and Jenkins.
+· Experience in version control using SVN.
+· Log4J for extensible logging, debugging and error tracing.
+· Experience in using Eclipse, Putty, QC, HP PPM, BO Reports and Toad.
+· Strong logical & analytical skills to work on problems/solutions, good interpersonal & communication skills with ability to lead a team & keep them motivated.
+· Worked with Junit and Postman for unit testing.
+· Worked on Devops implementation in around three projects using Junit, Sonar, and Jenkins etc.
+
+
+	
+	
+
+Technical Skills
+
+	
+	
+
+	Operating Systems
+	MS Windows, UNIX
+
+	
+	
+
+	Languages
+	Java, SQL, Unix
+
+	
+	
+
+	Databases
+	Oracle
+
+	
+	
+
+	
+	
+
+	Framework
+	Struts1.1, Spring along with design patterns
+
+	
+	
+
+	ORM
+	Toplink, Hibernate
+
+	
+	
+
+	Web Related
+	Java script, JSP, HTML, Ajax, JQuery, Dojo, Fusion Charting, Angular JS
+
+	
+	
+
+	Tools & Utilities
+	Eclipse, Rational Software Architect (RSA), Sub Version Control (SVN),
+
+	
+	Toad, Putty, Toplink Workbench, Workshop for WebLogic 10gR3 & 12,Tomcat,Apache Ant, BO Reports,  SQL Reports, Java Web Service Developer Pack 1.6, BMC Remedy etc. 
+
+Automation: Jenkin, SONAR, Junit etc.
+
+	
+	
+
+	Communication
+	Web Services (SOAP & REST), JAXB, XML & XSD, JSON
+
+	
+	
+
+	Domain Knowledge
+	Telecom, Enterprise
+
+
+
+
+Education
+
+	Degree
+	University
+	Year of Passing
+
+	MS (Software Engineering)
+	BITS, Pilani (CGPA - 9.3)
+	2012
+
+	Bachelors in Computer Applications
+	Maharishi Dayanand University (80%)
+	2008
+
+
+
+
+
+Awards and Achievements
+
+	Award Name
+	Project Name
+	Year
+
+	
+	
+	
+
+	Rising Star
+	PART
+	2009
+
+	
+	
+	
+
+	Valuable Team player
+	ADEPT/SRTS/ARTT
+	2013
+
+	Pat on the back
+	ADEPT/SRTS/ARTT
+	2015
+
+	ACE Award
+	ADEPT/SRTS/ARTT
+	2016
+
+	Pat on the back
+	ADEPT/SRTS/ARTT
+	2016
+
+	
+	
+	
+
+
+
+
+	
+	
+	Project Experience 
+
+
+
+
+	1.
+	Project Name : ADEPT(AT&T Design Engineering & Planning Tool)
+
+	Client
+	AT&T
+	
+	
+
+	
+	
+	
+	
+
+	Role
+	 Tech Lead
+	
+
+	
+	
+	
+	
+
+	Organization
+	Tech Mahindra, India
+
+	
+	
+	
+	
+
+	Duration
+	12/2009 – till date
+
+	
+	
+	
+	
+
+	Team Size
+	Project :20
+	
+	Module : 12
+
+	
+	
+	
+	
+
+	Environment
+	Software
+	Languages : Java, SQL, Unix
+Framework: Struts , Spring
+
+	(with skill versions)
+	
+	Database : Oracle 10g,11g
+
+	
+	
+	Tools : Workshop for WebLogic 10gR3 & 12.1.2 ,SVN, Toad,
+
+	
+	
+	 Toplink workbench, Eclipse, Apache Ant, Quality
+
+	
+	
+	Center, HP PPM, SQL Reports, BOE Reports, Jenkin, SONAR, JUnit
+
+	
+	
+	O/s : Windows, Unix, Linux
+
+	
+	
+	
+	
+
+
+
+
+Project Description
+
+ADEPT (AT&T‘s Design Engineering & Planning Tool) is a comprehensive design and deployment strategy and architecture for the IT infrastructure.
+ADEPT includes applications such as-
+
+· SRTS (Storage Request Tracking System): System to raise, handle and maintain different types of storage related requests. It contains the complete life cycle of a storage procurement request from requirement submission which flows through various teams for approvals and tasks till the completion stage after actual implementation. Challenge is to handle various users working on the same tickets as there could be few workflows going in parallel for the same ticket. It also has web services available to create or modify requests from the backend. (without interacting with the GUI for each single ticket)
+
+· ARTT (Application Recovery Tracking Tool): Tool to track various applications backup details in forms of various dashboards. This tool is to bring data from various backup technologies like Netbackup, RMAN for databases etc. and process them to bring out the useful information for backups and recovery. It presents data in form of various type of charts, facility to get the on demand reports and some auto generated reports too.  
+
+
+Roles and responsibilities:
+
+· Leading the team from offshore for ARTT application. (within this duration, have lead the team for all three applications ADEPT/SRTS/ARTT from offshore and ARTT from onshore too) 
+· Responsible for complete SDLC starting from requirements till production deployment and support.
+
+
+· Developing and deploying Spring/Struts Application to implement the business logic and to handle various interactions with the database.
+· Design and develop user interface screens by using front end technologies such as jQuery , HTML, Java script and JSP
+· Develop DAO classes to interact with Database.
+· Develop Hibernate mapping files and hibernate configuration for persisting data to the database.
+· Responsible for writing, tuning and maintaining complex SQL statements/views/materialized views/procedures etc.
+· Responsible for maintaining UNIX shell scripts and scheduling if required.
+· Develop web services to produce and consume data (to interact with various other internal applications)
+· Used Eclipse 3.5 IDE for coding, debugging and testing purposes.
+· Used Log4j for logging and tracing the messages.
+· Used SVN for version control across common source code used by developers.
+
+· Other than developing solutions, Requirements gathering/Analysis, preparing estimation, design documents etc.
+· Interacting with clients for requirement discussion. 
+· Single POC for handling client queries and End User queries/issues for various modules.
+
+· Guiding team members in development and helping them to understand requirements & design.
+· Ensuring quality control by reviewing code developed by peers & reviewing all documents prepared by peers such as Details technical requirement documents, HLD/LLD etc.
+
+
+
+
+	2.
+	Project Name : PART
+
+	Client
+	AT&T
+	
+	
+
+	
+	
+	
+	
+
+	Role
+	Technical Associate
+
+	
+	
+	
+	
+
+	Organization
+	Tech Mahindra, India
+
+	
+	
+	
+	
+
+	Duration
+	(03/2009) – (11/2009)
+
+	
+	
+	
+	
+
+	Team Size
+	Project : 8
+	
+	Module : 4
+
+	
+	
+	
+	
+
+	Environment
+	Software
+	Database :Oracle (SQL)
+
+	(with skill versions)
+	
+	Tools :HP PPM, HP Quality Center, BMC Remedy, TADDM,
+
+	
+	
+	Toad
+
+	
+	
+	O/s :Windows
+
+	
+	
+	
+	
+
+
+
+
+Project Description
+PART provides both Testing and Release Management Services for clients.
+
+Roles and responsibilities:
+
+· Analysis of the specifications provided by the clients. 
+
+· Design and Development of test cases. 
+
+· Testing , bug reporting and documentation.
+
+· Leading the CMDB (Configuration Management Database) module and performing Database testing. 
+
+
+
+
+	3.
+	Project Name Global Service Unused Circuits Program (BT)
+
+	Client
+	BT
+	
+	
+
+	Role
+	Junior Technical Associate
+
+	
+	
+	
+	
+
+	Organization
+	Tech Mahindra, India
+
+	
+	
+	
+	
+
+	Duration
+	11/2008 – 02/2009
+
+	
+	
+	
+	
+
+	Team Size
+	Project : 32
+	
+	Module : 16
+
+	
+	
+	
+	
+
+	Environment
+	Software
+	Database :Oracle (SQL)
+
+	(with skill versions)
+	
+	Tools :STARS, MTNI, Tahiti ,Chameleon, ORION, Toad
+
+	
+	
+	O/s :Windows
+
+	
+	
+	
+	
+
+
+
+
+Project Description
+
+Project objective is to cease the unused circuits, which is achieved by comprehensive analysis and testing of circuits.
+
+Initially circuits are tested to find if they are being used or not by the use of tools such as- Tahiti, MTNI, Chameleon and Orion. Unused circuits’ monthly recurring charge values are then obtained from the respective country representatives and after final validation, soft cease order of the circuits is generated.
+
+
+Roles and responsibilities:
+
+· SPOC for 16 team members 
+
+· Analysing and testing of circuits using various tools such as – Toad (SQL), MTNI, Chameleon, Orion and Tahiti. 
+
+· Performing database testing. 
+· Preparing daily dashboards, preparing and presenting weekly reports in client meeting. 
+
+
+
+
+
+TechM Restricted
+TechM Restricted

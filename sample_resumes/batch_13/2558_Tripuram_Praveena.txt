@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tripuram Praveena
+E-Mail:praveenareddy92@gmail.com
+Mobile: +91-9505004911
+
+Summary 
+
+· Having 4+ years of experience as PL/SQL developer and Oracle DBA.
+· Good knowledge in Oracle Database Development and administration.
+
+Skills
+
+· Good knowledge in writing queries using dml operations, joins, aggregation functions etc.
+· Expert in writing pl/sql procedures,   functions,   packages for the given requirement  
+· Strong knowledge in exceptional handling concepts .
+· Having good knowledge on triggers and cursors (for update , where current of, ref_cursor, cursor variables).
+· Experience in creation of tables, constraints, indexes, sequences.
+· Good Knowledge in RDBMS, Data modelling and SQL loader concepts.
+· Having knowledge in performance concepts like indexes, partitions. 
+· Creation of users and roles and grant as requested by customer.
+· Exporting and Importing at databases level, schema level and object level using Datapump and traditional Exp & Imp utilities. 
+· Creating and monitoring the Tablespaces, allocating tablespaces for users.
+· Having good knowledge in unix commands.
+· Worked in manufacturing domain and currently working in health care domain.
+
+Strengths and Achievements
+
+· Received vertical level best team player award (AUTO AERO DEFENSE vertical)
+· Received feather in cap award by project lead for the support during UAT (Thales Saga Migration).
+· Cleared exams conducted by Wipro on oracle pl/sql, data modelling, SQL, oracle DBA as part of skill enhancement.
+· Received PCSAT rating 7/7 from high profile client like THALES.
+
+Work Experience
+
+· Working as PL/SQL developer and Oracle DBA with Wipro Technologies Ltd. from Mar 2013 to till date. 
+
+Educational Summary 
+
+· B.E Information Technology from Osmania University (MVSR College of Engineering), Hyderabad with 75% in 2012.
+
+Technical Skills
+
+	Databases
+	Oracle 11g 
+
+	Utilities
+	Import&Export, WinScp, Putty, Toad, SQL Loader.
+
+	Operating System
+	Linux, windows
+
+	Languages
+	SQL, PL/SQL
+
+	Database Tools
+	oracle SQL Developer, TOAD, ERWIN data modeller.
+
+
+
+Projects Handled
+
+Project-2#
+Client		:  MEDAVIE BLUE CROSS
+Role		:  PL/SQL developer and Oracle DBA
+Environment	:  Oracle 11g/12c .   
+Duration		:  December ’15 to till date. 
+
+Responsibilities:
+
+· Created new databases (oracle 11g, oracle12c) and set up the backups using export/import.
+· Refresh for non-prod database from PRODUCTION database backups using Datapump and Exp/Imp utilities.
+· Worked on many Production changes.
+· Working on Database configuration/performance issues. 
+· Creation of users and roles and grant as requested by customer and responsibilities for tablespace management.
+· Responsible for user admin and tablespace management.
+· Need to analyze requirements given by customer and modify procedures according to requirement.
+· Responsible for writing packages, functions  as per the new requirement and need to handle ddl operations as well.
+· Responsible for loading data into tables from excel sheets using sql loader.
+· Worked on existing object changes like package changes, procedure changes to resolve production issues and to accomplish enhancements.
+· Supporting team of 40 as a single pl/sql developer along with DBA activities.
+
+Project-1#
+
+Client		:  THALES SAGA MIGRATION
+Role		:  PL/SQL developer and Oracle DBA
+Environment	:  Oracle 11g.
+Duration		:  September ’13 to May ‘15
+
+Responsibilities:
+
+· Created new databases in oracle 11g
+· Creating Tablespaces and adding datafiles to tablespaces as per the requirement. 
+· Refresh for non-prod database from PRODUCTION database backups using Datapump and Exp/Imp utilities.
+· Performing logical backups using Exp/Imp andDatapump.
+· User creation and providing necessary Roles, Privileges as per the requirement.
+· Written more than 50 procedures to perform data load module.
+· Written new triggers and procedures as per the project requirement.
+· Creation of DB LINKS when required. 
+· Used PL/SQL and SQL*Loader for flat file loading and error capturing into log tables.
+· Involved in all phases of database development, design and support.
+· Managed 8 entities (schemas) like schema creations, backup, object change.
+· Resolved more than 100 issues during UAT and Production.
+· Build complex DB scripts for Migration of several entities as per the Gap Analysis.
+· Just as a 2 years experienced resource, led a team of 3.
+· Project received a PCSAT rating on 7/7.

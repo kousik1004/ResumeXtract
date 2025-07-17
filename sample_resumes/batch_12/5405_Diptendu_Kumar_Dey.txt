@@ -1,0 +1,364 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Diptendu Kumar Dey
+		Email      :
+	diptendukumardey999@gmail.com
+
+	
+Phone     :               
+	+91-9874132808
++91-9038676098
+
+
+
+
+
+
+CAREERASPIRATION:
+To become a contributing IT Professional in an organization for its success, by applying the best business practices, through innovative solutions and constantly updating my skills. I am so much interested in getting an international experience to expertise myself in the global market.
+
+PROFESSIONAL SYNOPSIS
+	With  4 years of qualitative exposure in
+
+	· Qlikview SR-6/SR-12
+	· Tableau
+	· Data warehousing
+
+	· Cognos 10
+	· Informatica 9.5.1
+	· Oracle 11g Client
+
+	· SQL/Plsql
+	· Unix
+	
+
+
+
+
+	· A dynamic & result oriented IT professional with about 4 years of experience. Presently Associated with Cognizant Technology Solutions.
+· QLIKVIEW Developer and Designer Vendor Certified.
+· Trained at entry level at Tech Mahindra on Qlikview, Tableau, Informatica, SQL and PL-SQL,Cognos.
+· Engineering professional with knowledge in the technical domain.
+· Excellent track record with high standards of work and delivering quality as per schedules and
+Responsible for communicating with Clients, solving problems and issues as and when required.
+· An effective communicator possessing excellent presentation skills. 
+· Experience in analysis, designing, scripting, implementation, testing and maintenance of larger scale BusinessApplications.
+· Working in the Project as a single resource of Qlikview.
+· Achieved certificate of Appreciation for outstanding performance in Project as Qlikview Developer.
+· Excellent feedback from the client for the work shown along with several appreciation mails.
+· Received ‘Pat on Back’ award for Developing Highly Used Qlikview Report-“Operational Dashboard”.
+· Good work ethics with interpersonal skills.
+· Capable to delve into the new leading technologies.
+
+
+
+	TECHNICAL PROFICIENCY	
+	Tools
+	· QlikviewSR-6/SR-10,Cognos-10,Informatica 9.5.1,Putty,SQL Developer,
+
+	Languages Known
+	· C ,Java, Unix
+
+	Databases
+	· Oracle 11g, MS-SQL,MySQL
+
+	Operating Systems
+	· Windows 2000/98/XP/VISTA/7/8, LINUX Ubuntu
+
+
+
+
+ORGANISATIONAL EXPERIENCES
+Organization               	  : Tech Mahindra Limited 
+Duration                        : January 2014 to July 2016
+
+
+
+Project Background
+
+Digital Energy Cognos Reporting:
+
+	Role                                  :            
+	Cognos Developer ,Informatica Developer
+
+	Duration                          :
+	Mar 2014 – Oct 2014
+
+	Technology                     :
+	Informatica 9.1 ,Unix, Cognos 10 ,PL/SQL  
+
+	Client                              :
+	GE
+
+
+
+Project Description:
+
+The digital energy was having the data model in Jaros. The Jaros model was then converted into DWH model. The Jaros model was having many custom tables and joins between them which in turn was affecting the performance of the reports. The phase1 consisted of creating 30 new reports which included creation of 17 facts, 19 dimensions and 90+ stage tables. The Informatica process involved loading data from ERP to Stage tables and then to dimensions and facts to meet the reporting requirements. The 2nd phase consists of developing Cognos reports. This included analyzing existing Jaros reports and base tables, creating data model for the same in IQP and development and testing of the reports.
+
+Responsibilities
+. 
+· Understanding the requirements and business analysis through direct interaction with clients.
+· Designing and modifing the ETL portion keeping the future needs in mind.
+· Developing Cognos Report according to the Client Requiremnets.
+· Proper Testing and Deployment.
+
+
+
+
+
+
+DEQlikview Reporting:
+
+	Role                                  :            
+	QlikviewDeveloper,Informatica Developer
+
+	Duration                          :
+	Oct 2014 – Jan 2015
+
+	Technology                     :
+	Informatica 9.1 ,Unix, Qlikview SR-6 ,PL/SQL  
+
+	Client                              :
+	GE
+
+
+
+
+
+
+Project Description:
+Rochester is one of the Digital Energy Site which moved from Syteline to Oracle ERP and required BI reports on top of a Data warehouse built on the ERP data. It involved end to end BI life cycle starting from dimensional modelling for building the warehouse, designing and developing ETL jobs to Reporting and Cube building on the DW. It covered modules like Material and Manufacturing, Engineering, Project Accounting, Sourcing, Services.
+
+Responsibilities
+. 
+· Gathering Client Requirement and Developing Qlikview Applications according to it.
+· Updating clients regularly through direct client interaction.
+· Helping ETL team in Business Logic and Technical Issues.
+· Deploying 6 Qlikview Reports within 3 and half months in Production after proper Testing.
+· Worked as a Single Resource of Qlikview and Helping hand in ETL developing. 
+
+EM-Enhancement and Support:
+
+	Role                
+	Qlikview Leader,QlikviewDeveloper, Qlikview Admin
+
+	Duration           
+	Jan 2015 – July 2016
+
+	Technology       
+	Informatica 9.1 ,Unix, Qlikview SR-12 ,PL/SQL  
+
+	Client                                 
+	GE
+
+
+
+Project Description:
+EM-Enhancement &Support is the ETL and Reporting Enhancement, Developing and Support team for GE-Energy Management. There are many dashboards such as Financial Dashboard, Services Dashboard and many critical reports which are viewed and analyzed by the business on a daily basis. The business on a daily basis raises Service Requests/ Incidents for the data they find it necessary and ask for timely addition. The team would assign those requests and give them solutions. If it involves design changes in Dev, QA and Prod, we will convert it to enhancement request and provide timely reviews on the progress.
+
+Responsibilities
+. 
+· Gathering and analyzing the requirements of the end-user.
+· Apply suitable strategies to fit the requirements of the end-user.
+· Database engineering with help of the database teams.
+· Developing the Qlikview ApplicationsAccording to Client Requirement.
+· Also enhancing and modifing ETL portion when and where Required.
+· Deploying the Qlikview applications to Production and maintaining.
+· Participating in month-end, quarter-end, year-end data reconciliation activities.
+· Back track issues in case of data missing/ incorrect and providing solutions to the end users.
+· Take care of enhancements for one-time bug fixes, providing reviews on daily, weekly basis to users before migrating to Production.
+· Assign the service requests/incidents and deliver the solution before SLA misses.
+· Suggest methods to improve performance to the Project Manager as a qlikview Leader and after approval implementing them to Production.
+· Leading in Qlikview Developing and Designing as Single Resource and Helping Hand in Qlikview Admin Part.
+
+
+
+
+ORGANISATIONAL EXPERIENCES
+Organization               	  : Cognizant Technology Solutions
+Duration                        : Aug 2016 to Present
+GSK RDIT ALP Dashboard Dev-New Dashboard Development:
+
+	Role                
+	Team Lead, Qlikview Developer, Qlikview Admin
+
+	Duration           
+	Jul 2016 – Feb 2017 
+
+	Technology       
+	Qlikview 12, SQL Developer,Sharepoint
+
+	Client                                 
+	GSK (GlaxosmithKline) 
+
+
+
+Project Description:
+R&D IT Application Lifecycle Planning Dashboard is a reporting and planning tool created in Qlikview. It collects and reports portfolio data from various sources and helps to support decision making process required to proactively manage the applications within the designated R&D Business Processes.
+The dashboard is generated based on the data that will largely come from the following sources:
+Clarity, PPM, Pandora, ITRB, SharePoint Lists, Remedy, RMS
+The target is provide a visual tool that allows service management, customer facing teams and delivery teams to proactively manage all the applications in the portfolio.
+
+Responsibilities
+. 
+· Gathering the Requiremnets from the End User.
+· Analysing the requirement and doing the appropreate strategy to fit in the client requiremnet.
+· Developing the Qlikview ApplicationsAccording to Client Requirement.
+· Deploying the Qlikview applications to Production and maintaining.
+· Back track issues in case of data missing/ incorrect and providing solutions to the end users.
+· Suggest methods to improve performance to the Project Manager as a qlikview Leader and after approval implementing them to Production.
+· Leading in Qlikview Developing and Designing in Qlikview Development and Admin Part.
+
+EMD Sereno Medical Reports-Tableau:
+
+	Role                
+	Team Lead, Tableau Developer
+
+	Duration           
+	Feb 2017 – Present 
+
+	Technology       
+	Tableau 9,Informatica
+
+	Client                                 
+	Merck Sereno 
+
+
+
+
+Responsibilities
+. 
+· Gathering the Requiremnets from the End User.
+· Analysing the requirement and doing the appropreate strategy to fit in the client requiremnet.
+· Developing the Tableau Reports According to Client Requirement.
+· Publishing the Reports in QA server and doing the Beta Testing
+· Release of the Tableau Reports in production.
+
+   EDIFICATIONS
+
+	Course
+	University/Board
+	Batch
+	Percentage/DGPA
+
+	
+Bachelor of Technology in Computer Sc, and Engg.
+	
+West Bengal University of Technology
+	
+
+2009-2013
+	
+
+8.9
+
+	
+Higher Secondary
+(12th Standard)
+	
+WBCHSE
+
+	
+2009
+	
+85.2
+
+	
+Secondary Madhyamik
+(10th Standard)
+	
+WBBSE
+
+	
+2007
+	
+86.05%
+
+
+
+PersonalDetails
+Strengths
+Team-player, Goal-oriented, Organized, Creative.
+
+Awards and Activities
+· Received Certificate for completing Initial Training at Tech Mahindra with 90%
+· Received “Bravo” award for Succesfully deploying 6 Qlikview Reports in Production as a single resource in Qlikview from Tech Mahindra.
+· Received “Pat On Back” award for succesfully deploying High demand Qlikview Dashboard-“Operational Dashboard”
+· Successfully completed Qlikview Developer and Designer Certification with 100% score.
+· Active member of “JOSH” team in Tech Mahindra,Organised TechM Yearly cultural night “Ekatvam” twice with “JOSH”.
+· Submitted ‘White Paper’ in Automation of Qlikview and Cognos Timings.
+
+Personal Information
+Name				   Diptendu Kumar Dey
+Father’s Name			   Sri Gopal Chandra Dey
+Address				   85,R.N.Guha Road,Nager Bazar,Dum Dum,Kol-700074
+      Phone no.				9874132808 /9038676098
+	     Date of Birth
+	3rd-Sep-1990
+
+	     Gender
+	Male
+
+	     Marital Status
+	Unmarried
+
+	     Languages Known
+	English, Bengali, Hindi
+
+
+
+I hereby declare that the information given above is true to the best of my knowledge.
+
+Diptendu Kumar Dey
+
+

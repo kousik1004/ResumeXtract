@@ -1,0 +1,207 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yallanki
+
+Pallavi.Vellanki                                                                                                  pallavi.vellanki17@gmail.com                                                                                                                                                                                                  
+Software Engineer                                                                                                                         +91-9603756403
+
+                                              
+
+	PROFESSIONAL SUMMARY:
+
+
+· Linux Developer with 4 years of IT experience – Analysis, design, and implementation of Applications using Navicat for Sqlite along with excellent analytical and organizational skills.
+
+· Good experience on creation of Stored Procedures, Functions, Packages in sqlite.
+· Extensively worked on handling Exceptions.
+
+· Good experience on creation of tables, views, materialized views and indexes, aggregate and analytic functions.
+· Extensively worked on Navicat for Sqlite sub queries, sequences, synonyms, joins and Writing Complex Queries.
+· Strong Knowledge on Triggers.
+· Having   4 year of professional work experience in design and development of POS applications using Red hat Enterprise Linux Technologies (c). 
+
+· Expertise in developing Back end programming with Navicat for Sqlite database.
+
+· Expertise in developing POS Machine Reports.
+
+· Good knowledge in the fields like C Programming, Object Oriented Programming & VM Ware Workstation.
+· Work with   C, C++ and Linux.
+	EXPERIENCE SUMMARY:
+
+
+	Organization
+	Designation
+	Duration
+
+	 Spectrum Software Solutions, Guntur
+	Software Engineer
+	06/2014 to till now
+
+
+	EDUCATIONAL SUMMARY:
+
+
+	Degree
+	University
+	Year of Passing
+
+	 B.tech
+	NRI Institute of  Technology
+	(Apr/2012)
+
+	 Diploma
+	Govt Polytechnic clg for women’s
+	(Apr/2009)
+
+	 S.S.C
+	Board of Secondary Education
+	(Apr/2006)
+
+
+	TECHNICAL SKILLS:
+
+
+	 Operating Systems
+	 Linux,  Windows XP, 7
+
+	 Languages
+	C, C++, vhdl, verylog, linux, SQL, PL/SQL
+
+	 Databases
+	 Navicat for Sqlite.
+
+	 Database Tools
+	 Vm Ware WorkStation.
+
+
+	PROJECTS SUMMARY:
+
+
+	1. 
+	Project Name : Smart Card Application about Oil Transactions in POS Machine
+
+	Client
+	Rashmitha Technologies, Vizag, Aboard
+
+	Role
+	Team Member
+
+	Organization
+	Spectrum software solutions
+
+	Team Size 1
+	Project : Smart Card Application
+	
+
+	Environment
+
+Windows NT
+	Software
+
+
+	Languages                        :  Linux
+Database                           :  Navicate for sqlite
+Tools & Utilities              :  VM WARE Work station
+O/s                                     :  Windows 2007/ XP
+
+
+Project Description:
+
+                               Smart Card Application is based on oil transaction in POS Machine. I   prepared 13 Entry Forms. Those are salesbill, rechargebill, reports, changeitemprice, Data Transfer, Resend SMS, Duplicate Bill, Duplicate Recharge Bill, card activation, card deactivation, card balance, settings, and shutdown. We provide the code for recharge and sales on membership card in the POS machine. We provide the code for card activation and deactivation using rfid technology in the POS Machine. We prepared the 8 reports for client in the POS Machine. They are Bills List, recharge list, bills summary, recharge summary, user wise bills summary, user wise recharge summary, member wise receipts list. We provide one option for download the database from desktop to POS Machine using gprs.We provide the code for reading and sending sms from POS Machine.
+
+      Contribution:
+
+· Interacted with clients to understand their requirements.
+· Create Database Objects like Tables, Views, Materialized views and Sequences based on the requirements.
+· Developed functions and procedures to implement business rules.
+
+· Prepared the code for reading sms and sending sms from POS Machine.
+· Preparing the code for download the database using gprs from computer To POS Machine.
+· Prepared Technical Documentation for developed objects.
+
+	2. 
+	Project Name : Gold Schemes Program
+
+	Client
+	Mohammad Khans & Sons Jewelers
+
+	Role
+	Team Member
+
+	Organization
+	Spectrum Software Solutions.
+
+	Team Size 1
+	Project : Gold Schemes Program
+	
+
+	Environment
+
+Windows NT
+	Software
+
+
+	Languages                         :   Linux
+Database                           :   Navicat for Sqlite
+Tools & Utilities              :   VM Ware Work Station
+O/s                                     :   Windows 2007/XP
+
+
+ Project Description:
+                      This application is the scheme based gold program in POS Machine. Am prepared the two types of schemes based on the client requirement.
+
+1. Amount Based
+
+2. Weight Based
+
+                   Am prepared 9 entry forms in POS Machine for client required. They are Receipts, Gold Rates, Members, Data Transfer, Passwords, PC to POS, POS to PC, settings and Shutdown. I prepared 6 entry forms for Receipts menu for client required. They are New Receipt, Members Receipts List, Delete Receipt, Duplicate Receipt, Search Member No and Receipts List. I prepared 5 entry forms for Members menu for client required. They are Entry Members, Delete Members, Members list, New Members List and Edit Member Name. We provide the code for data transfer for desktop to POS and POS to desktop using LAN cable. We also provide the code for data transfer using pen drive in POS Machine.
+
+Contribution:
+· Interacted with clients to understand their requirements.
+· Developed database objects like Tables, Views, Materialized views, Sequences, triggers, functions and procedures to implement business rules.
+
+· Created Materialized Views and partitioning tables for performance reasons.
+· Prepared the code for LAN option.
+· Prepared Technical Documentation for developed objects.
+

@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anuj Singh Chauhan
+
+
+
+
+
+
+
+
+
+
+        Shashank Vishnoi
+
+
+
+
+
+
+                   Contact No: +91-8680834477
+Email: Shashank.vishnoi@idbiintech.com
+Lavi.vishnoi218@gmail.com
+Career Objective
+Seeking for a dynamic position and looking for a high growth oriented organization where my skills can contribute towards achieving organizational goals, possessing excellent technical & communication skills, and having a zest for teamwork, ability to develop & implement ideas with creativity and persistence. 
+
+Professional Experience
+
+
+Total Experience
+: 
+3 .10 Years 
+ Working Period
+:  
+April 2013 to Till Date
+
+Organization
+
+:       
+IDBI INTECH Ltd. 
+
+Designation
+
+:     
+Software Engineer
+Location
+
+:              NAVI MUMBAI
+Key Skills:
+
+· Having Knowledge of SQL & PL/SQL Language ,Oracle 10g/11g Database
+· Created database objects like stored procedures, function, packages, Cursor, Ref Cursor and Triggers.
+· Wrote SQL, PL/SQL, SQL*Plus programs required to retrieve data using cursors and exception handling.
+· Responsible for creating and modifying the PL and SQL procedure, function according to the business requirement.
+
+· Wrote complex SQL queries using joins, sub queries and inline views to retrieve data from the database.
+· Used SQL LOADER to upload the information into the database tables.
+· Wrote and modified Oracle PL and SQL, Sql statements procedures and functions that are called in the Java Scripts, Jsp and EJBs.
+· Expertise in Dynamic SQL, Collections and Exception handling
+· Modified data base programs to increase processing performance, referred to as performance tuning.
+· Created records, tables, collections (nested tables and arrays) for improving Query performance by reducing context switching
+· Retrieve the data from database with the help of SQL &Pl/SQL according to the business Requirement.
+· Managing Database through TOAD.
+· Developed Advance PL/SQLpackages, procedures, triggers, functions, Indexes and Collections to implement business logic using TOAD. Generated server side PL/SQLscripts for data manipulation and validation and materialized views for remote instances.
+Current Project:
+· Project Name-1:
+       CHEQUE TRUNCATION SYSTEM(CTS)
+
+· Description:             It's basically an Electronic cheque clearing system. In this system cheque    image is scanned at first point of deposit or Centralized Cheque Capture location of bank and send to RBI rather than physical cheque.  This project consists of four modules.
+
+                   Outward   Collect the data and image from various Branches/Centralized site Files for processing and send to respective Banks through NPCI                           
+                      Inward     Download data & Image files i.e. Send by different banks through NPCI for processing of that inward and generate the files for further processing.                           
+Project Name-II:  Signature Verification System (SVS)
+
+· Description:  SVS covers all aspects of signature verification from maintenance of signature cards to full image signature verification. It provides a more efficient way of cheques Signature & Technical Verification using image technology. After verification Rejection File to load in Core System & various reports can be generated.
+
+Client                      : IDBI BANK
+Role                         :  ORACLE SQL &PL/SQL DEVELOPER & APPLICATION SUPPORT 
+Duration                 : April 2013 to till date.
+
+Responsibilities:
+· Handling CTS Database & application of idbi bank and maintaining whole Infrastructure like   Database, Application and Security equipments.
+· Created database objects like tables, stored procedures, function, and packages, Cursor, Ref Cursor and Triggers. 
+· Created scripts to create new tables, views, queries for new enhancement in the application using TOAD
+· Managing House Keeping and Archival system and database for CTS Southern Grid project and maintaining maximum uptime for CTS System.
+
+· Creation of database objects like tables, views, materialized views, procedures and packages using oracle tools like Toad, PL/SQL Developer and SQL* plus.
+· Talking staff or clients through a series of actions, either face to face or over the telephone to help set up systems or resolve issues;
+· Used SQL LOADER to upload the information into the database tables
+
+· Managing CTS Volume for IDBI Bank.
+· Handling live Issue for Clearing Process.
+
+· Retrieve the data from database with the help of SQL &Pl/SQL according to the business Requirement.
+· Improved the performance of the application by rewriting the SQL queries
+  Environment:  Oracle 10g/11g, PL/SQL, SQL*LOADER, Oracle Streams 10g (Replication), SQL PLUS, TOAD.
+
+PROFESSIONAL QUALIFICATION
+
+· Post Graduation (MCA) from IMSEC Ghaziabad affiliated to Gautam Budh Technical University, Lucknow in year 2013.
+
+· Graduation (B.C.A) from H.N.B. University Rishikesh in year 2010.
+ACADEMIC QUALIFICATIONs
+
+· High School from  C.B.S.E Board  in year 2004
+· Intermediate from  C.B.S.E  in year 2007
+PERSONAL ATTRIBUTE AND STRENGTH
+
+· Self committed & self disciplined.
+
+· Ability to make others work in a team.
+
+· Honest, self motivated and an Extrovert Person.
+
+· Attitude to share information and new knowledge.
+
+· Ability to work in new and challenging environment.
+Personal Profile:
+
+Name 
+
+
+: 
+Shashank Vishnoi
+Father Name 
+
+:
+Mr. R.k Vishnoi
+Mother Name
+
+:              Mrs. Neeru Vishnoi
+Date of Birth
+               : 
+25Th DEC 1987
+Current Address               :
+IDBI Bldg. PLOT No. 39-41 , Sec-11, CBD Belapur, NAVI MUMBAI                                                       
+Marital Status
+
+:
+Single
+Languages Known
+ :             Hindi, English
+Pan Number
+
+:           AJMPV5735G
+
+
+
+
+Declaration:
+I hereby declared that the above given statements are true to best of my knowledge.
+
+Date: 
+
+Place: NAVI MUMBAI                                                            
+
+
+
+
+
+
+(Shashank Vishnoi)

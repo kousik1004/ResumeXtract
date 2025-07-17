@@ -1,0 +1,259 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Corey W
+
+
+{  
+
+ 
+  
+
+Sai Arun Bandhakavi 
+Developer (Bussiness Inteligence / Data visualization) 
+Phone: +91 9440402857 | Email: bandhakaviarun@live.com 
+ 
+
+PROFESSIONAL SUMMARY 
+ 
+
+- Over 4 years of experience front end development and scripting for data manipulation and data extraction from 
+different databases like Oracle, SQL server and flat files like excel, csv etc. 
+
+- Currently working in Accenture Technologies. 
+- Created nearly 20 dahsboards with involvement in Design, Data modelling and Scripting.  
+- Working on Power BI extensively from last one and half year. 
+- Worked on dashboard development in power BI, developing data model in power BI by using Power Query and 
+
+DAX language. 
+- Experience in developing few document extensions (Creating hover effects for Text obects) and object extensions 
+
+(Video Player and Audio Player objects). 
+- Have good knowledge in Qlikview Administration and experience in created reload tasks, reduce tasks and 
+
+providing access to the users through QMC. 
+- Working on self service data analytics and data blending tool Alteryx from past 6 months,  creating workflows for 
+
+data enrichment and data analysis.  
+- Have good knowledge on different Machine learning algorithms like Linear regression, Logistic regression and 
+
+different classification techniques like Decision trees, Radom forests, Naïve Bayes classifier etc. 
+- Insightful knowledge in other BI tools like Qliksense, and Tableau. Also worked on few POCs in Qliksense.  
+- Apart from working in BI projects worked a few automation projects developed in C# and Excel VBA.  
+- Have experience working in Agile methodolgy, following Scrum and Kanban process frameworks. 
+
+ 
+SKILLS SUMMARY 
+ 
+
+- Dash boarding / Analytics : Qlikview, QlikSense, Power BI, Tableau, Alteryx 
+- Languages: R, Python, JavaScript, PL/SQL, HTML, CSS 
+- Methodology: Agile (Scrum and Kanban) 
+- Others: MS-Access, MS-Excel 
+
+ 
+
+EMPLOYMENT SUMMARY 
+
+Accenture Solutions Pvt. Ltd., Hyderabad (Application Development Analyst)  
+ 
+Savings Suite (PROCURIAN) - QLIKVIEW  
+
+ 
+Description:  
+This is a unique business solution that enables the users to measure, monitor, and manage third party spend 
+performance. It is intended to track corporate spend and procurement results and also provides a single point of 
+view to spend, savings, and compliance against negotiated suppliers across the entire organization, regardless for 
+the data source. 
+ 
+Responsibilities: 
+- Involved in developed of three dashboards in total for Spend, Savings, and a document report exports 150 
+
+customers data. Worked on both Front end designing and data load scripting. 
+- Creating SQL queries to extract the data from oracle DB and implemented incremental loads for data extraction 
+
+using QVDs. 
+
+
+
+{  
+
+ 
+  
+
+- Worked on data transformations for merging the data with external data sources like excel and CSV file which will 
+be updated by the business user. 
+
+- Worked on dashboard development with Power BI  
+- Designed front end visualizations like bar charts, pivot tables, pie charts, funnel charts, line charts, and waterfall 
+
+charts.  
+
+ 
+Legal Workbench (PROCURIAN) - ALTERYX 
+
+ 
+Description:  
+This is a Data enrichment/Data blending workflow to implement normalization and analytics on Legal data. It 
+provides the business user a single stop solution to normalize the data, provided by different organizations and 
+procurement excutives. The data will have variables related to legal procurements. 
+ 
+Responsibilities: 
+- Responsible for creating two workflows one for Data normalization and other for Analytics purpose(Linear 
+
+Regression). 
+- Created Analytics Apps, so that the user can provide their input and run the workflow. 
+- Used dynamic input tool for extracting the data based on the input parameter, with this we are able to reduce the 
+
+data extraction time. 
+- Created macros for manipulating the where conditions of dynamic input tool and also created a macro to load 
+
+different excel files at once along with directory tool. 
+- Used tools like Find and replace, Formula and join tools for normalizing the data and transforming the data. 
+- Implemented a custom mapping to load the transformed data to oracle tables, simultaneously loaded the the 
+
+data to excel files(created a dynamic field rename tool to change the fields  names). 
+- For analytics workflow developed a R script to find the weights for predicting USD rates based on two paramenters 
+
+City and Timekeeper. 
+- Publishing the workflow to alteryx gallery and providing access to different users to run the workflow.   
+
+ 
+
+Spend Visibility (PROCURIAN) – ALTERYX and POWER BI 
+ 
+Description:  
+This is a insights reports which show cases the Spend Visibility on different Hierarches reported by executives of 
+different customer. Provide a single point of reference for different type Spend like Managed, Addresable, 
+Compliant etc. 
+ 
+Responsibilities: 
+- Responsible for creating separate workflows for each customer and transform the data to a unique data model 
+
+for all the customers. 
+- The workflow extracts data from different data scources like SQL Server, Oracle DB, Access DB and Flat files, then 
+
+outputs the data to a single table in Oracle DB and also CSV files for Procurement executive to perform  individual 
+analysis. 
+
+- Created a Power BI template which uses the CSV files for each customer transformed at Alteryx. 
+- Used Query parameters to providie a solution where the Procurement executives can use temeplate file and load 
+
+the customers data required for their analysis. 
+- Created the initial template with different visualizations and Calculated measures. 
+- Worked on DAX expression for calculating rolling three months and running totals. 
+- Also created a DAX expression for calculating percentages based on the repective month totals. 
+- Implemented dynamic dimension change logic for drilling through 20 Hierarchies. 
+
+ 
+
+
+
+{  
+
+ 
+  
+
+ 
+Kantar Global Delivery Centre (TNS India), Hyderabad  | Dec’13 – Oct’16 
+
+ 
+
+EPICURE (NESTLE) – POWER BI 
+ 
+Description: 
+This project provides information about the different cooking methods and cuisine understanding around different 
+countries and different demographics. Also provide the information about shopper understanding of different types 
+of respondents.  
+ 
+Responsibilities:  
+- Developed a common template where we have developed dashboard for nearly 25 countries.  
+- Creation of load scripts from SQL Server with import mode   
+- Implemented Row level security for user based access 
+- Worked on using custom visuals likes Toronodo , Aquarium chart etc. 
+- Worked on creation multiple bookmarks  
+- Worked on handling  
+- Worked on Drill through filters,  sync filters and creation of bread crumbs for easy navigation for user 
+- Implemented DAX expressions to handle master calender, dynamic measure change and implementing virtual 
+
+relationships. 
+ 
+
+Connected Life (TNS GLOBAL)  - QLIKVIEW 
+ 
+Description: 
+This Project provides information about the multiple smart tech gadgets across many countries on various types of 
+respondents. There are lots of attributes involving calculation of conversion model, Power in Mind, Brand awareness, 
+market factor calculations, Claimed share etc. 
+ 
+Responsibilities:  
+- Involved in requirement gathering like analyzing the number of charts that should be designed in the dashboard, 
+
+chart visualizations required for the measures and filters or slicers need to be included. 
+- Writing load scripts for merging of 14 countries data where we have to fetch the data from different data sources 
+
+like SPSS, SQL, excel and market research data format like IBM survey data collection. 
+- Creation of dashboard with the combined QVD and preparing the response wise data for some measures in charts. 
+- Creation of extension objects using java script and CSS for hover effect on tabs to give the dashboard a website 
+
+look and feel. 
+- As per client requirement created a new visualization called people chart using pivot table where the chart displays 
+
+no of male icons and female icons as per their percentages. 
+- Implemented section access based on country and brands. 
+- Providing ongoing support and maintenance for the future data updates and merging of new countries. 
+
+ 
+ 
+
+ 
+EDUCATION 
+
+Completed my Bachelors in Technology (IT) from MVGR College of engineering (Affiliated to JNTU Kakinada) in the 
+year 2013. 
+
+

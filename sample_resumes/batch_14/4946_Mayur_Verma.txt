@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mayur Verma
+
+
+
+
+
+
+
+
+  
+
+        91.992.642.2707
+
+
+
+
+
+
+
+
+
+
+verma.mayur7@gmail.com
+Objective
+Seeking a competitive and challenging career in the global IT world using my 5+ Years of experience in Software Development, IT-Coordination and IT-Management, where my IT-Skills, Qualification and experience can be put for successful completion of organizational goals.
+Organisational Experience
+· Currently Working at Infobeans Technologies Indore.
+· Worked with Empower Integrated Solution Pvt. Ltd.  Around 5.7 years at Indore.
+
+· 4 months of training experience in all phases of Software lifecycle excluding work experience from Universal Informatics Indore
+Technical Skills
+
+Web Development Server : MVC5,ASP.NET, C#,LINQ, Entity 
+
+Side                                       Framework, ADO.NET, PhoneGap
+
+Web Development Client  : HTML, HTML5, Javascript,  Jquery,  Ajax, CSS, CSS3
+Side
+Databases                          : MS SQL Server 2008/12
+Web Server                        : IIS 6/8
+Operating System             : Windows 7, 8 
+Education Qualification
+· Post Graducate from Acropolis Institute of Science & Tech (RGPV), Indore (M.P.) as Master of Computer Application (MCA) (2008-2011) with 71.14%.
+
+· Graduate from Gujarati Professional (DAVV), Indore (M.P) as Bachelor of Computer application (BCA) (2005-2008) with 64.14%
+· HSC from M.P. BOARD with 65.55% in 2005.
+
+· SSC from M.P. BOARD with 55.6% in 2003.
+
+Project Details
+Project
+
+: RMS
+
+Environment
+
+: ASP.net 4.5 using C#, SQL SERVER 2012, Telerik Controls, JQuery.
+Client
+
+
+: Polaris
+Module Description
+Polaris’ Request Management System (RMS) effectively manages the external grant request submission and approval process for multiple activity types in an ever-shifting regulatory environment. RMS allows organizations to easily track and report on a variety of request activities, providing requestors, approvers, and administrators full visibility into the grant processing lifecycle. RMS tracks the entire workflow of a grant request including registration, request submission, review and approval, contracting (electronic LOA) and payment, outcomes and financial reconciliation, and custom reporting.
+Request Types Facilitated by RMS:
+
+· Accredited & Non-Accredited Medical Education Grants
+
+· Charitable Contributions, Donations and Sponsorships
+
+· Corporate Memberships
+
+· Community Partnerships and Fellowships
+
+· Patient Advocacy and Education
+
+Project
+
+: QMS
+Environment
+: MVC5, SQL 2012, Entity Framework, JQuery, AJAX,         OpenHTMLToPDF, Thoughtworks QRCode, Literal Canvas, CKEditor
+Duration
+
+: 10 Month
+Module Description
+QMS is an MVC based project which tracks all the processes of a system starting from Inquiry 
+
+from a particular client, receiving orders & its delivery to the client. This Project consist of
+
+· Creation of customer & clients.
+
+· Registering Inquiries from clients.
+
+· Assignment of a coordinator for the inquiry.
+
+· Creation of Standard Operational Procedure.
+
+· Creation of Meeting sheet after discussion with clients.
+
+· Creations of Quotation based on the Analysis codes.
+
+· Creation of Orders & invoices.
+
+· Delivery to the client once order has completed.
+
+· PDF’s creation of all the entities like Inquiry, SOP, Quotation Orders etc.
+
+· QR code for entities.
+Apart from these, there is an approval & email notification system integrated in it to notify the manager of the corresponding coordinator handling the inquiry.
+Project 
+
+: Touch Kiosk
+
+Environment
+
+: ASP.net 4.5 using C#, SQL Server 2008, Jquery,   
+
+
+
+
+  
+  AJAX
+
+Duration
+
+: 2 Month
+Module Description
+The application web screen is running on a touch screen kiosk device inside a show selling store (there are 75 shops stores in the company with all their own stock). The main purpose is that people can browse also the total catalog of the store without looking around in the store or asking it to the store helpers. Payment is at the cash register at the entry of the store.
+Project 
+
+: Appointment Scheduler
+Environment
+
+: ASP.net 4.0 using C#, SQL Server 2008, Jquery, WCF  
+
+
+
+
+  
+  services, AJAX, Windows Service.
+Duration
+
+: 4 Month
+Module Description
+A system for dentists and hair dressers where they manage their appointments. It text them a given time before the appointment.
+Project
+
+: Premium Local Listing
+Environment
+
+: Asp.net 3.5/4.0 using C#, SQL Server 2000 / 2005
+
+Duration
+
+: Jan 2012-Feb 2016
+Module Description
+Premium Local Listing develops a comprehensive online presence for small business owners of US by generating their individual site, providing Sponsored Search in Google, Social Media Marketing, Generating mobile website with drag and drop etc.
+Role Description 
+
+· Worked on GoDaddy API for Checking Domain Availabity, Domain Purchase, Renew Domain, Set Privacy on Domain.
+
+· Responsible for generating businesses in Web & Mobile with the vast use of HTML, HTML5, CSS, CSS3, JQuery, JavaScript.  
+
+· Vitelity SMS API.
+
+· Responsible for making Google Data Tool for collecting Google Ads & Places data for client’s Sales Team and Call Center to communicate with small businesses people in US for Business Growth.
+
+· Worked on developing Lead Gen, Contact Us, FAQ, Blog pages, etc for website creation.
+
+· Worked on Admin Section Multiple functionalities for Administration according to the requirements.
+
+· Provided Google Map in Individual html website for Address representation and driving direction by using Google Map API v3.
+
+· Worked on SEO techniques of website to help in Google Campaigning Sponsored search of business pages by using Google Analytics Script, Meta Tags, Blog Pages, Tag Cloud, Subscription-un subscription options in Privacy Policy.
+
+· Worked on CallFire Api to get Call tracking data like caller No, Durations and call audio wav file of customer calls etc.Then convert wav file to MP3 using lame.exe. so that after every 10 min new call details with mp3 audio file will be mail on customer email id. Customer can set the status of this contact person by selecting options in mail.
+Project
+
+: AppCon
+Environment
+
+: Visual Studio 2012, SQL Server 2008
+Duration
+
+: 5 month
+Module Description
+
+AppCon is an online contractor management system. The site is basically created for contractors. Appcon is committed to creating a culture of safety in the New Zealand construction and related industries. Appcon is a prequalification system that grades a contractor’s health and safety capability and publishes that grade in the database that can be viewed by main contractors and principal organizations.
+Project                        : nationalpredatordatabase.com
+
+Environment              : ASP.NET 3.5 using C#, SQL SERVER 2005
+Role                            : Developer
+
+Duration                     : 2013-2015
+Module Description
+National Predator Database is the only software solution in the market that aggregates all the sex offender records contained in the various sex offender registries of 51 states of US, providing a single database with nationwide coverage. National Predator Database provides a simple yet extremely powerful product to help individuals & families become aware of registered sex offenders in their areas and give data to Disney, SSPBlue.com & Tagged.com. This project is awarded in US.
+Project 
+            : Kyocera Mobile App
+Client
+
+
+: Jurgen, Belgium
+Environment
+
+: Icenium using Visual Studio, PhoneGap.                                                                                          
+Duration                  
+: 1 Month
+Module Description
+
+KYOCERA has a number of independent dealers who manage their customer data through a web application. When the dealer is not at his desk, he should have the possibility to access the data of his clients with his smart phone. The dealer can search in his customers, look up contact data and make contact to a person (call, send email or text message).
+
+Extra Curricular Activities
+· Participate in SRIJAN-2010 Eighth National Inter-software Contest.
+
+· Attended a WORKSHOP on “Effective Use of Extreme Programming Practices” byASCI for 2 days.
+
+· Participate in “TECH GYAN” conducted by “EMC2 Technical Days.
+· Attended a WORKSHOP on ‘C SKILLS’ on C/C++ conducted by Mr. Alok Tiwari(Senior Faculty DAVV, Indore).
+Personal Information
+        Father’s Name
+: Lt. Mr. Harinarayan Verma
+        Date of Birth
+: 02/10/1987
+
+        Hobbies                         : Playing Cricket, Singing Songs
+ Personal Address
+: C/L-45 Sukhliya Indore, (M.P)
+
+ Marital Status
+
+: Married
+Declarations 
+I certify that all the information I furnish herein is factually correct to the best of my knowledge and belief and accept that it is subject to verification. 
+
+	Date:
+	Place: Indore
+
+
+�
+
+
+
+�
+
+
+
+
+

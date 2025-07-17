@@ -1,0 +1,289 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Venkata Bangarusetti Kolluru
+
+Designation: Associate Software Engineer
+
+Mobile : +91 8147697476  Email : kvbsetti@gmail.com, venkata_kolluru@thbs.com
+
+PROFESSIONAL SUMMARY:
+
+
+· Working as Oracle and Informix Database Administrator for Torry Harris Business Solutions in Bangalore. 
+
+· Present role as Task Manager (Junior Consultant) in IT Test Platform Support team and supporting the several teams on their database administration related queries. Solving support tickets/Tasks on Oracle and Informix platform for the client Everything Everywhere. 
+
+· I have 20 months of experience as Project Assistant under Scientist(PL) in Research & Development institution i.e National Institute of Oceanography(NIO), Visakhapatnam, it's a constituent laboratories of the Council of Scientific & Industrial Research(CSIR), Govt.Of.India, New Delhi.
+TECHNICAL COMPETENCIES:
+
+
+	Databases
+	Oracle 9i/10g, IBM Informix
+
+	Operating System/Servers
+	Trained in Unix, AIX, HP-UX, Fully functional knowledge in windows. 
+
+Oracle Database Administration, 
+
+Informix Database Administration.
+
+	Open Source Methodologies/Tools/technologies
+	Toad(Fully functional), Ms.Office, MATLAB6.5,   Adobe Photoshop, Surfer, Grapher, Origin, ODV
+
+	Programming/Scripting Languages
+	Shell Script, Core Java, C, C++, JDBC, Servlet, JSP
+
+
+TRAINING & CERTIFICATIONS:
+
+
+· Trained in Oracle Database Administration concepts 
+
+· Trained in Informix Database Server Administration
+· Sun Certification as Java Associate  
+
+· Trained in Unix Operating system and shell script 
+
+· Trained in Oracle9i/10g Sql 
+
+· Trained in Servlet, JSP and Apache Tomcat server 
+
+· Trained in C, C++, Java
+
+PROFESSIONAL EXPERIENCE:
+
+
+	Torry Harris Business Solutions, Bangalore
+
+Designation: Associate Software Engineer
+	MAR-2011  -  Till Date
+
+	National Institute of Oceanography, Visakhapatnam
+Designation: Project Assistant II
+	JUL-2009  -  FEB-2011
+
+	Nanomindz Technologies, Visakhapatnam
+Designation: Associate trainee
+	JAN-2009  -  JUN-2009
+
+
+PROJECT SUMMARY:
+
+
+CURRENT PROJECT DETAILS
+
+	TITLE :
+	IT Test Platform Support
+
+	CLIENT :
+	Everything Everywhere(Orange & T-Mobile)
+
+	DURATION :
+	Mar-2011  to  Till date
+
+	TEAM SIZE :
+	4
+
+	ROLE :
+	Database Administrator(Task Manager)
+
+	TECHNOLOGY :
+	Oracle, Informix, HP-UX, AIX, Solaris & Unix
+
+
+DESCRIPTION : Oracle & Informix related Database Administration tasks.
+
+RESPONSIBILITIES :
+
+· Provide DBA support for all test and development teams, for oracle DB and Informix DB as well.
+
+· We have to monitor the Oracle DB as well as Informix DB servers.
+
+· Maintaining daily backups.
+
+· Managing Database host servers, monitoring DB performance.
+
+· Oracle & Informix Database Administration.
+
+· Monitoring CRON jobs for several monitoring report generation and email notification according to the requirement for daily status (Ex: space, DB running status, Health checkup etc).
+
+· Solving TTRS(Tickets/Tasks).
+
+· Generate reports to submit client.
+
+· Attend Daily Status Report calls.
+
+· Managing team and consultant at Offshore.
+· No slippage in delivering the assigned TASK’s. Keeping the stakeholders updated on their tasks.
+
+PREVIOUS PROJECT DETAILS
+
+Project #1
+
+	TITLE :
+	Employee Locator
+
+	CLIENT :
+	National Institute of Oceanography(NIO), Visakhapatnam
+
+	DURATION :
+	JUL-2010  to  FEB-2011
+
+	TEAM SIZE :
+	3
+
+	ROLE :
+	Project Assistant II
+
+	TECHNOLOGY :
+	Matlab, FORTRAN, Surfer, Grapher, Origin
+
+
+DESCRIPTION : Every employee must swipe his ID card before he enters/leaves the office premises. Each swipe of the ID card generates a log in the monitoring server. 
+
+Create an application parsing the logs to generate meaningful reports. 
+
+Given a user ID, the application should tell in which floor/wing the employee is. 
+
+Also, the application should generate daily report on number of hours the employee spent in the office. 
+
+Additionally, highlight the instances where the employee irrelevant swiping the card.
+
+RESPONSIBILITIES :
+
+· Documentation, HLD, LLD, Coding, Linking of Classes and bug fixing. 
+Project #2
+	TITLE :
+	Identification and Modeling of Internal Waves off Visakhapatnam
+
+	CLIENT :
+	Navel Research Board(NRB), New Delhi
+
+	DURATION :
+	JUL-2009  to  JUL-2010
+
+	TEAM SIZE :
+	2
+
+	ROLE :
+	Project Assistant II
+
+	TECHNOLOGY :
+	Matlab, Fortran
+
+
+
+
+DESCRIPTION :It is a Grant-In-Aid project sponsored by Navel Research Board(Ministry of Defence). 
+
+It is a multi disciplinary project:  
+
+1. Forecasting model design and development part is done by IIT Delhi (Prof Dr A.D. Rao). 
+
+2. In-situ observation part done by National Institute of Oceanography, Visakhapatnam (Scientist Dr.TV.Ramanamurty). 
+
+3. And Satellite observation part done by Andhra University (Oceanography Department).
+
+RESPONSIBILITIES :
+
+· Conducting and participating in field works on sea for collecting ocean data according to project requirements. 
+
+· Data collection, Model implementation on collected data, results produced to scientist(Project Leader). 
+
+· Scientific Instruments Deploying in sea at observation Lat Long point according to client specification. 
+
+· Scientific data downloading from Instruments, Processing data. Use the data in related Models.  
+
+· Results submitted to Project Leader(Scientist)
+· Maintaining Scientific instruments, upgrading instruments.
+
+· Developed modeling tool in Matlab for Identifying internal waves for this project.
+Project #3
+
+	TITLE :
+	Mail Tracker
+
+	CLIENT :
+	Nanomindz Technologies
+
+	DURATION :
+	JAN-2009  to  JUN-2009
+
+	TEAM SIZE :
+	2
+
+	ROLE :
+	Associate
+
+	TECHNOLOGY :
+	Java, Servlet, JSP, HTML, Java Script, Oracle 9i, Apache Tomcat, XML
+
+
+DESCRIPTION : It's an web application and useful for track the mails in an organization. Mails which are sent by the employees if those contain any information harmful for the organization will be stop at admin level. Those mails can be viewed by admin, after his verification if these mails no harm to the organization admin can release it to the corresponding receiver, otherwise admin can stop them and inform to higher management.
+
+QUALIFICATIONS:
+
+	Master of Computer Applications
+	Andhra University
+
+	B.Sc (Computer Science)
+	Andhra University
+
+	Intermediate(Mathematics, Physics, Computers)
+	Board of Intermediate
+
+	Secondary school Certification
+	Board of Secondary school Certification
+
+
+	
+
+	
+
+
+

@@ -1,0 +1,275 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sanjay Narvariya
+BDO street,Bankhandi road,
+Gopal Pura, Morena(M.P) - 476001
+reach.sanjay.narvariya@gmail.com
+(+91)-7506871780
+
+
+Career Objectives
+
+Looking for an organization where I can utilize,hone and challenge my learning leading to the mutual growth and benefits.
+
+Qualification
+
+Bachelor of Engineering in Computer science engineeringfrom Madhav Institute of Technology and Science, Gwalior affiliated to RGPV University Bhopal.
+
+Summary
+
+· Ready to join the organization.
+·  Got trained and Worked as Software engineer in LTI (former L&T InfoTech) in Mainframe technologies from October 2015 to November 2017.
+· Experienced in Designing, Coding, Testing, Implementing, Maintaining and Supporting application software in Mainframes that is delivered within scope with high quality.	
+· Have closely worked with Business/Client and technology team members to understand business requirements, perform analysis and design of quality technical solution that comply with organization’s architectural standards.
+· Extensively and diversified experience in COBOL, JCL ,DB2, IMS DB, VSAM, CICS, SPUFI, DFSORT, IBM Utilities, ISPF, Platinum, Intertest.
+· Contributed in Ingram Micro Impulse USA Development consisting of OTC-FIN-P2P applications and in support involving client incidents, preparing the test cases and coding technical solutions after analyzing the issue.
+· Knowledge Transfer and training to the new joiners.
+
+
+
+
+
+
+Technical Skills
+
+· Operating Systems: Windows 7, XP
+· Programming Languages: COBOL,JCL, DB2,CICS, C, C++, SQL, HTML,XML
+· Tools: VSAM, IBM Utilities, SPUFI, DB2-z/OS, IMS DB, File-Aid, File manager,InterTest
+ MS Word, MS Excel, MS PowerPoint
+· Hardware Platforms: IBM Mainframe z10
+· Database systems: DB2 and IMS,SQL server 2012
+
+
+Professional Experience
+
+1. Training Project:
+· Project Title: Banking system
+· Duration: December01, 2015– January12, 2016
+· Domain: Banking
+· Team Size: 3
+· Technology: Mainframe
+· Role & Contribution: Interface of CICS to handle banking applications involving account creation, management and deletion, Cheque book issue, cheque handling correlating to Real-time Banking System.
+· Solely responsible for design and development of front end application using CICS and DB2 linkage. Work division and load balancing among the team while providing a seamless application with additional feature specifications.
+· Tools&Programming languages: z/OS,COBOL, DB2, CICS, JCL,VSAM, MS Word, MS Excel
+· Work Location: Mahape, NaviMumbai
+
+2. Client Project I :
+· Project Title: Tier Level Pricing
+· Duration: June,2016 to July,2016 
+· Team Size:3(Offshore) + 1(Onshore)
+· Technology: Mainframe
+· Client:Ingram micro USA
+· Ingram micro, Ingram Micro Inc., a Fortune 100 organization (recent Fortune ranking is 72), is the world’s largest technology distributor and a leading technology sales, marketing and logistics company. As a vital link in the technology value chain, Ingram Micro creates sales and profitability opportunities for vendors and resellers through unique marketing programs, outsourced logistics services, technical support, financial services and product aggregation and distribution.Ingram Micro creates sales and profitability opportunities for vendors and re-sellers through unique marketing programs, outsourced logistics services, technical support, financial services and product aggregation and distribution.
+
+· Role & Contribution: Application Developer
+· Coded and successfully deployedmultiple batch programsto move data from transactional DB to historical DB once the order is fully invoiced. Also  to update invoice date in transactional DB for fully invoiced and partially invoiced order (invoice date is update only once) before moving  the data to historical database.  
+
+3. Client Project II :
+· Project Title:NA address Validation	
+· Duration: July 07,2016 to November25,2016 
+· Team Size:3(Offshore) + 1(Onshore)
+· Technology: Mainframe
+· Project description: This project was initiated to allow Ingram Micro to select address validation software which could handle both US and Canada business.Our current address validation software is installed in the US region, and used only for our legacy system (IMPULSE). The new address validation software will be able to handle all our business address validation needed in US and Canada from different platforms (IMPULSE, EDI, Insideline, Web, XML, CRM, SAP, IMM-Evavi, etc.) within our current and future infrastructure. The new address validation software will allow us to improve shipping address accuracy and account for residential/commercial indication.
+· Role & Contribution: Application Developer
+Changed existing Online and Batch programs,JCLs in Mainframes to meet the requirement.
+· Developed and deployed successfully new programs, copybooks and JCLs.
+· Installed the third-party address validation module in existing and new Batch and Online programs.
+· Worked and implemented solely the followingrequirements.
+	Sr no.
+	Change 
+	Changed description
+	Duration
+	Role and contribution
+
+	1
+	Magellan reporting
+	Added residential indicator to the Magellan feed. Changed existing Batch modules to include residential indicator in Magellan feed.
+	July 2016 to August 2016
+	Coding, testing and deployment
+
+	2
+	Master data Cleansing
+	Developed new batch programs, copybooks, JCLs, Procs and Control cards to include the third-party module to validate the existing address of the customers in IMS DB and update the IMS with the correct address.
+	September 2016 to October 2016
+	Coding, testing and deployment
+
+	3
+	Audit Reporting
+	Developed a new program to generate daily report of customer on address changes for group1 address standardization.      
+	October 2016
+	Coding, testing and deployment
+
+	4
+	Phase 2 release
+	Changed Batch and Online programs to install the third-party module to validate the address of the existing and new customers
+	October 2016 to November 2016
+	Coding, testing and deployment
+
+
+
+
+· Tools and technologies used:COBOL,CICS,JCL,DB2, VSAM, IBM Utilities, SPUFI, DB2-z/OS, IMS DB, File-Aid, File manager,InterTest, MS Word, MS Excel
+· Work Location: Chennai
+
+4. Client Project III :
+· Project Title:Endless Aisle
+· Duration: November 2016 to August 2017
+· Team Size:6
+· Technology: Mainframe
+· Client:Ingram micro USA
+· Description: Endless Aisle project aims at providing the connectivity between Ingram micro and Shipwire to allow business selected pilot customer(s) and vendor(s) to view and order projects from Shipwire merchants through Ingram micro channels.
+· Role & Contribution: Application Developer
+· Changed existing Batch and Online programs to accommodate branch expansion.
+· Worked and implemented solely the following requirements.
+
+	Sr no.
+	Change 
+	Changed description
+	Duration
+	Role and contribution
+
+	1
+	Alpha branch change
+	Changed, tested and implemented successfully more than 150 online and batch programs to incorporate the requirement.
+Changed Jobs and Procs as well. The testing includes Unit and Regression testing.
+	November 2016 to February 2017
+	Coding, testing and deployment
+
+	2
+	Alpha branch change -Phase 2 CSLMST changes
+	Changed Online programs, procs, and JCLs to increase the file length of CSLMST(used for Return Merchandise authorization) file to accommodate alphanumeric branch.
+	March2017 to April 2017
+	Coding, testing and deployment
+
+	3
+	Inbound ASN update
+	Changed online front end and back end programs, Proc to fetch the Tracking number from DB2 tables and update the same  in IMS database for an ASN.
+Created a new PSB.
+RTT entry for program to operate in BMP/DB2/IMS mode.
+	May2017 to June 2017
+	Coding, testing and deployment
+
+	4
+	Alpha branch change -Report section program
+	Rewrote two existing BATCH programs having report section so as to successfully compile them having the exact functionality as before.
+	May 2017 to June 
+	Coding, testing and deployment
+
+
+
+
+
+5. Client Project IV :
+· Project Title: SE25069 – Recycle fee on orders
+· Duration: September 2017 to October 2017
+· Team Size:1
+· Technology: Mainframe
+· Role & Contribution: Analysis & Design, Coding, Testing, Deployment
+· Client:Ingram micro Management
+· Description:Changed online programsto calculate the recycle fee during end order process before credit card payment so that the recycle fee is incorporated in the credit card payment itself.     
+· Successfully translated business requirement into software design.
+· Changed existing online programs to meet the requirement.
+· Collaborated with InsideLine team and guided them to change InsideLine programs.
+· Made changes to the TBX table.
+
+
+
+
+
+AcademicRecord
+
+
+	Educational Course
+	College/school
+	Percentage Obtained
+	Year
+	University
+
+	B.E.(Information & Technology)
+	MITS, Gwalior
+	            65
+	2015
+	RGPV, Bhopal
+
+	H.S.C
+	T.R.Gandhi Public School, Morena
+	66
+	2010
+	MPBSE, Bhopal
+
+	S.S.C.
+	Scholars’ Public school
+	88
+	2008
+	CBSE, Ajmer region
+
+
+
+
+
+
+Professional Certifications
+
+· IKM Mainframe Level 1.
+· Completed behavioral training
+· Completed Agile model session.
+Personal Details
+· 
+Full Name:Sanjay Narvariya
+Date of Birth:April6,1994
+Gender:Male
+Marital Status: Single
+Nationality: Indian
+Languages: English, Hindi
+Hobbies: Cooking 
+Email:rech.sanjay.narvariya@gmail.com
+Contact Number: +91-7506871780
+      Permanent Address:BDO street, Bankhandi road, Gopal Pura, Morena(MP) -476001
+

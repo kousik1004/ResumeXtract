@@ -1,0 +1,388 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Summary:
+
+                                                                                                 SAP ABAP Consultant
+
+Aarthi Kumar
+
+	E - Mail:aarthikumar22@gmail.com
+
+	Mobile: 7708422172/8637451470
+
+
+___________________________________________________________________________________________
+SUMMARY
+	·  12 years of Total IT Experience with Onsite Experience in USA Inclusive.
+
+·  Over 10 years of SAP ABAP Experience having good exposure to SAP R/3 System and worked across SD, MM , PM , PP and HR Modules.
+· Extensively worked on Reports, ALV-OOPS, Data Dictionary Objects, SMARTFORMS, SAP SCripts, BDC.
+
+· Extensive experience in Enhancements-User Exits, BADI, BAPI and Enhancement spots  
+· Good experience in RF solutions (Internet Services/ITS Mobile setup)
+
+· Good Exposure to ABAP-HR, Enterprise Services and Proxies.
+· Good Experience in Workflow via Class.
+· As a Technology Lead involved in different phases of development lifecycle like Requirement Analysis, Design, Build, Support and managing deliverables .
+
+· Mentoring the Team on Technical Aspects 
+
+· Worked as a Java Developer for 5 months in Polaris Software Lab
+
+
+PROJECT EXPERIENCE
+Infosys Technologies (SEP 2009 - Till date)
+	Project & Client
+	Support Project – RENAULT Spare Parts
+
+	Duration:
+	 JAN 17 – Till date
+
+	Position:
+	Technical Consultant –Offshore
+
+	Technology:
+	SAP ABAP – Reports,BADI,BAPI and BDC.
+
+	Responsibilities
+	· Requirement Analysis and providing Estimations.
+
+· Understanding the Functional/Business Process Requirement and preparation of Technical Specifications.
+
+· Extensive Interaction with Functional Consultants and for Test cases. 
+
+· Issue Analysis and Creation/Modifications of Reports, SMARTFORMS, Scripts and User Exits..
+· Developed Interactive Reports for Inventory Process Flow .MI01/MI04/MI07
+
+· Developed Reports for Creation of Info record and Automation of Scheduling Agreement Update via BAPI.
+
+· Sending PDF Forms as email attachment.
+
+
+
+	 Client:
+	ASTRAZENECA
+
+	Duration:
+	SEP 09 – DEC 15
+
+	Project:
+	 DOA Phase 3 Project
+
+
+
+	Position:
+	Offshore Consultant
+
+
+
+	Technology:
+	SAP ABAP –Web service, Workflow via Class, Enhancement Spot, and User Exit.
+
+	Responsibilities
+	· Substitution validation via enhancements while maintain Substitutes in Workflow Settings.
+
+· Creation of Webservice with WSDL Document, Creating Logical Port to SOA .
+
+· Triggering Workflow event via exit MBCF0007 when material reservation is created (MB21) and Creation of Workflow for Material Destruction Approval Process with approvers received from SOA via webservice call.
+
+· Estimations and High Level Solution Preparation
+
+· Unit Testing, Documentation and Code Review.
+
+· Co-ordination of Team Members for Timely and Quality Deliverables.
+
+	Project 
+	IPR-BARCODE Project- AstraZeneca
+
+	Position:
+	Offshore Lead
+
+	Technology:
+	SAP ABAP – Reports, Dialog Programming, BAPI’s,ITS Mobile setup, Internet Services, Zebra label printing.
+
+	Responsibilities
+	· Designing screens compatible with Hand Held Device for WM Process.
+
+· Includes GR against Process Order,GR against Purchase Order via BAPI_GOODSMVMT_CREATE
+
+· Creation of TO and Confirmation of TO via L_TO_CREATE_SINGLE,L_TO_CONFIRM FM.
+
+· Label printing on ZEBRA printers
+
+· ITS Mobile setup and creation of internet Services to include the Screens and generate HTML Templates.access via SICF Tcode to test service.
+
+· Estimations and High Level Solution Preparations.
+
+· Preparation of Technical Specifications.
+
+· Extensive Interaction with Functional Consultants for Test data Generation and monitoring Changes.
+
+· Unit Testing, Documentation and Code Review.
+
+· Co-ordination of Team Members for Timely and Quality Deliverables
+
+· Mentoring Team on the Technical Aspects.
+
+
+
+	Project & Client
+	APAC SOTC Project- AstraZeneca
+
+	Technology:
+	SAP ABAP – Reports,user exit,VOFM Routines,alv-oops,BDC.
+
+	Responsibilities
+	· Estimations and High Level Solutioning.
+
+· Quotation approval process - to trigger email whenever quotation is created via userexit MV45AFZZ.
+
+· Condition Records/Condition values calculated in pricing/Formulae Routines.
+
+· Interactive ALV created to approve/reject or justify the quotations
+
+· BDC used to create Condition Record at final approval. 
+
+· Extensive Interaction with Functional Consultants for Test data Generation.
+
+· Unit Testing, Documentation and Code Review
+
+
+HCL Technologies (MAR 2005 – AUG 2009)
+	Project & Client
+	Support Project - MODINE Thermal Systems, Sriperumbudur.
+
+	Duration:
+	 JUL  09 – Aug 09
+
+	Position:
+	Technical Consultant –Offshore
+
+	Technology:
+	SAP ABAP – SMATFORMS,SAPSCRIPTS,User exits.
+
+	Responsibilities
+	· Requirement Analysis.
+
+· Estimations.
+
+· Understanding the Functional/Business Process Requirement and preparation of Technical Specifications.
+
+· Extensive Interaction with Functional Consultants and Users for Test data Generation and monitoring Changes.
+
+· Issue Analysis and Modifications of Reports, SMARTFORMS, Scripts and User Exits..
+
+· Unit Testing, Documentation and Code Review.
+
+
+
+	Project & Client
+	Implementation Project - BDA, Bangalore, INDIA.
+
+	Duration:
+	 Oct 08 – Mar  09
+
+	Position:
+	Technical Consultant –Offshore
+
+	Technology:
+	SAP ABAP-HR,BAPI
+
+	Responsibilities
+	· SAP HR Implementation to Upload Employee Details.
+
+· Off-cycle Payroll Process and
+
+· Perform Actions (Promotion/Change of Pay/Return from Suspension)
+· Reports created to upload employee Data ,Automated the Off cycle Payroll (PA0267 Info Type) Run Process and Perform Actions .
+
+· BAPI used to update relevant Info Types.Unit Testing.  
+
+
+	Project& Client:
+	Development Project - ZEP ,USA 
+
+	Technology
+	SAP ABAP – smartforms , Reports.
+
+	Responsibility
+	· SAP Implementation for ZEP involves successful Finance Process Implementation which includes Accounts Payable, Accounts Receivable, General Ledger, Controlling and Fixed Assets.
+· Understanding the Functional Requirement.
+
+· Providing Effort Esitimations.
+
+· Preparation of Technical Specifications.
+
+· Leading team members on Development
+
+· Developed SMARTFORMS for Credit Memo/Statement of Account, Invoice and Dunning.
+
+· Unit Testing, and Code Review.
+
+· Team Co-ordination.
+
+	
+	
+
+	Project & Client
+	Upgrade  Project – WKFS
+
+	Position:
+	Technical Consultant –Offshore
+
+	Technology:
+	SAP ABAP
+
+	Responsibilities
+	SAP Technical Upgrade from 4.6 c to ECC 6.0
+· Understanding the Impact of Customised Objects in ECC 6.0.
+
+· Worked on User Exits to be checked for Activation.
+
+· Identify and Modify the Obsolete Function Module/Statements in ECC 6.0.
+
+· Changed HEXA-DECIMAL Data type to CHARACTER data type.
+
+· Unicode check enabled and corresponding changes/errors fixed.
+
+· Testing, Documentation .
+
+
+
+	Company:
+	Rockwell Collins,USA
+
+	Position:
+	Technical Consultant ( Onsite Co-ordinator )
+
+	Technology
+	SAP ABAP-Reports , BDC, smartforms, Sapscript,Module Pool
+
+	Responsibility
+	· Understanding the Functional/Business Process Requirement and preparation of Technical Specifications.
+
+· Extensive Interaction with Functional Consultants and Users for Test data Generation and monitoring Changes.
+
+· Co-ordinating with Offshore Team in providing required Functional/Technical Inputs for their assigned Task.
+
+· Development of New classical and Interactive Reports as per Client Requirement.
+
+· SMARTFORMS/ Dialog Program changes done.
+
+· Modifications of Reports, BDC, Scripts, User Exits.
+
+· Unit Testing, Documentation and Code Review
+
+
+	Company:
+	Polaris Software Lab,Chennai,India
+
+	Duration:
+	Sep 04  – Feb 05
+
+	Position:
+	Developer ( Offshore) -JAVA
+
+	Responsibility 
+	Polaris has established its solutions and services footprint globally contributing to the realization of the business vision of some of the world's leading giants in the money vertical.
+
+Partnered with Citigroup in providing Banking Product to Citibank.
+Involved in Webpage Design to check the Validity of Customer in Providing Credit Card.
+
+Understanding the Business Flow from Functional Consultant.
+
+Changes done in existing JSP Program.
+
+Developed prototype of the Model in html.
+
+
+
+SKILLS
+	Technologies
+	SAP ABAP-Reports,ALV,BDC,SMARTFORMS,SAP Scripts,Userexits,BADI&BAPI,ALE&Idocs,Internet Services.   
+
+	Database
+	SQL Server 2008, MS-Access
+
+	Web / Application Servers
+	SAP R/3 4.6,ECC 6.0,Weblogic 11g
+
+	Operating Systems
+	Windows XP, Windows Server 2008
+
+
+EDUCATION QUALIFICATION
+	· B.E- Computer Science and Engineering, from Madras University (Velammal Engg College) in 2003.
+
+· Higher Secondary Course (12th) from St.joseph of Cluny Matriculation Higher Secondary School, Neyveli in 1999 with 89 % aggregate
+
+· Matriculation (10th) from St.joseph of Cluny Matriculation Higher Secondary School, Neyveli in 1999 with 83.3 % aggregate
+
+
+EMPLOYMENT HISTORY
+	Company
+	Duration
+	Designation
+
+	Infosys Technologies Ltd
+	Oct 2010 -  Till Date
+	Technology Lead
+
+	
+	Sep 2009 – Oct 2010
+	Technology Analyst
+
+	HCL Technologies
+	Aug 2006 – Aug 2009
+	Associate Consultant
+
+	
+	Mar 2005 – Jun 2006
+	Associate Consultant Trainee
+
+	Polaris Software Lab
+	Sep 2004 – Feb 2005
+	Stipendiary General Trainee
+
+
+PERSONAL DETAILS:
+Date of Birth                     :  May 22, 1982
+Permanent Address         :  Ruby Valley,
+
+                                           S5,2ND Floor,Krishnaswamy Salai,
+
+                                           Vignesh Nagar Extension,
+
+                                           Zamin Pallavaram,Chennai - 600117.  
+English Proficiency 
+   : 86% at hsc Level.
+
+Language Known              : English,Tamil.
+

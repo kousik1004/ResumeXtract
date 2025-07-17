@@ -1,0 +1,308 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ashiful Karim                                 Email: ashiful.karim@gmail.com 
+          Cell Number: +91-9830646373
+SAP BASIS Consultant
+			                                    
+
+
+CAREER OBJECTIVE:
+
+To pursue growth and achieve excellence in the SAP Basis area, contribute to the best of
+my skills work hard for the organization and explore solutions in a dynamic work environment.
+
+Educational Detail
+
+	Sr. No
+	Qualification
+	Major
+	Year
+	Percentage
+	Class Obtained
+	University
+
+	1
+	Masters
+	Computer Application
+	2008
+	65
+	First Class
+	Pune
+
+	2
+	Bachelors
+	Computer Science
+	2005
+	64
+	First Class
+	Pune
+
+
+
+Professional History
+
+	Sr. No
+	Organization Name
+	Designation
+	From Date
+	To Date
+
+	1
+	DELL EMC
+	Advisor Consultant
+	7-Aug-2017
+	Till Date
+
+	2
+	Hewlett-Packard Globalsoft Ltd
+	Senior Consultant
+	01 Dec 2010
+	14-July-2017
+
+	3
+	Bristlecone India Ltd.
+	Consultant
+	09 Jun 2008
+	30 Nov 2010
+
+
+
+
+
+PROFESSIONAL SUMMARY:
+
+ I have total of 9 Years of IT experience with 8 Years as a SAP BASIS CONSULTANT.  My        
+ Experience has provided me sound knowledge of SAP Basis modules and Oracle/HANA databases.
+
+· Worked on  ECC6.0 EHP5/EHP6/EHP7 , BW 7.5,SOLMAN 7.1, SCM 7.0 EHP3 
+· Worked on HANA 1.0 Administration.
+· Worked on LCA upgrade and LCA restore.
+· Worked on Kernel Upgrade
+· Worked on DB copy and Refresh
+· Worked on Client Copy
+· Worked on SAP License Installation
+· Worked on EHP Upgrade from ECC 6 EHP6 to ECC 6 EHP7 and SCM 7.0 EHP2 to SCM 7.0 EHP3.
+· Worked on Oracle 11g /12c Upgrade and oracle 11g Version Upgrade from 11.2.0.3 to 11.2.0.4
+· Worked on HANA Database Upgrade from SPS11 to SPS12 r122.03
+· Worked on DIMS add-on Installation
+· Worked on HA Failover
+· Worked on DRS Switch over 
+· Worked on ASCS Split for multiple NW 7.40 based systems
+· Worked on System Monitoring and ERP Security 
+
+
+
+PROJECT DETAILS:
+
+Company        : DELL EMC
+
+ Clients	    : Estee/Sabre/Jabil
+ Environment	    : SAP ECC 6.0, BW 7.5
+ OS and Database: Linux and HANA
+       Duration	   : Aug 2017 to Till Date
+ Team Size	   : 14
+
+
+ Roles and Responsibilities
+
+· HANA Administration 
+· HANA SPS Upgrade
+· Handling critical system issues  
+· BOBJ transport
+· Kernel Upgrade
+· Support Pack upgrade
+· DIMS add-on Installation
+
+
+Company        : HPE
+
+ Client	               : Procter & Gamble 
+ Environment	    : ECC 6.0 Ehp7, BI 7.4, SOLMAN 7.1, BW 7.3 on, EP 7.1, SCM 7.3,SLD on 
+                              NW 7.5 , HANA 1.0 SPS 12, PI 7.31
+      OS and Database: HP-UX, Linux and Oracle, HANA, Max DB
+      Duration	   : December 2010 – till date
+Team Size	   : 25
+
+Roles and Responsibilities
+
+· SAP Netweaver/BASIS service delivery consultant responsible for providing a major customer support for their highly critical SAP systems (Inc. ECC, SCM, BW).
+
+· Apply deep and broad technical background and knowledge to operate a SAP
+          technology area (e.g. SAP Business Suite, SAP Netweaver) that are
+          critical or high risk technology.
+
+· Resolve most technical incidents independently within SAP Basis area (e.g. System Monitoring, ABAP Dump Analysis, OSS Notes application, User Administration, Database Management, Transport Management e.t.c).
+
+· Performed ASCS Split for multiple NW 7.40 based systems.
+
+· DMIS Installation on Source system
+
+· Resolve single and cross technology incidents independently within SAP Basis area and work with team members to resolve complex or cross technology incidents.
+
+· Independently handled high complexity and risky changes (e.g. EHP Upgrade,
+           Kernel Patching, Support Packages Maintenance/Enhancement, Oracle
+           Upgrade,Oracle Patching) to meet customer infrastructure needs.
+
+· Handled failover of production systems and DR Drills.
+
+· Mentor/assisted team members on complex incidents. Also participated, proposed and lead complex customer projects (e.g. SAP Support Package
+           Maintenance/Enhancement project)
+
+· Resolving customer queries within the SLA on timely basis.
+
+· Building an effective and incorporating efficient SAP Basis Practice and Process.
+
+
+SUB PROJECTS:
+
+
+ System Owner for SAP ERP 6.0 and SCM 7.3.
+ Scope: Planning and execution of High level Production and Non- Production changes (e.g. EHP Upgrade, Kernel Patching, Support Packages Maintenance, Oracle Upgrade, Oracle Patching, Database Refresh, Client Copy, Live Cache Restore, Live Cache Upgrade, Database Refresh). Also involved in regular System Health Checks and Security checks alert resolution. Live Cache related issue resolution, System monitoring issue resolution.
+
+Financial Planning Transformation Project
+Scope: Upgraded HANA Database from SPS11 to SPS12 r122.03.
+HANA Administration.
+Received HA200 Training.
+
+ SAP Release Upgrade Projects/ SAP Business Suite 7i2013 Upgrade
+Scope: To upgrade P&G Global FSS and Global gATP systems from SAP Business
+Suite 7i2010 (SAP ERP 6.0 EHP5 and SAP SCM 7.0 EHP1) to SAP Business Suite 7i2013 (SAP ERP
+6.0 EHP7 and SAP SCM 7.0 EHP3) and reducing the technical downtime by activating the nZDM capabilities.
+
+Oracle Upgrade(Applied SBP’s/ Version Upgrade to 11.2.0.4 and 12.1.0.2)
+Scope: To upgrade P&G Global FSS, Regional SNS and Global gATP systems from Oracle Version
+11.2.0.3 to Oracle Version 11.2.0.4 and 11.2.0.4 to 12.1.0.2 using an out-of-place upgrade approach by
+applying a patch set to a separate new Oracle Home. .
+
+ERP Duty Manager Role 
+Scope: Handling L3 level critical incident tickets.
+Assisting the level-1 & level-2 duty managers in escalating the tickets and resolving the small scale issues and problems.
+Coordinating with the teams throughout the globe to make sure there is no discontinuity in the support.
+             
+
+______________________________________________________________________
+
+
+
+Company        : Bristlecone India Limited
+
+ Client	               : Mahindra & Mahindra
+ Environment	    : SAP ECC 6.0, BI, CRM, SOLAMN,SRM,APO
+ OS and Database: HP-UX, AIX and Oracle
+       Duration	   : Jun 2008 to Nov 2010
+ Team Size	   : 30
+
+
+ROLES and RESPONSIBILITIES
+
+· Sap Security(User and Role based security)
+· Oracle Version Upgrade (10.0.2.0 to 10.0.4.0)
+· DRS switch-over
+· Backup scheduling and administration through Legato
+· Applying support packages
+· Kernel Upgrade
+· Start / stop SAP systems in a multi system landscape
+· Archive the offline redo logs at the production server and apply them on DRS 
+· Maintain DRS status up to date with the production server. 
+· Use the role maintenance functions and the profile generator to maintain roles, authorizations, and profiles, based on the organizational plan of the company
+· Troubleshooting SAP system problems, trace solution and application of SAP Notes
+· Troubleshooting SAP printing and system related user problem
+· Implementation of Early Watch Steps to Database Server & Application Servers
+· Live Cache administration 
+· Data file management – addition, movement & reorganization
+· Monitoring IDocs and RFCs
+· Managing SAP Service Marketplace connections to client systems
+
+
+SUB-PROJECTS:
+
+    
+
+ eDCM - e-enabled Demand Chain Management                                             
+
+· Monitor and clear inbound and outbound RFC queues
+· Scheduling, monitoring and troubleshooting of eDCM related background jobs.
+· Monitor active eDCM servers, work processes & concurrent users.
+· User Management – Create / Delete / Update User Master. Mass User Maintenance.
+· Analyzing and troubleshooting system short dumps and system logs. Explore solutions on SAP Service Marketplace.
+· Spool Server Management, Printer administration and troubleshooting.
+· Apply patches, plug-ins and SAP notes.
+· Kernel Upgrade.
+· Draw daily / weekly / monthly system statistical records
+
+
+
+    SAP Basis Monitoring
+· Responsible for daily monitoring activities
+· Managing Load balancing with multiple dialog instances
+· Import transport requests and troubleshoot requests ending with return codes other than 0. 
+· Monitoring Database for size and growth.
+· Monitoring database and offline redo log backups.
+· Monitoring system free space, CPU utilization levels and errors in OS Logs
+· Monitoring of active users, work processes & users background jobs 
+· Analysis of system short dumps and system logs & finding the  solutions for overcoming them on SAP Service Marketplace
+· Troubleshooting SAP printing and system related user problems
+
+
+
+Personal Details
+
+Mr. Ashiful Karim
+Date of Birth:		02 October 1983
+Nationality:	   	Indian
+Gender:	    	Male
+Marital Status:	    	Married  
+Phone: 		    	+91-9830646373
+Permanent Address:	South Kazipara, Barasat, North 24 Paraganas,
+                                 	West Bengal, India, Pin Code - 743201
+Current Address:  	#203, Siri Ram Paradise, 18th cross, Poornaprajna Layout, Uttharahalli, Bangalore:560061
+Email:			ashiful.karim@gmail.com
+
+

@@ -1,0 +1,95 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Priyanka Byahatti
+ priyankabyahatti@gmail.com  
+
+
++91-9036039951 
+
+       https://www.linkedin.com/in/priyanka-byahatti-02895465/ 
+
+SUMMARY  
+
+· Graduated from B.V.B College of Engineering and Technology (B.Tech Electronics and Communication 2015) with CGPA of 8.21.
+
+· Over 2.9 years of experience in DBMS: Data Design, Data Object Development, Data Warehousing leveraging SQL Server 2012/2016, T-SQL, R programming,Python. Machine Learning, Basics of Deep learning, SSIS, SSRS, Risk Analysis, Visual Studio 2015, Informatica BI tool. 
+
+· Certified Data Scientist from International School of Engineering (INSOFE), jointly tied with Carnegie Mellon University in Data Science – awarded Certificate of Excellence for the same.
+
+· Good understanding on Database design, Hands on experience in database administration, advanced SQL querying and proficient in R programming. Very good knowledge of several Machine Learning algorithms like Regression techniques, Clustering, Trees, SVMs, Random Forests, Neural Networks etc.  etc.
+
+· Strong Knowledge of R programming and Python and implementing R code in-database (Version SQL Server 2016) for easy data movement and security.  
+
+· Handled large datasets and could understand complex data. 
+· Strong verbal and written communication skills with demonstrated ability to develop data objects in accordance with requirements, functional specifications.   
+
+WORK EXPERIENCE 
+Software Development Engineer, Accenture    
+
+1. Project: Performance Excellence and Global Quality                              (Dec’15- Present) 
+
+Accenture PEQ is a part of Accenture’s Risk Management Team with the primary focus on finding risk associated with Accenture project plans and flagging an early warning alarm to leadership team, thereby helping them mitigate any risky scenarios that might stem into High risk deals in the future.  
+
+In my current role, I am a part of a team that is tasked with the build and maintenance of assets, tools, databases, and reports for the Performance Excellence & Global Quality team. My Team and I focus on data side of custom developed applications for Accenture including data modeling, data design and data object development.   
+
+Roles & Responsibilities
+
+· Integrated Risk Management Tool: Primarily worked on Early Warning segment of this Risk Management tool which involved designed complex queries in SQL to pull out contracts who meet “risky” criteria, handed over numerous designs to requirement managers and have successfully deployed over 25 SQL queries in production. The queries include merge statements, partitioning, TSQL programming, creation of temporary tables, queries that involve self joins, subqueries, TSQL language, merging tables, multifaceted Stored Procedures etc. for various diverse business requirements. I have implemented Predictive modelling to classify High risky contracts and Non-High risky contracts using various Machine Learning techniques like Decision Trees, Logistic Regression etc. I have implemented Unsupervised learning techniques like Clustering to what contracts are similar in nature.
+
+· R and SQL Integration: This is a self-managed project wherein I proposed the idea of integrating R queries in SQL 2016. This version of SQL allows R/Python to be executed in-database. I am presently working on helping analytics team to integrate their text mining code to run automatically by writing a stored procedure to accomplish this. This would help the team to just run the SP as and when required. It will efficiently help them to eliminate data movement in and out from SQL to R for analysis.
+
+· 2. Project: Pfizer Project Arrow:
+
+I have worked with Pfizer which is a major pharmaceutical firm, in integrating their different types of data (Survey, Interaction, Order information, Products, Alignments) for several downstream applications to leverage this data. This was a short-term development project. My team and I developed various Informatica interfaces for different types of data. We used Informatica BI tool to do this. 
+
+CERTIFICATIONS 
+
+· I have received Certificate of Excellence in Data Science (CPEE) from International School of Engineering (INSOFE). This was a 6-month boot camp training hosted by INSOFE and certified alongside by Carnegie Mellon University for its tremendously detailed course content. We studied Statistics and Probability, Regression Techniques, Machine Learning algorithms and optimization. We also worked on a capstone project with a team size of 5 each. I worked on Prior Authorization of drugs under Insurance coverage. We were supposed to predict what drugs fell into bucket of coverage and what drugs didn’t. The whole project was coded in R. In the end, we presented our approach in front of some of the best data scientists. 
+
+· I have taken several online trainings on R language. I have received two certificates, 
+
+“Introduction to R” and “Intermediate R” by Microsoft’s DataCamp Team.   
+
+Declaration
+
+I hereby declare that above furnished information is true to the best of my knowledge & belief. 
+
+Place: Bengaluru                                                                       Name: Priyanka Byahatti 
+
+Date: 11-06-20172 

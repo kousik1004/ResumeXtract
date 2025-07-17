@@ -1,0 +1,668 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smitha Shashidharan 
+
+Mobile: +918197694417,  E-mail: mailsmithah@gmail.com 
+
+           Objective: Seeking a challenging position that allows me to contribute to the organization by utilizing my 
+
+technical-skills along with commitment to excellence. 
+
+           Profile Summary:  
+
+ 9+ years of Technical experience in Java/J2EE and SQL Technologies, in Telecom and 
+HealthcareDomains.  
+
+ Technical Lead in Core Java. 2 year experince in leading a team of 3 -5 members in Bug Fix-
+ing,Task Assignment. 
+
+ Experience in onsite –offshore customer work co-ordination. 
+
+ Experience in working on SQL server and writing queries,stored procedures. 
+
+ Experience in software development life cycle for feature Developments in Core Java. 
+
+ Worked in Scrum and Agile Development Environment. 
+
+ Lead feature development and testing effort with product marketing, business analyst, customers, 
+documentation team and off shore development and testing team. 
+
+ Knowledge of Design Patterns and Datastructures in Java. 
+
+ Worked in 5 Sustenance/Maintainence Projects and 2 Development Projects 
+
+ 
+
+              Educational details: 
+
+ 
+
+Institution 
+
+ 
+
+Degree 
+
+                  
+
+              Year of passing 
+
+  
+
+Grade 
+
+PESIT, Bangalore B.E (E&C) 2002 76.2% 
+
+MES Kishor Kendra, Ban-
+
+galore 
+
+PUC 1998 90.3% 
+
+Cluny Convent High 
+
+School, Bangalore. 
+
+ICSE 1996 84% 
+
+ 
+
+              Professional Experience:  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Organization Role Duration 
+
+Mindtree, Bangalore Module Lead May 2014 – September 2014 
+
+                 HP, Bangalore      Technology Consultant Oct 2012 – April 2014 
+
+                 IBM, Bangalore  Sr. Software Engineer Jun’2012 – August 2012 
+
+     WIPRO Technologies, Bangalore        Technical Lead Jan’ 2004 – Feb’ 2012 
+
+Axes Technologies (Tech Mahindra), 
+
+Bangalore 
+
+Software Engineer Sep’ 2003 – Dec’ 2003 
+
+  
+
+
+
+           Skills Summary:               
+
+Technology Tools 
+
+Java – J2EE  Core Java ,JDBC, Swings, JSP, Servlets, 
+
+XML,JAXB,JAXP,JNI,JAX-WS 
+
+Persistence Hibernate 
+
+Web Server/App Server Tomcat, Websphere 
+
+Framework Struts 1,Spring 
+
+Databases and Tools (1 Year) Oracle 8i, 9i, 10g. MS-SQL 2000, TOAD, PL/SQL,DB2, 
+
+TimesTen, PostgreSQL, Derby, HP SiteScope , HP BSM, HP 
+
+IUM, Apache Kafka 
+
+Functional Areas Maintenance, Development  
+
+Telecom and Healthcare Protocols SIP, SS7, HL7, DICOM, GSM,HTTP,OSS,BSS,NMS 
+
+Source Control Clear Case, SubVersion, Harvest, StarTeam 
+
+OS Windows, Knowledge of Unix 
+
+IDE Eclipse, NetBeans, Visual Basic, RSA 
+
+Development methodologies, 
+
+deployment & Testing 
+
+Scrum,  Ant, Hudson 
+
+Scripting  TCL 
+
+Other Languages C 
+
+                   
+
+Achievements: 
+
+ Received 5 FIMC awards and 2 TAZ Appreciation tokens for solving critical customer 
+
+issues fixing critical bugs and enhancements, across 4 projects in Wipro Technologies. 
+
+ Won third place for the Virtual Project competition in Wipro Technologies Tech Fo-
+
+rum. 
+
+ FIMC award for a Technical document on Rollback Segments. 
+
+ Passed the Sun Certified Java Programmer (SCJP).  
+
+ Best Campus Recruit Award – Prodigy 2004 award from V&NGN business unit all 
+
+over India of Wipro Technologies. 
+
+ Passed Java UCF exams till UCF 4.1 at Wipro Technologies. 
+
+Experience Summary: 
+
+Projects at Mindtree: 
+
+1) SITA – SRDT – Sita Reservation Desktop 
+
+Role: 
+
+ Module Lead 
+
+Technologies and Tools: 
+
+ Core Java, Spring IOC, Struts2, Dozer, JAXB 
+
+Duration:  
+
+ May  2014 – till date 
+
+Team Size: 38 
+
+Details: 
+
+ Flight booking modules in the SITA Reservation Desktop for Customer Affinity. 
+
+Responsibilities: 
+
+
+
+ Implementation of Customer Profile Update Feature. 
+
+     
+
+Projects at HP: 
+
+1) Vodafone SNOC Phase 1 – Service Network Operations Centre – Phase 1. 
+
+Role: 
+
+ Technology Consultant 
+
+Technologies and Tools: 
+
+ Core Java, HP BSM , HP SiteScope , GSM Basics, OSS 
+
+Duration:  
+
+ October  2012 – April 2013 
+
+Team Size: 5 
+
+Details: 
+
+ Integration of the GSM Mobile Services value packs to display values in SQM to facilitate moni-
+toring of the Mobile Services by Network Operation Centre professionals. 
+
+Responsibilities: 
+
+ Configurations and Testing of the SMSC Service Adapters and Monitors in HP SiteScope and HP 
+BSM for SMSC Log Files. 
+
+ Implementation of Data Adapter for parsing SMSC Service Log Files using Core Java 
+
+ Implementation of a Data Splitter using Core Java for SMSC Service Log Files. 
+
+ Script to download files from an FTP Server using PSFTP. 
+
+ 
+
+2) AMX Telcel – Real Time Online Charging System 
+
+Role: 
+
+Technology Consultant 
+ 
+
+Technologies and Tools: 
+
+Core Java, HP IUM, TimesTen PL/SQL,BSS, Kafka 
+
+Duration:  
+
+May  2013 – September 2013 
+
+Team Size: 7 
+
+Details: 
+
+ Mobile Service Usage Charges handling through Mediation Software HP IUM. Real Time re-
+quest handling for Reserved Service Usage and Used Service Usage. Selecting a subscriber’s 
+credit to charge against in order to serve a network access request, charging against the requesting 
+subscriber’s credit for network access to reach a particular service. 
+
+Responsibilities: 
+
+ Implementation of Business Logic for Service Usage – Reserved/Requested Service Usage and 
+Used Service Usage of a Mobile Subscriber in HP IUM using PL/SQL Stored Procedure in 
+TimesTen at the backend.NMERPC Connector usage in HP IUM for receiving the incoming 
+charging request. 
+
+ Maintenance and Bug fixing in the Subscriber Lookup module based on Subscriber ID. 
+
+ Implemented of a Prototype for Thread Pool in Core Java. 
+
+ Involved in peer code reviews. 
+
+3) Oracle WCS Training  
+
+Role: 
+
+Technology Consultant 
+
+Technologies and Tools: 
+
+
+
+Oracle WCS 
+
+Duration:  
+
+November  2013 – November 2013 
+
+Team Size: 25 
+
+Details: 
+
+ Oracle Web Center Sites Training 
+
+Responsibilities: 
+
+ Attended Oracle WCS Training Session. 
+
+Projects at IBM : 
+
+1) Global Contract Management System – IGF GCMS (IBM Internal Project) 
+
+Role: 
+
+ Senior Software Engineer 
+
+Technologies and Tools: 
+
+Core Java, JSP, Servlets, DB2, Websphere ,RSA 
+
+Duration:  
+
+July  2012 – August 2012 
+
+Team Size: 40 
+
+Details: 
+
+ IGF-GCMS mainly Deals with the new strategic solution (ELS – Enterprise Leasing Suite) need-
+ed a Contract Management System capable of handling workflow distribution, and controls of all 
+legal documents that IGF exchanges with its customers in order to have a firm contract.. 
+
+Responsibilities: 
+
+ Understanding of the EAD4J - IBM Proprietary Framework for Enterprise Application of GCMS. 
+
+ Implementation of a simple web application using Websphere, DB2, JSP, Servlet, log4j and Ant. 
+
+ 
+
+ 
+
+Projects at WIPRO Technologies: 
+
+1) Olympus Endoscopy Solution - EndoWorks 
+
+Role: 
+
+ Senior Software Engineer 
+
+ Developer 
+
+ Technical Lead for Java 
+
+Technologies and Tools: 
+
+ Core Java, JDBC, Swings, JSP, Servlets, XML, Tomcat, JAXP,JAXB,Spring,JNI 
+
+Hibernate, Eclipse , NetBeans, HL7 , DICOM 
+
+Duration:  
+
+ November 2009 – February 2012 
+
+Team Size: 6 
+
+Details: 
+
+ The Endoscopy solution is a web application used in a small single-user hospital or in multiple-
+facility institutions with many users, this endoscopy software whose framework is built on a mul-
+ti-tiered architecture, offering a robust, feature-rich environment to support a wide variety of 
+equipment and procedures. 
+
+Responsibilities: 
+
+ Defect fixes, Analysis and solution for customer issues and enhancements. 
+
+ Lead a team of 5 members - Task assignment to team members and bug triaging with the team. 
+
+
+
+ Implementation of JDBC connectivity to Ingres Database for Java Purge Utility. 
+
+ Design and Implementation of a Java Swing GUI for a Database Diagnostic Utility. 
+
+ Provided estimations for replacing a proprietary Database connectivity layer using JDBC.  
+
+ Review of the Design Document for connectivity to Database using Hibernate. 
+
+ Provided solution for HL7 message loss and performance issue. 
+
+ Ownership of the HL7 and DICOM modules of the product. Fixed critical issues in DICOM. 
+
+ Involved in answering product related queries coming from Customer Support team. 
+
+ Involved in unit, functional and regression testing in service releases. Update the results to HP 
+Quality Center. 
+
+ Involved in preparing unit test plans and unit test results. 
+
+ Involved in peer code reviews. 
+
+ 
+
+2)  Cisco Femtocell Provisioning Gateway (FPG)          
+
+ Role: 
+
+ Developer 
+
+ Senior Software Engineer 
+
+Technologies: 
+
+ Core Java,JSP, Servlets, XML, Struts, Eclipse , Tomcat,Derby Database 
+
+Duration:  
+
+ March 2009 – October 2009 
+
+Team Size: 5 
+
+Details: 
+
+ Femtocell Provisioning Gateway solution is a Java interface which provides femtocell customers 
+a means to request for services for the femtocell device. Cisco Femtocell Provisioning Gateway 
+(FPG) provides a platform for femtocell activation workflows and interfaces to the service pro-
+vider OSS. 
+
+ 
+
+Responsibilities: 
+
+ Defect fixes, Analysis and solution for critical product issues. 
+
+ Involved in development of a testing tool for the Provisioning Gateway following a MVC design 
+pattern using Struts Framework. Implemented Servlets, JSP, XML and XSD Files for the request 
+commands. 
+
+ Implemented the exception handling for the Provisioning Interface. 
+
+ Handled the Provisioning interface request return codes. 
+
+ Involved in unit, functional and regression testing in service releases. Update the results to HP 
+Quality Center. 
+
+ Involved in preparing unit test plans and unit test results. 
+
+ Lead a team of 3 members – Task Assignment and Bug Triaging. 
+
+ Involved in peer code reviews 
+
+3) Cisco Configuration Assistant (CCA) 
+
+ Role: 
+
+ Senior Software Engineer 
+
+Technologies: 
+
+ Core Java, Eclipse  
+
+Duration:  
+
+ February 2008 – February 2009 
+
+Team Size: 7 
+
+Details: 
+
+
+
+ Cisco Configuration Assistant (CCA), part of the Cisco Smart Business Communications System 
+(SBCS) portfolio of products, simplifies the tasks of configuring, deploying, and administering 
+Cisco network solutions, improves the security and performance of a network, and reduces the 
+time needed for network deployment and configuration. Designed for small business networks 
+from 8 to 100 users, this PC-based application with a graphical user interface (GUI) provides eve-
+rything needed to set up a small office network. 
+
+Responsibilities: 
+
+ Defect fixes, Analysis and solution for customer and product issues. 
+
+ Implemented a Feature to support VLAN Configurations on the router. 
+
+ End to End Development of a feature to support T1 data configurations on the router. 
+
+ Involved in GUI development to support B-ACD (Basic Automatic Call distribution) and AA 
+(Auto – Attendant) feature configurations on the Cisco Unified Communications Call Manager 
+Express router. 
+
+  Client Meetings and Interaction for the feature development. 
+
+ Involved in answering product related queries coming from Customer Support team. 
+
+ Appraisals comments given for junior team members. 
+
+ Involved in unit, functional and regression testing in service releases.  
+
+ Involved in preparing unit test plans and unit test results. 
+
+ Involved in peer code reviews. 
+
+ 
+
+4) Cisco Interaction Suite – Cisco Email-Manager (CEM) 
+
+ Role: 
+
+ Module Lead 
+
+ Software Engineer 
+
+ Project Engineer 
+
+Technologies and Tools: 
+
+ Core Java, PL/SQL, JDBC, Oracle 8i, 9i and 10g, MSSQL, Eclipse, TOAD,C,TCL 
+
+ 
+
+Duration:  
+
+ March 2004 – January 2007 
+
+Team Size: 5 
+
+Details: 
+
+ Cisco E-Mail Manager is a comprehensive, enterprise-class solution for managing high volumes 
+of customer inquiries submitted to the company mailboxes or Web site.  Based on customizable 
+business rules, Cisco E-Mail Manager accelerates the response process by automatically directing 
+messages to the right agent or skill group, categorizing and prioritizing messages, suggesting rel-
+evant response templates, and, if desired, sending automated replies.  
+
+Responsibilities: 
+
+ Defect fixes, Analysis and solution for customer and product issues. 
+
+ Implemented a Feature in Core Java and PL/SQL to purge Oracle and MSSQL Databases. 
+
+ Bug Fixing in a Mail Parser module in C. 
+
+ Implementation of TCL scripts for executing Database SQL Files. 
+
+ Solution provided to a critical product issues involving: 
+
+i.      Duplicate Key issues in the Database. 
+
+ii.      Oversized Database growth issues. 
+
+iii.     Database deadlock issue. 
+
+    
+
+ Client Meetings and Interaction for the feature development. 
+
+ Component expert for 1 component in the Email Manager Product. 
+
+
+
+ Involved in answering product related queries coming from Customer Support team. 
+
+ Involved in unit, functional and regression testing in service releases.  
+
+ Involved in preparing unit test plans and unit test results. 
+
+ Involved in peer code reviews. 
+
+ 
+
+5) Sipx Configuration (Virtual Project)  
+
+Role: 
+
+ Project Engineer 
+
+Technologies and Tools: 
+
+ Linux Operating Systems - Fedora Core 2, SipX, TCP/IP, RTP, SIP 
+
+Duration:  
+
+ August 2004 – January 2005 
+
+Team Size: 3 
+
+Details: 
+
+ The objective of this project was to implement an IP PBX using SiPX VoIP servers. The SipX IP 
+PBX was used to implement different call scenarios. The call flow diagrams for these scenarios 
+were then captured using ethereal and Callflow Sequence Diagram Generator tool. Scenarios in-
+volving call forwarding, call blocking, auto-attendant, voicemail, etc were implemented. 
+
+Responsibilities: 
+
+ Was part of initial understanding and deployment of SiPX.  
+
+ Installation and configuration of different feature servers in SiPX. 
+
+   Understanding, configuration and deployment of different call flows and capturing ethereal 
+dumps and sequence diagrams for the call flows.  
+
+Configuration and testing of auto-attendant and voicemail. 
+
+ 
+
+ 
+
+Projects at Axes Technologies: 
+
+1) SS7 Learning 
+
+Role: 
+
+ Software Engineer 
+
+Technologies and Tools: 
+
+ SS7 
+
+Duration:  
+
+ September 2003 – December 2003 
+
+Team Size: 2 
+
+Details: 
+
+Worked at Axes Technologies as Software Engineer, for 4 months in Telecom Domain - Learn-
+ing done on SS7 Protocol 
+
+                                                                           **********************      
+
+

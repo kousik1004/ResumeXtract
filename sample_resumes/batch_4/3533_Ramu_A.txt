@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bipin Kumar Yadav
+
+   Ramu .A                                                                                       Mobile: +91-6363157836                         
+
+   Hadoop Administrator 
+                                                Email: ramuannamalai87@gmail.com
+CAREER OBJECTIVES
+
+To become an excellent Hadoop Administrator in Cloudera and Hortonworks. Seeking a classical opportunity to serve in your esteemed organization and prove myself worthy in the uplift of the organization.
+PROFESSIONAL SUMMARY
+· 7 years of experience in the IT industry with the area of expertise as SQL Server and Mongo DBA. 
+· Having 3 years of experience as a Hadoop Administrator and ecosystem components HDFS, Map Reduce, Sqoop, Pig, Hive, Impala, HBase, Oozie, Flume, Kafka, Knox, Kerberos, Ranger and Hue.
+·     Hands on experience in Hadoop cluster installation, configuration & deployment to integrate with systems hardware.
+
+·     Monitoring and Managing storage that is used by Hadoop systems.
+·     Adding/removing new nodes to an existing hadoop cluster and Decommissioning and commissioning the Node on running hadoop cluster.
+
+·     Coordinate with Development, Network, Infrastructure, and other organizations necessary to get work done
+
+·     Monitoring and Managing Hadoop cluster connectivity & Performance. 
+·     Manage and Analyse Hadoop log files.
+·     Helping Hadoop developers on Hadoop infrastructure related issues.
+·     Monitor running applications and provide guidance for improving DB performance for developers
+EXPERIENCE SUMMARY
+· Hadoop Admin, BIAS CORP Pvt Ltd, from April 2017 to till date. 
+· Hadoop Admin and SQL Server DBA, Carolina Technology Solutions Pvt Ltd, from July 2013 to April 2017.
+
+· SQL Server DBA, SOD Technologies Pvt Ltd, from July 2011 to June 2013.
+Certification:
+Mongo DB Certification done on 2016
+
+Microsoft: MCTS, MCITP on May 2012 (Certification Id: D724-1070)
+Academics:
+Master of Computer Application (MCA) from Sathyabama University -Chennai.
+SKILLS SET :
+· Framework
+
+: HADOOP(HDFS, MapReduce, Sqoop, PIG, Hive, HBase, Oozie, Flume)
+
+· Knowledge
+
+: Hortonworks and Cloudera distributions
+
+· Operating Systems
+: Linux Redhat, CentOS 7 and Windows Server 2008R2/2012
+· Databases
+
+: MYSQL, MongoDB 3.4 and SQLSERVER 2008 to 2016.
+· Platform
+
+: VMware Esxi 5.0, Cloud and Datacenter.
+· Security Tools
+
+: Kerberos, Ranger and ACL’s.
+Projects:
+Project #1
+BIAS CORP Pvt Ltd.                                                                                    April’ 2017 to till date   
+
+Hadoop Administrator 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUNTRUST 
+          SunTrust Banks, Inc. is a purpose-driven company dedicated to Lighting the Way to Financial Well-Being for the people, businesses, and communities it serves. SunTrust leads onUp, a national movement inspiring Americans to build financial confidence. Headquartered in Atlanta, the Company has two business segments: Consumer and Wholesale. Its flagship subsidiary, SunTrust Bank, operates an extensive branch and ATM network throughout the high-growth Southeast and Mid-Atlantic states, along with 24-hour digital access. Certain business lines serve consumer, commercial, corporate, and institutional clients nationally.
+Job Role:
+· Administering and managing Hadoop clusters running Cloudera, YARN, Cloudera manager.
+
+· Manage Hadoop cluster, monitoring alerts and notification.
+· Commissioning and decommissioning nodes
+
+· File system management and monitoring
+
+· Manage and review Hadoop log files
+
+· Deployment of upgrades, updates and patches.
+· Data transfer between Hadoop and other data stores 
+
+· Debug/Troubleshoot environment failures/downtime.
+· Working with data delivery teams to setup new Hadoop users. This job includes setting up users, and testing HDFS, Hive, Pig and Map Reduce access for the new users.
+
+· Set up security configurations in Hadoop.
+
+Environment:
+ Cloudera Manager, Oracle Linux 6.2 and MySQL 
+
+Project #2
+BIAS CORP Pvt Ltd.                                                                                    April’ 2017 to till date   
+
+Hadoop Administrator 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IHG 
+
+
+
+
+
+
+InterContinental Hotels Group informally InterContinental Hotels or IHG, is british multinational hospitality company headquartered in Denham, Buckinghamshire. IHG has nearly 776,982 guest rooms and more than 5,409 hotels across nearly 100 countries.IHG includes several brands such as Candlewood Suites, Crowne Plaza, Even Hotels, Holiday Inn, Holiday Inn Express, Hotel Indigo, Hualuxe, InterContinental, Kimpton Hotels and Resorts and Staybridge Suites In February 2017, the hotel chain admitted to a data breach.
+Job Role:
+· Administering and managing Hadoop clusters running Hortenworks, YARN, Ambari manager.
+
+· Manage Hadoop cluster, monitoring alerts and notification.
+
+· Commissioning and decommissioning nodes.
+· Manage and review Hadoop log files
+
+· Deployment of upgrades updates and patches.
+
+· Data transfer between Production cluster to other DR cluster stores. 
+
+· Performance Tuning on HDFS and Yarn level.
+· Working with data delivery teams to setup new Hadoop users. This job includes setting up users, and testing HDFS, Hive, Pig and Map Reduce access for the new users.
+
+· Set up security configurations using Ranger in Hadoop.
+
+Environment:
+ Hortonworks, CentOS7, on Google Cloud Platform.
+Project #3
+Carolina Technology Solutions Pvt Ltd.                                                         Dec’ 2013 to April 2017   
+
+ Hadoop Admin & SQL Server DBA  
+
+
+
+
+
+
+
+ESURANCE
+
+When we launched our online car insurance product in 4 states back in 1999, it was the height of the dot-com era. Within a year, the dot-com boom had busted. But not us. Today, we're one of the top names in online auto insurance, offering coverage to nearly 90 percent of the population.
+
+Esurance offers direct-to-consumer personal car insurance in 42 states. Our innovative approach to car insurance means customers can take advantage of affordable rates, great discounts, and helpful product features like photo claims and online repair monitoring.
+
+Job Role:
+
+· Responsible for implementation and ongoing administration of Hadoop infrastructure.
+
+· Preparing and performing the installation of Hadoop software
+
+· Adding and configuring the nodes
+
+· Monitoring Cluster Health and Troubleshooting
+
+· Management of the meta data databases
+
+· Manage and review Backups
+
+· Moving data efficiently between clusters using Distributed Copy
+
+· Restore in case of physical data loss (e.g. block corruptions)
+
+· Restore in case of project-specific requirements
+
+· Rebalancing of the HDFS
+
+· Installing/Managing SQL Failover clustering activities.
+
+· Troubleshoot SQL job failures and working on alerts.
+
+· Executing scripts in prod environments.
+
+· On call support over 24/7.
+
+· Implemented Always ON in SQL Server 2012 Enterprise Edition.
+Environment:
+
+·  Cloudera Manager on Linux. Mongo DB 3.2 with Linux and SQL Server 2012.
+Project #4
+Carolina Technology Solutions Pvt Ltd.                                                       July’ 2013 to April 2014  
+
+ SQL Server DBA   
+
+                                                  
+ Poconor
+ Property Tax is one of the primary services of O’Connor & Associates. O’Connor & Associates doing Property Tax reduction for around 200,000 properties every year. There are several processes happening in O’Connor and Pathfinder to reduce the property tax for the customers and get the payment from them. All the details regarding property and client are stored in system through PTAX application. Purpose of this project is to create an application for all the property tax functions happening in O’Connor and Carotechs. This application will be used by all the department users (D&R, Customer Service, Invoicing, Hearing Agents, Data Analyst, Data Entry, Litigation, Arbitration etc.). This is kind of CRM for the property tax clients.
+Job Role:
+· Reading 550 Pages of Business Requirement Document and understanding the Flow of Business process.
+
+· Creating Objective Diagrams, Business Objects and Event Flow Diagrams using Visio.
+
+· Designing the Database with normalized Tables in SQL Server 2008/2012.
+
+· Database migration from old database structure to new database structure.
+
+· Alternate Days communicating with Client and explaining DB structure.
+
+· Every 20 days we release a package along with DB structure and  we have a BRD Review session.
+· Preparing PowerPoint Presentation with excellent Slides for Presentation.
+Environment:
+
+  SQL server 2008/2012 Enterprise, Windows server 2008 R2
+Project #5 :
+SOD Technologies Pvt Ltd.
+
+
+
+
+
+Sep’ 2012 to Feb’ 2013
+
+
+
+
+SQL Server DBA
+
+
+
+
+
+
+
+
+
+Wheedle
+ Description :
+
+                      Wheedle is New Zealand owned company. Company motivation is to provide our members with a great online buying and selling experience and at the same time provide better features and benefits for the buyer and sellers. Wheedle will provide you with an online advertising, buying, selling and other networking service or devices over the internet and mobile phone. Using wheedle you can post job advertisement as well as you can search the job. Admin module and payment options all the transaction available in wheedle.
+
+Job Role:
+·  Database Designed with Normalized tables for user module  and Admin Console 
+
+·  Data migration from old database structure to new database structure.
+
+·  Support for Transactional Replication.
+·  Successfully Implemented Failover Clustering & Always on in 2012 concept.
+
+·  Backup plans Implemented based on requirement.
+· Using profiler everyday stored procedures analyzing and giving instruction to Development team.
+· Automated messaging services on server failures, for task completion and success.
+
+Environment :  SQL server 2012 R2 Enterprise Edition, Windows server 2008 R2.
+Project #6
+SOD Technologies Pvt Ltd.
+
+
+
+
+
+Dec’ 2011 to Nov’ 2012
+SQL Server DBA
+
+
+
+
+Mooble-Timepass
+Description: 
+                     Timepass is a SMS based question and answering game. Timepass engine will send questions to the requested user and provide prices for the correct answers. Using a single keyword the user can start the time pass sessions and our Timepass engine will send questions to the requested user and he can answer while sending reply for the questions, after each answer next question will continue until he send the the time pass session end keyword. Here most challenging for Database, In users may played    Per second 450-720 requests, database need to handle without loss of data.
+
+Job Role:
+· Database design with normalized Tables.
+
+· Helping to Development Team for Store procedures with optimized queries
+
+· Daily and weekly Backup Plans with Maintenance plan
+
+· Implemented Resource Governor 
+
+· Using Profiler tracing performance related Details and trouble shooting
+
+· Implemented Failover Clustering with Merge replication for Instance to Instance.
+
+· 24*7 monitoring the performance of OS level as well as Database level in Dashboard format. 
+
+· Troubleshoot issues like Blocking, High CPU, Log & Data file growth etc.
+Environment:  SQL server 2008 R2 Enterprise Edition, Windows server 2008 R2, VMware Esxi 5
+PERSONAL DETAILS
+Date of Birth
+
+: 11 June 1987
+
+Language
+
+: English, Telugu, Tamil, Hindi and Malayalam.
+Nationality
+
+: Indian
+
+PAN Card
+
+: AOFPR3945A
+
+Passport/Visa 
+
+: (Having with U.S B1 VISA)
+I consider myself familiar with IT Industry as Software Engineer. I am also confident that I can work in a team with motivation and Spirit. Every information provided in this document is true to the best of my knowledge.
+
+Date: 
+
+Place: Bangaluru
+
+
+
+
+
+
+     
+
+
+(Ramu.A)
+

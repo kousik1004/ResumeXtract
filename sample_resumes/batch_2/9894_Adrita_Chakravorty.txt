@@ -1,0 +1,348 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Adrita Chakravorty
+SharePoint Developer
+
+	Email id: adrita.chakravorty@gmail.com
+         Ph: +91 9986025986
+	
+	
+
+	Summary
+	
+	
+
+	
+	SharePoint Developer with 6.5 + years of experience and a Bachelor’s Degree in Electrical Engineering, from Pune University. Experience in developing custom SharePoint 2013 and 2010 applications. Vast exposure in Visual Studio 2010/2012/2013, C# and.NET 3.5 Framework.
+
+	
+	
+
+	Technical skills
+	
+	
+
+	
+	Software
+SharePoint 2013,SharePoint 2010, C# 4.0 Programming, .Net Framework3.5, Web Forms, HTML5/CSS3/JavaScript/AJAX/jQuery/Bootstrap and SharePoint custom solutions in CSOM, JSOM, REST API and SSOM, Microsoft Office 2007/2010.
+Familiar with: Java, C/C++
+Operating Systems
+Windows XP/Vista/Windows 7
+Database
+Microsoft SQL Server 2005/2008, Oracle 10g/11g PL/SQL
+Design Tools
+MS Visual Studio 2010/2012/2013
+
+
+	
+	
+
+	Experience
+	
+	
+
+	
+	
+First American India Pvt Ltd
+
+Project: Custom development for Migration from SharePoint 2010 to SharePoint 2013
+Role: Sharepoint2013 Developer
+Aug 2016 – present
+
+All the SharePoint sites hosted in SharePoint 2010 are getting migrated to SharePoint 2013 in our organization. Many of these sites have custom solutions and are developed using server side object model. In future these sites can be migrated to SharePoint online hence all the custom solutions needs to be redesigned so that during further migrations minimum code change will be needed. 
+
+Key Activities :
+
+Redeveloping InfoPath Forms as SharePoint hosted apps.
+Developed SharePoint hosted apps.
+Used JSOM and REST API for apps development
+Used Bootstrap for development of UI.
+Developed SharePoint 2013 Workflows.
+
+
+
+
+Project: Legal Documents Repository
+Role: Sharepoint2013 Developer
+Jan 2016 – Dec 2016
+
+This document repository site was developed for the onsite Legal Dept. for uploading, managing, editing and approving new Legal documents and archiving and retaining legacy documents. This application equipped the users to upload documents along with metadata which would then go through complex workflows and ultimately be archived according to the archiving rules set. 
+
+Key Activities :
+Developed SharePoint hosted apps.
+Used JSOM and REST API for apps development
+Used Bootstrap for development of UI.
+Developed SharePoint 2013 Workflows.
+Design manager to change look and feel of Master page.
+
+
+Project: DMS Application
+Role: Sharepoint2010 Developer
+Mar 2015 – Dec 2015
+
+This Document Management Site worked as a PDF publishing site. In the publishing site users uploaded Word, Excel or PowerPoint documents and these documents would get converted into PDF files and get published to another site. The published PDF files were disabled for saving and printing for security reasons. The application is used by thousands of users and several documents are uploaded to the system on a daily basis. On publishing failure the user receives an intimation about the failed document and reason of error. The documents are hosted in hierarchy of folders with each folder having unique permissions.
+
+Key Activities :
+Developed SharePoint event receivers and features.
+Developed custom Visual Studio workflows.
+Used Aspose dlls to convert word, excel and power point documents to PDF.
+Created custom visual web parts.
+Developed PowerShell scripts for one time activities.
+
+
+
+Trelleborg Sealing Solutions
+
+Project: T-Talk
+Role: Sharepoint2010 Developer
+Jan 2014 – present
+
+This portal is a collaboration platform which gets all the business users closer by sharing important information, knowledge, and news by various mediums like blogs, news articles and document repository. This portal hosts various tools and applications for automating certain processes.
+
+
+
+Key Activities :
+Worked with Agile model.
+Developed event receivers, web parts and features.
+Development in PowerShell scripts.
+Worked with JQuery and AJAX.
+
+
+Project: Training Administration
+Role: K2 Blackpearl Developer
+Mar 2014 – Aug 2014
+
+This application automates the training process where in the whole process starting from creating a training and selection process and finally inviting the attendees is automated .This application is hosted in the SharePoint portal T-Talk and it is developed in K2 blackpearl using workflows and K2 smartforms.
+
+Key Activities :
+Developed custom K2 blackpearl workflows in visual studio
+Developed K2 blackpearl smartforms
+Hosted the smartforms in SharePoint environment.
+Developed custom themes for the K2 smartforms.
+
+
+
+Tech Mahindra 
+
+Project: RoW Portal
+Role: .NET Developer
+SharePoint 2013
+Jan 2013 – Aug 2013
+
+This application is a document management system for various Business Units and Sub Units and
+developed on SharePoint 2013.There are various content types for each BU which has been incorporated by using Content Type Hub. Managed Metadata Services and content search web parts and power shell scripts have been used to deliver more functionality.
+
+Key Activities :
+Developed different functionalities for the Portal using PowerShell scripts.
+Worked on Content type Hub in SharePoint 2013.
+Created and maintained batch files for various developments in the Portal.
+Responsible for creating and maintaining Design documents and Release notes for each deployment.
+
+	
+	
+	
+
+
+
+
+	
+	Project : Application Trust Centre
+Role :SharePoint Developer
+SharePoint 2010,Sharepoint Designer 
+Mar 2012 – Dec 2012
+
+This application targets to manage the Security Testing life cycle of various applications. It stores required details of applications and tracks each phase undergoing Security Testing. It also incorporates functionalities such as report generation and dashboards for tracking the defects and to be shared with clients.
+
+Key Activities :
+Designed and developed custom SharePoint 2010 Web Parts, Workflows, Event Receivers.
+Developed custom SharePoint 2010 applications using SharePoint Designer ,Visual Studio .NET
+Tested and documented all changes made to the Portal.
+Created, designed new sites for the specific functions and managed user groups and permissions.
+Worked with Master Pages, Java Script, AJAX and CSS.
+Responsible for back-up and restoring of the SharePoint Server.
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	Project : VHA Portal
+Role: .NET Developer
+ASP.Net 3.5, C# 4.0 Programming
+Jan 2011 – Feb 2012
+
+This portal is a document management system and also automates various processes for generation of daily reports. Different web parts are used for holding the content on pages.BCS and Excel services are used to enhance the functionalities of the portal.
+
+Key Activities :
+Designed, Developed and maintained VHA Portal using ASP.NET, C#.
+Actively participated in the Live Deployment of Portal on Intranet and Internet.
+Written Stored Procedures,  Triggers, Views and created Database Tables  using SQL in SQL server 2005/2008
+Responsible for Testing, Fixing bugs, and troubleshooting technical problems.
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+	Education
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+		Degree
+	Specialization
+	
+	Board/University
+	Percentage
+	Year Of Passing
+
+	B.E
+	Electrical
+	AISSMS IOIT, Pune
+
+	Pune University
+	63%
+	2009
+
+	12th
+	Science
+	Vidya Bhavan Junior College, Pune
+	Maharashtra Board
+	81.8%
+	2005
+
+	10th
+	Science
+	Notre Dame Academy Patna
+	CBSE
+	82%
+	2003
+
+
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+	Academic Projects
+	
+	
+
+	
+	Designed and developed an Accurate Fluid Flow Meter based on 32 –bit ARM Processor with hardware controlled by an Embedded System.
+Paper presentation on Web Enabled Energy Meters in presence of esteemed representatives from Pune University.
+A mini project on Solar Water Purifying unit for small scale water purification.
+
+	
+	
+
+	Achievements
+
+	Received Star of the Quarter Award in year 2016 in First American India Pvt Ltd.
+Secured 2nd Rank out of 120 students in T.E Electrical in AISSMS IOIT, Pune University.
+Awarded 2nd position in F.E for Project Presentation.
+Active member of the Renewable Energy Club in AISSMS IOIT.
+
+
+
+	Personal Profile
+
+	Languages Known : English, Hindi, Bengali, Marathi
+ (
+B202
+, 
+Vandana
+ Earls Court,
+VGP Layout, Kudlu Main Road,
+Bangalore- 560068
+)DOB : 25th November 1987
+Contact Address:     
+
+
+	
+	
+	
+	
+	
+
+
+
+

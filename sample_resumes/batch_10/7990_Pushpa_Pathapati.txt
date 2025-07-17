@@ -1,0 +1,274 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pushpa Pathapati
+E-Mail-ID: pushpacspathapati91@gmail.com                                            Mobile-No:+91- 9036513361
+
+Experience Summary
+
+· 5.7 years of experience in Software Testing, Development and Maintenance with solid understanding of Test planning, Test Design, Test execution and Defect reporting &Tracking.
+· Well versed with the software testing and development life cycle.
+· Well versed in Testing Methodologies like Functional, Regression, System Integration (SIT) and UAT.
+· Good experience in designing and execution of Test Cases & Bug life cycle, understanding of Test Plan.
+· Participated in Defect Management and Bug Reporting.
+· Well versed with the defect tracking tools like Quality Center, Application Lifecycle Management.
+· Have Real time experience from the store front end (Genesis, Sterling) and back end perspective.
+· Working in Payments and Cards Systems - VISA, American Express, Synchrony, Discover, Master credit and Debit cards. 
+· Expertise in Switch (Base 24 and Omni) and Auth Validation for different channels such as POS, DP,.COM, Android and IOS.
+· Specialized in Card Processing system which includes Settlement, Transmission, Funding and Re-conciliation process for the respective card issuers/acquirers in real time through Connect Direct and Ftp. Have 08 months of work experience in PeopleSoft - HR and Finance applications such as General Ledger, Accounts Payable, Beqom.
+· Have worked on Tokenization Project for the cards and have very good exposure to different applications like Credit/Debit cards, Gift Cards, E-Signature, Chargeback Management and Return Cheques.
+· Having comprehensive System Development Life Cycle (SDLC) experience in IBM Mainframes and Ab Initio - ranging from Requirement Analysis, Design, Application Maintenance, Functional Studies, Quality Reviews, and Implementation. 
+· Having proficient experience in COBOL, AB Initio(ETL), UNIX, JCL, VSAM, DB2, MQ Series, Native SQL Stored Procedures and REXX, Web testing.
+· Worked on both Waterfall and Agile software development methodology. 
+· Work experience includes various platforms of Mainframe – 
+· Batch, Online and Native SQL Stored Procedures.
+· Changeman tool, MQ-Series, File-Aid, On- Demand, Control-M tool, Zeke.
+· Having different Real time domain experience includes Banking and Financial Services, Retail Banking.
+
+
+Career Objective
+· Dedicated and disciplined professional, seeking the position of Software Engineer, to contribute to the company's growth and in turn ensuring personal growth within the organization. I believe that my technical, functional and communication skills will enable me in facing the challenging career ahead.
+
+
+	Education
+
+	
+	
+
+	Year     
+	Degree     
+	Subject                       
+	Institute                                              
+	Grade        
+
+	2012
+	BE         
+	Computer Science       
+	Sir M. Visvesvaraya Institute
+of Technology ,Bangalore
+	71.60%
+
+	2008
+	PUC        
+	MPC                          
+	Rayalaseema Junior college, Tirupathi
+	84.40%
+
+	2006
+	SSC                                        
+	 
+	R.R.High School, Tirupathi
+	84.50%
+
+
+
+	Technical Skills
+
+	Hardware / Platforms
+	IBM 3390 Mainframe, UNIX
+
+	Programming Languages
+	COBOL, SQL, REXX, Native SQL Stored procedure , MQ Series and JCL
+
+	Databases
+	DB2, Teradata 
+
+	Scripting language
+	UNIX 
+
+
+
+Organization:  JCPenney Services India Pvt Ltd
+
+Project Experience    
+Domain                        : Retail (Payments and Operation)
+Applications Used   : Mainframe, Teradata, Tandem COLT 
+Role                               : Individual Contributor
+Team Size                    : 5
+Test tools                     : Mainframe, SQL, IBM DB2, Unix, Teradata, Mainframes, JIRA, ALM
+Duration                      : November 2017 to till date
+
+
+Description:
+J. C. Penney Company, Inc. (doing business as JCPenney) is an American department store chain with 1,014 locations in 49 U.S. states and Puerto Rico. In addition to selling conventional merchandise, JCPenney stores often house several leased departments such as Sephora, Seattle's Best Coffee, salons, optical centers, portrait studios, and jewellery repair. The company has been an Internet retailer. Payment System constitutes of 2 main modules. 
+
+Authorization –
+
+Cardholder presents/swipes the card at the merchant place or uses it online. Authorization request is initiated by the merchant which is sent to the Acquirer. ​Acquirer receives the information from the merchant and passes it to the interchange. ​The interchange sends the information to the issuing bank.​The issuing bank approves or declines the transaction based on customer credit information.Cardholder presents/swipes the card at the merchant place or uses it online​. The response is then passed to the merchant through the acquirer.​Authorization is received by merchant.​If the transaction is approved, then the sales is complete.
+
+Settlement –
+Settlement – Outgoing
+All transactions (sales, returns, exchange etc.) are consolidated by end of day by the merchant. The merchant finalizes the settlement amount for each acquirer. The amount is then passed on to the acquirer who forwards it to the interchange. JCP sends out settlement on a daily basis to these acquirers.  BAMS (Visa, MasterCard, AMEX, Discover), GE (PLCC and Dual Card), xPayPal
+Settlement : Incoming – 
+Interchange consolidates the details (fees, charges etc.) for each merchant. The Acquirer receives and passes the details to the merchant. The merchant receives the incoming amount details, the difference of it with outgoing is credited to the merchant’s bank. JCP receives incoming settlement from these interchanges/acquirers. BAMS (Visa, MasterCard), GE (PLCC and Dual Card), Amex & Discover, PayPal, SVS (jcp Gift card)
+
+Roles and Responsibilities:
+
+· Worked extensively in the requirement review, Test planning and execution
+· Helped the team members for efficient task execution and for meeting the time deliverables.
+· Reviewed the test scenarios and Test cases.
+· Executed the transactions on Store/Point of Sale (POS) and validated the payments in COLT/Teradata using SQL queries. Executed the Batch Jobs in Mainframe and generated the settlements for different tender’s like BAMS, PLCC, DUAL, Gift and Check on daily basis. 
+· Executed SQL queries using Teradata and Tandem COLT.
+· Posted the issues and tracked them in HP ALM/JIRA
+· Interacted with BA & Dev teams as well as involved in test traceability matrix
+· Placing Orders via Stores/DP and validated the reward points/certificates are assigned in Epsilon
+· Triggered Emails/ messages using XMLs via Hermes/SOAP UI.
+· Conduct 5+ levels of testing including functional, regression, user acceptance and integration to verify the client’s needs are met.  
+Organization: Lowe’s Services India Pvt Ltd.
+Project Experience
+Project #1 
+
+Project Title           	Payment Solutions 
+Domain 	            Retail Banking
+Team Size               	20		
+Role			Tester
+Period			Feb 2016 – Nov 2017
+Tools:			Teradata SQL Assistant, HP ALM, Zeke, Endeavor
+Mainframe skills	COBOL, JCL, DB2, REXX, MQ Series and File-Aid 
+
+
+Project Description: 
+
+Lowe's Companies, Inc. is an American company that operates a chain of retail home improvement and appliance stores in the United States, Canada, and Mexico. Founded in 1946 in North Wilkesboro, North Carolina, the chain has 1,840 stores in the United States, Canada, and Mexico.
+
+Tokenization project is adding continuity to the series of activities to assess and enhance Lowe’s payment card data security posture with focus on implementing additional security measures. Currently, there are multiple applications in Lowe’s environment which transmit process and store card holder data. Moreover, card holder data at rest has longevity of 5 years or more in some of the systems and runs into 500 million records. This information resides in multiple applications and systems which are deployed in Stores, a Third Party Data Center and Lowe’s Data centers.
+
+Role and Responsibilities
+· Studying the business requirements and analyzing the specifications provided by domain experts.
+· Send the Settlement files which consists of transactions happens at Lowe’s store to respective card issuers for validation.
+· Receive the funding files from respective acquirers and perform the funding and re-conciliation process.
+· Developing the project according to the client requirements.
+· Handling the queries of team members and resolving issues.
+· Working on required analysis, test case designing and test execution.
+· Analyzing, tracking and resolving the bugs found during the process and reporting it to the concern department.
+· Ensuring domain experts requests are suitably addressed, Coding Standards are followed & code optimization for performance issues, code review or different phases of projects life cycle.
+· Enhancement of various Cobol-DB2 programs.
+· Creation of Detail level design documents and TOSSG documents. 
+· Provides SIT & UAT support.
+· Conducted walkthrough’s with the BA, Architect, lead and Manager.
+Organization: Cognizant Technology Solutions
+Project Experience
+Project #1
+Title 			ODS
+Client 			Capital One Bank (U.S.)
+Domain			Banking and Financial Services
+Methodology		Agile(SCRUM, Kanban)
+Operating System	OS 3390 
+Mainframe skills	COBOL, DB2, Native SQL, MQ Series, File-Aid, ChangeMan, On-Demand and Control-M
+Team Size 	4
+Role	Mainframe Developer & Tester
+Period	Jun 2013 – Jan 2016
+
+Project Objective
+
+ODS is an Information-Integrated hub that contains current data and minimal historic data, which 
+Facilitates real time transactions and Operations.
+
+Project Description
+ODS database is accessed for read purpose to some extent, Insertion and updation happens in ODS 
+Database. ODS database is accessed either by batch process or by real-time process i.e. online process 
+using native SQL Stored Procedures. It includes projects on audit logging, apple pay. 
+
+Role and Responsibilities
+· Participate in all Agile Ceremonies – Standup, Sprint Planning, PSI planning, Retro & DEMO
+· Saved 2000$ as part of performance improvement by implementing DB2 Merge across ODS applications.
+· Development of various COBOL-DB2 programs and participating in all the production implementations.
+· Follow Agile Software development Methodology – SCRUM
+· Implemented Native SQL stored procedures using XML inputs. 
+· Co-ordinate Agile training for the ODS portfolio.
+· Worked on MQ Series to fetch the data from the queue and insert into DB2 tables.
+· Created REXX tool to unload the data from DB2 tables which contains XML columns and load back into table.
+· Preparing DLD and TOSSG documents.
+· Involved in System testing.
+· Provided UAT support.
+Project #2
+
+Title 			EDS
+Client 			Capital One Bank (U.S.)
+Domain			Banking and Financial Services
+Methodology		Agile(SCRUM, Kanban)
+Operating System	UNIX
+ETL Tool		Ab Initio
+Scripting		UNIX Shell Script
+Team Size 		4
+Role			ETL Developer 
+Period			Jan 2015 – Jan 2016
+
+
+Project Objective
+
+The Objective of Tetris Audit logging project is to extract standard as well as transactional data elements from UPF Oracle database. During this process, creates clean, Split LR files and LR files and loads the data to two Teradata tables.
+
+Role and Responsibilities
+
+•	Follow Agile Software development Methodology - SCRUM
+•	Participate in all Agile Ceremonies – Standup, Sprint Planning, PSI planning, Retro & DEMO.
+•	Analyzing the requirements of targets.
+•	Providing the estimates to the client.
+•	Development of various kinds of ETLs like graphs, wrappers, test data.
+•	Preparing the Unit test case documents to validate the code.
+•	Co-ordination with Onsite team on daily basis. With the onset of agile started attending the daily stand-ups with the client and interact with them and get the queries clarified.
+•	Provided Knowledge transfer sessions with in the team and regarding the new inventories. 	
+•	Delivered all the projects with zero defects.
+
+
+
+Personal Details
+
+Date of Birth		14-Aug-1991
+Marital Status		Single
+Languages Known	English, Hindi, Telugu, Kannada and Tamil
+Permanent Address	D/o P. Lakshmana Raju, Postal Colony, Rajarajeswari Nagar, Tirupathi-517501.
+Contact Number	9036513361
+
+
+
+

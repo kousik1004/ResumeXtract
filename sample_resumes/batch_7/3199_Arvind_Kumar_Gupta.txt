@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+G
+
+Arvind Kumar Gupta 
+                                                                                         
+#14,1st Floor, G N Residency, Wind Tunnel Road,             E-mail:  arvind.gupta1115@gmail.com
+ Murgeshpalya, Bangalore-560017                                  Mobile: +91-8147575312                                       
+
+Professional Summary:
+· 7.6 Years of IT experience with approx. 3 Years of Experience in developing Machine Learning and big data applications using scikit-learn, python, spark and Scala. 
+· Experience in developing Bigdata application using Spark and Scala.
+
+· Experience in Unix Shell Scripting.
+· 5 Years of Experience in telecom software testing.
+· Experience in different phases of SDLC like designing, development, review, testing and maintenance.
+
+· Experience in different tools like JIRA, git, svn.
+Professional Experience:
+Working as Senior Software Engineer in Tecnotree Convergence Pvt. Ltd, Bangalore Since May 2015 to till date.
+Worked as Software Engineer in Huawei Technologies India Pvt. Ltd. Bangalore Since April 2011 to April 2015.
+Technical Skills:
+· Programing Language: Python, Scala
+· Scripting: Unix Shell
+
+· Tools: SVN, JIRA, GIT
+· Database Technologies: PL/SQL, Mongodb, Cassandra
+
+· Operating Systems: LINUX, Ubuntu, Windows 7/10
+· Domains: Application Development, Big Data and Machine Learning, NGIN Service, Telecom Charging, BSS Express Business Dashboard, NGCBS.
+Education: 
+B.Tech. (ECE) from Siliguri Institute of Technology WBUT, West Bengal with 77.10% in 2010.
+
+Completed Nanodegree in Machine Learning from Udacity.
+Completed Nanodegree in Deep Learning from Udacity.
+Projects Profile:
+Company: Tecnotree Convergence Pvt. Ltd.
+Project: Recommendation System
+Client: MTN Nigeria 
+Project Abstract: This recommendation system will recommend different kind of offers to a subscriber which will be close to offers of their interest or which they are most likely to buy.
+Responsibilities:
+· Involved in writing Machine Learning Model.
+· Involved in writing code for Data Mining.
+· Involved in Testing and Bug Fixing.
+
+OS Used: LINUX
+
+Tools Used: JIRA, GIT
+
+Packages: Anaconda, Spark, scikit-learn
+
+Language used: Python, Scala
+Project: Churn Prediction Model
+Client: Mauritius Telecom
+
+Project Abstract: Churn Prediction Model is a Machine Learning solution used to predict
+
+the probability of subscribers who are likely to cancel their service. 
+
+The Churn predictor algorithm intend to learn the usage pattern of the subscribers for a specified months and then learn the pattern through Supervised Machine Learning technique and use the model to predict by understanding the pattern for same number of specified months.
+Responsibilities:
+
+· Involved in writing Machine Learning Model.
+· Involved in Testing and Bug Fixing.         
+
+OS Used: LINUX
+
+Tools Used: JIRA, GIT
+
+Packages: Anaconda, Spark, scikit-learn
+
+Language used: Python
+Project: NGCBS (Next-Gen Convergent Billing System)
+Client: MTN-Iran
+Project Abstract: Tecnotree Agility Next-Gen Convergent Billing is an integrated, carrier-grade product providing the discerning Communications Service Providers (CSPs) with a flexible, high performance and functionality rich billing & revenue management solution. It is the ideal all-in-one product for CSPs who are looking to address, in a cost effective way, the demands of today’s rapidly expanding digital marketplace, providing functions ranging from rating to billing, collections to debt management.
+Responsibilities:
+
+· Involved in developing new features and enhancing existing features.
+· Involved in Bug Fixing.         
+
+OS Used: LINUX, Ubuntu
+Tools Used: JIRA, GIT, Jenkins
+
+Packages: Spark
+
+Language used: Scala
+Project: BSS Express Business Dashboard
+Client: Ukkoverkot
+Project Abstract: The Business Dashboard is an information management tool that enables users track relevant KPIs, and business metrics relevant to a business, department, process or products (as applicable). The metrics can roughly be divided in these segments: Revenue, Products, Customers and Service Usage. These dashboards present a simplistic visual summary of key trends, comparisons, current status of key data points relevant to a business - all in a single screen, to help users make better informed decisions.
+Responsibilities:
+
+· Involved in project development.
+· Involved in Unit Testing and Bug Fixing.     
+Tools Used:  DTF, Rest-client to test Rest APIs.
+Env. : Red Hat Linux, Mongo DB, Apache Kafka, spark and Cassandra
+Languages: Python, Unix shell scripting
+Project: RTCC
+Client: Claro_Peru, Claro_CA
+Project Abstract: Real-Time Convergent Charging (RTCC) is a charging and balance management platform. It is designed to address the challenges of charging subscribers for standard and value-added services. It enables the operator to charge all subscribers including pre-paid, post-paid and mixed mode/hybrid for all usage and subscription based services using single platform. It also enables the operator to track usage of post-paid services in real time; thus reducing the chances of revenue leakage and credit misuse.
+Responsibilities: 
+· Executing simulated testing using seagull for diameter call flows.
+· Provisioning testing for the subscribers in different portals and backend soap APIs.
+
+· Generated test cases as per Use cases defined in product requirement documents.
+
+· Involved in analyzing requirements and preparing Succession Analysis and test strategy.
+
+· Detecting, Classifying and Reporting Bugs through JIRA
+
+Tools Used:  Seagull, SOAPUI
+
+Env. : SuSe Linux 10, Oracle 11g, PL/SQL.
+
+Languages: Unix shell scripting, PL\SQL
+Protocol Area : DIAMETER, SOAP
+Company: Huawei Technologies India Pvt. Ltd.
+Project1: NGIN-VPN Solution (Jan 2013 to April 2015)
+Client: Telefonica Ecuador, Telefonica Movistar Venezuela, Chile Nextel
+Project Abstract: The NGIN VPN Solution which provides many VPN features like Private Number dialing, on-net calls, off-net calls, National and International Roaming Calls, C2C calls etc. for Voice, SMS, MMS and GPRS Service with Charging integrated to OCS and  Provisioning of  Customers is done through VPN portal created for users having different access level.
+Responsibilities:
+
+· Provision the subscriber’s data in VPN Portals and do service configuration through I2000 portal and then perform service call using simulation tool like SSP Tool or Isimular.
+· Service call flow testing from MSC to SCP (IN), VLR, HLR and from SCP to OCS.
+
+· Tested different VPN features for different customers.
+
+· Design and Execute Automation test script for both service and provisioning testing in TMSS.
+· Performed Functional, Automation and Regression Testing.
+
+· Performed migration testing.
+· Involved in analyzing requirements and preparing Succession Analysis and test strategy.
+
+Env. : SuSe Linux 10, Oracle 11g, PL/SQL.
+Tools Used: SOAPUI, TMSS with Autospace, Isimular
+
+Protocol Area: CAP, INAP, MAP, SOAP, DIAMETER
+
+Project2: NGIN-VPN Solution (April 2011 to Dec 2012)
+Client: Telefonica Central America, Chile Claro, Czech Telefonica O2
+Project Abstract: The NGIN VPN Solution which provides Voice and SMS Service with different VPN features like VPN call screening, Private Number dialing, on-net calls, off-net calls, National and International Roaming Calls, C2C calls etc. 
+Responsibilities:
+
+· Performed Performance testing using load space (load runner) in order to benchmark different SOAP APIs.
+
+· Service call flow testing with CAP, INAP, MAP protocol.
+
+· Generated test cases as per Use cases defined in product requirement documents.
+
+· Functional, Automation and Regression Testing.
+
+· Detecting, Classifying and Reporting Bugs through DTS.
+Env.: SuSe Linux 10, Oracle 11g, PL/SQL.
+
+Tools Used: SOAPUI, TMSS with Autospace, Isimular
+
+Protocol Area: CAP, MAP, TUXEDO, SOAP

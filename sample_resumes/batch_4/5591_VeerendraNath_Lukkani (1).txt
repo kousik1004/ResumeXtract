@@ -1,0 +1,244 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+                                                                  RESUME
+
+VeerendraNath Lukkani                                                               veerendranathslv3@gmail.com
+
+
+
+
+
+
+
+                       
+     +91- 9951460945
+                                                          
+
+
+
+
+ 
+· Having around 2.8 years experience in Java programming
+· Experienced in working with various Java Integrated Development Environments like  Eclipse and STS
+·  Having good working experience in Spring  Framework
+
+·  Having good working experience in Hibernate Framework
+
+· Having good working experience in J2SE
+· Experience with Web Services
+· Hands on Experience in using Design Patterns such as MVC and web development frameworks such as spring.
+
+· Build all database mapping classes using Spring  models with the help of ORM like Hibernate, JPA.
+· Good knowledge of converting unstructured data like logs to structured data using components like Filebeats & Logstash with GROK scripting 
+
+· Deep understanding of HTTP methods, RESTful architecture.
+
+· Experience in Application Development and Object Oriented Programming Analysis and Design (OOAD).
+
+· Proficient in SQL databases MySQL, PostgreSQL, Oracle and MongoDB.
+
+· Good knowledge in maintaining various version controls systems such as GIT, SVN, CVN and Source Tree.
+
+· Displayed and proved capability to learn any new technology or API and work on it.
+
+· Flexible, able to work effectively in a team environment or as an individual Contributor and Problem Solving Skills.
+
+· Working as Software Engineer in SB Technology Services Pvt. Ltd., Hyderabad, from Dec 2015 to till date.
+
+
+· Bachelor of Technology in ECE from RSR Engineering College, affiliated to JNTU Ananthapur, in April 2015.
+.
+
+· Intermediate (MPC) from Chaitanya Junior College, Kavali in March 2010.
+
+· SSC from Sri Vidyanikethan High School, in March 2008.
+	Skill Set
+
+
+  Programming Language                     :    Core java, J2EE, Python
+  Database Management Systems      :   PostgreSQL, MySQL, MongoDB
+  Scripting Languages
+               :   Java Script, HTML, XML
+  Frameworks                                           :   Spring, Hibernate ,JPA, Web Services, Django, Flask
+  Repository tools      
+
+               :   GitHub, SVN.
+  Servers
+
+
+
+ :   Tomcat
+	Projects Summary
+
+
+Project #5:
+May 2018 –Till date                                      SB Technology Services Pvt. Ltd., Hyderabad
+Project Title
+:  “Log File Analytics” 
+Designation     :  Software Engineer 
+Environment    :  Java, Spring Boot, PostgreSQL, Filebeat, Logstash.
+Description:
+
+          Collect log or transaction data want to analyze and mine this data to look for trends, statistics, summarizations, or anomalies. In this case, using Logstash (part of the PostgreSQL/Logstash/Filebeat) to collect, aggregate, and parse data, and then have Logstash feed this data into PostgreSQL. Once the data is in PostgreSQL, searches and aggregations to mine any information that is of interest showing graphs.
+
+Responsibilities: 
+
+· Responsible for end to end design
+
+· Responsible for complete end to end development of dump data Log files to postgreSQL and using Spring framework for APIs for showing statistics & summarizations.
+Project #4:
+
+December 2017 – Till Date                                         SB Technology Services Pvt. Ltd., Hyderabad
+Project Title
+:  “TASA ECHS: Appointment Booking”  
+Designation     :  Software Engineer 
+Environment    :  Java, Spring Boot, PostgreSQL, Android, AngularJS.
+Description:
+
+          Enable ECHS beneficiaries to book an appointment online with doctor/ dentist/ physiotherapist in polyclinics of Telangana, Andhra Pradesh and Gulbarga (Karnataka).
+Responsibilities: 
+
+· Responsible for developing the REST Apis which listen the mobile requests and process the requests
+Project #3:
+
+Oct 2017 – Jan 2018                                      SB Technology Services Pvt. Ltd., Hyderabad
+Project Title
+:  “E-Search” 
+Designation     :  Software Engineer 
+Environment    :  Java, Oracle, Spring Framework.
+Description:
+
+          Online web store where you allow your customers to search for products that you sell. In this case, you can use E-Search to store your entire product catalog and inventory and provide search and autocomplete suggestions for them.
+Responsibilities: 
+
+· Responsible for end to end design
+
+· Responsible for complete end to end development of dump data oracle database to Elastic Search
+Project #2:
+
+Jun 2016 – Till Date                                        SB Technology Services Pvt. Ltd., Hyderabad
+Project Title
+:  “GoShpEz” 
+Designation     :  Software Engineer
+Environment    :  Java, PostgreSql, Spring Rest API, Android, IOS.
+Description:
+
+Shop Socially - allows you to share your shopping list with friends to cut down on store trips.
+Shop Smart - Builds your favorite local shopping stores. Alerts when your family and friends are in their favorite store or related shopping so you can share your list with them. Suggests baseline price of the product.
+
+Responsibilities: 
+
+Phase I (APIs Development using Java)
+
+· Developed new apis for the new features called Recommendations, Referrals.
+
+Phase II (Maintenance)
+· Involving in maintenance of the Content-Store module which were in JAVA
+Project #1:
+
+Dec 2015 – May 2016                          SB Technology Services Pvt. Ltd., Hyderabad
+Project Title
+:  “Request Management” 
+Designation     :  Trainee Software Engineer 
+Environment    :  Java, oracle, Spring Framework
+Description:
+
+          Online Complaint Management System provides the general public, an online way of registering a complaint to the public, regarding any problem they face. In the proposed system the citizen need not go to the government office for getting his problem solved. Rather he can log a complaint through the designed online portal saving a lot of time. The objective of the complaints management system is to make complaints easier to coordinate, monitor, track and resolve, and to provide company with an effective tool to identify and target problem areas, monitor complaints handling performance and make business improvements.
+Responsibilities: 
+
+· Responsible for end to end design
+
+· Responsible for complete end to end development of APIs using Spring Framwork
+	Personal Details
+
+
+ Name
+
+
+:  Lukkani VeerendraNath
+ Date of birth   
+: 5th July 1993
+ Place
+
+
+: Hyderabad
+ Hobbies
+
+: Playing Cricket
+	Declaration
+
+
+
+I hereby declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particulars.
+Date:                
+
+               
+
+
+
+         L VeerendraNath
+Summary �
+�
+ 
+
+
+
+Experience�
+�
+ 
+
+
+
+Educational Profile �
+�
+ 
+
+
+
+
+

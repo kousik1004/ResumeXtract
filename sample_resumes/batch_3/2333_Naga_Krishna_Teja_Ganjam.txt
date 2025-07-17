@@ -1,0 +1,276 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Naga Krishna Teja Ganjam
+
+Email ID: tejaganjam@gmail.com
+Contact No. +919505988926
+
+Career Objective
+
+To get a challenging position where I can put all my experience and knowledge to give a significant growth to the organization.
+
+Career Summary
+
+· Having  IT experience in development of web based applications using Java, J2EE Technologies
+
+· A logical, analytical thinker with excellent managerial skills possesses 3+ experience as a Database Developer and Database Administrator.
+
+· Extensive experience in writing stored procedures, functions and views.
+
+· Extensive experience in writing and tuning complex sub queries, SQL, PL/SQL stored procedures, functions, and triggers.
+
+· Experience in requirement analysis, coding and testing various modules in a software development life cycle.
+
+· Expertise preparing report specifications and database designs to support reporting requirements.
+
+· Good experience in PL/SQL and ETL scripting and query optimization.
+
+Personal Qualities
+
+· Strong logical and managerial skills.
+
+· Ability to produce the best result in pressure situations.
+
+· Unmatchable communication skills in writing and verbal both.
+
+· Ability to work individually as well as in the Group.
+
+Technical Skills
+
+Java Technologies: JDBC
+Client Side Scripting: Java Script
+Database: Oracle 11g/10g/9i/8i, SQL Server 2008, MS Access, Informix
+Languages: SQL, PL SQL, Oracle Developer 2000, C, Java, C#.NET
+Operating Systems: Windows95/98/2000/NT, MS DOS, UNIX
+Other Tools: TOAD, SQL Loader, SQL Plus, Query Analyzer
+
+Key Responsibilities Handled
+
+· Created Oracle Tables, Views, Constrains, Synonyms, Sequences.
+
+· Managed performance and tuning of SQL queries and fixed the slow running queries in production with utilities like Explain, Trace, and Stored Outlines.
+
+· Developed complex reports: multi-functioned, leveled and grouped, summary functionality in main reports providing detailed drill down through On Demand Sub-reports, dynamic link labeling, complex functions, cross-tabs, charts, shared variables, imported parameters and record sets from stored procedures, conditionally suppressed sections, error handling/messaging, clean and attractive designs, user friendly with instructional ToolTips.
+
+· Worked with team on customizing the abilities of Crystal Enterprise such as exporting, previewing, printing and emailing reports.
+
+· Load the data from MS Excel to Oracle Table and Oracle table to MS Excel.
+
+· Loaded the data using the SQL loader, Imports & UTL files based on file formats.
+
+Achievements
+
+· Presented many papers to many universities on database management.
+
+· Received many awards and appreciation for the excellent work.
+
+Employers
+
+· Working as as a Software Engineer with  Ecentric solutions Pvt Ltd, Hydrabad  since  April 2015 to till date..
+
+· Worked as Software Engineer in Astute Capital solutions Pvt Ltd, Hydrabad   from 2014 - 2015.
+
+Academia
+
+· B.Tech (Electronics and Communication) from Vignan University  Vadlamudi with 66%.
+Personal Details
+
+Languages Known: Hindi, English,Telugu
+Address: 11-4-7/1,Donkaroad,chenchupet,Tenali
+Project Details
+
+Project: EPIC (AADHAAR Seeding Portal)
+
+eCentric Solutions, Paradigm IT Group.
+
+Platform: Java, Sql Server, Oracle EXADATA  
+
+EPIC ( AADHAAR Seeding Portal)
+
+· Election Commission of India initiated the de-duplication of Electors database by seeding the AADHAAR against the EPIC card holders to weed out the fraudulent (Duplicates, Bogus, Ineligible and shifted) Voter Card holders from the existing Electors database.
+
+Responsibilities:
+· Installing and upgrading the database server and application tools.
+
+· Allocating system storage and planning future storage requirements for the database system.
+
+· Modifying the database structure, as necessary, from information given by application developers.
+
+· Enrolling users and maintaining system security.
+
+· Maintaining Database, by taking frequent backups to avoid data loss.
+
+Environment
+: SQL Server 2008, Oracle EXADATA.
+Team size  
+: 6
+
+Role
+
+: Database Developer and Administrator
+Duration
+: 2015-17
+Project: SRDH (State Resident Data Hub) Govt. of Andhra Pradesh)
+
+eCentric Solutions, Paradigm IT Group.
+
+Platform: Java, Sql Server , Oracle 11 G, Oracle EXADATA
+
+SRDH (STATE RESIDENT DATA HUB) GOVT. OF ANDHRA PRADESH)
+
+· AP IT&C department initiated the State Resident Data Hub (SRDH) Project to maintain the consistency, efficiency, and transparency to the citizens. Inconsistency in citizen data collection and verification by departments .Duplication of efforts by departments for data collection and verification. Inconsistency in citizen data collection and verification by departments.
+· Duplication of efforts by departments for data collection and verification. Manual process leads to time consuming, data duplication and is error prone No uniform solution to identify the fraud (duplicate, in-eligible, etc..) records.
+· AP IT&C Department proposes the APSRDH Framework as a solution Unique citizen database for AP Residents Govt. Schemes can be implemented in more efficiently and affectively 
+· Data Collection Interfaces to Create Unique Database Import the KYR and KYR+ data from the local database server Using the backup database file Remotely from the Registrar Database Store Collection of Departments Key fields Data Integration
+Responsibilities:
+· Installing and upgrading the database server and application tools.
+
+· Allocating system storage and planning future storage requirements for the database system.
+
+· Modifying the database structure, as necessary, from information given by application developers.
+
+· Enrolling users and maintaining system security.
+
+· Migration of all the departments data including UID data is a major role in the project. It is also a backbone to the project in such a way of providing a common platform of all the departments including UID data.
+
+· Maintaining Database, by taking frequent backups to avoid data loss.
+
+Environment
+: SQL Server 2008 , Oracle 11g , Oracle EXADATA
+Team size  
+: 10
+Role
+
+: Database Developer and Administrator
+Duration
+: Currently working 
+
+Project: Application for ATR ( Action taken Report) – RD NREGA
+
+              Application for Data entry – RD NREGA
+
+             Application for Call centre– RD NREGA
+
+eCentric Solutions, Paradigm IT Group.
+
+Platform: SQL Server 2008
+
+· AP Rural development department initiated this Project to maintain the consistency, efficiency, and transparency to the NREGA beneficiary’s \data collection and verification. 
+Responsibilities:
+· Modifying the database structure, as necessary, from information given by application developers.
+
+· Enrolling users and maintaining system security.
+
+· Maintaining Database, by taking frequent backups to avoid data loss.
+
+Environment
+: SQL Server 2008 
+Team size  
+: 6
+
+Role
+
+: Database Developer
+Duration
+: 2015-17 
+
+Project: REGISTRATION & STAMPS DEPARTMENT  (IGRS) GOVT. OF ANDHRA PRADESH
+
+eCentric Solutions, Paradigm IT Group.
+
+Platform: Java, ORACLE
+
+· The "Registration & Stamps Department" is one of the oldest wings of the Government. The project of computerizing the services of the department was originally conceived in August 1996 and implemented at two test sites in August / September, 1997. Judging the project by its initial success and the immense potential it has in transforming the concept of public service, the Government decided to replicate it all over the state.Thus began an intensive and dedicated effort which is now the watchword of the Department.
+
+Responsibilities:
+· Migration of IGRS data from My SQL to Oracle and supporting the other team members in the project with 
+
+· Modifying the database structure, as necessary, from information given by application developers.
+
+· Enrolling users and maintaining system security.
+
+· Migration of all the departments data including UID data is a major role in the project. It is also a backbone to the project in such a way of providing a common platform of all the departments including UID data.
+
+· Maintaining Database, by taking frequent backups to avoid data loss.
+
+Environment
+: ORACLE 11 g
+Team size  
+: 4
+
+Role
+
+: : Database Developer and Administrator
+Duration
+: 2015-17 
+Project  worked in Astute Capital Solutions
+Title                                   :  Anti Money Laundering
+Client
+
+              :  Capital Local Area Bank.   
+
+Environment                   :   JavaScript, JDBC, Java.
+Database       
+              :  PostgreySQL.
+
+Server       
+              :  Tomcat.
+Role                                   :  Developer.
+Description:
+
+           The Anti  Money Laundering (AML) AML is an enterprise scale real time monitoring & surveillance solution for financial services organizations like retail banksbanks, hedge funds, brokerage houses, insurance companies etc.  AML's rule based surveillance engine monitors current transactional data ,non-transactional data (KYC), and historical data for suspicious trading patterns. It covers a broad range of asset classes & transaction types like Banking transactions (ATM, Switch, POS etc), Treasury/Trading transactions (Equities, Fixed Income, FX, Derivatives, Swaps, Commodities etc). 
+
+	Roles & Responsibilities :
+
+
+· Coded web components using JSP,JavaScript.
+· Presentation done by using JSP.
+· Implemented the JSP and JavaScript  to design the user-friendly front-end screens.
+· Writing validation rules  as per the business requirements.
+· Developing the project assigned depending on the functionality document. 
+· Involved in various phases of the project
+
+

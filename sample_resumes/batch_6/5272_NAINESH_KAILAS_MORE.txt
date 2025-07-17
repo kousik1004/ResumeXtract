@@ -1,0 +1,205 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Resume-Nainesh_More.docx
+
+
+ 
+NAINESH KAILAS MORE 
+
+ 
+ 
+Cell No: +91-9403112656 
+ 
+Email:naineshmore24@gmail.com 
+ 
+ 
+ 
+ 
+ 
+
+E X P E R I E N C E S U M M A RY 
+ 
+ 
+ 
+ Total 4 years of Experience in Oracle Database administration (9i, 10g, 11g, 12c).  
+ Hands on experience in maintaining multiple databases, having experience on high transactional databases.  
+ Hands on experience in all database maintenance activities for Oracle 9i, 10g, 11g and 12c.  
+ Hands on experience of Recovery Manager (RMAN), performed automatic full and incremental backup.  
+ Hands on experience in installation, Upgradation and migration of Oracle Databases in various versions of oracle on, Linux, 
+
+AIX and Windows platform.  
+ Hands on experience in Upgradation of databases from different versions of oracle to 9i, 10g, 11g & 12c.  
+ Expertise in Replication of data from one database to another database.  
+ Hands on experience in backup and recovery strategies through RMAN as well as manual.  
+ Expertise in oracle utilities like Export/import, /EXPDP/IMPDP.  
+ Expertise in Creating and maintaining standby Databases for single instance & RAC.  
+ Expertise in cloning of database, UAT refresh.  
+ Expertise database capacity planning.   
+ Hands on experience in Implementing and enforcing database security.  
+ Oracle RAC database Migration from Oracle 10g to 11g.  
+ Oracle RAC Database activities. Adding/Removing a node. 
+ Configuration and maintenance of ASM.   
+ Applying Opatch on Oracle single instance & RAC Database.  
+ Hands on experience in resolving user account issues.  
+ Hands on experience in maintaining partition tables in databases. 
+ Hands on experience in Transparent Database Encryption implementation and maintenance. 
+ Hands on experience in SQL Loader utility of oracle. 
+
+ 
+
+
+ 
+  A C E D E M I C S   
+ 
+     
+ Qualification Name of the College/University Year  
+
+ B.E. 
+Finolex Academy of Management and Technology, Ratnagiri / Mumbai 
+University 2012  
+
+ HSC Nav-Bharat Jr. College, Khed (Ratnagiri) 2006  
+ S.S.C L.P. English School, Khed (Ratnagiri) 2004  
+ 
+ 
+
+T E C H N I C A L S K I L L S 
+ 
+Skilled in the installation, configuration and administration of Oracle Golden gate for Oracle/ SQL Server on various platforms like 
+AIX, Linux, and Windows. 
+ 
+Experienced with a broad range of software, utilities and protocols, including the following: 
+
+ 
+ Databases –Oracle (9i, 10g,11gR1, 11gR2 and 12c)  
+ Networking - Telnet, FTP, DNS, ifconfig, SCP  
+ Office - Open Office, MS Office  
+ Tools  - OEM, RMAN, Sql Developer, TOAD 
+
+ 
+P R O F E S S I O N A L E X P E R I E N C E 
+
+ 
+CLOVER INFOTECH PVT LTD. 
+ 
+Organization Name: CLOVER INFOTECH PVT LTD, 2nd Floor,Dhana Singh Processors,Vazir Glass Lane, J.B. Nagar,Andheri- East, 
+
+   Mumbai400059 
+ 
+URL: http://www.cloverinfotech.com/ 
+ 
+ 
+Clover InfoTech is a leading technology services and solutions provider servicing organizations in Mumbai, Pune, Bangalore, Chennai and 
+Ahmadabad. 
+
+
+
+ 
+ Period: June 2013 to Till date. 
+
+ 
+ Designation: Technical Associate 
+
+ 
+ Responsibility: I am responsible for providing onsite support to client organization on behalf of clover for managing and 
+
+maintaining all database operations with predetermined SLA and timelines. My assignments include all day to day database 
+activities along with monitoring and troubleshooting and performing planned and unplanned activities on client’s request. 
+Additional Responsibility: Preparing monthly, quarterly & Process Documents. 
+
+ 
+ 
+
+CLIENT:   WORLDLINE INDIA PVT. LTD.          June 2013 To Till Date 
+ 
+
+Worldline India Private Limited provides end-to-end services for electronic transactions in India. It focuses on electronic payment 
+services for banks, merchants, and government institutions. The company offers acquiring managed services, including merchant signup and 
+activation; point-of-sale (PoS) terminal procurement, supply, and installation; and merchant training. Additionally, it provides credit, debit, 
+and prepaid cards application, issuance, and transaction processing; and currency conversion, fraud and risk management, and Internet and 
+mobile payment services. 
+
+Major Activities Performed: 
+ 
+
+ RAC installation and configuration 11g R2. 
+ Single node standby database configuration for multi node RAC databases on ASM. 
+ Database migration from 10g production database on windows to Oracle 12c on Linux environment with ASM storage. 
+ Oracle 10g/11g/12c Installation, Administration, Monitoring, Database Backup and Recovery  
+ Upgradation to oracle 10g, oracle 11g and oracle 12c. 
+ Oracle configuration: Configure listeners and other network parameters, configure oracle initialization parameters for different 
+
+instances according to their usage and load requirements. 
+ Create and manage tablespaces, indexes and physical storage structures like data files, redo logs, archive logs. Allocate and manage 
+
+logical storage structures like tablespaces, schemas and extents. 
+ Database Recovery using the physical and logical backups, familiar with RMAN backup and recovery. 
+ Creating and Managing Partition Tables. 
+ SQL query optimizing and performance tuning. 
+ Rebuild Index and Database Re-org. 
+ Transparent Data encryption (TDE). 
+ Creation and maintenance of DR. 
+ DR Failover and switchover. 
+ Opatch application. 
+ Update database statistics. 
+ Data loading using SQL* Loader. 
+ Creating profile and assigning the same to application users. 
+ Report analyses of AWR, ADDM, Explain plan, Trace and TKProf. 
+ Manage basic request related to MSSQL server. 
+ Well planned Daily/Weekly/Monthly Backups and recovery strategies for production and UAT. 
+
+  
+ 
+
+PERSONAL DETAILS 
+
+Name    : Nainesh Kailas More. 
+Date of Birth  : 24th April 1989 
+Marital Status  : Married 
+Nationality   : Indian 
+Language Known  : English, Hindi, Marathi 
+Permanent Address : Suvarna Kalash CHS, B-20, Tarun Bharat Circle, Chakala, J.B. Nagar, Andheri  
+
+East, Mumbai-400059 
+
+

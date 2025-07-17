@@ -1,0 +1,199 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RAVINDRA PRASAD
+E-Mail:   Budigaravindra@gmail.com
+Mobile:   9790737406, 9848405448
+
+OBJECTIVE:
+Intend to build a career with leading corporate of hi-tech environment with committed & dedicated people, which will help me to explore myself fully and realize my potential.
+SUMMARY:
+· A result oriented profession having 4.8 years of experience in Clinical SAS and SDTM.
+· Clinical and medical terminology oriented experience of about 6 months in CTS.
+· In-depth knowledge of Clinical data & CDISC SDTM IG Implementation Guide.
+· Hands on experience in mapping of all SDTM domains.
+· Good knowledge on ADSL and BDS data structures in ADaM domains. Have good knowledge on population sets like Safety, Full Analysis, Randomized etc., and also on different reporting procedures to create Tables and listings.
+· Extensively worked on mapping of DM,EX,AE,DS,MH,IE,LB,VS,PE,QS and respective SUPPQUALs
+· Worked on Medical device  projects  and have good knowledge on Medical device domains i.e. DI, DR,DX, DT, DU, DO.
+· Worked on Oncology projects too and have a sound knowledge on Oncology domains i.e. TU, TR, RS.
+· Identifying the  Standard  and Protocol  Specific  SDTM domains based upon CRF data
+· Worked as a Validation programmer for many studies and successfully delivered the SDTM transfers to client with good quality. 
+· Worked mostly on studies that are run by both Specific Sponsor standards along with CDISC standards, and been a point of contact for these studies. 
+· Worked on many Oncology/Hematology studies along with studies in other different therapeutic areas
+· Performing QC & Validation of SDTM domains Through Open CDISC validator.
+· Annotation of CRF as per CDISC – SDTM IG
+· Good Knowledge in producing HTML, RTF, PDF formatted Reports using SAS/ODS. 
+· Received reward/award for extensive and quality work for few clients like AstraZeneca, TEVA and Preglem.
+· Good exposure in Developing and debugging SAS Macros that helps in re-usability of code and automating SAS programs. 
+· Provide project/general training to new recruits/staff members, mentor staff members to develop DM process and technical assistance. 
+· Competence with CDISC SDTM, sponsor specific standards, ICH-GCP, SOP's and 21CFR part-11. 
+· Good Knowledge in SAS Base Procedures for reporting/ Processing/ Validation of Clinical data like PRINT, DATASETS, MEANS, UNIVARIATE, FORMAT, SORT, TRANSPOSE, SQL and COMPARE
+· Excellent written, logical, analytical and programming skills.
+· Exposure to various Pharmaceutical, Pharmacognostical and Pharmacological methods, methodologies during my project work
+· Strong communication, collaboration & interpersonal skills with proficiency in grasping new technical concepts quickly and utilizing them in an effective manner
+· Abilities in handling multiple priorities, with a bias for action and a genuine interest in personal and professional development
+EDUCATION:
+· M.Pharm (Pharmaceutical Sciences) from Malla Reddy College of pharmacy (Affiliated to Osmania University), Hyderabad completed in 2012 with 75%. 
+· B.Pharm from Lalitha College of Pharmacy, Hyderabad completed in 2009 with 72.08%.
+
+TECHNICAL SKILLS:
+	  Operating Systems         : MS Windows, Linex
+Applications		     : SAS, MsExcel, MsPowerpoint
+SAS		                 :SAS/Base, SAS/SQl, SAS/Macros
+
+
+
+
+PROFESSIONAL EXPERIENCE
+
+ICON Clinical Research Pvt. Ltd:
+
+Clinical Data Programmer:	Jan’16 – present
+
+· Worked as QC programmer for multiple studies : Looking after the Quality of the SDTM outputs, Proc compare of the datasets, finding issues in production outputs and maintaining relevant QC Documentation 
+· Created SDTM Annotations Based on the sponsor standards as well CDISC SDTM guidelines 
+· Worked on creation of SDTM Mapping specification Based on the Annotated CRF 
+· Worked on multiple projects simultaneously and met the deadlines as and when required 
+· Coordinate with multiple stake holders like sponsor, Vendor and internal Programming team to meet the deliverable as committed in Stringent timelines 
+· Performed visual QC on SAS Datasets by Implementing Good Programming Practices and SAS code efficiency validation and Performing Quality checks on final SDTM datasets using Open CDISC Validator. 
+· Demonstrated proficiency in leading and mentoring individuals to maximize levels of productivity, while forming cohesive team environment. 
+
+Organization:Clinasia labs pvt ltd.(Maxis IT)
+Role:  Clinical Database Programmer                                         Duration: Sep, 2013 to Jan 2016. 
+
+
+PROJECT-II
+
+Working as Clinical Database Programmer in CDISC SDTM department at Clinasia labs pvt ltd. (Maxis IT), Hyderabad from April, 2014 to  Jan 2016.   
+Recent Project (April, 2014 to Jan 2016):
+Project               : Phase-3 Clinical Trail.
+Client                : Onconova
+Role                   : Clinical Database Programmer
+Therapeutic area: Oncology
+
+Description:
+A Phase III, parallel group, multi-centre,open label oncology study to investigate the efficacy and safety of XXXX drug in subjects with Myelodysplastic syndrome.
+Roles and Responsibilities:
+· Creation of XPT’s for the received raw data using SAS.
+· Creation of mapping specification
+· Identifying the  Standard  and Protocol  Specific  SDTM domains based upon CRF data
+· Mapping the raw data to target SDTM domains.
+· Validation of generated Target SDTM domains manually and by following validation check list.
+· Validation of SDTM domains by running through Open CDISC validator.
+· Annotation of CRF as per CDISC – SDTM V3.1.3
+· Validation of Annotated CRF 
+· Metadata validation and Mapping spec validation.
+· LAB standardization.
+· Deliverable bundle preparation.
+
+PROJECT-I
+
+Worked as Clinical Database Programmer in CDISC SDTM department at Clinasia labs pvt ltd. (Maxis IT), Hyderabad from Sep, 2013 to April, 2014.   
+Recent Project (Sep, 2013 to April, 2014):
+Project                : Phase 1-3 Clinical Trail.
+Client.                : Johnson & Johnson (Vistakon)
+Role                   : Clinical Database Programmer
+Therapeutic area: Ophthalmology 
+Description:
+A Phase I-III, parallel group, multi-centre, open label oncology study to investigate the efficacy and safety of investigational product compared to marketed product.
+Roles and Responsibilities:
+· Creation of XPT’s for the received raw data using SAS.
+· Creation of mapping specification
+· Identifying the  Standard  and Protocol  Specific  SDTM domains based upon CRF data
+· Mapping the raw data to target SDTM domains.
+· Validation of generated Target SDTM domains manually and by following validation check list.
+· Validation of SDTM domains by running through Open CDISC validator.
+· Annotation of CRF as per CDISC – SDTM V3.1.3
+· Validation of Annotated CRF 
+· Metadata validation and Mapping spec validation.
+· Deliverable bundle preparation. 	
+
+Organization: Cognizant Technology Solutions India Private Ltd.,
+Role:  Process Executive - Data                                             Duration: Oct, 2012 to April, 2013.
+
+Project          : Claims Adjudication.
+Role              : Process Executive – Data
+
+Description:
+Processed US based claims with subjects healthcare data and providers list, who had provided the required medical aid.
+
+Roles and Responsibilities:
+· Crosschecking the subject related basic information and the treatment subject have received.
+· Decoding the medical aid information from the claims
+· Following guidelines separately for Army personnel, kidney failure treatments, above 60 age subjects, below poverty line subjects.
+· Reviewing the subjects insurance policy details
+· Provider information and his qualification details entry.
+· Checking out treatment values provided by provider.
+· Finalizing the mode of payment, if subject has secondary insurance as well along with primary insurance.
+· Releasing funds to the provider for the medical aid he provided to the subjects.
+
+EXTRA CURRICULAR ACTIVITIES:
+· Got selected as Group lead for ICON-CDS department for ICON SPORTS EVENT-2018.
+· Participated in dance/fancy dress competitions on behalf of my department with success.
+· Lead my cricket team and got Runner up in PHARMA CUP2008.
+· Participated as a Volunteer for Blood Donation Campaign in our college.
+· Participated in state level table tennis tournament.
+
+PERSONAL DETAILS:
+Name                   : Budiga Ravindra Prasad
+Father’s name      : Budiga Anjaiah
+Date of birth        : 12th Sep 1986
+Sex                       : Male
+Address               : Flat no: 206, Sri Vathsa Residency, Opp.Kamineni Hospital, LB.Nagar,
+                               Hyderabad-500074   
+Nationality           : Indian 
+Marital status       : Single 
+Languages known: English, Hindi, Telugu
+Field of study       : Pharmacy 
+
+DECLARATION:
+I hereby declare that all the details given above are true to the best of my knowledge and belief
+
+    (B. Ravindra prasad)                                                                                                                                                                          
+

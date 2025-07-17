@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+
+Gayathri P
+ gayathri.arteria@gmail.com
+
+
+
+
+| Mobile: +919742768268
+Summary
+· 4.3 years of experience in SAP Enterprise Portal, SAP UI5, Sap Fiori and Webdynpro Java Software Development Life Cycle with extensive experience in SAP WEB IDE SAP Net Weaver, J2EE, Java, JCO creation and System Creation 
+· Well versed in all areas of SAP Java technologies including Enterprise Portal.
+
+· Experience on Creating Webdynpro Java applications and SAP UI5 applications.
+
+· Experience on Knowledge Management, User Admin, Content Admin and Webdynpro Java.
+· Experience in creating Iviews various types URL,Transaction,KMNavigation,BSP etc..
+· Well versed in latest software design patterns / development guidelines with emphasis on performance, maintainability and reusability.
+· Memory Analyzer for heap dump analysis in SAP Portal.
+
+· Configtool, visual admin experience.
+
+· Experience on creation of List application with Adaptive RFC from ECC Gateway Services.
+· Experience on Migration from 7.0 and 7.3 and 7.4.
+
+· Transport PCD and Theme XML form.
+
+· XML, HTML5, CSS and JavaScript.
+· Customization Layout Set.
+ACADEMIC PROFILE
+
+· MCA (Post Graduation) from JNTUK in 2013 - 78%.
+· Bsc (Electronics) From AU in 2010  - 76%
+Professional experience:
+
+· Currently working as SAP EP Consultant in Tech Mahindra, Bangalore from March-2017 to Till Date.
+· Worked as Software Developer in Arteria Technologies, Bangalore from June-2013 to Oct-2016.
+· Done internship in Arteria technologies , Bangalore from Nov-2012 to March-2013
+Project:  T-Mobile
+Client: T-mobile
+Environment: ECC6.0, Net weaver 7.3, DB: Oracle, OS: UNIX
+Duration: March 8th to till date
+Team Size: 3
+Description:  T-Mobile International AG lost relevance when Deutsche Telekom transformed its     structure to adopt a regional setup (Germany, Europe, and USA) in 2009 by combining 
+
+Its previously separated fixed and mobile subsidiaries to form integrated local businesses
+· Integrated SAP UI5 Application into Portal.
+
+Challenges and Deliverable
+
+· Created the custom the Logon Page.
+
+· Supporting Portals ESS CRM.
+
+· Created Groups for various sections of Users and User Administration
+· Transactional iView creation
+Roles & Responsibilities
+
+· .List application in SAP UI5 implementation.
+· Configured Themes to support company’s branding.
+
+Project:  Kluber Lubricants
+
+Client: Kluber
+Environment: SAP UI5, SAP Gateway Service.
+
+Duration: May 2016 to Oct 25th 2016
+Team Size: 5
+Description:
+
+
+
+
+
+
+
+
+
+
+
+
+Dealer EP system provides a valued solution by connecting the end users to SAP ECC system over the Internet in real time. With help of this enterprise portal the end users can perform the different business processes related to SD,MM & FI modules, Distributor Management Portal for Primary & Secondary Sales to be developed, deployed and configured on Client Tyre Landscape.
+· This product is for organizations that want to share real time information with their distributors. The information is provided to the dealer connect through an SAP based External-Facing Portal
+
+The Distributor Portal allows distributors to do the following functions: 
+
+
+Primary Sales:
+
+List, Display and Create Applications
+· The front-end technology for UI development is SAPUI5 with SAP ERP  GW as the backend. SAP Hana Cloud Portal is the platform for showing Dealer portal
+Role & Responsibilities
+
+· My responsibilities include Design, Development and Unit Testing of the deliverables by using the standard UI5 coding.
+· Extending applications using SAP Web IDE.
+
+· Gathering requirement from client & implementation
+
+· Design data flow architecture and implement in project.
+Project: VOLVO & EICHER Trucks
+
+Client: VECV
+Environment: ECC6.0, Net weaver 7.31, DB: Oracle, OS: windows
+
+Duration: July 2015 to May 2016
+
+Team Size: 4
+Description:
+
+· The Customer Portal allows users to do the following functions:
+
+· Project Loan Information 
+· Fee Details
+· Profile Details
+· Account Statements
+· The front-end technology for UI development is SAPUI5 with SAP ERP as the backend. SAP Hana Cloud Portal is the platform for showing Customer portal
+Role & Responsibilities
+
+· My responsibilities include Design, Development and Unit Testing of the deliverables by using the  standard UI5 coding.
+· Creating ui5 apps in the FLP sites
+
+· Extending applications using SAP Web IDE.
+
+· Gathering requirement from client & implementation
+
+· Design data flow architecture and implement in project.
+Project: UTCL 
+
+Client: UTCL
+Environment: ECC6.0, Net weaver 7.1, 7.31 and 7.4, DB: Oracle, OS: windows
+
+Description: Dec 2014 to Jun2015
+
+Team Size: 4
+Description: 
+UTCL. Description Equipment parts Technical data sheet Reception bins Collection.
+
+· Integrated WebDynpro-JAVA Application into Portal.
+
+Challenges and Deliverable
+
+· Created the custom the Logon Page.
+
+· Restricting Users in chat using Virtual Groups.
+
+· Created the custom masthead, forget password, and security question applications.
+
+· Created Groups for various sections of Users and User Administration
+    Roles & Responsibilities
+
+· Restricted users to chat with in the Groups.
+
+· Configured Themes to support company’s branding.
+
+· Development of XML news, and help pages.
+
+· Designed page layouts.
+· Forgot password and change password implementation.
+· UI5 application integration into portal and System creation.
+· Mobile compatible desktop customization.
+· Worked on Applications like Sales Order,Purchase Order.
+Project: BCL 
+
+Client: BCL
+Environment: ECC6.0, Net weaver 7.3, OS: windows
+
+Duration: Feb 2014 to Nov 2014
+
+Team Size: 1
+
+
+ Description: 
+
+
+Birla Crop Limited Indian based Flagship Company.
+· Integrated WebDynpro-JAVA Application into Portal.
+
+Challenges and Deliverable
+
+· Created the custom the Logon Page.
+
+· Single Sign on (SSO) implementation for SAP R3 system.
+
+· Restricting Users in chat using Virtual Groups.
+
+· Created the custom masthead, forget password, and security question applications.
+
+· Created Groups for various sections of Users and User Administration
+    Roles & Responsibilities
+
+· Implemented Single Sign on for SAP –R3 system.
+
+· Restricted users to chat with in the Groups.
+
+· Configured Themes to support company’s branding.
+
+· Development of XML news, and help pages.
+
+· Designed page layouts.
+· Forgot password and change password implementation.
+· Developed Reports Like Batch Report,Order Schedule, Ticket Report,Credit Limit,Consuption Report,SD Report.
+· Implemented List application using with Adaptive RFC2 Type from ECC.
+    Project:Axis Bank – Partner Portal for Bank Implementation
+
+Client:  Axis bank 
+Environment: NetWeaver 7.0(EP), SAP ECC 6.0
+
+Duration: June 2013 to Aug 2013
+
+Team Size: 4
+
+Description: 
+This product is for organize service management system and to share real time information with their Bankers. The information is provided to the dealer through an SAP based External-Facing Portal.
+
+· The Dealer Portal allows user to do the following functions:
+
+· Create Authenticating logon pages.
+
+· Create Masthead.
+· Create, Iviews, Pages and Roles.
+
+· Roles and Responsibilities: Design, Development, Requirement Gathering & Analysis, Unit Testing and Team Management. 
+Project: RE –Partner Portal for Supplier Implementation
+Client:  Royal Enfield
+Envirenment: NetWeaver 7.0(EP), SAP ECC 6.0
+
+Duration: Nov 2012 to March 2013
+
+Team Size : 4
+
+Description: 
+ Royal Enfield was the brand name under which the Enfield Cycle Company (founded 1893) manufactured motorcycles, bicycles, lawnmowers and stationary engines.
+· Create Authenticating logon pages.
+
+· Created Masthead.
+
+· Created Logon Page.
+
+· Create, Iviews, Pages and Roles.
+
+· Xml Forms customization.
+· Roles and Responsibilities: Design, Development, Requirement Gathering & Analysis, Unit Testing and Team Management. 
+
+                                                                                                                                                                                                                                                                  Date: _______________________
+
+
+
+
+
+Place: Bangalore 
+
+
+
+
+
+
+
+
+Gayathri.P
+

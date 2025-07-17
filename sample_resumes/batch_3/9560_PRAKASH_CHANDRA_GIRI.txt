@@ -1,0 +1,152 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRAKASH CHANDRA GIRI
+				
+E-mail: g.prakashchandra89@gmail.com
+Mobile: +91- 8334055819
+Objective:
+To work in a position that utilizes my first-rate technical and problem solving skills thereby enabling me to contribute positively to the organization I work for and to keep abreast of latest technologies, thus making a positive difference to my career.
+Professional SUMMARY
+I am a Computer Science and Engineering Graduate having around 4.4 years of SAP Basis experience and involved in green field implementation of project as well as supporting project in various capacities in the area of SAP Basis Consulting, Administration and operational control for Support and Maintenance Projects.
+· Main area of expertise are SAP Installations, Up-gradation and providing 24x7 SAP Basis rotational production support as a performance analyst.
+· Good expertise on New Dimensional Products like Netweaver 7.1/7.4 BW, EP, XI/PI, ECC 6.0, SCM, SRM and CRM.
+· Performed High Availability Installation, post installation & Integration activities of SAP Netweaver PI 7.4 in HP-ux.
+· Performed Solution manager 7.2 Installation, post installation on Oracle 12c Database in SUSE Linux platform.
+· Integrate SAP System in SOLMAN and generate stack file.
+· SPS upgrade using SUM tools
+· Configured SNC and update JVM.
+· Expertise in SAP java administration using NWA tool.
+· Successfully deployed Java support packs using SDM & JSPM.
+· Installed licenses and maintenance certificates as well as SAP Notes.
+· Expert in applying Kernel Patches, Support Packages, Ad-on with SPAM and SAINT tool.
+· Proficient in performance monitoring/tuning and daily Basis technical support including troubleshooting of SAP, Oracle, UNIX and Windows based systems.
+· Good DBA skills in Oracle 10g/11g as well as in 12c.
+· Excellent expertise in major UNIX based OS particularly HP-ux/Linux.
+· Having good expertise in SAP client Administration as well as STMS configuration and Administration.
+· Worked in SAP security module for User and Authorization related query.
+· Expert in Background jobs Administration and Spool Administration. 
+· Provided SAP BASIS administration support in the field of performance monitoring & tuning to maximize system up time.
+· Extensive experience in analyzing and solving day-to-day Production issues with client facing skills.
+· Preparation of Daily/Monthly reports for checking the system health and accordingly suggest the cause and solution for the same.
+ 
+TECHNICAL SKILLS:-
+· Operating system		:	Windows Server 2008/2010, Linux, AIX,HP-UX
+· Technology Platform	:	SAP Net weaver   (ABAP + JAVA)		
+· SAP Component		: 	ECC 6,BW, EP,PI 7.4, SCM, SOLMAN 7.1,
+· Data base			:	Oracle 10g/11g, SQL Server 2008
+· Other Tools			:	Putty, Win SCP, X-manager, System Walker
+
+WORK EXPERIENCE:-
+· From July -2016 to till date: Working with Fujitsu Consulting India Pvt. Ltd. As Technical Consultant.
+· From July -2013 to July 2016: Worked with ITC Infotech Pvt. Ltd. As Associate – IT Consultant.
+PROJECT DETAIL                                                                                                                                                       
+
+	
+Project Title: - SSS
+
+Client			:	NRI System Technology.
+Period			: 	July 2016 to Till Date
+Technology Platform	:	ERP 6.0 EHP 5, SAP NW 7.1, Solman 7.1/7.2
+Operating System 	:	Windows 2008/2012, Suse Linux 11
+Database		:	SQL Server 2008, Oracle 12c
+Role			:	SAP Basis Consultant
+
+Roles &Responsibilities: -
+
+· Performed Solution manager 7.2 Installation, post installation on Oracle 12c Database in SUSE Linux platform.
+· Expertise in OS/DB homogeneous/Heterogeneous system copy.
+· Providing SAP BASIS administration support in the field of performance monitoring & tuning to maximize system up time.
+· Monitor all SAP systems (work processes, users, system logs, short dumps, locks, developer traces, system traces, disk space, etc.).
+· Performed Database consistency check and Index fragmentation on SQL server 2008.
+· Working with the security team for Creating users, roles and maintaining the security and integrity of the SAP production systems.
+· Including the role modifications in a Transport request and moving them to production after testing the role in various stages like Sandbox Validation in Test System and User Acceptance Test in Quality system.
+· Preparation of Daily/Monthly reports for checking the system health and accordingly suggest the cause and solution for the same.
+· Applied Kernel Patches, Support Packages with SPAM/SAINT.
+· Maintaining system profile parameters and dynamically customizing profile parameters.
+Project Title: - SAPSS
+
+Client			:	ITC Ltd.
+Period			: 	July 2013 to July 2016
+Technology Platform	:	SAP NW 7.1/7.3, ERP 6.0 EHP 5, SCM, XI/PI, EP, BW
+Operating System 	:	Windows 2008, AIX, Linux & HP-UX
+Database		:	Oracle 10g/11g, MAX DB
+Role			:	SAP Basis Consultant
+
+Roles &Responsibilities:-
+
+· Performed High Availability Installation, post installation & Integration activities of SAP Netweaver PI 7.4 in HP-ux.
+· Good working knowledge on New Dimensional Products like Netweaver 7.1/7.4 BW, EP, XI/PI, ECC 6.0, SCM, SRM and CRM.
+· Applied ABAP & JAVA support packages.
+· Worked in Application of licenses and maintenance certificates.
+· Java administration with Visual Admin, Config and NWA tools
+· Apply Java Support Packages through SDM and JSPM
+· Performed System copy/DB Refresh activity as per the customer needs.
+· Implemented Kernel Upgrade, Support Packs , Add-ons & SAP Notes
+· Performed Single Sign-on Configuration
+· TMS configuration and Maintenance
+· Client management – Client deletion and local, remote client copy
+· TableSpace administration using BR* Tools
+· Scheduling Backups and Recovery
+· Troubleshooting ABAP dumps
+· Working with the security team for Creating users, roles and maintaining the security and integrity of the SAP production systems.
+· RFC Maintenance and providing backend connectivity to R/3 system from the component systems.
+· Moving Oracle Archive files from R/3 Production to DR server using SCP. 
+· Deploy Java patches using SDM &JSPM.
+· Rebooting SAP Server on Maintenance period for hot fixing on AIX & Linux Environment.
+· Daily monitoring which includes checking all application servers, Work process overview, Background jobs overview, Spool logs, Checking space statistics, and Backup logs.
+· Monitoring Background jobs, re-scheduling cancelled jobs, troubleshooting long running jobs.
+· Excellent communication skills, interpersonal skills, adaptive and self-learner.
+
+ACADEMIC CREDENCIAL:-
+· B.tech in  Computer Science from BPUT, Rourkela with 6.19 CGPA/10
+· +2 Science from BB collage, Baiganabadia with aggregate of 60%.
+· 10th from HSBC, Odisha with grade 1st class (70%).
+
+

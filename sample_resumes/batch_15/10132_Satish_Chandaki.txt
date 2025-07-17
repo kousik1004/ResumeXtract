@@ -1,0 +1,413 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+		
+
+ CURRICULUM VITAE
+
+Satish Chandaki
++91-7411438432
+Email: satyaequal@gmail.com
+
+
+Career Objective:	
+	
+
+
+To obtain a position of responsibilities that utilizes my skills and experience and keen to work in an environment where I can enrich my knowledge and put them to use for the growth of the organization.
+Technical proficiency: 
+
+
+	Operating Systems
+	Windows NT, Microsoft Windows 98, 2000-03, XP, Windows 7.
+
+	Technologies
+	.NET 4.5, C#, ASP.NET, ASP.NET MVC, SSRS Report, Windows Azure(Web App & Azure SQL).
+
+	Languages
+	C#, JavaScript 1.8
+
+	Databases
+	Microsoft SQL Server
+
+	Web Related
+	HTML, CSS, JavaScript, JQuery, ASP.Net, MVC, WCF
+
+	Tools & Utilities
+	Microsoft Visual Studio, MS SQL Server
+
+
+Work experience:
+
+
+Current Company Name: Immidart Technologies LLP. Bangalore.
+Designation: Senior Software Engineer 
+Total Experience: 6 Years 
+
+	1
+	Immigration – Enterprise 
+	Duration
+	4 Months
+
+	Role
+	Senior Software Engineer
+	Team Size
+	8
+
+	Tools
+	Microsoft .NET Framework 4.5, MVC 4, JavaScript 1.8, Jquery1.11.1.
+	Database
+	SQL Server 2014
+
+	Company
+	Immidart Technologies LLP, Bangalore
+
+	Project Highlights
+	Enterprise module is an unit of immigration application where managing the employee details like personal, education, dependent, passport and travel details. As a security feature for employee personal information, using AES Cryptography, storing PII(Personally identifiable Information) fields as encrypted and binary data to database. 
+
+	Contribution
+	Involved in the understanding the application, Designing, Testing and coding and Maintenance.
+
+
+
+	2
+	AQ365 –Analytical Quick Quote
+	Duration
+	10 Months
+
+	Role
+	Engineer Software
+	Team Size
+	5
+
+	Tools
+	Microsoft .NET Framework 4.5, MVC 4, JavaScript 1.8, Jquery1.11.1.
+	Database
+	SQL Server 2014
+
+	Company
+	SLK Software Services Pvt. Ltd. Bangalore.
+
+	Project Highlights
+	AQ365 Tool is used to create/Modify Quotes for Rosemount Products. AQ365 tool is also used to generate proposals for customer quotes. Proposals can be in form of MS word, HTML (open in Browser). Proposals will have Quote details, Customer details and Part/Product Details. It also contains the price, quantity, discount of every line items and Total price of the Quote. AQ365 generates proposals in word documents which could be emailed or printed. Application has Customer and Office maintenance, Quote Search, Model Configuration.
+
+	Contribution
+	Involved in the understanding the application, Designing, Testing and coding and Maintenance.
+
+
+
+
+	3
+	Rosemount Analytical Inc � Intranet
+	Duration
+	6 Months
+
+	Role
+	Engineer Software
+	Team Size
+	4
+
+	Tools
+	Microsoft .NET Framework 4.0, MVC, JavaScript 1.8, Jquery1.11.1.
+	Database
+	SQL Server 2012
+
+	Company
+	SLK Software Services Pvt. Ltd. Bangalore.
+
+	Project Highlights
+	RAI Intranet Site is the Home Page where the Rosemount Analytical division from the Emerson users are managing the Admin, HR, Marketing and other contents in the site. It contains Emergency and Latest News section, Upcoming Training/Events, Managing the subdivision sites at the Top Navigations And Embed the Latest YouTubeVideo of the RAI Account to Home Page.
+
+
+	Contribution
+	Involved in the understanding the application, Designing, Testing and Implementation, and Maintenance.
+
+
+
+
+	4
+	Application Engineering Database (AED)
+	Duration
+	8 Months
+
+	Role
+	Engineer Software
+	Team Size
+	3
+
+	Tools
+	 Microsoft .NET Framework 4.0, ASP.Net, JavaScript 1.8, Jquery1.9, Ajax. 
+	Database
+	SQL Server 2008 R2
+
+	Company
+	SLK Software Services Pvt. Ltd. Bangalore.
+
+	Project Highlights
+	The main objective of the project is to design & deploy an easier way for customers to record the requests for �Special Application� and ability to search and view it. Proposed system is a Web application which has 3 pieces � Datasheet, Quotesheet and Worksheet. These documents share the information between each other and created at different stages in the process of customer request to building the application.
+
+Application Engineers receives the Datasheet from customers/salesperson. This datasheet provides the customer details and requirements, based on that Application Engineers design the application and enter the data into Quotesheet.
+
+
+	Contribution
+	Involved in the understanding the application, Designing, Testing and coding and Maintenance.
+
+
+
+	5
+	Order Management System (OMS)
+	Duration
+	10 Months
+
+	Role
+	Engineer Software
+	Team Size
+	4
+
+	Tools
+	 Microsoft .NET Framework 4.0, ASP.Net, JavaScript 1.8, Jquery1.7, Ajax. 
+	Database
+	SQL Server 2008 R2
+
+	Company
+	SLK Software Services Pvt. Ltd. Bangalore.
+
+	Project Highlights
+	Order Management System will be an order entry tool and standalone web application for all North American LBPs and Emerson global sales offices. Also, loosely coupled with other systems through web services and exposing services. So that other components of system like OC can consume it.
+Validate the order details based on the rules defined in the OC. Generation of XML1 file and reading XML1/XML2 file, writing XML files to persistent media if required. Orders are received and validated from OMS/Other systems and send to Oracle for further processing. Also, reads XML2 data and sends to required system
+Users:
+· Non-Integrated Users
+· Integrated Users
+
+
+	Contribution
+	Involved in the understanding the application, Designing, Testing and coding and Maintenance. 
+
+
+
+	6
+	 Master Schedule(AMSA)
+	Duration
+	6 Months
+
+	Role
+	Engineer Software
+	Team Size
+	1
+
+	Tools
+	 Microsoft .NET Framework 4.0, ASP.Net, JavaScript 1.8, Jquery1.7, Ajax. 
+	Database
+	SQL Server 2008 R2
+
+	Company
+	SLK Software Services Pvt. Ltd. Bangalore.
+
+	Project Highlights
+	Master Schedule Application will be the Order Shipping Tool, it will capture the Order Details by importing the SOTP file (exported by Oracle App), displaying all the orders, Updating the Oder Details, managing the Shipment Details and Calculation the shipping Date for an order.
+
+	Contribution
+	Involved in the understanding the application, Designing, Testing and coding and Maintenance.
+
+
+
+Previous Company Name: Radixweb
+Designation: Software Engineer
+	7
+	Bladena
+	Duration
+	8 Months
+
+	Role
+	 Software Developer 
+	Team Size
+	3
+
+	Tools
+	Microsoft .NET Framework 4.0, ASP.Net, JavaScript 1.8, Jquery1.7, Ajax.
+	Database
+	SQL Server 2008 R2
+
+	Company
+	RadixWeb, Ahmedabad
+
+	Project Highlights
+	Bladena is a company that owns some patterns on repair kits for various kinds of defects on wind turbine blades. Bladena will typically sell these repair kits to the service company, so that they can make the repairs on the turbine blades.
+This system contains mainly two sections likewise :
+· Administration :  
+The administration part is to handle all the standard data entries need for the turbine inspection. 
+· Web Site :
+The Service Technician starts his inspection on the turbine he will create a new defect report. He has to put in some data about the turbine, like manufacturer, model, wind area category and site category. He also gets to give the inspection report a reference of his own. This makes it easier for him to find it again later on.
+
+	Contribution
+	Involved in the understanding the application, Designing, Testing and coding.
+
+
+
+	8
+	Minus Stamp
+	Duration
+	6 months
+
+	Role
+	Jr. Software Developer 
+	Team Size
+	4
+
+	Tools
+	Microsoft .NET 2010 Web Application (C#), Telerik Controls
+	Database
+	SQL Server 2008 R2
+
+	Company 
+	RadixWeb, Ahmedabad
+
+	Project Highlights
+	Minus Stamp Basically QR Code Marketing in Denmark, which help Magazine publisher to earn additional revenue on publishing small QR Code on back of Coverage of their Magazines
+In Demark Classifieds are not widely used because Graphics Designer Cost is too Higher, this application help them to earn addition income from printing classifieds on Newspaper, without doing any changes in designs, it saves theirs designers cost at minimum cost.
+This Application also helps Advertisers, where they can publish their advertisement to targeted customers based on Target Age, Gender, and Location Using this application. They can also publish their advertisement to newspaper classifieds with minimum cost.
+
+	Contribution
+	Involved in the understanding the application, Requirement gathering, Designing and coding.
+
+
+
+	9
+	TravCom
+	Duration
+	5 Months
+
+	Role
+	Jr. Software Developer
+	Team Size
+	3
+
+	Tools
+	Microsoft .Net 4.0 (Windows Application), Crystal Reports
+	Database
+	SQLServer2008 R2
+
+	Company
+	Radixweb, Ahmedabad
+
+	Project Highlights
+	TravCom is the premiere back office accounting and Information system designed specifically for travel agencies. TravCom offers the most features and flexibility of any other back office system in the industry. And by utilizing Microsoft SQL server technology you can be assured that TravCom will suit your agency need no matter how large or small. Basically that includes Accounting system, Users and Security and Profiles (Client, Vendor, Agent etc.) management, Report Functionality, Search module for invoices and profiles periodic transactions of Account for closing month and year.
+
+	Contribution
+	· Database design and Multilingual Functionality 
+· Development of Utilities, and Crystal reports.
+
+
+Academic Qualification
+
+
+
+	Course
+	Board / University 
+	Year Of passing
+
+	ADSP(.NET)
+	Advanced Diploma in Software Programming RIIIT (.NET), Mysore.
+	2011
+
+	B.E (ISE)
+	City Engineering College, Bangalore – 62
+VTU- University Belgaum.
+	2010
+
+	PUC-II
+	BHS Arts and TGP Science PU College, Jamkhandi, Bagalkot Dist
+Karnataka State Education Board
+	2006
+
+	SSLC
+	VVS�S G.N.K High School Satti, Tq: Athani, 
+Dist: Belgaum.
+Karnataka State Education Board 
+	2004
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personal Details
+
+
+
+· Father Name	           :  Hanamant S Chandaki
+· Date of Birth             :  03-11-1987
+· Gender	                      :   Male
+· Marital Status           :   Single
+1. Nationality	        :  Indian
+1. Languages	        :  English, Kannada, Hindi.
+1. Hobbies               :  Reading Novels, Watching Movies, Playing Chess,
+                              Cooking, Swimming, & Singing
+1. Permanent Address : s/o Hanamant S Chandaki
+                               #154/B, Nandeshwar post,
+   Athani Tq, Belgaum Dist,
+   Karnataka 
+   Pin Code: 591240.
+
+I hereby declare that the above furnished details are true with proven records.
+Place: Bangalore
+Date:                    
+Signature:  Satish Chandaki
+Page1

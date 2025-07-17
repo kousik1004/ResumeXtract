@@ -1,0 +1,175 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anirudh Gurujala					 		Email: anirudh.gurujala@gmail.com
+									Mobile: +91 96400 81994
+			
+Professional Summary:
+
+· Having 3 years of experience in Analysis, Design, Programming and maintenance with Microsoft .Net and related technologies involving product based applications.
+· Hands-on experience in core C# and database CRUD operations using ADO.NET and Entity Framework.
+· Knowledge in Object Oriented Programming concepts.
+· Self-starter and a team player with good interpersonal skills, strong skills in planning and executing the functionality of application.
+· Strong working experience on C#.Net, Asp.Net, MVC, WCF, Web API, Restful Services, Ajax, JavaScript and JQuery, HTML.
+· Experienced in working on SQL Server 2008/2012 and ADO.NET. 
+· Working knowledge of Azure technologies Application insights and Blob Storage.
+· Proficient in client side development using JQuery, JSON and JavaScript.
+· Extensively Used Kendo UI controls.
+· Hands on experience in Team Foundation Server (TFS) and Visual Source Safe (VSS) for Version control.
+· Good analytical and problem solving and fast learning skills on new technologies.
+· Good team player with Good Communication and Interpersonal Skills.
+· Involvement in client calls and mails to gather requirements, status updates, designing, development, unit testing, validation testing, and bug fixing.
+
+ 
+Work Experience:
+· Working as a Software Engineer in Srikari Impetus Solutions Pvt. Ltd from October 2016 - Till Date.
+· Worked as associate .net developer/freelancer in Pravega Financial Technologies, Inc. from May 2016 – September 2016.
+· Worked as intern/developer in Good Through Software Solutions, Ltd from January 2016 – June 2016.
+· Worked as associate .net developer/freelancer in Pravega Financial Technologies, Inc. from May 2015 – December 2015.
+
+Technical Skills:
+
+· Programming Languages	: C#.Net, ASP.Net.
+· Microsoft Technologies	: ASP.NET, C#, WCF, AJAX, LINQ, MVC, ASP.NET and Web API.
+· Databases			: SQL Server 2008, 2012.
+· Web/Script Languages	: HTML, Xml, Java Script, JQuery, JSON, Bootstrap JS and Kendo UI.
+
+
+
+Project Experience:
+
+PROJECT #1: Online Experience. (https://agcustdashcs.amerigas.com)
+
+· Client		: AmeriGas(US)
+· Role		: Developer
+· Environment	: Asp.net MVC 4.0, C#.Net, JavaScript, JQuery, WCF.
+· Database		: SQL Server 2008 R2
+
+Project overview:
+
+Online Experience is a consumer based application which is used by AmeriGas Company.
+It is one of the biggest propane (Gas) distributed company in USA. This application is designed for their customers in whom they can monitor the details of their cylinder details and they can order the gas to the company through online without going to the office of the AmeriGas.
+
+Roles and Responsibilities:
+· Understand the requirements of the client by analyzing the documents provided.
+· Design the model class, database tables, views and controllers.
+· Prepare the service application to consume the data from the Database using WCF.
+1. Involved in coding to consume the service and display the date on views.
+1. Involved in coding of registration model by using Smart wizard JQuery tool.
+· Involved in KT sessions to collect the information from client through Skype.
+· Involved in fixing bugs identified by testing team.
+· Used Entity Framework Reverse POCO for CRUD Operations.
+
+
+PROJECT #2: FIX Engine Log Analyzer. 
+
+· Role		: Developer / freelancer
+· Environment	:  C#.Net
+· Database		: SQL Server
+
+Project overview:
+
+As an associate .net developer/freelancer, involved in development and debugging of few core C# functionalities below.
+This Plugin is used to easily share permalinks of website directly from 
+Custom-Post Page to Social Networking sites like Facebook, Twitter, 
+GooglePlus, Linkedin. It uses the APIs of those social networking sites to 
+share the Permalinks. The Plugin creates a settings page in Wp-Admin panel 
+where it takes all the required fields like access tokens, app ids, appsecret 
+etc which are used for authentication.
+This Plugin is used to easily share permalinks of website directly from 
+Custom-Post Page to Social Networking sites like Facebook, Twitter, 
+GooglePlus, Linkedin. It uses the APIs of those social networking sites to 
+share the Permalinks. The Plugin creates a settings page in Wp-Admin panel 
+where it takes all the required fields like access tokens, app ids, appsecret 
+etc which are used for authentication.
+
+FIX Engine Log Analyzer: 
+· Parsed orders and executions received in files in FIX (Financial Information Exchange) format and injected in to corresponding database tables (SQL Server) using Entity Framework.
+· Wrote database export of execution messages in to CSV file formats using C#.
+
+FIX Engine Configuration Reader:
+· Wrote C# functions to read Engine’s XML settings file.
+
+Bug Fixes: 
+· Worked on analyzing & designing external interfaces using C# libraries
+· Debugged and fixed bugs in the existing modules.
+· Walked-through the SQL (Stored procedures) code related to back-end business functionality
+PROJECT #3: Social auto-share Plugin for WordPress. 
+
+· Role		: Developer / Intern
+· Environment	: PHP, Web Matrix , JavaScript
+Project overview:
+
+This Plugin is used to easily share permalinks of website directly from Custom-Post Page to Social Networking sites like Facebook, Twitter, Google Plus, and LinkedIn. It makes use of external APIs to share the Permalinks.
+
+· Developing and debugging of settings panel and custom links
+· Involved in developing authentication model using external APIs
+· Analyzed the system-in-use so as to continually refine 
+
+
+
+Personal Details:
+	Name                    :  	Gurujala Anirudh
+Father’s Name   :  	Gurujala Raghavendar Rao
+Date of Birth      : 	27 November 1994
+Nationality 	 : 	 Indian
+Marital Status    : 	Single
+Languages 	 : 	English, Telugu and Hindi.
+
+
+Declaration:
+	
+                      I hereby declare that the information furnished above is true to the best of my knowledge.
+
+Date:
+Place:								                     		(Anirudh Gurujala)
+
+
+
+
+3
+

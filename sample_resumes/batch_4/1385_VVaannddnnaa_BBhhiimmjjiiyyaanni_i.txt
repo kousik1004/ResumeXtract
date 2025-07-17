@@ -1,0 +1,317 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deepak Mall
+
+Vandna Bhimjiyani
+E- Mail: vandna.thakkar11@gmail.com,  vruti_11@yahoo.com
+                                 Contact: 7435899051, 
+
+
+
+
+
+
+
+
+
+                     9909474259
+Career Vision
+Seeking challenging assignments & a position to utilize my skills and abilities in the Information Technology Industry that offers professional growth while being resourceful, innovative and flexible. Passionate  professional willing to work hard and put extra efforts.
+Synopsis
+· A skilled professional with 5+  years of experience in Java development covering multiple technologies and 1 year experience of business analysis.
+· 1.5 year of experience as Team Leader, with skill in motivating and leading peers, scheduling project activities and managing the project efficiently.
+· 8 months part time experience in analysis and design of project.
+· 6 months of JAVA teaching experience.
+Personal Highlights
+· Have a good exposure to various phases of SDLC including Analysis, Designing, Coding and Testing etc.
+· Expertise in Database Design, Creation and Management of Schemas, writing Stored Procedures, Functions, DDL, DML SQL queries.
+
+·  Excellent team worker with strong coaching and mentoring skills. Experience in Leading teams, task assignation, sizing and identifying the risks associated with the delivery of the item.
+· Proven expertise in using new tools to drive improvements and achieve organizational objectives & profitability norms.
+· Have a significant input into training materials compiled for new recruits.
+· Coordinated with end users to define engagement & communicate technical issues along with project development and define resource estimation.
+Key skills and competencies
+	Languages
+	 JAVA, C/C++, SQL,PHP
+
+	Java Technologies
+	 J2SE, J2EE, JSP, Servlets ,Java Beans,JDBC, JPA
+
+	Frameworks
+	Spring, Hibernate
+
+	Database
+	 Oracle, Mysql, MongoDB
+
+	Database Tools
+	 MySQL WorkBench, Aqua Data Studio
+
+	Servers
+	 Glassfish, Apache Tomcat 
+
+	IDE
+	 NetBeans, Eclipse,PhpStorm
+
+	Code Management
+	 SVN , Git
+
+	Other Tools & Libraries
+	RESTFul webservices, JUnit, Findbugs, Sonar,   Maven , log4j, gson
+
+	Development
+	HTML, CSS, Javascript, AJAX, JQuery, DHTML, JSON, Velocity , FreeMarker,  XML
+
+
+Empoyment Recital
+NascentInfo InfoTechnologies
+
+
+
+
+Sr. Executive     ( Mar ’18 –present)  
+· Upgraded spring boot version from 1.4 to 2 for existing project.
+· LDAP  Authentication setup using spring security.
+· Implemented Booking and appointment system.
+· Designed Database for property tax system for vadodara municipal corporation(VMC).
+Scalsys Technologies
+
+
+
+
+
+Sr. Executive     ( Nov ’15 – Oct ‘17)  
+· Upgraded project to java 8. Restructured codebase and unit tested it.
+· Excellent use of Relational Databases, MySQL and ORM technologies (Hibernate) 
+· Participated in peer and code review activities.
+· Incorporated Spring Data REST on top of Spring Data JPA.
+Spec India
+
+
+
+
+
+
+ Sr. Executive     ( July ’14 – Spetember ‘14)   
+· Responsible for gathering user requirement and analyze it.
+· Study SRS, develop, unit & integration test module accordingly.
+· Developed across all layers of a JEE application (front-end, web tier, services tier).
+· Rich Expertise in handling vast database using database features like stored procedure, triggers.
+Prisha Skills Enterprise
+
+
+
+
+ Sr. Executive     ( Sep ’13 – April ‘14)   
+· Responsible for gathering user requirement and analyze it.
+· Prepare SRS and technical document.
+· Explain SRS and technical document to developers, help them to functional testing of module.
+· Lead the team and motivate them.
+Finlogic Technologies, Surat
+
+
+
+
+Sr. Executive Developer( Feb ’10 – Sep ‘13)   
+· Responsible for working on wide range of websites and web applications.
+· Responsible for solving queries on daily basis.
+· Wrote delivery estimates for new projects and successfully delivered.
+· Have a significant input into training materials compiled for new recruits.
+· Communicated technical issues to non-technical management.
+Projects Undertaken :
+· Have gone through several projects like BeaXiLite, Fundwatch, Onlinetrading, Tradingaccount, Exchangetrax, FundzTrax, Compliance, X-SIP. Basically software related to mutual fund business management.
+	Title
+	BeaXiLite
+
+	Description
+	University Project for Creating question papers, question types like MCQ, matrix, audio, image analysis, attaching media to each question, creating online test, automatically create groups of students and scheduling exams batch wise.
+
+	Tools Used
+	J2EE, Spring Frame Work 4, mysql ,junit
+
+
+	Title
+	Fundwatch  - Feb’ 2010 – Nov’ 2010
+
+	Description
+	This project objective was to keep track of all MF schemes, AMC’s, Registrar’s , calculate and watch performance of MF schemes.
+
+	Tools Used
+	J2EE, Spring Frame Work, Oracle 10g, AJAX, JSP
+
+
+	Title
+	Exchangetrax  
+(June ‘ 2010 till leaving)
+
+	Description
+	This project manages all transaction entries, Client Form Scanning and upload.
+
+	Tools Used
+	J2EE, Spring Frame Work, Oracle 10g, AJAX, JSP
+
+
+	Title
+	Online Trading 
+( Aug’ 2010 till leaving)
+
+	Description
+	This project objective is providing desk to Investment client of NJ.
+This project is providing online terminal to client for investment in mutual fund, capital market.
+Feature of this projects are
+a) Providing payment gateway for Net banking and debit card
+b) Providing different way in purchase and redemption like
+Normal purchase, Normal redemption, SIP Registration ,
+SWI Registration,  STP Registration
+c) Providing option in investment in capital market.
+
+
+	Tools Used
+	J2EE, Spring Frame Work, Oracle 10g, AJAX, JSP
+
+
+	Title
+	Trading Account
+( Aug’ 2010 till leaving)
+
+	Description
+	This project objective is use as back office work for NJ Employees for Processing of Mutual Fund and Capital Market Transaction.
+Feature of this projects are
+1) All Transaction which are done through Online Trading / Call N Tran are process  uploaded at BSE/NSE with given cutoff.
+2) Payment Collection File generated for SIP Transaction & Purchase Transaction which done using Mandate and upload at Direct Bank.
+3) Pay out file Generated(Bulk DD/NEFT) file Redemption Transaction and upload  on Bank.
+4) Refund File Geneated for cancel Transaction and Running Balance.
+5) Bank Reconsilation of Transaction CMS, Netbanking, TPSL
+
+	Tools Used
+	JSP , Spring Frame Work, My Sql, AJAX, JqGrid
+
+
+	Title
+	NJ Compliance  - Nov’ 2010 – Jun’ 2011
+
+	Description
+	This project manages all compliance detail of NJ Company.
+
+	Tools Used
+	J2EE, Spring Frame Work, Oracle 10g, AJAX, JSP
+
+
+	Title
+	BeaXiLite
+
+	Description
+	University Project for Creating question papers, question types like MCQ, matrix, audio, image analysis, attaching media to each question, creating online test, automatically create groups of students and scheduling exams batch wise.
+
+	Tools Used
+	J2EE, Spring Frame Work, vaadin, mysql ,junit
+
+
+Other Achievments and Recognition
+· Have participated in Xplode-2008, A National Level Event At L.D. College of Engineering, Ahmedabad.
+· Held 3rd position In IT quiz at Mahatma Gandhi Institute of Technical Education and Research centre. 
+Academia
+
+	Examination
+	Discipline/
+Specialization
+	School/college
+	Board/University
+	Year of Passing
+	Percentage
+(%)
+
+	B.E.
+	Computer 
+Engineering
+	Mahatma Gandhi Institute of Technical Education and Research Centre, Navsari
+	Veer Narmad South Gujarat University
+	2009
+	67%(aggregate)
+
+	H.S.C
+	Science
+	T & T.V. Sarvajanik High School, surat.
+	G.S.H.E.B
+	2005
+	58%
+
+	S.S.C
+	-
+	Nutan High School, Gondal.
+	G.S.E.B
+	2002
+	86%
+
+
+Academia Projects
+Completed a project work at final year level of graduation, as a part of my coursework :
+Educational Institute Website
+Language of Implementation 
+: JAVA (JSP, Servlet)
+Back End 
+
+
+: SQL Server
+Paint Type Application
+
+Language of Implementation 
+: JAVA (AWT Components)
+Personal Vitae
+Name
+
+
+: Bhimjiyani Vandna Ashokbhai.
+Sex
+
+
+: Female
+Date of Birth
+
+: 28th May, 1987
+Permanent Address
+:141, Yogeshwar Park, Pardi-kande Road, Sachin-394230. (Dist. Surat)
+Mobile                            : 7435899051, 9909474259
+Date
+:
+
+
+
+
+
+
+Sign :

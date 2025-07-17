@@ -1,0 +1,347 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sonam Garg
+ 
+
+
+       Email: sonam.garg2108@gmail.com
+SAP ABAP CONSULTANT
+
+
+          Mobile: +917755990758
+Summary:
+
+
+
+
+· 7 + years in SAP in implementation, Support, Upgrade & Development projects.
+· Technical Expertise:
+· SAP Workflows.
+
+· Webdynpro ABAP.
+
+· Basic Knowledge of ABAP Object oriented programming.
+· ABAP Proxy.
+· Implemented Class exit for Standard SRM workflow.
+· ALV Report Programming.
+
+· Adobe forms and SAP Script.
+
+· Enhancements-BADI, user exits, BTE.
+
+· IDOCS.
+
+· BAPI.
+
+· BDC Programming.
+· Responsibilities:
+· Requirement gathering, Solution Design, Solution Definition, Design Implementation, Documentation.
+
+· Proactive in resolving the issues and taking additional responsibilities.
+· Weekly status calls & status reviews. Year-end/ month end ticket closure matrix.
+
+· Root cause analysis& Process improvement to avoid bottlenecks.
+· Stakeholder in CR process.
+
+· Helping juniors to ramp up quickly and handled team of size 5.
+· Good coordinating skills with functional Consultants Good communication and presentation skills.
+
+· Understanding the business process requirements and working with functional consultants and provide technical solution.
+
+· Provide quality deliverables in the stipulated time.
+
+· Good experience in debugging standard programs.
+
+· Have Basic knowledge of solution manager.
+
+· Taken project level and company level interview.
+· Active team player, quick learner and always eager to contribute to the team.
+SKILLS:
+	         Languages
+
+	SAP ABAP/4
+
+	         SAP Version
+	           SAP 4.7, SAP ECC 6.0
+
+
+Career Profile
+
+	Dates
+	Organization
+	Role
+
+	01 Nov 2010 – 20 March 2015
+	TATA Consultancy Services
+	SAP ABAP Consultant
+
+	30th March 2015 –Till date
+	Infosys ltd
+	Technology Analyst
+
+
+Professional Experience
+
+
+
+
+
+Minor Project
+
+Employer: Infosys Limited.
+
+Client: Eli Lilly and Company
+
+             Eli Lilly and Company is an American global pharmaceutical company with     
+
+             Headquarters located in Indianapolis, Indiana, in the United States.
+Duration: March, 2016 –Till Date
+
+Role: SAP ABAP Consultant
+
+Environment: Language: ABAP
+
+SAP Version: ECC 6.0 EHP7
+Responsibilities:
+
+· Identify resources for the technical team, interview them and on-board into project. 
+
+· Refer documentation, from various modules, provided by the client and prepare application information documents.
+
+· Conduct sessions on various topics for the team members in order to build competency among the team.
+· Understand CR and Documentation process specific to client and guided other team members. 
+
+· Requirement gathering and Effort estimation of CR’s.
+
+· Handled Team of size 5.
+
+· Developed ALV reports to display workflow related information.
+· Created BTE for FBL3N.
+
+· Worked on CR for deletion of segment based on different criteria.
+
+· Worked on various enhancements and Badi.
+
+· Worked on Adobe forms, Sap Script.
+
+· Changed existing workflow to add rejection text Pop up.
+
+· Used Various BAPI’s to implement standard functionality.
+
+· Changed existed web services to add extra fields.
+
+· Created webdynpro and Workflow object from scratch for automation of Manual process of DATS submission.
+· Implemented Fiori related changes in DATS workflow.
+· Implemented Workflow exit to change Priority of work item.
+
+· Implemented BADI for PO to change sender, email and Body of email as per client requirement.
+· Implemented Class exit for SRM workflow.
+EPH7 Upgrade
+
+Employer: Infosys limited
+
+Client:     AstraZeneca
+
+                 AstraZeneca is Pharmaceutical Company
+
+Duration: Aug, 2015 -March, 2016
+
+
+
+
+
+Role: SAP Technical consultant
+Environment: Language: ABAP
+
+SAP Version: SAP 4.7, SAP ECC 6.0 
+Responsibilities:
+· Worked on End to End upgrade.
+· Responsible for ABAP Remediation - custom code fixes due to Upgrade
+· Worked in defects raised during functional Integration Testing.
+· Worked in defect resolution during UAT and as a team member during Cut-Over.
+· Ran SPDD, SPAU and SPAU_ENH and applied OSS note as per requirement.
+· Modification of clone objects.
+
+· Retrofit objects.
+
+Drive wise - Inventory Management System (SAP ABAP MM)
+
+Employer: Infosys limited
+
+Client:     Allstate Corporation
+
+
+                 The Allstate Corporation is the second largest personal lines insurer in the United     
+
+                 States with Headquarters in Northfield Township, Illinois, United States
+
+Duration: April, 2015 -Aug, 2015
+Role: SAP ABAP Consultant
+Environment: Language: ABAP
+
+SAP Version: ECC 6.0 EHP7
+Responsibilities:
+
+· SAP MM: RF Scanning Programs
+
+· Implementation of Process for Goods Receipt (w.r.t. Scheduling Agreement - 101)
+
+· Implementation of Process for Goods Issue (313,315) & GI Reversal (316)
+
+· Implementation of Process for Creation of Material Serial No.
+
+· BAPI: ITOB_SERIALNO_CREATE, SERIALNUMBER_READ
+
+· BAPI: BAPI_GOODSMVT_CREATE
+
+· Transaction: IQ01 Creating Material Serial Number (EQUI)
+
+· ME38 - Maintain Sch. Agreement Schedule (EKKO), MIGO - Goods Movement (MKPF, MSEG), MMBE (to check stocks), MD04 (stock overview), MB03 (View material doc), MB51 (Material Doc. List), MB52 (List of Warehouse Stocks on Hand)
+
+Minor Project
+
+Employer: Tata Consultancy Services
+
+Client: Mitsubishi Corporation
+            Mitsubishi Motors Corporation is a Japanese multinational automotive    
+
+            Manufacturing Company with Headquarters at Chiyoda, Tokyo, Japan
+
+
+
+
+Duration: Feb, 2014- March, 2015
+Role: SAP Technical consultant
+Environment: Language: ABAP
+SAP Version: SAP 4.7, SAP ECC 6.0
+Responsibilities
+· Understand the functional specification and created technical specification and developed/modified objects based on the requirements.
+
+· Providing the logic for various reports as desired by the client.
+
+· Development & modification of object like reports, subroutines, programs, and Module pool.
+
+· Responsible for creation of enhancements as per requirement.
+
+· Implemented Badi and BAPI.
+
+· Created BDC for data migration.
+
+· Converted SAP Script into Adobe form.
+
+· Attended Video call with Honorable Prime minister for TCS and Mitsubishi Joint venture.
+Implementations & Roll Out and Support.
+Employer: Tata consultancy services
+Client: Adobe systems
+
+           Adobe Systems Incorporated is an American multinational computer software     
+
+           Company with Headquarters in San Jose, California, United States
+Duration: March, 2011- Jan, 2014
+Role: ABAP Developer
+
+Environment: Language: ABAP
+
+SAP Version: SAP 4.7, ECC 6.0
+
+Responsibilities:
+·   Creation of report.
+·   Written logic in field routine, start routine and end routine.
+
+·   Creation of Technical speciation and Unit test cases.
+
+·   Resolved defects during UAT.
+
+·   Post deployment support.
+
+
+
+·  Preparation of technical scope and assumption.
+
+·  Tickets handling with all severity levels.
+
+·  Resolving the day-to-day issues raised by clients
+
+· Development/Changes in reports, output, etc.
+
+· Created enhancement as per the requirement.
+
+· Testing report accuracy and debugging.
+· Debugged IDOC’s.
+
+
+
+
+Education Qualification
+
+
+
+
+· Bachelors in engineering in Computer science from Jabalpur ,RGPV University, Madhya Pradesh
+Personal Details
+
+	Date of Birth
+	20 Aug,1988
+
+	Nationality
+	INDIAN
+
+	Marital Status
+	Married
+
+	Designation
+	Technology Analyst
+
+	Location
+	Pune, India
+
+	Present address
+	A 504,BHAGAWATI ROYAL,ON- RAVET ROAD,THERGOAN,PUNE
+District : PUNE – 411033
+
+

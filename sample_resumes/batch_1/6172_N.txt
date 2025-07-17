@@ -1,0 +1,155 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                       SAP BASIS HANA CONUSLTANT
+
+N.NARENDER REDDY
+Email:narenraju51@gmail.com
+Mobile: 9133793297
+
+Technical Summary
+· Overall 4 years of experience in SAP Basis and HANA Administration with strong understanding.
+· Applied support packages and Add-on's for ABAP systems and JAVA Systems.
+· Performed the kernel patch upgrade.
+· Expertise in system refresh with oracle database.
+· Applying SAP and java system License.
+· Maintain Background Job maintenance and daily monitoring all SAP system landscapes & generate status reports. 
+· System copy of production server.
+· Administration and  maintain System Landscape Directory (SLD )
+· Configuring and maintain RFC Connection between the systems.
+· Configuring Transport Management System and transporting the requests
+· Analyzing the ABAP Dumps and the System logs
+· Database: Monitoring Table spaces and Taking Backup of SAP system
+· Worked on  Brtool for Table space management, Reorganization, BRBACKUP, BRARCHIVE, BRRESTORE.
+· Check System Log for error, warning, message, DB problem etc
+· Trouble shooting Background jobs processing
+· Configured clients and settings, performed client copies
+· Providing Single Sign-On (SSO) from SAP Enterprise Portal to various backend systems like ECC 6.0.
+
+    SAP HANA ADMINISTRATION
+· SAP HANA Database administration.
+· Installation of SAP HANA Studio.
+· Maintaining SAP HANA License .
+· Adding SAP HANA System in SAP HANA Studio, Stopping, Starting and restarting SAP HANA ServiceSs .
+· HANA DB troubleshooting and performance analysis.
+·  HANA DB Backing up and recovering.
+· Resolving HANA DB Backup issues.
+· Creating users in HANA DB and assigning roles, various privileges.
+· Monitoring ongoing major activities/incidents and taking follow up on them with respective Team.
+·  Provided 24X7 supports to the users and made sure the environment is Highly Available.
+Work Experience
+
+· Working as a SAP Basis Consultant for “ITC INFOTECH” since SEPT 2014 to till date.
+
+
+Academic Profile
+	
+       B.E (EEE) From METHODIST COLLEGE OF ENGINEERING AND TECHNOLOGY
+
+
+ Project 2
+             Company          :ITC INFOTECH
+             Project              :ITC FOODS
+             Technology      :ECC6.0 EHP6/7,Netweaver 7.31/7.4, Oracle, HANA.   
+             Role		:SAP BASIS CONSULTANT(SEP2017 –TILL DATE)
+
+RESPONSIBILITIES
+· Daily health checks activities on PRD systems.
+· Maintain and Monitor operation modes.
+· Maintain and monitor RFC connections (SM59).
+· Maintaining OSS connection for SAP to login from service market place.
+· Applying kernel patches & Support Packages
+· Analysis on System Dumps.
+· Defining Audit Policy for the SAP HANA Database
+· Deploying the application of build on Patch update.
+·  Performing Backup and recovery operation of the Sap HANA Database.
+· User management concept like creation of USERS, ROLES granting Privileges etc.
+· Transporting the requests from DEV to QA and to PRD servers using TP (transport control program) or STMS Transaction and verifying through transport logs.
+· Defining and scheduling standard background jobs,
+· Time based and event based Scheduling of background jobs and monitoring.
+· Adding the roles, profiles to the users upon request.
+· Maintain connection to SAP through service market place
+· Creating system message when down time is scheduled,
+· Creating and opening OSS connection for remote access in service market place.
+· Providing the end user and team members and on-call 24/7 production support.
+
+Project 1						                      
+
+             Company          :ITC INFOTECH
+             Project              :ITC Hotels
+             Technology      :ECC6.0 EHP6/7,Netweaver 7.31/7.4, Oracle.   
+             Role		:ASSOCIATE SAP BASIS CONSULTANT(JULY 2014- AUG 2017)
+
+
+Responsibilities
+
+
+· Complete SAP Basis project support including Preparation, planning, and Support packs for ABAP & Java stacks Kernel upgrades and SAP notes.
+· TMS configuration & management & troubleshooting.
+· System administration: All SAP administration activities like ABAP dumps, system logs, performing system health checkups on daily basis, etc and problem solving.
+· Monitor system performance, trace, workload analysis and tune memory Management.
+· Background jobs management like checking the status of background jobs and scheduling background records.
+· Monitoring the updates and spool management.
+· Adding single data file and continuous data file to table space using BRTOOLS.
+· Creating of Access keys and objects keys for users. 
+· Transports using an exclusively developed SAP Transaction, which enables mass/force transports to multiple systems/clients in the multilevel landscape. Transporting at UNIX level whenever needed.
+· Creating system messages to all users in downtime schedule.
+· Quarterly Maintenance Review is the process of bringing all   the chosen systems in a landscape to same patch levels.
+· Homogenous Offline DB Refresh, and apart  from all the Post copy steps
+· Locking and unlock the users. 
+· Creating and Maintaining RFC destinations.
+· System copies, remote & local client copies. Client export/Import in preparation and for supporting numerous scenarios during integration test and cutover.
+· Performed SAP system copies of ECC6.0 and Java systems.
+· Performed Kernel Upgrade.
+· Providing 24x7 supports for the numerous issues for all components across the different environments in the system landscape and mentoring offshore team.   
+                                                                                                                             
+                                                                                                                            NOMULA NARENDER REDDY
+ 
+
+                                                                                                                             
+
+

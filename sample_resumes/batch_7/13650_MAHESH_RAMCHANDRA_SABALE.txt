@@ -1,0 +1,351 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+RESUME
+
+MAHESH RAMCHANDRA SABALE
+
+mahesh.sabale88@gmail.com
+9967187457/7506942457
+
+linkedin.com/in/maheshsabale
+  OBJECTIVE:
+
+Seeking a position to utilize my skills and abilities in the Information Technology Industry that offers professional growth while being resourceful, innovative and flexible.
+
+ Experience Summary:
+
+· 4.5 Years of relevant experience in software development using SSIS , ASP.Net(4.0/2.0), C#, SQL (2008/2005),Crystal Report, Xamarin
+· Hands –on experience in N-tier Architecture, JavaScript.
+
+· Creation of various Stored Procedures, Functions as per the need.
+
+· Produce software component and design and specifications.
+
+· Implement appropriate software configuration management process for development. Good analytical and logical skills. Ability to work well both individually and in a team.
+
+· Willingness to work in a highly dynamic environment and to learn new technologies.
+WORK EXPERIENCE:
+
+1. Currently working with ServPRO Technology Pvt ltd as Senior .Net DEVELOPER since AUGUST 2016 till date.
+
+2. Worked as a JR Software developer with Zillion Technology from  April 2014 to  August 2016
+PROJECTS EXECUTED:
+
+1) GATL (Gujrat Agrotech Limited)
+This project is a replica of SAP APPLICATION.
+GATL is a part of Gujrat Fertilizers(GSFC), So this application is developer to handle there depowise transaction related to FERTILIZERS.
+
+Team Size-3
+     
+Front End:- ASP.NET IN C#
+
+     
+Back End:- SAP and SQL server 2008 R2
+
+Services  :- WEB API & ODATA (Auto Sync SAP-SQL)
+
+2) GAVL APP USAGE
+
+
+This project is developed to provide over all application usage.
+
+Godrej has many mobile application, but to know which application used by most people, they don’t have any provision. So this application is developed.
+
+Team Size-1
+     
+Front End:- ASP.NET IN C#
+
+     
+Back End:- SAP and SQL server 2008 R2
+
+Services  :- ODATA (Auto Sync SAP LOGS)
+3) SKU RATIONALIZATION
+
+
+This project is about product wise report for BusinessManager. This Application specifies Quarter wise product details.
+Team Size-2
+     
+Front End:- ASP.NET IN C#
+
+     
+Back End:- SAP and SQL server 2008 R2 and SSIS
+Services  :- ODATA  
+4) TMS
+
+
+This project is developed to manage Traveling expense of employees under the monitor of Admin/HR.
+
+This project basically allows Employee to Plan their Trip, Submit the Actual trip and finally apply for the expenses.
+
+Team Size-2
+     
+Front End :- ASP.NET IN C#
+
+     
+Back End :- SAP and SQL server 2008 R2
+Services  :- ODATA  
+5) Godrej GTFL barcode Scanner App
+
+It’s a mobile app developed using Visual Studio 2008 smart device application.
+
+This application is develop for scanning barcodes so that existing process gets simplified.
+Team Size-1
+     
+Front End:- Visual Studio 2008(Windows Device Application)
+     
+Back End:- CSV files, SQLITE
+6)  Navkar PoktVisitor
+
+It’s a mobile app developed using xamarin.forms. It’s a cross platform app.
+
+This application is basically for Private Parking.
+
+Team Size-3
+     
+Front End:- Xamarin.forms
+     
+Back End:- SQLITE
+Services     : Web-Service 
+
+Architure : 3tier Architecture
+7) Mitcon PoktTimesheet
+
+It’s a mobile app developed using xamarin.forms. It’s a cross platform app.
+
+This application is basically for handling Microsoft Dynamic Navision’s Data on Mobile platform. This application is available in android, IOS, UWP platform
+Team Size-3
+     
+Front End:- Xamarin.forms
+     
+Back End:- SQLITE
+Services     : Web-Service 
+
+Architure : 3tier Architecture
+8) IPO
+Initial public offering (IPO)  is a type of public offering in which shares of a company usually are sold to institutional investors that in turn, sell to the general public, on a securities exchange, for the first time. Through this process, a private company transforms into a public company.
+This PROJECT talks about how IPO helps in raising fund for the companies going public.
+
+Team Size-2
+     
+Front End:- C#.NET
+     
+Back End:- SQL server 2008 R2,SSIS
+Reports     : Crystal Report 
+
+Architure : NTier Architecture
+
+       
+8)  EVOTING
+
+This project is developed to pass the resolution for particular company who is listed.
+
+This project basically allow shareholder to CAST their vote in a favor of resolution or against of that resolution.
+
+Team Size-3
+
+     
+Front End:- ASP.NET IN C#
+
+     
+Back End:- SQL server 2008 R2,SSIS
+Reports     : Crystal Report 
+      
+9)  AGM
+
+ AGM stands for Annual General Meeting. This is a stand alone application, specially developed to 
+
+maintain the detail of annual general meeting.
+
+This application develop to manage attendance available in meeting, manage voting which is done by shareholder in meeting, generate report with respect to that meeting.
+
+Team Size-2
+
+    
+ Front End:- C#.NET
+
+    
+ Back End:- SQL server 2008 R2  ,SSIS   
+
+10) StarCoin
+
+StarCoin is a product of Bigshare Services pvt Ltd which is used to manage and efficiently perform all their RTA (Registers and Transfers Agent) related operations. It has different Inward/Outward operations for transaction, documents, correspondence. Also there are various reports related to share transfers of the companies registered in NSDL and CDSL.
+
+Front end: Asp.Net , C# 
+
+Back end: SQL Server 2008,SSIS
+Reports     : Crystal Report
+
+Features: Data Uploading system (Benpos Uploader), automated mailing system generating reports on weekly basis with minimal user interaction. User Management, signature verification, Reports like Benpos, Holder Listing, Top Shareholders and Movement related to shares of companies are some of the key features.
+
+   EDUCATIONAL PROJECT:
+
+1] MATRIMONIAL WEB-APPLICATION
+
+ 
+This project is a live web-site, which is developed as an intern.
+
+ The main objective of this matrimonial web application is to provide Groom and Bride with excellent match making experience by exploring the opportunities and the resource to meet true potential partner
+
+  
+Team Size-3
+
+  
+Front End:- ASP.NET in C#
+
+Back End:- SQL server 2008 
+
+2] MAHALAXMI ELECTRONICS
+This project is develop specially for showroom management system,  This project is basically design for maintaining records of product and customers,  To generate invoices and maintain up-to-dated information about customers.
+
+ Team Size-3
+    
+Front End:- VB.NET
+     
+Back End:- SQL server 2005 
+
+   SKILL SET EXPERTISE:
+
+Programming Languages    : C#
+
+Mobile Technology
+           : Xamarin.forms
+RDBMS                                         : SQL SERVER 2005/2008/2008 R2, SSIS
+Web Technologies                  : HTML, CSS, JAVASCRIPT, ASP.NET (Web Services), AJAX.
+
+Reporting 
+
+           : Crystal Report 2008/12
+
+Packages
+
+           : Microsoft Office 2003/2007, Visual Studio 2008/2010
+
+Operating Systems                 : Windows XP/ vista / 7/8
+
+Hosting
+
+           : IIS 5.0, IIS 7.0 
+
+
+   EDUCATIONAL QUALIFICATION:
+
+	ACADEMICS
+	BOARD/UNIVERSITY
+	Percentage %
+	YEAR OF PASSING
+
+	MCA
+	MUMBAI
+	59.18
+	AUG-2013
+
+	BCA 
+	TILAK VIDYAPEETH,PUNE
+	64.50
+	MAY-2010
+
+	H.S.C
+	MAHARASHTRA
+	44.33
+	FEB-2006
+
+	S.S.C.
+
+
+	MAHARASHTRA
+	60.53
+	MAR-2004
+
+
+   Personal Information:
+
+Gender
+:  Male.
+
+Date of Birth
+ :  05-09-1988.
+
+Nationality
+ :  Indian.
+
+Marital status
+ :  Single.
+
+Address
+ :  Siddhartha Chawl-2, Parera Nagar, Pada NO-3,
+
+
+
+    Lokmanya Nagar, THANE (W)-400606.
+
+Email ID
+ :  Mahesh.sabale88@gmail.com 
+
+Contact No
+ :  9967187457/ 7506942457.                                                                                                                         
+
+   DECLARATION:
+
+I there by declare that the above information is true and correct to the best of my knowledge
+
+Place: THANE                              
+Date: __________________________
+
+
+
+
+
+
+
+
+
+
+THANKING YOU
+
+

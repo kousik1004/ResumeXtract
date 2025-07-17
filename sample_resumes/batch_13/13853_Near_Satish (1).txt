@@ -1,0 +1,338 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Saravanan_resume
+
+
+Mrs. KOMAL MANOJ CHOUGALE 
+ 
+Address: Flat No. 303, Mandakini Apt,           Phone: +919049021989/+917972328826                      
+
+                Sukhada Colony, Near Satish             E-mail:komal.s.chavan@gmail.com  
+                Executive Hotel, Tathwade,     
+                Pune- 411033, Maharashtra, India.                           
+
+ 
+ 
+ WORK EXPERIENCE:    
+
+Organization Designation Duration 
+
+Infosys Ltd            Technology Analyst March 2015 – Present 
+
+Kairee Systems Pvt. Ltd.            Software Developer January 2013 – March 2015 
+
+Prejassoft Solutions Pvt. Ltd. Software Developer November 2011 – October 2012 
+ Autosoft Systems Software Developer September 2010 – October 2011 
+
+ 
+
+JOB DESCRIPTION:  
+
+ Calculating estimation for the tasks assigned by considering obstacles.  
+
+ Understanding Functional Specifications/requirements thoroughly. 
+
+ Designing and developing different modules. 
+
+ Performing unit testing/developer testing.                     
+
+ Reviewing user manuals. 
+
+ Creating databases. 
+
+ 
+
+EDUCATION: 
+
+Degree Institute Board/University Percentage 
+
+M.C.A. SIBER Institute, Kolhapur Shivaji University 69.89% 
+
+B.Sc.-Physics Rajaram College, Kolhapur Shivaji University 70.08% 
+
+12th Main Rajaram Jr. College Maharashtra Board 66.33% 
+
+10th M.L.G. High School Maharashtra Board 65.33% 
+
+ 
+
+TECHNICAL  SKILLS: 
+
+Programming Languages C, C++, C#, VB.NET, SQL, PL-SQL 
+
+Web Technologies HTML, CSS, XML, ASP.NET 
+
+.NET Technologies C#.NET, VB.NET, LINQ, MVC 4.0 
+
+Scripting Technologies Javascript, JQuery 
+
+Reporting Tools Crystal reports, iReport, RDLC reports, SSRS, SSIS 
+
+Databases MS-SQL Server, Oracle, Microsoft Access 
+
+ 
+ORGANISATIONAL PROJECTS:  
+
+CarDB 
+ 
+
+Duration Sept 2015 – till date 
+
+Environment  MVC 4.0, Linq, Jquery & Sql Server 2008 
+
+mailto:komal.s.chavan@gmail.com
+
+
+Description: I am currently working on this project. CarDB is a project which contains configuration 
+settings for the vehicle. These configurations would get visible on the live website to end users. This 
+projects gets divided into multiple sub-projects like CarAdmin, PSLS, CCIS and Publish. 
+CarAdmin – Contains all data/ configurations related to vehicle and their part details. 
+PSLS- Is a web service which can be consumed by other portfolios 
+CCIS- Contains different images for all angles for vehicles. All these images make one image for a 
+vehicle. These images get stored on cloud. 
+Publish- Publishes all data for vehicle on cloud. And from cloud data would get retrieved by websites. 
+
+Responsibilities: Involved in Design, Development and Testing 
+
+ 
+
+DAM 
+ 
+
+Duration March 2015 – till date 
+
+Environment  VB.NET, Sql Server 2008 
+
+Description: DAM is Digital Asset Management. The assets are nothing but vehicle or part images, 
+brochures, user guides, etc.  In DAM, user can do cataloging, tagging of the assets. 
+
+Responsibilities: Involved in Design, Development and Testing 
+
+ 
+ 
+
+Activ4Pets 
+ 
+
+Duration Sept 2014 – March 2015 
+
+Environment  MVC 4.0, Linq, Jquery & Sql Server 2008 
+
+Description: Activ4Pets is a project related with Pets and their medical records, their insurance, their 
+Second Medical Opinion. This is multilingual project. 
+
+Responsibilities: Involved in Design, Development and Testing 
+
+ 
+ 
+
+ After Hours 
+ 
+
+Duration Sept 2013 – March 2015 
+
+Environment  MVC 4.0, Kendo UI & Sql Server 2008 
+
+Description: This project is developed in MVC 4.0 and for UI I have used bootstrap and kendo controls. 
+After Hours is a project developed for the organizations i.e. Medicare units who works extra other 
+than regular daily timings and provides different services to end users. 
+
+Responsibilities: Involved in Design, Development and Testing 
+
+ 
+
+ Girikand Travels Pvt. Ltd. 
+ 
+
+Duration July 2013 – Aug 2013 
+
+Environment  Asp.net , C# & Sql Server 2008 
+
+Description: This web application is designed and developed for Girikand Travels, Pune. To automate 
+their daliy transactions we have designed this system. 
+
+Responsibilities: Involved in Design, Development and Testing 
+
+ 
+
+ Gyan Prakash Foundation 
+ 
+
+Duration Jan 2013 – July 2013 
+
+Environment  Asp.net , C# & Sql Server 2008 
+
+
+
+Description: Gyan Prakash Foundation is an organization with a focus on quality education for children 
+in rural India. GPF has partnered with the Government and various NGOs to develop a Social Change 
+Model in Education. This web application is designed and developed for GPF. To automate their daliy 
+transactions we have designed this system. 
+
+Responsibilities: Involved in Design, Development and Testing 
+
+ 
+
+PrejasCore-ho 
+ 
+
+Duration June 2011 - Dec 2011 
+
+Environment  VB.NET, ASP.NET & Oracle 
+
+Description: The middle layer is .net, the presentation layer is flex 4.5 and the data layer is oracle. 
+Worked on eb-24 product which is a core banking solution. The PrejasCore-ho is subset of eb-4 
+product which focuses on activities carried out at any head office(HO) branch of small scaled 
+bank/pathsanstha . It contains Share, Payroll modules.    
+
+Responsibilities: Involved in Design, Development and Testing 
+
+ 
+
+APMC  
+
+Duration Sept 2010 - May 2011 
+
+Environment  VB.NET, ASP.NET & Sql Server 2005 
+
+Description: The complete application of Agriculture Produce Market Committee (APMC) for 
+automating daily transactions carried out in any APMC. It is designed to streamline APMC workflow to 
+meet productivity demands of Agriculture departments. The APMCs were established by the State 
+Govt. for regulating the marketing of different kinds of agriculture produce. 
+
+Responsibilities: Involved in Design, Development and Testing 
+
+ 
+INTERNSHIPS: 
+
+College Automation System  
+
+Company Avanti Software Solutions Pvt. Ltd., Pune. 
+
+Environment  C#.NET & MS-SQL Server 2005 
+
+Description: Implemented a system for automating daily transactions carried out in a college. It can be 
+customized according to individual college requirements. Its distinguishing features are different level 
+of authorization, multi-user capability and in-place failure tracking mechanism. The system is capable 
+of providing close-net integration between different modules enabling need-based module purchase.  
+
+ 
+
+ 
+
+Admission System for M.Sw.Dept  
+
+Environment  C++ 
+
+ACADEMIC PROJECTS: 
+
+Portfolio Management Service  
+
+Environment  C#.NET, ASP.NET &  MS-SQL Server 2005 
+
+Description:  Developed a system which generates the portfolio of customer. System works as a share 
+broker. The customers are questioned to extract his/her preferences/likings to identify risk taking 
+capability. Depending on the level of risk, customer would like to take; and emerging market trend, 
+the system gives an intelligent combination of the shares of different companies to be purchased to 
+gain maximum profit. Thus even if customer has insufficient knowledge about share market, they can 
+safely invest money and earn more with lower risk. 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+
+
+Database File System 
+
+Description: Designed a system for automating admission process of M.Sw. dept of SIBER college. The 
+system constructs scrutinized merit list based on the information of students. The list is organized 
+using marks and reservation percentage criteria given by government. 
+
+ 
+
+SCHOLASTIC ACHIEVEMENTS: 
+
+1. Secured 7th rank in MCA semester V class. 
+
+2. Secured 5th rank in entire class in B. Sc. 3rd year and 1st rank among all girls in B. Sc. 2nd year. 
+
+3. Won prizes in various Drawing and Rangoli competitions. 
+
+ 
+
+EXTRACURRICULAR ACTIVITIES: 
+
+1. Organizing Committee Member of Orchestra ceremony 2009. 
+
+2. Member of IT-FEST 2008 Organizing Committee. 
+
+3. Active participation in holding Online Programming Competition in IT-FEST 2008. 
+
+ 
+
+PERSONAL INFORMATION: 
+
+Date Of Birth 23rd Dec 1985 
+
+Languages Known English, Hindi, Marathi. 
+
+Marital Status  Married 
+
+ 
+
+
+	Mrs. KOMAL MANOJ CHOUGALE
+

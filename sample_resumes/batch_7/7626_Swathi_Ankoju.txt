@@ -1,0 +1,163 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name: Swathi Ankoju                                                             Email: ankojuswathi@gmail.com
+Designation: Software Engineer.                                          Mobile: 8499058335
+
+
+OBJECTIVE
+To acquire knowledge, upgrade and make use of my skills efficiently and effectively for the successful growth of my organization.
+
+PROFESSIONAL SUMMARY
+· 1+ years of Working Experience. 
+· Knowledge in C# and Python Programming.
+· 0.8 years of working experience on Asp.Net, C#.Net, ADO.Net. 
+· Experience in Web based Application Development.
+· Hands on Experience on SQL Server Reporting Services (RDLC). 
+· Have good experience on working with Bootstrap, HTML, and CSS.
+· Hands on Experience on SQL Server as Backend.
+· Basic knowledge on Developing an Android Application.
+· Hands on with Python Programming. 
+· Hands on with Numpy, Pandas, Matplotlib, Jupyter Notebook, Pytorch.
+· Hands on with Building and Training a Neural Network.
+·  Image Classification using AI Programming with Python.
+
+TECHNICAL SKILLS
+· Programming Languages     	:  C# and Python.
+· Database				:  SQL Server.
+· Operating Systems                  	:  Windows, Linux.
+· Reporting Services		:  SQL Server Reporting Services (RDLC).
+· Framework			: .Net, PyTorch.
+· Tools                             	           	:  Visual Studio, SSMS, Atom Editor, Android Studio.
+
+PROFESSIONAL EXPERIENCE
+Junior .Net Programmer
+· Name of Organization                    :  National Informatics Center, Hyderabad.
+· Designation                                      :  Junior .Net Programmer
+· Duration                                            :  October 2017 to June 2018
+
+Work Details
+Worked as a junior .Net Programmer in developing a Web Application for Land Records Updation Program of Telangana State. 
+
+Software Engineer
+· Name of Organization                    :  Capgemini India Pvt. Ltd.
+· Designation                                      :   Software Engineer
+· Duration                                            :  Sept 2015 to May 2016.
+
+Work Details
+Worked as a Database Administrator in Infrastructure Management and Operations Center of Capgemini India Pvt. Ltd. 
+
+
+
+Intern
+Project Title: Automation of Administrative wing.
+Place of Project: NIC AP-state center, Hyderabad. 
+Technologies Used: .net using C#, Microsoft SQL server. 
+
+Project Description: Automation of different bills processing modules in Administration Wing of 
+Govt. Offices. Reduction in bill processing, Redundancy, Manpower, effort and data loss in 
+Administrative wing is achieved by this module. 
+Role in the Project: Development and testing.
+
+EDUCATIONAL QUALIFICATION
+	Graduated from JNTU Hyderabad in the stream of Computer Science and Engineering in the year 2015.
+
+PROJECTS ASSOCIATED WITH: 
+Project at NIC
+     Project Title	: MaBhoomi
+     Client	             : CCLA
+Role	: Development and Support
+     Environment	: Visual Studio 2012
+     Database                  : SQL Server 2012
+     Technolgy		: C#.Net, ADO.Net, ASP.Net
+     Team Size                 : 10
+
+MaBhoomi is an application developed for Land Records Updation of Telangana State, which involves the Complete Land details of each and every district of Telangana. Providing access to District Level Collectors and Mandal Level Tahsildars. The Application Involves 4 different Modules like Entry Forms, State Reports, Progress Reports and Analytical Reports. 
+1. Entry Forms Contain the Data Entry of Land related Registrations accessible to the District Level Collectors and Mandal Level Tahsildars.
+2. State Reports Contains Complete State wide Reports like Survey No Verifications, Aadhaar Card Upload Status, Corrected Survey No’s Status as on Date, District Wise Transactions between required periods of time.
+3. Progress Reports Contains the Pattadaar Passbook Update report, Missing Survey No’s status, Extent Variation Report between Pahani and RSR, Agriculture and Non Agricultural Land Report.
+4. Analytical Reports Contains Comparison between Corrected and Incorrected Survey No’s, Team Members Verification Pending and Complete, Khata Wise Comparison and Missing Survey No’s.
+Roles & Responsibilities: 
+
+· Analyzing the user requirements and developing required Entry Forms and Reports accordingly.
+· Involved in Database Coding, UI Design, Development.
+· Developed Cascading Style Sheets (CSS) for User Interface uniformity throughout the application
+· Worked on RDLC Reports.
+· Worked on Creating Jobs for Scheduling.
+· Worked on Drill Down Grid Reports. State wise proceeding with Mandals and Villages. 
+
+ACCOMPLISHMENTS:
+	 AI Programming with Python Nano Degree certification by UDACITY.
+IMAGE CLASSIFIER PROJECT: 
+	It’s about building a Python Application which can train an Image Classifier on a dataset, then predict new images using the trained model. PyTorch framework is been used for building the Neural Network. The Different steps which include in building the Application are: 
+
+· Package Imports, Training data Augmentation
+· Data Normalization, Loading and Batching
+· Use of Pre Trained  Network
+· Defining the Feed Forward Classifier
+· Training the Network
+· Validation Loss and Accuracy, Testing Accuracy
+· Saving the Model and Loading the Checkpoints
+· Image Processing and Class Prediction
+· Sanity checking with Matplotlib
+
+GITHUB LINK:  https://github.com/SwathiAnkoju/AIND
+	
+DECLARATION
+
+I hereby solemnly affirm that all information furnished above is true to the best of my knowledge and belief.
+
+Date: 	                                                                                    Signature:
+
+Place: Hyderabad			                               (Ankoju Swathi)
+
+

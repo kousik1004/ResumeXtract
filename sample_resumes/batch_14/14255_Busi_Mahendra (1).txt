@@ -1,0 +1,173 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Busi Mahendra                                                              
+                           Mobile: +91-9964276696
+
+                                                                                                                                                +919482547237
+Email: mahendraaws2@gmail.com                                                                                     
+	
+	
+
+
+
+
+Professional Summary:
+
+· Software Developer with 2+ years of experience in  Redshift and SQL Server development  .
+
+· Experience with Data Analysis, Data Profiling and Data cleansing.
+
+· IT experience and Technical proficiency in the Data Warehousing involving Business Requirements.
+
+· Exposure to ETL tools such as SSIS and DataSync (Manthan’s in house ETL tool) for ETL designing.
+
+· Worked on Retail Analytics and Customer Analytics (Manthan’s in house BI tool).
+· Highly skilled AWS Cloud/ SQL Server developer with 2 years of experience. 
+
+· Expertise in Loading/Unloading data from Amazon Redshift.
+
+· Expertise in managing Amazon Redshift access privileges.
+
+· Around 2 years of experience in IT having experience in Database Design, Development & Support of MS SQL Server 2012/2014 for Production/development
+Professional Experience:
+
+· Working as Associate Consultant with Manthan Software Services, Bangalore from JUlY 2016 till date.
+
+Academic Summary:
+
+· BTECH from GKCE, Sullurpet (Affiliated to JNTU Ananthapur ), during 2011- 2015 with 70% aggregate.
+Technical Skills:
+· Databases: SQL Server 2008/2012, Redshift, MySQL
+· Database tools: SQL Server Management Studio, SQL Workbench
+
+· ETL Tool:  SQL Server Integration Services (SSIS), DataSync,Informatica
+· Query Languages: T-SQL,C#
+· BI tool: Retail Analytics, Customer Analytics, MAYA
+
+· Reporting tool: ARC Report Designer
+· Operating systems: Windows, Linux
+Projects
+Project: Charming Charlie, Texas USA
+
+Role: ETL/BI/warehouse Developer
+
+Environment:  SSIS SQL Server, Amazon Redshift, DataSync, S3 Browser
+
+Description:
+Charming Charlie is a women’s contemporary jewelry and accessories retailer. 
+
+ARC is implemented in Charming Charlie as an Enterprise BI application to fulfill their operational and strategic reporting needs.ARC ETL process is deployed in Charming Charlie environment for integrating data from transaction source systems to ARC data warehouse. 
+
+ARC ETL process has primarily following steps
+
+• Gets the data from source system to Charming Charlie staging data format.
+
+• Loads the data into the ARC warehouse system.
+
+• Builds data marts for reporting and analysis purposes
+
+Roles and Responsibilities: 
+
+· Design and develop the SSIS packages using the various control flow tasks, data flow tasks and transformations to pull the data from various source systems and load the DWH tables. Schedule the packages to run on regular intervals to extract and load the data as per the requirement.
+
+· Design and develop the reports as per the requirements from the business team and publish them. Create subscriptions for the reports as per the business request.
+
+· Support the developed and deployed applications and make sure the business operations run smoothly
+
+· Identify the areas of performance issues in the existing application and alter the code in such areas to improve the performance
+
+· Manage and Monitor the service delivery effectively by ensuring that the team addresses all the issues within SLA
+
+· Stabilize the applications by identifying and implementing the service improvements
+
+· Estimate the new requirements/change requests from the Business and implement the same after review and approval with the Change Control Board
+
+· Identify the root cause for any problem statement and provide solution for the same
+
+· Re-classification of Product data as per customer needs and full re-aggregation of all Transaction data as per new product hierarchies once in a year.
+
+Project: FG (Future Group), India
+Role: ETL/BI/warehouse Developer
+
+Environment: AmazonRedshift, SQLSERVER,Linux,DataSync(ETL), S3browser,Iformatica(Extraction)
+Description:
+Roles and Responsibilities: 
+· Use workbench as Redshift database tool.
+
+· Loading/Unloading data from Amazon Redshift.
+
+· Managed Amazon Redshift access privileges.
+
+· Use Amazon Simple Storage Service(S3) for Amazon Redshift data load.
+
+· Involved in huge data migrations, transfer using utilities Bulk import export.
+
+· Daily basis Data Loading (ETL) and verify data into Database. 
+
+· Highly skilled in deployment, data security and troubleshooting of the applications using 
+AWSservices.
+
+· Managed Amazon redshift clusters such as launching/saving the cluster.
+
+· Implemented of the data analysis queries.
+
+· Knowledge of Vertica, Amazon Redshift as Database Tools. 
+
+· Possess a good quantity of experience and competency in C, Java, HTML, MS-Excel.
+
+· Maintained the historical data of the client.
+
+· Running vacuum and analyze the tables on daily basis for releasing the space.
+
+· Monitoring the ETL on daily and loading the data into data warehouse.
+
+                                                                                                            Busi Mahendra

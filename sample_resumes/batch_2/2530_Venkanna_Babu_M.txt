@@ -1,0 +1,212 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name: Venkanna Babu M  
+                                          E-mail: venkannababu.m10@gmail.com
+                          Mobile: +91-7449288249
+
+Professional Summary
+
+· 3.8 years of IT experience in full life cycle development, including deployment, 
+Implementation of applications using Java and J2EE technologies, SQL.             
+· Extensive Experience on Java, JDBC, Servlets, JSP, Spring (Core, JDBC, MVC), Hibernate,        
+Struts and Oracle.
+· Extensive experience of development, integration and deployment on Apache Tomcat, Glass Fish.
+· Good Knowledge on HTML, XML, JavaScript.
+
+Work Experience
+
+· Working as Software Developer in Cognizant Technology Solutions through CBSI India Pvt. Ltd. 
+
+· Worked as a Associate Software Developer in  Apexcel Informatics Private Limited from Dec -2013 to Nov - 2015
+Technical Skill Set
+
+Languages
+
+
+
+: JAVA
+Operating Systems 
+
+
+: Windows Family
+Java and J2EE Technologies
+
+: Java, Servlets, JSP, JDBC
+
+Frameworks
+
+
+
+: Spring, Struts, Hibernate 
+Web Servers
+
+
+
+: Apache Tomcat
+
+Application Servers
+
+
+: Glass Fish
+Databases
+
+
+
+: Oracle
+Web Programming Tools
+
+: HTML, XML, JavaScript 
+
+IDE                                                
+: Eclipse, Spring Tool Suite
+Version control
+
+
+
+: SVN
+            Java Logging                                       : Log4J
+Professional Qualification
+· MCA from JNTU Kakinada.
+Project Profile:
+Project #1  
+
+
+
+
+
+
+
+       (Feb’16 to Till Date)
+Title   
+
+        :  LuckyDraw
+Client
+
+        :  Fairprice, Singapore.
+Environment             :  Java, J2EE, Spring (Core, MVC, JDBC), Oracle.
+
+Tools                           :  Apache Tomcat, Spring Tool Suite, SQL Developer, SVN, Maven build, PuTTY 
+Team Size                   :  5
+Description:
+
+
+LuckyDraw is part of FairPrice which is a supermarket chain based in Singapore and the largest in the country. This application will provide service for the registered users to show the number of chances for lucky draw on buying items through online.
+Responsibilities:
+· Involved in Login, Registration and Win Chances modules.
+
+· Involved in developing controller, DAO classes using Spring Framework.
+
+· Involved in development of user interfaces using Jsp’s.
+· Involved in implementation of LDap Authentication.
+· Involved in analysis, coding, reviewing, unit  testing, UAT support, build, deployment for regular  releases.
+· Involved in requirements discussion sessions.
+Project #2  
+
+
+
+
+
+
+
+       (Nov’14 to Nov’15)
+Title   
+
+        :  G- Portal
+Client
+
+        :  Geoera, US.
+Environment             :  Java, J2EE, Hibernate,  Spring Core, MVC, Oracle, Web Sphere.
+
+Tools                           :  Eclipse
+
+Team Size                   :  9.
+
+Description:
+
+
+G-Portal is web-based tool to reduce communication gap between Bank and Customers. It is a web-based application, which manages the scheduling the appointments of the customers and generating reports in daily schedule, weekly schedule, etc .Time saving in transacting the reports and securities. Spot confirmation of the Appointments. Cost saving because of on live availability of the data .The G-portal has the five major modules like Administrator, Branch User, DSA (Direct Sales Associative), Customer and Banks. The administrator is the one who decides the fixing of appointments in daily bases. 
+Responsibilities:
+· Involved in developing controller classes using Spring Framework.
+
+· Involved in development of applications for user interfaces using Jsp’s.
+· Involved in implementation of Design patterns.
+· Involved in coding, reviewing, unit  testing for regular  releases.
+· Involved in requirements discussion sessions.
+
+Project #3
+
+
+
+
+
+
+           (Dec’13 to Sep’14)
+Title   
+
+        : UHCS (United Health Care System)
+Client
+
+        :  United HealthCare, USA
+Environment             :  Java, Servlets, JSP, Struts, Hibernate, Oracle, HTML, Apache Tomcat.
+Tools                           :  Eclipse.
+
+Team Size                  :  10
+Description:
+
+This is an internet-based application for United Health care System, is a leading Health care Organization in the United States, which has several branches across the country. This project is aimed to automate the common operations that are involved in the Hospital management system like Scheduling the doctor timings Payment information and the information about the in and out patients the information regarding to whole organization. 
+
+This Project is mainly subdivided into two separate parts, which consists of different modules in it. First part is the B2C where any individual can access the application. In this part, Registration module used to register the patients through online and made the payments through online.
+
+Responsibilities:
+· Involved in developing action classes using Struts Framework.
+
+· Involved in analysis design and development of applications for user interfaces using JSP’s.
+
+· Interacted with Database using DAO Design pattern.
+· Involved in implementation of Design patterns.
+· Involved in coding, reviewing, unit  testing for regular  releases
+· Involved in day-to-day client meetings.
+

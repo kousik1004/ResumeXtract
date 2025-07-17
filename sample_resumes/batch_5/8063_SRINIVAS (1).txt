@@ -1,0 +1,237 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Malleswara Rao
+
+
+ SRINIVAS
+
+Mobile: +91-9940073532
+                  
+  EMAIL
+
+                                                                                                                         nsrinivas617@gmail.com                                                                                                                                       
+
+                                
+· Overall 5+ years of experience as Oracle DBA and Oracle RAC DBA and 2+ years as GOLDENGATE
+· Administering and maintain Oracle database instances, 24X7 Production Database Support.
+· Configuration of 10g and 11g cluster on Linux environment.
+· Upgraded cluster ware as well as RDBMS
+· Experience in Patching/Upgrading Oracle (10g/11g) databases
+
+· Exposure on adding a node to existing cluster
+
+· Backup strategy for RAC databases using RMAN.
+· Performed OCR & CSS files backup and Administrated RAC database using SRVCTL.
+· Provided support to development and implementation groups for RAC instances.
+· Managing Import/Export depending up on Requirement.
+· Upgrading of database from one release to next release manually and automatically (DBUA).
+· Cloning and refresh of Database.
+· Space Management which includes table space creation,adding new datafiles
+· Knowledge in enabling archiving.
+· Creation and Management of Table spaces.
+
+· Performed different methods of backups like Physical (Cold, Hot) and Logical (exp/imp).
+
+· Designing the Backup and Recovery strategy, and taking hot backups manually on need basis.
+
+· Knowledge on backups, recoveries and cloning using RMAN.
+
+· Knowledge on Migrating database from NON-RAC to RAC and RAC to NON-RAC and RAC-RAC
+· Migrate database from normal file system to ASM file system.
+· Performed TAF (Transparent Application Failover) configuration.
+· Knowledge for creating dblinks and materialized views.
+· Hands on experience DATA GUARD.
+· Good Knowledge of Performance Tuning
+· knowledge performance Issues with Awr & Ash &Addm reports.
+
+· Master of science/Information Techonology(2007-09) from J.J. College of Arts & Science, Pudukkottai.
+
+· Working for HCL Technologies, Chennai as Associate Consultant on ORACLE DBA  from June 2012 to Jan 2017
+· Worked for Wipro InfoTech, Bangalore as Senior engineer Database Administration on ORACLE DBA  from Sep 2011 to Apr 2012
+
+            Operating systems
+: Red hat Linux
+            Tools
+
+: RMAN, exp/imp, data pump
+            RDBMS
+
+: oracle 10g            
+            Skills
+
+: Cloning, Backup, Upgrading, 10g RAC
+
+            Project
+1
+
+: Crawford Production and test Support for oracle 10g/11g/12c databases
+            Role
+
+
+: Associate Consultant  
+            Environment
+
+: Oracle 10g, Red-Hat Enterprise Linux/AIX
+            Duration
+
+: May 2012 to Jan 2017
+Responsibilities:
+
+· Checking alert log files and data gauard status
+
+· Providing production support as an Oracle DBA
+· Granting and Revoking Perimission to/from the users on needed basis
+· Monitoring and managing space availability.
+
+· Taking backups and restoring for recovery by using RMAN
+· Performing recoveries like schema, datafile, tablespace etc.
+
+· Creating and managing database users.
+
+· Monitoring space availability.
+· Monitored the growth of Table spaces and Tables to see the fragmentation and available space for growth. Check for log and trace filesMaintaining backups using  like Physical (Cold, Hot) and Logical (exp/imp)..
+
+· Experience in database up gradation in 10g to 11g and 11g to 12c
+· Implementation of TAF (Transparent Application failover) for RAC database
+· Migrate NON-RAC database to RAC-database.
+
+· Check out crs status and Administration of RAC Instances using SRVCTL Utility.
+
+· Applied database patches
+
+· Cloning from cluster database to Normal database for test environment.
+
+· Load balancing across the instances.
+
+· Tacking backup of OCR and CSS files using cluster utilities.
+· Check out crs status and Administration of RAC Instances using SRVCTL Utility.
+· Installation and Administration of Goldengate on 11g/12c Databases on Oracle Enterprise Linux
+
+· Data initial load of Schema and Table by using Expdp/Impdp for Goldengate Replication
+Project 
+                       : production UCO RRB Production and test Support for oracle 10g databases                    
+           Role
+
+
+: Seinor software engineer database administration.
+           Environment
+
+: Oracle 10g, Red-Hat Enterprise Linux 
+           Duration
+
+: Sep 2011 to Apr 2012
+Responsibilities:        
+· Managing of Tablespaces for Different User by Granting Quota on Default & Temporary Tablespaces.
+
+· Managing Redo Log files in Archive log Mode for Online Backup.
+
+· Monitored table spaces & their growth and took proper actions.
+· Backup and recoveries using RMAN.
+· Creating of database indexes on certain tables to improve query performance after thoroughly testing the same in the development environment.
+
+· Cloning the database though RMAN as per the requirement.
+· Monitoring alert log files.
+· Providing production support as an Oracle DBA
+· Granting and Revoking Perimission to/from the users on needed basis
+· Monitoring and managing space availability.
+
+· Taking backups and restoring for recovery.
+
+· Monitoring alert log for errors.
+
+· Performing recoveries like schema, datafile, tablespace etc.
+
+· Creating and managing database users.
+
+· Monitoring space availability.
+· Creation of ASM database and managing the ASM instance
+· Monitored the growth of Table spaces and Tables to see the fragmentation and available space for growth. Check for log and trace filesMaintaining backups using  like Physical (Cold, Hot) and Logical (exp/imp)..
+
+· Experience in database up gradation in 9i to 10g.
+· Migrate database from normal file system to ASM file system.
+· Space Management which includes table space creation, adding new datafiles.
+
+
+
+
+
+
+
+
+
+
+(SRINIVAS)
+
+
+ Summary
+
+
+
+Educational Qualification
+
+
+
+
+
+ Skill set
+
+
+
+
+
+
+
+Working Experience
+
+
+
+Professional Experience
+
+
+
+
+
+PAGE  
+2
+

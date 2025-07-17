@@ -1,0 +1,226 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRIYANKAWAGHMODE
+SASBASE/DIDeveloper Phone:(mob)+91-
+8422089632
+Email:priyanka.waghmode90@gmail.com
+
+SYNOPSIS
+
+Self-motivatedandbusinesssavvyprofessionalhaving5yearsofexperienceinItIndustryof
+Datawarehouse,DataAnalytics,Testing,ProductionSupportinvariedindustriessuchasRetail
+BankingandCorporateBanking.
+
+ Adroit at learning new concepts quickly, working well under pressure and
+communicatingideasclearlyandeffectively.
+
+ Dedicatedandhighlyambitioustoachievepersonalaswellasorganizationalgoals
+ Friendlywithanupbeatattitude.
+
+ProfessionalSummary:
+
+ ExcellentSASprogrammingknowledgeforcreating,maintainingexistingcode,adhoc
+reportingandsupportingthereportingfunctions.
+
+ StrongskillsinDataRequirementAnalysis,DataMappingandtoextractdatafrom a
+varietyofoperationaldatasources.
+
+ StrongabilitytowriteSQLqueriesusingPROCSQL.
+ WorkedonvariousSASToolssuchasDIStudio,ReportStudio,InformationMapsand
+
+SASEG.
+ ExperienceinusingvariousSASproceduressuchas:Procreport,Procformat,
+
+Procdataset,Procsql,Procprint,Procsort.
+ Analyzingdataandprovidingvaluablesolutionfortherequirement.
+ InvolvedinDatamartmodeldesigning.
+ DDSimplementationtostorehistoricaldata.
+ Experienceinrequirementgathering,analysis,designing,codingandUnittesting.
+
+Education:
+
+Bachelor’sofEngineeringinComputerScience,SolapurUniversity–Maharashtra,2011
+
+Achievements:
+
+ ExcellentTeam PerformanceAwardforannualperiod2014-15.
+
+aEmployment:
+
+ L&TInfoTech(April’2012–March’2017)
+
+TECHNICALEXPERTISE:
+
+SAS
+Technology
+
+BaseSAS,SASMacros
+
+
+
+SASTool
+SASDIStudio,WebReportStudio,SASInformationMapStudio,Stored
+Procedure,SASOLAPCubeStudio,SASEG
+
+Database Oracle10g/9i,MSSQLServer
+
+Programming
+Language
+
+COREJAVA
+
+Operating
+System
+
+Unix,WindowsXP,Windows7
+
+OfficeTool MSOfficeSuit,PowerPoint,AdvancedExcel,Access
+
+WORKEXPERIENCE:
+
+I.ProjectName:AHB–AutomationofProvisioningProcess(June’2014-Dec’2016)
+
+TheAHB-Provisioningprojectisanautomationoftheprovisioningprocessusingproposeddata
+warehouseasthesourceofthedataforprovisioningproject.Oneoftheinitiativesunderthis
+program istoautomatetheretail,corporate,treasury&investmentsprovisioningprocess.The
+sourcesystemsinvolvedintheaforementionedinitiativesareTemenosT24(CoreBanking
+System),HPS(CreditCardApplication),Oracle(ERP&GroupGL),LiabilityManagementSystem
+(LMS),Fiserv(ALM),CreditData-Limits,Collaterals,Ratings(currentlythroughSharePointin
+excel)&othermanualinputs.
+
+Role&Contribution:Team Member:
+
+Module1.Provisioning
+
+ Analyzetherequirementandunderstandingbusinessconcepts.
+Extractingdatafrom Oracledatabase
+
+ DesignedanddevelopedExtract,Transform,Load(ETL)processesusing DataIntegration
+Studiotopopulatingreportssummarytablesandforimplementationoflogic.
+
+ Generatedvarious cannedperiodic and ad-hocreports byWRSusingInformationmap.
+ Createdstoredprocessforcomplexreports.
+
+Module2.FinancialReports
+
+ Extract Statistical data from transactional data source with statistical
+procedures developedtheETLprocessesforloadingdatamart.
+
+ UseddifferentinputstylestoreadtheTXT,CSVandEXCELfilestoreadintoSASand
+createSASdatasetsalsowrotecomplexSQLtojoinSASdatasetsandOracletables. 
+
+ Collectdatafrom varioussourcesystemslikeT24,HPS,andERP.
+ DoneDatapreparationandanalysisforFinancialReports.
+ CreatingSASVisualAnalyticsReportsusingSAStoimportdatatoexternalfileformats
+
+like flat,Excel.
+ Development ofdocumentation like FRD,TechnicalSpecifications 
+ From BRDand Process/Program flow,testingdocumentforreportsaswellasETL.
+
+
+
+ InvolvedinDeploymentactivitiesfrom DEVtoUAT.
+ Windowsscriptingforschedulingconfigurationfiles.
+
+Technologies:
+
+SASDataIntegrationStudio,SASEnterpriseGuide,SASInformationMap,SASWebreport
+Studio,Oraclesqldeveloper
+
+II.ProjectName:BBBEEReporting(Jan’2014-Apr’2014)
+
+ProcessingtherawdatainSASEGbyImplementingBusinessLogicasdirectedbytheclient.
+CreationandSummarizingtheProcessedDataandexportingitbacktotheRequiredFormat.
+
+Role&Contribution:Team Member:
+
+ GeneratereportseitherinMSExcel,HTML,PDForListingformatsaccordingtotheclient
+
+specifications
+
+ AssignedtheLogicaltasksofdesigninganddevelopingproject-specificSASprogramslike
+
+producinganalysisdatasetsandreportsandalsocreationofDataSets
+
+ PreparednewDatasetsfrom rawdatafilesandmodifiedexistingdatasetsusingSet,Merge,
+
+Sort,andUpdate,Formats,Functionsandconditionalstatements
+
+ ManipulatingandtransformingdataandcombiningSASdatasetsandDevelopingdetail
+andsummaryreportsusingSASprocedures
+
+ UseofProcSQLtocreatetables,jointablesandperform queriesasperclientrequirement
+
+Technologies:
+
+SASEnterpriseGuide
+
+III.ProjectName:CITIGFTS(Aug’2012-Dec’2013)
+
+TheCITIGFTSprojectisasupportprojectwhichmainlyfocusesonmonitoringthedashboard
+
+throughRTViewtool.Thedashboardshowsstatus&healthofApplications,Infrastructure&
+
+Servers.Thealertsgeneratedondashboardaredirectedtotheconcernedteam bynotifying
+
+them throughmails.AlsotheprojectcoversapartofServiceDesklikeclearingVTs,solving
+
+dataissues,applicationonboarding,providingGUItouseretc.
+
+Role&Contribution:Team Member:
+
+
+
+ Understandingtherequirement&Discussingwithteam.
+
+ WritingcodeusingstrutsframeworkinjavaforGUIdevelopment.
+
+ Testingofcode.
+
+ EnhancementsdoneforexistingGUI.
+
+ Onboardingofnewapplication.
+
+Technologies:
+
+JSPJava,JavaScript,OracleDatabase,WindowsXPOS,ApplicationServerApacheTomcat.
+
+PersonalInformation
+
+Gender : Female
+
+MaritalStatus: Married
+
+DOB : 15-July-1990
+
+Languages : English,Hindi,Marathi.
+
+Declaration
+
+Iassurethatalltheabovefurnishedinformationistruetomyknowledge.
+
+PriyankaWaghmode
+
+

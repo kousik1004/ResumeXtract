@@ -1,0 +1,174 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LakshmiKanth Vemula                                                    E-mail: vemulalakshmikanth@gmail.com
+Mobile: 9000919358
+9740393307
+
+
+Professional Summary:
+
+· Around 2 years of experience in analysing, designing, developing and maintenance of database objects using MS SQL Server 2012/2008 R2 SQL Server Management Services and MSBI tools like SSIS,SSRS.
+· Experience in T-SQL (DML, DDL) using SQL Server 2012/2008 R2 platforms.
+· Experience in writing medium and complex queries using JOINS and Sub queries.
+· Experience in creating Tables, Stored Procedures, Views, Indexes, CTE’s and User Defined Functions.
+· Experience in Business Intelligence tools like SQL Server 2012 and 2008 R2 Integration Services (SSIS) and Reporting Services (SSRS).
+· Experience in SQL Server Integration Services (SSIS) to build Data Integration and Extract, Transform and Load (ETL) solutions for Data warehousing applications.
+· Created SSIS packages to Import and Export of data to and from SQL Server 2008, 2012, Oracle databases and various file formats like Text, Excel, CSV, and XML.
+· Created SSIS packages to Import the data from Oracle Cloud Platforms like Eloqua and CRM.
+· Deployed, Scheduled and Maintained SSIS packages with SQL Server Agent.
+· Designed and developed reports using SSRS.
+· Deployed the reports in reporting server using report manager.
+· Worked on Tabular, Matrix and Parameterized reports.
+· Created Reports and Dashboards using Tableau Desktop.
+· Worked on customizing Tableau reports and Dashboards.
+· Published the Workbooks and data Sources in Tableau Server.
+· Basic Knowledge on data warehousing concepts, creating cubes using SSAS and Python.
+
+Technical Skills: 
+
+Databases			:	SQL Server 2012/2008 R2 and Oracle
+ETL Tools                   		: 	SSIS
+Report Tools			:	SSRS
+Visualisation Tools		: 	Tableau
+
+Organisational Experience 
+
+Working as Software Engineer (BI Developer) in SLK Software Services Pvt. Ltd. from September 15th 2016 to Nov 9th 2018	 
+
+Educational Qualification: 
+
+       	Graduated with Batchelor’s of Technology focussed in computer science from Swarnandhra Institute of Engineering College in 2016.
+Achievements: 
+       Received the Quarterly Award for Excellence in Performance in SLK Software Services Pvt. Ltd. For Q4 2017 -2018.
+
+Events: 
+       Attended Tableau Conference at Conrad Hotels Bangalore conducted by Tableau on September 6th 2018.
+
+Project Handled 1
+
+Client				: Emerson
+Project				: Sales Enablement Project
+Role				: BI Developer
+Domain				: Manufacturing
+Databases			: Oracle cloud Platforms (Eloqua, CRM), Qualtrics and SQL Server
+Tools and Technologies	: SSMS, SSIS, Tableau, Python
+
+Description:
+
+ Eloqua, CRM are cloud Platforms Provided by Oracle. The Objective of this project is to retrieve the data from Eloqua, Qualtrics and CRM web Services Using SSIS to SQL Server, develop data warehousing and develop reports and dashboards using tableau.
+
+Responsibilities:
+
+· Gathering and Understanding user requirements for the creation of SSIS packages and reports.
+· Designing and developing the flow to Import the data to SQL Server from Eloqua and CRM using SSIS packages.
+· Creating SSIS packages to develop transactional and Snapshot tables.
+· Developing the Python Code to pull the data from Could Platform API’s to SQL server.
+· Creating SSIS packages to execute Python Scripts and implement incremental load from Cloud platforms to SQL Server.
+· Created SSIS packages to execute python scripts to load the data from bulk API’s to SQL Server incrementally.
+· Created SSIS packages to retrieve the data from Excel Files to SQL Server.
+· Deploying SSIS packages in integration services catalogue.
+· Creating SQL jobs for SSIS packages and T-SQL Stored Procedures.
+· Scheduling and Maintaining the SQL Jobs Using SQL Server Agent to automate the process.
+· Design and develop the reports and Dashboards using Tableau Desktop. 
+· Worked on report customizations in Tableau reports.
+· Publishing workbooks and data sources on Tableau Server.
+
+Project Handled 2
+
+Client		: Emerson
+Project		: Modula - Automatic Storage Retrieval System
+Role		: BI Developer
+Domain		: Manufacturing
+Databases	: Oracle and SQL Server
+Tools		: SSMS, SSIS, SSRS
+
+Description:
+
+ Modula is a Vertical Lift Machine (VLM) used for retrieving items from Inventories in manufacturing locations. VLM will retrieve items from the Inventories based orders created in EBS. This Machine has its own databases and applications. The objective of this Project is to create SSIS packages to extract the data from Oracle EBS to SQL Server database. Also to create SSRS reports to analyse the data from both the systems.
+
+Responsibilities:
+
+· Gathering and Understanding user requirements for the creation of SSIS packages and SSRS reports.
+· Designing and developing the flow to Import and Export the data to and from SQL Server and Oracle using SSIS packages.
+· Creating SSIS packages to extract the data from Oracle to SQL Server by following incremental load strategy.
+· Writing SQL queries for retrieving the data from oracle and organizing the data in SQL Server for better performance of SSIS packages.
+· Creating SSIS packages for loading the data to Oracle from SQL Server tables.
+· Deploying SSIS packages in integration services catalogue.
+· Scheduling and Maintaining the SQL Jobs Using SQL Server Agent to automate the process.
+· Developing the parameterised tabular reports to display the data from different SQL Server databases using SSRS.
+· Deploying and managing the SSRS reports in the report server using report manager.
+
+Project Handled 3
+
+Client		: Emerson
+Project		: Remote Automation Solutions
+Role		: BI Developer
+Domain		: Manufacturing
+Databases	: Oracle and SQL Server
+Tools		: SSMS, SSIS
+
+Description:
+
+ Remote Automation Solutions (RAS) is a business unit of Emerson that develops systems and solutions for various purposes. The objective of this project is to develop Excel reports for business analysis using SSIS and T-SQL concepts. Also to automate Excel file generation, sending them to Users and uploading them to SharePoint dynamically.
+
+Responsibilities:
+
+· Gathering and Understanding user requirements for the creation of reports using SSIS packages.
+· Designing and developing the flow to Import and Export the data to and from SQL Server and Oracle using SSIS packages and T-SQL.
+· Creating SSIS packages to extract the data from Oracle to SQL Server by following incremental load strategy.
+· Writing SQL queries for retrieving the data from oracle and organizing the data in SQL Server for better performance of SSIS packages.
+· Created T-SQL Stored Procedures to retrieve the data from oracle to SQL.
+· Created T-SQL stored procedures to load the data to Excel Files dynamically.
+· Developing the SSIS packages to generate the Excel files dynamically.
+· Developing the SSIS packages to send the Excel files in emails to the users dynamically.
+· Developing the SSIS packages to upload the Excel files to SharePoint dynamically.
+· Deploying SSIS packages in integration services catalogue.
+· Creating SQL jobs for SSIS packages and T-SQL Stored Procedures.
+· Scheduling and Maintaining the SQL Jobs Using SQL Server Agent to automate the process

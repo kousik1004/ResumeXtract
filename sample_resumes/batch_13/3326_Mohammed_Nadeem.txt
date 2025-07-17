@@ -1,0 +1,224 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mohammed Nadeem
+
+Mobile no:    9773168964
+E-mail       :   nadeemtycs@gmail.com/mohd.nadeemshaikh@rocketmail.com
+Objective
+I am a team player , passionate for success , I wish to seek an opportunity in growth oriented company , which provide me opportunities to utilize my technical knowledge & skill & at the same time offers continuous learning.
+Career snapshot
+· 5 Year 10 months of hands-on development experience in .Net Web and Windows Applications.
+· Programming experience and knowledge using SQL Server and MS-Access database.
+· Work well in the team environment.
+· Interested in exploring new Technologies.
+· Self-motivated, quick learner, able to work well under tight deadlines and rapidly changing priorities.
+TECHNICAL SKILLS
+Programming Languages 	: C#.NET, ASP.NET, ASP.NET MVC 4.0, VB.Net, WPF (Basics)
+Microsoft Technologies	: ASP.NET 3.5 and 4.0, 4.7.2, ADO.NET, ASP.NET MVC 4.0
+Web Technologies	: JavaScript, JQuery, Bootstrap, AngularJS, C3.js, Web services, HTML, AJAX, CSS, OpenXML.
+RDBMS			: MS SQL Server 2005/2008/2012, MS-Access.
+Tools				: MS Visual Studio 2008, MS Visual Studio 2010, MS Visual Studio 2012, MS       Visual Studio 2013, MS Visual Studio 2017, MS SQL Server 2008, MS SQL Server 2012, MS-Access 2007.
+Operating System		: Windows XP/Vista/Windows 7/Windows 10.
+Office Productivity Tools 	: MS office 2007/2010/2013.
+EXPERIENCE summary
+
+Organization1		: Smartrix Technologies 
+Designation			: Jr. Software Engineer.
+Duration			: 01-Oct-2012 to 14-Jan-2014. 
+
+Organization2		: Bluezone Systems Pvt. Ltd. 
+Designation			: Sr. Software Engineer.
+Duration			: 15-Jan-2014 to till date. 
+
+
+JOB DETAILS (Bluezone Systems Pvt. Ltd)
+1) Title: Tax Litigation Management Tool(LMT/DigiLiM)  Web (ASP.Net) (2.6+ Year) Currently working
+Technology Used: ASP.net, C#, JQuery, C3.js, Bootstrap, SSRS reporting, Telerik controls, CSS, JavaScript, OpenXML, XML, SQL server
+Client: Ernst & Young
+Description: This project is one of the product of the Ernst & Young for handling litigations and proceedings for several type of matters. Also deals with tax returns, this is one the biggest product of TAX technology team.
+Responsibilities: developments and implementation of new modules changes and customization proposal given by the clients or internal application managers and also given support for that application to those clients for some bugs or changes.
+2) Title: Purchase Request And Ordering System(PROS) Web (ASP.Net) (1 Year)
+Technology Used: ASP.net, C#, JQuery, CSS, JavaScript, SQL server
+Client: TATA Consulting Engineers (TCE)
+Description: Purchase request and ordering system (PROS) project is all about automating purchase of goods and services inters of percentage and quantity, this application is having 6 major modules namely Purchase request(PR), Purchase recommendations(PReco), Purchase Order(PO), Service entry(SE), Good receipt(GRN) and Vendor. There were some big challenges in this project like budget checking logic, tax calculation etc. and also it is developed in 3 tier architecture so that business logic is separated and can be customize as per the requirement with minimal effort.
+Responsibilities: Participated in system analysis and design and complete development.
+ I was involved in Database and application Creation and development
+
+3) Title: Tax Deduction Reconciliation (TDS-Reconciliation) Web(ASP.Net) (2 Months)
+Technology Used: ASP.net, C#, JQuery, C3.js, CSS, JavaScript, SQL server
+Client: Ernst & Young
+Description: This project was created for our client Ernst and Young for their tax deduction reconciliation between filed tax deduction and tax deduction given by Income tax to find the difference between and reconcile them.
+Responsibilities: Design and development of the database and application.
+
+4) Title: Mentor Mentee Application  Web (MVC) (6 Months)
+Technology Used: MVC, C#, JQuery, Web API, AngularJS, CSS, Bootstrap, JavaScript, SQL server
+Client: Ernst & Young
+Description: This project was created for our client Ernst and Young for their employees to become mentor for some financially backward students to guide them as a mentor under their CSR program.
+Responsibilities: Design and development of the database and application.
+5) Title: Guest House Management Application(GHMS)  Web (ASP.Net) (2 Months)
+Technology Used: ASP.net, C#, JQuery, SSRS reporting, Telerik controls, CSS, JavaScript, SQL server
+Client: Ernst & Young
+Description: This project was created for our client Ernst and Young for their employee’s guest booking procedures to be handled through application for across India.
+Responsibilities: Application were developed earlier by some previous developer with very bad coding standard and also and also there were change in entire workflow so redevelopment done.
+
+6) Title: Online Payment Requisition System (OPRS)  Web (ASP.Net) (3 Months)
+Technology Used: ASP.net, C#, JQuery, SSRS reporting, Telerik controls, CSS, JavaScript, Ajax, SQL server, Web services
+Client: Ernst & Young
+Description: This project is used for internal payment processing of the company created for our client Ernst and Young for across India.
+Responsibilities: Implementation of new module and complete change in workflow at database and application level both.
+
+7) Title: Engagement Management Application(Eng)  Web (ASP.Net) (3 Months)
+Technology Used: ASP.net, C#, JQuery, SSRS reporting, Telerik controls, CSS, JavaScript, Ajax, SQL server, Web services
+Client: Ernst & Young
+Description: This project is used for internal management of the projects (Engagement) related changes to be done in some module which is to be used by all India users.
+Responsibilities: Implementation of new module of write-off and reversal at database and application level both.
+
+
+JOB DETAILS (Smartrix Technologies)(1 Year 2 Months)
+1) Title: Online Examination (Web)
+Technology Used: ASP.net, C#, JQuery, CSS, JavaScript, Ajax, SQL server
+Description: Online Test Engine project is all about automating exam conducted by various institutes so that exam can be conducted online and even result can be displayed online. This helps institute to save time for generating paper and maintaining the security of the paper. Checking paper is again a tedious job and it does include human error. To overcome above problem all the process for conducting exam and displaying result is automated and will be taken care by the proposed system. 
+Responsibilities: Participated in system analysis and design.
+ I was involved in Database Creation and development 
+· Interface For Question Answer:
+· Creating Procedure for Question Answer
+· Developing admin rights to insert data.
+· Creating exam page for online test.
+
+2) Title: Library Management with Barcode (Windows)
+Technology Used: C#, SQL server
+Client: Mumbai Police 
+Description: Mumbai Police is having 5000 books and issues to selected 10 members only. They used to generate barcode and scan it on the time to assignment.
+
+Responsibilities: Complete Design and development (Solo).
+ 
+3) Title: Letter Management (Windows)
+Technology Used: C#, SQL server
+Client: Mumbai Police
+Description: This project is created to handle request, complain and feedback from the citizens to CP who wants to handled it directly and keep the track of all letter coming from citizens.
+Responsibilities: Complete Design and development (Solo).
+4) Title: Bombay Mercantile Bank’s society management (Windows)
+Technology Used: C#, SQL server, Crystal reports
+Client: Bombay Mercantile Bank
+
+Description: This is a windows based application created for BMC’s society maintenance. They used to give loan to their society members only and used to maintain EMI and whole procedure. This app is Single pc user as per client’s requirement.
+Responsibilities: Design database and planning as a project coordinator
+1) User and session maintenance and Employee Maintenance 
+2) Branch Maintenance
+3) Account File Maintenance and Party Head Maintenance
+4) Print Share certificate (Crystal Report)
+5) Share Capital Balance (Crystal Report)
+6) Loan Deduction Statement (Crystal Report)
+
+ACEDEMIC QUALIFICATIONS
+	Examination
+	Board/University
+	Year of Passing
+	Class
+
+	BSC(CS)
+	Mumbai
+	2008-11
+	2nd Class
+
+	HSC(SCI.)
+	Mumbai
+	2007-08
+	2nd Class
+
+	SSC
+	Mumbai
+	2005-06
+	1st Class
+
+
+Personal Details
+	Name
+	:
+	Mohammed Nadeem Shaikh
+
+	Date of birth
+	:
+	07/04/1990
+
+	Sex
+	:
+	Male
+
+	Marital Status
+	:
+	Married
+
+	Languages Known
+	:
+	English, Urdu, Hindi, and Marathi
+
+	Nationality
+	:
+	Indian
+
+	Hobbies
+	:
+	Learning new technologies, Playing cricket, News, YouTube, Facebook, Twitter, Movies
+
+	Present address
+	:
+	Indian House building, 4th floor, Room No.55, P.B Marg, Near Jaffer bhai’s Delhi Darbar, Grant Road(E),  Mumbai-400004
+
+
+
+DECLARATION:
+I declare that the above furnished details are true to the best of my knowledge and belief.
+
+Place: Mumbai.
+Date:
+
+(Mohammed Nadeem Shaikh)
+

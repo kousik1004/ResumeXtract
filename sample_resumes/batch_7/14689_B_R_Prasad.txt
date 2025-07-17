@@ -1,0 +1,155 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ B R Prasad
+
+(  Email: renukaprasad.bhoga@gmail.com
+
+(  Mobile: +91-8074340286                                                     
+
+Professional Summary
+
+· Having around  years of IT Experience in Microsoft Business Intelligence.
+
+· Hands on experience in Involved in MSBI projects with extensive usage of ETL & Reporting tools like SSIS, Pentaho ETL and DTS, SSRS, Crystal reports, Power BI  
+
+· Worked on SAP CMC Business object toll to deploy and schedule the report instances 
+
+ As per client requirements, Creation of BO User accounts. 
+· Creating the reports as per client’s requirement in the form of table, matrix.
+
+· Ability to create Sub Reports, Drilldown Reports, Drill through Reports, Parameterized Reports and Linked Reports from queries in SSRS.
+· Hands on experience in Extract, Transform Experience & Load (ETL) development using SQL Server Integration Services (SSIS).
+· DWH Designing using SSIS for Dimensions and Facts classified under complex category.
+· Having good working knowledge on creation and scheduling of Sql server agent jobs to run daily ETL’s.
+· Knowledge on creating different types of reports and dashboards by using Power BI.
+· Having good working Knowledge on SQL SERVER 2008R2, 2012 T-SQL.
+
+· Having Good analytical and problem solving capability.
+Work Experience:
+· Working as a Analyst for Travelex India, Mumbai from JUNE 2015 to till date.
+· Worked as a Consultant with Mind craft Software Pvt Ltd, Mumbai from Oct-2014 to June2015.
+· Worked as a Tech support Engineer with Sreeven Infocom, Mumbai from Mar-2012 to June 2014.
+
+Education:
+
+· B.Tech from Jawaharlal Nehru Technological University. 
+· Intermediate from Board of intermediate, AP.
+
+· High school from Board of secondary education AP.
+
+ Technical Skills:
+RDBMS                         : SQL Server 2008R2, SQL Server 2012
+
+ETL Tools                     : SQL Server Integration Services (SSIS)
+
+Reporting Tools           : SQL Server Reporting Service (SSRS) and PowerBI 
+Professional Experience: 
+Project #1:
+
+· Project Title
+
+: MIBI
+· Client
+
+
+: Travelex India 
+· Environment
+
+: SSIS,SSRS, PowerBI, SQL Server 2008R2                                                                 
+· Duration       
+           :  June 2015 to till date
+Project Description:  Travelex Group is a foreign exchange company headquartered in London. Its main businesses are international payments, bureaux de change and issuing prepaid credit cards for use by travelers. It is the world's largest foreign exchange bureau.
+The scope of this project is to capture the sales and purchases of the retail stores,Transactions of the ATMs and Transactions of the credit cards from the all Travelex retails shops and ATMs. For this, we have data warehouse to maintain the history and current data of the retails shops and ATMs of Travelex.  Data from operational source system was extracted, transformed and loaded into data warehouse. Earlier Travelex had a complex dashboard in Excel and it’s given slow performance, limited data availability and it’s took around two weeks to build that Dashboards. We designed ETL framework and enriched Data Warehouse. Then we design Tabular model with different types of KPI, measures and perspective. Then we converted all Excel Dashboards and we got good performance with large number of data. Designed High level dashboard using Power BI. 
+
+Responsibilities:
+· Understanding and Analyzing the Requirements.
+
+· Currently working on Change requests  providing production Support to end users 
+
+· Daily Interacting with business users for their retail,ATM's and Credit cards reports.
+· Create the interfaces between source(Day-end files) and sql server database to transfer data from source to SQL server 2008 R2 and 2012. For this we are creating SSIS packages.
+
+· Create and manipulate the ETLs as per the templates using sql server integration services.
+· Working on Generating reports like  table, matrix, parameterized reports using SQL server reporting services.
+         Working on creating the reports like table, matrix, different types of charts, different                     types of dash boards by using PowerBI
+
+Project #2:
+
+· Project Title
+
+: Asset Management
+· Client
+
+
+: Birla Sun Life Insurance Company 
+· Environment
+
+: SSIS,SSRS, SQL Server 2008R2
+
+· Duration       
+           : Nov- 2014 to May 2015.
+Project Description:   The Business domain in these projects is banking which deals with Giving the loans and auto Finance. Any Bank before giving the loan needs the information about the customer or business organization to which it is giving the loan. This bank deals with two kinds of customers- individual customers and business customers. For individual customers it needs the customer’s name, its DOB, address details, contact details etc. For business customers it needs the organization name, address details, contact details etc. There can be many address types like legal addresses, trading addresses and mailing addresses. Also there can be many contact types like home phone, work phone, email addresses. We need to store the different address and contact types. The Bank also needs the suppression details like types of suppression, which customer has what suppression etc.
+Responsibilities:
+
+· Understanding and Analyzing the Requirements.
+
+· Responsible for the designing, coding maintaining the code. 
+
+· Used SSRS technology in project for making reports and display on the front end on SharePoint 
+
+· Understanding Business requirements and creating various SSIS packages for different 
+     Phases  E.g. : Claims, Persistency, Investments, Distribution Efficiency etc.. 
+
+· Worked on For Loop Container, For Each Loop container, Sequence Container, Execute SQL Task and Data Flow Tasks like Derived Column, Conditional Split, Aggregate, Union all, Merge join, Lookup,.
+
+· Generating Reports using T-SQL queries as per client’s requirement in the form of table, Sub Reports, Drilldown Reports, Drill through Reports, Parameterized Reports and Linked Reports
+· Contributed in making architectural changes For the project
+
+· Also working related different lines of business  Aditya Money Limited and Aditya Birla  finance limited
+
+· Worked on the Design documents.

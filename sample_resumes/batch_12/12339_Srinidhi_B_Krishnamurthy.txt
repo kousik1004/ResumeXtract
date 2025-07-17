@@ -1,0 +1,248 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Srinidhi B Krishnamurthy
+Mobile no.: +919986309496
+Email: nidhibhargavas02@gmail.com
+CAREER OBJECTIVE:
+Looking for a challenging and progressive position within a dynamic organization that will effectively utilize my SQL Server DBA and SQL Development, SSIS and SSRS skills to have a positive impact on internal and external Customers.
+
+CAREER PROFILE:
+· 3 Years of experience in SQL Server 2005/2008R2,2012 Database Administration/Development
+
+· Experienced in SQL Server Procedures, Stored Procedures, Functions, Triggers and View Creation
+· Installation & configuration of SQL Server 2005,2008R2,2012 both stand alone and cluster
+
+· Migration of the SQL server from SQL 2000 to SQL Server 2008R2 & 2012 
+
+· Creating and maintaining the logins and users in SQL Instances
+
+· Planning and implementing Backup and Restore strategies
+
+· Creating Jobs, Scheduling Jobs and Sending Alerts, checking for job failures
+
+· Performance Tuning on SQL Server.  
+
+· Experience in creating Complex SSIS project and run through SQL job. 
+· Experience in SSIS Error Handling, SSIS 2008/2012 deployment. 
+· Experience in working with the SSIS, SSRS, and SQL Profiler tools.
+· Experience in doing basic DBA Activities. 
+· Experience of change and Incident management tools like DW. 
+
+Educational Qualification:
+M.C.A. (Master of Computer Application)
+Sir M. Visvesvaraya Institute of Technology, Yelahanka, Hunasamaranahalli, Bengaluru, Karnataka - 562157
+
+	Skills:
+	
+	
+
+	Database:
+	MS SQL SERVER 2012, MS SQL SERVER 2008, MS SQL SERVER 2000
+
+	Language:
+	T-SQL, C#, Asp.net
+
+	Tools:
+	SQL Server 2008/2012,SQL Server integration services 2008/2012, SQL Server Reporting services, Visual Studio 2008, Visual Studio 2010, Red Gate
+
+
+Operating System:    Windows Server 2008, Windows Server 2003, Windows Server 2012.    
+
+PROFESSIONAL EXPERIENCE:
+
+Company
+
+: Mphasis, Pune.
+
+Role
+
+
+: Delivery Software Engineer (L3)
+
+Duration
+
+: DEC 2014 - Till Date
+
+Awards and Recognition:
+
+· Numerous Appreciations from Team Lead and Project Manager for prompt support of Project.
+· Pat on the back award from HP SBU
+PROJECT SUMMARY:
+
+Project            
+
+: CDW Data Warehouse
+Client
+
+
+
+: Delphi Engineering
+Environment                       : Visual Studio 2010, SSIS, C#, Windows 2012 R2 Server, SQL Server 2012.
+
+Team 
+
+
+
+: 6
+
+Description: 
+The client is involved in the business of automotive sector. The client maintains the Data Warehouse known as Customs Data warehouse to store details about company’s business transactions.
+
+The client receives data from different brokers, agents, customers in the form of files from EMEA, US and other regions. The received files are then imported in Data Warehouse on predefined schedule. 
+
+At present Data Warehouse is built using SQL Server 2000 and data is imported using DTS 2000 packages. There are different sets of DTS 2000 packages to import data from different regions. 
+
+The project deals with the migration of existing Data Warehouse from SQL Server 2000 to SQL Server 2012 and re-designing of existing DTS 2000 packages in SSIS 2012 from the scratch for technology advancement
+
+And to optimize the performance. It also involves maintenance and support of the newly developed SSIS Packages and Data Warehouse
+
+Responsibilities:
+
+· Studied existing design, data transformation, data sources, destination and execution of DTS packages used in CDW.
+
+· Involved in requirement gathering, Package design, development, Testing and deployment.
+
+· Identified long running queries and optimized.
+
+· Created a common SSIS template which can be reused with minimal changes and shared across the team.
+
+· Used Data flow components like, Merge join, Multicast, and Lookup transformation, Derived Column, Union All and Conditional Split.
+
+· Written C# code to send an email to support team on package failure, used Script task in OnError and OnTaskFailed event handler.
+· Troubleshooting of errors by using an add watch window to view package and task variable values.
+
+· Used SSIS expressions to evaluate package variables by using conditional operator and string functions.
+· Generated XML configurable file through package configuration organizer and added connection managers and variables.
+
+· Created an error log file to log an error in text file if any of the task fails.
+
+· Troubleshooting data issues using Data viewers. Added data viewers to output paths and used grid to view data in columns and rows.
+· Identified data issues during testing, used built-in-functions in SQL queries to identify duplicate records.
+· Involved in writing a technical document for developed packages.
+· SQL database backup, adding users, restore database in development or test environment for testing
+· Scheduled packages on SQL Server Agent through command line and Integration Services using a proxy user.
+Project            
+
+    : HRMS, CMS Data Migration (Delphi Automotive)
+
+Client
+
+
+              : Delphi Engineering
+Environment                           : Visual Studio 2010, SSIS, C#, Windows 2012 R2 Server, SQL Server 2012.
+
+Team 
+
+
+
+    : 6
+Description            
+ The Delphi Automotive is one of the largest automotive parts manufacturing company.  The company maintains the Human Resource (HRMS) data, Content Management System (CMS) data for Asia Pacific region in SQL Server 2000. The HRMS and CMS related files are received in ftp location from different sources.  Then files are loaded in SQL Server 2000 using DTS. The project involves the migration of HRMS, CMS databases and DTS from SQL Server 2000 to SQL Server 2012 to eliminate the risk of using absolute technologies which are no more supported by the third party as well as for performance optimization. This includes re-developing of all the DTS to convert them to SSIS packages and migrating databases from SQL server 2000 to SQL Server 2012. The project also covers support and monitoring post production deployment.
+
+Responsibilities                   : 
+
+· Involved in gathering the information from client and understanding existing processes
+
+· Developing and testing SSIS packages in SQL Server 2012
+
+· Troubleshooting and fixing database issues which are not supported in newer version
+
+· Providing second level support as and when required
+
+· Writing technical design documents and WPRs
+
+· Optimization of stored procedures, creating and building indices
+
+Project 
+
+          : Phillips Health Care
+Client
+
+
+
+: Phillips 
+
+Environment
+
+
+: SQL Server 2012 Enterprise Edition, Red Gate.
+
+Team 
+
+
+
+: Individual Contribution
+
+Description:
+Generating data for testing purpose and writing T – SQL scripts based on the Business requirement.
+Responsibilities:
+· Generating data using RedGate tool for Testing Purpose.
+
+· Validating Data which is generated from RedGate tool.
+
+· Generating T – SQL Scripts based on business requirement.
+
+· Writing scripts for validating the data.
+
+· Ensure database backup is being performed on daily basis.
+
+· Restoring the database when it’s required.
+
+· Ensure there is enough storage for data/log files to grow.
+
+Personal Details:
+
+Father’s Name            :  B.V Krishnamurthy
+Date of Birth               :  02 DEC, 1990
+
+Languages known       :  English, Hindi, Kannada.
+
+Hobbies                       :  Trekking, dancing, travel, playing cricket, listening to music.
+Permanent Address    :  ‘Aashirwada’, 7th main 5th cross, Gokula ext, Kyasandra post, Tumkur-572104
+
+

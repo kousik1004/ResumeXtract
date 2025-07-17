@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOWJANYA J                                                                           Email:sowjanyajammula16@gamil.com
+							Phone: +91 7675057003
+  	
+Work Experience:
+· Working as a Software Engineer for Napier HealthCare Solutions Pvt Ltd, Hyderabad from June 2015 to till date.
+
+Educational Details:
+·  Bachelor of Technology from JNTU, KAKINADA.
+
+Professional Summary:
+· Around 2+years of experience in Core Java, SQL. Analysis, Design, Development, Maintenance and Implementing Enterprise, Web and Client Server applications using JAVA/JEE technologies and Object oriented technology.
+·  Expertise in developing applications using JEE technologies like JDBC, Servlets, JSP, XML and enterprise frameworks like  Spring , Hibernate, Struts, Web Services. 
+· Expertise in developing Persistence Layer using Hibernate, JDBC, JPA with good knowledge on Databases, SQL, DAO design pattern, ORM and JPA.
+· Expertise in developing Web User Interface using JSP’s, Servlets, Filters, Custom Tag and consuming third party custom tag libraries like JSTL, Struts Tag libraries, etc.. Expertise in developing validation framework related to domain business rules, using  Java Script, commons Validator framework
+· Expertise in developing business solutions with excellent knowledge on Object Oriented analysis, design and development principles. Possess good knowledge on several design patterns including but not limited to MVC, DAO, Value Object etc.
+· Extensive experience of database programming in oracle environment using SQL with tools such as SQL Developer.
+· Experience in using build tools like ANT and Maven, Log4j.
+· Experience in developing applications using IDE’s like Eclipse, My Eclipse. 
+· Problem solver with the ability to rapidly analyze challenges, applying strategic thinking to tactical concerns with strong problem solving skills and a result oriented attitude.
+· Excellent team player, quick learner and self-starter with effective communication, motivation and organizational skills combined with attention to details and business process improvements.
+
+Technical Skills:
+
+	Programming Languages
+	Core Java, SQL, PL-SQL
+
+	Java/J2EE Technologies
+	JDBC, Servlets, JSP, JPA, JTA, JNDI
+
+	JEE Frameworks
+	Spring, Spring DAO, Spring AOP,  Spring IOC, Spring MVC, Spring Boot, Hibernate, SOAP Web Services, Rest web services, Struts.
+
+	Web/Application Server
+	Tomcat, Web logic, Web Sphere
+
+	Web Technologies
+	HTML, CSS, JavaScript
+
+	Databases
+	Oracle
+
+	IDE’s
+	Eclipse, My Eclipse
+
+	Operating Systems
+	Windows, Linux
+
+	Other Tools & Packages
+	SVN, ANT, Maven, Log4j
+
+
+
+
+Professional Experience:
+
+Project 1:
+
+Client                            	:  Bedford Hospitals, UK 
+Period			: April 2016 to till date
+Role                              	:  Java/J2EE Developer
+Project                         	:  Health Care Info System
+
+Description: This web application Product deals with the designing & execution for the complete maintenance of the Heath Care System of a Hospital organization. Modules were designed for various departments & processes such as Consultant, Services, Front desk, Office Manager, Patient and Visitor, Doctor Information, pay bill etc. It also involved report generation for the same.
+
+Responsibilities:
+· Developing Spring Bean classes, Controller classes Using Spring Framework.
+· Performed Validations declaratively using validation Framework.
+· Involved in development Hibernate mapping file.
+· Developed DAO Implementation Classes using Hibernate which will interact with databases to persist the POJO object states in the data base.
+· Developing Form Views and Success views using Spring Framework.
+· Used Subversion for subsequent check-ins and checkouts
+
+Environment: Servlets, JSP, Spring, Hibernate, Oracle and Web Logic.
+
+Project 2:
+
+   Client		: Margaritelli, U.S.A.
+   Period		: June 2015-March 2016
+   Role		: Java/J2EE Developer         
+   Project		: BIFCO
+	
+Description: BIFCO is a BRAZILIAN Insurance Financing Company and. Its main goal is to provide insurance finance for corporate companies. Here BIFCO has a lot of agencies, insurance agents, customers, and sales programmers. BIFCO forms partnership with agencies. Basically it is a two-phase project. This Project contains of ten modules – Sales, Quote, Quote Version, Acceptance, Agreement, Marketing, Account Maintenance, Payables & Receivables, Cash, Cancellation, and Others.             
+
+Responsibilities: 
+· Developing code for Business logic according to requirements
+· Developing Form Beans and Action classes and performed action mapping
+· Extensively involved in implementing DAO, DTO models for the application
+· Implemented   form Validations using Struts.
+· Developing POJO classes  
+· Writing the code for hibernate configuration and mapping files to interact with DB server.
+
+ Environment:  Java, Jdbc, JSP, Servlets, Struts, Oracle and Web Logic.
+                
+

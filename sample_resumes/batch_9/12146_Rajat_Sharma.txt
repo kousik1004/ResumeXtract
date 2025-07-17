@@ -1,0 +1,194 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name: Rajat Sharma		                   		    Company:  Symantec Software India, Pune
+Email: rajatsharma.mca@gmail.com                         	    Mobile No: +91 8983782707
+
+Profile
+Overall 4+ years of experience in Big Data ecosystems such as Pig, Hive, Spark, Sqoop, Flume. A highly versatile individual, hardworking and motivated with a great interest in the application development seeking challenging assignments with an organization of repute which enable me to use my skills towards achieving organizational goals and objectives. Able to work independently or as part of a team.
+
+Professional Summary :
+
+
+· Experience in Big Data Development Ecosystem like Pig, Hive, Sqoop, Flume and Spark using Python as Pyspark.
+
+· Expertise in Apache Spark (Spark RDD, Spark SQL, Spark Streaming) using Python- Pyspark Jupyter Notebook and Flume for Streaming data into HDFS.
+
+· Experience on working with SparkContext, SQLContext, HiveContext and StreamingContext.
+
+· Hands on Experience with Spark RDDs and Data Frames
+
+· Hands on experience on various file formats like CSV, TSV,  TEXT, Parquet and JSON.
+
+· Involved in creating POCs to Ingest and Process Streaming data into HDFS using Spark Streaming.
+
+· Understanding of HDFS Architecture (Read – Write Mechanism and Replication Factor). Hands on experience with Hadoop Core Components (HDFS, MapReduce) and Hadoop Ecosystem (Sqoop, Flume, Hive, Pig, Oozie).
+
+· Worked on Apache Vanilla Distribution of 15 nodes and 1 Backup node Hadoop Cluster. 
+
+
+· Experience in Importing and exporting the data using Sqoop from Relational Database to HDFS and vice versa.
+
+· Experience in collecting and storing stream data like log data in HDFS using Flume.
+
+· Worked on hive Partitioning and bucketing concepts and created hive external and internal tables.
+
+· Experience in installing, configuring, testing Hadoop ecosystem components on the GCP (Google Cloud Platform).
+
+· Conversant with R programming - Data Frames, Data Table and Libraries. Reading data from different file formats (CSV, XLSX and JSON) using R Libraries and applying various R functions and visualization using Graphs in R Studios.
+
+· Excellent analytical, Interpersonal and Communication skills, fast learner, hardworking and good team player.
+
+
+Certifications: 
+
+
+· Certified Data Science Professional DQCP- 501 by DataQubez. (2018)
+
+· Certified Scrum Master (CSM) by Scrum Alliance. (2017)
+
+· Oracle PLSQL/SQL Developer Certified Associate certified by Oracle. (2017)
+
+
+Education: 
+
+
+
+· Master of Computer Application:  Computer Applications (68%)				    2014
+Pune University - Pune, MH
+
+· Bachelor of Computer Application: Computer Applications (79%)				    2011
+Punjab Technical University - Mohali, PB
+
+· Higher Secondary Education (12th ) (68%)						    2008
+D.A.V Public School, CBSE Board – Saharanpur (UP)
+
+· Secondary School Education (10th ) (48%)						    2006
+D.A.V Public School, CBSE Board – Saharanpur (UP)
+
+
+Technical Skills: 
+
+
+Big Data Ecosystem: HDFS, MapReduce, PIG, Hive, Sqoop, Oozie, Flume, Spark, Pyspark
+File Transfer: MFT(Managed File Transfer)
+Scripting Language: Java Script, Python, HTML, Linux
+Programming Language: C, C++, Java
+Operating System: Windows, Linux Ubuntu
+Database (RDBMS): Oracle 11i, SQL and PLSQL
+Methodologies:  Agile
+Tools: Jupyter Notebook, Service Now, Perforce, FileZilla, Enthought Canopy (For Python), Toad for Oracle
+
+
+
+Work History: 
+
+Zuora/3S Data Load: -  Senior IT Developer @ Symantec Software India
+We are required to build a framework that can load multiple tables using Pyspark. This framework will be used in replacing all existing PIG load/data cleansing functionalities with Pyspark load. We are receiving files from all Partners/Resellers/Distributors from different geographical locations in various formats into external MFT(Managed File Transfer) server and later those files were moved to Symantec File share server using Appworx job scheduler at every particular interval of time which then later moved to HDFS for further processing by Spark/Pig using Python.
+Roles and Responsibilities:
+· Worked on Spark-RDD, Spark-SQL & Spark Data Frame using SQLContext, HiveContext to create a load framework using Pyspark to automate multiple loads and perform various transformations, actions and SQL operations on Spark Data Frames and RDDs’. 
+
+· Created Schemas for datasets stored on external source(HDFS) using NamedTuple(Python Collections) and StructType and Struct Fields for performing operations on datasets.
+
+· Worked on various files format such as CSV, TSV, TEXT, JSON and Parquet formats.
+
+· Worked on Partitioning, Re-Partitioning and Coalesce functions to increase/decrease the size of partitions of huge files.
+
+· Using Sqoop for Import/Export data from RDBMS to HDFS and Hive tables.
+
+· Used dictionary/list/tuples data structures in python.
+
+· Different Pyspark libraries used like SQLContext, StreamingContext, HiveContext, StructType, StructField, NamedTuple etc.
+
+Environment: Linux, HDFS, Oracle, Hive, Python, PySpark, Jupyter Notebook. 
+
+Global Sellthru Data Process: -  IT Developer @Symantec Software India 
+This process receives Sellthru Partners files from various Geographical locations into MFT folders and later all files get moved to HDFS stage. We are using Pig for transformation and loading files into final target HDFS location. We have created hive tables for querying and data analysis.
+Roles and Responsibilities:
+· Exported data from Oracle Database to HDFS using Sqoop.
+
+· Involve in creating Hive tables, loading with data and writing Hive queries. 
+
+· Developed and executed hive queries for de-normalizing the data. 
+
+· Works with ETL workflow, analysis of big data and loaded them into Hadoop cluster.
+
+ 
+· Installed and configured Hadoop Cluster for development and testing environment.   
+
+· Performance tuning of the Hive queries, written by other developer.   
+
+· Good knowledge of complete set up of Apache Vanilla Flavor to set Distributed Platform in my POC an Open Source projects.
+
+· Written Hive and Pig scripts as per requirements.
+
+· Load and transform large sets of structured, semi structured data.
+  
+· Involved in loading data from UNIX file system to HDFS
+
+Environment:  Ubuntu Linux, HDFS, Oracle, Hive, Pig, Sqoop, MFT.
+
+
+Sales Compensation Plan Acceptance Tool: Associate IT Developer @ Symantec Software India
+This tool will allow business users with approved access to upload excel files, process data and maintain tables in the Oracle DB. The Sellthru files received from various partners are processed by this tool with various functionalities. This tool includes Auto Load and Manual Load functionalities for the users to upload and process Sellthru files.
+Roles and Responsibilities:
+· Involved in writing database objects in PLSQL such as Packages, Procedures, Functions, Sequences and Data Scripts etc.
+
+· Involved in end to end stage from Development, UAT and prod migration. 
+
+· Coordinates with onshore team in PST timings to understand the requirements.
+
+· SPOC for this application for any issue during IST.
+
+Environment: Toad for Oracle, SQL, PLSQL, MFT
+
+
+
+
+

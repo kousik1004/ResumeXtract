@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+N
+
+NEMAI LAYEK
+E-Mail: layek.nemai@gmail.com             
+                 
+  Mobile: +91 8970153884
+OBJECTIVE
+
+“To be a part of an organization, where I can use and enhance my knowledge and talent for the development of both the organization and myself.”
+EXPERIENCE
+ Currently working in Intel Corporation for UST Global Private Limited, Bangalore as a Associate Validation Engineer. 
+PROJECTS WORKING IN INTEL (Client)
+Team: Firmware (BIOS) – Validation and Testing
+Platform Worked:  Tablet, Ultra book, Notebook & DT Platforms. 
+S/W for Validation: Intel TAT, Intel MSR, Intel System Scope, Teraturm, Win DBG, Power Test tool, GPV Tool, BIOS Configuration, UEFI Self-Certification Test 2.4, Intel System Cycling Tool
+Defect Cycle Management:  Intel HSD&ES  Version and Build control: JAMA4, COMOS9, Perforce, Team city.
+Role:  Basic Acceptation, Functional, Performance, Sanity and Stress testing manual test cases.
+Responsibilities:
+· Validating the UEFI System Firmware (BIOS) with Windows operating systems.
+· Executing the Basic Acceptance Test case for UEFI System Firmware and validating the results.
+
+· Filling bugs and tracking to close bug life cycle and Conducting Regression testing for BIOS, based on the bug tracking. 
+· Performing isolation and CI analysis to find the root cause of BIOS issues.
+· Developing the Test plan with COMOS to meet the Client Requirement and to Cover Product features.
+· Installing various protocol drivers, and validating on Intel SOC Platforms (I2C, UART, and GPIO).
+· Performing and validating various firmware updating methods of Intel SOC platform.
+
+· Validating Intel Thermal Technologies and basic System security features with UEFI and BIOS level.
+
+· Performing functionality testing with Various SSD Storage devices (NGFF, NVME, USB-C)
+· Validating Intel Optane Technology enabled Firmware with Intel M.2 NVMe on Intel SOC platforms.
+
+· Validating Intel Thunderbolt Technology enabled Firmware with Intel platforms.
+
+· Single point of contact for development and debug team to drive a bug tracking.
+
+· Releasing the Firmware related BAT results to the internal customers.
+TRAINING UNDERGONE
+· Software programming Languages: C, C++, Embedded – C , Assembly level language, Microcontrollers   Programming, Socket Programming (TCP/IP)
+· Linux System Programing: Basic file I/O, process. Thread, Signal Handling, IPC Mechanism. 
+
+· Operating System: Linux- Ubuntu OS, Windows 10/8/7/XP.
+
+Communication Standards: I2C, SPI, RS-232, UART, TCP/IP (Socket Programming TECHNICAL SKILL)
+· Strong experience in Validating the Intel Architecture Tablet SoC’s for Windows platforms.
+· Experience and working knowledge in defining test frameworks using tools, workarounds for validation challenges.
+· Proficient in working with EFI/EDK Shell, Scripting.
+· Extensive knowledge in Basic Acceptance Testing, System Testing, Regression testing, Stress testing , and Performance testing.
+· Test plan, Test case development, Execution, Bug tracking & Issue closures on various Intel Platforms and Operating Systems.
+· Extensive knowledge in Performance management testing with Win 8 & 10.
+· Hands on experience to find out the root causes of product level failures.
+· Basic knowledge about Type-C and Thunder bolt.
+· System Managements BIOS, Desktop Management Interface BIOS, Advanced Configuration and Power Interface.
+EDUCATIONAL QUALIFICATION 
+· Bachelor of Electronics and communication with 8.12 DGPA. 
+· 12th WBCHSE 60% from Ondal High School.
+· 10th WBBSE 80% from Ondal High School.
+
+PERSONAL PROFILE
+Date of Birth 
+:
+17.09.1994
+   Languages Known
+:
+English ,Hindi and Bengali
+   Alt. Contact Number
+: 
++91 8970153884
+   Mailing Address
+:             101 Shruti Enclave, Kundanahalli, Bangalore-560037
+Date    :  2nd  Nov’2017
+
+
+Place   : Bangalore
+
+
+
+
+
+
+
+     (Nemai Layek)

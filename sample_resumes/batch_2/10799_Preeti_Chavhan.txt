@@ -1,0 +1,309 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preeti Chavhan
+
+PREETI CHAVHAN
+Contact No.: +91-7588108385
+E-Mail: Chavhan.preeti17@gmail.com
+EXPERIENCE SUMMARY
+
+
+· Having over 5.5 Years of experience as ABAP consultant.
+· Having knowledge on HANA ABAP.
+· Experience in Sap CDS views, ODATA Services, Webdynpro and Workflow.
+· Good working experience in ABAP/4 Reporting (with Interactive/Classical ALV list/grid). 
+
+· Experienced with ABAP/4 Data Dictionary Objects and Function Modules. 
+
+· Good working experience in Data Migrations/Conversions using BDC Programming on Call transaction and Session method. 
+
+· Developed and modified SAP smart forms and SAP scripts.
+
+· Experienced well in Performance Tuning, Testing, Optimization of reports in system integration and user acceptance testing. 
+
+· Involved in the Successful implementation of HR Module.
+
+· Area of knowledge has been HR Module and SD Module.
+· In support actively solved the tickets which are posted by the end user. 
+
+PROFESSIONAL EXPERIENCE:
+
+· Working as SAP Technical Consultant for KPIT Technologies Ltd., Pune from May 2012 to till date.
+TECHNICAL PROFICIENCY:
+
+· Experience in Sap CDS, ODATA services, Webdynpro and Workflow.
+
+· Reporting: Expertise in Classical, Interactive and ALV Reports.
+
+· Dialog programming: Expertise in Programming with PBO and PAI events.
+
+· Modularization Techniques: Extensive knowledge on Subroutines and Function Modules.
+
+· Batch Interfaces: Developed Batch Input (session and call transaction) programs for uploading data from legacy systems to SAP system.
+
+· Having experience in Adobe Forms and Smart Forms and SAP scripts.
+· Having extensive knowledge on Data Dictionary (Data elements, domain, Structures and tables etc).
+
+· Having good knowledge on Customize Infotypes. 
+
+EDUCATIONAL QUALIFICATIONS:
+
+· BE in Information Technology 
+
+SOFTWARE SKILL SET
+
+
+ERP 
+
+
+:   SAP HANA and SAP ECC 6.0
+Operating Systems          
+:   Windows family
+
+Languages
+
+
+:   ABAP,C,C++
+PROJECT PROFILE: 
+
+	Project #1
+	KPIT S/4 HANA implementation and Support(Dec 2016 – till date)
+
+	Module
+	ABAP,HCM
+
+	Role
+	HANA Technical Consultant
+
+	Responsibilities 
+
+	· Understand the functional specification and create technical specification and develop/modify objects based on the requirements.
+· Redesign reports as per S/4 standard regardless of the modules using CDS and extended open SQL, 
+· Redesign smart forms into adobe forms using OData services, extend OData services directly by customizing into Z or extend the CDS View to make them usable as per our business requirement,
+· Created and merge some of the Customized info types which were required in reports, 
+· Create CDS views as a service so that it can be consumed or works as an interface 
+· Created many Conversion program for Infotypes using Standard FMs. 
+· Take care of new requirements on ODATA services of CRUD operation.
+
+
+
+
+	Project #2
+	KPIT ISG Support(Feb 2016 – Nov 2016)
+
+	Module
+	ABAP,HCM
+
+	Role
+	HR ABAP Consultant
+
+	Project Details
+
+	· Worked on Support Issues using CASD ticketing tool.
+
+· correction in smart forms like signatory changes, format change, 
+
+· Modification in Webdynpro like flexi restructuring, Personal details ,promotion recommendation, separation process etc., addition of methods ,screen level changes like addition of buttons, text message and text box, labels, drop down, radio buttons and relevant action on it, debugging  of Webdynpro.
+
+· Data dictionary objects: creation and maintenance of Z tables, creation of table maintenance generator.
+
+· Workflow: workflow analysis, forwarding workflow, modification in workflow like E-mail address changes, mail content changes etc.
+
+· New requirement: created and modified reports like employee details, joining report, headcount report, offer generation report etc.
+· Debugging of reports, Webdynpro etc.
+
+
+
+	Project  #3
+	Wilo SE  (Support) (Mar 2015- Jan 2016)
+
+	Module
+	ABAP objects for SD/MM/PP
+
+	Role
+	ABAP Consultant
+
+	Project Responsibilities
+
+
+	Developed various Function Modules, Reports, Data Dictionary objects, BDC, SAPScripts, Smartforms, worked on USER EXIT, enhancements, control routines.
+
+Estimating the requirement effort .Designing the Technical Specifications from the functional specifications.
+
+Coordinating with functional team to understand the functional requirements end to end for complex objects and suggesting the better ways of achieving the requirement.
+
+Developed and maintained various Z tables and structures based on the requirements.
+
+SAPSmartforms and SAPScripts : PO, Invoice, sales order, Vendor Rejection, Enquiry, Quotation, inbound delivery , outbound delivery.
+
+Barcode Implementation in script for tcode- CO03 (Production order display).      
+
+Modifications in Adobeforms layout .
+
+
+
+
+	Project  #4
+	Biocon Ltd. SAP Implementation (Nov 2014- Feb 2015)
+
+	Module
+	HCM
+
+	Tools & Techs
+	SAP ECC 6.0 : ALV, Info Types, Smart Forms, creation of customized Infotypes, Custom tables
+
+	Role
+	HR ABAP Consultant
+
+	Project Responsibilities
+
+
+	· Creation of Infotypes and subtypes as per requirements
+
+· As per requirement Screen modifications in Infotypes screen PBO and PAI
+
+· Developed Uploading programs using BDC
+
+· Created ALV reports using LDB PNP and PNPCE related to PA
+
+· Understanding user requirements and solving client queries.
+
+· Understanding the functional requirement, coding, coding review and testing.
+
+· Bug fixing and performance tuning for already developed objects.
+
+
+
+
+	Project  #5
+	DeLaval (Support) (Dec 2013- Oct 2014)
+
+	Module
+	SD/MM/PP
+
+	Role
+	ABAP Consultant
+
+	Project Responsibilities
+
+	· Understand the functional specification and create technical specification and develop/modify objects based on the requirements.
+
+· Developed report for Plan Vs Actual Billing for YC Orders using ALV. This report would display the actual billing values and dates against the planned billing values and dates for YC orders.
+
+· Developed sales analysis report.
+
+· Worked on various ALV reports, SAP scripts, BAPIs, Function modules.
+
+· Standard debugging of SAP standard reports and T-codes.
+
+· Performance tuning and code review of the object and secure acceptance from client for corresponding objects.
+
+· Worked on various Authorization objects and enhancements.
+
+
+
+
+	Project  #6
+	Sungwoo (Rollout project) (Mar 2013- NOV 2013)
+
+	Module
+	SD/MM/PP
+
+	Role
+	ABAP Consultant
+
+	Project Responsibilities
+
+
+	· Copied Z development from one server to another server.
+
+· Copied Z reports, DDIC objects, smart forms, BDC, maintained text elements, text symbol for all the z reports from one server to another.
+
+· Uploaded logo on the screen of sap login.
+
+· Performance tuning and code review of the object and secure acceptance from client for corresponding objects.
+
+· Created Templates for the BDC programs.
+
+
+
+
+	Project  #6
+	SAP AMS Practice (Support)(Oct 2012- Feb 2013)
+
+	Module
+	SD/MM/PP/HCM
+
+	Role
+	ABAP Consultant
+
+	Project Responsibilities
+
+
+	· Understand the functional specification and create technical specification and develop/modify objects based on the requirements
+
+· Designed various smart forms from scratch like credit note, preprinted documents for different output types.
+
+· Worked on SAP scripts.
+
+· Performance tuning and code review of the object and secure acceptance from client for corresponding objects.
+
+· Custom report to get all the plant relevant information on the selection without the sales view of the material.
+
+· Custom Report to Create and update Sales order.
+
+· Custom Report to display customer detail list.
+
+· Created Smart Forms to display Incoming Invoice.
+
+
+PERSONAL PARTICULARS: 
+
+	Name
+	Preeti Chavhan
+
+	DOB
+	17 Nov. 1987
+
+	Present Location
+	Pune, MH
+
+

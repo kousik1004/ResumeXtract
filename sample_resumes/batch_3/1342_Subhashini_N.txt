@@ -1,0 +1,209 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAS Programmer
+
+
+
+Subhashini N                                                     
+15 b1, Flat no F1 , Radha homes , Jothi colony,
+Ganapathy puram , Radha nagar,     
+Chromepet, Chennai – 600044, Tamilnadu, INDIA.
+Email: subhaezhil@gmail.com
+Phone: +91-8056085735
+
+
+SUMMARY:
+
+· Having 6.4 years experience of SAS programming in HR Outsourcing domain and in 
+Health and welfare , Banking domain with Mainframe environment. 
+· 1 year of experience in Data Warehousing and ETL testing with good knowledge in Healthcare domain.
+· Experience in ETL Testing, Functional Testing (Scenario Based) and report testing.
+· Involved in Test estimation and planning includes Test plan, Test case and Execution for each release. 
+· Gained expertise in System Testing, System Integration Testing, Functional Testing and Regression Testing
+· Strong defect analysis and problem solving skills
+· Experience in sub domains such as Health & Welfare and defined benefits handling Employee Benefits and Payroll information.
+· Experience in all the basic Mainframe and ETL tools. Such as ISPF, Endeavor, Control-M., DB2, Smartfile, Fileaid, ADX(ETL tool) 
+· Experience in SAS/Macros, SAS/SQL,  SAS/ODS , SAS procedures, SQL functions, Procedures
+JCL in Mainframe environment.
+
+
+TECHNICAL SKILLS:
+
+Statistical Software	: SAS/SQL, SAS/MACROS, SAS/ODS, JCL 
+Databases			: DB2, MS SQL
+Operating Systems		: IBM Z/OS, Windows 10
+
+
+EDUCATION:
+
+	Degree
+	Institute
+	Year of
+Passing
+	Major and Specialization
+	Aggregate Percentage
+
+	MCA
+	Bannari Amman Institute of Technology, Sathyamangalam
+	2012
+	Computer Application
+	85.12%
+
+	B.Sc.
+	Vidhyasagar Women’s college of Arts and Science, Chengalpattu
+	2009
+	Computer Science
+	74%
+
+	HSLC
+	St Mary’s Girls Hr sec School, Chengalpattu
+	2006
+	Bio Maths
+	59%
+
+	OSLC
+	St Mary’s Girls Hr sec School, Chengalpattu
+	2004
+	-----
+	88%
+
+
+
+
+PROFFESSIONAL EXPERIENCE:
+
+Current Role: Programmer Analyst Advanced
+
+        Aon Corporation was one of the leading outsourcing company in all over the World. The Benefits is one of the business in Aon and this was bought by Wipro in India . Here Wipro is managing Benefits India business and we are serving more than 500 US clinets. We manage employee benefits and payroll information that comprises of all 3 domains like  Defined Benefit, Defined Contribution and Health & Welfare. I have experience in Health domain and DB(Banking) domain. We handle the employees all health covered  plans , Insurance and manage them.
+
+Responsibilities
+· Analysis and Impact assessment using SAS tools  JCL, ADX(ETL tool) and Batch Jobs.
+· Test Planning, Configuration and Testing using SAS and other tools.
+· Validation of databases Entities in scope during Execution, Queries, Identifying  defects, performing Root Cause Analysis (RCA) and preparation of defect log 
+· Reviewing and identifying defects in the process /system and suggesting ways to fix them.
+· Handling Production Support for all batch jobs for my clients and make sure that that the jobs complete successfully with acceptable return code.
+· Creating Reports and reporting results with PROC REPORT, ODS and various macros.
+· Communicating the day-to-day results to senior managers offshore and onshore.
+· Good interpersonal skills involving handling calls with clients, gathering requirements, estimation of projects, leading team
+· Leading all the projects for the set of clients aligned
+
+
+Key Projects
+
+· Annual Enrolment 
+
+Period:		January 2013 – January 2018
+
+    	Summary:	         Sending notifications to employees, receiving and loading
+ Employee enrolment data, extracting and transmitting data Third Parties and the clients, finalizing the enrolment data.
+Annual enrolment is a period of time in a year, when employees of U.S. companies and organizations may make additions, changes or deletions to their elected benefit options. I was involved in the whole process of Annual enrolment for all three clients right from sending the PCS notifying the enrolment window period till the annual enrolment close. In order to perform the AE process, batch jobs that run.
+
+           Technical Environment and Tools Used: SAS, SQL, JCL, DB2, IBM Z/OS 
+
+ 
+
+
+
+· HR Feed Process Automation
+
+Period:		September 2014 – December 2014 
+
+Summary:	REED Elsevior which is Banking client has decided to automate a process which were being handled manually. The entire process was automated using SAS job. Automation process includes steps like comparing the current week HR Feed file with the previous week HR feed file and report out the mismatches like drops, adds, change in indicative data etc. This automation process was implemented for many clients and was opted for “Leanovation Idea” award. It was a tough job to meet all the criterion which were handled manually to automate and the project was a great success and helped to reduce a lot of manual work for client teams.
+Technical Environment and Tools Used: SAS, SQL, JCL, DB2, IBM Z/OS
+    
+· SQL Tuning
+
+Period:		January 2013 – June 2013
+
+Summary:	This is an initiative project. We decided to reduce to CPU time of the Queries that were being used for our clients. We were more than successful in reducing the CPU time for all the queries. We were able to reduce more than 90% of the CPU time.
+Technical Environment and Tools Used: SAS, SQL, JCL, DB2, IBM Z/OS
+
+· ETL(ADX ) Query conversion
+
+Period:		September 2017 - November 2018
+
+Summary:	ADX is our internal tool which was developed with origin of ETL tool. This is same as ETL where we expose our daily running queries in the tool. We have scheduled the queries as per client needs. I have been working in ETL conversion for two clients and converted all our SQL queries to ETL environment. Converted more than 500 mainframe queries to ETL scripts (Queries) and developed around 60 queries for configuring in ETL environment (ADX). I have tested all ETL scripts and provided quality sign off. Have guided entire onshore team for configuring, processing and testing the ETL scripts in ADX tool.
+Technical Environment and Tools Used: IBM mainframe, ADX (ETL) tool, SQL utility to test our queries.
+
+
+
+Other achievements/responsibilities at Wipro:
+ 
+· Consistently exceeding the expectation in all the year end appraisals
+
+· Completed Base SAS Certification for SAS9 in April 2017
+
+· Got “Gold award for client value” in December 2016 for delivering high quality results in UNUM conversion project for Client CVS Health.
+
+· Awarded with “Benefits Wizard” in February 2015 for all the complex projects for Client Luxottica
+
+· Received “Kudos” award in January 2016 for completing Employer Reporting project for Luxottica with high quality in a less turnaround time    
+
+· Received appreciations for the establishment of efficient methodologies for many clients
+
+
+
+Personal Details
+
+        Name				Subhashini N                     
+        Sex				Female
+        DOB				18/11/1988
+        Marital Status			Married
+        Languages known		English (r/w/s), Tamil(r/w/s), Hindi(r/w)
+         
+
+Declaration
+
+         I hereby declare that all information provided above is true to the best of my knowledge.
+
+Place  : Chennai
+Date   :                                                                                                   
+									(Subhashini N)

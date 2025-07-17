@@ -1,0 +1,258 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KIRAN S     
+
+
+
+
+      
+     
+      
+      WebSphere Administrator
++91-9676222249                                                                                            saranu1984@gmail.com
+
+PROFESSIONAL SUMMARY
+
+A highly accomplished professional with 7 years of experience in IBM WebSphere Application Server Administration, WebSphere Portal Server currently associated @ IBM INDIA Pvt Ltd as Senior Operations Professional.
+
+· Experience in Installation, Configuration, Managing, Clustering and Scaling of IBM’s Web Sphere Application Server of Network Deployment.
+
+· Installed, configured, and maintained WebSphere Application Server.   
+
+· Created Data Source in WebSphere Application Server.
+· Configured SSL Certificates for Production environment and configured self-signed certificates for dev and preprod also configured Signer certificates related to application to avoid handshake.
+
+· Implemented Horizontal and Vertical scaling of WebSphere Application Server (WAS) for workload management.  
+
+· Knowledge in performance tuning for  Application server’s 
+
+· Problem Determination through the log files (JVM Logs and Process Logs) and rectified the problems or interacting with IBM support to solve problems.
+
+·    Experience in Troubleshooting applications and enabled trace logs for particular log levels.
+
+· Configured HTTP Plug-in,resources and security for application deployment in 6.x & 7.0
+
+· Good Understanding of Failover of all Components in WebSphere environment.
+· Administering and monitoring tasks related to the support of WebSphere Application Server (WAS) version 6.0, 6.1 & 7.0 in AIX and Windows Environment. 
+· Experience in deploying J2EE components on WAS using WAS Admin Console, wsadmin.
+· Experience in Configuration of cells, nodes, clustering, application servers, virtual hosts, configuring web server plug-in and creating web server Instances also.
+· Supported different team changes related to AIX, WINDOWS, DB2, SAN and TSM..etc
+· Provided support in a demanding 24/7 Production Environment.
+
+TECHNICAL SKILLS
+
+Operating systems
+
+:
+WINDOWS 2008, AIX 5.3,7.0, Linux 6.0
+Application Servers
+
+:
+WebSphere 8.x,7.0, 6.x, Weblogic 11g    
+Web Server
+
+
+:
+IBM HTTP Server 6.x,7.0 & 8.x
+ Databases
+
+
+:
+DB2, Oracle. 
+Monitoring Tool
+
+:
+ITCAM for WAS
+Scripting Languages
+
+:
+JACL/Jython, Shell
+
+EDUCATION
+· Master of Computer Applications (M.C.A) From Nagarjuna University 2007.
+
+WORK EXPERIENCE
+· Working as a Senior Professional with IBM India Pvt Ltd, Hyderabad.
+
+· Worked as a Technical lead with Cognizant Technology Solutions, Hyderabad.
+
+· Worked as a WebSphere Application Server Administrator with Wipro Technologies, Hyderabad.
+
+· Worked as a WebSphere Application Server Administrator with IBM India Pvt Ltd Hyderabad.
+
+.
+
+DETAILED PROJECT EXPERIENCE 
+
+WAS Administrator (IBM)
+
+
+           
+
+                     Jun’15 to Till Date
+
+NASCO Health Care (US)
+
+Roles and Responsibilities
+· Installation, configuration and administration of WebSphere Application Server on AIX.
+
+· Created Data Source in WebSphere Application Server.
+
+· Creating virtual hosts and generating and propagating plug-in.
+
+· Enabling global security on WebSphere environment using LOCAL OS and assigning privileges to console users and groups.
+
+· Setting up of environment for the deployment of j2ee applications in WebSphere Application Server.
+
+· Configured HTTP Plug-in, resources and Global security for application deployment in 8.x.
+
+· Good Understanding of Failover of all Components in WebSphere environment.
+· Administering and monitoring tasks related to the support of WebSphere Application Server (WAS) all versions in AIX and Windows Environment.
+· Experience in deploying J2EE components on WAS using WAS Admin Console, wsadmin.
+
+· Experience in Configuration of cells, nodes, clustering, application servers, virtual hosts, configuring web server plug-in and creating web server Instances also.
+
+· Supported different team changes related to AIX, WINDOWS, DB2, SAN and TSM.etc
+
+· Provided support in a demanding 24/7 Production Environment.
+
+· Creating WebSphere infrastructure using WebSphere Application Server Network Deployment.
+
+· Creating Deployment manager and Application server profiles for both stand-alone and managed nodes.
+
+· Federated stand-alone nodes to CELL of Deployment Manager.
+
+· Implemented HORIZONTAL and VERTICAL scaling for work load management.
+
+· Installing latest fix packs for WebSphere Application Server. 
+
+WAS Administrator (WIPRO)
+
+
+           
+
+                     Apr’14 to Dec’14
+CITI BANK (Japan)
+
+Roles and Responsibilities
+· Installation, configuration and administration of WebSphere Application Server V6.1 and 7.0 on AIX.
+
+· Created Data Source in WebSphere Application Server.
+
+· Creating virtual hosts and generating and propagating plug-in.
+
+· Enabling global security on WebSphere environment using LOCAL OS and assigning privileges to console users and groups.
+
+· Setting up of environment for the deployment of j2ee applications in WebSphere Application Server.
+
+· Configured HTTP Plug-in, resources and Global security for application deployment in 6.0 & 7.0
+
+· Good Understanding of Failover of all Components in WebSphere environment.
+· Administering and monitoring tasks related to the support of WebSphere Application Server (WAS) version 6.0, 6.1 & 7.0 in AIX and Windows Environment.
+· Experience in deploying J2EE components on WAS using WAS Admin Console, wsadmin.
+
+· Experience in Configuration of cells, nodes, clustering, application servers, virtual hosts, configuring web server plug-in and creating web server Instances also.
+
+· Supported different team changes related to AIX, WINDOWS, DB2, SAN and TSM.etc
+
+· Provided support in a demanding 24/7 Production Environment.
+
+· Creating WebSphere infrastructure using WebSphere Application Server Network Deployment.
+
+· Creating Deployment manager and Application server profiles for both stand-alone and managed nodes.
+
+· Federated stand-alone nodes to CELL of Deployment Manager.
+
+· Implemented HORIZONTAL and VERTICAL scaling for work load management.
+
+· Installing latest fix packs for WebSphere Application Server. 
+
+· Installing IBM Http Server and WebSphere Plug-in and configuring the same with WebSphere Application Server
+
+· Deploying Ear’s into CLUSTERS using Administrative Console.
+
+· Trouble shooting WebSphere and Application deployment issues.
+
+· Managing shared libraries of applications being deployed on WebSphere Application Servers.
+WAS Administrator (IBM)
+
+
+           
+
+                     Sept’10 to Feb’14
+
+GMCARS (Europe)
+
+Roles and Responsibilities
+· Installation, configuration and administration of WebSphere Application Server V6.0 and 6.1 on  AIX, Windows.
+
+· Created Data Source in WebSphere Application Server.
+
+· Creating virtual hosts and generating and propagating plug-in.
+
+· Enabling global security on WebSphere environment using LOCAL OS and assigning privileges to console users and groups.
+
+· Setting up of environment for the deployment of j2ee applications in WebSphere Application Server.
+
+· Creating WebSphere infrastructure using WebSphere Application Server Network Deployment.
+
+· Creating Deployment manager and Application server profiles for both stand-alone and managed nodes.
+
+· Federated stand-alone nodes to CELL of Deployment Manager.
+
+· Implemented HORIZONTAL and VERTICAL scaling for work load management.
+
+· Installing latest fix packs for WebSphere Application Server. 
+
+· Installing IBM Http Server and WebSphere Plug-in and configuring the same with WebSphere Application Server
+
+· Deploying Ear’s into CLUSTERS using Administrative Console.
+
+· Trouble shooting WebSphere and Application deployment issues.
+
+· Managing shared libraries of applications being deployed on WebSphere Application Servers.
+· Good Understanding of Failover of all Components in WebSphere environment.
+

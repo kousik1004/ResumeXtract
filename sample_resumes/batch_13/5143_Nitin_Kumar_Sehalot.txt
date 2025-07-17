@@ -1,0 +1,297 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+ 
+
+ 
+
+Nitin Kumar Sehalot  
+Contact no: +91-8087413753 
+
+E-mail id: nitinsehalot@gmail.com 
+ 
+
+ 
+
+Professional 
+Snapshot 
+
+ Currently I am working as Technical Associate at Sears IT and Management Services 
+
+India Pvt. Ltd in Pune. I have 3.2 Years of experience on J2EE Technology.  
+
+ I have expertise in Core JAVA. I have worked on Open Source Frameworks- Struts, 
+
+hibernate and Spring. Also worked on SQL/PLSQL. 
+
+ Having good analytical skills and ability to handle multiple tasks and work 
+
+independently as well as in a team. 
+
+ Technical experience in Design, Development, Maintenance & Unit Testing. 
+
+Technical 
+Skills 
+
+ Operating Systems  Windows XP, Windows 7 
+
+ Programming Languages   JAVA, J2EE 
+
+ Presentation layer  JSP, JavaScript, Tiles 
+
+ Frameworks                                     Struts 1.x, 2.x, Spring, Hibernate 
+
+ Data Access Layer   JDBC , Hibernate , JPA 
+
+ Application & Web Servers Apache TOMCAT , WAS 6.0/7.0 ,  JBOSS 5.0,  
+
+ IDE Familiar                                      Eclipse, RAD, Toad, SQLyog,  
+
+                                                            PLSQL Developer, MYSQL. 
+
+ Others Tools                                     Putty, Appworx, WinSCP, ClearCase, Apache                             
+
+                                                            LDAP, BMC Remedy, Service Now ,Control-M    
+
+                                                            Soap UI, IBM, Deployment Console, SVN,          
+
+                                                            Citrix –Path finder, CyberArk.                     
+
+Professional 
+
+Experience 
+
+Name: Sears IT and Management Services India Pvt. Ltd, Pune, Maharashtra 
+
+[Nov’2017– Till date] 
+
+Current Designation: Technical Associate  
+
+Domain: Financial Services.  
+
+ 
+Application:  LCM (Layaway Contract Management) 
+ 
+The Layaway Contract Management system will provide the layaway functionality to 
+the online dotcom sites and Kmart and Sears stores. This system will expose services 
+to be used by the online systems (sears.com and kmart.com and stores to fulfill the 
+layaway functionality. The LCM system in turn will interface with other systems (KIN, 
+Kmart rules, Email system etc.) to fulfill some of the functionality. 
+
+mailto:nitinsehalot@gmail.com
+
+
+2 
+
+ 
+
+Role in Project:  Analyst and Support Engineer. 
+ 
+Synopsis:   In Layaway a customer can purchase set of items from a store and can 
+pay for it in installments. After all the installments are cleared then only the items 
+can be picked up by the customer. Online Layaway System is developed to handle 
+layaway contracts. 
+ 
+Technology Specification of Applications:   Java, J2EE, JBOSS 5.0, MYSQL 
+Community v 5.5.24, Spring Core, Spring JDBC, Apache Commons libraries, Log4J, 
+JAXB Struts, EJB( Enterprise service Bus). 
+ 
+My Key Responsibility: 
+
+ Involved in enhancing modules based on client requirement. 
+
+ Assisting clients in contract update, store restoring process, JVM recycling, 
+Application health-checkup and validation after server patching. 
+
+ Analyzed the issues raised by clients and provided fixes for it. 
+
+ Developing Test Plans and execute them to test various requirements. 
+
+ Performing Unit and Integration Testing. 
+
+ Provided various SQL queries for reporting purpose based on client 
+requirement. 
+
+ 
+
+ 
+
+ 
+
+Application:  SHARP (SEARS HOLDINGS ACTIVATION AND REFUND PAYMENT) 
+ 
+Corporate users are the only users that can access SHARP application using 
+pathfinder via citrix portal and it is highly critical application. All the transactions 
+from POS (point of sales) to authorizers are flowing through the SHARP.  All the POS 
+and transaction initiating systems interact with SHARP for authentication and 
+authorization process through nodes setup on RTS (retail transaction switch).  
+
+Role in Project:  Analyst and Support Engineer. 
+ 
+Synopsis:   To check if the transactions flowing in from different initiating systems 
+are getting authorized by the various banks/vendors. 
+ 
+Technology Specification of Applications:  Unix servers, Windows servers, Oracle, 
+Citrix-Path-finder, RDP, Control-M Batch Jobs. 
+ 
+My Key Responsibility: 
+
+ Analyzing the issues on payment transaction history, generation of token 
+raised by clients and provided suggested fixes for it. 
+
+ Do Unix and Windows servers recycling on weekly basis.   
+
+ Monitoring the servers, batch jobs and alerts.  
+ 
+ 
+
+
+
+3 
+
+ 
+
+Name: Infosys Ltd, Pune, Maharashtra [Jan’2015– Nov’2017] 
+
+Current Designation: Senior Systems Engineer 
+
+Domain: Manufacturing and Financial.  
+
+ 
+
+Client: Cummins Inc. 
+Cummins Inc. is an Engine Manufacturer company which manufactures engines for 
+various fields such as Automotive, Marine and Construction etc.  
+ 
+Role in Project: Developer and Support Engineer. 
+ 
+Synopsis: All Application which I support is the corporate Application for 
+Cummins Employees. 
+ 
+Technology Specification of Applications: Java, JSP, Struts 1.x/2.x, Hibernate, 
+Spring, JDBC, HTML, Tiles, DWR, Oracle, PLSQL, Web Services, SiteMinder, LDAP, 
+Batch Jobs (Appworx/Cron). 
+ 
+ 
+My Key Responsibility: 
+
+ Requirement gathering, estimation and database design. 
+
+ Co-ordination with onsite coordinator for smooth functioning of the 
+system 
+
+ Optimized code development for new requirement to be implementing in 
+present Web Application. 
+
+ Developing Test Plans and execute them to test various requirements. 
+
+ Proactively Suggesting value-adds for minimizing efforts and improving 
+business. 
+ 
+ 
+ 
+
+Achievements  Won “Insta Award-Certification of Appreciation” in Q3 2015-2016 from 
+
+Infosys for learning and quickly absorbing the support process and getting 
+
+application knowledge for 15 CORP Applications under corporate 
+
+portfolio. 
+
+ Awarded as a “WoW Performer” in Q4 2015-2016 to ensure the quality of 
+
+corporate application by detecting defects in timely manner. 
+
+ I was the member of “Most spirited Team winner” in Q4 2015-16. 
+
+ Awarded as a “Most Valuable Player” in Q4 2016-2017. 
+
+ 
+
+
+
+4 
+
+ 
+
+ 
+ 
+I, Nitin Kumar Sehalot, do hereby declare that the above mentioned information is true to the best of my 
+knowledge and belief. 
+
+ 
+
+Education  Bachelor of Electronics & Telecommunication Engineering from Solapur 
+
+University, India. Passed with Distinction in 2014 having an aggregate of 
+
+67.78%.   
+
+ Passed H.S.C in 2009 from Rajasthan Board of Secondary Education with 
+
+75.08%. 
+
+ Passed S.S.C in 2007 from Rajasthan Board of Secondary Education with 
+
+75.33 %. 
+
+Seminars  Name                             :           Nitin Kumar Sehalot 
+ Father’s Name             :           Mr. Ashok Kumar Sehalot 
+ Mother’s Name           :           Mrs. Sunita Sehalot 
+ Date of Birth                :           11th/Jun/1992 
+ Nationality              :            Indian 
+ Marital Status             :            Unmarried 
+ Languages Known      :            English, Hindi, Marwari 
+ Permanent Address   :            63, Mahaveer Colony, Pratapgarh (Raj.)          
+
+  
+
+

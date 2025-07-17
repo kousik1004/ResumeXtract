@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sayali Sanjay Gawande. 
+Software Engineer - Maven Systems Pvt Ltd. 
+LinkedIn - https://www.linkedin.com/in/sayali-gawande-346b1b118 
+Email ID   - sayali.gawande27@gmail.com 
+Contact    - (+91)9403726284. 
+ 
+Career Summary: 
+
+ Having 1.5 years of experience in embedded firmware development and Internet of Things (IoT) 
+and Automotive. 
+
+ Basic Understanding of CAN protocol. 
+ Hands on experience in device drivers programming such as SPI, I2C, I2S and UART. 
+ Expertise in wireless communication protocol like BLE, LORA & 6LowPAN 
+ Good knowledge of Embedded C. 
+
+ 
+Technical Skill Set: 
+
+ 
+
+Programing Languages  Embedded C. 
+
+Technology BLE, LoRa, 6LowPan. 
+
+Compiler GCC, MPLAB C30, MPLAB X32, TI arm 
+
+Protocols CAN,SPI, I2C, I2S, UART 
+
+Microcontrollers TI CC26xx, PIC24/PIC32, STM32L0xx, ESP32-WROOM. 
+
+Tools MPLAB, Eclipse, IAR Embedded Workbench, SVN, Doxygen, 
+
+CCS 
+
+ 
+
+ Projects Undertaken: 
+
+ 
+1. IoT based Passenger Safety System- 
+
+Description- 
+Design and developed a battery-operated device, used for tracking a vehicle position and 
+identifying the panic situation occurred during travelling. If panic occurred alerts are generated 
+and send to the server. Audio call will be established from call center to validate the panic 
+situation if panic alert is generated. In normal scenario audio recorded data and images 
+captured are send to server else data send through Hope RF to the nearby devices. GPRS / 3G – 
+UC20 modem (Quectel) used to communicate with AWS server. MQTT protocol along with TLS 
+1.2 is used for communication with AWS server. 
+Responsibility- 
+
+ Interfacing of audio codec (TLV320 AIC3254) and RTC with PIC32MZ through I2C. 
+
+ Interfacing I2S for audio recorded data. 
+
+ Interfacing of accelerometer through SPI. 
+
+ Configuration of ADC for vehicle battery voltage. 
+ 
+
+mailto:sayali.gawande27@gmail.com
+
+
+ 
+2. Usage Monitor Based on Weight Measurement and Motion detection-  
+
+Description- 
+To find consumption of daily products such as shampoo, face wash etc.  device which can detect 
+motion and measure the exact consumption of product need to be developed. For this a load 
+cell of 200gm and 1kg is interfaced with TI cc2640 chip. When product placed on load cell it 
+provides ADC values from which weight calculation is done. If change in weight is observed, 
+weight value with timestamp is send to mobile application. Used I-beacon packet format for 
+sending data over BLE. When motion detected, motion value is sent to the mobile application. 
+Responsibility- 
+
+ Deciding algorithm for motion detection and its implementation. 
+
+ Implementation of custom BLE GATT accelerometer service profile, time sync profile. 
+
+ Implementation of custom BLE GATT services profile for communication and sending 
+history data to android and iOS application. 
+
+ Power management to achieve 30 days battery life using 1100 mAh rechargeable 
+battery. 
+
+3. Remote monitoring of water usage using LoRa Technology. 
+Description- 
+To keep track of usage of water, a system need to be designed which can be monitored 
+remotely. With help LoRa the water meter pulse count can be measured and LoRa node sends 
+data to the server. Battery life in years can be achieved using LoRa technology. 
+Responsibility- 
+
+ Evaluation of LoRaWAN protocol and integrating it with firmware application. 
+
+ Driver for UART, GPIO and flash. 
+
+ Power management to achieve 10 years battery life. 
+ 
+ Technology Evaluation for internal projects: 
+
+ Evaluation of 6LowPAN technology. 
+ Understanding of 6LowPAN architecture, IPv6 addressing and mesh networking. 
+
+ 
+Achievement: 
+
+ Won First Prize for “LoRaWAN Based Waste Management System” in Write-A-Thon Contest 
+organized by MosChip semiconductor. 
+
+Extra Curriculum: 
+
+ Attended online Webinar on “Anatomy of an Embedded Linux System”. 
+
+ Attended 3 days’ workshop on Android based application development. 
+
+ Member of ELESA (Electronics & Telecommunication Students Association). 
+
+Educational Qualification: 
+
+Course University Aggregate Passing Year 
+
+BE(E&TC) Smt. Kashibai Navle College of Engg. 68.26% 2016 
+
+HSE Fergusson College 80% 2012 
+
+
+
+SSC HHCP High School, Huzurpaga 93.64% 2010 
+
+ 
+Hobbies: 
+
+ Dancing. 
+ Reading Books 
+
+ 
+Personal Details: 
+
+ Name- Sayali Sanjay Gawande. 
+ Date of birth - 27
+
+th
+ April 1995. 
+
+ Languages Known- English, Hindi, Marathi. 
+ 
+
+Passport Details:  
+Passport No. – P1214193 (valid till 1
+
+st
+ August 2026)  
+
+

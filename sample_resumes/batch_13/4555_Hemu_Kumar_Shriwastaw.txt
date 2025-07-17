@@ -1,0 +1,348 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hemu Kumar Shriwastaw
+Mobile: +91 8880173301 | +91 7376786923
+E-Mail:  dev.hemu@hotmail.com | hemuit25@gmail.com
+Career Summary
+· Possess overall 3+ years of working experience in multiple phases of .Net Application development
+     (Web Application).
+· Working as Associate Dot Net Developer in Clockwork Business Solutions Bangalore.
+· Expertise in developing applications for Web using C#.Net, ASP.Net, CSS, JavaScript, MVC and SQL Server.
+· Expertise in UI-integration, implementation & documentation, troubleshooting and versioning.
+· Able to communicate effectively with both technical and non-technical project stakeholders.
+· Expertise in current and emerging trends and techniques & Proficient in coding and developing the new program.
+Responsibilities Performed
+
+· Interaction with Client.
+· Handling software coding, debugging, implementation and integration to production server.
+· Helped team members on UI designing fixations using HTML & CSS.
+
+· Providing ongoing application support and troubleshooting.
+· Understanding the functional particulars and helping the team in the same.
+
+· Doing some R&D on the third party tools used in the applications when required.
+
+· Maintain issue lists in excel sheets and preparing subject areas to be discussed in the client side KT.
+
+· Communicating with Manager for technical and functional clarifications and discussions.
+· Provided bug fixation based on QA report and provides multi browser compatibility for web applications.
+Technical Forte
+	Languages & Web Technologies
+	C#, ASP. Net and MVC Framework 4, JavaScript, HTML, CSS, Bootstrap UI. 
+
+	Databases
+	MS SQL Server 2008/2012, ADO. Net, Entity Framework, MYSQL.
+
+	Third Party Tools
+	SAP B1 DI-API Ver. 9.1, SAP B1 DI-Server Ver. 9.1,SAP DTW.
+
+	Version Control
+	SVN Server, TFS
+
+	IDE
+	Visual Studio.Net 2005 / 2008 / 2010 / 2012
+
+	Application Types
+	Web Application
+
+	Reporting
+	SSRS Report , Crystal Report.
+
+	Integration
+	Magneto Integration
+
+
+Professional Experience
+January 2015 – Onward
+
+
+
+
+
+
+
+
+
+
+Clockwork Business Solutions Pvt. Ltd.
+
+
+
+
+
+
+                         Bangalore
+
+	#1 Project - AOL Ashram Products Distribution Platform Powered by SAP B1
+
+	Client: 
+	Sri Sri Publication Trust (Art Of Living)
+
+	Description: 
+	AOL (Art of Living) is an online Ashram Products Distribution Platform using which Superstockist, and Distributors can place orders for ashram products. The application acts as an interface between the seller and the ashram to manage overall activities. The platform is integrated with SAP Business One 9.1 PL5
+
+It has three major modules, a) Distributor, 2) Divine Shop and 3) Tele Shop.
+
+
+
+	Technologies:
+	VS.Net 2008, .Net Framework 3.5, C#.Net, ASP.Net, IIS 7, TFS, HTML, CSS 3
+
+SAP B1 9.1 PL5, SQL Server 2012, SAP B1 DI-Server Ver. 9.1.
+
+	Role: 
+	Associate .Net Developer
+
+	Team Size:
+	2
+
+	Responsibilities:
+	· Interaction with Client.
+· Involved in coding, SAP B1 DIServer integration and deployment to production server.
+
+· Involved in creation / modification / deletion of User Defined Fields to/from an existing table and new User Defined Tables through SAP B1 Environment.
+· Involved in Code Optimization & further Bug Fixation Based on QA reports.
+· Involved in UI performance up gradations.
+
+
+Dec 2015 –October 2016
+
+
+
+
+
+
+
+
+
+
+ 
+Clockwork Business Solutions Pvt. Ltd.
+
+
+
+          
+
+
+          Bangalore
+	#2 Project - Agri Input Management Platform Powered by SAP B1
+
+	Client: 
+	Ergos Business Solutions Pvt. Ltd. (ERGOS) – INDIA
+
+	Description: 
+	ERGOS is an online commodity Warehouse Management and Trading Platform using which sellers and buyers can connect with each other online and trade their commodities. The application acts as an interface between the seller and the buyer to manage their buying and selling activities. The platform is integrated with SAP Business One PL9.1. Traders (i.e. Seller and Buyer) are allowed to use this application using their own login credentials.
+
+The need of this web application is to provide profile based access permissions to users for different modules using browser through Static IP.
+
+
+
+	Technologies:
+	VS.Net 2008, .Net Framework 3.5, C#.Net, ASP.Net, IIS 7, TFS, HTML, CSS 3, Bootstrap,
+SAP B1 9.1 PL5, SQL Server 2012, SAP B1 DI-API Ver. 9.1.
+
+	Role: 
+	Associate .Net Developer
+
+	Team Size:
+	5
+
+	Responsibilities:
+	· Involved in coding, SAP B1 DIAPI integration and deployment to production server.
+
+· Involved in creation / modification / deletion of User Defined Fields to/from an existing table and new User Defined Tables through SAP B1 Environment.
+· Involved in Code Optimization & further Bug Fixation.
+
+· Involved in providing ongoing application support and troubleshooting.
+
+
+	#3 Project - VNC Electrode Powered by SAP B1
+
+	Client: 
+	VNC Electrode
+
+	Description: 
+	VNC Electrode is a Manufacturer, trader and supplier of e6013 welding electrodes, e7018-1 welding electrodes, binding wires.
+
+	Technologies:
+	VS.Net 2008, .Net Framework 3.5, C#.Net, ASP.Net, IIS 7, TFS, HTML, CSS SQL Server 2008, SAP B1 9.0 PL5
+
+	Role: 
+	Associate .Net Developer
+
+	Team Size:
+	3
+
+	Responsibilities:
+	· Distributing Module wise tasks to the team members based on blueprint documentation.
+· Involved in coding, SAP B1 DIAPI integration and deployment to production server.
+
+· Involved in creation / modification / deletion of User Defined Fields to/from an existing table and new User Defined Tables through SAP B1 Environment.
+
+
+Oct 2013 – Nov 2014
+
+
+
+
+
+
+
+
+
+
+ 
+Krish Radiant Solutions
+
+
+
+         
+
+
+                                 Hyderabad
+	#4 Project - Browse My Job(BMJ)
+
+	Client: 
+	Company Own Product
+
+	Description: 
+	It is A job Portal site there we have to create the Student information and according to their skill we provide job and also we have upload there resume.
+
+	Technologies:
+	VS.Net 2013, .Net Framework 4.5, C#.Net, ASP.Net MVC 4, IIS 7, HTML, CSS, SQL Server 2008
+
+	Role: 
+	Jr. Software Engineer
+
+	Team Size:
+	4
+
+	Responsibilities:
+	· Involved in coding for web and testing before integrating to production server.
+· Involved in Code Optimization & further Bug Fixation Based on QA reports.
+· Involved in Build Creation and deployment on Server.
+
+
+	#5  Project - Class ERP (DB DEV)
+
+	Client: 
+	Company Own Product
+
+	Description: 
+	DbDev is Web IDE for Database developers & Programmers. In this Web application Database Developers can create database, tables, store procedures, views and Searching Functionalities. Programmers can Write Compile & Debug programming code through web without installing Visual Studio. User can also assign primary & foreign key for the tables by using this IDE.This Web IDE provides some additional features like creating and using Messages, Functions, Uploading data to Database and background jobs for running programs without user interaction as well as providing recursion functionality to the user to run the job at multiple intervals of time.
+
+	Technologies:
+	VS.Net 2010, .Net Framework 4.5, C#.Net,HTML, CSS, SQL Server 2008
+
+	Role: 
+	Jr. Software Engineer
+
+	Team Size:
+	5
+
+	Responsibilities:
+	· Involved in coding for web and testing before integrating to production server.
+· Involved in Code Optimization & further Bug Fixation Based on QA reports.
+· Involved in Build Creation and deployment on Server.
+
+
+Academia
+B.Tech (Information Technology) –S.I.E.T Allahabad | Graduated: 2013             1st Class – 70% - (Full Time)
+12th (Higher Secondary) - (UP Board) | Passed: 2007
+
+
+              1st Division – 65% - (Full Time)
+
+10th (Madhyamik) - (UP Board) | Passed: 2005
+
+
+
+
+  1st Division – 68% - (Full Time)
+Personal Snippets
+
+Date of Birth
+
+:  30th December 1991
+
+Permanent Address
+:  174E/5c, New Mehadauri, Teliarganj, Allahabad, India- 211004
+Present Address
+:  1150, 14 Main, 8th Cross, BTM layout, 1st stage, Near Udupi Garden, Bangalore- 560029
+Linguistic Abilities
+:  English, Hindi
+Marital Status
+
+:  Single
+PAN Number
+
+:  EHHPS8907N
+Notice Period
+
+: 1 Month (30 Days as Per Offer Letter)
+
+Highlights
+
+· Experienced in multicity working environment –Hyderabad  and Bangalore
+· Attended Seminars and Webinar on latest technologies related to Microsoft Technologies etc.
+
+· Having interests in technical blogs sites for knowledge enhancement.
+Declaration
+
+I do hereby declare that all statements made in this resume are true, complete and correct to the best of my knowledge and belief.
+_____________________________
+
+Place: Bangalore
+
+
+
+
+
+
+
+      Hemu Kumar Shriwastaw

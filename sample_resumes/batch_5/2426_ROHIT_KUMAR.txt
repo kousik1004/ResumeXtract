@@ -1,0 +1,218 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+ROHIT KUMAR
+Contact: +91 9873555101
+E-mail: rohitkr918@gmail.com
+
+
+
+    O R A C L E (P L / S Q L)   D E V E L O P E R  4+  YEARS  	
+		
+Extensive experience in executing full life-cycle development projects; ramping-up activities within time, budget & quality parameters, as per project management & best practice guidelines
+Proactive decision maker, targeting challenging assignments with a well-established and globally reputed organization, bringing the following transferable strengths:
+Data Analysis		Query Development	Team Support
+		Requirement Gathering			  Disaster Recovery		       Business Continuity Plans
+· Excellent potential and ability to handle and perform complex tasks.
+T E C H I N A L  S K I L L S
+· An expert professional having 4+ Years of experience in Oracle based Software Development,
+Implementation, Customization & Support and Team Playing.
+· Well versed with Basic Database concepts of SQL, PL/SQL, PL/SQL Cursor, 
+Views, Materialized Views, Triggers, Stored Procedures, Functions, Packages, and Collection etc. 
+· Handling the Production DB issues and used Tools like SQL developer and TOAD.
+· Adapt in development of SQL, PL/SQL.
+· Created Schema, Users, Tables, Constraints, Indexes, Triggers, Privileges, Roles, Cursors, Ref Cursors, 
+User Profiles, anonymous blocks, directories, sequences, and synonyms.
+· Very strong in PL/SQL and Oracle database knowledge. 
+Expected to write & maintain complex stored procedures. 
+· Basic Knowledge of Unix/Linux shell scripting
+· Performed Importing/Exporting Database through Data Pump Utility.
+· Uploading Data into Database from External files through Data Loader Utility.
+· Deft at designing relational databases and writing complex SQL queries.
+· Capable to make User-friendly System.
+· Proactive and Ability to cope well under pressure.
+· Attached annexure regarding projects undertaken.
+
+· P R O F E S S I O N A L  E X P E R I E N C E
+Bharti Airtel Ltd, Gurgaon
+Designation: Sr. Software Engineer
+(Apr ‘16 – Till Date)
+
+As PL/SQL Developer:
+· Automation of key management reports – contributed in reducing the manual effort significantly which includes downloading files from ftp to automation of report
+· Responsible to gather and review from a development  perspective
+· Downloading Data from FTP, loading in Database and then processing it to generate reports
+· Writing Stored Procedure, Function, Trigger, Maintenance and Testing
+· Hands on experience on various java tools, macros & Excel for different checks
+· Responsible to key in all necessary information on the checklist
+· Ensuring all reports delivery to the aforesaid location
+· Responsible to review and solve team problems
+· Identifying frauds, non-compliant or suspicious activities and timely delivery
+· 	Mentoring and coaching the team; planned and integrated the work of team
+
+Few Project Automation Description:
+1. End to End India :-
+- Developed to keep the track of regular billing sequence to reduce revenue loss
+Description: Reports are generated on the daily basis in the sftp server and on the scheduled hour we 
+
+download the report from the server to check if all sequence are properly generated as it helps in keeping 
+track of revenue leakage.
+Technologies: 
+● Batch files, Jar files
+● Oracle 12c
+        2. Fraud Originating Terminating
+- Developed to check the trend of calls in Africa Opcos
+Description: Reports are collected from different Opcos on a scheduled time and then the report is 
+
+generated in excel thereafter the trend of last one month is checked using conditional formatting and thereby reported if there is any high usage on any specific date in any opco.
+Technologies: 
+● Batch files	
+● Oracle 12c
+● Macro	
+As Data Analyst:
+· Groom myself to learn new technology in Analytical tool (Qlik Sense)
+· Gather the Business requirement
+· Develop the UI interface for ease at User end.
+
+      Project Delivered:
+1. OTIF (On Time In Full):-
+· Developed to check the Vendor performance ratio for PAN India.
+Description: We collect Vendor data received from Prod server using scheduled timer and highlight the percentage of PO deliveries performance via graph with figures and detailed report as per User requirement.
+Technologies:
+● Qlik Sense
+● Oracle (For data pulling using DSN in Qlik)
+
+Stan Professionals (Bharti Airtel 2nd Party Payroll), Gurgaon
+Designation: Software Developer
+(Jan ‘15 – Mar ‘16)
+
+As PL/SQL Developer:
+· Automation of key management reports – contributed in reducing the manual effort significantly which includes downloading files from ftp to automation of report
+· Downloading Data from FTP, loading in Database and then processing it to generate reports 
+· Writing Stored Procedure, Function, Trigger, Maintenance and Testing
+
+
+Rosmerta Technologies
+Designation: Database Administrator
+(May ‘14 – Dec ‘14)
+
+As PL/SQL Developer:
+· 	Writing Stored Procedure, Function, Trigger, Maintenance and Testing
+· Gained experience on end to end processing of team tasks
+	
+· Synchronize with Front end application development team to design new queries as per the User requirement before final deployment
+· Ensure the health status of blade server and the backup for the same
+· Proper indexing on all the tables
+
+Few running Applications:
+1. HSRP (High Security Registration Plate) (All India)
+- Developed to keep a log of issued Registration Plate for further reporting
+Description: It is developed to print Registration Plate issued in government RTO’s whereas 
+I used to report data using SQL Server on daily issued Plates and resolve issues in case of any application failure and keep a trigger log for suspicious issuance of Plates.
+Technologies Used: 
+● Front End	– Dot Net
+● Backend 	– Sql Server
+
+
+
+2. Transport Department UP/UPDL (Uttar Pradesh Driving License)
+- Developed to keep a log of issued Driving License for UP.
+Description: It is developed to print UPDL in government RTO’s whereas I used to keep a watch on any suspicious tasks and generate the report using Oracle on daily basis.
+Technologies: 
+● Front End	– Dot Net
+● Backend 	– Sql Server
+
+Virgo Softech Ltd
+Designation: Jr. Software Engineer
+
+(Sep ‘12 – APR ‘14)
+
+As PL/SQL Developer:
+· 	Writing Trigger, Maintenance and Testing
+· Gained experience on end to end processing of team tasks
+	
+· Synchronize with Front end application development team to design new queries as per the User requirement before final deployment
+· Proper indexing on all the tables
+
+Few running Applications:
+1. Transport Department DLRC (Delhi Regestration Certificate)
+- Developed to print RC and keep a log of issued Registration Certificate for Delhi
+Description: It is developed to print DLRC in government RTO’s whereas I used to keep a watch on any suspicious tasks and generate the report using Oracle on daily basis.
+Technologies: 
+● Front End	– Visual Basic
+● Backend 	– Oracle
+
+E D U C A T I O N
+
+Professional:
+BCOM (Honours) from Ranchi University in 2010 with 61%
+
+Academic:
+XII from Ranchi University in 2007 with 59%
+
+       T E C H N I C A L   S K I L L S
+
+	RDBMS			: Oracle 10g/11g /12c, DB2, MYSQL, SQL Server
+Operating Systems 	: Citrix, Windows 7/10, Windows Server 2008/2012.
+Applications 		: Qlik Sense, SQL-Loader, SQL*Plus, Toad, AQT
+Other Tools 		: Macros, Pscp, WinScp Putty, Powershell & Excel for windows.
+
+P E R S O N A L   D E T A I L S	
+
+	Date of Birth 		: 30th July, 1988
+	Languages Known	: English & Hindi
+	Passport 		: Available
+Marital Status 		: Single
+	References		: Will be pleased to furnish upon request
+
+			(ROHIT KUMAR)
+

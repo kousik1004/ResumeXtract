@@ -1,0 +1,453 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                         
+
+ (
+Atul Lavange
+ 
+– 
+RESUME
+)
+
+ (
+E-
+Mail Address:
+ 
+lavangeatul
+@gmail.com
+ 
+Mobile Number:
+ 
++91-982224
+2212
+Current Location:
+Pune
+PERSONAL SUMMA
+RY
+Dear Sir/Madam,
+Kindly find enclosed my resume to provide you with an overview of my relevant experience and training in various Domains. I have
+ 
+3
++
+ years of experience 
+in
+ Oracle Apps DBA and Core Oracle DBA
+.
+I will be delighted to discuss my experience further with you to suit your requirement.
+Looking forward to 
+hear
+ from you,
+Yours Sincerely,
+Atul Lavange
+ 
+)
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+· Having 3+ years of experience in Oracle Applications DBA 11i/R12, Oracle Core DBA 10g/11g.
+· Having good experience in handling EBS Implementations, Support & Maintenance projects.
+· Oracle Database configuration and Support on Microsoft Azure.
+· Oracle Database configuration and Support on Oracle Cloud.
+· Expertise in Oracle Apps DBA activities like Multi-Node Cloning, Patching, R12.1.5 Installation, Administration and Troubleshooting.
+· Experience in Oracle Database installation, configuration, monitoring, Backup/Recovery and troubleshooting.
+· Providing Audit report.
+· Knowledge about OEM, OIM
+· SOA Administration
+· Pre-patch analysis for the patches and document preparation with pre/post patch installation steps.
+· Administering Oracle 11i/R12 Instances using AD utilities like adpatch, adadmin, adclone, adctrl.
+· Implementation, Troubleshooting and Maintenance of Concurrent managers.
+· Extensive on-hand experience in oracle apps system administration, user management, applications, alerts and workflows maintenance.
+· Proficient in Database Administration activities such as Patches, Cloning and third-party software and Oracle
+· Provided 24*7 support and On-Call providing 24*7 Support for EBS Production databases.
+· Strong analytical ability, Proficiency in quickly identifying the cause and solution of database/application related problem.
+· Oracle Database configuration and Support on Microsoft Azure
+· Oracle Database configuration and Support on Oracle Cloud
+
+TECHNICAL SKILLS
+	
+	Hardware
+	Virtual Machines
+
+	Operating System	
+	Windows XX, Red Hat Linux, AIX
+
+	Applications & Middleware
+	Oracle E-Business Suite 11i/R12, Oracle Application Server 10g, Oracle BI Discoverer 11g, SOA, OEM
+
+	Programming Languages
+	SQL, Shell Scripting.
+
+	Databases 
+	Oracle Database 10g/11g.
+
+	Other Utilities & Tools	
+	TOAD, Putty, 
+SQL * Loader, Export, Import and SQL*Plus.
+
+	Certifications
+	Oracle Database 11g Administrator - I Certified Associate(OCA)
+Oracle Database 11g Administrator - II Certified Professional(OCP)
+
+
+
+PERSONAL DETAILS:
+	Full Name
+	Lavange Atul Baburao
+
+	Date of Birth
+	11th June 1990
+
+	PAN
+	ANBPL6540J
+
+	Passport No.
+	R4468208
+
+
+
+EMPLOYMENT HISTORY
+	Name of the Company
+	Designation
+	From
+	To
+
+	Jade Global S/W PVT LTD, Pune, IND
+	Associate Administrator
+	July 2015 
+	Till Date
+
+
+
+EDUCATION
+	Degree
+	College
+	University
+	%
+
+	Bachelor Degree (B.Tech.) in Computer Science & Engg.
+	Walchand College of Eng. Sangli 
+	Autonomous
+(Shivaji University)
+	6.4
+
+	Diploma in computer Engg.
+	Jaihind Polytechnic, Pune.
+	MSBTE, Mumbai
+	88.55
+
+	10th 
+	Rashtriya Vidyalaya, Pune.
+	Maharashtra Board
+	75.60
+
+
+
+EXPERIENCE SUMMARY: 
+PROJECT PROFILE 1
+
+	Client Name
+	Viavi Solutions, Pune
+
+	Organization/Location
+	US/Pune, INDIA
+
+
+	Project Title	
+	Oracle Apps DBA (Onsite)
+
+	Duration
+	May 2018 –  till date
+
+	Operating Systems
+	Red Hat Linux 5,7 & AIX
+
+	Applications
+	Oracle Applications 11i, R12.
+
+	Database
+	Oracle Database 11gR2.
+
+
+
+PROJECT DESCRIPTION
+The project involves the Support for Oracle E-Business Suite 11i, R12, EBS application and database migration using Kintana.
+ROLES AND RESPONSIBILITIES IN THE PROJECT
+· Supporting for ERP, SOA, OBIEE PROD and ERP non-Prod instances
+· Experience on OEM Support.
+· SOA Administration
+· Troubleshooting daily support issues.
+· Daily Monitoring of Production environment.
+· Daily support activity including online patching
+· Daily Migrations on PROD
+· Troubleshooting Workflow Mailer related issue, database Performance issue.
+
+
+PROJECT PROFILE 2
+
+	Client Name
+	Quick Logic
+
+	Organization/Location
+	US 
+
+	Project Title	
+	Oracle Apps DBA Support(offshore)
+
+	Duration
+	Apr-18 to till date
+
+	Operating Systems
+	Red Hat Linux 5
+
+	Applications
+	Oracle Applications R12
+
+	Database
+	Oracle Database 11.2.0.3
+
+
+
+PROJECT DESCRIPTION
+The project involves the Support for Oracle E-Business Suite 12.1.3, Discoverer reports, EBS application and database migration from Linux 32-bit to Linux 64-bit.
+ROLES AND RESPONSIBILITIES IN THE PROJECT
+· Preparing SOX reports
+· Daily Migrations on PROD
+· Database and application Cloning using RMAN- Monthly Cloning activity, patching
+· Daily Health-check Report
+· Prepared and deployed centralized monitoring shell scripts for all instances
+· Troubleshooting daily support issues.
+
+PROJECT PROFILE 3
+	Client Name
+	Formfactor, USA
+
+	Organization/Location
+	Jade Global S/W, Pune, INDIA
+
+
+	Project Title	
+	Oracle Apps DBA Support(offshore)
+
+	Duration
+	Jan 2016 –  till date
+
+	Operating Systems
+	Red Hat Linux 5 
+
+	Applications
+	Oracle Applications 11i, R12.
+
+	Database
+	Oracle Database 11gR2.
+
+
+
+PROJECT DESCRIPTION
+The project involves the Support for Oracle E-Business Suite 11i, Discoverer reports, EBS application and database migration from Linux 32-bit to Linux 64-bit.
+ROLES AND RESPONSIBILITIES IN THE PROJECT
+· Supporting for ERP PROD of size 1.5 TB and 14 ERP non-Prod instances
+· Supporting for 6 Non-ERP PROD instances and 6 Non-ERP PROD dev instances.
+· Prepared and deployed centralized monitoring shell scripts for all instances
+· Troubleshooting daily support issues.
+· Weekly & Monthly Cloning activity.
+· Daily Monitoring of Production environment.
+· Daily support activity.
+· Daily Migrations on PROD
+· Discoverer Related Migrations
+· Maintaining standby databases 
+· Expertise in Oracle Apps DBA activities like Multi-Node Cloning, Patching, Administration and Troubleshooting, third-party software and Oracle
+· Monitoring daily backups and refresh activities
+
+PROJECT PROFILE 4
+	Client Name
+	JGI Internal, Pune, IND
+
+	Organization/Location
+	JGI Internal, Pune, INDIA 
+
+	Project Title	
+	Oracle Apps DBA Support(offshore)
+
+	Duration
+	Dec 2015 –  till date
+
+	Operating Systems
+	Red Hat Linux 5
+
+	Applications
+	Oracle Applications 11i, R12.
+
+	Database
+	Oracle Database 11gR1, 11gR2.
+
+
+
+
+PROJECT DESCRIPTION
+The project involves the upgradation of Database from 11.2.0.1 to 11.2.0.4, EBS Upgrade from 12.1.1 to 12.1.3, EBS application and database migrations.
+ROLES AND RESPONSIBILITIES IN THE PROJECT
+· Discoverer 11g configuration.
+· EBS Upgrade from 12.1.1 to 12.1.3.
+· Database Upgrade from 11.2.0.1 to 11.2.0.4.
+· Apex configuration.
+· Enable Endeca extension on R12.2.5
+· Database upgrade from 11.1.0.7.0 to 11.2.0.4
+· Oracle Discoverer 11.1.1.3.0 configuration
+· Integrate soa gateway setup 
+· SOA Suite 10g(10.1.3.1.0) configuration
+· Database installation and EBS configuration.
+· Deliver new and complex high-quality solutions to client in response to varying business requirements.
+· Monitoring and administering Concurrent managers /programs.
+· Involved in DBA activities and Shell Scripting.
+· Daily Table space/Alert Log monitoring.
+· Backup of Oracle Applications R12 and Oracle Database 11g.
+· Applied patches for functional issues
+· Administered Apex 5
+· Internal Apex Application migrated from On-Premise to Azure Cloud. 
+
+PROJECT PROFILE 5
+	Client Name
+	Infoblox, USA
+
+	Organization/Location
+	Jade Global S/W Offshore, Pune, INDIA
+
+
+	Project Title	
+	Oracle Apps DBA Support(offshore)
+
+	Duration
+	March 2016 –  till date
+
+	Operating Systems
+	Red Hat Linux 5 x86_64 bit
+
+	Applications
+	Oracle Applications 11.5.10.2
+
+	Database
+	Oracle Database 11gR2.
+
+
+
+PROJECT DESCRIPTION
+The project involves the Oracle Apps DBA support for Oracle ERP systems such as Oracle E-Business Suite and Oracle Database 11gR2, Vertex, Job scheduling and alert monitoring and database migration.
+ROLES AND RESPONSIBILITIES IN THE PROJECT
+· Deliver new and complex high-quality solutions to client in response to varying business requirements.
+· Refreshed the instance within critical time line.
+· Improve the quality and reduce defects in all database environments and Application server environments by performance and tuning.  
+· Monitoring and administering Concurrent managers /programs.
+· Patching, Cloning, Wallet setup, GL Wand setup and Workflow issues.
+· Involved in requirement analysis and shell scripting.
+· Managing profiles as per the requirements.
+· Interacting with Functional consultants to schedule the Concurrent request, changing the schedule of specific requests to reduce the load on the system at peak times.
+· Daily Table space/Alerts monitoring.
+· Creating maintenance window for Production
+
+
+
+PROJECT PROFILE 6
+
+	Client Name
+	Gibson
+
+	Organization/Location
+	Pune, INDIA 
+
+	Project Title	
+	Oracle Apps DBA Support(offshore)
+
+	Duration
+	Nov-15 to till date
+
+	Operating Systems
+	Red Hat Linux 5
+
+	Applications
+	Oracle Applications 11i
+
+	Database
+	Oracle Database 11gR1
+
+
+
+
+ROLES AND RESPONSIBILITIES IN THE PROJECT:
+
+· Monitoring and administering Concurrent managers /programs.
+· Involved in DBA activities and Shell Scripting.
+· Daily Table space/Alert Log monitoring.
+· Database and application Cloning, patching
+
+
+Thanks,
+Atul Lavange
+8 | Page
+

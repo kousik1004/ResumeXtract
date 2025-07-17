@@ -1,0 +1,910 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Name
+	Nisha Nair
+
+	Designation
+	SENIOR CONSULTANT(C1)
+
+	Birth Date
+	27/04/1984
+
+	Residence
+	Bangalore
+
+	Nationality
+	INDIAN
+
+	Martial Status
+	Married
+
+	Gender
+	FEMALE
+
+	Passport Details
+	Number
+	N4406347
+
+	
+	Issue Date
+	30/11/2016
+
+	
+	Expiration Date
+	29/11/2025
+
+	
+	Country
+	India
+
+	Visa Details
+	UK –TIER 2  work permit
+
+Valid:-Jan 2017
+	
+
+
+
+SAP Consultant (Enterprise Portal, Webdynpro- Java, NWDI,BPM,SAPUI5,) with 10 years of experience in key areas of SAP Net Weaver domain and JAVA with architecture and development of composite applications using Enterprise Portal, NWDI, Webdynpro-Java, SAP NetWeaver BPM, SAP Biller direct and SAPUI5.Worked as SAPUI5 developer in Maintenance as well as Development projects. Trained in SAP Fiori and SAP Hana also. Worked in development projects with SAP HANA as the database.I also received Early Adopter award for acquiring SAPUI5 skills and successfully delivery of project  for C & J energy services .
+
+
+	Technologies
+	SAP
+	
+	
+	
+	
+	
+
+	Uages
+	Primary Skills:
+SAPUI5,
+
+WebDynpro Java , SAP BPM,
+NWDI,Enterprise Portal 7.4,
+SAP Fiori
+
+
+	
+	
+	
+	
+	
+
+	
+	Secondary Skills:HTML5,
+
+CSS, JavaScript, JQuery,SAP Hana
+	
+	
+	
+	
+	
+
+	Tools used
+	Primary Skills:
+
+Eclipse,
+SAP NetWeaver ECC 7.31,7.4
+
+SAP Web IDE,
+
+WEBIDE
+
+	
+	
+	
+	
+	
+
+	Middleware Servers
+	Primary Skills:
+
+Tomcat,
+
+SAP HANA Cloud Paltform
+	
+	
+	
+	
+	
+
+	Operating Systems
+	Primary Skills: Windows8 and 10
+	
+	
+	
+	
+	
+
+	Training
+	NetWeaver ECC 7.31,
+
+SAP UI5,
+
+SAP Fiori,
+
+SAP HANA,
+
+SAP BPM
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+
+
+
+	
+	Speak
+	Read
+	Write
+
+	English
+	Yes
+	Yes
+	Yes
+
+	Hindi
+	Yes
+	Yes
+	Yes
+
+	Malayalam
+	Yes
+	Yes
+	Yes
+
+
+	
+
+
+
+	20-12-2016
+	Evergreen Services 
+
+
+	to
+
+Till date
+	Role
+
+
+	Team Lead and SAP UI5 developer
+
+	
+	Technology Used
+
+
+	SAPUI5, SAP HANA Cloud Platform, 
+
+	
+	Roles Performed
+	Developing Field Ticket Application for Hydroblasting service to support field technicians to enter hydroblasting equipment and labor using a tablet in online and disconnected modes. Also provide a an adobe PDF output form with customer data entered by crew supervisor / Site Manager and digitally signed by customer .This was basically developed for IOS 10 and devices Iphone6 and Iphone7 
+
+	
+	Tools
+	SAPUI5 libraries, HAT, SAP HCMS, SAPGUI, JSPDF and Hana cloud Connector, Hana XS Engine, and Kepsel Plugins for offline mode.
+
+	
+	Description
+	· Developed 8 Screens for data entry/selection containing more than 20 fields per screen.
+
+· Implemented Delete, Save, offline save, sync, view, copy and close functionality for the tickets.
+· Developed  Offline capability for the app using Kapsel plugins
+· Developed a PDF  form for data from screen for each ticket both in read and edit mode using JSPDF .This PDF can be easily be downloaded to a mobile.
+· Single point of contact for this application from Offshore.
+
+· Performing the UAT for the Field Ticket Application on android devices.
+· Performing end to end application checks from UI perspective.
+· Fixing the bugs during testing.
+
+· Checking the synchronization capability of the application with backend data.
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+	20-09-2016
+	C & J Energy Services –FTS
+
+
+	to
+
+Till date
+	Role
+
+
+	Team Lead/SAP UI5 developer
+
+	
+	Technology Used
+
+	SAPUI5, HTML, Javascript ,JQuery , SAP Net Weaver Gateway
+
+	
+	Roles Performed
+	Developing and Supporting Field Ticket Application for 
+C & J .Single point of contact for this application from Offshore. Responsible for end to end testing.
+
+
+
+	
+	Tools
+	Visual Studio, SAP HCMS,   SAPGUI, Windows 10
+
+	
+	Description
+	· Developing and Support the Field ticketing Application to be on Desktop and tablets supporting all platforms mainly Windows   and then iOS and Android.
+
+· Using SAPUI5 for UI devlepment,supporting Offline capability using Kapsel plugins,
+
+· Exploring the Offline capability of this Application and working to fix any bugs for the same.
+
+· Single point of contact for this application from Offshore.
+
+· Performing the UAT for the Field Ticket Application.
+
+· Performing end to end application checks from UI perspective.
+· Fixing the bugs during testing.
+
+· Checking the synchronization capability of the application with backend data.
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	May’2016
+	Client
+	UIsmart CoE
+
+
+	to
+
+August’2016
+	Role
+	SAP UI5 developer
+
+	
+	Technology used
+	Technology
+
+
+	SAPUI5, HTML, Javascript ,JQuery , SAP Net Weaver Gateway
+
+	
+	
+	Tools
+	Eclipse, SAP GUI
+
+	
+	Role Performed
+	· To create SAPUI5 simple Application to create button instance and Events
+
+· Demo to develop Leave request Form and to display Leave Summary in a table.
+
+· Creation of SAP Gateway services for create read and Query operations
+
+· Simple mobile Application using SAP AppBuilder.
+
+· Usage of Complex ,Layout,Simple Controls,UX3controls,CSS styles and Value holders in SAPUI5
+
+
+
+	
+
+	
+
+	
+
+	
+
+
+	August’2014
+	Project Name
+	 
+
+Patterson Companies-Capgemini India PVT.LTD.
+
+
+	to
+
+April’2016
+	Client
+	PDCO_ISOW2_SAP ERP Implement , Bangalore, August’2014 –April’2016
+
+	
+	Role
+	As a Portal Lead for Biller direct and Portal activities.
+
+	
+	Roles performed
+	Developing  the Biller Direct Portal Deliverables for Patterson.
+
+	
+	Technology used in project
+	CE 7.3
+	Portal Administration
+
+	
+	
+	NWDI
+	Portal Development
+
+	
+	
+	JSPs
+	
+
+	
+	Description
+	Involved in configuration, development of Biller direct and SSO creation for Patterson.
+1)Ensured configuration of Biller direct is correctly done  in DEV environment by Following  all mandatory steps required like
+
+· XCM configuration,
+
+· Connection RFC from XCM to backend has been created properly  with the required parameters
+
+· Coordinated with Security and Basis teams for creation of Pool User and Reference Users
+
+· Ensured Business functions are correctly installed.
+
+· Assigned all required roles and authorization to access accounts in Biller Direct.
+
+· Ensured JCO connections are in place for NWDS
+
+· Created OSS messages for SAP and ensured the issues are resolved.
+2) Customization  on Biller direct portal as per Patterson include
+· Introduction of a full fledge custom method of Payment of Bills.
+· Complex developments from Portal and ABAP perspectives.
+
+· Preparing detailed documentation for each development objects by Maintaining Patterson and Capgemini Process.
+
+· Coordinating with Basis team for transport of different objects from dev to quality.
+· Helping other Vendors to understand NWDI process for the development.
+· Ensured during Customization of the standard JSPs and Java files, standard process is not effected.
+· Many custom UIs were created as a part of the development.
+
+3) SSO  for Patterson involved
+· Creating SSO for different systems like CRM, ECD, EWM, BI so that all the systems can be accessed from one single project.
+
+· As per Patterson requirement, themes and brandings were changed in portal.
+· Iviews and Pages were created as a part of SSO creation.
+
+
+
+	From
+	Project Name
+	 
+
+Centrica-Capgemini India PVT.LTD.
+
+
+	To 
+	Client
+	IN03_Centrica PI_CEL3 supp_AM, Bangalore, July’2013 –July2014
+
+	
+	Role
+	As a Senior consultant for CE Team
+
+	
+	Roles performed
+	Supported 5 applications BRITE,Fit,MORSE ,BERTHA and MS ONLINE as a part of Centrica business from offshore
+
+	
+	Technology used in project
+	CE 7.3,BPM
+	Portal Administration
+
+	
+	
+	EJBs
+	SQL query
+
+	
+	
+	WebDynpro Java
+	
+
+	
+	Description
+	· Involved in continuous monitoring of Centrica CE Production server.
+
+· Involved in incident monitoring and resolution through Service desk tool.
+
+· Played multiple role of PQL along with supporting Centrica applications.
+
+· Used sql query to add any new data into database tables.
+
+· Was the offshore spoc for any issues related to 5 applications BRITE,FIT,MORSE ,BERTHA and MS ONLINE
+
+· Ensured no SLA is breached for incidents.
+
+· Coordinated with different teams for high Priority issues.
+
+
+
+	From
+	Project Name
+	 
+
+NGDMS-Mindtree Ltd
+
+
+	To 
+	Client
+	Unilever Asia Private Limited, Bangalore, April’2013 –June’2013
+
+	
+	Role
+	Module Lead
+
+	
+	Roles performed
+	Responsible for the development of D-DAY application for Vietnam
+
+	
+	Technology used in project
+	CE 7.3,ABAP
+	Portal Administration
+
+	
+	
+	ABAP  
+	
+
+	
+	
+	WebDynpro ABAP
+	
+
+	
+	Description
+	Worked on developing an  application for D –DAY  for the country Vietnam. On a d-day the salesman will follow D-DAY PJP and will visit the D-DAY outlets. The process involved: 1.Creation of  D-day Intial screen using WD ABAP
+
+2.Sending notification to ASM and CST,
+
+3.Prearing a Report on D-day
+
+4.Unit testing
+
+
+
+	From
+	Project Name
+	Arcellor Mittal-Mindtree Ltd
+
+	To 
+	Client
+	Arellor Mittal,Dec’2013 – March’2013
+
+	
+	Role
+	Netweaver Consultant – EP & WebDynpro,BPM
+
+	
+	Roles performed
+	Responsible for the development of SSO application Integrating Arcellor mittal Portal and Ivalua (Third party) portal.
+
+	
+	Technology used in project
+	CE 7.3
+	Portal Developemnet
+
+	
+	
+	SAP Portal   7.3
+	
+
+	
+	
+	
+	
+
+	
+	Description
+	The Single sign on was developed using a digital certificate and Integrated the Ivalua portal into Arcellor Mittal using the Public and Private keys. 
+
+
+
+	From
+	Project Name
+	Ericsson -   IBM INDIA PVT LTD, Bangalore 
+
+
+
+	To 
+	Client
+	Ericsson AB,mar’2011-Nov’2012
+
+	
+	Role
+	Netweaver Consultant – EP ,Webdynpro
+
+	
+	Roles performed
+	SAP Netweaver BPM,Enterprise Portal 7.3 ,wedypro consultant
+
+	
+	SAP Netweaver BPM
+	SAP Netweaver BPM
+	Webdynpro Java
+
+	
+	
+	Enterprise Portal
+	NWDI
+
+	
+	
+	
+	MDM
+
+	
+	Description
+	Ericsson is a world-leading provider of telecommunications equipment and related services to mobile and fixed network operators globally. Over 1,000 networks in 140 countries utilize Ericsson network equipment and 40 percent of all mobile calls are made through Ericsson systems. They are one of the few companies worldwide that can offer end-to-end solutions for all major mobile communication standards.
+
+· Contribution: As an SAP Netweaver Portal Consultant was supporting Ericsson as a  part of   portal team ,also analyzing MDM related issues and involved in testing demands raised  by customers for business using BPM. The contribution is as follows:
+
+·  As a part of issue fixing, had many client interactions with different Ericsson customers and understood their problems related ESS, MSS, UWL,BPM etc and fixed them with highest priority.
+
+· I have completed Business Process Management training to understand the Ericsson customers and Suppliers in MDM.Supported BPM related Issues for customer and helped in Enhancements in Process Modeling, Desigining, and UI Generation.
+
+· I have also completed ABAP webdynpro fastrack training and handled tickets related to the ABAP wedbynpro.
+
+· Worked as the Root cause Owner for PMRs and now helping the team in the whole PMR process.
+· Acted as a Communication SPOC for the team and has ensured that all communications from the Ericsson Delivery team is conveyed to the team and also made sure that the new processes are correctly followed by the team.
+· Involved in testing new demands raised by clients for business purpose.
+
+
+
+
+	From
+	Project Name
+	SAP AMS- IBM INDIA PVT LTD, Bangalore
+
+	To 
+	Client
+	KPMG, June’2009 - mar’2011 
+
+	
+	Role
+	Netweaver Consultant – EP & WebDynpro
+
+	
+	Roles performed
+	
+
+	
+	Technology used in project
+	Enterprise portal 7.0
+	NWDI
+
+	
+	
+	WebDynpro Java
+	
+
+	
+	
+	
+	
+
+	
+	Description
+	KPMG is one of UK’s leading tax and audit consultant. KPMG is part of strong global network of member firms with 9500 partners and staff working in 22 offices across UK providing audit, tax and advisory services. 
+· Worked as a SAP Netweaver Portal Consultant
+
+· Traveled to KPMG office Berlin (Germany) to get the Knowledge transfer about the KPMG portal as well in ABAP modules as part of Transition.
+
+· Contributed in   Due Diligence activity which was a major project and completed all deliverables on time with utmost quality.
+
+· Reviewed the new documents created during the Document uplift activity and provided inputs as per the requirements.
+
+· Involved in the discussion for the format to be pooled for the documents and formatting all the EP Translated documents accordingly.
+
+· Have conducted a soft skill presentation on Importance of Body Language in Corporate world, in order to improve the overall team’s confidence.
+
+· Worked with ABAP team and understanding different business objects as per client requirements.
+
+· Took ownership for completing the deliverables on time as per the Client requirements.
+
+
+
+	From
+	Project Name
+	MIGA(MULTILATERAL INVESTMENT GURANTEE AGENCY)- -  Satyam Computer Services Ltd.
+
+	To 
+	Client
+	World Bank, United States.,Jan’2007-Sept’2008
+
+	
+	Role
+	Netweaver Consultant – EP ,Webdynpro
+
+	
+	Roles performed
+	,Enterprise Portal ,Wedypro consultant
+
+	
+	SAP Netweaver BPM
+	Enterprise Portal
+	Webdynpro Java
+
+	
+	
+	
+	NWDI
+
+	
+	
+	
+	
+
+	
+	Description
+	The World Bank is a vital source of financial and technical assistance to developing countries around the world. The World Bank is not a bank in the common sense. The World Bank is made up of two unique development institutions owned by 185 member countries—the International Bank for Reconstruction and Development (IBRD) and the International Development Association (IDA). Each institution plays a different but supportive role in Bank’s mission of global poverty reduction and the improvement of living standards. The IBRD focuses on middle income and creditworthy poor countries, while IDA focuses on the poorest countries in the world. Together World Bank provides low-interest loans, interest-free credit and grants to developing countries for education, health, 
+
+It has engaged Satyam Computer Services Ltd. for SAP R/3 implementation. The R/3 modules being configured are SAP FI, CO, EP, and BW modules
+
+In this project, there were 3 stages for the applications for insurance before it gets the final approval.
+
+Contribution: 
+
+· Configuration of the system
+
+· Understanding requirements for additional development and enhancements
+
+· Preparation of Technical Specifications
+
+· Unit testing, Process Testing and Integration testing
+
+· Delivery of Customized programs in the given time Frame
+
+· Development of Customized programs using Onsite model
+
+· Extending support to User at sites where implementation is completed
+
+· Maintaining documentation of all the activities carried out.
+· I was solely responsible for operations stage of the insurance application and developed 70 screens using Webdynpro tool and uploading in World Bank Portal, for the whole operation process and its connectivity to other stages.
+·  I also helped other team members to understand this stage of the application and was acting as a point of contact for Operations stage of application.
+· Closely interacted with client to understand and take inputs from them about the MIGA system.
+
+· Also helped other team members to solve their webdynpro related problems for the same stage and importing it to NWDI.
+
+
+
+
+	From
+	Project Name
+	Islamic Development bank Web Portal
+
+-  Satyam Computer Services Ltd.
+
+	To 
+	Client
+	Islamic Development bank.,july’2006-Jan’2007
+
+	
+	Role
+	Netweaver Consultant – EP ,Webdynpro
+
+	
+	Roles performed
+	,Enterprise Portal ,Wedypro consultant
+
+	
+	
+	Enterprise Portal
+	Webdynpro Java
+
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+	
+	Description
+	The IDB Group Web Portal is KM driven portal. It is based on the SAP portal technology and implemented following Accelerated SAP methodology. The IDB Portal project provides a centralized, secured and pass-word protected access to IDB Group public information as well as Business and Support Applications. IDB Group Web Portal will allow authorized and registered users to have an access to IDB Group confidential and public information through the Internet. This project accomplish the collection of scattered information available in different systems using different tools, into one technology .i.e. SAP Portal for its internet, intranet and extranet users, with single sign on capability. 
+Contribution: 
+
+· Involved in Creation of iviews and application components
+
+· Handled testing issues in WebDynpro.
+· Involved in Front end designing.
+
+·   Involved in Portal masthead customization.
+
+· Involved in testing the Connectivity portal applications
+· Fetching data using BAPI through simple JCo connection Handled testing issues in WebDynpro.
+
+
+
+
+
+	Training attended
+	· SAP EP_TAC TRAINING          
+· "Communicating effectively in a Global Environment" (CEGE)
+· GBS- JTC Integration training 
+
+· OVSC tool for managing incident tickets 
+·  PMR process to handle Root cause Owner role for PMRs.
+· Business Process Management for MDM related activities
+· ABAP Webdynpro fast track  training 
+· Ericsson’s MDM structure and is currently working on MDM customer related issue.
+· AAO and TAC and also successfully cleared the assessment for the same
+· Preparing BPM/BRM material for LnK. in IBM. 
+· SAPUI5 and SAP Fiori Training
+· WebDynpro  for Java and ABAP
+· SAP Web application Server
+
+· Enterprise Portal 6.
+· Java(Core +advanced) 
+· SAP Netweaver BPM
+
+· BAPI 
+
+
+
+
+	1. BE in Electronics & Telecommunication in the year 2006, from Rajeev Gandhi Technical University,Bhopal ,Madhya Pradesh
+2. PGDHRM from Symbiosis Pune as Correspondence in 2011
+
+
+
+	
+
+
+
+	Permanent Address
+	Sai Palace,Flat no.212,Rupena Agrahara,Virat Nagar Main Road,Bommanahalli,Bangalore-560068
+
+	Mobile
+	+91-9535194450
+
+	Email
+	nishasoft@gmail.com
+
+
+	
+	
+
+
+Personal Details   .
+
+
+
+Profile   .
+
+
+
+Competencies   .
+
+
+
+Languages   .
+
+
+
+Experience   .
+
+
+
+Training/Certification...        …
+
+
+
+Education   .
+
+
+
+Contact Details    .
+
+
+
+
+
+1
+2
+

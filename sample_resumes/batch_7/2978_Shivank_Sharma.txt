@@ -1,0 +1,355 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Shivank Sharma 
+
+Consultant – SAP Basis 
+
+Mobile No: 9717456954 
+
+E-Mail: shivanksharmaa91@gmail.com 
+
+SUMMARY 
+
+❖ Having 3+ Years of experience as a SAP Basis Consultant in SAP ECC 6.0.  
+
+❖ SAP experience includes SAP Installations, Upgrades, Maintenance and implementation. 
+
+❖ Experience OS particularly Windows, Red Hat Linux, AIX6.1 and HP UX. 
+
+❖ Good at handling databases like SAP Sybase, HANA, Oracle. 
+
+❖ Extensive experience in SAP Basis Administration ranging from ECC6 to ECC6 EHP7.  
+
+❖ Good at Kernel and Support Pack Upgrade, System Refresh, Transport Management (STMS) 
+
+and alerts. 
+
+❖ Have excellent troubleshooting, interpersonal, technical skills and analytical skills. Able to 
+
+meet very stringent deadlines with a minimum supervision. 
+
+❖ Experience in Client Servicing, Requirement Gathering, Troubleshooting, Quality Assurance, 
+
+Bug Documentation & Regression, Technical Support and SAP Security Management  
+
+CAREER AT A GLANCE: 
+
+❖ Presently working as Consultant – SAP Basis with Diverse Infotech Private Limited from March 
+
+‘2017 to till date. 
+
+❖ Worked with Danta Technologies Pvt. Ltd. as a SAP Basis Consultant from Aug 2016 to March 
+
+2017. 
+
+❖ Worked with CyberCure Technologies Pvt. Ltd. as a SAP Basis Consultant from Jan 2015 to 
+
+July 2016. 
+
+SAP Skill Set  
+
+SAP Installation: Implementation of SAP ECC 6.0 including Installation on single system, 
+
+Distributed system and High Ability System, Post installation activities, Configuration. 
+
+User Administration: User maintenance like create new user, reset user password , Unlock user, 
+
+Profile management, Role and authorization management, Generation reports in SUIM, USMM. 
+
+System Upgrade: Apply Support Packages, Snotes to ABAP Stack, Update SPAM/SAINT version, 
+
+Applied Add-ons, Kernel up gradation, EHP Upgrade using SUM 1 SP14 / SP18. 
+
+Client Administration: Performed Client Copies like Local client copy, remote client copy, client 
+
+export and import. 
+
+Transport Management: Transport the request to the system in the landscape. 
+
+System Monitoring: Responsible for daily monitoring of SAP systems with the help of T-codes like 
+
+(SM51, SM66, SM12, SM13, SM21, ST22, AL08, SCC4, SE06, DB12, DB02, ST02, ST04, ST06, DBA  
+
+COCKPIT, SMQ1, SMQ2, SM58, SM37). 
+
+Solution Manager: Installation solution manager 7.1, upgrade sps stack from 04 to sps 12 using 
+
+sum, configuration basis configuration / system preparation / managed system. 
+
+System Refresh/Copy: Homogeneous System Copy using db specific method Backup Restore or 
+
+using sap inst. with sap Sybase mssql and Hana. 
+
+Database management: Installation and administration of database like Oracle, DB2, MS SQL, 
+
+SAP Sybase, oracle database patch update, and Oracle database upgrade from 10g to 11g and 11g 
+
+to 12c in sap environment. 
+
+Other: EHP upgrade, Oracle upgrade, Preparing Backup strategies, Kernel Upgrade, Monitoring & 
+
+Backups/Restore.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+System Administrator Skills: 
+
+➢ Good understanding of network protocols, operating system and networked system. 
+
+➢ Installation, Configuration & management of Windows 2000/2003/2008 Servers. 
+
+➢ User/Group Management, File/Folder Permissions management, managing sharing 
+
+resources.  
+
+➢ Creating shared folders, NTFS Permissions and Troubleshooting Access problems. 
+
+➢ Remote management Using tools like Remote Administrator and Remote Desktop. 
+
+➢ Installation / Managing of Anti-Virus server and software. 
+
+➢ Installation Database like Microsoft sql server, Oracle. 
+
+➢ Creating / Managing and working with Virtual pc and virtual networking using tool Microsoft 
+
+virtual machine 2004, VMware and Parallels Workstation.  
+
+ 
+
+ 
+
+SAP Project 7 
+
+ 
+
+Client       :  Aero (Wood land). 
+
+Duration     :  March 2017—till date 
+
+Project Type    :  DB / EHP7 Upgrade and Share Support 
+
+Environment    : Windows + ASE. 
+
+ 
+
+Role and Responsibilities 
+
+ 
+
+✓ Activity under Basis support related to tier L1/L2/L3 Technical configuration. 
+
+✓ Problem, troubleshooting and resolution for escalated calls. 
+
+✓ Analyzed Root Cause of Authorization Problems and fix the missing authorizations.  Handling 
+
+teams technically in all areas of service defined within SAP Basis areas. 
+
+✓ Perform the post installation activity of ECC system (TMS, Spool, Background Job, Operation 
+
+Modes, Profile parameter). 
+
+✓ User administration including user creation, modification adding the roles, authorizations 
+
+profiles to the user’s upon request. 
+
+✓ Background Jobs scheduling, error analysis and taking necessary actions upon JOB failure. 
+
+✓ Applying OSS notes and Support Packages imports and solving errors during imports. 
+
+✓ Troubleshoot issues occurred while SAP system start up process.  
+
+✓ Monitor the Standard Background Jobs - further to take necessary actions if the Jobs were 
+
+failed. 
+
+✓ Monitoring & Checking ABAP dumps and provide the information to Technical and Function 
+
+team for the concern Jobs. 
+
+✓ Checking SYSTEM Log files and taking necessary action. 
+
+✓ Daily system monitoring and performing Health checks as preventive steps to keep the 
+
+system up and running 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+SAP Project 6 
+
+ 
+
+Client       :  Diverse Infotech Pvt Ltd 
+
+Duration     :  Oct 2017—till date 
+
+Project Type    :   4 Inhouse Server  
+
+Environment    : Demo 21(SUSE+HANA),IDES,ECC,CRM(Win +ASE) . 
+
+ 
+
+Role and Responsibilities 
+
+• System Maintenances including Hardware and Application 
+
+• Manual Backup once a week 
+
+• Space maintenance 
+
+• R & D as per requirement. 
+
+ 
+
+SAP Project 5 
+
+ 
+
+Client       :  Micromax India. 
+
+Duration     :  Aug 2016 to March 2017 
+
+Project Type    :  24*7 Support (Onsite /Offsite). 
+
+Environment    : HPUX + Sybase. 
+
+ 
+
+SAP Project 4 
+
+ 
+
+Client       :  Insecticides India limited. 
+
+Duration     :  3 Month 
+
+Project Type    :  DB / EHP7 Upgrade and Share Support 
+
+Environment    : IBM AIX + DB2. 
+
+ 
+
+SAP Project 3 
+
+ 
+
+Client       :  India glycols limited. 
+
+Duration     :  3 Month 
+
+Project Type    :  DB / EHP7 Upgrade and Share Support 
+
+Environment    : HPUX + Oracle. 
+
+ 
+
+SAP Project 2 
+
+ 
+
+Client       :  Panacea Biotec. 
+
+Duration     :  3 months 
+
+Project Type    :  DB / EHP7 Upgrade and Share Support 
+
+Environment    : Windows + MSSQSL. 
+
+ 
+
+SAP Project 1 
+
+Client       :  Samtel Group. 
+
+Duration     :  1.5 Year  
+
+Project Type    :  System Monitoring and Transport, User administration  
+
+Environment    : AIX+Oracle.  
+
+ 
+
+Professional & Educational Qualification 
+
+• MCA from M.D University, Rohtak. 
+
+• BCA from M.D University, Rohtak. 
+
+• Diploma in Hardware and Networking  
+
+ 
+
+ 
+
+

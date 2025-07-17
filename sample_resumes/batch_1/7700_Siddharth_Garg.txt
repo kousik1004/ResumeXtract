@@ -1,0 +1,209 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+siddharth garg
+
+Siddharth Garg		                                                         
+
+Address: Plot No 23 Near Apollo Pharmacy 			Mobile: 8884635353
+Near Velankani tech park electronic city phase1,                              Email: Siddharthgarg100@gmail.com
+Bangalore 560037					   
+                                                                                                                            
+Professional Summary:
+SAP Operations Team Leader understands how to motivate members, plan, track and monitor achievement of operational goals. Possesses seasoned abilities with identification of operational issues and methods to address them. Brings a Bachelor's degree in Computer Science along with equivalent of Four years of 24X7 Business operations experience.
+Experience:
+Associate Consultant
+Organization Name: 	Infosys Ltd.
+Client Name:		Adient (obtained from JCI Inc. Spinoff)  
+Project Name: 		Operations and Release Management
+Project type: 		24X7 support                                               
+Shift				EMEA
+Duration:			April 2016 to Present 
+Role/Title/Shift role: 	Team leader
+Work Location: 		Bangalore
+SAP Ver. & systems:	ECC6.0, SRM7.0 EHP2, XI/PI 2004s, SOLMAN 7.1, SAP HANA SP04, SAP BI 7.0, SAP BO 4.0, SAP BODS
+
+Job Description:
+· Leading and managing a team of 9 Consultants in 24X7 SAP operations and release management, encompassing 2 Business units and 20 Production, non-production SAP servers.
+· Resource planning and management for offshore support.
+· Providing operations track updates regularly to Group project manager, Identifying operational issues and devised plans to address them.
+· Deciding processes for daily reporting schedules, formats and ensuring that the issues captured are dealt within agreed SLA.
+· Process definition and Auditing for critical ticket/incident handling to ensure that technical issues are resolved within agreed SLA.
+· Performing Root cause analysis (8D) for critical issues and providing documentation.
+· Liaising with functional tracks for monitoring of Scheduled jobs, RFC’s and system performance
+· Perform team building activities, onboarding activities and KT to new joiners and ensuring availability of resources in 24x7 environment.
+· Develop a rollout schemes for SAP kernel upgrade.
+· EWA, Monthly and Weekly report assessment and improvement
+· Decide Release management activities like monthly, Weekly and daily releases, reporting structures for release and handling critical technical issues affecting release activities.  
+· Handling team escalations and deciding the process for avoiding further escalations
+· Handling ABAP dumps, client, lock, update maintenance, analyze OSS notes, apply fixes, certificates
+· Monitoring and administering via SAP HANA Cockpit for services, Alerts, overall performance of the system, memory utilization, CPU Usage, Disk Usage etc.
+· Stopping, starting HANA system via SAP HANA studio.
+
+SAP Basis Administrator 1								
+Organization Name: 	Juniper Networks, Inc.
+Client Name:		Supporting Juniper’s own SAP landscape 
+Project Name: 		Ignition 14.7, 14.2
+Project type: 		24X7 Basis support
+Shifts				Rotational shifts
+Duration:			Nov 2015 To March 2016.
+Role/Title/Shift role: 	SAP Basis Administrator 1
+Work Location: 		Bangalore
+Job Description:		
+Primary responsibility is on BW 7.4 SP5, BO and Data Services area but also supporting other SAP products as well. Working with the BW application team on a regular basis.
+· Administration of BW stack on prod and non-prod and manage HANA DB as well
+· Hands on experience on BO and DS preferably with BO version 4.1, SP2, Patch 2 and DS Version: 14.2.1.224
+· Handle performance issues w.r.t BW Application and HANA DB layer.
+· Engage with hosting provider for requirements to be accomplished
+· Troubleshoot issues at application layer, identifies issues at OS and DB layer and works with hosting provider to resolve them. Good knowledge on performance tuning of BW systems, aware of extraction issues, etc.
+· Prepare reports of system health checks on a daily basis, analyze them, take action on non-prod/prod with prior approvals, upload job logs as per schedule, perform refresh/post refresh steps etc.
+· Handling ABAP dumps, client, lock, update maintenance, analyze OSS notes, apply fixes, certificates
+· Ensure regular maintenance procedures such as clearing queues, verify housekeeping jobs, locks, identifying long running sessions, Handling memory management , Database related issues, DB stats check,
+· Configure transports if needed when landscape changes, trouble shoot and resolve transport issues.
+· Work with internal teams for closure to day today issues, provide root cause analysis,
+· Be part of project/releases and provide BASIS related support.
+· Installation and upgrade experience for the above will be a plus
+· Follows Infosec guidelines and governance in BASIS area very stringently
+· Participate in down time activities/manage downtime independently as per need.
+
+
+
+
+
+Associate Software Engineer							
+
+Organization Name: 	CGI group
+Client Name:		Multiple UK Govt. & Pvt. clients (~20 Clients) 
+Project Name: 		UK shared services
+Project type: 		24X7 Basis support
+Shifts				Rotational shifts
+Duration:			Aug-2013 To Oct-2015 (2 years 1 month)
+Role/Title/Shift role: 	SAP BASIS consultant/Associate software engineer/Shift lead
+Work Location: 		Bangalore
+SAP Ver. & systems:	ECC6.0, SRM7.0 EHP2, XI/PI 2004s, SOLMAN 7.1, CRM 5.0, BI 2004s, SAP Portals, E-Rec, BO system, NWCE,
+Job Description:   	My job mainly includes mainly Incident Resolution within agreed SLA, Alert monitoring, system checks, Transports, Note implementation, Profile Parameter change, Transport configuration, Client copy
+Detailed description:
+· Manual monitoring of application servers for Response times, SAP Buffers, CPU utilization, Table spaces, Update monitoring, backgrounds jobs, Work process monitoring, No of active users, application monitoring, ABAP Dumps, checking backup successful or not etc.
+· Performing daily health checkup of all SAP servers on landscape & tuning
+· Background job scheduling & monitoring
+· Client administration – creating, copying, deleting, export/import
+· Change & Transport administration
+· Configuration of CTS, Creating change requests and performing export and import of transports for R/3 system, Checking, Analyzing and troubleshooting transport issues
+· Analyzing system errors & ABAP dumps
+· Monitoring the lock entries and Monitoring of exclusive locks and dead locks
+· Monitoring of failed updates and informing the user
+· Installed and configured SAP Library
+· Familiar with System Refresh activities.
+· Spool administration
+· Providing developer key to ABAP developers
+· Setting up & Monitoring of Daily, weekly and monthly batch jobs
+· Opening OSS connections for SAP to trouble shoot Issues in our Systems
+· Applying OSS notes using SNOTE
+· Performed Kernel & Kernel Patch Upgrades
+· Applying Support packages
+· SAP License administration
+· Familiar with Alert Monitors, setting & configuring SAP Alerts
+· Creation and maintenance of RFC connections
+· System Log monitoring
+· Setting up Operation Modes
+· Profile parameters change
+
+· In Oracle part, the followings
+· Performing daily health check for databases
+· Table Space Administration, Table reorganization, Rebuilding Indexes using BR*TOOLS
+· Regular monitoring of database and archive backups and troubleshooting backup issue
+In SQL part,
+· Performing Backups,
+· Shrinking log Files
+
+Well versed with remedy ITSM software.
+
+Academic Qualification:			
+	Academic Qualification
+	Institute/ University
+	Year of Passing
+	 Percentage
+
+	Graduation(B.E),
+Computer science & engineering.
+	TIT College(Bhopal)/R.G.P.V
+	2009-2013
+	78.6
+
+	12th
+	St. Joseph’s co-ed  School(Bhopal)/C.B.S.E
+	2009
+	70.4
+
+	10th
+	St. Joseph’s co-ed  School(Bhopal)/C.B.S.E
+	2007
+	63.8
+
+
+
+Strengths:
+· Fluent communication skills.
+· Flexible to work in Rotational shifts.
+ .
+Trainings:
+· ERP software skills-: Attended CGI group Company training for SAP Basis fresher’s for 1.5 months named “metamorphosis”.
+Extracurricular activities:
+· Part of editorial board in college magazine.
+· Attended “Manthan” an industry academia interface program in which top HR experts from various companies interacted from students having good academic background.
+· Was a class representative in my class for 4 semesters.
+· Attended Art of living workshop.
+
+Personal Information:
+Father's Name			Sandeep garg
+Date of Birth			07-08-1991
+Languages known		English, Hindi
+Permanent Address		C-9 B.D.A colony shivaji nagar Bhopal(MP) -462016
+Hobbies		Listening to music, swimming, playing cricket & football, Learning 

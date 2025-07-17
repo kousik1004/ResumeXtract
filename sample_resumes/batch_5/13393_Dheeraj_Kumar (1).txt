@@ -1,0 +1,231 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dheeraj Kumar
+Dheeraj.1si10te016@gmail.com
++91 – 9972124304
+Professional Summary:
+
+· Having 2.10 years of experience as Oracle Database Administrator for production, test and Development databases for various releases of Oracle (Oracle 10g, Oracle 11g,12C) on Red Hat Linux, Windows and HP-UAX
+· Good knowledge on Oracle Architecture and maintenance of single instance
+· Experience in creating AWS EC2 Redhat Linux, Ubuntu instances and configuring it for client connection
+· Experience in creating AWS RDS oracle database for development and test purpose and configuring it through sql developer
+· Experience in writing automation scripts in Python, Perl and shell scripting.
+· Monitoring the table spaces usage, increasing the size of table spaces by adding data files to the table spaces
+· Creating profiles, roles and attaching them with users, unlocking the user accounts
+· Resolving listener and network issues
+· Experience on installation of OEM (12cR5) in windows environment
+· Experience on Adding targets to OEM
+· Experience on Configuration of Alerts in OEM
+· Taking the schema level backups based on user requirements and schema refreshes from prod to non-prod databases
+· Data transferring with export/import utilities and Data pump
+· Good knowledge in the area of database backups and recovery strategies, scheduling backup scripts with RMAN
+· Monitoring alert log, listener log and share with the Application team
+· Working knowledge on ASM databases (checking free space on disk groups, communication of database instances with disk groups etc.)
+· Working knowledge on Data guard issues and also knowledge on configurations
+· Troubleshooting day to day issues in RAC environment
+· Performing archival and purging activities for transferring old data to storage media
+· Experience Mysql Binary installation,DB creation,Table creation,Backup and recovery activities.
+Technical Skills:
+
+· DBMS
+
+
+:  Oracle 9i, 10g and 11g,12C,Mysql,Amazon RDS
+· Programming Language: Python,Perl,Shell Scripting
+· Operating Systems
+:  Windows 7, Windows 2003/2008/2012 servers, Linux,
+· Cloud Platform      
+:  Amazon Web Services 
+
+· Tools & Utilities
+
+:  Putty, VNC Viewer, exp/imp, expdp/impdp, Lotus Notes
+· Ticketing Tools
+
+:  Service Now
+· Monitoring Tools
+:  OEM cloud control, Solar winds
+
+Professional Experience:
+· Working in Cuefin Solutions Pvt Ltd, Bengaluru as Oracle DBA from May 2017 to till date
+
+· Worked in Sonata Software Ltd, Hyderabad as Oracle DBA from Jan 2015 to May 2017
+Project #1:
+Project
+
+
+:  Advertising 
+
+Client
+
+
+:  WPP
+Operating Systems
+:  Linux, Windows, HP-UX
+RDBMS 
+
+:  Oracle 9i/10g/11g
+
+Tools 
+
+
+:  PUTTY, VNC Viewer, OEM Cloud control, Lotus Notes
+Role
+
+
+:  Database Administrator
+
+
+Duration
+
+:  Jan 2015 to May 2017
+Roles & Responsibilities:
+
+· Manage and support 300+ Oracle databases which include 120 Production database
+· Install Oracle binary and create new oracle Databases
+· De-commission of database on customer request
+
+· Database deployments.
+
+· Creating ASM Disk from given LUN
+
+· Creating ASM Disk groups and Adding ASM Disk to Disk groups
+
+· Starting / Stopping Cluster services.
+
+· Configuring RMAN.
+· Implementing and rescheduling backup jobs
+
+· Experience on Adding targets to OEM
+
+· Generating AWR and ADDM Report
+
+· Managing table spaces, data files.
+· Installing, creating, and maintaining of Oracle 10g, 11g running on Red hat Linux environments  
+
+· Day to day monitoring availability of system, listener, database, alter log file, trace file
+· Co-ordinate with UNIX administrators for space managements on various servers
+· Creating primary database objects such as tables, views, sequences, triggers, and indexes
+· Creating user accounts and appropriate privileges as well as maintaining database security and involved in database security by granting roles, privileges, allocation of quotas and unlocking accounts to users
+· Hands on experience in using RMAN and user managed backup. Monitoring the daily automated backups of all the production databases for various failures
+· Performed logical backup of database, schemas, tables using export/import and data pump utility
+· Experience in working with Oracle 10g and 11g RAC databases
+· Cloning the databases (Using Hot and Cold Backup ) when and where required for  Development and testing activities. 
+· On call 24X7 production supports. Willingness to work beyond regular hours
+· Worked on the Service Now to handle user incidents, Change Requests.
+Project #2:
+
+Project 
+
+:  Finance
+Client 
+
+
+:  CJC Ltd 
+
+Environment
+
+:  Linux, Windows, Oracle 10g, 11g,Mysql
+Tools 
+
+
+:  PUTTY, VNC Viewer,
+Cloud Platfor 
+
+: Amazon Web Services
+Role 
+
+
+:  Oracle DBA
+
+Duration
+
+:  May 2017 to Till Date
+Roles & Responsibilities: 
+
+· Manage and support 100+ Oracle databases which include 20 Production databases
+· Install Oracle binary and create new oracle Databases.
+· Creating ASM Disk from given LUN
+
+· Creating ASM Disk groups and Adding ASM Disk to Disk groups
+· Implementing and rescheduling backup jobs
+
+· Experience on Adding targets to OEM
+· Managing table spaces, data files. 
+
+· User creation/Password reset/Password policy setting/Granting privileges. 
+
+· Killing user session on request.  
+
+· Resolving listener and network issues
+
+· Physical Database Backup and recovery (Hot and Cold Backups) and Logical Backup.
+
+· Taking the schema level backups based on user requirements and schema refreshes From prod to non-prod databases       
+
+· Database refresh using RMAN backup when and where required for Development and testing activities. 
+
+· Day to day monitoring availability of system, listener, database, alter log file, trace file. 
+
+· Database Shutdown/start up during Maintenance window.
+· Checking alert logs for errors and reporting to seniors
+· Checking if there is enough disk space for the data file to grow
+· Monitoring TEMP segment usage
+· User and group creation and maintenance
+
+· Involved in physical & logical Backups (Export / Import)/data pump for Schemas based, full database
+· Performing manual and scheduled backups
+· Raising the change request for adding spaces to the mount points
+Academics:
+· Completed B.E from Siddaganga Institute of Technology with an aggregate of 66.30%
+
+· Intermediate from S.K.M.R.D.D College with an aggregate of 65.2%
+
+· SSC form S.S.V.M High school with an aggregate of 71.8%
+(Dheeraj Kumar)
+

@@ -1,0 +1,328 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+QURAT SHAHID
+
+
+Mukul Singhal
+C-142, 1st Floor
+New Ashok Nagar 
+New Delhi-110 096
+Mobile: +91 9953514916
+( mukulsinghal.jecrc.it@gmail.com
+
+	Summary 
+
+
+· Oracle DBA with 4.4 Years of experience supporting more than 1200 production databases (Oracle/MS SQL Server) running on UNIX and WINDOWS platform. 
+
+· Worked on setup Data Guard (physical/logical), Performance tuning, Expdp/Impdp, RMAN. 
+
+· Knowledge on MS SQL Server 2005 / 2008/R2 / 2012 / 2014 / 2016 database, including installation, DB creation, backup, recovery, maintenance plan setup, Log file shrink and index rebuild or reorganization
+
+· Experience of Golden Gate setup from MS SQL server to Oracle Server
+
+· Having experience on Oracle database upgrade and Patching.
+
+· Good Hands-on experience on physical/logical data guard issues. 
+· Monitoring all the databases using 10g/11g/12c OEM. 
+· Schema refreshes and table refreshes using EXP/IMP and DATA PUMP. 
+· Working as part of a team and provide 24x7 support when required. 
+· Developed database monitoring/health check alert scripts for database. 
+· Developed Oracle database decommission script for windows platform using PowerShell
+
+· Proficient in raising SR (service requests) with Oracle Support using Metalink to resolve the bottlenecks in the database environments.
+
+· Daily working on the incidents [Critical - P1, High - P2, Medium - P3, Low - P4], changes, problem tickets and work orders.
+	Work Experience
+
+
+Working with HCL Technologies, Noida Oracle DBA designation as Analyst
+Project Summary
+
+Project 1
+Client
+
+
+:
+Cummins Inc - TNM - India
+Role
+
+
+:
+L2+
+Environment
+
+:
+MS Windows Server 2003/2008/2012, sunOS 5.10
+Database Version            :           
+Oracle 10g/11g/12c, MS SQL database Server 2008/2012/2014/2016
+Oracle Utilities
+
+:           
+OEM 10g/11g/12c, Dataguard (Logical), RMAN, EXP/IMP, Datapump, 
+
+Oracle Failsafe Manager, Golden Gate, Heterogeneous DB link
+Team Size
+
+:          
+7
+Project Description 
+Cummins Inc. is an American Fortune 500 corporation that designs, manufactures, and distributes engines, filtration, and power generation products. We are supporting all Manufacturing Dept. databases where we have Oracle and MS SQL Server Databases on WINDOWS, SunOS platform.
+Responsibilities:    
+
+· Installation and maintenance of Oracle and MS SQL Server Databases on various environments.
+· Experience in Database administration activities like Installation, upgrade, configure and maintain the database environment for SQL Server 2005, 2008/ R2, 2012 and 2014 and 2016.
+· Configuring and Implementing Database Maintenance Plans.
+· Monitor database size and disk space in Production, Development and Test environments.
+· Creating logins, database users and managing their privileges in MS SQL Server
+· Applying service packs & hot fixes
+· Experience in upgrading servers from MS SQL Server 2005, 2008 to MS SQL Server 2012 and 2014.
+· Basic performance tuning (Identifying long running SQLs, Reading SQL plan)
+· Migrating SQL Server 2008R2 databases into SQL Server 2012 and 2014
+· Successfully set up the Database linked server from SQL to SQL\oracle
+· Implementing the different Backup Strategies and experienced in backup and Disaster Recovery
+· Refresh UAT/DEV databases from production database through RMAN backup
+· Install oracle agent in WINDOWS/UNIX servers and configure them with OEM 10g/11g/12c for monitoring
+· Configuring Physical and Logical Standby databases as Datagaurd
+· Developed script to fetch the mount point or disk utilization report along with archive log sequence and applied status of Physical and Logical standby databases for WINDOS and SunOS platform.
+
+· Developed script to auto decommission Oracle database for windows platform using PowerShell.
+
+· Configured Heterogeneous DB link to fetch MS SQL server database details through Oracle Database servers
+
+· Setup Golden Gate to replicate SQL server database on Oracle database server
+
+· Oracle Failsafe Manager configuration on Windows cluster environment for Oracle 11g/12c databases
+
+· Other duties include applying oracle database patches, creation of database users, monitoring, tuning, troubleshooting and backup and recoveries. 
+
+· Cloned Oracle Databases and DR creation 
+
+· Implement Hot, Cold and Logical backup plans. 
+
+· Responsible for setting and managing user accounts, Granting required privileges to users. 
+
+· Perform other regular DBA activities including space management and performance monitoring. 
+
+· Continuous monitoring of database performance during peak and non-peak loads using AWR. 
+
+· Involved in process improvement, Oracle Server Installations/Upgrades/Patches, Space Management, Capacity Planning, Backup & Recovery, Disaster Recovery, Database Performance Tuning, Memory Tuning, Security Administration, Data Guard and Oracle Standby Servers.
+· Oracle database upgrades  from 10.2.0.3 to oracle 12.1.0.2 using EXPDP/IMPDP
+· Oracle software upgrades  from 11.2.0.4 to oracle 12.1.0.2
+· Oracle  software upgrades  from 11.2.0.2 to oracle 11.2.0.4
+
+· Creation of table spaces, adding resizing data files.
+
+· AWR and ADDM reports generation
+
+· Performance tuning of the database as the suggestion provided by application dba team 
+· Monitoring database performance through OEM
+· Applying database patch sets of the Oracle 11.2.0.1
+
+· SQL Server installation. Database and logs shrink in SQL databases. Backup, cleanup etc. job scheduling on the SQL databases.
+· Monitoring Logical Standby status with responsible to make them sync with production
+Project   2
+Client
+
+
+:
+Rockwell Automation
+Role
+
+
+:
+Associate DBA.
+
+Environment
+
+:
+Oracle 9i/10g on Red Hat Linux 5.0
+Team Size
+
+:           
+5
+Project Description 
+
+Rockwell Automation, the world's largest company dedicated to industrial automation, makes its customers more productive and the world more sustainable. Throughout the world, their flagship Allen-Bradley® and Rockwell Software® product brands are recognized for innovation and excellence.
+Responsibilities: 
+· Monitoring Table spaces and data files growth extending the database storage capacity by creating new table spaces.
+
+· Creating Users, Disabling users, Responsibility management.
+
+· Analyzing indexes s Rebuilding indexes, Performance monitoring of database.
+
+· Taking cold and hot backup of the database regularly.
+
+· Backup & Recovery Policies using RMAN.
+
+· Tuning of SQL quires, Applications and Health checkup of all the databases.
+
+· Doing Database Reorganization regularly to remove row migrations and fragmentation using export and import utilities and move table command. 
+
+· Space Management which includes table space creation, adding new data files
+· Managing of Standby Database. Experience in Database Creation and Configuration.
+· Working experience of creating DB object like tables, indexes, views and roles.
+· Database Refresh through Export/Import.
+Achievements: Cleared HCL’s internal Oracle Proficient Program. Promoted to L2 ORACLE DBA
+Project 3
+Client
+
+
+:
+Deutsche Bank
+Role
+
+
+:
+Database Administrator.
+
+Environment
+
+:
+Oracle 10g/11g on Red Hat Linux 5.0.
+
+Team Size
+
+:           
+20
+Project Description 
+
+Deutsche Bank is a leading global investment bank with a strong and profitable private client’s franchise. A leader in Germany and Europe, the Bank is continuously growing in North America, Asia and key emerging markets. With more than 78,000 employees in over 70 countries worldwide, Deutsche Bank offers unparalleled financial services throughout the world. The Bank competes to be the leading global provider of financial solutions for demanding clients creating exceptional value for its shareholders and people.
+Responsibilities:    
+
+· Monitoring Table spaces and data files growth extending the database storage capacity by creating new table spaces. 
+· Creating Table spaces and other Database objects as per requirement.
+
+· Creating and managing Homogeneous and Heterogeneous DB links between Oracle to Oracle and Oracle to MSSQL databases
+
+· Created users and granted appropriate privileges
+· Ensuring Database security by managing users & profile.
+
+· Implementations of quotas on tablespaces to users
+
+· Online Database Backup, Archived redo log files and Offline backup
+· Working experience of creating DB object like tables, indexes, views and roles.
+· Database Refresh through Export/Import. Database migration from Oracle 10g to 11g, applying latest releases of Oracle PSU (Patch Set Update).
+· Backups, recoveries and cloning using RMAN.
+
+· Creating DB links and materialized views. Managing of Standby Database.
+· Managing Redo Log files in Archive log Mode for Online Backup 
+· Performed different file recoveries in the database (loss of system, undo, user data files using online and offline backups).
+·  Create the report using AWR report etc. Installing, configuring Oracle server software and related products on test as well as productions server on Red Hat Linux 5.0.
+· Creation of table spaces, adding resizing data files.
+
+· Managing Physical structure of Oracle database like Data files, Redo log file and Control files. 
+
+· Creating users, Added new user accounts, created profiles, roles and assigned them to different users.
+
+· Created and managed different kinds of table spaces, space issues, extent and storage parameters
+
+· Password File was created for network authentication of the Administrator
+· Applying latest releases of the  patches from Oracle 
+
+· Backup & Recovery Policies using RMAN.
+
+· Taking the Logical, Cold and Hot backups of the database regularly
+
+· Created number of databases for development, production and testing
+· Performed installation of Oracle 9i software on various platforms like Windows 2k Server and Adv Server, Red Hat Linux Enterprise Server
+·  Monitoring database growth and proportionate performance. Monitoring CPU, sessions, process and query behaviors for 9i/10g Databases.
+
+· Monitoring database performance using monitoring tools.
+
+· Monitoring alert logs and taking steps to rectify error messages.
+
+· Proactively monitored hit ratios on different components of the SGA.
+
+· Export/import activities and data loading using SQL Loader.
+
+· Analyzing ORA errors in the alerts and fixing them
+
+· Scheduling the DBA jobs and data loading
+
+· Handled issues regarding locks
+
+· Objects maintenance activities such as partitioning large tables into different partitions, data purging based on data retention policy etc.
+· Incident ticket handling, change and problem managements processes.
+	Education Qualification
+
+
+· Bachelor of Technology (B. Tech.) under Information Technology stream from Jaipur Engineering College and Research Center, Jaipur (RAJ.) affiliated with RAJASTHAN TECHNICAL UNIVERSITY, KOTA (RAJ.) passed with HONOURS.
+	· Technical Skills
+
+
+CLONING (More than 1 year), MS SQL Server (More than 1 year), OEM (More than 1 year), ORACLE (More than 1 year), Golden Gate (Less than 1 year), Data guard (More than 1 year)
+Additional Information
+
+Hardware
+:
+Sun, Dell, Intel, IBM
+
+
+
+Other Tools
+:     
+Remedy and Service Now ticketing tools, Putty, MS Office, Outlook, VMware 
+Workstation, RDP, Win SCP, Oracle Virtual Box Manager
+
+RDBMS
+
+:     
+Oracle 10g/11g/12c, MSSQL Server 2005, 2008/R2, 2012, 2014, 2016
+Languages
+:     
+C, C++, SQL, PL/SQL, Unix-Shell Script, Power Shell Scripting
+OS
+
+:     
+Windows 2003/2008/2012 Server, Sun Solaris, OEL 5 & 6.
+Oracle Utilities
+:     
+RMAN, Export–Import, Data Pump, Oracle Enterprise Manager, SQL*Plus, AWR 
+
+& ADDM Report, Datagaurd, Heterogeneous DB Link, Golden Gate, Oracle 
+
+Failsafe Manager

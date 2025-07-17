@@ -1,0 +1,279 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHRUTHI RAO
+
+neeraja induri 
+
+	nO.305, s.v rESIDENCY, oPP: aNDHRA bANK
+gREEN gLEN lAYOUT, bELLANDUR
+
+bANGALORE – 560 103 
+
+
+OBJECTIVE 
+
+To excel professionally in a dynamic organization through maximization of organizational and    professional goals.
+
+PROFESSIONAL EXPERIENCE   
+Worked as Product Technical Lead with Infosys Technologies, a SEI-CMMI Level 5 Company having 5+ years of experience in product development, testing and implementation.
+
+1.
+
+Project   :  Telco (Duration: April 2010 – March 2011)
+Client     :  Infosys Product
+
+Role       :  Technical Lead 
+Description: Users can  register , login to the Telco site where the users can browse the catalog , add the products to the shopping cart , place the order and proceed with the checkout process where the user  needs to  mention the shipping and the payment details .With the wish list module , user would be able to add products to wish list and can then move the products from wish list to shopping cart .User  can create the gift list , add products the gift list and publish his gift list to others .A logged in user can set his preferences like the default shipping , payment details , he can even save his shopping basket and view on on his next visit to the site .With the store locator module , user would be able to search the different stores where he can place the order .
+Team size   - 20
+Environment – Struts 1.2 ,Hibernate3.0,jdk1.5,tomcat 5.0,Oracle9
+Roles and Responsibilities:
+· Involved in Analysis and Development of User module
+
+· Involved in Data base Connectivity through Hibernate      
+
+·  Involved in Bug fixes over the maintenance.
+
+·  Involved in maintain the proper documentation.
+. 
+
+2.
+Project   :  Market Place
+
+Client     : CISCO Solutions
+
+Module   : Blogs Implementation - (Duration:  Jan 2009 – April 2010)
+
+Role        : Developer 
+
+Description: Cisco solutions Marketplace enables CISCO partners to collaborate, sell and buy solutions. This marketplace facilitates seller and buyer registration, order management, catalog management and the admin can also manage users. This enables users can register, manage their account, manage orders placed by them, give feedback on the site, review and rate solutions in the marketplace. The sellers can also perform the same operations that a buyer can perform, in addition to, adding solutions to the catalog in the marketplace, manage orders placed for their solutions and fulfill or cancel the orders. The admin can manage the entire marketplace. The admin can approve or disapprove seller requests, approve or disapprove solutions, manage featured solutions, see reports for monthly orders placed, users’ feedbacks, site feedbacks.
+Team size   - 12
+Environment -  Commergent, ROME API, jdbc, jdk1.4, tomcat 5.0, sql server, html, javascript
+Roles and Responsibilities:
+· Involved in Analysis, Design and Development of Blogs implementation.
+
+· Integrating marketplace with Chat application.
+
+       Involved in Data base Connectivity through JDBC.
+
+       Involved in writing unit test cases.
+
+       Involved in Bug fixes over the maintenance.
+
+       Involved in maintain the proper documentation.
+
+2.
+
+Project   : SNS (Social Networking System)
+
+Client     : Infosys (Product development)
+
+Module   : Categories & Mobile - (Duration:  April 2008 – Dec 2008)
+
+Role        : Developer 
+
+Description: This product aims to provide an event driven social networking experience. The intent is to have pluggable modules where we can replace a particular implementation with another one. This enables to have vertical themes on top of the event engine which will interact with profile and community blocks. The various sub-systems of SNS are User, Buddy, Mails, Groups, Comments, Events, Performers, Venue, Event, and Mobile.
+Team size   - 10
+
+Environment -  Ruby on Rails, sql server, XML, Java, J2EE.
+Roles and Responsibilities:
+       Involved in Analysis, Design and Development of MobileEngine.
+
+       Involved in Data base Connectivity through JDBC.
+
+       Involved in writing unit test cases.
+
+       Involved in Bug fixes over the maintenance.
+
+       Involved in maintain the proper documentation.
+
+II.
+Worked as a software Engineer in Wipro Technologies, a SEI-CMMI Level 5 Company from December 2005 to March 2008. During this period I worked for various projects and involved in Design, Development and Implementation of different web applications. 
+
+1.
+
+Project   :  SOBAY
+
+Client     : Wipro BPO, Bangalore
+
+Module   : Boeing - (Duration:  Jun 2007 – Mar 2008)
+
+Role        : Developer 
+
+Description: The project addresses operations management and reporting needs of travel account audit process of Boeing. ExpenseQ Excel file containing list of documents to be audited is generated in EBC and sent to Wipro BPO on a weekly basis. The system should take this file as input for agent allocation. Based on the flow type the jobs will be assigned to the respective auditor. Auditor needs to look into these jobs one by one and do the necessary checking, change the status and close the job. If required he can return or reject the job.
+Finally the QC person will take the closed jobs assigned to him and cross verify the details. He can then make the status as Pass or Fail.
+Team size   - 18
+
+Environment -  struts 1.2, ,jdbc,jdk1.4,tomcat 5.0,sql server, html, javascript
+Roles and Responsibilities:
+       Involved in Analysis, Design and Development of prioritization module.
+
+       Involved in Data base Connectivity through JDBC.
+
+       Involved in writing unit test cases.
+
+       Involved in Bug fixes over the maintenance.
+
+       Involved in maintain the proper documentation.
+
+2.
+
+Project   :  TEDWEB
+
+Client     : Wipro Technologies, Bangalore
+
+Module   : Survey Automation Tool - (Duration:  January 2007 – May 2007)
+
+Role        : Developer 
+
+Description: The system is aimed at getting the feedback of the employees. The Survey Module has subsystems for different roles – User and Admin. Admin creates the survey and the users give feedback to the survey. Report is generated one day after the closure date of the survey. Admin either submits the survey after entering all the questionnaire or can save the survey which can be modified later. Admin can view who have responded to the survey and who have not. Admin can reset the responses. He can also copy and alter the survey. He can also generate the reports. Employees logon to SAT with the login id and password of HRWEB. If he is one of the target employees he will be shown a link to the questioner. He will go through the questioner and give his feedback. The feedback of the employee is saved for reports and analysis.
+Team size   - 3
+
+Environment -  Java, JSP 1.2, Servlets2.0, JDBC 2.0,  HTML, Java Script, Oracle8i, IPlanet 6.1.
+Roles and Responsibilities:
+       Involved in Analysis, Design and Development of User module.
+
+       Involved in Data base Connectivity through JDBC.
+
+       Involved in writing unit test cases.
+
+       Involved in Bug fixes over the maintenance.
+
+       Involved in maintain the proper documentation.
+
+       Documentation of the whole module.
+3.
+Project   :  TEDWEB
+
+Client     : Wipro Technologies, Bangalore
+
+Module   : Wings Within - (Duration:  October 2006 – December 2006)
+
+Role        : Developer 
+
+Description: The System is aimed at workflow based automation of services for posting jobs, screening of application and selection inside Wipro as per Wings Within policy. The Wings Within Module allows internal posting of jobs and also applying to the same. The Wings Within Module has subsystems for different roles – User, Supervisor and Central Staffing. The users are allowed to view all jobs that are posted on the site in this module. The users can also apply to the job. A mail of acknowledgement will be sent to the user. The user also receives a mail on application status. The supervisors/Managers are allowed to post requirements in the People Allocation system. Their heads validate the same. All validates entries in the PAS enter the Wings Within. It also allows the Managers to screen the applicant’s resume. The Central Staffing matches the PAS entries with the available free pool list and act accordingly. Also CSF updates the unfulfilled PAS entries accordingly.
+Team size   - 2.
+
+Environment -  Java, JSP 1.2, Servlets2.0, JDBC 2.0,  HTML, Java Script, Oracle8i, IPlanet 6.1.
+Roles and Responsibilities:
+       Involved in Analysis, Design and Development of User module.
+
+       Involved in Data base Connectivity through JDBC.
+
+       Involved in writing unit test cases.
+
+       Involved in Bug fixes over the maintenance.
+
+       Involved in maintain the proper documentation.
+
+       Documentation of the whole module.
+4.
+
+Project   :  TEDWEB
+
+Client     : Wipro Technologies, Bangalore
+
+Module   : Security Indent Report - (Duration:  May 2006 – September 2006)
+Role        : Developer 
+
+Description: Security Incident Report is an application developed to provide a means to employees to report any security related issues. Issues may be related to Physical security or IT security. Physical security related issues are like loss of things like mobile, laptop or unauthorized entry to the office premises etc., IT security related issues like misusing important information etc,. It has three sub modules like User module, Admin module and SuperAdmin module.
+
+Team size   - 2
+
+Environment -  Java, JSP 1.2, Servlets2.0, JDBC 2.0,  HTML, Java Script, Oracle8i, IPlanet 6.1.
+Roles and Responsibilities:
+       Involved in Analysis, Design and Development of User module.
+
+       Involved in Data base Connectivity through JDBC.
+
+       Involved in writing unit test cases.
+
+       Involved in Bug fixes over the maintenance.
+
+       Involved in maintain the proper documentation.
+
+       Documentation of the whole module.
+5.
+
+Project   :  TEDWEB
+
+Client     : Wipro Technologies, Bangalore
+
+Module   :  IS Requisition – (Duration:  December 2005 – April 2006.)
+
+Role        : Developer 
+
+Description: The system aims at a view to continuously improve the process which would address
+the major pain area of not receiving / capturing customer requirement specification correctly, resulting in defective or delayed delivery of software applications. The system allows the User to raise the request & can track the request status through the specified links given. Respective group User SPOC approves / rejects the request created by the User and assigns it to the IS-Group. After the request is approved by the User SPOC, system triggers mail to the user and to the selected IS PM. Respective IS PM accepts / rejects the request approved by the User SPOC. After the request is approved by IS PM, system triggers mail to the User, User SPOC and IS SPOC.. Once the request is assigned to his reportees the assignee changes the status of the request from Accepted by IS PM to Development in progress and finally to Close . At every status change by system user, the respective User and User SPOC are intimated by mail.
+
+Team size   - 2
+
+Environment -  Java, JSP 1.2, Servlets2.0, JDBC 2.0,  HTML, Java Script, Oracle8i, IPlanet 6.1.
+Roles and Responsibilities:
+       Involved in Analysis, Design and Development of User module.
+
+       Involved in Data base Connectivity through JDBC.
+
+       Involved in writing unit test cases.
+
+       Involved in Bug fixes over the maintenance.
+
+       Involved in maintain the proper documentation.
+
+       Documentation of the whole module.
+SKILLS 
+
+  Langauges            : Java,.XML, HTML
+  Operation systems: Unix, Windows-XP, DOS.
+
+  Database               : MS-Access, Oracle & PL/SQL.
+
+  Web Technologies :Spring 2.5, Hibernate 3.0,Struts 1.2, Servlets , JSP, JDBC
+  Servers                  : Apache-Tomcat 
+  Scripting                : JavaScript.
+
+PERSONAL INFORMATION 
+
+Date of Birth           :     09-11-1980 
+
+Phone                     :    +91- 8197300178
+E-mail                      :    neeraja.burra@gmail.com 
+
+Linguistic Proficiency:    English, Hindi, Telugu.
+
+Date :                                                                 Neeraja Induri

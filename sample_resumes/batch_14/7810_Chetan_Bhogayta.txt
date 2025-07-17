@@ -1,0 +1,179 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chetan Bhogayta 
+ 
+
+Contact No.: +91-9913502778 
+ 
+
+Email Id:  cbhogayta@gmail.com 
+ 
+
+ 
+SUMMARY 
+
+ 
+
+ 2.5 years of total IT experience as a Developer/Analyst involved in Planning, Analysis, Design, Implementation 
+and Maintenance in different domains of Data Warehousing.  
+
+ Proficient Data Warehousing experience using Informatica Power Center.  
+ Strong experience in ETL, SQL, UNIX through product development experience.  
+
+ 
+ Good Business Analysis experience in Data Analysis, User Requirement Analysis, Gap Analysis, Data 
+
+Transformations, Data Relationships, Source Systems Analysis.  
+ 
+
+ Technical Knowledge is complemented with good domain knowledge of life sciences.  
+
+ Analytical thinker consistently resolving on-going issues/defects.  
+ Always takes initiative to meet project deadlines without compromising on the quality of the deliverables.  
+
+ 
+EDUCATIONAL QUALIFICATIONS 
+
+ 
+
+ M. Tech in Communication Engineering from VIT, Vellore(8.82 CGPA)  
+ B.E in E&C Engineering from North Gujarat University (75.40%) 
+ H.S.C., Gujarat State Board (71.00%)   
+ S.S.C., Gujarat State Board (72.00%)  
+
+ 
+TECHNICAL SKILLS 
+ 
+
+Business Intelligence Informatica Power Center 
+Programming Languages    SQL, UNIX 
+Databases Oracle 11c/12c  
+OS/Environment UNIX, Windows XP, Windows 7 
+Others SQL developer, SQL Plus, WinSCP, Putty, Mobaxterm 
+
+ 
+INNOVATION/ ACHIEVEMENTS 
+
+ 
+ Published a technical paper in international journal on topic Compressive Sensing in image processing and this 
+
+project presents compressive sensing technique used for speech & Image reconstruction using GPSR.  
+ Recognized with 3 BU level awards for project work and responsibilities.   
+ Completed Cognizant internal certifications/trainings for Life sciences L0, Level 1: Informatica PowerCenter 9.0.  
+
+ 
+PROFESSIONAL PROFILE 
+ 
+Employer : Cognizant Technology Solutions India Pvt. Ltd. 
+Date of Employment : September-2015 -Hitherto 
+
+PROJECT INFORMATION  
+  
+
+Project SmartTrials 3.0 (Cognizant’s own product) 
+Platform Windows 7 
+Technology/Software Informatica PowerCenter 9.6, WinSCP, SQL developer, UNIX Shell Script, Putty 
+Duration Dec 2015– Hitherto 
+Customers Amgen, BioGen 
+Role Informatica Developer, Module owner 
+
+mailto:%20cbhogayta@gmail.co
+
+
+SmartTrials 3.0 is a data warehousing product for pharmaceutical companies to manage their huge amount of 
+data for clinical trials. This is Cognizant’s own product which helps customers (pharma companies) to extract huge 
+amount of unstructured data, transform it and load into industry standard tabular structures. On top of that this product 
+provides feature to generate reports with KRIs and KPIs for submission to FDA. Operational Data Repository(ODR) is one 
+of the important modules of SmartTrials 3.0 product. ODR deals with clinical trials operational data for all studies which 
+comes under all clinical trials. It consists of ETL part which extract data from various source systems as RAVE, IMPACT 
+etc. from various vendors and transform into industry standard table structures which is managed by job management 
+module based on UNIX crontab utility. Also applied data quality checks at source layer for data validation. Product 
+features UI for monitoring data and scheduling data flow for daily batches. 
+
+ 
+
+Responsibilities: 
+ 
+
+ 
+
+ Prepared FR (Functional Requirements) and high/low level technical design document that meets the business 
+requirements following all Industry defined standards. 
+
+ 
+ Developed ETL mappings, sessions and workflows using Informatica 9.6 to extract the data from source systems 
+
+(Oracle & flat files), apply business logic and load into target system (Oracle database)  
+ 
+ Worked on various data transformation modules such as Data acquisition, Auto ingestion, Harmonization, late 
+
+arriving dimension action and SCD2.   
+ Owner for error and process logging module which is used for workflow level details logging.   
+ Owner for ODS and MART which handle data as per requirement.  
+
+   
+ Owner for Re-harmonization which is handling back dated data as well as future data in ODS layer .   
+ Successfully implemented Re-harmonization which will handle back dated file from source system in informatica.  
+
+  
+ Product support from development team for various testing cycles as SIT,PT,OQ and PQ cycles.   
+ Leading the team of 4-5 developers for data load activities and product testing cycles’ support.  
+
+ 
+ Worked for multiple environment setups for informatica repository, integration service creation and product 
+
+deployment.   
+ Implemented mail notification for landing as well as mart layer with using UNIX shell script. 
+
+ 
+ Worked for hot fix release for the product along with version control management for the code. 
+
+Provided knowledge transition to other team members.   
+ Conducted sessions for Life sciences clinical trials domain introduction to new team members.  
+
+

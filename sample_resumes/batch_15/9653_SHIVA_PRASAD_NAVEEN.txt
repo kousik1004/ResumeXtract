@@ -1,0 +1,209 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHIVA PRASAD NAVEEN
+Phone : 091-9885098098
+E-mail : naveenshivaprasad@gmail.com
+Professional Summary:
+· Networking and hardware professional with 9 plus years of experience in Telecom domain.
+· Planning, Validation and designing of Brown field & Green field (Inter & Intra-city) Fiber, FTTx, Various Enterprises Projects and Network Elements to generate and release drawings. 
+· Planning and implement of Network Facilities in to IP MPLS Transport Traffic through Fiber (Inter & Intra-city) Architecture. 
+· Results-driven project management experience in IT Management Services provider organizations. To drive the projects handled with the help of all the verticals in the organization.
+· Experience of developing support procedures and service standards to meet business requirements and end-user needs.
+· Excellent communication and diagnostic skills; consistently solve problems and rarely escalate issues.
+· Efficiently co-ordinate with the Technical Support Team and Vendor to resolve the problem
+· Have good communication (verbal and written), analytical & problem solving skills, a committed team player as well as an independent worker, able to work with minimum supervision and to manage multiple tasks simultaneously.
+
+Career Objective: A Challenging position to lead Infrastructure / technical team in a reputed organization where my technical and analytical skills would be applied for the betterment of the organization and myself.
+Technical Skills  :
+Operating Systems   : Windows 98 (SE)/ XP, Windows 2000 & 2003 Server
+Wireshark, Ethereal Protocol Analyzer, GNS3, Ipref
+Networking              : Local Area Network (LAN), Wide Area Network (WAN), 
+		        Optical Fiber Cable Networking.
+Packages                   : MS - OFFICE for windows.
+
+Telecom Protocols   : MPLS over IP/ATM, Ethernet CSMA-CA/CD, Frame Relay, PPP, ARP, TCP, 
+                                  UDP & LTE Core network protocols 
+Architectures	       : Formation of Fiber Rings, Access Networks, GSM Architecture, UMTS  
+                                   Architecture, 4G Network Architecture, TDMoIP&EoPDH Architecture.
+
+Good Knowledge on BstCAD (Microstation) & Data Technology
+
+Tools Competency:
+
+· Microstation, G Tech, O-Calc-Pro, MapSite&LiDAR
+· Global Mapper 8.0&13.0, Map info Professional9.0, Path loss 4.0, Google Earth. 
+· Granite, AutoCAD2000/2012, Micro Station, Arc GIS
+· GIS-Network Engineer Telcordia, Clarity-Citrix (OSS), StarMax, TEMS investigation
+SAP, PUTTY, Secure CRT, NMS Servers,MS-Project/Visio.
+
+Educational Qualification: 
+
+· Post Graduation Diploma Telecom Technology Management from University of Hyderabad 
+· Bachelor of Engineering(ECE) from Visveswairah Technological University
+
+
+
+Professional Experience:
+Client            : Cyient Ltd.,         						Apr- 2016 to Present
+Designation : Senior Telecom  Engineer
+Project	         : AT&T (USA)
+Software       : Auto CAD, BstCAD (Microstation), G Tech, O-Calc-Pro, MapSite&LiDAR
+
+AT&T is the leading Telecom giant in USA; we at Cyient received the onshore and offshore work which is described below in detail:
+The overall goal FTTP build is to supply fibers for all residential living units and businesses in the prescribed Distribution Area (PON Serving Area-PSA) to ensure that when a customer orders service that the order can be processed, dispatched and installed in a timely manner. This includes the placement of Drop-Pipe (inner duct material) structure from the FST to private property lot lines at the correct location for the Installation Technician to be able to use as a path for fiber drop placement and avoid future delays in installation of service to customers.
+Fiber for future services should be extended to business locations where property owner permission is given for cable and terminal placement. All business addresses fed by the fiber terminal will be uploaded into Granite via AOTX as part of the project. Business locations that are copper drop fed will be served via an FST and fiber drop(s). If permission is not granted, a splice, future splice loop, or tether point is to be left for future extensions to the business location and should be placed in a workable/ accessible location for that business/building location.
+Description: The objective of the project is to build a fiber network from cabinet to homes (FTTh). The project involved field survey, plan, design, propose the cabinet, trench route and conduits as per lay-plan and capturing fibre cables with FST with specifications as specified in the PM-Tool document provided for a particular area by the end client (AT&T).
+Role & Responsibilities:
+· Extracting the new Land Base from customer provided GIS sites.
+· Modify / capture the existing telecom data (copper / fiber) with the land base using conflation tools (Trushift)
+· Plan and Design the High level Design (HLD) for the required area.
+· Determining the size of the fiber cables and size of FST’s as per the living units that are being served from the respective PFP in this PON serving area (in HLD design).
+· Utilization of fibre cables (24F, 48F, 72F, 144F, etc.) based upon the field requirement.
+· Performing Low Level Design (LLD) / detail design after receiving the confirmation and acceptance on the HLD from the Client.
+· Quality Check (QC) on the LLD design.
+· Preparing the deliverable such as Bill of Materials and Quantities, Cost of labour, Schematics, Work Prints based on the LLD design as per the customer requirement.
+Another scope of work is of Pole Loading – we have received the survey sheets and Poles picture and the BST Cad design file. We perform the inventory task and identify where these poles are actually located by referring to the Google Maps. With the provided inputs, we design the Pole (in O-Cal Pro) with all the equipment’s (including the Anchor & Guy), attachments and cables (Power, CATV & ATT). Upon completing this task, we would check the sustainability of the pole. If the pole is sustaining the load after placing all the equipment’s and cables then we simply generate the report and deliver to the customer (*.pplx, Pro-Pole Loading) or else we propose a remedy by proposing an new Anchor & Guy to the pole to gain the sustainability to support all the features proposed / attached. (Inventory, Catalog, 3D View/Charts/Measure, Capacity, Data Entry, To View)
+Role & Responsibilities:
+· Creating the new project for a particular pole in O-Cal Pro.
+· Select the “Load case” of the area where pole exits.
+· Define the pole height, class and number.
+· Place the existing field cables (Power, CATV & AT&T) on the pole with appropriate equipment’s attached with them.
+· Place the entire remaining field existing equipment’s (Transformers, PIN’s, Streetlight and Insulator’s) on the pole.
+· Generate the pole sustainability report and verify that all the existing attachments are mounted / captured in the pole design.
+Client : Reliance JIO Infocom Ltd.,           				           Sep- 2014 to Apr-2016
+Fiber Planning Engineer  -Ikya-Quess Consultant (P) Ltd., resident at Reliance JioInfocomm Ltd. 
+The objective of the project is to execute Network Plan, Design & Implementation of the 4G/FTTx Network with the help of Own Build /Leased fiber/Transport/IP & Facility/ eNBs/Small Cells/ enterprises Customers (and Jio Centers/POIs,etc) and Traffic Segregation Plan in various layers (Access/Pre Aggregation/RAN).
+Tools :Grainite, Arc GIS9.3/10.1/NE-Telecordia, AutoCAD2010/ Global mapper V8/MapInfo proV9,   MS-Project/Visio.
+Role & Responsibilities:
+· Planned & implementation of 2000km of Intra-city (Fiber-288F/96F/48F & Duct-7/6/4/3) Fiber plan based on City business Ranking categorization.
+· Re-Planned & re-designed of Intercity NLD Fiber network with connectivity from Large/Small facilities like Aggregation Nodes / eNBs with 2+CNO/1+CNOs.
+· Plan the Fiber network and traffic Core/Collector/Access rings for traffic segregation thru Transport (N*100G or N* 10G)/ IP Access Rings- 1*10G 
+· Plan the Transport equipments- Core-Ciena-OTN, Collector-ALU-AG1/ILAs.
+· Verify & analyze the Field reports like OTDR & Link readiness reports.
+· Coordinate with cross function teams to get the RFE Cities.
+· Planning & Implementation of Wireline networks and Plan OLTs, Splitters (1:2 & 1:16), ONUs, ONTs and MDUs (Curbs) along with capacity calculations. 
+· Planning OLTs Network Protection mode with 1+1 interfaces. 
+· Update the Planned Construction, As build, Row paths layer in GIS/AutoCAD
+· Preparing Splice drawings in AutoCAD, plans and EWOs
+· Proactive Plans for smooth Project implementation
+· Design and Releasing City wise SLD drawings to understand and execute in the Low Level Team.
+· Analyze and updating the daily/ weekly.
+· Validation of all Civil or construction for network establishment.
+
+Client : Beam Telecom Pvt. Ltd.,   ACT Group Company		          Oct- 2012 to  Aug- 2014 Team Lead Operations 
+Beam's single minded goal of offering quality internet access to the customers at affordable prices has made it possible to cater a large portion of the internet subscriber base in Hyderabad and is also helping Beam make foray into other cities.
+As a Connectivity and Communication Solutions Provider, Beam Telecom is fundamentally grounded on the idea of 'ease of use' when it comes to servicing its customers. Be it a Home user, SME user or a Large Enterprise customer - care is taken to maintain quality, competency and provide maximum value to our subscribers.
+Beam Telecom, is associated with ACT (Atria Convergence Technologies Pvt.Ltd.) which is an established business group with diversified interests including Digital TV, Cable TV, IPTV and Broadband. ACT is headquartered in Bangalore, Karnataka. With a strong focus on triple-play ready technologies, ACT has gained considerable market share in its business, expanding to several states in the country. 
+Role & Responsibilities:
+· Manage the Operations Team to provide the best service to the customers with the help of Partner companies. , planning and directing the team, and testing operations to ensure optimum system functionality.
+· Monitored system and network activity to quickly detect any problems related Network issues, performance, or system failures in a timely fashion and meet SLA agreements and provide best service in the TAT of 6 hours.
+· To maintain a relation with all the verticals (Sales, collections and Stores) this leads to the success in growth of the organization.
+· To maintain a good relation with the partner companies to deliver the quality and an organized structure to the customers.This leads to a good customer service in TAT. This intern brings reputation to the organizational growth. 
+· Network troubleshooting in complex environments with the support of the Operations team. And communicating the same to stores to get that fixed.
+· Managed, led partner companies to give their best efficiency to the organization and also maintain a good rapport to get the things done. 
+
+Client:Edusmart Services Pvt. Ltd.,                                                                       Feb- 2012 to Sep-2012  Assistant Manager – Implementations
+Educomp Solutions Ltd is India's largest integrated education company. The company is a globally diversified education solutions provider and the largest education company in India. They offer education products and solutions for K-12 in the country, coupled with a large footprint in preschool, vocational and higher education. They also operate schools under The Millennium School brand name; design training institutes under Raffles Millennium International brand name; and ETEN, a tele-education network. In addition, they operate and franchise Roots to Wings, a chain of pre-schools. The company's primary market currently is in India. 
+AuthorGen Technologies Pvt Ltd, Educomp Learning Hour Pvt Ltd, Learning Internet Inc, USA, Ask'n'LearnPte Ltd, Singapore and SavvicaInc in Canada. Their products include Smart class, a teacher-led content delivery system; Roots to Wings, a pre-school learning system, and Mathguru.com, an online learning initiative.
+Edusmart Services Private limited was incorporated to provide the technical backbone on which schools could switch to a revolutionary method of teaching. Especially to create a multisensory learning environment, that helps the students to gain a better understanding and retention of various topics. Edusmart’s services enables thousands of teachers to teach better and work smart. Edusmart is the last word in quality for over three thousand schools that utilize animated content, especially that which is delivered through plasma screens and dedicated LAN network inside the classrooms.
+Role & Responsibilities:
+· Managed systems configuration and maintenance, problem troubleshooting, system and program security, applications and program management, planning and directing upgrades, and testing operations to ensure optimum system functionality 
+· Monitored system and network activity to quickly detect any problems related to system security, performance, or system failures in a timely fashion and meet SLA agreements and provide daily technical support 
+· Windows Server 2003, 2008  installation, deployments, troubleshooting and automation 
+· Troubleshoot server hardware and software issues.
+· Network troubleshooting in complex environments 
+· Managed, led and supported Windows NT, 2000 and 2003 Active Directory domain network in multi-locations. 
+
+Client: GLOPORE IT Management Services Pvt. Ltd.,                                        June-09 to Nov 2011                               State Head Field Operations Andhra Pradesh
+GLOPORE IMS is a globally focused IT infrastructure Management Service (IMS) company. Work with clients using a selective sourcing model that lets clients retain control of their critical IT functions while sourcing non-critical IT functions from different vendors based on vendor competencies. This helps provide high quality service levels at a much lower cost. 
+GLOPORE IMS, with regional presence in Bangalore, Boston, London, Sydney, Dubai and Singapore has consistently served the needs of global customers through a unique mix of IT Infrastructure Management Services, Consulting and Training Services and Infrastructure & Technology Solutions. The service delivery based on ITIL®/ITSM best practices, skilled resources and end-to-end service portfolio helps GLOPOREIMS to add significant value to our customers.  
+Role & Responsibilities:
+· Managed systems configuration and maintenance, problem troubleshooting, system and program security, applications and program management, planning and directing upgrades, and testing operations to ensure optimum system functionality 
+· Monitored system and network activity to quickly detect any problems related to system security, performance, or system failures in a timely fashion and meet SLA agreements and provide daily technical support 
+· Windows Server 2003, 2008 R2 installation, deployments, troubleshooting and automation 
+· Troubleshoot server hardware and software issues.
+· Network troubleshooting in complex environments 
+· Managed, led and supported Windows NT, 2000 and 2003 Active Directory domain network in multi-locations.
+
+Client:Remoteaxis IT Services Pvt.Ltd.,				                 June-08 to June 09   Technical Support Engineer
+Remotaxis IT services is committed to provide the highest quality Information Technology services to its clients.People, Passion, Process, and Exceptional Technology & Commitment to Excellence are key to our success. Technical force of highly motivated, experienced and trained architects, developers, software engineers staffs Logiqlabs software consulting services. Their areas of expertise include Financial, Health Care,Banking, Tele Communication, Insurance, Pharmaceuticals, Automobile, Logistic applications, business processes, Internet/Intranet applications and many more.
+Remoteaxis is grounded in the belief that perception, bottom-line and business aspirations drive our practices. We are committed to perfecting seamless innovative technology solutions for businesses worldwide.
+Role & Responsibilities:
+· Giving Hardware & Network support.
+· Implementing complete setup and network.
+· Giving network plan and router configurations.
+· Installing software, giving technical support for the equipment.
+
+Area of Interest: OFC, Networking, Mobile communication, Satellite communication.
+
+Personal Traits:
+· Goal Oriented
+· Dynamic & Hardworking 
+· Good in Team Work
+· Good in Inter personal relationship and communications.
+
+Personal Profile:
+
+	Father’s Name  		:  NARAYANA RAO. N
+Current company	:  Cyient Ltd
+Total experience		:  9.6 years
+Current CTC		:  5.25 Lacks P.A
+Notice period		:  60 Days
+	Date of Birth		:  26. 10. 1983
+Gender			:  Male
+Nationality		:  Indian
+Languages Known	:  Telugu, Hindi and English
+Marital Status		:  Married
+Passport No		:  P7065044
+Address                 	:  # 16-10-184/A,
+					   Malakpet, Hyderabad- 500036.
+   Telangana, India.
+
+      I declare that the above-furnished details are true to the best of my knowledge and belief.
+
+
+						
+									SHIVA NAVEEN             

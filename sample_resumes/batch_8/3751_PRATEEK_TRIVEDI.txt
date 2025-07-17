@@ -1,0 +1,699 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	Resume
+
+	PRATEEK TRIVEDI
+	
+	Email: prateek.trivedi27@gmail.com
+
+	
+	
+	
+	
+
+	Qualification: B.E.
+	
+	Contact: (+91) 8600998700
+
+
+
+PROFESSIONAL EXPERIENCE
+
+· Production Support Engineer at L&T Infotech for 4+ years. Job Profile:
+· Production Support Engineer in Test Environment Support Team for CitiDirect Application which comes under Trade and Treasury Services of CITI bank.
+· In brief, we are responsible for active and functional working of various test environments (viz. SIT, PTE, UAT, Prod.) under scheduled deployment and testing.
+· Worked on SQL queries, insert, update, delete, joins, Stored procedures, triggers ,etc. through SQL developer to check for different issues, bug fixes and generating output from database.
+
+· Handling application support for Production/Non-Production environments, their servers and to resolve issues for client/testing teams using various listed skill/tools.
+· To deploy code drops and perform env. health sanity post successful deployment process.
+· Resolving technical glitches in different test environment.
+	•
+	Operating System
+	:
+	Windows, Unix, Linux
+
+	•
+	Activity
+	:
+	Incident Mgmt., Infrastructure Mgmt., Health Monitoring, Deployment
+
+	
+	
+	
+	Mgmt. and issue troubleshooting etc.
+
+	•
+	Skills
+	:
+	UNIX, PL/SQL, MS Office, Windows & Unix/Linux server
+
+	•
+	Tools
+	:
+	Tectia, Oracle SQL Developer, Hermes, Autosys, uDeploy, SiteScope,
+
+	
+	
+	
+	ITRS, ServiceNow, Fiddler, Beyond Compare, MSTSC, WinSCP
+
+	•
+	Add. Skills
+	:
+	3 months training in Enhanced Communication, ITIL & Banking Domain
+
+
+sessions at LTI facility, Mumbai.
+
+
+PROJECT DETAILS (Domain: Banking & Finance)
+
+	
+	
+	
+	
+	TTS - CitiDirect - Test Environment
+	
+	
+	
+
+	
+	Project Name
+	
+	
+	
+	
+	Team Size
+	17
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	Support
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	Start Date
+	
+	
+	
+	Feb’18
+	
+	
+	End Date
+	Till Date
+
+	
+	
+	
+	
+	
+	CitiDirect application is a payment gateway application mostly used by clients
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	performing transactions in millions. Application is configured on JAVA, Solaris/Linux
+
+	
+	
+	
+	
+	
+	Servers, Windows Server, MS SQL servers, Apache Tomcat Servers. There are more than 300,000
+
+	
+	
+	
+	
+	
+	registered users in around 10,000+ companies. These clients are prioritized based on
+
+	
+	
+	
+	
+	
+	the business significance in day to day processing. Periodic Deployments are done on
+
+	
+	Project
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	SIT,
+	UAT and PTE
+	which gets promoted to Production in a scheduled phase.
+
+	
+	Description
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	Functionality testing is due before releasing any Environment. Once QC team confirms
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	with complete sanity, we work on identified bugs (if any) and if needed initiate triage
+
+	
+	
+	
+	
+	
+	with various Dev Teams for fix. We are the first point of contact and are responsible
+
+	
+	
+	
+	
+	
+	for smooth functionality of the Environment & flow of correct code to Production.
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	· Derived bug fixing and enhancement in environments, post deployment.
+
+· Running SQL queries to check for various issues, performing several operations like insert, update, delete, joins, etc through SQL developer.
+
+
+	
+	
+	
+	
+	
+	•
+	Setting and
+	executing respective Autosys
+	jobs according to scheduling
+
+	
+	Role
+	&
+	
+	
+	
+	requirement.
+	
+	
+	
+	
+
+	
+	Contribution
+	
+	
+	•  Resolving tickets based on SLA/OLA in Service Now.
+
+	
+	
+	
+	
+	
+	•  Monitoring Environment/Server health and performance (Monitoring tool-
+
+	
+	
+	
+	
+	
+	
+	ITRS)
+	
+	
+	
+	
+
+
+· Triaging issues with Client and concerned Dev Teams.
+· Involving in Pre-Prod and Production release and maintenance activities.
+· Handling request/issues related to installation, update, configuration, operations or performance of environment and respective servers.
+· Doing major Unix/Linux, Windows/SQL server deployments after the code is provided by Build team and providing cutover support during the same.
+· Environment related DB management using SQL Developer.
+· Interacting with Clients for their requests and issues.
+· Providing L2 support and liaising with various internal groups for the issues escalated by L1 support.
+· Documentation of RCA and other workaround strategies and methods.
+
+	
+	Project Name
+	
+	
+	TTS – CITIBANK – Commercial Cards
+	
+	Team Size
+	15
+
+	
+	Start Date
+	
+	
+	March’15
+	
+	End Date
+	Feb’18
+
+	
+	
+	
+	
+	The Project provides support to Commercial Cards, which are used for travel &
+
+	
+	
+	
+	
+	shopping purpose, it is required to maintain Cardholder’s account in the
+
+	
+	
+	
+	
+	project.  A frontend is provided for applications like CitiManager and CCRS.
+
+	
+	
+	
+	
+	Using CitiManager, user can apply for cards & access which they require while
+
+	
+	Project
+	
+	
+	
+
+	
+	
+	
+	
+	CCRS is used to pull custom reports for the customer. A backend is maintained
+
+	
+	Description
+	
+	
+	
+
+	
+	
+	
+	
+	to store data and fetch reports and share with customers, the application is
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	known as GDR. Since it’s a banking application it’s monitored regularly from
+
+	
+	
+	
+	
+	the security point of view.
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+· Creating Script for system options and program definition, stored procedures, triggers (enabling alerts such as SMS, email alerts for users as per their request.)
+· Maintaining Batch Jobs, Process & URL.
+· Management of Service Level Agreements (SLA).
+· Monitoring ITRS for alerts and taking actions proactively.
+· Checking File transfer & arrival, Object traces, scripts in UNIX server.
+	Role
+	&
+	•
+	Handling the escalations due to issues faced by the customers.
+
+	Contribution
+	•
+	Working on inspecting and debugging issues raised by helpdesk team and
+
+	
+	
+	
+	provide them a fix.
+
+
+· Working and interacting with teams, client (Onshore/Offshore) through mails and call.
+· SQL queries execution, insert, update, delete, joins, etc.
+
+EDUCATION
+
+	
+	
+	
+	
+	
+	
+	Examining
+	
+	Marks
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	Year  of
+
+	
+	DEGREE/STANDARD
+	
+	
+	Name of the Institute / School
+	
+	Authority/ Board
+	
+	Scored/
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	passing
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	CGPA
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	Bachelor of Engineering
+	
+	Medicap Institute of Technology
+	RGPV, Bhopal
+	7.44
+	
+	July
+
+	
+	(Electronics & Comm.)
+	
+	& Mgmt., Indore (M.P.)
+	
+	
+	
+	
+	2014
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	Senior Sec. (12th)
+	
+	Holy Cross Ashram School, Datia
+	
+	
+	74
+	
+	May
+
+	
+	
+	
+	(M.P.)
+	ICSE
+	
+	
+	2009
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	High Sec. (10th)
+	
+	Holy Cross Ashram School, Datia
+	
+	
+	71
+	
+	May
+
+	
+	
+	
+	(M.P.)
+	ICSE
+	
+	
+	2007
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+ACADEMIC PROJECT
+
+· GSM based car control system – A GSM based car control system to notify owner in case of theft through SMS and stop the functioning of engine immediately.
+
+INDUSTRIAL TRAINING PROGRAMME
+
+· 4-week training in “Scientech Learning” on Embedded Systems in Indore (24 Jun 2013 – 20 Jul 2013).
+· Attended two-day workshop on 100 microcontrollers using various sensors held in Indore on 24th & 25th Dec, 2011.
+
+ACHIEVEMENTS
+
+· Qualified GATE 2014 with score card in hand.
+· Participated in "Indore 2010 Marathon", an initiative by IIM-Indore.
+
+DECLARATION
+
+I hereby declare that the above furnished particulars are true to the best of my knowledge and belief.
+
+Place:
+Pune
+(Prateek Trivedi)
+

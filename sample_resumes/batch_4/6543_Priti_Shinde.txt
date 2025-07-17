@@ -1,0 +1,316 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Curriculum Vitae  
+
+  
+
+Personal Details:   
+
+Priti Shinde  
+
+Email-id: shindepriti2911@gmail.com  
+
+Mobile: 8383031593  
+
+Current Company: L&T Infotech  
+
+  
+
+Career Objective:    
+
+I am seeking a position where I can work in a challenging environment and gain experience 
+
+in working as part of a team to research and develop new software products.  
+
+  
+
+Qualification Summary:  
+
+  
+
+Qualification  Name of the institution  Name of the University  Month/Year  Percentage  
+
+BScIT  VES college of Arts, 
+
+Science and Commerce  
+
+Mumbai University  April 2015  82%  
+
+HSC  National Sarvodaya 
+
+Junior College  
+
+Maharashtra State 
+
+Board  
+
+March 2012  80%  
+
+SSC  St. Anthony Girls’ High 
+
+School  
+
+Maharashtra State 
+
+Board  
+
+March 2010  88%  
+
+  
+
+Experience Summary  
+
+ Working in L&T Infotech  
+
+ Experience: 2yrs and 11months  
+
+ Worked in a Citi Bank project and currently working for JCI.  
+
+ Developed a Tool in java which could run DB2 queries without any software installation  
+
+ Additionally developed a site which new team members could use to solve issues without 
+
+having much knowledge of the project  
+
+ Received Appreciation Certificate for my performance at L&T Infotech  
+
+  
+
+  
+
+Skills Summary   
+
+Domain   BFS (Banking and Finance)  
+
+Programming Languages  C#, CORE JAVA, ASP.NET, C++, Servlets, JSP, HTML, CSS, hibernate 
+
+Operating System  /  ERP 
+
+Version  
+UNIX  
+
+Tools / DB / Packages /  
+
+Framework / ERP  
+
+Components  
+
+MS SQL Server 2008, .NET framework 2.0/3.5/4.0, ORACLE, Autosys, 
+
+Tectia Terminal, Eclipse, Putty 
+
+
+
+Hardware Platforms  None  
+
+  
+
+  
+
+Work Experience  
+
+Project 1   
+
+Project Name  GST   Team Size  55  
+
+Start Date  1st Jan 2016   End Date  30th Sept 2017  
+
+Project Description  
+
+GST which has many applications under it is used by CITI Bank   
+
+These applications deal with loading of funds, shares , 
+settlement of trades, transfer of files, publishing important 
+information, granting users access to required application, 
+mapping users with various profile,etc.  
+
+User reached out with their queries by generating Ticket in 
+ServieNow Tool.  
+
+  
+
+Role & Contribution  
+
+  Resolving user issues under all the 8 Applications in GST 
+using db2 queries which involes:  
+-Re-queuing of stuck files.  
+
+-Extracting copies of file from server and sending it to 
+clients.  
+-Explaining the working of applications to clients. -
+Preparing script to transfer all the accounts, files 
+(everything under one user) to another user. -
+Checking loading of funds or delay in loading and 
+informing the same to the user.  
+-Assisting user with audit requests and providing them the 
+required details by framing suitable DB2 query.  
+
+Additional activities were performed on weekend related to 
+jobs and clones (server related).  
+
+  
+
+Technology & Tools  
+
+  
+
+  
+
+UNIX,  IBM DB2, Autosys Tool, Tectia File Transfer, Tectia Unix 
+
+Terminal.  
+
+  
+
+  
+
+  
+
+  
+
+Project 2 (Extenstion of Project 1)  
+
+
+
+Project Name  GST  Team Size  3  
+
+Start Date  30th Sept 2017 End Date  30th Dec 2017  
+
+Project  
+Description  
+
+GST which has many applications under it is used by CITI Bank   
+
+Developed 2 Tools in Java using Technologies like Core Java, Servlets, Jsp  
+
+1) The First Tool “SquirrelTool” was developed to remove the 
+
+cumbersome installation of DB2 software and also the errors faced 
+
+by it during installation.  
+
+2) The Second Tool “CRTool” was developed to facilitate new Team 
+
+Members resolve user queries without much knowledge about the 
+project and use of database. User could fire queries without 
+
+knowing which table to retrieve the data from.  
+
+3) Both the Tool had a login page which accepted DB2 credentials and 
+
+if authorized it would redirect to the necessary Screen page.  
+
+  
+
+Responsible for the creation of below modules in SquirrelTool and CRTool: 
+
+- Created Login page and other User Interface with Html and Bootstrap.  
+
+- Involved in creating Java Server pages (Servlets and JSP) for generating 
+
+dynamic pages based on the user input.  
+
+-Used JDBC and servlets to check authenticity of user credentials.  
+
+Role &  
+Contribution  -Used Core Java and JDBC to retrieve data from database based on business 
+
+requirement and user input.  
+
+-Coded Javascript for the validation of the various Input Controls on the 
+
+screen.  
+
+-Used Javascript to facilitate “Search” functionality on tool.  
+
+  
+
+ Tools  Eclipse, DB2, Core Java, JSP, Servlet, Javascript, CSS, HTML, Bootstrap  
+
+  
+
+  
+
+  
+
+Project 3   
+
+Project Name  JCI AMS  Team Size  89  
+
+Start Date  31st January 2018  End Date  NA  
+
+Project  
+Description  
+
+1) JCI is the leading company in manufacturering of batteries, 
+buildings, Tyco, distributed energy source,etc.  
+
+2) We aim at providing customer support and assistance in various 
+applications related to Order, Billing, Sharepoint, ETL process.  
+
+  
+
+
+
+Role &  
+Contribution  
+
+Responbile for creating macro which checks application status.  
+
+Assisting users in their queries and providing resolution.  
+
+Responsible for ETL support using Informatica tool.  
+
+Worked on various application using Unix.  
+
+Tools  Informatica, Unix.  
+
+  
+
+

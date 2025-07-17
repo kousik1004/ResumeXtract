@@ -1,0 +1,234 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+java experience resume
+
+Jai Kumar Gupta (Xamarin Certified Developer)
+                     
+          
+
+         Phone: 91-9785671241
+Email:masterjai007@gmail.com
+
+
+         http://in.linkedin.com/in/jaigupta91
+
+Professional Summary:
+
+· Having 5 years of experience as a Software Engineer in development of web-based application and mobile application.
+· Excellent Mobile development skills using Xamarin for iOS and Android using C#.
+· Having experience in J2EE, J2SE, Servlets, JSP, jQuery, Ajax.
+· Having experience in development of web based applications using Spring Framework and Design patterns.
+· Knowledge on Hibernate ORM Tool. 
+· Proficiency in Object Oriented Programming (OOPS) concepts.
+· Good exposure in Software Development Life Cycle.
+· Good interpersonal and communication skills, commitment, result-oriented learning skills zeal to learn new technologies and undertake challenging tasks.
+Professional Experience:
+
+· Currently working as a Software Engineer in Componence Portal Service Pvt. Ltd. from Sep 2012 to till Date. 
+Scholastic Profile:
+
+· B.Tech from Gyan Vihar University in 2012 with an aggregate of 74.5%.
+Achievements:
+· Secured First Rank in “C- programming” in Aayam- 2009 (A national level tech fest) held at SGVU, Jaipur.
+· Secured Second Rank in “Quiz” in Aayam- 2009 (A national level tech fest) held at SGVU, Jaipur.
+
+· Participated in Workshop on Information Security & Ethical Hacking at Gyan Vihar University, Jaipur.
+
+· Worked as volunteer in National Conference and Regional Student Convention- 2011.
+Technical Expertise:
+
+Operating System
+
+:  Windows XP, 7, 8, Mac
+Frameworks
+
+:  Xamarin, Xamarin.iOS, Xamarin.Droid, Spring
+Languages
+
+
+:  C#, J2EE, J2SE
+GUI(Web)
+
+
+:  JSP, AJAX, JavaScript and HTML
+J2EE Technologies
+:  JDBC, Servlets, JSP
+Scripting Languages
+:  JavaScript, HTML
+Web Servers   
+
+:  Apache Tomcat Server
+Database   
+
+
+:  My SQL
+OR Mapping Tools
+:  Hibernate
+Projects Summary:
+
+1. Da Vinci (Mobile App) :                                                   
+Environment
+: iOS, Android
+Development Tool
+: Xamarin
+Duration 
+: Jul 2017 – Till Now
+A Da Vinci card is a new and unique electronic payment card product. The card protects you from identity theft and payment fraud. DaVinci mobile application is used to manage the Da Vinci Card.
+Roles & Responsibilities:
+· Developing solution as per requirement.
+· Writing clean and optimized code.
+
+· Handling technical discussion with client.
+· KT team about the various aspects of project.
+
+· Providing technical solutions to team.
+· Making optimized UI design.
+2. My Society (Mobile App) :                                                   
+Environment
+: iOS, Android  
+Development Tool
+: Xamarin
+Duration 
+: Jan 2017 – Jun 2017
+Discover a network that enables society members to approach service providers according to their requirements while sitting at home. All service providers are selected by Society heads and all requests are supervised through them. Society member needs to select the category of services needed and generate request by capturing the image for which service is required. Service charges and other necessary details are inclusive. Society members can select their time availability to get the services done so that they will never miss it. Service provider cannot finish their job without capturing the image of fixed problem area. Hence, it is purely in user’s court of security.
+Roles & Responsibilities:
+· Developed solution as per requirement.
+· Provided technical solutions to team.
+
+· Provided tips to writing clean and optimized code to team.
+· Involved in fixing the Bugs using Online Issue Tracking Software (JIRA).
+3. PoGo (Mobile App) :                                                   
+Environment
+: iOS, Android
+Development Tool
+: Xamarin
+Duration 
+: Oct 2015 – Dec 2016
+PoGo uses photo polling and most importantly; people, to help you share your ideas, questions and opinions on anything.
+Roles & Responsibilities:
+· Designed a challenging UI with lots of animation.
+· Provided technical solutions to team.
+· Created custom library for camera filters.
+
+· Created custom library to work app in offline mode
+4. Beatstream Live Music Streaming (Mobile App) :                                                   
+Environment
+: iOS, Android
+Development Tool
+: Xamarin
+Duration 
+: Jan 2015 – Sep 2015
+Beatstream Live is a revolutionary app for people passionate about live music. For the first time, thanks to this unique app, you will be able to listen-in live to music being played in your favourite bars, clubs and music venues all around the UK.
+Roles & Responsibilities:
+· Created optimized UI design.
+· Provided technical solutions to team.
+· Write clean and optimized code.
+· Provided best end user solution.
+5. Open University (Mobile App) :                                                   
+Environment
+: iOS
+Development Tool
+: Xamarin
+Duration 
+: Aug 2014 – Dec 2014
+The Open University is a world renowned educational institute based in the United Kingdom. With the Open University offering a vast array of courses, there is a huge amount of content available for prospective students. As a result, viewing the websites content using the responsive website is rather clunky. As a result, we developed a fully native iOS iPad application and an Android tablet application to ensure a high quality user experience.
+Roles & Responsibilities:
+· Developed app using Xamarin.iOS.
+· Involved in fixing the Bugs using Online Issue Tracking Software (JIRA).
+6. YappBack (Mobile App) :                                                   
+Environment
+: iOS
+Development Tool
+: Xamarin
+Duration 
+: Aug 2014 – Dec 2014
+YappBack is a video messaging app that allows you to send short video messages to others. App records your reaction to the message you are watching as you watch it and sends this back to your friends. Everyone knows typing 'LOL' or 'OMG' is not the same as seeing it. With YappBack, you can now see it. You can laugh out loud, or cry 'Oh my gosh' and YappBack captures it all. Share REAL (happy/gloomy/funny/normal) moments with people you communicate with using YappBack. YappBack captures it all.
+
+Roles & Responsibilities:
+· Created optimized UI design.
+· Created chat library that capture user reaction at the time to see video.
+7. Gazing Online System(dhl.gazingonline.eu) (Web App) :                                                   
+Environment
+: Web Application
+Role
+: Developer  
+
+Duration 
+: Jul 2013 – Jul 2014
+OLT is proposed to be a platform that would give opportunities to companies to provide facility to their employees to learn various courses. It would be an interactive and educative platform where company employees would log in and exchange exercises on regular basis. 
+
+Roles & Responsibilities:
+· Developed the Presentation and Service Layer of the application.
+· Design Patterns used for Session Façade, Business Delegate, and DAO’s.
+· Code for Controller in Spring Frame work and Servlets and added Validations.
+· Searched according to different Criteria, displaying results for different services.
+· Involved in fixing the Bugs using Online Issue Tracking Software (JIRA).
+· Added social accounts like facebook, google, linkedin using spring social.
+
+5. Issue tracker (Web App): 
+Environment
+: Web Application
+Role
+: Developer  
+
+Duration 
+: Feb 2013 – Jul 2013.
+Issue tracker keeps a track of user issues and there deadline & checks for the accomplishment of issue. It also helps in maintaining employee work details and their work progress against   the issue issued to them.
+Roles & Responsibilities:
+· Develop solution as per requirement.
+6.  Maintenance Project (Web App): 
+Environment
+: Web Application
+Role
+: Developer  
+
+Duration 
+: Sep 2012 – Feb 2013.
+We have developed a System to Real Estate Company. In this system Office admin, Real Estate brokers and customers are the main roles. In this system customers will request for a property in a specific location and Brokers will add new properties in to the system from their locations. Office admin will assign/schedule a broker to the customer.
+Roles & Responsibilities:
+· Developing the Presentation and Service Layer of the application.
+· Searches according to different Criteria, displaying results for different services.
+· Code for Controller in Servlets.

@@ -1,0 +1,239 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Jay Prakash
+	HS-no-341,Shyamnagar-NX-A
+M.R-10 Shukhaliya Indore M.P
+jpsharma.kvs@outlook.com
+(+91) 9527664514
+
+
+
+OBJECTIVE
+
+To associate with a progressive company to contribute my knowledge, skills and ability for growth of company that offers security and professional growth while being resourceful, innovative and flexible.
+
+ACAMEDIC AWARDS & DISTINCTION
+
+	Year
+	Educational Qualification
+	Institution
+	Stream/Subjects
+	%
+
+	2011
+
+	Bachelor of Engineering
+
+	Shri  Vaishnav Institute of Technology and Science Indore
+	Electronics and Communication Engineering
+
+	71.9
+
+
+	2007
+	XII (CBSE)
+	KVS
+	PCM
+	72
+
+	2005
+	X (CBSE)
+	KVS
+	-
+	82
+
+
+
+PROFESSIONAL SUMMARY
+
+· More than 5 of professional experience in Software development using JAVA/J2EE Technologies.
+· Good experience in WEB layer development using SPRING 3.0 and Struts 1.2.
+· Able to grasp the existing architecture and schemas of the system so as to debug the application related issues and to provide a simplest & smartest solution on time.
+· Capable of managing multiple projects simultaneously.
+· Good team player with excellent communication, analytical and inter personnel skills, strong attitude towards learning new technologies.
+· Open, flexible and extremely dedicated.
+· Conversant with all phases of the project (Analysis, Design, Coding, Unit testing, System Testing, Integration Testing, Production Monitoring).
+· Exceptional ability to learn, master new technologies and to deliver the outputs in short deadlines.
+
+SKILL INVENTORY
+
+
+	Operating System
+	Windows 9X, XP, Unix
+
+	Web Technologies
+	HTML, Java Script, Web services, JSTL, Tortoise-SVN
+
+	Database
+	Oracle SQL Developer(PL\SQL), IBM Data Studio(DB2), IBM-Informix
+
+	Languages Frameworks and APIs
+	Core JAVA, Advanced JAVA(JSP and Servlets, Struts1.2, Spring 3.0), Groovy and Grails, Jasper-Reports, JMS,EJB 3.0,Rest-webservices,Soap-WebService, XML, Unix and Shell Scripting, R programming, Python
+
+
+WORK EXPERIENCE
+
+1. Working with CSC India from Aug 2015 till date (On 1st April-2016 for banking new JV(CFT) has been setup with HCL and all banking resources are moved to that JV).
+2. Worked as a Java Developer for Oracle financial services and software Pune from Jan 2015 to July 2015.
+3. Worked as a Java Developer for Syntel Inc. from Nov 2012 to Jan 2015.
+
+PROJECT SUMMERY
+
+PROJECT #7: AIMS (Aug 2015 –Till date) 
+Client  			:	WEX, CBA, Alpha Legal are the major clients.
+Role  			:	Senior Product Developer
+Technology 		:	Genero-4GL, Java, J2EE, spring 3.0, SOAP-WebServices UNIX, Oracle, Informix
+Description:
+AIMS (Account information management system) is a highly configurable Debt Management system. It provides a flexible environment to define Collection Strategies to implement the business rules required to recover a debt.
+It provides End to End Debt Management, from new arrears to finalized, write-off or legal.
+Current product is written in Genero-4GL, developing the code base in java along with regular work of development of new business requirement in Genero-4GL. 
+Roles:
+· Designing the project architecture in JAVA.
+· Setting up the project framework.
+· Distributing the modules across team members and assuring the completion.
+· Coding, Code-Merge, Unit Testing.
+· Taking up new requirements and Writing Genero-4GL-Code for the same.
+
+PROJECT #6: NGP- TP (April 2014 –Jan-2015) 
+Client  			:	American Express, U.S
+Role  			:	Developer
+Technology 		:	Java, J2EE, Struts 1.2, DB2, JMS (MQs), Web services, EJB 3.0
+Description:
+Currently for all the applications of Fileservices ST vender is providing services Amex is going to decommission ST and migrate its services to SEEBURGER , the project deals with migrating the services from ST  to SEEBURGER and implementing the requirement of new vender. 
+Roles:
+· Requirements gathering and analysis.
+· Document creation (LLD, HLD, Solution design etc.)
+· Design, Coding, Unit testing, Bug Fixing.
+
+PROJECT #5: TP Purge (Feb 2014 – April 2014) 
+Client  			:	American Express, U.S
+Role  			:	Developer
+Technology 		:	Java, J2EE, Struts 1.2, DB2, JMS (MQs), Webservices, EJB 3.0
+Description:
+The existing TP application of FileServices is not having the functionality to manage the user profiles from front end, the project was about to implement the same.
+Roles:
+· Requirements gathering and analysis.
+· Document creation (LLD, HLD, Solution design etc.)
+· Design, Coding, Unit testing, Bug Fixing.
+
+PROJECT #4: Technology Migration (OCT 2013 – Jan 2014) (UI Road Map Project)
+Client  			:	American Express, U.S
+Role  			:	Developer
+Technology 		:	Java, J2EE, Spring, Oracle (Pl-sql), WAS 7, zlinux, JMS
+Description:
+GAN UI, and Sysmon application presently is FrontServlet framework based. MTP is struts based.
+As part of Technology migration, GAN UI, MTP UI and Sysmon applications will undergo following component migration.
+· FrontServlet to Spring 3.1 (Framework change)
+· Struts to Spring 3.1 (Framework change)
+· Jconfig to Spring.(Environment specific property file loading)
+· Gdaf to Spring JDBC.(DAO Change)
+· Jlog to log4j
+· ServiceLocator to Spring
+· WAS 6 to WAS 7 (As per WAS 7 RA Standards)
+Roles:
+· Requirements gathering and analysis.
+· Document creation (LLD, HLD, Solution design etc.)
+· Design, Coding, Unit testing, Bug Fixing.
+
+PROJECT #3: Role Based Access Control (RBAC) (June 2013– OCT 2013): GAN UI, MTP and Sysmon
+Client  			:	American Express, U.S
+Role  			:	Developer
+Technology 		:	Spring, Oracle (PL-SQL), HTML, CSS, JSTL, Maven
+
+Existing GAN UI, Sysmon and MTP applications do not have Role based access control. Screens and Action are accessible by every user.
+As part of RBAC, Screens and Actions will be access controlled .RBAC will have one central Database and one DR Database. RBAC consists of Role, User and Groups. Role will be associated with screen and action permission. Group will be associated with Roles and User.
+Roles:
+· Requirements gathering and analysis.
+· Document creation (LLD, HLD, Solution design etc.)
+· Design, Coding, Unit testing, Bug Fixing.
+
+PROJECT #2: UI Uplift (Apr 2013– June 2013)
+Client  			:	American Express, U.S
+Role  			:	Developer
+Platform 		:	Jsp, css, frontServlet, DOJO, javascript
+Description:
+Existing EDC application does not maintain consistent look and feel throughout the web application .Also no server side validation is done .Only client side validation is done using JavaScript. In this project we have built consistent look and feel using css and implemented server side validation.
+Roles:
+· Requirements gathering and analysis.
+· Document creation (LLD, HLD, Solution design etc.)
+· Design, Coding, Unit testing, Bug Fixing.
+
+PROJECT #1: EDC -8 (FEB-2013 – Apr 2013)
+Client  			:	American Express, U.S
+Role  			:	Developer
+Platform 		:	Java, IBM MQs, DB2, EJB 3.0
+
+Description:
+Initial Authorization Code to be designed for electronic data capture.
+Roles:
+· Requirements gathering and analysis.
+· Document creation (LLD, HLD, Solution design etc.)
+· Design, Coding, Unit testing, Bug Fixing.
+
+CERTIFICATIONS
+
+· Core Java : 8 week Certified course from NIIT, Indore
+· Embedded Systems : 45 day course from Scientech Technologies, Indore
+· Communication Training of 30 days from BSNL Patna.
+
+PERSONAL PROFILE
+Father: 		                             Mr. Gopal Sharma (Ex Serviceman-Indian Army)
+Marital Status:                               Single
+Current City:	                            Indore
+Native:		                            Indore, Madhya Pradesh
+Strengths:		             Result oriented, honest & willing to learn, Good communication skills & PR
+Interests: 		             Playing cricket, chess, driving, playing PC games

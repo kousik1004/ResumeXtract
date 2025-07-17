@@ -1,0 +1,166 @@
+
+
+
+
+
+
+
+
+
+	Venkatasiva Reddy
+	                               Software Engineer
+
+
+	           `			          Email :   venkatasiva3635@gmail.com
+          Mobile: 8147863635
+
+Career Objective 
+
+Being highly motivated developer with good attitude, strong analytical and development skills, wanted to become part in success of a leading organization and fulfill my desire of acquiring knowledge and pleasure in working with the most competent professionals.
+
+Professional Competency
+
+· Having 4.3 Years of experience in developing web applications using Java/J2EE technologies
+· Strong technical and experience in Core Java and J2EE.
+· Effective database management with JDBC, Hibernate and Oracle.
+· Knowledge on development of web-based applications using Struts1.3 Framework.
+· Good implementation Knowledge in Spring.
+· Experience in Object Oriented Programming Concepts.
+· Experience in configuring and deploying Web Applications using Web Logic server.
+· Committed team player with strong analytical and problem solving skills, and ability to quickly adapt to new environments and technologies.
+
+Working Experience
+
+· Working as a Sr. Software Engineer in Infosys, from May 2014 to Till Date.
+· Worked as a Software Engineer in UST Global, from June 2013 to March 2014.
+
+Educational Qualification
+
+· B.Tech with first division from JNT University. 
+
+Skill Set
+
+JavaTechnologies		:     Core Java, JDBC 
+Web Technologies		:     Servlets, JSP, HTML
+Frameworks			:     Spring (IOC, Batch, MVC, DAO), Struts 1.3, Hibernate
+IDE				:     RSA, Eclipse
+Build Tool			:     Maven 	
+Servers worked on		:     Web Logic, Apache Tomcat 
+RDBMS/Back End		:     Oracle 11g
+Knowledge on			:     Java Script.
+
+
+
+
+Projects:
+
+1. NEXTG-Dibbler
+
+	Client 		 
+	Telstra
+
+	Organization	
+	Infosys
+
+	Duration		
+	Jan’ 2015 to till date
+
+	Team Size   	
+	28
+
+	System Environment   
+	Core Java, Jsp, Struts, Hibernate, Web Logic Server.
+
+	Domain
+	Telecom 
+
+
+
+Description:
+
+The NEXTG Dibbler is a configuration management tool for Telstra. It handles all 3G and 4G network elements such as utrancell, nodeB, etc. and also it supports wireless technologies. Application is mainly used to change the configurations in the network. i.e., to modify the network parameters whenever there is a change required.
+
+Responsibilities:
+
+· Involved in modifying the components using Java&J2EE technology to implement the Business logic as per the needs of the client.
+· Making necessary changes in the existing code and writing new code wherever necessary.
+· Resolves the issues according to client request.
+· Involved in the creation of Database Connections and getting the data from the database using Hibernate.
+· Analyzing the Customer Requirements.
+· Involved in coding for the development of modules.
+
+
+2. Rewards and Recognition
+
+	Client 		 
+	Wellpoint.
+
+	Organization	
+	Infosys.
+
+	Duration		
+	May’14 to Dec’14.
+
+	Team Size   	
+	5
+
+	System Environment   
+	Core Java, Spring, JDBC, Web Logic and Oracle 11g.
+
+
+
+Description:
+
+	Rewards and Recognitions (RnR) portal is a Web Application that supports the Rewards and Recognitions program. The RnR program has been created for the Providers to get special recognition if they meet certain criteria and to encourage them to provide the best in their respective area of health care. The program is available only to the contracted Primary Care Physicians, Specialists and Hospitals who are eligible and who choose to participate in the program.
+	  
+Responsibilities:
+
+· Involved in modifying the components using Java&J2EE technology to implement the Business logic as per the needs of the client.
+· Migration of Teradata to Oracle, Changing the code where ever pointing the Teradata to Oracle DB.
+· Making necessary changes in the existing code and writing new code where ever necessary.
+· Creating new Stored Procedures according to client requirement.
+· JUnit Testing with hard coded values.
+· Checking code quality using Sonar
+· Analyzing the Customer Requirements.
+
+3. Online Store
+
+	Client 		 
+	WellPoint.
+
+	Organization	
+	UST Global
+
+	Duration		
+	June’13 to March’14
+
+	Team Size   	
+	4
+
+	System Environment   
+	Core Java, Servlets, Spring, JDBC, Web Sphere and MS SQL.
+
+
+
+Description:
+	
+	The Online Store or OLS is a shopping portal where the customers can browse different plans, under stand the benefits of each of them, identify the best plans and then enroll into it. Is developed for the Medicare plans. Medicare is a health insurance plan sponsored by the US Federal Government for its senior citizens.  
+                                                                                                  
+Responsibilities:
+
+· Involved in modifying the components using Java&J2EE technology to implement the Business logic as per the needs of the client.
+· Making necessary changes in the existing code and writing new code where ever necessary.
+· Resolves the issues according to client request.
+· Involved in the creation of Database Connections and getting the data from the database using JDBC and MS SQL.
+· Analyzing the Customer Requirements.
+· Involved in coding for the development of modules.
+
+Declaration
+
+                     I here by declare that above information is correct and true to the best of my knowledge and belief.
+
+Place:   				
+Date:                              						   
+    Signature 
+                                                                                               (VENKATASIVA REDDY.A)
+  

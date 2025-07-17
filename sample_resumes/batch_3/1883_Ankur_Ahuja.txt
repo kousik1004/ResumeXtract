@@ -1,0 +1,334 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Ankur Ahuja  
+Mobile: (+91) 9840796026 |ahuja.ankur0290@gmail.com | Current Location: Chennai 
+
+ 
+ 
+
+Professional Summary 
+ 
+A dedicated Programmer Analyst with demonstrated expertise utilizing ETL tools (SSIS) and Microsoft Business 
+Intelligence Tools (MSBI) with 2 years of experience. Able to function effectively as a team member and independently. 
+ 
+ 
+
+Highlights 
+ 
+
+ Worked on different phases of data warehouse development lifecycle, from gathering requirements to testing, 
+
+implementation, and support. 
+
+
+ Expertise in different areas of data warehousing concepts and its applications with other RDBM systems like SQL 
+
+Server and Oracle. 
+
+
+ Expertise in SQL Server Integration Services (SSIS) with good knowledge on SQL Server Analysis Services (SSAS). 
+ 
+
+ Excellent in High Level Design of ETL DTS Packages & SSIS Packages for integrating data using OLE DB 
+
+connection from heterogeneous sources like (Excel, CSV, Oracle, flat file, Text Format Data) by using multiple 
+
+transformations provided by SSIS such as Data Conversion, Conditional Split, Derived Column , Merge, Merge 
+
+Join, Lookup, Sort and Union all. 
+ 
+
+ Experience in maintenance and Administration of SSIS by creating Jobs and schedule DTS/SSIS Packages. 
+
+
+ Strong leader with experience training developers and advising technical groups on ETL best practices. 
+
+
+ Excellent technical and analytical skills with clear understanding of design goals of ER modelling for OLTP 
+
+systems. 
+
+
+ Team player with excellent communication and problem solving skills. 
+ 
+ 
+ 
+Educational Qualifications 
+
+ 
+
+Examination University/Board Year of Completion 
+
+   
+
+Master of Technology VIT University 2015 
+
+(Communication)   
+
+   
+
+Bachelors of Technology MDU, Rohtak 2011 
+
+(ECE)   
+
+   
+
+
+
+ 
+
+Technical Skills 
+
+ 
+
+MSBI SQL Server Management Studio (SSMS), SQL Server Analysis Services (SSAS) 
+
+  
+
+ETL Tools SQL Server Integration Services (SSIS), Informatica 
+  
+
+Other Tools SQL Server Migration Assistant, Tableau (Reporting) 
+  
+
+Databases/RDBMS MySQL, MS SQL Server 2014/2012/2008, Sybase, Oracle 10g 
+
+  
+
+Operating Systems Windows - 2000/2007/XP Professional 
+  
+
+ 
+
+ 
+
+ 
+
+Career Profile 
+ 
+
+ JBHunt Next CCI
+
+ 
+Project JBHunt Next CCI Development 
+
+  
+
+Client JBHunt 
+  
+
+Period March 2017 to Till date 
+  
+
+Role Developer 
+  
+
+Responsibilities  Analysis of the tables and their relationship logically in DB2. 
+
+  Data Modelling for Location, Contact Information and Geography existed in CCI as per the                   
+
+ 
+new requirement. 
+
+ 
+
+ Creating three schemas in SQL Server 2014 in Dev server for location, Contact Information 
+
+     and Geography and created all the table structures in their respective schemas. 
+
+ 
+
+ Creating SSIS packages for Data Load in the tables in Dev server and loaded data from DB2  
+   to SQL Server 2014. 
+
+  Parameterizing the SSIS packages created based on Server Name, Database Name, Sql 
+
+ 
+
+     Username and Sql Password. 
+
+ Unit Testing for all the tables loaded and matched the count with the client database DB2.  
+    
+ 
+
+ 
+ 
+
+Tools SSMS, SSIS, DB2 
+ 
+
+Work Location Chennai 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ IPI2K – COBOL to SSIS Rewrite 
+ 
+
+Project IPI2K - COBOL to SSIS Rewrite 
+  
+
+Client 3M (IPI2K - COBOL to SSIS rewrite) 
+  
+
+Period October 2016 to February 2017 
+  
+
+Role Developer 
+  
+
+Responsibilities  Analysis of existing COBOL functionalities and making the supporting documents. 
+
+  Creating corresponding SSIS packages for different kinds of input provided by the 
+ upstream system. 
+
+  Creating SSIS packages running hourly, monthly and yearly. 
+
+  Unit testing of all the packages created using normal and production data. 
+
+  Scheduling SQL Server agent jobs using SQL Server Agent for all the packages in 33 
+      different sites. 
+
+  Creating packages for the proration logic required to convert the output from IPI2K 
+ database. 
+
+  Transferring all the prorated outputs into PSIA downstream system. 
+  
+
+Tools SSMS, SSIS 
+  
+
+Work Location Chennai 
+  
+
+ 
+
+ 
+
+ 
+ Sybase to SQL Server 2014 Migration 
+
+Project Sybase to SQL Server 2014 Migration 
+  
+
+Client RMHP  
+  
+
+Period January 2016 to September 2016 
+  
+
+Role Developer 
+  
+
+Responsibilities  Comparison of all the objects and data in the source system with SOW provided. 
+
+  Migrating those objects present in Sybase to SQL Server environment through 
+
+ SSMA. 
+
+  Load the data in all the tables through SSMA and SSIS. 
+
+  Removing all the errors in the objects in development environment and making it 
+ compatible to SQL Server 2014. 
+
+  Executing custom objects in SQL server and its unit testing. 
+
+  Preparing supporting documents for test assessments. 
+  
+
+Tools SSMS, SSIS, Sybase, SSMA 
+  
+
+Work Location Chennai 
+  
+
+
+
+ 
+Achievements and Participation 
+  
+
+ First position in District Level General Knowledge Competition. 
+ Certified in National Level Chintana Science Exam. 
+ Participated in Microsoft Dream Spark Yatra. 
+ Participated in National Maths Olympiad. 
+ Certified in many Curriculum Activities at school level and win many Prizes. 
+ Got an appreciation certificate from Escorts Agri Machinery Group for the successful completion of 
+
+summer training during B.Tech. 
+
+ 
+ 
+
+Personal Details 
+ 
+
+ Name : Ankur Ahuja 
+ Date of Birth : 02/02/1990 
+ Gender : Male 
+ Marital Status : Single 
+ Father’s Name : Mr. Ashok Ahuja 
+ Current Location : Chennai 
+ Current Position : Programmer Analyst 
+ Linguistic Proficiency : English, Hindi and Punjabi. 
+ Strength : Positive Attitude, Quick Learner & Punctual. 
+
+ 
+ 
+
+(ANKUR AHUJA) 
+
+

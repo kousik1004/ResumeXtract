@@ -1,0 +1,319 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SANTOSH KUMAR SAHOO
+
+Tel.:+91 7204706855, 7008279837
+. E-Mail:santosh.liku21@gmail.com
+
+ WORK EXPERIENCE
+
+ 3 Years of work Experience as Asterisk VoIP Engineer
+
+ Currently working in Rayna Group of Pvt, Ltd. Pune Maharashtra as an Asterisk VoIP Asterisk/VOIP
+
+Developer from May 2017.
+
+ Worked at Mind dots software system Pvt, Ltd. Bangalore as a Product support & Cloud Telephony Engineer
+
+from November 2016 to May 2017.
+
+ Worked at Migliori Global Solutions Pvt. Ltd, Mumbai as a Cloud Telephony VoIP Engineer from January
+
+2016 to September 2016.
+
+ Worked at SJSIT7 Solutions Pvt. Ltd, Mohali as a Asterisk VoIP Engineer(T) from February 2015 to
+
+December 2015
+
+ Worked at Power tech Consultant, Cuttack as a System Administrator from January 2014 to January 2015
+
+ABSTRACT
+
+ A budding professional with B.Tech. (Applied Electronics & Instrumentation Engineering) from ITER, SOA
+University Odisha.
+
+ Well versed with VoIP, PRI, SIP, MYSQL, Asterisk, Vicidial, Elastix, RHCE, VMware, OpenVZ, and AWS.
+
+ Possess good communication, interpersonal, technical and analytical skills with ability to learn new concepts
+
+quickly & apply them in productive manner.
+
+SCHOLASTICS
+
+ B.Tech (Electronics & Instrumentation Engineering) from ITER, SOA University Odisha in 2013.
+
+TECHNICAL KNOWLEDGE
+
+ Languages : SQL, Asterisk, Shell Script, UNIX.
+
+ Database :  MYSQL
+
+ Operating System : Windows XP/VISTA, Windows 7, Red Hat Linux, Ubuntu, Cent OS, opensuse.
+
+ Package : MS Office, Elastix, VICIDIAL, GOAUTODIAL Asterisks Now, Free-PBX, TRIX BOX.
+
+ Areas of Interest: Computer Networks, Operating System, Internet Web Technology.
+
+Roles and Responsibilities
+
+ Useful and cost-effective phone management system planning & designing & installation for Call centre
+
+setup using open source Vicidial, Goautodial, Elastix, Freepbx, TriXboxand Creating Backups &
+
+Restore.
+
+
+
+ Networking Knowledge like Windows, Linux Server administration and optimization (WLAN, LAN, VPN, WAN,
+
+WDS, VPS, TS, VoIP)
+
+ Connecting Multiple Asterisk Server Cloud Solution for asterisk. Also in Virtualization like Open VZ,
+
+VMware, VitualBox, KVM.
+
+ Advanced Dial plan in Asterisk,A2billing,Voice Broadcast,Conferncing,Click2Call ,Custom IVR
+
+Solution, Voice Mail & IVR
+
+ Handling Dialler Functions (Campaign activation, Post Production Maintenance activities).Also Developing IVR,
+
+Dialler, IP-PBX, Custom DB Integration
+
+ Handling Lead file preparation (download, campaign building, raw file generation, data verification) as per
+
+the process requirement.
+
+ Co-ordination with the Operations/Analytics team for daily strategies.
+
+ Responsible for installing hardware and software in accordance with organizational policies and procedures
+
+such as Change Control Board and System Installation Checklists.
+
+ Responsible for all documentation related to Infrastructure implementation.
+
+ Assisted in hardware installation and maintenance of workstations, servers, networking equipment, and
+
+other supporting hardware.
+
+ Performed user account creation, deletion, and configuration. Supervised backup and disaster
+
+recovery operations.
+
+Projects
+
+Project:-1
+
+Project Name : Chilli Vacations
+
+Duration : 1 month
+
+Technologies Used : Asterisk, VICIDIAL, PHP
+
+Team Size : 2
+
+Responsibility : Installation, maintenance
+
+Client : Chilli Vacations
+
+Description : This project aims set up a inbound and outbound call centre.
+
+Agents will login through VICIDIAL Server and calls will come through local DID. Once Call comes it will play
+
+IVR according to IVR call will go to available agent. Agent can capture the information from customer which will
+
+store in MYSQL DB. Agents can make out bound call simultaneously.
+
+Project:-2
+
+Project Name : Airtel DTH Inbound/Outbound Call Centre
+
+Duration : 1month
+
+Technologies Used : Asterisk, Elastix, PHP
+
+Team Size : 2
+
+Responsibility : Coding, Designing, maintenance
+
+Client : Airtel
+
+Description : This project aims set up a inbound and outbound call centre.
+
+Agents will login through Elastix, Server and calls will come through local DID. Once Call comes it will play IVR
+
+according to IVR call will go to available agent. Agent can capture the information from customer which will
+
+store in MYSQL DB. Agents can make out bound call simultaneously.
+
+
+
+Project:-3
+
+Project Name : Holiday IQ Outbound Call Centre
+
+Duration : 1month
+
+Technologies Used : Asterisk, VICIDIAL, PHP
+
+Team Size : 2
+
+Responsibility : Installation
+
+Client : Holiday IQ
+
+Description : This project aims set up an Out Bound call centre from scratch.
+
+Agents will login through VICIDIAL Server and make calls Agent can capture the information from customer
+
+which will store in MYSQL DB.
+
+Project:-4
+
+Project Name : Template Designing and Voice Broadcasting
+
+Duration : 1month
+
+Technologies Used : Asterisk, C, PHP
+
+Team Size : 2
+
+Responsibility : Installation, Maintenance
+
+Client : HDFC, GMI, Dr.Batra
+
+Description : This project aims at Creating Leads. Basically we are creating OBD Dial
+
+Plan for out different client and capturing response of customers & generating leads for them
+
+Project:-5
+
+Project Name : Auto dialler/ Predictive dialler
+
+Duration : 15 Days
+
+Technologies Used : Asterisk, MYSQL
+
+Team Size : 2
+
+Responsibility : Installation & Configuration
+
+Client : Jamie Kent (www.mycharityfund.com)
+
+Description : This project aims set up a Blended call centre (Inbound & Outbound) on
+
+Cloud Server. We deployed Vicidial for this requirement & Agents will login through VICIDIAL Server and
+
+make calls Agent doing Auto call from load list.
+
+Project:-6
+
+Project Name : Pure Prayer call centre (VTiger With vicidial)
+
+Duration : 45 Days
+
+Technologies Used : Asterisk, MYSQL, CRM
+
+Team Size : 2
+
+Responsibility : Installation & Configuration
+
+Client : Nrrs Pvt Ltd.
+
+
+
+Description : This project aims set up a Blended call centre (Inbound & Outbound) on
+
+physical Server. We deployed Vicidial & integrate vtigerCRM for this requirement & Agents will login
+
+through VICIDIAL Server and make calls and using crm for their product.
+
+Project:-7
+
+Project Name : Mobile App SMS service
+
+Duration : 30 Days
+
+Support : 180 Days
+
+Technologies Used : Asterisk, MYSQL, PHP
+
+Team Size : 2
+
+Responsibility : Installation & Configuration
+
+Client : Pure prayer
+
+Description : This project aims set up a DID number for particular temple/Math. Devotee
+
+calls this number & get link for booking the seva or service on temple. This sms link connected with google
+
+store App. Vicidial Software is running. As well Miss call SMS service based on Asterisk.
+
+HOBBIES & INTERESTS
+
+ Software Collection
+ Know About New Technology
+ Travelling
+
+PERSONAL DOSSIER
+
+Date of Birth : 3rd July 1991
+
+Languages Known : English, Hindi & Oriya
+
+Temporary Address : #Sector 24, flat no-88, Room no-3
+PCNTDA –411044, Pune, Maharashtra
+
+Permanent Address : S/o Laxmidhar Sahoo,
+AT+PO (Gouttam Nagar Bidyadharpur)/Nuabazar,
+Dist. Cuttack –753004,
+Odisha.
+
+Passport Number      : M4930140
+
+

@@ -1,0 +1,264 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume of Ramasubramanian
+
+                           Ramasubramanian. S
+PH:+91 9841161999
+Rams.maha@gmail.com
+General Back round:                                                                                   
+
+	9+ years of technical experience with a skill for network data and wired technologies. Main area of expertise is IP/MPLS. Technical passion, creative, fast and self-learner, self-driven, flexible, dynamic and highly committed towards meeting objectives. Wide experienced in L3 protocols, MPLS and strong working knowledge in Service Provider technologies. Very good working experienced in Mobile Backhaul technologies in the Tellabs 86xx family product.
+Education:
+Bachelor of Engineering (Information Technology) 
+Manonmanium Sundaranar University under the control of Anna University, Tamil Nadu.
+
+
+
+
+Professional Experience:
+Technology Architect: Infosys Ltd
+         :
+Aug2014 to June2017
+Technical Lead: Aricent Group                      : July 2010 to Aug 2014
+Member Technical Staff   HCL Technologies   : Oct2007 to June 2010 
+
+ Certifications: Cisco Certified Network Associate (CCNA) & Cisco Certified Internetworking Professional (CCIP)
+Red Hat - CL210 OpenStack  
+	Skills:
+Routing Protocols
+	OSPF, IS-IS and BGP
+
+
+	Technologies :
+
+Protection & OAM
+	LDP,RSVP,TE,MPLS,L3VPN,ACL,IP Prefix List, 
+
+Ethernet PWE3 , Segmented PWE3 and TDM PWE3 
+
+RSVP Path Protection, Fast Reroute,  PWE3 Redundancy, High Availability ,VCCV BFD (type1 & 2 ) and IP BFD
+
+	Cloud:
+
+Virtualization:
+	Open Stack (Nova, Cinder, Neutron, Cinder, etc..), Open switch(VXLAN & GRE), Docker Container.
+
+KVM ,VMWare Workstation
+
+	QOS:
+	Classification, Marking, Policing, shaping and WRED 
+
+
+	Automation &Tools:
+
+
+	MS Visio, JIRA, and HP Quality Center
+Scripting : Python
+
+DevOps: Ansible
+
+	Hardware/OS:
+	CentOS, Linux ,Cisco7600,IOS-XR,ASR ,Tellabs Mobile Backhaul 860x  and  86x0 , T1 ,E1 ,T3,E3 line cards,  Optical Transceivers (1G/10G),Cisco Wireless AP and Controller.
+
+	
+	
+
+	
+	
+
+
+Roles & Responsibilities as Technology Architect (Infosys)
+
+· A dynamic professional with over 9+ years of technical experience in Engineering, Consulting & implementation of Network projects 
+
+· Demonstrated abilities in commissioning of networks as well as ensuring the completion of project in minimum turnaround time to maximize the efficiency
+
+· Analyzing Network Infrastructure needs, evaluating customer requirements, custom designing solutions and troubleshooting of complex network and security issues
+
+· Assessing information security risks and taking preventive measures to ensure the security of the networks does not get compromised
+
+· Main Technical area of expertise are Cisco routing and switching products and Tellabs Cell site switches 
+· Core strength includes technical flexibility to swiftly learn and adapt cross domain products and new technologies
+
+Infosys Ltd:
+
+Core Responsibilities:
+· As a Technical consultant, responsible for designing new networks and transforming the legacy network/security infrastructure to the standard architecture
+
+· Gaining insight into client’s infrastructure, with the aim of contributing effectively to the project as well as giving appropriate solutions to the client’s technological requirements
+
+· Involves deep research and analysis of client’s network architecture
+
+· Designing network architecture (LAN/WAN) to meet the standard guidelines. 
+
+· Handling Change management: Risk mitigation, planning and implementing periodic change requests as per the network requirements. Preparing Post Information Report after completion of high risk changes
+
+· Troubleshooting escalated severity incidents and providing solutions to customers
+
+· Participated in Security Audits: Identifying security vulnerabilities and implementing audit findings
+
+· Bridge with other Cross functional domains for critical issues and contribute for the solution.
+
+· Assumed 24-hour on-call responsibility for key projects during implementation phase
+
+· Effectively managing security logs, analyzing and monitoring network events
+
+· Performing Route Cause Analysis for high severity incidents in networks and taking measures to prevent the incidents in future.
+Technical Responsibilities:
+
+· Designing and configuring Cisco routing and switching products
+
+· Implementing network L3VPN using IP/MPLS in the Client multiple sites.
+
+· Configuring BGP, EIGRP and OSPF in MAN/WAN architecture.
+
+· Configuring route redistribution and filtering using prefix lists, AS-PATH lists and route-maps.
+
+· Configuring QOS in access, distribution and core layered network components
+
+· Implementing Advance Routing features using Route maps and policy based routing
+
+Key Projects Handled in Infosys
+LAN/WAN Transformation-EMEA
+
+
+Client: Bank of America
+
+· Involved in transforming the legacy network infrastructure to the standard architecture
+
+· Successfully transformed 6 sites in 4 countries across the EMEA region
+
+· Project involves site assessment, engineering and implementation
+
+· Designed network architecture as per the client requirements
+
+· Prepared hardware BOMs for procuring new devices
+
+· Evaluated the bandwidth requirements and placed circuit orders
+
+· Involved Installation and configuration of Cisco routers and  switches
+· Prepared the change plan and transformed the network from legacy to new setup for multiple sites in many phases
+
+Aricent Group:
+Job Responsibilities:
+· As a Senior Engineer, providing technical support for fault diagnosis, analysis & complete management of LAN and WAN Architecture.
+· Design and Maintenance of campus LAN spread over 4 buildings.
+· Configuration and Maintenance of Tellabs Cell site switches (8609, 8611, 8630, 8660 & 8602).
+· Configuration and troubleshooting OSPF in a large scale network. 
+· Handling Change management: Risk mitigation, planning and implementing periodic change requests as per the network requirements. Preparing Post Information Report after completion of high risk changes. 
+
+· Implementing Disaster recovery procedures and carrying out periodic DR testing.
+
+· Implementing hardening on routers and switches as per the audit requirement.
+
+· Implementing Advance Routing features using Route maps and Policy based routing/natting.
+· Implementing Site to Site and Client to Site MPLS L3VPN & L2VPN (PWE3) Tunnel networks.
+· Configuration of Wireless LAN and IP Telephony.
+· Configuration and maintenance of Packet Shaping, police, rate limit the WAN traffic.
+BPEC HA Implementation
+
+Client:
+Vodafone Italy.
+
+· Designed project plan to build High Redundancy and migrate systems on it.
+· Configured multiple feature ACL,PBR, MPLS L2VPN, L3VPN & TE in HA to ensure High availability.
+· All the devices will have its standby partner to ensure redundancy throughout the channel.
+· Conducted extensive testing by making the active device to fail and ensure connectivity through standby devices.
+· Documented the project with the relevant documents and diagrams.
+
+Data Centre Resiliency
+
+Client:
+MTS, Russia.
+· Designed the resiliency architecture and plan for Servers.
+· Installed the modules and configured L3 switches to enable dual homing for the Servers.
+· Tested the Resiliency by failing the Active link to the Servers.
+· Documented the project with the relevant documents and diagrams.
+
+HCL Technologies:
+
+Project : 7600 WAN Edge Router 
+Duration: Oct2007 – June2010
+Role: Member Technical Staff - MTS
+· Handling Sanity Team, Deliver daily Regression Report
+
+· Handling Functional Test beds weekly regression(QOS,MPLS)
+
+· New Test beds transfer, integrating new scripts, Manual Testing
+· Field issue reproduction, simulation and fix validation
+
+· Optimization Test beds using automation tools (Earms, ATS,Shell script)
+
+· Involved and taking Technical presentation for the team members
+·  Mentoring new engineers and lateral test engineers new to the Team 
+
+Personal Details
+Fathers Name         
+
+
+ : 
+K Sundaradas
+Date of Birth           
+
+
+ :  
+07 June 1981
+
+Nationality          
+
+
+ :  
+Indian
+
+Marital Status          
+
+
+ :  
+Married
+
+Languages Known           
+
+ :  
+English, Tamil
+

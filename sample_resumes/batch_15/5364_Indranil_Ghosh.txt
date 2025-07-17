@@ -1,0 +1,223 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Indranil Ghosh 
+Mobile: +91 9741892464
+Email: indranil1987@gmail.com
+
+Professional Summary
+SAP BO/BI/BW Consultant with 5.3 years of experience which includes 2 years of extensive experience in SAP Design Studio. Around 3 year’s experience in SAP BO (WEBI, IDT, Analysis Explorer) and SAP BI/BW/HANA Views. 
+Have the ability to handle multiple clients simultaneously. Till now have handled 3 clients (QAPCO Petroleum, ADANI Enterprise and CLARISS Otsuka) simultaneously for a period of 6-8 months and 2 clients for 1 year).   Have experience of working on Domestic Client side as well as offshore. 
+· Working as SAP BO consultant at IBM Kolkata from Apr 2015
+· Worked as SAP BO/BW Consultant at Timken Engineering and Research India Pvt. Ltd, Bangalore from Apr 2013 to Apr 2015.
+· Worked as a Software Engineer for Marlabs Software Pvt. Ltd, Bangalore from Jul 2012 to Apr 2013. Posted on Client side – Timken Engineering and Research India Pvt. Ltd.
+· Involved in 3 Implementation Projects and 1 Support Project. 
+· Implementation Project: Requirement Gathering from Client and preparation of Technical Design based on the Functional Design provided by the Business Analyst. 
+· Developed multiple Dashboards on Design Studio and reports on WEBI in Modules like Chemicals and Petroleum KPI’s, HSE, Manufacturing Units, Sales, Inventory, Planview, Applix. Installation of these reports in BOBJ Production.
+
+· Support Project: worked on handling issues, root cause analysis, providing solutions, develop custom reports, handle the Applix’s/ITR’s raised
+
+
+
+
+
+
+SAP BO Skills
+· Have worked on SAP Design Studio, WEBI, IDT, Analysis Workspace and Explorer.
+· Created BICS connection in IDT (Information Design Tool). 
+· Developed end to end implementation of BO projects.
+· Developed SAP Design Studio dashboards using BEx and IDT with both HANA and BW as the Source.
+· Experience in writing SQL queries.
+· Developed advanced Design Studio dashboards by using concepts like Background Scheduling, Parallel Execution, Passing Prompt values to BEx/IDT from Design Studio Dashboard dynamically based on User’s Input. 
+
+· Have hands on experience on Dynamic update of data from Dashboard to BW Backend Cubes.
+
+· Components like Grids, Panel, Charts, KPI View blocks, Filter Panel, Input Fields are used.
+
+· IDT Development based on HANA Views.
+
+· Developed Universes using the functionalities like Cascading Prompts, Optional Prompts, @Functions, Derived Tables, Full Outer Joins and resolved traps and Loops problems.
+· Hands on experience in developing different types of reports using the functionalities like Passing Dimensions as LOVs, Drill Down, Slice and Dice and Scope of Analysis.
+· Having Basic BO Admin Knowledge like creating Users, Groups, and profiles in CMC. 
+· Handled Team Meetings and prepared MOM for the weekly meetings.
+· Created and worked on Row level security, Object level security and various predefined security settings depending upon users and group needs.
+· Developed Full, Thin client and also Dashboard reports and used different data providers like Universes, Excel Sheets.
+· Involved in reports scheduling in the BO Launchpad
+· Prepared Functional and Technical Design documentation, Universe Specification, Test Cases, Application documentation. 
+
+· Have given Knowledge Transfer to the Business Users in report creation of Business Objects 
+
+
+
+
+SAP BW Skills
+
+· Experience in BW Data Modelling and development of BI Objects like Info Cubes, DSO, Info Objects, DTP.
+
+· Designed BEx Queries for the User to get the information required. 
+
+· Creation of custom queries, Variables, Restricted Key Figures, Calculated Key Figures, Exceptions and Conditions as per user requirements
+
+· Collection and Transport of Objects from DEV, Quality to Production Server
+
+
+Awards and Recognitions
+
+1> IBM Managers Choice Award for Putting the Client First – June 17, 2017
+2> Achieved a rating of 1 in 2016 and 2+ in 2015 for my performance in IBM.
+3> IBM Managers Choice Award for Putting the Client First – May 16, 2016
+4> Awarded with achievement award “ABC Award” for receiving continuous Customer Satisfaction Survey of 4.85/5 – TIMKEN (Jan 2014)
+5> Awarded with “Lead To Win” for my contribution towards Business Objects Reports and Customer Handling - – TIMKEN (Jan 2014)
+
+Professional Skill Sets
+Reporting Tools: 
+· SAP Design Studio 1.5 and 1.6
+· SAP BO - SAP Business Objects 4.0 and 4.1 (Information Design Tool,WEBI, Explorer Model, Analysis Workspace)
+· Hyperion Brio
+
+
+ETL Tools: 
+· SAP BW - SAP Datawarehouse and Modelling 7.X
+· SAP BEx - SAP BEX Query Designer
+MS-Office – MS-Word, MS-Outlook, MS-PowerPoint
+Database:  MS-SQL Server 2008
+Education
+· MCA from Christ University, Bangalore in the year 2012
+· BCA from Christ University, Bangalore in the year 2009
+· ISC from St. Thomas Church School in the year 2006
+· ICSE from St. Thomas High School in the year 2004
+Projects
+
+	Client Name: QAPCO Petroleum – Started from August 2016 (Implementation)
+
+	Project Location: Qatar and Kolkata
+	
+
+	Tools Used: SAP Design Studio 
+Role Description: Develop Design Studio Dashboards. 
+Report Details: 
+As part of this QAPCO project I have been involved in developing different types of Dashboard based on SAP Design Studio with HANA Studio as the backend. The data being read into IDT and from there into SAP Design Studio. 
+
+Few of the dashboards developed are: 
+· CORPORATE Dashboard (for the CEO of the Company)
+
+Dashboards for the respective divisional Heads:
+· FINANCE 
+· HSE
+· TECHNICAL
+· MANUFACTURING
+· PROCUREMENT
+· HR
+· TCS
+· Material and Inventory
+
+The purpose of these dashboards is to present a detailed analysis of all the KPI’s to the respective Heads of the divisions.
+
+	
+
+
+
+
+	Client Name: Adani Enterprise – Implementation Project
+
+	Project Location: Ahmedabad and Kolkata
+	
+
+	Tools Used: SAP Design Studio 1.5, BEx Queries
+Role Description: Design and Develop dashboard on SAP Design Studio 
+Report Details: 
+1. COO Dashboard – The purpose of this report is to incorporate all the PORT KPI’s. Here in the initial screen the customer gets to choose the Company Code and Date Range for which he is looking to get the data. By default the data is fetched for MTD. But there are options to choose from MTD,YTD,QTD and SelectionTillDate. Drill down option is enabled for each KPI to show the data in details. The details data is displayed in terms or Pie Charts, Bar and Column chart. There is another chart for Trend which by default shows for the whole year. It can be filtered based on the “OnClick” option of the detail chart. Additional Filter Panel is also provided so that one can filter based on the Free Characteristics listed in them. 
+
+2. CEO Dashboard - Build on around 20 KPI's. My Job was to frame a design template required for the design. Prepare the connections for the Data Sources. Use the KPI Queries from BEx and develop the report. Different types of charts,cross tabs and other useful Design Studio components were used. Performance tuning was done by using "Background Processing", "On-Startup" and "On-click" methods of datasource loading to enhance the performance of the report.
+
+3.  Investor Week On Week Comparison Dashboard - The purpose of this report is to display the "Top N Investors, Buyers, Seller's" and the "Type of Fund". Input values from dashboard has been passed to BEx by using synchronization properties so that user can dynamically change the data without getting the prompt screen. User also has the option to enter the number of Investors/Buyers/Sellers..they want to see. Heat Map and Bar Chart is used to display the charts.
+
+4. Investor Overview Chart - The purpose of this chart is to display the Buy VS Sell comparison of shares between two dates. Additional Filter options are given so that user can drill more. 
+
+5. Marine, Rail, Liquid, Dry and Waste HOD Dashboards – The purpose of these reports is to display the KPI’s respectively for all the HOD’s. Filter the data sources accordingly and display result based on Details as well as composed views.
+
+
+
+
+
+	Company: TIMKEN India Pvt. Ltd (Implementation)
+
+	Project Location: Bangalore
+	
+
+	Tools Used: WEBI, IDT, Analysis Explorer, SAP BW, BEx Queries,
+Role Description: Develop BO reports on WEBI, Analysis Explorer using IDT and BEx Queries as backend
+Report Details: 
+1. Applix Explorer Model – Design an Explorer Model which will help the Managers of various departments to get an analysis of MTTR. This will not only give them an idea about the time taken by each resource to complete the work but they can also keep track of the quality of work. This will also help them in Resource Capacity Planning for future projects by knowing as in how much each resource is occupied in current work and their free capacity.
+2. Planview Explorer Model – To develop an Explorer Model this will help Managers in doing budgeting for future and present projects. This report will have all the department resources pulled together and how much they are charged. Based on these information future project budgeting can be done
+
+3. Sales Pace History using SD module – The purpose of this report was to show the TIMKEN Company Sales based on various Geographic Zones. The first tab of the webi report had charts to show the Business Plan, Actual and Forecast values based on MTD, YTD and QTD. The second tab was used to Details level data of each and every Geographic Zone
+
+
+
+
+
+
+	Client Name: Clariss Otsuka Limited (Support)
+
+	Project Location: Ahmedabad and Kolkata
+	
+
+	Tools Used: SAP Design Studio, SAP BW,BEx Queries,
+Role Description: Develop BO Dashboard based on BEx Queries
+Report Details: 
+1. Inventory Dashboard – The Purpose of this report is to display the Expired Stock and Stocks that are going to be expired in near future based on Region. Customer has the option to choose the Material Type to filter in order to check the expiry time.
+
+2.  Sales Dashboard – The Purpose of this dashboard is to display the Plan vs Actual Sales of the business for Current and Previous Year Sales. The report also has the option to choose from India and International Sales as also to check the sales based on Region, Channel, Therapy wise.
+
+
+
+

@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VASU RESUME
+
+												
+VasudevaraoTadivetla				:vasu.tadivetla@gmail.com
+Java Developer						 :+91 9439 24 9131
+
+	
+PROFESSIONAL SUMMARY	
+
+· Having 5+ Years of experience in analysis, design, development and implementation of Web-based applications using Java and Web technologies.
+· Having good knowledge in Java/J2EE Technologies includes Spring and Hibernate Frameworks And Web technologies like Javascript,Angular.
+· Developed web UI pages using HTML,CSS,JavaScript,Jquery,JSP,Angular.
+· Extensive experience developing spring based applications using Spring IOC,SpringJDBC,Spring MVC and Spring Boot.
+· Strong Object-Oriented Programming & Analysis Knowledge.
+· Ability to analyze, debug and enhance existing application modules.
+· Worked on versioning system by using tools like GIT and SVN.
+· Self-starter environments, fast learner, proficient in programming logic and easily adaptable to new technological and systems with proven abilities in resolving software issues.
+· Strong Analytical, Problem solving skills, Self-starter with a track record of accomplishments.
+
+TECHNICAL SKILLS		
+
+	Programming Languages:
+	Java(JSE/J2EE).
+
+	J2EE Technologies:
+	Servlets,JSP,RESTful webservies.
+
+	Framework software’s:
+	Spring, Hibernate.
+
+	Databases:
+	Oracle, MySql.PostgreSql,Elastic Search
+
+	Web Technologies:
+	HTML,CSS,JavaScript,Jquery,Angular.
+
+	Application Tools:
+	Eclipse,STS,GIT,SVN,Maven,ANT,Log4j.
+
+	Web / Application Servers:
+	Tomcat, Jboss.
+
+	Operating Systems:
+	Windows, Linux.
+
+
+
+EDUCATION	
+
+· Master of Computer Applications (M.C.A) from JNTUK University.
+	
+WORK EXPERIENCE	
+
+· Working in Infosys Ltd, Bhubaneswar since Nov 2014.
+· Worked in Deepija Telecom Pvt. Ltd, Hyderabad from May 2012 to Oct 2014.
+
+
+PROFESSIONAL EXPERIENCE	
+
+Client:Zebra Technologies,USA							(May’17–Till’Date)
+Project: OVS Refresh
+Java Developer
+
+Description:
+This application is responsible for providing complete history of data for thousands of  mobility and printer devices purchased by customers of Zebra.This is an end-to-end  application development project involving requirement gathering and analysis,design,build,testing,production rollout and support.This system will be developed in phases using the agile development model.
+
+Responsibilities:
+
+· Writing transforms for Elastic Search which is Nosql DB.
+· Creating components using Angular.
+· Creating RESTful web services using spring REST.
+· Fixing bugs proactively.
+· Providing support to team members on Elastic Search.
+· Interacting with onsite members daily.
+· Attending scrum meetings daily.
+
+Environment: core java, Spring Boot, RESTful webservices, PostgreSql,Elastic search And Tomcat.
+
+(Feb’17–May’17)
+Project: GST Compliance solution
+Java Developer
+
+Description:
+GST Compliance solution application acts as a link between taxpayers and GST filing system. Mainly focus on taxpayer’s raw data on sales and purchases and converting into the GST returns. These GST returns (GSTRs) will then filed on behalf of the filer with GSTN via GSP.
+
+Responsibilities:
+
+· Creating RESTful web services using spring REST.
+· Developed web socket programming which is push the notifications to browser without any explicit request.
+· Providing timely support to UI developer resolving issues.
+· Fixed bugs proactively.
+· Involved in offshore coordination planning and managing day to day activities.
+
+Environment:core java, Spring Boot, RESTful webservices,Spring Data JPA, Mysql And Tomcat.
+.
+Client:TTI Inc,USA									(Mar’16–Feb’17)
+Project: Legacy System Modernization
+Java Developer
+
+Description:
+TTI is a leading electronic components distributor. Project involved migration of mainframe systems to open source systems (Java/Oracle).The complete architecture has been migrated to spring batch and oracle.
+
+Responsibilities:
+
+· Involved in the development and implementation of Batch programs/Jobs.
+· Formulating SQL queries and stored procedures on assigned modules.
+· Handling responsibilities like understanding the legacy application and implement the same logic in new application. Also mentoring junior resources to the new requirement and coding standards.
+· Performed unit testing as well as job level testing.
+· Attended daily calls with senior management and occasionally with client on clarification of issues and requirements.
+· Prepared useful documents and sharing to team members like sonar Qube installation and GIT configuraton.etc.
+
+Environment:core java, Spring Batch, Spring Data Modules, Jasper Reports, Oracle And Jboss.
+
+
+Client:Avnet Inc,USA								(Nov’14–Mar’16)
+Project: iQuote Evolve 
+Java Developer
+
+Description:Avnet is a technology Business-to-business distributor company.iQuote Evolve was implemented to enhance Avnet’s internal quoting application to accommodate the increase in business and to streamline the business model.iQuote is a java based application with a Angular and spring over MVC architecture. The project deals with UI enhancement along with backend changes, adding new features to the current version of iQuote application. This is the core application of the company.
+
+Responsibilities:
+
+· Worked as a senior developer, handling responsibilities like understanding the R2 application and implementing enhancements.
+· Trained new hires regarding the application process and environment and helping them to come up to speed.
+· Tested peers modules and finding issues.
+· Daily interaction with onsite coordinators.
+· PreparedTechnical design documents.
+
+Environment:core java, Spring,Hibernate,HTML,CSS,Javascript,AngularJS,Oracle And Tomcat.
+
+											(Sep’12–Oct’14)
+Project: ConvoxCCS (Call Center Solution)
+Java Developer
+
+Description:ConVoxCCS presents a versatile platform for Inbound/ Outbound/ Blended Call Center. ConVox can be used for domestic (through Analog / ISDN trunk lines) as well as international (using VoIP trunks) call centers. ConVox redefines the way a traditional call center works with the effective use of VoIP technology. Users get all the feature of an advanced call center. With completely web based management you can operate your call center from anywhere from the world.
+
+
+
+Responsibilities:
+
+· Involved in the design, development and implementation of customer services.
+· User Interface development.
+· Designed and developed pages validating client side and Server side scripts.
+· Performed unit testing.
+· Involved in Bug Fixing.
+
+Environment:core Java,HTML,CSS,Javascript,Jquery,Servlets,JSP,Spring,Mysql,Tomcat
+
+Personal Information:
+
+Date of Birth		: 	16th July 1988.
+Languages Known	:	English, Telugu and Hindi.
+Marital Status		:	Married.
+Alternate Mob#	:	91 90 1430 3545
+	
+										
+
+1
+
+
+

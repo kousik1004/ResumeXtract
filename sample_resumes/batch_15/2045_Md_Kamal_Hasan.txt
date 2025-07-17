@@ -1,0 +1,323 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Md. Kamal Hasan                                                                    Mob-+918820904451            
+                                                                                                        Email: kamalhasan817@gmail.com 
+                                                                                                     ETL Developer, Programmer Analyst                          
+
+ 
+
+ 
+
+I have overall 4.5 years of experience in IT. I have 3.5 years of experience in Cognizant 
+
+Technology Solutions working as a ETL developer (Informatica PowerCenter). Prior to that, I 
+
+worked in Cognizant Technology Solutions as a Contractual payroll where my primary role 
+
+was to configure database server and software for training purpose and Desktop support. 
+
+My primary skill set is Oracle, Informatica PowerCenter and DataWarehousing and Unix. 
+
+ 
+
+EDUCATIONAL QUALIFICATION 
+
+Electronics and Communication Engineering:  
+
+16 years of formal education with B-Tech degree in Electronics and Communication 
+
+Engineering from Seacom Engineering College which is affiliated to West Bengal University of 
+
+Technology and approved by AICTE 
+
+▪ Bachelor of Technology in Electronics & Communication from Seacom Engineering 
+
+College, WBUT with DGPA 8.17 
+
+▪ Higher Secondary from Bidhannagar Govt. High School, WBCHSE with 75.5% 
+
+▪ Secondary from Bidhannagar Govt. High School, WBBSE with 84% 
+
+ 
+
+TECHNICAL SKILLS 
+
+ 
+
+Technology & Tools DataWarehousing, Informatica PC 9.6 and 10.1, Oracle 11g and 12c, 
+SQL Server 2012, Unix 
+
+  
+PROJECT EXPERIENCE SUMMARY 
+
+Client Domain Project Name Tools/Technology Used Roles 
+
+Life Science(USA) Product Master Enhancement 
+Informatica PowerCenter, 
+
+Oracle, Unix 
+Offshore ETL Lead 
+
+Healthcare(USA) MDM Implementation  Informatica PC, SQL Server Developer 
+
+Insurance(UK) Policy Data Migration Informatica PC, Oracle  Developer 
+
+BFS(USA) 
+Health Compliance and Data 
+mgmt. 
+
+CRM tool, Neo Validator BI- Developer 
+
+Healthcare(USA) 
+Enhancement and Production 
+load 
+
+Informatica, SQL Server, 
+Oracle, Unix 
+
+Developer 
+
+Healthcare(USA) Biomet-IT Implementation SSRS 2008, SQL SERVER Associate 
+
+ 
+
+ 
+
+
+
+ 
+ 
+PROJECT DETAILS 
+ 
+Offshore ETL Lead: 
+ 
+
+    PROJECT NAME  Product Master Enhancement 
+
+Domain Life Science 
+
+Role Informatica Developer 
+
+Project Specific Skill Informatica PC 10.1, Oracle 11g, Unix  
+
+ 
+ 
+DESCRIPTION OF THE PROJECT 
+
+▪ Load incoming product data to prelanding layer for MDM to consume 
+
+▪ Convert incoming excel file to csv and validate file structure and data using Unix 
+
+script and JAVA utility. 
+
+▪ Unix script to send reject data in mail 
+
+▪ Build mapping for reporting purpose  
+
+Developer:  
+ 
+
+    PROJECT NAME  MDM Implementation for UVaMC 
+
+Domain Healthcare 
+
+Role Informatica Developer 
+
+Project Specific Skill Informatica PC, SQL Server, Unix  
+
+ 
+DESCRIPTION OF THE PROJECT 
+
+▪ Implement a Location Master Application to manage and maintain different location 
+
+entities of UVAMC covering facility, cost center, department, room and bed 
+
+▪ Build a single source of truth of all the department and their respective revenue 
+
+location address. 
+
+▪ Implement change data capture to find the changes in source and load it into delta 
+
+table. 
+
+ 
+ 
+
+    PROJECT NAME  AA RIO EDM T&M 
+
+Domain Insurance 
+
+Role Informatica Developer 
+
+Project Specific Skill Informatica PC, Oracle 11g, Unix  
+
+ 
+ 
+ 
+
+
+
+DESCRIPTION OF THE PROJECT  
+
+▪ Policy data migration in batch using Informatica job and Stored Procedure to 
+
+stream line the process. 
+
+▪ Use of Stored Procedure to populate the control and event table. 
+
+▪ Design error handling in runtime and populate in error table for event report 
+
+ 
+
+      PROJECT NAME  Business Analytics DM -Fin App 
+
+Domain Health Care 
+
+Role Informatica Developer 
+
+Project Specific Skills Informatica PC, SQL Server 2008, Oracle, Unix  
+
+ 
+DESCRIPTION OF THE PROJECT  
+
+▪ Involve in enhancement and migration activity using Informatica jobs and Stored 
+
+Procedure to stream line the process. 
+
+▪ Performance tuning of Stored Procedure to reduce the time taken by workflow. 
+
+▪ Provide Adhoc data load support  
+
+▪ Develop newly required tables, jobs as requested by the client. 
+
+ 
+
+ 
+
+1.        PROJECT NAME  Biomet-IT Implementation 
+
+Domain Health Care 
+
+Role Team Member 
+
+Project Specific Skills SSRS, SQL  
+
+ 
+ 
+
+DESCRIPTION OF THE PROJECT  
+
+▪ To provide both Interactive and Adhoc Reporting capability to the existing 
+
+environment based on BI Architecture. 
+
+▪ To develop new SSRS Reports providing user interactive capabilities in the report 
+
+and have an additional informative Drill view on the business data. 
+
+▪ To develop a Power pivot model, over the provided warehouse entities and metrics 
+
+which will serve the end user’s Ad-hoc reporting need. 
+
+ 
+
+
+
+ 
+
+Extra -curricular Activi ty  
+
+▪ Work as a volunteer in Project Outing.  
+
+▪ Participate in cultural activity and services. 
+
+▪ Love to play Table Tennis as Indoor recreation. 
+
+▪ Participate in high school sports team. 
+ 
+
+Personal  Profi le :  
+
+Gender : Male 
+
+ Date of Birth    : 10/04/1989 
+
+ Religion    : Islam 
+
+          Nationality    : Indian 
+
+          Address                                        :         DL-13/1, SECTOR-2, SALTLAKE, KOL-91 
+
+                                                                                                                WEST BENGAL, INDIA 
+
+          PAN                                              :         AHVPH2605J 
+
+  
+ 
+
+ 
+
+ 
+
+DECLARATION 
+
+ 
+ 
+
+        I hereby declare that the above furnished details are fully true to the best of my 
+
+knowledge and belief. 
+ 
+
+ 
+
+ 
+ 
+
+

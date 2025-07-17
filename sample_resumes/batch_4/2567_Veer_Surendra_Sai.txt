@@ -1,0 +1,534 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stefan Short
+
+
+ 
+
+ 
+
+ 
+
+NNAABBAANNIITTAA  SSEENN  
+Mobile:  +91-7406686120                            Email: nabanita.sen123@gmail.com 
+
+ 
+
+ OBJECTIVE 
+
+ 
+
+To obtain a challenging position that allows me to learn new technologies while utilizing my 
+
+experience and skills in achieving common goals of organization and bright personal career. 
+
+ 
+
+ PROFESSIONAL EXPERIENCE  
+
+ 
+
+  Experience of 2.2 Years as Project Engineer at Wipro Ltd, Bangalore. 
+
+ 
+
+ ACADEMIC QUALIFICATIONS 
+
+ 
+
+ 
+
+ PROFESSIONAL SUMMARY  
+
+ 
+
+ Proficiency in Core JAVA, Building RESTful APIs with Spring MVC, Implementation of APIs, 
+
+AngularJS and GIS Development. 
+
+ Good knowledge of MVC architecture. 
+
+ Good understanding ability to quickly adapt to new technologies and tools. 
+ 
+
+ TECHNICAL SKILLS 
+
+ 
+
+Web Technologies 
+
+ 
+
+ 
+
+GIS Developing Technologies 
+
+ 
+
+Programming Languages 
+
+ 
+
+: 
+
+ 
+
+ 
+
+: 
+
+ 
+
+: 
+
+Java Script, Angular JS, JQuery, HTML5, Ext JS, CSS3, 
+
+Ajax,JSON 
+
+ 
+
+Google Map API, Openlayers 2.13 
+
+ 
+
+Java, C, C++, PHP 
+
+Frameworks 
+
+ 
+
+ 
+
+Payment Gateway API's 
+
+ 
+
+: 
+
+ 
+
+ 
+
+: 
+
+Bootstrap (HTML, CSS, JS Framework) , Highcharts, 
+
+Spring, Hibernate 
+
+ 
+
+Zaakpay (Website Payment Gateway),PayPal 
+
+Web/Application Servers 
+
+ 
+
+: Apache, JBOSS 
+
+Databases 
+
+ 
+
+Third party APIs 
+
+ 
+
+Tool 
+
+ 
+
+: 
+
+ 
+
+: 
+
+ 
+
+: 
+
+MySQL, PostgreSQL  
+
+ 
+
+Facebook, Yammer, weather API by AccuWeather 
+
+ 
+
+Jenkins for Maven Project, Soap UI  
+
+DEGREE INSTITUTE 
+PERCENTAGE/ 
+
+CGPA  
+
+YEAR OF 
+
+GRADUATION 
+
+B.TECH 
+
+(Information Technology) 
+Veer Surendra Sai 
+
+University Of Technology 
+
+ 
+
+8.74 
+
+ 
+
+2015 
+
+ All India Senior School 
+
+Certificate Examination 
+
+Kendriya Vidyalaya, 
+
+Sambalpur, Odisha 
+89.4 2011 
+
+ All India Secondary School 
+
+Examination 
+Kendriya Vidyalaya, 
+
+Sambalpur , Odisha 
+90.0 
+
+ 
+
+2009 
+
+ 
+
+mailto:nabanita.sen123@gmail.com
+
+
+ 
+
+ 
+
+ 
+
+Version Control : Tortoise SVN  
+
+ 
+
+IDE 
+
+ 
+
+ 
+
+: 
+
+ 
+
+Eclipse, Adobe Dreamweaver CS6 
+
+Attended Trainings 
+
+ 
+
+TrendNxt Certification 
+
+ 
+
+: 
+
+ 
+
+: 
+
+Node JS, RESTful services, Spring 
+
+ 
+
+HTML,HTML 5,JSP,JQuery 
+
+Operating Systems : Windows XP/7/8/10,Linux 
+
+ 
+
+  PROJECTS 
+
+ 
+
+1. Project Name: ELCITA (Angular JS, Spring MVC) 
+
+ 
+Project Description: 
+
+   ELCITA Smart City Application is a web application developed through Angular JS. This dashboard 
+
+consists of Waste Management, Fleet Management, E-Toilets and Environmental Modules. 
+
+These modules have been developed to monitor and control from UI such as assigning task to staff for 
+
+collection of waste, adding new staff, generating alert when vehicle goes out of geofence, etc. Periodic reports 
+
+for environmental parameters getting from sensor and display on Highcharts. Alert display based on 
+
+conditions. 
+
+ 
+
+Responsibilities:    
+
+ Binding and displaying data from Spring Rest Service. 
+
+ Spring and Hibernate integration to store data in database. 
+
+ 
+
+Technology and Others: Angular JS, Spring MVC, Hibernate, Bootstrap Table, Google Maps API, 
+
+Highcharts. 
+
+ 
+
+2. Project Name:  CIDCO Web Application (Angular JS, JAVA) 
+
+  
+
+Project Description: 
+
+        This website is for the administrator of CIDCO application for mobile application users. It gives the 
+
+admin the provision to view the parking details of the railway station. The admin can also view the report-
+
+based on area and date and can view the available and occupied count of both car and bike parking on 
+
+chart also. 
+
+ 
+
+Responsibilities:  
+
+ Created the web application and integrated UI with backend to get and post data using AJAX request 
+and JSON response. 
+
+ Created API for getting data from database in web and mobile application. 
+ 
+
+Technology and Others:   AngularJS, Spring, JPA 
+
+ 
+
+3. Project Name: Smart City Application (Angular JS, JAVA, Remote Connect Platform (Aggregate)) 
+
+ 
+
+Project Description: 
+
+    Smart City Application (Admin Dashboard for Managing and Monitoring) 
+
+   Smart City Application is a web application developed through Angular JS. This dashboard consists 
+
+of Smart Parking, City Surveillance, Waste Management, Streetlight Management on Google Map and 
+
+Weather Forecast. 
+
+The application is also integrated with social networking API and environmental, google traffic and 
+
+weather API to show live data around a particular place. 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Responsibilities:    
+
+ UI Development. 
+
+ Worked with Google map API for google map functionality in application. 
+
+ Binding and displaying data from Spring Rest Service. 
+
+ Payment Gateway integration with UI.  
+
+ Creating REST projects build using Maven to connect and retrieve device data from Aggregate tool.  
+
+ Implemented Spring AOP Feature in the application (before and after advice).  
+
+ Spring and Hibernate integration to store data in database. 
+
+ 
+
+Technology and Others: Angular JS, JSON, Web Services, API, Spring, Hibernate, Bootstrap, Google Maps 
+
+API, Highcharts, Zaakpay payment gateway and Aggregate (for device integration and data retrieving). 
+
+ 
+
+4. Project Name: WCL (Ext JS, Openlayers, JAVA, PostgreSQL, JQuery) 
+
+  
+
+ Project Description: 
+      This website consists of security and admin pages, gives provision for vehicle entry and exit contains 
+
+vehicle metadata, load details developed using Bootstrap technology. It shows the WCL area map to plot 
+
+and track the vehicles. 
+
+ 
+
+Responsibilities:    
+
+ Worked on map using Ext JS and Open Layers. 
+
+ Integrated keyboard shortcut with the application. 
+
+ Integrated some modules of UI with backend using JQuery. 
+
+   
+
+Technology and Others:   Ext JS, Openlayers, AJAX, JSON, JAVA, PostgreSQL, JSP, JQuery 
+
+ 
+
+  ACHIEVEMENTS & CO-CURRICULAR ACTIVITIES 
+
+ 
+
+1. Received CBSE scholarship for securing above 85% marks in AISSCE. 
+
+2. Secured 2
+nd
+
+ position in CODING event during branch fest SRUJAN 2013. 
+
+3. Secured 1
+st
+ position in PICTURE NATURE event in VSSUTECLITS 2014.  
+
+4. Co-ordinated event during cultural fest VASSAUNT 2014.   
+
+5. Co-ordinated CODING event during technical fest SAMAVESH 2014. 
+
+6. Co-ordinated National Level Environmental Quiz by VSSUTECLITS 2013. 
+
+7. Received certificate of appreciation for contribution in the area of Smart City Development. 
+
+ 
+
+  HOBBIES & INTERESTS 
+
+ 
+
+ Social service  
+
+ Listening music 
+
+ Playing computer games  
+
+ Photography 
+
+ 
+
+  PERSONAL DETAILS 
+
+ 
+Date of Birth : 11-Dec-1993 
+
+Nationality : Indian 
+
+Languages Known : English, Hindi, Oriya and Bengali 
+
+Marital Status                              : Single 
+
+Contact Details : nabanita.sen123@gmail.com, 7406686120 
+
+Location Preference : Not a constraint for right opportunity 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+  DECLARATION 
+
+ 
+
+   I hereby declare that the above written particulars are true to the best of my knowledge. 
+
+ 
+
+            Nabanita Sen. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

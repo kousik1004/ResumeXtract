@@ -1,0 +1,383 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Siddeshwar
+
+
+ 
+ 
+MAHESH P. BHARAMBE                                        Email: mpbharambe@yahoo.com 
+                      Mobile: +91: 9975008775 & 9619488684 
+EXECUTIVE SUMMARY: 
+
+  
+
+ 10 years of hands on experience in IT industry as database administrator (Oracle and MS SQL 
+Server database) 
+
+ Have twelve months of onsite project experience (United Kingdom) on short term work 
+assignment. 
+
+ Proficient in database administration, production support, installation, configuration, 
+upgrades, patches, performance tuning, backup and recovery, cloning, capacity planning, 
+
+troubleshooting, physical and logical standby database build and documentation. 
+ Strong exposure on High Availability Concepts (RAC) that includes installation, configuration and 
+
+support of Oracle RAC 11g & 12c ASM databases. 
+
+ Excellent experience in performance tuning using Explain plan, Sql trace, AWR, ASH and 
+ADDM reports. Implementation of sql profiles for optimizing query results. Worked on level 12 
+tracing to trace wait events. 
+
+ Performed backups and tested crash recoveries using conventional export data pump 
+backup, cloning databases for testing and development environment using RMAN backup. 
+
+ Administration of over 1224 databases on 65 SQL Server Instances covering versions from MSSQL 
+2005–2016.   
+
+ Technical expertise in database administration and maintenance of MS SQL server which includes 
+Installation, configuring high availability, Performance Tuning, trouble shooting, problem 
+identification and elimination and Backup & recovery. 
+
+ Worked on SQL Server 2014 upgrade from SQL Server 2008 / 2005. Having hands on experience 
+in disaster recovery processes includes Log shipping, Mirroring and Always On. 
+ 
+
+CERTIFICATIONS: 
+ 
+
+ Microsoft Certification: 
+  •       Microsoft Certified Solutions Expert for MS SQL Server 2012 
+
+ Microsoft Certified Solutions Associate for MS SQL Server 2012 
+
+ Microsoft Certified Solutions Associate for MS SQL Server 2008 
+ Microsoft Certified Solutions Associate for MS SQL Server 2005 
+
+ Oracle Certification: 
+
+ 1Z0-497: Oracle Database 12c Certified Implementation Specialist 
+ ITIL v3 Foundation Certification. 
+
+ 
+ 
+
+       
+ DATABASES: MS SQL Server (2005 to 2016), Oracle (10g, 11g &12c)  
+ OPERATING SYSTEMS:  AIX 7.1 and Windows Server 2008/2012. 
+
+ 
+
+ M.M.S (Master of Mngt Studies –June 2007): MIMR Institute of Mngt & Research.  
+Mumbai University - (Systems- 69.91%) 
+
+ B.E. (June 2004) Bharati Vidyapeeth’s CoE. Mumbai University 
+(Mechanical Engineering - 62.82%) 
+ 
+ 
+ 
+
+EXPERT I.T. SKILLS: 
+
+EDUCATIONAL DETAILS: 
+
+mailto:mpbharambe@yahoo.com
+
+
+ 
+The work experience summary is as below, 
+
+ 
+ 
+     
+  
+   
+
+      
+         
+ 
+ 
+ 
+                             
+Key Responsibilities: 
+ 
+ My work experience includes but is not limited to the following roles & responsibilities. 
+ 
+  ORACLE: 
+
+ Strong Exposure on build and maintenance of High Availability Concepts (RAC and Standby 
+server) on 11g and 12c ASM database. 
+
+ Upgraded the oracle database from 10.2.0.4 to 12.1.0.2 and applied PSU patch to keep database 
+updated with respect to recent updates from Oracle support.  
+
+ Generate and analyze Explain plan, AWR, AHS and ADDM Reports for debugging issues related to 
+SQL queries and server performance. Analyze and set sql profiles to queries, Enable level 12 
+tracing for wait events and root cause of long running queries.  
+
+ Maintenance of databases indexes, updates statistics and Table shrink activity to gain space and 
+improve performance. 
+
+ Implemented backup and recovery of the Oracle database. 
+
+ Implements and enforces security for all of the Oracle Databases.  (create and maintain users and 
+roles, assign privileges) 
+
+ Creates and maintains all databases required for development, testing and production usage.  
+
+ Setup and maintain documentation and standards. 
+ 
+
+  MS SQL Server: 
+
+ Installation and configuration of SQL server 2008, 2012 and 2014. Applied service packs to keep 
+the database at current patch level. 
+
+ Installed and administered two-node Sql 2012 cluster Active/Passive on Microsoft Windows 
+Server 2012 Enterprise Edition 
+
+ Expert in data transformation services and Bulk Loads with SSIS and BULK INSERT ETL operations.  
+
+ Created Linked Servers between SQL Server 2008 R2 & Oracle 10g and 12c. Also created DTS 
+package for data transfer between the two environments.  Extensively worked on SQL Server 
+Integration Services (SSIS), Created complex DTS Packages for data migration from Oracle/Excel 
+to SQL Server 2005/2008 
+
+ Experience in supporting Very Large databases (VLDB) and troubleshooting the problems.  
+Database with size of 2 TB in size. 
+
+ Carried out a comprehensive analysis for capacity planning. 
+ Worked on MS SQL Server migration and upgrades to MS SQL server 2012 and 2014 
+
+ Responsible for monitoring and making recommendations for performance improvement in 
+hosted databases. This involved index creation, index modification, creation of agent scheduled 
+jobs to re-index and update statistics in databases. Sound knowledge of SQL Profiler and Perfmon 
+to debug the slow running queries. 
+
+ Competent knowledge of SQL Server Log Shipping, Mirroring and Always On. 
+
+PROFESSIONAL EXPERIENCE: 
+
+PRESENT ORGANIZATION: INFOSYS LIMITED, PUNE, INDIA 
+
+Job Duration: 23-Dec-2013 to Till Date 
+
+Employer:  Infosys Ltd.      
+
+Location: Pune 
+
+Designation: Senior Infrastructure Management Consultant 
+
+Job Role: Team Lead  
+
+Technical Skills: Oracle 10g/11g&12c, MS SQL Server 2005 to 2016 
+
+Team Size: 10 
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Key Responsibilities:  
+
+ Installation of oracle client and installation Oracle gateway to access the other relational 
+database data. 
+
+ Cloning the production databases using RMAN as per request from Development team. 
+ Monitoring the RMAN backup of Dev. and Production databases.  
+
+ Upgraded the Oracle database from 10g to 11g  
+ Creation of physical standby database for newly built instances.  
+
+ Developing high-availability strategies for all relevant production SQL Server database such as log 
+shipping and mirroring.    
+
+ Installation, Administration and Maintenance of SQL Server SQL 2005 and SQL 2008. 
+
+ Installation & configuration of Testing, Development, Staging and Production Environments. 
+ Monitoring all production and Development databases to ensure availability for oracle and SQL 
+
+server instances.  
+
+ Proactively manage database growth requirements. 
+ 
+
+ 
+ 
+
+Job Duration: 12-June-2010 to 02-March-2012 
+
+Employer:  Colibri Info Tech Pvt. Ltd. 
+
+Location: Goregaon (E), Mumbai 
+
+Designation: Junior DBA 
+
+Job Role: Junior DBA 
+
+Technical Skills: Oracle 10g/11g and SQL Server 2005/2008   
+
+Team Size: 6 
+
+ 
+ 
+
+Key Responsibilities:  
+ Supports Oracle 10g, 11gR2 on a mixed operating system environment, platforms included: Linux 
+
+and Windows. 
+
+ Creation of new table space, data files and taking care of table space related issues. Managing 
+Table spaces for different user by granting Quota on different table spaces 
+
+ Creation of User Accounts, roles, profiles and grants access to Database.  
+
+ Monitoring backups for oracle and MS SQL production databases. 
+ Installation, Administration and Maintenance of SQL Server Instances.  
+
+ Trouble-shooting MSSQL & Oracle database related issues 
+ Provide on-call support in adherence to specific business and customer service level agreements 
+
+ 
+
+PREVIOUS ORGANIZATION:  IBM NETWORK SOLUTIONS PVT.LTD, MUMBAI, INDIA 
+
+Job Duration: 12-March-2012 to 16-Dec-2013 
+
+Employer:  IBM Network Solutions Pvt. Ltd.      
+
+Location: Goregaon (E), Mumbai           
+
+Designation: Specialist Systems 
+
+Job Role: Team Lead 
+
+Technical Skills: Oracle 10g/11g and SQL Server 2005/2008    
+
+Team Size: 6 
+
+ORGANIZATION: COLIBRI INFORMATION TECHNOLOGY PVT. LTD., MUMBAI 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Key Responsibilities: 
+
+ Set up & Configure database servers and ERP software for multiple environments        
+ Responsible for trouble shooting and debugging application and database related problems. 
+
+ Performance tune Stored Procedures & long running queries by looking at query plans, Statistics 
+& Indexes. 
+
+ Periodically checked databases with DBCC commands for maintaining data consistency and 
+Integrity 
+
+ Monitor database growth & Troubleshoot Transaction Log Space Issues 
+ 
+ 
+
+PERSONAL PROFILE: 
+ 
+
+Present Address: Pardeshi Residency, Flat No: 10, C-Wing, Sai chowk, New Sangavi, Pune, 
+India, post code: 411027. 
+
+Contact No.:   +91-9975008775 & 9619488684 
+Date of birth:      09th Feb 1982 
+Marital Status:   Married 
+Passport:              Available 
+ 
+ 
+
+REFERENCE: 
+ 
+Available upon request. 
+
+ORGANIZATION: OMNITECH INFO SOLUTIONS LTD., MUMBAI 
+
+Job Duration: 12-Nov-2007 to 10-June-2010 
+
+Employer:  Omnitech Info Solutions Ltd.      
+
+Location: Andheri (E), Mumbai      
+
+Designation: Software Engineer 
+
+Job Role: Database Administrator        
+
+Technical 
+Skills: 
+
+SQL Server 2005/2008 
+
+Team Size: 16 
+
+

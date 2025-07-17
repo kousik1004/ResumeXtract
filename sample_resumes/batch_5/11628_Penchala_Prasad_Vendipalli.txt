@@ -1,0 +1,168 @@
+
+
+
+
+
+
+
+
+Penchala Prasad Vendipalli                               Mobile: +91-8826495577	
+JAVA DEVELOPER                   		  Email: vpenchalaprasad@gmail.com
+
+  
+Professional Summary: 
+
+· 2.6 Years of Experience in Developing JAVA and J2EE applications using Java, Servlets, JSP, Spring MVC, Hibernate, JDBC, XML, HTML.
+· Strong Hands on Experience in developing applications using Spring MVC  Framework.
+· Strong exposure working with J2EE design patterns like MVC, Singleton and Data Access Objects.
+· Proficient in Object Oriented Programming.
+· Highly motivated, willing to work independently and in a team environment.
+· Analytical ability that helps me to grasp and control situations.
+· Having good interpersonal skills and strong desire for working and learning technologies.
+
+ Work Experience:
+
+· Working as a Software Developer at ILand Technologies, Bangalore from Sep 2014 to till date.
+
+Education:
+
+	Academia:
+	
+
+	S.No
+	Discipline
+	
+
+Board/University
+
+
+	Years
+	Specialization
+	Aggregate %
+
+	1
+	B.E(Civil)
+	University College of Engineering
+OU,Hyderabad
+	2009-2013
+	
+Civil Engineering
+	73.4
+
+	2
+	Intermediate
+	Sri Chaitanya Jr College,
+Nellore
+	2007-2009
+	M.P.C
+	95.2
+
+	3
+	S.S.C
+	Govt High School, Atmakur
+	2006-2007
+	-
+
+	
+88.8
+
+
+
+
+Skill Set:
+Technologies		                : Java & J2EE, SQL.
+Application/Web Servers            : Apache Tomcat, JBOSS.
+Frameworks			 : Hibernate, SpringMVC.
+IDE’S				 : Eclipse , NetBeans.
+Data Base                                 	 : Oracle, MySQL.
+
+
+Project Profile:
+Project#3
+Project Title		: CDS.
+Environment	: SpringMVC, JSP, Eclipse, MySQL, Hibernate.
+Duration	: June‘16 to till Date.                             
+Team Size		: 8.
+Role			: Developer. 
+
+Description:
+
+It provides access to dealership and dealership employees. It provides authentication and authorization of dealership data. In this application there are two types of users
+1) SID -dealership employees
+2) TID -Terminal ID’s (field officers, IT people employees of CDS)
+By using this application we create roles (like manager etc.), we can define subordinate hierarchy. And also we can create functions and assign to the roles ex-(create SID user is a function i.e. it's accessible to managers only). It has following tabs (functionalities).
+Authorization, Dealership, TID User, Sid User management, Reports, Supports, Administration
+
+Responsibilities:   
+
+· Designed JSP’s as per the Requirement.
+· Designing the view based on the user requirement.
+· Involved in developing Spring Jdbc coding and maintaining Database Connectivity through SpringJdbc.
+· Responsible for implementing DAO Design patterns
+· Involved in Code Development.
+· Preparing Low Level Design Documents for application.
+· Writing Testcases as for the requirement.
+
+Project#2
+Project Title		: TWMS.
+Environment		: Java, SpringMVC, Hibernate, JSP, Oracle.
+Duration		: May‘15 to June`16.
+Team Size		: 6.
+Role			: Developer. 
+
+Description:
+
+The business unit of Ingersoll-Rand, Hussmann is a leader in providing display cases, refrigeration systems, installation and service to food retailers around the world. Tavant Warranty Management System (TWMS) automated the claims processing cycle. It provided early detection and resolution of flaws and reduced warranty costs.
+
+Responsibilities: 
+
+· Involved in development of JSP, SpringMVC, Coding and maintaining Database Connectivity.
+· Involved in the development of code for connecting to database using Hibernate.
+· Developed code for Business logic using Java.
+· Involved in defect fixing related to code review and unit testing.
+· Coding using HTML pages, JSP.
+
+
+Project#1
+Project Title      :  SRC Landsite.
+Environment     :  Java, SpringMVC, Hibernate, JSP, Eclipse, MySQL.
+Duration            :  Sep`14 to April`15.
+Team Size          :  6.
+Role                   : Developer.
+
+Description:
+Prospect is looking to create Real Estate website where prospective buyers can search and review properties of their interests especially by location, size and price. Here property refers to land. Proposed website will provide platform for:
+The major modules of the proposed website will be:
+1. User Section
+2. Registration and Login Section
+3. Agent Section
+4. Admin Section
+Website is mainly used by Administrator, agent and end user. Various users can access only functionalities allowed for his/her roles and responsibilities. Administrator can add/delete/modify agents details, site content 
+and banner etc. Agents can add new site details and update photos and other details of the sites. End users can query, search different site details updated by the agents.
+
+Responsibilities:
+
+· Analysis of the specifications provided by the client.
+· Written DAO classes.
+· Interconnectivity of database through Hibernate.
+· Debug the code and testing.
+· Analyzing the code and bug fixing.
+
+
+Accomplishments:
+
+· Stood school second in SSC from GOVT High School, Atmakur.
+· Received Cash Prize from District Collector.
+· Received Best Employee award for Developing Key modules of the project.
+
+Personal Details:
+
+Father’s Name  : Penchalaiah Vendipalli
+Date of Birth   :  May 19,1992
+Languages       :  Telugu, English, Hindi
+
+I hereby declare that the details furnished above are true to the best of my knowledge.
+
+__/__/___
+Hyderabad								(Penchala Prasad V)
+

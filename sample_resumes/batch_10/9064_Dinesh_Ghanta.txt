@@ -1,0 +1,154 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Dinesh Ghanta
+Specialist
+Ericsson India Global Services Pvt Ltd
+		                               Bangalore
+	
+
+	+91 7259036361	
+
+	ghanta.dinesh@gmail.com	
+
+	https://github.com/edingha	
+
+	
+	
+
+
+
+
+
+	
+	Snap Shot
+
+
+· Having 10 years of Experience in the Telecom Domain and 4 Years of Experience on Data Science
+· Hands-on experience in solving business problems using Machine learning, Deep learning, advanced analytical/statistical concepts, data science tools.
+· Ability to take up challenges and perform in challenging work environments with focus on meeting project time lines.
+· Customer facing Experience with various customers across the Globe. 
+
+	
+	Experience
+
+
+Specialist | Ericsson India Global Services Pvt Ltd
+24-06-2010 – Till date
+· Providing Analytical services to various customers 
+· Performing POC and providing solutions 
+· Enabling Mobile services like 3G, 4G, IOT, VOLTE to Operators across the globe.
+· Providing technical support to Network problems. 
+· Providing optimized solutions for operator needs. 
+· Providing automation support to bring efficiency in the project. 
+· Providing Analytical product support. 
+Engineer | Sasken Network Engineering Ltd
+11-06-2008 – 18-06-2010
+· Configuration of network elements and enabling 2G network services for Vodafone India. 
+	
+	Skills
+
+
+	Programming Languages: Python, R, SQL
+Analytics: Predictive Analytics, Prescriptive analytics, Descriptive Analytics
+Visualization: Tableau and IBM Cognos
+Data Mining
+	Machine Learning algorithms
+Deep Learning
+Text Mining and NLP
+Statistical Analysis
+Telecom: LTE, WCDMA, IOT
+
+
+	
+	Projects
+
+
+1. Customer Segmentation 
+Developed a model to identify high value customer segments using RFMPT variables.  Used transactional data and demographic data to identify segments. Used K-means Clustering and SOM(Self Organized Maps) to identify potential customer segments.
+
+
+
+2. Predictive modeling and Cross Sell and Upsell
+Developed a predictive models to identify customer product purchasing pattern  and identify cross sell and upsell opportunities.  Used logistic regression, decision tree, KNN models to build predictive models.  
+3. Call/Session Drop predictive model (Classification Problem) 
+Developed model on call/session drop prediction based on live field measurements. Predicted call drop within 15 Sec of time after call was initiated. And intimated to SON about the call drop probability. SON will take care of call and it will take preventive methods for not to drop a call.  
+4. Sales analytics (Data Driven approach) 
+As part of BLG program, Every Employee in the organization must bring the business to company. We build a model to Identify potential opportunity for sales. Identified 1M SEK Sales leads which enhanced the business for company.  
+5. Text Mining and NLP
+By using text mining techniques, rule based(lexicon model),machine learning models(BOW, TF-IDF,W2V)  to identify to validate product reviews and classify them as positive or negative. 
+6. Churn Prediction
+Develop model to predict churn based on the CDR, behavioral and demographic data. And reducing the churn rate and preventing churn. 
+7. Fraud Risk Management for banking sector 
+Developed AI solution using deep learning techniques to detect fraudulent transactions for credit card transactions. Used Autoencoder for variable reduction and MLP model to predict frauds. We achieved 3.75% lift when we compare with other ML techniques. 
+
+
+
+	
+	Education
+
+
+PGDM Business Analytics | RACE, REVA University
+Nov-2016 –  Dec-2017
+B-TECH | Lenora College of Engineering, JNTU University
+Sep-2003 –  May -2007
+	
+	Achievements
+
+
+· Paper Presentation on Deep learning for Credit card fraud detection at IIMB on December 2017
+· President Award from Ericsson for the year 2016.
+2

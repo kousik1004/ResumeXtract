@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aarthi GK Nandhini
+C-1107,KG Signature City,
+Maduravoyal,Chennai.
+Ph: 7406000084
+       
+Career Objective
+
+To associate myself with an esteemed organization and to accept the challenges in the job by utilizing my technical and interpersonal skills and work smart towards achieving the goals of the organization I serve, along with growing myself professionally.
+Profile Summary                            
+More than 2 year of experience as Oracle Database Administrator in LINUX and AIX environments. Overall 3.5 years of IT experience with a proven background of technical problem solving. A self-motivated, responsible, and reliable team player with a set of very strong technical skills.
+Professional Experience                              
+· Cognizant technology solutions	- January 2014 – December 2015
+·  Cerner HealthCare Solutions – January 2016 – July 2017
+
+Professional and Technical Skills 
+  Cognizant technology solutions (CTS)
+Project Name: MSU – Monte Clair State University
+July 2014 – Dec 2015
+Oracle DBA:
+· Maintenance of production database and development database which includes tablespace space management, user creation, privileges, roles etc.
+· Created and maintained Oracle 12c Databases on Linux to store the structural analysis of data.
+· Generated AWR/ASH reports from the databases using PL /SQL and SQL.
+· Created UNIX shell scripts to make ease of patching Linux servers.
+· Migrated SQL patches, refreshed development and test databases.
+· Installed, upgraded and patched Oracle DB from 12.1.0.1 to 12.1.0.2
+· Developed Oracle backup and recovery Strategy and scripts. Used Oracle backup utility RMAN to implement Oracle backup.
+· Implemented database refresh for duplicating databases.
+· Installation of Oracle Client, troubleshoot and establish connection to Oracle database from Oracle client software.
+· Created new databases and users, setup RMAN backups, Export.
+· Raising SR and coordinating with Oracle support Team.
+· Implemented database refresh using full export/import and using Data pump utility (expdp/impdp) as well.
+· Performed database tuning using Oracle Enterprise Manager, Explain plan and Tkprof.
+· Created UNIX shell scripts to automate database operations.
+· Automated patching of Linux servers using shell scripts.
+· Patched Windows 2008 R2/2012 servers.
+
+Environment : Oracle 12c ,RHEL 6, Windows Server 2007,Windows Server 2008 R2,Windows 2012,MobaXTerm,OEM,RMAN,Unix Shell, SQL, PL/SQL, Putty.
+
+Project Name: Rodale Inc.
+February 2014 – June 2014
+
+Desktop Engineer:
+· Monitored more than 100 servers through Service Now tool.
+· Handled L1 tickets and tracking tickets through Service Now tool.
+· Generating Ticket Dumps periodically according to each tower.
+· Monitored Solar Winds tool for any nodes/devices abnormalities.
+· Created Planned Maintenance tickets so as to suppress the tickets being triggered in case of any server maintenance.
+· Documented Runbooks of various activities which were carried out throughout the project.
+· Coordinated and managed a team of 7 people for daily activities.
+Environment: Service-Now ticketing tool, Solar Winds.
+
+Cerner Healthcare Solutions:
+January 2016 – July 2017
+
+Oracle DBA:
+· Managing and supporting 20+ Oracle clients production and non production databases which are of TB size.
+· Experience in handling 2 to 4-nodes of cluster in Linux.
+· Create, installation and management of Oracle RAC & ASM administration.
+· Knowledge on User management along with privileges and its roles.
+· Worked on Installation of Oracle software and its patches.
+· Worked on Database and ASM upgrades from 11.1.0.7 to 11.2.0.4 versions.
+· Database refreshes using RMAN duplicate and datapump.
+· Have knowledge on performance tuning as well by checking the AWR and ASH reports.
+· Knowledge of configuring and /monitoring targets in OEM 12c/13 and managing incidents. 
+· Knowledge and work experience on storage capacity management in both Linux and AIX boxes to help database function without storage issues.
+· Monitoring of OEM tool to have check on health of databases.
+· Maximized performance by setting database parameters and allocating system resources to help database work efficiently.
+· Handled issues on blocking sessions, CPU utilization etc.
+· Creation and managing of VGs and LVs on LINUX boxes.
+· Adding,deleting and configuring filesystem on database nodes.
+· Have performed RHEL upgrades for databases in production and no production nodes.
+· Performed Database rolling downtime events for Oracle patching, RHEL upgrade etc.
+
+Environment: Oracle DB 11g, RAC, ASM, Tableau ,AIX , RHEL
+Certifications and Trainings
+
+· ITIL v3 Foundation Certification  : Certified
+· Oracle Training – Oracle 11g training courses – 2015
+· Linux Admin Training – RHEL 5 – 2014
+Competencies
+
+· Excellent in Customer Interaction skills and enthusiastic to provide solutions.
+· Quick learner of new technologies and processes.
+· Good team player, eager to help the team whenever required.
+· Awarded the “Knowledge Capital” award for finding/resolving few of the repeated issues occurring.
+· Worked and implemented on TFA(Trace File Analyzer) project.
+
+Academic Credentials
+
+Completed B.E Computer Science & Engineering with 70%
+Personal Profile
+
+          	Date of Birth             	: November 14, 1991
+              	Languages known    	: English, Tamil
+              	Marital Status		: Single
+	Permanent Address	: C1107, KG Signature Apartments, Maduravoyal, Chennai – 95.
+
+DECLARATION:		
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
+
+Date:									
+Place:								(Aarthi GK Nandhini)

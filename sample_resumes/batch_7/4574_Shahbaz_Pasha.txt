@@ -1,0 +1,267 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kumar R
+
+
+Shahbaz Pasha                               
+Phone: 91-9986712367  
+Email ids: Shahu4246@gmail.com 
+                 
+             
+Objective 
+
+  I am a result-driven professional with extensive experience in the LAN, WAN Engineering. I have 
+competitive expertise in the Implementation and Troubleshooting of LAN/WAN Network Systems 
+and I would like to align with an organization which would enable and harness my existing skill sets 
+towards its goals. Seeking a challenging environment that encourages continuous learning and 
+creativity that provides exposure to new ideas and stimulates personal and professional growth. 
+
+ 
+
+Profile 
+
+A results oriented individual Expertise is broad in scope. I understand and believe in the 
+integration of techniques, I learn more and do more of the work, add more value to the team. Be 
+able to handle complex situations and time crunch schedules, would create more value for the 
+company and for the customer. 
+
+ 
+Summary 
+
+3 Years of experience in Network Operations, involved in ISP and network. Has knowledge and 
+experience in the area of networking concepts like Internetworking, Internet protocols, OSI 
+Reference Model,IP Routing,L2 Switching,VLan,Managing traffic with Access list, Network 
+design, Network Planning. 
+
+ Strongly self-motivated, willing to assume responsibilities. 
+
+ Can work independently, lead or work within a team environment. 
+
+ Good organizational and communication skills, both oral and written. 
+ 
+
+Skill set 
+
+Utilities Ping, Trace route, Telnet, Nslookup, Wireshark, SolarWinds,  etc. 
+
+Network Hardware 
+ 
+Cisco switches (2950, 3550, 3750, 4500,3850 6880 ), Cisco-
+Routers ( ASR ), Edge-core 
+
+Technologies 
+Frame relay, Routing, Switching, OSI model, IP addressing. Basic 
+level of Wireless troubleshooting Radwin 
+
+Internet Protocols 
+TCP/IP, IP, ARP, ICMP, TCP, UDP, FTP, TFTP, SNMP and 
+SMTP.  
+
+Routing Protocols Static and Dynamic (Routing and Routed -- RIP, OSPF, BGP). 
+
+Switching concepts 
+LAN technologies (Ethernet-CSMA/CD), STP (IEEE 802.1d/ IEEE 
+802.1w, IEEE 802.1s) VLANS, Tagging (IEEE 802.1q) Ether 
+channel, Redundancy concepts (HSRP). 
+
+Wan Technology ISDN, Frame Relay, HDLC, PPP. 
+
+Monitoring tools MikroTik Dude, Bit familiar with Whats up Gold. 
+
+Devices  Hub, Switches, Routers, LAN Testing, Optical testing. 
+
+Security 
+implementations 
+
+Access-List, NAT,Sophos 
+
+Operating systems Windows (Xp, 7, 8, 10) Linux 
+
+ 
+
+
+
+Work Profile 
+
+SL No Name of the Organization Designation Duration 
+
+ 
+1. Bell Teleservices India Pvt Ltd Senior Network Engineer 
+
+ 
+April 2015 – Till Date 
+
+ 
+ 
+Senior Network Engineer 
+
+April 2015 – Till Date   Bell Teleservices India Pvt Limited, Bangalore, Karnataka. 
+ 
+
+Company profile : 
+ 
+
+BELL Teleservices commenced its operations in 2003 by providing Optic Fibre Project 
+management and consultancy services to major Telco’s in Bangalore. 
+Based on significant expertise in OFC project management, BELL started deploying its own 
+Fibre infrastructure in and around Bangalore. 
+By the way of acquisition and self-deployment, BELL has the 4th largest underground Optic 
+Fibre networks measuring 900 Kms in Bangalore. BELL’s network infrastructure is appropriate 
+for catalyzing the growth of the Internet and networking in an infrastructure starved market. 
+
+ 
+Summary of duties: 
+ 
+
+o Responsible for entire Karnataka network operations  
+o NMS handling and fine tuning of NMS – Dude,  Whatsup Gold, SolarWinds 
+o Responsible for the Enterprise customers Implementation and support 
+o Handling daily Field operations 
+o coordinating with Vendor and internal teams for service breakdown 
+o Designing the Network and up gradation of Network 
+o Change management, Capacity Planning and Network Planning  
+o Periodic Meeting with enterprise customers  
+o Analyze business requirements to develop technical network solutions 
+o Involving in the solution design for Enterprise customers 
+o Ensuring the uptime of POP’s and meeting the promised SLA for customers 
+o Troubleshooting the Network and customer issue to meet SLA and MTTR 
+o Team review and implementing the necessary automation tools. 
+o Analyzing the problems and implementing the required corrective actions. 
+
+o Supporting the business units by providing solutions and visiting the enterprise 
+customers along with service assurance team. 
+
+ 
+Few Major Projects handled independently at Bell Teleservices India Pvt Limited 
+ 
+ 
+
+ 
+1.Title   : Implementation of 10 Gig core network ring 
+BSO   : Belltele 
+Description  : Implementation of 10 Gig core network ring 
+Responsibility  : Designing of the topology and simulation of the topology on test 
+bed. Installation and configuration of network devices in entire Bangalore Region. Optical fiber 
+performance check and the stability test. Installed and configured the Cisco 38xx and 45XX 
+switches.  
+ 
+ 
+
+ 
+
+
+
+2.Title   : Bangalore – City Police : Surveillance system  
+BSO   : Belltele 
+Client   : Bangalore City police 
+Description  : surveillance project for BCP in 160 Locations  
+Responsibility  : Was involved in network designing and planning. Executed the 
+plan and deployed the Switches and switched network was designed on 1+1 redundant ring 
+topology and 160 Surveillance units were being used by BCP to track city crimes. All devices 
+were reachable from Commissioner of Police office and COP network was built on Ring 
+topology to provide high uptime. 
+ 
+
+ 
+ 
+ 
+ 
+3.Title   : Mysore Traffic Police – Violation / Surveillance system 
+BSO   : Belltele 
+Client   : Mysore Traffic Department 
+Description  : surveillance project for MTRAC in 40 Locations   
+Responsibility  : Was involved in network designing and planning. Executed the 
+plan and deployed the Switches and switched network was designed on 1+1 redundant ring 
+topology and 40 surveillance units in and around of Mysore City were being used by MTRAC 
+to track Traffic violations. All devices were reachable from TMC Mysore (Traffic Monitoring 
+Center) and TMC network was built on Ring topology to provide high uptime. 
+ 
+ 
+
+4.Title   : Bangalore Traffic Police – Violation / Surveillance system 
+BSO   : Belltele 
+Client   : Bangalore Traffic Department 
+Description  : Surveillance project for BTRAC in 180 Locations  
+Responsibility  : Was involved in network designing and planning. Executed the 
+plan and deployed the Switches and switched network was designed on 1+1 redundant ring 
+topology and surveillance units in and around of Bangalore City were being used by BTRAC to 
+track Traffic violations. All cameras were reachable from TMC Bangalore (Traffic Monitoring 
+Center) and TMC network was built on Ring topology to provide high uptime. 
+ 
+
+ 
+Education: 
+
+       
+
+B.E (ISE) with an aggregate of 67% from KNS Institute of Technology affiliated to V.T.U (2010 -
+
+2014). 
+
+Personal Data 
+
+Father’s Name :      Ansar Pasha 
+Date of Birth                            :       02.10.1992 
+Nationality  :          Indian 
+Religion :     Muslim 
+Marital Status                          :     Single 
+Linguistique fluency               :       English, Hindi, Kannada,Tamil & Urdu 
+Address for communication                      #9 3
+
+rd
+ Cross 4
+
+th
+ Main V R Puram  
+
+                    Palace Guttahalli Bangalore 560 003. 
+ 
+ 
+Place: Bangalore      
+Date:                   [Shahbaz Pasha} 
+
+

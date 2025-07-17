@@ -1,0 +1,178 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meena M V
++91-9791800639
+meenamv28@gmail.com
+
+Oracle Apps DBA
+
+Experience an assiduous on Oracle Apps Database Administrator of 6 + years responsible position in production, UAT, QA and dev environments. 
+
+Career Summary:
+
+ Over 6 + years experience on Oracle Apps DBA with Oracle DBA specifically supporting Apps environment including administration, maintenance, upgrades and remote support
+ Interacting with functional Implementation teams and guiding/suggesting Instance requirements, patch management methodologies
+ Oracle Apps DBA R12/11i (11.5.10.2, 12.1.3, 12.2.4) administration, Upgrades, migration, regular maintained activities
+ Worked on Oracle Applications Database upgrade from 11.5.10.2 to R12.2.4
+ Migrated the OATM tablespace model. 
+ Worked on database upgradation manually from 9i to 11g (11.2.0.4)
+ Cloned on Oracle RAC Applications R12 from production RAC to uat RAC & NON-RAC environment.
+ Expertise ERP Applications cloning 11i & R12 (manual clone and rapid clone) from production database to development database & test databases
+ Worked Oracle Applications 11i/R12 Maintenance of (uploaded customized reports using FNDLOAD, performed password change using FNDCPASS), Patching Apps Development and Database Support & Maintenance
+ Experience on patch analysis of application patches including cpu patch, rollup patch, maintenance patch and one-off patch. 
+ Experience on applying online patching in R12.2.4 
+ Resolve the view log/out files issue of concurrent requests, Apache and Forms issues.
+ Resolving day to day issues of concurrent managers, Printer issues, Reports issues.
+ Monitoring and troubleshooting of Apache, Forms, Concurrent Manager and database related issues. 
+ Experience in taking logical backups, Physical Backup and RMAN
+ Good exposure of using Oracle performance tools like AWR/ADDM, STATSPACK, Explain plan, TKPROF, SQL Trace, opatch, exp/imp, expdp/impdp, analyze tables and Indexes.
+ Efficient standardizing databases with processes of password change, index rebuild and auditing database for security.
+ Monitor growth of Database with scripts and resizing the tables, Responsible for High Availability.
+ Proficient in UNIX platforms (Sun Solaris , Linux)
+ Creation of multiple databases using DBCA as per the requirement by the company/ development team
+ Creating users, allocating tablespaces to users, managing privileges with roles.. 
+ Checking for space availability and adding space whenever required. 
+ Creating and monitoring the different tablespaces like user, Undo, temporary Tablespaces. 
+ Disk and File System Management including permissions and security settings.
+ Data guard & Data guard Broker
+ Data guard - Implementing Physical Standby Database
+ Strong communication, collaboration & team building skills with proficiency at grasping new technical concepts quickly and utilize the same in a productive manner. 
+
+
+
+Technical Skills:
+
+Operating System : Sun Solaris 5.10, RHEL 
+RDBMS : Oracle 11g, Oracle 9i 
+ERP (E-business Suite) : Oracle Applications 11i and R12
+Tools : Toad, Remedy, Putty, SSH, SFTP 
+Replication : Data guard
+
+Academic Qualification:
+
+ Bachelor of Engineering (ECE) from Noorul Islam College of Engineering, Nagercoil, TN.
+
+Achievements:
+
+ Received the prestigious Certificate of appreciation for outstanding performance and lasting contributions.
+ Oracle Database 11g Administrator Certified Associate
+
+Professional Experience:
+
+ Working with Wipro Technologies as Senior Software Engineer on Oracle Apps DBA from Jan 2011 to till date. 
+
+Project #1
+
+Project Name : Origin
+Client : Origin Energy
+Duration : Aug 2011 to Aug 2012
+Environment : ORACLE database
+Role : Oracle Database Administrator
+Responsibilities:
+• Oracle DB creation according to the customer requirements. 
+• Installing Database according to specifications and creating the necessary table spaces, data files, rollback segments, redo log maintenance.
+• Managing the physical structure of the Oracle Database link data files, redo log files and control files.
+• Creation of users, roles, managing user privileges.
+o Applying oracle database patches
+o Monitored and diagnosed database performance through monitoring of Alert files, Trace files.
+o Monitoring table space size, re-sizing space, Alert log trace files.
+o Responsible for cold/hot backups.
+
+Project #2
+
+Project Name : Statestreet 
+Duration : Aug 2012 to Present
+Environment : ORACLE Database 11g & Applications 11.5.10.2 and R12.
+Role : Oracle Application DBA
+OS plat forms : Linux, Solaris
+Responsibilities:
+ Supported on installing oracle applications on the test servers, upgrading & migrating databases.
+ Oracle Apps DBA R12/11i administration, Upgrades, migration, regular maintained activities.
+ Resolving day to day issues with concurrent managers, Printer issues, Reports issues.
+ Oracle Applications 11i/R12 Maintenance, Patching, Performance tunings Apps Development and Database Support & Maintenance.
+ Oracle Apps on AD utilities.
+ Applied patches (One-off, Mini-patch, Rollup Patch, CPU) and performing AD activities and Trouble shooter several worker issues.
+ Applied online patching in R12.2.4
+ Resolve the view log/out files issue of concurrent requests, database tuning, CM administration
+ Monitoring tablespace free spaces, re-sizing datafiles, Alert log trace files.
+ Responsible for cold/hot and rman backups.
+ Support and monitoring on RAC databases
+ Cloning Oracle RAC Applications R12 from production RAC to uat RAC & NON-RAC environment.
+ Cloning Oracle Applications 11i/R12 from production to uat NON-RAC environment.
+ Good exposure of using Oracle performance tools like AWR/ADDM, STATSPACK, Explain plan, TKPROF, SQL Trace, ANALYZE Indexes & Opatch.
+ Object re-organization and other database maintenance task.
+ Creating/rebuilding indexes, analyzing the schemas.
+ Responsible for backups of the Prod, UAT, QA and Dev Databases for daily backup, weekly on RMAN.
+ Oracle utilities, SQL Loader, Export and Import and OEM monitoring.
+ Support: Provide Technical support, Troubleshoot and resolve issues related to the PROD/DEV environments
+ Efficient in standardizing best database practices, processes and auditing database for security
+ Monitor growth of Database with scripts and resizing the tables, Responsible for High Availability.
+ Generating jar files
+ Making sure that schedules backup jobs of instance is going fine. 
+ Cleaning up of the log file of different processes like Apache, Concurrent Manager. 
+ Planning for backup and recovery of database information & maintaining hot backups, cold backups, logical backups and Rman.
+ Administering and maintaining Oracle Applications with AD utilities, AD patch, AD Admin, AD relink, adctrl, adconfig.
+ Interacting with Oracle support for technical assistance requests. 
+ Interacted with the customer to understand their requirements. 
+
+
+Project #3
+
+Project Name : Statestreet - Onsite
+Client : Statestreet
+Duration : April 2016 to Sep 2016
+Environment : ORACLE Apps Migration
+Role : Oracle Application DBA
+Responsibilities :
+ Interacted with the customers to understand their requirements and their technical queries for planning the migration. 
+ Troubleshoot performance issues that might have come with migration. 
+ Follow up with Oracle Product Support through metal ink for any issue those functional consultants raises, which require files, system log files etc.
+

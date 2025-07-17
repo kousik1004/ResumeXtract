@@ -1,0 +1,506 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+H.No. 36 
+
+ESIC Colony 
+
+Sector 56 
+
+NOIDA 201301 
+11 Oct 1989 
+
+91 9599412400 
+
+k.rashmi.naidu@gmail.com 
+
+RASHMI KONA 
+
+SUMMARY SAP ABAP programmer with 4 years of experience in Application Development and Application 
+
+Maintenance and Support at Accenture Services Pvt. Ltd. And NIIT Technologies Ltd. as a full-
+
+time employee. 
+
+OBJECTIVE Seeking a challenging and rewarding career in ERP as SAP ABAP professional 
+
+where I can contribute my knowledge and skills for growth and development 
+
+of the organization and to be able to implement solutions that meet the 
+
+customer requirements using my variety of software development skills and 
+
+technical expertise. 
+
+SKILLS & ABILITIES • Excellent command on creating efficient reports and in-depth 
+
+knowledge of classical and interactive reports. 
+
+• Proficient in SAP ABAP OOPs concept and worked primarily in OOPs 
+
+with GrandVision and Staples. 
+
+• Worked on Interface issues related to SD, MM modules. Assisted on 
+
+ALE clean-up activity with very critical documentation. 
+
+• Created RFCs and implemented BAPI 
+
+• Developed a dynpro using module pool programming. 
+
+• Applied BDC for recording of the corresponding transaction and flat 
+
+file in which data is stored. 
+
+• Successfully completed several enhancements using BADIs, Customer 
+
+exits, User exits, enhancement frameworks. 
+
+• Developed smartforms from scratch for FICO modules where 
+
+SAPScript is in place. SD, MM, QM related smartforms and SAPScripts 
+
+were developed/enhanced as per requirement. 
+
+ABAP DOMAIN DDIC OBJECTS 
+
+Tables, Data Element, Domain, Views, Structures, Search Helps 
+
+REPORT 
+
+Classical, Interactive 
+
+FORMS 
+
+
+
+ 
+
+Page 2 
+
+SAPScripts, smartforms, adobe forms 
+
+ENHANCEMENTS 
+
+Enhancement framework, BADI, Customer exit, User exit, BTE, Substitutions 
+
+PERFORMANCE TUNING 
+
+EPC, ABAP runtime analysis, SQL trace 
+
+EXPERIENCE ACCENTURE SERVICES PVT. LTD. 
+
+6th Feb 2013 – 18th Nov 2015 
+
+NIIT TECHNOLOGIES 
+
+April 2016 - Present 
+
+PROJECTS WARTSILA 
+
+Wa rtsila  is a Finnish corporation which manufactures and services power 
+
+sources and other equipment in the marine and energy markets. The core 
+
+products of Wa rtsila  include large combustion engines used in cruise ships and 
+
+ferries. As of 2014 the company employed close to 18,000 workers in more 
+
+than 70 countries and it is headquartered in Helsinki. 
+
+ 
+
+Wa rtsila  has three main businesses; Power Plants focusing on the energy 
+
+market, Ship Power focusing on the marine market and Services which is 
+
+supporting both markets. Wa rtsila  operates globally but its Ship Power division 
+
+is heavily focused on Asia. 
+
+Development team 
+
+May 2013- Jan 2015 
+
+• Created ALV report for SD module using various database tables with 
+
+minimum rework using SAP ABAP OOPs. 
+
+• Handled more than 20 enhancements for SD, MM, FICO modules using 
+
+BADIs, Customer exits, User exits, Enhancement framework, BTE, 
+
+substitutions with significant work in SAP ABAP OOPs. 
+
+• Created custom transaction codes for 2 MM T-codes; J1IZ, MRBR 
+
+• Used authorization objects to introduce role level restrictions when 
+
+roles are classified based on role description present. Minimized basis 
+
+level work. Transaction affected were MM01/02/03, VF01/02/03, 
+
+VL01N. 
+
+• Assisted on workflow related complex issues and solved a few 
+
+independently after training within Accenture. 
+
+• Worked in customized smartforms and SAPscripts in MM, SD, CS, QM 
+
+modules and created a fresh smarttform because existing out dated 
+
+nodes 
+
+• ALE clean up activity which was of high complexity was documented 
+
+and understood 
+
+
+
+ 
+
+Page 3 
+
+• Supported cross modular incidents which consisted of debugging 
+
+through 10 years old code in exits for IDocs, transactions etc with 
+
+minimum TAT and rework.  
+
+• Received KT on screen personas as part of enhancing the flavor of SAP 
+
+user screens which led to further work in SAPUI5 
+
+• Trained in SAP BASIS and started handling incidents related to 
+
+authorizations, roles, space management. 
+
+ 
+
+GRANDVISION 
+
+Grand Vision is a global optical chain. Grand Vision is the result of a merger of 
+
+Pearle Europe BV and Grand Vision SA. The company operates 34 retail 
+
+formats of which the most famous are: Pearle, Eye Wish Opticians, Apollo-
+
+Optik, Ge ne rale d'Optique, Grand Optical and Vision Express. Had over 6,000 
+
+stores, including the stores at year-end 2015 franchisees are included. The 
+
+company is active in more than 40 countries in Europe, Latin America , Middle 
+
+East and Asia. Of the workforce is 70% female. 
+
+Development team 
+
+FEB 2015 – JUL 2015 
+
+• Successfully completed 4 ALV reports using SAP ABAP OOPs. 
+
+• Pursued work on enhancements like application log entry maintained 
+
+when an IDoc is processed; similar to SLG0. 
+
+• Created Smartforms for transactions F.27, F.64 and found a way to 
+
+implement then using statements written in enhancement program to 
+
+control the print flow. All calls to the FM in driver program were done 
+
+using SAP ABAP OOPs. 
+
+• Worked with Zebra printer to print barcodes and used smartforms for 
+
+alignment and font issues. The driver program was developed using 
+
+SAP ABAP OOPs custom class created from scratch for EWM module. 
+
+• Created smartforms for custom RRB Invoice 
+
+ 
+
+STAPLES 
+
+Staples, Inc. is a large United States office supply chain store, with over 2,000 
+
+stores worldwide in 26 countries. Headquartered in Framingham, 
+
+Massachusetts, the company has retail stores serving customers under its 
+
+original name in Australia, Austria, Brazil, China, Finland, France, Germany, 
+
+India, Italy, Norway, Portugal, the United Kingdom, and the United States, while 
+
+operating subsidiaries in Argentina as Officenet-Staples, in Netherlands as 
+
+Staples Office Centre, in Canada as Staples Canada (Bureau en Gros in Quebec), 
+
+and in Italy as Mondoffice. Staples also does business exclusively with 
+
+enterprises in the United States, Canada and multiple European countries as 
+
+Staples Advantage. 
+
+Development team 
+
+
+
+ 
+
+Page 4 
+
+Jul 2015 – Nov 2015 
+
+• Created a complex RFC with 90 hours of development work using SAP 
+
+ABAP OOPs with custom global class created from scratch for this 
+
+build. 
+
+• Worked on several incidents related to migration from legacy to SAP 
+
+with close contact with clients as we did not have access to legacy 
+
+systems 
+
+• Worked on multiple pricing procedures related enhancement for SD 
+
+module  
+
+• Worked on Smartforms and related issues  
+
+ OFCOM 
+
+The Office of Communications commonly known as Ofcom, is the government-
+
+approved regulatory and competition authority for the broadcasting, 
+
+telecommunications and postal industries of the United Kingdom. 
+
+ 
+
+Ofcom has wide-ranging powers across the television, radio, telecoms and 
+
+postal sectors. It has a statutory duty to represent the interests of citizens and 
+
+consumers by promoting competition and protecting the public from harmful 
+
+or offensive material. 
+
+SAP ABAP Consultant  (April 2016 – present) 
+
+• Created LSMW for updating material master 
+
+• Created extensive reports in SAP HR ABAP using macros and dynamic 
+
+actions using OO ABAP. 
+
+• Handled standard Web Dynpro application and workflows from SAP 
+
+HR. 
+
+• Started learning SAP BASIS to act as a backup for resource with 
+
+excellent resolution time and insightful analysis. 
+
+• Crucial role in SAP Upgrade project. 
+
+• Performed multiple backup/restores across netweaver landscapes. 
+
+• Proficiency in system copy and installations with SWPM and deep 
+
+understanding of issues related to the tool. 
+
+• Deployed .SCA files and patches using SUM tool. 
+
+• Performed portal configurations in clone for dual maintenance 
+
+systems setup during patching including iview creation and tole 
+
+maintenance.  
+
+• Solman setup and basic configuration post CR and CIM upgrade. 
+
+• Performed crucial analysis of present production servers and the SAP 
+
+instances installed to help virtualization of physical production SAP 
+
+servers. Troubleshooting post-virtualization was done by me as well. 
+
+
+
+ 
+
+Page 5 
+
+• Webservices and IDOCs for SAP XI  
+
+ 
+
+EMPLOYMENT 
+
+RECOGNITION 
+
+STAR OF THE MONTH (WARTSILA) 
+
+3 RECOGNITIONS FROM LEADS FOR PPA ACTIVITIES (WARTSILA) 
+
+PAT ON THE BACK AND BADGE FROM CURRENT EMPLOYER FOR CONTRIBUTIONS 
+
+IN PROJECT WITHIN OFCOM. 
+
+EDUCATION ASSISI CONVENT SCHOOL, NOIDA 
+
+10th CBSE boards 
+
+Graduated with 82% in year 2005 
+
+ASSISI CONVENT SCHOOL, NOIDA 
+
+12th CBSE boards (PCM) 
+
+Graduated with 74% in year 2007 
+
+KNS INSTITUTE OF TECHNOLOGY, BANGALORE 
+
+ECE, VTU 
+
+Graduated with 63.32% in year 
+
+  
+
+SOFTWARE SKILL 
+
+SET 
+
+SAP ECC6.0,  
+
+SAP R/3 Version 4.7,  
+
+SAP Netweaver 7.4 
+
+SAP Netweaver 7.31 
+
+MySQL,  
+
+C++,  
+
+MATLAB,  
+
+SolidWorks,  
+
+VHDL, Verilog,  
+
+Python 
+
+ACHIEVEMENTS Received numerous accolades for painting and sketching including inter school level 
+
+competitions conducted by Chitrakala, Yuva sangh, Durgo pujo samiti sec 55. 
+
+Received second prize in Sack race and First price in Long jump at school level 
+
+sports meet 
+
+Received first prize in poetry recitation at school level. 
+
+Participated in JAM 2006 hosted by Army public school 
+
+Participated in numerous Debates at college level winning first prize during 
+
+cultural fest 
+
+Active IEEE student chapter organizer at college 
+
+Participated in Singing and dance competitions at school level 
+
+
+
+ 
+
+Page 6 
+
+COMMUNICATION • Provided one-on-one coaching to ASEs based on individual needs. 
+
+• Conducted KTs on regular basis on high complexity objects and areas 
+
+of interest. 
+
+• Presentations on varied topics like data archiving, monitoring, ALV 
+
+reports, SAP queries, infosets etc. 
+
+• Regular interaction with cross functional teams for expediting high 
+
+priority tickets over conference calls, face-to-face interactions and 
+
+mails. 
+
+• Feedbacks from stakeholders. 
+
+• Emcee at office parties and being a crucial member of the planning 
+
+committee for GPTW and project specific activities. 
+
+REFERENCES Swati Sinha, Application lead, NIIT technologies Ltd. 
+
+Contact info: On Request 
+
+ 
+
+

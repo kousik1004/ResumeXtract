@@ -1,0 +1,252 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+India Resume Format
+
+	Resume
+	Bhuvaneshwari J
+	
+
+
+
+Bhuvaneshwari J
+Experience Summary
+
+· I have 3.3 years of progressive experience in BFS vertical with end to end experience in development, testing, implementation and support for proposed system. 
+
+· Work experience includes Application development of Java/J2EE based applications with deployment in JBoss server. 
+	Education
+
+
+
+
+	Degree with Branch
+
+
+	College/University
+	Year of Passing
+
+	BSC(Information Technology)
+	Sri Krishna arts and science college. Coimbatore
+
+	2014
+
+	HSC
+	
+	Jaycee higher secondary school,cbe, Tamilnadu
+
+	2011
+
+	SSLC
+	
+	Sindhi vidyalaya matriculation higher secondary school,cbe, Tamilnadu.
+	2009
+
+
+	Technical Skills
+
+
+
+
+	Hardware / Platforms
+	Intel Processor/Windows XP/Vista/7
+
+	Technology
+	Java/J2EE.
+
+	Programming Languages
+	J2EE, Java, Restful WebServices, Java Script, JSP.
+
+	Frameworks
+	Spring MVC.
+
+	Databases
+	MySQL.
+
+	Web/Application Servers
+	JBoss and Apache Tomcat 7.
+
+	Tools
+	JMETER, Eclipse, JENKINS, LARA.
+
+	Version Control Systems
+	SVN.
+
+	Knowledge on
+	XML, jQuery.
+
+
+
+	Relevant Project Experience
+
+
+
+
+Organization – Cognizant Technologies Solutions
+
+Project – Enhanced Authorization
+	Project Title
+
+	EnhancedAuthorization
+
+	Duration
+	Dec 2015 –Feb 2017
+
+	Cl​​​​​​​​ient
+	Not to be mentioned
+
+	Location
+	Chennai, India
+
+	Tools/Technologies/Frameworks
+	Java, Spring MVC, Javascript, Jquery, JMETER, RestFul WebServices.
+
+	Team size
+	2
+
+
+Project Description:
+
+Enhanced Authorization API will transform the input elements from the merchant and submits it to 
+
+Amex Payment system for Enhanced Authorization. It will acknowledge the receipt of data by sending back to a response to the merchant.
+Roles and Responsibilities:
+
+· Involved in development of web application and restful webservices.
+
+· Worked on validation part to analyse the fraud transaction.
+
+· Customized log4j and introduced amex loggers for all the modules.
+
+· Had implemented the JMETER to load test the EAuth API.
+
+· Involved in development and testing the application in dev and Test environments. 
+
+Technologies used in this project and the Experience in using them:
+
+Java 1.7 and Spring MVC was used for developing the business logic. Restful webservices are used for enabling connectivity between web application and JBoss server. JMETER is used for load testing for the application.
+Project – Spamip Intelligence
+	Project Title
+
+	Spamip intelligence
+
+	Duration
+	Mar 2016 – May 2016
+
+	Cl​​​​​​​​ient
+	Not to be mentioned in agreement to Organisation policies
+
+	Location
+	Chennai, India
+
+	Tools/Technologies/Frameworks
+	Java, Javascript, Jquery, SpringBatch
+Restful WebServices. 
+
+	Team size
+	2
+
+
+Project Description:
+SPAM IP Intelligence polls the spam IP addresses from across the word from different external vendors and feed them in to Amex Payment Systems via ENDB so that Fraud transactions from the spam ip addresses can be detected and declined, which essentially results in fraud prevention.
+Roles and Responsibilities:
+
+· Implemented Quartz schedular for file processing.
+
+· Configured Emailing facility to monitor file processing status.
+
+· Used Spring batch to convert files from one format to various other prefered formats and proceed with processing of generated files.
+
+Project – FLoga
+
+	Project Title
+
+	Floga
+
+	Duration
+	 May 2017- Aug 2017
+
+	Cl​​​​​​​​ient
+	Not to be mentioned in agreement to Organisation policies
+
+	Location
+	Chennai, India
+
+	Tools/Technologies/Frameworks
+	Angular js,node js, postgresSQL 
+
+	Team size
+	4
+
+
+Project Description:
+Client which moves the files from Teradata to Cloud Environment. Here we are developing the presentation layer from where we call the Rest Web Services API and get the Json in return which holds the percentage of files moved from one environment to another. That has been segregated and populated in the UI.
+Roles and Responsibilities:
+
+· Screen Development based on the requirement.
+
+· Developing UI components based on the project Style Guide.
+Technologies used in this project and the Experience in using them:
+
+JSP, javascript and css were used for UI. Java 1.7, Spring MVC and quartz scheduler was used for developing the business logic.
+	Contact Details
+
+
+	Mobile No 
+	07358368159
+
+	Email ID   
+	bhuvi_prakash@yahoo.in
+
+
+	
+	Page 1 of 3
+	Dated: 11/13/17
+
+
+

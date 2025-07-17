@@ -1,0 +1,296 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Outlook - Memo Style
+
+
+1
+
+Nanda, Subhashree
+From: Stroupe, Marjorie <Marjorie.Stroupe@tronox.com>
+Sent: 15 June 2017 01:08
+To: Siddiqui, Sameed
+Cc: .AMS - SAP SD Support; Singh, Sarabpreet; Nanda, Subhashree
+Subject: [External] RE: 1701-1239 Dual Control
+
+I have successfully tested the changes in ESA and did a demo with the business and they are happy with the current 
+process. We are missing two fields that need to be done for dual control, Name (ADRC-NAME1) and VAT Registration 
+No. (KNA1-STCEG). Great work on this, hopefully we can move quickly on this effort. 
+ 
+Get me the BRD and FS so we can begin changes in EDA. 
+ 
+Below is the current list of fields in ESA, add the two additional fields for the complete documentation of dual control 
+fields. 
+
+  
+Thanks. 
+ 
+Marjorie 
+ 
+From: Siddiqui, Sameed  
+Sent: Wednesday, June 14, 2017 6:48 AM 
+To: Stroupe, Marjorie 
+
+
+
+2
+
+Cc: .AMS - SAP SD Support; Sarabpreet Singh; Subhashree Nanda 
+Subject: RE: 1701-1239 Dual Control  
+Hi Marjorie, 
+ 
+The complete requirement has been completed in the ESA environment, including the new dual control, addition of the 
+sensitive fields and the greying out of the delivery block. You may test it. 
+ 
+I am in the process of creating the BRD and FS, will share the estimate once it is completed. 
+ 
+Security team will separately share the estimate for assigning the roles. 
+ 
+ 
+Regards, 
+ 
+Sameed Siddiqui 
+SAP SD 
+I.T. Applications 
+Gurugram, India 
+Tronox 
+ 
+Mobile: +91 9873826223 
+email: sameed.siddiqui@tronox.com;  www.tronox.com 
+ 
+From: Stroupe, Marjorie  
+Sent: Tuesday, June 13, 2017 4:09 AM 
+To: Siddiqui, Sameed <Sameed.Siddiqui@tronox.com> 
+Cc: .AMS - SAP SD Support <AMS-SAPSDSupport@tronox.com>; Sarabpreet Singh <sarabpreet.singh@accenture.com>; 
+Subhashree Nanda <subhashree.nanda@accenture.com>; Singh, Ranjeet G. <ranjeet.g.singh@accenture.com> 
+Subject: RE: 1701-1239 Dual Control 
+ 
+This sales order is in ESA300. We are able to change the delivery block from the current value to blank which will allow 
+the delivery to be entered. The new code should not allow the user to change to blank if the customer master dual 
+control has not been approved. 
+
+
+
+3
+
+ 
+From: Siddiqui, Sameed  
+Sent: Monday, June 12, 2017 12:02 PM 
+To: Stroupe, Marjorie 
+Cc: .AMS - SAP SD Support; Sarabpreet Singh; Subhashree Nanda; Singh, Ranjeet G. 
+Subject: RE: 1701-1239 Dual Control  
+Hi Marjorie, 
+ 
+Thank You! 
+ 
+We wanted to ask about the delivery block (we will create a new Z for dual control). 
+ 
+
+
+
+4
+
+You mentioned, the delivery block is getting removed without the approval (FD08). Can you please share the example or 
+screenshots where the block was removed without the approval? 
+ 
+ 
+Regards, 
+Sameed Siddiqui 
+ 
+SAP SD 
+I.T. Applications 
+Gurugram, India 
+Tronox 
+ 
+Mobile: +91 9873826223 
+email: sameed.siddiqui@tronox.com;  www.tronox.com 
+ 
+From: Stroupe, Marjorie  
+Sent: Monday, June 12, 2017 10:15 PM 
+To: Siddiqui, Sameed <Sameed.Siddiqui@tronox.com> 
+Cc: .AMS - SAP SD Support <AMS-SAPSDSupport@tronox.com>; Sarabpreet Singh <sarabpreet.singh@accenture.com>; 
+Kshitiz Gautam <kshitiz.gautam@accenture.com>; Subhashree Nanda <subhashree.nanda@accenture.com>; Singh, 
+Ranjeet G. <ranjeet.g.singh@accenture.com> 
+Subject: RE: 1701-1239 Dual Control 
+ 
+I have tested these and shown the business clients. We have a few more issues with this. The delivery block should not 
+be able to release until the changes have been confirmed using FD08. I think we need to create a new delivery block Z6 
+Dual Control (whatever the next number available is on the Z list) and not allow this delivery block to be remove until 
+FD08 is approved. Let me know the effort for this and I appreciate you getting this done quickly as it needs to be moving 
+forward. 
+ 
+Marjorie 
+ 
+From: Siddiqui, Sameed  
+Sent: Monday, June 12, 2017 1:51 AM 
+To: Stroupe, Marjorie 
+Cc: .AMS - SAP SD Support; Sarabpreet Singh; Kshitiz Gautam; Subhashree Nanda; Singh, Ranjeet G. 
+Subject: RE: 1701-1239 Dual Control 
+ 
+Hi Marjorie, 
+ 
+As discussed during the call, you wanted that sales order should not be blocked, and delivery block should be set up 
+instead. 
+We have done these changes in the ESA environment, can you please test it and let us know your comments on the 
+same. 
+ 
+Regards, 
+Sameed 
+From: Stroupe, Marjorie  
+Sent: Friday, May 26, 2017 10:00 PM 
+To: Siddiqui, Sameed <Sameed.Siddiqui@tronox.com> 
+Cc: .AMS - SAP SD Support <AMS-SAPSDSupport@tronox.com>; Sarabpreet Singh <sarabpreet.singh@accenture.com>; 
+Kshitiz Gautam <kshitiz.gautam@accenture.com>; Subhashree Nanda <subhashree.nanda@accenture.com>; Singh, 
+Ranjeet G. <ranjeet.g.singh@accenture.com> 
+Subject: RE: 1701-1239 Dual Control 
+
+
+
+5
+
+ 
+Was trying to test this today but am getting an error message when attempting to access the customer that I just 
+updated that it is blocked by me. I think there must be something happening with ESA. Will attempt to test again next 
+week unless Basis responds back today. 
+ 
+Marjorie 
+ 
+From: Siddiqui, Sameed  
+Sent: Monday, May 01, 2017 11:33 AM 
+To: Stroupe, Marjorie 
+Cc: .AMS - SAP SD Support; Sarabpreet Singh; Kshitiz Gautam; Subhashree Nanda; Singh, Ranjeet G. 
+Subject: RE: 1701-1239 Dual Control 
+ 
+Marjorie, 
+ 
+We have completed the development for this in ESA 300.  
+You can check it from your end and let us know if we need to schedule a call with you tomorrow on this. 
+ 
+Regards, 
+Sameed 
+From: Siddiqui, Sameed  
+Sent: Tuesday, April 25, 2017 10:58 AM 
+To: Stroupe, Marjorie <Marjorie.Stroupe@tronox.com> 
+Cc: .AMS - SAP SD Support <AMS-SAPSDSupport@tronox.com>; Sarabpreet Singh <sarabpreet.singh@accenture.com>; 
+Kshitiz Gautam <kshitiz.gautam@accenture.com>; Subhashree Nanda <subhashree.nanda@accenture.com>; Singh, 
+Ranjeet G. <ranjeet.g.singh@accenture.com> 
+Subject: RE: 1701-1239 Dual Control 
+ 
+Hi Marjorie, 
+ 
+We have created the change C1704-0150. We will develop this first in Sandbox for your POC. 
+Once completed in Sandbox we will notify you. 
+ 
+Regards,  
+Sameed 
+From: Stroupe, Marjorie  
+Sent: Tuesday, April 25, 2017 3:01 AM 
+To: Siddiqui, Sameed <Sameed.Siddiqui@tronox.com> 
+Cc: .AMS - SAP SD Support <AMS-SAPSDSupport@tronox.com>; Sarabpreet Singh <sarabpreet.singh@accenture.com>; 
+Kshitiz Gautam <kshitiz.gautam@accenture.com>; Subhashree Nanda <subhashree.nanda@accenture.com>; Singh, 
+Ranjeet G. <ranjeet.g.singh@accenture.com> 
+Subject: RE: 1701-1239 Dual Control 
+ 
+Sameed, 
+ 
+Please proceed with the creating a change ticket for this incident and proceed with the effort to work this. I would like 
+to do a POC in the Sandbox first so we can see how this will really work before we impact our development client. Do 
+you agree with my thinking? 
+ 
+Let’s discuss if possible. 
+ 
+Thanks. 
+
+
+
+6
+
+ 
+Marjorie 
+ 
+ 
+From: Siddiqui, Sameed  
+Sent: Monday, April 10, 2017 6:55 AM 
+To: Stroupe, Marjorie 
+Cc: .AMS - SAP SD Support; Sarabpreet Singh; Kshitiz Gautam; Subhashree Nanda; Singh, Ranjeet G. 
+Subject: RE: 1701-1239 Dual Control 
+ 
+Hi Marjorie, 
+ 
+Please find the attached document with effort hours and other details for dual control. 
+Let us know if you want other details than this. 
+ 
+ 
+PS (Not related to the subject) – Regarding F082, you will have the document by tomorrow morning. If possible please 
+provide an example. 
+ 
+Regards, 
+Sameed 
+From: Stroupe, Marjorie  
+Sent: Saturday, April 8, 2017 1:39 AM 
+To: .AMS - SAP SD Support <AMS-SAPSDSupport@tronox.com> 
+Subject: 1701-1239 Dual Control 
+ 
+Team, 
+ 
+What would be required and effort to include fields from the sales area data to the dual control functionality? The 
+business is wanting to include Incoterms. I know that dual control currently only does General Data and Company Code 
+Data fields but can it also include Sales Area Data? 
+ 
+Thanks. 
+ 
+Marjorie 
+
+
+
+7
+
+  
+Marjorie Stroupe 
+Tronox LLC 
+Application Support Advisor 
+(405) 775-6507 
+cell: (405) 820-3746 
+marjorie.stroupe@tronox.com   
+ 
+
+

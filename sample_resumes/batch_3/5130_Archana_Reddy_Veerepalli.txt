@@ -1,0 +1,306 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curriculum Vitae [Name] [Surname]
+
+Name: 
+
+
+
+
+Archana Reddy Veerepalli
+
+Previous Organization:
+
+Accenture services private ltd.
+Email:
+
+
+
+
+Archana683@gmail.com
+Mobile:
+
+
+
+9886706936
+
+_________________________________________________________________________________
+ SAP ABAP Consultant having 10 years of working experience with good communication skills, ability to learn quickly and interpersonal skills and actively looking for opportunities after a sabbatical break of 2 years and 9 months. Have performed in various roles across projects as ABAP developer, Team Lead, Solution Architect, Quality Lead and Offshore Coordinator.
+
+Profile Summary
+	Key skills and competencies
+
+	Technical Skills:
+
+· SAP ABAP - Data Dictionary, Report (Classical, interactive & ALV), Interfaces (BAPI, File, and Proxy), Conversions using BDC, Function Modules, LSMW, Enhancements (User-Exit, Customer-Exit, and BADI), Smart Forms, SAP scripts, SAP Workflow, Module Pool Programming.
+
+·  SAP AIF using Proxy. 
+· SAP advanced ABAP and OO ABAP.
+
+· SAP HANA ( tables , views ) ( ~ 1 year )
+
+· SAP APO ABAP (~9 months)
+
+· SAP Solution Manager ( ~4 months)
+
+· Exposure to SAP UI5
+
+· Experienced in QC, Requirements gathering phase and reviewing the technical specifications.
+
+· Experienced in QM, MM, SD, FI-CA and FSCM Modules.
+Managerial Skills:
+
+· Quality – Well-versed with Accenture Quality processes, templates, checklists and their application in project execution.
+
+· Managed a team of 9 (max) as a lead.
+
+
+
+	Certification  & Education 
+
+	· Accenture Internal Certifications ( ASDA , AMDA)
+
+· Trainings attended – SAP FIORI, UI5 (SAP learning Hub).
+· Bachelors of Technology from JNTU, Hyderabad – May. 2004
+
+	Industry experience 
+
+	· Pharmaceutical 
+· Energy & Resources
+
+
+
+Project Experience
+
+Client:
+
+SAP 
+Role:
+
+Team lead & Senior Technical consultant
+Industry:
+CRM
+Period:
+
+June 2013 - October 2014
+SAP Lead to Revenue Automation.
+· Designed 4 AIF (Application Interface Framework) Interfaces using Modular approach (OOABAP) and SPOC for AIF related Issues.
+· Proposed solutions for Simulation tool, Interfaces involving data migration from various non-sap sources through WEB UI (SAP UI5) and proxy framework.
+· Surpassed the client expectations, appreciated by client and SAP leadership for the work done. Rated among the top offshore resources by client due to high technical expertise, organization skills and proactive working style.
+Client:
+
+SABMiller  
+Role: 
+
+Team Lead / senior technical consultant
+
+Industry:   
+Resources and Energy
+Period: 
+Jan 2013 – May 2013
+
+· Worked on Interfaces using Proxy, Enhancements using OOABAP in MM and FICO modules.
+· TD design and Review, QA, Peer review and integration testing.
+Client:
+
+Miller Coors
+Role: 
+
+Team Lead / Senior Software Engineer
+
+Industry:
+Resources and Energy
+Period:
+
+Feb 2012 - December 2012
+· Worked on SAP APO Demand Planning
+· Attended SAP APO boot camp training.
+Client: 
+Halliburton (Oilfield services Company)
+Role:
+
+Team Lead and Senior Developer
+
+Industry:
+Resources and Energy
+Period: 
+August 2011 -Jan 2012
+· Implemented FSCM Module – Credit management and Collection disbursement sub modules.
+
+Client:
+
+UCB Pharma (Biopharma)
+Role: 
+
+Team Lead and Sr. Dev     
+Industry:
+Pharmaceutical 
+Period:  
+Nov 2009 – June 2011   
+· Incidents Management – Handling, Assigning, status tracking, Status update to onshore, prioritising the incidents in priority call and among the team.
+
+· Staffing at organization level.
+· Enhancements and performance tuning for existing objects as per client requirement for various roll outs.
+Client:
+
+ Accenture Internal 
+Role: 
+
+Senior Software Engineer
+Period: 
+Feb 2009 - May 2009
+· Contributed to Internal Assets – Tool to upload flat file (or excel or xml file) to generate an IDoc.
+-----------------------------------------------------------------------------------------------------------------------------------------
+Client:  
+SCM CoE / Accenture Internal
+
+Role: 
+
+Senior Software Developer
+Industry:        Pharmaceutical
+Period: 
+Dec 2008 - Jan 2009
+
+'Pharma in a Box' is a complete suite of solutions, pre-configured and tailored for the Pharma business, based on mySAP ERP 6.0 Platform.
+A team of 2(IDC team), worked on SOLMAN (Solution manager), which involves
+· Creating the template projects - for all SAP modules and end to end processes, involving the creation of project structure.
+· Uploading the documents as web link at required nodes in project structure created in SOLMAN, from SharePoint where the documents are actually stored.
+· Establishing RFC connection between SOLMAN and Satellite systems.
+· Attaching the transactions at node level (Business Scenario or Business step) in project structure when executed connects to the selected system (satellite system, ex: evaluation or development).
+· Maintaining the system landscape in SMSY transaction, where in we assign the logical components and systems required.
+---------------------------------------------------------------------------------------------------------------------------------------
+Client:  
+Merck KGaA
+
+Role:
+
+ Senior Software Developer
+Industry:
+Pharmaceutical
+Period: 
+Dec 2007 - Dec 2008
+· Worked in FI and QM modules.
+
+· Manage the storage of relevant documents (Screening template, Unit test plan, TD and Source code Review Checklist) included into the developed work packages 
+
+· Involved in build, code review and Functional walkthrough.
+
+· Incidents Management in HPSM tool.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Client: 
+Accenture Enterprise Revenue Solutions (Internal)
+Role:
+
+Software Developer
+Industry:
+Resources    
+Period: 
+Sep2007 - Nov 2007
+Product to support US Governments tax and Revenue Applications. This helps the revenue agencies to collect and disburse the tax from tax payers and help in filing their returns and following up the payment, dunning history for tax filers.
+· Worked on BAPIs, RFC, ABAP dictionary Objects.
+· Prepare TDs, Build, UTP, Incident Handling/Bug fixing.
+· Worked in FICA (Financial Accounting and Contracting module).
+Client:
+
+DuPont
+
+
+
+Role: 
+
+Software Developer    
+
+Industry:
+Energy and Resources
+  
+Period:
+
+Dec 2006 - Jun 2007
+
+· Developing and testing (SAP scripts, Interfaces, User exits, Reports, DDIC Objects, Translations).
+· Identifying opportunities for code reusability, code availability and successful UTP for next roll out.
+· Handle defects during Businesses Integration Test and USAT and on-call support. 
+Client: 
+SAP CAPABILITY (internal)
+Role: 
+
+Software Developer   
+
+Industry:
+NA
+  
+
+Period: 
+April 2006 - Sep 2006
+
+Skill change: Transition from C#.net to SAP ABAP
+Served the capability: Lead the recruitment of SAP LCT across IDC, reporting analysis and metrics to DU leads.
+
+Client: 
+Lloyds TSB Registrars
+
+Role: 
+
+Software Developer   
+Industry:
+Banking 
+  
+Period: 
+Nov 2004 - March 2006
+
+· Build UI and code-behind using C#.NET and Review TD
+· Worked as Integration Tester (Manual) in Integration Test Execution Team (test use cases, log defects in Track Recorder), CR analysis and implementation.
+· Worked in SQL Server Reporting Services (Generate Reports, Write Stored Procedures and design the Report Body and Layout).
+· Worked on Batch Jobs.
+

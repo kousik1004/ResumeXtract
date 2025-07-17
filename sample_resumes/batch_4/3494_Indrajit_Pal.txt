@@ -1,0 +1,418 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Indrajit_Pal
+
+
+         Indrajit Pal           
+Executive Summary 
+
+• I have over 14 years of experience on projects following SDLC (Software Development Life Cycle). 
+• Worked at onsite at USA, UK & China with client to understand the requirements and formulate 
+
+detailed specification. 
+• I have been working on advanced Java concept/architecture and specializing in web development. 
+• I have worked on Android App development 
+• Worked on advanced Oracle10g/PlSQL developer/DBA, Postgresql .  
+• I have experience in multi-tier, database-driven, client-server, Internet, Web2.0 technologies. 
+• I have knowledge of Agile Methodologies, architecture, procedural, code cleanup redesign and re-
+
+factoring and performance tunning of code and database. 
+• I am always being customer/client cantered with emphasis on high quality and system integrity. 
+• Have good expertise in Java, Tomcat 4.1, 5.5, 6.0, Oracle10g, hibernate, dwr, spring, log4j, SQL 
+
+Server (T-SQL, Stored Procedure). 
+• I had managed a team of 15 software professional involved in projects using Microsoft technologies 
+
+and J2EE. 
+
+LANGUAGES & APPLICATIONS 
+  Programming languages: JAVA, J2EE, PL/SQL 
+
+IDEs: Eclipse, Net Beans, IntelliJ 
+Web Skills: AJAX, HTML, DHTML, Servlets, JDBC, JSP, XML, Spring, Hibernate, DWR, Log4j, 
+jUnit, JMeter. 
+Javascript.Frameworks: Dojo, JQuery 
+Web server: Apache, Tomcat 4.1, 5.5, 6.0, 7x, 8x 
+Database: SQL Server 7.0/2000/2005, Oracle 10g, MySQL, Postgresql 
+Source control tools: CVS, Subversion, Clear CasePackage, GIT  
+Deployment tools: Ant, Maven, Gradle 
+CMS: Interwoven(Team Site, Open-deploy, Site-publisher), Hybris 
+
+PROJECT EXPERIENCE 
+
+The following are representative projects done in the past. 
+
+S2Pay 
+Duration: Jun 2011 – Aug 2012 
+       Feb2013 - till date  
+Client : S2Pay Software Pvt. Ltd. / Net Vigil Software Pvt. Ltd. 
+Project description : 
+S2Pay is an Innovative mobile wallet for making payment to anyone, anytime, anywhere in a quick and safe 
+way. This application is designed looking towards the merchant problems and it is offline based payment. We 
+have patented pending offline authentication system which is implemented in this product. 
+
+For more details: http://www.s2pay.com 
+Team size:  10 
+Roles:  
+ Working as Technical Manager. Defining new Story which are feature of the product. 
+ Choosing the technology stack.  
+ Defining the guide lines for the developer & mentoring them.  
+ Code Review, Stress testing for the product. Atomize testing process for the product. 
+ Performed performance tuning on the code and as well as database. 
+
+Performed Security code review for the PCI/DSS compliance as per the guidelines of OWASP 
+Performed integration with core banking system with major banks of India.  
+
+Indrajit Pal  Page 4 of !7
+
+
+
+         Indrajit Pal           
+Performed integration with open banking system with European banks 
+
+Kleertjes - Checkout Process Enhancement 
+Kleertjes - Checkout Process Enhancement 
+Duration: Sep 2012 – Feb 2013 
+Client : Kleertjes 
+Project description: 
+Re-implementing the Kleertjes Checkout process and implementation the new UI Layer and new 
+process on the website. 
+For more details: http://kleertjes.nl 
+Team size:  3 
+Roles:  
+ Leading three member’s team to re-design the Checkout module of the customer facing   
+website. 
+ System and integration testing for compatibility with web based application 
+              Leading the production support and handling the production defect fixing and change   
+requests. 
+
+Estimation for change requests 
+
+ToysRus 
+Duration: June 2009- May-2010 
+Client : ToysRus UK 
+Project description: 
+The project involves role of building client confidence and support the project & enhance the feature 
+and implement new features.   
+The web site is one of the biggest retail shopping portal in world of Toys. It also keeps information 
+about the Catalogs, Product, Pricing. The entire support is taken over by Lbi UK. 
+The requirement is  
+
+• The project is build on Hybris platform where the entire catalog and products are managed. 
+• There are data which are integrated with feed sub system which provide. 
+• The project is integrates with several other system such as AS400, Coremetrics, 
+
+Fredhopper(search & facets), Silverpop(Email marketing), datacash. QAS,  
+• Every module is component driven and integrate with Hybris. 
+• The website is build on JSF components along with the Spring  
+• The wesbite also have pages which are cms driven from Hybris. 
+
+For more details: http://toysrus.co.uk 
+Team size:  3 
+Roles: Understanding the existing code base and projects features.   
+ Reviewing the standard (coding and architectural) 
+
+Manage and controlling the project. 
+Building up client confidence. 
+
+ Ensuring the project schedule are met and project cost does not escalate. 
+ Responsible for overall project deliverables and the quality of the deliverables. 
+ Design & Coding for new modules recommendation on the new enhancement.  
+
+NFL -R2 
+Duration: Oct 2008- Feb-2009 
+Client : NFL, US 
+Project description: 
+
+Indrajit Pal  Page 4 of !7
+
+
+
+         Indrajit Pal           
+The project involves building a platform for different website for NFL clubs that is targeted at the fan 
+lovers for NFL sports. 
+The web site provides information regarding players, events, coach, cheerleaders across various 
+clubs. It also keeps all the information about the historical and statistical data for the team. The entire 
+R2 phase developed in Agile process. Where each stories and sub task are tracked under JIRA.  
+The requirement is  
+
+• To build a platform for different clubs. 
+• The content of the site is stored on CMS “Interwoven” 
+• There are few data which are integrated with feed sub system which provide the historical 
+
+data for the clubs from the year 1970. 
+• Every module is component driven and integrate with Interwoven to build the page from the 
+
+CMS using ESI tags.  
+• The HTML Pages for the website are on Akamai Server to Scale the applications.  
+
+For more details: http://buffalobills.com 
+    http://seahawks.com 
+
+Team size:  10 
+Roles: Design the database for few components and generate the respective model for  the project.  
+
+Manage and controlling the project for the R2.  
+ Ensuring the project schedule are met and project cost does not escalate. 
+ Responsible for overall project deliverables and the quality of the deliverables. 
+ Design & Coding for few module like cheerleader, jumpmenu module using J2EE. 
+ Code review for other modules.  
+  
+Environment: JSP/JSTL, XML, Hibernate3.2, Spring2.5, Interwoven, XSLT, jQuery, Tomcat and 
+Oracle10g 
+
+GlobalCampus 
+Duration: Mar 2008- May-2008 
+Client : UCTV Digital, United Kingdom 
+Project description: 
+The project involves building a web site for UCTV digital that is targeted at the students across globe. 
+The web site provides information regarding universities, institutions across various countries and 
+presents information regarding the courses and scholarships offered by the universities & institutes. 
+The requirement is  
+
+• To build a Search & a Browse module that presents information about the Universities, 
+institutes and courses offered to the end users. 
+
+• Provide a Question & Answer feature for the end users to enable them to raise questions. 
+• To enable users to register to the site. 
+• Provide the functionality of defining & setting filters to the registered users. 
+• Enable registered users to enter their qualifications and calculate their eligibility score for 
+
+admission to various universities. 
+• Associate universities with a range of minimum and maximum eligibility scores. 
+• For the registered users, depicting the universities for which they are eligible for admission. 
+
+Also, depicting the universities for which they have a possibility of gaining admission and the 
+universities for which they are not eligible at all. 
+
+Enable registered users to provide feedback about the site and to add new information to site. 
+For more details: http://globalcampus.com 
+
+Team size:  10 
+Roles: Design the database and generate the domains for the project.  
+
+Indrajit Pal  Page 4 of !7
+
+
+
+         Indrajit Pal           
+Manage and controlling the project for the phase-I.  
+
+ Ensuring the project schedule are met and project cost does not escalate. 
+ Responsible for overall project deliverables and the quality of the deliverables. 
+ Design & Coding for entire auditing module using aspect programming.  
+  
+Environment: JSP/Servlets, XML, Hibernate, Spring, DWR, Tomcat and MySQL 
+
+Request For Quote 
+Duration: Nov 2007- Mar 2008 
+Client: Nokia CDMA R & D, San Diego 
+
+Project description: The requirement of the system to create analysis tool for Nokia R & D team 
+while designing the new concept/phone. The application help to analyze different set of data and 
+helps user to determine the best feature and optimum cost for manufacturing. It also analyses the 
+data for different components/parts which is actually needed for concept to come out as physical 
+device. 
+
+Team size: 6 
+Roles: Understanding the requirement and laid out the high- level specification. 
+ Estimated the cost.  
+ Identify at high level the technical components necessary to meet the project  
+requirements. 
+
+Design the database and review.  
+Code review. 
+Involved in developing end to end short module based development.(agile development 
+methodology). 
+Overall responsible for deliverables.  
+
+  
+Environment:  Java, Spring2.0.8, Hibernate3.0, Tomcat4.1, Oracle 10g 
+
+Strategic Radar Dynamic Monitoring 
+Duration: Apr 2006- till date 
+Client: Strategic Radar 
+
+Project description: SRDM is an end-to-end solution to deliver dynamic monitoring integrated with 
+an organization's scenario-based strategy. Dynamic monitoring encompasses the complex process of 
+scanning the external signals that could favor a potential future scenario. Strategic Radar has 
+developed proprietary methodology and technology that "wires" the changes in external market 
+forces to the impacts on an organization's strategy and operational decisions. This system takes in a 
+large amount of information and reduces the noise to spot key signals .  
+
+The results of this ongoing service are delivered to the client through our SRDM Dashboard.  This 
+dashboard depicts in a concise view, the areas requiring change and focus within and organization's 
+strategy 
+
+For more details: http://strategicradar.com/sr-products-srdm.htm 
+
+Indrajit Pal  Page 4 of !7
+
+
+
+         Indrajit Pal           
+Team size: 6 
+Roles: Understanding the requirement and laid out the high- level specification. 
+ Identify frameworks and tools. 
+
+Design the database and review.  
+Coding, Code review. 
+Maintaining and managing the feature request/change request till date.  
+Overall responsible for deliverables.  
+Migration of ORM layer from Hibernate 2.0 to 3.2  
+
+  
+Environment:  Java, Spring1.2, jFreeChart, Flash Hibernate2.0, Tomcat6.0, SQL Server 2005 
+Application URL: https://my.strategicradar.com 
+
+Strategic Radar Web Enhancement 
+Duration: Oct 2007 – Dec-2007  
+Client: Strategic Radar  
+Project description: 
+ The requirement is to create the online demo for the SRDM application and to integrate few 
+modules such as Experts, Scanning Topic, Signal, Forces to their public facing website. For more 
+details: http://strategicradar.com/Process.aspx 
+
+Team size: 2 
+Responsibility: 
+
+• Design the online demo for the SRDM Product 
+• Development and integration of new modules in their existing site.  
+• Managing and cost estimation, requirement gathering for the project. 
+
+• Overall responsible for deliverables. 
+Environment:  .Net 2.0, SQL Server 2005, Flash 
+
+Reflective Learning 
+Duration: Jul 2007 – Aug 2007 
+Client: Reflective Learning 
+Project Description:  This is an administrative module to manage the end user, license, Client and 
+generate various reports on different programs of RL. To see more details: http://admin.r4power.com/
+reflectiveAdmin/login.do 
+
+Team Size: 4 
+Roles: Define the technical architecture of the application.  
+  Design the database, Code review 
+  Involved in the process of client discussion. 
+  Define the development tools and environment 
+  Coach the development team and resolve the technical issue.  
+  
+Technologies: Java, Tomcat4.1, Spring1.2, Hibernate2.0, jFreeChart, iText 
+Web Server: Apache 
+Database Server: MySQL 
+Product Integrity 
+Duration: Nov 2005 – Jan 2006 
+Client: Nokia CDMA, San Diego 
+Project Description:  To automate the process of Nokia CDMA Product Integrity to record the result of  
+reliability tests during the CE and PE phase. The proposed soultion is to automate the entire process 
+and capture all test results stored in the relational database. This would allow users to build  various 
+
+Indrajit Pal  Page 4 of !7
+
+
+
+         Indrajit Pal           
+reports , data marts and data warehouses. This system also interface with Team Track system 
+available with Nokia.   
+Team Size: 3 
+Roles:  Senior Developer. 
+   Design the database. 
+   Involved in the process of requirement gathering.  
+   Maintaining the system and managing the feature request and change control. 
+Technologies: Java, Tomcat4.1, Spring1.2, Hibernate2.0 
+Web Server: Apache 
+Database Server: Oracle10g 
+
+Business Intelligence System 
+Duration: August 2005 – Nov 2005 
+Client: Nokia CDMA, San Diego 
+Project Description: This project is needed to provide the marketing and sales departments with high 
+quality and timely competitor analysis support.  This support includes the ability to compare Nokia 
+CDMA products against the competition in terms of features, price, and markets as well as provide 
+visibility to competitor and carrier product roadmaps. 
+
+The goal of BIS is to create one place for all our competitor data that is easy enough to use that 
+customers will feel comfortable going to the automated system on their own for the more common 
+tasks.  BIS will facilitate better business decisions, reduce wasted labor, and provide better strategic 
+analysis through providing customers with more robust and usable data and by providing the 
+resources within the BI Team for higher-level strategic analysis.  Cost savings will be long term, as 
+BIS will be operating autonomously and will be scalable to allow for any minor upgrades as needed. 
+
+Team Size: 5 
+Roles:  Senior Developer 
+ Involved in customer discussion. 
+ Design the database.  
+ Coding and code review. 
+
+Technologies: Java, Tomcat4.1, Spring 1.2, Hibernate 2.0 
+Web Server: Apache 
+Database Server: Oracle10g Releas2. 
+
+WORK EXPERIENCE BACKGROUND 
+Oct-2016 to till date working as Technical Manager with S2Pay Software Pvt Ltd.  
+June-2011 to Sept 2016 working as Technical Manager with Net Vigil Software Pvt Ltd. Mumbai. 
+(NetVigil Software got rebranded as S2Pay Software Pvt Ltd.) 
+
+May-2007 to May 2011 working as Lead project Manager and Technical Architect with LBi India, 
+Mumbai  
+
+Aug-2005 – May 2007, worked as Senior Technical consultant with Vizualize Technologies, Pvt. Ltd., 
+Mumbai 
+
+Indrajit Pal  Page 4 of !7
+
+
+
+         Indrajit Pal           
+May-2004 – July 2005, worked as System Analyst in Nihilent Technologies, Pvt. Ltd. , Pune  
+
+June 2003 – May 2004, worked as Jr. developer In Quilis Infotech Pvt. Ltd. Secunderabad 
+
+May 1999 – March 2000 Worked as Jr. Developer in Satyam computer society of India, cuttack, Orissa.  
+
+EDUCATIONAL BACKGROUND 
+
+2003 Master of Computer Application Bharathiar University, India 
+1999 Bachelor of Scs (Computer Sc.) 
+1999 Oracle 8i work shop for SQL Star International.
+
+Indrajit Pal  Page 4 of !7
+
+

@@ -1,0 +1,416 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Syed Amir Abdul Mudroo                                Contact No: 8867802508, 7022146107 
+
+ M.Tech CS with  3 years of Experience in Big Data Product Development.                         Email: amirsyed69@gmail.com 
+
+ Currently working  in Widas Concepts Pvt Ltd. 
+
+ Professional expertise in Big Data and Machine Learning. 
+
+ Presented papers in various  National and International Conferences on Big Data. 
+
+ Won Best paper awards in 2 national conferences on Big Data. 
+
+ Published Paper in International journal ( IJCEA )on Big Data.   
+
+---------------------------------------------------------------------------------------- 
+
+Technical Skills: 
+Big Data tools 
+ 
+No SQL 
+ 
+Machine Learning 
+ 
+DevOps 
+ 
+Languages 
+
+Spark, Kafka, Hadoop, Hive, Pig, Sqoop, Flume,  Zookeeper, Avro  
+  
+Cassandra, MongoDB, HBase, Impala 
+ 
+Spark MLlib 
+ 
+Docker, Git CI/CD 
+ 
+Java, Scala, C, C++, C#, Python 
+ 
+
+Databases 
+ 
+Operating System 
+ 
+
+MySQL  
+ 
+Linux (Ubuntu, CentOS, Alpine, etc), OS X, Windows 
+ 
+ 
+
+Work Experience: 
+2017 – Present 
+ 
+2016- 17 
+ 
+2015-16 
+
+Big Data Development in Widas Concepts Pvt Ltd, Bangalore. 
+ 
+Big Data Development in V2Soft Pvt Ltd.  
+ 
+Intern in LMT. 
+ 
+
+Academic Profile: 
+2014-16 
+ 
+ 
+2009-2013 
+
+East West Institute of Technology ,Bangalore                                                                                   76% 
+Masters of Technology, Computer Science & Engineering 
+ 
+SSM College of Engineering and Technology, J&K                                                                             70%                                                 
+Bachelor of Engineering, Computer Science & Engineering 
+
+  
+2008 12
+
+th
+ (Senior Secondary Examination)                                                                                                    70% 
+
+Central Board of Secondary Education 
+  
+ 2006 
+ 
+ 
+ 
+
+10
+th
+
+ (Secondary Examination)                                                                                                                 76% 
+J&K Board of School Education 
+ 
+
+International and National Conferences: 
+27-28 April 2016 
+ 
+ 
+
+ 
+5
+
+th
+ April 2016 
+
+ 
+
+Presented paper in International Conference “ICCSTAR-2016” entitled “Incorporating 
+Virtualization in Map Reduce for Efficient Data Movement in Hadoop” held 
+
+at City Engineering College Bangalore. 
+
+ 
+
+Presented paper in National Conference “TECHNIKA-2016” titled “Incorporating 
+
+Virtualization in Map Reduce for Efficient Data Movement in Hadoop” held 
+
+at Akshaya College Tumkur. 
+
+mailto:amirsyed69@gmail.com
+
+
+ 
+29-30 April 2016 
+
+ 
+
+Presented paper in National Conference” NCOACSE-2015” titled “Increasing 
+Performance of Map Reduce programing framework “ jointly organised by 
+
+Indian Society of Technical Education(ISTE) and EWIT Bangalore. 
+
+  
+
+ Certifications and Trainings: 
+2016 
+ 
+2015 
+
+Hadoop Developer Certification from IIHT. 
+ 
+Internet Of Things s Boot Camp. 
+
+  
+2014 Network Simulator (NS-2) workshop. 
+ 
+
+Publications/Journals: 
+June 2016 International Journal of Computer Engineering and Application (IJCEA) “Incorporating 
+
+Virtualization in Map Reduce for Efficient Data Movement in Hadoop”. 
+http://www.ijcea.com/incorporating-virtualization-map-reduce-efficient-data-movement-
+hadoop/ 
+ 
+
+ 
+
+Achievements: 
+2016-Present 
+ 
+ 
+2015 
+
+Won Best Paper Award in National Conference “TECHNIKA-2016” titled 
+
+“Incorporating Virtualization in Map Reduce for Efficient Data Movement in 
+
+Hadoop” held at Akshaya College Tumkur. 
+
+ 
+
+Won Best Paper Award in National Conference” NCOACSE-2015” titled “Increasing 
+Performance of Map Reduce programing framework “ jointly organised by 
+
+Indian Society of Technical Education(ISTE) and EWIT Bangalore. 
+
+ 
+
+Academic Projects: 
+2013(U.G) 
+ 
+ 
+ 
+2016(P.G) 
+
+E-Prepare (A mock test website) 
+ 
+
+ Used Asp.Net Framework, c# for coding, MySql as database. 
+  
+Incorporating virtualisation in map reduce for efficient data movement in Hadoop 
+
+ 
+
+ Used Jdk and Hadoop 
+ 
+
+ 
+
+Other Activities 
+2015 Secured first place in Technical Quiz organised by CENSA   
+
+ 
+
+Personal Details 
+Name 
+ 
+Fathers Name 
+ 
+Mothers Name 
+ 
+Date Of Birth 
+ 
+Gender 
+ 
+Marital Status 
+ 
+Languages 
+ 
+Address 
+
+Syed Amir Abdul Mudroo 
+ 
+Syed Abdul Ahad Mudroo 
+ 
+Jameela 
+ 
+29-12-1989 
+ 
+Male 
+ 
+Single 
+ 
+English , Hindi and Urdu 
+ 
+Garvebhavipalya, Bangalore 560068 
+
+http://www.ijcea.com/incorporating-virtualization-map-reduce-efficient-data-movement-hadoop/
+http://www.ijcea.com/incorporating-virtualization-map-reduce-efficient-data-movement-hadoop/
+
+
+ 
+
+Project# 
+ 
+
+Project Title         : Carbook Plus 
+Technology          : Spark,  Kafka, Java, Scala, Cassandra, MongoDB, Docker, REST. 
+Description          : The objective was to achieve single point of reference to get the vehicle data from the 
+various vehicles. This data was analysed to track the location of vehicles, speed, driver behaviour, etc.   
+
+Roles & Responsibilities:- 
+
+ Data Ingestion from multiple sources within real time. 
+
+ Wrote Spark streaming jobs for live tracking of vehicles. 
+
+  Wrote Spark batch jobs to create a logbook of all trips made by vehicle. 
+
+ Wrote Spark jobs to enable Geo fencing mechanism for vehicles. 
+
+ 
+
+ 
+
+Project# 
+ 
+
+Project Title         : Big Data Healthcare 
+Technology          : Hadoop, MapReduce, HDFS, Pig, Hive, Kafka, Spark, Sqoop, Java 
+Description          : The objective was to achieve single point of reference to get the medical data from the 
+various databases, devices and wearables. Distributed data residing in heterogeneous data sources is consolidated 
+into the target HDFS. Once the data is fetched from various sources, the data is filtered for adhoc, batch analysis 
+according to the business needs. 
+
+Roles & Responsibilities:- 
+
+ Loaded the data from multiple data sources to Hadoop (HDFS) using Kafka. 
+
+ Used Jolt library  to transform data.  
+
+ Wrote custom Producers and Consumers for Kafka. 
+
+ Wrote Spark streaming jobs and spark core jobs. 
+
+ Loaded the data from SQL SERVER to Hive using Sqoop. 
+
+ Loading files to HDFS and writing MapReduce jobs to process required data. 
+
+ Wrote Pig and Hive Scripts. 
+
+ Used Spark for faster processing of real time data .  
+
+ Wrote custom queries to query data from Cassandra and HBase. 
+
+ 
+
+ 
+
+ 
+
+Project# 
+ 
+Project Title           : Big Data Logistics 
+Technology                        : Hadoop, HDFS, Map Reduce, Apache Pig, Apache Hive, Kafka, Java,  MongoDB 
+Description                    : The objective was to achieve single point of reference to get the logistic data from the 
+various databases, vehicles, pallets . Distributed data residing in heterogeneous data sources is consolidated into the 
+target HDFS. Once the data is fetched from various sources, the data is filtered for adhoc, batch analysis according to 
+the business needs. 
+ 
+Roles and responsibilities: 
+
+ Loaded the data from multiple data sources to HDFS using Kafka. 
+
+ Wrote custom Producers and Consumers for Kafka. 
+
+ Used Kafka Streaming API to transform data in real time.  
+
+ Writing Java MapReduce programs to process required data. 
+
+
+
+ Wrote custom queries to query data from MongoDB. 
+
+ Writing Pig scripts. 
+
+ Loading data to Hive tables and writing queries to process. 
+
+ 
+
+Others# 
+ 
+
+Project Title         : Data Simulator 
+Technology          : Java, Maven  
+Description          : The objective was to create a data generator application that could generate the data 
+according to data templates supplied and some business rules.  
+
+Roles & Responsibilities:- 
+
+ Wrote java programs for custom data generators. 
+
+ Converting generated data generated in CSV and Json format. 
+
+ 
+
+ 
+
+Big Data Administration: 
+
+ Setting up of 20 Node Cluster of Hadoop and its components. 
+
+ Setting up of 10 Node Cassandra Cluster. 
+
+ Created Docker images for the various tools like HBase, Kafka, MySql, Cloudera, Spark. 
+
+ Setting up of Docker Swarm Cluster of 20 nodes. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

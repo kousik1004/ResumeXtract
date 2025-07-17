@@ -1,0 +1,276 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PADMAVATHY V 
+
+
+
+
+
+
+SAP ABAP Consultant
+    
+F104, Sylvan County Apartments
+
+Mahindra World City, Chengalpet, Tamilnadu, 603004
+Mobile # 94430 78744
+Email – padmavathyroshan@gmail.com
+Profile Summary
+
+· Overall 8+ years of experience in various domains and platforms.
+· Having 3+ years of experience in SAP ERP, with rich knowledge and experience in ABAP/4 and working experience in various Modules in SAP.
+
+· Worked in Support projects; proficient in Report Programming, ALV (ABAP List Viewer), Smartforms and SAP Enhancement. 
+
+· Created BDC Programs, Custom Reports, Function Modules, Data Dictionary Objects, Dialog programs using Menu Painter/Screen Painter.
+· Good amount of knowledge in performance tuning.
+Technical Skills
+ERP
+
+
+:
+SAP R/3 Release ECC 6
+
+Modules
+
+:
+SAP R/3 MM, SD/LE, PP, QM, FI, CS
+Languages
+
+:
+ABAP/4, VB
+Database 
+       
+:   
+Oracle
+Professional Experience 
+
+· Jun 2011 to Apr 2015 - Novateur Electrical & Digital Systems Pvt. Ltd. (Previously Numeric Power Systems Ltd) worked as SAP ABAP Consultant
+
+· Jun 2006 to May 2011 – Numeric Power Systems Ltd worked as Programmer in VB with back end Oracle 
+All projects were relevant to intra-company business process in SAP ABAP
+
+Scholastics
+
+· B Sc (Physics) from Bharathidasan University 1995 to 1998.
+· MCA - from Bharathidasan University 1998 - 2001
+
+SAP Experience
+Roles & Responsibilities:
+
+· Complete review of the FS given by the Functional Team.
+
+· Preparation of Technical Specification for the ABAP objects.
+
+· Initiating / Development / Completion of the object.
+
+· Releasing the assigned object for Unit Testing & further modifications based on the feedback.
+
+· Based on the approval, releasing the object to QAS & PRD systems.
+
+· Review on the Development objects done by team members.
+
+· Analyzing the issue occurred in Production system and providing solution for the same.
+
+· Interacting with the Functional Team on various Table links for the Development of ABAP Objects.
+
+PROJECTS 
+
+SAP upgrade from ECC 5 TO ECC 6.
+
+Resolved issues raised in the already existing reports during Upgrade testing.
+
+Transfer of Numeric UPS business.
+
+NUMERIC UPS Business was taken over by Legrand as Novateur Electrical & Digital Systems Pvt. Ltd. Important ABAP Objects were developed & modified during the new company code Implementation.
+
+REPORTS:
+
+· Developed Logistics MIS report (LE)
+
+· Stock & Sale report for a particular HALB material (SD)
+
+· Developed Execution Control report for Sales and Manufacturing details pertaining to OAN (SD)
+
+· Developed in transit Stock report (MM)
+
+· Developed MSL report for manufacturing plants as well as branches (MM)
+
+· Developed Demand Plan report for Weekly/Monthly production (PP)
+
+· Developed Material Cost and Over Head Details (FI/CO)
+
+· Comparison on the Contract details for different years based on Equipment (CS)
+
+· AMC Outstanding for the analysis of payments (CS)
+
+SMARTFORMS: 
+
+· Changes in all Smart Form Layout (Purchase order, Goods Receipt Note, Sale order, Commercial Invoice, Excise Invoice, Stock transfer invoice, Packing Slip and Installation certificate) for the new company name and logo
+
+· Created Layout for Form JJ
+
+· AMC Contracts and its annexure in PDF
+
+· Generated Layout for Imports Purchase Order
+
+· UPS Final Inspection Test report
+
+· New Barcode Label for the newly defined material
+
+INTERFACES: 
+
+· BDC Programs for transaction XK01, XD01, VA01, VA41, IW41, CO40, QE11.
+
+Modulepool:
+
+· Material Description(VBAP-ARKTX) of Screen 4900 of Program SAPMV45A made as output only field for transactions VA01 and VA02
+· Included additional field in Screen 2001 of MM01 (Basic Data1) screen 
+
+· Created Customized Screen to upload data from Measuring Instrument in CSV format to ZTABLE by providing relevant details for the particular Identification Number
+
+EXIT/BADI:
+
+· Included the logics based on the business in User Exits MV45AFZZ and RV60AFZZ 
+
+· Implemented BADI “ME_PROCESS_PO_CUST” to restrict the user during PO creation when the Supplying Plant & receiving plant is identical
+· Implemented the BADI “MRM_HEADER_CHECK” in MIRO to restrict the user for posting the document when the Vendor Currency and the PO Currency mismatches
+
+ ENHANCEMENT:
+
+· Created Enhancement in MV45FAZZ for restricting sale order creation when 
+the material is not cost updated. 
+· Enhancement in RQEEAL10 (QA32) to restrict the inspection type to particular 
+
+End User
+
+Numeric UPS Business.
+
+Listed below a few ABAP Objects which was created and changed before the transfer of NUMERIC UPS business
+
+REPORTS:
+
+· Created Production Order status report
+
+· Created new report to Schedule all the existing reports in Background based on the authorization given for the end user maintained Z tables.
+
+· Changed the Balance Sheet report for the dynamic output based on the business area defined in the system
+
+· Copied ME2W standard report and included new fields.
+
+· Developed BOM Changes Analysis report to analyze the Component Changes based on the Production order.
+
+MODULE POOL: 
+
+· End User Password validation done in the End user login screens.
+· Stage-wise Production Status / monitoring
+SMARTFORMS:
+
+· Changes in the already existing invoice (Commercial, Excise) Layouts when there are new Plant rollouts.
+
+· Created a new Layout for Good Receipts Note
+
+NON - SAP Experience
+SOFTTRACK (from June 2006 to May 2011)
+
+Soft-track was the internal package developed in VB with back end Oracle used in Numeric Power Systems for Business process.
+
+PERSONAL PROFILE 
+
+Husband’s Name
+
+
+K. Baskar, Commodity Manager,
+
+NCR Corporation India P Ltd, 
+MWC, Chengalpet 603004
+
+Date of Birth
+
+
+
+04.04.1978
+
+Language Known
+
+
+Tamil, English 
+
+Total years of Experience
+
+
+9 years
+Relevant Experience in ABAP
+
+3+ years
+Last CTC
+
+
+
+
+INR 3.80 Lacs
+Expected CTC
+
+
+
+On par with Industry standards
+Notice Period
+
+
+
+Immediate / 1 week
+Current Location
+
+
+
+Mahindra World City, Chennai
+Pan Card Number
+
+
+
+AVAPP7084L
+**********************
+

@@ -1,0 +1,168 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7639074820
+nidhibamanoharan@gmail.com
+
+PROGRAMMING	LANGUAGE
+Java	8.0
+------------------------------------------
+SCRIPTING	LANGUAGE
+JavaScript
+------------------------------------------
+MARKUP	LANGUAGE
+XML
+HTML
+------------------------------------------
+LIBRARIES
+Google	Closure
+jquery
+------------------------------------------
+APPLICATION	FRAMEWORK
+Spring	MVC
+------------------------------------------
+DATABASE
+Cassandra
+Key-Value	Store	(KVS)
+
+SKILLS
+
+Primary	experience	in	development	of	web	application	which	includes
+Requirement	gathering	,	Analysis	,	Design	,	Development	,	Testing	and
+Deployment	.	Proven	ability	to	coordinate	and	work	in	acheiving	high	levels	of
+productivity	and	efficiency	in	complex	,	dynamic	and	challenging
+environments	.	Strong	Experience	in	writing	SQL	statements.
+
+SUMMARY
+
+WORK	EXPERIENCES
+
+2016-07-01 to
+current
+
+Software	Engineer
+IVTL	Infoview	Technologies	Private	Limited
+
+PROJECTS
+
+1.HUE	AI	WORKS
+AI	WORKS	offers	all	the	necessary	business	tools	in	one
+place.	It	is	the	first	enterprise	software	suite	with	built-in
+productivity	tools	such	as	spreadsheet,	scheduler,	email,
+chat,	and	drive.	Users	will	never	have	to	switch	between
+systems	to	get	their	job	done.
+
+2.SCM	SUITE
+SCM	Suite	is	well	versed	in	the	unique	characteristic
+circumstances	of	each	country's	industries	and	public
+organizations,	and	enables	integrated	management	of
+work	processes	such	as
+*	Procurement	management
+*	Purchasing	management
+*	Sales	management
+*	Cost	management
+
+RESPONSIBILITIES
+*	Ensure	high	speed	processing	using	tools	such	as	key-
+value	store	(KVS)	database	technology	with	uniquely
+developed	transaction	management	system	and	server-
+side	rendering	framework	,	Forneus.
+*	Automate	suggestions	to	user	using	Elasticsearch	as
+search	engine.
+*	To	Suggest	additional	functionalities	to	the	application
+for	enhancing	the	quality	of	the	product.
+*	To	upgrade	existing	product	with	the	advanced
+technologies	to	cope	up	with	any	changes	in	the	field.
+
+Nidhiba	Manoharan
+Software	Engineer
+
+
+
+EDUCATION
+
+2012-08-01 to
+2016-05-01
+
+Mepco	Schlenk	Engineering	College
+Computer	Science	and	Engineering|Bachelor	of
+Engineering
+
+CGPA	:	7.3
+
+CERTIFICATIONS
+
+Acquired	BUSINESS	ENGLISH	CERTIFICATE	VANTAGE	credited	by	University
+of	Cambridge
+Completed	a	cource	on	PROGRAMMING	IN	JAVA	conducted	by	Oracle.
+Completed	VALUE	ADDED	COURSE	ON	CORE	JAVA	conducted	by	Mepco
+Schlenk	Engineering	College.
+Completed	a	course	on	CLOUD	INFRASTRUCTURE	AND	SERVICES	conducted
+by	the	ICT	Academy.
+
+COCURRICULAR	CREDITS
+
+*	Presented	Paper	on	LIFI	TECHNOLOGY	in	a	National	Technical	Symposium.
+*	CREATIVE	LEAD	of	Google	Students'	club.
+*	IDEA	HEAD	of	Science	Forum	Association.
+
+ACADEMIC	PROJECTS
+
+USER	IDENTIFICATION	ACROSS	MULTIPLE	SOCIAL	NETWORKS
+DESCRIPTION	:			
+
+															Today	it	is	common	that	people	are	users	of	more	than	one	social	
+network	having	their	virtual	identities	in	Networks	like	Facebook	,LinkedIn	etc.
+This	project	aims	at	enhancing	the	search	algorithm	for	finding	a	particular
+profile.To	acheive	this	the	method	implemented	is	PROFILE	MATCHING.
+We	collect	data	from	two	popular	social	networks	to	study	the	similarity	of	
+profile	definition.We	evaluate	the	importance	of	fields	in	the	web	profile	and
+develop	a	profile	comparison	tool.	We	demonstrate	the	effectiveness	and	
+efficiency	of	our	tool	in	identifying	and	consolidating	duplicated	users	on	
+different	websites.
+
+EYE	CHECKUP	WEBSITE:
+DESCRIPTION	:
+		
+														Many	people	don't	have	their	eyes	tested	regularly;	only	this	can	
+ensure	that	we	can	always	benefit	from	optimum	vision.After	all,	our	eyes,
+and	hence	our	vision,	are	subject	to	a	process	of	constant	change	as	we
+get	older,	and	this	often	goes	unnoticed.The	first	sign	that	our	vision	is	
+deteriorating	is	not	always	blurred	or	unfocused	vision.	Headache	or	eye
+strain	in	the	evening	could	also	indicate	defective	vision.Hence	this	project	
+was	developed	for	vision	tests	which	provides	the	user	with	instant	results
+that	help	him	/	her	do	self-analysis	about	their	vision.
+
+

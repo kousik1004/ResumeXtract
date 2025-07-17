@@ -1,0 +1,313 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+
+Vidya Sagar
+Mobile: + 91 9790742040
+E-mail
+: nagurvidyasagar@gmail.com
+
+
+Total 9.8 years of IT Experience with 6.8 years in Networking & Network Security
+CAREER OBJECTIVE
+
+
+Seeking a challenging career in Networking and Network Security domain in an organization which is progressive in nature, where I can utilize my skills and abilities for the betterment of the organization and myself while being flexible.
+TECHNICAL SKILLS
+
+· VPN: Configuration & Troubleshooting L2L VPN, Easy VPN, Remote Access VPN, SSL VPN, GRE based VPN, GET VPN & DMVPN. Configuration of VPN between multi vendor products like Cisco PIX/ASA, Juniper SSG/SRX and Microsoft Azure Cloud.
+· Firewall Devices with Advanced Security: Zone Based Policy on Cisco IOS, MPF (Modular Policy Framework) on ASA, CBAC, IP address translation (NAT/PAT) in ASA (Nat-exempt, static identity NAT, Policy NAT, Dynamic NAT), Traffic Filter using object group, ASA Failover, Firewall  configuration and troubleshooting, ASA in Multiple Context Mode configuration and troubleshooting, Configuration and troubleshooting ASA in transparent mode, configuration of Application aware inspection on Cisco ASA.
+
+· Routing Protocols : RIP, EIGRP, OSPF, BGP.
+· LAN Switching Technologies: Ethernet, STP, VLAN, VTP, PVST+, RSTP.
+· IP Services: Redundant Service HSRP, VRRP, GLBP.
+
+· Iron Port: Configure and maintaining WSA and proving policy based access.
+· ISE (Identity Service Engine): Configure and monitoring ISE in live environment and proving policy based access to corporate users and corporate devices.
+· L2-Security: MAC ACL, Private VLAN, DHCP Snooping, ARP inspection, IP Source Guard, Port Security.
+· L3-Security: NAT/PAT, Port mapping, Device Hardening (Telnet,SSH, NTP,ICMP), Access-lists and others services configuration and troubleshooting, TCP intercept, Policing Traffic at Layer-3, AAA Configuration, Cisco Secure ACS  (TACACS+ & Radius) and Syslog Server.
+· Bandwidth Management: Bluecoat Packet Shaper
+
+· Network Monitoring & Logging : Solarwinds and Splunk
+· VA & PT Tools : Nessus, NMAP, Metasploit, Wireshark
+
+· Operating Systems : Kali Linux, Windows 7/8/10 and 2008/2012 Server
+
+· Ticketing tools : Assure Service Desk (Hitachi), BMC Remedy and HP Openview
+· Cloud Technology : Microsoft Azure (Networking and VPN)
+Familiar With Cisco Routers 2500, 2600, 2800, 7200, Catalyst Switches 2900, 3550, 3700, 4500, 6500, Security Devices Cisco PIX 515, ASA 5510, 5540 & 5550 Firewalls, Juniper SSG & SRX Firewalls and Microsoft Azure Cloud.
+PROFESSIONAL CERTIFICATIONS
+
+· Cleared CCIE Security Certification Written Exam
+· Attempted CCIE Security version 4.0 Lab Exam
+· CCNA – Cisco Certified Network Associate (Routing & Switching)
+
+· JNCIA JunOS – Juniper Networks Certified Network Associate
+
+· CEH v8 – Certified Ethical Hacker version 8
+
+· ITIL v3 Foundation
+EXPERIENCE
+
+Hitachi Consulting as Senior Network Security Consultant
+
+Duration : Feb 2016 to till date (Currently serving notice period)
+
+Tools / Devices used :
+
+
+Security
+
+: Cisco ASA, Juniper SSG, Juniper SRX and Fortigate(Read only)
+
+Cloud 
+
+
+: Microsoft Azure Cloud
+
+
+Monitoring & Logging
+: Splunk, HEMS and Rancid
+
+Ticketing Systems 
+: Assure Service Desk
+
+Other tools
+
+: Secure CRT, Putty, Wireshark, NMAP and Ping Plotter
+
+Responsibilites :
+
+· As part of Euro Infrastrucre team, working closely with team of 30 consultants (Netowork Consultants, Windows Server admins, UNIX admins and DBAs) based in India, London and Portugal.
+· Responsible for managing and Troubleshooting Hitachi own firewalls (located in UK) and more than 45+ clients network infrastructure across UK.
+· Management and Troubleshooting networking and VPN part of client Azure Cloud.
+· IP Designing & subnetting for various projects / clients networks.
+
+· Configure and Maintaining Access Control Lists for various customers across UK.
+· Configuring Static routes for various customers in Hitachi firewalls and configuring static routes client owned firewalls.
+
+· Configuring and maintaining Tunnels between Hitachi and other clients.
+
+· Configuring and maintaining Tunnels between client network and 3rd party vendors.
+· Configuring and maintaining Tunnels between Hitachi network / client network to Microsoft Azure Cloud.
+· Configure and managing NAT, PAT and Access List for providing access.
+
+· Preparing & Maintaining network diagrams & reports for various audit purposes. 
+
+· Daily basis network health check up for all network devices.
+
+· Interacting with client for any application issues and new application deployment.
+
+· Testing DR (Disaster Recovery) Plan.
+
+· Monitoring Network Performance using HEMS (Hitachi Event Management System).
+· Handling P1, P2, P3 and P4 tickets through Assure Service Desk.
+· Major clients for network management : NHS, JLT, Wiggle, Financial Times and PHE
+
+· Major clients for Azure Network Management : Copenhagen Smart City Project, ASOS and HRE (Hitachi Rail Eurpoe)
+
+HCL Technologies as Senior Network Engineer (L3 Network Engineer)
+Duration : January 2010 to January 2016
+
+Tools / Devices used :
+
+
+Cisco Routers
+
+: Cisco 7206 VXR, 3845, 3745 Routers
+
+
+Cisco Security
+
+: Cisco PIX 515 and Cisco ASA 5510, 5540 and 5550
+
+Cisco Switches
+: Cisco 6500, 4500, 3500, 2900 Series 
+
+
+Monitoring Tools
+: Solarwinds, Cisco Secure ACS 4.2, Bluecoat Packet Shaper 10000.
+
+
+Wireless Devices 
+: Cisco 2504 Wireless Controller, Cisco AIR-LAP1042N AP
+
+
+Ticketing Systems 
+: BMC Remedy and HP OpenView
+
+
+Other tools
+
+: Secure CRT, Putty, Wireshark, NMAP, Nessus and Ping Plotter
+
+
+Responsibilites :
+
+· Installing, configuring and maintaining Cisco Catalyst 6500, 4500, 3500, 3600 and 2900 series switches.
+
+· Installing, configuring and managing Cisco Routers 7206 VXR, 3845, 3745 Routers.
+
+· Creating and maintaining VLANs, STP, VTP, Ether-Channel, HSRP, Inter VLAN routing, Port Security.
+
+· IP Designing & subnetting for various projects.
+
+· Configuring and Maintaining process wise Access Control Lists.
+
+· Configuring and maintaining various routing protocols (EIGRP, OSPF, BGP, static route, default route and route-map) for managing different sites.
+
+· Configuring and maintaining Tunnels for managing Intra Network.
+
+· Configuring and Maintaining route-maps and providing best path as per bandwidth and company policy.
+
+· Involved in troubleshooting & maintenance of WAN setup of company Included 6 Metro Ethernet Links (Service Providers: VSNL, Airtel and Reliance).
+· Implementing & Troubleshooting of more than 200 clients having Site to Site VPN, Remote access VPN, Easy VPN, GRE and GRE+ IPsec and DMVPN.
+
+· Configuring and Maintaining GRE tunnel as per process requirement.
+
+· Successfully implemented several projects for multiple US, UK clients. It includes network design, site migration, and setting up datacentre.
+
+· Configure and managing NAT, PAT, DMZ and Access List for providing access.
+
+· Prepare and maintenance of documents & records related with routers, switches and firewalls.
+
+· Network planning, troubleshooting of LAN & WAN connectivity across all locations.
+
+· Configure and managing Cisco Secure ACS V4.2.
+· Preparing & Maintaining network diagrams & reports for various audit purposes. 
+
+· Handling audits & providing inputs for all network related queries.
+· Daily basis checking network health check up for all network devices.
+
+· Daily basis taking Link Utilization reports for audit propose.
+
+· Maintaining various trackers/registers related to Devices, Issues raised with ISP and major incidents
+
+· Interacting with client for any application issues and new application deployment.
+
+· Testing DR (Disaster Recover) Plan for avoiding Process downtime.
+
+· Co-Ordination with Cisco TAC for hardware issues with Cisco devices.
+· Managing bandwidth using Bluecoat Packet Shaper device.
+
+· Monitoring Network Performance using Solarwinds.
+· Maintaining P1, P2, P3 and P4 ticketing system using HP Open View.
+Implementation Project Handled :
+
+Client : State Steet HCL Services
+Locations : Chennai, Coimbatore and Pune
+
+Number of users : 2500
+
+Project Details : 
+
+
+Worked on a Implemention project for State Street HCL Services which includes building a network with new 3 sites with Data, Voice and Video conference services. This network is setup between Chennai, Coimbatore and Pune. This project includes installation & configuration of Cisco Switches & Routers, creating VLANs, configuring routing protocols etc. Site went live with 2500 users.
+
+HCL Technologies – BPO Services as Technical Support Officer (L1 Engineer)
+Duration : January 2008 to December 2010
+Profile : 
+
+· Building, configuration and troubleshooting of desktop hardware.
+· Troubleshooting and repairing of Desktops and Laptops.
+
+· Designing, implementing and managing Active Directory.
+
+· Installation of windows 2003, Configuring DNS, DHCP and Active directory.
+
+· Use Active Directory to add/delete user accounts & perform updates on user accounts.
+
+· Windows Operating System Installation, Configurations and Troubleshooting.
+· Ensure adequate antivirus protection & solutions are maintained and updated.
+
+· Network and TCP/IP Configuration and Troubleshooting
+
+· File and Permission Management
+
+· Provided functional and technical support, troubleshooting and diagnosing hardware and software problems, including desktop, laptop, LAN, and remote  systems.
+
+· Maintaining maximum availability of supported services for users.
+
+· Ensuring that support calls are logged and handled effectively and efficiently 
+· Taking care of cabling, mounting switches, routers & servers
+
+· VLAN changes and Static routing changes (L1 Network Engineer tasks)
+
+· Managing access switches. 
+
+ACADEMIC QUALIFICATIONS
+
+· Completed B.Tech (Computer Sciences & Engineering) from JNTU – Hyderabad.
+
+PERSONAL PROFILE
+Full name
+
+: Nagur Vidya Sagar
+Father’s name
+
+: N Prabhakar
+
+Date of birth
+
+: 5th Feb 1985
+Gender
+
+: Male
+Nationality 
+
+: Indian
+
+Passport Number
+: F8868141
+PAN Number
+
+: AGQPV7918Q
+Languages known
+: English, Hindi, Telugu and Tamil
+PAGE  
+3
+

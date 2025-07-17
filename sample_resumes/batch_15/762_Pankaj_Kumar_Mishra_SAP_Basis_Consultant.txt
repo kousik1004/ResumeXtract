@@ -1,0 +1,207 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Pankaj Kumar Mishra – SAP Basis Consultant                                                                                Contact No: 9620212519								Current Location: Bangalore		
+Email id : mishra.pankaj1982@gmail.com						Role Designation and Job Level : Senior Consultant 
+
+
+Summary
+· Around 10 years 6 months of experience in SAP BASIS – Administration and Consulting in SAP ERP and NetWeaver with implementations and high end support projects working both from Offshore and Onsite Deliveries.
+· Currently working with Hewlett Packard Enterprise to support European clients.
+· Worked in 2 end to end implementation projects from client locations and from offshore– helping the client in migrating from existing SAP Hardware to new Hardware.
+· Worked in 2 Upgrade project (ECC 5.0 to ECC 6.0 EhP4 and NetWeaver 640 to NetWeaver 7 with EhP1).
+· Developed good skill sets in administration and consulting of SAP ERP and SAP NetWeaver with end to end implementations and high end support projects from both Onsite and Offshore models.
+· Worked as a single point of contact and administrator for multiple projects from the offshore delivery center. Experience in working with multiple vendors and geographically distributed teams.
+· Experience in identifying and fixing performance issues and providing recommendations and implementing changes to achieve high performing SAP systems.
+· Experience in Hardware migrations of SAP landscapes with inclusion of new scenarios as per client specification.
+· Extensive experience in analyzing and solving day-to-day Production issues with client facing skills
+
+
+Key Domain and Technical Knowledge
+· Domain: SAP BASIS Administration & Implementation in Manufacturing models, HR models with Business Intelligence, Enterprise Portal, SAP CRM and other functional specifications	
+· Technical: SAP ERP & SAP NetWeaver Components – with all Unix Platforms, Linux and Windows environments integrated with Oracle, MS SQL, HANA and Max DB databases
+
+Academic Qualification
+· Bachelor of Engineering in Information Technology in 2006 from RGPV Bhopal with 70%.
+
+Certifications / Professional Awards:
+
+· Received Champion of the month award for the month of March 2010 for CDOT project.
+· Received best employee award for Project Daimler AG in January 2015 from Infosys.
+· SAP Certified Technology Associate – SAP HANA (Edition 2016)
+· Certified in the ITIL v3 foundation
+
+
+
+Total Work Experience:
+
+ACS Systech Integrators Pvt Ltd		:	7th Feb 2007 to 30th Nov 2009
+ACS India Pvt. Ltd			:	1st Dec 2009 to 4th Nov 2010
+Satyam Computer Services Ltd		:	10th Dec 2010 to 5th Apr 2011
+Fujitsu Consulting India Pvt Ltd		:	6th Apr 2011 to 30th March 2014
+Infosys Ltd.				:	30th March 2014 to 30th May 2015
+Hewlett Packard Enterprise		:	17th June 2015 to Current
+
+
+
+Projects List Last 2-3 projects
+SAP Basis Delivery Lead
+
+Project Title : Airbus Basis Support
+Client : Airbus France
+Duration : From April 2016 to Current
+Description: Airbus is a division of the multinational Airbus Group SE that manufactures civil aircraft. It is based in Blagnac, France, a suburb of Toulouse,[1][2] with production and manufacturing facilities mainly in France, Germany, Spain, China, United Kingdom and the United States. The company employs 72,816 people.
+Roles and Responsibilities
+· Providing end to end 3rd level of support for 2 BW landscape and a German manufacturing landscape.
+· Responsible for implementing change procedure on existing landscape, analyzing issues and working with customer to solve the issue.
+· Working with other teams like Backup, Storage, UNIX, Level1 and Level2 SAP team, Windows hosting for co-ordination.
+· Working on day to day activities like brtools administration, database index compression, tablespace management.
+· Managing risk and escalating appropriately to higher management.
+· Managed end-to-end upgrades of ERP and BI system till production, which includes technical plan preparation, client interaction & technical discussion with multiple stake holders.
+Skills at HANA
+· HANA 1.0 SP11 Installation + HANA Client Installation.
+· HANA backup configuration using backint.
+· Hands on Experience in SAP HANA DB Revision Update.
+· Hands on with HANA system copy.
+· HANA DB Start/Stop
+
+
+
+Project Title: ERP Factory - Implementation
+Client: Thyssenkrupp Elevator, Thyssenkrupp 
+Duration: From May, 2015 to April 2016
+Description: ThyssenKrupp AG (stylized for current logo as thyssenkrupp AG) /ˈtɪsɛn.krʊp/ is a European multinational conglomerate corporation based in Duisburg and Essen, Germany. The corporation consists of 670 companies worldwide. While ThyssenKrupp is one of the world's largest steel producers, the company also provides components and systems for the automotive industry, elevators, escalators, material trading and industrial services.
+Role and Responsibilities 
+· Worked with ERP Factory project to support Thyssenkrupp for new system installation and implementation.
+· Coordination of team for Allocation of tickets, Issue resolution and closure.
+· Single point of contact for build system related issues.
+· Handling The Team and balance the Work load among the Team, Sharing the Equal Amount of Responsibilities.
+· Coordinating with client to gather requirement and prepare SAP implementation roadmap. Managing the day today Activities with offshore and onsite teams
+· Performed ECC Ehp8 upgrade using SUM tool.
+· Performed Oracle restore/recovery procedure in the landscape.
+· Applying HANA revision updates & Support package upgrades 
+· Performed and managed Oracle upgrade from 11i to 12g for entire landscape.
+· Installations of SAP systems on NW 7.4 and NW 7.5 with latest components.
+· Installation of SAP component on SAP HANA.
+· Installation of HANA DB SPS11 
+· MSSQL 2008 R2 upgrades & Administration 
+· Installation of Java engine
+· Oracle upgrade 11g to 12c
+· Database refresh
+· System migration
+· Language Installation and Supplementation
+· Support Pack Implementations
+· Kernel Upgrade(s)
+· Client Copy 
+· Performance Tuning
+· Support and maintenance for SAP systems
+
+Project Title: Daimler AG, EDC EOO – Offshore – Support
+Client: Daimler AG, Bangalore, Karnataka, India
+Duration: From April, 2011 to May, 2015
+Description: Daimler is the world’s most successful automotive companies. With its divisions Mercedes-Benz Cars, Daimler Trucks, Mercedes-Benz Vans, Daimler Buses and Daimler Financial Services, the Daimler Group is one of the biggest producers of premium cars and the world’s biggest manufacturer of commercial vehicles with a global reach. Daimler Financial Services provides financing, leasing, fleet management, insurance and innovative mobility services.
+
+Role and Responsibilities 
+· Worked in Daimler AG Account for the offshore support with Level 2, Implementation and Currently in Level 3 – Provider System Responsible role – ensuring as a single point of contact for all technical and project level activities and issues for the customer.
+· Responsible for designing SAP system Landscapes, Implementing Change procedures on existing landscapes, analysing issues and working with customer to solve them, Analysing future requirements and Performance requirements for smooth operations of SAP Systems.
+· Working with different Monitoring tools like Xandria for data collection and reporting, different levels of interfaces needed for SAP systems data loading, different levels of networking landscapes enabling internal and external communication.
+· Working with other Project teams like – Operating Systems, Backup and Recovery, Middleware, Windows Hosting, Networks and Database to provide End to End support for the Customer.
+· Providing Database level trainings on Administration and Operations to other colleagues in Oracle.
+· Co-ordination with onsite track leads and engaging with Customers.
+· Ensuring process effectiveness and continual service improvement.
+· Managing risks and escalating appropriately to Sr Management.
+·  Managing Support operations to Agreed SLAs like performing cluster switch test yearly for given landscape.
+· Infrastructure review and system sizing to provide a 99.4% availability (planned and unplanned)
+
+Project Title: CDOT – SAP Support and Upgrade – Onsite Implementation
+Client: Colorado Department of Transportation 
+Duration: From July, 2008 to 4th Nov 2010
+Description: The Colorado Department of Transportation (CDOT, pronounced See Dot) is the principal department of the Colorado state government that administers state government transportation responsibilities in the state. CDOT is responsible for maintaining 9,144 mile highway system, including 3,429 bridges with over 28 billion vehicle miles of travel per year. CDOT's Mission is "To provide the best multi-modal transportation system for Colorado that most effectively moves people, goods, and information."
+Roles and Responsibilities
+· SAP BASIS Consultant Onsite to plan and upgrade the SAP Systems at the client location and help the upgrade of ECC and portal systems with regular activities and maintenance.
+· The project had implementation of SAP ERP – ECC 6.0 with EHP4, SAP NetWeaver – EP 7.01, SAP Solution Manager 7.1, SAP BI 7.0 with EhP1. All the three system landscapes were implemented on Windows 2007 and with SQL 2005.
+· My role in the project starts with doing the daily maintenance activities which includes monitoring the SAP system, performing transports, performing regular system refreshes of ECC and BI systems. Maintaining the portal landscapes of CDOT.
+· Performed the hardware migration of ECC systems.
+· I also had the responsibility as a member in ECC upgrade and owner of portal upgrade from NetWeaver version 640 to NetWeaver version 7.0 with EhP1.
+· Training the customer side BASIS Consultant for the daily maintenance and planning activities.
+· Performed Portal upgrade from NetWeaver version 640 to NetWeaver 7.0 with EhP1
+· Went to US for 6 months for upgrade support for project CDOT.
+
+Project Title: ACS AMS Support
+Duration: From March 2007 to June 2008
+Roles and Responsibilities
+· System refresh of QAS environment with PRD database. 
+· Java system Monitoring through NetWeaver administrator. 
+· Solution Manager: Configuration of EWR for satellite systems (BW and R/3 landscape).
+· CCMS Configuration in Solution Manager.
+· Service Desk configuration in solution manager.
+· Setting up a solution landscape in transaction smsy.
+· Early watch configuration.
+· CCMS configuration.
+· Central system administration in solution manager.
+· Configuration of Maintenance optimizer.
+· Interface configuration between BI system and BOBJ.
+· Solution Manager central SLD maintenance.
+· BW and Enterprise Portal Integration.
+· Applying the support package in R/3, BW and Java systems.
+· Working on user’s problem. 
+· Moving transport requests in quality and production. 
+· Monitoring ABAP Systems: Daily Monitoring activities like Analyzing database performance, workload analysis buffer statistics, SQL trace, operating system monitor, database locks, update termination, system log, ABAP dumps, Background job overveiew, work process overview, globle work process overview.
+· Java system startup troubleshooting. 
+· ADS, SLD, JCO configuration in EP6.0 and EP 7.0 
+· SSO Configuration between portal and ABAP system.
+· Worked on service desk configuration in solution manager.
+Trainings & Achievements 
+· SAP Basis Training – Internal By ACS Systech Integrators Pvt. Ltd. 
+· Awarded Best Performer award for year 2014-15 from ERP track for Level 3 role in Daimler Account with Infosys. 
+Personal Information
+· Gender		             :	Male
+· Marital Status		:	Married
+· Email-ID		:	Mishra.pankaj1982@gmail.com
+

@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+SASI KUMAR SAGABALA                                                      
+Test Engineer,                        
+
+Infosys Limited,                    +91 9493815152 
+
+Bangalore.                sasikumarsagabala@yahoo.com 
+
+ 
+SUMMARY: 
+
+ 3.2 years of experience in ETL and Big Data Testing. 
+
+ Experience in testing, Application migration, Data migration, BI reports and Dashboards. 
+
+ Good knowledge on Data Warehousing and Big data. 
+
+ Experience in Testing Big data using Hadoop components Hive, PIG, Sqoop, Oozie and HBase. 
+
+ Experience in testing ETL applications using Ab Initio and Informatica Power Center 
+
+ Commendable Knowledge of SQL and Unix Commands. 
+
+ Hands on experience in designing, reviewing and executing Test Cases. 
+
+ Willing to learn and work on new technologies and tools. 
+
+EMPLOYMENT: 
+
+ Working with Infosys Limited as a Test Engineer since October 2014 in Data Services vertical. 
+
+TECHNICAL SKILLS: 
+
+ Hadoop Components :   HDFS, Basic Map Reduce, Hive, Pig, Sqoop, Oozie, Hbase 
+
+ ETL Tools           :   Informatica Power Center 9.0, Ab Initio 3.0 
+
+ Defect Tracking Tools     :   JIRA, HP Quality Centre, Service Now 
+
+ Databases           :   Oracle, My Sql, MS SQL Server 
+
+ Other Tools           :   HPSA, Tableu, Toad, WinSCP, SQL Developer, Citrix 
+
+ Programming           :   SQL, Core Java, Basic C, C++ and Mainframe JCL 
+
+EDUCATION: 
+
+ 2013: B.Tech in Computer Science from SCVRITS College, JNTUA, Andhra Pradesh. 
+
+ 2009: Intermediate from Govt. Jr College, Kalikiri, Andhra Pradesh. 
+
+ 2007: S.S.C from Z.P High School, Kanduru, Andhra Pradesh. 
+
+WORK EXPERIENCE: 
+
+  Project 1:  MyMi – ETL Application and Data Migration Testing (Client: RBS, United Kingdom) 
+
+  Project Description: 
+
+ As part of Williams & Glyn (W&G) bank separation from Royal Bank of Scotland(RBS), there    
+
+    was a need to migrate the data and applications from RBS to W&G and Develop a new ETL application    
+
+    for W&G. This project covers the effort of migrating all the divested customer’s data and developing     
+
+    new ETL application (MyMi) for W&G which is a cloned version of RBS.  
+
+  Tools used: Informatica 9.5.1, Informatica DVO, Toad 10.0, HP Quality Centre and HPSA. 
+
+ 
+
+mailto:sasikumarsagabala@yahoo.com
+
+
+ 
+ 
+
+  My responsibilities in ETL application testing: 
+
+ Preparing Test conditions and Test cases by understanding ETL mapping document. 
+
+ Analysing the Informatica workflow’s transformation mappings to prepare test data. 
+
+ Validating the transformations against functional requirements using test data. 
+
+ Executing the test cases by running the workflows and debugging the issues found. 
+
+ Raising the defects for valid issues, re-test those after fix and get it to closer. 
+
+ Querying the database to check the data movement from source to target by doing Structure 
+
+check, Record count check, Data Validation and Transformation check. 
+
+ My responsibilities in Data Migration testing: 
+
+ Creating the automated test scripts in Informatica DVO. 
+
+ Involved in Database testing validations like table structure, data type and constraint checks. 
+
+ Validating the target data against source data for Record count, Data Validation and Data 
+
+transformations checks. 
+
+ Project 2: Atlas Data lake migration Testing (Client: Sun Trust, United States) 
+
+  Project Description: 
+
+              Sun Trust Banks inc, one of the largest banks in USA, wanted to build an   
+
+   Enterprise Big Data solution, which will allow, creation of analytical environments to support    
+
+   various analytical communities. This project involves source migration from RDBMS to HDFS    
+
+   and migration of existing Ab Initio ETL applications to Hadoop ETL applications. 
+
+   Cloudera distribution has been used for entire Hadoop Appliance. 
+
+  Tools Used: Ab Initio 3.0, Hadoop 2.0, Hive, Pig, Sqoop, Oozie, JIRA, Oracle SQL Developer,  
+
+  My responsibilities in Source Migration testing: 
+
+ Testing the ingested data, from various sources to HDFS. 
+
+ Involved in functional study of business rules by referring the mapping document 
+
+ Running Ab-Initio ETL jobs and analyse Graphs at component level to debug the issues. 
+
+ Validating the ETL jobs output against production data. 
+
+  My responsibilities in ETL Application migration testing: 
+
+ Understanding the existing and new applications from requirements documents. 
+
+ Working closely with developers for test strategy and test case designing. 
+
+ Involved in testing functionality of PIG transformation jobs. 
+
+ Created external Hive tables to validate the transformed data against production data. 
+
+ Raising the Defects for the issues found, re-test those once got fixed and get it to closure. 
+
+ Tested data unloading from Hive to oracle. 
+
+ Involved in frequent discussions with onshore team and client. 
+
+
+
+ 
+ 
+
+Other Projects: 
+
+ Mainframe to Java Legacy Modernization Testing (Client: TTI, US) 
+
+ Involved in test plan, test strategy and test case designing. 
+
+ Involved in testing data migration from DB2 to Oracle. 
+
+ Involved in functional testing and regression testing of newly developed java jobs. 
+
+ BI report testing (Client: RuffaloNL, US) 
+
+ Involved in testing BI reports Web Interface. 
+
+ Involved in testing Tableu Dashboard against Database data. 
+
+ Involved in validating the BI reports against Backend data. 
+
+ACHIEVEMENTS: 
+
+ Received Infosys IVS RBS-AFE-Gold Award, under valuable team player category. 
+
+ Received Infosys INSTA Award for being asset to the team. 
+
+ Won the Debugging contest conducted by S. K. University during graduation. 
+
+ Undergone ETA – Foundation Training Program at Infosys Limited, Mysore  
+
+on Java, RDBMS, HP UFT, DWT and Big Data Testing. 
+
+CERTIFICATIONS: 
+
+ INFOSYS IVS TECHNOLOGY CORE TEST ENGINEER 
+
+ INFOSYS IVS TECHNOLOGY DATA WAREHOUSE TESTING 
+
+ INFOSYS CERTIFIED BI INFORMATICA PROFESSIONAL 
+
+ INFOSYS BUSINESS COMMUNICATION ENABLEMENT CERTIFICATION LEVEL 1 & 2 
+
+PERSONAL DETAILS:  
+ Strengths   :   Curious, Responsible, Discipline and Flexible 
+
+ Interests    :   Music, Badminton, Cricket, Cooking and Observing 
+
+ Languages Known  :   English, Hindi, Telugu and basic Kannada 
+
+ Date of Birth   :   02nd April 1992 
+
+OTHER DETAILS: 
+
+ Alternative contact number :    +91 8618405647 
+
+ Alternate Mail ID  :    sasikumarsagabala@gmail.com 
+
+ 
+
+DECLARATION: 
+
+I hereby declare that the above mentioned information is true to the best of my knowledge. 
+
+Place: Bangalore          
+
+ 
+
+       
+
+mailto:sasikumarsagabala@gmail.com
+

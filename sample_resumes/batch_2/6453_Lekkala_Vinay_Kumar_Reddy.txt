@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+                                                        Lekkala  Vinay Kumar Reddy 
+
+91 9491435220
+						                                              Email :  vk949143@gmail.com
+
+Over all 3.0+ years of Big Data Analytics experience in Hadoop/Spark developer for enterprise systems and currently working as at United Health Group HYD from Aug-2015 to present.
+Profile Summary
+
+· Hands on experience in developing enterprise based applications using major Hadoop ecosystem components like HDFS, YARN, Hive, Pig, Sqoop, HBase, Spark Core, Spark SQL and Scala.
+· Good understanding/knowledge of Hadoop architecture and various components such as HDFS, Job Tracker, Task Tracker, Name Node, Data Node and Map Reduce programming paradigm
+· Proficient in performing Data Transformations and Data Analysis using Spark RDD's, Spark Data Frames and Spark SQL .
+·  Expertise in Data Ingestion and Data Streaming. Importing and Exporting Data using Sqoop from Hadoop , Distributed File System to RDBMS and vice versa. 
+·  Experience in working with relational databases and integrating with Hadoop Infrastructure and pipe the data to HDFS. Experience in analyzing data with Hive. 
+· Having knowledge in HIVE to HBASE integration.
+· Ingesting real time and near real time streaming data into HDFS and processing it using Flume and Spark Streaming.
+· Experience in importing data to HDFS through Flume. 
+· Strong Knowledge Kafka, Strom, Spark streaming and  integrations  
+·  Experienced in handling various file formats like AVRO, PARQUET, JSON, ORC, SEQUENCE, TEXT and compression techniques.
+· Good working knowledge with Sqoop, Hive and Pig.  
+·  Comprehensive knowledge of Hadoop ecosystem and it's components including HDFS, Mapreduce, YARN, Hive, Flume, Sqoop, Oozie, HBase and Zookeeper. 
+· Strong Analytical skills and Communication skills. Expertise in Troubleshooting, Complex problem solving, 
+· Researching, presenting and MS Office. A team player with positive attitude, willingness to learn new concepts and face any challenges.
+
+Technical skills       
+ 
+Technical skills		: Big Data Tools / Framework Hadoop (HDFS, MR), 
+  Spark core, Spark SQL, Spark Streaming, Sqoop
+Distribution systems            :  MAPR
+Data Streaming		: Flume, Kafka, Strom (knowledge)
+Data Analysis Tools	: Hive 
+IDE’s			: Eclipse and IntelliJ
+Programming skills	: Java, Scala
+Database		: MySQL, ORACLE
+No SQL Databases               :    HBass, Cassandra, MongoDB(Knowledge)
+Operating System                :   Windows 7, Linux and Unix
+Methodologies                     : Water fall model, Agile
+Domain                                 : Healthcare
+
+Work Experience
+Environment: Hadoop, Hive, HDFS, SQOOP, Spark ,SparkSql
+Description: 
+AMIL(United Health Care) is the only single largest source provider of health ,security and insurance solutions and providing broadest range of medical, dental benefits as well as clinical services and advance management market in the Brazil
+SisAmil from the client configuration from provider billing- In this role as the Billing (Contas Medicas) management application.
+ SisAmil is singularly responsible for the Beneficiary and provider, provider claim adjudication, and account maintenance (contributions, etc.) for all notional accounts (e.g., Claim insurance for provided service to beneficiary(Claim life cycle End-to- End) as well as the eligibility for standalone membership of service provider. 
+The eligibility of service provider benefits is shared responsibility ,The adjudication and account maintenance for non-notional accounts is shared with other financial institutions (such as MXM Bank Brazil).
+PROJECTS HANDLED
+ Project #1 Fraud Detection
+ Claim reimbursement for the customer which is submitted by provider in particular network , the provider which is active in network and inactive to that particular network, nd fraud detection of inactive providers to that particular network and based on the customer plan which receives the multiple requests for reimbursement, the volume of the data was huge received from different providers from different network
+Client :UHC BRAZIL 
+Technologies: MAPR, HDFS, Scala, Sparkcore, Hive, SQOOP,Shell scripting, LINUX.
+Team Size :5
+ Roles &  Responsibilities: 
+Analyzed the source system and finalized the jobs design flow. 
+· Hands on installing Hadoop ecosystem (which includes hive, pig, hbase, sqoop) on             Ubuntu/windows linux
+· Involved in complete software development life cycle - Analysis, Development.
+· Import data using Sqoop into Hive and Hbase from existing SQL Server.
+· Loading from disparate data sets
+· Support code/design analysis, strategy development and project planning.
+· Create reports for the BI team using Sqoop to export data into HDFS and Hive.
+· Involve in Requirement Analysis, Design, and Development.
+· Export and Import data into HDFS, HBase and Hive using Sqoop.
+· Involve in create Hive tables, loading with data and writing Hive queries which will run internally in MapReduce way.
+· Work closely with the business and analytics team in gathering the system requirements.
+· Load and transform large sets of structured and semi structured data.
+· Load data into HBase tables.
+· Load data into Hive partitioned tables.
+· Loading data from different datasets and deciding on which file format is efficient for a task
+· Translate complex functional and technical requirements into detailed design.
+· Perform analysis of vast data stores and uncover insights.
+· Maintain security and data privacy.
+· Create scalable and high-performance web services for data tracking. 
+· Understanding business process source to target database.  
+· Created HIVE tables with exact structures similar to RDBMS tables. 
+· Familiar with HDFS Commands and shell scripting. 
+· Prepared unit test cases, prepared performance documents. 
+·  Involved in Different reviews like Internal and external code review, weekly status calls, issue resolution meetings and onsite code acceptance meetings. 
+·  Developed, reviewed and executed test scripts and designed test data. 
+·  Prepared Mapping doc for source and target tables
+Project #2
+Technologies: MAPR, HDFS, Scala, Sparkcore, Hive, SQOOP,Shell scripting, LINUX.
+Team Size : 5
+Description :
+· OHFS R&A application is hosted on a SharePoint site which allows users to request 4 specific reports about employer groups.  The reports are typically run monthly and distributed to the employer group, but they can also be run on an as-needed basis by individual users.
+Roles & Responsabilities :
+· Hands on installing Hadoop ecosystem (which includes hive, pig, hbase, sqoop) on             Ubuntu/windows linux
+· Involved in complete software development life cycle - Analysis, Development.
+· Import data using Sqoop into Hive and Hbase from existing SQL Server.
+· Loading from disparate data sets
+· Support code/design analysis, strategy development and project planning.
+· Create reports for the BI team using Sqoop to export data into HDFS and Hive.
+· Involve in Requirement Analysis, Design, and Development.
+· Export and Import data into HDFS, HBase and Hive using Sqoop.
+· Involve in create Hive tables, loading with data and writing Hive queries which will run internally in MapReduce way.
+· Work closely with the business and analytics team in gathering the system requirements.
+· Load and transform large sets of structured and semi structured data.
+· Load data into HBase tables.
+
+Education
+
+· Bachelor's Degree in Engineering from S.E.C.T, Kurnool,  A.P ,India – Mar 2014
+· Board of Intermediate Education in 2010 
+· Board of Secondary Education in 2008 
+Achievements:
+· Received appreciations from leads for on-time quality deliverables.
+· Received Award of Excellence from Business Client. 
+· Outstanding Performance Award for 2016.
+· Received as Best Project award 
+
+
+Declaration:
+      I hereby declare that the information provided above is true to the best of my ability and knowledge.
+                                                                                                                                        (Lekkala Vinay Kumar Reddy)

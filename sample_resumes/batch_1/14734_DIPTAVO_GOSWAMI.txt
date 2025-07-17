@@ -1,0 +1,243 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    			     
+
+                                                          DIPTAVO GOSWAMI
+									
+Email: diptavog@gmail.com          								        
+Mobile:+91-9830418917 
+Skype ID:9830778917                                                                                                                       Resi:+91-7980513008                                                                                               
+
+Experience Summary
+
+1. Having 2+ year of experience as Analyst in Circulation- Print Media.
+2. Having 7+ year of experience in Data Analysis with Telecom giant.
+3. Proficient in Business/Data Analysis, Campaign Management, Dashboard and MIS reporting.
+4. Experience in using Base SAS and R programming.
+5. Experience in data extracting with MySQL, Oracle SQL and PL/SQL technologies.
+
+Professional Qualification
+
+1. Presently pursuing Certification in SAS & Business Analytics
+2. Master in Computer Application (MCA) from West Bengal University of Technology
+3. Oracle Certified Professional (OCP) on Oracle9i
+4. ADWET course form STG International Ltd.
+5. Completed Oracle Application Developer (OAD) course from SQL STAR INTERNATIONAL
+
+Technical Skills
+              
+BI Tools: 	Base SAS, R, DWH Client, BI SAP Report
+Databases:                                  	Oracle 10g/9i, MS Access, MySQL, Teradata
+Reporting/Dashboard Tools:	Advanced Excel, VBA, Tableau
+
+Work Experience Details
+
+	1. Organization: SAHAJ E Village Ltd
+	Duration: Sep 2017 to July 2018
+	Technologies and Tools: BI Solutions, MySQL
+	Profile Summary: Business Analyst
+
+Job Details:
+
+As a Business Analyst
+
+	1. Working with various LOBs and Transactions made against each; Revenue Calculation from various states.
+       2. Finding variance between monthly targets and actual revenue.
+       3. Calculating payout against various incentive schemes for the employees.
+       4. Adhoc data requirement from the operations team. 
+
+Additional Responsibilities
+
+1. Coordinating with various HODs and State Heads for projections for the month/quarter/FY. 
+2. Preparing Review PPTs for the CMD Meet. Using reports from BI solutions and make the board presentations;
+3. Creating minutes of the meeting during review and other internal meetings.
+4. Conducting Weekly Business Reviews with State/LOB Heads.
+5. Approval of requisitions against PO raised.
+6. Preparing business data for the CEO.
+
+
+2. Organization: ABP Pvt Ltd
+     	Duration: 2 Yrs 4 Months (May 2015 to Sep 2017)
+     	Technologies and Tools: SAP BI, MySQL, MS Access, Excel.
+		Profile Summary: Business Analysis, MIS Reporting, Sales Review Presentation and Data Management 
+	
+Job Details:
+· Extracting Monthly and daily sales, supply and subscription data from SAP ECC & CRM modules for Trade and Subscription and maintaining in MySQL database. Using SQL, generating MIS data grid reports like Estimated Sales Report from MySQL database. The reports are used by Product Managers to predict monthly sale.
+· Agent wise Unsold Tracker maintaining and Agent Classification to analyze their performance and target.
+· Half Yearly ABC (Audit Bureau of Circulation) data publication (edition wise) that helps in tracking the Competitors and the gap.
+· Region wise Target vs Achievement reporting from SAP ECC for each financial year.
+· Adhoc Reports creation like Agent outstanding, Performance Analysis on Volume and Market share etc.
+· Various Databases for Subscription part are maintained, like Active Base, Acquisition Base, and Lapse Base.
+· Various monthly and daily subscription adhoc MIS Reports are maintained for Fresh Acquisition, Lapse – Renewal, Active Base, Club Solitaire etc.
+· Various Dashboards and Dynamic reports are developed using Web BI report.
+
+
+3.	Organization: Netxcell Limited
+    	Duration: 3 months (March 2014 to May 2014)
+     	Technologies and Tools: Query Builder, GreyBox- Campaign Management Tool, Ms Access, Excel.
+Profile Summary: Business Analysis, Campaign Creation and Management
+	
+Job Details:
+· Analysis of the revenue and the base. Whether the targeted revenue is achieved for each month or not through the campaigns is tracked on a daily basis via MTD and LMTD data. Knowing the touch points of how more incremental revenue can be generated from the base. If needed new projects or campaigns has to be launched with proper target bases.
+· Creating Campaigns for Telecomm Client (Aircel MUMBAI/Maharashtra) using the Greybox tool. 
+Designing logic for the campaigns, given by the client using query builder and generate the target bases. After base generation campaign goes live post UAT and approval from the client end. Then tracking the performance and conversion for each campaign and generate the MIS reports. If needed the campaigns are modified and rescheduled using the Tool. 
+
+     4.   Organization: VODAFONE South Limited
+      	Duration: 5 yrs. 3 months (October 2008 to January 2014)
+      	Technologies and Tools: Oracle10g DB, Teradata SQL, SAS Report, MS Access, Advanced Excel
+Profile Summary: Marketing Data Analysis, Data Management and Extracting
+
+Job Details:
+
+       	Technical Roles
+
+1. Extract and Export data: Extract data from remote Data Warehouse (Teradata SQL Client) using Teradata SQL Assistant (TSA) tool. Export and load the dumps to Oracle database using SQL Loader.
+
+2. Data Analysis Module Development: Analyze the functional requirements and create or modify subprograms/functions for Data Analysis to meet the business requirements.
+
+3. Maintaining and Verification of Data: As power user maintaining and monitoring different operations on daily/weekly/monthly tables in system database. Data sources are Teradata warehouse, UPSS (Unified Prepaid Support System), and other BI tools (SAS, Cognos). Verification of data in data warehouse and UPSS in regular basis as per parameters from Corporate and Circle business team to maintain a minimal variance between different data sources.
+
+4. Report through BI Tools: Standard and cube report generation for usage, recharge and other attributes of the subscribers on daily basis using Cognos and SAS reporting tools.
+
+ 	Business Data Analysis
+
+Perform various data analysis for different verticals based on product acquisition, usage and retention and recharge trend and generate various MIS Reports for product managers, inter departments, corporate and TRAI.
+
+	Analysis
+	Description
+	Purpose
+
+	ARPU 
+(AVERAGE REVENUE PER USER)
+	Usage and recharge values of the subscribers
+to return leg wise usage and revenue for home or roam location.
+	To identify the up and down graders and the revenue gain/loss and help the functions promoting the right offer to the right subscriber (up selling).
+
+	Base Churn
+	Identifying those subs who are not generating revenue for last 90 days based on various KPIs like recharge, decrement, ic/og, sms etc.
+	Increase Sims availability and identifying the non RES subs on a weekly basis.
+
+	ZU / IZU Winback
+	Monthly Zu and Izu base extraction and tracking their behavior, offering them free mins to win them back as RES.
+	Helps in maintaining the RES base which further increases the Gross Adds / Net Adds every month.
+
+	Cell site Intelligence
+	Mapping the subs with geographical areas based on their highest usage under the cell sites. Respective actions can be taken area wise to gain revenue and market share.
+	This helps in identifying the market share area wise, district wise, tehsil wise and zone wise.
+
+	Rotational churn
+	Identifying the subs with multiple Sims based on their IMEI numbers.
+	Helps in identifying the Unique Users month on month adding to the RES.
+
+	SMS Base and Promotions(Upselling)
+	Base extraction for the daily SMS promos based on arpu, recharge, dou and other KPIs. Post promotion offer wise recharge tracking is done for getting the conversion percentage.
+	Different promos are offered for different bases. Upsell offers can be traced how they are performing in the market.
+
+	Gross Adds/Net Adds
+	Operator wise monthly gross ads and net adds base is generated to obtain the gross/net adds share.
+	These bases are further mapped with cell sites to identify the strong and weak zones/districts.
+
+	VAS
+	SMS (P2P & P2A), vas and data usage for all subscribers are generated for daily tracking.
+	To monitor the SMS and data revenue daily
+
+	ACQUISITION
+
+	Has sub modules like base CHURN for Sims availability, rotational CHURN for IMEI or competition CHURN for Tele calling.
+	To get base for initiating the CHURN process on a weekly basis
+
+	SWITCH HIT
+	The number of subs hitting switch/network sites during a period of last 30 days for all operators.
+	To get the incremental switch figure for all operators which indicate the customer market share.
+
+
+
+Other Analysis:. Weekly analysis on Bonus Card (Minutes/Tariff/VAS) to monitor their recharges. 
+
+5.   Organization: Simplex Infrastructures Limited 
+      Duration: 2.5 Yrs (March 2006 to August 2008)
+     Technologies and Tools: Oracle10g Developer Suite, Oracle 10g Database
+     Profile Summary: Oracle Developer
+
+      Job Details:
+1. Oracle 10g Developer Suite Programmer
+2. PL SQL Programmer (Packages, Procedures, Functions, Triggers) 
+
+
+Projects Handled: Client Server ERP Application for remote sites on (i) Purchasing (ii) Inventory (iii) Buyer
+                                  (iv) Customer and Vendor Master using 10g Developer suite.
+
+
+
+
+Academic Qualification
+
+1. Completed MCA with 80% from West Bengal University of Technology in 2005.
+2. Completed graduation (B.SC) with 55% from Calcutta University in 2001.
+3. Completed Higher Secondary with 62% from C.B.S.E in 1998.
+4. Completed Secondary with 75% from C.B.S.E in 1996.
+
+
+Personal Details
+
+Date of Birth: 		04th April 1979
+	Father’s Name: 		Mr. T. Goswami
+Languages Known:	English,Hindi,Bengali
+Marital status:		Married
+Address:		30 Narendra Nagar,Belgharia, Kolkata 700056
+
+LinkedIn Profile: - https://www.linkedin.com/in/diptavo-goswami-76a83366/
+Passport: - Available
+
+
+
+							             
+                                                                                                  (Diptavo Goswami)

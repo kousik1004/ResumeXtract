@@ -1,0 +1,144 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       Sagar Ingle
+Mobile: +91 8788500860     Email: ingle306@gmail.com
+
+Attain professional enrichment in the Software Development with an organisation of high repute.
+
+Professional Summary
+
+ Having 2.1 years of experience as a full stack developer.
+ 2.1 Years of experience in Web Application development and Android App using JAVA, J2EE, JAVA using 
+
+SDK 24  and  Restful WebServices
+ Working experience on building web applications using Struts framework, Spring 3 framework, Jsp, Restful 
+
+WebServices using jersey, Restful WebServices using Spring 3, Web technologies Javascript, Jquery, angularJS, 
+AES Encryption algorithm, Tokenization Process, Google Location API, Google Push Notification, Goggle 
+Frirebase database .
+
+ Experience on database programming with JDBC.
+ Good knowledge of OOPS Concepts and familiarity on using IDEs like Eclipse and Android Studio.
+ Developing, testing, debugging of the application.
+
+  Working Experience
+ Working as Software Engineer in Accion Labs since October 2016 till date.(Client : TCS) 
+ Worked as Software Engineer in Novire technologies since July 2015 till Aug 2016.
+
+      Project Details
+
+Project 1   : Mobile_APY
+Description  :  Mobile application for endusers which have sbi Bank Account where user can register for apy 
+
+scheme and transfer his first instalment at time of registration from sbi account and after 
+registering for scheme user able to see his scheme details, All trasactions are encripted with 
+
+AES algorithm with Tokenisation Precess .
+Technologies Used :  Android Java with sdk-24,Restful Webservices using Spring 3.2 .
+Responsibilities :  
+
+– Developed UI (APK) and middleware which interact with core bank service for retriving details and 
+performing transaction.
+
+– Implement tokenisation process and encript-decript request and response data with aes algorithm.
+– Helped in designing of the architecture.
+
+Project 2   : SBI On Move (SOM)
+Description : Tab application for bank staff for performing various banking transactions such as FD creation and 
+
+KYC update  from bank and outside bank.
+Technologies Used : Java, AngulerJs, bootstrap, Restful Webservices using Spring , Ajax, JSON.
+Responsibilities :  
+
+– Develop Apk using anguler with ionic framework .
+– User Location API to find Tab location and restrict menu for bank Staff .
+– Develope middleware which interact with core bank service for  performing various banking 
+
+transactions such as FD creation and KYC update .
+– Implement tokenisation process and encript-decript request and response data with aes algorithm.
+– Helped in designing of the architecture.
+
+mailto:ingle306@gmail.com
+
+
+Project 3   : Integrated Vehicle Tracking System
+Description : Application provide solution for supply-chain management  with tracking customers vehicle 
+
+(company and transporters) and shows all vehicle trip details and history company and transporter 
+wise. 
+
+Technologies Used : Java, Jsp, Javascirpt, Jquery, ajax, Json  
+Responsibilities :
+
+– Involved in handling/maintenance of the application.
+– Developed various modules using Java , JSPs and Struts . 
+– Use MapMyIndia API , Apache POI. 
+
+TECHNICAL SKILLS
+
+Programming Languages :      CoreJava, HTML, Servlet, Jsp, Jquery, Javascirpt, 
+AngularJS
+
+Tools               : NetBeans, Eclipse, Android Studio
+Frameworks : Struts 2.0, Spring 3.0
+Database :  ORACLE 10g, My-Sql , Google  Frirebase
+Operating Systems                         : Windows Xp, Windows 7,  Windows10, Ubuntu
+Others               :             Data Sucture,JSON,Ajax,LocationAPI,Push Notification, 
+
+Frirebase database
+
+  Education Details
+
+Degree University/Board Passed Year Percentage
+
+BE Pune University 2014 61.78
+
+H.S.C. Maharashtra State Board 2009 58.88
+
+S.S.C. Maharashtra State Board 2007 72.15
+
+Personal Details
+
+Date of Birth : 30th March 1992
+Gender : Male
+Address :  Airoli,Navi Mumbai.
+Language Known             : English, Marathi & Hindi
+
+I hereby declare that the above particulars are true to the best of my knowledge and belief.
+
+Sagar Ingle 
+
+

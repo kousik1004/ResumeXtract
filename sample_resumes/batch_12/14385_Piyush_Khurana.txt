@@ -1,0 +1,179 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EDUCATION
+
+
+Piyush Khurana  
++91 8437799831 | piyush09k@gmail.com  
+
+ 
+
+ 
+P R O F E S S I O N A L  E X P E R I E N C E  
+
+Light Information Systems Pvt. Ltd. | NLP Engineer,AI-NLP(chatbot development)   April ’17 - Present 
+ 
+
+  
+
+Chat-Bot Development: 
+
+ 
+
+  HR Assistant Bot: 
+
+ Experienced in building hr assistant bot using FAQ’s, HR& Companies policies data using advanced Topic modelling & document  
+reterival Machcine Learning Algorithms. 
+
+ Technologies Used : NLP, SIF Implementation, WMD Similarity, Whoosh, Word Embeddings, TF-IDF, LSI-LDA, ANNOY, KNN, 
+MongoDB, Solr, Regular Expression. 
+
+ 
+
+   GST Support Assistant: 
+
+ Build GST Support help assistant bot. We handles all the data like GST(cgst,sgst,igst) sections, GST FAQ’s, GST acts and GST rate 
+on differents products. Build this article and text search assist using Solr Indexing, MongoDB, LSI-LDA(latent semantic indexing), 
+
+WMD text similarity & TF-IDF. 
+
+       
+
+     Hotel Booking Assistant: 
+
+ Worked on building a booking assistant using Whatsapp raw text for hotel room booking confirmation task and asking 
+neccesary information from user through whatsapp chat conversation integrated with bot. 
+
+ Technologies Used: NLP(NLTK,spacy), Regex, MongoDB, WMD, Word Embeddings , RASA-NLU, KNN. 
+
+ 
+
+     Search Engine Platform: 
+
+ Build a article-news suggestion and search platform by crwaling online data and handled around Ten lakh plus articles(small 
+documents) data & clustering those articles into different categories(marketin, finance, news, technology etc.) 
+
+ Technologies used : NLP(NLTK,spacy), Solr indexing, MongoDB, SVM, KNN , ANNOY , WMD. 
+
+   
+
+    Recruitment Bot: 
+
+ Build intellegent HR Recuritment bot . Asking candidate the general HR related or technical queries using feature or entity 
+extarction from the text and build the conversation accordingly.  
+
+ Technologies Used : NLP(NLTK,spacy), Regular expression, Redis, MongoDB, SVM, RASA for entity extraction and WMD for 
+intent classification, FastText. 
+
+                                                                                                                                               
+
+Certifications:                                                                                                                                                      
+
+ Improving Deep Learning Neural Networks: Hyperparameters Tunning,Regularization and optimization |  Coursera 
+
+ Neural Networks and deep Learning | Coursera 
+
+ Structuring Machine Learning Projects | Coursera 
+
+ 
+
+E D U C A T I O N  
+
+ 
+
+CDAC(centre),Noida  | Diploma: Big Data Analytics                    Aug’16- Mar’17 
+
+ 
+
+Thapar University, Patiala | B.Tech, Instrumentation&control Engineering      Jul’12 – June’16 
+
+ 
+
+VM Public School, SGNR   | AISSCE 12th Board                                                       2011 
+
+ 
+
+Bihani Children’s Academy , SGNR | AISSCE 10th Board                                      2009 
+
+
+
+Piyush Khurana  
++91 8437799831 | piyush09k@gmail.com  
+
+ 
+
+ 
+
+M I N O R  P R O J E C T S  
+
+ 
+
+Gender Voice Speech Recognition using Machine Learning 
+
+ Projects aims of determining a person’s gender as male or female based upon the sample of their voice. 
+
+ This is achieved by designing a python program using Machine Learning Classification algorithms – Naive Bayes, 
+
+SVM, Randomforest, XGBoost for acoustic analysis of voice or speech parameters for determining gender. 
+
+ 
+
+T E C H N I C A L  S K I L L S  
+
+ Languages : Python, R programing(statistical analysis), Core java, Django(basics), Hive 
+
+ NLP Packages: NLTK, StanfordNLP, Spacy, TextBlob 
+
+ Machine Learning libraries: SIF(smooth inverse frequency) Implementation, Scikit-learn, Gensim -(LSI&LDA), 
+
+Tensorflow (basics), RASA NLU, WMD(Word Mover Distance using trained word embeddings model), FastText. 
+
+ DataBases : Apache Solr, MongoDB, MySql, Redis, Whoosh 
+
+ Excellent capacity to learn, adapt new tools & technologies. 
+
+

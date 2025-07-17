@@ -1,0 +1,251 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Aseem_Girkar.doc
+
+
+ASEEM GIRKAR 
+Email: aseemgirkar@hotmail.com 
+
+Contact No.: +91-8286940417 
+Website: http://aseemgirkar.com 
+
+ 
+
+1 
+ 
+
+PROFESSIONAL SUMMARY 
+
+ 2.4+ years of IT experience as a Software Engineer in requirement analysis, design, implementation, testing, production support and 
+enhancement of existing system using Oracle JD Edwards EnterpriseOne. 
+
+ Experience in JD Edwards EnterpriseOne tools and its integration with various technologies such as SSIS and functional modules 
+including Sales and Distribution, Service and Finance. 
+
+ Excellent experience in E1 tools which includes Report Design Aid, Form Design Aid, Table Design Aid, Business View Design, 
+Business Functions using C and NER, Data Structures, UDCs and Data Dictionary Items. 
+
+ Strong experience in interactive solutions using Embedded BI Publisher and One View Reporting (OVR).  
+ Developed Table Conversion UBEs to convert data from different formats to Tables. 
+ Experience in debugging of Reports, Applications, Business Function including both C and NER. 
+ Experience in use of Web Applications and Interoperability. 
+ Involved in designing of Technical as well as Functional Documentation. 
+ Over 4+ years of experience in blogging with the core niche specific to Technologies. 
+ Experience in Web Development, Search Engine Optimization (SEO) and Social Media Optimization (SMO). 
+ Knowledge of Big Data, Cloud Computing and its Security. 
+ Excellent analytical, writing and communication skills. 
+
+TECHNICAL SKILL SETS 
+
+ ERP Tools: Oracle JD Edwards EnterpriseOne 9.1 and 9.2. 
+ ERP Components: OMW, RDA, FDA, TDA, BDA, BSFN using C and NER, DSTR, UDCs, TCs, DD Items, OVR, Embedded BI 
+
+Publisher, Café 1, E1 Pages. 
+ Languages: Java, C, Hadoop. 
+ Web Technologies: HTML5, CSS3, JavaScript. 
+ Databases: Oracle 9i/10g, MySQL. 
+ Modules: Sales and Distribution, Service and Finance. 
+ CMS Platforms: Wordpress. 
+ Operating Systems: Windows based OS, Linux based OS. 
+
+WORK EXPERIENCE 
+
+ L&T Infotech, Navi Mumbai, India                    June 2015 – Present 
+
+JOB PROFILE: 
+ Working as a JD Edwards Technical Consultant. 
+ Involved in performing analysis of client requirements, planning and estimating, reviewing the developments and maintaining 
+
+defect preventions. 
+ Involved in Technical and Functional Specification design documentation. 
+ Understanding and implementing/customizing JDE Objects as per client requirements. 
+
+      PROJECT EXPERIENCE: 
+1. Project Name: Managed Services Development and Support                                   June 2016 – Present  
+
+Client Name: UTC Climate, Control and Security (CCS) 
+Role: Team Member 
+Team Size: 5 
+Platform: Oracle JD Edwards EnterpriseOne 9.1 and 9.2 
+Contributions: 
+- Involved in business requirement analysis and managing development activities of 10 different companies. 
+- Reviewing, Planning and Estimating cost and time for development activities. 
+- Enhancement of standard JDE objects and implementation of new objects using Reports, Applications, NER, BSFN using C, 
+
+Data Structures, Business View, Tables, UDCs, Embedded BI Publisher. 
+- Implemented a “Segregation of Duties” UBE that provides list of conflict applications based on User and Roles in order to 
+
+eliminate the use of QlikView Reporting tool. 
+- Implemented a “Monthly Batch Tracker” to automate the month end process of un-posted batches. 
+- Implemented an interface using UBEs to automate month end process of one of the support instance. 
+- Enhanced R09600 UBE to process “MT940” files obtained from bank by customizing C BSFN. 
+- Implemented a Power Form Application “Work with Protocols” by enhancing standard applications P1207 and P12071. 
+- Developed and enhanced the SEPA XML Credit Transfer - COMM - 04 UBE – R744002 for both Foreign and Domestic 
+
+Payments for one of the client’s bank. 
+- Developed customized Purge UBE that purges orphan records in standard tables. 
+- Developed interactive reporting solution using BI Templates for Invoice Print, Pick Slip, Delivery Note and more. 
+- Involved in Formscape to BI Publisher migration POC and developing OVR reports. 
+- Implemented Automated Solution for CR tracking and PD Build. 
+- Involved in Technical and Functional Specification design documentation. 
+ 
+
+
+
+ASEEM GIRKAR 
+Email: aseemgirkar@hotmail.com 
+
+Contact No.: +91-8286940417 
+Website: http://aseemgirkar.com 
+
+ 
+
+2 
+ 
+
+2. Project Name: Carrier UK Rentals Implementation                                                  Feb 2016 – May 2016 
+Client Name: UTC Climate, Control and Security (CCS) 
+Role: Team Member 
+Team Size: 3 
+Platform: Oracle JD Edwards EnterpriseOne 9.1  
+Contributions: 
+- Involved in implementation of inbound and outbound interfaces to push and pull data to/from a third-party ERP, InspHire with 
+
+the help of SSIS. 
+- Implementation of Inbound Interfaces includes Address Book – Supplier/Customer which works on the basis of 
+
+Interoperability, Account Receivable and Outbound Interface includes General Ledger. 
+- Developed a new UBE to convert media text from file to objects into media object table using NER. 
+- Developed Table Conversion UBEs to upload data into custom tables. 
+- Developed various interactive applications that use Radio Buttons to filter and process the records on different behaviour. 
+- Involved in customization of “Invoice Print” and “Pick Slip” reports as per client requirements for interactive deliverable 
+
+outputs in Formscape 
+- Involved in Technical designing and documentation. 
+ 
+
+3. Project Name: Global Template Design, Build                                                           Dec 2015 – Feb 2016 
+Client Name: UTC OTIS Elevators 
+Role: Team Member 
+Team Size: 15 
+Platform: Oracle JD Edwards EnterpriseOne 9.1  
+Contributions: 
+-  Involved in implementation of new and customization of existing JDE objects such as Reports and Applications. 
+- Debugging the reports and applications to detect the erroneous code. 
+- Involved in Technical designing and documentation. 
+- Developed a new “Crated Unit Analysis” report that gives a detail visibility of Crate Status based on F4801, F3112, F3105 
+
+and F4111. 
+- Developed a new “PM Upon Completion” report that provides information on Billing upon Completion, Contracts, Checklists 
+
+and Timesheet based on Work Order and its related table. 
+- Enhanced “Contract Revisions” P1721 application as per client requirement. 
+- Developed and enhanced “Route List” report for obtaining service information.   
+ 
+
+4. Project Name: SFR Upgrade 9.1                                                                              Sept 2015 – Nov 2015 
+Client Name: Statoil Fuel & Retail 
+Role: Team Member 
+Team Size: 10 
+Platform: Oracle JD Edwards EnterpriseOne 9.0 and 9.1 
+Contributions: 
+-  Involved in retrofitting of objects including Copy of Standard and Pure Custom Objects. 
+- Adding SAR or Bug Fix from Standard Objects to Copy of Standard Objects from one Environment to another. 
+- Worked on vocabulary overrides to customize the interactive and batch applications. 
+- Involved in Technical designing and documentation. 
+
+ 
+
+ADDITIONAL EXPERIENCE 
+ Working as a blogger on self-hosted technology blog, GIZCRUNCH. Website: http://gizcrunch.com                      July 2013 – Present 
+
+GIZCRUNCH is a self-hosted technology blog designed by me on Wordpress Platform to provide viewers with information/news on 
+technology in real world along with coding related tips. 
+ 
+
+ 
+
+     OTHER PROJECTS 
+ Trend Analysis Based on Access Pattern from Web logs Using Hadoop. 
+ Event Management System in VB.Net and MS SQL. 
+
+ 
+
+ACHIEVEMENTS 
+ Presented Café 1 and E1 Pages Demo to some of the clients of L&T Infotech. 
+ Contributed on L&T Infotech’s official blog in a self-researched post on Cloud Security titled as “Is the Rise of Cloud Adoption a 
+
+Security Concern?” Link is as follows: https://www.lntinfotech.com/rise-cloud-adoption-security-concern/ 
+ Trained for “Business Analyst – Beginner Level”. 
+ Researched and Published paper on IJCA, titled as “Trend Analysis based on Access Pattern over Web Logs using Hadoop”. 
+
+ 
+ 
+
+
+
+ASEEM GIRKAR 
+Email: aseemgirkar@hotmail.com 
+
+Contact No.: +91-8286940417 
+Website: http://aseemgirkar.com 
+
+ 
+
+3 
+ 
+
+EDUCATION 
+ Advanced Diploma in Business Administration                                      Oct 2016 –Sept 2017 
+
+Welingkar Institute of Management, Mumbai 
+ 
+
+ Bachelor of Engineering in Information Technology                                  Aug 2012 – June 2015 
+Shah and Anchor Kutchhi Engineering College, Mumbai 
+ 
+
+ Diploma in Information Technology.                                                July 2009 – June 2012 
+M. H. Saboo Siddik Polytechnic, Mumbai 
+
+

@@ -1,0 +1,296 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEEPA R
+8778356824
+Deeparam720@gmail.com
+
+Professional Summary
+
+Total 4.8 years of experience as an Oracle Database Administrator. Having hands on experience in database administration, development, production support, installation, configuration, upgrades, patches, backup and recovery, cloning, space management, database security, auditing.
+. 
+
+Work Experience:
+
+	Organization
+	Designation
+	Duration 
+
+	Cognizant Technology Solutions
+	 Associate –Tech Lead
+	07/2016 – 03/2017
+
+	Bharat Electronics Ltd
+	DBA
+	01/2012 – 01/2016
+
+
+
+· Total 4 years of experience as an Oracle Database Administrator. Having hands on experience in database administration, development, production support, installation, configuration, upgrades, patches, backup and recovery, cloning, space management, database security, auditing.
+
+· In depth understanding of Oracle database Architecture, memory and process structures and data.
+
+· Database creation (Manual, DBCA), modification and configuration file changes.
+
+· Responsible for maintaining database security (Roles, Privileges, etc.).
+
+· Responsible for table spaces Management.
+
+· Proficient in Database Administration activities such as Upgrades, Patches, Cloning, Backup and Recovery, capacity planning, script development, and documentation.
+
+· Experience in User Management (Managing privileges, Roles, Quotas and User Profiles).
+
+· Data transferring with export/import utilities and Data Pump (expdp/impdp) utilities.
+· Database backup concepts and options such as user-managed backup, RMAN-managed backup with or without catalog, operating system backup, cold and hot backup, full back up, incremental and cumulative backup.
+· Experience in Standby, Data Guard and Active Data Guard.
+
+· Provided 24*7 on-call production database support and maintenance including remote database support.
+
+· A self-motivated, responsible, and reliable team player with a set of very strong technical skills. 
+
+
+
+
+
+
+
+
+Technical Skills
+
+	Operating System	
+	RHEL,Windows
+
+	Programming Languages
+	SQL
+
+	Databases 
+	Oracle 11g, 10g, 9i ,MYSQL 5.6
+
+	Tools
+	SQL*Loader,ADDM, AWR, Service Now ,JIRA
+
+	Database Backup Utility
+	RMAN, Export/Import, Data Pump.
+
+	Other Utilities	
+	 MS-Office
+
+
+
+Project Experiences:
+
+	Project Title	
+	National Population Register (NPR)
+
+	Duration
+	Aug 2014 to Jan 2016
+
+
+	Location
+	Bangalore, India
+
+	Operating Systems
+	RHEL
+
+	Databases
+	Oracle 11g, 10g
+
+	Team Size
+	25
+
+	Role
+	Senior DBA
+
+
+
+
+PROJECT DESCRIPTION: 
+
+The Government of India has initiated the creation of National Population Register (NPR) by collecting specific information of all usual residents in the country. The NPR is a comprehensive identity database to be maintained by the Registrar General and Census Commissioner, India (RG&CCI), Ministry of Home Affairs (MHA), Government of India (GOI). The objective of creation of the NPR is to help in better targeting of the benefits and services under the government schemes, improve planning, improve security and prevent identity fraud.
+
+
+ROLES AND RESPONSIBILITIES: 
+
+Maintaining the servers in data-center for smooth operation of the project and do server build-up, upgrade, Database creation, Procedures creation, scheduling backup’s, Implementing Recovery Strategy, User creation and providing privileges depend up on the neediness of the project
+
+· Installation of Oracle 9i/10g for Production, Testing and Development environments.
+· Managing Table spaces, Data files, Control files, Redo Log files
+· Creating Database objects, Users, Roles, Profiles for the databases.
+· Controlling and monitoring user access to the database for new and existing databases.
+· Created users & privileges with appropriate roles and levels of security.
+· Proactive monitoring of alert log and user trace files for identification and resolution of ORA-errors.
+· Handling schema refreshes, selective objects export and import from one database to another
+· RMAN configuration & Maintenance.
+· Loading Bulk data from flat files using SQL*Loader.
+.
+
+
+
+
+
+
+
+
+	Project Title	
+	Bulk Data Center
+
+	Duration
+	Aug 2014 to Jan 2016
+
+	Location
+	Bangalore, India
+
+	Operating Systems
+	RHEL
+
+	Databases
+	Oracle 11g
+
+	Team Size
+	38
+
+	Role
+	Senior DBA
+
+
+
+PROJECT DESCRIPTION: 
+
+The main aim of this project is to provide Smart card for the residents of India and also to increase the security measures. Nowhere in the world has a Government tried to count, identify and issue identity cards to more than a billion people. This is, perhaps, the biggest exercise of its type since humankind came into existence.
+
+The creation of NPR for all State in India includes creation of Database of all the persons residing India. The Source for the data entry is obtained from RGI in the form of scanned images. The data capture of these images will be done in one center of that particular state.
+
+Then the Biometric for the data collected is conducted in camps includes capturing of Photography, Fingerprints and Iris capture (For the person age above 5 years).
+
+
+ROLES AND RESPONSIBILITIES: 
+
+· Installing Oracle software.
+· Creating, Configuring and deleting Oracle databases using the DBCA.
+· Managing the databases on Automatic Storage Management (ASM).
+· Troubleshooting database related problems and working towards fixing it
+· Starting up and shutting down the database.
+· Managing the database's storage structures like control files, redo log files, archive log files, Rollback segments, and table spaces and data files. 
+· Making database backups (Logical and Physical) and performing restoration and recovery when necessary.
+· Involved in construction of DR sites for all the Production environments.
+·  Implemented and managed optimum physical database design (tablespaces, data files, extents, redo logs, archive logs) and assessed database capacity by monitoring online storage, growth and file system space
+· Managing the incident using the trouble ticket system and updating the knowledgebase for resolving known errors.
+· Following change management process for any configuration changes that are done on the database. 
+
+Duration: 1.5 years
+
+
+
+
+	Project Title	
+	SECC (Socio Economic and Caste Census)
+
+	Duration
+	Jan 2012 to July 2014
+
+	Location
+	Bangalore, India
+
+	Operating Systems
+	RHEL
+
+	Databases
+	Oracle 11g and MYSQL 5.6
+
+	Team Size
+	45
+
+	Role
+	DBA
+
+
+
+PROJECT DESCRIPTION: 
+
+The objective of SECC is to enable households to be ranked based on their socio economic status. State government can then prepare a list of families living below the poverty line and make available authentic information regarding the socioeconomic condition, and education status (together called as socio-economic profile) of various castes and section of the population. The SECC is carried out by Ministry of Housing and Urban Poverty Alleviation(MoHUPA), 
+
+ROLES AND RESPONSIBILITIES: 
+
+Maintaining the servers in data-center for smooth operation of the project and do server build-up, upgrade, Database creation, Procedures creation, scheduling backup’s, Implementing Recovery Strategy, User creation and providing privileges depend up on the neediness of the project
+· DBA support for Production, QA and Development teams.
+· Creating and monitoring the different table spaces like user, Undo, temporary Table spaces.
+· Providing *24/7 Support on production instances
+· Creating and maintaining the databases, Schemas and objects.
+· Creating a new user alter and drop existing database users.
+· Database Maintenance for Archive logging.
+· Backup database using export/import, data pump (expdp/impdp) Utilities.
+· Performed database Hot and Cold backup and recovery for 11g databases.	
+· Creation and Administration of Physical Standby Databases using Data Guard
+· Generated AWR for Database health checkups.
+· Tracing, troubleshooting with database performance and tuning issues.
+· Implementation of upgrade of Oracle 10.2.0.1 database to 10.2.0.4.
+· Involved in migration of databases from non-ASM to ASM storage. 
+· Installation and configuration for catalog server for RMAN backups.
+· Implemented database refresh with the hot backup using full export. 
+· Used data pump utility to do table level and full database level defragmentation.
+· Written shell scripts for implementation of RMAN incremental backup along with sending mail to monitoring team regarding backup status (failure or success).  
+· Actively participated in performing and communication of Disaster Recovery drill along with all the corresponding team and stake holders.
+· Created new user accounts, created profiles, roles and assigned them to different users.
+· Taking the Logical, Cold and Hot backups of the database regularly.
+· Taking Differential backups of the database using Recovery Manager. 
+· Monitoring Alert log & System log files.
+
+Domain: Ministry of defence
+
+Duration: 2.5 years
+
+
+
+DECLARATION:   
+
+I hereby declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particulars.
+
+                                                                                                                Deepa R
+
+

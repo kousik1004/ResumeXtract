@@ -1,0 +1,309 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume <Name>
+
+MANISANKAR MANDAL
+Profile Summary
+· Over  3 years and 2 months of experience as a SAP B1 Technical Developer.
+· Worked as a part of the team for several Projects under various environments.
+
+· Good Knowledge in Database designing and Programming.
+
+· Ability to learn new things in the least amount of time, also work smartly to minimize the effort variance.
+Technical
+	Operating Systems:
+	Windows 7, 8, 10 and Windows Server 2008, 2012, 2014
+
+	Programming Languages:
+	Visual Studio 2008, 2010, C# 
+
+	RDBMS:
+	MS-SQL Server 2008 R2, 2012 R2, 2014, 2016
+
+	ERP:
+	SAP Business One 8.81, 8.82, 9.0, 9.1, 9.2, 9.3
+
+	Reporting Tools:
+	Crystal Report
+
+	Other Tools:
+	Microsoft Office
+
+
+Functional
+
+As per project delivery model.
+
+Employment History
+	Period
+	Employer
+	Location
+	Designation
+
+	 Aug, 2015 – Dec, 2015
+	Megatherm Electronics Pvt. Ltd.
+	Kolkata
+	Jr. Technical Developer
+
+	Jan, 2016 – Mar, 2016
+	Megatherm Electronics Pvt. Ltd.
+	Kolkata
+	SAP B1 Technical Developer
+
+	Apr, 2017 – May, 2018
+	Megatherm Electronics Pvt. Ltd.
+	Kolkata
+	SAP B1 Technical Consultant
+
+	June, 2018 – July, 2018
+	ML Dalmia Group (Client)
+	Kolkata
+	SAP B1 Technical Consultant
+
+	Aug, 2018 – Present
+	Lee & Nee Softwares (Exports) Ltd
+	Kolkata
+	SAP B1 Technical Consultant
+
+
+Professional & Project Experience
+Project #1
+
+TITLE
+MILK MANAGEMENT (Solution Component for SAP Business One)
+DESCRIPTION
+This module collects milk from Vendors and gives payment to Vendor according to their Milk quality. It is totally integrated with SAP B1.
+
+CONTRIBUTION
+Responsible screen designing, develop solution components, bug fixing and give them technical support after development.
+
+ENVIRONMENT
+Visual Studio 2008 (.Net Framework 4.0), MS-SQL Server 2008, SAP Crystal Report & SAP Business One SDK.
+
+TEAM SIZE
+
+
+Total 7 People Involved
+Project #2
+
+TITLE
+DAIRY MANAGEMENT (Solution Component for SAP Business One)
+DESCRIPTION
+This module collects milk from Vendors then finds FAT & SNF differently and gives payment to Vendor according to their Milk quality. It is totally integrated with SAP B1.
+
+CONTRIBUTION
+Responsible screen designing, develop solution components, bug fixing & give them technical support after development.
+
+ENVIRONMENT
+Visual Studio 2008 (.Net Framework 2.0), MS-SQL Server 2008, SAP Crystal Report & SAP Business One SDK.
+
+TEAM SIZE
+
+
+Total 6 People Involved
+Project #3
+
+TITLE
+ESS Web Portal (Web Portal for Attendance, Leave, Expense Booking)
+DESCRIPTION
+This web portal is used for employees attendance, leave, expense booking. Only the administrator login can accept or approve or modify that booking, they can also view entries in a report format which is developed by crystal report and also export this report in Excel, PDF, Word format by entering the filter criteria. 
+
+CONTRIBUTION
+Responsible screen designing, coding for client side and give them technical support after development.
+
+ENVIRONMENT
+Visual Studio 2010 (.Net Framework 4.5), MS-SQL Server 2008 R2, JavaScript, CSS, Bootstrap and HTML5.
+TEAM SIZE
+
+
+Total 4 People Involved
+Project #4
+
+TITLE
+KCC Web Portal (Web Portal for Sales Module)
+DESCRIPTION
+This web portal is used by employees for Sales Module like Business Partner Master, Item Master and Sales Order etc. They can also view entries in a report format which is developed by crystal report and also export this report in Excel, PDF and word format.
+
+ CONTRIBUTION
+Responsible screen designing, coding for client side, develop crystal report & give them technical support after development.
+
+ENVIRONMENT
+Visual Studio 2010 (.Net Framework 4.5), MS-SQL Server 2008 R2, JavaScript, CSS, Bootstrap and HTML5.
+TEAM SIZE
+
+
+Total 2 People Involved
+Project #5
+
+TITLE
+BUDGET MANAGEMENT (Solution Component for SAP Business One)
+DESCRIPTION
+This module is a quantity based budget module. By this module customer can create two type of budget, Sales Budget and Expense Budget. It is totally integrated with SAP B1.
+
+CONTRIBUTION
+Responsible screen designing, develop solution components, bug fixing and give them technical support after development.
+
+ENVIRONMENT
+Visual Studio 2008 (.Net Framework 4.5), MS-SQL Server 2008 R2, SAP Crystal Report & SAP Business One SDK.
+
+TEAM SIZE
+
+
+Total 2 People Involved
+Project #6
+TITLE
+
+
+
+TENDERING MODULE (Solution Component for SAP Business One)
+DESCRIPTION
+It is the module where the customer has entered all data for a Civil project from project bid to deliver the projects to their customer. It is totally integrated with SAP B1.
+CONTRIBUTION
+Responsible screen designing, develop solution components, bug fixing and give them technical support after development.
+
+ENVIRONMENT
+Visual Studio 2008 (.Net Framework 4.5), MS-SQL Server 2008 R2, SAP Crystal Report & SAP Business One SDK.
+
+TEAM SIZE
+Total 3 People Involved
+Project #7
+TITLE
+PACKING LIST & EXPORT INVOICE SOLUTION (Solution Component for SAP Business One)
+DESCRIPTION
+By this module the customer can create packing list of their different items in different packing box and can export this by this export invoice module. It is totally integrated with SAP B1.
+CONTRIBUTION
+Responsible screen designing, develop solution components, bug fixing and give them technical support after development.
+
+ENVIRONMENT
+Visual Studio 2008 (.Net Framework 4.0), MS-SQL Server 2008 R2, SAP Crystal Report & SAP Business One SDK.
+
+TEAM SIZE
+Total 3 People Involved
+Project #8
+TITLE
+STUDENT ADMISSION MANAGEMENT SYSTEM (Solution Component for SAP Business One)
+DESCRIPTION
+By this solution component the customer can enter the admission data of UG and PG students into their system. It is totally integrated with SAP B1.
+CONTRIBUTION
+Responsible screen designing, develop solution components, bug fixing and give them technical support after development.
+ENVIRONMENT
+Visual Studio 2008 (.Net Framework 4.5), MS-SQL Server 2008 R2, SAP Crystal Report & SAP Business One SDK.
+
+TEAM SIZE
+Total 4 People Involved
+Project #9
+TITLE
+REAL ESTATE SOLUTION (Solution Component for SAP Business One)
+DESCRIPTION
+By this module the client can book the details of the customer from Flat booking to take the last installment. It is totally integrated with SAP B1 and fully automated system.
+
+CONTRIBUTION
+Responsible develop solution components, bug fixing, develop crystal report by SAP crystal report tool and give them technical support after development.
+ENVIRONMENT
+Visual Studio 2008 (.Net Framework 4.5), MS-SQL Server 2008 R2, SAP Crystal Report & SAP Business One SDK.
+
+TEAM SIZE
+Total 3 People Involved
+Project #10
+TITLE
+REAL ESTATE MAINTENANCE SOLUTION (Solution Component for SAP Business One)
+DESCRIPTION
+By this module the client can book the details of the maintenance bill of the customer from 1st maintenance to till date. It is totally integrated with SAP B1 and fully automated system.
+
+CONTRIBUTION
+Responsible develop solution components, bug fixing, develop crystal report by SAP crystal report tool and give them technical support after development.
+ENVIRONMENT
+Visual Studio 2008 (.Net Framework 4.5), MS-SQL Server 2008 R2, SAP Crystal Report & SAP Business One SDK.
+
+TEAM SIZE
+Total 4 People Involved
+Educational Background
+	Year
+	Degree
+	College/School Name
+	Marks
+
+	2014
+	B-Tech in Computer Sciences & Engineering
+	RCC Institute Of Information Technology, Kolkata
+	7.31 (DGPA)
+
+	2009
+	Higher Secondary (10+2)
+	Uluberia High School
+	81%
+
+	2007
+	Secondary (10)
+	Uluberia High School
+	84%
+
+
+Personal Information
+· Date of Birth
+
+:  20-07-1991
+
+· Mobile No
+
+:  +918100238919
+
+· Email-id
+
+:  manisankar.mandal66@gmail.com
+· Permanent Address
+: 381/972F/2, Saradapally, Nona, Uluberia, Howrah-711315, WB
+
+· Languages Known
+: Bengali, Hindi, English
+
+· Nationality
+
+: Indian
+
+
+Page 1 of 4
+

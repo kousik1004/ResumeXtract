@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jampani Vishnu Chakravarthy
+E-mail: vishnuj32@gmail.com
+Mobile: +919502258814
+
+Career objective
+
+            Looking for a challenging career to show the best of my professional ability and skills in the field of Electronic design and development.
+Experience summary
+
+· 3+ years of professional experience in the field of development of application and embedded software/firmware.
+· Working as Assistant Engineer at Linkwell Telesystems Pvt Ltd, Hyderabad.
+Responsibilities Handled
+A. Implementation related :
+
+· Working as Embedded developer with experience in product development.
+
+· Hands on experience with microcontroller like 8051, TI - cc1110, TI - cc1310 (M0, M3 core).
+
+· Hands on experience in various interfaces like, UART, I2C, SPI, Data Flash, and E2PROM.
+· Worked on different applications protocols such as DLMS, RF, IPV6, TCP/UDP and 6Lowpan.
+· Good experience in RF proprietary protocol and IEEE 802.15.4 Mac protocols.
+
+· Good knowledge in software development life cycle processes, testing and debugging.
+
+· Good knowledge in contiki-os with OSI layers, which is operating on events and thread based os.
+· Good knowledge in module implementation, code analysis, optimization and testing, system integration and simulation tool and debugging and documentation.
+· Contributed to generation and maintenance of quality documentation such as Product specifications, Technical Specifications, Code Developers Guidelines, etc.
+B. Inter personal skills :
+
+· Ability to interact effectively with clients.
+
+· Strong communication and good problem solving skills.
+
+· Excellent inter team working with teams like Mechanical, software and manufacturing teams.
+· Good technical ability in the areas of module implementation and integration, system level debug.
+· Ability to work in a fast-moving, dynamic and team-oriented environment.
+
+Technical skills
+
+· Handling Wireless modules for wireless communication.
+· Domain expertise in Digital I/O, clock generation module, Timers, ADC.     
+
+· Circuit analysis, signal tracing of Digital I/O with microcontrollers.
+
+· Experience with wide variety of lab instruments including Digital oscilloscope and spectrum analyzer.
+· Strong problem-solving and analytical skills.
+· Knowledge in a variety of computer systems and technologies.
+· Having working Knowledge on operating systems such as Linux, windows.
+Known Tools:
+Languages
+: Embedded C, Assembly Language 
+Processor Architectures
+: 8051, ARM CORTEX-M0, CORTEX-M3.
+
+Microcontrollers
+: CC1110, CC1310. 
+Tools
+
+
+
+: IAR, Code composer studio, Turbo C and cube suite.
+
+Hardware Interface
+: Develop Device Drivers for interface to the various peripheral hardware           resources   such as serial- E2PROM and Data FLASH using SPI protocol. 
+Communication Buses         :  UART, I2C, SPI.
+Communication Protocols      : DLMS, RF- IEEE 802.15.4,IPV6,TCP/UDP                                                       
+
+Project Summary
+Project #1: Wireless communication for Energy meter using cc1110 
+Role: 
+
+Development and integration
+Team size: 
+Two
+Environment:
+
+
+Programming language
+:
+Embedded- C.
+
+
+Operation system
+
+:
+Windows.
+
+Target Architecture
+
+:
+8051 MCU
+
+Compiler
+
+
+: 
+IAR
+
+Standard Protocols involved   :
+I2C, UART, and IEEE 802.15.4 (MAC).
+Project related information:
+
+                  This is a integration  based project.  To communicate Energy Meter wirelessly, Implemented own proprietary protocol with 128-bit encryption with a maximum payload of 128 bytes, where meter handover the data through UART, then data is encrypted and then header is added  and then transmitted, After receiving that packet header is removed and de-cryptic and then handover data to meter through UART.  According to network point-to-point, star topology and Mesh topology was implemented. Network maintains can be consider based on RSSI(Received signal strength indicator) and HOP count, point to point or Mesh topology can be handled..
+Responsibilities:
+· Implementation of embedded software.
+
+· Code simulation, optimization and functionality testing.
+· Document for module design and implementation details.
+Project #2: DLMS protocol stack for Energy meter 
+Role: 
+
+Development, integration and testing.
+Team size: 
+Two
+
+Environment:
+
+
+Programming language
+:
+Embedded- C.
+
+
+Operation system
+
+:
+Windows.
+
+Compiler
+
+
+: 
+IAR
+
+Project related information:
+
+This is a protocol based project. Studied bluebook and green book for implementation of DLMS Protocols and to understand the frame header of COSEM and HDLC. Establishing client server communication between Energy meter and system application, DLMS Protocol mainly matters in frame Timings, which has to match timeouts with system application. From UART data is taken from Energy meter and given to application, in between stack is present, which is need to add header according to DLMS protocol based on data from energy meter.
+Responsibilities:
+· Implementation of embedded software.
+
+· Code simulation, optimization and functionality testing.
+· Document for module design and implementation details.
+
+Project #3: IPV6 based Wireless communication for Energy meter using              cc1310
+Role: 
+
+Development, integration and testing.
+
+Team size: 
+Two
+
+Environment:
+
+
+Programming language
+:           Embedded- C.
+
+
+Operation system
+
+:          Windows & Linux.
+
+
+Platform
+
+
+:           ARM CortexM3, M0.
+
+Protocols involved   
+
+:
+I2C, UART, IEEE-802.15.4, ipv6, RPL, UDP.
+
+Project related information:
+
+This is a integration based project. Optimized for wireless communication with meter. 6Lowpan Module which has the intelligence of handling data over ipv6 and RF (Radio frequency), Mac is IEEE 802.15.4 with payload of 128 bytes where ipv6 has a payload of 1280 bytes, to send that huge data through Mac layer (L2-Layer) is not possible, so for that adoption layer is introduced which will compress the 1280 bytes into 128 bytes by using header compression and fragmentation techniques. For Routing protocol  RPL is used which can control the whole network with four messages .Initially router will send DIS message to join into network(which will maintain at L3-Layer) ,If any Root or coordinator received DIS then Root will send DIO message (Dag information object) in response to DIO Router will send DAO .
+
+6Lowpan protocol is a ipv6 low power handing stacks currently working with contiki-os which operates on event based os. For that we used TI CC1310 controller which has two cores , one is cortex-M3,and another is cortex- M0. For RF functionality and RF core part is handled in contex-M0. In Contex-M3 application part which was categorized into adoption layer(which is in between MAC layer (L2-Layer) and Network layer(L3-Layer), ipv6 and icmpv6,RPL(network layer) and transport layer(udp,tcp) and then application.
+Responsibilities:
+· Implementation of embedded software.
+
+· Code simulation, optimization and functionality testing.
+· Document for module design and implementation details.
+
+Academic summary
+· Completed Diploma degree (2008-2011) in Electronics and communication engineering with first class from Nandha Polytechnic collage, at Erode, Tamilnadu.  
+
+· Completed Bachelor of technology degree (2011-2014) in Electronics and communication engineering with first class from Nandha College of technology (Affiliated to Anna University-chennai),at Erode, Tamilnadu.  
+
+Personal Details:
+
+Date of Birth
+
+:
+14th Mar 1993.
+Languages Known
+:
+English, Telugu, and Tamil.
+
+Marriage status              :    
+single
+
+Nationality  
+           :    
+Indian.
+
+I hear by assure that above furnished details are true to the best of my knowledge.
+Place: Hyderabad
+Date:                                                                                                     (Jamapani Vishnu Chakravarthy)     
+

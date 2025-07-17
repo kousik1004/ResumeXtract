@@ -1,0 +1,296 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                         
+
+Manochitra Loganathan                                                                    mano.chitra4@gmail.com    
+_____________________________________________________________________________
+Mobile: +91-9884824245
+	Profile Summary
+
+
+
+· Over 5.4 years of experience as an DB2 LUW  and Oracle Database Administrator. 
+· Responsible for database administration, production support, installation, configuration, upgrades, patches, backup and recovery, database security, auditing and space management. 
+· Installation and configuration on DB2 LUW 9.7, 10.1, 11.1 databases in IBM AIX, LINUX and Windows environments. 
+· Experience in upgrading the databases from V9.7 to V10.1 and from V10.1 to V11.1 in DB2 LUW.
+· Replication and Migration of databases using data movement utilities Export, Import, db2move and Load for data transfer.
+· Performance tuning of databases including query tuning and optimization.
+· Understanding of database access and ability to assist developers in implementing efficient SQL code.
+· Establish standards, controls, and procedures to ensure data integrity and security.
+· Implement purging techniques through scripts.
+· Backup and Recovery of databases and High Availability Disaster recovery (HADR).
+· Determine and provide assistance with the methods used to format, load or update data.
+· To analyze and understand feasibility of implementing new technologies like RCAC , Automatic Storage .
+· As SOX POC , maintained standards and ensured that our operations are aligned with defined standards. 
+· Actively involved in storage/LUN migration with the coordination between server, database & SAN parts.
+· Involved in Data modeling, logical and physical database designs and worked as on-call support team member for administering OLTP 24X7 production databases.
+
+	Technical Skills
+
+	Operating Systems
+	IBM AIX, Linux, Unix, Windows Servers, Windows 7
+
+	Databases
+	DB2 LUW v9.5 , 9.7, 10.1 ,10.5 and 11.1 on LUW  and Oracle   11gR2 .
+
+	Oracle Utilities
+	Backup, Recovery, Export/Import, Data pump, SQL Loader, Recovery Manager (RMAN).
+
+	Db2 Utilities
+	Backup, Recovery, Disaster Recovery, Export/Import, Load & Reorg and Runstats.
+
+	Languages
+	SQL, UNIX, Shell scripting, HTML.
+
+	Data growth solutions tool
+	Optim Connect studio, Optim configuration  manager, DB visualizer, ODBC/JDBC Manager
+
+	Data Modeller tool
+	Toad Data Modeller
+
+	Experience in DB2
+
+
+
+· DB2 Instance & database creation on UNIX machines.
+· DB2 Installation of Fix packs for DB2 Databases on UNIX.
+· Expertise on Migrating databases to higher versions V9.7 to V10.1.
+· Currently working on migrating databases from V10.1 to V11.1.
+· Better work experience & understanding on TSA/db2haicu in V10.5.
+· Good Experience in restoring the backup images using Redirect Restore method.
+· Expertise in Full database Recovery and Roll forward recovery to end of logs for no transaction loss or to specific point in time recovery.
+· Expertise in using DB2 Movement Utilities like Export, Import and Load.
+· Knowledge in data modelling using ERWIN.
+· Built & managed Disaster Recovery database & involved in disaster recovery activities. 
+· Configure, working & troubleshooting knowledge on Queue replications of the databases.
+· Configure, working & troubleshooting knowledge on DB2 HADR setup lying between primary and standby servers.
+· Creation of database objects, Tablespaces, Tables and Indexes etc. as per the requirement.
+· Table Space Management - Adding, dropping, extending, reducing and resizing table space containers. 
+· Ensuring the accessibility of the tables to the users.
+· Troubleshooting database issues using db2diag, db2pd, db2dart, db2support, db2top.
+· Good experience in DB2 maintenance utilities like Reorgchk, Reorg and Runstats for better performance of the database and for SQL queries.
+· DB2 Monitoring Tools – Snapshot monitors and Event monitors.
+· SQL Tuning using db2advisor and db2explain tools. 
+· Good working & troubleshooting knowledge on DPF Environment.
+· Good knowledge in shell scripting.
+
+	Experience in Oracle	
+
+
+
+· 24x7 product database support.
+· Database Monitoring and administration of database using Enterprise Manager Grid control OEM.
+· Cloning of the database from Production to the Test and Development environments using RMAN and conventional methods.
+· Applied security related CPU and One-off patches using Opatch utility, Applied RDBMS Patch set Utility PSU.
+· Performed Cold backup, hot backup using conventional backups and RMAN, recovered various and critical Production databases.
+· Prepared backup schedule which include offline, online and logical backups.
+· Used Export/Import, Data Pump Utilities to move the data between different databases and for backups.
+· Monitor CPU usage, I/O contention, memory paging on UNIX server. Identify resource and performance bottleneck. Provide technical direction to system administrators.
+· Rebuilding of Indexes for better performance, maintenance of Oracle Database.
+· Created users and allocated appropriate table space quotas with necessary privileges and roles for all databases.
+· Worked with Oracle Support for resolving the database related unresolved issues.
+· Worked on SQL Loader to load data from flat files, Checking for Row Migration and Chaining on Highly used transaction tables.
+· Configured TNSNAMES.ORA and LISTENER.ORA for SQL NET connectivity.
+· Created DB links across databases and Solved Database connectivity issues by continuously monitoring the status of the listeners and instances.
+· Implemented RMAN backup encryption and Transparent Data  Encryption and SSL encryption as a security feature in Oracle.
+
+
+	Experience in Optim
+
+
+· Configuring IBM DB2 and ORACLE databases with OPTIM and creating DB alias for the same.
+· Creating access definition and defining the flow for archive process based on data integrity. 
+· Performing archive, purge and restoration of data using OPTIM on DB2 and Oracle databases
+· Worked on Index maintenance on archive files for performance improvement. 
+· Taking regular backup of OPTIM directory.
+
+	Experience in Unix & Shell Scripting
+
+
+· Working databases operating in AIX platform, expertise in UNIX – AIX commands.
+· Created various shell scripts to monitor the database and health checkups.
+· Created automated shell scripts to perform DB maintenance operations.
+· Scheduled script to check the long running queries in the database via crontab.
+· Created shell script to check the list of users having access to the database.
+
+	Experience in Server Maintenance
+
+
+· Identified & troubleshoot server level issues pertaining to the databases like CPU, Memory, I/O & Space for better performance & availability.
+· Identify the processes that consume much CPU & Memory and took relevant action to overcome that.
+· Done multiple maintenance work like OS upgrade & server maintenances with the coordination between server & database parts.
+· Actively involved in storage/LUN migration with the coordination between server, database & SAN parts.
+· Involved in failover techniques through VERITAS clusters like HADR & SRDF.
+· Filesystem utilization & its management 
+
+
+
+
+
+	Technical Certifications
+
+
+
+· IBM Certified Database Associate – DB2 9 fundamentals.
+· IBM Certified Database Administrator – DB2 10.1 for Linux ,Unix and Windows 
+· Acknowledged by client with Certification for quick adoption to technology and value adds. 
+· Splunk Power User Certified.
+
+	Educational Qualification	
+
+
+· Bachelor’s Degree in Electronics and Communication Engineering (ECE), S.A Engineering College , Tamil Nadu, 2012
+· Board of Intermediate Education, Tamil Nadu , State Board, 2008.
+· Board of Secondary Education, Tamil Nadu, Matriculation, 2006.
+
+Project Details: 
+1. Accenture Services Pvt. Ltd.
+	Client
+	Kaiser Permanente
+
+	Senior Software Engineer
+	Accenture Services Pvt. Ltd
+
+	Duration
+	Jan 2016 – Till now.
+
+	Role
+	DB2 UDB DBA, Oracle DBA .
+
+	Contribution
+	In DB2
+· Providing 24x7 DBA support for the database servers.
+· Creating & Managing database & their objects.
+· Working in migrating DB2 databases from V10.1 to V11.1.
+· Troubleshoot database using db2top, db2pd, etc.
+· Use diaglog for errors and troubleshoot them accordingly.
+· Provided tuning advice using db2explain & db2advise.
+· Schedule backups and check script logs.
+· Restore the Backup images using Redirect Restore method from source to target server.
+· Done full database Recovery and Roll forward recovery.
+· Expertise in using DB2 Movement Utilities like Export, Import and Load
+· Monitoring CPU, resource utilization and database growth.
+· Involve in Database & server maintenance within the strict down time.
+· To analyze and understand feasibility of implementing new technologies like RCAC , Automatic Storage 
+In Oracle : 
+· Created database & related objects.
+· Monitored the database growth and disc space.
+· Checked the tables & indexes for fragmentation.
+· Created & altered users with appropriate privilege.
+· Refreshed schema.
+· Managed logical & physical backups.
+· Worked on RMAN
+· Cloned database.
+
+
+
+	Environment
+	DB2 UDB V9.7, V10.1, V11.1,Oracle 11gR2
+
+	OS
+	AIX
+
+	Team Size
+	10.
+
+
+
+
+2. HCL Technologies.
+	Client
+	United Service Automobile Association (USAA).
+
+	Senior Analyst
+	HCL Technologies Ltd- IOMC.
+
+	Start and End Date
+	Jun  2012 to Dec 2015.
+
+	Role
+	DB2 UDB DBA, Netezza DBA.
+
+	Contribution
+	Technical
+· Providing 24x7 DBA support for the database servers.
+· Creating & Managing database & their objects.
+· Working in migrating DB2 databases from V9.7 to V10.5.
+· Working experience & understanding in TSA/db2haicu in DB2 V10.5.
+· Worked on Migrating databases to V9.5 to V9.7.
+· Troubleshoot database using db2top, db2pd, etc.
+· Use diaglog for errors and troubleshoot them accordingly.
+· Provided tuning advice using db2explain & db2advise.
+· Schedule backups and check script logs.
+· Restore the Backup images using Redirect Restore method from source to target server.
+· Done full database Recovery and Roll forward recovery.
+· Expertise in using DB2 Movement Utilities like Export, Import and Load
+· Configure & Troubleshoot Queue replications
+· Configure & Troubleshoot HADR.
+· Experience in DPF environment.
+· Monitoring CPU, resource utilization and database growth.
+· Involve in Database & server maintenance within the strict down time.
+· Working on Netezza databases – Objects creation, session management & troubleshooting.
+
+	Environment
+	DB2 UDB V9.1, V9.5, V9.7, V10.5
+
+	OS
+	Linux AS4, AS5 & AS6.
+
+	Team Size
+	10.
+
+
+
+
+
+Place: Chennai
+Date: 10/30/2017
+Signature
+Manochitra L

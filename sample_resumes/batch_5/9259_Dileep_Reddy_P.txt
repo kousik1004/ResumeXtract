@@ -1,0 +1,212 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+Dileep Reddy P
+3
+
+DILEEP REDDY P
+Phone No: +91-7842828106
+Email: dpreddy1020@gmail.com
+Career Objective:
+· To give my best in my professional pursuit for overall benefit and growth of the company that I serve by facing the challenges. I will show my caliber and gain some experience.
+Summary:
+· Having around 4 years of experience in Microsoft SQL SERVER 2008, 2012 Development and MSBI (SSIS, SSRS, and SSAS) Development.
+· Knowledge on Azure data factory.
+· Experience in Installing, Configuring, Managing, Monitoring and Troubleshooting SQL Server.
+
+· Extensive Experience in SQL Server and T-SQL in Constructing Triggers, Stored Procedure, Functions, Table variables, Indexes, CTE, Views, and Temp Tables.
+
+· Experience in Scheduling and Managing Jobs using SQL Server Agent.
+
+· Strong Knowledge in Dynamic SQL, SP_Configure.
+· Extensive experience in fine tuning the stored procedures.
+
+· Good experience in debugging the stored procedure and analyzing the bottle neck queries and improving the performance.
+
+· Good experience in creating clustered and non clustered indexes to keep up the good performance.
+· Worked on Data Extraction, Transforming, and Loading from different sources to target system using SQL Server Integration Services (SSIS).
+
+· Worked on Control flow items like Containers and Tasks.
+
+· Experience in using Breakpoints, Check points, and Data Viewers at various levels of ETL Operations during Unit Testing.
+
+· Experience in Package Configuration, Logging and Deployment on various Environments.
+
+· Developed Drill Down and Drill Through Reports Using SSRS.
+
+· Generated Parameterized Reports, Cascading Reports, Sub Reports Interactive sorting of data and Defining Sub Totals in SSRS.
+· Knowledge on SSAS facts and dimensions.
+
+· Experience in creating DMG client, linked servers, datasets and pipelines in ADF.
+· Knowledge in Trouble Shooting issues at SQL Server level.
+
+· Reviewing and Writing Functional Specs, Technical Specs, Test Plan, and Test Cases.
+
+· Good understanding on BRD & FSD documents.
+
+· Good exposure to SQL Queries.
+
+· Involved as a part of requirement gathering and requirement analysis meetings.
+· Collaborated with QA team for better testing results.
+· Hands on creating azure data factory ADF, pipelines, datasets.
+· Knowledge on creating data sources, data source views and dimensions in SSAS.
+Technical Skills:
+
+
+
+
+
+
+
+
+Databases:
+SQL Server (2008R2, 2012)
+IDE:
+Visual Studio 2008/2010
+
+ETL Tools:
+SSIS, INFORMATICA (BASICS)
+Reporting Tools:
+SSRS
+Analytical Tools:
+SSAS
+Operating Systems:
+Windows 7, 8, 8.1, 10.
+Tools & Utilities:
+SQL Server Profiler, DB Tuning Advisor, BCP, DTEXEC
+Education:
+· B. Tech from Jawaharlal Nehru Technological University
+Work Experience:
+· Currently working as a Senior Associate Consultant in Infosys LTD from Jan 2015 to till date.
+· Previously worked as a Software Consultant for Alliance Global Services from Jan 2014 to December 2014.
+DETAILS OF THE PROJECTS
+PROJECT: ODS.
+
+
+
+
+
+Duration: Jan 2015 to till date.
+
+Client: Microsoft.
+Role: ETL Developer.
+ 
+Description: ODS is an integrated database used for onetime reporting to monitoring internal Microsoft operations.
+
+Role & Responsibilities:
+· Created tables, views, stored procedures as per the requirement.
+· Understanding business rules given in STM and implementing accordingly.
+
+· Used Informatica for importing data from multiple sources based on default template defined for all sources.
+
+· Used datamall for importing data from few sources.
+
+· Written complex stored procedures to meet business requirements.
+· Involved in code decoupling and reverse migration activities.
+
+· Created SSIS package for importing data from flat files and doing the automation for recon activity.
+· Prepared deployment documents and consolidated all the required objects for deployment.
+· Helped build team to get the objects deployed smoothly in UAT and PROD servers
+
+· Written test cases as per the business rule defined in STM to test the functionality of the stored procedures.
+· Helped team members by doing peer to peer code review. 
+· Communicated with all stake holders upstream and downstream for good quality output.
+· Communicated with parallel system to get the business operations and analyzed and implemented in ODS.
+· Successfully migrated the data from parallel system and retired the parallel application.
+
+· Created jobs in SQL server agent for automation and fixed the failures on high priority.
+
+· Helped the users by fixing the errors while retrieving the data from our database.
+
+· Identified the long running stored procedures and long running queries and fine tuned them with proper indexing and by re writing the logic in better way.
+
+· Fixed the bugs by providing scrub for temporary fix and changed the logic for permanent fix.
+PROJECT: AHM (Advance Health Media)
+
+
+Duration: Jan 2014 to Dec 2014
+Role: Data Analyst.
+ 
+Description: AHM manages the promotional and marketing activities of pharmaceutical products that are manufactured by different Pharmaceutical companies like Abbott, Astra Zeneca US and Canada, Novo, Sanofi, Santarus, Pfizer, Merck, GSK, BMS and Novartis etc. AHM has developed individual solutions for each and every of its clients said above for their promotional event activities of pharmacy products. As business evolved to the larger volumes, AHM controls maintenance and support activities of the Support and custom development issues for client applications. Building of one centralized platform solution from various independent applications has become a challenge for AHM, where each and every client has some diversifying business functionality apart from the common business objective. AHM continues to provide support for issues and re-engineering activities for all the client applications.
+
+Role & Responsibilities:
+· Working with SQL and SQL Server 2008 development.
+· As a Data Analyst created Stored Procedures, Functions, Triggers, Views, and Indexes.
+
+· Create SSIS packages to load the data into SQL Server database from different type of files like (.txt, .xls) files.
+· Worked with different type of Transformations like Derived column, conditional split, multicasting, lookup, Union all, OLE DB command, and some custom transformations.
+· Implemented Environment variable, Parent package variable and SQL Server configuration for SSIS Packages.
+· Implemented Error handling using Event handlers and implemented Logging using SQL Server Logging.
+· Involved in internal products like File mover application and clarity tool application.
+· Worked with lot of Production support Issues and given solutions to fix the issues.
+· Worked with lot of custom development or Enhancement projects to apply new changes or change request and new functionalities.
+
+· Implemented MDM Merge (Master data Management) and De-dupe process to remove duplicate profiles.
+
+· Involved as a part of requirement gathering and requirement analysis meetings.
+
+· Migration the databases from one server to other server.
+
+· Done the Performance tuning for long running Procedures.
+· Written unit test cases for all requirements.
+
+· Created Drill down, Parameterized and Cascade Reports using SSRS.
+Achievements:
+· Got INSTA award for quality of the work did for opportunity track.
+· Got INSTA award for doing analyst job and getting business rules from source system.
+
+Declaration:
+I hereby declare that the information furnished above is true to the best of my knowledge and belief.
+
+Place: Hyderabad
+
+
+
+
+
+
+
+P Dileep Reddy.
+

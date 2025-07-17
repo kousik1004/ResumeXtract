@@ -1,0 +1,230 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Govindharajan R
+Senior Associate 
+
+Email: govindh.it@gmail.com
+
+Ph: 7200111615
+Professional Summary
+· 4+ years over all IT working experience.
+
+· 3.5 years of experience in all the phases of SDLC design and development of Enterprise-level web and windows applications using Microsoft Technologies.
+
+· Extensive experience in .NET using C#, ASP.NET, VB.NET, ADO, Web Forms and Web Controls.
+
+· Expertise in designing ASP.NET based Graphical User Interfaces with CSS, JavaScript, jQuery, AJAX, DHTML and HTML.
+
+· Experience in designing and branding Master Pages utilizing Server Controls, User Controls, Data Grid control, Form Validation controls, Custom controls and CSS.
+
+· Strong experience in data retrieval and manipulation using ADO.NET data objects such as Dataset, Data Reader, Data list, Data Adapter.
+
+· Experience in using Windows Communication Foundation (WCF).
+
+· Experience in creating and consuming Web Services.
+· Good understanding of XML methodologies (XML, XSL XSD) including Web Services and SOAP.
+· Proficient working with Stored Procedures, Triggers, Cursors, Functions and Views on SQL Server and using PL/SQL
+· Experience in generating reports using SQL Server Reporting Services.
+
+· Experience in working with Visual Studio 2013/10, SQL Server 2008 and MySql.
+
+· Involved in Unit testing and Integration testing of the application.
+
+· Quick learner, exceptional problem-solving and troubleshooting capabilities.
+
+· Excellent Team player with good Communication and Interpersonal skills.
+Technical Skills
+
+	NET Technologies
+	ASP.NET 4.0/3.5, C#.NET, VB.Net, Win Forms, Web Forms, WCF,MVC
+
+	Programming languages
+	 Core Java,J2EE, C#.Net, Linux shell scripts
+
+	Databases
+	SQL Server 2008,MySql
+
+	Operating Systems
+	Windows 98/2000/XP/Windows 7
+
+	Web Technologies
+	Web Services, AJAX, HTML, CSS, Java Script, WCF, JavaScript, SOAP, IIS
+
+
+Work Experience
+
+NIIT Technologies
+ 
+
+
+
+
+
+
+
+Aug 2014 – Till Date
+Role: Senior Associate 
+Client:  Airport Authority of India (AAI)
+
+Project: eMonitor
+eMonitor is an web based application, was used to track Shift Task of an employees  by entering all activities of them daily basis. It also provides list of Checklist Task that needs to monitor by them. Auto E-mail generation of the Shift Task and Checklist also done in these web application. Employee can also able view/Download the Activities using the web application.
+Environment:  C#.Net, Sql Server 2008, ADO.NET, JavaScript, CSS,HTML, NET Framework 4.0, Visual Studio .NET 2013, IIS 6.0
+Responsibilities:
+· Designed and developed an n-tier architecture that included Presentation, Business and Data Access Layers using C#.Net, ASP.NET and SQL.
+· The Presentation Layer was implemented in ASP.NET using Web Forms, User Control, Web Controls, HTML, and Cascading Style Sheets.
+· Used Ajax Control Tool kit to run client side script, enhance rich web UI, validation and showing div based Ajax extender.
+· Worked extensively on web forms and data binding controls like Grid View, Data List and drop down boxes and Mapping page fields to the database fields.
+· Implemented Encryption & Decryption of the query strings using Secure Hash Algorithm and all the sensitive information stored in the database.
+· Created event driven Web Forms using ASP.NET and implemented form validation using Validation controls using both Custom validation and JavaScript was written for Client side validations and also used the new validation controls in VS 2013.
+· Expertise in creating Stored Procedure, Triggers and Nested Queries in SQL Server 2008.
+· Worked on Production Support tickets by finding the issues and fixing them.
+Client:  Airport Authority of India (AAI)
+
+Project: Airport Management Solutions (AMS)
+Given support client for to handle issues in Application. This application includes tracking the Flight STA/STD, ATA/ATD, and on chocks/off chocks details. This application helps to update status of each flight movements like Arrived, Check-in, Security, Boarding, Departed and Delayed. This application will led our Clients to allocate Flight stands, belts, gates and guide them by giving possibilities. Reports are designed and generated using SSRS as per requirement and delivered to Client.
+Environment:  C#.Net, Sql Server 2008, ADO.NET, JavaScript, CSS,HTML, NET Framework 4.0, Visual Studio .NET 2013, IIS 6.0,WCF,SOAP
+Responsibilities:
+· Configured the Validations & Rules on the Application as per the Client Requirement.
+· Provided technical support to the Client to handle issues in applications.
+· Tested the Applications in Staging Environment before deploying it to live environment.
+· Expertise in creating Stored Procedure, Triggers and Nested Queries in SQL Server 2008.
+· Developed SSRS reports to extract huge amount of data into Excel Sheets using SQL procedures.
+· Generate and Provide the Daily/weekly/Monthly Reports to Client as per their Requirement.
+· Involved in Creating SOAP Web services to handle request from outside vendors.
+
+· Developed a web page for Apron and ATC View in C#.net to display Flight Information in Video Wall and LCD Display.
+
+· Published the web services and Web Pages in IIS server.
+
+· Involved in Monitoring and fixing Bugs in the Web Portal and Upgrades in the Web Portal have been done based on the Client Change requirement.
+Prodapt solutions private Ltd, India
+                     
+
+
+
+Jan 2013 - July 2014
+
+Application Support Analyst 
+Project: WINTRACKER 
+
+The application which we developed in .net Framework used internally in our organization. This application helps to tracking the orders which we specially developed to attain Quality. This application helps our Associates to process orders and guide them by giving possibilities. This application also provides reports about the Orders Processed, individual processing as well as Team, SLA report, Login Logout Report of Team and their Break Time Details.
+Environment: C#.Net, MySql, Ajax, JavaScript, CSS, NET Framework 3.5, Visual Studio .NET 2010
+Responsibilities:
+· Involved in the analysis, design, implementation, and testing of the project. 
+
+· Implemented the presentation layer with HTML, DHTML and JavaScript.
+· Worked on front end designing of forms with AJAX & JavaScript and displaying data, validations and binding fields to the data source.
+· Developed a Web Part that would provide a mechanism for the user to update data in Application.
+· Implemented database using SQL Server and Designed tables and indexes. 
+· Wrote complex SQL and stored procedures. 
+· Responsible for to generate reports as per customer request. 
+
+· Involved in Unit and Integration testing for quality assurance purpose.
+
+· Responsible for the testing, fixing the bugs and troubleshooting the technical problems.
+· Responsible for to upgrade the application based on the customer requirement.
+
+· Developed user and technical documentation. 
+Extra Curricular Activity                        
+· Developed a Small Web Application in ASP.Net for to Download University Lab Programs.  
+
+· Developed a Small Windows Application in C#.Net for to Manage Customer bill Information in Recharge Shop and to generate reports based on the requirements (Total Recharge & Payment details of a customer on daily/weekly/monthly basis).
+Academic Qualifications
+· B.Tech in Information Technology (2008-2012) with 78.2%
+
+University College OF Engineering Tindivanam
+A Constituent College of Anna University Chennai.
+· Higher Secondary(2007-2008) with 88%
+
+Town Higher Secondary School
+
+Kumbakonam.
+
+· SSLC (2005-2006) with 91.8%
+A.R.R Municipal Higher Secondary School
+
+Kumbakonam.
+Personal Profile
+           Name                     
+: Govindharajan R
+
+           Date of Birth          
+: December 5, 1990
+
+           Father’s Name       
+: Rengachari T.B
+
+           Mother’s Name       
+: Roja R
+
+           Gender             
+: Male
+
+           Nationality                      
+: Indian
+
+           Languages known                           
+: English, Tamil, Sowrastra
+Declarations
+     I hereby declare that the above furnished details are true to be the best of my knowledge and belief.
+Place:  Chennai                                                         
+
+
+
+     Yours Sincerely
+
+Date:                                                                                                                              (GOVINDHARAJAN R ) 

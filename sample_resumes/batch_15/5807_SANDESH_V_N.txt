@@ -1,0 +1,263 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SANDESH V N
+
+Mobile: +91-9538373487
+
+
+                                     Email Id: sandeshgowdavn@gmail.com   
+
+CAREER OBJECTIVE
+
+· To work in an organization, where innovation and excellence is the way of life, where my full potential will be explored and where I will get ample scope for development.
+
+IT EXPERIENCE SUMMARY
+
+· Total Years of IT Experience 5.5 Years.
+
+· Currently working with Mercedes Benz (on-roll with Tata Elxsi Ltd) as Senior Data Engineer since 
+
+Jun 2015 to till date. 
+
+WORKING ENVIRONMENT
+
+· 4 years of IT experience in Data Analysis, Data Warehousing, Data Modeling, Shaping, Data Design and Development on Microsoft SQL Server 2014/2008, SSIS, T-SQL and Performance Tuning.
+· 2.5 years in ETL, Big Data and Data Science
+
+· Core expertise lies in MS-SQL Server 2014 and Big Data.
+
+· Extensive experience with T-SQL in constructing Triggers, Tables, implementing Stored Procedures, Functions, Views, User Profiles, Materialized views and Data Integrity.
+
+· Extensive knowledge of Normalization and Relational Database Management Systems.
+
+· Hands on Experience in Installing, Configuring, Managing, monitoring and troubleshooting SQL Server 2014/2008
+· Great ability to create and manage various database objects like tables, views.
+· Creating Materialized View and Data shaping, cleaning i.e. interpolation.
+· Strong experience in designing and working with NoSQL databases like HBase and Mongo DB.
+· Excellent T-SQL development skills to write complex queries involving multiple tables, great ability to develop and maintain stored procedures, triggers, user defined functions.
+
+· Experience in Performance Tuning and Query Optimization to improve the database performance and availability
+
+· Exceptional analytic and problem solving skills. A Team player with the ability to communicate effectively at all levels of the development process.
+
+· Worked on Big Data Framework implementation on a Hadoop platform.
+
+· A part of the Big Data Analytics Platform Team.
+· Research & develop Machine Learning models for battery problems, in the areas of Automotive.
+· Very good communication skills, good interpersonal skills & desire to excel, fast learner, hardworking and a versatile team player.
+TECHNICAL SKILLS
+
+· Database
+
+:  MS SQL SERVER 2014, MongoDB (No SQL), MySQL 5.
+· Big Data Ecosystems   : Hadoop, MapReduce, HDFS, HBase, Hive.
+· Business Intelligence
+:  SQL Server Integration Services.
+
+· Scripting Language 
+:  SQL Script.
+· Programming Language: SQL, T-SQL, Python, C/C++ and Machine learning algorithms in Python.
+· Operating Systems    : Windows, Linux.
+· Tools & Utilities
+: MSSQL Server, Informatica, Tableau, Putty, Win SCP, Eclipse, Git.
+EMPLOYMENT HISTORY
+
+· I am currently working as Senior Data Engineer in Mercedes Benz (on-roll with Tata Elxsi Ltd) Bangalore, India from June 2015 to till Date.
+
+Roles: Data Analysis, Design, Querying, Writing Stored Procedure, Functions, Testing, Implementation, Migration.
+· Worked as a Software Engineer at Voice Tech Solutions Pvt Ltd.
+
+MAJOR ASSIGNMENTS
+
+In Mercedes Benz, India 
+Job Description
+Project: HYB42 (Hybrid Cars)
+
+The project aimed at early detection battery failure in Hybrid Cars using Machine learning algorithms Linear Regression and Logistic Regression.
+
+Responsibilities and Work:
+· Developing Use-Cases/Data models 
+
+· Developing Model using Machine learning algorithms Linear Regression and Logistic Regression in Python.
+
+Project: HYB42 (Hybrid Cars)
+
+
+The project aimed at extracting, cleaning and transforming the data from mdf files which is generated from hybrid cars using a crawler system. The crawler system consisted of the mat lab engine used to do the extraction transformation and loading of the transformed data into the database and HDFS. i.e.
+
+· Extraction of Measurement data from MDF files from Cartago.
+
+· Structuring and cleaning of measurement data extracted.
+
+· Updating the structured measurement data to the data base.
+
+· Storing trigger information and Meta data information.
+
+· Collecting EPROM Data, ECU information and Load collective.
+
+The process of extraction involves using the mdf parser to extract the raw data from the mdf files, cleaning and processing the data and updating the processed data to the data base. 
+
+Responsibilities and Work:
+· Responsible for interacting with business users for gathering system requirements, analysis of functional and technical requirements.
+
+· Analyzing the requirements and discussed with managers and leads on the functionality.
+· Designing Database Schema, Writing Stored Procedures, Functions, Triggers and Views.
+
+· Write complex SQL queries for validating the data against different kinds of reports.
+· Creating Materialized View and Data shaping, cleaning i.e. interpolation.
+· Writing generic function for Pivot tables.
+
+· Co-ordinated with front-end team for implementing stored procedures and functions.
+
+· Scheduling database backups in SQL Server Agent.
+
+· Have worked with Database testing and SQL queries
+· Import-export data into HDFS format, analyze V=Big data using Hadoop environment, Developed UDFs using Hive and Developed Hive queries for the analysis.
+· Develop new features to the product and deploy it as patch in the production environment.
+
+· Generate reports using SSRS/RRM for the onsite people.
+
+· Update on the development activities to the scrum master.
+
+Environment:  Microsoft Visual Studio, Python, Tableau, Telerik UI, SQL Server 2014, Hadoop, Hive, Windows 7.
+Project: HYB42 Load Collective Data (Hybrid Cars)
+
+
+The project aimed at extracting Load Collective Data from flat files which is generated from hybrid cars using a SPSS system.
+· Structuring and cleaning of Load Collective Data extracted.
+
+· Updating the structured Load Collective Data to the Hive.
+
+· Storing Cars and its meta data information
+The process of extraction cleaning and processing the data and updating the processed data to the tables. 
+
+Responsibilities and Work:
+· Responsible for interacting with business users for gathering system requirements, analysis of functional and technical requirements.
+· Designing Database Schema.
+· Analyzing the requirements and discussed with managers and leads on the functionality.
+· Write complex Hive queries for validating the data against different kinds of reports.
+· Have worked with Database testing and queries
+· Develop new features to the product and deploy it as patch in the production environment.
+· Update on the development activities to the scrum master.
+
+Environment:   Tableau, Hadoop, Hive, Hortonworks, Windows 7.
+PREVIOUS EMPLOYER:
+
+Job Description
+Project: REFEREE
+This is an ERP (named as REFEREE) is designed for engineering colleges to manage the database of the students, faculty and non-teaching staff. It involves 20 different modules including major ones: ADMIN, FACULTY, STUDENT, TIMETABLE, ATTENDANCE and MARKLIST.
+
+The brief description of some of the major modules is as below:
+
+· ADMIN: Admin module is accessed by the referee admin. This module is used to define all the academic necessities such as attendance types, departments, courses, sections, course-section map etc. It also houses a link to define the exam types. Also, new users are created by accessing these modules.
+
+· FACULTY: The entire faculty database can be accessed, viewed and modified using this module.
+
+· STUDENT: The entire student database (non-academic) can be accessed, viewed and modified using this module. 
+
+· TIMETABLE: This module is used to design the TIMETABLE for the college. Timetable for Regular, Combined, Segment and Optional classes can be easily allocated. It also houses faculty substitution option.
+
+· ATTENDANCE: This module is used to provide attendance for students.
+
+· MARKLIST: This module is used to provide internal and external marks for the students
+Responsibilities and Work:
+· Designing Database Schema.
+· Design and develop the technical solution for project.
+· Creating logical and physical model for analytical databases.
+
+· Developing T-SQL stored procedures, functions, triggers, views.
+
+· Co-ordinated with front-end team for implementing stored procedures and functions.
+
+· Debugging and Optimizing SQL Server performance.
+
+Environment: Html, PHP, SQL Server 2008, Adobe dream viewer CS6VB, Windows 7.
+
+EDUCATIONAL QUALIFICATION
+· Have completed certification by Udemy in Machine Learning - Python
+· M Tech in Data Analytics from BITS Pilani with 7.5 CGPA.
+· B.E in Computer Science from Shirdi Sai Engg College, Bangalore under Visvesvaraya Technological University during 2007 to 2011 with 75% marks.
+· PUC in Science from Govt for Boys PU College, Bangalore under Karnataka State Technical Education Board, 2007 with 74% marks.
+
+· S.S.L.C from Govt High School IISc, Bangalore under Karnataka State Board of Secondary Education, 2005 with 80% marks.
+PERSONAL DETAILS
+Father’s Name
+
+
+
+:
+Narayana Gowda V R
+
+Date of Birth
+
+
+
+:
+18th May 1990
+
+Marital Status
+
+
+
+:
+Single
+
+Nationality
+
+
+
+:
+Indian
+
+Languages Known
+
+
+:
+Kannada, English, Hindi and Telugu.
+*****
+

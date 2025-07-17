@@ -1,0 +1,158 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vikran R	vikranr92@gmail.com
+	+919886694567
+Objective:	
+Seeking a challenging development position with a strong emphasis on Big Data technologies like Hadoop and Spark to use my current skill set, ability to learn quickly with a desire to define and create the best solutions possible to become an asset to the organization
+Profile:
+· 3 years of total IT experience completely relevant in Big Data ecosystems.
+· Good hands-on experience in Hadoop ecosystem including Hive, Pig, oozie and Sqoop.
+· Good hands-on experience in Spark ecosystems – Spark Core, Spark SQL.
+· Implemented various Data Ingestion Frameworks using Hive, pig, Sqoop for Big Data.
+· Good hands-on experience in Google cloud platform components like AppEngine, bucket storage, bigQuery and Composer.
+· Good hands-on experience in programing languages like Scala and Python.
+· Completed various online courses related to Big Data stack.
+· Strong problem solving, and technical skills coupled with clear decision-making and ability to learn quickly and adapt to new technologies.
+
+Technical Skills:
+	Core Knowledge
+	Spark Core, Spark SQL, flume, Hadoop, Hive, Sqoop
+
+	Platforms
+	UNIX, Windows
+
+	SQL Database
+	Microsoft SQL Server, Oracle, RDBMS
+
+	NoSQL Database
+	HBase
+
+	Programming Languages
+	Scala, core java, python
+
+	Hadoop Distribution Platforms
+	BigInsights, Horton Works HDP
+
+	Distributed File Systems
+	HDFS
+
+	Cloud platform
+	google cloud
+
+
+
+
+Professional Experience:
+THD: June 2018 – present 2018:
+Big Data and google cloud engineer (python,Google cloud platform)
+Responsibilities:
+· Extracted Advertiser data from different sources like (DoubleClick-search, Pinterest, Criteo, Adwords, Facebook) as CSV into the Google cloud Bucket storage using python script with the help of Authenticated credentials.
+· Saved the extracted files into Google bucket storage and archived the save once processed using python script.
+· Performed data quality checks and data cleansing on the data received using python script.
+· Ingested the data into the google BigQuery tables from bucket storage and processed the same for the further usage using python script.
+· Performed duplicates removal and incremental update on BigQuery tables.
+· Used AppEngine cron to schedule and monitor the daily jobs
+
+Retail: Jan 2018 – August 2018:
+Big Data Developer (Sqoop,spark, spark sql,oozie ,unix scripting)
+Responsibilities:
+· Extracted data from different sources (flat files and RDBMS) into the HDFS.
+· Used Sqoop to fetch the data from the RDBMS sources into HDFS.
+· Performed data quality checks on the data received using Spark & Scala.
+· Ingested the data into the Hive tables via SparkSQL and processed the same for the further usage.
+· Cleaning up of the older partitions, temporary tables and the archival of the source files were handled by UNIX shell scripts.
+· Used Oozie to schedule and monitor the workflow containing Spark, Hive and Shell actions.
+· Developing Scripts and Batch Job to schedule various Hadoop Program.
+
+Retail: Feb 2017 – Jan 2018:
+Big Data Developer (Hive, Sqoop, oozie and Unix Scripting)
+Responsibilities:
+· Worked on analysing Hadoop cluster and different big data analytic tools including Pig, hive and Sqoop
+· Shell scripts to dump the data from MySQL to HDFS.
+· Involved in loading data from UNIX file system to HDFS and implemented SCD2 type for the data.
+· Developing Scripts and Batch Job to schedule various Hadoop Program.
+· Written Hive queries for data analysis to meet the business requirements.
+· Creating Hive tables and working on them using Hive QL.
+· Importing and exporting data into HDFS and Hive using Sqoop.
+· Involved in creating Hive tables loading with data and writing hive queries which will run internally in map reduce way.
+· Wrote custom scripts to monitor Namenode, data node, secondary name node, Resource manager and node manager daemons and setup alerting system.
+· Shared responsibility for administration of Hadoop, Hive and Pig.
+
+
+Telecom: June 2016 – Jan 2017:
+Big Data Developer (Hive, Sqoop, pig and Unix Scripting)
+Responsibilities:
+· Created Hive queries that helped market analysts spot emerging trends by comparing fresh data with EDW reference tables and historical metrics.
+· Enabled speedy reviews and first mover advantages by using crontab to automate data loading into the Hadoop Distributed File System and PIG to pre-process the data. 
+· Analyzing/Transforming data with Hive and Pig.
+· Managed and reviewed Hadoop log files. 
+· Tested raw data and executed performance scripts. 
+· Moving data from HDFS to RDBMS and vice-versa using SQOOP.
+· Shared responsibility for administration of Hadoop, Hive and Pig.
+
+T-systems (EE): 
+Programmer (Automation):March 2014 –May 2016
+Responsibilities:
+· Analysis, design, development and implementation of software applications.
+· Development of script to move the files between different servers
+· Loading the Historical data of  application using the automated scripts
+· UNIX scripts development for monitoring the logs, file sizes
+· Used  Cron to schedule the UNIX script and SQL programs
+· Developed bash shell scripts to kick off back end SQL programs.
+· Involvement in design calls to understand customer requirement and provide suggestions on requirements.
+· Coding of UNIX shell script for transfer of files between servers according to business requirements and performing the operations on oracle database.
+Environments:   UNIX, Oracle and SQL 
+
+
+
+3
+

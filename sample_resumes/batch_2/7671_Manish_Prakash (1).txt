@@ -1,0 +1,363 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MANISH PRAKASH
+
+Development Consultant SAP NetWeaver’04 –Application Development Focus ABAP
+                         Certificate Id: S0004279675 
+
+                                                                     Manish Prakash
+                                                      B5 603 Vatika City Homes Sec83                                           
+
+                                                           Gurugram Haryana 122004 
+                                                                India +91-8130419242  
+                                                             prakashmanish@gmail.com
+
+
+9.5 years of SAP custom development and implementation experience with strong understanding of ABAP, ABAP-OOPs, Interfaces, Dialog Programming, BSP, SAP ARIBA and SAP HANA. Experienced ABAP/4 programmer in Sales and Distribution, Materials Management, Finance, Production Planning, HR, QM and PLM Modules. Possess strong communication and analytical skills. Completed 2 end-to-end SAP implementations and 4 Support projects include AIRBUS, LEGO, Linde , Statoil, HPM India, Vestas and Fonterra.
+SKILLS
+	
+	SAP R/3 ECC
+	
+	
+
+	
+	
+	
+	
+
+	Programming Language
+	ABAP, Object Oriented ABAP
+	
+	
+
+	
+	
+	
+
+	Work Bench
+	Data Dictionary, Screen Painter, Function Library, Dialog Programming, Interactive Reports,
+	
+
+	
+	Classical Reports, Smart forms and SAP Scripts
+	
+	
+
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+	Interfaces
+	BDC, LSMW, BAPI, BADI, User Exits
+	
+	
+
+	
+	
+	
+	
+
+	Browser Applications
+	Web Dynpro (Ticket Handling), BSP 
+	
+	
+
+	
+	
+	
+	
+
+	Utilities
+	OO ALV, Debugger
+	
+	
+
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+	Web Tools
+	HTML, HTMLB
+	
+	
+
+	
+	
+	
+	
+
+	
+	CRM + SRM
+	
+	
+
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+	Web UI
+	Component Enhancement Concept, SRMSUS
+	
+	
+
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+	OTHER
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+
+	SAP ARIBA
+	End to End SAP-ARIBA implementation (P2O, P2P via ITK)
+	
+	
+
+	
+	
+	
+	
+
+	SAP GATEWAY
+	 Gateway Client, Activate & Maintain services, Gateway Service Builder
+	
+	
+
+	SAP HANA
+	 Currently working on HANA Migration Project
+	
+	
+
+	
+	
+	
+	
+
+	SAP Web IDE
+	  Working on New Projects Deployment on SAPUI5 ABAP Repository & 
+	 Fiori Application
+	
+
+	
+	
+	
+	
+
+	EMPLOYMENT HISTORY
+	
+	
+	
+
+	COLT Technologies Pvt Ltd.(Gurgaon HR, India)
+	Feb. 2017 – Present
+	
+
+	HCL Technologies (New Delhi, India)
+	Sept. 2012 – Jan 2017
+	
+
+	Sopra Group (Noida, India)
+	Jun. 2011 – Sept 2012
+	
+
+	IBM India Pvt. Ltd. (Kolkata, India)
+	Mar. 2010 – Jun. 2011
+	
+
+	HPM India Pvt. Ltd. (New Delhi, India)
+	Jun. 2007 – Mar. 2010
+	
+
+	
+	
+	
+
+
+COMPANY:- COLT Technologies Pvt Ltd.
+Colt provides services to city-based large enterprise for Voice and Data service provider, small and midsize business and wholesale carriers in 28 countries across Europe. It was listed on the London Stock Exchange and was a constituent of the FTSE 250 Index until it was acquired by Fidelity Investments in August 2015.
+PROJECT: Own SAP Support
+
+Roles and Responsibilities:
+
+Working on SAP HANA migration project majorly on AMDP & CDS, and  assigning development objects to my Team members (Including me as well), Validation of FS and TS.  
+
+PROJECTS
+
+Client: Fonterra (New Zealand)
+
+Fonterra Co-operative Group Limited is a New Zealand multinational dairy co-operative owned by around 10,500 New Zealand farmers. The company is responsible for approximately 30% of the world's dairy exports and with revenue exceeding NZ$19.87 billion, and its New Zealand's largest company.
+Designation: LEAD Consultant, Tools: SAP ABAP, MDG, WM,  GTS, Platform: ECC 7., 
+Roles and Responsibilities:
+
+Leading a technical team for HANA migration code, converting normal ABAP code to HANA compatible. 
+
+Client: Vestas (Denmark)
+Designation: LEAD Consultant, Tools: SAP ABAP, SAP ARIBA, Platform: ECC 7., 
+Project:- SAP-ARIBA Implementation.
+Leading Technical team for SAP-ARIBA Implementation. Which includes under-given objects.
+
+Done implementation of complete lifecycle of P2P, P2O(ITK) on Demand Ariba    
+
+PHASE I Master- Data file based integration & Transitional- Data file based integration.
+Configuring Ariba Procurement Solution.
+Configuring SAP
+Integrating Master Data
+
+ PHASE II Web service based Integration.
+
+Integrating Master Data
+
+Configuring Parameters
+
+Account Assignment Categories
+
+Integrating Data Using the Web Services Channel
+
+Assignments of VESTAS Project. 
+Description:
+Developed XML Parser(CL_XML_DOCUMENT) to retrieve data from Movilizer and update eSIF(Task List data update )
+
+A cockpit developed to create Time and Material Order Network comprising Superior and Sub Orders for a site wide T&M Jobs. Form the same report it will have links to simulate, create or display Quotations.
+
+Tools Management Project is complete business suite for tools handling. This solution provides a well-defined and proven apprehensive approach to manage/handle the maintenance of tools throughout the complete life cycle of a tool.
+
+Client: LEGO (Denmark)
+Role: SAP – Senior ABAP Consultant, ABAP-HR, Tools: ABAP, Platform: ECC 6.0
+Description: In this project we provide support to client through SAP support team as well development has been done through change request process.
+
+Developed an object of high complexity which displays the latest BOM changes whether its BOM Header or Line item within given spam of time.
+
+Development of ALV Report containing list of transports of a particular objects in last span of Time.
+
+For incident handling or Ticket handling a tool named Assyst is used which is as similar as Service center of HP.
+
+Client: Linde Oil and Gas (Germany)
+Role: SAP – ABAP, ABAP HR- Consultant, Tools: ABAP, Platform: ECC 6.0
+Description: Linde R2 is a Implementation Project.
+
+In this project we need to develop and test the DDS ids in very short deadlines.
+
+For monitoring of all the development cycle is managed by a Tool APSE for the Technical Testing and Function Testing HPQC is used. My job starts from the status 90 of a DDS in which I need to do the estimate, Prepare Technical Documentation(TS), develop, Test, self code review to its status of 180. 
+
+And test set id is created at HPQC and also Maintained in APSE after successful Technical testing.
+
+Worked as a code reviewer, and enforced the Linde  Programing guidelines to the assigned development.
+
+Done enhancement on SRM SUS.
+Client: Airbus (France)
+Role: SAP – ABAP, Tools: ABAP, Platform: ECC 6.0
+Description: In this project we provide support to client through SAP support team. Each of the aircraft is made up of so many materials, for each material the manuals are managed in sap by DMS (Document Management System) .Our team provides all functional and Technical support to AIRBUS Team.
+
+Developed an object of very high complexity which displays the BOM INC relationship graphically with the use Function Module CNET_NETWORK_GRAPH.
+Developed report for DMS (CV0xn) document’s attributes addition, updating and deletion.
+
+Solution center Incidents & Defects raised by client is handled through Application service center and the Non-Invoice task is ensured  as minimal.
+Configuration management To take care of development related documents such as Requirement specification, Quotation, Design document, UTP, UTR, Review document etc. for documents versioning using SVN.
+
+Client: Statoil (Norway)
+Role: SAP – ABAP & ABAP-HR- Technical Consultant, Tools: ABAP, Platform: ECC 6.0
+Description: Resolving the tickets, in which I need to debug the particular code and analyze the issue. Do the necessary changes to the after getting approved by the concerned person and deliver to functional for testing. Understanding of Technical Specification, Functional Specification. Analyzing Objects as per Client requirements. Prepare Technical specification documents. 
+
+Development of objects as per client requirements and standards. Develop UTP & UTR of object for errors. Also handling the Tickets related with HR module .
+Client: HPM India
+Role: SAP – ABAP Consultant, Tools: ABAP, Platform: ECC 6.0, ECC 4.7
+Development of interactive reports in which we can compare the Plan line item and the Actual line items of two financial years at a time or on a single screen.
+
+To make available all the Zreports and Few basic Standard Transactions to be available on web-browser, for this project I am working on BSP in which I have Made BSP Pages for about 500 
+
+Zreports and a BSP Page which will catch URL, and  
+
+Upload Credit Memo request in back date and to change it to given date
+
+Comprehensive knowledge of Complete Project Life Cycle including project preparation, business blueprint, development, final preparation, Go live and support. Well versed with SAP-Scripts All Sorts Reporting BAPI User-Exits SMARTFORMS module pool programming in SAP-ABAP.
+
+EDUCATION
+· B Tech Computer Sciences from JSSATE Noida, UPTU India. 
+TRAININGS
+· Certification program on SAP Net-weaver Development focus ABAP by SAP AG.
+· 3 Weeks training on SAP Web Dynpro, Adobe forms & ABAP-HR by IBM India Pvt. Ltd. 
+· 1 week training on Movilizer and SAP O-Data by HCL Technologies Ltd.
+

@@ -1,0 +1,233 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHRADDHA KALYANI
+Oracle Database Administrator
+Email: shraddhakln9@gmail.com
+Mobile: +91-9038209447
+Objective
+To be a part of an organization where I can utilize my innate capabilities, acquired skills and efficiency to contribute to its tangible and intangible growth.
+
+EXPERIENCE Summary
+· 3 years of experience in IT Industry.
+· 2.6 years of experience in Oracle Database Administration 11g, 12c, Linux and various technologies in ACCENTURE.
+· Attended the following courses:    
+(i) Oracle Database 12c: Admin, Install and Upgrade Accelerated
+(ii) Administering Microsoft SQL Server 2014 Databases
+(iii)  Linux Shell scripting.
+(iv) Administering Microsoft SQL Server 2014 Databases.
+· Good Communication Skills, team player and highly motivated.
+· Work sincerely, organized and hardworking capability.
+· Strong analytical & problem solving skill.
+EXPERIENCE PROFILE	
+Organization:                                Accenture Solutions Private Limited, Kolkata
+Entity:                                             Operations
+Talent Segment:                           Cloud
+Role:                                               Cloud migration & Imp Delivery Analyst 
+Career Level:                                 11
+Tenure in Accenture (Months): 36
+
+
+Educational Qualification
+	Qualification
+	University/Board/Institute
+	Year
+	Marks
+
+	B.Tech (Electrical Engineering)
+	West Bengal University of Technology
+	2014
+	8.83 DGPA
+
+	Higher Secondary
+	West Bengal Council of Higher Secondary Education
+	2010
+	83.2%
+
+	Madhyamik
+	West Bengal Board of Secondary Education
+	2008
+	88.87%
+
+
+
+
+Skills
+· Primary - Oracle DBA (11g, 12c)
+
+· Secondary – Microsoft  SQL  (2012, 2008, 2005, 2000)
+
+· Other Database Technologies (Basic knowledge) :
+i. MySQL
+ii. PostgreSQL
+iii. Redis
+
+· Oracle technologies  – 
+11g Grid Infrastructure, 12c Cloud Control, Oracle enterprise Manager (OEM), RAC,
+Data pump export/import, RMAN, ASMCMD, RAC CRSCTL, SRVCTL.
+
+· Tools used - WINSCP, Putty, VNC viewer,  SQL developer, XManager, OEM, SSMS
+· Operating System: Windows 7, Windows 8 , Windows 10, Linux (RHEL)
+
+
+
+
+
+
+
+
+Certifications
+
+Oracle Database 11g Administrator Certified Associate (2017)
+      i)     1Z0-051 Oracle Database 11g: SQL Fundamentals I
+      ii)    1Z0-052 Oracle Database 11g: Administration I
+
+
+
+
+PROFESSIONAL EXPERIENCE
+List of activities performed on Oracle databases:
+
+· Perform daily monitoring health check reports for oracle and grid services.
+· Analyze database growth on weekly basis.
+· Take archive log backup whenever FRA full.
+· Check alerts logs whenever any issue occur.
+· Adding or resize data file in tablespace.
+· Create schema on the basis of request by application team.
+· Kill session when blocking session occurs if not impacting. 
+· Deploy housekeeping scripts on prod and non-prod servers like purging trace and trm files, backup and truncate of alert log file.
+· Install oswatcher and oracheck utility install on prod and non-prod servers.
+· PSU patching applied on prod and non-prod servers.
+· OEM installation on all non-prod and prod server
+· Shrinking tables for reclaim space by segment advisor
+· SQL tuning advisor for oracle recommendations
+· Supporting more than 30 instances and 30 databases
+· Worked in 24x7 production environment and provided on-call and day-to-day support.
+· Maintain Oracle 11g & 12c RAC on 4 Node cluster.
+· Creating the Database Objects like tables, sequences, Indexes, Views.
+· Monitoring the backup log files as part of scheduled backups.
+· Configured RMAN and managing the backups through RMAN.
+· Importing the production dumps into test, dev environments.
+· Manage RAC environment for Day to Day Database administrator.
+· Worked on Automatic Storage Management (ASM).
+· Managing the tablespaces (adding, resizing the tablespaces)
+· Creating the users and giving necessary privileges as per the application request.
+· Knowledge on administration of RAC databases.
+· Performed maintenance tasks on the daily/weekly/monthly basis.
+· Generating AWR and ADDR reports for performance analysis.
+· Performed Oracle upgradation in 11g from Standard edition to Enterprise edition through RMAN utility on different server.
+· Performed refresh activity through Datapump utility and RMAN utility.
+· Schema refresh and database refresh are also known.
+· Re-org activity has been performed.
+· Created standalone database.
+· Performed Database BACKUP and Restoration using: RMAN (HOT/COLD), EXPORT-IMPORT, DATAPUMP UTILITY.
+· Cloning of database (NON-ASM/ASM database).
+· Created Linux shell script to monitor database - table space usage, schema password reset and unlock schema password, Archive & purging of diagnostic logs, clearing server space, script to backup database through RMAN.
+· Monitored database and its services using Oracle Enterprise manager 11g, 12c.
+· Supporting production changes, incidents, and problems through ITSM ticketing tool and SERVICE NOW.
+
+List of activities performed on SQL databases:
+
+· Perform daily monitoring health check reports for SQL servers.
+· Refresh activity has been performed between Prod and non-prod databases by local disk backup.
+· Can backup and restore with point in time recovery.
+· Adding datafile to a database.
+· Capping of SQL server memory to avoid memory bottlenecks.
+· Relocating datafiles from one to other drive for proper disk utilization.
+· Identifying blocking and locking sessions and working upon it as required.
+· Worked both in cluster and standalone environment.
+· Knowledge on SQL server Management Studio (SSMS) tool.
+
+
+
+
+
+List of activities performed on MySQL databases:
+
+· Database user creation with granting privileges.
+· Creating scripts to take database level backup with password encrypted shell scripts with mysqldump utility combined with certain options.
+· Managing replication cluster. 
+· Restoring the database level backup.
+· Creation of master slave environment.
+
+Automations:
+
+· Scripting done in Linux servers with the help of powershell and batch to spool the output directly to the jumpservers without logging in the servers.
+· Linux shell scripting has been done in Oracle, MySQL, Postgres and Redis environment regarding backups, health checks, housekeeping of certain log files, purging of Mysql binlogs.
+· SQL scripting has been done by creating sql procedures.
+
+Personal Profile
+
+Name                            :            Shraddha Kalyani
+Date of birth		:	February 9, 1992
+Sex			:	Female
+Nationality		:	Indian
+Phone No                   :           +91-9038209447
+Email                           :           shraddhakln9@gmail.com
+Passport No.		:	Valid till March 2024
+PAN 			:	DRTPK0742Q
+Marital Status		:	Single
+Languages Known	:	English, Hindi, and Bengali (To read, write & speak)
+Permanent Address	:	A2, Diamond Park, Kohinoor Apartment, P.O.Joka, Kolkata-700104
+Strengths                   :           My family and my self-confidence.
+Hobbies                         :           Painting, Solving Puzzles, Teaching, Sports, learning new things.
+Interests                        :           Travelling, Swimming, cycling, badminton, chess, skating, sudoku.
+	
+KEY StRENGTHs
+· Highly motivated, hardworking and an organized task master.
+· Having sharp analytical skills and lucid communication skills.
+· A team player with evolving leadership traits.
+
+
+I hereby certify that the above-furnished information is true to the best of my knowledge.
+
+
+
+
+

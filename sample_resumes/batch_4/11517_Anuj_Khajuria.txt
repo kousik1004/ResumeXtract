@@ -1,0 +1,247 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anuj Khajuria
+Email: khajuria.anuj@gmail.com
+Mobile: +91-7972019473
+
+Professional Summary: 
+
+Currently working as Lead Business Functional Analyst with Deutsch Bank, also pursing Certification in Business Analytics (CBA) from Indian School of Business Hyderabad.
+7+ years of versatile global delivery experience in Credit Risk, Retail Banking, Credit Cards, Trade Finance and Health Insurance.  
+Experience in requirement gathering, data analysis, data mining, regression analysis, survival analysis, supervised techniques, unsupervised techniques, time series analysis, smoothing techniques, machine learning and deep learning.
+Working experience with PCA, K-Means clustering, Linear Regression, Logistic Regression, LDA, Decision Tree, Random Forest, XGBoost, kNN, Naive Bayes, SVM, Neural Networks.
+Have hands-on experience with technologies like Python (Jupyter Notebook), R (RStudio) and SAS.
+For Data visualization have worked with Tableau.
+Experience in handling large datasets in HADOOP and SPARK Frameworks.
+Excellent inter-personal, analytical & problem-solving skills.
+
+Skills Profile
+Technical	
+	Operating System
+	Windows 2000, Linux, AIX, z/OS
+
+	Data base
+	VSAM, ORACLE, DB2, HDFS, SAS Datasets
+
+	Languages 
+
+Framework
+	Python, R, SAS, COBOL, JCL, C, Core Java, PL/SQL, Pig Latin, Hive
+
+Hadoop, Spark.
+
+	Tools
+	Tableau, Anaconda, RStudio, SAS 9.4, SAS DI, SAS EG, XL Miner, @Risk, MS Excel, MS Office, Quality Centre ALM, Bit Bucket, Team City, Urban Code Deploy
+
+
+
+Professional Experience
+
+(Project) Credit and Risk Analytics, Deutsche Bank                       Duration: Sep-2017 – Current
+(Project) Retail Processing System UK, HSBC                                  Duration: Oct-2016 – Sep 2017
+(Project) Nordea, L&T Infotech                                                            Duration: Jun-2015 – Sep-2016
+(Project) Canada Chase Card, JPMC                                                   Duration: Jul-2014 – May-2105
+(Project) HSBC, Capgemini                                                                   Duration: Mar-2014 – Jul 2014
+(Project) Assurant Health, Capgemini                                                Duration: Feb-2011 – Feb-2014
+
+
+
+
+
+
+
+Academic Project’s Summary
+
+Practicum 1: Cryptocurrency
+
+      Objectives here were like:
+· Analyze the sentiments for cryptocurrency in general and compare prices across the cryptocurrencies. 
+· Analyze the articles, opinions, researches and understand the perspective and the sentiments of different stakeholders- regulators, exchanges, financial institutions, experts, investors and public. 
+· Identify the factors that are driving the market and influencing the stakeholders. 
+· Analyze the growth of cryptocurrency market- overall and regional level.
+
+Practicum 2: City Transport business
+
+	Objectives here are like:
+· Optimize supply and demand of taxis at different locations at same time.
+· Evaluate whether to invest in increasing fleet size.
+· Estimating the taxi demand for future business (buying new cars, providing financial assistance, etc.).
+· Identify potential locations to promote pooled car services to utilize the fleet more effectively. Earn more profits with the same resources. 
+
+Capstone: Video Analytics 
+
+		 We analyzed a video in a way that we can start video from the point where the Query Image has occurred first. Example: A video of different yoga poses, and you want to start this video from one of the poses that occurs in this video, then you can give that pose as Query image and video will start from that pose.
+
+Technique used to achieve this:
+
+· Open CV library – Used for feature extraction
+· Image AI – Object detection
+· OpenPose – Pose detection using confidence & part affinity maps
+· Pretrained Datasets
+· Yolo-Coco
+· Resnet-50
+· Caffe model (Variable Values of the model)
+· ProTxt model (Architecture of the model)
+· Dimensionality Reduction
+·  Principal Component Analysis (PCA)
+· Clustering 
+· K – Means Clustering
+· HDBSCAN Clustering 
+· Sieve Neural Network (SNN)
+	
+
+Professional Project’s Summary
+
+(Deutsche Bank. 1 year 3 months)
+
+Credit Risk Services, Retail Banking Portfolio.	Sep 2017 – current
+
+Brief about project: Our department role is to maximize bank's risk-adjusted rate of return by maintaining credit risk exposure within acceptable parameters and minimizing risk. The bank needs to manage the credit risk inherent in the entire portfolio as well as the risk in individual credits or transactions. I am working with Risk Analytics Common Environment (RACE) team from Credit Risk Department. Our main roles and responsibilities include maintaining Decision Engine, that we used to know credit worthiness of individuals. Apart from Decision Engine, we provide data to our stakeholders by collecting it from 50+ interfaces to prepare score cards based on different KPIs and to prepare dashboards for higher management.
+
+Current Assignment: We have a DQ (data quality) application, where we log any data issue and then DQ
+team assign it to concerned team, this was done manually till now. We have changed our applications such a way that if any data issue comes, these applications will log issue at DQ automatically. By automating there are chances that we get more data issues and to assign these issues manually to concerned teams can become impossible. So, now we are looking to assign the logged issue to a concerned team using Text Analytics based on description.
+
+Designation: Associate.
+Role: Lead Business Functional Analyst.
+Database: Historical Data
+Department: Credit Risk Services.
+Tool used: SAS EG, SAS VA, Oracle, PL/SQL, Python, R, Hadoop, Mainframe, RapidMiner
+
+
+
+(HSBC Bank. 1 year)
+
+Core Retail Processing System, Retail Banking Portfolio.	Oct 2016 –  Sep 2017
+
+Designation: Senior Software Engineer.
+Role: Business Functional Analyst. 
+Database: Transactional Data
+Department: Payments.
+Tool used: BASE SAS/PROC, SAS MACRO, Unix, Mainframe, Hadoop
+
+
+(L&T Infotech Pvt.Ltd. 1 Year and 3 Months)
+
+Nordea Bank, Trade Finance Portfolio.	June 2015 – Sep 2016
+
+Brief about Project:  Forecasting Issuance earning and turnover for products like Letter of credit, Collection and Guarantee. With this also responsible for identifying number of Issuance based on deal number & deal release, preparing report on Earning and Turnover of customers based on products Letter of Credit, Collection and Guarantee daily, weekly and monthly basis. This will help us to compare things with what we had forecasted. 
+Designation: Senior Software Engineer.
+Role: Business Functional Analyst  
+Responsibilities: 
+Worked on Nordea Trade Finance product as an individual contributor and providing support for analytic and reporting services.
+Identify the Database and SAS components on Legacy IMEX 4.2 Trade Finance Product.
+Analyzing SAS components on Legacy IMEX 4.2 Trade Finance Product.
+Analyzing Database components on Legacy IMEX 4.2 Trade Finance Product and find out field level mapping as per IMEX 7.1 Trade Finance Product.  
+Preparing functional document for analyzed SAS components.  
+Taking calls with Client to discuss analyzed SAS components and taking sign off for same.
+Do the key findings as demanded by the client and summarize them into reports.
+Document the important analysis findings and process flow for presentation working on Nordea Trade Finance product as an individual contributor and providing support for analytic services.
+
+Database: Historical data
+Department: Customer Information.
+Tool used: Mainframe, JCL, BASE SAS/PROC, SAS MACRO, Hadoop, Pig, Hive, R, Python
+
+(JP Morgan Chase - 11 Months)
+
+Canada Chase Card	July 2014 – May 2015
+
+Brief Profile: The project was based on data migration as JPMC contract with their Credit Card partner Best Buy in Canada was getting over and was taken by new bank. 
+Designation: Application Developer.
+Role: Business Analyst. 
+Database: Historical & Transactional Data.
+Department: Cards.
+Tool used: BASE SAS/PROC, SAS MACRO, SAS EG, SAS DI, Excel, Cobol, Hadoop, Cognos 
+
+
+
+
+(CapGemini Pvt.Ltd. 3 Years and 5 Months)
+
+HSBC One project.	Apr 2014 – July 2014
+
+Brief about project: To identify and migrate SAS components from Legacy to open source system.
+Designation: Associate Consultant.
+Role: Business Analyst. 
+Database: Historical & Transactional Data.
+Department: Cards.
+Tool used: BASE SAS/PROC, SAS MACRO, Mainframe
+
+
+
+Assurant Health, RI and PNR Process	Jul 2011 – Feb 2014
+Brief about project: The project was a process which need to run on monthly basis to apply Rates at the time of renewal of polices. After that we used to do reconciliation in SAS system to identify all the rates are correctly applied.
+Role: Developer/Business Analyst. 
+Database: Historical & Transactional Data.
+Department: Actuaries and Sales.
+Tool used: BASE SAS/PROC, SAS MACRO, Mainframe
+
+Trainings
+Conducted various technologies/tools trainings like python, SAS, R in Deutsche Bank.
+Attended PL/SQL Level 1 Training for 5 days conducted by L&T Infotech. 
+Fresher Learning Program for a period of 3 months. The training was focused on Mainframe and COBOL architecture with basics of Credit card industry.
+
+
+Certifications
+BASE SAS Internal Certification, Capgemini.
+FLP Certification (Fresher Learning Program), Capgemini.
+AHIP (American Health Insurance Program) Certified.
+DB2 Fundamental Certified developer. 
+
+Education
+B. Tech in Electronics and Communication from NIT Srinagar.                                         (2006-2010).
+Certification in Business Analytics from Indian School of Business (ISB) Hyderabad.     (2017-2018).
+
+
+Personal Details
+Date of Birth: 28th July 1988
+Languages: English, Hindi
+Email: khajuria.anuj@gmail.com 	                          Mobile: +91-7972019473

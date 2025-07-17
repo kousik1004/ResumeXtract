@@ -1,0 +1,275 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                
+
+                Satish Gundu
+                                                                                                                      
+                                                                     
+
+         Mobile: +91 - 9912745066                                                                                                                            
+                                                                                            Email: sati19h@gmail.com                                                                                                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                              
+
+
+
+
+
+  Objective
+
+Seeking advancement in my career in a challenging environment where I can apply my technical skills along with my professional and educational background.
+Summary
+· 24*7 working environment experience.
+
+· Highly self motivated and enthusiastic.
+
+· Possess strong interpersonal and communication skills.
+
+· Good problem solving skills.
+
+· Experience in team/group design efforts.
+
+Educational Qualification
+
+
+· Master of Science (IT) from Acharya Nagarjuna University.
+· Bachelor of Arts (Mathematics) from Andhra University.
+
+· Intermediate (M E C) from Board of Intermediate A.P.
+Certifications
+· 07-290Managing and Maintaining a Microsoft Windows Server 2003 Environments.
+
+· VMware Certified professional (VCP 5) Completed.
+ 
+· Implementing Microsoft Azure Infrastructure Solutions (70-533)
+Work Experience:
+
+Current Employer: HCL Technologies Pvt. Ltd
+Sr.System Engineer [Since-July 2015]
+
+Project Details                       : VSU     
+Title
+
+
+: L3 Support
+
+
+
+Client
+
+
+: Microsoft.
+
+Role
+
+
+: Team Member.   
+· Based on the client requirement, Building the Microsoft infrastructure with respect to the configuration.
+· Working on ASR (Azure Site recovery) migration for Hyper-V vm to Azure V6 subscription and V4 and V5 VMs migration to V6 subscriptions.
+
+· Resolving ASR Migration related issues and creating management servers for ASR migration.
+
+· Azure VMs storage migration using AzCopy and Microsoft storage explorer and CloudBerry Explorer for VMs IOPS issues.
+· Downloading .vhd file of azure virtual machines booting issues and escalate servers IM team if it is having OS issues.
+· Worked on Azure Virtual machines Re-size.
+
+· Worked on Azure virtual machines migration from Hyper-v to Azure and Azure to hyper-v  
+
+· Performing VMs migrations between Cloud to cloud and Resource Group to Resource Group using PowerShell and from Azure portal.
+· Virtual Machines Vnet migration from Corp Vnet to EBL Vnet.
+
+
+· Creating and Resolving internal load balancer configuration issues for IIS and WEB
+· Resolving VMs disks related issues(Premium storage disks and standard storage disks) 
+· Working a virtual machine issues on FCM and VMM and hyper-v  
+· Implementing Adding and deleting and Increasing Disk space for Azure servers using Azure portal and PowerShell. 
+· Implementing RAM and CPU upgrade and Rehome activity in Azure servers.
+
+· Configuring Shared Disk between Virtual Machines for cluster configuration.
+· MS Cluster configuration in Azure infrastructure and Hyper-v infrastructure.
+· Performing In-place upgrade activity on VM from windows2008r2 to windows2012 and windows 2012r2 platform
+
+· Performing Virtual machines migration between SCVMM
+· Rebuilding and installing required OS on VM’s/ Physical/Blades as per Client requirement
+· Virtual Machine provisioning for client requirement.
+
+· Configuring VM’s in HA(High Availability) to ensure that VM’s are always available and accessible.
+· Migrating virtual machines from one Vcenter to other Vcenter based on customer requirement.
+
+·   Configuring a Failover services on VMware infrastructure.
+Technical Experience 
+
+Working for Tech Mahindra as a Sr. System Engineer (GCO) 05 Feb 2014 to 17 July 2015
+· Manage Virtual Machines in Hyper-V and VMM Environment
+
+· Migrating VM’s to different host using Hyper-V and VMM console/Robocopy
+
+· Implementing changes on VM’s as requested by customers according to Client requirement
+
+· Rebuilding and installing required OS on VM’s/ Physical/Blades as per Client requirement
+
+· Provisioning shared drives between VM’s for creating failover cluster
+
+· Configuring VM’s in HA(High Availability) to ensure that VM’s are always available and accessible
+
+· Performing Live migration and quick migration between clustered Hosts
+
+· Allotting disk space according to client requirement
+
+· Performing In-place upgrade activity on VM from windows2008r2 to windows2012 and windows 2012r2 platform.
+· Escalating and following up with next level team for issue which are not in    our scope
+
+· Managing snapshots on VM’s before performing major changes on the server
+
+· Managing Azure Servers and VM’s through Azure portal.
+
+· Increasing a CPU and RAM activity in VM using Azure portal.
+
+· Recreating new Azure VM based on the customer requirement.
+
+· Migrating Virtual machine from One Subscriptions to other subscriptions.
+
+· Working on deleting disk and Adding disk in Azure virtual machines.   
+Worked For ADP Pvt.Ltd. as a Member Technical from 30-03-2010 to 31-01-2014  
+· Creating Virtual machines in SCVMM and Vcenter as per the client request.
+
+· Upgrading operating system o 2008 to 2012
+
+· Creating a cluster in 2008 and 2012 in hyper servers and High 
+
+· Availability in Vcenter 
+
+· Upgrading a operating system o 2008 to 2012.
+
+· Increasing RAM, processor and disk space for Virtual machines.
+
+·  Installing Operating system on physical machine using a ILO 
+
+· MS patches installation Virtual machines by using Vcenter update manager 
+
+·  Creating a user in active directory as per the client requirement.
+
+· Implementing a Group polices in Active Directory 
+
+· Troubleshooting hardware issue with help of Vendors 
+
+· Responsible to maintain the SLA for Project Tasks and Tickets, as per Customer need.
+
+· Monitoring the Vcenter Alarms and working towards the fixing of alarms
+
+· Monitor and maintain Latest Firmware in HP Chassis and HP blades.
+
+· Troubleshooting Active directory related issues.
+
+· Enabling a group polices for BPO user and Disabling a USB and CD-Rom for R&D users
+
+· Patches installation for Windows 7 and XP desktop through PS Tools. Resolving patches & failure machines
+
+· Installation and Administration of Windows 2000 & 2003 Server with Active Directory & User Account Management.
+· Installation and configuration of Active Directory, managing Active Directory User And  applying Group policies in Windows 2000/2003
+Worked for Network Solutions. Pvt.Ltd. From 29-08-2007 to 15-03-2010.                                                                                                                                         
+· Installation, configuration and resolving issue regarding VMware Workstation on R&D user machines.
+· VIclient installation and support for the End users
+
+· Creating a training room setup for the R&D users.
+
+· Creating Virtual machine working station labs for the R&D users.
+
+· Installation and Administration of Windows 2000 & 2003 Server with Active Directory & User Account Management
+
+· Microsoft windows 2000/2003 Server Management
+
+· User creation, administration, rights assignment on different file servers, user profile management
+
+· Handled Installation & Regular Updating of Antivirus Patches & solving virus related issues
+
+· Troubleshooting Lotus notes client side issues.
+Personal Profile                                                         
+
+ 
+Full name 
+
+            : Satish Gundu 
+
+Father’s name          
+            : G.Gopalam   
+
+  
+Date of birth           
+            :  27th May 1984.
+      
+Gender
+
+
+            :  Male     
+
+Marital Status 
+
+            :  Single
+
+
+Nationality
+
+            : Indian
+               Languages known   
+            : English, Hindi and Telugu.
+
+
+Address
+
+            : C/o G Appa Rao,
+
+
+
+
+
+
+Pragathinagar Colony, Yousafguda,
+
+
+
+
+
+
+Hyderabad.
+

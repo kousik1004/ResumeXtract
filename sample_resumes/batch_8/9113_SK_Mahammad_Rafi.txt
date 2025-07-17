@@ -1,0 +1,250 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manish Puri
+
+ SK Mahammad Rafi                                                        Mobile: (+91) 9490132475   
+
+                                                                     
+
+       Email:   rafigdlr@gmail.com
+Experience Summary
+· Having 4.1 years of experience in Java/J2EE Technologies.
+
+· Good knowledge of OOPS concepts and design.
+· Proficient experience in using  Servlets, JSPS, Spring and Hibernate.
+
+· Expertise in working with Tomcat Web Server.
+
+· Commitment, hardworking, can grasp things quickly and think strategically.
+· Hands-on experience of working in IDEs like Eclipse 3.4. 
+· Strong desire to enhance knowledge on software products and emerging technologies.
+
+· Highly dedicated to produce professional work with highest quality and creativity.
+
+· Capable of adapting to work on new technologies & environments easily.
+
+Work Experience
+
+· Working as Associate Consultant in Capgemini, Chennai  from March’17 to till date.
+· Working as Consultant in Intellect (Group of Polaris Company), Chennai  from Aug’15 to Feb’17.
+· Worked as Software Programmer in Topnotch Softwares, Hyderabad from Oct’13 to Aug’15
+Educational Qualification
+· B.Tech from Jawaharlal Nehru Technological University, Andhra Pradesh. 
+
+Software Proficiency
+
+Languages
+
+:  Java, J2EE.
+
+Frame Work                 :  Spring & Hibernate.
+
+DB Software 
+
+:  MySQL5.0, MSSQL Server 2008.
+
+Servers 
+
+:  Apache Tomcat 6.0,JBoss 5.1
+J2EE Technologies 
+:  JDBC, Servlets, JSP, Java Beans.
+
+Web Technologies 
+:  HTML, JavaScript, Log4j.
+
+IDE 
+
+
+:  Eclipse 3.5, Edit Plus 3.4.
+
+Operating Systems
+:  Windows 2000/XP.
+
+
+
+CM Tools
+
+:  SVN.
+Project Details
+Project 1                : STS Payments
+Client                       :  Standard Chartered Bank
+Team Size
+        :  5
+Environment             :  Java, Websphere, Servlets, JSP, HTML, Java Script, Oracle.                                                                 Tools used 
+        :  Eclipse IDE, SVN.
+Platform 
+        : Windows 
+Synopsis:  
+
+STS should interface with Downstream application and invoke their APIs for both validations and utilization. Based on the response received from the Downstream, the transaction will get  STP or will get parked under verification queue for operation team intervention All transactions gets validated in Downstream and send reports to customers in the form of fixed length files.
+
+Roles and Responsibilities:
+· Involved in Creating Handler classes.
+· Implemented XSLT for manipulating the display logic.
+· Involved in Front End Validations using JavaScript
+· Involved in Creating Bean classes.
+· Involved in Bug Fixing.
+
+· Developed the user Interface Screens for presentation logic using JSPs.
+· Generated reports by using XSLT and XML.
+· Developing data accesses objects to connected to the database.
+
+· Creating Data Transfer Objects to make communication between different layers.
+· Developed Helper Classes and Value Objects, DAO which interacts with Database.
+Project Details
+
+Project 2                : UAB
+Client                       :  Arab Bank
+Team Size
+        :  6
+Environment             :  Java, JBoss, Servlets, JSP, HTML, Java Script, Oracle.                                                                 Tools used 
+        :  Eclipse IDE, SVN.
+Platform 
+        : Windows 
+Synopsis:  
+
+Corporate Business eXchange enables transaction services and information exchange for all or a „mix and match‟ combination of Intellect GUB 10.0 functionality that is uniquely required by corporate banks. Banks can utilize CBX for corporate customers and provide them with a single entry into the complete suite or mix of corporate products and services such as Liquidity management, Treasury, Trade, Custody and Payments.Launching Intellect GUB 10.0 Corporate Banking community is looking at innovative and collaborative ways to create new growth models. The comprehensive and agile technology architecture of Intellect GUB 10.0 enables banks to create CBX that offers the ability to transact across departmental solutions thereby improving sales & operational productivity and customer retention. With its unique proposition of constructing tailor made solutions, I am delighted to find CBX getting phenomenal acceptance at Sibos.
+Roles and Responsibilities:
+· Involved in Creating Server Side Components, Jsps.
+
+· Involved in Front End Validations using JavaScript
+
+· Involved in Bug Fixing.
+
+· Developed the user Interface Screens for presentation logic using JSPs .
+
+· Developing data accesses objects to connected to the database.
+
+· Creating Data Transfer Objects to make communication between different layers.
+· Developed Helper Classes and Value Objects, DAO which interacts with Database.
+· Implemented Java Server Pages for manipulating the display logic.
+Project Details
+Project 3                : T2Mapper
+Client                       :  Systrends
+Team Size
+        :  4
+Environment             :  Java, Tomcat, JSP ,Spring, Hibernate, MS SQL Server 2008.                                                                 Tools used 
+        :  Eclipse IDE, SVN.
+Platform 
+        : Windows 
+Synopsis:  
+
+T2Mapper is a business-to-business and system-to-system data integration tool designed for complex data streams. If you need to map your in-house solutions and trading partner data feeds, T²Mapper can be used to translate incoming and outgoing data, making EDI, XML, DB, and CSV mapping easier to administer. Eliminate the effort, time, and cost of development, and reduce integration time with T2Mapper. Developed to assist our clients in data discovery and integration, T2Mapper can be used as a standalone solution or as an add-on to our T2 data gateway product line.
+Roles and Responsibilities:
+· Leading the team of two members from past one year.
+· Currently implementing enhancements for the T2Mapper application.
+
+· Responsible for Project Estimate Analysis, Requirement Clarification with Business. 
+· Prepared Functional and Technical specifications.
+· Coding for EDI - database mapping and vice versa with validations for 820 (Electric Payment) and 867 (Electric Usage) Transaction by using swing, spring mvc and hibernate.
+
+· Coding for Flat file - database mapping and vice versa with validations for 810 (Electric Invoice) Transaction, 814 (Electric Enrollment) Transaction, 824 (Electric Applications Advice) Transaction and 248 (Electric Account Assignment) Transaction .
+
+· Involved in creation of configuration files for total code setup using spring .
+
+· Designing the GUI for application access and for new enhancements using swing and Spring.
+· Involved in End -to-End phases of the application.
+· Involved in production support
+
+· Co-ordinating with other team members in the team to ensure that all the modules are inline.
+Project 4                    :  ECTrends
+Client                          :  Systrends.
+
+Team Size
+           :  5
+
+Environment                :  Java, Tomcat, JSP, Spring, Hibernate, H2DB.                                                                 Tools used 
+           :  Eclipse IDE, SVN.
+
+
+Platform 
+           : Windows 
+
+Synopsis:  
+
+             Objects and embedded rules are used to define both data structures and maps, eliminating the need for user programming or the creation of intermediate files as part of the conversion process. According to the firm, inbound EDI data can be mapped to single or multiple application formats, and outbound data from any source can be mapped to multiple EDI formats. .
+
+Roles and Responsibilities:
+
+· Working as Team member 
+· Identified and resolved a major data inconsistency issue by extensive root cause analysis and provided the permanent code fix for the same. 
+· Involved in Analysis, Design and Coding
+· Involved in developing Jsp pages
+· Coding using Spring frame work ,JSP and Hibernate
+· Involved in unit testing
+· Participation in verification and validation and Quality assurance
+· Implemented Java Server Pages for manipulating the display logic.
+· Involved in End -to-End phases of the application
+
+Declaration
+
+I here by declare that the above-furnished information’s are true to the best of my knowledge and belief.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+                                                                                                                     Mahammad Rafi 

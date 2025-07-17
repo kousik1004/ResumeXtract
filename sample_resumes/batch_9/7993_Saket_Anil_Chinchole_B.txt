@@ -1,0 +1,352 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Profile of Saket
+
+Saket Anil Chinchole B.E. (I T)
+
+
+10, Dhanraj Apartment Near 					E-mail ID: saketchinchole@gmail.com
+Navle Bridge Wadgoan-Bk				               Contact No:  +91-8668692943
+Dist.Pune								         +91-8600318331	
+
+EXPERIENCE SUMMERY: 
+
+I have 2 years of Development experience. I am proficient in HTML5, CSS3, Power BI, C#, ASP.Net, MVC, Angular JS, JQuery and SQL Server and SSIS. I have worked on various stages of software development life cycle which includes Development and Testing.
+
+CERTTFICATION:
+
+· Microsoft Certified Professional (MCP) in Querying Microsoft SQL Server 2012 (70 - 461). 
+· Completed Course SCTS A-Diploma in Dot Net at Seed InfoTech Pune.
+· Completed Course in C#.net at Seed InfoTech, Nasik.
+· “All India Council for Professional Tanning & Research Pvt. Ltd “Completed Certification in “C & C++ Programming (CCC)” at Boss Computech Dhule.
+
+
+ACADEMIC PROFILE
+	Qualification
+	Name Of College/School
+	University/Board
+	Year of     passing
+	Marks
+	Class
+
+	
+B.E
+	 Gangamai College 
+ Of Engineering,
+ Nagaon
+
+
+
+
+
+
+
+
+
+
+	    North 
+    Maharashtra                                                                                                                                                            
+    University
+	
+2014
+	
+62.13%
+	
+First Class
+
+	
+12th
+	 Jai Hind 
+ Junior College,
+ Dhule
+	    Maharashtra        State 
+    Board      
+	
+2009
+	
+57.33 %
+	
+Second Class
+
+	
+10th
+	 Jai Hind 
+ High School,
+ Dhule
+	  Maharashtra    State 
+    Board
+	
+2007
+
+	
+76.61 %
+	
+First Class with Distinction
+
+
+
+
+
+
+TechnIcal SKILLS
+	Programming Languages & Framework:
+
+	 
+
+C#, ASP.Net, CSS3, HTML5, JQuery, JavaScript, Angular JS,  SQL, Dot Net framework 4.0, 4.5, MVC 4.5, M-Language, DAX.
+
+	Tools :
+	Visual Studio 2015, 2012, 2010
+
+	Database :
+	 SQL Server 2012, My SQL, Oracle.
+
+	Business Intelligence :
+	 Power BI Desktop, Power BI Pro, SQL server Data Tool 2010
+
+	Operating Systems :
+	 Windows 7, Windows, 8 / 8.1, Windows Server 2008
+
+	
+	
+
+
+
+Project Experience:
+
+	Project :
+	My Food Chain 
+
+	Client :	
+	USA Based company
+
+	Operating System:       
+	Windows 8
+
+	Technologies :
+	HTML5, CSS3, Bootstrap, C#, JavaScript.
+
+	Description :
+	It is web Application based on food industry. It is a responsive website. In website from multiple locations donor donates to volunteers and volunteers deliver to hungry peoples.
+
+	Role:
+	I was involved in to designing the website. I also involved to create and testing of responsive website.
+
+
+	
+      Project :
+	Power BI - Sales Dashboards 
+
+	      Client :
+	New Zealand based Company
+
+	Operating System :
+	Windows 8
+
+	      Technologies :
+	Power BI Desktop, DAX, Power Query(M-language), SQL Azure MS SQL Server
+
+	Description :
+	Sales related dashboards are created using custom visuals in power BI. Using DAX (Data Analysis Expression) we have created calculated measures like FY-MTD, FY-MTD, FY-QTD, Previous-Year sales. We have created reports or dashboard showing This Year Actual Business VS Last Year Business with its Variance. Using SQL Stored Procedures form multiple source we have load data to Azure SQL DW. 
+
+	       Role :
+	I was involved in creating the charts and design the dashboards for multiple modules of sales. Also I was involved to create calculated columns, Measures using DAX. Various visualizations created using Chord chart, Grids, Lines, Maps, Scatters, Bubbles, Bullets, Widgets, Waterfall, Tree maps etc.
+
+
+
+
+Project:	Employee Leave / Attendance Management System (ELMS)
+Client:	India Based Company		
+Operating System:	Windows 8
+Languages and	C#, ASP.Net, MVC (4.5), SQL Server 2012, JQuery, JavaScript, Angular JS
+Technologies:
+Description:	Employee Leave Management System is used for maintaining 
+Employee leaves. There were 3 User Roles: Management, Project manager & Admin. Admin role was used for adding new employee, managing users, assigning employee leaves and assigns project manager to employee. Management role was used for check leave progress of employees using Overview on Dashboard Project manager role was used for action (Approve or Reject) on employee leaves. Project manager role was used for check their employee leaves status in graphical representation.
+	Role:
+	I worked as a software developer. I was involved from requirements
+
+	
+	analysis. I was partly involved in database design. 
+
+	
+	
+
+	Project :
+	POS Integration
+	
+
+	Client :
+	India based POS Supplier
+	
+
+	Operating System :
+	Windows 2008 Server, Windows 8
+	
+
+	Languages and
+	Windows Form C#, Oracle, MySQL, SQL Server 2012
+	
+
+	Technologies :
+	
+	
+
+	Description :
+	POS Integration is used to integrate from multiple databases (e.g. SQL, Oracle, MySQL) into one destination database. POS Integration application which connects to third party POS Integration system, pull out the required data and upload it to POS Integration database on cloud. Application will be install on multiple POS system. The merchant will be asked for POS system details like Database, Required fields, Schedule duration. Installer will create the schedule instance using windows scheduler. As per scheduler time, based on application cloud database and upload data.
+	
+
+	    Role :
+	I  was involved in design
+	
+
+	
+	.
+
+	
+
+	Project:
+	Insurance Analytics
+	
+
+	Client :
+	Oman based Insurance company
+	
+
+	Operating System :
+	Windows 2008 Server, Windows 8
+	
+
+	Technologies :
+	SSIS, MS SQL Server 2012
+	
+
+	Description :
+	Insurance BI system is developed using MS BI stack for an Oman based Insurance company. I was involved in Medical and Finance modules. I  was mainly involved in analyzing source system data structure and designing as well as developing ETL using MS SSIS
+	
+
+	Role :
+	I have developed the ETL packages (SSIS).
+	
+
+	
+
+
+Project :
+	
+
+
+Finance/Payroll Dashboard (Power BI)
+	
+
+	Client :	
+	Netherland based company
+	
+
+	Technologies:
+	Power BI Desktop ,M-Language(Power Query), DAX
+	
+
+	Description :
+	Finance Dashboards developed using Power BI Desktop. In which there are multiple in built charts (Clustered column Chart, Donut chart, Slicers). Using charts, we demonstrated important metrics related to overall finance process like Turnover of this year vs. Previous year, P&L overview PY vs. Budget, Revenue and Expense this year vs. Prior year.
+	
+
+	Role:
+	I was involved in developing dashboard in Power BI desktop to fetch the data from Microsoft excel. I developed multiple DAX calculations like Month to Date, Quarter to Date, Year to Date, Last Twelve Months.
+
+
+	
+
+	Project :
+	Teleflex
+	
+
+	Client :	
+	USA Based company
+	
+
+	Operating System:       
+	Windows 2008 Server, Windows 8
+	
+
+	Technologies :
+	Visual Basic 4.0, JavaScript, HTML, CSS
+	
+
+	Description :
+	It is web Application based on Health Care industry. There are different            types on course available like E-learning Course, Hands- on-Training,
+ Speaker Program etc. User can select any course depending on his/her interest and attend it on particular date and time. Visualizations are made in this project with Google Analytics Data for Daily site usage of the website with am charts tool.
+	
+
+	Role:
+	I was involved in maintaining the website for different issues related to website. I also developed visualization with Google Analytics data using am chats tool.
+
+	
+
+
+
+	
+	
+	
+
+
+Extracurricular Activity
+
+1. Participated in “RESEARCH PROJECT EXHIBITION” in the event ‘Tech-Brahma’ 2014 organized by Brahma Valley, COE.
+2. Participated in “TECHNO-CRATS” in the national level event ‘TECHNO-FEST ‘organized by SSVPS, COE.
+3.   Presented a Seminar on ‘HAWK EYE-TECHNOLOGY’ in academic year of college.
+	
+	
+	
+
+
+	
+
+
+

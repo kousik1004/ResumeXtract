@@ -1,0 +1,314 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Resume_Sobitri_Chatterjee_V1.1.docx
+
+
+SOBITRI CHATTERJEE           
+ 
+Email chatterjee.sobitri@gmail.com                                                                 Mobile +91 9038489056 
+                                                      
+ 
+
+Sobitri is a part of the SAP Basis competency in IBM CIC India since November 2013. He has 4 years of 
+
+SAP BASIS consulting experience encompassing a wide range of skill set and roles.  
+
+He is a Technical Consultant for SAP Basis Administration, installation and upgrade of S/4 Hana and SAP 
+
+BSoH (Business Suite on HANA), SAP ERP on traditional DBs, SAP Enterprise Portal and Data Archiving 
+
+areas. 
+
+• Team Member and Hana Specialist - Louis Dreyfus Commodities 
+
+• Data Volume Management SME -  Yara 
+
+• Senior Team Member and Operation Control Centre SME – Cemex 
+
+• Team Member - Statoil 
+
+ 
+
+Recent Recognitions 
+
+ 
+• ‘Orion’ award (Eminence and Excellence Recognition) from IBM Global Business 
+
+Sevices – Global Delivery 
+
+• Service Recognition Award  from CEMEX 
+
+• Deep Skill Program award from IBM GBS GD for IBM practice: Share Expertise 
+
+• Elite Recognition award from VP for CEMEX account, IBM 
+ 
+Work Experience 
+ 
+Project: BOLD                                                                                                         July 2017 – Till Date  
+
+Client: Louis Dreyfus Commodities 
+
+Project Type: Industrial Product 
+
+Description: Louis Dreyfus Company is at the heart of the agricultural industry founded in 1851. It is 
+
+present in 5 regions where it operate 12 different business platforms and is active in more than 100 
+
+countries. 
+
+Operation System: AIX, LINUX, WINDOWS 
+Database: HANA, Sybase 
+Responsibility: Basis and HANA Administrator 
+ 
+
+• Build and upgrade of S/4 Hana ABAP system and DB - HANA 1.0 SP12 MDC installation 
+
+• Technical Best practice implementation for S/4 Hana 1610 FPS 02 and FES 3.0. 
+
+• Heterogeneous system migration for Solution Manager 7.2 
+
+• Designing Business Roles for Fiori Applications 
+
+• Supporting build of BO and BODS configuration. 
+
+• TREX Installation and configuration 
+
+• Performance tuning of SAP system 
+
+• Hana Backup and Recovery management 
+ 
+
+Project: Yara                                                                                                         March 2017 – Till Date  
+Client: Yara 
+
+Project Type: Industrial Product 
+
+Description: Yara is World’s largest supplier of crop nutrients to formers with sales to more than 150 
+
+countries founded in Norway in 1905. It delivers solutions for sustainable agriculture and the 
+
+environment. It fertilizers and crop nutrition programs help produce the food required for the growing 
+
+world population. Yara industrial products and solutions reduce emissions, improve air quality and 
+
+support safe and efficient operations. Yara has Operations and offices in more than 50 countries. As 
+
+
+
+the world’s largest supplier of mineral fertilizers, Yara helps provide food and renewable energy for a 
+
+growing world population. 
+Operation System: AIX 
+Database: Oracle 
+
+Responsibility: Data Volume Management SME 
+ 
+
+• Evaluate client’s business requirement for implementing Data Volume Management and 
+recommend best strategy for Archiving in ECC. 
+
+• Analyze Database & identify Archiving relevant areas 
+
+• Plan & implement storage solution for storing & retrieving archived data requirements  
+
+• Customizing Setup based on Business rules, Technical Setup for Test Runs on a dataset that is 
+as close as possible to that in the Production system & Execution of Test Runs 
+
+• Execute Production Mode Archive Runs on Production systems 
+
+• Performance Tests for Retrievability. Co-ordination with functional/ business for any issues during 
+Production run 
+
+• End user training & Documentation. 
+
+• As part of sustain phase, Scheduling and Monitoring Archive Jobs. Performance tuning for archive 
+jobs & optimize overall system performance. 
+
+• Troubleshooting problems with archive runs and storage 
+
+• Monitoring Table/Database growth 
+
+• Setting up of new archiving objects as and when required 
+ 
+Project: Maya                                                                                                         May 2014 – Till Date  
+Client: Cemex 
+
+Project Type: Industrial Product 
+
+Description: CEMEX is one of the world's largest building materials suppliers and cement producers. 
+
+Founded in Mexico in 1906. CEMEX has operations extending throughout the world, with production 
+
+facilities spanning 50 countries in North America, the Caribbean, South America, Europe, Asia, and 
+
+Africa. 
+Operation System: AIX, LINUX, WINDOWS 
+Database: Oracle, HANA 
+Tools Used: Charm, Transport Express, Printarus 
+Responsibility: Basis and HANA Administrator 
+ 
+
+• Installation and configuration of Web Dispatcher, SMD Agent and Dialog Instance 
+
+• SPS upgrade and Support Pack upgrade for ABAP and Java system.  
+
+• SP Upgrade for SAP HANA DB 1.0 
+
+• SAP HANA DB Refresh 
+
+• Performance troubleshooting for SAP Business Suite on HANA 
+
+• Configuration of System Landscape Transformation Replication for SAP HANA 
+
+• System Refresh for database Oracle 
+
+• Client Administration – Client creation, client deletion and client copy 
+
+• Kernel upgrade, Oracle/HANA DB client upgrade, JVM upgrade and JVM switch activity 
+
+• Configuration and testing of Disaster Recovery drills and High Availability cluster. 
+
+• Evaluation and troubleshooting of daily system performance 
+
+• SAP performance tuning with the help of ST03N, EWA, AWR and ADMM report. 
+
+• Parameter tuning for ABAP, Java and Dual stack system. 
+
+• SAP Max Attention Recommendation and TPO (Technical Performance Optimization) Services 
+implementation for ABAP and Java systems. 
+
+• Handling critical issues and Incidents related to SAP application. 
+
+• Table space management, Table reorganization, Index rebuild etc using BR* Tools. 
+
+• Troubleshooting of SAP related issues at OS level 
+
+• Transport Management 
+ 
+ 
+ 
+
+ 
+
+
+
+Project: Statoil Nordic                                                                                  February 2014 – May 2014 
+Client: Statoil 
+
+Project Type: Chemical and Petroleum 
+
+Description: The Statoil Project is basically a service oriented (AMS) project. Statoil is a multinational 
+
+Oil Company with operations in 34 countries. Building on more than 35 years of experience in oil and 
+
+gas production in the Norwegian continental shelf, they are accommodating the world’s energy needs 
+
+in a responsible manner. Statoil’s headquarters is in Norway and is listed in the New York and Oslo 
+
+Stock exchanges.IBM provides innovative solutions and support to Statoil to grow more and tune up 
+
+their business to lead in the global market. 
+Operation System: Windows 
+Database: Oracle 
+Responsibilities: Basis Administrator 
+ 
+
+• Daily System health check 
+
+• Scheduling Job 
+
+• Printer creation and related troubleshooting 
+
+• Handle daily basis issue and troubleshooting 
+ 
+Training Attended 
+
+ 
+• Attended HA200 : SAP HANA Administration from IBM India Pvt. Ltd. 
+
+• Attended BIT660: Data Archiving in IBM India Pvt. Ltd. 
+
+• Attended E2E120: Technical Monitoring in SAP Solution Manager 7.1 from IBM India Pvt. Ltd. 
+
+• Attended PI 7.3 Administration from IBM India Pvt. Ltd. 
+
+ 
+Educational Qualifications 
+ 
+
+• Completed Master of Engineering from Bengal Engineering and Science University in 2013. 
+ 
+Skill Set Summary 
+ 
+
+• SAP – ECC (6.0), S/4 Hana (1610 FPS 02), NW Java (7.0, 7.3, 7.4), CRM (7.0, 7.3), BW (7.01, 7.3, 
+7.4), PI (7.31), PO 7.4, Solution Manager (7.1, 7.2) 
+
+• Database – HANA 1.0, Oracle 11g, Oracle 12c 
+
+• Operating system – AIX (6.1, 7.1, 7.2), SuSE Linux (11, 12), Windows (2008, 2012) 
+ 
+Declaration 
+ 
+I, Sobitri Chatterjee, hereby do declare that all the above mentioned information is true to the best of my 
+
+knowledge. 
+
+ 
+
+ 
+
+Date : 
+
+Place :                                                                                                                                           SOBITRI CHATTERJEE 
+
+ 
+
+ 
+
+ 
+
+

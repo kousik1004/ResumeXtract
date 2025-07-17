@@ -1,0 +1,257 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+QA_Resume
+
+SIVA SANKAR
+Email: nallapati.sivasankar@gmail.com 
+Mobile: +91-9966992527
+Carrier Brief
+
+Around 6 Years of experience in Software Testing includes Test Plan development, Test Case design & Execution, Metrics collection and generating Test Reports for both Manual and Automated tests. Good experience in Functional and Regression Testing in Software application involves various domain includes Healthcare, E-Commerce, Supply Chain Management Systems and Banking domains. 
+Professional Summary
+· Experience in Client/Server Applications (Windows), Web Applications and Web Services Testing.
+
+· Good experience in Functional and Regression testing on Mobile Apps (iOS, Android).
+
+· Ability to handle multiple priorities and manage within deadlines.
+· Ability to analyze new functionality and identify potential areas of impact in the applications
+· Client coordination and working closely with the project team (DEV, QA and PM)
+· Good knowledge of Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC).
+
+· Understanding Software Requirement Specification and identifying the required Test Scenarios for Projects.
+
+· Experience in Functional, Exploratory, Smoke, Sanity, Compatibility, Retesting, Regression, UAT and End-to-End testing.
+
+· Experience in designing, executing, maintain and enhance the new/existing automation test scripts using Selenium (Webdriver) and QTP/UFT.
+· Experience in Developing and maintenance of Hybrid Framework (combination of Data Driven and Keyword Driven Frameworks).
+
+· Experience in API/Web Services testing using SOAP UI. 
+· Good Work Experience with different SDLC methodologies like Waterfall & Agile Scrum Environment.
+
+· Experience in Defect Tracking and Reporting using JIRA, ALM, HP Quality Center (QC) and TFS.
+
+· Good exposure in Back End Database testing in Microsoft SQL Server 2005/2008 R2.
+
+· Good analytical and problem solving skills.
+· Able to quickly adapt to new environments and learn new technologies.
+
+· Highly motivated, detail oriented and able to work independently or as a part of a team.
+Education Qualification
+· MCA from Jawaharlal Nehru Technological University, Hyderabad. (2006-2009)
+Professional Experience
+
+· Working as an Associate Consultant in Capgemini Technology Services India Ltd, Chennai from Jan’16 to till date.
+
+· Worked as Software Test Engineer in Srikari Impetus Solutions Pvt Ltd, Hyderabad from Sep’11 to Jan’16.
+Technical Skills
+Operating Systems
+
+: Windows 2003/XP, Windows 7/8
+Mobile Operating Systems
+: iOS, Android 
+
+Database
+
+
+
+: SQL Server 2005/2008 R2
+
+Testing Tools
+
+
+: QTP, UFT, Selenium (IDE, Grid, RC and Web driver), Soap UI 
+Configuration Tools
+
+: MS-Office, Microsoft Test Manager (MTM) and TFS
+
+Programing Languages 
+
+: Core Java 
+
+Defect Reporting Tools
+
+: JIRA, ALM, HP Quality Center (QC), TestNG, Agile Central 
+Scripting Languages
+
+: VB Script
+
+Project #1: Clear IQ (CIQ) 
+
+Client
+
+ : TransUnion (USA)
+
+Duration         
+ : Jan’16 to till date
+
+Tools Used
+ : Selenium (Webdriver), Eclipse, TestNG, Soap UI, TFS, MTM, Agile Central
+Environment
+ : JAVA, SQL Server 2008 R2 and Windows 7\8.
+Role
+
+ : Senior Test Engineer
+
+Description
+Clear IQ is improve patient collections by better understanding a patient’s financial behaviours and source of payments in order to help them manage their financial obligations. The ClearIQ®platform uses industry-leading eligibility, estimation and collection functionality to create tasks and work lists for individual and user group roles. Front office staffs are able to prioritize work more consistently, resulting in improved efficiency and reduced costs.
+
+Roles & Responsibilities
+· Understanding test requirements and analyzing the Application Under Test (AUT) 
+
+· Involved in collecting test data for Data Driven Testing
+
+· Designing and executing the Automation Test Scripts using Selenium Webdriver
+· Handling duplicate objects and dynamic objects using index property and regular expressions.
+
+· Using Parameterization, Synchronization and define Test results
+· Involved in debugging and running tests to analysing the test results.  
+· Generating automation test reports using TestNG
+· Involved in API/Web Services testing using Soap UI
+· Defect Tracking and Reporting using JIRA and Agile Central.
+
+· Involved in AGILE environment and Participated in Daily Stand-Up, Scrum and Retrospective Meetings.
+· Involvement in Test status Reporting on daily, weekly basis through company prescribed format.
+Project #2: Yi-Mobility, Inc (YourRewardsZone)  
+
+Client
+
+ : Yi-Mobility (USA)
+
+Duration         
+ : Aug’14 to Jan’16
+Tools Used
+ : Manual Testing, QTP/UFT, ALM, JIRA
+Environment
+ : PHP, Android, iOS, SQL Server 2008 R2 and Windows 7\8, Mac OS
+Role
+
+ : Test Engineer
+
+Description
+Yi-Mobility, Inc brings YourRewardsZoneTM, a friendly mobile application that allows you to save money, receive real time offers from nearby stores, keep track of your loyalty offers, and gift cards all in one place-even make dining reservations.
+
+Roles & Responsibilities
+· Understanding test requirements and analyzing the Application Under Test (AUT) 
+
+· Identifying the required Test Scenarios and collecting the test data from the application
+
+· Designing & Executing automation test scripts to perform Regression Testing using QTP/UFT.
+· Designing and maintenance of Hybrid Automation Framework
+· Defect Tracking and Reporting using JIRA
+
+· Attended different kinds of meetings, including Daily Stand-Up Meetings
+
+· Involvement in Test Reporting on daily, weekly basis through company prescribed format
+
+· Participated in KT sessions in order to guide the new joiners in the team to make them ready for the project work
+
+· Responsible for collecting the status from each team member and circulate the same to both internal management and customer management
+
+
+Project #3: Airgas - Inventory Management System (AIMS)
+Client
+
+ : Airgas USA (U.S Philadelphia)
+
+Duration         
+ : Jan’13 to Jul’14
+Tools Used
+ : Manual Testing, QTP, Quality Center (QC), JIRA
+Environment
+ : ASP. Net, C#, ADO.Net, WCF, SQL Server 2005 and Windows XP/7
+Role
+
+ : Test Engineer
+
+Description
+Airgas Inc. is the largest U.S. distributor of industrial, medical, and specialty gases and related hard goods. The Airgas Inventory Management (AIM) system is a centralized product tracking solution used by Airgas’ employees for order processing, accurate deliveries, controlling inventory, performing audits, maintaining cylinder history records, maintaining accurate billing records and report generation. 
+
+Roles & Responsibilities
+· Understanding test requirements and analyzing the Application Under Test (AUT) 
+
+· Identifying the required Test Scenarios of the application
+
+· Designing & Executing automation test scripts to perform Regression Testing using QTP/UFT
+· Designing and maintenance of Data Driven Automation Framework
+· Defect Tracking and Reporting using JIRA
+· Attended different kinds of meetings, including Daily Stand-Up Meetings
+
+· Involvement in Test Reporting on daily, weekly basis through company prescribed format
+
+· Participated in KT sessions in order to guide the new joiners in the team to make them ready for the project work
+
+· Responsible for collecting the status from each team member and circulate the same to both internal management and customer management
+
+
+Project #4: Dynamic Queue Management System 
+Client
+
+ : Enso, ICICI
+Duration         
+ : Sep’11 to Jan’13
+Tools Used
+ : Manual Testing, JIRA
+
+Environment
+ : C#, ADO.Net, SQL Server 2005 and Windows XP
+
+Role
+
+ : Test Engineer
+
+Description
+Dynamic Query Management is a system that is used for generating, allocating and processing of tokens in the banking domain. The main objective of this system is to improve the employee productivity by exposing every counter to all services and hence cut down the delay in handling the services of a customer.
+
+Roles & Responsibilities
+· Understanding the business requirements and functional specifications of the application
+· Prepared and executing Test Cases as per client requirements
+· Performing Sanity Tests on every new builds
+
+· Involved in Functional Testing, Smoke Testing, GUI and Compatibility Testing
+· Retesting and Regression testing performed on every new build of the application
+· Involved in tracking and reporting defects using JIRA
+· Extensively performed Manual Testing process to ensure the quality of the software

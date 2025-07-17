@@ -1,0 +1,137 @@
+
+
+
+
+
+
+
+
+ 
+
+ Padma Muni                                                              MailID:munipadma1994@gmail.com
+                                                                                      MobileNo: 9492432609
+
+Professional Summary
+
+· Having 2 years of experience in Web Application Development, and Deployment and involved in various phases of Software Development phases. 
+· Good knowledge in .net Framework (4.0, 3.5), Asp.net, Ajax, Html, CSS, JavaScript, XML, JSON.
+· Having good knowledge on Asp.net MVC architecture.
+· Having good knowledge in writing programing in Python and C#.
+· Having good exposure in Object Oriented programming design (OOAD) and implementation. 
+· Involved in N-N software development phases like design, development and testing, maintenance of web applications
+· Worked on presenting the data in different views from different data sources using different Asp.net controls.
+· Hands on validating the data as per client requirements.
+· Extensively worked on Database objects like Data Adaptor, Data Set, and Data Reader to access and update the data from database. 
+· Extensively worked on client side as well server-side State Management techniques.
+· Having good experience in developing web applications in n- tier architecture.
+· Hands on Sqlserver Database design, Database Maintenance, developing Queries, Stored procedures and triggers using sqlserver2008.
+· Ability to learn new concepts and Good communication, inter-personal skills, ready to work in any environment.
+· Implementing & managing IIS and FTP server 
+· Installation and configure Virtual Machine (VM)
+Technical Skills
+
+Platforms			: Windows, Red hat Linux.
+Languages			: C#.net,Asp.net ,Vb.net,Ado.net,MVC,Java
+Web technologies		: HTML, Java Script, AJAX,CSS3.
+Frameworks			: .Net MVC Framework
+Databases			: Microsoft Sql Server
+IDE/Tools			:Arcgis Tool, Datacap
+                                                MS VisualStudio2015/2017,Eclipse,SublimeText
+Application Server		: Internet Information Server (IIS)
+
+Functional Skill Set
+· Strong client facing skills. 
+· Problem solving capability peered with strong communication skills. 
+Professional Experience
+· Associate Software Engineer in Tecnics Integration Technlogies Pvt Ltd, Hyderabad Feb 2017 to Till Date
+Education
+· Bachelor Degree in Computer Science Engineering from Rishi M.S INST  OF ENGG & Tech For Women in JNTUH
+Project #1:
+Title                    :Kerala State Disaster Management Authority
+Client		   : Kerala State Disaster Management Authority, Kerala
+Technologies       : IBM Intelligence Operation Center 1.6.0.3, ESRI ArcGIS 
+Languages           :  Asp.net, C#.net, Ado.net, Ajax, Java,RestWebServices
+Tools                   : ArcGIS, Postman
+Organization	    : Tecnics Integration Technlogies Pvt Ltd, Hyderabad
+Team Size	    : 7
+
+Description:
+KSDMA will be built by integration of IBM intelligent Operations center and ESRI. In case of any emergency an event will be generated on IBM IOC. Once the event has been generated the operators will receive alerts and notifications on a common dashboard. Alerts will also be sent to higher officials, management and stake holders. Notification will be in form of email or sms alert. Once an event is reported on IOC the operator will then co-ordinate with multiple departments to perform the related Standard Operating Procedures. 
+
+Responsibilities :
+
+•Creating Shake Map, SINMAP, Indentation map and Reading Rainfall prediction in state from satellite image for disaster and emergency information dissemination.
+•Consuming and using the IBM Intelligence Operation Center1.6 RESTAPI for creating ,deleting and updating Data Sources through APIs
+•Handled and fluctuation of application severs by connecting REST APIs of application
+Servers Multi Server environment.
+•Instead of using JMS did the creation of CAP data-sources in multi-server environment through APIs
+•Customization of Intelligence operation Center as per the clients requirement
+•Involved in creating tables Implementing Stored Procedures and Triggers.
+•Responsible for establishing the connection with data sources.
+•Involved in developing the services
+•Involved in developing the code in N-Tire architecture using C#.Net, SQL Server.
+•Development, Support and Maintenance of database as well as web application.
+•Extensively used Grid Views and Repeaters with Sorting and Paging.
+•Designed and developed presentation layer using ASP.net Rich Controls.
+•used ASP.NET Validation Controls for server-side validations and also
+ client-side validation based on the user’s browser.
+ Project #2
+Title              : UKC One Finance
+Client	          : Ultratech
+Languages     : Vb.net,SAP 
+Tools             : Datacap, IBM Case Manager
+Database       : DB2
+
+Description: 
+Ultra Tech is one of the largest manufacturer of grey cement in India. It is also one of the leading cement producers globally.This project is in the process of setting up a shared service for their finance and accounting department to automate their billing processes.
+Responsibilities:
+· Worked on integration between Case Manager and  SAP, passing the values  from Case -manager to SAP  with Multiple T-codes .
+· Created  Case id’s in Case Manager.
+· Generated an Exe and tested in multiple Operating Systems.
+· Developed stored procedures using SQL SERVER.
+
+Project #3
+Academic Projects Undertaken:
+Major Project Details:
+
+Title                	: Campus-On		 
+Date		: Jan 2015 – Mar2015
+Organization	: Flying Freshers
+Team Size	: 3
+
+Description:
+Campus-on provides a simple interface for maintenance of campus information. All the modules in college administration are interdependent. They are maintained manually. So they need to be automated and centralized as, information from one module will be needed by other modules. This problem is solved using our project Campus-on. This system can be used to automate the workflow of service requests for the various facilities in the campus. Registered users will be able to log in a request for service for any of the supported facilities.
+Responsibilities:
+· Review of Functional Design Document Specifications (FDDS) to create corresponding Functional Design Document Review (FDDR).
+· Using 3-Tire architecture for presentation layer, Business and Data Access layers are developed   using C#.Net, SQL Server. 
+· Responsible for completing the assigned Module in time with required functionality.
+· Involved in implementation of database with considered database objects.
+· Involving in development of Security, State Management issues.
+· Performed client-side validation as well as server validation
+· Developed stored procedures using SQL SERVER.
+· Designed the UI and related code at the presentation layer.
+Technical Environment: Asp.net, C#.net, SQL Server.
+
+PERSONAL DETAILS:
+
+	Name 
+	Padma  Muni
+
+	Place 
+	Hyderabad
+
+	Marital Status
+	Single
+
+	Languages Known	
+	English, Hindi, Telugu
+
+	Nationality
+	Indian
+
+
+
+Declaration: I hereby declare that all the details furnished above are true to the best of my knowledge and belief.
+                                                                                                                                                                                                                                                                                                                    
+                                                                                                                         Padma Muni
+                                                                                                                                                            

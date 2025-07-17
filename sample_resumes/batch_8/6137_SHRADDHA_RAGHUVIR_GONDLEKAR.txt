@@ -1,0 +1,272 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+
+SHRADDHA RAGHUVIR GONDLEKAR
+Mobile- 8291689435
+E-mail Address- shraddhagondlekar@gmail.com
+
+	Experience Summary
+
+
+
+· Excellent knowledge of working at client location (Kotak Securities Ltd)
+· 7 plus years of IT Experience with SQL Server 2012/2008,SSIS and SSRS technologies.
+· Excellent Banking, finance and Securities domain knowledge with expertise in custody business.
+· Excellent client communication skill.
+· Excellent analytical and problem solving skills
+· Has valuable experience of effectively working in development as well as in support 
+
+
+
+	Educational Qualification 
+
+
+1. S.S.C. Passed in Mar’05 With First Class
+1. H.S.C Passed in Feb’07 With First Class
+1. B.Sc(I.T.) Passed in April’10 With First Class
+1. M.C.A. Passed in May’13 With First Class
+
+	Professional Experience
+
+
+
+
+Working With Nelito Systems Ltd as Sr. Software Engineer (MS SQL Developer) from May 17 to till date
+
+Project Details: Handling the core banking Solution
+
+1. Fincraft CBS Application
+
+Description:
+FinCraft CBS is an enterprise banking solution that enables Banks to provide full range of banking services and content to customers with different user profiles, efficiently and reliably.
+
+Responsibilities:
+· Extensive experience in writing stored procedures, functions and views for EOD processes.
+· Designing and creating SSRS reports as per requirement.
+· Solved the existing developed modules issues related to reports and existing functionalities.
+· Optimizing SQL Server performance.
+· Designing, debugging, and optimizing T-SQL queries, T-SQL and stored procedures, functions, views and dynamic queries for SQL Server
+· Debugging the critical issues
+· Solved the team members technical queries
+· Involved in Designing and creating reports in SSRS
+· Involved in debugging the applications via SQL Profiler.
+· Involved in Query & SP’s Optimization.
+
+
+Working With Paramatrix Technologies Pvt. Ltd as Software Engineer(SQL Developer) from Mar’ 16 to April’17
+
+Project Details: Handling the project of Kotak Securities Ltd and working at client location.
+
+1. EAI Application
+
+Description:
+This system is used to handing the operations such as upload exchange’s trades files, performing the control process, contract generation and bill generation process. This is important application to store the trading information.
+
+
+Responsibilities:
+· Experience in requirement analysis, coding and testing various modules in a software development life cycle.
+· Extensive experience in writing stored procedures, functions and views
+· Extensive experience in writing and tuning complex sub queries, SQL, PL/SQL stored procedures, functions, and triggers.
+· Load the data from MS Excel to Table and table to MS Excel.
+· Designing and creating SSIS packages to extract, transform and load data using multiple files format into sql database
+· Optimizing SQL Server performance.
+· Designing, debugging, and optimizing T-SQL queries, T-SQL and stored procedures, functions, views and dynamic queries for SQL Server
+· Designing the system architecture as per requirement and coding of modules
+· Involved in the UAT testing of developed modules
+· Resolving the LIVE issues which is occurred in the system
+· Debugging the critical issues
+· Preparing Technical,Functional documents
+· Handling the team and solve their technical queries
+· Involved in Designing and creating reports in SSRS
+· Worked on designing architecture and documentation.
+· Worked on estimates and requirements
+· Involved in debugging the applications via SQL Profiler.
+· Involved in Query & SP’s Optimization.
+
+2. CRM Application
+
+Description:
+This system is used to handles the operation of customer’s queries and followed the some operations on queries.
+Responsibilities:
+· Analyzing and understanding business requirements
+· Preparing Technical documents
+· Designing the database architecture as per the modules
+· Worked on creation of database objects and created schema as per requirement
+· Handling the team and solve their technical queries
+· Providing the support to the Application
+· Resolving the LIVE issues which is occurred in the system
+· Providing the UAT support
+· Followed the SDLC process
+
+
+
+
+Technologies Handled-
+
+RDBMS				:	SQL Server 2008,SSIS packages
+Reporting tool			:	Crystal Reports,SSRS
+Code Maintenance			: 	Visual Source safe
+
+
+
+Working With Sectech Pvt. Ltd as Software Engineer(SQL Developer) from Feb’14- Mar’ 16
+
+Project 1: CustodyPlus
+
+Description:
+This system automates the entire back office operation of a Custodian (bank). It Involves Securities, Trading, Corporate Actions, Billing, SWIFT and other electronic messaging.
+
+Responsibilities:
+· Analyzing and understanding business requirements
+·  Design and document database architecture.
+· Coding & testing of tasks
+· Preparing test plan for all tasks
+· Backup and Restore databases
+· Strong T-SQL knowledge, stored procedure analysis, and troubleshooting
+· Objects creation such as Tables, Views, User Data Types, Indexes, Stored Procedures, Cursors, Triggers, Functions and more.
+· Involved in debugging the applications via SQL Profiler.
+· Involved in Query & SP’s Optimization.
+
+Project 2: Custody2000 System
+
+Description:
+This project covers all activity related to our product Cusotdy2000 which is live at 18 client sites. All ongoing support activity, change requests and defect fixes concerning this product are carried out under this project. Change requests include adding new functionality to the current system such as a new messaging protocol for client reporting or introducing new modules or enhancement of existing modules as per client request. Support activity involves keeping the system up to date with market requirements such as change in SWIFT standards, introduction of new instrument types etc. Defects as and when discovered are fixed and the fixes deployed as part of scheduled releases to client sites.
+
+Responsibilities:
+· Preparing Functional and technical specifications
+· Coding & testing as per change request by client.
+· Preparing test plan for complex tasks.
+· Assigning tasks among team members.
+· Code or functional review of tasks performed by team members.
+· Backup and Restore databases
+· Strong T-SQL knowledge, stored procedure analysis, and troubleshooting
+· Objects creation such as Tables, Views, User Data Types, Indexes, Stored Procedures, Cursors, Triggers, Functions and more.
+· Involved in debugging the applications via SQL Profiler.
+· Involved in Query & SP’s Optimization.
+
+Technologies Handled-
+
+RDBMS				:	SQL 2008,2005 and 2012
+Reporting tool			:	Crystal Reports
+Code Maintenance			: 	Visual Source safe
+
+
+Working With Excel System as Software Developer from Nov’10-Feb’14
+
+Project: Accounting and Inventory Project
+
+Responsibilities:
+· Also designed and created database objects for software applications as per the requirement of the project.
+· Responsible for Debugging, coding and designing the stored procedure.
+· Responsible for the designing complex reports by creating the complex queries in the projects as per user requirement.
+· Writing Complex Queries, views & Handling Stored Procedures.
+· Identify the data issues and provided solution options for resolution.
+· Backup and Restoring Database.
+Technologies Handled:
+RDBMS				:	SQL Server 2000, SQL Server 2005,SQL Server
+						20008	
+Reporting tool			: 	Crystal Reports 8.5
+Code Maintenance			: 	Visual Source safe
+
+
+
+
+
+	Technical Skills
+
+
+· Operating Systems : Windows XP,Windows Server 2003
+· Office tools : MS Office 2007 and 2003
+
+
+	Academic Projects
+
+
+
+B.Sc(I.T.) Final Year Project:
+Title:Courier Service System
+            Environment: 
+· Visual Basic 6.0
+· Microsoft Access
+· Data Reports
+
+M.C.A. Final Year Project:
+Title:Tours and Travels Management System
+            Environment: 
+· Microsoft Visual Studio 2008(Vb.net)
+· Microsoft SQL Server 2005
+
+
+	Personal Details
+
+
+
+Current Address: Om Surya Apt. 4th floor Room No-403 ‘B’ wing Savarkar Nagar 
+	Thane-400606(w)
+State                              :  Maharashtra
+Date of Birth             :  19th October 1989
+Gender                          : Female
+Father’s Name	      :  Raghuvir Mahadev Gondlekar
+MaritalStatus :   Single
+Mother-tongue:   Marathi 
+Nationality:   Indian
+Language Known:   English, Hindi and Marathi.
+
+
+
+Date: 
+
+Place: Thane								
+
+Signature
+
+		
+ (SHRADDHA RAGHUVIR GONDLEKAR) 

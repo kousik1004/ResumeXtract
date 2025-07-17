@@ -1,0 +1,113 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lokan
+
+S RAVI KIRAN                                                                Contact No:  +91-7908062643
+Associate Consultant                                                                   Email id: sravikiran301@gmail.com
+Capgemini, Hyderabad                                               
+PROFILE SUMMARY:
+· 3 years of IT experience in Informatica, Oracle Database, Data Warehousing and UNIX have extensively worked in developing ETL program for supporting Data Extraction, transformations and loading using Informatica Power Center.
+· Have developed many mappings and also worked in a supporting role to solve defects in SIT and UAT Phase.
+· Worked in Performance tuning  team  
+· Have basic knowledge of Unix shell scripting
+· Self-driven, performance oriented and a dedicated professional with the history of recognized deliveries.
+
+TECHNICAL SKILLS:
+· Tools
+  
+
+: Informatica 9.7.1, SQL Developer 
+· Languages
+
+: SQL
+· Database
+
+: Oracle 10g/11g
+· Operating System
+: UNIX, Windows
+PROFESIONAL EXPERIENCE
+
+Project # 1
+· Customer
+:   CNA
+· Skill Set            :  Informatica 9.1, Oracle 
+Description:  This project was aimed for the development of Workflows/tasks in Informatica in order to get clean data which can be used further by CNA for their future requirements. The source data was received in the form of flat files and Oracle DB which was then loaded into 
+
+Staging schema and later using several transformations under informatica loaded into operational data store. Further from Operational data store the data was sent to Data warehouse.
+Responsibilities:
+· Designed ETL mapping & workflows.
+· Created more than 20 workflows, containing transformations like Expression, Lookup, Filter, Router, Joiner, Sequence generator.
+· Performance tuning on Informatica Powercenter.
+· Involved in Unit Testing in order to resolve the bottlenecks. 
+Project # 2
+
+· Customer
+:   AIG
+· Skill Set
+:  Informatica 9.7.1, Oracle, Unix
+Description: This project aims at extracting, transforming and loading data into data        warehouse from where presentable reports are generated. Later in support phase incidents have to be resolved and proper solution is to be communicated to client.
+
+Responsibilities:
+· Designed ETL mapping & workflows.
+
+· Created around 30 workflows, containing transformations like Expression, Lookup, Filter, Router, Joiner, Sequence generator.
+
+· Performance tuning on Informatica Powercenter.
+
+· Involved in Unit Testing in order to resolve the bottlenecks. 
+· After completion of development phase worked on SIT AND UAT Defects.
+
+RECOGNITIONS & AWARDS:
+
+· Rising Star Award for overcoming chalenges while developing workflows and also ensuring deleviry within proper timelines under CNA Project in 2017.
+EDUCATIONAL QUALIFICATION:
+
+· B.E (Electronics & Comm)                     : 2015 from Biju Pattanaik University(7.69/10)
+
+· 12th
+                                                          : 2010 from ISC (74%)
+
+· 10th 
+
+                                            : 2008 from ICSE (78%)
+
+LinkedIn PROFILE:
+
+ https://www.linkedin.com/in/s-ravi-kiran-4a0996b4/

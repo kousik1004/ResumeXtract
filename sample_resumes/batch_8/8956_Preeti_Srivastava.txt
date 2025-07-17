@@ -1,0 +1,174 @@
+
+
+
+
+
+
+
+
+Preeti Srivastava							Contact No: 9066897176
+Wakad , Pune							Email ID: pree.sri88@gmail.com
+Business Intelligence Developer
+· Team and Goal oriented with excellent time management skill.
+· More than 4 years’ experience in Report Development, Data Integration &  Data Analysis as well as Web Development.
+· Analytical mind- Creative report development to solve actual operation situation or to demonstrate level of performance against the optimal standard.
+· Demonstrated leadership abilities and team work skills as well as the ability to accomplish tasks under minimal direction and supervision.
+Technical Skills
+Microsoft Technologies:
+SQL Server 2008 & 2008 R2 & 2016 Reporting Services (SSRS), SQL Server 2008 & 2008 R2 & 2016 Integration Services (SSIS),Power BI(Web, Dashboard, Mobile), SSAS(Basic Concept),SharePoint Server 2010,Excel,Word,PowerPoint.
+
+Other Technologies:
+HTML, CSS, JavaScript, PHP, Photoshop, WordPress, OpenCart, C, C++, Java, C# .NET
+
+Databases:
+MS SQL Server 2008 R2, MS SQL Server 2012, MS SQL Server 2016
+
+Software:
+Visual Studio 2010, SQL Server Business Intelligence Development Studio 2016, SharePoint 2010, SharePoint 2013
+
+Query Languages:
+T-SQL, PL SQL
+Roles & Responsibilities
+
+· Implemented Incremental load, used Event Handlers to clean the data from different data sources
+· Designed and developed ETL Solutions in SSIS. Imported data from OLEDB, Oracle Source, Flat Files or other data sources and created data flow solutions to cleans and validate imported data. 
+· Deployed packages into the various servers and used TFS to check in the packages.
+· Created Data Warehouse packages (Dimension, Fact).
+· Scheduled the job using both SSMS and Window scheduler.
+· Generated periodic reports based on the statistical analysis of the data from various time frame and division using SQL Server Reporting Services (SSRS)
+· Developed various operational Drill-through and Drill-down reports using SSRS
+· Developed different kind of reports such a Sub Reports, Charts, Matrix reports, Linked reports.
+· Used cascaded parameters to generate a report from two different Data Sets.
+· Involved with Query Optimization to increase the performance of the Report.
+· Involved in creating Stored Procedures, views, tables, constrains
+· Worked on complex T-SQL statements, and implemented various codes and functions
+
+Employment Details
+
+	Company Name
+	Role
+	Year
+
+	Infosys
+	BI Developer
+	Aug 2017 - Present
+
+	Wipro Technology
+	BI Developer
+	Aug  2016 – Aug 2017
+
+	Wipro Technology (Payroll of N-Axis)
+	BI Developer
+	July 2014 – Aug 2016
+
+
+ 
+Project Descriptions
+
+Project1 (CorpBI ETL Implementation)
+Client: XPO Logistic
+Environment: MS SQL Server 2016, Visual Studio 2016
+Work Description:
+· As per client requirements: - Developed, deployed and monitored SSIS Packages for new ETL Processes. 
+· Applied business logics using different Control Flow Tasks like Execute SQL Task, For Each Loop Container, Sequence Container, Execute SQL Task, Send Mail Task, FTP, File System and Dataflow transformations
+· Extracted data from sources and transformed the data using different transformations like Derived, Conditional Split, Aggregate, Multicast, Sort, Merge join, Look up, Data Conversion and Union all. 
+· Developed SSIS Packages to import and export data from CSV files, SQL Server and Oracle.
+· Creation and scheduling of ETL Packages Using SQL Server Management Studio 2016.
+· Monitored Full/Incremental/Daily Loads.
+· Configured Database Mail to send out notifications.
+· Involved in taking Backup and Restoring of the Database.
+· Checked in the packages into the TFS Server.
+Project2 (ETL Implementation)
+Client: Ujjivan Small Finance Bank
+Environment: MS SQL Server 2016, Visual Studio 2016
+Work Description:
+· As per client requirements: - Developed, deployed and monitored SSIS Packages for new ETL Processes. 
+· Applying business logics using different Control Flow Tasks like Execute SQL Task, For Each Loop Container, Sequence Container, Execute SQL Task, Send Mail Task, FTP, File System and Dataflow transformations
+· Extracted data from sources and transformed the data using different transformations like Derived, Conditional Split, Aggregate, Multicast, Sort, Merge join, Look up, Data Conversion and Union all. 
+· Developed SSIS Packages to import and export data from MS Excel, SQL Server, Oracle and Flat files.
+· Creation of Check points, Event handlers, Configurations, logging functionalities to SSIS packages to manage the packages and handling the failures.
+· Creation and scheduling of ETL Packages Using Window Scheduler.
+· Monitored Full/Incremental/Daily Loads.
+· Configured Database Mail to send out notifications
+· Generated multiple Enterprise reports using SSRS from SQL Server Database (OLTP) 
+· Monitored performance of Production Server
+· Involved in taking Backup and Restoring of the Database
+Project3 (Oil EPM)
+Client: Oil India Pvt. LTD.
+Environment: MS SQL Server 2012, Visual Studio 2010, SharePoint 2013
+Work Description:
+· Wrote SQL Query, Views, Complex Stored Procedures and appropriate User defined functions.
+· Created SSRS Report.
+· Deployed RDL files in Report Server (using SharePoint Integrated mode)
+· Created jobs
+· Designed and developed ETL Solutions in SSIS. 
+· Extracted data from SharePoint sources and transformed the data using different transformations like Derived, Conditional Split, Aggregate, Multicast, Sort, Merge join, Look up, Data Conversion and Union all. 
+· Created, scheduled and monitored the Jobs for batch processing.
+· Configured Database Mail to send out notifications
+· Generated multiple Enterprise reports using SSRS from SQL Server Database (OLTP) and SharePoint lists
+· Involved in taking Backup and Restoring of the Database
+Project4 (SeaDrill)
+Client: SeaDrill
+Environment: MS SQL Server 2012, Visual Studio 2010, SharePoint 2013
+Work Description:
+· Wrote SQL Query, Views, Complex Stored Procedures and appropriate User defined functions
+· Created SSRS Report(Tabular Report, Matrix Report, Drill Down Report, Drill Through Report, Dashboard Report)
+· Deployed RDL files in Report Server(using Native mode)
+Project5 (SABMiller AMS)
+Client: SABMiller
+Environment: Windows Server 2012, MS SQL Server 2008
+Work Description:
+· Wrote SQL Query, Views, Complex Stored Procedures and appropriate User defined functions
+· Created SSRS Report (Tabular Report, Matrix Report, Drill Down Report, Drill Through Report, Dashboard Report)
+· Deployed RDL files in Report server(using Native mode)
+
+Project6 (MSS Portal)
+Client: Wipro Infotech
+Environment: Windows Server 2012, MS SQL Server 2012, SharePoint
+Work Description:
+· Wrote SQL Query, Views, Complex Stored Procedures and appropriate User defined functions
+· Created SSRS Report(Tabular Report, Matrix Report, Drill Down Report, Drill Through Report, Dashboard Report)
+· Deployed RDL files in Report Server(using SharePoint Integrated mode)
+· Created jobs
+· Designed and developed ETL Solutions in SSIS. Imported data from SharePoint source and created data flow solutions to cleans and validate imported data. 
+· Created, scheduled and monitored the Jobs for batch processing.
+· Configured Database Mail to send out notifications
+· Generated multiple Enterprise reports using SSRS from SQL Server Database and SharePoint lists.
+· Involved in taking Backup and Restoring of the Database.
+
+Educational Qualifications
+
+	Qualification
+	University
+	Percentage
+	Year of Passing
+
+	M.C.A
+	V.T.U
+	78
+	2012
+
+	B.Sc.(IT)
+	Ranchi University
+	74.25
+	2009
+
+	12th
+	Jharkhand Academic Council
+	58
+	2006
+
+	10th
+	Jharkhand Academic Council
+	74
+	2004
+
+
+
+
+Personal Details
+
+Name		:	Preeti Srivastava
+Date of Birth	: 	08 Aug 1989
+Sex		:	Female
+Father’s Name	: 	Mr. Nirvay Narayan Srivastava

@@ -1,0 +1,204 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PSI Résumé Template
+
+Ajay Kumar Jangid
+Sr. Database Developer
+ajayskit@gmail.com
+
+9571145785 / 7976321159
+
+· I have 6+ year of experience of IT industry in Business intelligence, data warehousing, database development, data modelling and ETL. I have a very good understanding of visualization approach, developing Dashboards using multiple visualization and data analysis using various BI tools like Power BI, nSight and Excel.
+· Experience in the design and development of analytics/big data applications using leading industry tools and Strong knowledge of data integration concepts like Dimensional Modeling, Data Quality, and Streaming.
+· Experienced in analyzing BI needs, interpreting business user requirements and translating them into reports.
+· Experience with database objects including tables, indexes, procedures, packages, views, triggers, constraints, privileges, schedules, jobs, sequences, synonyms, and database links.
+· Experience in SQL Server  Database Administration
+
+Capacity Planning, Indexing, Partitioning, Agent Jobs, Database Email, Performance Optimization using SQL Profiler and Execution plan, Trouble Shooting Using SQL Server logs, Agents Logs and Window Event Logs, Backup and Recovery Models etc.
+
+Technologies
+
+	Primary Skill Sets
+
+	Databases 
+	SQL Server 
+
+	ETL Tool
+	SSIS(Integration Services) 
+
+	Reporting Tool
+	Microsoft Power BI, Tableau, SSRS(Reports, Distribution, Snapshots),Kibana , nSight
+
+	Language
+	SQL
+
+	Analytic Tool
+	Power BI , Tableau
+
+	Secondary Skill Sets
+
+	Other 
+	SSAS (Cube build),MDX (Queries to cube),DAX(Data analysis expression)
+
+
+
+Work Experience
+
+
+Aramark, India
+Sr Soft. Engg. | Jan-18 to till Date
+Client Description: Leading Global consulting firm
+Business Solution: This Client provides food service, facilities and uniform services to hospitals, universities, school districts, stadiums and other businesses around the world. It operates in 20 countrys. We have developed web based pricing application for them, where we are supporting client on pricing strategies. We have developed multiple complex dashboards.
+Project Responsibilities: 
+1. Develop various sql server objects according to client requirement. Work on complex pricing logic and converted into sql code. Developed two dashboard using Tree visualization to show DELTA-P, DELTA-Negative Outliers, and Positive Outliers on profit center/contract type. (business_dining_dashboard and compliance_dashboard)
+
+2. Developed one dashboard to show execution status like which profit centers contracts are on track, off track, completed etc. 
+
+3. Developed one dashboard to workflow/email send status.
+
+4. Work on multiple power BI reports and dashboard for world option project.
+
+  Vaibhav Global Limited, India
+  Sr. Database Developer | FEB-17 to JAN-2018
+Company Info: Vaibhav Global Limited (VGL), headquartered in Jaipur, Rajasthan, is a professionally managed fully integrated electronic retailer of jewelry and lifestyle products. Founded as Vaibhav Enterprises in 1980 and incorporated as Vaibhav Gems Limited in 1989, VGL has enjoyed exponential growth ever since the inception.
+
+Project:
+
+AMS Data warehouse: Data warehouse for AMS US and AMS UK channels.
+VGL MCM: Hold all the data for US and UK sales analysis and report, Dashboard in POWER BI tool. 
+
+Responsibilities
+
+· Developed data models to support Power BI. 
+· Developed multiple various complex reports and dashboards Using POWER BI (sales dashboard, market place dashboard, Host performance dashboard, MCM report, return report etc.)  For analysis data and business users.
+· Developed multiple SSIS package for data warehouse purpose.
+
+· Work on Adhoc requirement.
+  AXIS Bank, Mumbai
+  Sr. Database Developer | AUG-16 to JAN-2017
+Company Info: Axis Bank offers internet-banking services, personal banking services including accounts, cards, and loans, investment options to personals, corporates and NRIs. Check out online banking services and products from one of the best online bank in India.
+Responsibilities
+
+· Create SQL Code for different banking module like NPA.
+
+· Create SSIS package for data warehouse purpose.
+
+· Develop a data warehouse for reporting purpose.
+
+· Create Reports and Dashboards Using POWER BI and SSRS tool.
+
+· Work on Adhoc requirement.
+Project:
+
+NPA: A nonperforming asset (NPA) refers to a classification for loans on the books of financial institutions that are in default or are in arrears on scheduled payments of principal or interest. In most cases, debt classified as nonperforming when loan payments have not been made for a period of 90 days.
+
+CKYCR: CKYCR is Central Key register data upload facility that contain customer basic information and account detail.
+Bank of Baroda, Mumbai
+
+  Sr. Database Developer | AUG-16 to JAN-2017
+
+Company Info: Baroda Bank offers internet-banking services, personal banking services including accounts, cards, and loans, investment options to personals, corporates and NRIs. Check out online banking services and products from one of the best online bank in India.
+
+Responsibilities
+
+· Developed SQL Code for different banking module like NPA and BASEL.
+· Developed SSIS package for data warehouse purpose.
+
+· Developed data warehouse for reporting purpose.
+
+· Create Reports and Dashboards Using POWER BI and SSRS tool.
+
+· Work on Adhoc requirement.
+IIFL, Mumbai
+
+  Sr. Database Developer | AUG-16 to JAN-2017
+
+Company Info: Indiainfoline.com is financial information source. Provides information on Live Stock Price, Share Market and Analysis on Equity, Sensex, Nifty, Commodity Market, personal finance, mutual funds, insurance
+Responsibilities
+
+· Developed SQL Code for different insurance module.
+· Developed SSIS package for data warehouse purpose.
+
+· Developed data warehouse for reporting purpose.
+
+· Developed Reports, Dashboards Using POWER BI, and SSRS tool.
+
+· Work on Adhoc requirement.
+IFMS, Rajasthan
+
+ Database Developer | NOV-12 to JULY-2016
+Company Info: IFMS is integrated finance management system, which have various modules like paymanager, e-grass and rajkosh for Rajasthan govt.
+Responsibilities
+
+· Developed Rajasthan govt finance department modules like paymanager.
+· Developed SSIS package for scholarship data process.
+
+· Developed Reports Using SSRS tool for finance dept budget module.
+Project:
+
+Paymanager: Paymanager is the Pay Bill Preparation System, which meant for the Employees of the Government of Rajasthan State. It provides the common and integrated platform to prepare the pay bills of the employees
+
+
+E Grass -: Online Government Receipts Accounting System (e-GRAS) is an e-Governance Initiative of Government of Rajasthan under Mission Mode Project category and is part of Integrated Financial Management System
+Rajkosh: Rajkosh (Online Treasury Accounting System) is an e-Governance Initiative of Government of Rajasthan under Mission Mode Project category and is part of Integrated Financial Management System. Rajkosh facilitates the submission of Bills, Vouchers & Challans, Effective Budget Control, and Compilation of Treasury Accounts
+
+Education
+
+Professional Qualification 
+
+	Duration
+	Programme
+	University/Authorized Body
+
+	· 2012-2016
+	· B. tech, computer science
+	· Rajasthan Technical University,Kota
+
+
+
+Page 2 of 5
+

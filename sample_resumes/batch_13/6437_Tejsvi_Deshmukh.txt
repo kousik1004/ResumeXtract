@@ -1,0 +1,456 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Android Application Developer with 3.5 Years of Experience  
+
+ 
+
+ 
+
+Tejsvi Deshmukh                                                                                                    
+
+Address: C/o. K. M. Patel, Sector no. 28, plot no. 218, Nigdi pradhikaran-411044   
+
+Contact No.: +91 7741993709  
+
+E-mail: deshmukhtejsvi@gmail.com 
+
+ 
+
+Career Objective 
+
+To work with the company, belonging to professionally managed group, that is offering 
+
+enough opportunities for career advancement and professional growth of an individual.   
+
+  
+
+ To represent myself as one of the important members of the team and driving my team 
+
+towards fulfillment of company’s goals and objectives and make long lasting impression of my 
+
+team on senior management. 
+
+ 
+
+ 
+
+ 
+
+Career Summary 
+
+ 
+
+ Currently working with Borm Bruckmeier Infotech Pvt Ltd as a Software Engineer. 
+
+ Strong Application development skills in Android. 
+
+ Good command over Android SDK and APIs. 
+
+ Skillful knowledge of Core Java.  
+ 
+
+ 
+
+ 
+
+Qualifications 
+
+ Masters in Computer application with 68.20%  from Pune university 
+
+ Bachelor in Computer Science with 71.46%  from STRMU university 
+
+ HSC with 77.16% from Maharashtra Board 
+
+ SSC with 75.86% from Maharashtra Board 
+
+ 
+
+ 
+
+Technical Skills 
+
+ 
+
+Operating systems: Android, Windows XP/7/8, Mac OS. 
+
+Languages known:  Core Java, C++ 
+
+Technologies: Android, HTML, CSS, JSoup, JSON, XSLT Basics 
+
+Scripting Languages: JavaScript, jQuery 
+
+Databases:   MS-Access, MySQL and SQLite  
+
+IDE Tools Used:  Eclipse, Android Studio, PHPStorm 
+
+ 
+
+
+
+Work Experience 
+
+ 
+
+      Total work experience: 3.5 years 
+
+      Relevant experience in Android: 2.5 years 
+
+   
+
+- CreoInvent Technologies, Pvt. Ltd. 
+
+ 
+
+- Boerm Bruckmeier Infotech India Pvt. Ltd. 
+
+ 
+
+Key Responsibilities: 
+
+ 
+
+1. Developing the Android Application 
+2. Publishing Application to Google Play store 
+3. Manual testing of the Application 
+
+ 
+
+ 
+
+Type of Projects Worked on 
+
+ 
+
+1. Mood Diary: 
+ 
+
+Type: Medical Application for Depression Patients 
+
+Duration: 3 Months 
+
+Description: The patient can rate their moods for each day. This rating and medicine 
+
+information will be saved in SQLite database. This data can be reviewed through the 
+
+calendar view. Patient is able to generate the weekly and monthly report based on rating 
+
+saved and this report can be sent to Doctor through mail as attachment.  
+
+ 
+
+Role: UI designing, Database related operations using SQLite 
+
+Tools used: Eclipse, Java 7, SQLite database  
+
+ 
+
+Google Play link: 
+
+https://play.google.com/store/apps/details?id=com.bbi.stimmungstagebuch 
+
+ 
+
+ 
+
+2. ESC Pocket Guidelines 
+ 
+
+Type: Medical Application for European Society of Cardiology 
+
+Duration: 3 Months 
+
+Description: The html content is stored in the folder as a medical guideline. These 
+
+guidelines can be downloaded through server. User can view the html pages, bookmark 
+
+the pages, make some notes for each html page and can take backup of this notes and 
+
+bookmarks. This backup can be restored after the app is reinstalled or updated. 
+
+The users can get notification from server. 
+
+ 
+
+Role: UI designing, Database related operations using SQLite, fetching login information 
+
+using REST API 
+
+https://play.google.com/store/apps/details?id=com.bbi.stimmungstagebuch
+
+
+Tools used: Android Studio, Java 8, SQLite database 
+
+Google Play link: 
+
+https://play.google.com/store/apps/details?id=com.esccardio.escpocketguidelines&hl=en 
+
+ 
+
+3. EHRA Key Messages 
+ 
+
+Type: Medical Application for European Society of Cardiology 
+
+Duration: 3 Months 
+
+Description: The app has Server downloading feature, where the data in the app can be 
+
+updated through server. 
+
+ 
+
+Role: UI designing, Database related operations using SQLite, fetching login information 
+
+using REST API 
+
+Tools used: Android Studio, Java 8, SQLite database 
+
+Google Play link: 
+
+https://play.google.com/store/apps/details?id=com.bbi.european_heart_rhythm_associatio
+
+n_keymessages&hl=en 
+
+ 
+
+4. DGK Pocket-Leitlinien 
+ 
+
+Type: Medical Application for Deutsche Gesellschaft für Kardiologie 
+
+Duration: 2 Months 
+
+Description: App consists of different guidelines for doctors; those can be updated 
+
+through server update. 
+
+ 
+
+Role: Junior Developer, UI designing, Server downloading, Manual testing 
+
+Tools used: Android Studio, Java 8, SQLite database 
+
+Google Play link: 
+
+https://play.google.com/store/apps/details?id=com.bbi.dgk_pocket_leitliniens 
+
+ 
+
+5. Notfallmedizin Pocket 
+ 
+
+Type: Medical Application for Medical emergencies (Inhouse app) 
+
+Duration: 4 Months 
+
+Description: App has the calling feature and camera feature to access the flashlight. 
+
+ 
+
+Role: Junior Developer, UI designing, runtime permission for accessing camera, Manual 
+
+testing 
+
+Tools used: Eclipse, Java 7, SQLite database 
+
+Google Play link: 
+
+https://play.google.com/store/apps/details?id=com.bbi.notfallmedizin_pocket 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+https://play.google.com/store/apps/details?id=com.esccardio.escpocketguidelines&hl=en
+https://play.google.com/store/apps/details?id=com.bbi.european_heart_rhythm_association_keymessages&hl=en
+https://play.google.com/store/apps/details?id=com.bbi.european_heart_rhythm_association_keymessages&hl=en
+https://play.google.com/store/apps/details?id=com.bbi.dgk_pocket_leitliniens
+
+
+6. Nutritional medicine Pocket 
+ 
+
+Type: Medical Application (Inhouse app) 
+
+Duration: 3 Months 
+
+Description: The app consist Notes and bookmark feature. 
+
+ 
+
+Role: Junior Developer, UI designing, working with SQLite for notes and bookmark 
+
+feature, Manual testing 
+
+Tools used: Android Studio, Java 8, SQLite database 
+
+Google Play link: 
+
+https://play.google.com/store/apps/details?id=com.bbi.nutrional_medicine_pocket 
+
+ 
+
+ 
+
+7. Herzinsuffizienz pocketcards 
+ 
+
+Type: Medical Application (Inhouse app) 
+
+Duration: 3 Months 
+
+Description: The app consist Notes and bookmark feature. 
+
+ 
+
+Role: Junior Developer, UI designing, working with SQLite for notes and bookmark 
+
+feature, Manual testing 
+
+Tools used: Android Studio, Java 8, SQLite database 
+
+Google Play link: 
+
+https://play.google.com/store/apps/details?id=com.bbi.herzinsuffizienz_poc 
+
+ketcards 
+
+ 
+
+8. Rock Paint 
+Type: Entertainment  
+
+Duration: 2 Months 
+
+Description: The app is based on Rock paint game, in this the user will physically paint 
+
+the rock and hide it to specific location with some unique id added to its bottom. User 
+
+will add this  physical location and a picture of the rock in the app. And the other user 
+
+will try to find it out. The app includes Facebook Share feature, Firebase login. 
+
+ 
+
+Role: Junior Developer, UI designing, implementing firebase login, handling runtime 
+
+permissions 
+
+Tools used: Android Studio, Java 8, Firebase 
+
+ 
+
+9. Other Projects 
+
+ Interactive tools through which user can provide input and get output.  
+Technologies: JavaScript, JQuery, Html  
+
+IDE:  PHPStorm 
+
+ Converting XML to Html using XSLT 
+IDE: Eclipse 
+
+ Parsing HTML page using Jsoup 
+
+https://play.google.com/store/apps/details?id=com.bbi.nutrional_medicine_pocket
+
+
+Personality Traits 
+
+ 
+
+ Self-Learner. 
+
+ Punctual, Leadership Quality 
+
+ Managing resources 
+
+ Good team player. 
+ 
+
+ 
+
+ 
+
+Languages Known 
+
+ English, Hindi, Marathi 
+
+ 
+
+ 
+
+Declaration 
+
+ 
+
+I hereby declare that all the above information furnished by me is true to the best of my 
+
+knowledge.    
+
+ 
+
+      
+
+ 
+
+ 
+
+Date:  /   /   
+
+                          Signature      
+
+Place:          (Tejsvi D. Deshmukh) 
+
+

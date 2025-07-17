@@ -1,0 +1,219 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navneet Ranjan
+
+
+PAVANI MADHINENI
+Email ID: mpavani777@gmail.com
+
+Mobile: 8142415007
+Professional Summary:
+
+· 1.6 years of Experience in Developing JAVA Applications.
+· Good Experience in Developing Enterprise Applications using JAVA, JDBC, Servlets, JSP, JSTL.
+· Good Experience in J2EE Design Patterns like MVC Model, Singleton, DAO, Design Patterns.
+· Good working knowledge in IDE tool like Eclipse.
+
+· Good Knowledge in Hibernate Framework. 
+· Knowledge in Spring Framework.
+· Knowledge in Web Services.
+Experience:
+· BridgeSoft Solutions Pvt Ltd, Hyderabad, from Dec 2015 to Jul 2016.
+· PeopleTech IT Consultancy Pvt Ltd, Hyderabad, from Nov 2016 to till date
+Education:
+
+· B.Tech (EEE) from Sri Venkateswara Institute of Technology College, JNT University in 2014.
+Skill set:
+	Operating System
+	Mac OS,Windows 7
+
+
+	Languages
+	JSE, J2EE and SQL
+
+
+
+	Mark-up Languages          
+	HTML, XML
+
+
+
+	Application/Web Servers
+	Apache Tomcat
+
+
+
+	J2EE Technologies
+	JDBC, Servlets, JSP
+
+
+
+	Distributed Technologies
+	JAX-WS
+
+
+	Databases
+	Oracle and MYSQL
+
+
+	Frameworks
+	Spring, Hibernate
+
+
+	IDE
+	Eclipse
+
+
+	Build Tools
+	Maven
+
+
+
+
+Project 1:
+
+Client
+              : TriNet
+
+Project Name  : Payroll App
+Description
+   : Payroll Apps is about managing the payroll of a particular employee in an Organization so they are different types of pay groups for a particular employee they pay group can be Monthly, Weekly, Bi-Weekly and Quarterly. 
+There are two different pay groups one is completed pay group and another one continue pay group based on the pay group status it has two girds containing the information about the employee one is editable gird and another no editable gird. It contains all the information details and the gross pay, deductions, taxes and contributions details for each employee and status of different employees active and terminated and in simple way it maintains all the details of employee payroll information.
+
+Roles & Responsibilites:
+
+
+•
+Involved in development and coding.
+
+
+•
+Involved in creating services with Spring REST implementation.
+
+
+•
+Involved in writing repository classes using Spring JDBC as DAO.
+
+
+•
+Tested services using Postman, Advanced REST client tools.
+
+
+•
+Involved in fixing the bugs.
+
+
+•
+Involved in writing the test cases using JUnit and Mockito.
+
+Environment: JAVA/J2EE, JSP, Hibernate, Spring Framework, Tomcat, Eclipse, Maven,Oracle and Junit    with Mockito
+Project 2:
+
+Client
+              : Macromick
+Project Name  : Migration Project
+Description
+   :  The Identity and Access Management (IAM) Engineer will be responsible for gathering and documenting functional requirements, designing technical architectures and processes, and implementing IAM product components
+Roles & Responsibilites: As a Team Member, Following are my responsibilities.
+· Involved in Analysiss, Design, Coding and Testing of Application.
+· Development and deployment of Sailpoint’s IIQ Identity and Acces Management Products.
+
+· Java custom code development.
+
+· Design and Develop  workflows, certifications, Roles etc.
+
+· Design and Develop Reports.
+
+Environment: Sailpoint IDM, Core JAVA, Connectors like AD, LDAP, Delimiter, JDBC etc.
+Personal Profile:
+Name
+
+
+
+:
+M.Pavani.
+.
+Father’s name
+
+
+:
+M.Gopal.
+Date of birth
+
+
+:
+27-08-1993.
+Nationality
+
+
+:
+Indian.
+
+Marital status
+
+
+:
+Single.
+
+Languages known
+
+:
+English, Telugu, Hindi.
+
+Address
+
+
+:
+#5-12-2-D, Bellary road, 
+Anantapur(Dist), AP – 515004.
+Current CTC                       :         3.8 lpa
+Declaration:
+
+I hereby declare that the information furnished above are true to the best of my knowledge.
+
+Date: 
+Place:Hyderabad                                                                                M.PAVANI

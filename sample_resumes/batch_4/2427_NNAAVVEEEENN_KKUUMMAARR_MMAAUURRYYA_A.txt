@@ -1,0 +1,288 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRADEEP KUMAR
+
+NAVEEN KUMAR MAURYA
+Street No.-8, Village Wazirabad , Delhi-110084
+Mobile: +91-8800114005 E-Mail: naveenmaurya11@gmail.com 
+
+CAREER PRECIS
+
+A dynamic individual, with around 3.2 year of experience in the IT, and in particular Java,J2ee, Swing.
+
+Excellent Java development skills using Core Java,JSP,Struts2 ,Spring,Jquery  Hibernate.
+
+Database implementation skills using My SqL,Oracle,H2 Database.
+
+Excellent Analytical and Programming Skills in Software Designing and Development.
+
+ACADEMICS 
+
+B.TECH in Computer Science & Engineering from  P.  M. College Of Engineering  Sonepat ,Haryana(M.D.U.) % upto 8th  semester 68.65% (2010-2014)
+INTERMEDIATE, from  SBV Delhi , C.B.S.E. Board with 66.6% in 2010.
+
+HIGH SCHOOL, from SBV, Delhi, C.B.S.E. Board with 79.6% in 2008.
+
+SOFTWARE PROFICIENCY
+
+Languages                                            : - Core JAVA.
+
+Java Technologies                                : -Jsp,Struts-2,Spring,Hibernate.            
+
+Internet Technologies                          : - Html, JavaScript,JQuery
+
+Databases                                             : - MySQL, MS-Access , H2 Database. 
+
+Web / Application Servers                    : - Apache Tomcat 7,Jboss.
+
+Operating System                                  : - Windows XP. 
+
+Development Tool                                  : - Eclipse.
+ INDUSTRIAL TRAINING
+
+Delhi Metro Rail Corporation                                                              
+
+ I have completed six week industrial training in D.M.RC  from june to july in 2013 .
+
+ During this training ,i have learn about  Automatic Fare Collection , Telecom in Signalling and Telecom   Department.
+
+ D.R.D.O
+
+I have completed 45 day industrial training from D.R.D.O during training I have developed software of Hindi Search Engine for D.R.D.O.
+
+ CERTIFICATE  COURSE
+
+I have completed core java certificate from IVA computer education
+I have completed advanced java certificate from APTECH
+
+PROFESSIONAL EXPERIENCE
+Employer
+
+                 Act21 Softwares Pvt Ltd.
+Designation
+                 Java Developer 
+
+
+
+Date of Employment 
+                 23rd  March 2016 to till date
+
+Employer
+
+                  Sforzo  It Solution Llp
+Designation
+                 Java Developer 
+
+
+
+Date of Employment 
+                 1st August 2014 to 20th August 2015
+
+Project Name:   NPS(National Pension System)
+       Platform
+
+ :Spring, Hibernate,Jsf
+
+Team Size 
+
+ : 2
+
+Duration                     : 17 month
+Database
+ :            My Sql
+
+       Role
+            :         
+   Coding, Design
+
+Project Brief    :   This application  support online/Offline   corporate  and normal  subscriber registration.  When subscriber registration completed  than subscriber details uploaded to CRA system  after processing  CRA gives PRAN no.  of subscriber .When CRA gives PRAN No. updated  to corresponding subscriber .
+
+When subscriber gives cheque , cash and fund  transfer using payment processing   admin authorized  cash , cheque  and fund transfer   Admin  also can contribution  for corporate and normal subscriber .Admin can see Pending ,Partially filled form.
+
+There are master maintenance  like user details ,City ,States , Country, Bank ,Bank Branch,Charge ,Source  company ,Company ,Company  Branch, Roles ,PFM details.
+
+Non-financial transaction(NFT)  using this touch point Admin can change subscriber details like name ,address ,mobile no etc.Admin can see success and fail online transaction 
+
+There  are reports like subscriber registration  details,MIS etc
+
+Project Name:   SBI CAS System(Client side Nucleus  Software Export  Ltd.)
+       Platform
+
+ :Strust1,Jsp
+
+Team Size 
+
+ : 10
+
+Duration                     : 5 month
+Database
+   :        Oracle
+
+       Role
+            :         
+   Coding,Design
+
+    Project Brief    :   Sbi CAS system  basically captured   basic information of user .This system  calculate loan amount eligibility for  user 
+
+Project Name:   School Management System
+       Platform
+
+ :JSP,Struts2,Jquery,Ajax,Hibernate 
+
+Team Size 
+
+ : 2
+
+Duration                     : 4 month
+Database
+ :            H2 Database    
+
+       Role
+            :         
+  Designing , Coding, 
+
+             Project Brief        :   Using this  web application we can manage  school   related  data online . This web application  have 4 login section  (1) Admin Login  (2) Student Login (3)  Faculty Login (4) Parents Login. Each Login  have number of module explain below:
+Admin Login (Dashboard, Student enrollment, TimeTable, Examination, Finanace , etc)
+Student Login (Dashboard, Assignment, Syllabus, Examination, Question Bank, Fee, etc).
+
+Faculty Login (Dashboard , Time Table Assignment, Leaves, Complaints).
+
+Parents  Login (Dashboard , Class Details , Examination, Payments, etc).
+
+Project Completed: -
+
+Project Name:   Medical Inventory. 
+
+       Platform
+
+ : Java (Swing),My Sql Server 2008
+
+Team Size 
+
+ : 3
+
+Duration
+ :             4 Month
+
+       Role
+            :         
+   Designing , Coding, 
+
+           Project Brief        :     This Software is basically handle sale and purchase of          product for  particular medical store .It also handle account of customer.
+
+     There are some modules used in this Application is:
+ Master (Product, Customer, Supplier, Batch, Employee, etc).
+
+Sale (Sale Invoice, Sale Return).
+
+Purchase (Purchase Invoice, Purchase Return).
+
+Reporting (Customer, Supplier, Employee, Sale , Purchase, Etc)
+Project Completed: -
+
+Project Name:   Cloth Inventory. 
+       Platform
+
+ : Java (Swing) and ORM FrameWork Hibernate  
+
+Team Size 
+
+ : 2
+
+Duration
+ :             4 month
+
+        Role
+            :         
+    Designing , Coding, 
+
+     Project Brief        :     This Software is basically Inventory Clothing Software       for Cloth Retailer and wholesaler. It manages Ledger Accounts, Product Stock   Information etc. There are some modules used in this Application is:
+
+1. Master (Inventory, Godown, SalePoint, Transport, Supplier, Customer, etc).
+2. Sale (Sale Invoice, Sale Edit).
+
+3. Purchase (Purchase Invoice, Delivery, Purchase Edit).
+
+4. Move Stock (Change Product Location, Stock Transfer)
+
+Reporting in more than 15 different ways including accounting.
+                                                         PERSONAL DOSSIER
+Name
+
+
+:          NAVEEN KUMAR MAURYA
+
+Father’s Name
+
+:          DINESH  MAURYA
+
+Date of Birth
+
+:          23  JUL. 1992
+
+Sex
+
+
+:
+Male
+
+Marital Status               :
+Single
+
+Permanent Address
+:
+Street no-8,Village-Wazirabad,Delhi-110084.
+
+Hobbies
+
+
+:          Cricket, Listening to music. 
+
+Strength
+
+:          Curiosity, Confidence & Responsibility.
+
+Languages known
+:
+English , Hindi.

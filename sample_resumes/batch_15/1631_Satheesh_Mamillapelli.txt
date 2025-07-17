@@ -1,0 +1,233 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+Satheesh Mamillapelli
+Email: satheesh.mamillapelli@gmail.com
+Phone: +91 9966703979
+Objective:
+I want be a family member of an organization where I can get encouragement for new ideas. I always believe that first understand the existing technology then automatically will get new ideas.
+Technical Summary:
+· Around 3 years of Back End Development & UI Development in Software industry
+· Experienced on below mentioned technologies.
+· C#,Asp.Net, MVC, Entity framework, Ajax
+· Angular JS , HTML5, CSS3, JavaScript, JQuery
+· SQL, JSON, XML,ADO.Net, SQLite, MySQL
+· Worked with Biometric devices to integrate with existing software.
+· Developing Web applications.
+· Creating DB Schema, Stored Procedures, Views and Functions in SQL SERVER.
+· End to end engineering – Design, Development, Testing, Deployment and operations
+· Roles played: Mentor, Technical helper, Team member, Team Lead.
+· Proposed solutions, defined technical issues for management.
+· Resolved defects/bugs during testing, pre-production, production & post-release patches
+· Responsive design for versatile platforms
+· JSON for Data interchange structure  
+· Fixed bugs in server side & added functionality to existing solutions
+· Code Repositories: TFS 
+· IDE used are Visual Studio, Brackets, Sql Server Management Studio
+· Coordinated with clients to gather their requirements and designed software according to that.
+· Familiar with generating RDLC reports.
+
+Employment History:
+· Working as Software Engineer at Perennial Code IT Consultants Pvt Ltd since Feb. 2016.
+Education:
+· B.Sc. Computer Science
+
+
+Professional Experience:
+Project: Roll Call Attendance
+	Role: Team Member
+	Technologies: Asp.Net, SQL Server 2012, HTML5, Bootstrap, CSS3.
+	Tools: Microsoft report viewer and RDLC Reports.
+	Code Repo:  Team Foundation Server (TFS)
+	Description:
+Roll Call Attendance is attendance management system for all kinds of platforms. Attendance will be collected from biometric attendance devices. Roll Call Attendance has leave management, holidays, shift management and over time management.
+	Job Profile:
+· Database designing
+· Designed screens
+· Developed reports based on clients requirements.
+Project: My Roll Call Mobile App
+	Role: Team Member
+	Technologies: Dart, Flutter framework, Restful Services, SQL Server 2014.
+	Tools: Entity frame work, Microsoft report viewer and RDLC Reports.
+	Code Repo: Team Foundation Server (TFS)
+	Description:
+My Roll Call app is a tool for individual employee working in any organization. Employee can punch attendance using app without the need of biometric devices. Employee can see his location, Profile, Attendance report and Leaves summary.
+	Job Profile:
+· Developed required Restful services for data transfer.
+Project: Library Management
+	Role: Team Member
+	Technologies: Angular JS, Entity Framework, SQL Server 2014, HTML5, Bootstrap, CSS3
+	Tools: AdminBSB template.
+	Code Repo: Team Foundation Server (TFS)
+	Description:
+Library Management is a web application to maintain all the books and students information in an education institute. Issue books to student or employee. Calculates fine according the institute rules while returning books.
+	Job Profile:
+· Designed database
+· Developed entity model using database first approach.
+· Developed Screens to manage books and students in asp.net.
+· Integrated screens with entity framework to add functionality.
+Project: Campus Management
+	Role: Team Member
+	Technologies: Asp.net, Entity framework, SQL Server 2014, HTML5, Bootstrap, CSS3.
+	Tools: AdminBSB Template, RDLC Reports.
+	Code Repo: Team Foundation Server (TFS)
+	Description:
+		Modules: Registration, Fee Collection, Exams and Reports.
+Campus Management is a web application for managing student information and fee commitment throughout the course. It is very useful to manage student fees, generate certificates like conduct and Transfer certificates. 
+	Job Profile:
+· Designed database
+· Developed entity model using database first approach.
+· Developed Screens in ASP
+· Integrated screens with entity framework to add functionality.
+Project: CnDezine
+	Role: Team Lead
+	Technologies: Asp.net, Entity framework, SQL Server 2014, HTML5, CSS3, JavaScript.
+	Tools: AdminBSB Template, RDLC Reports.
+	Code Repo: Team Foundation Server (TFS).
+	Description:
+CnDezine is a Boutique management web application developed for Cndezine Studio. This application is developed to manage all the process of an order. This software will take care of following New Order, Assign the order to an employee, Issue fabric for the order, Embroidery details, Dyeing details and Current Status of the Order.
+	Job Profile:
+· Developed entity model using database first approach.
+· Developed Screens in ASP
+· Integrated screens with entity framework to add functionality.
+Project: Payroll
+	Role: Team Lead
+	Technologies: Asp.net, Entity framework, SQL Server 2014, HTML5, CSS3, JavaScript.
+	Tools: METRONIC Template, RDLC Reports.
+	 Code Repo: Team Foundation Server (TFS).
+	Description:
+	Payroll processing
+	 Automatic salary slip generation, Salary instruction report for Banks, Configurable deduction and 	allowance heads including loans, advances, incentives etc.  Flexible payment rules, Leave register 	maintenance, Adjustments and arrears
+	Job Profile:
+· Developed entity model using database first approach.
+· Developed Screens in ASP
+· Integrated screens with entity framework to add functionality.
+Project: CRM
+	Role: Team Lead
+	Technologies: Asp.net, Entity framework, SQL Server 2014, HTML5, CSS3, JavaScript.
+	Tools: METRONIC Template, RDLC Reports.
+	 Code Repo: Team Foundation Server (TFS).
+	Description:
+	This application is developed to manage you complete information about the entire customer life-cycle 	from lead through to opportunity, sales order, fulfillment, renewal, cross-sell and support. This CRM 	software helps to enhance the business workflow, automates process flow across the department. and 	report generations.
+	Job Profile:
+· Developed entity model using database first approach.
+· Developed Screens in ASP 
+· Integrated screens with entity framework to add functionality.
+Project: Fleet Management
+	Role: Team Lead
+	Technologies: Asp.net, MVC, Entity framework, SQL Server 2014, HTML5, CSS3, JavaScript.
+	Tools: METRONIC Template, RDLC Reports.
+	 Code Repo: Team Foundation Server (TFS).
+	Description:
+	This application is developed to manage Vehicle services, Expenses, and  Report generation.
+	Job Profile:
+· Developed entity model using database first approach.
+· Developed Screens in ASP 
+· Integrated screens with entity framework to add functionality.
+
+
+Project: Order Management System -Admin, Store and POS	
+· Canteen Management System	
+· Restaurant Management System 
+· Club Management System 
+· Laundry Management System and etc...		
+Role: Developer (backend & UI) & Team Lead
+Technologies: ASP.NET, C#, ADO.NET, SQL Server 2012, VS-2013
+Description: -This Desktop application is specially design to Canteens, Restaurants, Clubs and Laundries etc. where user need to Design Admin: Products, Services, Customers, Users, Security, Accounts, Inventory, Reports etc... Store: Request Stock, Received Stock, Issue Stock, Product Output, Menu etc... POS: Table Order Billing, Canteen Order Billing, Laundry Service Billing, Package Billing all billing screens are GST included and Touch Enabled..
+Job Profile:
+· Involved in Requirement gathering and design document.
+· Metro frame work ( Controls )
+· Developed Desktop application using C# as the code-behind language and SQL SERVER.
+· Used ADO.NET objects such as Data Adapter, Data Reader, Dataset and Data List for reading/updating records in the database.
+· Involved in creation of stored procedures in MS SQL Server 2012.
+Unit testing module level
+
+Project: Sales and Inventory Management System (SIMS)
+	Below the flavors of SIMS each Billing Screen Developed apart from Admin 
+	(Retails	, Auto parts, Jewellery, Traders, Electricals, Fertilizers, Footwear, Garments and etc.  ...) 
+	
+	Modules: 
+· GST BILLING, HOLD, ESTIMATION, IGST, PRICE EDIT, RETURNS ORDER SERVICE,
+· EXCHANGE, ORDER EDIT, SHIPPING ADDRESS 
+· GST BILLING WITH MULTIPLE CATEGORIES
+· PRODUCT CODE, SIZE, COLOR, Readymade, Wholesale 
+Role: Developer (backend & UI) & Team Lead
+Technologies: C#, ADO.NET, SQL Server 2012, VS-2013
+Description: -This Desktop application is specially design to use in super markets, auto mobiles etc. where a user need to save information about products, Customers, Inventory and services. User can place order (GST Billing) and can generate receipts. It will send the confirmation message to customer. Can generate Estimate and Cancel also. It will show all the reports about sales, stock, customer’s order history, products, services and GST Reports etc.
+Job Profile:
+· Involved in Requirement gathering and design document.
+· Developed Desktop application using C# as the code-behind language and SQL SERVER.
+· Used ADO.NET objects such as Data Adapter, Data Reader, Dataset and Data List for reading/updating records in the database.
+· Involved in creation of stored procedures in MS SQL Server 2012.
+Unit testing module level
+
+
+Project: Hotel Management System (LODGE MANAGEMENT) (Admin Application and Front Desk)
+Role: Developer (backend & UI) & Team Lead
+Technologies: C#, ADO.NET, SQL Server 2012, VS-2013
+Admin Description: -This Desktop application is specially design to Hotel, Lodges etc Admin settings, Rooms, Services, Users, Security, Accounts, Stock, Alerts, Room History, Room Complaints and etc ..
+Front Desk Description: -This Desktop application is specially design to Hotel, Lodges etc where a user need to, ADD/Search the details of Customer Check-In Details of Customer, Customer Booking Details, Rooms Availability Information(Free/Occupied/Not Cleaned), Room Services, Restaurant Orders(Food and etc..), Change Room, Check-Out Details, GST Invoice and Reports etc. ..
+Job Profile:
+· Involved in Requirement gathering and design document.
+· Metro frame work ( Controls )
+· Developed Desktop application using C# as the code-behind language and SQL SERVER.
+· Used ADO.NET objects such as Data Adapter, Data Reader, Dataset and Data List for reading/updating records in the database.
+· Involved in creation of stored procedures in MS SQL Server 2012.
+Unit testing module level
+
+
+Declaration:
+	I hereby declare that the above information is correct and true to the best of my knowledge and belief.
+
+
+
+Place: Hyderabad
+Date: 24-Dec-2018									Satheesh M
+

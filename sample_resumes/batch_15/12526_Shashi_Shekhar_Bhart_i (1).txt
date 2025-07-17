@@ -1,0 +1,224 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VITAE
+
+Shashi Shekhar Bharti 
+Email: ss.bharti394@gmail.com
+Mob No: +91 9762841882, 8797648445                 
+Address: Room No. 250, Panchshil Nagar L.M. Road Shivaji Nagar, 
+                Borivali (West),Mumbai-400 103
+			 
+Career Objective
+Seeking a challenging software developer position Where I Can Utilize My best Skills and Education.
+
+Work Experience
+
+	Sr 
+	Company Name 
+	From
+	To 
+
+	1
+	Virtual Splat Software Pvt. Ltd.
+
+	 Dec-2014
+	May-2017
+
+	2
+	Saksoft Ltd 
+
+Client Name: RBL Bank
+
+	 May-2017
+	Till now 
+
+
+
+Work/Technologies Used:
+MS SQL Server 2008 R2, SQL Server 2012, SQL Server 2014, Visual Studio, SSIS ,                  SQL Profiler, Pentaho, Squirrel, Linux shell script.
+
+Databases Used:
+MSSQL SERVER , ORACLE ,INGRESS VECTORWISE.
+
+Web Development Tools
+ HTML, CSS, Java Script and AJAX.
+
+ Responsibilities and Environment
+
+Designation: DATABASE AND ETL DEVELOPER (Consultant).  
+
+Key Responsibilities:
+
+· Excellent experience in creating complex queries Stored Procedures, View, CTE , Triggers, Joins, Functions, Query Optimization and other database objects.
+· Designed and Maintain SSIS packages to extract data from different sources like Database, MS Excel, Flat Files, transform and then load into Data Warehouse using SSIS
+· Report Development using Pentaho tools which generate simple as well as Templates Report.
+· Understand the Requirement from end user and implements logic  accordingly for SQL, report and ETL Development. 
+· Schedule  SQL Jobs Using SQL Server Agent Job.	
+· Create Database Objects like Tables, Views, Indexes and Cursor.
+· Developed and Optimized Stored Procedures, Functions and Query Optimization.
+· Work on Fine tuning and Query Optimization.
+· Migrated data from Oracle database to Ingress Vectowise Database Using Pentaho ETL Tool.
+· Modified and maintained SQL Server stored procedures, views, ad-hoc queries
+· Performed Database task like Database Backup and Restore and assign role to the user.
+· Handle Ad-hoc basis reports.
+Major Projects:
+	1.
+
+	Project Title
+	Loan Tracker MIS Report
+
+	Description
+	This is a Loan management Process Tracker project. In this project we have created Database logic and ETL to user upload multiple excel file form different sources, After upload files data store into data warehouse and on the basis of data many type of calculations done on database  level and after that BC wise output get generated and finally by that output they can track the application status. 
+
+
+	2.
+
+	Project Title
+	Audit MIS Reporting
+
+	Description
+	This is a project for audit team. In this project total Hundred type of audit report get generate for bank level as well Bank Customers level.in this project we have used pentaho tools and vetorwise/oracle Database to fetch data from two or three different database server. by those reports audit team can identify the transaction history, demographical data, branch level data etc. 
+
+
+	3.
+
+	Project Title
+	ETL Development, Reports Development and ad-hoc
+
+	Description
+	I have Created more than 5+ ETL which extract data from multiple source system and push the data into data warehouse using SSIS and pentaho data integration tools. ETL are deployed on server and schedule to run as frequency define. Ie: daily, weekly, monthly and yearly.
+
+I have automated more than 45+ Reports which run on different types of frequency ie. daily, weekly, monthly and yearly. These reports goes to bank stakeholders and business analysis purpose. We have also worked on ad-hoc request 
+
+
+
+
+
+
+
+
+
+Educational Qualification
+  
+	Examination
+	Year of Passing
+	University / Institution
+	Percentage 
+
+	B.C.A
+	2014
+	Magadh University (Bodh-Gaya)
+	73.1
+
+	H.S.C
+	2011
+	B.S.E.B (PATNA)
+	63.0
+
+	S.S.C
+	2009
+	B.S.E.B (PATNA)
+	43.6
+
+
+
+Academic Project:
+Project on Library Management System as a part of Final Year Curriculum using Visual Basic 6.0 and SQL Server.
+
+Skill:
+Programming Tools
+* Microsoft SQL Server (2012/2008R2)
+		* SSIS Data integration 
+             * Pentaho Data integration tools 4.4/5.0 (ETL tools)
+* Linux scripting
+* ASP.NET 
+* PHP 
+* Visual Basic 6.0
+* Programming in “C”  
+* Programming in “C++”
+* Programming in Core Java.
+* HTML, CSS, and Java Script.
+
+Persional Detalis:
+
+	Full Name:
+	Shashi Shekhar Bharti
+
+	Fathers Name
+	Vijay Bharti
+
+	Mothers Name
+	Tilotma Devi
+
+	Date of Birth
+	10-Mar-1994
+
+	Gender
+	Male
+
+	Marital Status
+	Un-Married
+
+	Religion
+	Hindu
+
+	Languages
+	English, Hindi
+
+
+
+Declaration
+I hereby declare that the information provided here is true to the best of my knowledge.
+
+
+Place: Mumbai							
+Date: 05-Dec-2018					                              Shashi Bharti
+
+Page 3 of 3
+

@@ -1,0 +1,287 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name: Asha Rao K S 
+
+
+
+
+
+Email:  asharao.ks@gmail.com  
+
+Mobile: +91-7022277966
+PROFESSIONAL SUMMARY
+
+· Having 3 years of total experience in which 2 years as SAP-FI Functional Consultant and 1 year as Functional Tester of SAP FI & SAP SD.
+· Good understanding of SAP FI Accounts Payable / SAP FI Accounts Receivable / SAP FI GL Postings / SAP FI Asset Accounting / FI-CO Related master data and FI Interfaces.
+
+· Exposure to all stages of Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC) on globally accepted Agile (Scrum) methodology.
+· Quick learner and excellent team player having ability to work methodically in a fast paced, deadline driven environment and excellent problem solving and good communication skills. 
+TECHNICAL EXPERTISE AND EXPOSURE
+
+	Languages
+	SAP ABAP, Java, Java Script, HTML,CSS,XML, PHP
+
+	Defect management Tools
+	HP ALM version 12.53
+
+	Version Control Tools
+	SVN
+
+	Application Tools
+	SAP ECC 7.3, SAP FICO & SD (Testing) , SAP CBTA, ALM 12.53, SOAP UI, Eclipse
+
+	
+	
+
+	
+	
+
+
+EMPLOYMENT SUMMARY
+· Tech Mahindra Ltd, Bangalore, India – Software Engineer from Dec 2014 –till date
+PROJECTS HANDLED
+1. KMD (Travel Management) – Denmark
+
+
+
+
+        Jan 2017 - Till Date     
+Project
+
+:
+OPUS Travel Management.
+Client
+
+:
+KMD, Denmark.
+
+Duration
+:
+Jan 2017 to till date
+Tools used
+:
+SAP, HP ALM version 12.53
+
+Modules
+:
+SAP-FICO, SAP HR, SAP UI5
+
+Role
+
+:
+SAP FI Functional Consultant
+
+Description
+KMD is one of the major IT and consultancy services provider to public (Communes) and private sector companies in Denmark. KMD Opus is KMD's ERP system for the municipal market. With KMD's solid understanding of public business and the SAP technology platform, KMD Opus is designed to best support the many tasks and processes in the municipal sector. We provide financial accounting and reporting Solution to Danish Communes. This is an integrated SAP solution spanning across SAP-FICO, SAP-SD, SAP-PS modules. This project includes Travel Expense as backend and UI5 Desktop App as front end. This is developed for the Denmark Municipality employees to book their travel expenses.
+
+Responsibilities
+
+· Get the requirements and prepare SUCs based on that.
+
+· Co-ordinate with different teams (ABAP / .NET / UI5 App) for the designing and completion of development. 
+· Configurations required for the TRIP in SAP and mapping required for Web services with UI5.
+· Designing test plans, test data for system testing & coordinating with test team for completion.
+· Reporting the defect and participating in defect resolutions meetings with business specialist
+· Conduct handback session for the completion of the project
+· Support cutover/ GOLIVE activities / further defect or changes in the application.
+
+2.  KMD (Kvantum) - Denmark
+
+
+
+
+
+July 2016 – Dec 2016
+Project
+
+:
+Integration of Opus Økonomi and Opus KK
+Client
+
+:
+KMD, Denmark
+
+Duration
+:
+July 2016 – December 2016
+
+Tools used
+:
+SAP, HP ALM version 12.53
+
+Modules
+:
+SAP-FICO, SAP PI
+Role
+
+:
+SAP FI Functional Consultant
+Description
+ The project scope is to interface the Opus KK (SAP system) to Opus Økonomi system for the master data transfer through ALE-IDOC which is needed for the payroll run.
+           
+Responsibilities
+
+· Get the requirements and prepare SUCs based on that.
+
+· Co-ordinate with different teams (ABAP /PI) for the designing and completion of development. 
+· Configurations required for the ALE- IDOC in SAP for CC/ PC/FC/Project.
+
+· Designing test plans, test data for system testing and coordinating with the test team for its completion
+· Reporting the defect and participating in defect resolutions meetings with business specialist
+· Conduct handback session for the completion of the project
+
+· Support cutover / GOLIVE activities / further defect or changes in the application.
+
+3. KMD (Opus Økonomi) - Denmark
+
+
+
+
+Nov 2015 – June 2016
+
+Project
+
+:
+MS Support of Opus Økonomi 
+Client
+
+:
+KMD, Denmark
+
+Duration
+:
+November 2015 – June 2016
+Tools used
+:
+SAP, HP ALM version 12.53
+
+Module
+
+:
+SAP-FICO
+Role
+
+:
+SAP FI Functional Consultant
+Description
+The project scope is to support the SAP Økonomi system for its maintenance and development activities. This is an integrated SAP solution spanning across SAP-FICO, SAP-SD, SAP-PS modules.
+           
+Responsibilities
+· Participating in con-call with clients for issues pertaining to tickets.
+· Analyze and debug issues to root cause and document proposed solution
+· Accept / Response / Analyze and solve support Tickets 
+· Provide route cause analysis for recurring incidents 
+· Track progress of the support tickets and update end users proactively 
+· Maintain a library of all documentation relating to the execution of allocated tasks 
+· Participate in review / status meetings / quality audits and reviews. 
+· Maintain and communicate weekly status reports.  
+
+4. KMD (Opus Økonomi) - Denmark
+
+
+
+Dec 2014 – October 2015
+Project
+
+:
+MS Support of Opus Økonomi 
+Modules
+:
+FI-CO / SD / PS
+Client
+
+:
+KMD, Denmark
+
+Duration
+:
+December 2014 – October 2015
+Tools used
+:
+SAP, HP ALM version 12.53
+
+Technology
+:
+SAP-FICO, SAP SD, SAP PS, SAP HR and SAP Enterprise Portal
+
+Role
+
+:
+Test Engineer
+
+Description
+The project scope is to support the SAP Økonomi system for its maintenance and development activities. This is an integrated SAP solution spanning across SAP-FICO, SAP-SD, SAP-PS modules 
+Responsibilities
+· Closely worked with end users and development team to understand the process
+
+· Involved in the development and implementation of a complete testing life cycle for different components in SAP
+
+· Tested various areas of FICO like Company Code, General Ledger, Accounts Payable, Accounts Receivable, Cost Center, Profit Center, Internal order
+
+· Designing test scenarios and test cases, integration test cases
+· Designing test plans and strategies, test data for system testing 
+
+· Performed Functionality testing, Regression testing and GUI testing.
+
+· Reporting the defect through defect tracking tool (HP ALM) and analyzing the defects.
+· Preparation of the automation test scripts, execution and results analysis using CBTA
+
+SCHOLASTICS
+
+· Bachelors of Engineering in Information Science & Engineering from APS College of Engineering, Bangalore in 2014.
+
+· Pre-University from Vijaya PU College, Bangalore, India in 2010.
+· ICSE Class 10 from APS Public School, Bangalore, India in 2008.
+PROFESSIONAL ACHIEVEMENTS
+· “Pat on the Back” award for showing excellence in testing Kvantum project which is running successfully with zero defects post release in production.
+
+· Best Team Award – For showing the indomitable Team Spirit and Excelling as a Team. 
+
+

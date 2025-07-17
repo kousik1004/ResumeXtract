@@ -1,0 +1,194 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+
+R E S U M E
+
+SUDHIR D. CHASKAR
+Mobile: +91-9970 898 595 / 9561 006656                       E-Mail: sudhirchaskar7@gmail.com
+
+PROFILE SUMMARY:
+
+· IT professional with 2 years of Industrial experience in Mainframe Technology.
+· Worked with Fiserv India, Pune as a Software Engineer on Mainframe Technology.
+· Knowledge of end-to-end development of software product.
+· Well versed with CA7, Production control, IPL, Job scheduling, Console Monitoring.
+· Strong Communication & interpersonal skills.
+
+EDUCATIONAL QUALIFICATIONS:
+       I have completed my Bachelor’s of Engineering in Computer Engineering from University of Pune with First Class.
+
+	Degree
+	University/Name of the Institution
+	Year of Passing
+	Percentage Obtained
+
+	BE
+	University of Pune
+	2014
+	60.80
+
+	HSC
+	Maharashtra Board
+	2009
+	60.83
+
+	SSC
+	Maharashtra Board
+	2007
+	75.23
+
+
+
+TECHNICAL SKILLS:
+· Operating Systems	: OS/390, Z/OS
+· Languages		: JCL,COBOL
+· Access Methods	: VSAM, Non-VSAM
+· OLTP			: CICS
+· RDBMS		: DB2.
+
+WORK EXPERIENCE (2 Years):
+
+	Organization 
+	Duration
+
+	Fiserv India, Pune
+	1st Aug 2016 – Present 
+
+
+
+
+Project – Production Support, Monitoring and Scheduling.
+Tools – Mainframe - CA7, Service Now and xMatters. 
+
+Roles and Responsibilities
+·    Managing and providing technical guidance/support to team.
+· Preparing test result and other related documents.
+· Troubleshoot failed jobs on CA7
+· Complete and accurate issue tracking along with reporting.
+· Well versed with Production Control Operations, Scheduling Processes and Console monitoring.
+· Working on production abends and resolving issues.
+· Monitoring batches on 12 different LPARs of three different data centers and resolving the abends by taking particular action on jobs to go ahead with the batch.
+· Running and scheduling batches, adding dependencies to them, putting hold on them using CA-7. 
+· Troubleshoot Late running jobs on CA7
+· Restarting failed batches, force completing or cancelling them as well.
+· Editing JCL and making required changes, fetching and replacing JCL.
+· NDM’ing files from one LPAR to another.
+· Checking for GDGs to be in Sync.
+· Performing miscellaneous setup actions such as catalog/uncatalog/rename/delete /copy Datasets.
+· Supporting IPL on weekly basis. Performing HMC action for IPL.
+· Resolving Service Now tickets within SLA breaching.
+PROJECT DURING TRAINING: 
+PROJECT 1
+Module	        : Employee Details & Payroll Management		 
+Software	        : JCL, VSAM and COBOL
+Organization	        : Maples ESM Technology, Pune
+Role                        : Developer and Designer
+Description:  
+This project aims in maintaining and managing details of all employees as well as their payroll. In this project we had used VSAM as database to store the details and COBOL as programming language on mainframe platform. The system generates the report and can modify the records depending upon requirement.
+
+PROJECT 2
+Module	       : Online Banking Transaction	
+Environment	       : IBM Mainframe	 
+Software                : JCL, VSAM, COBOL, DB2, CICS
+Role                        : Developer and Designer
+
+Description:  
+· Customer  deposited balance
+· Customer  withdrawal balance
+· Transaction details
+Bank Staff Operation:
+ 	If the login is permitted then the Staff can able to insert, update and also delete
+the personal details about the customer as a part of creation of an account. Some
+important validation can be done during the creation of an account.
+
+Customer Operation:
+	In the customer operation each and every customer will be having a Unique 
+Account number and Pin number to access his account. If the credentials are validated 
+the customer can access his account such as withdrawing money, checking balance 
+and so on.
+
+EXTRA-CURRICULAR ACTIVITIES
+
+	· Awarded runner-up in inter-college project competition in NMIET Talegaon.
+· Participated in College Level paper presentation held in NMIET Talegaon.
+· Participated in several Quiz competitions in college.
+· Organized Blood Donation camp & donated blood in blood donation camp in college.
+
+
+
+
+PERSONAL INFORMATION:-
+
+Name 				: Sudhir Dattatraya Chaskar
+Father’s Name 			: Dattatraya Laxman Chaskar
+Date of Birth               		: 10th April 1991	
+Nationality                  		: Indian.
+Marital Status                          : Single.
+Languages Known     		: English, Hindi, Marathi,	
+Hobbies                     			: Ridding, Reading, Swimming, Watching movies.	 
+Mobile Number         		: +91-9970898595/+91-9561006656
+Address        			: Flat No. 12, 3rd Floor, Tejashree Park Housing Society,
+   Erandewana Gaonthan, Pune-411004
+ Personal Traits                       	: Leadership, Hardworking, Problem solving ability.
+
+
+
+
+I do hereby declare that the above-furnished details are true and correct to the best of my knowledge.
+
+
+
+
+Date:     __/___/2016  		 					  Your’s Faithfully
+Place:				           			               [Sudhir Dattatraya Chaskar]                              
+
+

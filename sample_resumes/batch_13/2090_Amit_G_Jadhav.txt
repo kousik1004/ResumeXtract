@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+
+
+RESUME
+
+Amit G. Jadhav
+Email ID:     amitrait.jadhav@gmail.com
+DOB:           24th August 1989
+Mobile No: 7208705191 / 8898432050
+C/o:             9221035037 
+Experience Summary:
+· Experience in several projects during 2.5+ years of career in I.T. services 
+· Encompassing all phases of Analysis, Design and Development of Web page & database management as per the client or business requirement
+· Digital site maintenance experience in technologies like HTML, CSS, JavaScript and CMS tools like Wordpress, Microsoft Office Sharepoint Server
+· Database query experience in SQL, PL-SQL, TOAD, SQL Developer, SQL*Plus, Stored Procedures, Triggers, ETL, DB audit, batch job processing
+· Experience in production support, development and administration of databases Good understanding of Software Development Life Cycle
+
+· Bifurcating the client provided data in excel sheet and importing it to database tool, similarly implementing the PL-SQL queries in TOAD tool to validate the required data
+· Assisting manager for making Quarterly Business Report in Microsoft Power Point to showcase the process activities and value added services/ideas
+
+· Attending weekly client calls to represent the process challenges & project details to client and perform a roadmap to implement new checkpoints
+· Updating the Standard Operating Procedure(SOP), Click Level Process Map(CLPM) of the process in Microsoft Word & Visio and presenting the same to higher management
+· Good team coordinating capability and sound knowledge of FMEA (Failure Mode Effect Analysis)
+
+· Team player, excellent analytical, communication and inter-personal skills
+· Ability to adapt quickly to new technologies and can work independently with minimum supervision
+Employment History: (2.5+ Year)
+· Reliance Communications, Koparkhairne (DAKC), Navi Mumbai (Feb 2017 – Present) Working as Developer on projects involving skills such as SQL, PL-SQL. Validating database records using PL-SQL programming language.                                                                                           
+· ECLERX SERVICES Pvt. Ltd., Airoli, Navi Mumbai (May 2014 – Feb 2017) Working as Developer on projects involving skills such as HTML, CSS, JavaScript, SQL, PL-SQL. Validating database records using PL-SQL programming language.                                                                                           
+Education:
+	Year
+	Degree
+	Name of the University/Institution
+	Percentage
+
+	2013
+	B.E.(Information Technology)
+	University of Mumbai
+	 61.47%
+
+	2007
+	H.S.C
+	Maharashtra Board
+	      62.83%
+
+	2005
+	S.S.C.
+	Maharashtra Board
+	 74.40%
+
+
+Technical Skills:
+	Technology
+	HTML5, CSS3, Wordpress, AEM
+
+	Programming Language
+	JSP, PL-SQL, SQL
+
+	Scripting Language
+	JQuery, JavaScript, XML, Shell Scripting
+
+	Microsoft Tools
+	Word, Power Point, Excel, Visio
+
+	Databases
+	SQL Server-2008/2012, Oracle 10g/11g, MySQL, SSIS, SSRS
+
+	Operating System
+	Windows XP/2007/2010, Linux, Unix
+
+	Application/Tools
+	MOSS CMS, SQL Developer, SQL*Plus, TOAD, Remedy, Putty
+
+
+Project I
+Title
+
+
+:  Site Maintenance Data Audit 
+Environment
+
+:  Oracle 11g, SQL, PL-SQL
+Description: The objective of the project is to provide the client with revalidated data that generates 4 reports; which will either be used by regional stakeholders or business. These reports are region wise like Asia, Europe, Latin America, US. The report is to give clear description of the site hits, user count, page count, type of web page, owner name, country and language.
+.    Project Role:  Data support with the following responsibilities
+
+· Design the database tables as per the client requirements and URL parameters to update in database using SQL queries
+· Importing the data from excel to database and perform ETL operation on the preloaded data 
+
+· Segregate the data as per the business need and exporting to excel format
+· Coordinating with clients to receive assets and deliver the project within SLA
+
+· Adding page migration details using SQL queries
+
+Project II
+Title
+
+
+:  New Product Launch System 
+Environment
+
+:  Oracle 11g, SQL, PL-SQL
+Description: Project is to give classification of all the newly launched products on the client’s website globally. It is responsible to generate the reports of products region specific. Client can use the data for future business decisions. This data consists of details of old and new products based on which client can do merchandising better.
+
+.    Project Role:  Data Support with the following responsibilities
+
+· Create Base requirement for the project and updating the Stored procedures
+· Creating database tables for language, country, region, segment codes of the webpage using DDL, DML commands
+· Updating the database table with all the project details and communicating the same to business. Interacting with team members for page setup
+
+· Following all the quality checkpoints to deliver the project
+
+· Meeting client requirement and deadlines
+
+Project III
+Title
+
+
+:  Partner Advantage Campaign for Latin America
+Environment
+
+:  Oracle 11g, SQL, PL-SQL
+Description: Working on Partner Advantage Promotional Campaign for Latin America region includes development of new database objects for client. It consists digital merchandising of 50+ products on series and product detail pages. Adding the details of the products and specification into the database includes id, name, region, country code, language code and segment using DDL, DML commands. 
+.    Project Role:  Data support with the following responsibilities
+
+· Design the database tables for all the client requirements and URL parameters to update in database using SQL queries
+· Interact with the developers in resolving the development issues related to the website
+· Coordinating with multiple teams incase of dependency in project management and critical tasks
+· Coordinating with clients to receive assets and deliver the project within SLA
+· Brainstorming with the team members and implementing FMEA protocol to improve the quality in execution
+
+Personal Information:
+Address
+          
+ : 303, Hemlata CHS, Hall road,
+  Halavpool, Kurla(w), Mumbai-70,
+   Maharashtra.
+
+Mobile No.              : 07208705191/8898432050
+C/o No.                   : 09221035037
+E-mail              
+ : amitrait.jadhav@gmail.com
+Date of Birth   
+ : 24th August 1989 
+
+Gender                  
+ : Male
+
+Nationality       
+ : Indian     
+Declaration: The information furnished above is correct and true to the best of my knowledge.
+Yours Faithfully,
+
+Amit Jadhav
+
+Page 1 of 3
+Page 3 of 3
+

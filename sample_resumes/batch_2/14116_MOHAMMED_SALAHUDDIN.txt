@@ -1,0 +1,188 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOHAMMED SALAHUDDIN		         E-mail : basis.salahuddin@gmail.com
+SAP BASIS Consultant          		         Mobile : +91 7032713208
+
+
+CAREER OBJECTIVE:
+                                          Having around 4 years of IT experience in SAP BASIS Administration. Involved in implementation and support and maintenance of SAP systems with good track record of company and customer satisfaction. Looking towards an opportunity that would enhance my professional knowledge and help me build up my career at the heights of its best.
+Key Skills : 
+
+· Monitoring of HANA System, SLT and analyzing the Hana out of memory dumps
+· Data Provisioning from SLT.
+· Performed Hana Backups.
+· Export and import the transports from Life Cycle Management. 
+· Monitoring of HANA services and restarting the services when required.
+· Performed table partitions.
+· Users Creation in HANA and assigning analytic privileges and package Privileges roles to the users based on the requirement  , 
+· Knowledge of HANA SPS Upgrade from SPS9 and SPS10.
+· Template Creation and maintenance in SLT.
+· Solution Manager: Configured EWA in Solution Manager for satellite systems.
+· Installation, Post Installation activities of SAP ECC 6.0, EHP4 ERP 6.0, EHP5 ERP 6.0 , EHP6, and Solution Manager 7.2.
+· Job Management through BPA (Business Process Automation / Redwood).
+· Background jobs:  Scheduling and monitoring of jobs at SAP level.
+· Experienced in client creation and client copy using  Remote client copy, client Export / import method 
+· Hands on experience on System Preparation , Infrastructure Preparation ,Basic Configuration and Managed system Configuration for SolMan7.2
+· Working Experience on Early Watch Alerts configuration and Hands on experience on EWA.
+· Configuration of Tech Mon.
+· Experience on SMD agent installation, start and stop of Agents and Monitoring of SMD Agents and Monitoring Wily Inters cope.
+· Worked on Technical Monitoring Issues like false alerts, changing the threshold values and re-configuring Technical monitoring for required systems.
+· Hands on experience on urgent corrections (change), Normal Corrections (change), Admin changes and Defect corrections in ChaRM.
+· Experience  in SAP Notes, Kernel Upgrades and installing Enhancement Packages
+· Transport Management System: Complete setup of Transport System through STMS.
+· Language installation through SMLT.
+· Spool Administration:  Maintaining spool requests and printer configurations.
+· Database Administration: Table space Management using BRTOOLS, Backups and restore.                            
+· System Monitoring:  Maintaining SAP instances, work processes, background jobs and lock entries.
+· System Copy/Refresh: Performing system refresh activities.
+·  Interaction with users and providing technical support.
+· Strong communication, interpersonal and judging skills that facilitate effective communication with other functional and technical teams in implementing a robust organizational security policy.
+· Good Team player with strong trouble shooting skills.
+
+
+
+ACADEMIC QUALIFICATION:
+
+· Masters of Computer Applications (MCA) from Osmania University Hyderabad.
+· Bachelor of Science (B.Sc. Computers) from Osmania University Hyderabad.
+
+
+PROFESSIONAL EXPERIENCE:
+
+· Working as SAP Basis Consultant for IBM INDIA PVT LTD from November 2014 to till Date.
+
+PROJECT   :
+            
+Client			: 	Heineken 
+Environment		:	SAP R/3 ECC 6.0, BI, SOLMAN 7.2, CRM. SRM. 
+                                                     Redwood(BPA)                                                              
+Data Base		:	Oracle 12C
+Role			:	Sap Basis Consultant
+Duration	             :             November 2014 to till date.
+
+
+DESCRIPTION:
+              Heineken International is a Dutch brewing company, founded in 1864 .Heineken owns over 190   breweries in more than 70 countries and employs approximately 85,000 people. Besides Heineken Lager Beer, it brews and sells more than 170 other international premium, regional, local and specialty beers.
+
+
+
+
+
+
+Responsibilities:
+· Involved in the Daily monitoring of the SAP system landscape -ABAP dumps, System logs, System Locks, Updates,  Monitoring  Batch  jobs, Scheduling Batch jobs ,  Work processes, Spool data, RSDBTIME, Event logs  and Check the Table space errors.
+· Applied Standard license using SLICENSE, Maintenance license during upgrade.
+· Performed Client Administration activities such as Creating Clients, Client copy (Local, Remote & Client transport) and assigning logical systems to clients.
+· Experience in STMS, and Importing Transport Request in Quality and moving it to Production system.
+· Connecting SAP Systems to CUA.
+· Experience in Importing Transport Request from ChaRM and STMS.
+· Perform Spam / SAINT version upgrade.
+· Applied SAP OSS Note using SNOTE and capturing the OSS Note in the transport request and move the SNOTE to various systems in the landscape.
+· Worked with profile parameters and changed the Profile parameters and restarted the system in order to take the parameters effective.
+· Creating Users and lock/unlock/reset the passwords and also assigning the Roles.
+· Effectively analyzed trace files and tracked missed authorizations for user’s access problems and inserted missing authorizations manually managed to trace reading authorization in ST01 and T-code SU53.
+· Prepared monthly, Weekly and Daily reports which include User master record changes, profile changes, authorization changes and system performance.
+· R/3 performance monitoring and tuning: To check the Dispatcher wait time, roll time, processing time, load and generation time  and Enque time and RFC&CPIC time and database time.
+· Applied Support packages on ECC 6.0 System.
+· Experienced in Kernel Upgrade.
+· Defining the operation modes based on the requirement.
+· Schedule and monitoring the long running programs and standard background jobs.
+· Configuring logon groups.
+· Analysis of ABAP dumps and system logs.
+· Monitoring Active users and work processes.
+· Perform Health check of SAP R/3 System.
+· Monitoring Update records.
+· Background Jobs Monitoring the status of Background Jobs, scheduling Background Jobs.
+· Monitoring Lock Entries.
+· Import Transport Request on Production Server.
+· RFC connection checks for R/3 Application Servers.
+· Configure and Maintained operation Modes.
+· Spool Administration – Spool administration on SAP R/3.
+· Experience in Configuration of Output device. 
+· Hand on and Experience in trouble shooting printing issues.
+· Apply Abap , basis patches using SPAM.
+· Database Administration activities on R/3 using BRtools.
+· Monitored Table spaces and increased table spaces using BRTOOLS.
+· Experienced in Online Table Reorg.
+· Monitoring Portal with NWA tool.
+· Experienced in configuring JVM Parameters using Config tool.
+· Experienced in Adding Server Process with config tool.
+· Apply java patches from JSPM tool.
+· Experienced in Resetting the SDM password. 
+· worked on Manual Archiving through SARA and scheduled automation jobs for Archiving 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,187 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIKITA SETHI, 24 
+
+ 
+
+SUMMARY  
+
+ 1.10 years of experience  in the field of Model Development and data analytics, along with 
+holding a post graduate degree in Mathematics from Delhi University 
+
+ Have learnt and applied various statistical techniques, analytical tools with proficiency in SAS 
+and SQL software 
+
+ Aim to understand and capitalize on data, and provide analytical solutions to business 
+problems 
+ 
+
+WORK EXPERIENCE 
+Royal Bank of Scotland – Senior Risk Analyst (June 2015 – Present)  
+ 
+Some of the key projects included: 
+
+ IFRS9 Model Development(Chain ladder method and logistic regression) 
+ Chain Ladder Method 
+
+This model involved estimation of lifetime PDs through the extrapolation of cumulative 
+default curves till the end of lifetime using Chain ladder method (CLM) 
+Performed time on book and default maturity analysis to find lifetime of mortgage 
+portfolio 
+Using CLM, quarterly cumulative default rates were extrapolated for each vintage and 
+weighted average by volume was then used to capture overall cumulative default rate 
+Applied forward looking factors to arrive at final lifetime PD values for each vintage 
+Performed back book one-off calculation to generate the PD values at the time of 
+acquisition  
+
+ 
+ Logistic Regression model for PD calculation 
+
+The project was aimed to determine probability of default for mortgages which involved:  
+Data extraction, cleaning, outlier and missing value treatment  
+Removing multi co linearity and variable selection using IV, VIF and clustering analysis 
+Regressing the final variables to develop a logistic model for PD calculation  
+Validating the model on validation dataset and out of time sample 
+
+ 
+ Scorecard Reviews 
+
+ Reviewed and revised scorecard cut-offs for decline, approval and refer of mortgage 
+applications 
+
+ Review of multiple cut-offs were taken basis riskiness of the customers, before assigning 
+the new cut-offs 
+
+ 
+ LGD Provisions Model 
+
+ The model was segregated into two stages - In Stage1, multinomial logistic approach was   
+employed to generate probabilities of 4 outcomes given default  
+
+ In Stage2, macroeconomic factors were applied and loss given outcome was recognized 
+followed by the generation of LGD  
+ 
+
+ Pre-Emptive Strategy  
+ Developing strategy for non-delinquent retail customers 
+ Designed contact and holdout population to measure the performance  
+ Identifying the plausible reason for their default, and enhancing the champion strategy  
+
+
+
+  
+
+35,Charak Sadan Apartments, Vikas Puri, New Delhi - 110018, India 
+Tel: +91 96 543 04865; Email: nikitasethi05@gmail.com 
+
+ 
+
+Apart from the model development and analytical projects, I have also worked as a close resource in 
+adhocs for providing meaningful insights from data, strategy support work for different portfolios 
+and optimization of existing processes. Also I have handled a team of 6 peers for Toolkit project: 
+which was a web based tool for assessing mortgage applications based on the bank’s credit policies 
+and affordability of a customer. 
+ 
+
+INTERNSHIPS 
+TAO Education, New Delhi (2014) 
+Contributed as an Academic Associate with the e-learning start up for a period of 3 months. Specific 
+responsibilities included – 
+
+ Conducting in-depth research on Mathematics curriculum and designing curriculum maps, 
+assessment formats and creating learning content 
+
+ In the last month, I shouldered additional responsibility of guiding new interns as well 
+
+Union Bank of India, New Delhi (2013) 
+Worked as a Summer Intern for a short stint of 1 month. Besides acclimatizing myself to the 
+corporate environment helped the team to –  
+
+ Develop training modules for Credit Rating and CIBIL Scores for new joiners in the retail 
+banking function 
+
+ Manage customer desks during special campaigns 
+
+ 
+
+EDUCATION 
+Year Examination Institution Marks Obtained 
+
+2015 M.Sc. Maths Hansraj College, University of Delhi 69.31% 
+
+2013 B.Sc. Maths (Hons.) Hansraj College, University of Delhi 84.0% 
+
+2010 Class XII, CBSE Oxford Senior Secondary School, New Delhi 91.6% 
+
+2008 Class X, CBSE Oxford Senior Secondary School, New Delhi 89.0% 
+
+Scholastic and other Achievements 
+
+ Secured position in the top 4% of B.Sc. Maths (Hons.) merit list across University of 
+Delhi 
+
+ Scholar badge holder throughout school, consistently ranked among top 10 percentile 
+
+ Active member of NSS Society and DISHA(community initiative programme by RBS); 
+helped in organization of blood donation camps and education of under-privileged children 
+
+ 
+
+CERTIFICATIONS AND INTERESTS 
+
+ Successfully completed a Diploma level (4 semesters) course in Spanish language from 
+Bhartiya Vidya Bhawan in 2014 
+o Presented a case study on socio-economic profile of Costa Rica, a dominant Spanish 
+speaking country  
+
+ Avid reader, big fan of the Harry Potter Series, with keen interest in other forms of literature 
+as well 
+
+ Undertaken rafting sessions and night treks in Rishikesh 
+
+

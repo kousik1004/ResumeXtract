@@ -1,0 +1,191 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                     VIJAY PRATHAP D                   	 	 	      
+ 	 	 	                   
+vijaydvj248@gmail.com                                                                          Mobile: +91-8179194415 
+                       
+Objective: 
+To work in association with professional groups who offer me the opportunity for career advancement and professional growth. To work in a creative and challenging environment. Actively looking for job in Big Data development
+Professional Summary 
+
+· Overall 3 years of IT experience in requirement gathering, design, development and testing.
+· Having 2.7  years of Hadoop Developer Experience.
+· In depth working experience with Hadoop ecosystems components like – HDFS, Hive, Sqoop, Oozie, Impala, HUE and QA Testing
+· Having good knowledge in Data warehousing Concepts 
+· Involve in create Hive tables, loading with data and writing Hive queries which will run internally using Spark Engine in Cloudera Distribution.
+· Export and Import data into HDFS from sql server and oracle source systems using Sqoop.
+· Good expertise in sqoop scripts to import data from various source DB
+· Involve in Requirement Analysis, Design, and Development.
+· Had Hands on Experience on ETL Tools like Talend Big Data.
+· Designed various Jobs for extracting data from various sources involving relational tables & Hadoop file system. 
+· Knowledge on creating Talend Big data batch and streaming jobs. 
+· Experience in design documentations preparation and SOP documents creation.
+· Experience in creating the Tasks for user stories in Agile Methodology, had fair knowledge on QA agile Central tool.
+· Following Agile Methodology and completing the Sprints within given time.
+· Good in communication, coordinate with team and skill improvement.
+· Extracting data from external sources and developing derived data sets using base SAS version. 
+                                                                             ..   Technical Information 
+
+
+Skill Set
+		
+	
+
+	ETL Tools
+	- SAS,TABLEAU
+
+	Big Data Technologies
+	- Cloudera, HDFS, Hive, Sqoop, Impala, HUE, Flume, Kafka and Oozie
+
+	Data Base
+	-  MS SQL Server
+
+	Programming Language
+	- SAS,Python
+
+	NoSQL Data Base
+	- Cassandra
+
+
+
+	
+
+
+ 
+                                                                             Educational Details 
+
+	Examination 
+	School/College 
+	Board/University 
+	Percentage (%) 
+
+	Secondary(X) 
+	A.P.R.SCHOOL,LEPAKSHI,Anantapur 
+	Board of secondary, Andhra Pradesh. 
+	89 
+
+	Higher Secondary(XII) 
+	Sri Sai Chaitanya Jr College, Madanapalle. 
+	Board of Intermediate, Andhra Pradesh. 
+	93.4 
+
+	B.Tech 
+	Madanapalle Institute of Technology and Sciences, Madanapalle. 
+	JNT University, Andhra Pradesh. 
+	76 
+
+
+ 
+ 
+                                                                             Employment Details  
+
+Working as Associate Consultant in Capgemini India Pvt Ltd at Bangalore from Dec 2015 to till date 
+                                                                                Project Details 
+
+ 
+Project: 1 
+	Project Name 
+	ES-Billing Automation 
+
+	Client 
+	Hewlett-Packard Incorporated (HPI) 
+
+	Project Description 
+	ES-Billing is a Migration project which has been creates on EDL (Enterprise Data Lake) environment. 
+It deals with financial data on applications, servers and application instances for support, power, storage and maintenances for companies HPI, HPE, DXC. This will provide the HPI to know how much amount has been spend on shared, transfer service agreement (TSA), DXC maintenances and support. 
+
+
+· Writing Hive table scripts for creating hive external tables based on design provided by data modelling Team. 
+· Import the data file in to HDFS by using sqoop 
+· We need to maintain history of data by partitioning the hive tables based on month and year. 
+· Analysis has been done by applying HQL queries 
+ Project 2:
+ 
+ Doing multiple projects in Rockwell Automation Account depends on requirement.
+Project Duration      : October 2017 to till date
+Designation	      : Software Engineer 
+
+	Project Name
+	PROS
+
+	Client
+	Rockwell Automation
+
+	Project Description
+	Meio Gains is a Migrating project from Oracle to Hadoop. It deal with sales data on different products (Distributed Control Products, Sensors, Drive Systems, etc...) from Rockwell Automation Company in North America Location. The main purpose of this project is to Build data warehouse for daily and weekly reports on power BI.
+
+	Tools Use
+	Toad for Oracle, Cloudera Distribution of Hadoop, Hue
+
+	Team Size
+	4
+
+
+
+Responsibilities: Team member
+
+· Analyzing the requirements from business owners and created estimated story board points in Agile Central Rally.
+· Creating User stories and Tasks for respective user stories in Agile Central Rally Tool.
+· Creating the DDL scripts based on Metadata Document provided by data model Team.
+· Creating DML Scripts based by following certain standards as per project requirement.
+· Unit Testing in DEV environment and need to get code review from Architects from client side.
+· Code move and deployment in QA by providing the necessary documents.
+· Doing Detail level of QA Testing by providing the necessary test cases and their results to the product owners.
+· Once product owner approves it (UAT), we are moving the code and deployment in PROD by creating RFC documents.
+· Fixing the defects raised by product owner while doing the UQT validation.
+·  Given Knowledge Training to new Team members and helped them to gain good knowledge on project.
+Prepared Wiki document.
+· Actively participating in daily scrum calls.
+
+Additional Responsibilities:
+	
+· Maintained Weekly and Daily Status Reports - Reports on Deliverables.
+· Prepared various Documents of Understanding/Knowledge Management documents specific to project - Documentation.
+· Maintained Trackers like Skills Matrix Tracker, Training Tracker, Effort Tracker and Clarification/Query Tracker.
+Declaration       
+  I hereby declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particulars.  
+Place: 
+Date: 	 	 	 	 	 	 	 	 	Vijay Prathap D  

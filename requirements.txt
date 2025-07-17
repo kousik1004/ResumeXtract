@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+plotly
+spacy
+docx2txt
+PyMuPDF
+fuzzywuzzy
+python-Levenshtein

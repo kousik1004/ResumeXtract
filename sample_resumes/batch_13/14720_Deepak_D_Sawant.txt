@@ -1,0 +1,222 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deepak D Sawant
+Ghatkopar, Mumbai, Maharashtra, India | +91-9029996649 |  deepak.sawant53@yahoo.in
+
+Summary
+
+Highly skilled graduate with a Bachelor of Engineering, specializing in IT from Mumbai University and 4.7 years of experience in software development in JAVA. Have experience with build tools like MAVEN and have developed application which included developing REST API for the backend. Very good exposure to frameworks like Spring and Hibernate.
+
+Skill Highlights
+
+		
+	· Back-end Technologies
+· Core JAVA
+· Servlets and JSP
+· spring-core
+· spring-data-jpa
+· spring-security
+· spring-mvc
+· spring-rest
+· Hibernate
+
+· Logging
+· log4j
+· Logback with slf4j
+
+· RDBMS
+· Oracle 11g
+· MS-SQL Server 2008
+	· Front-end Technologies
+· HTML and CSS
+· JavaScript
+· jQuery
+
+· Tools and Ancillaries
+· Eclipse IDE
+· Tomcat
+· JBoss 7.1
+· DBeaver
+
+· Cloud Platform
+· Cloudfoundry
+
+· Other
+· OAuth 2.0
+· Maven
+
+
+
+Professional Experience
+
+	Senior Software Developer (Development tasks only)
+L&T Infotech - Mumbai, Maharashtra, India
+	September 2016 - Present
+
+
+
+· Research and implement Industrial IOT applications for connecting machines to cloud and collect data from them using GE Predix.
+· Data collected in the cloud is then analysed for identifying if there are any abnormalities in the functioning of the machine.
+· Data is also analysed to make the machine more efficient and increase their outputs.
+· Created microservices using springboot, spring-mvc, spring-rest and spring-data-jpa.
+· OAuth 2.0 was used for authenticating the users and clients.
+· Deployed applications to cloudfoundry by using CLI.
+
+
+	Software Developer (Development tasks only)
+L&T Infotech - Mumbai, Maharashtra, India
+	April 2014 - August 2016
+
+
+
+· Direct software development while remaining focused on client needs.
+· Colaborated closely with other team members to implement designs and develop robust solutions.
+· Involved in development of a Insurance Portal from scratch.
+· Portal created was used by agents and agencies for issuing/renewing policies and also to track performance of their colleagues.
+· Involved in full stack development.
+· Worked on frameworks like RESTEasy, spring-security, spring-mvc, hibernate and used MAVEN as a build tool.
+
+	
+Team Member (Development& support tasks)
+PMC Bank - Mumbai, Maharashtra, India
+	March 2013 - April 2014
+
+
+
+· Involved in development as well as day to day support activities.
+· Created a Web Application to register users for VISA and RUPAY services.
+· At EOD a file was created with details of the registered customer for that particular day and this files were mailed to ATM cell.
+· Got an oppurtunity to maintain al already existing socket application.
+· Development done using Core JAVA, jdbc, java sockets, spring-core, spring-mvc.
+
+
+Education
+
+Bachelor of Engineering, Information Technology
+Terna College Of Engineering, Mumbai University
+
+Higher Secondary Certificate
+N.G. Acharya College, Maharashtra State Board
+
+Secondary School Certificate
+Modern English School, Maharashtra State Board
+
+
+Projects
+
+Project Name: OPERA
+Organization: 	L&T Infotech
+Technologies: 	core-java, spring-core, spring-cloud, spring-data-jpa, spring-rest, spring-security, 
+		spring-boot,hibernate, OAuth 2.0, logback with slf4j, Maven, cloudfoundry, HTML5, css.
+Team size: 	8
+Project Description:
+OPERA (Operational Analytics), a cloud-based solution, ingests, manages, analyzes, and visualizes the data. 	OPERA transfers the data from the SCADA system, and uploads it to the OPERA application in the cloud for 	analysis, reporting, and monitoring SLA metrics. L&T Solar engaged with LTI to implement OPERA with cloud 	computing in multiple solar farms.
+
+
+
+
+Project Name: 	Water Filtration System
+Organization:	L&T Infotech
+Technologies: 	core-java, spring-core, spring-cloud, spring-rest, spring-security, spring-boot, OAuth 2.0, logback with slf4j, 		Maven, cloudfoundry.
+Team size: 	8
+Project Description:
+Water Filtration System, a cloud-based solution, transfers data from conductivity and salinity sensor to cloud for scheduled monitoring. Once the conductivity or salinity value breaches its threshold a ticket is raised so that a technician can go an cleanup that particular tank. Customers can also monitor the conductivity and salinity levels of their tanks from website or mobile app.
+
+Project Name: 	L&T Construction Vehicle Tracking System
+Organization: 	L&T Infotech
+Technologies: 	core-java, sockets, spring-core, spring-cloud, spring-rest, spring-security, spring-boot, OAuth 2.0, 			logback with slf4j, Maven, cloudfoundry.
+Team size: 	8
+Project Description:
+Vehicle Tracking System, a cloud-based solution used to track the geolocation of a vehicle at any given moment of the time. A hardware device was installed on all the vehicles from which the GPS co-ordinates were sent to the cloud along with some additional information which helped in tracking the location of the vehicle but also enabled to monitor the state of the vehicle at given moment.
+
+Project Name: 	Pune Smart City (ECB and PA Module)
+Organization: 	L&T Infotech
+Technologies: 	core-java, sockets, spring-core, spring-rest, spring-data-jpa, hibernate, spring-boot, logback with slf4j, 		Maven.
+Team size: 	1
+Project Description:
+Pune Smart City is an urban development vision to integrate information and communication technology (ICT) and Internet of things (loT) technology in a secure fashion to manage a city's assets. ICT allows city officials to interact directly with the community and the city infrastructure and to monitor what is happening in the city. Multiple Emergency Call Boxes (ECB) and Public Address (PA) systems were installed in Pune and data from these devices is stored in a database and monitored from main control center.
+
+Project Name: 	Distribution Portal
+Organization: 	C2LBiz Solutions.
+Technologies: 	core-java, spring-core, spring-mvc, spring-security, RESTEasy, hibernate, log4j, Maven, HTML5, 			JavaScript, jQuery, bootstrap 3.
+Team size: 	4 (Phase 1), 2 (Phase 2 & Support)
+Project Description:
+Distribution Portal is a one stop solution for agents, agencies and brokers of a insurance company from where a agent/agency/broker can log his business from anywhere in the world. Alongwith issuing a new policy this solution also enables for renewing of already existing policy tracking leads and also enables them to set reminders for lead or renewal of policies. Agencies can also monitor the performance of the subordinates.
+
+Project Name:	New Business
+Organization: 	C2LBiz Solutions.
+Technologies: 	core-java, jsp, servlets, spring-core, hibernate, log4j, Maven.
+Team size: 	6
+Project Description:
+New Business is a strategic solution for reducing the new business operations cost. New Business system has been designed to significantly enhance new business productivity and quality. It fits snuggly within insurer's existing environment and becomes a strategic differentiator as it improves the agility of the insurer to respond to market and competitive needs.
+
+
+Project Name:	BNA Server
+Organization: 	PMC Bank
+Technologies: 	core-java, jdbc, sockets, log4j.
+Team size: 	1
+Project Description:
+BNA's are a new generation, intelligent, and secured ATMs that have the multi-functional ability to accept deposits or dispense transactions of bundles notes (up to 200 mixed denomination notes), after having counted and authenticated them in about 8-10 seconds. BNA server is a temporary server developed, as the switch required for the communication of BNA was not ready at that moment. It served as a socket server to the transactions which took place from 60 different BNA machines.
+
+Project Name:	PRISM
+Organization: 	PMC Bank
+Technologies: 	core-java, spring-core, servlet, hibernate, log4j, IBM Worklight, HTML5, JavaScript, jQuery 		Mobile.
+Team size: 	1
+Project Description:
+PRISM is a in-house mobile solution for monitoring CASA balance in a branch, amount remaining in a ATM, current ATM status, etc. This solution was created for branch managers and other high level management officers and was available on android, ios and blackberry OS.
+
+Project Name: 	VISA Card Registration
+Organization: 	PMC Bank
+Technologies: 	core-java, spring-core, spring-mvc, hibernate, log4j, HTML, JavaScript.
+Team size: 	1
+Project Description:
+VISA card registration is a in-house application which is used by the branch staff for logging the details of the customers who registered for VISA card. It has two modules one to register the customer and other one generates a file at EOD in a specific format as directed by the VISA organisation and mails this file to ATM cell so that they can send this file to VISA organisation for the printing of the cards.
+

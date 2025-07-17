@@ -1,0 +1,350 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+					Pooja M. Kadam
+	Mobile: +91-9511962913
+	Email Id : poojakadam1905@gmail.com
+
+
+
+
+Career Objective
+To have a steady learning through on-the-job environment in core application development projects and seeking challenging assignments in Software Development & Implementation. I look to work in a team for the company with full vigor and purpose.
+
+Current Organization
+Working with L&T InfoTech Pvt. Ltd. Pune as SharePoint developer since last 2 year (Aug 2015 – till date)
+
+Previous Organization
+ Nitor InfoTech Pvt. Ltd. Pune worked as SharePoint Analyst (May 2013 - Aug 2015)
+
+Career Summary
+  4.5 years of experience in SharePoint Development.
+
+· Experience in developing business collaborative Web applications using SharePoint 2010/2013.
+· Intensive experience in development of SharePoint 2013 and 2010 solutions based on SSOM, CSOM.
+· Experience in SharePoint 2010 to SharePoint 2013 application migration.
+· Effectively Self-learned Languages like Angular js and SharePoint apps development.
+ 
+
+Projects Undertaken 
+
+	Project
+	GMP Intranet Portal
+
+	Duration
+	7 months
+
+	Team Size
+	1
+
+	Tools & Technologies
+	SharePoint 2013, SharePoint Designer, Visual Studio
+
+	Synopsis
+	Description: 
+This application is widely used for Document management like PP1 to PP3.Also includes approver flow.
+Uploading of document and it will go for level wise approver to approve or reject document.
+Creation of SharePoint group according to Phase manner.
+
+	Responsibilities
+	Application development, Event receivers, Custom Web part development.
+Development and deployment.
+Permission handling based on the PP Level.
+Approval and pending screen development using SharePoint designer.
+
+
+
+
+
+
+Company Name: L&T InfoTech, Pune
+
+	Project
+	SharePoint Sales Dashboard
+
+	Duration
+	10 months
+
+	Team Size
+	2
+
+	Tools & Technologies
+	SharePoint 2013, JQuery, SharePoint Designer, Google Charts, SPservices
+
+	Synopsis
+	Description: 
+This application captures all the statistical data for 3 different regions and sub regions, and then this raw data is being processed based on various custom formulas and then represented into various custom charts and graphs.
+
+	Responsibilities
+	Application development, event receivers, Google charts.
+Development and deployment.
+
+
+
+
+
+
+Company Name: L&T InfoTech, Pune
+
+	Project
+	SharePoint 2010 to SharePoint 2013 Migration
+
+	Duration
+	8 months 
+
+	Team Size
+	1
+
+	Tools & Technologies
+	SharePoint 2010,SharePoint 2013,SQL database, SharePoint  Powershell
+
+	Synopsis
+	Description: 
+Below SharePoint 2010 application migrated to SharePoint 2013
+· On Boarding
+· Off Boarding
+· Purchase Order
+· E-Signature
+· Batch Processing
+· JDE Timesheet
+· Device Request Management System
+· Change Control System
+· HR Learning & development
+
+
+	Responsibilities
+	· Migrated SharePoint 2010 application to SharePoint 2013
+· Documentation for all application Migration.
+· Identified Farm and Sandbox solution for every SharePoint 2010 application.
+· Database backup and restore Activity
+· Backup and deployment of wsps.
+· Powershell command Execution.
+
+
+
+
+
+
+
+
+
+Company Name: Nitor InfoTech Pvt. Ltd. Pune
+
+	Project
+	KOEL
+
+	Role
+	Junior Analyst
+
+	Duration
+	6 months
+
+	Team Size
+	3
+
+	Tools & Technologies
+	SharePoint 2013.NET 4.5,  C#, SSOM, Farm Solution, SharePoint Designer 2010,visual studio
+
+	Synopsis
+	Description: 
+It’s a SharePoint 2013 intranet portal for KOEL.Main functionality is policy process and workInstruction,including approval process.Each application has its own specification.The primary objective of the system is to enable the authorized users to access, upload, view, archive the policies and procedure documents and make them available to the authorized audience across the organization
+
+
+	Responsibilities
+	· Acted as a Junior Analyst for the development of this portal. Key responsibilities include.
+· Created the Visual web parts on the different Screens for completing the approval process.
+· Event receiver.
+
+
+
+
+
+
+Company Name: Nitor InfoTech Pvt. Ltd. Pune
+
+	Project
+	Okonnect
+
+	Role
+	Trainee Analyst
+
+	Duration
+	6 months
+
+	Team Size
+	2
+
+	Tools & Technologies
+	SharePoint 2013, ASP.NET, C#, CSOM,Farm Solution
+
+	Synopsis
+	Description: 
+Okonnect is a SharePoint 2013 based rich UI Social Intranet Portal for numerous employees of an Organization
+It included all the social features of SP 2013 as Videos,  Polls.
+
+	Responsibilities
+	· Acted as a Trainee Analyst for the development of this portal. Key responsibilities include.
+· Developed web parts.
+· Event receiver.
+· Content Editor Webpart.
+· Developed Meeting room booking process.
+
+
+
+
+
+
+
+
+
+
+
+Company Name: Nitor InfoTech Pvt. Ltd. Pune
+
+	Project
+	Visitor Management System
+
+	Role
+	Trainee Analyst
+
+	Duration
+	6 months
+
+	Team Size
+	2
+
+	Tools & Technologies
+	SharePoint 2010 .NET 4.5, visual studio 2010, C#, SSOM, Farm Solution,sharepoint Designer 2010
+
+	Synopsis
+	Description: 
+It’s a SharePoint 2010 intranet portal. This application is based on various custom server side web parts which depict the entire flow of a visitor management request which has multiple levels of approver depending on entities.
+
+	Responsibilities
+	· Acted as a Trainee Analyst for the development of this module.Key responsibilities include.
+· Created Visual webpart.using SSOM.
+· SharePoint designer workflows.
+· Data view Web part
+· Timer job development
+
+
+
+
+
+
+Technical Skill Set
+
+	Technologies/Framework
+	Microsoft Technologies, SharePoint 2010/2013 ECMA Script, .Net Framework 3.5/4.5 Nintex workflow
+
+	Programming Technologies
+	C#
+
+	Databases
+	MS SQL SERVER 2008/12
+
+	Server
+	IIS 7.0/6.0
+
+	Tools
+	VS 2010/2012/2013, SharePoint Designer 2010/2013, U2U CAML Query Builder
+
+	JavaScript Libraries
+	 JQuery
+
+
+
+	
+
+ 
+Academic Qualification
+
+	Degree/Course
+	Institute/College
+	Percentage
+	Year of Passing
+
+	B.E
+	RTMNU
+	66.44
+	2012
+
+
+	Diploma
+	MSBTE
+	74.00
+	2009
+
+	SSC
+	State Board
+	77.86
+	2006
+
+
+
+
+
+
+Extra Curriculum Activities  & Achievements and Recognition:
+
+· Got “Spot Award” in L&T InfoTech Pune.
+· Debate competition (winner)
+· Dance competition (winner)
+· Participated in International conference.
+
+
+Declaration
+I hereby declare that the above written particulars are true to the best of my knowledge and belief.
+
+Pooja M. Kadam
+

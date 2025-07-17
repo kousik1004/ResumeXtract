@@ -1,0 +1,358 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Kaushal Kumar Singh
+Contact No-08860427713
+	                                           
+
+	E-mail Id: getkaushalsviit@gmail.com                
+	                                                                              
+
+
+
+CAREER OBJECTIVE
+
+· To Intend to build a career with leading corporate of hi-tech environment with committed and dedicated people, which will help me to explore myself fully and realize my potential. Willing to a work as a key player in challenging creative environment.
+
+EXPERIENCE 
+
+· Overall 3.6+ Years of IT Experience in RPA (Robotic Process Automation) and .Net Technologies.
+· 1+ years of Experience in RPA (Robotic Process Automation) using Blue Prism.
+· 2.5 Years of Experience of .Net Technologies.
+· Currently working as a Senior Software Engineer-RPA (Robotics Process Automation) at HCL Technologies Ltd, Noida from Sep-2017 to till now.
+· From Feb-2015 to Sep-2017 at Competent Software Pvt. Ltd, Delhi as a Software Developer.
+PROFESSIONAL SUMMARY
+· Overall 3.5+ Years of IT Experience in RPA (Robotic Process Automation) and .Net Technologies.
+· Highly skilled in RPA - Automation development with the tool Blue Prism. Requirements Capture, Executing unit test with developed workflow, knowledge of UI Path and Automation Anywhere.
+· Strong experience on various commands, String Operation, Excel and CSV commands, Error Handling, Send Email command, Schedule tasks.
+
+· Creation of rule-based Robots automating existing business processes.
+
+· Automating user actions performed through interactions with clients- Browser, MS Excel, MS Word and other windows applications, Web Applications.
+
+· Automating user actions performed through interactions with client applications.
+
+· Advanced automation techniques including image recognition, OCR.
+
+· Work with business and technology teams to analyses and assess automation feasibility.
+
+· Involved in end to end life cycle for Automation solution designing and development from Requirement gathering.
+
+· Configured automation processes as per SDD.
+
+· Problem solving issues that arise in day to day running of automated processes and providing timely responses and solutions as required.
+
+· Worked on different environments like Windows and thin client Citrix.
+
+· Strong in writing SQL queries.
+
+· Knowledge of Automation Anywhere.
+
+· Knowledge of UI path.
+
+· Worked on Mainframe Applications and Basic knowledge of Surface Automation.
+
+· Strong knowledge in SDLC, STLC and Bug Life Cycle.
+
+· Quick learner and excellent team player, ability to meet tight deadlines and work under pressure.
+· Hands on development experience in programming languages/platforms .NET / C#/ VB.Net, on windows Application and web Application.
+
+· Ability to research for technical solutions and guide the developers during the project implementation.
+
+· Strong problem solving, analysis, and design skills
+
+· Support the junior team member who working in team.
+
+· Worked on .Net Framework 3.5/4.0/4.5 (C#)
+
+EDUCATIONAL QUALIFICATIONS
+· Master of Computer Application (MCA) From Mahatma Gandhi University Meghalaya
+· Bachelor of Computer Application (BCA) From SMU
+CERTIFICATIONS 
+
+· Certified in Blue Prism Accredited Developer Exam (AD01)
+
+· Certified in UI Path Accredited Developer
+
+· Certified in Automation Anywhere
+
+TECHNICAL SKILLS
+· Automation tools
+
+: BluePrism, UI Path, Automaton Anywhere
+· Languages
+
+
+: C#, VB .net 3.5 & 4, HTML, CSS, LINQ, JQuery, JavaScript, Asp.net
+· Databases
+
+
+: MS SQL Server 2008 R2, 2012 & My SQL
+· Tools
+
+
+
+: MS Office 2007,2010,2013 and 2016
+
+· Other Tools
+
+
+: OCR Tool, JIRA, Issue Tracker, Infragistics Controls, EMGU.CV, iTextSharp, Good Knowledge of Regex etc.
+
+
+PROJECT EXPERIENCE HIGHLIGHTS
+
+Blue Prism Projects (Robotics Process Automation)
+
+Tools and Environment: Blue Prism 
+Project 1: CHR Credit Card Payment
+
+Role:
+As a Senior RPA Developer
+
+	Client
+	Process Name
+	Team Size
+	Role
+	Duration
+
+	CH Robinson(USA)
+	Credit Card Pre Payment
+	7
+	Developer
+	Aug 2018 – Present
+
+
+Description:  The objective of this project to read the invoice details from excel sheet provided by client, and as per match the order number or reference number from input sheet to invoice details application (Cash App) if order/ref found check and apply for credit card payment.
+
+Roles & Responsibilities: 
+
+· Understanding of requirements, Process Design documents (PDD), Solution Design documents (SDD) and Technical design document (TDD).
+· Involved in Analysis, Design, Development, Testing and Implementation.
+· Created the Technical Design Document (TDD).
+· Followed best practices recommend by Blue Prism.
+· Responsible for designing the RPA solution Design.
+· Support the junior team member who working in team.
+· Handle the UAT process.
+Project 2: Status Resolution Cash App 
+
+Role:
+As a Senior RPA Developer
+
+	Client
+	Process Name
+	Team Size
+	Role
+	Duration
+
+	CH Robinson(USA)
+	Status Resolution/Export Report
+	7
+	Developer
+	Jun 2018 – Jul 2018
+
+
+Description:  The objective of this project to generate the invoice details. To get the data from grid the check some verification as per matrix given by client and after verification export the report to client in excel sheet.
+Roles & Responsibilities: 
+· End to end Life cycle of process Understanding of requirements, Analysis, Design, create documents (PDD,SDD,TDD) Development , Unit Testing, Follow the best practice recommend by Blue Prism, Responsible for designing the RPA solution Design. 
+· Support the junior team member, Handle the UAT process.
+Project 3: Investigate and Release Payment 
+
+Role:
+As a Senior RPA Developer
+
+	Client
+	Process Name
+	Team Size
+	Role
+	Duration
+
+	Deutsche Bank
+(GERMAN)
+	Investigation &Release Fund
+	8
+	Developer
+	April 2018 – May 2018
+
+
+Description:  The objective of this project to get the higher priority payment request of customer and investigate the payment. If funds available, then release the payment otherwise send the mail to RM of Deutsche Bank that process for manual.
+Roles & Responsibilities: 
+
+· End to end Life cycle of process Understanding of requirements, Analysis, Design, create documents (PDD,SDD,TDD) Development , Unit Testing, Follow the best practice recommend by Blue Prism, Responsible for designing the RPA solution Design. 
+
+· Support the junior team member, Handle the UAT process.
+Project 4: Prioritization Robo
+Role:
+As a Senior RPA Developer
+
+	Client
+	Process Name
+	Team Size
+	Role
+	Duration
+
+	Deutsche Bank
+(GERMAN)
+	Prioritization Robo
+	12
+	Developer
+	Jan 2018 – March2018
+
+
+Description: The objective of this project to get the payment request from customer and add in work queue and define the priority as per calculation of cutoff time.
+Roles & Responsibilities: 
+
+· End to end Life cycle of process Understanding of requirements, Analysis, Design, create documents (PDD,SDD,TDD) Development , Unit Testing, Follow the best practice recommend by Blue Prism, Responsible for designing the RPA solution Design. 
+· Support the junior team member, Handle the UAT process.
+
+Tools and Environment: ASP.NET, C# and SQL Server 2008
+
+Project 5: Quality Stats Generation
+
+Role:
+As a Software Developer
+	Client
+	Process Name
+	Team Size
+	Role
+	Duration
+
+	Competent Software
+	Quality Stats Generation
+	10
+	Developer
+	Jan’17 to – Sep’17
+
+
+
+
+Description: This project is Web based and windows base both. This project is used to generate the quality of associates who work in production level company. To get quality in percentage regarding error weightage.
+Roles & Responsibilities
+
+· Understanding of BRS, Involved in analysis, Development and unit testing. Followed best practices recommend by Microsoft on coding time.
+
+Project 6: Scheduler Component
+
+	Client
+	Process Name
+	Team Size
+	Role
+	Duration
+
+	Competent Software
+	Scheduler Component
+	3
+	Developer
+	Jun’16 to – Dec’16
+
+
+
+Description: This project is windows based application that was developed by me, this module was a pluggable component (DLL) which can plugin with any Auto system where user can create Schedule to start Auto Applications.  
+Roles & Responsibilities
+
+· Understanding of BRS, Involved in analysis, Development and unit testing. Followed best practices recommend by Microsoft on coding time.
+
+Project 7: Break Time Administrator and Address Updater
+
+	Client
+	Process Name
+	Team Size
+	Role
+	Duration
+
+	Competent Software
+	Break Time Administrator
+	1
+	Developer
+	Dec’15 to – May’16
+
+
+
+
+Description: This project is windows based application that was developed by me to manage the Break time of all employee who working in organization. And update the address of employee.
+Roles & Responsibilities
+· Understanding of BRS, Involved in analysis, Development and unit testing. Followed best practices recommend by Microsoft on coding time.
+
+Project 8: Order Tracker/ Issues Tracker
+	Client
+	Process Name
+	Team Size
+	Role
+	Duration
+
+	Competent Software
+	Issues Tracker
+	4
+	Developer
+	Jun’15 to – Nov’15
+
+
+
+Description: This project is windows based application, the objective of this project was creating tracker like task assign tracker and application should be able maintain the status of task.
+Roles & Responsibilities
+
+· Understanding of BRS, Involved in analysis, Development and unit testing. Followed best practices recommend by Microsoft on coding time.
+
+PERSONAL DETAILS
+Date of Birth
+
+               : May-15-1992
+Sex            
+
+               : Male
+
+Marital Status
+                         : Unmarried
+
+Place:
+
+
+
+
+
+
+                          
+Date
+

@@ -1,0 +1,401 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Profile Summary
+
+ Nagesh Reddy                                                          (: +91-9739354779
+                                                                                 (: nageshreddyc@gmail.com
+                                                              
+
+	Professional Summary
+
+
+Working as a Senior Advisory Consultant, SAP HCM Time management within the SAP service line of IBM India Pvt Ltd.
+Having overall experience of 15+ years of which 9+ years of experience in SAP HR Implementations & Support, and 6+ years of Experience in HR domain.
+
+	SAP Skill set
+
+
+· An understanding of Business Process and configuration practice on components of SAP HR / HCM.
+· Understand AS IS process and how TO BE in terms of SAP.
+
+· Worked on Organizational Management, Personnel Administration, Time Management, Payroll US and Benefits.
+· Having On site experience in Sweden working on Time Roll-out projects and other demands related to CATS & Payroll Interfaces.
+· Experience in driving large implementation projects for big MNCs in Time management area.
+· Experience in driving Hana Migration project and Technical upgrade projects.
+
+· An Understanding of Schemas and PCR’s and worked extensively on TM04 and Custom schemas.
+· Configured PH Calendars, Work Schedules, Groupings, Absences and Attendances, Day variants and Time types.
+· Implemented / Modified PCRs to meet various Business requirements.
+
+· Configuration of Dynamic Actions to fulfill the client’s requirement.
+
+· Maintained Processing classes, Cumulation and Evaluation classes
+
+· Configured Advance, Bonus payments for Off-cycle Payroll.
+· Configured Paid/Unpaid Absences and Quota compensation.
+
+· Configured Benefit plans for US employees.
+
+	Academic Details
+
+
+· Post Graduate in Personnel Management – Osmania University.
+	Experience Summary
+
+
+· Working for IBM India Pvt Ltd, Hyderabad/Bangalore from June 2013 – Till date
+
+· Worked for Cognizant Technologies, Bangalore from Jan’ 2013 – June 2013
+· Worked for Affiliated Computer Services, a Xerox company Bangalore from March 2011 – Dec’ 2012 (transferred to Cognizant in Jan’ 2013)
+· Worked for IBM India Pvt Ltd, Bangalore from Jun’2008 – March 2011  
+· Worked for GAD IT Niche Ltd, Hyderabad from Nov’ 2006 – May’2008 (Non-SAP – HR Domain)
+· Worked for Dept of Adult Education – Govt of Andhra Pradesh from Dec’ 2005 to Oct’ 2006 (Non-SAP – HR Domain)
+· Worked for Dept of Education – Govt of Andhra Pradesh from Jan’ 2002 to Dec’ 2005 (Non-SAP- HR Domain)
+	Computer Skills
+
+
+ERP
+
+
+
+:
+SAP R/3 (ECC 6.0) HCM Module
+Languages
+
+
+:         C, C++
+Packages
+
+
+:
+MS- Office
+Operating Systems
+
+:
+Windows 7, XP/NT, 2000, 98, 95
+	Project Details
+
+
+Project # V
+
+Organization                        :     IBM India & IBM Sweden                          
+
+Client                                  :     Ericsson – AO & AD, HRMS – Global 
+
+Role                                    :     On site Coordinator / Senior Advisory Consultant, HR
+
+Duration                              :     February 2015 to Till date
+
+Client profile                        :
+
+Ericsson is a world-leading provider of telecommunications equipment and related services to mobile and fixed network operators globally. Over 1,000 networks in more than 175 countries utilize Ericsson’s network equipment and 40 percent of all mobile calls are made through their systems. Ericsson is one of the few companies worldwide that can offer end-to-end solutions for all major mobile communication standards.
+Role and Responsibilities:
+
+Team Lead/On site Coordinator: AD HRMS
+
+As a Demand driver, was responsible for implementing the below enhancement projects:
+1. CPM Time approval project:
+This project was started back in October 2015 as a POC in Sandbox (prototype build) and ended up as a huge implementation project in production environment.
+This project includes many innovative solutions like Dual time approval process, routing of time sheets to respective managers based on attributes, Time approval delegation by Line managers & Project managers and numerous back-end and portal reports for various role players in Ericsson.
+
+My contribution on this project includes Designing, functional configuration, Testing & Documentation and lead the technical team in implementing the solution.
+
+Apart from this, I was responsible for driving Client meetings, presenting product Demos, conducting Training sessions to the UAT testers, initiating requirement gathering workshops with key stake holders from Ericsson and conduct KT Handover sessions to TCS teams (AO HRMS, PS CATS, Portal etc).
+
+Currently leading phase 4 of this project.
+
+2. Global Payroll interface report:
+
+Currently driving this project to implement the solution at Global level in Ericsson.
+
+This project involves exporting Time evaluation data to 3rd party payroll systems.
+
+As part of this project, I am responsible for driving Client calls, Requirement gathering, presenting Product Demos, testing & documentation.
+
+3. RMED & RNAM Payroll:
+
+This one was a Payroll interface project for RMED & RNAMs regions and my contribution includes Time schema changes for generating various attendance & absence wage types. Also provided support in fixing the PGL issues in RNAM & RMED regions.
+
+4. TR1508 – Hana Migration:
+
+I was leading the HRMS team on this project that involved Hana migration and Technical upgrade of HRMS systems.
+My contribution on this project includes, driving client & internal calls, identifying the testing scope in various systems, reviewing the SAP notes and implement the relevant SAP Notes in the system, Testing of various functionalities in Time & Payroll area.
+
+Also helped in resolving high priority PGL issues in Sweden, Germany, Ireland payroll processing.
+
+5.  Contribution as part of AO HRMS team:
+
+· Provided post production support on Time management, OM, PA, ESS modules.
+· Incident management & Change management - Resolving incidents and implement
+
+CSR tickets
+
+· Providing SME support to the team in resolving various issues in OM, PA, Time and
+
+ESS/MSS modules.
+
+· Testing the new demands as part of AO Handover
+· Coordinate with other teams in resolving cross-module issues
+· Implemented Time quotas in RLAM region.
+· Conducted Transition related KT sessions with TCS HRMS team.
+Project # IV
+
+Organization                        :     IBM India Pvt Ltd                          
+
+Client                                  :     Earnst & Young AD HRMS – Global 
+
+Role                                    :     Senior Advisory Consultant, HR Time management
+
+Duration                              :     March, 2016 to June, 2016
+
+Client profile                        :
+
+Ernst & Young is a multinational professional services firm headquartered in London, England. EY is one of the largest professional services firms in the world and is one of the "Big Four" accounting firms.
+
+The organization operates as a network of member firms which are separate legal entities in individual countries. It has 231,000 employees in over 700 offices around 150 countries in the world. It provides assurance (including financial audit), tax, consulting and advisory services to companies
+
+Role and Responsibilities:
+
+• Implemented Time module for pilot countries in Europe & Central America regions (about 20 countries).
+• Participated in Functional walk through meetings for requirement gathering.
+• Writing Functional specification and prepared CRD (Design & Configuration) documents
+
+• Writing Unit test plans and coordinate with the business in getting UAT approvals.
+• Involved in Unit, Regression and Integration testing using real time data in 
+  pre-production server.
+• Updating Holidays and Holiday calendars.
+
+• Configured Travel & Expenses for few Central American countries
+• Configured Daily Work Schedule, Periodic work schedule, work schedule rule and
+
+  maintained the feature SCHKZ.
+• Configured various PSG groupings, attendances and absences for Pilot countries
+
+Project # III
+
+Organization                        :     IBM India Pvt Ltd                          
+
+Client                                  :     Walt Disney Company – AMS, HRMS – Global 
+
+Role                                    :     Advisory Consultant, HR Time management
+Duration                              :     July, 2013 to December, 2014
+Client profile                        :
+
+The AMS Team at Disney provides production support services as well as enhancement development & project work in SAP ECC6 and related applications for The Walt Disney Company. This includes Disney’s 5 key business segments, with more than 700 legal entities and 10 different languages. 
+The SAP support team is over 150 strong supporting all aspects of SAP FI (OTC, PTP, ATR, PTC, PIC and Consolidation), BW, HR (PAY, TIM, REC, and ELE), Portal, Basis, Security and Middleware components, as well as integration with Vertex, Authoria and numerous
+
+legacy systems.
+Role and Responsibilities:
+• Implemented Time module for new projects (Work schedules, Time quotas, Time
+
+schema creation / changes etc) for Shanghai Disney resorts, Lucas Film, Marvel
+
+Studios and PTO Harmonization projects.
+
+• Participated in Functional walk through meetings for requirement gathering.
+
+• Handling Change Request management and Incident management using the ticketing
+
+tools Service Manager and Rational Team Concert.
+
+• Implement changes in absence quota entitlement for various groups of employees by
+
+modifying the PCRs and time schema.
+
+• Written / Modified the PCRs to implement changes in Quota carry forward.
+
+• Worked on Wage type generation through Time schemas for Overtime, Shift premiums
+
+etc.
+
+• Configure wage types in IT 2010 / IT 0416 for absence payment.
+
+• Worked with Abapers on Outbound / Inbound interfaces and also on various reports,
+
+custom functions & Operations.
+
+• Contributed in implementing ESS for various international countries.
+• Configuration of absence types and absence quotas along with counting rules and
+
+deduction rules.
+
+• Configured Daily Work Schedule, Periodic work schedule, work schedule rule and
+
+maintained the feature SCHKZ.
+
+• Updating Holidays and Holiday calendars.
+
+• Provided On call support during weekly and bi-weekly payroll runs.
+
+• Resolved issues on Vacation payout during employee separation / LOA.
+
+• Writing Functional specification.
+
+• Writing Unit test plans and coordinate with the business in getting UAT approvals.
+
+• Testing the application after every patch implementation and enhancements to the
+
+functionality.
+
+• Worked on Year-end activities for year 2013 and 2014.
+
+• Conducted KT sessions internally on the new changes / demands implemented.
+Project # II
+Organization                         :     Xerox Business Services & Cognizant Technologies                       
+
+Client                                   :     Hess Corporation (Industry: Oil & Gas)
+Role                                     :     Senior Functional Analyst, SAP Time management
+
+Duration                               :     April, 2011 to June, 2013 
+Client profile                         :
+
+Founded in 1933, Hess Corporation is a leading global energy company engaged in the exploration and production of crude oil and natural gas, as well as in refining and marketing refined petroleum products, natural gas and electricity. Hess is an integrated energy company with operations in 23 countries across six continents and employs over 20,000 employees.
+Role and Responsibilities:
+
+Senior Functional Analyst, SAP Time management:
+
+· Provide post production support on Time management module.
+· Implement Time module for new projects (Work schedules, Time quotas, schema changes etc).
+
+· Handling Change Request management and Incident management using the ticketing tool Service Center.
+
+· Implement changes in absence quota entitlement for various groups of employees by modifying the PCRs and time schema.
+
+· Written / Modified the PCRs to implement changes in Quota carry forward.
+
+· Configure wage types in IT 2010 / IT 0416 for absence payment.
+
+· Configuration of absence types and absence quotas along with counting rules and deduction rules.
+
+· Configuring Daily Work Schedule, Periodic work schedule, work schedule rule and maintain the feature SCHKZ.
+
+· Updating Holidays and Holiday calendars.
+
+· Provide On call support during weekly and bi-weekly payroll runs.
+
+· Resolve issues on Vacation payout during employee separation.
+
+· Writing Functional specification.
+· Writing Unit test plans and coordinate with the business in getting UAT approvals.
+
+· Testing the application after every patch implementation and enhancements to the functionality.
+· Participated in Disaster Recovery Exercises for year 2011 and 2012.
+Project # I
+
+Organization                        :    IBM India & IBM Sweden                          
+
+Client                                  :     Ericsson – AM, HRMS – Global 
+Role                                    :     On site Coordinator / Senior Functional Consultant, HR
+Duration                              :     July 2008 to March 2011
+Client profile                        :
+
+Ericsson is a world-leading provider of telecommunications equipment and related services to mobile and fixed network operators globally. Over 1,000 networks in more than 175 countries utilize Ericsson’s network equipment and 40 percent of all mobile calls are made through their systems. Ericsson is one of the few companies worldwide that can offer end-to-end solutions for all major mobile communication standards.
+Role and Responsibilities:
+
+1. On site coordinator, Sweden ( Time & Payroll ): August, 2009 to May,2010
+· Demand handling(UK, Netherlands, Italy, US and Canada).
+· Coordinate with the customer for changes or enhancements to the existing business process in Payroll and Time functionalities.
+
+· Worked on Time Roll out projects which involve Schema modification and PCR creations for Time Management.
+· Provide updates to the Business on the progress of various enhancements, long pending issues etc in regular meetings.
+· Identify the deficiencies in the current functionality and recommend suitable enhancements / solution.
+· Provided post production support for Time rollouts – Italy, China and Saudi Arabia
+· Designed and implemented two new time evaluation schemas for USA and Canada to overcome existing issues and to ensure smooth payroll run for over 20000 employees.
+· Provide support on issues related to ESS / MSS like Time quota display in ESS, Time statements and Time approvals.
+2. Senior Functional consultant: July 2008 to March, 2011
+Providing maintenance support for SAP-HR Personnel Administration, Organization Management and Time management modules implemented in more than 110 countries.
+· Providing support for all PA, OM, Payroll, Time Management and ESS / MSS related issues.
+
+· Business requirement analysis.
+· Preparing Functional specification.
+· Preparing Unit Test Plan (UTP).
+· Configuration, writing Rules to meet various Business requirements.
+· Creating new Wage types and Pay Scale Groups for specific requirements.
+· Create new work schedules, absence / attendance types for various countries and updating Holiday calendars at regular intervals.
+
+· Resolving problems related to Absence/Attendance Quotas and their generation.
+
+· Handling ESS and CATS Time Sheet related and access related problems.
+
+· Using Remedy Tool and Service center (Ticketing tools) to solve the Tickets/issues raised by the client/users.
+· Payroll interface to send Idocs to 3rd party payroll system.
+· Change request management through Solution manager.
+· Testing the application after every patch implementation and enhancements to the functionality.
+
+	Non SAP Experience
+
+
+I. Designation: HR Operations Manager -  November 2006 to May 2008
+   Organization: GAD Information Technologies Ltd
+
+   Roles & Responsibilities: 
+
+As a HR Generalist, was responsible for Entire core HR activities like ER, Time, Payroll and Grievances etc.
+
+II. Designation: Mandal Literacy Organizer - December 2005 to October 2006
+    Employer: Dept of Adult Education – Govt of Andhra Pradesh
+    Roles & Responsibilities:
+
+Responsible for Recruitment, Trainings, Payroll of contract staff.
+III. Designation: Resource Person - January 2002 to December 2005
+
+    Employer: Dept of Education – Govt of Andhra Pradesh
+
+    Roles & Responsibilities:
+
+Responsible for Recruitment, Trainings, Payroll, Leave management, Transfers etc.
+
+	Office Address
+
+
+IBM India Private Limited
+Raheja Mind Space, 3B VII Floor
+
+Hitec City, Madhapur
+Hyderabad, ( State: Telangana )
+
+INDIA
+

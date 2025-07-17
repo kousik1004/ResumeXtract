@@ -1,0 +1,145 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9076251877| aagamdoshi30794@gmail.com 
+	                  Aagam Doshi
+Add : B/104, Parshwa Nagar Building No. 2, Devchand Nagar Road, Bhayander (West), Dist.- Thane, Pin: 401101
+
+Career Objective
+
+To obtain a creative and challenging position that gives me an opportunity for self-improvement and leadership, while contributing to the symbolic growth of the organization with my technical, innovative, analytical and logical skills.   
+
+EMPLOYMENT
+	July 2016-Present	 GEP (Smart by gep) 
+· GEP is a product-based company which is a unified procurement platform designed to automate all the source-to-pay and P2P processes via various modules viz. Contract Management, Rfx, Auction, Supplier Profile Management, Catalog Management, Projects, Spend analysis, Invoice Management and Order Processing.
+· GEP client includes Fortune 500 and Global 2000 enterprises, and leading government and public institutions namely Exxon Mobil, Exelon, Chevron Corporation, Apex Tool Group, Rite Aid, Prudential Financial, John Deere, Flipkart, Kellogg’s 
+
+ROLEs & responsibities
+· Working as Software Engineer in Contract Management module to develop new functionalities & enhance existing functionalities in the product
+· Resolving the issues reported by the Client, CST or QA Team on all environments (DEV, QC, UAT, PRODUCTION)
+· Responsible for Build, Release & Deployment of Contract Module
+· Helping new hires with the functional and technical aspects of the module
+· Coordination with the Product Manager for Requirement Gathering and Design Analysis     
+Techincal 
+Proficiency
+                         Technology              JavaScript, C#, .NET MVC, SQL Server, Angular JS, UnderscoreJS, jQuery(Basic), REST API 
+
+               Application             Team Foundation Server, GitHub, Elastic search (Marvel Sense & Kibana Server) Cloudberry, Postman, Advanced Rest Client
+
+
+
+
+
+PROJECTS
+	July 2016-Present	 MaJOR functionlities ENHaNCED/added in THE PRODUCT
+· Bulk upload of Comments & Contract Attachments through MS Excel
+· This functionality allows the client to create new contracts and update existing contracts in bulk in few minutes/seconds, by filling appropriate data in the Excel template provided instead of creating contracts from UI one after the other 
+· Technologies used – C#, SQL Server
+· Duration – 3 to 4 months
+
+· Audit Trail of UI components along with filters
+· This functionality was developed to maintain a log of changes user performs on the document for each field and view them in the audit log along with the filters
+· Technologies used – C#, SQL Server, JavaScript, Angular JS, HTML and CSS
+· Duration – 2 to 3 months
+
+· Contract Modification
+· This functionality was developed to enable client to perform changes in the legal contract when it is LIVE state, once changes are made it can be sent for review to the stakeholders 
+· Technologies used – C#, SQL Server, JavaScript, Angular JS 
+· Duration – 3 to 4 months
+
+· Add/Delete/Edit multiple Teams in a single contract
+· This functionality aimed to add multiple stakeholders such as suppliers, buyers and team members along with their functional details to the contract which can be further used to perform the contact signature, contract review or Contract approval process. 
+· Technologies used – Angular JS, JavaScript, HTML and CSS
+· Duration – 2 to 3 months
+
+· Add Delete/Edit multiple Signatories in a single contract and its digital Signature process
+· This functionality was added to enhance the existing functionality of signature process where single party was able to sign the Contract which can now be signed by multiple Signatories 
+· Technologies used – C#, Angular JS, JavaScript, Esign and DocuSign API Integration with Platform Team 
+· Duration – 3 to 4 months months
+
+
+
+
+
+EDUCATION
+
+2016                BACHELOR’S IN COMPUTER ENGINEERING
+· K J. Somaiya College of Engineering (Autonomous and Affiliated to Mumbai University) scored 7.46 C.G.PA. 
+                                                                                                                                         
+2012                HIGHER SECONDARY CERTIFICATE 
+·  Mithibai College (Maharashtra State Board) scored 80.67%          
+                                                                                                                                    
+2010      Secondary scool certificate
+·   D’silva High School (Maharashtra state Board) scored 92.18%     
+
+other tools used
+  Error logging & Monitoring          New relic, log4net
+
+Plan and Project Tracking          JIRA (Agile Methodology), TDD approach, Pair Programming, SCRUM
+
+Digital Signature Technology      	 DocuSign, Adobe eSign 
+· enables users to send, sign, and approve documents from anywhere and anytime 
+· speeds up the workflow or approval with its fully secured digital signature technology
+
+TECHNICAL Events 
+
+  GEP Hackathon           Ask Emily (A Smart chat assistant) using microsoft Cognitive Services (AwArded 2nd runner up for the event) 
+· Developed a small prototype to add new chat feature - for real time interaction with client user into SMART (a product of GEP) 
+· This bot can be integrated with email, Facebook Messenger, Kik, Skype, Slack and Skype for Business which could increase business profitability by providing them a new way to interact with the tool.
+
+Technologies used: Microsoft Bot Framework, C#, LUIS Model for NLP, REST API’s 
+
+· 
+Online Challenges          Actively participating in online coding platforms on Leetcode and Codechef (largest Online Coding Communities) & solved more than 100+ problems combined.
+
+
+
+© This Free Resume Template is the copyright of Hloom.com. The unauthorized copying, sharing or distribution of copyrighted material is strictly prohibited.

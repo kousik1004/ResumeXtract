@@ -1,0 +1,300 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name-Poorva Bharat Kudale 
+ 
+Email ID- prvkudale@gmail.com 
+ 
+Mob No- +91 8975466455 
+ 
+Professional Summary  
+
+ Around 2 years 6 months of experience in development and implementation of software applications using 
+
+Java/J2EE, Struts, Spring, Hibernate technologies. 
+   Worked extensively in the development of web applications using Spring, Spring MVC, Spring Boot, 
+   Hibernate, Maven.  
+   Strong emphasis and knowledge on OOPS, Java, JDBC, Servlet, and JSP.  
+   Hands on experience on MVC Architecture.  
+   Expertise with a variety of servers like Apache Tomcat, JBoss.  
+
+Expertise in developing web based GUIs using JSP and HTML, Bootstrap             
+
+Excellent analytical, problem solving and communication skills.  
+   Hands on experience on merging tools Git, Tortoise, bitBucket. 
+ 
+
+Experience Summary  
+ 
+
+Working as Java Developer in Bbnisys Technologies Pvt. Ltd., Pune from July 2017 to till date.  
+Worked as Software Engineer in Topaz Software System, Pune from Nov 2015 to Mar 2017. 
+
+ 
+
+Technical Skills  
+ 
+
+Hardware/Platforms : Windows Family 
+ 
+
+Technology : Java (J2SE, J2EE) 
+ 
+
+Core Skills : OOPS, JDBC 
+ 
+
+Web Technologies : Servlet, JSP 
+ 
+
+Database : MYSQL 
+ 
+
+Frameworks : Struts, Spring 
+ 
+
+ORM : Hibernate With JPA Annotations 
+ 
+
+Web Application Servers : Apache Tomcat 
+ 
+
+IDEs : Eclipse 
+ 
+
+Client Side Technologies : HTML 
+ 
+
+Scripting Technology : Javascript, Jquery, Ajax 
+ 
+
+ 
+
+Relevant Project Experience  
+ 
+#Current Project 1:   
+
+Title : Cloud HMS 
+Duration : Nov 2017 to Till Date. 
+Environment : J2EE, JSX, React JS, Spring, Spring-boot, Hibernate, Maven, Git 
+Team Size : 3 
+
+Role : Developer 
+
+mailto:prvkudale@gmail.com
+
+
+Description: CloudHMS is a cloud based pioneer Hospital information System. The data of the ColudHMS is 
+stored in encrypted form ensuring security. CloudHMS include all departments of hospital management. It 
+gives solution for pharmacies, diagnostic labs, imaging units, advanced way of patient appointment and queue 
+management, Multi-hospital and multi-branches handling capability. 
+ 
+
+Roles and Responsibilities:  
+Involved in implementation of end-end layers of application. 
+
+Involved in presentation layer development using JSP 
+
+Converting the Prototypes into dynamic JSP pages.  
+Responsible for developing view and controller components.  
+Implemented various Rest Controller classes for the user interactions using spring boot. 
+Add Required dependencies of project using maven  
+Injected Dao’s into service classes using IOC pattern. 
+
+Created entities for the Tables.  
+Involved in configuring the spring & hibernate.  
+Connecting to Database for retrieving and modifying data using Hibernate, JPA. 
+
+ 
+
+#Project 2:   
+Title : eHMS 
+Duration : Aug 2017 to Nov 2017. 
+Client : Bbnisys Technologies Pvt. Ltd 
+
+                Environment : 
+Java, J2EE, JSP, Bootstrap, Spring MVC, Hibernate, maven, Git, 
+tortoise, MySql 
+
+Team Size : 3 
+
+Role : Developer 
+ 
+
+Description: eHMS is product of Bbnisys Technologies Pvt. Ltd. Design for Maintain and handling daily work and 
+patient details, schedule appointment in hospital as well as complete hospital work. This project aims at 
+managing overall OPD, IPD, Casualty, immunization patient handling, maintenance and movements also include 
+billing and transactions. 
+ 
+
+Roles and Responsibilities:  
+Involved in implementation of end-end layers of application. Involved       
+
+in presentation layer development using JSP 
+
+Converting the Prototypes into dynamic JSP pages. 
+Responsible for developing view and controller components.  
+Implemented various Controller classes for the user interactions using Servlet. 
+
+Injected Dao’s into service classes using entity classes.  
+Created entities for the Tables.  
+Connecting to Database for retrieving and modifying data using JDBC. 
+
+ 
+
+#Project 3:   
+Title : Topaz’s Office Automation System (OASYS) Portal 
+Duration : Aug 2016 to April 2017. 
+Client : Anchrome Lab Supplier 
+Environment : Java, J2EE, JSP, Struts, JavaScript, MySQL. 
+Team Size : 3 
+
+Role : Developer 
+ 
+
+Description: It's a cloud-based ERP system meant for Small businesses supporting 'Virtual Office' and 'Work from 
+Anywhere'. It's well-suited for small firms selling/ distributing branded equipment/ appliances for Industrial use. 
+Business activities can include: Sales Equipment, Enquiries, Quotation Management, Purchase Order and Service  
+Planning. 
+
+
+
+ 
+
+Roles and Responsibilities:  
+Involved in implementation of end-to-end layers of application.  
+
+Involved in presentation layer development using JSP 
+
+     Converting the Prototypes into dynamic JSP pages.  
+     Responsible for developing view and controller components.  
+
+Implemented various Controller classes for the user interactions using Struts framework. 
+
+Injected Dao’s into service classes using Entity classes.  
+Created entities for the Tables. 
+Connecting to Database for retrieving and modifying data using JDBC. 
+
+ 
+ 
+
+#Project 4:   
+Title : Online Pharma Sales Force Tracker (SFT) 
+Duration : Nov 2015. To July 2016 
+Client : Topaz Software System 
+Environment : Java, J2EE, JSP, Struts, JavaScript, MySQL. 
+Team Size : 2 
+
+Role : Developer 
+ 
+
+Description: This Online Sales Force Tracking System caters the needs of PHA companies to effectively plan, 
+manage and track activities of their sales force. It also gives customized MIS report. It facilitates sales persons to 
+prepare and upload their daily sales activity report. It also assists senior management to track & analyze 
+marketing activities, so that they can guide team to take focused actions. It also indicates the relationship 
+between Sales Activities & Results achieved by the team and the individual. 
+ 
+
+Roles and Responsibilities:  
+        Involved in implementation of end-end layers (presentation, business logic and database logic) of application. 
+
+Involved in presentation layer development using JSP               
+
+Converting the Prototypes into dynamic JSP pages.  
+Responsible for developing view and controller components.  
+Implemented various Controller classes for the user interactions using struts framework.      
+Injected Dao’s into service classes using Entity classes.  
+Created entities for the Tables.  
+Connecting to Database for retrieving and modifying data using JDBC. 
+
+ 
+
+EDUCATIONAL DETAILS  
+ 
+
+ PG - MCA University Of Pune (2013-2015)
+
+
+(Zeal Education Society’s DICER) aggregate of 67.35%. 
+
+
+
+ Grad. - BCA University Of Pune (2010-2013)
+
+
+(RSSP’s Maharashtra College of Science and Commerce) aggregate of 59.12%. 
+
+
+
+ UG - HSC Maharashtra State Board (2008-
+2010) (MIT Jr. College) aggregate 64.17%.
+
+
+
+ School- SSC Maharashtra State Board (2008)
+
+
+(Raja Shree Shivrai Pratishthan School) aggregate 69.53%. 
+
+
+
+PERSONAL DETAILS 
+ 
+ 
+
+ 
+
+Date of Birth : 2 August 1993 
+Gender : Female 
+Nationality : Indian 
+Languages Known : English, Hindi, Marathi 
+
+Marital Status : Single 
+ 
+ 
+ 
+
+ 
+
+Poorva Bharat Kudale 
+
+

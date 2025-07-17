@@ -1,0 +1,195 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manjeet Khan Malwan
+MBA IBS-Bangalore, B.Sc. (Mathematics & Computer Science)
+#412, Mahaveer Wilton, 22nd Main Extended ● JP Nagar 5th Phase ● Bangalore-560078
+ (+91)99860 64644●mkmalwan@gmail.com
+
+In pursuit of challenging assignments as Business Analyst with an organization of repute
+
+Professional Experience 
+
+· 3+ years of experience of Developing in Data Science solutions
+· 7 years of experience in Business Analyst for Business Intelligence 
+· Proficient with Data Modeling techniques and Statistical Analysis
+· Ability to learn and apply appropriate analytical tools and techniques
+· Proficient with Machine Learning algorithms for Classification, Regression, Recommendation, Text Analytics, Clustering 
+· Beginner knowledge on Neural Networks like Perceptron, MLP, DNN, CNN, RNN(LSTM and GRU) and Auto Encoders
+· Strong analytical and practical skills; collect, organize, analyze, forecast, and visualize data with attention to detail and accuracy
+· Good experience in designing solutions from customer requirement and preparing efficient statistical models for solving them.
+· Good experience in manipulating and analyzing the complex, high volume and high dimensionality data from different sources.
+· Good experience in model deployment and validation
+· Good experience in various statistical tools like R, R-studio, Python , Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn and stats models
+· Good knowledge on cloud ML like AWS ML and Azure ML
+· Knowledge on distributed computing using Spark and Hadoop
+· Excellent project, team management and client coordination skills
+
+Data Science Skill Summary 
+
+· Statistical Analysis:
+· Exploratory Data Analysis: Data Transformation, Missing Data Handling(Single Imputation, Multiple Imputation)
+· Feature Engineering: Add or Remove features, Feature transformation, feature filtering (Correlation and Zero Variance)
+· Machine Learning:
+· Predictive Analytics:
+Classification: Decision Tress, Logistic Regression, Bagged Model, Gradient/ADA/XG Boosting, KNN, Naïve Base and Random Forest
+Regression: Linear Regression, Logistic Regression and GBM
+Recommendation: Top-N recommendation, Collaborative Filtering and Association Analysis (Appriori)
+Unsupervised: Clustering(k-Means)
+· Dimensionality Reduction Methods: Principal Component Analysis (PCA) , Ridge Regression, LASSO and Elastic Net Data 
+· Visualization: Power BI, Tableau, R – GGPlot Matplotlib, seaborn and ggplot
+
+Key Skills
+
+· Statistical and Machine Learning: R, Python, Numpy, Pandas, AWS ML, Azure ML and SciKit-Learn
+· Data Visualization: Power BI, Tableau, R – GGPlot, Matplotlib, seaborn and ggplot
+· Big Data: Hadoop – Pig/Hive, Spark, Azure Data lake, HDInsight 
+· Database: Microsoft SQL Server, MySQL, Oracle, MS Access
+
+
+
+
+Professional Experience 
+
+Since Oct’10: Sonata Software Ltd., Bangalore as Business Analyst
+
+1. March 2018 to till date
+
+Building Machine Learning solution for Background Check company
+
+The objective of the project is to develop a machine learning Solution to predict candidate’s probability of having Criminal case, expected time of completing order and legal document parsing 
+
+In a team of 4 people, responsibilities included:
+· Understanding the business requirement of analytical problem 
+· Identification of appropriate fields and collection of data
+· Data cleansing/Data Preprocessing
+· Performed exploratory data analysis to identify the sample dependencies
+· Built various predictive models to identify the best model based on accuracy
+· Apply the best predictive model and scored the production data
+· Created the visual report using excel 
+
+2. Dec 2017 – Feb 2018
+
+Machine Learning PoC for Travel Company
+
+The objective of the project is to develop a machine learning solution to optimize the perishable food loading on the budget airline  
+
+Responsibilities included:
+· Understanding the business requirement of analytical problem 
+· Identification of appropriate fields and collection of data
+· Data cleansing/Data Preprocessing
+· Performed exploratory data analysis to identify the sample dependencies
+· Built models using Newsvendor Model 
+· Created the visual report using excel 
+
+3. March 2017 to Dec 2017
+
+Business Intelligence Solution for Electronics Company
+
+The objective of the project is to develop a Business Intelligence Solution on Microsoft Cortana Intelligence Suite for Supply chain to improve the Stock efficiency & Stock turn at Stores.
+
+In a team of 6 people, responsibilities included:
+· Requirement Analysis 
+· Dimensional Modeling and Data warehouse design for tabular cube
+· Leading the Business Analysis activities. 
+· Conceptualizing and Visualizing reports for Inventory, Stock Availability, ABC Analysis, Trend etc. 
+
+4. Dec 2015 to Jan 2017
+
+Data & Analytics Competency 
+
+· Part of the Competency team to identify the latest Technology development in the field of Business Intelligence & Analytics. 
+· Building and porting the existing Frameworks and Solution on latest Business Intelligence Technologies
+· Becoming leading partners in latest technologies like Power BI, Azure Machine Learning, Cloud Data warehouse, Dynamics Customer Insight etc. 
+· Helping the team to identify the use cases for latest technologies like Cloud, IoT, Analytics, Reporting etc.
+· Helping team to learn and understand latest technology and build the competency 
+
+
+
+5. Retail Analytics & Web Analytics Solution 
+
+The objective of the project is to develop a Retail Analytics & Web Analytics Solution on Microsoft Technology platform. The Also to create the data mining models for advance analytics. The solution will encompass Store operations, web analytics and Loyalty analytics which can help the customer to plan, launch, evaluate and monitor various marketing campaigns
+
+In a team of 7 people, responsibilities included:
+· Project management, Requirement Analysis 
+· Dimensional Modeling and Data warehouse design for tabular cube
+· Leading the Business Analysis activities. 
+· Conceptualizing and Visualizing Web analytics, Loyalty Dashboard and preference reports and Trend reports
+· Conceptualizing and Visualizing various machine learning use cases like forecasting, campaigns, RFM, Market basket analysis and personalized recommendations. 
+
+6. BI Solution for mobile satellite services operator 
+
+The objective of the project was to enhance the existing BI solution & create a Data mining solution. The solution provides users ability to create high visualization ad hoc reports using Microsoft Power View & improve collaboration. The data mining solution was created for revenue forecast.    
+
+In a team of 5 people, responsibilities included:
+· Requirement Analysis
+· Dimensional Modeling and Data warehouse design
+· Leading the Business Analysis activities. This included interacting with the Business users to structurally and functionally define the business logic, derive specification for BI and analytics 
+· Conceptualizing and Visualizing revenue forecasting reports using Time series algorithm 
+
+
+Mar’08 to Oct’10: Sonata Information Technology Ltd., Bangalore as Executive
+
+· Establish marketing strategies to meet organizational objectives. 
+· Evaluate customer   research, marketing conditions, and competitor data and implement changes in marketing plans as needed.
+· Responsible for Managing the existing Key accounts. 
+· Mapping of accounts, identifying and building relationship with customers
+· Meeting Customers to understand their infrastructure and regular discussion over their requirements and constraints.
+· Preparing Business Proposals.
+
+EDUCATION & CREDENTIALS
+
+· Completed Retail Analytics using SAS from Jigsaw Academy 
+· Completed Foundation Course on Analytics from Jigsaw Academy
+· Completed Data Science and Machine learning essentials from Microsoft Virtual Academy 
+· Pursuing Machine Learning A-Z from www.Udemy.com 
+· Completed Certificate Course in Retail Management from www.edukart.com 
+· MBA (Marketing and IT) from IBS, Bangalore, Secured CGPA 8.60, 2008
+· Bachelor of Science in Computer Science from MNR Degree College, Hyderabad, Secured  74.5%, 2004
+

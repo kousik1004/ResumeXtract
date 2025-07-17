@@ -1,0 +1,155 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume		Mahesh Kagitha
+
+Mahesh .K
+Software Developer, Healtho5 Solutions Private Limited
+Email: kagithacm237@gmail.com, Phone: +91-8807421262.
+
+Experience Summary
+
+· An associate with Healtho5 Solutions Private Limited for the last 3 year 2month.
+· Joined Healtho5 Solutions Private Limited in sep2016.
+· Working as Software Developer with more than 3 years2 month of experience in Health domain.
+· Strong Knowledge on the phases of Software Development Life Cycle. Agile (Agile & Scrum).
+· Good Knowledge in Angular 1.0/2.0, Angular 4.0.
+· Extremely good experience in middle layer technology.
+· Excellent analytical, inter-personal, communication & written skills. 
+Technical Skills
+
+	WEB Technology:
+	HTML5, CSS, Java Script, AJAX, Jquery, Angular Js, ES6, Typescript, XML, JSON.
+
+	Languages:
+	JavaScript, Angular 1.0/2.0, Angular 4.0.
+
+	Operating Systems:
+	Windows XP, 7, Ubuntu.
+
+	 Tools:
+	Web Strom
+
+	Version Controller
+	GIT, Tortoise SVN.
+
+	Deployment
+	Heroku
+
+
+
+Educational Background
+
+Bachelor of Technology
+Information Technology (IT)
+Project Experience
+
+										March2017 - Present
+
+Client		:     Healtho5 Solution Pvt ltd.			
+Designation	:     Software Developer.
+Healtho5 Solutions is a Bangalore based Social and Mobile Healthcare Engagement Company (Healthcare CRM and Contact Centre).
+Our Physician Engagement APP”DoctorWiz”
+Our Patient Engagement APP”Health Wiz” 
+Patient Engagement Solutions for Your Hospital:-We engagement your patients via app, phone, chat, sms and emails.
+Branded Hospital App for Patients: Patients can download a branded Hospital app listing Doctor with appointment booking, Hospital lab Services Booking, frequent health information updates and integrated payments .Patient platform can also contact our nurse executive and Support team through the app.
+Responsibilities:
+
+· Involved in understanding existing applications and reviewing requirements, use cases with business team and implementing and prioritizing the tasks per business requirements using the agile methodology.
+· Designed Web Forms using Angular 1.0/2.0 and angular4.0  and HTML5,CSS3,ES6,Type Script.
+· Extensively worked with Angular Js web site administration tool to create Roles, Login Controls, Authentication and Authorization for site security.
+·  Consumed Rest Api services.
+· Developed a module that enables the administrator to provide access rights to users based on their credentials.
+· Used several test cases to check for bugs in the code and for bad data.
+ 
+
+My Achievements:
+
+· Developed a module “Authentication , Authorization”  
+· Correspondent User login the System Role based Authentication showing the Information in Bootstrap Grid and Images uploading and maintains.
+· Developed a module login in System profile Image and Information in Curd operation performed in Data.
+
+Environment/Tools:
+HTML5, CSS, Java Script, Jquery, Angular1.0/2.0 and angular 4.0, JSON,Type Script, ES6.
+
+Financial Legal Agreements Management System 1.0		                             Mar2014 – August2016
+
+Client		:     Koya Law LLC			
+Designation	: Jr.Mean Stack Developer
+
+Mater Repurchase Agreements,ISDA Agreements,PB Agreements are initially input by licensed attorneys or law clerks, and undergo a second review by an additional attorney to approve terms and documents to ensure accuracy. Financial Agreements Management System allows users to maintain vigilance over important terms contained in their Financial Agreements by permitting the user to efficiently track provisions.
+
+Responsibilities:
+
+· Involved in understanding existing applications and reviewing requirements, use cases with business team and implementing and prioritizing the tasks per business requirements using the agile methodology.
+· Designed Web Forms using Angular JS and HTML5,CSS3
+· Extensively worked with Angular Js web site administration tool to create Roles, Login Controls, Authentication and Authorization for site security.
+· Created and consumed Rest Api services.
+· Developed a module that enables the administrator to provide access rights to users based on their credentials.
+· Developed many Mongo DB queries to fetch data as per the business requirements with tuning techniques.
+· Used several test cases to check for bugs in the code and for bad data.
+
+My Achievements:
+
+· Developed a module “Audit Logs” 
+· Monitoring to log and audit events.
+· Instrument for User Management events.
+· Instrument for Unusual Activity.
+
+Environment/Tools: 
+
+HTML5, CSS, Java Script, AJAX, Jquery, Angular Js, XML, JSON,Heroku.
+
+The Financial Agreements Management System is a Web Forms application and must be implemented with WebStrom, using the IDE installed on the workstation.
+
+
+
+
+
+

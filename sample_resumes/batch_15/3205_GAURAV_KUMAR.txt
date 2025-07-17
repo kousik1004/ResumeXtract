@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+
+Curriculum Vitae   
+
+
+GAURAV KUMAR
+Present Address: B-202 Rohan Tarang ,Wakad, Pune (Maharashtra)                                 
+Mob	: +91-9818174581           
+Email:  gk.kumar765@gmail.com                                                                                                                                                                                 
+Experience Summary:
+· Around 3.8 years of professional experience in software systems analysis, design and development
+· Working as a MSBI Developer with Tata Consultancy Services (TCS)
+· Around 2 years of expertise with hands-on experience in SQL Server Programming and MSBI (SSIS,SSRS)
+· Sound knowledge of diverse technologies such as Business Intelligence and SQL Server
+· Hands-on experience in MS SQL Server 2005/ 2008/ 2012, SSIS and SSRS
+
+Education and professional development:
+· Bachelor of Technology (B.Tech), Uttar Pradesh Technical University, Aligarh, Uttar Pradesh
+
+Trainings:                                                                                                                             
+
+· Attended Training on Power BI, Azure Data lake in TCS
+
+Technical skills:                                                                                                                             
+
+	Operating Systems
+	MS Windows 7/8  2008 Server, Linux/ Unix
+
+	Microsoft BI Tools
+	SSRS, SSIS, SSAS Tabular Model ,Power BI
+
+	ETL & Reporting Tools
+	SSRS, SSIS, Power BI 
+
+	Databases
+	MS SQL Server 2005/ 2008/ 2012
+
+	Languages 
+	T-SQL 
+
+
+
+
+Project Experience:                                                                                                                             
+
+
+Tata Consultancy Services, Pune	Aug’17 till date
+1. Project: UPS-NRT	Aug’17 till date
+Client: United Parcel Service, US
+Role: Team Member
+Description: UPS is the largest shipment and logistics company in the world. The American global package delivery company is headquartered in Sandy Springs, Georgia, which is part of the Greater Atlanta metropolitan area. UPS delivers more than 15 million packages a day to more than 6.1 million customers in more than 220 countries and territories around the world. This project was designed/ developed to load the data from various data sources such as MS SQL Server, flat files, prepare data warehouse, and using cubes, analyzed the core activities of business such as package delivery related activities, and status of each shipment related activities, which were daily, weekly, and monthly reports. Dashboards, Maps, Ad hoc report, and analytical tabular reports were few essential requirements for this project.
+Responsibilities:
+· Engaged in task analysis, development, and configuration for SSIS
+· Developed SSIS packages and enhancement in existing packages
+· Prepared unit test cases, ran the job manually, whenever required to load the data into QA and DEV environments
+· Optimized the performance of T-SQL queries, eliminated redundant and inconsistent data, normalized tables, and created indexes whenever necessary
+Environment: MS SQL Server 2012, SSIS, SSRS
+
+
+
+Flightcase IT Services Pvt. Ltd., Pune	Feb’16 to Jul’17
+1. Project: ITAC	Feb’16 to Jul’17
+Client: Impact Telecom Inc, US
+Role: Team Member
+Description: The project is designed and developed to pull data from different - different database server and send it to DataMart and analysis the CDR of every carrier. The core activities are overall encounter. Create SSRS report of our CDR data and send it to our customer and vendor.
+
+Responsibilities:
+· Responsible for database support and development using MS SQL Server 2008,SSIS and SSRS
+· Experience in ETL processes. Worked on data extraction, cleansing/data integration, and loading from different data sources using SSIS
+· Created database, tables, views, stored procedures, functions, and complex queries
+· Create SSIS package to import Daily Attendance information files
+· Used MS SQL Server 2008 Reporting Services (SSRS) to design and develop reports 
+· Optimized the performance of T-SQL queries and created indexes whenever necessary
+
+Environment: MS SQL Server 2008, SSIS, SSRS
+
+
+Visesh Infotecnics Ltd., Noida	Dec’13 to Jun’15
+1. Project: Greenwire	Dec’13 to Jun’15
+Role: Team Member
+
+Responsibilities:
+· Create database objects such as tables, views, stored procedures, functions, Triggers
+· Installation, Administration and Maintenance of SQL Server Instances
+· Take backup from the database server
+· I handle all critical network resource including Cisco 1900, 2960 Switches & Cisco 2600, 1841 router
+· Managing system administration, networking and hardware management & maintenance in the organization
+· Working on latest sip protocol with the supported voice codec like G729, G723, G711 etc.
+· Working knowledge on CDR to fine the fault in A-Z route of different vendors and replace with best route
+· Operating soft switch to maintain Route changing, Tariffs, Rates Updates, ASR and ACD of the vendors and the clients connected to us around the world for the VOIP service
+· Monitoring SIP call logs through our SIP Service to fine out the error (eg.503 service unavailable, 404 not found, 480 unsupported codec type, 603 decline etc )
+· Creating users, group’s on Linux server.
+· Installing and configuring of IP phone (yealink), pap2 device
+· Configuring FTP Server and maintaining it for users
+
+Declaration:
+        I hereby declare that the information furnished above is true to the best of my knowledge.
+
+
+Place & Date:                                                                           (Gaurav Kumar)

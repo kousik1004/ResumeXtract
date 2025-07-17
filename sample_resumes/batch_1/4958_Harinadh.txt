@@ -1,0 +1,251 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Harinadh.Kamma
+						
+Current Working Location: Hyderabad		                                       Mobile: 9603467713
+							             Email:harinadhkamma@gmail.com
+		
+PROFESSIONAL SYNOPSIS	
+· Having 4.2 years of experience in software development and maintenance of web based client/server applications.
+· Hands on experience in developing the multi-tier web applications using Java/J2EE, spring framework. 
+· Good knowledge in Java/J2EE and related technologies and have hands on experience in application development. 
+· Experience in working on windows, mac & various flavor of Linux. 
+· Expertise in using tools such as Eclipse with Maven, Jenkin, SVN, GIT. 
+· Good experience in performance testing (JMeter). 
+· Having Knowledge on Web Services, and Spring Framework.
+· Experience in working with Big data technologies Cassandra, Aerospike, Elastic Search.
+
+WORK EXPERIENCE	
+	Organization
+	Designation
+	From
+	To
+
+	OSI Technologies
+Hyderabad
+	Software Engineer
+			7th july 2014
+	Till Date
+
+
+
+PROJECTS DETAILS	
+	Project Name 
+	Macys – HUB 
+
+	Team size 
+	10
+
+	Technologies used 
+	Java script , Java 1.6, Spring , JQuery, Web Services, Maven, JDBC Module
+
+	Tools used 
+	TOAD, Eclipse , JBoss,  ANT, SVN, Splunk, Dyna Trace, Akamai, Heroku
+
+	Description 
+
+	Macy’s, Inc. is one of the Nation’s premier Omni channel retailers, company operating stores and Internet websites under two brands, Macy's and Bloomingdale's. The Company sells a range of merchandise, including apparel and accessories for men, women and children, cosmetics, home furnishings and other consumer goods. We Develop and Support Website applications of Macy’s (www.macys.com) and Bloomingdales (www.bloomingdales.com)
+
+	Role/Contribution
+	· We as a part of SST (Site Support team) are involved in the enhancementand changing activities of Macy's and Bloomingdale's application
+· Being part of L2, We are much involved in problem solving where rapid response matters first.
+· Requirement Analysis and preparing documentation.
+· Worked on enhancements in site using Java.
+· Worked on testing of SOAP and REST web services.
+· Effectively participated in bug fixing to deliver bug free Application.
+· Coordinated with QA teams.
+· Reviewing and analyzing the issues based on Severity (P-1, P-II, P-III), SLAs and providing fixes whenever required.
+· Supporting Releases and Critical Launches by doing Log Monitoring from Application layer Using Splunk and Dynatrace
+
+
+
+
+
+	Project Name 
+	Enterprise Gift Registry (SM Retail Inc.)
+
+	Team size 
+	8 
+
+	Technologies used 
+	Spring Boot, Spring Rest, Java 8,Angular 5 
+
+	Description 
+	SM Retail is a Retailing domain with around 6 companies under its umbrella. Enterprise Gift Registry is an application which primarily focuses on user events such as Birthday, marriage etc., Where celebrant can create event and add items to wish list and Guest can view and buy the wish listed products. 
+
+	Role/Contribution 
+	· Involved in Requirements discussion with Client. 
+· Involved in coding from the scratch. 
+· Developed applications to individual client standards.
+· Involved in Documenting TDS documentation, Sequence diagrams. 
+
+
+
+
+	Project Name
+	SST PAC (Production Application Checker)
+
+	Technologies used
+	Java 1.6, Spring 3.0, Rest Web Services, Maven, JSP
+
+	Description
+	SST PAC is an application tool to verify the site day to day activities like Server status, checking for Stale content, checking the custom date for applications etc. This tool is useful during daily site recycle. This is an Automation tool to avoid the manual work.
+
+	Role/Contribution
+	· Interacted with the business users, collecting the requirements, analyzing the requirements, design and recommending solutions.
+· Making use of REST services to get the data while verifying the stale content and custom dates of few applications.
+· Coordinating with QA and other team Members.
+· Debugging the application features and functionalities.
+· Unit testing the functionalities.
+· Involved in both testing and development of tool and developed from scratch.
+· Maintaining the application and to resolve any issues in Production.
+· Enhancements and deployments of the application.
+
+
+
+	Project Name 
+	Migrating Shopping Cart RDBMS to NOSQL (Macys Inc.)                   
+
+	Team size 
+	3 
+
+	Technologies used 
+	Jersey 2.0, Spring framework, Cassandra, Aerospike 
+
+	Tools used 
+	Eclipse, Maven, Chrome rest client,Jmeter 
+
+	Description 
+
+	Macys is Online retail domain which is divided into different components. BagApp is an application which deals with different operations on shopping bag (or cart).Basic Idea of project is to migrate bag calls which were interacting with DB2 to NoSql and see the performance to state which NoSQL database performs well. We 
+
+	
+	We have opted two NoSQL technologies namely Aerospike and Cassandra.   
+
+	Role/Contribution 
+	· Seperated BagApplication from ShopApp and Browse(Navapp) application. 
+· Implemented Webservices for various bag calls. 
+· Worked on various NoSQL database designs to see which performs better. 
+· Wrote DAO layer for Aerospike and Cassandra for different designs. 
+· Performed load testing and performance testing and captured results to showcase which NoSQL database excels to the usecase. 
+
+
+
+
+
+
+	Project Name 
+	Clear Point 
+
+	Team size 
+	2
+
+	Technologies used 
+	Spring MVC, Spring JDBC, Jquery, JSP 
+
+	Tools used 
+	Eclipse, Maven 
+
+	Description 
+	Clear Point is a tool which was designed to Conduct the  online exam for the PAT resources in our Organization. It is mainly intended to categorize the level of skills.
+
+	Role/Contribution 
+	 Involved in Enhancing the tool by adding suggested features.  Involved in performance tuning of the tool. 
+
+
+
+	Project Name 
+	Ess Portal 
+
+	Team size 
+	4 
+
+	Technologies used 
+	Spring MVC, Spring JDBC, Jquery, JSP 
+
+	Tools used 
+	Eclipse, Maven 
+
+	Description 
+	Ess portal is a leave management tool which was designed as product and used internally in our Organization. It is mainly intended to automate the leave management in the organization. 
+
+	Role/Contribution 
+	 Involved in Enhancing the tool by adding suggested features.  Involved in performance tuning of the tool. 
+
+
+
+
+Education	 
+· Master of computer application in 2013  with GPA of 78%
+
+
+PERSONAL PROFILE	
+	Name
+	Harinadh Kamma
+
+	Nationality
+	Indian
+
+	DOB
+	08 – 05 – 1990
+
+	Address
+	Hyderabad
+
+	Language Known
+	English,  Telugu
+
+
+
+Declaration	
+I do hereby declare that the above given statements are true and correct to the best of my knowledge
+                                                                                                                                     
+                                                                                                                                 (Harinadh Kamma)
+

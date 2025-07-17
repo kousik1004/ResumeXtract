@@ -1,0 +1,181 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anju Shreeraman
+Email:Anju.shreeraman@gmail.com
+Phone: +918129544576
+
+Experience Summary 
+Over 4 years of experience in Information Technology. As part of assignments, I have been in Requirement Analysis, Development and Unit Testing. My primary technical expertise is in Microsoft .Net technologies, especially C#, Windows Application, Web based Application. I have worked on AGILE methodology and waterfall model. I'm a quick and self-learner to adapt to new emerging technologies.
+ Skillset
+	Skillset
+	Hands on experience
+	Acquainted Skills
+
+	Operating System
+	Windows 7, Windows 10, Linux
+	
+
+	Technologies
+	C#, ASP.Net, LINQ
+	Web API, MVC, Angular
+
+	Scripting Languages
+	HTML, CSS, Javascript, JQuery, AJAX
+	
+
+	Database
+	MS SQL
+	
+
+	Repository
+	TFS, Github
+	
+
+	Tools
+	Visual Studio, SQL Server Management, ReSharper
+	
+
+
+
+
+Relevant Project Experience
+
+Project #1
+SharePoint Connector
+Email Supervision team support the business partners in meeting the supervision objectives of SharePoint sites. SharePoint connector application extracts the data from SharePoint sites periodically remotely using client object model and convert the data to eml file to push to HP Autonomy for archival and supervision.
+
+Role and Responsibilities
+· Involved in design and development of C# application by exploring share point client object model.
+· Responsible for developing proof of concept for the Share Point connector in client object and server object model and choosing the client object model based on performance and architecture reviews.
+· Actively involved in AGILE methodology for the project execution.
+· Actively participates in the daily status call, sprint planning and sprint retro meetings with client through video conferences.
+· Responsible for offshore coordination and project deliverables.
+
+Software Used: Visual Studio 2013, SharePoint 2013, Microsoft Visio 2007, Team Foundation Server
+Project #2
+CIG Connector
+EComm team support the business partners in meeting the supervision objectives of different features – Embark Chat, Adobe Connect, Fuel Cycle Live Chat and Discussion. The data for these features were provided by the vendor in CSV or XML format. CIG connector application extracts the data periodically and stores to the database. The data from database is converted into eml file to push to HP Autonomy for archival and supervision.
+
+
+Role and Responsibilities
+· Involved in design and development of C# connector application.
+· Actively involved in AGILE methodology for the project execution.
+· Actively participates in the daily status call, sprint planning and sprint retro meetings with client through video conferences.
+· Responsible for offshore coordination and project deliverables.
+
+Software Used: Visual Studio 2013, Microsoft Visio 2007, Github, SourceTree
+
+Project #3
+BPA
+Business Planning and Analysis (BPA) application helps representatives identify and understand the needs of closely held business owners. It helps determine the owner’s current position, where the owner would like to be, and communicate concepts and recommendations with crisp, customized graphics and output pages.
+As part of this enhancement project below two modules are introduced.
+
+·      Lifetime buyout Funding is to calculate the net present value of up to four options to illustrate funding scenarios for a lifetime buyout of a business and allows for various funding sources to be shown in combination and provide comparisons between options.
+· BPA SERP (Supplemental Executive Retirement Plan) calculator and reports is to compare the tax benefits of including a SERP as part of a buy-sell agreement so that financial representatives may help business owners and prospective buyers optimize their income and costs.
+
+Role and Responsibilities
+· Requirement Analysis: Involved in analyzing requirements and raising clarifications 
+· Design and Documentation
+· Development:
+· Client Side RDLC Reports
+· Unit testing and integration testing of the entire features implemented
+· Conducted code walk through and demos with Client SME’s
+
+Software Used: Visual Studio 2008, Visual Studio 2013, Rapid SQL 8.3.5, IBM DB2,SoapUI, Microsoft Visio 2007, Team Foundation Server
+Project #4
+Dashboard
+A web based dashboard developed with ASP .NET as Front-end and MS SQL as back-end. The project involved development of various administrative screens like Staffing, SOW Tracking, Invoicing, Learning & Development tracking, and Knowledge Management etc.
+Role and Responsibilities
+· Requirement Analysis: Involved in analyzing requirements and raising clarifications 
+· Design: 
+· Prepared the use case diagrams and sequences based on the analysis
+· Involved in preparing the architecture blue print for the Dashboard
+· Development:
+· Responsible for designing the user interface of the application which displays day today events of the account
+· Responsible for analyzing and fixing issues reported
+· Responsible for leading changes in multiple tracks
+· Unit testing 
+
+Software Used: Visual Studio 2013, SQL SERVER 2008, Microsoft Visio 2007, Team Foundation Server.
+Education, trainings and certifications
+
+· Certification  Details
+· LOMA 280 Life Insurance Certification
+· Education Details
+
+	COURSE
+	BOARD/UNIVERSITY
+	MARKS(%)
+	INSTITUITION
+	YEAR OF PASSING
+
+	B.Tech
+(CS)
+	CUSAT
+	80
+
+	College of Engineering, Chengannur
+	2014
+
+	12th
+	CBSE
+	83
+	St. John’s School, Kota
+	2010
+
+	10th
+	CBSE
+	89
+	St. John’s School, Kota
+	2008
+
+
+

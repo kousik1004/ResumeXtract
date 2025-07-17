@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+                                                                          GOVIND  BARIKA
+                                                                                                  Mobile: +91-8095478520
+                                                                                                  E-mail: govind.barika@gmail.com 
+
+
+
+          
+PROFESSIONAL EXPERIENCE:
+· Having 4.5 Years of experience in IT industry in developing web applications using Java, J2EE  and Spring technologies.
+
+· Having experience in using Spring Frame work for Business layer.
+· Having work experience in using Spring Boot.
+· Having experience on SOAP and REST based Web Services.
+· Good exposure to Agile methodology development. 
+· Expertise in using web technologies JavaScript and Velocity.
+
+· Experience in working with SQL Server Database. 
+· Having 1year of experience in writing the JUnit test cases to test the functionality.
+· Experience in using tools SVN, Maven.
+
+· Experience in using different servers like Tomcat7.0, JBoss6.3.3.
+· Experience in Application Development and Bug fixing.
+CERTIFICATION:
+
+· Oracle Certified Java Programmer (OCJP) (Java SE 6).     
+PROFESSIONAL SUMMARY:
+
+· Working as Application Development Senior Analyst in Accenture Solutions (I) Pvt. Ltd, Bangalore, since May 2013.
+EDUCATION:
+
+·  Achieved Master’s Degree MCA from JNTUA.
+
+·  Achieved Bachelor’s Degree in B.Sc from SKUA.
+SOFTWARE PROFICIENCY:
+
+	Language
+	JAVA
+
+	Java Technologies
+	Java1.8, Velocity
+
+	Frameworks
+	Spring
+
+	Web Technologies
+
+	JavaScript, Web Services.
+
+	Web/App Servers
+	Tomcat7.0, JBoss6.3.3.
+
+	Tools  
+	SVN, Maven.
+
+	IDEs
+	IntelliJ and Eclipse.
+
+	Data Base
+	MS SQL Server.
+
+
+	Project # 3
+	DIA
+
+	Client
+	Travelers, Hartford, USA.
+
+	Team size
+	Team of about 12.
+
+	Duration
+	June-2015 to Till date.
+
+	Role
+	Developer. 
+
+	Organization
+	Accenture, Bangalore.
+
+	Technologies
+	Java1.8, Spring Core/MVC/JDBC/Spring Boot, Velocity, 
+ RESTful Web Services, JBOSS6.3.3.
+
+
+Project Description:
+
+
+This DIA represents integrating two LOBs in single quote. We integrated property LOB with existing Auto. So that user can purchase two policies with single quote and he gets discount on premium. User can purchase more than one LOB related quotes through online directly. 
+
+In this process we are consuming some external services. For Property first will capture basic details of customer and property related details using basic, interior and exterior pages. Based on these inputs will provide the property quote. 
+
+Roles and Responsibilities:
+· Interacting with the Clients to get the requirements.
+
+· Understanding Business requirements and developing the logic using the Java program with the given framework.
+· Added/modified questions on UI pages and coded respective server side changes.
+· Consumed PCR web service in our application.
+
+· Modified one entire external service application to make it handle two LOBs.
+
+· Responsible for coding of DAO classes using Spring JDBC.
+· Written unit test cases using JUnit to test the code functionality. 
+	Project # 2
+	Quick Quote
+
+	Client
+	Travelers, Hartford, USA.
+
+	Team size
+	Team of about 10.
+
+	Duration
+	Apr-2014 to May-2015.
+
+	Role
+	Developer. 
+
+	Organization
+	Accenture, Bangalore.
+
+	Technologies
+	Core Java, Spring Core/MVC/JDBC, Velocity, Web Services, JBOSS5.1.
+
+
+Project Description:
+
+
+This is the project for Insurance application which is consumed by the direct customers of Travelers through Travelers.com. Through this application the customer can take the Auto policy or renew the existing policy of the vehicles that he is having.
+This project is deals with the customer basic information, vehicle information, Driver information and his insurance history. Based on this information the quote information can be shown to the customer and he can select the given quote or he can customize the given quote.
+As Technology emerging, travelers giving good competition in the current market by using the latest technologies in developing their applications like using bootstrap. Due to this customer can access travelers site in any devices and can purchase quote.
+
+
+Roles and Responsibilities:
+· Interacting with the Clients to get the requirements.
+
+· Responsibility is analyzing the given story and developing the logic using the Java program with the given framework.
+· Involved in Writing the Business Logic for Various Modules in the Application.
+· Written unit test cases using JUnit to testing the code functionality at test level. 
+	Project # 1
+	ETS
+
+	Client
+	ETS, New Jersey, USA.
+
+	Team size
+	Team of about 5.
+
+	Duration
+	May-2013 to Mar-2014.
+
+	Role
+	Developer. 
+
+	Organization
+	Accenture, Bangalore.
+
+	Technologies
+	Core Java, SQL and Tomcat6.0.
+
+
+Project Description:
+
+ETS is a team of education experts, researchers and assessment developers who believe that, through learning, people can improve their situations in life and make incredible contributions to the world. They also believe that by designing our assessments with industry-leading insight, rigorous research and an uncompromising commitment to quality, we can advance equity and help education and workplace communities make informed decisions about people and programs.
+  
+Roles and Responsibilities:
+· Updated requirements in System Requirement Specification document.
+· Modified the SQL Procedures to capture the email-id and phone number and storing the same in DB.
+· Written logic to capture the user details in server side program.
+· Created Sequence UML diagram for the functional flow.

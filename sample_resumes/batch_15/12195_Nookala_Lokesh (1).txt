@@ -1,0 +1,196 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Archana Tummala
+
+                                                                                                                                                                                        Oracle DBA
+
+Nookala Lokesh
+                                                                                                               Email: nookalalokesh92@gmail.com
+                                                                                            Phone: +91-9652161485
+ Professional Summary:
+
+· Having  3+ years of experience in database administration(DBA) on LINUX platform, windows platform, installation, configuration and managing Oracle 10g, 11g, 12c Databases.
+· Installation Oracle 10g, 11g, 12c using GUI and silent method on Linux.
+· Redhat Linux 7 installation.
+· Oracle Enterprise Manager (OEM) installation.
+· Data Refresh by using the expdp/impdp (Data pumps)
+· Backup’s validating by with OEM tool.
+
+· Patching and upgradation in 10g,11g,12c.
+· Upgraded Oracle 11.2.0.3 database to Oracle 11.2.0.4 database manually/DBUA.
+· Creation and Maintenance of Tablespaces.
+· Monitoring Indexes Analyzing and Rebuilding Indexes to rectify segment fragmentation
+· Tablespace growth and creating room in the File system by also giving recommendation to additional space.
+· Configuring database listeners, tnsnames.ora.
+· Cloning the database.
+
+· Working knowledge of database backup/restore methodologies including: RMAN, hot and cold backups, export, import, data Pump.
+· Experience in database administration like Datapumps, RMAN, and Physical standby databases using Data Guard Failover and Switchover
+
+· Data guard configuration and monitoring. 
+· Performing DR DRILLS for planned maintenance activities.
+· Have analytical, problem solving, communications and interpersonal skills with ability to interact with individuals at all levels.
+· Pluggable database (PDB) management. 
+· Installing & configuring Real Application Cluster ( RAC).
+· Knowledge on ASM, cluster configuration.
+
+Technical Skill:
+Database
+
+: 
+Oracle 10g/11g/12c Database Administration, SQL.
+Operating System
+
+:
+Windows 2012, 2008, Redhat Linux, AIX, Oracle Linux
+Education Background:
+· BTech(EEE) graduate from JNTUA in 2014 and scored 66%.
+
+Work Experience:
+· Working with Itrigon.com, Hyderabad as Oracle Database Administrator (designation- IT Analyst) –  21th july 2014 to still Present.
+Projects Details
+Project
+
+
+:
+Product Information System (PIM), Australia.
+
+Role
+
+
+:
+Oracle DBA 
+
+Team
+
+
+:
+15 
+
+Environment Platform
+:
+LINUX, WINDOWS 
+
+Ticketing Tool
+
+:
+BMC Remedy Tool(Help desk, Work request, Change Request)
+
+Databases
+
+:
+10g, 11g, 12c
+Database Tools
+
+: 
+RMAN, Data pump, Exp/Imp
+Software Tools
+
+:
+VMware, Putty, Winscp, Sql Developer
+Monitoring Tools
+:
+OEM
+Roles & Responsibilities:
+
+• Refresh the database using export/import dump backup from production to pre-production database for products 
+   re-conciliation.
+
+• Day to day monitoring and reporting database statistics.
+• Checking alert log for errors and if errors found taking necessary corrective actions.
+
+• Monitoring and maintaining day to day operations, monitoring growth of tables and undertaking necessary 
+   reorganization of tables as and when required. 
+• Checking the load on the server and identifying the bottle necks and clearing. 
+• Involving in DBA activities such as installation and up gradation of oracle software, creation of database, 
+   backup & recovery and production Database maintenance. 
+• Monitoring and Taking Backup of Database using Logical, Physical Backup including RMAN.
+• Provided all kinds of DBA support to development teams as well as production support to various 
+  applications
+• Monitoring databases in 9i ,10g, 11g, 12c versions.
+· Creating Users and granting Permissions, Password resetting, Unlocking Users, Managing roles.
+• OEM 10g Configuration/ Alert Monitoring and respond as per the SOP
+
+• Installing Oracle database clients of different versions and releases as per the request
+
+• Index rebuild, Table Re-org are some of the activities handled every day.
+
+• Managing database tablespaces, user grants, roles and privileges
+
+• Resolving database schema issues reported by the application teams
+
+• Applying bug fixes and executing changes in Production databases
+
+• Performing data refresh activities for both schema and database in production databases 
+
+• Coordinate with the clients for the deployments and migrations of the databases and Operating systems like AIX, Solaris, HP-UX, Linux Platforms.
+Personal Details:
+Date of Birth
+
+: Dec 18th 1992
+Nationality
+
+: Indian
+
+Marital Status  
+: Single
+Languages known
+: English and Telugu.
+   Date: 
+                                                                                                                        
+  Signature
+
+
+
+
+
+
+
+
+
+
+         
+       (Nookala Lokesh)

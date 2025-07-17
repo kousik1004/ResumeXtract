@@ -1,0 +1,286 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAP BI/BW - Consultant                                                                   
+
+Chandrasekharareddy Mundla
+
+
+
+
+
+
+
+
+
+
+ 
+Email: chandramundlapalli@gmail.com 
+
+
+
+Phone: +91-7702050001        
+  
+Professional Profile: -
+
+· Overall 12 years of IT experience in Software development where I bring about            7years of experience as SAP BI consultant, 3 years as ABAP consultant 2+ years in .net
+· Actively contributed in Implementation, Upgrade, and Roll out Projects for esteemed Clients like Genentech, chevron, BW insight, cProjects, and shine.
+· Participated in all phases of life cycle including Requirement Gathering, Analysis, Design, Development, Testing, Deployment Solutions, Post Go Live Support, Documentation, and User Training.
+
+· Very strong working knowledge in BW, conducted internal trainings on BW , worked as SME on BW-ABAP related issues, ability to identify the bugs in the existing systems and able to work on multiple projects simultaneously independently. 
+·  In-depth working knowledge in User Exits, Customer Exits (Function Module, Menu and Screen Exits) 
+
+SAP BW-ABAP SKILLSET: 
+· Extensively worked on Data Source Enhancement using User Exits.
+· Proficient in all kinds of Routines (Start, Field, End and Expert routines). Ability to identify the suitable routine based on the scenario. 
+· Expertise in design and development of Generic Data Source Extraction using Table, View, and Info set Query, Domain and Function Module with delta functionality. 
+ 
+SAP BI/BW SKILLSET: 
+
+· Involved in creating and managing of Info Areas, Info Object Catalogs, Characteristics, Key Figures, Application Components, Transfer Rules, Update Rules, PSA, DSOs, Info Cubes, DTP, Info package, transformation, Info Sources, Multi-Providers, Info sets and Process Chains. 
+· Good command on Extraction (LO, FI, CO-PA and Generic extraction). 
+· Worked on Info Objects, DSO's, Info Cubes, Multi Providers and Info Sets. 
+· Expertise in front-end Business Warehouse components (BEx Analyzer, Query Designer) for Queries, workbooks, Calculated Key Figures, Restricted Key Figures, Structures, Variables, Exceptions, Conditions, Ad-hoc Queries and Web application designer. 
+· Expertise in creating and maintaining Process Chains and Meta Chains for automating data loads.
+· Worked with Transient Providers, Hybrid Providers and Operational Data Provisioning. 
+· Good skills in dealing with production support issues, which involved debugging of data loads, process chains and monitoring and scheduling data loads.
+· Extensively involved in installing and customizing the standard BW business content to pull information from various source systems including SAP R/3 and flat files to load the data into Info Providers. 
+· Handled tickets posted by users and monitored daily and monthly loads using process chains. 
+· Evaluated statistical performance and suggested recommendations to basis support for optimization, improved data load and query performance using compression.
+
+
+ Technical Skills: -
+
+	Data Warehouse
+
+
+	  SAP BI 7.3, SAP BI 7.0, BW 3.5.
+
+	ERP
+
+
+
+
+	  ECC 6.0, SAP R/3 4.7. 
+
+	Database
+	  HANA, Oracle.
+
+	Reporting Tools
+
+
+	  Business Explorer, business objects.
+
+	Programming languages
+
+	  ABAP/4 , SQL/PLSQL, Visual Basic.
+
+	SAP Modules
+
+
+
+	  ABAP Workbench, SAP-BI/BW ,BW powered      by HANA.
+
+	Interfaces 
+
+
+
+	  BAPI, ALE Interface.
+
+
+Professional Experience: -
+
+· Working in Tech Mahindra Ltd., as Software Engineer (From Jan 2005 – Till Date). 
+Educational Qualification: -
+
+· B-Tech form JNTU college of Engineering ,Anathapur.
+Project: #1
+	Project name
+	Genentech Managed Services
+
+	Client
+	
+
+
+	Modules
+	BI
+
+	Role
+	Team Lead
+
+	Environment
+	SAP BI 7.3 Powered by HANA
+
+	Organization
+	TechMahindra
+
+	Duration
+	May-13 to Till date.
+
+
+Project Description:-
+The first biotechnology company to bring products to market and become profitable in the process, Genentech has transformed its original vision of human genetics-based research and development into a successful venture. 
+
+Genentech is now a member of Roche Group.
+
+Contribution:
+· Supporting Change management for monthly releases.
+
+· MEC (Month End Close) Activities for Finance and OTC applications.
+
+· Experienced in resolving of system related issues and authorization issues.
+
+· Collaborate with the different technical teams in getting issues resolved.
+
+· Work with the business and streamline the support process, identify gaps and bridge them.
+
+· Well experienced in converting of business requirement into technical specification.
+
+· Involved procurement to pay enhancements.
+
+· Involved in Post SAP BW HANA North America rollout Validations . 
+
+· Working on HPSM tool to provide support business by resolving technical and operational incidents.
+· Daily monitoring of data loads
+
+· All operational activities
+Roles & Responsibilities:-
+· Tracking of daily data load activities and Change Management.
+· Well versed in incidents handling, escalation process, SLA guidelines and process adherence as a part of Client tool management.
+
+Project: #2
+	Project name
+	BW Insight
+
+	Client
+	Tech Mahindra(internal Project)
+
+	Modules
+	BI
+
+	Role
+	TM
+
+	Environment
+	SAP BW3.5
+
+	Organization
+	TechMahindra
+
+	Duration
+	June-10 to May-13
+
+
+Project Description:-
+             The Insight BW project is an SATYAM Internal Project wherein we need to pull the data from various systems like OPTIMA R/3 ,SHINE ,ESUPPORT etc and generate reports for FLCL s, Program Managers and Delivery Integrators for the purpose of viewing their projects status and performances.
+Roles & Responsibilities:-
+· Created Technical Specifications based on understanding of Buss requirement Process (Functional specifications) for the respective modules Warehouse Management, Production Planning and Material Management.  
+· Involved in designing of PDU report and also created Function Modules at the OPTIMA end to fetch the PDU details. 
+
+· I was involved in designing the PM PL report with project details. I was involved in testing the FLCL ID’s in the Insight Portal.
+
+· Involved in Testing of BW and R3 Objects by using Verification, Validation and Regression Testing. 
+
+· Created Customized Info cubes and ODS objects with delivered customized Objects and activated Business Content as required.  
+
+· Used Logistics, Generic and Flat File extraction to extract data using Initial and Delta upload methods from SAP R/3 source system to BW.
+
+Project: #3
+	Project name
+	Chevron OME
+
+	Client
+	Chevron
+
+	Modules
+	Abap
+
+	Role
+	TM
+
+	Environment
+	Support
+
+	Organization
+	Mahindra Satyam Ltd.
+
+	Duration
+	July-08 to May-10.
+
+
+Project Description:-
+
+Chevron is one of the world's leading integrated energy companies. It is involved in virtually every facet of the energy industry. . It explore for, produce and transport crude oil and natural gas, refine, market and distribute transportation fuels and lubricants, manufacture and sell petrochemical products, generate power and produce geothermal energy, provide energy efficiency solutions, and develop the energy resources of the future, including research for advanced bio fuel.
+Roles & Responsibilities:-
+· As a SAP ABAP consultant my responsibilities are to understand functional specifications and prepare technical specifications. 
+
+· Prepare Unit test Scripts based on Test cases furnished by the client. 
+
+· Responsible for the delivery includes coding and testing.
+
+· Developed various Interfaces like Signa, Lessor,Ect.
+Project: #4
+	Project name
+	Optima developamant(Cprojects)
+
+	Client
+	Internal
+
+	Role
+	TM
+
+	Environment
+	Visual Basic .Net
+
+	Organization
+	Satyam Ltd.
+
+	Duration
+	July-05 to May-08.
+
+
+Project Description:-
+         cProjects (Collaboration Projects) is a cross-industry tool implemented by Satyam Computer Services Ltd to support the product development process from planning through product and process approval to external communication with partners or lead customers. cProjects covers the whole range of project management activities, from planning and execution to the final stages of the project.  It is used to plan and monitor development and consultant projects.
+PAGE  
+___________________________________________________________________________
+
+2
+
+

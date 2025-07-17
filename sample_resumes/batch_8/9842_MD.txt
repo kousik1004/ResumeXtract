@@ -1,0 +1,284 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	
+RESUME
+Name   : MD.Lukman Shareef
+Email    : lukmanshareef@gmail.com
+Mobile: +91-7416767602	
+
+Career Objective: 
+Career with a growth oriented company which encourages innovation and offers me, an opportunity to use my technical knowledge to learn and develop as an individual in line with company’s goals and objectives.
+
+Professional Summary:
+
+· Java Programmer around 3.6 yrs. of IT experience in all phases of Software Development Life Cycle (SDLC) which includes Design, Development, Implementation, Documentation, Testing, Deployment, Builds, Configuration and Client/Server Technologies. 
+· Around 3.6 yrs. of Software Development experience using Java, J2EE, spring 3.x, Hibernate and Spring REST full Services. 
+· A Team player with good interpersonal skills, decision-maker and committed to quality.
+· Ability to learn new technologies with minimal time period and Team player with excellent communication skills.
+Professional Experience:
+
+· Currently working at Manuh Global Technologies Pvt. Ltd as a Senior Software Engineer from May 2014 to till date.
+
+Academic Profile:
+
+Bachelor’s Degree in Electronics and Communication Engineering from JNTU Kakinada, 2010.
+
+
+Technical Skills:
+
+Java Technologies         :     Java 1.6
+Frame Works                 :     Spring, Hibernate.
+Web Technologies        :     JSP, Servlets, FTL, HTML, jQuery, Ajax, Java Script.
+Logging Tool                  :     Apache Log4j.
+RDBMS                           :     Oracle 10g, Postre SQL.
+Servers                           :     Apache Tomcat 7.0, Web Logic
+Tools & Utilities            :     Eclipse, Spring Tool Suite, GIT Hub, Maven.
+Operating Systems      :     Windows 7.
+
+
+
+
+
+
+
+
+Work Experience:
+Project Profile# 1
+	Project Name:
+	CSC APP
+
+	Role
+	Software Developer 
+
+	Client 
+	Guardian Research Network,USA
+
+	Organization
+	Manuh Global Technologies Pvt. Ltd.
+
+	Team Size
+	2
+	Modules :  5
+
+	Environment
+	Technologies:
+	IOS, Spring Boot, JPA, Spring REST Full Services
+
+	
+	Servers
+	Tomcat 7
+
+	
+	Tools:
+	STS, Maven, Bit Bucket
+
+	
+	Data Base:
+	Postgre SQL
+
+	Operating System
+	Windows 7
+
+
+
+Project Description:
+Guardian Research Network (GRN) is a nationwide consortium of high-performing community health systems that has power of big data to aggregate hundreds of thousands of patient clinical and molecular profiles into a dynamic knowledge architecture focused on the rapid identification of populations to deliver targeted and novel clinical therapies. PEP Consent and PEP Sample are IOS applications used to enroll patients into different clinical studies (clinical trial)   based on patient’s willingness. Patient’s enrollment procedure can be captured by using these apps.
+Responsibilities and Contributions:
+As a Software Developer,  
+· Involved in client meetings to understand the requirements. 
+· Responsible to develop the functionality based on the client requirement.
+· Responsible to do the unit testing.
+· Responsible to write data based scripts for taking patient’s reports based on the client requirement.
+· Responsible to analyze the production issues and finding the root cause and fixing them.
+
+Project Profile# 2
+	Project Name:
+	MIS (Management Information System)
+
+	Role
+	Software Developer 
+
+	Client 
+	AP Disaster Management (AP Govt. )
+
+	Organization
+	Manuh Global Technologies Pvt. Ltd.
+
+	Team Size
+	6
+	Modules :  5
+
+	Environment
+	Technologies:
+	Spring, Hibernate, FTL, JQuery, Java Script
+
+	
+	Servers
+	Tomcat 7
+
+	
+	Tools:
+	STS, Gradle, SVN
+
+	
+	Data Base:
+	Postgre SQL
+
+	Operating System
+	Windows 7
+
+
+Project Description:
+Andhra Pradesh Disaster Recovery Project is being implemented by Government of Andhra Pradesh through Revenue (DM) department with Financial assistance from World bank in "HUDHUD" affected Districts (Srikakulam, Vizianagaram, Visakhapatnam and East Godavari Districts). The Project Development Objectives (PDO) are to restore, improve, and enhance resilience of public services, environmental facilities, and livelihoods in Targeted Communities, and to enhance the capacity of state entities to respond promptly and effectively to an eligible crisis or emergency.
+Responsibilities and Contributions:
+As a Software Developer, 
+· Involved in all phases of SDLC.
+· Involved in client meetings to gather the requirements.
+· Responsible to distribute the work among the team members.
+· Involved in data base design for this project.
+· Implemented modules like progress update, eMbook.
+
+Project Profile# 3
+	Project Name:
+	IA (Innovators Accelerator)
+
+	Role
+	Software Developer & Production Support
+
+	Client 
+	Apollo Education Group,  USA
+
+	Organization
+	Manuh Global Technologies Pvt. Ltd.
+
+	Team Size
+	2
+	Modules :  7
+
+	Environment
+	Technologies:
+	Grails Groovy, Backbone JS, Hibernate,  JW player API.
+
+	
+	Servers
+	Tomcat 7
+
+	
+	Tools:
+	Grails Tool Suite, GIT Hub, AWS
+
+	
+	Data Base:
+	My SQL
+
+	Operating System
+	Ubuntu
+
+
+Project Description:
+   Innovator’s Accelerator (IA), teaches business executives how to cultivate innovation within themselves and their organizations. Designed and taught by some of the world’s leading authorities on innovation – Clayton Christensen, Jeff Dyer and Hal Gregersen – Innovator’s Accelerator provides insights and tools through a multimedia learning platform to turn executives into innovators ready to be the catalyst for change. 
+Responsibilities and Contributions:
+  As a Production Support cum Developer,  
+· Responsible for timely delivery as agreed within the project without compromising on product quality. 
+· Involved in meetings to understand the root cause of production issues. 
+· Responsible to test the application and fixing Production issues.
+· Involved in requirements gathering and design of new enhancements.
+· Responsible for developing new enhancements without disturbing the existing architecture.
+Project Profile# 4
+	Project Name:
+	PMS (Project Monitoring System)
+
+	Role
+	Software Developer& Technical Support
+
+	Client 
+	AP Eastern Power Distribution, Vizag
+
+	Organization
+	Manuh Information System Pvt. Ltd.
+
+	Team Size
+	5
+	Module : 8
+
+	Environment
+	Framework:
+	Spring, Hibernate, FTL, JQuery, Java Script
+
+	
+	Servers
+	Tomcat 7
+
+	
+	Tools:
+	Spring Tool Suite, SVN
+
+	
+	Data Base:
+	Oracle
+
+	Operating System
+	Windows 7
+
+
+Project Description:
+APEPDCL is a power Distribution Company in which list of projects are developed like construction of sub stations, HVDs, 33KV Interlinking Lines, Segregation of AGL Feeders etc. PMS is mainly used to monitor all the above projects which are in progress. 
+Responsibilities and Contributions:
+As a Software Developer, 
+· Responsible for timely delivery of the work.
+· Involved in all phases of SDLC.
+· Responsible to fix the production level issues.
+· Involved in modules like Survey, re-Survey, Deviation, eMbook.
+
+
+
+
+

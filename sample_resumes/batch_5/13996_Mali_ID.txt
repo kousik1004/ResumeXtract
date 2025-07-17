@@ -1,0 +1,230 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VITAE
+
+D.MANGA
+                                                                                       Mali ID: manga.sql.developer@gmail.com            
+
+                                                                                       Mobile : +91-7799049632
+CAREER OBJECTIVE
+
+Aspiring to have an identity in information technology by providing best possible services to my employer where I can get improvement to my technical skills and professional career.
+SKILL SUMMARY
+· 3.1 years of hands-on-experience on Microsoft SQL Server Business Intelligence development, implementation
+· Good hands on activity in Database development in SQL Server 2005 & 2008
+· Experience in writing, optimizing Stored Procedures, User Defined Functions 
+
+· Extensive knowledge in the implementation of Rank functions
+· Extensive experience in the implementation of business intelligence in SQL Server using services SSIS, SSRS
+· Implementation of logging and configurations in SSIS packages
+
+· Hands on experience in development of reports like drill down, link reports, sub reports
+· Experience in Scheduling SSIS package executions using SQL Agent Service
+· Implemented Report subscriptions using reports manager in SSRS
+· Proficiency at Data Transformations like Lookup, Derived Column, Conditional Split, sort, data Conversion, multicast, Union All, Merge Join, Merge and Scd to load data into SQL Server destination.
+· Used Control Flow Tasks like For Loop Container, For Each Loop Container, Sequential Container, Execute SQL Task and Data Flow Task in Designing packages
+
+Qualifications
+· Bachelor of Science with Computer Science from Kakathiya University with the aggregate of 64% in 2007.
+SOFTWARE SKILL SET
+
+Business Intelligence
+: SSIS, SSRS, SSAS
+
+Databases
+
+: MS SQL Server 2005/2008, Oracle
+Tools
+
+
+: MS Office
+
+
+Work Track
+· Working as MSBI Developer in  Patni Systems, Hyderabad  from Jan 2010  to till date.
+· Worked as MSBI Developer  in  Permian Technologies Pvt.ltd,  Bangalore                                                from Aug 2008 to Dec 2010. 
+PROJECT EXPERIENCE TRACK
+Project #1:
+Client
+
+
+: FIS Inc., US                                                                              Jan 2010 to Till Date
+
+Project 
+
+: Quotes-r-us
+Role
+
+
+: MSBI Developer
+Description 
+The client; Family Insurance Solutions, is an American online insurance product purchasing services provider. It provides Life, Health, Auto (vehicle), Home, Renters insurances. It gathers quote requests from the customers through its online web application and sends the requested quotations to the customers and assists them in choosing suitable insurance products for them. The company (client) has operations in all states of USA.
+The client has a huge database with details of customers, their requirements and selected insurance products. The client needs an analytical system to prepare statistics that helps the client to understand various perspectives like interests and requirements of different clients in purchasing insurance products. The proposed system is aimed to gather data from OLTP database, data from franchisees in to Data warehouse using SSIS packages, should prepare all estimated measures and should present statistics and details in the form of both static and interactive reports. The system is prepared to fulfill all aims and aspects of the client requirements.
+Roles & Responsibilities
+        •
+Creating and deploying new SSIS Packages to load data into data warehouse
+
+•
+Adding and modifying tables in data warehouse according to the client’s requirements
+
+•
+Modifying exiting packages as per the metadata changes
+
+•
+Scheduling SSIS packages Using SQL Server Agent in SSMS
+
+•
+Implementing configurations and logging 
+
+•
+Deploying packages to target server
+
+•
+Developing reports as per the business requirements using SSRS
+
+•
+Debugging and Validating the Data flows and Control Flows
+
+•
+Tracking working statuses of SSIS packages
+
+•
+Created Tabular, Matrix, chart reports using SSRS
+
+•
+Implemented Exception Handling process for each SSIS Package
+
+•
+Generated the Reports Weekly and Monthly basis as per the Client Requirements
+        •     Implemented report subscriptions
+Environment: MS SQL Server 2005/2008, SSRS,SSIS,Windows 2000 Advance Server, Oracle, PL/SQL,  MS Office.
+
+Project #2
+Client
+
+
+: Advanced Medical Center, Arlington, VA                        March 2009 to Dec 2010
+Project 
+
+: Electronic Heath Record       
+
+Role
+
+
+: MSBI Developer
+
+Located in Arlington, Advanced Medical center is an emerging medical solution which provides an affordable healthcare. It is dedicated to provide quality medical care to the community. Experienced and qualified doctors and nurses have been helping the people of Northern Virginia and the Washington Metropolitan Area (Fairfax Virginia, Arlington, Falls Church, Vienna, Burke, Springfield, and Leesburg, D.C.) with their health problems for over 30 years. They provide the services of an urgent care medical center as well as the services of a traditional family practice.
+Roles & Responsibilities :
+· Analysis of the specifications provided by the client
+
+· Experienced in SQL joins, SQL stored procedures, views, UDF’s, tracing and performance tuning for better running of queries. 
+
+· Created Packages by using Data flow task extract data from one or more sources that can be databases, files in the file systems, Excel, transform source data, standardize, cleanse, convert data types, conform , fix data.  Load into one or more destinations those Sql server data base.
+
+·  Worked on Control Flow Tasks, Containers, Connection Managers, and Created extensively run and SQL Statements for each row in a data flow by using OLEDB Command  transformations and applied aggregate function such as Avg, Sum, Min, Max to column values by using Aggregate Transformation
+
+· Extensive experienced with trouble shooting, debugging on packages by using Data viewers.
+
+· Configure error Output for transformations in Data Flow, Created event handlers and Provide Transactions and checkpoints in SSIS packages.
+
+· Designed, Managed and Published various reports using SQL Server Reporting Services 2005  
+
+· Created different type of reports including: Tabular forms, Matrix (cross Tab report) form, Conditional,  List items, Charts and Sub reports
+
+· Created Cascading ( Collapsed ),  Printable, interacted reports (drill-down and sorting functionality)
+
+· Created and  designed reports based on  query parameters and Report parameters
+
+· Experienced in nested Grouping, sorting columns and writing expressions according to the business requirements.
+
+· Experience with sub reports and pass through parameters from main report to the sub reports.
+Environment: MS SQL Server 2000/2005, Windows 2000 Advance Server, Oracle, PL/SQL, MS Office.
+Project #3
+Client
+
+
+: Trustmark National Bank, Jackson, MS                             Aug 2008 to Feb 2009
+Project 
+
+: Online banking system       
+
+Role
+
+
+: MSBI  Developer
+
+Trust mark Bank provides banking, wealth management and risk management solutions. For more than 100 years. Trustmark Wealth Management provides access to asset management and asset allocation strategies through Trustmark Investment Advisors, Inc., a wholly-owned subsidiary of Trustmark National Bank and a division of Trustmark Wealth Management.
+Roles & Responsibilities :
+· Migrated reports from Actuate reports to SSRS reports.
+· Created Complex queries, stored procedures, functions and Performance tuning on queries, stored procedures, and function.
+
+·    Loaded data from the legacy systems into MS SQL server using SSIS packages.
+
+·  Designed Packages using SSIS task, Containers, Precedence constraint and data flow tasks using Source, Transformations and Connection managers.
+
+·     Created SSIS variables (Package, task, and container level), Writing expressions and Configure SSIS Packages.
+
+· Writing expressions and formatting expressions and converting data types using Data Conversion Transformations
+
+· Transfer databases, data base objects, jobs, logins, messages, and master stored procedures  objects between servers using SSIS packages
+
+· Created package combined multiple inputs source into one output; Sorts input one or more columns, Join data in input columns with columns in a reference dataset.
+
+· Designed different type of reports including: Tabular forms, Matrix (cross Tab report) form, Conditional, List items, Linked and Sub reports.
+
+· Created nested Grouping, Dynamic Grouping, sorting, Dynamic Sorting on columns and writing expressions according to the business requirements
+
+· Created in setting report parameter properties. Determine whether parameters are single or multi valued, Internal, visible at runtime  and set the default values in the run time
+
+· Created Subscription for delivering through file share and E-mail configuration, caching and securing Reports.
+
+· Deployed reports in the solution explorer and opened   through browser
+
+· Experienced in Unit Testing on reports and Deployment into Production boxes.
+
+Environment:  MS SQL Server 2005, SSIS, SSRS.
+ (D.Manga)
+

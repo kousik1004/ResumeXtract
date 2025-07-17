@@ -1,0 +1,341 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VJ
+
+Ruchi Khandelwal
+
+Phone: +91-9711194466
+E-mail: ruchi.2702@gmail.com
+
+Professional Summary
+
+
+
+
+
+
+
+
+
+    
+
+	· Overall 8.2 years of IT experience with 6.9 years in SAP Basis Consulting.
+· Experience in upgrade project. Currently working on Netweaver release upgrade from 7.0 to 7.4.
+
+· Knowledge of OS/DB migration and bit of hands on on the same.
+
+· Experience in Solution Manager Activities like - System Preparation, Basic Configuration, Managed System Configuration, Technical Monitoring, EWA Configuration and EEM alerting configuration.
+· Experience in Security management - User administration (user creation, assigning roles/ profiles and locking/unlocking/resetting password) and Role Administration (role creation and modification).
+
+· Experience in analyzing and solving day-to-day Production issues with client facing skills.
+
+· Good in Daily System Health Checks.
+
+· Experience in System Refresh on both UNIX and Windows platforms.
+
+· Experience in SPS Upgrade and Release upgrade from NW 7.1 to NW 7.4.
+· Experience in applying Support Packages using SPAM, Kernel upgrade and applying SAP add-ons through SAINT.
+
+· Experience in Java administration using tools like Visual Admin, Configtool, jcmon, JSPM.
+
+· Experience in Database administration like extending tablespaces by adding data files, Force update of stats, DB check using BR tools. Reorganization of tablespaces, housekeeping of tablespaces like SYSAUX.
+· Experience on Oracle, DB2 databases.
+
+· Routine BASIS Jobs like Apply notes, Transports, Kernel Upgrade, Patch Upgrade raising OSS messages, Background Job scheduling and troubleshooting etc.
+
+· A team player with good organizational, analytical, troubleshooting, and interpersonal communication skills. 
+
+    Techinical Skills
+
+Operating Systems:             Unix, AIX, Microsoft Windows.
+
+Databases:
+                   Oracle, DB2
+Languages known:              C++, SQL, Java, Worked as manual tester, ISTQB certified.
+Technical Proficiency:        SAP-BASIS
+
+  Professional  Profile
+
+
+
+
+
+
+
+
+    
+
+Designation
+
+Organization
+
+Duration
+
+Quality Assurance Executive
+Finlogic Technologies India Pvt. LTD, Surat
+Aug 2008 – Dec 2009
+SAP Basis Consultant
+
+L&T Infotech, Mumbai
+Jan 2010 – Jan 2012
+SAP Basis Consultant
+
+HCL Technologies, Noida
+Mar 2012 – Till Date
+
+
+	
+
+
+Professional Experience
+ 
+
+	Organization 
+	1. HCL Technologies LTD
+
+	Client 1                                     :  Royal Mail Group, UK
+Location                                   :  Noida
+Role
+
+
+          :  Sr. SAP Basis Consultant
+
+Duration
+
+          :  Jul 2015 to Till date
+
+Project Type                             :  Production Support
+
+SAP Landscape                        :  ECC 6.0 EHP4, SAP
+
+                                                    EP 7.0 EHP1, SOLMAN 7.1, CRM 7.02, SRM 7.0.
+
+Operating System                     : AIX, Linux, Solaris.
+
+   Roles and Responsibilities:
+
+· Currently involved in Release upgrade of landscape from NW 7.1 to NW 7.4.
+
+· SPS upgrade through SUM tool throughout the landscape.
+· SAP Daily Monitoring Activities, DB health check, FS checks
+· Transporting change request through system landscape.
+
+· Resolution to user's daily issues.
+
+· Kernel & JVM patching in landscape, Oracle and DB2 patching.
+
+	
+
+	Client 2                                     :  Department Of Health (DOH), Ireland
+Location                                   :  Noida
+Role
+
+
+          :  SAP Basis Consultant
+
+Duration
+
+          :  Mar 2012 to Jul 2014
+Project Type                             :  End to End Implementation and Production Support
+
+SAP Landscape                        :  ECC 6.0 EHP4, SAP
+
+                                                    EP NW 7.3 , SOLMAN 7.1 EHP1, CRM 7.02, PI NW 7.3
+Operating System                     : AIX, Linux
+
+   Roles and Responsibilities:
+
+· Solution manager activities like EEM configuration done and other activities like EWA reports.
+
+· SAP Daily Monitoring Activities
+
+· Transporting change request through system landscape.
+
+· Resolution to user's daily issues.
+
+· System Refresh
+
+· Troubleshooting of PI issues, SLD setup for transporting PI objects.
+	
+
+
+	Organization 
+	2. L&T Infotech, Mumbai
+
+	Client 1                                     :  L&T Power
+Location                                   :  Surat (Client location throughout)
+Role
+
+
+          :  SAP Basis Consultant
+
+Duration
+
+          :  Jan 2010 to Jan 2012
+Project Type                             :  Production Support
+
+SAP Landscape                        :  SAP ECC 6.0, SAP Netweaver 2004s/7.1, BI 7.1, Content Server, Portal, 
+                                                    Trex, Web Dispatcher
+
+Operating System                     : Windows server 2008/2003
+   Roles and Responsibilities:
+
+· SAP Daily Monitoring Activities
+
+· Transporting change request through system landscape.
+
+· Resolution to user's daily issues.
+
+· Analyzing EWA for Managed Systems.
+
+· Security activities like role creation, role modification, user creation/deletion, CUA setup etc.
+
+· DB refresh with different and same SIDs
+
+· Configuration of SAP Router.
+
+
+	
+
+	Client 2                                     :  L&T Power
+Location                                   :  Surat
+Role
+
+
+          :  SAP Basis Consultant
+
+Duration
+
+          :  Jan 2011 to July 2011
+Project Type                             :  Implementation of DR server.
+SAP Landscape                        :  SAP ECC 6 EHP4, SAP BI 7.0, SAP Portal 7.0, Content Server
+Operating System                     : Windows server 2008
+   Roles and Responsibilities:
+
+· Planning : DR landscape design.
+· Realization : Verification of OS Built, Performing System copies of Primary SAP components, 
+Post system copy activities and Integration within the DR landscape
+
+· Activation of Oracle Guard settings in the Primary and DR landscape to enable log switching.
+
+· Testing : Created and successfully executed test cases to test the validity of the DR role switch
+	
+
+
+	Organization 
+	3. L&T Infotech, Mumbai
+
+	Client 2                                     :  L&T Power
+Location                                    :  Surat
+Role
+
+
+           :  SAP Basis Consultant
+
+Duration
+
+           :  July 2011 to September 2011
+Project Type                              :  Roll outs
+	
+
+	SAP Landscape                         :  SAP ECC 6 EHP4, Oracle 10g (10.2.0.4), Windows Server 2008
+Operating System                     : Windows Server 2003
+
+   Roles and Responsibilities:
+
+· Planning : Preparing plan including hardware sizing of the servers. Provided an approach to build and design servers so as to avoid collision with the existing customizing objects in the landscape.
+· Realization : Installation and performing System copies of existing SAP server, Post system copy activities and designing transport strategy. Troubleshooting of various issues encountered during the complete activity.
+
+· Ensured timely delivery of the servers.
+
+· Complete authorization implementation for modules such as PP, MM, QM, FICO and EHS.
+	
+
+	
+	
+
+	Educational Qualification
+	Institute/University/Board
+	Year
+	Percentage/ CGPA
+
+	B.E. (Computers)
+	Veer Narmad South Gujarat University, Surat
+	2008
+	71%
+
+	Class XII
+	Kendriya Vidyalaya, Kribhco (Surat) C.B.S.E
+	2004
+	83%
+
+	Class X
+	Kendriya Vidyalaya, Kribhco (Surat) C.B.S.E.
+	2002
+	81%
+
+
+Personal details
+
+
+
+
+
+
+
+    
+
+Date of Birth:     27 Feb 1987
+Email Id: ruchi.2702@gmail.com
+
+Phone: +91-9711194466
+Correspondence Address: Flat No. 97/A, Arawali Apartments, Sector 52, Noida (U.P.) Pin 201301
+
+Permanent Address: House No. 53, Harsiddhi Darwaja, Ramghat Marg, Ujjain (MP)
+Marital Status: Married
+
+Languages known:  English and Hindi
+

@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Munigoti Sai Kiran
+SAP ABAP CONSULTANT
+EMAIL ID: saikiran.msk123@gmail.com
+Mobile: +91-7795038686
+ 
+
+Professional Summary:
+
+· Having 2.4 years of experience in SAP ABAP/4 environment.
+· Experience in working with SAP R/3 ERP 6.0 Version.
+· Having good knowledge on MM, SD module flows.
+
+SAP ABAP SKILLS:
+
+· Good Experience in Data Dictionary components.
+· Experience in Classical Reports, Interactive Reports and ALV Reports.
+· Worked in data conversion programs to upload the data from flat file to SAP System by BDC Call Transaction.
+· Designing layouts and print programs in Smart forms & Adobe forms.
+· Worked on User Exits & Customer Exits.
+· Experience in working with BAPI.
+· Experience in working with BADI’s.
+· Conceptual knowledge in Module pool programming. 
+· Conceptual knowledge in IDOCs.
+· Conceptual knowledge on LSMW.
+
+Professional Experience:
+
+· Working as Project Engineer for Wipro Technologies Ltd, Bangalore from June-2015 to till date.
+
+
+Academic Qualifications:
+
+· B.Tech (Electronics and communication) from Veltech University, Chennai.
+
+Technical Skills:
+
+		Programming Languages        :  ABAP/4
+		GUI		    	          :  SAP GUI
+		SAP Environment                    :  ERP 6.0
+
+Project Details:
+
+Project 1:
+
+	Organization
+	 Wipro Technologies Ltd
+
+	 Client
+	 ABB 
+
+	 Project Type
+	 Support
+
+	 Role
+	 Project Engineer
+
+	 Duration
+	 June – 2015 to till date
+
+	 Environment
+	 ECC 6.0
+
+
+
+
+
+Project Description:
+ABB is a pioneering technology leader that is writing the future of industrial digitalization. For more than four decades, It has been at the forefront, innovating digitally connected and enabled industrial equipment and systems. Every day, it drives efficiency, safety and productivity in utilities, industry, transport and infrastructure globally. With a heritage spanning more than 130 years, ABB operates in more than 100 countries and employs around 136,000 people. 
+
+Responsible for:
+· Analysis of Functional Specifications.
+· Developing the object based on coding and naming Standards.
+· Preparation and Compilation of Unit Test documents.
+· Performance optimization of code and bug fixes.
+· Involved in collecting Data from user and understanding business functionality.
+· Interaction with the technical team lead to resolve the issue quickly.
+· Finish the critical objects with zero-defect and to deliver them on time.
+
+Objects:
+
+· Developed Adobe forms for label printing & Decontamination letter (with mailing functionality).
+· As a part of GST Implementation for ABB I have worked on following objects:
+· Developed Upload programs using BAPI_ACC_DOCUMENT_POST which will post the customer (FB70) and vendor (FB60) invoices data maintained in excel sheet. The posted documents will be displayed in ALV format along with message log.
+· Worked on ME21N, ME22N, VF01, VF02, ML81N screen enhancements and BADI Implementations.
+· Developed Smart forms in MM Module (Return Delivery Challan, Subcontracting Challan, Scheduling Agreement Form, Tax Invoice form) with PDF conversion functionality.
+· Worked on Remote function module for E Configure project in MM module which creates master data in SAP such as super code material (Material Master), BOM explosion, Info record, condition record. 
+· As a part of ARM (Automatic returns management) project for MM module I have done BADI Enhancements (ME_PROCESS_PO_CUST) and user exit code changes.
+ 
+

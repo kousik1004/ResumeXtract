@@ -1,0 +1,263 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ashwin Malik
+Oracle DBA 
+Mobile: +91-9881594261
+E-mail- ashwin.malik09@gmail.com
+
+SUMMARY
+
+Presently working with Clover Infotech Pvt Ltd with 3.5 years of experience as an Oracle Database
+Administration in IT Industry, especially in BFSI Domain. Extensive experience in Database Design,
+implementation, Administration, troubleshooting. Proficient in Oracle 10g/11g/12c single instance, RAC,
+OS Cluster Environment, DataGuard, Upgradation and Migration. Clover Infotech is a leading technology
+services and solution provider. It is recognized as the CIO CHOICE 2015 for database solution support.
+
+TECHNICAL SKILLS
+
+ Oracle Database Administration on 10g,11g and 12c.
+ ASM (Automatic Storage Management )
+ Database backup and recovery ( Hot / Cold/ Logical/ RMAN)
+ Database Creation, Upgrade and patching.
+ Database Environment refresh
+ RAC (Real Application Cluster )
+ Oracle Standby/ DR configuration
+ Performance Tuning
+
+PROFESSIONAL SUMMARY
+
+ Experience in maintaining multiple databases, having experience on high transactional databases
+ Proficient in Installation, Configuration and Maintenance of Oracle 10g, 11g, 12c databases on 
+
+UNIX as well as on windows environments
+ Expertise in experience in installation, Upgradation of Oracle Databases in various versions of 
+
+AIX, Linux and Windows platform
+ Oracle architecture components, Oracle instance management, Creation of database and 
+
+management, pfile management, controlfile management, redo management, datafile 
+management
+
+ Knowledge of oracle networking concept
+ Standby database, dataguard,Active dataguard configuration. Switchover/switchback/Failover 
+
+gap resolution/troubleshooting
+ Experience in performance tuning, query tuning and at database level
+ Implementation and managing RAC & Non RAC production,Development and test Database in 
+
+24*7 Environments
+ Expertise in oracle utilities like Export/import, expdp/impdp, sql loader,NID
+ Cloning and Re-building the databases from Production to UAT environment using RMAN and 
+
+export/import, cold backup as well as using hot backup
+ Plan and implement backup policies and strategy as per the business requirements to ensure 
+
+minimum data loss in case of any severity
+ Configuration and scheduling the shell script/bat files for backup and various maintenance task
+ Hands on experience in Implementing and enforcing database security
+ Co-ordination and follow-up with oracle support in case of technical issue through oracle SR
+ Performed Database cloning, backup contingency test, detection and resolving block corruption 
+
+using RMAN
+ User and Access Management
+
+mailto:siddhantbele444@gmail.com
+
+
+ Experience in optimizing the performance of database, like Rebuild index, gather stats, wait 
+events
+
+ Experience in applying patches, patchset, and up-gradation
+
+TECHNICAL LANDSCAPE
+Skilled in the installation, configuration and administration of Oracle Database on various platforms such 
+as AIX, Linux, Windows
+
+OS  AIX 6/7, RHEL, Windows family
+
+RDBMS Oracle 12c/11g/10g, Oracle RAC
+
+Tools TOAD, Pl/sql developer,  putty,  ORA- Sentry,  Winscp, sqlloader
+
+Office MS Office, Open Office
+
+ACADEMIA
+
+ M.Sc (I.T.) from Mumbai University
+ German (Diploma in Translation and Tourism) - Part Time, from Mumbai University
+ Currently learning Diploma in French , Part Time
+
+PROFESSIONAL EXPERIENCE
+
+Organisation Désignation/Role Location Duration
+Clover Infotech Pvt. Ltd. Technical Associate - Oracle DBA Mumbai April 2014 to till date
+
+\
+PROJECTS
+
+Assignments:
+
+Client Name RBL BANK
+Role Oracle DBA
+
+Team Size 6
+
+Environment 10g,11g(RAC),12c
+
+OS Linux 6, 7, AIX, Windows 2008,2012
+
+Duration April 2016 - Till Date
+
+
+
+MY RESPONSIBILITIES:
+ Responsible for bank’s databases maintenance tasks and security for various banking applications 
+
+(Core, Internet and other)
+ Preparation of plan of action and execution steps and scripts submitting to superior for approval 
+ Communication & Coordination with different vendors/Teams (OS, Network,Application and Support) 
+
+for Requirement Gathering & Process Execution.
+ Responsible for making miscellaneous reports like Incident report, Root cause analysis, 
+
+Monthly service reports and Quarterly documents
+ Maintaining Bank’s database tasks and security for various banking database 
+ Preparing of daily checklist and weekly reports for proper monitoring and capturing the relevant 
+
+data
+ Daily proactive monitoring of production critical databases & alert log
+ Taking appropriate actions on critical ORA- errors and warnings
+ Checking & processing user requests
+ Maintaining sync of physical and manual standby database
+ Knowledge of the relevant OS commands related to day today activities
+ Syncing reporting databases using flash on storage
+ Changing the DB name using NID utility post Sync of Reporting database
+ Responsible for monthly performance review with client and clover team and implementing changes 
+
+based upon observations
+ Responsible for Database Backup using RMAN & data pump utility as per client need
+ Configuring Oracle 10g, 11g, 12c Databases on AIX and Windows environment
+ Creating database links & troubleshooting of link issues
+ Creating users, profiles and roles with appropriate privileges
+ Changing database password as per Bank’s security policies
+ Preparing various SOP’s for day to day, weekly and monthly activities
+ Automation via creating a dynamic bat files Schedule Index rebuild & gather stats on 
+
+production database as a maintenance policy
+ Cloning production environment using RMAN for testing purposes
+ Generating of reports for database tuning through Statspack and AWR reports and taking 
+
+appropriate actions
+ Extensive database, schema refresh and reorganization of UAT, Training & Migration 
+
+databases for migration purpose
+ Installation, Upgradation of database on various platforms for Linux, Aix and Windows
+ Administration and maintenance of 11gr2 RAC cluster database for internet banking application
+ DR setup for all the banking applications (Dpsecure, Treasury and Gold loan, Internet Banking 
+
+etc.), and ADG Setup for Ebanking DB
+ Installation and troubleshooting while ASM configuration and creation of database for major 
+
+banking Applications like EBANKING,LMS,SAS etc
+ Carrying out DR-DRILL activity (Snapshot standby, Switchover-Failover)
+ Upgradation of databases from  (10.2.0.5 to 11.2.0.3.0), (11.2.0.3 to  12.1.0.2)  of Single instance
+
+Databases on AIX and Windows
+ Have worked on End to End for EBANKING & CMS Migration for this client
+
+
+
+Client Name DBS BANK
+Role Oracle DBA
+
+Team Size 1
+
+Environment 10g,11g
+
+OS Windows 2008,2012
+
+Duration Dec 2014 - April 2016
+
+MY RESPONSIBILITIES:
+ Creating users and roles for privilege management
+ Managing Backup and recovery (Online Backup & Offline Backups)
+ Allocate storage and develop plans for future storage requirements
+ Creating and maintaining various database related documents and guidelines
+ Performed full database re-organization to remove fragmentation using expdp/impdp or using 
+
+table movement methodology
+ Analysing and tuning long running sql queries and resource consuming queries on production 
+
+environment
+ Carrying out DR-DRILL activity (Snapshot standby, Switchover-Failover)
+ Plan, implement and test backup and recovery strategies. Check error messages, disk space 
+
+availability, checking for errors in alert logs and trace files, etc
+ Rebuilding indexes to remove fragmentation
+
+Client Name EDELWEISS
+Role Oracle DBA
+
+Team Size 1
+
+Environment 12c
+
+OS Linux 6
+
+Duration Sep 2014 - April 2016
+
+MY RESPONSIBILITIES:
+ Creating users and roles for privilege management
+ Managing Backup and recovery (Online Backup & Offline Backups)
+ Allocate storage and develop plans for future storage requirements
+ Creating and maintaining various database related documents and guidelines
+ Plan, implement and test backup and recovery strategies. Check error messages, disk space 
+
+availability, checking for errors in alert logs and trace files, etc
+
+

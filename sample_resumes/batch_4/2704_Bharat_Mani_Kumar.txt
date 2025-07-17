@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bharat Mani Kumar				                       Email: bharatmscrm@gmail.com
+MSCRM Consultant	                                                                           Phone: +91-9963318535
+	
+Experience summary:
+Having 3 years of extensive experience in various phases of the Software Lifecycle (Requirements gathering & analysis, design, development, support, configurations, deployments) in both product and project spheres in Microsoft Dynamics CRM based applications with the ability to deliver complex projects from conceptual stage to fully operational status.
+
+
+	S.No
+	Primary Skills
+	Years of Experience
+
+	1
+	 Ms Crm
+	  3
+
+	2
+	 C#
+	  3
+
+	3
+	 WorkFlows
+	  3
+
+	4
+	 Plugins
+	  3
+
+	5
+	Javascript
+	  3
+
+	 
+	Secondary Skills
+	 
+
+	1
+	 WPF
+	  3 Months
+
+	2
+	 SQL server
+	  3 Months
+
+
+
+
+Professional Highlights:
+
+· Proficient in CRM 2015, CRM 2016 and Dynamics365.
+· Proficient in implementing JavaScript to MSCRM connectivity with SOAP, ODATA web services using 
+               XmlHttpRequest
+               Jquery
+               XrmServiceToolkit
+               SDK
+               XrmSvcToolkit
+               WebApi version 8.2
+· Good experience on writing Plug-ins and custom workflows on .Net environment.
+· Proficient in developing system workflows on CRM 2016.
+· Experience on CRM customizations like form, ribbon customizations.
+· Expert in debugging plug-ins in CRM 2016. 
+· Having Moderate Knowledge on D365 Portals and SharePoint.
+· Having 4 Month Working Experience in client location as a contract employee in Microsoft, Gachibowli Hyderabad
+
+Professional Experience:
+· Working experience in Management Technology Consulting, Hyderabad from Dec 2014 to Aug 2017 as a Software Engineer.
+●Current Working in Microsoft as a Payrole from the Company Management Technology 
+Consulting, Hyderabad from 30th August 2017 to till date as a Software Engineer.
+
+
+Techncal Skills:
+	
+Platforms			: Microsoft Dynamic 2015and 2016, D365 .NET. 
+Operating Systems	: Windows Family.
+Scripting			: JavaScript, Jquery, Knockout js
+Web: HTML.
+Development Tools            	: Microsoft Visual Studio 2008, 2010, 2012
+Reporting                               : Basics in SSRS Reports
+
+
+Project - 1
+Project Name                 	 :Scheduling WorkHours
+Technical Environment	: MS CRM 2016 SDK, Javascript, jQuery,HTML
+Role				:  Team Member
+Team Size			 :  3
+Duration :  6 Months
+Description: This involved automatic process of Scheduling Bookable Resource Work Hours. Work hours are updated based on the Resourse Work hours availability. Clear and Apply Shifts Button will update the Resource WorkHours from StartDate to EndDate which clear all the previous workhours and update new workhours . Apply Shifts Button will update the WorkHours with including  previous available workhours .
+Roles and Responsibilities:  
+· Analyze and understand the business requirements.
+· Interface with the clients for any enhancements/changes to be made in the system.
+· Responsible for developing ribbon customizations.
+· Status Reporting and Code Review.
+· Involved in Build and Deployment process using TFS.
+
+Project - 2
+Project Name                 	 :  Event Table Planning
+Technical Environment	: MS CRM 2016 SDK, Java script, jQuery, Plug-in, HTML
+Role				:  Team Member
+Team Size			 :  3
+Duration                                 :  4 Months
+Description: This involved automatic process to maintain Events information from time of Event start date to end date. Event having Event Registrations and Event Registration having session registrations.Cancellation of Event Registration and Event Session Registration also included.
+
+This Project mainly deals with Event Management Table Booking for an event, in which Planner creates tables,seats,Obstruction Section(Bars, Standing rooms,Entrance,etc.) and Drag this tables(circular, square, rectangular etc.) on Event Floor Plan based on maximum attendees for an event.
+
+Roles and Responsibilities:   
+· Analyze and understand the business requirements.
+· Interface with the clients for any enhancements/changes to be made in the system.
+· Responsible for developing Java scripts using Rest Service.
+· Responsible for developing ribbon customizations.
+· Implementing workflows for request for additional seat approval and cancellation base on planner decision.
+· Production support Resolving Incidents on daily basis.
+· Involved in Build and Deployment process using TFS.
+
+Project - 3
+Project Name                 	 :Support Projects
+Client                 	:  Multiple Clients
+Duration                 	:  1 year 6 months
+Roles and Responsibilities:   
+· Customizing Entities and Attributes and Customizing Forms and Views.
+· Worked On Custom Ribbon Buttons.
+· Worked on Plug-inn’s.
+· Worked on Workflows.
+· Worked on Form Scripting (Hiding and showing tabs and sections).
+· Worked on sitemap customizations.
+· Worked on Custom HTML pages development.
+
+Project - 4
+Project Name                 	 :David Augustinc
+Client                 	             :  David August
+Duration                 	             :  3 months
+Roles and Responsibilities:   
+· Customizing Entities and Attributes and Customizing Forms and Views in Resco
+· Having experience on customize the business rules in Resco Mobile crm
+
+Description
+· Developing an Html Excel Sheet using KnockoutJavaScript in D365 Crm ,which can able to do all Excel calculations in it and saved data back to crm .
+· Documentation on D365 Portal Entities 
+
+Project - 5
+Project Name                 	 :Sagicor
+Duration                 	             :  1 Month
+Location                 	             :  Microsoft, Gachibowli Hyderabad
+
+Roles and Responsibilities:  
+· Customizing Entities, Attributes and Forms 
+· Having experience on Develop the business rules in D365
+
+Description
+                                
+  Sagicor project is a Financial Corporate project, which has many product Families like Banking, Investments etc., It mainly deals with 3 entities i.e., Application, Corporate Client and Individual Client, which can perform the operations based on these entities and product families. here Corporate Client is an Account and Individual Client is a contact for the organization. I Mainly worked on the business Rules and Form Customizations to meet the Sagicor Requirement and Resolved the bugs as per FDD
+
+Current Working Project
+                                      
+                                                CRM Survey
+ Survey integrates easily with Microsoft Dynamics CRM. This lets you maximize workplace efficiency and ensure accuracy of your customer data, helps you to bridge a critical gap in CRM by adding customer satisfaction to your list to Microsoft Dynamics CRM. This will allow for more proactive customer service, speedy response rates and you never leave your CRM.  we can Set surveys regarding any CRM entity, including contacts, leads, or any other CRM entity . Send out surveys manually or automatically and Manually add a survey activity to a CRM record
+
+Education Qualification:	
+	
+· Completed Bachelor technology from SriPrakash College of Technologyunder  JNTU (Kakinada) University in 2012. 
+Personal Profile:
+
+Name			:	P.Bharat Mani Kumar
+Sex			:	Male.
+Marital Status		: 	Single.
+Father’s Name 		:	Anand Kumar
+Languages Known	:	English, Hindi, and Telugu.
+Nationality			:	Indian.
+								
+
+

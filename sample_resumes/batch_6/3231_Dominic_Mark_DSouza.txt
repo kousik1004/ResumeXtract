@@ -1,0 +1,403 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 | P a g e  
+ 
+
+Dominic Mark D’Souza 
+
+West Avenue C.H.S F-102, 
+Station Road, 
+Nallasopara West  
+Pincode401203, 
+Dist: Palghar 
+
+  
+Email: domark1991@gmail.com 
+
+Telephone: +918390822032 
+ 
+
+ 
+
+SUMMARY  
+
+ 
+Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled 
+in Mobile and Web Technologies. Strong engineering professional with a Master of Technology (M.Tech) focused in Software 
+Systems from Birla Institute of Technology & Science, Pilani. 
+
+KEY SKILLS AND COMPETENCIES 
+
+ 
+ An ambitious programmer with proficient knowledge and experience in working on Android and Angular.  
+ 3.10 years IT experience in working in the IT Industry. 
+ Worked with numerous technologies and have gained technical exposure to work with any of them like CICD, angular2 etc. 
+ Proactive, confident and with a positive "can-do" attitude. 
+ Able to clearly communicate technical data to non technical colleagues and clients.  
+ In-depth knowledge of industry practices and application development protocols 
+ Passionate to update my knowledge and skills though continuous self learning. 
+
+WORK EXPERIENCE:  
+
+ 
+ Current Working as Senior Software Engineer at Hexaware Technologies, since December 2013. 
+ 
+
+TECHNICAL SKILLS:  
+
+Technologies: Android, iOS(Beginner), Angular, CI/CD, git, svn. 
+
+Programming Languages: Java, C, C++, TypeScript, JavaScript. Swift(Beginner). 
+
+ 
+
+ACADEMIC QUALIFICATIONS 
+
+ 
+
+Course Institution Board/University Year of Passing Grade 
+
+M.Tech in Software 
+Systems 
+
+Birla Institute of 
+Technology Science 
+
+Birla Institute of 
+Technology Science 
+
+2017 8.9 CGPA 
+
+B.Tech (CMPN) St. Francis Institute of 
+Technology Science 
+
+Mumbai University 2013 64% 
+
+HSC Vidya Vikisini High School 
+and Jr. Colloege. 
+
+Maharashtra Board 2009 81.16% 
+
+SSC St. Francis De Sales High 
+School 
+
+Maharashtra Board 2007 78.61% 
+
+     
+
+ 
+
+ 
+
+
+
+2 | P a g e  
+ 
+
+CERTIFICATION 
+
+ 
+
+Certification Institute Year 
+
+Oracle Certified Professional Java 
+Programmer SE6 
+
+Oracle 2012 
+
+Oracle SQL Fundamentals Oracle 2014 
+
+ 
+
+ 
+
+PROJECTS UNDERTAKEN 
+
+CICD PROJECT 
+
+Client: American Airline Company 
+
+Duration: Jun 2017 - Jul 2017 
+
+Skill Used: Grunt, Jenkins, Karma, JavaScript, 
+
+Role Description: Writing the grunt scripts to build the code, writing the Jenkins pipeline, setting up the karma framework for unit 
+
+testing, Grunt scripts to deploy the artifacts, creating build and deploy Jobs for building and deploying the projects. 
+
+Project Details: Setting up the CI/CD pipeline for 10 client projects. So that the build and deployment process is automated. 
+
+ 
+
+FLIGHT STATUS APPLICATION 
+
+Client: American Airline Company 
+
+Duration: Nov 2016 - Apr 2017 
+
+Role: Programmer 
+
+Skill Used: Angular2, HTML/CSS, git. 
+
+Role Description: Developing the pages as per the Visual Designs, Implementing Accessibility, Fixing bugs, Part of a SCRUM team. 
+
+Project Details: The client is one of the leading Airlines in the United States of America. This application is a responsive website 
+
+developed in Angular2 for desktops, mobiles and tablets.  
+
+The website offers the following features to users: 
+
+1. Search and View Flights by number and route. 
+
+2. Track a particular Flight. 
+
+3. View past flight information and the route taken by a particular flight 
+
+
+
+3 | P a g e  
+ 
+
+APPROVAL APPLICATION 
+
+Client: Hexaware 
+
+Duration: Sep 2016 - Oct 2016 
+
+Skill Used: Andoid, Salesforce, 
+
+Role Description: Architecting, Designing and developing the application and integration with the backend 
+
+Project Details:  This application helps the user i.e. the approver to process requests for expenses, timesheets, customer on-
+
+boarding, contracts etc. on the fly from a single application. This application includes integration with 3 Content Management 
+
+Systems in a single application .The 3 content management systems are Salesforce, PeopleSoft and Workday. 
+
+ 
+
+ADJUSTER APPLICATION 
+
+Client: Hexaware 
+
+Duration: Jul 2016 - Sep 2016 
+
+Skill Used: Android. 
+
+Role Description: Understanding the requirements and building the necessary functionality. Architecting and developing the android 
+
+applications as per the specifications, Visual designs and Wireframes.  
+
+Project Details: It consists of 2 applications one for the desk adjuster, field adjuster and one application for the client of the 
+
+insurance organization. A total of 2 applications. The client application is linked to the sensors in the clients insured property and 
+
+notifies him of any damage on the property, it also helps him to raise a claim and track the progress of the claim from time to time. 
+
+The field/desk adjuster application helps them to track the raised claim, process it, set up and appointment with the client for access 
+
+the property damage. The app includes a live streaming feature integrated with a drone so the field adjuster can share the live feed 
+
+with the desk adjuster and both can access the insurance claim and do the necessary task of processing the claim quickly. 
+
+TAXI BOOKING MOBILE APPLICATION 
+
+Client: Cityfleet 
+
+Duration: Mar 2015 - May 2016 
+
+Skill Used: Android. 
+
+Role Description: Understanding the requirements and building the necessary functionality. Developing the android applications as 
+
+per the specifications, Visual designs and Wireframes. Fixing bugs reported by the testers. 
+
+Project Details:  The customer is a Leading Global Ground Transport Provider that provides safe and reliable transport for the UK 
+
+corporate market. Their service offering covers taxis, private hire vehicles, executive travel, coach hire, and specialist transport 
+
+services. The project involved development of a mobile application for android and iOS with 4 different brands depending on the 
+
+customer base. 
+
+ 
+
+ 
+
+
+
+4 | P a g e  
+ 
+
+HEXAFIT 
+
+Client: Hexaware 
+
+Duration: Jan 2015 - Mar 2015 
+
+Skill Used: Android. 
+
+Hexafit is a fitness tracking application available for the android platform. It allows the user to setup a profile based on his current 
+
+fitness status i.e. weight, height and goals to be achieved within a specific time. The application recommends the necessary diet and 
+
+exercise to achieve his goals set. The user can track his daily activities, exercises, sleep and diet. Based on the activities the 
+
+application computes the calories gained or burned respectively. The application is designed to work with fitness bands (E.g. 
+
+Jawbone) as an analytics tool. Application is compatible with Microsoft HealthVault - A centralized repository with user’s e-health 
+
+records. 
+
+M-SHOP 
+
+Client: Hexaware 
+
+Duration: May 2014 - Oct 2014 
+
+Skill Used: Android. 
+
+Role Description: Designing the UI, Implementing the functionality 
+
+Project description: It is a retail shopping mobile application available for the android platform. The application provides a large 
+
+number of products categorized based on type electronics, household appliances, furniture etc. Provides a quick access to 
+
+discounted products, recently visited and most popular items rite on the home screen. The Search and filter functionality allows the 
+
+user to quickly locate the product he is looking for. The user can make a shopping cart and a shopping list for quick purchase. 
+
+FTD MERCURY RETAIL TO GO 
+
+Client: Florist Transworld Delivery 
+
+Skill Used: Android. 
+
+Role Description: Designed the UI for a couple of Modules: Securing the app with a Lock screen having a four digit PASSCODE. 
+
+Handling the transaction data within the device and displaying them as Reports. Fixing bugs reported by the testing team. 
+
+Duration: Apr 2014 – Apr 2014 
+
+Project description: Retail to Go is a mobile application available for android and iOS platform. The application main objective was 
+
+to expedite the payment process for the customers who are physically present at the retail stores. This mobile application has salient 
+
+features like payment through credit card with swiping feature through the uDynamo device attached to the smart phone. This 
+
+Application does not support offline capabilities. 
+
+ 
+
+ 
+
+ 
+
+
+
+5 | P a g e  
+ 
+
+UNNATI 
+
+Duration: Jan 2014 – Jan 2014 
+
+Role Description: Understanding the requirements by studying the functional document. Designed the UI for a couple of Modules. 
+
+Integrating the mobile application with the Salesforce backend. Unit testing of different modules. Fixing bugs found during testing 
+
+Project description: This is a retail mobile application built targeting the Android Platform. This app helps a retailer to ease his day to 
+
+day activities by managing his inventory and customers. This application features a rich and dynamic UI and has support for 3 local 
+
+languages. This application constantly keeps your data on the mobile and web updated by syncing data between the backend server 
+
+and the device local storage as soon as network connectivity is present. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PERSONAL DETAILS 
+
+ 
+
+Date of Birth : 28
+th
+
+ Nov, 1991 
+
+Sex                : Male 
+
+Nationality : Indian 
+
+Marital Status : Single 
+
+Language Known  : English, Hindi and Marathi 
+
+ 
+
+ 
+
+ 
+
+Declaration 
+
+I Dominic D’Souza hereby declare that the above furnished details are true to the best of my knowledge and belief.  
+
+ 
+
+Place: Mumbai                                                                                                                                                     
+
+Date: 
+
+

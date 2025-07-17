@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+resume
+
+PRASAD.V                
+
+
+
+
+                     
+E-mail: spideyprasad@gmail.com    
+
+
+Mobile: +91 9894740344
+
+OBJECTIVE
+
+
+To obtain a challenging position in a high quality engineering environment where my resourceful experience and academic skills will add value to organizational operations.
+PROFESSIONAL EXPERIENCE
+
+Company
+: Comodo Security Solutions
+
+Designation
+: Research Analyst
+
+Duration
+: Dec 2010 – Till Date
+
+RESPONSIBILITIES
+Title
+
+:  Digital Signature Certificate Management
+Description
+: To add Digital Signed software’s to the TVL (Trusted Vendor List)
+
+Role:
+
+· Analyze and find out the original vendor from the given signature.
+· Vendor site EULA will be verified.
+· Software products which avail in the vendor site will be downloaded and its digital signature along with Root Certificate will be validated.
+· Software will be installed and to confirm that whether they follow their given EULA.
+· Software will be run and check whether it posses key loggers or any monitoring activities, BHO, Toolbar etc… 
+· The process will be performed based on the nature of the software products.
+Tools Used
+: Hash Tab, Radar, Regshot, FileAlyzer, Process Monitor, Sign verifier
+Title
+
+:  Quality Assurance Testing – Anti-Virus
+Description
+: To test the antivirus updates during pre and post release in 32 and 64 bits
+
+  Windows 7, Vista, XP along with MAC operating system
+Role:
+
+· Antivirus will be updated first and check the merging issues.
+
+· Scan the critical areas after merging and to check whether it is scanning perfectly without crashing the system.
+
+· Performance testing will be acted continuously during merging, scanning and after restarting the PC, and CPU usage will be noted down.
+
+· After releasing the updates, antivirus will be check from live server whether it updates perfectly without any error like broken links, wrong updates etc.
+
+Tools Used
+: Live Check, Hash Calc, Hex Editor
+Title
+
+:  White - Listing
+Description
+: Software’s will be white listed (added safe) via forum (user request),
+
+   FP fixing and AV comparatives.
+Role:
+
+· Vendor Site will be reviewed first based on the request given.
+
+· If vendor site is safe, software will be downloaded and installed.
+
+· The software will be tested whether it has any previous detection.
+
+· If the software fails to meet the above criteria, it will be assigned to black-listing for further evaluation.
+
+· After evaluation, if software founds safe it will be uploaded to safe list.
+Tools Used
+: Radar, Regshot, Regshot Copy Utility, Sample Submitter
+EDUCATION
+
+· Master of computer Application from Sree Sastha Institute Of Engineering and Technology(Anna University), in the year 2010 passed with 79%
+
+· B.Sc Mathematics from Bishop Heber College(Bharadidasan University) in the year 2007 passed with 88.09%
+
+· XII from Arockiamatha Matriculation Hr. Sec.School in the year 2004 passed with 81.08%.
+
+· X from Arockiamatha Matriculation Hr. Sec.School in the year 2002 passed with 75.25%. 
+TECHNICAL SKILLS
+
+· Languages 
+
+: C, C++, Java, C#
+· Databases 
+
+: MySQL, Oracle, SQL Server 2005
+· Web Designing 
+: JAVA SCRIPT, HTML, PHP
+ACADEMIC PROJECT
+A small testing tool has been developed to check the changes in the code (i.e.) it will reports the changes made on past and present code. It will test VB, c# and java codes.
+Front end: c#.NET Windows Application
+
+Backend: SQL Server 2005
+PERSONAL SKILLS AND STRENGTH
+· Self-motivated and detail oriented, I am organized and able to prioritize to focus on the achievement of successful outcomes.
+
+· A concept-based learner, I can usually pick up new skills quickly.
+
+· Taking ownership, being empowered to meet challenges and solving problems give me a high degree of personal satisfaction.
+PERSONAL PROFILE
+· Date of Birth
+
+:     12th September 1986
+
+· Gender
+
+
+:     Male
+
+· Father name
+
+:     S. Vaidyanathan
+
+· Nationality
+
+:     Indian
+
+· Marital Status
+
+:     Single
+
+· Languages
+
+:     Tamil, English
+
+DECLARATION
+
+ I hereby declare, that the information provided above is true to the best of my knowledge.
+
+
+PLACE: Chennai
+
+DATE   :                                                                                                  (PRASAD.V)
+No. 54, Coronet  Garden,�
+�
+Kannappa Nagar(Extn),�
+�
+Kottivakkam,�
+�
+Chennai – 600041.�
+�
+ 
+
+
+
+
+

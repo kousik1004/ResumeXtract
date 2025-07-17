@@ -1,0 +1,170 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+
+	
+
+
+
+		
+					
+RAVIKUMAR  KALE                                            	  Mobile: 9952088970
+			                                         Email: kaleravikumar419@gmail.com
+
+
+SUMMARY:
+Having  3+  years  of  IT experience  in Java and J2EE based  Technologies development. 
+
+Top quality development skills using  technologies including  J2EE ,Java,Hibernate,Spring 4.x, technologies and good  knowledge of  WebServices.
+         
+Having experience on Tomcat,Jboss , Weblogic servers and Oracle,MySQL database.
+
+Worked on IDE’s called  Eclipse and used  tools  such  as  SVN and Log4j,Maven,Junit  and having  knowledge of  STS.
+
+Good knowledge in Spring IOC,ORM, AOP ,MVC ,JDBC modules,Spring Boot ,Angular Js.
+
+Keen understanding of design patterns like Singleton.
+
+DAO, DTO, MVC, Front Controller, Factory methods.
+
+	In-depth knowledge and having experience in all facets of  project life-cycle development (SDLC) from  requirements, Analysis, Conceptual design through documentation, Implementation, Testing and  Maintenanace.
+
+Strong communication, interpersonal, analytical & team building skills with  proficiency  at grasping  new concepts quickly and  utilising the same  in a  productive  manner.
+	
+EDUCATION QUALIFICATIONS:
+
+ B.Tech(Electronics) from  JNTUH  with aggregate of 62%
+
+Professional Experience: 
+Working  as  Software  Engineer in  HTC  Global  Services  Private  Ltd  from March 2015  to April  to  till  date..
+ 
+TECHNICAL EXPERIENCE:
+	LANGUAGES:
+	Java 
+
+	WEB TECHNOLOGIES
+	Servlets ,Jsp
+
+	SERVICE TECHNOLOGIES
+	Jdbc
+
+	FRAME WORKS
+	Hibernate,Spring4.x 
+
+	APPLICATION/WEB SERVERS:
+	Apache Tomcat, WebLogic,Jboss
+
+	BUILD TOOL
+	Maven
+
+	LOGGING TOOL:
+	Log4j
+
+	CONFIGURATION MGMT:
+	SVN
+
+	WEB DESIGN
+	Html ,Java Script
+
+	DATA BASES
+	Oracle,MySql
+
+	IDE
+	Eclipse 
+
+	OPERATING SYSTEMS
+	Windows
+
+
+Project # 1:
+Name of the Project:EDPC
+Client:Tamil Nadu Civil  Supplies Corporation
+Team Size:5
+Role : Java Developer
+
+Description:-
+Farmers harvests paddy and hand over to TNCSC. TNCSC receives the paddy and pay the farmers corresponding amount to their respective bank accounts. The Ultimate aim of this project is that to make sure farmer receives their paddy amount within a day.
+	
+Environment:Core Java, Spring, Hibernate,Webservices,JSP, Oracle Sql,SVN, Postgres, , Jboss 7.
+
+Responsibilities:
+•   Interacting with the client to understand the project and finalize its scope.
+•   Estimation, design and development of various modules.
+•   Bug fixing and maintenance of the product
+•    Coordinating with other teams working on the same project.
+•    Active participation in regular project status meetings.
+
+Project #2 :
+Name of the Project :Banking  Domain.
+Client: CWB
+Team  Size: 6 
+Role :  Java Developer
+
+
+Description:-
+This is  a high  quality client-server  banking   software   application   covering   Retail  and  Corporate banking services. It is highly  parameterized   to support  dynamic  nature  of  customer  and  regulatory requirements. It is a safe investment for banks, incorporating state-of- the-art- technology effectively and meets the complex needs of the banking industry. It liberates banking operations from obsolescence, redundancy and in-operability and takes towards efficient and flawless functionality. It is simple to use,  yet  very  powerful  tool  ever  developed  for  the  banking sector.
+
+ Environment: 
+Java, J2EE, Spring Core, Spring JDBC, Spring AOP, Spring MVC, Spring BATCH,JAX-WS,
+JAX-RS, Hibernate, JSP, Oracle, Tomcat 7, Maven, Svn,  Log4j
+Responsibilities:
+
+• Used   Spring   provided   Hibernate Template   to   interact   with   database.
+• Injected   Dao’s   into   service   classes   and   service   classes   into   controller   classes   using   IOC pattern
+• Provided   HQL   queries   to   retrieve   data   from   multiple   tables
+• Involved   in   writing   of   JSP   pages   for   the   presentation   of   data
+
+								
+ (RAVIKUMAR  KALE)
+
+
+
+					Page 1 of 3

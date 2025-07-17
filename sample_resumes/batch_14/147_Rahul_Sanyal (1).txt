@@ -1,0 +1,565 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chronological resume (Blue Line theme)
+
+Rahul Sanyal• +971 555439218• raahul19@gmail.com
+
+Page 6
+
+RAHUL SANYAL
+
+27B, Durga Prasanna Paramhansa Road, Kolkata. West Bengal.India.
++91 8084003382
+
+raahul19@gmail.com
+
+Nationality: INDIAN
+
+	Oracle database administrator 
+
+	Deeply driven and accomplished Oracle Database Administrator (DBA ) with a successful 9 years of extensive experience in designing, maintaining, testing , supporting and upgrading  databases in Oracle enterprise production environments. Currently employed with Emirates Airlines, Dubai to provide IT consulting expertise as a permanent staff. Highly proficient in  diverse technologies including Oracle 10g/11g/12c database, Oracle E-Business Suite 12.0.6 & 12.1.3, Oracle Weblogic server, Oracle Fusion Middleware, Apache Web Server, Visio, Windows and Linux. DBA skills include:
+
+	· Oracle 10g/11g/12c Database Administration/upgrade/migration in OLTP and data warehouse environments (OBIEE)
+
+· Data Security and database auditing
+
+· Disaster Recovery, ADG  Standby/Failover administration
+
+· Database and SQL monitoring and performance tuning using TOAD, Tkprof, Trace Analyzer,AWR, ADDM etc.
+
+· Troubleshooting forms/reports/jsp/concurrent manager/Parallel Concurrent Processing (PCP)/network/Linux server issues
+
+· Automation using scripts for complex repetitive DBA tasks
+	· Database cloning using restore-recovery and duplicate methods
+
+· Oracle  ASM and RAC administration/installation
+
+· Backup and Recovery using RMAN
+
+· Debugging with procedures, Function, Triggers, Packages and other PL/SQL objects
+
+· Oracle Weblogic and Fusion Middleware component installation/administration including Portal, SSO, OAM, OID, DIP,SOA 11g etc.
+
+· OEM 12c installation and advanced administration
+
+
+
+	 Database: Oracle 10g, 11g R2, 12c, 
+
+                     Oracle exadata X6-2 Elastic Rack HC
+
+OS:  RHEL 4-6, OEL 6.5, Suse Linux, Windows NT/2K, Sun Solaris 2.6/2.7/2.8/2.9, IBM AIX 5.1, 6.1
+
+Tools & Software: WLST, OEM 10g/12c, RUEI, TOAD, PL/SQL Dev , iHttpHeader , Oracle Applications R12.0.6/12.1.3, Oracle Application Server 10g, Vertex (tax), iPayment, OBIEE, Logical Apps,  Noetix,  Fusion Middleware 11g, Oracle SOA suite 10g/11g, Resume Mirror,  iRecruitment , ConfigSnapshot, OS Watcher, exposure to veritas clustering and storage replication.                                                                                                     
+
+
+	
+
+	Professional Experience
+
+	Tata Consultancy Services Limited, India: Sep 2008 – July 2015
+
+DNATA- Emirates Airlines, Dubai: Aug 2015 – Sep 2017
+
+Current Position:
+
+Work Location:  Dubai, United Arab Emirates
+Role: Technical Engineer – Database Administrator 
+
+Employer: Emirates Airlines- DNATA
+August 2015 – present
+
+Responsibilities:
+
+
+· Provide 24x7 production support for 100+ production Oracle databases and engage in new implementation project activities
+
+· Production/sub-production DBA support for Oracle 9i/10g/11gR2/12c RAC databases with ASM running on RHEL 5/6 with Active Dataguard standby and Oracle e-Business Suite R12.1.3 environment for ERP. 
+
+· Implement end-to-end SSL on E-Business Suite R12.1.3
+
+· Perform 10g/11gR2 (ASM/non-ASM) to 12c database (ASM) upgrades with minimal downtime
+
+· E-Business Suite cloning, application & database patching , troubleshooting, maintenance, shell scripting to automate application patching and cloning etc.
+
+· Identify and troubleshoot bottleneck and performance issues holistically:  Application, Database, SQL query, System resource or Storage perspectives.
+
+· Manage and administer RAC databases on Oracle exadata X6-2 Elastic Rack HC machines
+
+· POC to automated implementation of switchover complaint Database Filesystem (DBFS) in Active Dataguard environment for 11gR2 databases
+
+· Oracle Fusion Middleware Application Server 11g Release 2 – installation and administration to support Weblogic based applications
+
+· POC for implementation and impact analysis using SQL Performance Analyzer and Oracle Database Replay on Dataguard using Snapshot Standby database before database upgrades and CPU/PSU quarterly patching
+
+· Build RAC/non-RAC databases with Active Dataguard on physical/virtual servers, regularly perform Active Dataguard database switchovers using OEM/manually, ensure and monitor/troubleshoot dataguard log-shipping sync using scripts
+
+· Contribute to automation using scripts: Oracle Grid Installation/RDBMS software installation, database creation, tablespace management, 11g to 12c database upgrade, on-demand database cloning, active dataguard creation from scratch, monitor alert log for ORA-600, ORA-07445 errors etc.
+
+· Establish, implement, document and maintain Database Services policy, standards and working practices in line with CMMI and ITIL, maintain the technical standards and product standards for databases.
+
+· Implement database security : auditing implementation across multiple databases using automated scripts, Data Masking, compliance using OEM12c, implement custom database profiles.
+
+· Develop, review and implement database RMAN backup, recovery policies in dataguard environments and integrate with Symantec Netbackup for backup to appliance/tape.
+
+· Oracle Enterprise Manager 12c: Install , out-of-place version upgrade, agent upgrade,  deploy agent software/plugins, discover host/database targets, design and generate BI Publisher Reports, monitor Compliance by creating Compliance Standards and implementing Groups, implement OEM jobs and alerts, manage OEM accounts, create and manage OEM Named Credentials, generate custom reports by querying repository database.
+
+· Provide advice and technical guidance on database technologies to other Emirates Group -IT departments to map business needs to effective database solutions, Ensure that databases adhere to relational database principles, have no missing components, are efficient, and operating procedures are properly documented and periodically reviewed for relevance. 
+
+· Attend periodic official training from Oracle University on emerging technologies and implementation best practices to fully utilize capabilities of licensed products. Work closely with Oracle ACS personnel to deliver  Proof-of-Concept on new products/implementations.
+
+· Collect business requirements, conduct drills to establish Proof of Concept and recommend business relevant database solutions that are agile and robust.
+
+· Provide DBA expertise for specific project activities defined for a line of business and co-ordinate amongst various stakeholders throughout project lifecycle.
+
+· Conduct Business Technology meetings  to ensure DBAs gain exposure to various business processes, lines of business in aviation industry, understand business impact of database availability/performance and brainstorm on developing solutions that continuously seek to improve business performance. 
+
+Project 1
+
+Client : Qantas Airways Ltd., Australia
+Work Location:  Kolkata, India
+Role: Offshore Team Lead- Database Administration
+Project: eQ Application and Database Support
+Employer: Tata Consultancy Services Limited
+
+December 2014 – July 2015
+
+Responsibilities:
+
+
+· Lead team of 5 DBAs at offshore location
+
+· Production/sub-production DBA support for Oracle 11gR2 RAC databases with ASM running on RHEL 5.8 supporting Oracle e-Business Suite R12.1.3. Support environment included Oracle Identity management (OID), Oracle Access Manager (OAM), Portal 11g, SOA 11g, Discoverer 11g and High Availability physical standby DR instances for each.
+
+· EBS cloning, application & database patching , shell scripting etc.
+
+· Periodic review , proactive growth prediction and capacity planning to support E-Business Suite Production and sub-prod environments to meet and maintain performance requirements
+
+· Troubleshoot issues with concurrent managers, requests, database block corruption, workflow mailer, user login etc 
+
+· Design strategy and perform database RMAN backups, recovery 
+
+· User maintenance
+
+· Database maintenance and housekeeping activities such as resizing datafiles, tablespaces etc, custom schema creation, invalid objects detection and compilation, database fragmentation detection and resolution, etc
+
+· Periodic Critical Patchset Update (CPU) analysis for all installed components and CPU application during technical releases.
+
+· Proactive Security vulnerability analysis and resolution for all installed Oracle products.
+
+· Document and perform Disaster Recovery drill on e-Business Suite, Portal, OAM and OID.
+
+· Oracle Enterprise Manager  12c (OEM) setup and configuration for metric-based/custom alerting, reporting and job scheduling.
+
+· Design shell script to automate real-time monitoring of concurrent requests and reporting via email /voice call/SMS to stakeholders based on criticality (delayed start, long running, failure, warning etc)
+
+· Regular code migration, monitor version control standards etc
+
+· Database tuning and sql tuning for performance. Use ADDM, AWR reports, SQLT , tracing, generating explain plans and tkprof for troubleshooting performance issues.
+
+Achievements:
+
+· Managed High Availability DR drill successfully meeting both Recovery Time Objective and Recovery Point Objective with 10 hours to spare by using flashback DR instead of DR recreation- Received Project Manager appreciation 
+
+· Implemented end-to-end batch monitoring to automate concurrent request monitoring and reporting to reduce manual effort equivalent to 4 resources.
+
+Project 2
+
+Client : Experian. A global leader in providing information, analytical tools and marketing services to organizations and consumers to help manage the risk and reward of commercial and financial decisions. Headquartered at Nottingham, UK and Costa Mesa, USA.
+Work Location:  Kolkata, India
+Role: Offshore Team Lead- Database Administration
+Project: Oracle E-Business Suite R12.0.6 to R12.1.3 Upgrade and SOA 11g High Availability implementation along with server migration from HP physical to VBlock servers and platform shift from RHEL 5.8 to OEL 6.5.
+
+Employer: Tata Consultancy Services Limited
+February 2014 – December 2015
+
+Responsibilities:
+
+· Gather technical requirements for the EBS upgrade and SOA 11g implementation and resource allocation
+
+· Conduct feasibility study and POC on both physical and vBlock hardware and report findings 
+
+· Capacity planning to support upgraded E-Business Suite Production and sub-prod environments on new hardware and platform to match existing loads and performance requirements
+
+· Work closely with Unix, network teams and Oracle Support to establish upgrade roadmap and troubleshoot issues during initial server build and POC right through to production cutover.  
+· Provide DBA requirements/recommendations for best-practices  to Unix and network teams during initial server build and network setup.
+
+· Perform pre-upgrade sanity testing on new hardware
+
+· Strategize upgrade plan to minimize production downtime by using a DR instance instead of the usual clone via backup pieces approach
+
+· Perform E-Business Suite upgrade and SOA 11g implementation following a vanilla, DEV, SIT, UAT and production cycle
+
+· Resolve technical and performance issues in each of the SDLC phases with active collaboration with Oracle Support and project techno-functional leads often within challenging deadlines
+
+· Prepare actual cutover plan and take formal business approvals
+
+· Perform actual production cutover/implementation by working in a 3-shore 24*7 model during go-live phase
+
+· Integrate new production environment with multiple upstream and downstream sub-systems and third party vendors (Portal, SSO, OID, MSAD, OBIEE, custom billing integration and third party integration points like Paypal, RBS, KBACE, tumbleweed, Vertex etc.)
+
+· Provide production warranty support post go-live
+
+Achievements:
+
+· Performed project activities as per project plan and deadlines 
+
+· Minimal post-upgrade/implementation issues after go-live (3 incidents only)
+
+· Performed actual cutover with over 10 hours of contingency time to spare which was used for further performance tuning post sanity checks.
+
+· Received multiple appreciation mails from client DBA lead and Experian management through the project duration.
+
+· Received “TCS Gem” and “on-the-spot award” for excellence in DBA  administration and project delivery
+
+
+	Project 3
+
+Client : Experian
+Work Location:  Cyberjaya, Malaysia
+Role: Single point of contact for technical handover/knowledge transition – DBA 
+Project: Technical handover and transition of support DBA tasks  to client at new offshore location 
+
+Employer: Tata Consultancy Services Limited
+December 2014 – February  2014
+
+Responsibilities:
+
+· Provide overview of support DBA tasks and Experian system architecture and all integration points
+
+· Provide technical transition on procedural activities like incident management, DBA support model, issue reporting and handling etc.
+
+· Provide detailed technical documentation and hands-on demonstration of Oracle EBS production (High Availability RAC ), UAT/SIT (HA RAC), DEV (single node) databases, Data warehousing databases – production and sub-production (HA RAC) system architecture, cloning process, application, database and CPU/PSU patching/analysis, monitoring/alerting/reporting/administration using Oracle Enterprise Manager 12c, using RUEI tool, backup and recovery strategies, Disaster Recovery instance maintenance, housekeeping and health checkup report generation, user/group maintenance using Portal, SSO, OAM, DIP, OID and MSAD integration and troubleshooting, Fusion Middleware deployed component overview, performance monitoring and tuning methodologies, user access management, database auditing, application code migration procedure, third party integration and common issues, Oracle workflow, forms, reports maintenance and troubleshooting, security and vulnerability mitigation procedures etc.
+
+Achievements:
+
+· Smooth sign-off DBA team and Experian project management
+
+· Client appreciation e-mails 
+
+· TCS excellence recognition e-mails from Account Manager and Global Relationship Manager
+
+
+	Project 4
+
+Client : Experian
+Work Location:  Nottingham, UK and Kolkata, India
+Role: Support DBA - client site Nottingham   (August 2012 – August  2013)
+
+         Support/project DBA team member – offshore Kolkata (December 2008 – July 2012)
+
+Project: Managed Services (BAU) DBA support ,  Single Global Instance (Gemstone) , Portal 11g Upgrade, Database 10g to 11g R2 upgrade
+Employer: Tata Consultancy Services Limited
+December 2008 – August  2013
+Responsibilities:
+
+· 24X7 support of production systems (25+ instances) on a rotation basis with other team members
+
+· Maintain Maximum availability environment using Oracle RAC, Data Guard, 10g Grid, ASM,OCFS2
+
+· Support Oracle E-Business Suite R12 environment with High Availability Architecture (RAC, PCP, Load balancing Internal and External web tiers) supporting Oracle Financials/HRMS/Payroll modules and custom applications
+
+· Maintain Oracle 10g Middleware application server with High Availability Architecture.
+
+· Configure RMAN in no catalog/Catalog mode, taking backup and restoring database as copy/backup set etc. Create scripts for RMAN and finalize backup and cloning methodology.
+
+· Shell scripts for starting /stopping database/other services, cloning (RAC to RAC and RAC to Non-RAC), patching, alerts, housekeeping etc
+
+· Enable RAC in with oracle applications database. Install/configure/administer CRS 
+
+· Configure applications in forms listener servlets.
+
+· SSO installation in a high availability Mode.
+
+· SSO registration with EBS R12.
+
+· Configure Data Guard with oracle E-Business Suite system.
+
+· Create, setup and maintain physical standby database using RMAN in Maximum Availability Mode. Perform annual DR drills with < 24 hours downtime.
+
+·   Oracle R12 integration with 10gas Portal and 10g SSO. 
+
+·   Configured MSAD integration with oracle OID.
+
+·   R12 integration with several third party tools like Noetix, AMC, Vertex, Paypal etc.
+
+·   Formulate new Business Continuity Plan and DR strategy after each functional rollout to incorporate DR strategy for all the reliant 3rd party applications of new rollout regions.
+
+· Test performance and troubleshoot performance issues by analyzing tables/importing and exporting statistics, defragmenting tables etc.
+
+· Mask sensitive user data in all the cloned instances
+
+· Database upgrade from Oracle 10g to Oracle 11g R2.
+
+· Fresh installation of CRS, ASM, Database (11g) in newly built servers
+
+· Oracle 10gAS (Portal and IDM) migration to Oracle Fusion Middleware (Portal,  IDM. ODSM, OAM , OID and DIP) to implement Oracle Single-Sign-On and integrate with Oracle e-Business Suite R12.
+
+· Patching – application and database patching and impact analysis, patch management and version control.
+
+· Review Oracle Security features/implement oracle audit in e-Biz environment. CPU/PSU and database patch analysis and application.
+
+· Oracle Enterprise Manager Grid Control 10.2.0.3 installation/agent installation in RAC database environment and Oracle Applications plug-in installation.
+
+Achievements:
+
+· Consistent good rating for dedicated efforts in support DBA role
+
+· Client appreciation e-mails
+
+· Part of the team that delivered Gemstone (won the prestigious “Best delivered project' in TCS)
+
+
+
+	CERTIFICATIONS & TRAINING
+
+	Program or Course
+
+Coverage
+
+Dates
+
+AWS certified solutions architect - associate
+
+Currently pursuing
+
+Exadata Database Machine : 12c Administration Workshop Ed 2 (Oracle University)
+
+Hands-on training from Oracle 
+
+Nov 2016
+
+11g Oracle Certified Associate 
+
+To document Oracle 11g DBA skills
+
+Nov 2016
+
+Oracle Database 12c: Backup and Recovery Workshop Ed 2 (Oracle University)
+
+Hands-on training from Oracle
+
+May 2016
+
+Oracle Database 12c: RAC and Grid Infra Deployment Workshop Ed 1 (Oracle University)
+
+Hands-on training from Oracle
+
+May 2016
+
+Oracle Enterprise Manager Cloud Control 12c: Adv Config Workshop Ed 1.2 (Oracle University)
+
+Hands-on training from Oracle
+
+Apr 2016
+
+Oracle Database 12c: Managing Multitenant Architecture Ed 1 (Oracle University)
+
+Hands-on training from Oracle
+
+Apr 2016
+
+Oracle Database 12c: Implement Partitioning Ed 1 (Oracle University)
+
+Hands-on training from Oracle
+
+Feb 2016
+
+Oracle Database 12c: High Availability New Features Ed 1.1 (Oracle University)
+
+Hands-on training from Oracle
+
+Feb 2016
+
+Oracle Database 12c: Security Ed 1 (Oracle University)
+
+Hands-on training from Oracle
+
+Nov 2015
+
+Oracle Database 12c: Data Guard Administration Ed 1 (Oracle University)
+
+Hands-on training from Oracle
+
+Oct 2015
+
+Oracle Database 12c: Performance Management and Tuning Ed 1 (Oracle University)
+
+Hands-on training from Oracle
+
+Aug 2015
+
+Certification: Oracle RAC 11g Essentials [1Z0-593]
+
+To document acquired skills in RAC 11g implementation and administration
+
+Apr 2015
+
+Certification: Oracle Linux 6 Implementation Essentials [1Z0-460]
+
+To document acquired skills in Oracle Linux 6 implementation.
+
+Oct 2014
+
+Certification: Oracle WebLogic Server 12c Essentials [1Z0-599]
+
+To document acquired skills in Oracle Weblogic 12c implementation.
+
+Jul 2014
+
+Certification: Oracle Database Administration I [1Z0-052]
+
+To document acquired  skills in Oracle database administration.
+
+May 2014
+
+Certification: Oracle Enterprise Manager 12c Essentials [1Z0-457]
+To document acquired  skills in latest version of OEM 12c administration
+
+Nov 2013
+
+Certification: Oracle Enterprise Manager 11g Essentials [1Z0-530]
+
+To document acquired skills in OEM 11g administration.
+
+July 2012
+
+Certification: Oracle Database 11g Performance Tuning  [1Z0-054]
+
+To document skills in database performance tuning.
+
+May 2012
+
+Certification: Oracle Golden Gate 10 Essentials [1Z0-539]
+
+To document skills in Golden Gate implementation/maintenance.
+
+Mar 2012
+
+Oracle University Training: Oracle Database 11g RAC Administration
+
+Completed 7-day instructor-led intensive training from Oracle for hands on RAC administration. 
+
+Oct 2011
+
+Conducted training: 
+
+Oracle 10g database administration and maintenance to team members
+
+Aug 2011
+
+Induction to Experian BIS Project
+
+Self-learning of IBM DB2 database.
+
+May 2010 & June 2010. During Project 
+
+Phases
+
+Induction to Experian Gemstone Project
+
+Trained in PL/SQL, Oracle Apps forms & reports, System Administration, Oracle Apps Database Administration.
+
+During Project 
+
+Phases
+
+IZ-001 Introduction to Oracle SQL and PL/SQL
+
+WBT
+
+Nov 2009
+
+Cross-Culture Sensitization - United States of America (U.S.A.)
+
+L&D Instructor-led training
+
+Jun 2009
+
+XML overview
+
+L&D Instructor-led training
+
+March 2009
+
+ILP Phase  II(Initial Learning Programme), Kolkata
+
+Trained in Oracle PL/SQL
+
+Oct 2008- Nov 2008
+
+
+
+	EDUCATION
+
+
+	Degree and Date
+	Institute
+	Major and Specialization
+
+	Bachelor of Engineering (Instrumentation & Control), Aug-2008
+	Manipal Institute of Technology, Manipal University.Karnataka.. India
+	Instrumentation & Control Engineering(CGPA 8.4)
+
+	C.B.S.E. (12th)
+	D.A.V. Jawahar Vidya Mandir, Shyamali. Ranchi.
+	Physics, Chemistry, Mathematics stream (69.00%)
+
+	I.C.S.E. (10th)
+	Bishop Westcott Boys' School, Ranchi. India
+	Phy, Chem, Maths, Bio stream  ( 92.60% ) 
+
+
+	PERSONAL DETAILS
+
+
+	Date of Birth
+	08-OCT-1984
+
+	Gender
+	Male
+
+	Nationality
+	Indian
+
+	Marital Status
+	Married
+
+	Languages
+	English, Hindi, Bengali
+
+
+	REFERENCES
+
+
+References are available on request
+

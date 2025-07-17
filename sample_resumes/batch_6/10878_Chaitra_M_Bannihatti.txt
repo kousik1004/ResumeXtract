@@ -1,0 +1,370 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chaitra M Bannihatti
+Primary Skills: -Java/J2EE/Big Data
+Phone: +91-9739997646email:chaitra.bannihatti@gmail.com
+SUMMARY
+Have 4 years of work experience in developing and supporting various applications with Java, Servlets, Springs, JavaScript, RESTful Web Services and Big Data technologies like Hadoop, Map Reduce, Apache Spark, Apache Storm, Kinesis, Hive, Oozie, Pig, Kafka, HBase and Qubole.
+
+Technical Summary
+
+· Have 4 years of total extensive experience in developing Java/J2EE/Big Data applications.
+· Experience in development of Big Data applications using Hadoop, Map Reduce, Apache Spark, Storm, Kinesis, Kibana, Hive, Pig, HDFS, and Amazon Web Services.
+
+· Have good Knowledge on Apache Kafka, Ranger, and Atlas.
+
+· Have good exposure on Ambari, Hue, Putty and WinScp. 
+
+· Have worked in Agile methodology and used GitHub.
+
+Technical Skills
+	Operating System
+	Windows, Linux.
+
+	Languages
+	Java.
+
+	J2EE Components
+	JDBC, Servlets, Spring, and HTML, RESTful Web Services.
+
+	Big Data
+	Hadoop, Map Reduce, Apache Spark, Hive, Impala, Presto, Qubole, Kafka, Storm, kinesis, Pig, Oozie, HBase, Sqoop, Zookeeper.
+
+	Scripting Languages
+	JavaScript.
+
+	Database
+	Oracle, MySQL.
+
+	Servers
+	Apache Tomcat.
+
+	IDE’s
+	Eclipse, NetBeans, IntelliJ.
+
+	Familiar with 
+	AWS, Ambari, Hue, Putty, Kibana
+
+
+Certifications
+
+· Certified in Big Data technology in the year 2015
+
+· Certified in Core Java in the year 2014
+
+Professional Experience
+
+Riversand Technologies
+
+· Role: Data Engineer
+
+· Period: Feb 2018 – till now
+
+ITC Infotech India Ltd
+
+· Role: Associate IT Consultant
+
+· Period: Dec 2016 – Feb 2018: - Experience - 1year 2 months
+Manthan Systems
+
+· Role: Software Engineer
+
+· Period: Aug 2014 -Dec 2016: - Experience – 2.4 years
+Educational Qualification
+
+· Bachelor of Engineering in CSE from T John Institute of Technology, Bangalore, affiliated to VTU Belgaum with an aggregate of 68% in the year of 2014.
+
+PROJECTS UNDERTAKEN
+
+Organization: RiverSand Technologies
+
+Project #1: RiverSand Master Data Management(MDM)
+	Environment  
+	Java, Apache Kafka, Apache Storm, Kinesis,Elastic Search, Logstash
+
+	Team Size
+	3
+
+	Database
+	HBase
+
+	Operating System
+	Ubuntu 
+
+	IDE
+	IntelliJ IDEA
+
+	Role                      
+	Developer (Java, Hadoop).
+
+
+Project Summary:
+
+RiverSand’s MDM software helps forward-thinking companies discover the value of their data and make smarter business decisions. An MDM allows business to manage, govern and analyze all their master data within a single platform. This helps them to develop new insights about their business, have confidence in data quality, increase productivity and improve the customer experience.
+
+Key Role:
+
+· RiverSand Connect: Integrating and syndicating Data across Supply chain like AWS,RDP Platform,S3 etc.
+
+· Fixing the Issues related to Data Export and Import.
+
+· Took full initiative of Import and export notification in the UI.
+
+Organization: ITC Infotech
+
+Project #1:  ZEAS (Z Enterprise Analytics Solution)
+
+	Environment  
+	Java, Springs, Apache Kafka, Oozie, Sqoop, Ranger, Atlas, Hive, Pig, Spark, Ambari
+
+	Team Size
+	5
+
+	Database
+	Oracle, MySQL
+
+	Operating System
+	Windows,Linux 
+
+	IDE
+	Eclipse, Putty, Hue, Ambari
+
+	Role                      
+	Developer (Java, SQL, Hadoop).
+
+
+Project Summary:
+
+ZEAS (Z labs Enterprise Analytics System) is a data lake management tool. It can be used to ingest, prepare, cleanse, transform, store, control, analyze and dashboard all data into single place. Built with a simple to use GUI, ZEAS lets all data stakeholders take control of the data in the lake by letting both technical and non-technical users manipulate data and derive insights from it.
+
+Key Role:
+· Took overall initiative in Bulk Ingestion.
+
+· Involved in doing transformations on data using Pig Script and Hive queries.
+
+· Involved in Python Chabot integration in ZEAS.
+
+· Prepared documentation of ZEAS Product.
+
+· Presented ZEAS demo to clients.
+
+
+
+Organization: Manthan Software Services Pvt Ltd (www.manthan.com)
+Project #1: - ARC (Analytic Reports of Customer Daily Business)
+
+	Environment         
+	Java8, Springs, Maven.
+
+	Team Size
+	6
+
+	Application Server
+	Tomcat.
+
+	Database
+	MySQL.
+
+	Operating System
+	Windows.
+
+	IDE
+	Eclipse.
+
+	Role                      
+	Developer 
+
+
+Project Summary:
+
+In this project we create analytical report of customer daily business. Merchandiser 
+
+and customers can analyze data and they can conclude status of their business, On top of 
+
+result they can do extra beneficial tasks like scheduling, alerting, reporting, campaigning.
+
+Key Role:
+
+· Involved in enhancements and bug fixes on Business Analytics Product(ARC). 
+
+· Interacting with customers on their requirements.
+
+Project #2: - Real-time Inventory and sales insights for an e-commerce Platform
+	Environment         
+	Java8, Apache Spark, Map Reduce, AWS (Amazon Web Service), Spring, Maven.
+
+	Team Size
+	3
+
+	Application Server
+	Tomcat.
+
+	Operating System
+	UNIX, Windows.
+
+	IDE
+	Eclipse, Kinesis, Amazon S3,Putty
+
+	Role                      
+	Developer (Java, Spark).
+
+
+Project Summary:
+
+From Hybris Web Store, dump the events data to Amazon kinesis using hybris connector. From kinesis using Stream Processing Engine (SPENG), process the data. Here the JSON events gets persist in a real time insights like No SQL servers DynamoDB and Redis. Later for Off-line analysis, the Amazon EMR  job reads events from Kinesis and flattens them to CSV and dumps the events as both JSON and CSV in Amazon S3. KPIs and dashboards uses this running real time clickstream insights getting stored to database.
+
+Key Role:
+
+· Involved in writing Spark code which dumps the event data to kinesis.
+· Reading data from kinesis and grouping it by event type.
+· Flattening all the JSON (Java Script Object Notation) events to CSV events and storing it in Amazon S3.
+· Involved in creating documentation which will provide CSV data Structure for Click Stream Data from E-Commerce Suite.
+Project #3: - Switch-On:
+
+	Environment         
+	Putty, SQL-workbench,Amazon-S3,Amazon-Redshift,Arc-Sync dashboard, SQL queries
+
+	Team Size
+	4
+
+	Database
+	MySQL.
+
+	Operating System
+	UNIX.
+
+	IDE
+	STC.
+
+	Role                      
+	Data Reconciliation.
+
+
+Project Summary:
+
+Building a platform that automates the inflow of data into different Manthan products based the dimensions mentioned.
+
+Key Role:
+
+· Involved in creating parameters in ARC-Sync.
+
+· Involved in loading files (CSV files) to Amazon S3.
+
+· Involved in creating task in ARC-Sync, which will upload data from Amazon S3 (CSV file) to tables.
+
+· Involved in writing DDL statements for table creation and inserting data into tables.
+
+· Involved in reconciling the data loaded into the tables by comparing with the data given by the customer.
+
+Project #4: - SQL Optimization using Presto
+	Environment         
+	Hadoop,Hive, Presto, Shell Script
+
+	Team Size
+	2
+
+	Database
+	MySQL.
+
+	Operating System
+	UNIX, Windows.
+
+	IDE
+	Putty,Qubole,SQL-workbench,Amazon-S3,Amazon-Redshift
+
+	Role                      
+	Developer.
+
+
+Project Summary:
+
+Optimizing the performance of the query using Presto and testing in Qubole.
+
+Key Role:
+
+· Involved in unloading data from Redshift to Amazon S3 in SQL Workbench.
+· Involved in converting text format tables to Optimized row columnar (ORC) format in Qubole.
+· Involved in writing queries in hive and presto and running those queries in Qubole on top of HDFS to find out the benchmark of each query to get execute.
+· Involved in writing a shell-script code that fire all the queries to ‘n’ number of times to run concurrently.
+PERSONAL DETAILS:
+
+	Date of Birth
+	26th, May 1992
+
+	Gender
+	Female
+
+	Marital Status             
+	Married
+
+	Languages Known
+	English, Hindi and Kannada
+
+	Hobbies                       
+	Cooking, Teaching.
+
+
+DECLARATION:
+
+I hereby declare that all the details furnished above are authentic to the best of my knowledge.
+
+
+Date:�
+Yours Faithfully�
+�
+�
+�
+�
+Place: �
+Chaitra M Bannihatti�
+�
+
+
+
+
+
+

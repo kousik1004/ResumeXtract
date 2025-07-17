@@ -1,0 +1,244 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anand Vithal Dabrabad
+Senior Consultant, SAP PI / PO
+​​​​_______________________________________________________________________________
+
+Executive Summary
+
+· Complete life cycle Implementation and support experience in SAP Process Integration and SAP Process Orchestration.
+Key SAP Skills / Certifications
+· 7 years and 6 months of experience in SAP Process Integration 7.11 / 7.31
+· Experience in various adapters such as FILE, IDoc,IDoc_AAE,MAIL, SOAP ,RFC,JDBC, JMS.
+· Extensive knowledge in Java mapping, Adapter modules, XSLT mapping and webservices.
+· Experience in ccBPM.
+
+· Experience in SAP Process Orchestration, SAP BPM and SAP BRM.
+
+· Working knowledge on cloud integration like SAP C4C, SAP HCI
+
+· Maintian SLD configurations like Software components, Business and Technical system, transports in multiple PI systems.
+· Alert and Idoc configuration in PI.
+· Production system monitoring - Integration engine and Adapter engine.
+Other Skills / Non-SAP Certifications/Membership of Professional Institutes
+· Core Java
+Trainings attended
+
+· SAP Process Integration - WIPRO
+· Core java, J2EE - WIPRO
+Education 
+
+· B.E in Computer Science from RVCE, Bangalore, VTU in 2009
+· 12th from NV college Gulbarga, Karnataka State Board in 2005
+
+Professional Experience 
+
+	Organization
+	Industry
+	From
+	To
+	Role
+
+	Cognizant Technology Services
+	IT
+	18/02/2013
+	Present
+	Senior Associate
+
+	WIPRO technologies
+	IT
+	25/01/2010
+	15/02/2013
+	Software Engineer
+
+
+SAP Project Experience:
+Cognizant Technology Solutions – 18/02/2013 to present
+
+Project Name: Nexus UKLP – British Gas
+Project Description: SAP Implementation project.
+Duration: May-2015 to present
+About Client: British Gas is energy service provider for home and business in United Kingdom.
+
+Client Industry: Energy and Utilities.
+Project Role: SAP PI Consultant
+Project Responsibilities: 
+
+· Extensive changes to existing interfaces due to changes in structure of data.
+· Develop new flows to exchange data Marketflow (XOSERVE) and SAP ISU.
+· Develop complex message mapping, java mapping for transformation and validations.
+· Create technical specifications and unit test documents.
+· Create and manage transports related to SAP PI developments
+· Support testing team to perform end to end testing.
+
+Achievements: 
+· Worked at UK-Leicester for 4 months and for technical discussions with SAP ISU team.
+Project Name: Broker Portal – British Gas
+Project Description: SAP Implementation project.
+Duration: Feburary-2015 to May-2015
+About Client: British Gas is energy service provider for home and business in United Kingdom.
+
+Client Industry: Energy and Utilities.
+Project Role: SAP PI Consultant
+Project Responsibilities: 
+
+· Develop and unit test interfaces with SAP CRM and SAP ISU systems using web services.
+· Create service in SAP PI and share the service description (WSDL) to online team.
+· Manage changes to the existing services in SAP PI.
+
+· Support testing team on the service availability and functional errors.
+· Manage transports related to SAP PI developments
+
+Project Name: SAP Transformation (Slingshot) – British Gas
+Project Description: SAP Implementation project.
+Duration: March-2013 to February-2015
+About Client: British Gas is energy service provider for home and business in United Kingdom.
+
+Client Industry: Energy and Utilities.
+Project Role: SAP PI Consultant
+Project Responsibilities: 
+
+· Develop and unit test interfaces with SAP CRM / SAP ISU and third party systems.
+· Review functional specifications and create technical specifications and unit test documents
+· Developed complex interfaces related to payments involving adapter module, java proxy and java mapping.
+· Manage SAP PI transports related to the developments
+
+· Developed interfaces with FILE, IDOC, SOAP, JMS and JDBC adapters.
+· Support SAP PI interface testing.
+· Provide training to juniors in the team.
+
+Achievements: 
+· Developed tool to update large communication channels in multiple test environments and published the tool in SAP Community Network (SCN).
+· Published blog in SCN on how to create adapter modules in EJB 3.0 standard.
+WIPRO Technologies - 25/01/2010 to 15/02/2013
+Project Name: SAP Flex support – Heineken and ABB
+Project Description: SAP AMS support.
+Duration: September-2011 to February-2013
+About Client: Heineken the third largest brewer in the world and ABB is one of the largest engineering companies in the world.
+Client Industry: Brewing / industrial automation.
+Project Role: SAP PI L2 support
+Project Responsibilities: 
+
+· Handle incident, problem and change for support projects within SLA
+· Involved in support transition and knowledge acquisition phase.
+· Interaction with end users to provide resolution.
+
+· Supported complex interfaces with Java mapping, UDF’s, ccBPM’s and enhanced existing adapter module
+
+· Supported interfaces with FILE, IDOC, RFC, MDM, SOAP adapters.
+· Production system monitoring – Adapter engine and Integration engine.
+· Provide training to juniors and offshore coordination.
+Achievements: 
+· Developed utility tool to update several channels in java using Directory API of SAP PI independently to reduce time and minimize errors.
+· Developed automated message monitoring utility to report number of messages per day through Adapter engine with simple excel spreadsheet.
+Project Name: SAP Implementation
+Project Description: SAP implementation – Origin Energy
+Duration: May-2011 to August-2011
+About Client: The client is the largest residential solar retailers in Australia
+Client Industry: Energy and Utilities.
+Project Role: SAP PI Developer
+Project Responsibilities: 
+
+· Developed and configured interfaces with multi-mapping and RFC lookups.
+· Developed interfaces with java mapping to handle namespace.
+
+· Developed interfaces with FILE, RFC, and SOAP adapters.
+
+· Reviewed functional documents and prepared technical documents.
+Achievements: 
+· Developed channel monitoring tool in jscript for team which helped to externally control channels for testing.
+
+Project Name: SAP Implementation
+Project Description: SAP implementation – Contact Energy
+Duration: June-2010 to April-2011
+About Client: The client is the second-largest electricity generator in New Zealand
+Client Industry: Energy and Utilities.
+Project Role: SAP PI Developer
+Project Responsibilities: 
+
+· Developed and configured several Interface objects and mapping objects.
+· Developed complex validation rules using java mapping and trigger alerts in case of failures.
+· Developed interfaces with FILE, IDOC, MAIL, RFC adapters.
+
+· Defect fixing during testing phase.
+
+· Prepared technical specification and unit test documentation.
+Project Name: SAP Wave-4 rollout
+Project Description: UPM
+Duration: April-2010 to May-2010
+About Client: Major Biofore Company which provides smart and sustainable products and solutions for its customers worldwide. Finland
+
+Client Industry: Biofore - Energy, Paper, Label and Plywood
+Project Role: SAP PI offshore support
+Project Responsibilities: 
+
+· Fix defects in interfaces with Java mapping and XSL mapping
+
+· Handle changes, enhancements and post go live support.
+Awards and Accolades :  
+· Feather in My Cap.
+· Best Technical Developer.
+Personal Details:
+Date of Birth: 22-09-1988
+
+Marital Status: Single
+
+Languages known: English, Kannada, Hindi
+
+Preferred location: Bangalore
+
+PAN: ATPPD1417N
+Passport no.: H1924969
+Mobile no: +91-9742661118
+
+Email id: anand.dabrabad@gmail.com
+
+

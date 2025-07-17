@@ -1,0 +1,321 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Certified Consultant
+	                      Bodam Prathap Reddy
+prathapbodam.sapfico@gmail.com        
+                Mobile: +91-7993328984
+
+
+
+Professional Summary
+· Master’s Degree in Business Administration (M.B.A Finance). 
+· SAP (ECC 6.0) FI certified having around 6+ years of SAP consulting experience in FI CO modules.
+· Having around 2.3 years in BS Infosoft global solutions and 4 years in Infosys.
+· Worked in support projects with good exposure to business processes
+· Experience in configuring automatic payment program, payment methods, house banks
+· Configured depreciation areas and depreciation keys to meet statutory requirements
+· Worked on issues related to GL, AR, AP, AA, CO.
+· Continuous learning of new technologies and skills update.
+· Ensure Project deadlines are met with total customer satisfaction.
+· Trained end users for usage of ERP application, process changes, system enhancements, prepared required documents for users.
+Technical Summary
+	SAP Releases
+	SAP ECC 6.0.
+
+	Technical Skills
+	Certified SAP FI (ECC 6.0) in 2012
+MS-Office, Windows 7,8,10 OS 
+
+	Functional Skills
+	SAP FICO
+
+
+
+Education
+	Qualification
+	Educational Institution
+	Year of Passing
+
+	M.B.A. (Finance)
+	Osmania University
+	2011
+
+	BA
+	S.V. University
+	2009
+
+	Intermediate
+	Board of Intermediate Education, AP.
+	2006
+
+	SSC
+	Board of Secondary Education, AP.
+	2004
+
+
+
+
+
+
+Projects Summary
+	Sl. No.
+	Clients
+	Dates
+	Type of Project
+	Role
+
+	1
+	Chemtura Corporation
+	August 2011 to September 2012
+	PRD Support
+	FICO Consultant
+
+	2
+	Expert Global Solutions
+	October 2012 to November 2013
+	PRD Support
+	FICO consultant 
+
+	3
+	Microsoft Corporation
+	December 2013 to September 2015
+	PRD Support
+	Technology Support  Specialist
+
+	4
+	Nokia
+	May 2014 to September 2014
+	PRD Rollout
+	Technology Support  Specialist
+
+	5
+	NSW
+	November 2015 to till date
+	PRD Support and Projects
+	Technology Support  Specialist
+
+
+SAP Professional Experience
+
+PROJECT 1: CHEMTURA                                                                            AUGUST 2011 TO SEPTEMBER 2012
+	Client Name
+	CHEMTURA CORPORATION
+
+	Project Name
+	ERP GLOBAL SAP support
+
+	Role
+	FICO consultant
+
+	SAP Environment
+	SAP 6.0
+
+
+
+Brief Description of Project:	
+Chemtura Corporation is the fourth-largest publicly traded specialty chemicals company in the United States and one of the largest producers and marketers of plastics additives in the world with revenues of $3.9 billion
+Was part of the team, representing SAP FICO module as a Support Consultant for Chemtura Corporation. Involved in supporting users across the US, Europe, Asia-Pacific, Latin America and Brazil.
+Responsibilities:
+
+· Provide offshore production support in the areas of FI, CO & asset accounting.
+· Core responsibility was to analyze the assigned issues and provide satisfactory resolution to the customer within prescribed time frame.
+· Creating & testing new Validations and Substitutions, tax codes, payment terms, payment methods, house banks, asset classes, depreciation keys, cost centers.
+· Working with ABAP consultant for client specific enhancements.
+· Coordinating with technical and other module consultants.
+
+PROJECT 2: EGS                                                                                        October 2012 TO NOVEMBER 2013        
+	Client Name
+	EXPERT GLOBAL SOLUTIONS
+
+	Project Name
+	PRD Support project (SAP R/3 4.7 & ECC 6.0)
+
+	Role
+	FICO consultant
+
+	SAP Environment
+	SAP R/3 4.7 & ECC 6.0
+
+
+
+Brief Description of Project:
+Expert Global Solutions Inc., formerly the NCO group based in Plano, Texas, is a leading provider of global business process outsourcing services. EGS provides accounts receivable management (ARM) services, and customer relationship management (CRM) services. EGS has over 100 locations, with more than 42,000 employees
+Was part of the support team providing PRD support in issue resolution and developing enhancements as for the customer requirements. 
+
+Responsibilities:
+
+· Resolving issues in arising out of daily operations related to FI.
+· Developing and testing of Z-programs with ABAP team.
+· Assisted End-Users during UAT phase of technical upgrade from R/3 4.7 to ECC 6.0. 
+· Coordinated with client and upgrade team to resolve issues arising due to the technical upgrade.
+
+PROJECT 3: MSIT                                                                                DECEMBER 2013 TO SEPTEMBER 2015        
+	Client Name
+	Microsoft Corporation
+
+	Project Name
+	PRD Support project (SAP R/3 ECC 6.0)
+
+	Role
+	Technology Support  Specialist
+
+	SAP Environment
+	SAP R/3 ECC 6.0
+
+
+
+Brief Description of Project:
+Microsoft Corporation 
+Was part of the support team providing PRD support in issue resolution and developing enhancements as for the customer requirement.
+
+
+
+Responsibilities:
+· Resolving issues in arising out of daily operations related to FI.
+· Shadow and Normal Company codes configuration.
+· Treasury management: House bank and account ID configuration IHCC and UHCC configuration  
+· Asset creation and asset class activation
+· ZBA configuration
+· Plant code creation 
+·  Withholding tax and Tax codes configuration 
+· Create collector ID(account clerk and credit rep group)
+·  Maintaining OKB9 changes
+· Payment method issues 
+· Run the Jobs related ER’s payment and statues confirmation 
+· Missing bank statement issues
+· F110 and F111 payment issues 
+· IDocs Fail, IDocs Processing, Payment Remittance issues, Missing record in CHIP table ZPAYSTAT  
+· MS invoices and MS Market PO issues
+· Master data issues (vendor, customer, GL, Profit Centre, Cost center)    
+· Mass PO,s closures (ZPOCLOSE) 
+· Batch Jobs Creation and changes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROJECT 4: NOKIA                                                                                         MAY 2014 TO SEPTEMBER 2014        
+	Client Name
+	NOKIA
+
+	Project Name
+	PRD Rollout project
+
+	Role
+	Technology Support  Specialist
+
+	SAP Environment
+	SAP R/3 ECC 6.0
+
+
+
+Name of the client: NOKIA Rollout Project
+Responsibilities:
+· Shadow and Normal Company codes configuration. 
+· Plant codes configuration
+· Hose banks and Account IDs configuration 
+· IHCC and UHCC configuration 
+· ZBA Configuration and dummy bank statement posting for business testing in test environment.
+· Configured Asset accounting as per the client requirement (Chart of depuration, Define Account Determination, Asset Class and Screen Layout, FI-AA account Determination, Deprecation Keys.
+· Configuration of Profit center accounting, Cost Centers
+· Integration with FI-MM
+
+PROJECT 5: NSW                                                                                      November 2015 TO CURRENT DATE        
+	Client Name
+	New South Wales
+
+	Project Name
+	PRD Support  and projects (SAP R/3 ECC 6.0)
+
+	Role
+	Technology Support  Specialist
+
+	SAP Environment
+	SAP R/3 ECC 6.0
+
+
+
+
+
+
+Brief Description of Project:
+New South Wales
+Was part of the support team providing PRD support in issue resolution and developing enhancements as for the customer requirements. 
+
+Responsibilities:
+· Resolving issues in arising out of daily operations related to FI.
+· Issues resolving related to Travel and Expenses.
+· Worked on enhancement projects.
+· Knowledge on charm process.
+· Handled onboarding and off boarding process.
+
+Personal Details
+Father’s Name			: B Krishna Reddy
+Date of Birth				: 11th Jun 1987
+Marital Status                            	 	: Married
+Passport no                                    : K9192310
+SAP ID                                             : 0009556809.
+Declaration
+I hereby declare that the above particulars are true to the best of my knowledge and belief.
+
+Date: 
+Place: Hyderabad                       		                                                        (BODAM PRATHAP REDDY).
+

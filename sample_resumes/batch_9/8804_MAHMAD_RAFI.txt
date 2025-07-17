@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sap Basis Consultant
+
+MAHMAD RAFI
+M: +919880348638
+Email: - mahmadrafi.14@gmail.com
+
+	
+Objective:
+
+Seeking a challenging career opportunity to work in an organization where my valuable SAP Basis/Net weaver and SAP HANA skills can be utilized to the fullest for the successful completion of the task at hand to profit the organization, and at the same time enable me to grow and to improve my technical and interpersonal skills.
+
+Profile Summary:
+
+Over 4 years as a SAP BASIS Consultant, currently employed with Maxim Integrated. SAP Basis team member involving in installation, configuration, and maintenance of SAP Server landscapes.
+
+Roles & Responsibilities: 
+
+· Good understanding in SAP R/3 Architecture.
+· Performing system health checks.
+· Daily administration activities such as Alert monitoring, Monitoring periodic jobs and R/3 Buffer monitoring, Database Buffer monitoring, SAP performance, providing end user Support.
+· Monitoring & Scheduling the Background jobs.
+· Checking the system logs and ABAP Dumps for errors and clearing the core dump files in work directory.
+· Installation of SAP ECC6.0 EHP6 on RHEL platform with Oracle 11g as database and performed post installation activities.
+· Troubleshooting spool overflow issues.
+· Installation of SAP HANA DB & SAP HANA studio.
+· HANA Administration: Adding system in Hana studio, Hana License Management, performing backup/recovery, user management like User & roles creation and password reset for user SYSTEM.
+· Setting Up system Landscape: Configured TMS, Creating the Transport Domain Controller,                                                          Include the System into the Domain, and Configuring the Transport Routes.
+· Experienced in performing DB Refresh.
+· Participated in OS/DB Migration Export/Import Method.
+· Performed EHP Upgrade for SAP ECC 6.0.
+· Applying Support Package & Notes.
+· Applying the Kernel patch Upgrade.
+· Applying SAP license to ABAP systems.
+· Worked with RZ10, RZ11 to set parameters and setup Operation Modes.
+· Client Administration: Client creation, Client Copy including local, remote and client export/imports.
+· Created RFC connections between various clients in system landscape.
+· Generating stack .xml files through Maintenance Planner.
+· Opening an OSS connection to a sap system.
+Academic Detail:  
+            I completed my B-tech in Computer Science Engineering from Kakatiya University with 70%.
+
+Project Life Cycle # 1
+
+Client 			:	Maxim Integrated, Bengaluru.
+Duration		:	Oct 2015 to till date.
+Designation		:       	SAP Basis Consultant
+Operating system            :       	Linux, Windows 2008 R2.
+Database                    	:       	Oracle 11gR2, HANA
+Platform                      	:       	Sap ECC 6.0 Ehp6, EP 7.31.
+
+Project Description:
+
+Maxim Integrated is an American publicly traded company that designs, manufactures, and sells analog and mixed-signal semiconductor products. Maxim Integrated develops integrated circuits (ICs) for the industrial, communications, consumer, and computing markets. Headquartered in San Jose, California the company has design centers, manufacturing facilities, and sales offices throughout the world. In fiscal 2012 Maxim had $2.40 billion in sales, 9,300 employees, and 35,000 customers worldwide
+
+Roles and Responsibilities:
+
+· Installation of SAP ECC6.0 EHP6 on RHEL platform with Oracle 11g as database and performed post installation activities.
+· Performing the DB Refresh with Production Backup on Quality System. 
+· BR*TOOLS for DB related activities like Backup, Restore and Recovery and Table space administration like adding the data files.
+· Performed the SSO configuration between the EP and Backend systems.
+· Participated in OS/DB Migration Export/Import Method.
+· Performed the kernel patch upgrade.
+· Applying support packages for ABAP Stack.
+· Applying support pack stack upgrade and EHP upgrade using SUM tool.
+· Worked with RZ10, RZ11 to set parameters and setup Operation Modes.
+· Client Maintenance and Administration: Created Client and Define Client settings, Performed Local Client Copy, Remote Client Copy, Client Export and Import.
+· Setting Up system Landscape: Configured TMS, Creating the Transport Domain Controller,                                                                            Include the System into the Domain, and Configuring the Transport Routes.
+· Performing system health checks
+· Scheduling the background jobs and Monitoring.
+· Monitoring Buffer hit ratio in all the partitions of Data Base, CPU and Memory utilization.
+· Monitoring backup log files and resolving the problems in taking backups.
+· Monitoring the database and administration of the database (table spaces).
+· Monitoring the lock entries and removing the entries that are all running for long period.
+· Creating RFC connections and monitoring.
+· Monitoring the SAP HANA Studio.
+· Create the users in SAP HANA Studio.
+· Create the systems in SAP HANA Studio.
+· Taking Backup & Recovery in Hana studio.
+
+
+
+
+Project Life Cycle # 2 
+
+Client                          	:       	The Hackett Group, Hyderabad.
+Duration                            :       	Sep 2013 to Sep 2015.
+Designation                	:       	Associate Basis Consultant 
+Operating system            :       	Window Operating System. 
+Database                    	:       	Oracle 11gR2.
+Platform                      	:       	Sap ECC 6.0 Ehp4, EP 7.0.
+
+Project Description:
+Hackett Technology Solutions enables clients to optimize performance in major business areas and maximize returns on their technology investments across the enterprise. Whether it is assessing your current performance, implementing process improvements, optimizing your enterprise-wide system or applying technology solutions to business performance issues, our consultants can lead your company to breakthrough performance improvements and significant costs savings.
+
+Roles &Responsibilities:
+· Checking the system logs and ABAP Dumps for errors and clearing the core dump files in work directory.
+· Configuring and managing Transport Management System (TMS).
+· Performing system health checks
+· Client administration such as Creating/deleting, client copy (Local, Remote & Import & Export), assigning logical system to clients.                                        
+· Performed Kernel upgrade and Applied Support packages using SPAM. 
+· System Monitoring and health checks.
+· Background job scheduling, monitoring and maintaining system profile parameters.
+· Database Administration through BR tools for Backup, Restore & Recovery and Table space administration.
+· Monitoring the lock entries and removing the entries that are all running for long period.
+
+Personal Information:
+
+Name		:   	Mahmad Rafi
+Languages     	:   	English and Hindi & Telugu.
+Location              :   	Bangalore
+
+Declaration:
+
+I hereby declare that the above written particulars are true to the best of my knowledge and belief. 
+
+ 
+   
+                                                                                                                                                                                                                                                                                  
+
+                                                                                                                                                                                     
+                                   
+
+                                                                                                                                                                               MAHMAD RAFI
+2
+

@@ -1,0 +1,237 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pradeepz Resume
+
+AJAY KUMAR KOLLIPARA		      																														                              
+Address: Flat no 502,Raaga residency, Madhapur Hyderabad 500081
+Mobile: +91 63000 76485
+Email: ajay.kollipara@wipro.com	   
+
+
+Mainframe APPLICATION developer
+
+
+
+
+PROFILE & Strengths
+
+
+
+· Dedicated, resourceful, and innovative IT Professional offering practical experience of 6 years 10 months in Mainframe application development and maintenance.
+
+· Deep Involvement in Development, Defect Fixing and Unit Testing.
+· Exceptional interpersonal skills with ability to interact effectively with clients and all levels of management. 
+· Good domain knowledge on Utilities and Insurance.
+
+· Excellent communication, problem solving and analytical skills, along with the ability to multitask effectively under challenging conditions.
+· Worked with clients closely in on-site(UK) as part of project and received many applauses for the dedication shown to complete the project.
+
+
+
+Technical knowledge
+
+
+Operating Systems	 					: 		Z/OS
+
+Programming Languages		: 		PL1,  COBOL, JCL
+
+Databases		   							   : 		DB2, Datacomm 
+Tools                                        :    CDI, QMF, ROSCOE, SPUFI, File-Aid, File Manager
+Environment			                  :    TSO/ISPF
+Transaction server                 :    CICS 
+
+
+
+
+Professional Experience	
+
+WIPRO TECHNOLOGIES																																	                 July 11, 2011 – Till date
+
+Senior Project Engineer
+
+
+1. Client: U.S based (State Street)    Team: Batch/Online MCH
+
+Project description: 
+MCH is basically Multi Currency Horizon This is all about the account managing system. This deals with trades and securities This Project is for Production support where all the accounting takes place. Mainframe Technologies and PL-1technologies are used. I have worked in this from 12th Dec 2011 to 23rd  April 2013.
+ssssss
+
+
+1.1 Role:   Production Support 
+
+Project Details:
+This project was to support multiple applications relating to trading. Monitoring the CICS transactions and the batch jobs that are running on the system using OPC Scheduler.
+
+Role: 
+· Involved in writing SMTD’s and SOP’s.
+· Developed new SQL queries that identifies the problematic funds before failing on the batch process.
+· Prepared KEDB documents for the regularly causing issues.
+· Created Root Cause Analysis tickets using remedy tool.
+· Wrote macros for the data extraction from remedy to a report directly which will reduce the lot of manual effort.
+
+
+2. Client: Utilities(Thames Water)						                      Team: Merlin Support 
+Project Description:
+Thames Water is the UK's largest water and Sewerage Company, serving 14 million customers across London and the Thames Valley every day. Thames water business relies upon a healthy environment. Each day we take millions of liters of water from the environment to provide drinking water to our customers, and then return treated wastewater to rivers and streams. Merlin is a front end system for the Thames water Call center. It Employs a windows based interface. I have worked in this from 24th April 2013 to 18th March 2014.
+
+Merlin has 3 Tier architecture
+
+1.  Client– Runs on Windows Environment
+2.  Integration Layer
+3.  Mainframe– Backend
+
+               Responsibilities:
+· Responsible for support and Maintenance of Applications.
+· Debugging and troubleshooting of application components.
+· Automated the daily health checks using the macro’s in mainframe.
+· Displays good listening and probing techniques to gain understanding of problems and issues.
+· Given daily status updates through mails or calls on the tasks assigned to me. Communicating the issues on–time.
+· Good in resolving tickets raised in for defects and providing resolution in no time.
+ 
+2.1  Project Title : DB2 optimization task
+
+Project Details:
+ There were some DB2 queries which create the reports. These queries were taking lot of time for execution and it holds the db2 resources for a longer time. I have analysed the DB2 query and  coded the new module to get the same result. 
+
+Role:
+· Wrote Functional and Technical requirement documents.
+· Development of modules involved in the process.
+· Wrote new Modules and successfully done the Unit Testing
+3. Client: Utilities(RWE Npower)									             					   Team: BILLIT 
+Project Description:
+RWE is one of Europe's five leading electricity and gas companies. It is a UK-based electricity generator and     supplier of gas and electricity to homes and businesses. I has worked in BILLIT projects.
+
+BILLIT is completely a mainframe system which bills NPOWERs major business accounts. There are different methods involved in the BILLING system and the data being collected in several tables. BILLIT system can mainly be categorized into following different subsystems.� Automatic Contract Interface (ACI), BILLING Engine (Core of BILLIT), Invoice Production System (IPS). ACI is the process through which the accepted contracts details are sent to BILLIT so that the customer can be billed. This process involves receiving the data from SPRITE, loading it into BILLIT Tables after certain validations and send sending acknowledgement back to SPRITE. ACI Schedule is in critical path in the billing system. The Core Billing process is handled by Billing Engine; it has got following processes involved. Immediate rebilling, Overnight rebilling, Normal Monthly Billing, Automatic Invoice Validation/Release (AIVR). Online Billing System (CICS Transactions)IPS system generates the invoice information which are to be sent to customers. This is translated into physical invoices through the OTM print interfaces .There are different suites of mainframe jobs for IPS. BILLIT as a whole is very critical system and every effort should be made to complete the schedule on time. There is standby support required for all the Jobs running under BILLIT. If the overnight batch doesn’t complete on time, a severity 2 issue will be flagged by IT internally.
+
+               Responsibilities:
+
+· Working on Simple / Major / Complex / Very Complex enhancements and meeting the timelines which were provided to the customer by following the SDLC process. Once the requirement gathering phase is completed its Developer responsibility to complete the rest of the phases ( Analysis / Design / Coding / Unit Testing / Integration Testing / Moving the code to QA region ) with in project deadlines without any defects. 
+· Conducting the Tech and Code spec inspections meetings for the above work requests or enhancements.
+· Working on Low / Medium / High and Critical incidents and fixing the bugs and meeting the timelines. Also responding to the customer emails if we need any clarification or providing clarification to them.
+·  Working on Adhoc requests
+·  Giving the status of every work request in the weekly meetings and sharing the knowledge to the Team members. 
+· Automated many batch processes.
+· Involved in batch optimization works also written many optimization tasks to make the batch jobs run faster.
+My Contributions to the Project:- 
+· Giving KT to the new joiners in the project and working on all kind of requests to improve the productivity. 
+· Sharing the Application knowledge to the team members and participating in the team building activities.
+Achievements in the Project:- 
+· Received many customer appreciations for the quick resolution of the requests raised by them during the support.
+· Received Npower star of the month and star of the Quarter awards continuously for 3 quarters.
+· Reduced the run time of a job from 6 hours to 2 hours which is a massive improvement and was appreciated by the Wipro management and the client for this.
+
+
+Training Attended
+
+· Successfully completed training in MAINFRAMES.
+·  Cleared Wipro’s mandatory assessment on Mainframe level 1.1 and 2.2.
+·  Successfully completed ENU level examinations.
+
+Achivements
+
+· Secured consistently 1st Position in all assessment of WIPRO during COBOL training.
+· Received “Feather in My Cap” award for TSYS Phase 1 project.
+· Received “You saved a day” award for the help done to other projects in Npower.
+· Received Quarterly Excellence award from Wipro as a team and Individual for which I was awarded 10K Winners circle points.
+· I am a Rational Developer Certified resource.
+
+
+
+
+
+Educational Development
+
+M. TECH from Bits Pilani, 2015
+First division with CGPA 6.8
+
+Bachelor of Science, 2011
+First Class
+68%
+Meghana Degree College from Osmania University
+
+Class XII, 2007
+90.2%	
+IPE
+
+Class X, 2005
+88.8%
+SSC Board 
+
+
+
+Personal Information
+
+Date of Birth: Apr 09, 1990
+
+Permanent address: Flat no 502,Raaga residency, Madhapur Hyderabad 500081
+
+References: Available on request.
+																																				
+3
+
+Sensitivity: Internal & Restricted
+

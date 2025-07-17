@@ -1,0 +1,124 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEHA PRAKASH
+
+CONTACT:+91-8390096418
+
+EMAIL-ID:nehaprksh.ece09@gmail.com
+
+
+professional summary
+MSBI production support around 2 years of experience in Microsoft Business Intelligence (MSBI)in Banking Industry and worked in operation team of branch banking.
+Have hands on experience on SQL Server Integration Services (SSIS) and SQL Server Reporting Services (SSRS) 
+Providing support for ETL jobs 
+Troubleshoot for any failure of ETL jobs and find root cause analysis
+Helping to Dev team for any adhoc request coming from them for any data related.
+Data refresh job on weekly basis 
+Having good Knowledge over SSIS Packages for integrating data using OLE DB connection from heterogeneous sources (Excel, CSV, Oracle, flat file, Text Format Data) by using multiple transformations provided by SSIS such as Data Conversion, Conditional Split, Bulk Insert, merge and union all etc.
+Having knowledge in different transformations like Conditional Split, Multicast, Union-All, Merge, Merge Join, Derived Column and for each loop.
+Hands on experience in Tabular, Matrix, Sub Report, Drilldown and Drill through reports in SSRS etc.
+Having Good knowledge in SQL Queries using Joins, Sub Queries, Co-Related Sub Queries, Stored Procedures and others.
+Handled Customer account as well as demat related queries, knowledge in demat accounts.
+
+Excellent communication skills.
+
+Handling branch operations (RTGS, NEFT, ACCOUNT MODIFICATIONS AND RESOLVING CUSTOMER QUERIES)
+
+technical skills
+Databases: SQL Server 2012    
+
+Languages: SQL, T-SQL
+
+Operating Systems: Windows XP, Windows 7, Windows 10
+BI Tools:  SQL Server BI Development Studio (BIDS 2008/2012)
+ETL Tool: SQL Server Integration Services (SSIS-2008/2012) 
+Reporting Tool: SQL Server Reporting Services (SSRS-2008/2012)
+WORK EXPERIENCE
+Worked with ICICI bank from November 2015 to September 2017.
+professional profile
+Project 1:
+Company Name: ICICI Bank
+Project Title: ICICI bank 
+
+Duration: Around 2 years
+Role: operations
+Tools: MS-SQL Server 2012, SSIS, SSRS,
+Team Size:  4
+Project Description: Project is to support a solution to do automated reconciliation at each account level like Home loan account, Credit card account, Saving/Current account level and generate report day wise, Month wise etc. End user giving some information in excel and some information in CSV file. We load data into our system and reconciliation between their system and our system. Previously they are checking manually like how many accounts are closed at each level with reason and send this information to higher management. So, there is lot of manual innervations are happened due to that they cannot find exact reason for closing account.
+Responsibility:
+Troubleshoot and diagnose issues related SQL, SSIS, SSRS
+Created ETL Packages to load data on weekly basis for refresh.
+Job creation and scheduling and Production support
+Involved in data analysis issue 
+Used various task in SSIS like Derived column, Lookup, conditional split, merge, execute process task etc.
+Documented errors and customer questions and escalated appropriately.
+Generated multiple types of reports like drill down, Drill through, parameterized etc. using SSRS
+academic qualifications
+PGDB from Manipal University.
+B. Tech (ECE) From BPUT University.
+                                                                     personal details
+Name: Neha Prakash
+Address: Pune
+Date of Birth: 26th October
+Marital Status: Married
+Language Known: English, Hindi
+Declaration:
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned.
+Date: 06/11/2018
+Place: Pune
+
+
+
+
+
+
+
+
+
+
+

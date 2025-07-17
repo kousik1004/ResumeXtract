@@ -1,0 +1,371 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+praveen
+
+
+       
+
+
+
+
+Praveen Nannapaneni
+Mobile: 91-9948425760
+Email: Praveen.n@dakshahebiz.com
+CAREER OBJECTIVE
+
+Having two years of Oracle Apps DBA experience in 11i,R12, OBIEE installation, Agile –EBS PIP Integration, 10g RAC installation, maintenance and monitoring,
+
+Backup and applying patches on oracle E-Business Suite,12.1.1, R12 & 11.5.10.2 environments 
+PROFFESSIONAL SUMMARY
+Dakshaw Ebiz Consulting
+Oracle Apps DBA |15-DEC-2008 – Till Date
+
+  EDUCATIONAL SUMMARY
+MCA from Hindu college, Guntur: Acharya Nagarjuna University
+
+B.Sc.(computers) from  KA&HL Degree college, Eluru: Andhra University
+CERTIFICATIONS
+
+Oracle Database 10g Administrator Certified Associate
+
+Oracle Database 10g Administrator Certified Professional
+
+Oracle 11i Applications Database Administrator Certified Professional 
+TRAININGS ATTENDED
+Oracle 10g RAC
+
+Oracle 10g workshop 2 (SQL START International)
+
+Oracle Apps DBA & Oracle DBA
+
+TECHNICAL SUMMARY
+	ERP
+	Database
+
+	· Installation of  production Oracle E-business Suite 11x & 12x
+
+· Patching in multiple testing / development and production environment having multiple application tiers.
+
+· Maintaining application using AD utilities (Adadmin, Ad patch, Adctrl etc)
+
+· Replicating, Fine tuning, Backup application and database
+
+· Cloned application/database using adclone.pl and Cloning to single / multi node 
+
+· Implemented Custom Application
+
+· Troubleshooting and bug fixing
+
+· Managing Application servers (10g AS, Discoverer, BI Discoverer etc)
+
+· Good at managing Concurrent Requests, Programs & managers
+
+· Resolving FNDSM & FNDFS related issues.
+
+· Managing, validating Application and databases using oracle Diag tools
+
+	· Managing multiple database ( Agile, Ora-Ebiz)
+
+· Maintenance of Components for different applications
+
+· E-Business Suite 11x,12x cloning & Refresh
+
+· Database Cloning/Refresh
+
+·  RMAN 
+· Rebuilding indexes as and when required.
+
+· Analyzing the database performance using third party tools, and tuning database performance (Resizing redo logs, temp etc.)
+
+· Created scripts such as object creation, grants & privileges etc
+· SOA,AGILE,Portal
+
+
+	Application Server
+	Other
+
+	· Proficiency in  managing 10gAS servers
+
+· Integrated BI Discoverer 10.1.2 with 10g Application Server
+
+· Deployed EUL schema in E -Business suite and integrated with Discoverer.
+
+
+	· Working on Linux. 
+
+· Configuring and Troubleshooting Oracle Internet Directory.
+
+· Printer Administration.
+
+· File system management
+
+
+
+PROJECT SUMMARY
+	LOB
+
+Company
+
+Environment
+	Pitti Laminations Limited
+Dakshah Ebiz Consulting
+
+Production server migration and maintenance of all instances
+
+	Responsibilities & Contributions
+
+
+	ERP /DB Activities
+
+· Migrating production instance(11.5.10.2) to new server
+· Familiar with Architecture/Technology Stack
+
+· Familiar with AD Utilities adadmin, adpatch, admrgpch, adctrl, adautocfg etc. 
+
+· Monitoring and  Troubleshooting the Concurrent Manager 
+
+· Applying Patching and cloned the installation to test system.
+
+· RMAN backup maintenance
+· Performing regular Apps DBA duties like Installation, Patching, Cloning, and troubleshooting Oracle Applications.
+
+· Configuring, installing, testing, maintaining and supporting Database Management System (DBMS) environment for pre-production and production environments
+
+· Performing Database management and Backup functions.
+
+.
+
+
+
+
+   
+
+
+
+PROJECT SUMMARY
+	LOB
+
+Company
+
+Environment
+	Citi Hospitals,Dubai
+
+Dakshah Ebiz Consulting
+
+ASM Disk Migration(RAC with ASM) for Production server
+
+	Responsibilities & Contributions
+
+
+	ERP /DB Activities
+
+· Migrating Data from one diskgroup to other diskgroups
+· Mapping LUNs to raw devices dmrgpch, adctrl, adautocfg etc. 
+
+· RMAN backup maintenance
+
+· RAC database maintenance.
+
+· performing Database management and Backup functions.
+
+.
+
+
+
+
+
+
+
+PROJECT SUMMAY
+	LOB
+
+Company
+
+Environment
+	National Steel and Agro Industries Limited 
+Dakshah Ebiz Consulting
+Oracle Applications R12.1.1 on RHEL (Multinode) / Implementation Project
+
+	Responsibilities & Contributions
+
+
+	ERP /DB Activities
+
+· Installation of 12.1.1 on multinode
+
+· Familiar with Architecture/Technology Stack
+
+· Familiar with AD Utilities adadmin, adpatch, admrgpch, adctrl, adautocfg etc. 
+
+· Monitoring and  Troubleshooting the Concurrent Manager 
+
+· Applying Patching and cloned the installation to test system.
+
+· Creating CUSTOM_TOPs whenever needed.
+· Interacted with the customer to understand their requirements and their technical queries for planning the installation.
+
+· Performing regular Apps DBA duties like Installation, Patching, Cloning, and troubleshooting Oracle Applications.
+
+· Configuring, installing, testing, maintaining and supporting Database Management System (DBMS) environment for pre-production and production environments
+
+· Providing Database (DBMS) support including the physical Database layout, implementation, test, maintenance, support, performance monitoring, patching, and tuning of the required DBMS operating environment
+
+· Performing Database management and Backup functions.
+
+· Performing Database performance/capacity functions.
+
+· Providing assistance to Application Delivery and support organizations in Database physical design, replication, scripts or other application specific functions
+
+· Maintaining System file inventory (location, type and usage, baseline size, expected growth rate)
+
+
+
+
+
+ PROJECT SUMMARY
+
+	LOB
+
+Company
+
+Environment
+
+
+	ITWSIGNODE
+Dakshah Ebiz Consulting 
+
+Oracle Applications 11.5.10.2   on RHEL (Multinode) reimplementation Project
+
+	Responsibilities & Contributions
+
+
+	· Installation of 11.5.10.2 
+
+· Upgrading database from 9.2.0.6 to 10.2.0.3
+
+· Applying India localization patches
+
+· Discover configuration with 11.5.10.2
+
+· Familiar with Architecture/Technology Stack
+
+· Familiar with AD Utilities adadmin, adpatch, admrgpch, adctrl, adautocfg etc. 
+
+· Monitoring and  Troubleshooting the Concurrent Manager 
+
+· Cold backups
+· Creating CUSTOM_TOPs whenever needed.
+
+· Compile invalid objects
+· Performing Database management and Backup functions.
+
+· Performing Database performance/capacity functions.
+
+· Service Request support to my technical and functional team
+
+
+
+
+
+ PROJECT SUMMARY
+
+	LOB
+
+Company
+
+Environment
+
+
+	Dakshah Ebiz Consulting
+
+Dakshah Ebiz Consulting 
+
+Oracle Applications 11.5.10.2 ,R12,OBIEE,Agile - EBS PIP ,OraceAS 10g,SOA,SSO and Portal configuration with 11i and R12, on OEL 4  Client requirement Project
+
+	Responsibilities & Contributions
+
+
+	· Upgrading Oracle E-Business suite 11.5.10.2  database(9.2.0.6.0) to database 10gR2(10.2.0.3.0)
+· SSO integration with 11i and R12
+
+· Portal integration with 11i and R12
+· Install OBIEE on linux
+· Install OBIEE admin tool  on windows
+
+· Agile Database installation witn 11g database
+
+· Agile PLM installation 9.3
+
+· Installed the SOA Infrastructure database 10.2.0.1
+
+· Upgrade the SOA Infrastructure database from 10.2.0.1 to 10.2.0.3
+
+· Installing SOA suite 10.1.3.1
+
+· Upgrade SOA suite 10.1.3.1 to 10.1.3.4
+
+· Installing AIA 2.5
+
+· Installing Oracle E-Business suite 12.1.1 for integration with Agile
+· Discoverer 10g configuration.
+· Familiar with AD Utilities adadmin, adpatch, admrgpch, adctrl, adautocfg etc. 
+
+
+
+
+PERSONAL SUMMARY
+
+	DOB
+	Gender
+	Marital Status
+	Languages Known
+	Nationality
+
+	18-07-1982
+	Male
+	Single
+	Telugu, English, Hindi
+	Indian
+
+

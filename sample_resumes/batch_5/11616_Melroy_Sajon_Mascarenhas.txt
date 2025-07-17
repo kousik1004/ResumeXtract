@@ -1,0 +1,508 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Objective
+
+
+ 1 
+
+ 
+
+ 
+
+Melroy Sajon Mascarenhas 
+2+ years of experience as UNIX Administrator  
+Current Location: Hyderabad, India. 
+
++91 7507477676; +91 8886753336  
+
+melroymascarenhas@rocketmail.com; 
+melroymasc@gmail.com   
+
+ 
+
+ 
+
+To be a value adding asset in organization through persistent and sincere hard work and to excel in my field to 
+
+provide maximum output. To obtain a challenging career, seeking a position in the technical world where my skills, 
+
+abilities & talent could be used in right direction & up to full potential. 
+
+ 
+
+ 
+
+ Summary 
+
+ 
+
+ 2+ years of experience in UNIX System Administration, L2 system production support, troubleshooting of UNIX 
+
+servers, Backup, Recovery and Storage Administration. 
+
+ Worked on Solaris 8/10/11 with expertise in SMF utilities, Oracle Zone Configuration, ZFS administration and 
+
+LDOMs virtualization. 
+
+ Worked on Hitachi Data Systems (HDS) Virtual Storage Platform (VSP). 
+
+ Administering and managing assets through Oracle Enterprise Manager Ops Center 12c. 
+
+ Working knowledge in Oracle ZFS Storage Appliance.  
+
+ Expert knowledge in managing the Oracle StorageTek SL150 Modular Tape library (Tape Backups) via BUI and 
+
+CLI. 
+
+ Managing the Oracle SuperCluster T5-8 and its components. 
+
+ Backup and recovery through EMC Networker. 
+
+ Working Experience in ITIL concepts- Incident and Change management. 
+
+ Knowledge of Shell scripting. 
+
+ Experience supporting 24x7 production computing environments with on-call and weekend support. 
+
+ Effective Communication and Strong Work ethics taking ownership of Duties and Responsibilities. 
+
+ Independent problem solving attitude and always willing to learn.  
+
+ Developed ASP.NET C# web application during 4 months Internship period. 
+
+ Completed certificate course in Android App Development. 
+
+ 
+
+ 
+
+Technical Skills 
+
+ 
+
+Platform 
+
+ 
+
+UNIX: Oracle Solaris, 8, 10, and 11; Red hat Linux. 
+
+Android App Development, ASP.NET with C#, HTML, JavaScript, CSS. 
+
+ 
+
+Hardware 
+
+Oracle SuperCluster T5-8,  
+
+Oracle SPARC Platform: T-series,  
+
+Oracle StorageTek SL150 Modular Tape Library 
+
+ 
+
+Networking: 
+
+  
+
+TCP/IP, NFS, SFTP, SSH, DNS 
+
+ 
+
+Tool 
+
+ 
+
+Putty, EMC Networker(Backup Tool), Remedy tool, Oracle Enterprise 
+
+Manager Ops Center 12c, Hitachi Command Suite 7, 
+
+Android Studio, Microsoft Visual Studio, SQLite, SQL server. 
+
+ 
+
+Storage 
+
+ 
+
+Oracle ZFS Storage Appliance, Hitachi VSP (Virtual Storage Platform) 
+
+ 
+
+ 
+
+ 
+
+Objective 
+
+mailto:melroymascarenhas@rocketmail.com
+mailto:melroymasc@gmail.com
+
+
+ 2 
+
+Employment Details 
+
+    
+
+Present Employer 
+
+            Organization  :  Wipro Technologies 
+
+   Account Name  :  British Petroleum 
+
+   Duration  :  2+ years 
+
+      Designation  :  Unix Administrator 
+
+ 
+
+ Roles and Responsibilities: 
+
+ 
+
+ Provide day-to-day Technical Support-Analyzing, Troubleshooting and Resolving Technical  
+
+     Problems related to Servers. 
+
+ System efficiency and Performance monitoring, Disk and Network usage. 
+
+ Building Solaris servers, patching, configuring, and transitioning servers to production support. 
+
+ Migration of Solaris zones. 
+
+ Decommissioning Solaris servers.  
+
+ Configuring Zones and Zone’s File system for Resource Sharing. 
+
+ User Administration- creating, modifying, managing and deleting user accounts and groups. 
+
+ Maintaining file systems: Checking and repairing file systems and monitoring file system usage. 
+
+ Troubleshooting NFS, SFTP, SSH related issue. 
+
+ Configuring SFTP, Telnet and SSH services on the machine. 
+
+ Managing Network Printers and System Processes. 
+
+ Printer administration and NTP service. 
+
+ Scheduling Hot and Cold backup of servers.  
+
+ Perform System Backups and Restorations using EMC Networker (Formerly known as Legato Networker). 
+
+ Deposit/withdraw, load/unload tapes to/from the StorageTek SL150 Modular Tape Library. 
+
+ Manually triggering failed backups. 
+
+ Performing Tape Cloning and Restoration from LTO6 tapes. 
+
+ Responsible for Package and Patch Management & Installation. 
+
+ Scheduling jobs using CRONTAB & AT utility. 
+
+ Maintaining Service Management Facility (SMF) in Solaris 10 & 11. 
+
+ Creating ZFS, NFS file systems on Solaris 10 and Solaris 11. 
+
+ Creating ZFS snapshot, clones.  
+
+ Recover data from ZFS snapshots and if required perform snapshot rollback.  
+
+ Generating Crash dump, Running Explorer on the servers and uploading to Oracle SRs. 
+
+ Managing Oracle Servers through ILOM (Integrated Lights out Manager). 
+
+ Establishing Password less authentication using Private-Public Keys. 
+
+ Creating and following up on Oracle SRs. 
+
+ Monitoring alarms using Remedy 8 ticketing tool and resolving the issues within predefined SLA  
+
+     defined by the client. 
+
+ Creating incidents by using Remedy tool. 
+
+ Submitting and implementing Change, SMCA using Remedy Change management. 
+
+ Providing 24x7 on-call support. 
+ 
+
+Oracle ILOM (Integrated Lights Out Manager) 
+
+ Managing Oracle servers/SuperCluster through Oracle ILOM: 
+
+     Capturing ILOM snapshot. 
+
+ Switching Off/On Power State of server/SuperCluster node remotely through ILOM. 
+
+ Console Login to servers.   
+
+  
+
+
+
+ 3 
+
+Oracle ZFS, Zones and ZFS Storage Appliance 
+
+ Involved in creating and configuring Zones/Containers.  
+
+ Creating zpools and ZFS file system in Solaris 10 & 11. 
+
+ Setting ZFS quota and reservation. 
+
+ Creating, destroying ZFS Snapshots & Clones. 
+
+ ZFS snapshot recovery and rollback. 
+
+ Increasing the size of Zpools by adding new HDS VSP LUNS. 
+
+ Importing & exporting Zpool. 
+
+ Checking the Pool status. 
+
+ Setting Quota on the ZFS Storage Appliance. 
+
+ Mounting/un-mounting the ZFS Storage pools. 
+
+  
+
+Hitachi Command Suite 7  
+
+ Concept of PVOLs and SVOLs. 
+
+ Creating LUNs, Allocating LUNS to Host Group. 
+
+ Scan the disks and bring the LUNS into Hitachi Command Suite Control. 
+
+ Un-allocating the LUNS (PVOLs and SVOLs) after Server Decommissioning. 
+
+  
+
+Knowledge on Red Hat Linux 
+
+ Server administration, Process management, User administration. 
+
+ Package management with rpm and yum. 
+
+ Creation of file system. 
+
+ Logical Volume Manager: Physical and Logical Volume, Volume group. 
+
+ Configuration of different types of RAID levels. 
+
+ 
+
+Incident Management 
+
+ Record and classify received Incidents and undertake an immediate effort in order to restore a failed IT Service 
+
+as quickly as possible 
+
+ Assign unresolved Incidents to appropriate Tier 2 Support Group 
+
+ Log all Incident/Service Request details, allocating categorization and prioritization codes 
+
+ Keep users informed about their Incidents’ status at agreed intervals 
+
+ Associate Incidents with other records (i.e. Incidents, Changes, Problems, Knowledge Articles, Known Errors, 
+
+etc.) 
+
+ Provide first-line investigation and diagnosis of all Incidents and Service Requests 
+
+ Own all Incidents and Service Requests throughout the lifecycle 
+
+ 
+
+ 
+
+Previous Employer 
+
+            Organization  :  Logicon TechnoSolutions Pvt. Ltd, Pune, India. 
+
+ Project Name  :  Manufacturing Intelligence System 
+
+   Duration  :  4 months 
+
+ 
+
+Project Description: 
+
+ Bring company's manufacturing related data together from many sources for the purpose of reporting, analysis 
+
+and visual summaries. 
+
+ The primary goal was to turn large amount of manufacturing data into real knowledge and drive business 
+
+results on that knowledge. 
+
+ Tools used for this system were Microsoft Visual Studio, SQL Server 2012. 
+
+ 
+
+Roles and Responsibilities: 
+
+ Developing a fully functional website to meet the demands of manufacturing companies. 
+
+ Designing and developing the website. 
+
+ Performing Database Connectivity and operations. 
+
+ Performing Validations. 
+
+ 
+
+ 
+
+
+
+ 4 
+
+ 
+
+Educational Profile 
+
+ 
+
+ Completed Master in Computer Application (MCA) from Savitribai Phule Pune University, Pune in 2015. 
+
+ Completed Bachelor in Computer Application from Goa University, Goa in 2012. 
+
+ Completed 12th (Science) from Goa board in 2009. 
+
+ High School from Goa board in 2007. 
+
+ 
+
+ 
+
+Trainings Attended 
+
+ 
+
+Title Organised by Duration (days)  
+
+ 
+
+Oracle Solaris 11 System 
+
+Administration 
+
+Wipro Technologies 5 
+
+Oracle Solaris 11 ZFS Administration Wipro Technologies 3 
+
+Oracle Solaris 11 Zones Administration Wipro Technologies 4 
+
+Oracle Enterprise Manager Ops Center 
+
+12c Administration 
+
+Wipro Technologies 5 
+
+Oracle ZFS Storage Appliance 
+
+Administration 
+
+Wipro Technologies 4 
+
+ITIL (Information Technology 
+
+Infrastructure Library)  
+
+Wipro Technologies  2 
+
+L1 shell scripting training    Wipro Technologies 2 
+
+ 
+
+ 
+
+Personal Details 
+
+ 
+
+Full Name   Melroy Sajon Mascarenhas 
+
+Date of Birth   08/03/1992 
+
+Marital Status               Unmarried 
+
+E-Mail Id melroymascarenhas@rocketmail.com 
+
+Linkedin Profile https://www.linkedin.com/in/melroy-mascarenhas-b609a33a/ 
+
+Permanent Home Location     Mapusa, Goa-403507, India. 
+
+Passport number K1755077 
+
+Validity of Passport 03/08/2022 
+
+Hobbies Keen interest in R&D of critical problems, Music. 
+
+Strengths                       Love to work, Confident and Punctual. 
+
+ 
+
+ 
+
+Declaration 
+
+ 
+
+I hereby declare that all the information furnished above is true to the best of my knowledge.    
+
+ 
+
+Melroy Sajon Mascarenhas 
+
+mailto:melroymascarenhas@rocketmail.com
+
+	Roles and Responsibilities:
+

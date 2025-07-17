@@ -1,0 +1,246 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Someshwar Sriramoju				             		
+Mobile: +91 9912799130                           
+Email : sriramoju1989@gmail.com
+	 											
+
+Career Objective:
+
+I wish to work in an organization that can quench my thirst for knowledge and provide space to learn and gain experience in the field of software development. 
+
+Professional Summary:
+
+· Having 4 years of Exclusive Experience in Software Development which includes 2+ years of Experience in Hadoop Development.
+· Strong knowledge of Development in Hadoop Architecture, HDFS, Hadoop Cluster, Map Reduce API.
+· Good knowledge in Hadoop and its components like HDFS, Map Reduce, Pig, Hive, and Spark.
+· Experience in Data flow languages like PigLatin, developing Pig Scripts and writing UDF’s.
+· Having experience in query language Hive-HiveQL.
+· Knowledge on data loading by PUTTY tool to hive tables
+· Knowledge in UNIX Commands.
+· Knowledge on Hbase and zookeeper.
+· Having basic exposure on Oozie, Yarn architecture.
+· Installing and configuring Hadoop eco system like Sqoop, pig, hive.
+· Written Shell Scripts to Auto mate the installations like Hue, Jupyter.
+· Hands on Experience on AWS.
+· Self-motivated with strong analytical and problem solving skills, dedicated, passion at learning new technologies and willing to take an extra responsibilities to get the work done.
+· Very good team player, able to contribute individually and at the team level.
+· Proficient in documentation and working closely with team members.
+· Working knowledge of Windows, Linux (e.g., Ubuntu, CentOS).
+· Domain Experience: Healthcare, Security.
+
+Work experience:
+
+· Currently Working as BigData developer with System Soft Technologies India Pvt Ltd in Hyderabad from January 2016 to Till Date.
+· Worked as BigData Developer and Java Developer (J2EE) with Accure Pvt Ltd in Bangalore form August 2013 to September 2015.
+
+Education: 
+	
+B.Tech in Electronics Communication & Engineering from JNTUH College of Engineering, Jangaon in 2011.
+
+Achievements
+· Lean certified Professional-Awarded Lean Certification for optimizing one of the flow in my project.
+· Got a Team Excellence Award for my contribution to the project as a good Team Player.
+ 
+
+
+
+
+
+Technical Skills:
+BIG Data/Hadoop	:  HDFS, Map-Reduce, Pig, Hive, Hbase, Sqoop, Spark
+	Database 		:  No-SQL DB – Hbase, MongoDB,
+	Languages		:  C, Core Java.
+	IDE			:  Eclipse, NetBeans.
+	BI Tools		:  Jasper, Tableau
+	Cloud			:  AWS
+	Operating System   	:  Windows XP/07, CentOS 7.
+	Microsoft Office Tools    :  Power Point, Word, Excel.
+
+Project Profile:
+
+Project handling in System Soft Technologies:
+	Project 1
+	Insider Threat Detector
+
+	Period
+	Jan-2016 to Till Date
+
+	Team Size
+	15
+
+	Tools
+	Hadoop: Map Reduce, Apache Pig, Hive, Hbase, spark
+
+	Domain
+	Security
+
+	Hard ware
+	Virtual Machines, CentOS.
+
+	Description
+	Insider Threat Detector (ITD) is a Security Analytics application to detect the anomaly inside the organization by using user’s Login, Email and Web Activity details. With these input sources we will calculate risk factor of that user. And also we can track user's history by day, by week and by month.
+
+	
+	
+
+	
+Responsibilities
+
+	
+· Involved in configuring Hadoop ecosystem.
+· Moved all crawl data flat files generated from various retailers to HDFS for further processing.
+· Written the Apache PIG scripts to make structure data from log data and storing in Hbase.
+· Involved in developing pig UDF’s.
+· Involved in sampling the data for analyzing and for testing using PIG and Map-Reduce.
+· Written spark code using java API to calculate the riskscore of each user.
+· Created Hive tables to store the processed results in a tabular format.
+· Design and build Hadoop solutions for big data problems.
+· Installed and configured Hadoop cluster in Test and Production environments
+· Implemented Commissioning and Decommissioning of new nodes to existing cluster.
+· Analyzing/Transforming data with Hive and Pig.
+
+	
+	
+
+
+
+
+
+
+Project handling in Accure Pvt Ltd:
+	Project 2
+	Medical Outcome Measures Platform
+
+	Period
+	Dec-2014 to Sep-2015   
+
+	Team Size
+	9
+
+	Tools
+	HDFS, Pig, Hive, MongoDB, Java
+
+	Domain
+	Health Care
+
+	Hard ware
+	Virtual Machines, CentOS
+
+	Description
+	This is a rheumatology based medical application which will store the patient's information of their each visit to the hospital. The main theme of this application is maintaining the patient’s records and calculating the outcome measures based on the different inputs of the system, such as joint counts, labs, physician/patient assessments, etc. and also generating the summary & prescription reports, sending them to the corresponding pharmacy. Here we will also perform Analytics on patients data such as improving/worsening patient health, etc.
+
+	
+	
+
+	
+Responsibilities
+
+	
+· Involved in designing the DTO layer.
+· Written java code to generate the reports for different modules and sending them through mail or fax.
+· Involved in writing the DAO layer to perform CURD operations on the data from Mongo DB.
+· Involved in writing pig queries.
+· Involved in writing hive queries to perform high-end analytics.
+· Involved in two releases of the application
+
+	
+	
+
+
+
+
+
+Project handling in Accure Pvt Ltd
+	Project 3
+	 Integrated Clinic Optimizer
+
+	Period
+	Aug 2013 to Dec-2014 
+
+	Team Size
+	7
+
+	Tools
+	HDFS, Pig, Solr, MongoDB, Java
+
+	Domain
+	Health Care
+
+	Description
+	The project Integrated Clinic Optimizer is a medical application which will optimize operations of clinic and store the patient's health record of their each visit to the hospital. Implementing Billing of corresponding exams like Lab tests, Procedures, Problems, Immunizations, Vital Signs. Here we will also perform Analytics on patients data such as improving/worsening patient health, etc.
+
+	
+	
+
+	
+Responsibilities
+
+	
+· Involved in designing the DTO classes.
+· Involved in developing the patient’s billing.
+· Involved in writing the DAO layer to perform CURD operations on the data from Mongo DB.
+· Involved in writing Pig queries.
+· Involved in designing the SOLR schema and written the queries for Analytics.
+
+	
+	
+
+
+
+
+Declaration:
+                              I hereby declare that the above mentioned information is correct and true to the best of my knowledge.
+
+Place: Hyderabad.                                          
+Date:                                                                                                         			          (Someshwar Sriramoju)
+.    
+

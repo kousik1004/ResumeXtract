@@ -1,0 +1,215 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abhishek Kumar Srivastava
+
+Guruswami Talari                                                                Email: guruswami.talari35@gmail.com                                                                                                                                                                                                                                                  
+
+                                                                                                           Contact No:  +91 9952086480 
+
+
+	OBJECTIVE
+
+
+To seek a challenging career and strong position in a reputed organization and be an imperative part of the growth and development of the organization. 
+
+	PROFESSIONAL PROFILE
+
+
+· Having 4+ years of experience in Software development.
+· Hands on Experience in C, C ++, Linux systems programming and Python.
+· Extensive knowledge of Data Structures, Operating Systems ,  IPC Mechanisms, Thread
+
+       Synchronization, patching kernel, backporting the kernel.
+
+
+· Bug fixing on issue related to these with the help of gdb, strace and analyzing the core.  
+· Experience in customizing the kernel and construction of Root Filesystem.
+· Worked on various protocols like TCP/IP, and OSPF.
+
+· Knowledge in different Software development life cycle (SDLC). 
+· Knowledge and exposure to Linux Kernel, File systems, Boot loaders.
+·  Good at IPC's i.e. Semaphores, FIFO, Shared Memory, Message Queue, Pipes & Socket 
+
+      Programming.
+· Good in Analyzing & Understanding the client requirements.
+
+· Good Interpersonal skills, commitment, result oriented, hardworking and zeal to learn new technologies and undertake challenging tasks. 
+· An effective team player with abilities to work collaboratively with team.
+
+	TECHNICAL SKILLS
+
+
+            Languages
+
+ : C, C++, Data Structures, Linux system Programming.
+            Scripting Languages  : Python, shell script.
+Operating systems  
+ : Linux, Windows.
+Networking                 : TCP/IP Socket programming, OSPF, ARP. 
+Software tools
+             : GDB (GNU Debugger), Coverity, Cscope, ACME, CDETS.
+Other Skills                 : log analysis, debugging, bug fixing and implemented                        enhancements.
+	WORK EXPERIENCE
+
+
+· Now I am an associate with HCL Technologies Limited, Chennai working as Lead engineer from Jan, 2014 to till date.
+· Previously worked with Episteme soft Pvt Ltd, Hyderabad as a Software Engineer from   Nov, 2012 to Dec, 2013
+
+	PERSONAL TRAINING
+
+
+Undergone Training in Advanced C & Linux programming & Networking course from Vector India Institute, Hyderabad between Apr to Sep 2011.
+
+	RE EXPERTISEEDUCATIONAL QUALIFICATION
+
+
+2011 – M.Sc Electronics -  Post graduation in Electronics from SSBN Degree and PG colleage affiliated by Sri Krishnadevaraya University, Anantapur. 
+	PROJECTS 
+
+
+	#Project 1:  Career Routing System (CRS)
+
+
+               Protocols
+
+:  OSPF, STP, UDLD
+Products
+
+:  CRS core platform routers   
+
+OS and Technologies
+:  ACME, CDETS, IOS-XR, GDB, C, C++, Python.
+Introduction: This project involves the development and technical support for Control Ethernet component of the Carrier Routing System
+
+Description:  CRS is modular or distributed core router which enables service providers to deliver data, voice and video services over scalable IP next-generation network infrastructure.
+A standalone CRS is deployed with LCC. The three main functional units of LCC are Line cards, Switching fabric and Route processor. The line card consists of the Physical interface card and modular service card. The Physical connectivity could be using the Fiber optic cables or using twisted pair cables. 
+CRS Control Ethernet serves as backbone infrastructure on CRS SC and MC, Connects all modules within a CRS system and Crucial for booting and basic functioning of the system.  
+
+Responsibilities:
+· Implemented enhancement CLI “TOPOLOGY” to provide whole multi chassis topology with one CLI instead of multiple CLI’s.
+
+· Handled when show tech broken and fixed immediately.
+
+· Handled customer bugs and fixed them. Protocols involved ULD and STP.
+
+CRS upgrade/Install module code serves as entrance for CRS SC and MC, starts with upgrade code in a router and upgrade function of the system. 
+
+Responsibilities:
+· Handled customer bugs and fixed bugs in upgrade code team. Like when new cards taking long time to come up and delay in sync’ing packages from management RP’s.
+
+· Implemented way to know whether the remote node is alive or not in half beat and to collect logs.
+
+CRS Media/Infra module supported code like disk/eUSB/boot flash driver QNX API calls code.
+
+Responsibilities:
+· Handled customer find bugs
+
+· Like reboot history bugs and nvram related issues and bugs. 
+
+· Worked with disk SATA drivers and QNX api calls.
+
+Role: Involved in debugging and fixing the issues related to the upgrade code, Media and Control Ethernet component. Involved in replying to the customer queries.
+
+Environment:  Platform: IOS XR, Linux
+
+
+
+ Language: C, C++, Python.
+	#Project 2:  HTTPS server with content filtering
+
+
+Duration
+
+: November 2012 – Jan, 2014
+Platform
+
+: GCC (Ubuntu Environment), Vim, C.
+Responsibilities:  
+
+Implemented a routine in ‘C’ for making sockets.
+Developed an application code for HTTP functionality.
+
+Developed different application routines in ‘C’ like creating child process for every new client.
+
+Implementing in 'C' routines for Cipher modes and Public key algorithms.
+
+Description
+: The server program is a simple HTTPS server. It waits for TCP connections from clients. When it accepts one it negotiates an SSL connection. Once the connection is negotiated, it reads the client’s HTTP request. It then transmits the HTTP response to the client. Once the response is transmitted it closes the connection.
+
+Personal Profile:
+ 
+DOB                                       :           05/06/1989.
+
+Gender
+
+
+:
+Male.
+Marital Status
+
+
+:
+Single.
+Nationality
+
+            :           Indian.
+Languages known
+            : 
+English, Telugu, Hindi.
+Current Location
+
+: 
+Chennai
+I hereby acknowledge that information furnished above is true to the best of my knowledge.
+ SHAPE  \* MERGEFORMAT 
+
+
+
+Place:                           
+
+                                                                                  Signature 
+
+Date:                          

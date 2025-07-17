@@ -1,0 +1,798 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Balakrushna Das
+
+Resume of Balakrushna Das 
+Summary
+
+· 11 years of SAP experience as Project Manager, Solution Architect, Team lead and functional consultant in the areas of SD and LE. 
+
+· 7 years of domain Experience in steel marketing and marketing coordination with production planning, customer services and credit control.
+
+He has been working as a Project Manager with HCL in enterprise application services division with a group of SAP functional and technical consultants. He worked as a Solution Architect with ITC in manufacturing domain services and developed a template solution for chemical Industries based on SAP best practices. He has developed his core competency in leading the functional areas of SAP Project implementation and providing solutions in the areas of Sales and Distribution module (SD) Materials Management (MM) and Logistics Execution (LE).
+
+As Project Lead and senior functional consultant in Essar, he was responsible for leading many end to end implementation projects, rollout projects, testing project and support projects at multiple areas of business and divisions. He has worked on solution manager and followed ASAP methodology in many projects.
+
+He has analyzed, designed & configured in many manufacturing and chemical industries on the functionalities of SD modules and integration of SD modules with other modules. He was also a part of logistics automation, data transition; data upload and master data management.
+
+As one of the best employees of the Essar Group, he was involved in Business Process Reengineering and was responsible for establishing the procedures for the integration of multiple systems into single system.
+
+Skills
+
+	Strategy
+	
+
+	Process
+	
+
+	Technology
+	SAP R/3
+
+	SAP
+	· Project Management           
+· SAP SD and LE
+
+	People
+	
+
+	Languages
+	English (Read , Write , Speak)
+
+Hindi     (Read , Write , Speak)
+
+Oriya (Read , Write , Speak)
+
+Telugu(Speak)
+
+
+Selected Project Experience
+
+	Company
+	Merck Schering Plough
+
+	Duration
+	07/11  till date 
+Was this a full project lifecycle: Y/N
+
+	Position
+	Project Manager 
+
+	Background
+
+Merck and Schering-Plough merged in November 2009 to create a new company. Today, they are 
+
+A second-largest healthcare company and a global leader in consumer products and animal care.
+
+ Present responsibility is to manage the offshore support and provide support for smooth day to day operations and enhancements as and when required.
+
+Responsibilities
+
+· Manage and coordinate the offshore support from India
+
+· Resource planning for the project in shared service model 
+
+· Monthly statistics, timesheets and sending billing request 
+
+· Ensure all documentation are in order which includes design document changes, scope documents and changes etc.
+· Ensure code review has been done thoroughly and documented properly in the central repository
+
+· Setting agenda for meeting, assign the actions and follow up with the action plans
+
+· Understand the business process and Pharmaceutical processes and enhancements 
+
+· Facilitate customer by appropriate escalation of issues leading to resolution of problems
+
+· Support from offshore as a shared service model
+
+· Identifying the configuration changes and mismatches occurred due to configuration and enhancements.
+
+· Analyzing and resolving the critical/high priority/medium/standard tickets in the production environment as per the SLA.  
+
+· Preparing Permanent Corrective Actions
+
+· Providing user procedure for the end user's clarification. 
+
+Deliverables
+
+· Successfully managed the project from offshore 
+· Change Requests and Incident
+
+
+
+
+	Company
+	SHS Group, UK
+
+	Duration
+	06/11  to 08/11 
+
+Was this a full project lifecycle: Y/N
+
+	Position
+	Project Manager
+
+	Background
+
+The SHS Group owns twelve successful companies in GB and Ireland representing leading brands within the UK and Ireland. The current SAP upgrade project was aimed at upgrading the patch level of ECC6 patch level 16 to patch level 20.
+
+Responsibilities
+
+· Understand the business process and retailing process  
+
+· Identifying and analysing the SAP notes for  patch upgrade
+
+· Manage and Co-ordinate the user for upgrade testing 
+
+· Manage the post go-live support after the patching 
+
+Deliverables
+
+· SAP Patch Analysis. The last patch update was done some 3 years back. Make a list of all the patches release by SAP after that.
+
+· Make a list of programs and transactions that may be impacted due to patch upload.
+
+· Make a test matrix to check the performance of these transactions.
+
+· Upload the test results in SHS APSE.
+
+· GO LIVE support
+
+
+
+
+	Company
+	Croydon Logistics Limited, U.K
+
+	Duration
+	05/11  to 07/11 
+
+Was this a full project lifecycle: Y/N
+
+	Position
+	Project Manager
+
+	Background
+
+Croydon Logistics Ltd is a private company categorized under Personal Leather Goods and Perfumes; located in Croydon, United Kingdom.
+
+The current SAP implementation project contributed in developing many forms and documents required for the legal documentation of export procedure.
+
+Responsibilities
+
+· Understanding the business process and developing relation  with the client to support the project delivery
+
+· Understand domestic and export process  
+· Co-ordinate the user, developer for finishing and freezing the requirement
+
+· Preparing the test scenarios in SAP
+
+· Unit Testing and Integration Testing of the Business process 
+
+Deliverables
+
+· Export related forms and legal documents
+
+
+
+	Company
+	Dixons retails Plc. Hemel Hempstead, U.K
+
+	Duration
+	12/10  to 04/11 
+
+Was this a full project lifecycle: Y/N
+
+	Position
+	Testing Lead
+
+	Background
+
+Dixons is one of the largest  retailer in  consumer electronics and number one online  retailer in  UK, Europe and Ireland in audio-video equipment, PCs, small and large domestic appliances, photographic equipment, communication products. Dixons also do retailing on other products and services such as electrical products, spares, repairs, mobile services, online digital photo processing, pre-recorded media and childcare equipment.
+
+The current SAP implementation project aims to create an integrated system with the inventory management systems and retailers’ application such as e-merchant and eclipse.
+
+Responsibilities
+
+· Understand the business process, master data and interfaces in retail business
+
+· Co-ordinate the test analysts and business analysts in preparing the test scripts
+
+· KT and Unit Testing the Business process in HP quality centre 9.2
+
+· Testing the Integration aspects of interfaces with SAP
+
+· Raising defecting in QC and follow up for the resolution
+
+· Co-ordinating the defect meeting and team meeting  
+
+Deliverables
+
+· Phase 1 project has been implemented successfully.
+
+
+
+	Company
+	Pratt and Whitney, Canada
+
+	Duration
+	09/10  to 11/10 
+
+Was this a full project lifecycle: Y/N
+
+	Position
+	SAP Project Lead
+
+	Background
+
+ Pratt and Whitney Canada is a Global aerospace leader in the rental business of Aircrafts engine. Here, the effort has been made to provide an user interface system from portal and get the business process done in SAP R/3.
+Responsibilities
+
+· Help and co-ordinate the team members in resolving technical and functional issues
+
+· Identifying the gaps and creation of RFC for the same 
+
+· Testing the RFC and BAPI 
+
+· Testing the functionality through portal and check the effect in R/3
+
+· Interaction with client for understanding the requirements
+
+· Co-ordinate the testing for the client
+
+Deliverables
+
+· Leasing Operations User Interface System (LOUIS) for Pratt and Whitney
+
+
+
+	Company
+	Triveni Engineering and Industries Ltd, India
+
+	Duration
+	10/09  to 08/10 
+
+Was this a full project lifecycle: Y/N
+
+	Position
+	Project Lead
+
+	Background
+
+Triveni Engineering and Industries Ltd is a pioneer in sugar manufacturing, steam turbine manufacturing and has a niche market in water business in India. Triveni Water business group delivers a range of Products and Services for Industrial and Municipal applications. Triveni group has implemented SAP ECC6.0 mainly for its Sugar and Water business.
+
+Responsibilities
+
+· Help and co-ordinate the team members in resolving technical and functional issues
+
+· Familiarize the team with the customer needs, specifications and design targets
+
+· Ensure that the team addresses all relevant issues within the specifications and various standards
+
+· Establish meeting times, places and agendas
+
+· Coordinates meetings with the core team members, project manager and functional management to discuss project hurdles, needed resources or issues/delays in completing the task 
+
+· Provide status reporting of team activities against the program plan or schedule
+
+· Keep the project manager and product committee informed of task accomplishment, issues and status
+
+· Escalate issues which cannot be resolved by the team
+
+· Providing direction to the assigned team on consulting and services policies and procedures.
+
+· Maintaining appropriate levels of involvement in customer issues resolution, disputes and other matters 
+
+· Arrange for the workshop and sign off of Business Blueprint
+
+· Responsible for the realization, unit testing, integration testing of SD module,  upload of transaction data and master data, Go live and support 
+
+· Applications worked on during this period: SAP R/3 ECC 6.0
+
+Deliverables
+
+· SAP ECC-6 has been gone live successfully.
+
+
+
+	Company
+	ITC InfoTech India Ltd
+
+	Duration
+	10/08  to 09/09 
+
+Was this a full project lifecycle:  Y/N
+
+	Position
+	Solution Architect
+
+	Background
+
+ ITC InfoTech has developed a Template Solution for Chemical Industries based on SAP Best Practices for Chemicals Version V1.603. 
+
+Responsibilities
+
+· Team formation and workshop 
+
+· Acquiring and transferring  knowledge on SAP Best practices
+
+· Installation of Best practices version v1.603
+
+· Scoping and activating the chemical scenarios provided by the best practices
+
+· Indentifying the white spaces and designing the new business process 
+
+· Creation of new  scenarios based on  the our experiences in Chemical Industries
+
+· Creation building blocks, BC sets and ecatts to address the gaps and adopt the new business scenarios
+
+· GTM collaterals
+
+· Extensive documentation for getting the SAP partner solution 
+
+· Interaction with SAP India and SAP US for the Partner certificate
+
+Deliverables
+
+· Template solution for Chemical Industries ( I3L Chemicals)
+
+
+	Company
+	Diarough NV (EGON Group), Belgium
+
+	Duration
+	08/07  to 10/08 
+
+Was this a full project lifecycle:  Y/N
+
+	Position
+	Project Lead 
+
+	Background
+
+ Egon group is a leading diamond manufacturer and dealer mainly based in Belgium. It has got its operation of cutting and polishing diamonds at different parts of the world mainly in Thailand, Botswana, South Africa and Canada. The marketing operations happen primarily in Belgium, US and Hong Kong. 
+
+Responsibilities
+
+· Responsible for the coordination of all resources and efforts needed for the successful execution of the project
+
+· Understanding the business process and developing relation  with the client to support the project delivery
+
+· Facilitate customer by appropriate escalation of issues leading to resolution of problems
+
+· Utilize the skills for  building and growing a team culture that focuses on successful client relationships
+
+· Arrange for the workshop and  the sign off of the Business Blue prints of all the modules
+
+· Support from the customer competency centre
+
+· Achieving successful project management with the help of project guidelines and plans and through the effective delegation of responsibilities to consultants.
+
+· Interaction with clients, demonstrate an active interest in identifying further opportunities to add value through the delivery of SAP services
+
+· Coordinating and Preparing Functional specification for ABAP development
+
+· Applications worked on during this period: My SAP ERP ECC6.0
+
+Deliverables
+
+· SAP ECC 6.0 has been implemented for EGON group
+
+
+	Company
+	Fonterra Co-operative Group Ltd, New Zealand
+
+	Duration
+	02/07  to 06/07 
+
+Was this a full project lifecycle:  Y/N
+
+	Position
+	Testing Lead 
+
+	Background
+
+ Fonterra is a leading multinational dairy company and world's largest exporter of dairy products, exporting 95 percent of its production. It has upgraded its SAP version from SAP R/3 4.7 to ECC 6.0 
+
+Responsibilities
+
+· Co-ordinate the Unit testing in development environment and quality environment
+
+· Integration testing in development environment and quality environment
+
+· Report and interface testing in development environment and quality environment
+
+· Smoke testing in quality environment   
+
+· Raising Change request (CR) and providing functional specifications related to the CR. 
+
+· Providing test data for the enhancements. 
+
+· Applications worked on during this period: SAP R/3 ECC 6.0
+Deliverables
+
+· SAP ECC 6.0 has been upgraded for Fonterra 
+
+
+	Company
+	B Braun Medical Inc., USA and Malaysia
+
+	Duration
+	02/07  to 06/07 
+
+Was this a full project lifecycle:  Y/N
+
+	Position
+	Project Lead 
+
+	Background
+SAP has been implemented at B Braun which includes Financials, Materials Management, and Production Planning, Sales and Distribution, Warehouse Management and Quality Management. A 24X7 support was being provided to B Braun from Offshore.
+
+Responsibilities
+
+· Responsible for the coordination of all resources and efforts needed for the 24x7 support of the project
+
+· Facilitate customer by appropriate escalation of issues leading to resolution of problems
+
+· Support from the customer competency centre
+
+· Identifying the configuration changes and mismatches occurred due to configuration and enhancements.
+
+· Analyzing and resolving the critical/high priority/medium/standard tickets in the production environment.  
+
+· Raising tickets with detailed functional specifications and issue description. 
+
+· Providing test data for the enhancements and resolutions. 
+
+· Arranging to solve the tickets with help of level-2 team after preparing detailed analysis and specifications. 
+
+· Preparing Permanent Corrective Actions
+
+· Providing user procedure for the end user's clarification. 
+
+· Applications worked on during this period: SAP 4.7
+
+Deliverables
+
+· Offshore support and Maintenance was successfully provided  
+
+
+	Company
+	Upper India Steel, Ludhiana, India
+
+	Duration
+	12/05  to 06/06 
+
+Was this a full project lifecycle:  Y/N
+
+	Position
+	Project Lead 
+
+	Background
+
+ECC 5.0 has been introduced here to replace UISL’s piecemeal, outdated individual packages and to provide an integrated system for all scenarios with Indian business functionaries and processes.
+
+Responsibilities
+
+· Responsible for the coordination of all resources and for the successful execution of the project
+
+· Understanding and developing relation  with the client to support the project delivery
+
+· Facilitate customer by appropriate escalation of issues leading to resolution of problems
+
+· Provide leadership and management for the assigned project consultants by building and growing a team culture that focuses on successful client relationships
+
+· Responsible for the sign off of the Business Blue prints of all the modules
+
+· Responsible for the project realization
+
+· Support from the customer competency centre
+
+· Achieving successful project management with the help of project guidelines and plans and through the effective delegation of responsibilities to consultants.
+
+· Interaction with clients, demonstrate an active interest in identifying further opportunities to add value through the delivery of SAP services
+
+· Applications worked on during this period: My SAP ERP ECC5.0
+
+Deliverables
+
+· SAP ECC 5 has been implemented successfully 
+
+
+Assgnment summary
+	#
+	Role
+	Organization
+	Technology
+	Client
+	Period
+
+
+	22
+	Project Manager
+	HCL Technologies
+	SAP
+	Merck Schering Plough
+	July’11 to Till Date
+
+	21
+	Project Manager
+	HCL Technologies
+	SAP
+	SHS Patching 
+	May’11 to Jul’11
+
+	20
+	Project Manager
+	HCL Technologies
+	SAP
+	Croydon Logistics, UK
+	May’11 to Jun’11
+
+	19
+	Testing Lead
+	HCL Technologies
+	SAP
+	Dixons Retails, UK
+	Dec ’10  to Apr 11
+
+	18
+	Functional Lead
+	HCL Technologies
+	SAP
+	Pratt and Whitney Canada
+	Sept ’10 To Nov’ 10
+
+	17
+	Project Lead
+	HCL Technologies
+	SAP
+	Triveni Engineering and Industries Ltd, India
+	Oct ’09 To Aug ’10
+
+	16
+	Solution Architect
+	ITC InfoTech
+	SAP
+	ITC InfoTech, India
+	Oct'08 to Sep ‘09
+
+	15
+	Project Lead
+	HCL Technologies
+	SAP
+	Diarough NV (EGON Group), Belgium  
+	Aug ’07 to Oct'08
+
+	14
+	Testing Lead
+	HCL Technologies
+	SAP
+	Fonterra Co-operative Group Ltd, New Zealand
+	Feb ’07 To Jun ’07
+
+	13
+	Lead Consultant
+
+	HCL Technologies
+	SAP
+	B Braun Medical Inc., USA and Malaysia
+	July ’06 to Jan’07
+
+	12
+	Project Lead
+	HCL Technologies
+	SAP
+	Upper India Steel, Ludhiana, India
+	Dec ’05 To July’06
+
+	11
+	Business support analyst
+	HCL Technologies
+	SAP 
+	Fonterra Co-operative Group Ltd, New Zealand
+	May ’05 To Nov ’05
+
+	10
+	Project Lead
+	Essar InfoTech
+	SAP 
+	Essar Steel Ltd.,(EStL), Surat
+	Nov ’04
+To April ’05
+
+	9
+	Project Lead
+	Essar InfoTech
+	SAP
+	Pt. Essar Dhananjaya, Indonesia
+	July ‘04 to Oct’04
+
+	8
+	Project Lead
+	Essar InfoTech
+	SAP
+	ClickforSteel Services Ltd. (CFS), Mumbai
+	Mar ’04
+To Jun ’04
+
+	7
+	Project Lead
+	Essar InfoTech
+	SAP
+	Hy-Grade Pellets Ltd. (HGPL), Vizag, India
+	May’03
+To Feb’04
+
+	6
+	Lead Consultant
+	Essar InfoTech
+	SAP
+	Steel Corporation of Gujarat Ltd (SCGL), Hazira, Surat
+	Oct ’02 To Apr ’03
+
+	5
+	Sr. Functional Consultant
+	Essar InfoTech
+	SAP
+	Essar Steel Ltd, Hazira, Surat, India
+	May ’02 To Sep ’02
+
+	4
+	Sr. Functional Consultant
+	Essar InfoTech
+	SAP
+	Essar Steel Ltd, Hazira, Surat, India
+	Nov ’01
+to Apr ’02
+
+	3
+	Sr. Functional Consultant
+	Essar InfoTech
+	SAP
+	Essar Steel Ltd, Hazira, Surat, India
+	Jun ’01 To Oct ’01
+
+	2
+	Sr. Functional Consultant
+	Essar Steel Ltd, Hazira, Surat, India
+	SAP
+	Essar Steel Ltd, Hazira, Surat, India
+	Jul ’2000 To May ’01
+
+	1
+	Manager- Marketing  and Credit control
+	Essar Steel Ltd, Hazira, Surat, India
+	Manufacturing Domain
+	Essar Steel Ltd, Hazira, Surat, India
+	Jul ’94
+To Jun 2000
+
+
+Employment History
+	Date
+	Company Name
+	Role
+
+	09/09 – Till date
+
+
+	HCL Technologies Limited
+
+
+	Project Manager
+
+
+
+	10/08 – 09/09
+
+
+	ITC Infotech 
+
+
+	Solution Architect
+
+
+
+	04/05 – 10/08
+
+
+	HCL Technologies Limited
+	Lead Consultant
+
+
+
+	07/00– 04/05
+
+
+	Essar Infotech
+	Project Lead
+
+
+
+	07/94 -06/00
+	Essar Steel Ltd
+	Manager – Marketing and Credit Control
+
+
+Qualifications
+	Level
+	Subject
+	College / University
+
+	Masters / MBA
+	Marketing Management
+	Berhampur University, Orissa
+
+	Degree
+	B.Sc(Hons) : Chemistry
+	S.K.C.G.College / Berhampur University, Orissa
+
+	Diploma
+	PGDCA
+	Berhampur University, Orissa
+
+
+Training
+
+	Attended
+	· In House training on SAP Solution Manager
+· Training on ITIL- V3
+
+	Conducted
+	SAP Overview Training, SAP SD Core Team Training and End User Training for clients
+
+	Certification
+	ITIL- V3 
+
+
+PERSONAL INFORMATION
+D.O.B: 18th May 1967
+Passport Number: G5031380
+Expiry date: 30-Apr-2018
+Marital status: Married 
+
+Email Id: pnbdash@gmail.com
+Mobile: 9831953379
+1 | Page
+
+9 | Page
+
+

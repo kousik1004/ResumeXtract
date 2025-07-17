@@ -1,0 +1,284 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+ROBIN SINGHAL
+Present Address: Casa Bella Gold, Platina A- 906, Dombivali, Mumbai
+Contact Number: 09582014373
+E - Mail Address:  robinsinghal21@gmail.com                                                                                                                           
+                                            
+	CAREER OBJECTIVE
+
+
+
+Looking forward to associate myself with an organization where there is an opportunity to share, contribute and upgrade my knowledge for development of self and the organization. Willing to work as a key player in a creative environment.
+	TECHNICAL  PROFICIENCIES
+
+
+
+Tools                                  : Toad, SQL Plus, Red Hat, Oracle Developer 11g, Putty, VmWare, CA Siteminder r6/r12.51
+Cloud Services                 : AWS (Amazon Web Services)
+Operating Systems         :  Red Hat Enterprise Linux Administration, Ubuntu, UNIX (Solaris)
+Database Management: Oracle SQL, Oracle 10g Database Administration Skills
+Web Servers                     : IIS 6/7, Apache (2.0.X, 2.2.X, 2.6.X)
+Programming Skills   	:  Elementary knowledge of C, PL/SQL
+Monitoring Tools            : Ansible, Nagios
+
+	PROFILE DETAILS AND DURATIONS : Total Experience –  4.3 Years
+
+
+
+ASM Enterprise Solutions Private Limited (May 2016 - Till Date)  
+
+Client                :  Reliance JIO (RIL)
+Project              :  LYFCARE - TOPS
+Duration            :  May 2016 till date
+Designation        :  Application Administrator
+
+Description
+
+Caring the responsibility of Database and Operating System, this includes Verifying all Web Servers and Application Servers, Operating System File System Monitoring, Space Monitoring, Manipulating the contents in Database, Alerts & System Logs and Background Jobs. 
+
+Client Appreciation
+
+· Client appreciation received for performing Migration, Upgradation and Configuration activities successfully.
+
+Project Scope
+
+· Responsible for Table Creation on Oracle Developer 11g and loading the SCM Files using Import/Export Utility 
+· Responsible for uploading the NIA Files to FTP Servers with the help of WinSCP. 
+· Migration of LYFCare Application from Root to /app by changing the Mount Point .
+· Successful Migration of Schema Objects to a newly created Service ID in Oracle Database 11g 
+· Successful Configuration of LYF Handsets to our Apache and Tomcat Servers.
+· Successful Upgradation of JDK from Version 1.7.0_61 to Version 1.7.0_101 to our Linux Application Servers.
+· Network Load Balancer Configuration from IP to DNS for TIBCO Retail CRM.
+· Responsible for manipulating Invoice Date through Oracle Database for those customers whose Contact has been created. Performance Tuning check by Query Building to watch the server healthy check.
+· Successful Deployment of APK on Google Play and code level changes at Tomcat Server Level.
+· Successful Configuration of Load Balancer to avoid application crash.
+· Scheduling task to remove /temp logs and clearing the cache with the help of Crontab and Troubleshooting/Monitoring services for CPU, Memory, Disk Space thresholds.
+· Experience in implementing, and supporting Linux server solutions 
+· Attending Bridge Calls with the Client to discuss the issues and upcoming activities.
+· Responsible for manipulating Invoice Date using DML/DDL/DCL statements through Oracle Database for those customers whose Contact has been created. 
+· Linux OS (RHEL/Centos/Ubuntu) Installation and administration.
+· File modifications, changing file permissions, ownership and groups.
+· Installation of packages & resolving dependencies through RPM / Source code.
+· Creating File system using FDISK 
+· Configuring & Managing VSFTP, FTP Server and NFS server
+· Maintaining Disk space, Partitions and LVM.
+· Working with file compressions & backups.
+· Virtual Private Cloud (VPC) creation with private and public subnet on AWS.
+· Communication between two VPC’s using VPC Peering and VPC Endpoint
+· Handling VPC route table/Security Group and allowing subnet association of Route tables to allow internet. 
+· User & Group management for users, API level using IAM & configuring IAM Roles on AWS.
+· Knowledge on working with AWS CDN Cloud Front 
+· Hands on experience on resizing of partition/HVM for Root Volume on AWS Servers. 
+· Multiple EC2 instance launch in AWS.
+· S3 Bucket Creation and uploading/deleting the data along with Cross Region Replication in AWS.
+· Managing S3 bucket Policy /SVN /Glacier in AWS.
+· Hands on Experience of ELB, Application Load Balancer and Bootstrapping techniques. 
+· Auto Scaling of Web Application Instances based on the CloudWatch alarms during sudden increase in network traffic on Amazon Web Services (AWS).
+· Configuring Multi Node Cluster for Hadoop under AWS.
+· Under AWS configuring SNS topic for log Alert Monitoring.
+· Conducting cost optimization audit for clients using the AWS Calculator.
+· Setup of Monitoring Tools like Nagios and Amazon CloudWatch to monitor major metrics like Network packets, CPU utilization and Load Balancer Latency 
+· Cloud Formation JSON Template for automation.
+· Implemented Elastic Beanstalk.
+· Creating KT Documents along with RCA for the Team.
+· Presentation from my side on every Monday raising all gaps to be filled to make the Application smoother.
+
+
+Reliance Communications Ltd., Mumbai (Nov 2015 to May 2016) 
+
+Client                :  BSNL, Vodaphone, Verizon, Sprint, Ericsson
+Project              :  Interconnect Billing and Operations
+Duration            :  Nov 2015 till May2016
+Designation        :  Assistant Manager
+
+Description
+
+To check Operating System and Interconnect Billing functionality.
+
+Project Scope
+
+· Troubleshooting/Monitoring services for CPU, Memory, Disk Space thresholds and scheduling task by Crontab.
+· Responsible for User Management and Creation to restrict the file and directory permissions.
+· Performance Tuning to make the server healthy.
+· Table Creation on Toad and feeding the raw data with the help of SQL Loader.
+· SAP Posting of Inbound and Outbound Billing.
+· Responsible for Rate Template Bulk Load for both Inbound and Outbound.
+· Trunk Group configuration and script running.
+· Performing Space Management by scheduling Pricing and Archiving on daily basis, and summery reprising for weekly, fortnightly and monthly.
+· Proven Production support skills along with problem analysis and resolution.
+· Extensive support and Training.
+· Providing immediate solutions to the queries and problems by end-users in Interconnect Module, suggestions and configuration changes and required corrections as and when required.
+· Priority handled the end user queries through Helpdesk.
+· Client appreciation received for performing TG configuration activity successfully.
+
+
+SDG Software India Pvt. Ltd. (Nov 2013 to August 2015) 
+
+Client                :  NBCU and GE
+Project              :  SSO Integration and Support
+Duration            :  Nov 2013 till August 2015
+Designation        :  Associate Software Engineer
+
+Description   
+
+Working as an SME for Siteminder. Carrying the responsibilities of Siteminder r6 / r12.5 integration with new applications and troubleshooting the issue related to Siteminder. Actively involved in technical design, implementation, testing and documentation for the implementation. Single Sign On is also in the scope of the implementation.
+
+
+
+Project Scope
+
+· Responsible for SSO Enabling Web based applications and their support for these applications technically for any error/ issue reported.
+
+· Deployment of SSO login page on the Internal Intranet network & External Web based Applications/Portals.
+
+· Works on CA Siteminder components: CA Policy Server R6/R12.51 & Siteminder Agent versions 5qmr5, 5qmr6, 6qmr5, 6qmr6 and to do SSO Enabling for Web based applications in Pre - Production and Production environment.
+
+· Creation of security policies on the Policy Servers with the help of Site Minder Objects, and give access for required users to the Policy Server.
+
+· Installing, Configuring the Site Minder Web Agent on the various supported client based Web Servers & Operating Systems (Apache, Tomcat, IIS, – Linux, Windows 2000, 2003 and 2007, Solaris) and register the Webserver machine with the Policy Server so that Web Agent communication can be established with the Policy Server.
+
+· Troubleshooting/Monitoring services for CPU, Memory, disk Space thresholds and scheduling task by Crontab.
+
+· Migration of other NBCU Applications from GE Corporate SSO Environment to NBCU which were using their own SSO Environment. 
+
+· Worked on Migration of Siteminder from R-6 to R-12.51
+
+· Client appreciation received for performing successfully migration activity.
+
+
+	EDUCATIONAL DETAILS
+
+
+
+· Completed Bachelor’s Degree (2013) in ECE from ABES Engineering, Ghaziabad with 64%.
+· Completed Higher Secondary Education (2009) from Delhi Public School (DPS) with 67%.
+· Completed Secondary School Education (2007) from Nirmala Convent School (NSC) with 80%.
+
+	PROFESSIONAL  CERTIFICATIONS
+
+
+
+· Oracle SQL Certified Expert
+· OCA (Oracle Certified Associate) 
+· Awarded certificate for ‘C’ language from C-DAC
+· Completed HTML from Metmodex Computer Technology Ltd.
+
+
+	PERSONAL COMPETENCIES
+
+
+
+· Effective team player
+· Learning agility
+· Adaptable
+· Sportive
+	POSITION OF RESPONSIBILITY
+
+
+
+· Event Organizer member of college fest conducted named “GENERO'12”
+· Anti-Ragging Committee member of ABES EC.
+· Member of USM (Universal Solidarity Movement)
+· Main Coordinator of Track and Field events.
+· Discipline in charge in Intermediate.
+
+
+	ACHIEVEMENTS
+
+
+
+· Winner in District Basket Ball Open Tournament, Bulandshahr.
+· Runner up at 2nd Junior UP State Super-7 Cricket Championship.
+· Achieved 2nd Rank at School level in National Science Olympiad.
+· Achieved 1st rank in Inter School Volley ball competition.
+· Winner in Handball at District level, Bulandshahr.
+
+	HOBBIES AND EXTRA CURRICULAR ACTIVITIES
+
+
+
+· Playing outdoor games.
+· Champion of Basketball played for state levels.
+· Love watching Nat Geo, Discovery and comic channels.
+
+	PERSONAL INFORMATION
+
+
+
+Father's Name              : Mr. Rakesh Kumar Singhal
+Date of Birth	                : 21st August 1991
+Nationality	                : Indian
+Gender           	      : Male
+Languages                    : English, Hindi, German (Elementary), Sanskrit
+Passport Status            : Yes
+Permanent Address     : 1, Rama Enclave, Near B.B.Public School, Bhoor, Bulandshahr
+Current location           : Mumbai
+
+
+	DECLARATION
+
+
+
+I hereby declare that all the information provided above is true to the best of my knowledge. 
+
+
+Name : ROBIN SINGHAL
+Place  : Mumbai
+
+
+
+
+Employee-Personal
+

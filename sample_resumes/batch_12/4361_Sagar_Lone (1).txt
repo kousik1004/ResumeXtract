@@ -1,0 +1,290 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Sagar Lone 
+E-mail: sagarlone@rediffmail.com 
+Mobile No:  91- 9004571130 
+
+ 
+
+Career Objective: 
+
+ 
+Seeking a challenging position in an organization where my technical and analytical skills will be 
+fully exercised to the benefit of the team and the organization as well as to further develop my 
+professional skills. 
+ 
+
+Summary: 
+
+ 
+
+ Having an experience over 4 Years in providing Information Security includes Web 
+
+application Security Testing and   Vulnerability assessment And Pen-testing. 
+
+ Sound knowledge and industry experience in Vulnerability Assessment and Penetration 
+
+Testing on WEB based Applications. 
+
+ Excellent knowledge in OWASP Top 10 Vulnerabilities. 
+
+ Hands on knowledge on web based vulnerability assessment scanning tools   I.e. Nessus 
+
+Security Center and Burp Scanner, Kali Linux Tools. 
+
+ Worked on Nessus Scanner & Nessus Security Center commercial tenable product for 
+
+Vulnerability Management. 
+
+ Hands on experience with all add-on on Browser for finding Vulnerabilities in 
+
+application. 
+
+ Vulnerability Assessment includes analysis of bugs in various applications spread across 
+
+N-tier on various domains by using both manual and Automation tools. 
+
+ Knowledge in Windows/Linux operating system configuration, utilities and 
+
+programming. 
+
+ Also work on exploit framework applications Like Metasploit. 
+
+ Prepare manual reports reports on Vulnerability assessment and penetrating testing. 
+
+ Also work on IOT devices Penetration testing project. 
+
+ Done static Object code file analysis on Executable custom linux applications. 
+
+ Static code review on source code with Visual Code Greeper and SonarQube. 
+
+ Developed PII (Personal Identification Information) Parser which supports GDPR 
+
+projects. 
+
+ 
+
+ 
+
+mailto:sagarlone@rediffmail.com
+
+
+Education: 
+
+ Bachelor of Science In Information Technology From Mumbai University (2014)/ BSc. IT 
+
+ 
+
+Professional Experience: 
+
+ Working as Associate Consultant in CapGemini Technologies from July, 2014 to till date. 
+
+ 
+
+Technical Proficiencies: 
+
+Application Vulnerability Scanners   : Nessus Security Center, Burp suite Professional, Acunitex.  
+
+Acunitex,  Tamper IE, Tamper Data,  cookie Manager, Burp suite, OWASP CSRF Tester etc. 
+
+Wapplyzer.  
+
+Trained On: IBM Appscan Standard Edition 
+
+                        Database          :  Microsoft sql Server, MySql 
+
+                   Operating Systems         :  Windows & Linux 
+
+                   Programming Languages         :  Java, Javascript, Jquery, Python, HTML, CSS, Asp.net 
+
+  
+
+
+
+Project Experience: 
+
+Web Application Penetration Testing 
+
+ Gathering information on application 
+
+ Scanning the application using tools 
+
+ Manually analyzing all the queries and intercepting in burp suit. 
+
+ Finding the vulnerabilities and exploiting the vulnerabilities using tools and manual 
+
+ Preparing the detailed report. 
+
+Key Project: 
+
+Project Name:  BPO Project (Global Client) 
+
+Assessments   : Vulnerability assessment and penetration testing on Web based application 
+
+Tools:   Nessus Security Center, Nessus Scanner, Burp Suite (Community edition)  
+
+Job Role:  Associate Consultant 
+
+Description: 
+
+We were supporting to BPO Global client for Capgemini in which we provide below services: 
+
+ Network vulnerability assessment 
+
+ Web application scanning 
+
+ Security Operation center monitoring 
+
+ 
+
+Responsibilities: 
+
+ Perform Security Testing on all projects in Web Platform. This includes Web 
+
+applications, web services, backend processes and Thick clients. 
+
+ Manage and perform Burp and Nessus Scanner scans before all production releases and 
+
+analyze vulnerabilities and report to all stakeholders. 
+
+ Perform manual security testing for OWASP Top 10 vulnerabilities like Injection attacks, 
+
+XSS, CSRF, Session Management etc. 
+
+ Performing the manual testing to remove the False Positives and also identify the False 
+
+Negatives. 
+
+ Discuss the vulnerabilities with the vendor along with the presentation. 
+
+ Prepared comprehensive security report detailing identifications, risk description and 
+
+recommendations with the code snippets for the Vulnerabilities. 
+
+
+
+ Conduct re-assessment after mitigating the vulnerabilities found in the assessment 
+
+phase. 
+
+ Provide Security requirements to project teams during design phase. 
+
+ 
+
+Project Name:  BPO Project (Global Client) 
+
+Assessments   : Logs Monitoring (SIEM Technology) 
+
+Tools:   RSA Security Analytics (10.4)  
+
+Job Role:  Associate Consultant 
+
+Description: 
+
+ I supported this client in setup of SIEM solution, Configuration management, and new 
+
+device integration. 
+
+ RSA security analytics 10.4 tool used to implement this project. 
+
+ Monitored Windows, Linux, Network, Firewalls, IPS, Symantec antivirus. 
+
+ Analyzing blacklisted IP addresses. 
+
+ 
+
+ 
+
+Responsibilities: 
+
+ Creation of Correlation rules for monitoring. 
+
+ Monitoring and raising an incidents as per analysis. 
+
+ Tool configuration management and Meta key management. 
+
+ Creation of custom reports on basis of client requirement. 
+
+ Creation of Custom Parser and edited existing parser using RSA Event source integrator 
+
+tool. 
+
+ 
+
+Project Name:  Internal Product Development (PII Parser Supports GDPR law) 
+
+Assessments   : Development on PII Search tool (Supports GDPR) 
+
+Tools:   Custom tool 
+
+Job Role:  Project Lead & Developer 
+
+ 
+
+
+
+Description: 
+
+ Java based parser develop to identify Personal Identification Information form 
+
+Users/Servers files. This tool scans drives of systems and identifies Personal Information 
+
+Like name, date of birth, credit card numbers of user and report. 
+
+ Backend database used is MySql and Web application for reporting is developed in PHP 
+
+Codeigniter v3 Framework. 
+
+Responsibilities: 
+
+ Development and Enhancement of product. 
+
+ Present Demo to client. 
+
+

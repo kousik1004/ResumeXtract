@@ -1,0 +1,351 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+Profile  
+Career 
+Objective  
+
+To secure a position that will provide me opportunities and challenges for a rewarding 
+career which can grow my work potential and also contribute to the success and 
+betterment of the organization. 
+
+  
+
+Work Experience 
+Company 
+
+Address 
+
+Phone 
+
+Role 
+
+Responsibilities 
+
+ 
+
+Platform 
+
+Libraries 
+
+Cerebroz EduTree LLP                                                                               August, 2017 – Present  
+
+S-03, India bulls Mega Mall, Behind Railway Station, Vadodara, Gujarat 390020 
+
+(+91) 84908 32930 
+
+Software Engineer (Machine Learning Engineer) 
+
+Research and development on various Machine learning Technique 
+
+Handling and guiding Machine learning and Image Processing Team and project 
+
+Python, C++ 
+
+OpenCV, OpenCL, TensorFlow, SVM, CNTK 
+
+  
+
+Educational Qualification 
+2014-17 MCA : Master of Computer Application, Gold Medallist                                         9.41/10 CPI 
+
+Nirma University, Ahmedabad 
+  
+2011-14 BCA : Bachelor of Computer Application                                                               8.14/10 CGPA 
+
+The Maharaja Sayajirao University, Baroda                                                            
+ 
+
+2011 
+ 
+
+12th (Higher Secondary Certificate(H.S.C.) Examination)                                                80.28 %                                                                                                                  
+Gujarat Secondary and Higher Secondary Education Board 
+ 
+
+2009 10th (Secondary School Certificate(S.S.C.) Examination)                                                64.46 %                                                                         
+Gujarat Secondary and Higher Secondary Education Board 
+
+ 
+
+Technical Skills & Abilities 
+Programming C, C++, Python, Java 
+
+Web Tech. 
+
+Database 
+
+Tools and IDEs 
+
+OS 
+
+Libraries 
+
+Sub. Familiarity  
+
+PHP (Laravel 4.1 PHP Framework), HTML, CSS, JavaScript, Bootstrap 
+
+MySQL, Microsoft SQL Server 2008 R2, Oracle SQL Database 12c, Microsoft Access, 
+
+QT 5.10, Microsoft Visual Studio, Eclipse, NetBeans IDE, Digital Image Processing Toolbox 
+
+Microsoft Window, Linux 
+
+SVM, TensorFlow, OpenCV, OpenCL, Scikit-learn, Theano 
+
+OOPs Concepts, Data Structures and algorithm, Software Engineering, Deep Learning 
+
+Jeetendra Vaghela 
+Machine Learning Engineer 
+http://www.linkedin.com/in/jeetendravaghela56 
+
+Phone : (+91) 70432 04295 
+Email : jeetendravaghela56@gmail.com 
+Address : D-204, LIG Flats, Near Ambalal 
+park cross road, Karelibaug, Vadodara 
+390 018 
+
+  
+
+http://www.linkedin.com/in/jeetendravaghela56
+
+
+ 
+
+Projects 
+Jan’18-Present 
+ 
+ 
+ 
+ 
+ 
+
+Aug’17-Jan’18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+July’16-May’17 
+ 
+ 
+ 
+ 
+ 
+
+Jan’16-May’16 
+ 
+ 
+ 
+ 
+ 
+ 
+
+July’15-Dec’15 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Jan’15-May’15 
+
+ 
+ 
+ 
+ 
+
+Jan’14-May’14 
+ 
+
+Automatic Commercial Detector                                                  Cerebroz EduTree LLP 
+Objective: We are developing commercial detection, which will notifies user whenever 
+any Commercial block is display in the TV stream. 
+Role: Researcher, Programmer 
+Tools and Technology: Python, C++, Machine Learning, OpenCV3.3.0 
+ 
+
+Automatic Channel Detector                                                         Cerebroz EduTree LLP 
+Objective: Automatic Channel Detector as name suggest detects the currently running 
+channel in the TV. We used Supervised Machine Learning for classification of channel 
+using Support Vector Machine (SVM). Using OpenCV3.3.0 we pre-process the video 
+frames and to reduce the computation we used Histogram of Oriented Gradients (HOG) 
+to extract the features from the video frame. Our SVM model gave 98% accuracy and 
+detect proper channel.  
+Tools and Technology: C++, Machine Learning (SVM), HOG, OpenCV3.3.0 
+ 
+
+Automatic Fracture Detection with analytics       (5th & 6th Semester Project, MCA)     
+Objective: Automate the detection of fracture in x-rays of human bones and provide 
+diagnosis, measurement and surgical prescription to cure the fracture.  
+Role: Researcher, Programmer 
+Tools and Technology: MATLAB, Digital Image Processing Toolbox  
+ 
+
+Face Detection from live video stream                            (4th Semester Project, MCA) 
+Objective: System will detect the face from live video stream when user clicks the picture 
+from stream. Detection is based on the mouth and eye features.  
+Role: Programmer 
+Team Size: 2 
+Tools and Technology: MATLAB, Digital Image Processing Toolbox 
+ 
+
+Content Based Image Retrieval                                         (3rd Semester Project, MCA) 
+Objective: CBIR is an image retrieval technique used for image retrieval from database 
+based on image features like colour, shape, texture. 
+Role: Programmer 
+Team Size: 2 
+Tools and Technology: MATLAB, Digital Image Processing Toolbox 
+
+ 
+Sorting Searching Algorithm Animation(2D)                  (2nd Semester Project, MCA) 
+Objective: Animate the process of searching and sorting of data in a machine.  
+Role: Programmer 
+Team Size: 2 
+Technology: Java, JavaFx (MVC Architecture) 
+ 
+
+Sahaj Designing, Vadodara                                             (6th semester Internship, BCA)  
+Developed System: Sahaj E-shop (Online Shopping site) 
+Role: Web Programmer and Designer 
+Team Size: 3 
+Frontend : PHP (Laravel 4.1 PHP Framework)       Backend: MySQL 
+
+ 
+  
+
+
+
+ 
+
+Paper Published 
+December’15 Comparative Performance Study of Various Content Based Image Retrieval 
+
+Methods 
+ Publication: Springer–ICTIS-2015 
+ Paper No: 293  
+ Role: Co-Author  
+ Tools and Technology: MATLAB, Digital Image Processing Toolbox 
+
+ 
+
+Achievements  
+2017 
+ 
+ 
+2014-17 
+ 
+
+University Gold Medal in MCA (for highest academic standing at postgraduate level in 
+MCA) 
+ 
+Awarded NITAA Scholarship every year by Nirma Institute of Technology Alumni 
+Association (NITAA) for securing first rank in MCA (2014-2017). 
+
+ 
+
+Co-Curricular Activity  
+June’16 - 
+May’17  
+Feb’15,16 
+ 
+ 
+Feb’13 
+
+Students Placement Coordinator of MCA Section. 
+ 
+Participated in Technical Event In the national level Techno-Management Colloquium- 
+NU-TECH’15 & 16 at Nirma University. 
+ 
+Volunteer in BITA IT show 2013. 
+
+  
+
+Hobbies 
+  Reading Books (Novel, Spiritual books) 
+  Playing Computer Games 
+  
+
+Personal Information 
+Father’s Name Mohanbhai Bhayabhai Vaghela 
+  
+Date of Birth 13th September,1993 
+  
+Gender  Male 
+  
+Marital Status Unmarried 
+  
+Languages  English, Hindi, Gujarati 
+  
+Nationality 
+ 
+Area of Interest 
+
+Indian 
+ 
+Machine Learning, Deep Learning, Artificial Intelligence, Image Processing 
+
+ 
+
+Declaration  
+I hereby declare that the above mentioned information is correct up to my knowledge and I bear 
+the responsibility for the correctness of the above-mentioned particulars. 
+ 
+Date: 08th June, 2018 
+Place : Vadodara - 390 018                                                                                        Jeetendra M. Vaghela 
+ 
+
+

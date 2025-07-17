@@ -1,0 +1,209 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vinu Vijayan
+
+VINU VIJAYAN 						Experience  	: 6 Years	
+Fragomen Immigration Services India Pvt. Ltd.		Technology	: Microsoft SQL Server and 
+Kochi, India.								        	 Data Tools – 2000 
+Mobile: +918802314733.							  Through 2014
+E-Mail: 	vijayan.vinu3@gmail.com					
+	
+
+Have extensive knowledge of SQL ranging from Database Creation, maintenance, Complex ETL and Analytics, to Reporting - as a developer and an Analyst. Also have expertise in multiple domains – Education, Web Surveys, Marketing, Immigration and IT Software.
+
+CAREER PRECIS
+· 6 Years of experience in Development, Analytics and Reporting with Microsoft SQL Server Technology (SQL Server, SSIS, SSRS) in Education, Web Surveys and IT Software Domains. Additionally, have good knowledge of Reporting Tools like SAP BO WEBI 4.1 and Crystal Reports 2013.
+· Proven Experience in managing and closing complex projects.
+· Have a weakness for automating Database processes. Solely automated 80% of the manual processes in the team while working at Cvent Inc. 
+· Currently working as Senior Software Developer, as part of the Business Intelligence Team at Fragomen Immigration Service India Pvt. Ltd.
+· Dynamic, dedicated, proactive and accomplished in Application development and Project as well as Team management skills.
+· Team player with a very strong work ethic; always committed to hard work.
+· Exposure in evaluating end-user requirements and custom designing simple solutions even for the most complex of requirements.
+· Proficient in writing set based code/logic (loop less and cursor less) for the most complex requirements.
+· An effective communicator with exceptional relationship management and analytical skills. 
+
+
+SCHOLASTICS
+
+Master in Computer Application (MCA) 2011 from Bharati Vidyapeeth University, Pune.
+Bachelor in Commerce (B.Com [Hons.]) 2007 from Delhi University.
+10+2 (Intermediate) in 2003 from Mount Carmel School (CBSE), New Delhi.
+10th in 2001 from Mount Carmel School (CBSE), New Delhi.
+
+SKILL SET
+
+FUNCTIONAL
+
+· Requirement Analysis – Looking at requirements from different Point of Views to understand the End requirement and coming up with the shortest route to achieving it.
+· Schema Designing, Implementation, Development, Maintenance, Analytics and Executive Reporting.
+· Write complex set based code to provide simple & user friendly solutions to the most complex requirements. 
+· Automation of all recurring Maintenance, Analytical, Reporting and Database activities.
+· Analysing data in millions & providing game changing Analytical Reports & Insights to inspire the best of Executive decisions.
+· Responsible for the growth of an ever growing Marketing Contacts Database. POC for all Data Acquisitions from the biggest data vendors like – Zoom Info, Circle Back, Infinity Intellect, Target Response etc.
+
+
+
+
+TECHNICAL
+· Database			: SQL Server 2000 through 2014 
+· Integration Services		: Expert in ETL and other Integration tasks using SSIS. 
+· Reporting			: SAP BO WEBI, Crystal Reports 2013, SSRS 2008 and an expert at MS
+  Excel reports with smaller chunks of data.
+· Other Tools/SQL Platforms		: MySQL, Oracle, Tableau, MS Excel. 
+
+EMPLOYMENT CHRONICLE
+
+	
+	Company
+	Designation 
+	Duration
+
+	1.
+	Fragomen Immigration Services Pvt. Ltd.
+	Senior Software Developer [ATL Role]  
+	Till date from Nov 2017
+
+	2.
+	Cvent Inc.
+	Senior Database Analyst  
+	July 2014 to Nov 2017
+
+	3.
+	Toluna India Pvt. Ltd.
+	SQL Programmer
+	Dec 2013 to July 2014
+
+	4.
+	IYC Soft Infrastructures Pvt. Ltd.
+	SQL Server DBA
+	Dec 2011 to Dec 2013
+
+
+
+
+PROJECTS HANDLED
+Since Nov 2017 with Fragomen Immigration Services India Pvt. Ltd.
+
+WEBI REPORTING (Business Intelligence)	           			      Nov 2017 till date
+As part of a new Business Intelligence team at Fragomen, I have been an integral part of creating and maintaining SAP WEBI and Crystal reports. This includes requirement analysis, analysing feasibility of report requests, WEBI report development, Database querying, Testing and Quality analysis. The reports created are for internal management as well as external clients like – Amazon.com Inc., Bank of America, General Electric Company, Qualcomm etc.
+
+Team size:		7
+Role:			SAP WEBI Reporting, Crystal Reports, SQL Development, Team Management.
+Application: 		SAP BO WEBI 4.1, SAP Crystal Reports 2013. 
+Database Technologies:	SQL Server 2012 and Data Tools.
+Responsibilities: 	Creating and scheduling reports on SAP Business Objects to be delivered automatically.
+			Designing, developing and implementing operational reports using Crystal Reports 2013 
+			based on SQL Server 2008. Creating and optimizing SQL stored procedures to improve 
+			reports. Collaborating with management members to define and develop new reports. 
+			Coordinating with my Team Lead to manage a team of 5 young report developers to deliver 
+			high quality reports to Management as well as external clients.
+
+Since July 2014 with Cvent Inc.
+
+Athena – Marketing Data Warehouse           			      March 2015 till Nov 2017
+Athena is the internal Automated Marketing Data Warehouse which acts as the source engine for all Marketing Activities. The idea behind it was to get a 360 degree view of every lead/contact which goes into the Marketing Funnel and hence drive Analytics and Insights on this 360 degree view.
+
+Team size:		5
+Role:			SQL Development, Analytics and Reporting
+Application: 		Complete Marketing Data warehouse with an automated User Interface. 
+Database Technologies:	SQL Server 2012, SSIS 2012, SSRS 2012
+Responsibilities: 	Automated 80% of all Database processes. Designed multiple SSIS packages for Request 
+			Processing which used to automatically pick data request files from a folder, do all ETL 
+			activities and provide the expected resultant file to the end user. Also, designed and created 
+			Marketing reports for the same. 
+Automated Marketing Top of Funnel Campaigns  			    July 2014 till Jan 2015
+Marketing Top of Funnel Campaigns are Marketing Drip Campaigns where Contacts/Leads are nurtured by – identifying them into a nurture stage, providing them content and White papers based on the Nurture Stage and educating them finally to become a profitable lead for the Organization. 
+
+Team size:		2
+Role:			Database Programmer/Analyst
+Technologies:		SQL Server Integrated with Marketo. 
+Database:		SQL Server 2012
+Responsibilities: 	Automating the complete Top of Funnel Nurture Campaign. 
+			Implementing it for all Cvent Products with minor changes. 
+			Providing Automated Reports for the same.
+Between December 2013 and July 2014 with Toluna India Pvt. Ltd. as SQL Programmer
+
+Toluna Web Surveys			                                              	Dec 2013 to June 2014
+This project was a part of enhancing the existing product by adding Reporting to the current Web Survey product of Toluna called Toluna Web Surveys. The tool for front end design of Survey was by Confirmit which had SQL server as a back end. 
+
+We boosted the current tool by adding attractive reporting from SSRS. These custom reports were automated and provided as Stock reports for users. 
+
+Team size:		2
+Role:			SQL Programmer
+Application: 		Confirmit Survey Development Tool Integrated with SQL Server
+Database:		SQL Server 2008
+Responsibilities: 	Database design, Complex SQL Development to get the desired reports and Report 
+                                        Design using SSRS 2008.
+
+
+	
+PERSONAL DOSSIER
+
+Father’s Name:	Vijayan K.N.
+Date of Birth:	21-11-1986
+Gender:		Male
+Marital Status:	Married
+Nationality:	Indian
+Languages: 	English, Hindi, Malayalam. 
+Address:		10 C, Dulcet Building, Olive courtyard,
+		Infopark, Kochi, Kerala – 682030.
+
+
+
+
+
+DECLARATION
+
+I hereby declare that the information given above is true and correct to the best of my knowledge. I fully understand that in the event of any information being found false or incorrect, it will disqualify my candidature and I will myself be responsible.
+
+
+Date:  …………………………………….						…………………………………………………………
+Place: …………………………………….							(Vinu Vijayan)

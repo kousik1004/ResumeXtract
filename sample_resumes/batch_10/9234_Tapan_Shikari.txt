@@ -1,0 +1,132 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name:-Tapan Shikari
+Email:- khpa9620@gmail.com                             	
+Mob:- 09620945428	
+
+Career Objective:-
+To be associated with progressive organization that gives me scope to update my skills according to latest trends, especially in the area of Software development and be the part of team that dynamically works towards the growth of organization.
+Professional Summary:-
+
+Having 1 year of experience in Design and Development of  Distributed  and Clint-Server applications using Object Oriented Analysis, Design with JAVA(OOPS, Collection, Multithreading and Exception Handling), J2EE Technologies.
+Expertise in the technical, conceptual and content development of Java, J2ee and Struts 2.x based applications.
+Expertise in developing Object Oriented Applications using Java 1.7.
+Experience in core concepts like OOPS, Collections Framework, multithreading in application development.
+Experience in Hibernate and Spring IOC, Spring AOP, Spring MVC.
+Knowledge in Junit.
+Used Different Web Servers such as Tomcat server.
+Used Restful web services.
+Integrating applications on Eclipse and Spring Tool Suite.
+Experience in using Oracle 10g Databases.
+Experience of working with different servers like Tomcat Server 7.x and application servers like IBM Web-Sphere 7 & 8.5.
+Experienced in Agile Scrum Development methodology
+Experienced in Maven Project Management Tool.
+
+Educational Credentials:-
+· Bachelor Degree in Computer Science Engineering from Govt. College of Engineering & Textile Technology, Berhampore.
+Professional Experience:-
+· Working as Associate Software Engineer in Allstate Solutions Private Limited, Bangalore.
+Technical Skills :-
+Language		  :-	Core Java, J2EE
+J2SE Technologies 	  :-	OOPs, Multithreading, Collection, Exception Handling.
+J2EE Technologies	  :-	JDBC, 
+Frameworks                 :-	Struts 2.X, Spring(IOC, MVC), Hibernate.
+Web Server                   :-	Apache Tomcat ,IBM Web-Sphare 7 and 8.5.
+Data base	                :-          MYSQL, Oracle 
+IDE Tools		  :-	Eclipse , STS.
+Build Tools	             	  :-	Maven
+			
+Project Description:-
+Project #1 :-
+· Name	        :-	COMPLIMENTARY GROUP RATING (cgr).
+· Technology:-  Java, Struts 2.x,JSP, Java Script, IBM WAS 7, 8.5, IBM RAD 9.01 ,Beyond Compare.
+· Role             :-   Developer.
+· Team size   :-    6
+· Domain       :-     Insurance.
+· Client           :-     Allstate .
+Description:-
+
+CGR Project is a Complimentary Group Rating project, which is identify the customer and find their previous records. Based on their previous records company give some discount and it’s also provide discount based on the customer age, educational and qualification.
+
+Role and Responsibilities:-
+
+· Was responsible for enhancements in the application using Core Java, Struts 2.x and in the front end using JSP, CSS.
+· Identify, report and fix bugs along with handling unit testing.
+· Implemented front-end GUI using HTML, JSP .
+· Responsible for coding POJO classes and other utility classes
+· Participated in the development to help manage all aspects of the software consulting organization. The system was implemented using Object Modeling Techniques.
+Project #2:-	   
+ Name                 :-       Back Dated Endorsement(BDE).
+Role                    :-      Developer
+Team Size	   :-	16
+Technologies   :-	Spring Boot, Spring Batch, MySql, Web Service (Restful), Java.
+Domain              :-       Insurance.
+Client                  :-       Allstate
+Description  :-
+
+Earlier the reversal of renewal through BDE is a manual operation which involves processing the renewal reversal requests in central site where the transactions are rerun, to roll off the renewal activities. Once the roll back is complete the transaction is run again to apply the agent request endorsements.
+With BDE enhancements the processing of BDE renewal reversals will be automated with the help of spring batch and the policies will be brought out of BDE without any manual intervention.
+Roles and Responsibilities:-
+· I work as developer for developing individual modules using Core java, Spring Boot and spring batch.
+· Dealing with Individual Modules from inception stage to final stage.
+· Was responsible for developing a new module called eligibility of BDE.
+· Responsible for coding POJO classes and other utility classes
+· Identify report and fix bugs along with handling unit testing.
+
+Academic Qualifications:-
+
+· B.Tech with First Class (73.00%) from GCETTB (WBUT).
+· Diploma with First Class (73.14%) from BIT (WBSCTE).
+· 10th    with First Class (72.25%) from WBBSE.
+Personal profile:-
+· Full Name	   :-   Tapan Shikari
+· Place                     :-   Bangalore, India                                                                             Yours Sincerely
+                                                                                                                                           Tapan Shikari
+      

@@ -1,0 +1,226 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sameeksha Talwar					E-mail: talwar.sameeksha@yahoo.co.in
+New Delhi, India					 	Contact no: +91- 8860431487
+						
+
+								     	    
+Professional Summary
+
+· 3.5 years of IT experience in in IT as MS SQL Server 2012/2014 and ETL Developer with strong background in Data warehousing and ETL techniques
+· Extensive experience in Information Technology with special emphasis on design & development of Database/Data Warehousing applications and Software Development Lifecycle (SDLC).
+· In-depth knowledge in various RDBMS concepts like Database, Tables, Table Normalization, User Defined Data Types, Views,  Indexes,  Stored Procedures,  User Defined Functions, Triggers, CTE(Common Table Expression) etc.
+· Proficient in working with Transact-SQL, DDL and DML.
+· Excellent knowledge in ETL (Extract - Transform - Load) using SQL Server Integration Services 2010.
+· Team player and self-starter with excellent communication and documentation skills, ability to work independently or as part of a team and capable of picking up new skills quickly.
+· Expertise in requirements gathering and end user training.
+· Working knowledge in Marketing, Pharmaceutical and Utility Domain.
+· Experience with dimensional modelling using star schema and snowflake models.
+Technical Skills
+
+	· DBMS	
+	:
+	Microsoft SQL Server 2012/2014
+	
+
+	· Programming Languages
+	: 
+	T-SQL, PL/SQL
+	
+
+	· Database Tools		
+	:
+	SQL Server Management Studio, SQL Server Business Intelligence Development Studio
+	
+
+	· ETL Tools
+	:
+	SQL Server Integration Services (SSIS) 
+	
+
+	· Operating Systems
+	:
+	Windows XP, Windows 7, Windows 2012 Enterprise Edition
+
+	
+
+
+Employment History
+
+	Name of the Employer
+	Designation
+	From
+	To
+
+	Hughes Systique Corporation
+	Software Trainee
+	Oct 2014
+	May 2015
+
+	Deloitte Touché Tohmatsu Pvt Ltd.
+	Analyst
+	May 2015
+	Present
+
+
+
+
+Professional Experience
+Project: AOP Reports/Dashboards
+The main objective of this project is to understand the End-user business process, creating the data model to fulfil the user requirements and make data available in SQL Server fact and dimension tables so that it can be used further to create reports and dashboards.
+Role: SSIS/SQL Developer
+
+Responsibilities:
+		
+· Involved in complete Software Development Life Cycle (SDLC) process by analysing business requirements and understanding the functional work flow of information from source systems to destination systems.
+· Designed and developed SSIS Packages to import and export data from MS Excel, SQL Server and Flat files.
+· Involved in complete SSIS life cycle in creating SSIS packages, building, deploying and executing the packages in both the environments (Development and Production).
+· Interacted with the business users on regular basis
+· Involved in ETL architecture enhancements to increase the performance using query optimizer
+Implemented Event Handlers and Error Handling in SSIS packages. 
+· Involved in writing complex SQL Queries, Stored Procedures, Triggers, Views, Joins, Constraints, DDL, DML and User Defined Functions to implement the business logic and also created clustered and non-clustered indexes. 
+· Participated in UAT, and maintained Issue tracker to keep track of the issues that were raised at the time of UAT, and also resolved them.
+Environment: Windows 2012 Enterprise Edition, SQL Server 2014, SSIS 2010.
+
+
+Project: Internal Firm Application
+The scope of this project is to capture source data from Sales and Marketing system then perform data cleansing activities and then make the data available in target database system from where it can be used to generate reports and dashboards on the basis of various hierarchies like Geography, Time.
+Role: SSIS/SQL Developer
+Responsibilities:
+· Involved in complete Software Development Life Cycle (SDLC) process by analysing business requirements and understanding the functional work flow of information from source systems to destination systems.
+· Designed and developed SSIS Packages to import and export data from MS Excel, SQL Server and Flat files.
+· Involved in complete SSIS life cycle in creating SSIS packages, building, deploying and executing the packages in both the environments (Development and Production).
+· Created views to restrict access to data in a table for security. 
+· Conduct code walk through and review peer code and documentation.
+· Interacted with the business users on regular basis to consolidate and analyse the requirements and present them the design results.
+Environment: Windows 7, SQL Server 2012, SSIS 2010.
+
+
+Project: MBC Analytics
+To create a BI platform and deliver self-service BI for the MIS portal and higher management. The platform allowed business users to analyse key KPI’s for Metering, Billing and Collection departments across geography. 
+Role: SSIS/SQL Developer 
+
+
+
+
+Responsibilities:
+· Involved in complete Software Development Life Cycle (SDLC) process by analysing business requirements and understanding the functional work flow of information from source systems to destination systems.
+· Designed and developed SSIS Packages, to import and export data from MS Excel, SQL Server and Flat files.
+· Involved in writing complex T-SQL Queries, Stored Procedures, Triggers, Views, Joins, Constraints, DDL, DML etc. as per the business logic.
+· Conduct code walk through and review peer code and documentation.
+
+Environment: Windows 7, SQL Server 2012, SSIS 2010.
+
+Education
+	S. No
+	Award Degree
+	Affiliation
+	Passing Year
+	Percentage
+
+	1.
+	B.Tech Computer Science
+	MDU Rohtak
+	2014
+	74.05
+
+	2.
+	Higher Secondary Examination
+	CBSE Board
+	2010
+	76.20
+
+	3.
+	Secondary School Examination
+	CBSE Board
+	2008
+	89.40
+
+
+
+
+Accomplishments
+· Selected as “Start of the Release” at Deloitte and received the award for the same.
+· Participated in CSR initiatives of the organization(s).
+· 3rd Position in technical paper presentation at VIPS-IPU fest (BRAINSTORM 2014)
+· 1st Position in technical event held at DTU TECH-FEST 2013
+· Chairperson-Membership Committee of IEEESB-PDMCE (2012-13)
+· Core Technical Team Member for multiple events in PARADIGM’13 in our college
+· Lead coordinator in PARADIGM'13 (College fest)
+
+Personal Details				
+	Name
+	Sameeksha Talwar
+
+	Date Of Birth
+	1 January 1992
+
+	Nationality
+	Indian
+
+	Gender
+	Female
+
+	Marital Status
+	Single
+
+	Languages Known
+	English, Hindi, Punjabi
+
+
+
+
+Declaration
+I hereby take the responsibility of genuineness of all the above mentioned details.
+
+Date	: 2nd April 2018
+Place	: Delhi
+
+
+

@@ -1,0 +1,165 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Praveen Kumar R 			 
+Mobile: 91-9739095440				     
+Email: praveends2018@gmail.com                                                                                   
+
+
+		
+	Career Objective
+
+
+	
+To seek a position in data Analytics and Insights domain to extract, analyse, infer and report the data using Statistics/Python/SQL in business where I can utilize my professional skills to enhance my career and growth of the organization.
+			
+	Professional Summary
+
+
+
+· Over 7+ years of experience of in Data Analytics, Statistical Modelling and Machine Learning using Python, Excel and SQL with background from in IT industry.   
+· Strong knowledge in Statistics, EDA (Exploratory Data Analysis) and Machine Learning Models. 
+· Experience in writing programs in Python using different procedures, knowledge of statistics and Machine Learning.
+· Experience obtaining insights then choose appropriate Machine Learning algorithms like Linear, Logistic Regressions, Decision Tree and Random Forest.
+· Experience in Data Extraction and Data Manipulation from different sources.
+· Experience on explore, extract insights and find patterns from massive dataset of structured and unstructured data to solve business problems.
+· Proficient in building Predictive Models, Classification, Clustering/Segmentation for Supervised and Unsupervised models.
+· Experience in building the models for Customer segmentation and targeting, promotion effectiveness and churn prevention.
+· Experience in Time-series/panel data modelling and visualization.
+· Experience in Data Classification and Text Mining using Naive Bayes. 
+· Responsible for building end to end Machine Learning models, validation and deployment. 
+
+	Key Skills
+
+
+
+	Statistical Techniques
+	Descriptive Statistics, Hypothesis Testing, Linear Regression, Logistic Regression, K-Means Clustering, Segmentation, KNN Classification, Random Forest, Decision Trees, Market Basket Analysis, Text Mining,  Data Classification and Naïve Bayes, NLP(Natural Language Processing), Sentiment Analysis, Customer Analytics and Marketing Analytics.
+
+	Programming Language
+	Python
+
+	Visualization Tools
+	Python (Matplotlib, Plotly, Seaborn and ggPlot)
+
+	Databases
+	Oracle and MySQL
+
+
+
+	Work Experience
+
+
+
+Currently working as a Lead Technology with Synechron Technologies, Bangalore (Sep-2016 to till date).
+
+Worked as a Tech Lead with iGATE Global Solutions, Bangalore (Feb-2013 to Sep-2016).
+ 
+Worked as an Associate with First American (India) Pvt. Ltd., Bangalore (May-2011 to Jan-2013).
+
+	Educational Qualification
+
+
+
+ Bachelor of Technology (ECE) from Jawaharlal Nehru Technological University-Anathapur, A.P.
+
+	Project Experience
+
+
+
+Campaign Management			                          Algorithms: K-Means and Agglomerative
+
+Helped world’s largest retailer in identifying the drivers of sales during the promotional campaigns (Festive Seasons) and measured the Impact of seasonal campaigns and programs. Response Measurement was used to determine the Significance of the Campaigns and proactively was able to save 2 Million Dollars on Different Campaign Losses.
+
+· Created the base dataset from multiple data sources (transactional and customer data sources). 
+· Performed EDA, Outlier treatment, Null value treatments and created final analytical datasets.
+· Performed hypothesis testing, double differencing and test and control methodologies to measure the significance of the campaigns.
+· Measured the performance of the campaign across weeks and months and analyzed the trends. 
+
+Sales driver analysis		         		   	           Algorithms: Linear Regression and K-Fold
+
+Supported the operations team of largest retailer to identify the effectiveness of different store formats in pilot markets. 
+
+· Data pull from different tables from the data source as per the requirement.
+· Performed EDA, Outlier treatment, Null value treatments and created final datasets for analysis. 
+· Responsible for building the end to end linear model for sales driver analysis. 
+· Executed the linear regression algorithm using stat models, sklearn packages and interpreted the coefficients.
+· Based on the P Value, Created new Principal component to increase the models accuracy.
+· Identified the top 5 drivers and bottom 5 drivers for sales during the promotional campaigns.
+· Computed R2, Adj R2, RMSE, MAE, MSE and shared the results with relevant stakeholders.
+· Checked for Autocorrelation, multicollinearity, heteroskedasticity and variance inflation factor hence increased the accuracy by taking the feedback from these metrics.
+· Used K folded technique to compare the accuracies across the models and pushed the results of the best models.
+
+Loyalty Cards Subscriptions	   Algorithms: Decision Tree and Random forest and Linear Regression
+Helped fortune 500 retailers in building a brand by increasing the adoption of loyalty cards subscriptions.
+
+Responsibilities: 
+· Responsible for building the Linear Regression, Decision Tree and Random Forest algorithms.
+· Identified the drivers of loyalty card sales and loyalty card subscriptions. Also, quantified the impact of the drivers.
+·  Identified the churn rate of Loyalty customers and estimated the probability of the customers prescribing to the loyalty cards.
+· Used Random Forest to build the models and validated the models using KNN Classifier.
+· Produced confusion matrix, accuracy score and F1 score for the entire model and compared the accuracy across.
+
+Reducing customer attrition      	              Algorithms:  Logistic Regression, KNN Classifier, Random forest
+
+Executed multiple customers, market segmentation projects for largest retailer to help in defining the strategies.
+· Responsible for designing the business problem and identifying the factors that influence the problem using problem solving frameworks.
+· Responsible for designing test and train data sets from multiple resources and constructed the models using base line models (i.e. logistic) and validation models (i.e. KNN Classifier, Random forest) techniques.
+· Responsible for developing the model that will provide the probability and odds.
+· Analysed the classification report, accuracy score and ROC curve to gauge the performance of the models.
+· Identified the Sensitivity, Specificity, Prevalence and Precision for the models and communicated the KPIs to the stakeholders.
+· Increase the model accuracy by performing multicollinearity, variance inflation factor analysis. 
+· Used K folded technique to compare the accuracies across the models and pushed the results of the best models.
+
+NLP(Natural Language Processing) 				                           Algorithms: Naive Bayes
+
+Sentiment Analysis of social media campaign: Helped fortune 500 retail company in identifying the sentiment of social media campaigns during promotional and seasons cycles 
+1. Extracted the data from twitter API , Facebook  API and created base dataset  for sentiment analysis of social media posts
+2. Performed data cleansing operations using stop word removal, stemming , lemmatization methods 
+3. Evaluated sentiment analysis models using tf-Idf based forecasting, count vectorization, naive bayes algorithms
+4. Refresh the models as the campaigns calendars and informed the key messages to relevant stakeholders.

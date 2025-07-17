@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME 
+
+ 
+
+K.Surekha                                                                  Email: bh.surekha1@gmail.com  
+
+                                                            Mobile: 9701326821, 9700981841 
+
+ 
+
+ 
+
+Professional Summary: 
+
+ 
+
+ Having 2 years 4 months of IT experience in design and development of various Application 
+
+Systems for business solutions. 
+
+ Extensive design and programming experience using Java, Spring and Zkoss. 
+
+ Experience in banking domain. 
+
+ Strong Understanding of Object Oriented Analysis and Design. 
+
+ Exposure to Oracle and SQL Server. 
+
+ Willingness to learn new technologies and can adapt to new environment and culture. 
+
+ 
+
+Experience: 
+
+ 
+
+ Working as a Software Engineer for Pennant Technologies Pvt. Ltd, Hyderabad, India from 
+
+June 2015 to till date.   
+
+ 
+
+Educational Qualifications: 
+
+ 
+
+ Master of Computer Applications from Jawaharlal Nehru Technological University, Kakinada 
+
+in 2012. 
+
+ 
+
+Software Skills: 
+
+ 
+
+Java                  : J2SE, J2EE and Spring Framework. 
+
+IDE    :  Eclipse. 
+
+Server   :  Tomcat. 
+
+Web Technologies :  ZK Framework and HTML5. 
+
+Databases  :  SQL Server and Oracle. 
+
+Source Controls        :  Tortoise SVN. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Project Details: 
+
+ 
+
+Project #1  : Letzbank 
+
+Role                     : Developer 
+
+Duration  : Oct 2015 – June 2016 
+
+Environment & Tools : Jdk 1.7, Spring, ZK, Log4j, SVN, Maven. 
+
+ 
+
+We created a platform, where banks and non-banks display their products for our 
+
+customers to evaluate, check eligibility and apply online for loans. We don’t charge our customers 
+
+for our online loan services. 
+
+On letzbank platform you can apply for loans online to check eligibility Lowest Rate of 
+
+Interest, Nil foreclosure charges and personalized services. 
+
+ 
+
+Responsibilities: 
+
+ 
+
+ Managing development efforts across various modules 
+
+ Buildings rules and validate the rules. 
+
+ Preparing Unit Test cases for the Developed Features. 
+
+ Involved in Database operation using MS SQL Server 2008. 
+
+ Coordinating with QA team for the modules that we have worked on. 
+
+ 
+
+Project #2  : Bajaj Finance 
+
+Role                     : Developer 
+
+Duration  : July 2016 – April 2017 
+
+Environment & Tools : JDK 1.7,Spring, ZK, Log4j, SVN, Maven. 
+
+ 
+
+ Bajaj finance limited is the holding company for the businesses dealing with financial 
+
+services of the Bajaj group. It is a wealth advisory arm of the Bajaj finance limited. It is the 
+
+most non-bank in the country with 19 product lines across consumers commercial and SME 
+
+finance. 
+
+ Pennant Technologies Pvt ltd had gained this opportunity to customize and develop the 
+
+product suite for Bajaj. With this Pennant is starting its business in India market. 
+
+ Pennant’s product suite for Bajaj helps them manage the entire process of gathering 
+
+required customers information analyzing the credibility of the customer and let them avail a 
+
+loan. The loan life cycle can be handled in a hassle free manner. 
+
+ 
+
+Responsibilities 
+
+ 
+ Involved in the analysis, design, development and testing phases of Software 
+
+ Developed user interfaces using Zkoss and CSS 
+
+ Used Zkoss and Spring validation framework for performing front end validations 
+
+ Developed Controller part Using Spring MVC Module. 
+
+
+
+ 
+
+Project #3  : Dual Control   
+
+Role                     : Developer 
+
+Duration  : May 2017 – Till Date 
+
+Environment & Tools : Jdk 1.7, Spring, ZK, Log4j, SVN, Maven. 
+
+ 
+
+Bank’s core banking system doesn’t support dual control (authorization) for the daily 
+
+transactions initiated by the operations department. To achieve operational efficiency and control 
+
+risk, bank has decided to implement the Dual control for some of the critical transactions being 
+
+posted in Equation. Dual Control Application is a web based front end Application which will be 
+
+integrated with core banking system through IFX messages. 
+
+ 
+
+Responsibilities 
+
+ 
+
+ Involved in the analysis, design and development and testing phases of Software 
+
+Development Life Cycle (SDLC). 
+
+ Developed Data Access Object (DAO) which handles all database operation. 
+
+ Used Maker Checker work flow in implementation of each module. 
+
+ Coordinating with QA team for the modules that we have worked on. 
+
+ 
+
+ 
+
+

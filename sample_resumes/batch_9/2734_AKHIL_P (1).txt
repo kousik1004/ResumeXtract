@@ -1,0 +1,435 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curriculum Vitae
+AKHIL P
+
+Mobile: +91-9745060076
+
+
+
+
+
+
+
+
+              Email id: akhilpathirippilly@gmail.com
+                                                             PROFESSIONAL SUMMARY
+
+· Software Engineer with 6+Years of experience in Data Analytics and Data Engineering
+· Currently associated with Wipro Technologies Limited as Senior Project Engineer (Enterprise Data Integration Developer)
+· Proficient in ETL,DWH concepts,BI development and Big Data Analytics
+· Experience in Developing complex ETL solutions in Informatica Power Center integrating multiple data bases like Oracle(On-prem and Cloud), Teradata, IBM DB2 and flat file systems.
+
+· Worked on high volume data migrations on Oracle as well as IBM DB2.
+
+· Experienced in Developing Automated TDM solutions using  “SQL scripts integrating multiple databases using DB links in Oracle” as well as using Python and Informatica Power Ceneter
+· Experienced building   Automated file validations using  Python, Excel VBA 
+· Experienced in developing complex reporting SQL scripts for Tibco Spotfire reports.
+
+· Experienced in developing Automated Test data solutions on GCP (Google Cloud Platform) using Big Query. 
+
+· Experienced in building Data ingestion scripts from relation database to HDFS using Apache Sqoop
+· Experienced on building HQL scripts / spark sql scripts in HDFS platform
+
+· Having good knowledge and hands on experience on developing spark jobs using core-spark APIs and running the same code on multimode cluster in YARN mode
+
+· Having good knowledge as a beginner on reading webserver logs to HDFS using Flume 
+
+· Having good knowledge as beginner on Kafka Topics,producing messages to a Topic, Consuming messages from a Topic
+
+· Currently Exploring on integrating Kafka,Flume and spark to deal with streaming analytical problems.
+
+· Also Exploring and learning more on translating complex analysis problems into iterative or multi-stage Spark scripts,dealing with  larger data sets using Amazon's Elastic MapReduce service. And exploring in parallel more  core python APIs,shell scripts etc
+· Experience on working with CICD platforms such as Git and Jenkins 
+· I am an Active Member of Stackoverflow: https://stackoverflow.com/users/10118393/akhil-pathirippilly
+· I do write blogs.Please find it on : https://pathirippilly.blogspot.com/
+· One of my File validation Python script which can compare over  80 Million Data in-memory with in just a minute of time is available in below git hub repository of mine
+https://github.com/pathirippilly/Python/tree/master/File_Comparison/Using_Core_Python_APIs
+SKILL SET
+
+	Skill Set
+	Skill Level
+
+	SQL
+	Expert
+
+	Informatica Power Center(ETL)
+	Expert
+
+	Python(2.x and 3.x)
+	Expert
+
+	Oracle
+	Expert
+
+	Teradata
+	Advanced
+
+	IBM DB2
+	Advanced
+
+	MY SQL
+	Advanced
+
+	Hive
+	Advanced
+
+	Spark(1.6.3 and 2.3.1) with python
+	Intermediate
+
+	Sqoop
+	Intermediate
+
+	Core Java
+	Intermediate
+
+	Jenkins, Git Hub
+	Intermediate
+
+	Tibco Spotfire
+	Intermediate
+
+	Shel script automation
+	Beginner
+
+	Kafka,Flume and Streaming analytics
+	Beginner
+
+
+OS exposure : 
+
+· Derbian GNU Linux
+
+· Red Hat Linux,
+
+· Ubuntu
+
+· Windows 
+
+                                                                              EDUCATION
+· Master of  Technology  (Integrated M.Tech in Software Engineering) 2013-2106 BITS PILANI
+
+CAREER HIGHS
+
+
+Project 1: 
+Domain: Retail (PBM: Pharamacy Benefit Management)
+Team size: 4
+Duration: From NOVEMBER 2012 – MARCH 2013
+Employer: Wipro Technologies
+
+Project Description:
+Data Migration  Activities involves migration of production data between different prod environments, and between production and non-production environments.
+
+· Tools
+
+
+
+:
+Informatica  Power center
+
+· Database
+
+
+:
+Oracle 11g, Teradata
+· Methodology
+
+
+:
+ETL Operations, Oracle
+
+Roles and Responsibility
+· Work with Data Architect to Understand the Data Model
+· Create HLD and LLD
+· Create Source to Target Mapping Sheet
+· Create Mapping,Session and Workflow for each of the migration
+· Unit Testing
+· Prepare Migration template
+· Coordinate with ETL team for fixing the defects
+· Sanity check after QA migration
+Having Trained in Informatica Power center, I have taken care the responsibility of developing Informatica mappings/Workflows applying business logic on informatica level. Handled Initial load, incremental load, SCD scenarios and created UNIX shell scripts to run the Informatica workflows and controlling the ETL flow. Applied Data Masking on informatica level while migrating data to non-prod DBs  ensuring that  non-production environment does not contain any sensitive information, thus drastically reducing the data breach
+Project 2:
+Domain: Banking 
+Team size: 5
+Duration: From MARCH 2013 – SEPT 2013
+
+Employer: Wipro Technologies
+
+Project Description:
+ETL Development using Informatica Power Center
+
+· Tools
+
+
+
+:
+Informatica  Power center,DVO
+· Database
+
+
+:
+Oracle 11g
+
+· Methodology
+
+
+:
+ETL Operations, Oracle
+
+Roles and Responsibility
+
+ Worked as a shadow member directly from the practice team  and supported the ETL projects and ETL team contributing  solutions for some complex logic on data cleansing and extraction. Project was completely based on Oracle DBs (i.e, Source and target was Oracle Data base tables).
+Project 3:
+
+Domain: Internal Project
+Team size: 1
+Duration: From SEPT 2013 – JUN  2014
+Employer: Wipro Technologies
+
+· Tools and Languages
+
+:
+Informatica  Power center,DVO
+· Database
+
+
+:
+Oracle 11g,Terdata
+· Methodology
+
+
+:
+ETL Operations, Oracle, Unix shell scripting
+Roles and Responsibility
+
+From the practice side , I have worked for the digital team providing solutions to the data analytics related issues in different retail projects(for different retail client).we as a team had the responsibility of reaching to specific project team , understanding their data issues, designing and implementing solutions for the same. We have implemented  Solutions on Informatica PC , SQL as well as Informatica DVO
+Project 4:
+
+Domain: Retail
+Team size: 2
+Duration: From JUN  2014 to DEC 2017
+Employer: Wipro Technologies
+
+· Tools
+
+
+
+:
+Informatica  Power center,Tibco Spotfire
+
+· Database
+
+
+:
+Oracle 11g,Terdata,Oracle, IBM DB2,M S SQL server
+· Methodology
+
+
+:
+ETL Operations, SQL development for Reporting, Unix 
+                                                                            Shell scripting, Core Java for XML creation  ,
+
+                                                                            Python for data analysis        
+
+Project Description:
+
+Worked as a member of Data Migration, Development and Solution team           
+
+Roles and Responsibility
+
+ETL :
+· Work with Data Architect to Understand the Data Model
+· Create HLD and LLD
+· Create Source to Target Mapping Sheet
+· Create Mapping,Session and Workflow for each of the migration
+· Unit Testing
+· Prepare Migration template
+· Coordinate with ETL Testing team for fixing the defects
+· Sanity check after QA migration
+Reporting:
+
+· Work with Data Architect to Understand the Data Model
+· Create HLD and LLD
+· Prepare SQL script for implementing the KPI Calculations for report generation(Teradata SLVs as well as Oracle Mviews)
+· Unit Testing
+· Prepare Migration template
+· Coordinate with Report Testing team for fixing the defects
+· Sanity check after QA migration
+Major Report KPIs Worked on :
+1. Comp Sales LY
+
+2. Comp Sales LY vs TY
+
+3. Comp Sales Shifted vs Unshifted
+
+4. Comp EOH LY
+
+5. Comp EOH LY vs TY
+
+6. Comp EOH shifted vs unshifted
+
+Project 5:
+
+Domain: Retail
+Team size: 2
+Duration: From DEC  2017 to CURRENT
+Employer: Wipro Technologies
+
+· Tools
+
+
+
+:
+pyspark 1.6.3,Sqoop,Hive
+
+· Database
+
+
+:
+My SQL
+· Methodology
+
+
+:
+Big Data Analytics (ETL)
+
+Project Description:
+This is a POC project  and it involves 
+· Migration of Data from MY SQL Database to HDFS hive using Sqoop
+
+· Hive to Hive Table Migration using HQL scripts
+
+· Hive to Hive Table migrations as well as File to Hive table using Pyspark scripts
+
+Roles and Responsibility
+
+· Work with Data Architect to Understand the Data Model
+· Create HLD and LLD
+
+· Create Mapping sheet for MySQL to Hive Migration
+
+· Prepare Sqoop import scripts
+
+· Prepare ETL (map and reduce) scripts using pyspark 2.3.0 and Hive(HQL) 
+· Unit Test 
+
+· Migration to QA
+
+· Co-ordinate with QE teams for bug fixes
+CAREER LOWS
+Supported a Tibco Spotfire Development project for generating a visualization for  tracking  of all bugs, status and all QCoE QC activities requested by client. Source was QC backend DB which was MS SQL server. So we have migrated the required data for repoting to Oracle DB reserved for Spotfire Reporting. After created spotfire objects and successfully created Colorful Reports. But Parallelly Another team has proposed a model with Kibana tool which was a free ware and Client accepted the same.
+PERSONAL INFORMATION
+
+
+Name
+
+
+
+:
+Akhil P
+
+Father’s Name
+
+
+:
+Narayanan P B
+
+Date of Birth
+
+
+:
+02-04-1992
+
+Nationality
+
+
+:
+Indian
+
+Marital Status
+
+
+:
+Single
+
+Email ID
+
+
+
+:
+akhil.pathirippilly@gmail.com
+
+
+Contact No
+
+
+:
++91-9745060076,9840732339
+                  Languages Known
+
+
+:                English, Malayalam,Hindi,Tamil
+DECLARATION
+
+I hereby declare that all the information furnished above is true to the best of my knowledge. 
+Date:
+22/12/2018
+
+
+
+
+
+Place: Ernakulam.
+
+
+
+
+
+
+
+
+Akhil  P

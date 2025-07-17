@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABHIJITH M. K. 
+
+M.Tech. in Aeronautical Engineering 
+
+Email: abhijithmk@rocketmail.com 
+
+Contact No: +91 9916289118 
+
+ 
+
+QUALIFICATION 
+
+EXAMINATION INSTITUTION 
+BOARD / 
+
+UNIVERSITY 
+YEAR  
+
+CGPA / 
+
+% 
+
+M. Tech. 
+
+Aeronautical 
+
+Hindustan Institute Of 
+
+Technology And Science, 
+
+Chennai 
+
+Hindustan 
+
+University, Chennai 
+2013 9.06 
+
+B. E.  
+
+Aeronautical 
+
+Noorul Islam College Of 
+
+Engineering, Kumaracoil 
+
+Anna University Of 
+
+Technology, 
+
+Tirunelveli 
+
+2011 79 
+
+XII 
+Chinmaya Vidyalaya, 
+
+Kannur 
+CBSE 2007 70 
+
+X 
+Airport Senior Secondary 
+
+School, Calicut Airport 
+CBSE 2005 81 
+
+ 
+
+WORK EXPERIENCE 
+
+DURATION DESIGNATION ORGANISATION 
+
+April 21, 2016 - June 20, 2017 Project Assistant Level III CSIR-NAL Bangalore 
+
+Oct 05, 2015 - April 04, 2016 Project Scientist NALTECH, NAL Bangalore 
+
+Oct 17, 2014 - Sep 30, 2015 Project Assistant Level III CSIR-NAL Bangalore 
+
+ 
+
+Division  : Modeling and Identification Group, Flight Mechanics and Control Division. 
+
+Duration   : 2 Years & 7 months. 
+
+Project Details :1) Flight validation and update of Aero database using System Identification 
+
+   techniques for different variants of Light Combat Aircraft (LCA). 
+
+2) Stability and Control characterization of Mirage-2000 for Store clearance. 
+
+ 
+
+Responsibilities: 
+
+ 
+
+ Fixed-Wing Aircrafts 
+ 
+
+ Assisting Flight Monitoring and Envelope Expansion 
+
+ Design of pilot input commands for PID data gathering through simulation. 
+ Generation of Parameter Excursion Boundaries (PEBs) to assist real-time flight 
+
+monitoring for flight safety. 
+
+ Identification of the excursions adequacy in the flight parameters during real-
+time flight monitoring for PID test points. 
+
+ 
+
+ 
+
+mailto:abhijithmk@rocketmail.com
+
+
+ Flight Data Segmentation and Database Management 
+
+ Identification of the specific PID data segments in the flight data and 
+segmentation. 
+
+ Creation of a look-up database for the data segments to support the easily 
+fetching of segments at any point of time for any configuration or specific 
+
+conditions.  
+
+ 
+
+ Flight Path Reconstruction 
+ Accuracy of the identified model directly depends on the flight data.  
+ Estimation of the sensors’ systematic errors, which in turn, will be used for 
+
+sensor calibration. 
+
+ Flight parameters are reconstructed from the body acceleration and the angular 
+rates. 
+
+ Estimation Methods: Output Error Method, Extended Kalman Filter. 
+ 
+
+ Aerodynamic Database Validation and Update 
+
+ Update to the baseline aerodynamic database from flight data using incremental 
+delta model via Coefficient Level Matching approach. 
+
+ Validation of the updated aerodynamic database is carried out through closed-
+loop 6-DOF simulation. 
+
+ Estimation Method: Equation Error Method, Recursive Least Squares. 
+ 
+
+ Flight Performance Evaluation 
+
+ Estimation of drag polar from the flight data. 
+ Estimation of CD0. 
+
+ 
+
+ Rotary-Wing Aircrafts (Helicopters) 
+
+ Estimation of stability and control derivatives for Control LAW development. 
+
+ Time Domain Analysis 
+
+Rigid body and explicit models are implemented along with parameter 
+
+estimation technique (Output Error Method) to extract the stability and control 
+
+derivatives. 
+
+ Frequency Domain Analysis 
+
+Rigid body model is implemented in frequency domain using CIFER software, 
+
+Stability and Control derivatives are extracted. 
+
+ 
+
+SOFTWARES KNOWN 
+
+MATLAB-SIMULINK, ESTIMA, CIFER, FORTRAN, CATIA 
+
+AREAS OF INTEREST 
+System Identification, Parameter Estimation, Flight Mechanics, Aerodynamics. 
+
+ACADEMIC PROJECTS 
+
+M.Tech. 
+
+Title : Rigid body separation dynamics for Reusable Launch Vehicles. 
+
+Guide : Dr. D. Jeyakumar, Dy. P.D., RLV-TD Project, VSSC, Trivandrum. 
+
+
+
+ Separation dynamics simulator model is developed to ensure collision free 
+separation between the spent and functional stages for ISRO’s reusable launch 
+
+vehicle (RLV-TD) in MATLAB. 
+
+B.E. 
+
+Title : Design and analysis Of Chocked Nozzle for Supersonic Combustor Testing. 
+
+Guide : Dr. D. Rajamanohar, Dy. General Manager, HAT, LPSC, Mahendragiri. 
+
+ A chocked flow nozzle is designed and analysed to supply constant mass flow rate 
+to the air heater which provide supersonic conditions for the test in Scramjet 
+
+Propulsion Test Facility. 
+
+TRAINING PROGRAMS 
+ CATIA software at CADD centre, Tirur, March 2014. 
+
+ Industrial training at AIR INDIA, Chennai on Ground Power units, Air Conditioning 
+units and Air Starter units from 08/07/2010 to 14/07/2010. 
+
+ Passed Business English Certificate preliminary, Council of Europe Level B1, ESOL 
+Examinations, University of Cambridge. 
+
+EXTRA-CURRICULAR ACHIEVEMENTS 
+
+ Winner in light music and classical music competitions in the South &North Zone 
+CBSE Sahodaya cultural fest.  
+
+ Winner in painting competition conducted by Airport Authority of India, Calicut 
+Airport. 
+
+POSITION OF RESPONSIBILITIES 
+
+ Member of the college magazine committee. 
+
+ Organising member of National level technical symposium conducted by Dept. of 
+Aeronautical Engineering, Noorul Islam College of Engineering. 
+
+REFERENCES 
+
+1. Dr. D. Jeyakumar, Dy. Project Director, RLV-TD Project, Vikram Sarabhai Space 
+
+Centre (ISRO), Trivandrum (d_jeyakumar@vssc.gov.in / 9446763778).   
+
+2. Dr. Jatinder Singh, Head of the Division, Flight Mechanics and Control Division, 
+
+National Aerospace Laboratories, Bangalore, (jatin@nal.res.in / 9449428641).  
+
+mailto:d_jeyakumar@vssc.gov.in%20/
+mailto:jatin@nal.res.in
+

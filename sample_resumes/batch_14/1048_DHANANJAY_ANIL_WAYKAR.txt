@@ -1,0 +1,189 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	DHANANJAY ANIL WAYKAR
+Mobile: +91 8446880247
+E-Mail: dhananjaywaykar@gmail.com
+
+
+
+
+To work with a reputed organization that offers a motivating work culture and stimulates my creative instincts & also offers responsibilities & challenges.
+
+
+Professional Summary:
+· Total 5.8 Year of IT Experience in Technologies like in UNIX Shell Scripting, Oracle 11g DBA, Application support.
+· Have proven abilities and in depth understanding of all aspects of SDLC Processes.
+· Maintaining Unix Production and Development server daily and monthly basis (mount point cleaning, load checking in server, script backup, crontab and script).
+· Application Automation using Unix Shell Script.
+· Having good ITIL knowledge.
+· Good communication and presentation skills and ability to quickly adapt to the technical environment as a Team Member.
+· Good Analytical and strong Interpersonal and excellent Communication skills, ability to work in a team, ability to pick up new skills quickly.
+· Work as part of team to provide 24x7 Production Support when required. 
+Academic Background
+· 2011	Bachelor of Engineering in Electronics Engineering from University of Pune with 67.61%	
+· 2007	12th from Maharashtra Board with 56.33%	
+· 2005	10th from Maharashtra Board with 64.26%
+Professional Experience
+Working as a Production support Engineer / Software Engineer in HCL Technologies LTd. 
+(Mar, 2015 – Till Date).
+Software Technologies:-
+	Certification 		    :         	Oracle Certified Associate (OCA)  -10g
+					Oracle Database SQL Certified Expert -10g
+Languages 	     	   :	SHELL Scripting,PL/SQL.
+Operating systems	   : 	Sun Solaris UNIX, IBM AIX, LINUX, Window 98.
+Database		   : 	Oracle 10g/11g., Sybase
+Tools		  	   : 	Lotus notes, Telnet, SqlDbx, SQL Developer, Control-M(6.4.01, 8.0.00), 				Geneos, Service Now, Putty, SSH, Putty, BMC Remedy, 					               SQL*Loader, Export/Import, MSTSC, OEM. 
+Backup & Recovery	  : 	RMAN, EXPDP,Cold and Hot Backup
+Project#1 :  Global Equity & Derivatives
+Client			: Deutsche Bank AG.
+Organization		: HCL Technologies Ltd.
+Project Type		: Production Support
+Business Unit 		: Investment Banking ( Deutsche Banking - Client Location)
+Team Size		: 24
+Environment		: UNIX, Sybase, Oracle 11.0.2.4
+Duration		: Mar-2015 – Till Date
+
+Project Description:
+	The GED project is the part of Investment banking trading platform of Deutsche Bank AG. This project works on throughout the trading life cycle from booking of the trade till report generation for US, UK & Asia region. Which capture the Market data from different sources like Reuters and Mercury and process the trade data to analyse the risk and calculate the Profit and Loss report.
+
+1. Health Check:
+Perform daily SOD (Start of the Day) checks for all business related Applications with Putty/Web URL/Geneos Monitoring tool, etc.
+2. Batch Activities:
+Monitor and generate all EOD (End of the Day) Reports like PnL (Profit and Loss), Risk, etc.
+3. Monitoring:
+Control-M: Job monitoring/Scheduling tool and used for monitoring jobs which are scheduled to generate different reports. Also perform resolution steps if the fails in any case using putty and ITRS-Genoes:
+ITRS-Geneos: Infrastructure monitoring tool and used to monitoring servers and processes movement and also used to check disk spaces, process status, database status, services status (ILS/IIS/IDS/IPS) etc. Perform resolution steps to reduce disk space, brining processes/probes up (which are down and should be up), using putty and Control-M.
+4. ADMIN Activities: Give access and amend accounts of global users for different application used in project.
+
+Roles and Responsibilities:
+· Working over very time critical with highly narrow SLAs issues keeping any kind of loss to minimal.
+· Worked with several senior executives in order to make our BAU more effective and productive.
+· Worked as a joining link between the Application Owners and Downstream teams
+· Involving in Releases/Back out/Weekend/DR test plans and co-ordinate with respective teams. 
+· Working on Automation and Process Improvement reducing manual efforts and human errors.
+· Batch jobs monitoring, analysing any batch failures in detail, taking necessary actions to resolve any batch failures.
+· Investigate the Windows server and UNIX server issue and take necessary action.
+· Profit & Loss (P&L) creates a summary of daily trading (position) and resultant P&L on Fixed Income and Equity securities traded by Wachovia Securities.
+· Handling risk engine SOD, EOD and Intraday batches.
+· Monitoring Disk space alert & maintaining them to below threshold level.
+· Been appointed as Shift Lead within the first 8 months of joining.
+· Mentoring new members of team with the required skills and expertise of system.
+
+Incident and Problem Management: 
+· Awareness of the incident management process. 
+· Contribute in all phases of incident and problem reporting including identification, Categorization and impact assessment. 
+· Communicate all incidents affecting production site using Call Bridge/ bulletins. 
+· Monitor and route incoming incidents and problems internally for effective resolution. 
+· Identify trends within incident data that might indicate the existence of underlying problems and escalate for development fixes. 
+· Perform the Problem Management function from end-to-end with a focus on improving and maintaining application stability
+
+Project#2 :  Residential Mortgage Backed Security 
+Client			: Deutsche Bank AG.
+Organization		: HCL Technologies Ltd.
+Project Type		: Production Support
+Team Size		: 8
+Environment		: UNIX, Sybase, Oracle 11.0.2.4
+Duration		: Mar-2015 – Till Date
+
+Project Description:
+RMBS is an application which generates reports based upon daily trading has been done. It generally deals with housing loans and Mortgages.
+
+	Roles and Responsibilities:
+· Monitoring, holding and retrying the jobs in Control –M.
+· Responsible to prepare KCS to make better understanding of BoW.
+· Responsible for daily production support activities.
+· Monitoring the Hawk Page.
+· Resolving the issues as per SLA.
+· Handing over the outstanding issues to the primary of the next shift.
+· Doing appropriate escalation based on criticality and feasibility.
+
+Project#1 :  Suzlon Monitoring Centre
+Client			: Suzlon Energy Ltd.
+Organization		: Suzlon Energy Ltd.
+Project Type		: Production & Technical Support
+Team Size		: 15
+Environment		: Windows, UNIX, Oracle 11.0.2.4
+Duration		: NOV-2011 – March-2015
+Roles and Responsibilities:
+· Generating of various reports as per customer requirements (by using SCADA software, Alarm Explore).  
+· Providing technical supports to operation team to solve the critical errors.
+· Continuance monitoring & controlling parameters through the SCADA application {developed by Suzlon Control System).
+· Good Knowledge of  Oracle Architecture, Oracle Database Creation
+· Performing operation such as DML, DDL, DCL, and TCL.
+· Developed management reports in SQL.
+· Handle changes required in the process.
+· Requirement Analysis and interaction with Business.
+· Monitoring & Managing Table spaces, Data files, Redo Logs, Tables and its Segments
+· Managing Profiles, Resources and Password Security
+· Using EXPORT, IMPORT and LOAD utilities, moving data between tables and output file REORG TABLES, RUNSTATES for tables wherever necessary. 
+· Monitoring Alert logs for any errors, CPU and Memory utilization.
+· Analyse OEM reports and Health check reports.
+· Planning and scheduling Backups, Database Recovery, taking Logical Backups & Physical Backups.
+· Planning Backup/Restoration Strategy for 24x7 operation support & Application support.
+· Project Planning of technology refresh and capacity upgrade of application.
+· Sizing on new project and enhancement of storage, CPU , Memory in case of capacity crunch.
+· RMAN backups to recover data loss and to perform recovery in Oracle Database
+	Personal Information
+ 
+ Date of Birth			:	27th February 1990
+ Gender	 		:	Male
+ 	 Marital Status	 		:	Unmarried
+ Nationality	 		:    	Indian
+Languages Known		:	English, Hindi and Marathi
+Address			:	At Post-Ghodegaon, Tal. – Ambegaon, 412408, Pune
+               Hobbies	 		:    	Listening Music, Swimming
+	Declaration 
+
+	I, Dhananjay Waykar do hereby declare that the information given above profile is true and correct to best of my knowledge.		
+Place: Pune							                	      Signature,
+										Dhananjay Waykar

@@ -1,0 +1,317 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GANESH YAMAGANI
+
+Nisha Kumari
+Senior AEM Developer
++918971989571
+Nishasingh643@gmail.com
+SUMMARY
+
+· Total 4 years of IT Industry Experience .especially have 2.8 years of  experience in JAVA and AEM.
+
+· Extensive development, maintenance experience in Web Applications.
+· Experience in CQ5/6, AEM Forms, Core Java.
+· Sound knowledge on jQuery and front end technologies.
+· Worked on agile methodology of web development by leveraging JIRA.
+
+· Experience in web development lifecycle, unit testing and Documentation.
+· Self Starter, Self Motivated & Quick Learner.
+
+· Good Team Player and an Individual Contributor.
+· An effective leader/mentor and communicator with strong analytical, problem solving & organizational abilities. Possess a flexible & solution oriented attitude.
+EDUCATIONAL QUALIFICATIONS  
+· B.Tech completed from Koustuv group Bhubaneswar in 2013 with CGPA of 7.5.
+· XII   completed from dav nit(C.B.S.E) with 85 %.
+· X completed from st. marrys jsr (Jharkhand board) with 80%.
+SKILL SET
+	Operating Systems
+	Windows, Linux
+
+	Languages
+	JAVA,sightly
+
+	        Technologies
+	 AEM, Java,Jsp, AJAX ,html
+
+	Web Technologies
+	CSS, Java Script, HTML.
+
+	Databases
+	       MYSQL 5.0
+
+	IDEs
+	Eclipse, CRXDE.
+
+	Testing
+	Unit Testing
+
+	Documentation
+	Authoring guide for authors
+
+	CMS Tool
+	CQ 5.6.1, AEM 6.0
+
+	Build & Quality Tool
+	Maven
+
+
+WORK EXPERIENCE
+
+	Experience
+	Name of The Organization
+	Duration
+
+	1
+	IBM INDIA, Bangalore
+	Aug 2016-Present
+
+	2
+	Capgemini, Bangalore
+	Feb 2014-Aug 2016
+
+
+PROJECT PROFILE
+Designation: Senior Software Engineer,
+
+
+
+
+               
+
+IBM, Hyderabad.                         
+ 
+
+Project:  Australia Advisory portal[Desktop, Mobile]
+
+Client:  MetLife US
+Duration: Sept 2017 to Till Date
+
+Team Size: 3
+Environment: java, JSP, HTML, CSS, Adobe CQ5.
+
+Domain: Metlife
+Description:
+The MetLife Corporation provides life, accident and health insurance, retirement and savings products through agents, third-party distributors such as banks and brokers, and direct marketing channels. This project is basically providing content/pages which are being consumed as json by other application made on advance ui framework like angular js.  
+
+Roles and Responsibilities:
+· Created Custom Components and extended OOTB Image , image and text , Carousel, list  , column control and page components.
+
+· Involvement in creating the templates,  clientlibs and  DAM as per requirements.
+
+· Analyzed server run modes and provided config node for domain urls. 
+
+· Created services, page services in OSGi. 
+Designation: Senior Software Engineer,
+
+
+
+
+               
+
+IBM, Bangalore.                         
+ 
+
+Project:  MetLife-Refresh-Tradion
+Client:  MetLife US
+Duration: June 2017 to Sept 2017
+Team Size: 15
+Environment: java, JSP, HTML, CSS, Adobe CQ5.
+
+Domain: MetLife
+Description:
+The MetLife Corporation provides life, accident and health insurance, retirement and savings products through agents, third-party distributors such as banks and brokers, and direct marketing channels. This project is basically a migration project from crown peak application to Adobe CQ (AEM). 
+
+Roles and Responsibilities:
+· Created high complexity key components like banner and fat footer.
+· Implemented Global implementation of header, footer.
+· Involvement into requirement gathering.
+
+· Prepared content author model (design) for components, templates, dam structure, site structure etc.
+
+· Communicate all the stakeholders and various teams.
+
+· Prepared Technical Design Documents.
+
+· Integrate all modules for this application and Checked-in and Checked-out in bid bucket.
+· Service configuration from Console.
+
+· Maven Build by Maven and deployed the code and content packages into SIT and UAT.
+
+· Prepared etc/mapping package for UAT and Production.
+
+· Involvement in creating the templates, client libs and DAM as per requirements.
+
+Designation: Senior Software engineer,
+
+
+
+
+               
+
+IBM India, Bangalore.                         
+ 
+
+Project:  MetLife-Refresh
+Client:  MetLife, US 
+Duration: Jan 2017 to May 2017
+Team Size: 14
+Environment: java, JSP, HTML, CSS, Adobe CQ6.
+
+Domain: MetLife solutions
+Description:
+The MetLife-Refresh sites is basically a platform/web application which helps customers to  pay your bill, print certificate for insurance discount, savings and investment plans for future, manage recurring payments. We migrated existing crown peak site pages to AEM site.
+Roles and Responsibilities:
+· Implemented custom AEM pdf listing using query builder.
+
+· Involvement into design discussions, approach and requirement gathering.
+
+· Prepared content author model (design) for components, templates, dam structure, site structure etc.
+
+· Integrate all modules for this application and Checked-in and Checked-out in Bidbucket.
+
+· Created templates, components, services and integrated AEM pages with iframe.
+· Maven Build by Maven and deployed the code and content packages into SIT and UAT.
+Designation: Senior Software engineer,
+
+
+
+
+               
+
+IBM India, Bangalore.                         
+ 
+
+Project:  AIA
+Client:  AIA Singapore
+Role: Developer
+Duration: Aug 2016 to Dec 2016
+Team Size: 15
+Environment: java, JSP, HTML, CSS,Adobe CQ6.
+
+Domain: AIA Singapore
+Description:
+AIA Singapore Private Limited provides life insurance plans and financial solutions. It offers protection, saving, investment, retirement, and wealth management products for individuals. The company also provides employee benefits and credit insurance for business.  This project is basically a project for replacing the old manual process of filling any form using digital AEM forms.
+Roles and Responsibilities:
+· Developed components, templates, OSGI Component, OSGI Services, sling filter and performance tuning.
+
+· Configured new domains URL based on run modes.
+· Deep involvement into requirement gathering and design discussions.
+· Worked on BCD for Client visibility.
+
+· Worked on various documents like BRD, Technical design document, content authoring guide, Decks and Metrices.
+
+· Involved in Requirement gathering and has been communicating with all the stakeholders and various teams.
+
+· Involvement in designing the templates, clientlibs and DAM as per requirements.
+· Worked for few UI issues and fixed few defects as well.
+
+Designation: Software Engineer,
+
+
+
+
+               
+
+Capgemini, Bangalore.                         
+ 
+
+Project:  Seven Seas
+Client:  Consumer Health
+Duration: March -2016 to Aug -2016
+Team Size: 6
+
+Environment: Java, J2EE,JSP, HTML, CSS,Eclipse, Adobe CQ5.
+Domain: Health Group
+Description:
+Seven Seas is basically a website which provides the best possible shoping experience for individuals who desire to buy vitamins, minerals and supplements in the United Kingdom and abroad. This website also lined with social network like facebook, twitter and linkedin.
+Roles and Responsibilities:
+· Involvement into requirement gathering.
+
+· Prepared design documents and estimation.
+· Worked on rotating banner.
+· Integrate all modules for this application and Checked-in and Checked-out in Git Hub.
+· Created workflow for user groups.
+
+· Maven Build by Maven and deployed the code and content packages into SIT and UAT.
+
+· Created templates 
+
+Designation: Software Engineer,
+
+
+
+
+               
+
+Capgemini,Bangalore                         
+ 
+
+Project:  Microsoft Patent Analysis & Categorization Automation Tool
+Client:  Microsoft Patent Analysis & Categorization Automation Tool
+Duration: Aug-2015 to March -2016
+Team Size:10
+Environment: Java, J2EE,JSP, HTML, CSS Adobe CQ5.
+
+Description: 
+The objective of this project was to provide technical consultation related to protection of client's Intellectual Property (IP). The project involved infringement analysis of competitor products with respect to the client’s patented invention. Besides, an automation tool was developed to automate the patent categorization job.
+Roles and Responsibilities:
+
+· Involvement into requirement gathering.
+
+· Created custom components and templates.
+· Prepared design documents.
+
+· Involvement in defect fixes.
+
+· Worked on social media and modules.
+
+· Worked on third party integration.
+
+· Integrate all modules for this application and Checked-in/out intoGitHub.
+
+· Prepared etc/mapping package for UAT and Production.
+
+· Add new functionality as per requirement
+
+· Enhanced components and created header and footer components.

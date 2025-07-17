@@ -1,0 +1,142 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USER
+
+SAHIL MATTOO 
+
+
+PGP – BABI – Great Lakes Institute of Management
+Contact No.: (+91) 9620202750
+E-Mail: mattoo.sahil@gmail.com
+Senior Professional- Data Scientist | Delivery Management | Automation Testing
+Excellent Analytical skills with great understanding of Machine Learning Algorithms and Statistical Modeling; capability to work on multiple projects simultaneously and retained skilled resources by instilling leadership in them and provide guidance to junior resources to help them grow 
+
+	PROFILE SUMMARY 
+
+
+· Led Analytics Project within IBM and as part of Cognitive Garage
+· To reduce the defect life cycle – using Descriptive Analytics
+· RCA Prediction for defects – Clustering, NLP, R, Random Forest
+· Stock Market Prediction at Great Lakes using Statistical Modeling and Machine Learning.
+
+· Strong Knowledge on Data Preprocessing, Imputing Variables, Dimensionality Reduction, Feature Engineering, CART, NLP, Neural Network, Regression and Classification Techniques of Machine Learning with R and  Python using Keras and H2O
+
+· Over 10 years in Program/Project/Product Management with expertise in deploying modern technologies automation, automation tool development & support  in Telecom and Media & Entertainment industry
+
+
+
+	CORE COMPETENCIES 
+
+· Data Scientist
+· Machine Learning 
+· Statistical Modeling
+· Delivery Management
+· Client Engagement
+· Automation Testing
+· End-to-End Implementations
+
+
+ANALYTICS PORTFOLIO
+
+IBM
+· RCA defect prediction based upon Defect description using NLP and model was trained using Machine Learning 
+RC applications were first clustered into groups, and Defect description was Tokenised using BagOfWords to form a TDM Corpus which was processed using Tidy Text and then using, Sparse Matrix, the TDM was created which was modelled using Random Forest. Gini Index was used to feature engineer the top 50 influencing tokens to predict RC application – On Going
+· Analysis on Reducing the Defect Life Cycle to minimize the man hours efforts
+Text Analytics performed on the comments provided the insight on the frequent stage where defect has spent maximum number of days. Applied Paired T-Tests (ANOVA) to understand the mean number of days defect spend in each phase to determine the Null Hypothesis. 
+
+Great Lakes Institute of Management
+· CAPSTONE - Statistical model build on the technical indicators like Trend, Volatility, Volumetric & Momentum for Indian Stock market using ARIMA Time Series Technique for forecasting the stock price and Random Forest to train the model to predict the next 20 days. Used 10-FOLD Cross Validations to assess overfitting.
+· Comparative analysis for various Machine Learning techniques like ANN, KNN, SVM & Ensemble for the Prediction of choice of Transport for company employee. Used AIC and BIC Statistical benchmark to access the model, applied regularization technique, Lasso to access the impact of coefficients. 
+· Using ANN to analyze the Churn Model for the Banking Segment using H2O in R
+· Convolutional Neural Network (CNN) to classify the images using Keras in Google Collaboratory (Python)
+· Market Basket Analysis on grocery receipts using Apriori and Eclat Association Rules and provide the recommendation for the Food Store. 
+· Investigate the factors for Employee Attrition using Neural Network and CART, an Ensemble Model was created that identified the cause of employee attrition.
+· Built a model based on Discriminant Analysis to predict whether a customer will purchase a book or not based on past e-mail campaign response data. The Result were assessed based upon the loss function computed specific to the sale price of the books.
+· Applied Dimensionality Reduction using PCA and FA on the Top 100 US cereal brands to identify the key brand parameter. Used Scree Plot, Communality, Factor scores and Rotations.
+
+Descriptive Analytics 
+· Regions prone for Crimes committed in India
+· Relation between Inflation, Crude Oil, Dollar and Fiscal Deficit
+ORGANIZATIONAL EXPERIENCE
+
+
+IBM, Bangalore 										Since Oct'10
+· Led Data Analytics Projects and worked with Cognitive Garage Team for building Analytical Tools
+· Managed End to End Deliverables for multiple projects as Test Automation Manager and Program Test Manager
+· Defined and implemented the Key Performance Indicators (KPIs) of the Testing Team within the organization; supervised a group of Project Managers, Test Managers and Test Leads
+· Established Defect Management guidelines and enforced Standard Test Processes and Deliverables including Quality Metrics MTTR (Mean time to Repair), DRB, Quarterly defect density which reduced the Defects density per allocated FTP by 50% in span of 1 year (4 Releases)
+
+
+PREVIOUS EXPERIENCES
+
+First Advantage, Bangalore as Developer & Tester 						Nov’08- Sep’10
+PIIT College of Engineering, Mumbai as Asst. Lecturer	 					Nov'07-Oct'08	
+
+EDUCATION
+
+· PGP in Business Analytics & Business Intelligence from Great Lakes Chennai (2017-2018)
+· Bachelor of Engineering (Computer Science) from Mumbai University (2007) 
+
+ePortfolio
+
+· https://eportfolio.greatlearning.in/sahil-mattoo
+· https://github.com/sahilmattoo
+
+CERTIFICATIONS
+
+· Certified Scrum Master
+· ITIL v3 foundation
+
+PERSONAL DETAILS
+
+Date of Birth: 		19th April 1986
+Languages Known: 	English, Hindi, Kashmiri
+Address: 		4005, Sobha Amethyst, Kannamangala, Kadugodi, Bangalore 56006

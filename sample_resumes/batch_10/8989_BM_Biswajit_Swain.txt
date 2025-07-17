@@ -1,0 +1,363 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BM Biswajit Swain                  
+
+Redhat certified Associate                 
+
+
+ Mob :+91 7276704067  
+
+                                                        
+Email Id : bmbiswajit.swain@gmail.com
+SUMMARY
+
+1 Having relevant experience of 5 years 1 month, 1.7 years working as Technology Analyst in Infosys Ltd, successfully completed the transition of Equities Derivatives domain project for client HSBC,Paris(travelling to Client location HSBC Paris,France) and past experience of 3.6 years as Software Engineer in Tech Mahindra Pvt Ltd including 1 year onshore work experience at London,United Kingdom working with Client and third party vendors including Huawei and ECI as IT consultant. 
+
+2 Expertise in Linux, Unix, Solaris, Shell scripting, WLST(WebLogic scripting tool),SQL,controlM.
+
+3 Completed certifications of RHCSA and RHEL, have also relevant experience in the same field.
+
+4 Work experience in Oracle WebLogic, OSM and Oracle cluster database.
+
+5
+Bachelors in Electrical and Electronics Engineering.
+
+TECHNICAL SKILLS
+
+1 Platform
+
+
+       :  Linux, UNIX ,Red hat, windows
+2 Programming Languages
+       :  Shell scripting, awk scripting and WLST,SQL. 
+                                               
+
+3 Tools/
+
+
+                    :  Oracle WebLogic Server, Oracle OSM middleware
+
+
+
+
+
+, IBM MQ, AMDOCS Bridge 
+
+
+
+
+
+
+Clarify,GSD,HPSM,ControlM,Geneos
+4 Database
+                                 :  Oracle 11G.
+
+5 Technology
+                                 : Unix and middleware COTS  products,Windows
+6 Professional Certifications :             : Red Hat Enterprise Linux 6
+
+7 Domain
+
+
+      : Telecom(TechMahindra, Client: British 
+
+
+
+
+
+
+
+Telecommunication),Investment 
+
+
+
+
+
+
+
+Banking(Infosys, Client: HSBC)
+
+        Redhat Certified Engineer 
+
+
+CERTIFICATE NUMBER: 140-078-296
+
+        Redhat Certified System Administrator 
+
+
+CERTIFICATE NUMBER: 140-078-296
+
+WORK EXPERIENCE
+
+Designation : Technology Analyst
+
+Work Experience : 12th October-2015 to till date ( 1.7 yrs  )
+Infosys Ltd.
+
+Client : HSBC,Paris & Hong Kong
+
+Project Background: SED (Structured Equities and Derivatives)
+
+The SED domain of HSBC was initially being handled by multiple teams across the globe like Hong Kong, Guangzhou(China) , Paris, London, New York(USA). I was successfully part of the transition of the project from HSBC onshore clients to Infosys Ltd,India and stabilized the same. As a part of this transition process have worked closely with the client at Paris, completed the KT process from Client and then to the Team, introduced new work methods while modified the existing processes, thereby enhancing the project.
+
+SED is the Structered Equities Derivatives domain of HSBC i.e. all products of HSBC related to Equities and Derivatives are booked via a common Tool called Sophis(Misys Product) and then there are batch jobs run on three cut-offs HBAP(after Asian Market closes) , HBEU( after European Market closes), HBUS(after US market closes) which forecast the prices by varying the Greeks and then claculate the associated PnL values. These values are then saved in reports and everyday there are approximately 32K reports produced which are used by Business(Structurers,Traders,Sales) for deciding their course of action on the following day for the clients of HSBC. Sometmes these reports can be used in an n-dimensional way meaning these reports were loaded into an application FORCE which used OLA-Cube concept where the Business had privilege to vary more than one greeks and estimate the PnL values.
+
+Roles & Responsibilities:
+1 Trouble shooting issues with Sophis Tool for trades,Deals,Instruments.
+
+2 Automating statistical Reports
+
+3 Developing Housekeeping Scripts
+
+4 2nd line support operations like handling Incidents, Service request, Identifying important defects and raising Problem Request, and implementing the Fixes by Change Request. 
+
+Database   :    Oracle 11 G.
+
+Language  :    Linux Shell Scripting,SQL
+
+Tools      
+:  IBM Websphere Application Server,ControlM, GSD, Sophis(Investment 
+
+
+Banking Tool), Geneos
+
+Designation : Software Engineer, Linux Production Support
+
+Work Experience : 30th  March-2012 to 1st October-2015-2015 ( 3.6 yrs  )
+Tech Mahindra Ltd.
+
+Client : British Telecommunications (BT) United Kingdom
+
+Project Background: DMPAL (Domain Management Platform activation Layer)
+
+Domain Activator is a new programme within Domain Management platform, intended to bring together the strategic DMP DAALIs(Domain Assignment Activation and Logical Inventory) in a virtualised environment and provide a single entry point into the platform through a Platform Access Layer(PAL) which exposes standard DMP capabilities for external platforms to consume. This aligns with the strategic initiatives to achieve full SDK, Rule of One, Systems/Interface Rationalisation among others. The Domain Management (DM) Platform provides the management of legacy and strategic network domains, removing complexities and providing layer of abstraction between the network and north-bound OSS, and enabling activation, discovery, and restoration of network-based services. DM-PAL will be intelligent message router to abstract the systems in DMP, remove point-to point interfaces between platforms and will support multiple capabilities (MDA 2.0 / 4.0, Bespoke) for routing.
+
+Roles & Responsibilities:
+1 Code Development for automation tools.
+
+2 Automating statistical Reports
+
+3 Developing Housekeeping Scripts
+
+4 2nd line support operations like handling Incidents, Service request, Identifying important defects and raising Problem Request, and implementing the Fixes by Change Request. 
+
+Database   :    Oracle 11 G.
+
+Language  :    Linux Shell Scripting and Python scripting, WLST
+
+Tools       :   Oracle Weblogic Server, OSM , Java Stubs(occasionally).
+
+Project Background: V21 (Activation And Provisioning)
+
+V21 is an activation system under Domain Management Platform which performs activation on Network Equipments for different services offered by BT Wholesale Systems.
+For any activation, V21 receives a request in form of an XML from Upstream Systems (from P&B, SFW or T2R platform) which is complaint to strategic MDA (Managed Domain Activation) capability.
+V21 process this XML request and decides what all network devices need to be activated for the particular request based on the data in the request XML and the data of Network Elements stored in its Database.
+Based on the APIs exposed by EMS (Element Manager System) of a particular Vendor, V21 creates appropriate Activation Request XML(s) and send it to EMS.
+Based on the response received from EMS for the Activation Request (Success or Failure), V21 sends the appropriate response back to the Upstream system.
+Roles & Responsibilities:
+1 Code Development for automation tools.
+
+6
+Automating statistical Reports
+
+7
+Developing Housekeeping Scripts
+
+8
+2nd line support operations 
+
+Database   :    Oracle 11 G.
+
+Language  :    Linux Shell Scripting and Python scripting
+
+Tools       :   Oracle WebLogic Server, OSM.
+
+Project Background: NuNCAS (New Network capacity activation system)
+
+      NCAS provides the capacity calculations to determine if access capacity exists in the network to support ADSL Broadband connectivity. NCAS supports the following functions: - 1. Service Profile Definition - including connections within the ADSL network, connections within the core network, association of core connection groupings with the relevant MUX. 2. View ADSL model - using object attributes. 3. Audit ADSL Network 4. Capacity Thresholding 5. List incomplete Service Provisions 6. Report Planning Failure Exceptions 7. Support for automated core VP build 8. Configure Service on request from SSD NOTE: The two ADSL Element Managers (ADSLEMs), the Fujitsu FENS-AN and the Alcatel AWS, manage all aspects of the ADSL equipment. Both Element Managers support the building of planned equipment. The EM will auto-discover equipment when installed and download the appropriate configuration data to the network elements. The ADSLEMs will also support capacity management activities. They hold the data that will be required to monitor capacity utilisation and this information is passed to NCASenough for the technology to work.
+
+Roles & Responsibilities:
+1.
+Automating statistical Reports
+
+2.
+Developing Housekeeping Scripts
+
+3.
+2nd line support operations 
+
+Database   :   Oracle 11 G.
+
+Language  :   HP TEMIP Framework, SQL.
+
+Tools       :  Web server
+
+Linux Skill set:
+
+1)
+User Account management
+
+2)
+LVM and disk management,swap management.
+
+3)
+Configure web servers,diagnosis and monitoring performance issues.
+
+4)
+Managing NFS and NIS server.
+
+5)
+Networking and IP configurations and trouble shooting.
+
+EDUCATIONAL QUALIFICATION
+
+	Examination
+
+	Month & Year of Passing
+	Board/University
+	Percentage
+
+	BTech.(Electrical and Electronics  Engineering)
+	June-  2011
+	BPUT(Biju Patnaik University of Technology)
+	      76.4 %
+
+	H.S.C.
+	March-2007
+	CHSE (Council of Higher Secondary Education)
+	      81.18%
+
+	S.S.C
+	March-2005
+	ICSE(Indian Certificate of secondary education)
+	      86.20 %
+
+
+ACHIEVEMENTS/CERTIFICATIONS
+
+1 Received "Blue Ribbon" Award from British Telecommunications for developing Self-Serve Logs Fetcher Tool.
+
+2 Received �Pat On Back� Award as appreciation for the reduction of manual efforts by automating tasks by writing various ad-hoc scripts proactively.
+
+3 Working in close interaction with client at UK(London) and receiving many applauds and e-cards.
+
+PERSONAL INFORMATION
+
+1 Father    Name
+
+
+:
+
+Madhu Sudan Swain
+
+2 Mother  Name
+
+
+:                
+Binodini Nayak
+
+3 Date of Birth
+
+
+:
+
+01/01/1990
+
+4 Nationality
+
+
+:
+
+Indian
+
+5 Languages Known
+
+:
+
+English, Hindi, Oriya
+
+6 Gender
+
+
+
+:
+
+Male
+
+7 Marital Status
+
+
+:
+
+Unmarried
+
+8 Religion
+
+        
+:
+        
+Hindu
+
+
+
+
+
+
+
+
+
+Date:                                                                                                                 
+
+
+
+
+
+
+
+BM Biswajit Swain      
+

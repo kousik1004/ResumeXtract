@@ -1,0 +1,214 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAP BI consultant having total 8 years of IT experience, out of which 3 (three) years of experience in SAP Business Intelligen
+
+Paryank Shah
+Sr. SAP BI Developer
+D 803 Swapneel Elysium, Opp. SOBO Centre,
+South Bopal, Ahmedabad - 380058
+Cell # 98240 29302
+
+SAP BI consultant having total 10 years of IT experience, over 10 year of experience in SAP BI/BW with BOBJ and over 3 years of ABAP programming with a focus on the Finance, CPG and Pharmaceutical industries. 
+
+SUMMERY
+· Hands-on expertise in all phases of SAP BW/BI HANA project lifecycles including Analysis, Architecture, Design, Development, Data Extraction, Staging and Storage, Transformation, Presentation, Testing, Cutover/Go-Live Planning, User Training, Knowledge Transfer, Deployment, Production Support, Change Control, and Change Management.
+· Experienced in BW/BI implementation (ASAP/WRICEF methodology) including Enterprise Data Warehouse (EDW), Data Modeling with Key Performance Indicators (KPI Matrix), ETL & Reporting
+· Experience End-to-End techno-functional architecture/implementation/ development/support experience in SAP BW/BI with excellent understanding of OLAP, BI Architecture, BI Server, Business Intelligence and Data Warehousing Concepts.
+· Used several OBI reporting features (Navigational, Drill Down, Drill Across, Guided Navigation, Security etc).
+· Extensive experience in building Interactive Dashboards with drill-down & drill-across capabilities, using global & local Filters and Guided Navigation as part of Business Analytics solution
+· Experienced in Data Modeling using Dimensional Data Modeling, Star Schema modeling, Fact and Dimensions tables including Physical, Logical data modeling 
+· Work directly with functional teams to prioritize, understand, design, plan, manage, and deliver reporting and analytics solutions for the business. Work with business users and managers to understand requirements and articulate solutions.
+· Expertise in Back-end Business Warehouse Components Extractors, Info Objects, Info Sources, Update rules, Transfer rules, Info Cubes, and Info Packages and front-end Business Warehouse Components Queries, Calculated key figures, restricted key figures, Structures, Variables, BEx Analyzer, BEx browser and web reports.
+· Strong combination of business analysis, development and data warehouse (OLAP) technical experience using SAP
+· Over 3 years of experience in ABAP development including OOPS ABAP, BAPI, BADI, Enhancements, ALV, Report development, SAP Script, SmartForms, BDC, LSMW, Dialog Programming
+· Quick learner, problem solving and analytical skills, with an ability to rapidly achieve organizational integration, assimilates job requirements and employs new ideas, concepts, methods and technologies.
+· Strong team player and team leadership skills.
+· Multi-industry client facing experience in different countries
+· Excellent leadership, communication (written and oral) and interpersonal skills.
+
+
+SAP BW Expertise:
+
+Data Modeling:
+Design Data Warehouse (Dataflow), Development (Info Cube, ODS, Info Sets), Configuration of Info Cubes, extractors, Business Content, SAP ASAP methodologies, GAP Analysis, Integration of SAP BW with FI/CO, SD, MM, HCM Extracted Master Data, Transactional Data, Text, Hierarchy using different type of data extraction including Generic Extraction and Application Specific from both SAP R/3 and Non-SAP Systems. 
+
+BI Reporting:
+Experienced in using BOBJ tools like WebI, Crystal Report, Design Studio, Universe, IDT, Data federation tool.   Also, BEx Analyzer, WAD, BEx Browser, work books, Info Set Query, Web Reports, Enhanced reports applying Filters, Conditions, User Exits, Customer modifications, style sheets, graphs and parameter validation. 
+
+Business Areas: PS,SD, MM, SCM (APO DP &  APO SNP), HCM, FI/CO, COPAAP BI BOBJ (Business Objects Business Intelligence)
+
+PROFESSIONAL EXPERIENCES
+ 
+Spin Masters Nov 2014 – Oct 2017
+Location – Toronto , Canada
+Role: Sr. BI Developer
+Environment: SAP BI 7.4, SAP BOBJ 4.1, SAP ECC 6.0, ABAP, SCM, SD, MM
+· Interact with business to gather requirements, prioritize work, develop enhancements to the existing system, coordinate testing, and perform change management/training for BI Reporting and applications
+· As part of APO DP implementation involved in full life cycle implementation of Demand Planning (APO DP) and provide solution in both upstream and downstream data from SAP BI to APO DP and APO DP to SAP BI.
+· Upgrade system from SAP BW 7.3 to SAP BW 7.4 on HANA
+· Performed clean-up activities for the premigration of BW on HANA implementation. Optimized BW cubes for HANA after upgrade.
+· Reinitialize Logistics Delta loads for Sales and Purchasing after upgrade.
+· Design and developed interface to load Master and Transactional data such as Sales Orders, Shipments, POS data to APO DP and pulled  forecasting data from APO DP to BI for reporting
+· Design and Develop POS Dashboard which reflects weekly, monthly, quarterly and yearly sales of all brands in Design Studio 1.5
+· Design and Develop IMR (Integrated Market Review) dashboard in Design studio 1.5 which compares intercompany and intracompany product sales based on SAP BW and NPD data 
+· Built and extract data from datasources, develop InfoCubes, InfoObjects, DSO and multi provider to extract data for Sales and Distribution (SD), Material Management (MM) , Demand Planning (DP) and forecast. 
+· Extensively involved in setting up of procedures for extracting data from SAP R/3 by using Generic Extraction, User Exit, BAPI, API, BADI (ABAP and OOPS ABAP)
+· Develop, support and maintain Process chains that load daily and weekly data.
+· Hyper care and end user change management.
+
+
+The  Createch Group ( Bell Canada)  – Mar 2013 -  Nov 2014
+Location – Toronto , Canada
+Role : Sr. SAP BI Consultant 
+Environment: SAP BI 7.2, SAP BOBJ 4.1, SAP ECC 6.0, ABAP, SCM, SD, MM
+· Created the Business Blue Print (BPML), develop Specification documents for WRICEF in consultation with the Business process owners and end users undertaking workshops with super users.
+· Activate, Implement and extract generic and application specific Data Sources for SCM, APO and LO Cockpit.
+· Build and enhance BI objects such as Info objects, Info cubes, Data Sources (2LIS_02_SCL, 2LIS_02_ITM, 2LIS_02_HDR, 2LIS_11_VAHDR, 2LIS_11_VAITM, 2LIS_12_VCSCL), Master Data, Transformations, ODS, Extractors, Multi Providers, Aggregates, Process Chains, User Exits (ABAP Routines), BADI.
+· Process Extract, Transform and Load (ETL) Key Performance Indicators (KPI Matrix)  for Forecasting, Demand Planning (DP) and Supply Network Planning (SNP) data to develop detailed analytical reports for APO (Advanced Planner and Optimizer)
+· Develop ABAP Programs to get data for generic Extraction in SAP ECC and established background process to load data in required frequency (e.g Hourly Loads) and automated execution of process chains in BW to do complete ETL process as soon as data simulates in SAP ECC data source
+· Ensure architecture integrity of DS, Infocube, Infosets, DSO, Aggregates for optimized reporting.
+· Designed and developed Datasources to pull forecast data from APO to BW for reporting
+· For Demand Planning, enhance Forecasting and snapshot infocubes, transformation and load with forecasting version creations in BW
+· Worked on BOBJ Universe, Integrated Development Tool (IDT), Crystal reports, WebI, Design Studio, SQL Queries, Adhoc Queries as part of reporting dashboard development on BOBJ 4.1 as part of providing Business Analytics solution for APO DP an APO SNP
+· Monitor, communicate and troubleshoot issues with data integrity, data design, and functional and technical software issues.
+· Manage reports in  IDT tools ( Webi, Dashboard, Query, Crystal and Bex)
+· Documents schemas and ensure data integrity for all source systems ETL loads.
+· Manage issue log and cutover process and transport release.
+
+Algorithmics Inc. (IBM Canada)  July 2010 – Mar 2013
+Location – Toronto , Canada
+Role: Sr. SAP Technical Developer 
+Environment: SAP BI 7.0, OBIEE 10.x, SAP ABAP, BEx Analyzer, SAP R/3, FI CO, CO-PA, APO
+· Being a Senior Technical Developer, responsible for the development, support & maintenance of SAP BI/BW version 7.0 connected to ECC 6.0 system with the following SAP modules: Finance (SAP FI), Controlling (SAP CO)
+· Also responsible to develop ABAP ALV Report, maintain WebDynPro applications, implemented user exits, developed data dictionary objects, troubleshoot programs by debugging them
+· Prepared project related documentation (functional design, technical design, test scripts) during the different stages of a project for FI, CO-PA, PS modules
+· Build and enhance BI objects such as Info objects, Info cubes ( 0FI_GL_4, 0_FI_AP_4, 0CO_PA_1, PS_C02 )Info sources/Data Sources, Master Data, Transformations, and Update Rules, ODS, Extractors, Info sets, Aggregates, Process Chains, User Exits (ABAP Routines), BADI.
+· Applied ABAP code to restrict confidential Company Codes, GL Accounts, Vendor numbers, Cost Centers and Chart of Accounts in the standard master and transactional datasources
+· Created customer extractors with ABAP routines to extract CO-PA data for the relevant Operating Concerns from SAP-R/3 into SAP BW and created corresponding Infosources, ODS Objects and Infocube in BW
+· Created several Calculated Key figures, Restricted Key Figures, structures, variables to enhance the reporting features for Key Performance Indicators (KPI Matrix). Implemented conditions and restrictions in the reports based on the requirements. Used Hierarchies in the reporting to provide drill down features. Designed and developed reports with filters and free characteristics. Designed and provided RRI reporting
+· Support the on boarding and training of BW Power Users. 
+· Developed reports/dashboards Analytic views (Pivot Tables, Charts, Column Selector, and View Selector), SQL Queries, Adhoc Queries with Oracle Business Intelligence (OBI) as a part of Business Analytics solution
+· Customized, developed and maintain data repository file (Physical Layer, Business model Layer and Presentation Layer), configured metadata objects and Web Catalog Objects in Oracle Business Intelligence (OBI) 
+· Created connection pools, imported physical tables and defined joins in the physical layer of the repository in Oracle Business Intelligence (OBI) 
+· Conducted Training’s for the End User
+Novartis June 2009 – July 2010
+Location – Toronto, Canada
+Role: SAP BI Technical Consultant
+Environment: SAP BI 7.0, BEx Analyzer, SAP R/3, FI CO, CO-PA
+· Created the Business Blue Print in consultation with the Business process owners and end users undertaking workshops with super users.
+· Developed Specifications for Custom Reports (RICEF) from FI and CO modules
+· Implemented Standard Business Content InfoCubes like Line Item (0FIAR_C03), Payment History (0FIAR_C05), and Cost and Allocation (0CCA_11) and customized them using Transformation, Created ODS, InfoCubes and MultiProvider for queries.
+· Responsible for design, development and data extraction from R/3 Source system and flat files to BW for FI & CO.
+· Worked with functional consultant for mapping the source data (R3/non R3) to target datasource in BW.
+· The team configured Custom cubes, Transformation, ODS, Cubes, Aggregates, queries and workbooks
+· Created summarized reports in Bex which includes display of Plan/Actual variance measures, analysis of full cost by cost center, overdue analysis, and analysis of payment history.
+· Extensively involved in the scheduling and monitoring using process chain in Administrative Workbench.
+· Worked on performance of queries and performed various tuning techniques using Compression, Aggregates and Multiproviders
+· Resolved Issues on issue log and centralized repository of project documents (Shared Drive).
+· Conducted workshops for the blueprint and end user approvals. SAP 
+· Established project documents and version controls and cut over plan for GO LIVE and Support.
+· Troubleshooting on post go live and retraining the super users (Train the Trainers)
+
+Revlon Aug 2008 – May 2009
+Location – Toronto, Canada
+Role: SAP BI Technical Consultant
+Environment: SAP BI 7.0, BEx Analyzer, SAP R/3, SD, MM
+· Extensively involved in project preparation, business blue print, realization, final preparation and go live and support phases.
+· Gathered requirements from functional users in Sales and Purchasing for cross-functional analysis.
+· Defined work packages and technical specifications for design, development, testing and rollout.
+· Analyzed reporting requirements and translated the requirements into multidimensional data module.
+· Worked with functional consultant for mapping the source data (R3/non R3 ) to target DataSources in BI. Defined the initial sizing requirements based on source data volume estimates.
+· Customized and maintained DataSources such as Billing (2LIS_13_VDHDR), Sales Order (2LIS_11_VAHDR), and Delivery Order (2LIS_12_VCHDR) for the SD module and Purchasing Order Item (2LIS_02_ITM) for MM. 
+· Extensively tested the developed objects using Test Director. Participated in change control team for defect prevention/correction and approving changed/additional requirements. Defined phases for requirements that were not critical for initial go-live.
+· Developed prototype and presented the demo session for user acceptance.
+· Trained users in reporting functions
+
+
+
+
+
+
+All State Insurance   Sept 2007 – July 2008
+Location – Toronto, Canada
+Role: SAP BI Technical Consultant
+Environment: SAP BW 3.5, BEx Analyzer, SAP R/3, HCM
+· Involved in data model design for acquisition layer , enterprise data warehouse layer, and architected data mart layer, reporting layer.
+· Created infocubes with headcount/personnel action/payment analysis based on different detail level of employee/action/wage type 
+· Created multiproviders for headcount&actions, and analysis of payment respectively.
+· By business content and generic datasourse for each infotype, extracted data from data source 0HR_PA_0, 0PERSON_ATTR, 0EMPLOYEE_ATT, infotype 0000/0001/0002/0008/0014/0015 etc for transaction and master data.
+· Created Start Routines, transformation routines for ODS and Info Cubes
+· Created Process chains for all Master data and transaction data loading from acquisition layer to data warehouse layer, and finally to architected data mart layer.
+· Transport the business object from developer environment to test and product environment.
+· Extensively worked on Query Designer and Web application designer to create Queries to perform sales, delivery and billing analysis using Restricted Key Figures, Calculated Key Figures, Variables, filters and exceptions.
+· Involved in documentation and end-user training. SAP BI BOBJ (Business Objects Business Intelligence)
+
+Navneet Ltd.   JUNE 2004 – SEP 2006
+Location – Ahmedabad, India
+Role: SAP ABAP Technical Consultant
+Environment:  SAP SD, MM, ABAP, SAP R/3
+As a team member performed AS-IS analysis and developed TO-BE analysis. Follow the ASAP Methodology and Documented RICEF for implemantation of ECC 6.0
+Gathered business requirements and defined deliverables along with functional analysis.
+Develop Report that calculate Monthly employee wise pay and cumulative plant / location wise pay.
+Created report lists for the gross sales, credit returns, gross weight for the customer for the current year and comparing the same with that of the previous year for the same period. 
+· Develop layout of company specific Debit notes and Credit notes using SAP script 
+· Developed LSMW to upload Vendor Master Records TCode FK01
+· Develop layout of company specific vendor account statement using Smartforms.
+
+Chase InfoTech Ltd.   Dec 2001 – May 2004
+Location – Ahmedabad, India
+Role: Software Developer
+Environment: Visual Basic, Oracle, Crystal Reports
+· In this application as a team member I involved in analysis, design and develop applications and products which used in Banks.
+· Involved in the Reviews and Reporting bugs. 
+
+Education 
+· Diploma in Data warehousing with specializing in SAP BI 
+· Advance Diploma in Software Engineering
+· Bachelor’s of Science with mathematics
+

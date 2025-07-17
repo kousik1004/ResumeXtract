@@ -1,0 +1,113 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nandhagopalan Elangovan
+nandhu.elan@gmail.com  • www.linkedin.com/in/nandhu15
+Electronic city  • Bengaluru,Karnataka-560100 • 7708382417
+
+PROFESSIONAL SUMMARY
+Software developer with expertise in developing backend restful services using spring boot ,handling AWS in              providing cost efficient solutions to the customers. Highly analytical and process-oriented data analyst and data science enthusiast with in-depth knowledge in interpreting and analyzing the data for driving pragmatic business solutions.
+ EDUCATION
+
+	   Madras Institute Of Technology, Anna University,Chennai
+	                 Mammallan Matriculation HSS, Kanchipuram
+
+	   Electronics and Instrumentation Engineering, April 2016
+	                 Math/Bio, May 2012
+
+	   GPA: 8.4/10
+	                 Percentage: 90/100
+
+
+EXPERIENCE
+ Wipro Ltd                                                                                                                                      Bengaluru, India
+ Associate Consultant
+August 2016 – Present
+· Developed restful services for a Collection Management System, implemented IAM based solutions by leveraging a third party application,WSO2
+· Configured, Streamed and monitored the data’s of a customer using  tools like ELK stack and Kafka.
+· Extracted and analyzed client’s customer data to identify key metrics; developed business intelligence reports and dashboards in Tableau, driving effective business decisions of customers.
+
+· Developed a dashboard for providing insights from the customer data  by employing unsupervised learning methods  such as topic modelling for recommending the suggested topics to the customer.
+SKILLS AND COMPETENCES
+	· Data Analytics
+	· Spring Boot
+
+	· Amazon Web Services
+	· Database Tools- MySQL,Oracle,Postgresql
+
+	· Statistical Tool-python
+	· Machine Learning,NLP
+
+	· Tableau
+	· EDA
+
+
+PROJECTS
+
+ January 2018 – April 2018
+Topic Modelling for ticket elucidation
+
+· Successfully interpreted the data and drawn conclusions for topic extraction from the given dataset.
+· Tokenized and lemmatized texts in the sentence as a part of data preprocessing
+
+· Implemented Latent Dirichlet Allocation for the topic modelling of the texts and improved the accuracy of the model using grid search.
+
+· Outputing the generated topics into the knowledge database(elastic search) and presenting it to the end user for the subsequent model training.   
+Non-Field Operations BPM     
+
+
+
+
+                                           July  2017- December 2017
+· Developed microservices for replicating the functionalities of Business Process Model, Camunda. 
+· Integrated 40+ service types of the client with our custom portal by manipulating the camunda inbuilt APIs
+· Implemented Spring filters and utilised the SSO provided by the client for authentication and authorization
+· Designed wrapper APIs and modified camunda specific APIs to our custom needs.
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS
+
+· Certified AWS- Solution Architect Associate
+· Successfully submitted the solution to the use case on data science with 82% accuracy in DST(Decision Science Transformation),a wipro initiative program.
+· Successfully completed Python for DataScience and Machine Learning Certification, Udemy
+· Python bootcamp,Udemy

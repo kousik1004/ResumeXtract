@@ -1,0 +1,269 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+
+Priya Sarda
++91-9685971123                                                
+
+
+    E-Mail: priy1405@gmail.com
+
+
+
+PROFESSIONAL SUMMARY
+· 4+ years of overall IT experience in  Big Data Hadoop and DBA
+· 2.5 years  of experience in Hadoop and its components like HDFS, Pig, Hive, Sqoop , HBase , SPARK & SCALA
+· Experience on implementation of SPARK and its components like Spark-Core, Spark-SQL, 
+· Experienced with SPARK by improving the performance and optimization in Hadoop using Spark Context, Spark SQL, Data Frame and Pair RDD’s.
+
+· Hands on experience on HDFS, HIVE, PIG, Hadoop framework ,  and SQOOP.
+
+· Experienced in Cloudera Hadoop Distribution. 
+· Experience in handling different file formats like .Orc , Parquet and Sequence file format in Spark
+· Importing and exporting data using Sqoop to and from HDFS.
+
+· Experience in ingesting the input data with SAN, Sqoop and Flume.
+
+· Created Hive tables and involved in data loading and writing Hive UDF’s.
+
+· Involved in writing the Pig scripts to reduce the job execution time
+
+· Experience in huge data processing with Hadoop by writing PIG Latin Scripts and HIVE Queries.
+
+· Experience with various IDE’s for development of project (IDJ ,Eclipse).
+· Excellent communication, interpersonal, analytical skills, and strong ability to perform as part of team.
+· Have knowledge in Spark Streaming and Kafka.
+· Good knowledge in Oozie .
+
+· Have knowledge in writing shell scripting  
+
+· Experience in scheduling Cron Jobs. .
+
+· Knowledge on Map Reduce ,Cassandra ,AWS
+· Experience in DBA 
+
+Qualifications 
+· Master of Computer Application (MCA)  from OIST - RGPV UNIVERSITY Bhopal.
+TECHNICAL SKILL SET
+BIGDATA Technologies
+HDFS, Map Reduce, Apache Pig, Hive, Sqoop ,HBase and Oozie, Cassandra, Kafka, SPARK , SCALA
+
+ Frameworks
+
+
+Hadoop.
+
+ Development Tools
+
+Eclipse,  IntelliJ ,Visual Studio
+Tracking Tools  
+
+
+SVN,  JIRA,  Aldea
+Ticketing Tools
+
+
+Service Now, Remedy
+Databases
+
+
+MS SQL ,MySQL, Oracle 
+
+No SQL Database
+
+
+Cassandra
+
+Operating Systems
+
+Windows7, Windows XP, 2000, 2003, Unix, Linux, Cent OS
+
+Methodologies
+
+
+Agile
+Professional Experience 
+DXC (Computer Science Corporation) Hyderabad  
+
+
+Aug’15 –  Current
+
+
+
+
+            
+         Project Profile  
+Project Name
+   :      Walmart - Re platforming to Big Data
+Client
+
+   :      Walmart, USA (www.walmart.com)
+Environment           :      Hadoop, HDFS, Map Reduce, PIG ,HIVE ,SQL Server, Spark, Scala, CDH
+Role                           :     Spark Developer
+Description  :   
+
+Walmart is getting the source data from different source systems. As part of the same business each customer would be offered with different types of products based on their needs. Customer might have retail type of products, baby products, home electronics etc. To maintain this much of huge volumes of, different varieties of data in traditional databases is a very tedious process. To meet the scaling needs of data , re-plat forming of current data warehouse system to Hadoop solution in a cost-effective solution.
+Roles and Responsibilities : 
+· Experienced with batch processing of data sources using Apache Spark.
+
+· Experienced in implementing Spark RDD transformations, actions to implement business analysis.
+
+· Implemented Spark using Scala and Spark SQL for faster testing and processing of data.
+
+· Implemented partitioning, dynamic partitions and buckets in HIVE.
+
+· Involved in converting Hive/SQL queries into Spark transformations using Spark RDDs, Scala. 
+
+Project Name
+      :    Staples – Business Analytics Optimization (BAU) -Through HADOOP
+
+Client
+
+      :    www.staples.com  – North CA -  USA
+
+Environment              :    Hadoop, Pig, Hive, SQOOP,UNIX, MySQL, shell scripting 
+
+Duration
+      :    May 2016 to till Date
+Role                              :     Hadoop Developer
+Description:
+This Project is all about the rehosting of their (Target) current existing project into Hadoop platform. Previously Target was using MySQL DB for storing their competitor’s retailer’s information.[The Crawled web data]. Early Target use to have only 4 competitor retailers namely Amazon.com, walmart.com etc.….
+But as and when the competitor retailers are increasing the data generated out of their web crawling is also increased massively and which cannot be accommodated in a MySQL kind of data box with the same reason Target wants to move it Hadoop, where exactly we can handle massive amount of data by means of its cluster nodes and also to satisfy the scaling needs of the Target business operation.
+
+Roles and Responsibilities :
+· Moved all crawl data flat files generated from various retailers to HDFS for further processing.
+
+· Written the PIG scripts to process the HDFS data.
+· Worked on Hive Partition & bucketing concept and created hive External & Internal tables with Hive partition
+· Created Hive tables to store the processed results in a tabular format.
+
+· Developed the sqoop scripts in order to make the interaction between Pig and MySQL Database.
+
+· Involved in gathering the requirements, designing, development and testing
+
+· Writing the script files for processing data and loading to HDFS
+
+· Writing CLI commands using HDFS.
+
+· Completely involved in the requirement analysis phase.
+
+· Ensured NFS is configured for Name Node
+
+· Setting up cron job to delete hadoop logs/local old job files/cluster temp files
+
+· Setup Hive with MySQL as a Remote Metastore 
+
+· Moved all log/text files generated by various products into HDFS location
+· Created External Hive Table on top of parsed data.
+Client
+
+
+:
+RMG , POL , NG , CSCInternal 
+Environment
+
+: 
+Windows Server 2003/2008/2008R2,UNIX,Linux.
+Role 
+
+
+: 
+DBA
+
+Ticketing Tools 
+
+: 
+Remedy and Service Now (SNOW)
+Description: 
+ Royal Mail is the government-owned postal service in the United Kingdom of Great Britain and Northern Ireland. Royal Mail Holdings plc owns Royal Mail Group Limited, which in turn operates the brands Royal Mail (letters) and Parcel force Worldwide (parcels). Royal Mail is responsible for universal mail collection and delivery in the UK.
+
+Jr. Software Engineer 
+
+
+
+
+
+               Sep’14 –Aug’15
+
+HCL Technology Hyderabad 
+
+Client
+
+
+:
+Microsoft   
+
+Environment
+
+: 
+Windows Server 2003/2008/2008R2,UNIX,Linux.
+Role 
+
+
+: 
+Software Engineer
+
+Ticketing Tools 
+
+: 
+Remedy and Service Now (SNOW)
+Description : This project provides the authentication and authorization. Tenant onboard his application
+
+on this portal for the security  purpose and we provided the authentication and authorization to on 
+
+boarded   Application.
+
+Roles & Responsibilities :
+●    Project Implementation & Maintaining Databases
+
+●    Assigning tickets and monitoring queue 
+●     Interacting with clients and handling queries
+
+●     Create/Troubleshooting Maintenance Jobs (Backups / Restores ) 
+●     Creating users and providing access. 
+
+●     Troubleshooting TempDB & DB Space Issues.
+

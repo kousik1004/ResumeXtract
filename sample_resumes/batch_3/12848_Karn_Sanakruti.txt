@@ -1,0 +1,403 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                  
+
+ Resume  
+_______________________________________________________________ 
+  
+Basic Information  
+   
+
+Name:      Dhiraj Bhikaji Palvi.   Photo : 
+Address:   20, Karn Sanakruti,  
+
+                 Shastrinagar,Vanaz,       
+
+                  Kothrud, Pune, Maharashtra. 
+
+Mobile:    9403350085  /  8087597712    
+
+Email:      dhirajpalvi@gmail.com   
+
+----------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------                          
+
+Key Skills : C#, ASP.NET MVC, Windows Form,  WCF, LINQ, JavaScript, jQuery, AngularJS,  MS SQL Server, Visual Studio, TFS. 
+
+----------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------                            
+
+Work Experience:  
+
+● Total Experience: 1 Year 9 Months  
+
+● Current Employer:  
+
+Job Title: Software Engineer 
+
+Employer: BioAnalytical Technologies 
+
+Dates of Employment: June 2016 to till date 
+
+Total Experience: 1Year 5 Months 
+
+● Previous Employer:  
+
+Job Title: Jr.Software Engineer 
+
+Employer: Infoaim Solution 
+
+Dates of Employment: January 2016 to April 2016 
+
+Total Experience: 4 Months 
+
+----------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------                           
+
+Academic Details  
+
+  
+
+Level  Stream  Institute  Board/University  Passing 
+
+Year  
+
+Degree %  
+
+  
+
+PG-Diploma  
+
+DAC (Diploma in 
+
+Advanced Computing)  
+
+Sunbeam Institute of 
+
+Technology, Pune  
+
+Center for Development of  
+
+Advanced  
+
+Computing(CDAC), Pune  
+
+  
+
+2015  
+
+  
+
+62.50%  
+
+  
+
+BE  
+
+  
+
+Computer 
+
+Engineering  
+
+Sinhgad College of  
+
+Engineering, Pune, 
+
+Maharashtra  
+
+University of Pune, Pune, 
+
+Maharashtra  
+
+  
+
+2014  
+
+  
+
+58 %  
+
+  
+
+XII  
+
+  
+
+Science  
+
+Laxmanrao Apte Junior 
+
+College, Deccan, Pune  
+
+Maharashtra State Board of 
+
+Secondary and Higher  
+
+Secondary Education, Pune  
+
+  
+
+2008  
+
+  
+
+61.33 %  
+
+  
+
+X  
+
+  
+
+General  
+
+Savitribai Phule Madhyamic  
+
+Vidyalaya, M.P.K.V., 
+
+Rahuri, Ahmednagar  
+
+Maharashtra State Board of 
+
+Secondary and Higher  
+
+Secondary Education, Pune  
+
+  
+
+2006  
+
+  
+
+81.86 %  
+
+----------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------                           
+
+ 
+
+Project Experience 
+
+ 
+
+1) Title: DTU (Data Transformation Utility)   Role: Developer  
+
+Description: Data Transformation Utility is an automated way of transferring one file/data format to another one using predefined                  
+
+configuration and the executable code. United Kingdom based client provides storage facility for bio-samples. Different instrument produces 
+
+different output format after sample is processed. DTU transfers this data to desired format for further processing.  
+
+
+
+                                                  
+Technologies: ASP .Net Web API, C#, jQuery, KendoUI 
+
+Database: MS SQL 2014                   
+
+Tool: Visual Studio 2015 
+
+ 
+
+ 
+
+2)  Title: Automated Test Equipment   Role: Developer  
+
+Description:  ATE is a software which tests different types of Air Conditioning Systems, such as ODU (Out Door Unit) and IDU (In Door 
+
+Unit).This software tests different parameter of ODU and IDU such as temperature sensors, EXV motors, swing motors etc. There are three 
+
+parts of the project one is Hardware, second is firmware and third is software. ATE communicates with the firmware loaded in the hardware 
+
+using frames.                                  
+
+Technologies:  Windows Form, MVVM, WCF, C#                                                                                                                                                     
+
+Database: MS Access                                                                                                                                                                                                    
+
+Tools: Visual Studio 2010 
+
+ 
+
+3) Title: E-commerce web application   Role: Developer 
+
+Description: Client has distributorship of Sakas Foods and Shree Devashree Foods and provides service in various locations across 
+
+Australia. As a progressing business, and to make the customer experience better entire Product Purchasing process needs to be automated. 
+
+This Automation will ease the admin activities and have better control over the timely delivery.                                 
+
+Technologies: ASP.NET MVC 4, C#, AngularJS, HTML, Bootstrap CSS, Entity Framework 6, SQL, LINQ,                                                   
+
+Database:  Microsoft SQL Server 2008.                                                                                                                                                                      
+
+Tools: Visual Studio 2013 
+
+ 
+
+4) Title: Minerva  Role: Test engineer                         
+
+Description: The Minerva is designed to form an interactive web portal to effectively do the project management and also to build 
+
+knowledge  repository of all the documents associated with the project. The project consists of two processes, one being creation new 
+
+Marketing Insights Brief(MIB) raise request and approval workflow and other being Vendor allocation and Project Management 
+
+Activity.                         
+
+Technologies: ASP.NET MVC 4, C#, AngularJS, jQuery, HTML, Bootstrap CSS, Entity Framework 6, SQL, LINQ                                  
+
+Database :  Microsoft SQL Server 2008                   
+
+Tools: Visual Studio 2012 
+
+ ----------------------------------------------------------------------------------------------------------------------------- --------------------------------------------- 
+
+ 
+
+ Academic Projects  
+  
+
+1) Title: Campus Portal (PG-Diploma)                                                                                                                                        
+Description : Campus Portal is Web Portal assisting placement drives for students. This system aims to provide quintessential 
+
+solution for students to upload their information and to get current status during recruitment process. It helps company to get 
+
+shortlisted students according to their criteria and even for institution to keep the track of student’s performance in recruitment drive.                                 
+
+Technologies: Java, Spring, Hibernate, RESTful Web services, Angular JS, CSS3, HTML5, Bootstrap.                 
+
+Database: MySQL                     
+
+Tools: Ecliplse 
+
+  
+
+  
+
+2) Title: Personalized Web and Image Search By User Interesting Collaborative Filtering Model Based On Multi-agent System  
+
+(BE-Final Year)  
+
+Description: Current Web Search Engines serve all people in the same way, regardless of individual needs of each user, so we have    
+
+implemented Personalized Search Engine. In this system, we first built an interest model based on user's log and then calculated the interest 
+
+value of each search result items. Furthermore, we calculated the recommendation value according to others users' evaluation of the search 
+
+result items. Finally, we recorded the search result combining the interest value and recommendation value  
+
+Technologies: Java,  JSP, Servlet, CSS, JavaScript                                                                     
+
+Database: MySQL                   
+
+Tools: Eclipse 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+                                                  
+3) Title: RTO Management System (BE-Third Year)  
+
+Description: A RTO MANAGEMENT has to keep the huge records of information about license withdrawal. A manual work in this case    
+
+may lead to inconsistent data or loss of data. To solve this problem we have developed RTO MANAGEMENT system. This makes an easy 
+
+storage of huge data with the help of ORACLE DATABASE. Front end of the project was developed in VISUAL STUDIO 6.0 
+
+Technologies: Visual Basic                                                                     
+
+Database: Oracle                   
+
+Tools: Visual Studio 6.0                
+
+------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------- 
+
+ 
+
+Other Information  
+  
+
+Extra-Curricular: 1) National Cadet Corps. Certificate 'A' under the authority of Ministry of Defense, Gov. of India  
+
+                                2) Arranged an event Google Junkie in Excelsior 2K12 (Technical Event in College)  
+
+  
+
+------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------- 
+
+  
+
+Personal Information    
+
+Date of Birth: 21/02/1991  Gender: Male    
+
+Nationality: Indian     Languages Known: Marathi, Hindi, English  
+
+Hobbies:   
+
+1) Photography    
+
+2) Travelling    
+
+ ----------------------------------------------------------------------------------------------------------------------------- --------------------------------------------- 
+
+ 
+
+  
+
+I hereby declare that the information given above is true to the best of my Information knowledge belief.  
+  
+
+Date: Signature:  
+
+

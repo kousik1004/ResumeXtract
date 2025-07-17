@@ -1,0 +1,258 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Surendra Kumar Saw                                                                                                                  
+______________________________________________________________________________________   
+Contact: (+91) - 8777020144,                                                                   Email: surendraece111@gmail.com
+                           8017099933
+
+______________________________________________________________________________________
+Objective: 
+Seeking a challenging career in SAP-ABAP technical consulting arena where I can contribute and augment my technical and functional knowledge.
+Professional summary:
+· 4.1 years of experience as SAP ABAP Technical Consultant with IBM India Pvt. Ltd as System Engineer with expertise in ABAP programming, workflow and upgrade.
+·  Experience in structured ABAP/4 programming and development for SAP suite of applications uses:   -      Financials (FICO), 
+
+· Sales and Distribution (SD), 
+
+· Procurement (P2P), 
+
+· Purchase to Pay (P2Y) and 
+· Material Management (MM).
+· Expertise in end-to-end development as per business need involving Requirement Analysis, Design, Development, System and Integration Testing.
+· Worked extensively in the Offshore - Offshore model, understanding of client requirements, providing estimations and cost-effective solutions.
+
+· Strong Problem Solving & Technical Skills coupled with confident decision making for enabling effective solutions leading to high customer satisfaction as well as low operational costs.
+
+· Excellent Analytical, Communication & Interpersonal skills and a Vibrant Team Member along with leading workflow monitoring team.
+Educational Qualification:
+· Completed B.Tech (ECE) from Birla Institute of Technology, Mesra, Ranchi with an aggregate of 74.50%.
+· Completed Intermediate from DAV Public School, Hazaribagh Jharkhand with an aggregate of 79%.
+
+· Completed 10th class from Sri Ramakrishna Sarda M & Mission, Hazaribagh Jharkhand with an aggregate of 79.80%.
+
+Technical skills:
+
+· ERP
+                                     :    SAP R/3 (4.6C/ 4.7/ ECC 6.0)
+· Language                                   :    ABAP 
+Areas of ABAP/4 Expertise: 
+· Workflow
+
+· Classical reports, ABAP List Viewer (ALV) reports and Reports with OOPS concepts.
+· OOPS
+
+· Data Dictionary.
+· OSS notes.
+· LSMW, BDC, BAPI
+· User exits, enhancements, BADI
+· Adobe forms, SAP scripts, Smart forms
+· SAP upgrade, SPDD, SPAU 
+· Interface
+
+· SQVI and SAP queries
+
+· Module pool programming
+Details of Project Experience:
+
+Client Profile:
+Philip Morris International is an international tobacco company, with products sold in over 160 countries. Philip Morris International was an operating company of Altria Group. With its Operations Center based in Lausanne, Switzerland, it owns 7 of the top 15 brands in the world.
+
+Project 1 
+	Title
+	P1 FRICEW Run and Support
+
+	Nature
+	Run and Support and Development
+
+	Duration
+	Dec 2013 to October 2017
+
+	Client
+	Philip Morris International 
+
+	Description
+	This project was mainly involved in run and support of existing SAP application and Implementation of new SAP Implementation for many regions such as Asia Pacific, Western Europe, Eastern Europe and Latin America region. 
+
+	Role
+	Application Developer
+
+	Responsibility
+	Understand business requirement of performance improvement, bug fixing, addition of new features and complete new development.
+Leading Workflow monitoring team and resolution of workflow issues for production environment.
+Provide best feasible technical solution and incorporate the same. 
+
+Perform code reviews through debugging.
+Perform quality check and adjust the technical design if required.
+
+Prepare unit test scenarios for positive and negative testing and documenting test results.
+Transferring knowledge to peers for OSS note activities and workflow monitoring activities.
+
+	Environment
+	ABAP Development, Quality and Production
+
+	Skill set
+	SAP ABAP 
+
+
+Development Summary:
+· Workflow changes and responsibilities:
+Currently leading and mentoring workflow monitoring team and reviewing their monitoring activities.
+
+Providing the solution and resolution for workflow issues and incidents related to Asia Pacific, Latin America, Western and Eastern Europe regions.
+
+Monitoring and resolving the daily workflow issues of production environment related to below flows:
+
+· Workflow for PR creation, PR approval, PO creation, PO approval process.
+· Workflow for FI invoice (Park and Post), Logistic invoice and approval process 
+· Workflow for sales order creation and approval.
+· Travel and Expense workflow issue and resolution.
+Workflow monitoring also include resolution of:
+· Workflow events struck under queue processing
+· Workflow customization and corresponding background jobs
+· Other workflow related activities.
+Performed the development and adding new functionality in workflow changes for below flows:
+
+· PR creation and PR approval process
+
+· PO creation and approval process
+· FI Invoice and Logistic Invoice approval process
+· Travel and expense approval process
+· Cockpit report workflow approval process for changing values of a table.
+· Other workflow related changes.
+· Reports:
+Developed scratch reports for below functionalities:
+
+· KPI report for Travel and expense: This report calculates the processing time for T&E which in turn measures the performance and KPI for travel and expense process and approval. It is developed in OOPS concept giving ALV output.
+
+· Sales order Downloading report: Report download and transfer the downloaded sales order data to a specific application folder which can be used during system outage. It is developed in OOPS concept giving ALV output as well as transferring file to application server.
+
+· Delivery Downloading report: Report download the Sales order delivery data into a local folder in excel file and csv file. It is developed in OOPS concept.
+
+· VAT Tax report: This report is hybrid report of existing standard report and new custom report to generate the expected XML file required for Lithuania. The report displays the ALV output as well as generates the XML using transformation providing details of all issued and received VAT invoices for a period.
+· Reconciliation report: Report designed for Russia showing the reconciliation statement for debtors and displaying the details on PDF file. This is also a hybrid report of existing standard and adding new custom logic to get the expected details.
+· Charm extraction report: Report displays the ALV output for charm details in SOLMAN system and transfer file to a specific application folder.
+Developed, bug fixing and added new functionality for several reports related to Sales and Distribution, Finance, procurement and Material Management using OOPS, procedural and classical approach.
+
+· Data Dictionary:
+
+· Created several table, structure, view, table type, data element, domain and lock object.
+· OSS Note activities and Responsibilities:
+
+· Currently acting as SME for OSS note related activities and giving knowledge transfer to peers for OSS Notes and mentoring them in case of complex OSS note implementation.
+· Actual Costing Project: Implemented several complex OSS notes for bringing new functionality in Finance areas for revenue recognition, costing and profit analysis. In this project, more than 300 Oss Notes have been analyzed and implemented. After the successful go live of the project in WE region the similar activity followed for other three regions: AP, EE and LA region.
+· SOLMAN system Note Implementation: Implemented several complex OSS notes for SOLMAN system for different types of functionality and fixing standard bugs.
+
+· Raising OSS messages to SAP for fixing standard bugs and issues.
+
+· Implemented several complex notes in all four regions (WE, EE, AP and LA) for various functionalities related to Finance (e.g Tax reporting SHAFT report for Portugal), Sales and Procurement.
+
+· Upgrade:
+· Worked on SPS upgrade activities for all four regions (WE, EE, AP and LA) analyzing, implementing and de-implementing required OSS notes.
+· Performed SPDD and SPAU activities.
+· Implemented security notes for incorporating Security patches in WE, EE, AP and LA region, SOLMAN and BW system after the upgrade activities.
+
+· Analyzing the system behavior after the upgrade activities related to workflow settings, customization, background jobs and other ABAP related issues and resolving them with required OSS notes, manual activities or other resolution steps.
+
+· LSMW, BDC, BAPI:
+· Developed several LSMW from scratch for various requirements such as creating new purchase orders, framework orders, data uploading in tables etc.
+· Developed report using BDC for data uploading and initiating workflow for large number of invoices.
+· Developed report using BAPI for editing purchase order details and other requirements.
+
+· Forms:
+
+· Worked on SAP scripts, smart forms and adobe forms for various requirements related to purchase order and invoices.
+· Developed Adobe form from scratch for Reconciliation report of Russia showing the debtor detail in PDF format.
+· User exit, BADI and Enhancement: 
+
+· Created several User exit for specific requirements such as GST India for sales delivery and sales invoices.
+· Implemented BADI for enhancing automated monitoring in SOLMAN system for getting the workflow notification in errors across all other P1 regions (e.g WE, AP region).
+· Incorporated enhancement for purchase order related requirement where only the users maintained in custom table can take the action.
+· Interface
+· Worked on Idoc related issues and incidents mostly workflow related with Idoc notification failure and other production issues.
+· Module pool programming: 
+
+· Worked on ABAP/4 with module pool programming and enhancing the screens.
+
+· SQVI and Query: 
+
+· Developed SQVI, Infoset, user group and SAP query for finance requirements.
+· ABAP Tools: 
+
+· Transformation, 
+· File directory,
+· DMEE.
+· Learning and KT:
+
+· Attended classroom training and KT on Web-Dynpro with hands on session.
+
+· Attended classroom IBM training on basics of SAP HANA.
+Organizational Contribution & Achievements:
+· Received many appreciations from client and management for providing best possible solutions for the critical business requirements.
+
+· Active member of cultural events during the summer cultural and gaming events in IBM.
+· Active member in coordinating and organizing the events during Philip Morris's CIO visit to IBM Kolkata. 
+· Performed as an anchor during the fashion event organized inside PMI project.
+· Participated in IBM intra cricket tournament representing our tower. 
+· Emerged as class topper during SSC examination.
+· Remained 1st, 2nd or 3rd topper in class from class 6th to 10th.
+Personal Information:
+Nationality
+  :        Indian
+Marital Status
+  :        Single
+
+Languages              :        English and Hindi 
+Date of Birth          :        1st Jan. 1991 
+
+Passport No.
+  :        L1944344 (valid up to 25.04.2023)
+Place                      :        Hazaribagh, Jharkhand
+Current Location   :        Kolkata
+
+Behavior                :        Active, fair, courteous, punctual, confident, responsible, cool and friendly behavior.

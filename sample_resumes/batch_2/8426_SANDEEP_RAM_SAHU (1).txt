@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PARVEZ USMANI
+
+
+  
+
+                                                                                                                                                                                                                    
+SANDEEP RAM SAHU        
+Mob No.:- +91- 9931505378            
+E-mail: sandipsahu001@gmail.com          
+
+PROFILE SUMMARY: 
+
+ Over 2.10 years of experience that includes analysis, programming, support, and database administration. 
+
+ Experience in Modifying sp’s ,sql queries for fetching data according to requirment. 
+
+ Creating and Administering the SQL Server Databases like data and log file placements and managing the growth 
+parameters and database options. 
+
+ Expertise in Database backup, Recovery, Restoration and Disaster Recovery Plans. 
+
+ Experience in Creating and scheduling the jobs and troubleshooting the failed jobs. 
+
+ Experience in tools like Performance Monitor, Profiler, Import and Export wizard and Copy database wizard. 
+
+ Configuring, monitoring and troubleshooting the REPLICATION and DR activities. 
+
+ Configuring and Maintaining and troubleshooting the Database Log Shipping and also experience in Mirroring DR 
+activities. 
+
+ Worked as a database administrator for MS SQL Server databases, and supported applications with efficient back-
+end processing. 
+
+ Experience in using windows powershell for automation such as service alerts, disk space , backups etc. 
+
+ Design Automatic Deployment for BE objects in sql server using Powershell and Python 
+
+ Experience Object oriented Programming concepts(OOPs) using Python and Java 
+
+ Experience in working with various python integrated development environments like IDLE, Pycharm, Eclipse etc 
+
+ Experience with requests ,numpy ,beautifulsoup etc 
+
+ 
+ 
+
+TECHNICAL SKILL:-  
+
+ SQL Server Versions  SQL Server 2008, 2008R2 and 2012 
+ SQL server tools   SQL Server Management Studio, SQL Profiler, Performance 
+
+Monitor and DBCC Commands  
+ DR Configuration   Log Shipping , Mirroring,  Transactional Replications 
+ Operating Systems  Windows Server  2008 R2 and 2012 
+ Ticketing Tools   ITS, R-Track 
+ Other Essential Software  Microsoft Office Word, Excel 
+ Languages                                            PYTHON, JAVA, MS SQL  
+ Scripting language                             windows powershell, python 
+
+ 
+
+EXPERIENCE DETAILS:-  
+
+ Working currently as Operation Engineer with Ramco Systems, chennai since July 2015 To Present.  
+
+ 
+
+Education:- 
+
+ 
+B.tech(Hons.) 
+
+National Institute of 
+Technology,Jamshedpur 
+ 
+
+          
+           2015    
+
+    
+         8.66 
+
+         XII (CBSE) 
+ 
+ 
+
+D.A.V Public School, 
+Khunti, Jharkhand. 
+
+            2010        91.80% 
+
+mailto:sandipsahu001@gmail.com
+
+
+  
+
+         X (CBSE) D.A.V Public School, 
+Khunti, Jharkhand. 
+
+            2008        82.60% 
+
+ 
+
+ 
+
+PROJECT DETAILS:- 
+
+Project #1  
+Client  :  TAFE and TMTL 
+Role  :  SQL DBA  
+Duration  :  July 2015 to till date 
+Team Size  :  9 
+Environment  : SQL Server 2008/2012, Windows 2003, 2008 server 
+
+ 
+TAFE and TMTL is tractors and farm equipment limited having 1500 dealers across whole india based on ERP  
+Product.. 
+ 
+
+Roles and Responsibilities: 
+
+ Providing 24*7 Database production support to the customer which includes following activities. 
+
+ Created New databases, additional ou and additional company for 1000 dealers alone.. 
+
+ Resolving Tickets which include creating and maintaining databases, monitoring Disk Space, database integrity, 
+identifying missing Indexes, handling blocking 
+
+ Configuring and troubleshooting high availability scenarios like Log Shipping. 
+
+ Maintained & Monitored Alert/Schedule to make smooth replication process. 
+
+ Ensure and maintain sound backup and recovery policies and procedures. 
+
+ Database performance monitoring and tuning when required as per application and business    requirements. 
+
+ Performing the Failover and Failback operations in the cluster environment and adding the new Disks and 
+troubleshooting activities. 
+
+ Backup and restoring the databases from production to test environment. 
+
+ Identifying and Resolving the issues like blocking, dead lock, disc space, database corruption and  file growth 
+related. 
+
+ Monitoring of server performance using profiler and perfmon tools. 
+
+ Creating and reviewing Security features for all the servers. 
+
+ Configuring and monitoring the Database Mirroring and Log Shipping. 
+
+ Trouble shooting and resolving blocking, deadlock and disk space space issues.  
+
+ Ensuring Data consistency in the database through DBCC commands. 
+
+ Repetitive issues analysis and proposals for permanent resolutions. 
+
+ Taking backups from production servers and restoring them on UAT & simulation Servers 
+
+ 
+Project #2 
+
+        1.Automatic Backend Deployment Tool: 
+              Deploying BE sql server objects automatically using Python and powershell. 
+         
+        2.Web scraping Cricbuzz website to get the scorecard using Beautifulsoup in Python 
+         
+
+ 
+
+

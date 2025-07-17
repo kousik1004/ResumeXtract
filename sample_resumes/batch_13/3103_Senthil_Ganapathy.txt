@@ -1,0 +1,300 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Number: +91 - 9444 80 33 44
+Senthil Ganapathy
+
+
+
+
+
+Mail-ID
+: senthilg@live.com
+Bachelor of Engineering 
+
+
+
+
+
+Skype 
+: senthilg88
+
+
+Professional Summary
+
+· 7+ years of experience in Requirements gathering, Analysis, design and execution using Microsoft technologies.
+
+· Excellent understanding of OOP (Object Oriented Programming), ASP.NET and SQL Server.
+· Have good experience in UI Path and Blue Prism. 
+· Have good experience on architecture design using Tiered architecture, design patterns (Factory pattern) and Architectural patterns (MVC). 
+· Have good knowledge in WCF Applications.
+· Have good knowledge in reporting technologies like Crystal Reports.
+
+· Skilled at progressing from problem statement to well documented design. Managed complete life cycle of projects including project plan / timeline setup, maintaining project deliverables, creating status reports, creating sustenance reports and change management implementation.
+Technical Expertise
+
+
+Programming Languages
+
+: C#.Net
+Dot Net Technologies
+
+
+: ASP.Net, MVC, ADO.Net, LINQ, Web Services
+RPA Automation Tools
+
+
+: UI Path, Blue Prism 
+Front End Tools 
+
+
+: VS 2012, VS 2010 
+
+Web Related 
+
+
+
+: Java Script, Ajax, HTML, CSS, JQuery
+
+Web & Application Servers
+
+: 7.0 & 7.5
+RDBMS 
+
+
+
+
+: MS SQL Server
+
+Reporting Tools
+
+
+
+: Crystal Reports 
+
+Professional Experience
+· Currently working as an Associate – Projects at Cognizant Technology Solutions. (Chennai, India) from June 2016 to till date.
+
+· Worked as a Software Engineer in Ascent Emsys. (Chennai, India) from Feb 2011 to May 2016.
+
+· Worked as a Programmer Analyst in Aeronic Software Pvt. Ltd (Chennai, India) from Dec 2009 to Feb 2011.
+Educational Qualification:
+
+
+· Having first class Bachelor Degree in Computer Science from Vel Tech Engineering College, Chennai.
+· First class with 83% marks in the 12th standard.
+· First class with 91% marks in the 10th standard.
+Project:  RPA - Account Credit - Insurance             
+
+
+
+
+Position: Developer
+
+Client: Cognizant. (Chennai, India)                      
+            
+
+Description: This is the part of Insurance processes and the Automation involves web and windows, mainframe applications. UI Path Script Retrieve the values from the web pages and stores into the SQL Server Database, the process evaluation happens in the back end in the middle of the automation Scripts. The MVC Web forms are used to capture the decision making fields which was not handled by the robot as a Pre-work Entry from the associates. Robot will refer these inputs where and when required.  
+Responsibilities:
+· Responsible for analysis, design, implementation and deployment of code.
+
+· Estimated work effort and providing realistic timelines.
+
+· Used HTML, CSS, java script and Jquery for designing the front end. 
+
+· Used stored procedures, views and UDF in SQL Server.
+
+· Performed Unit Testing and Code Reviews.
+· Leaded 4 member team and responsible for reporting on status and effectiveness of process implementation at project level.
+· Responsible for auditing Work Products (including Study and cases) and deliverables to ensure that defined processes are adhered to meet customer quality requirements.
+· Responsible for Utilization of the BOT’s for the entire process weekly and monthly.
+Environment: UI Path, SQL Server 2012, MVC4, WCF, IIS 7.5, Web Service, HTML, CSS, JQuery, Ajax, Java script.
+Project:  RPA - Insured Request Cancellation – Insurance 
+
+
+
+Position: Developer
+
+Client: Cognizant. (Chennai, India)                      
+            
+
+Description: This is the part of Insurance processes and the Automation involves web and windows, mainframe applications and documents. UI Path Script (and Optima right –OCR Tool for reading documents) retrieves the values from the web pages and stores into the MS Access Database, the process evaluation happens in the back end in the middle of the automation Scripts. The MVC Web forms are used to capture the decision making fields which was not handled by the robot as a Pre-work Entry from the associates. Robot will refer these inputs where and when required.  
+
+Responsibilities:
+· Responsible for analysis, design, implementation and deployment of code.
+
+· Estimated work effort and providing realistic timelines.
+
+· Used HTML, CSS, java script and Jquery for designing the front end. 
+
+· Used stored procedures, views and UDF in SQL Server.
+
+· Performed Unit Testing and Code Reviews.
+
+Environment: UI Path, SQL Server 2012, MVC4, WCF, IIS 7.5, Web Service, HTML, CSS, JQuery, Ajax, Java script.
+Project:  Ticket Plus
+                                                 
+
+
+
+
+      Position: Developer
+
+Client: Hebron Infrastructure Pvt Ltd. (Chennai, India)                      
+            
+Description: Ticket Plus provides a single online portal integrating all the available services used by the bus operator. This portal offers options such as booking tickets for a round trip, allow travel agents to book tickets by recharging for a specific amount and booking tickets for that amount, cancellation of tickets, swapping tickets etc. This portal eases the maintenance and operation of the bus routes and services used by the operator and provides a single point of entry for the customer to perform any transactions.
+Responsibilities:
+· Responsible for analysis, design, implementation and deployment of code.
+
+· Estimated work effort and providing realistic timelines.
+
+· Designed Business Components, Data Access and Presentation layers.
+
+· Used HTML, CSS, java script and Jquery for designing the front end. 
+
+· Used stored procedures, views and UDF in SQL Server.
+
+· Performed Unit Testing and Code Reviews.
+
+· Implemented Exception handling and MVC architecture.
+· Implemented WCF Basic Http binding.
+· Used Crystal Report to generate admin reports.
+
+· Implemented caching, Exception handling and logging.
+
+Environment: ASP.Net/.Net Framework 3.5 & 4.0, C#, Visual Studio 2008 & 2012, SQL Server 2008, MVC3,WCF, ADO.Net,  IIS 7.5 ,Web Service, HTML, CSS, JQuery, Ajax, Java script, Windows XP.
+Project: - Window Shopping 
+
+
+
+
+
+
+                     Position: Developer
+Description: It is an ecommerce software that contains both a catalogue frontend and an administration tool backend. It is easy to use for new online businesses. Window shopping is a platform where you can sell your products or you can customize your online store and present them as your own store. You can manage your web shop end to end – from tax calculation,  payment and shipping methods to all store settings, product catalogues and variations, orders, and even discounts and coupons.
+Responsibilities:
+
+· Responsible for analysis, design, implementation and deployment of code.
+
+· Estimated work effort and providing realistic timelines.
+
+· Designed Business Components, Data Access and Presentation layers.
+
+· Used stored procedures, views and UDF in SQL Server
+· Used HTML, CSS, java script and Jquery for designing the front end.
+· Performed Unit Testing and Code Reviews.
+
+Environment: .Net Framework 4.0, C#, Visual Studio 2012, SQL Server 2008, MVC, Entity Framework, ADO.Net, HTML, CSS, JQuery, Ajax, Java script, IIS 7.5.
+Project: ParcelX                                                      
+
+
+
+
+
+      Position: Developer
+
+Client: Hebron Infrastructure Pvt Ltd. (Chennai, India)                      
+            
+Description: The ParcelX is a portal that provides an online hub for cargo operators to manage all their cargo transactions. The portal which helps to easily handle all cargo transactions like initial booking, waybill, consignment tracking, daily dispatches, inward, proof of delivery, return stock etc thereby easing the maintenance of huge cargo data and day to day transactions. It also provides the customers with various functionalities thereby enriching the customer experience and satisfaction.
+
+Responsibilities:
+
+· Responsible for analysis, design, implementation and deployment of code.
+
+· Worked with the client to get the requirements.
+
+· Estimated work effort and providing realistic timelines.
+
+· Performed Unit Testing and Code Reviews.
+
+· Implemented Exception handling and 3 tier architecture.
+
+· Used Crystal Reports and Excel to generate reports.
+
+Environment:  ASP.Net/.Net Framework 2.0, C#, Visual Studio 2005, SQL Server 2005, ADO.Net, Crystal Reports, IIS 6.0, HTML, JQuery, CSS, Ajax, Java script, Windows XP.
+Personal Details:
+Date of Birth
+
+: 20-05-1988
+
+
+Address
+
+          
+: 50-S1, VGN Platina, 
+            
+  Ambigai Nagar,  
+
+            
+  Ayapakkam, 
+            
+  Chennai – 600 077.
+Email
+
+
+: senthilg@live.com
+Alternate Contact No
+: 9444681207 
+Place: Chennai
+Date:   
+
+
+
+
+
+
+
+
+
+(SENTHIL.G)

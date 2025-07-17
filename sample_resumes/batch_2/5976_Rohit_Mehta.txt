@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Basis Resume
+
+
+                 Rohit  Mehta
+  
+
+         SAP Basis/ hana Consultant
+
+Email:rohitsdmehta@gmail.com                                 Mobile: +91-9029075596                  
+
+SUMMARY
+
+· Having 2.7 + years of IT Experience which includes SAP Basis Administration, SAP HANA Administration, SLT (System Landscape Transformation) Admin
+· Excellent learning skills and genuine commitment to excel in the emerging technologies.
+·  Knowledge on SAP Basis Administration include Solution Manager Build, Support Pack Installation using SPAM & SAINT , System Copy , Profile Parameter Configuration , Regular SAP ECC System Monitoring , SAP Client Administration , RFC Connection, SAP Router Configuration
+· Have excellent troubleshooting, interpersonal, technical skills and analytical skills and worked on below technology
+
+· Knowledge on HANA Database Administration and Performance Issues and Integrating SAP and Non SAP System with SAP HANA through SLT (System Landscape Transformation)
+· Knowledge on SAP HEC (HANA Enterprise Cloud) Support
+·  Knowledge on the Transport Management system in HANA
+·  Knowledge in the BI (Business Intelligence ) Landscape
+Experience Summary:
+
+· Working as Associate Consultant for Capgemini India since April 2015
+PROFESSIONAL  EXPERIENCE
+
+Project                      : Mosaic Company
+Duration
+
+: October 2016 to till date.
+
+Environment
+: HANA SPS 11 (Rev 112.07), SAP Netweaver 7.4
+Operating System:  SUSE Linux 11.3
+Database                  :  HANA
+Description:
+
+The Mosaic Company is a combined producer and marketer of concentrated phosphate and potash. Its customer base includes wholesalers, retail dealers and individual growers in more than 40 countries. It is the largest U.S. producer of potash and phosphate fertilizer.
+
+Roles and responsibilities:
+
+· Supporting to all systems in 16*5 environment in client environment
+· Knowledge on Ticketing Tool (Service Now) 
+
+· Monitoring HANA Alerts in HANA Studio, CPU Usage and disk usage , Backup Monitoring & HANA Performance Monitoring
+
+· HANA Table Maintenance, Configuration Parameter(Recommended by SAP Note) ,Table Maintenance, Performance Optimization& other daily activity
+· House Keeping Activity  on HANA Database
+· Transportation of HANA Views, Delivery Unit & SAP BO universe and Report across environment
+· HANA Database and SLT User and Authorization Management
+· HANA Database Table Administration and Maintenance and other maintenance activities 
+· Got Exposure to BODS (Business Object Data Services) and BOBJ 
+· SLT (System Landscape Transformation) includes schema creation for SAP and Non SAP Source System) to HANA
+· Ad hoc Table Load Request in SLT for SAP and non- SAP schema
+· Advance Replication Setting & Selective Data Replication through SLT
+· Achieved Automation in SLT Jobs monitoring through email notification alert from SLT System
+  
+ Project            : Weyerhaeuser
+Duration         : May 2016 to August 2016
+Designation    : Basis Consultant.
+
+Environment   :  Windows, Oracle, SAP Netweaver 7.4
+Roles and Responsibilities:
+
+· Worked as SAP Basis Consultant
+· SAP Router configuration
+· Client administration includes local client copy
+· Raising the OSS message and coordinating with team to resolve issues and opening system for OSS Support
+· Support Pack and Add on installation using SPAM & SAINT 
+· Backup using RMAN Configuration 
+· Worked on SMTP Configuration
+· Creation of RFC’s between ECC, SCM and BW.
+
+· Establishing the RFC connections 
+  
+ Project            : SAP Solution Center
+
+Duration         : October 2015 to May 2015
+
+Designation    : Basis Consultant.
+
+Environment   : Linux ,Windows, HANA, SAP Netweaver 7.4
+Roles and Responsibilities:
+· Implementing SAP Note and OSS Connection 
+· Worked on starting and stopping SAP instances and SAP Database instances and HANA Backup
+· Client administration includes local, remote client copy.
+
+· Object and Developer Key generation
+· Support Pack and Add on installation using SPAM & SAINT and SUM Tool
+· Homogenous System copy using SWPM
+· Migration Of Transport across system and environment
+· Monitoring of SAP System which includes
+· SAP work process analysis
+
+· Workload analysis.
+
+· Identifying and analyzing update errors and lock entries
+
+· Identifying and analyzing database locks
+
+· Background jobs monitoring 
+
+· Monitoring operating system data in SAP system
+
+· Client administration which includes checking client status i.e. open and close clients
+Training Attended
+
+· SAP BASIS ,S/4 HANA (Basic & Intermediate) 
+Educational Qualification
+
+· Bachelor Information Technology Engineering (IT) from Mumbai University (2010-2014)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (Rohit Mehta)
+

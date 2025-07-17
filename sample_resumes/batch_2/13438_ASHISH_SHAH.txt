@@ -1,0 +1,282 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                      
+ASHISH SHAH
+LEAD ADMINISTRATOR
+WIPRO Limited
+OCT ’2014- ’AUG ’2017 Present
+
+Mobile: +91 9986074404                                                                                                   e-Mail: ashishshah.engg@gmail.com
+
+
+An accomplished IT professional with over  9.5 years of result driven and diversified experience in Software Development Life Cycle, I am looking for an opportunity that utilizes my technical expertise in Integration using IBM WebSphere Application server and Portal Administration
+
+	
+
+PROFESSIONAL SUMMARY
+
+· Lead Administrator for WebSphere Server and Portal Administration
+
+· 8 years of Administration Experience in Installation & Configuration on multiple platforms, Packaging & Deployment of applications, Migration, Cluster Management, Performance Tuning, Troubleshooting, Security management, Work Load Management and WSadmin scripting using Jython.
+
+· IBM Certified System Administrator-WebSphere Application Server Network Deployment V8.0
+
+· Primary Interview Panelist for WebSphere Technologies in Wipro Limited
+
+· WebSphere Deployment automation achieved using BMC BladeLogic tool
+
+· Experienced with building, deploying and troubleshooting in AWS Cloud
+
+· Designed and developed CI/CD(Continuous Integration Continuous Deployment) pipeline using DevOps tool like Jenkins, Terraform, Packer, GIT , Puppet across geographically separated hosting zones in Amazon Web Service (AWS)
+
+· Automated  Release management process using orchestration tool XL-Release
+
+· Experienced on Unix Shell, Python and Puppet Scripting
+
+· Expertise in Installation, Configuration, Deployment and Maintenance of SiteMinder Components like the Policy Server, Web Agent, TAI Agents, Policy Store and Key Store
+
+· Widely and deeply knowledgeable in all aspects of ITIL management and coordination
+
+· Worked in an AGILE Project and aware of various AGILE process and functions.
+
+· Experienced in Project Management roles and responsibilities
+
+· 4  Years Onsite experience- Possesses Strong negotiation and Customer facing skills and Strong Analytical and Problem solving skills
+
+
+ 
+
+TECHNICAL SKILLS
+
+Middleware System                            •  WebSphere Application Server 6.x, 7.x & 8.x 
+     • WebSphere Portal Server 6.x, 8.x 
+Web Servers	                                    •  Apache   •  Tomcat    •  iPlanet    •  IIS	
+Operating System                                •  Windows    • Solaris   • AIX   •  LINUX 
+Applications                                          •  CA SiteMinder   •  AppDynamics    •  Splunk   •   JIRA
+Ticketing Tools 		                     •  BMC Remedy Tool   •   Atlassian JIRA   •  AxiosSystems  Assyst
+Repositories     			       •  SVN   •  Atlassian Confluence    •  Sonatype Nexus
+Web Technologies                               •  XML  •  HTML
+Scripting                                                 •  Shell   •  Jython/Python   •  Puppet    •  Powershell
+DevOps Tools                                        •  Jenkins   •  Terraform   •  Packer   •  GIT
+Deployment Automation Tools         •  BMC Bladelogic   •  Xebia  XLRelease   •  IBM BuildForge
+Cloud                                                       • Amazon WebServices(AWS)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROJECT EXPERIENCES
+
+
+
+Project #1                                        :             AVIVA Project
+Client				 :     	AVIVA Life Insurance (UK)
+Role				 :     	Lead Administrator, Project Management
+Duration	                           :    	January 2015 to Present
+
+Description: Aviva provides around 34 million customers worldwide with insurance, savings and investment products. They are the UK's largest insurer and one of Europe's leading providers of life and general insurance.
+Responsibilities:
+· Expertise in installation, configuration, clustering and administration of WebSphere Application Servers, Portals servers, IBM Connections on Solaris, Linux, AIX, Windows operating systems.
+· SPOC for all the environment issues in the Project
+· Successfully migrated the On Premise WebSphere architecture to AWS Cloud
+· Automated entire Release Management workflow with XL-Release tool
+· Lead the team of 8 people and performed Project Management activities.
+· Frequent interaction with Client to understand requirement and was an Onsite Co-ordinator for Offshore team
+· Various Technical session conducted within the team and for Client for AWS Cloud, XLRelease, WebSphere, Jenkins, Terraform, Packer
+· Performed WebSphere Automation with BMC BladeLogic tool
+· Lead WebSphere interview panelist for the company
+
+
+Project #2                                        :       AIRBUS INID Integration Bundle
+
+Client				:       AIRBUS, Toulouse (France)
+Role				:       Core Integrator, Offshore Lead (Offshore) for Websphere
+				        Integration Co-ordinator (Onsite)
+Duration	                          :       January 2008 to August 2013
+
+Description:
+Airbus is a leading aircraft manufacturer, with the most modern and comprehensive aircraft family. This project deals with maintenance of applications (400 applications) used by Business End Users. 
+Responsibilities:
+· Installation, Administration, Monitoring of IBM WebSphere Application Server, IBM WebSphere Portal Server, Apache Webserver on Linux, Unix and Windows platform.
+· Troubleshooting on application server, webserver, and plugins.
+· Worked on Critical, High, Medium and Low tickets.
+· Involved in creating and managing of Nodes, Clusters and Application servers.
+· Deployment of new J2EE Application on Websphere Infrastructure.
+· Applying Fix pack and Security patches on various platforms.
+· Federation of Nodes to Deployment Manager
+
+
+
+
+
+
+· Preparation of reports and knowledge documents.
+· Involved in managing of SiteMinder installations and configurations on both V6 and R12 environment and migrations of applications from V6 to R12.
+· Creating Users, Groups, Technical Accounts, Service Accounts, Creation of Context in LDAP.
+· Netegrity Policy Server Configuration – Agent name Creation, Agent Group Creation, Agent Configuration Object, Realms creation, Addition of Rules to the Realms, Creating Policies.
+· Reverse Proxy Configuration on both LAN and DMZ on both UNIX and WINDOWS platforms.
+
+
+
+
+
+
+· Mentoring and providing training to new joiners.
+· Worked as Websphere Lead for resolving Technical issues.
+· Onsite coordinator for Websphere Applications.
+· Live Websphere Production deployments at Client location.
+· Requirement gathering for new infrastructure.
+· Preparing and attending the weekly and quarterly Steering meeting to present to Client.
+· Training Material preparation for all the new functionality developed in Airbus and arranged for training sessions for all new Airbus Users.
+· Performing Project Management activities.
+· RFP preparation for all new proposals of projects at Airbus.
+
+
+
+
+
+Project #3                                        :             DAIMLER Project
+Client				 :     	Daimler AG, Stuttgart (Germany)
+Role				 :     	L1+L2 Lead and L3 Support for Websphere Administration
+Duration	                           :    	September 2013 to October 2014
+
+Description: Daimler, one of the world’s most successful automotive companies, is the biggest producers of premium cars and the world’s biggest manufacturer of commercial vehicles. This project deals with maintenance of applications (160 applications and its sub modules) used by Business End Users. It involves complete End to End support of applications for all environments with 24x7 Support.
+Responsibilities:
+· Installation, Administration, Monitoring of IBM Websphere Application Server, IBM Websphere Portal Server, Apache Webserver on Linux, UNIX and Windows platform.
+· Monitoring Application through eMON, Nagios and HealthChecker tool.
+
+
+· On-call Support (24x7), Monitoring and maintaining multiple Applications on various environments like Integration, Testing, Education, Development, and Production.
+
+
+· As part of L3 activities, provides suggestion for improvements in the infrastructure and Root Cause Analysis for all Critical issues.
+· Incident and Problem Ticket Resolution via BMC Remedy Tool.
+· Morning Meeting report preparation for all the outages happened in a day and present to Client.
+· KT session provided related to ITL Process and Domain knowledge along with Basic WebSphere information to all fresher’s joining the project.
+ACHEVIEMENTS & CERTIFICATIONS
+
+
+
+· Received “Most Promising Fresher” Award for Year 2008
+· Received “Most Valuable Player” Award for MFG Unit for Year 2009.
+· Received “On The Spot” Award for the year 2010 as a recognition for Troubleshooting skills for Websphere
+· Received “Airbus Team Spirit” Award for year 2010.
+· Received “Bangalore DC Samarpan” Award from N.Murthy for outstanding contribution for Corporate Social responsibility (CSR) Group.
+· Received “Wipro Excellence Award” for Insurance vertical for Q1 FY 2017-18
+· Awarded “Feather in the Cap” award by the Client for excellent contribution towards WebSphere deployment automation using XL-Release
+
+
+ACADEMIC QUALIFICATIONS
+
+
+
+	
+2007
+	
+Bachelor of Engineering (Computers)
+
+	
+VIT, Mumbai
+
+	
+2003
+	
+Higher School Certificate(HSC)
+
+	
+Khalsa College, Mumbai
+
+	
+2001
+
+	
+Secondary School Certificate (SSC)
+	
+DNK & LVA English School, Mumbai
+
+
+
+
+PERSONAL DOSSIER
+
+             
+ Full Name	:	Ashish Pankaj Shah
+Date of Birth	:	November 24, 1985
+Gender   	:	Male
+Nationality	:	Indian
+{Ashish Shah}

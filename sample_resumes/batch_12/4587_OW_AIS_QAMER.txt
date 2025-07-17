@@ -1,0 +1,387 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+ 
+OWAIS QAMER (MS-SQL DBA) 
+
+MOBILE NO: 9681100906 
+
+E-MAIL: owais.qamer10@gmail.com 
+
+------------------------------------------------------------------------------------------------------------ 
+
+Executive Summary: 
+
+Team Lead for the DBA and Release Management team. Blends academic training in 
+Production Server and database management, with hands-on experience in dealing 
+with clients and resolving tricky problems. With a proven track record of  managing 
+resources and delivering on assignments accurately and efficiently. 
+
+Want to work in an esteemed organization, where my technical proficiency can be utilized. A 
+workplace that will challenge my skill set, expand my knowledge and offer opportunities for 
+personal and professional growth. 
+
+ I believe in hard work and my mantra of success is dedication and determination. A self-
+motivated, responsible and reliable team player with a set of very strong technical and 
+communication skills. 
+
+ 
+PROJECT PROFILE: 
+ 
+
+A Development and Production SQL Server DBA on Microsoft SQL Server 
+(2008/2008R2/2012/2016). Currently working on a innovative product called HedgeTek which is 
+a Hedge Fund Accounting and Management System for ‘Fi-Tek Pvt Ltd’, Kolkata. 
+ 
+
+ Project             :      HedgeTek (Hedge Fund & Allocation Product) 
+
+ Platform         :       Microsoft VB and  .Net using C# on SQL Server 2008, 2012 and 2016  
+ Clients          :   CITIBANK, JPMC, GOLDMAN SACHS, BANK OF NEW YORK, UNITED STATES 
+
+BANK CORPORATION, NORTHERN TRUST, UBS etc. 
+
+ Team Size         :       4 
+ Designation      : TEAM LEAD 
+
+ 
+Installation of a SQL Server 
+
+Set Up & Configure SQL Server 
+
+Configure SQL Integration Services 
+
+HedgeTek Application Installation & Deployment for 
+New Client 
+
+HedgeTek Application Installation & Deployment - Build 
+Upgrades  
+
+HedgeTek Application Installation & Deployment - 
+Fix\Patch Upgrades  
+
+Visual Source Safe Source Control - Archiving for HT 
+
+Source Control - HT Data Model & Archiving 
+
+Build Release - Script Building for HedgeTek 
+
+Patch Release  - Script Building For HedgeTek 
+
+HedgeTek Application Support & Trouble Shooting 
+
+
+
+ 
+ 
+ 
+HedgeTek Application SSIS Installation, Deployment & 
+Support 
+
+Environment Set Up - Client & Local Development 
+
+HedgeTek Application SQL Performance Tuning 
+
+HedgeTek Client Release 
+
+HedgeTek Client Interaction 
+
+ 
+CORE RESPONSIBILITIES: 
+
+    Installation, configuration and maintenance of MS SQL Server. 
+
+ Service packs and Patch management. 
+
+ Good understanding of SQL server architecture and databases design. 
+
+ Up grading the environment from SQLSERVER 2000, 2005, 2008 to SQL SERVER 2008R2. 
+
+Then from SQL SERVER 2008R2 to SQLSERVER 2012 and 2016. 
+
+ Migration of databases between the servers. 
+
+ Creating and implementing Disaster Recovery Plan. 
+
+ Experience in performing regular Backups and scheduling tasks.  
+
+ Database Compression, Row and Page Compression tasks.  
+
+ Checking the status of Backup troubleshooting the failed backups and Restoration of 
+
+databases. 
+
+ Administering Large Databases from capacity planning to database design and 
+
+maintenance. 
+
+ Experience in creating databases based on functional requirements and system design.  
+
+ Managing Security (Creating users, logins and roles, granting permissions).  
+
+ Ensuring Data consistency in the database through DBCC commands. 
+
+ Daily Log checking for errors on Production Server.  
+
+ Monitoring free space of database. 
+
+ Backup the Database by writing the appropriate scripts and also by using the SQL Lite 
+Speed Tool. 
+
+ Restoring the Databases by writing the appropriate scripts and also by using the SQL Lite 
+Speed Tool. 
+ 
+
+ Monitoring Database performance and optimizing performance. 
+
+
+
+ 
+ 
+ 
+
+ Troubleshooting performance issues and fine-tuning queries and stored procedures.  
+
+ Have worked extensively on Performance enhancements of databases. 
+
+ Expertise in using SQL server performance monitor, Index Tuning & SQL query analyzer 
+
+for monitoring SQL Server. 
+
+ Creating Index & managing other objects of Database. 
+
+ Setting up Log Shipping on the Servers.  
+ 
+
+ Maintaining metadata integrity and documentation for future references 
+ 
+
+ Monitoring SQL Server Database Mirroring and troubleshooting.  
+
+ Providing connectivity and troubleshooting of connectivity problems.  
+
+ Good knowledge of SSIS implementation. 
+
+ Providing 24/7 On-Call support for critical production database. 
+
+ Strong documentation and reporting skills. 
+ 
+
+ Creating Weekly and Monthly reports for the Database Growth and Performance 
+
+Statistics. 
+
+ Participation of team meeting on a Bi-weekly basic for a discussion on the process and 
+
+upcoming tasks. 
+
+ 
+PROJECT MANAGEMENT AND PLANNING: 
+
+ 
+1. Release script creation and Pre release Database comparison. 
+2. Version update and Release script deployment. 
+3. Expert on Change Management. 
+4. Gate keeper and Security Admin for live Data Centers housing PRODUCTION database 
+
+for multiple clients. 
+5. Scheduling the backup’s according to the Company standards and requirements and 
+
+also trouble shooting the issues related to the Backup’s and Recovery processes with 
+immediate workarounds and providing the complete Disaster Recovery solutions to the 
+business. 
+
+6. Expert in deploying SSIS packages and troubleshooting issues in PRODUCTION as well as 
+Development environment. 
+
+7. Automated script has been written for checking the health of the server. 
+ 
+
+ 
+ 
+
+
+
+ 
+ 
+ 
+
+HIGHLIGHTS & ACCOMPLISHMENTS: 
+ 
+
+1. Was selected to join the INDIAN ARMY after passing the SSB examination at Allahabad 
+in 2011. 
+
+2. Was personally handling two of the largest and most prestigious clients (CITI & JPMC 
+among others) from the technical side. 
+
+3. Two times ‘Star Performer of the year’ (2014 & 2016) 
+4. Team Lead in spite of being the youngest in the team. 
+5. Numerous appreciation mails from the clients as well as from the Managing Director 
+
+of the company. 
+
+ 
+ 
+EDUCATIONAL QUALIFICATION: 
+
+ 
+Examination   
+
+ 
+Discipline/ 
+
+Specialization 
+School/College Board/ 
+
+University 
+Percentage 
+
+ Graduation Computer Science Seacom Engineering 
+College 
+
+West Bengal 
+University of 
+Technology 
+
+80.3% 
+
+ISC Science The Assembly of God 
+Church School 
+
+CISCE 82% 
+
+ICSE Science The Assembly of God 
+Church School 
+
+CISCE 81% 
+
+ 
+
+ 
+TECHNICAL SKILLS: 
+ 
+
+ Operating System:  Windows 2005, 2008, 2012 
+ RDBMS: SQL Server 2008, 2008 R2, 2012 
+
+ SQL Tools: SQL Server Profiler, SQL Performance Dashboard 
+ Redgate Tools: Redgate SQL Compare, Redgate SQL Data Compare 
+
+ Operating System: Microsoft Windows 2005, 2008, 2012 
+ 
+
+ 
+ 
+Personal Details: 
+
+ 
+
+Name             :  OWAIS QAMER 
+
+Date of Birth             :  30th June, 1988 
+
+Father’s Name                       :  Mr Zeyaul Qamer 
+
+PassPort Number                  :  J8735660 
+
+Nationality       : Indian  
+Linguistic Proficiency      : English, Hindi, Bengali and Urdu  
+
+Marital Status                         : Single 
+
+
+
+ 
+ 
+ 
+Mob. No                                   : 9681100906 
+E-Mail                                : owais.qamer@gmail.com 
+
+ 
+ 
+
+REFERENCES: 
+ 
+
+1. Mr Surajit Banerjee (Managing Director) 
+Fi-Tek Private Limited 
+E-Mail: RBanerjee@Fi-Tek.com 
+
+Contact No: +91 9830051543 
+ 
+ 
+
+2. Mr Siddhartha Samajdar (Senior Manager) 
+Fi-Tek Private Limited 
+E-Mail: siddhartha.samajdar@fi-tek.co.in 
+
+Contact No: +91 9830584482 
+
+ 
+
+ 
+
+Declaration: 
+ 
+
+ I hereby declare that all the details furnished above are true to my knowledge and 
+belief. 
+
+            
+            Your’s Sincerely,     
+
+       Owais Qamer    
+
+ 
+
+mailto:owais.qamer@gmail.com
+

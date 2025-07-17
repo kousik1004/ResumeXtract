@@ -1,0 +1,387 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sandeep_Kumar_Yadav_Resume
+
+
+     Sandeep Kumar Yadav                                                   Email Id: san24dec@gmail.com 
+Designation: Software Engineer                                                                                 M. No: 09043850912    
+
+                  
+
+ 
+
+          Summary 
+ 
+
+Sandeep Kumar Yadav has more than 5 years of experience in Data ingestion, Extraction and 
+
+Integration. He has worked on multiple DWBI projects involving various Business scenarios and Domain 
+
+Visions, with market leaders in their respective spaces Fox Networks Group, General Electric Oil and Gas, 
+
+Experian Services Corp, and Fox Filmed Entertainment. He has good exposure in Business verticals 
+
+including Entertainment, Banking and Retail. 
+
+ 
+He has an excellent understanding of Data Warehouse concepts and Business Intelligence with good 
+
+knowledge of ETL and QA processes. He has strong technical and analytical skills, including Informatica 
+
+PowerCenter, Talend and Databases Amazon Redshift, Netezza, Greenplum, Oracle and SQL server. He 
+
+has worked in windows and Unix Operating system. He is a quick learner and easily adapts to new 
+
+technologies and business domains. 
+
+ Expertise in data warehousing and data integration concepts, techniques and methodologies. 
+
+ Have strong Knowledge and experience in ETL tools including Informatica Powercenter 10.x, & 
+
+Talend. 
+
+ Have more than 1.5 years of intensive experience in Amazon cloud products like Amazon Redshift & 
+
+S3 
+
+ Analyze the Business Requirements and Prepare Detailed Design documents both High Level 
+
+Document (HLD) and Low-Level Document (LLD).  
+
+ Experience in Data Cleansing, profiling, standardizing and integrating various data set formats into 
+
+landing, staging and warehouse from various source systems. 
+
+ Extensively used Transformations like Router, Aggregator, Joiner, Expression, Lookup, Update strategy 
+
+and Sequence generator, control flows. 
+
+ Experience in performing historical, incremental loads, change data capture and batch processing 
+
+from and to on premise and cloud applications and database. 
+
+ Involved in the development of mappings (SCD I/II) and Unit test cases, Code review, Turnover the 
+
+code for system testing team(SIT/UAT) and provide support. 
+
+ Tuned the performance of mappings and applied best practices. 
+
+ Migrating of development mappings to QA and production environments. 
+
+ Developed unix scripts to automate various processes. 
+
+ Worked with a range of stakeholders like data scientist, Business Users, architects and reporting. 
+
+ Experience in handling and leading onshore and offshore team model. 
+
+ 
+
+Skill Set 
+ 
+
+Databases 
+Amazon Redshift, Netezza 7.1, Greenplum 4.3, Microsoft SQL Server 2012, Oracle 
+
+11g, S3 
+
+Data Integration Tools Informatica PowerCenter 8.5.1 /9.0.1 /9.5./10.1, Talend 5.6,  SSIS -2008/2012  
+
+Query Tools Oracle Sql Developer/Aginity / PgAdmin 
+
+Reporting Tools Tableau 9.2 
+
+Scheduling Tools Autosys 
+
+Languages  SQL, PL/SQL , Shell , Python 
+
+Operating Systems Unix, Windows XP/ 7/ 8 , Linux 
+
+Data Replication Tool IBM InfoSphere Data Replication 10.2 
+
+ 
+
+ 
+
+
+
+     Sandeep Kumar Yadav                                                   Email Id: san24dec@gmail.com 
+Designation: Software Engineer                                                                                 M. No: 09043850912    
+
+                  
+
+ 
+
+Professional Experience 
+
+Current organization: Systech Solutions Inc., Chennai  
+
+Duration: December 2012 till now 
+
+Designation: Senior Software Engineer 
+
+Systech is a leading provider of services and solutions in the area of Business Intelligence and Data 
+
+Warehousing for companies around the world for over 20 years. Systech’s unique approach enables 
+
+clients to make continuous, fact-based decisions to improve their revenue and create value. 
+
+ 
+
+Project Details 
+
+ 
+
+FOX Networks Group - FNG- Data Platform Modernization 
+
+Data Engineering Lead             Apr 2017 – Present 
+
+Fox Networks Group is a primary operating unit of 21st Century Fox. FNG consists of Fox Television Group, 
+
+which includes Fox Broadcasting Company and 20th Century Fox Television; FOX Sports Media Group; 
+
+Fox Cable Networks, which includes FX Networks and National Geographic Partners; and Fox Networks 
+
+Group Europe, Asia, and Latin America. Together these units create, program and distribute the world's 
+
+most popular entertainment, sports and nonfiction programming. 
+
+ 
+
+The Scope of the project is to Migrate current suite of DW applications from the SQL Server platforms to 
+
+the Amazon’s Redshift platform on the cloud by building a unified data model. Developing ETL objects 
+
+to ensure compatibility to work with Redshift environment. There are total of 5 sprints which covers 36 
+
+applications that are needed to be migrated to Amazon Redshift environment. 
+
+This modernization process for Fox Network Group is to build Enterprise Data Hub for all the process and 
+
+to build reports from there. Main objective of this initiative to modernize the Data Platform for Fox 
+
+Network Group, by consolidating on Cloud within the framework defined by the 21CF Data Platform 
+
+and Technology stack.  
+
+This architecture enables the business with an ability to consolidate and analyze Ad sale revenue across 
+
+many systems and channels. Design and Implement an “EDH” on cloud to satisfy the analytical needs 
+
+for Ad Sales. Develop a Unified Data Model and Build cutting edge Visualization Analytical dashboards 
+
+using the common reporting tool(Tableau). 
+
+Role and Responsibilities: 
+
+ Developed Informatica Mappings for all complex fact tables involved in the project 
+
+ Changed Store Procs to SQL Scripts and prepared STTMs to develop the mapping 
+
+ Developed Full Pushdown Compatible mappings 
+
+ Worked for migrating the objects from different environments (DEV/QA/PRODUCTION)  
+
+ Performed regression and integration testing for newly developed process. 
+
+ Worked on enhancements/bug fixes in Developed Model and ETL objects 
+
+ Provided technical support for the ETL team and Reporting Team 
+
+ Coordinated and communicated with the business data users to understand their concerns and 
+
+assisted in resolving issues or provided clarifications 
+
+
+
+     Sandeep Kumar Yadav                                                   Email Id: san24dec@gmail.com 
+Designation: Software Engineer                                                                                 M. No: 09043850912    
+
+                  
+
+ 
+
+ Interacted with Clients on gather the requirements 
+
+ Helped the offshore team members technically and enhanced their Technical & soft skills 
+
+ 
+
+Project Environment: Informatica 10.1, AmazonRedshift, S3, Python, Unix, SQL server, Winscp, Autosys 
+
+ 
+
+General Electric Oil & Gas - Install Base 
+
+ETL Developer                           July 2016 – Mar 2017 
+
+The scope of the project is to design unified datamart for all business of GE Oil & Gas, using Talend as ETL 
+
+to feed the data in DW in Greenplum and creating reports over the DW using Tableau reporting tool. 
+
+ 
+
+Role and Responsibilities: 
+
+ Designing the Data base architecture (deciding tables, column, data types, constraints, distribution 
+
+columns) for business data model in Greenplum database. 
+
+ Analyzing and designing the logic for the business requirements. 
+
+ Creating Talend job to load the data in DW and testing & doing production support. 
+
+ Developing the dashboard and reports in Tableau for better data-driven decisions in optimal ways. 
+
+Project Environment:  Talend, Grenplum , Aginity , PgAdmin 
+
+ 
+
+Experian Services Corp - Platform Migration to IBM Netezza 
+
+ETL Developer                            Feb 2015 – Apr 2016 
+
+Experian, a global information services company, helps businesses to manage credit risk, prevent fraud, 
+
+target marketing offers and automate decision making. They also help people to check their credit 
+
+report and credit score and protect against identity theft. 
+
+The scope of this project is migration of stored procedures from SQL Server to Netezza database and 
+
+redirect   Informatica mappings to the newly migrated database. 
+
+Role and Responsibilities: 
+
+ Perform NZLOAD to tables from source data files. 
+
+ Migrate stored procedure from SQL server to Netezza, ensuring same functionality. 
+
+ Migrate SQL server Informatica mappings to compatible Netezza Informatica mappings. 
+
+ Performed unit testing by comparing the data of the MS SQL server and Netezza tables. 
+
+ Production support for procedures and Informatica. 
+
+Project Environment:  SQL Server 2008/2012, Netezza 7.1, Informatica 9.5, SSIS, UNIX Shell Scripting 
+
+ 
+
+Fox Filmed Entertainment - Vudu Development 
+
+ETL Developer              Oct 2014 - Jan 2015 
+
+Vudu is a content delivery company responsible for interactive media services. Vudu distributes full-
+
+length movies over the Internet to television in the USA. The goal of this project is to deliver Vudu sales 
+
+reporting capability to CATMAN.  
+
+ 
+
+
+
+     Sandeep Kumar Yadav                                                   Email Id: san24dec@gmail.com 
+Designation: Software Engineer                                                                                 M. No: 09043850912    
+
+                  
+
+ 
+
+Role and Responsibilities: 
+
+ Developing shell scripts to automate the process. 
+
+ Creating Mappings to load data to final tables. 
+
+ Creating Test Plan, test case and unit testing Documents  
+
+ Testing various functionalities of the project. 
+
+ 
+Project Environment: Informatica PowerCenter 9.0.1, Netezza, SQL Server 2008, UNIX Shell Scripting. 
+
+Fox Filmed Entertainment - CATMAN Stabilization and Support  
+
+ETL Developer                                                                                    Mar 2013 – Sept 2014 
+
+CATMAN data relates to marketing, sales and distribution of its products to create and maintain weekly, 
+
+monthly, and quarterly reports.DW2 application tracks international sales data of Home Entertainment. 
+
+VMI controls the volume of stock and frequency of delivery that each store receives based on POS 
+
+data. CIA tracks the domestic market data from AC Nielsen and RENTRAK to assist marketing and 
+
+research group. 
+
+ 
+
+Role and Responsibilities: 
+
+ Technical support for the production system and resolving process defects, data quality issues   
+
+ Working on enhancements/bug fixes in ETL objects 
+
+ Migrating ETL objects from Informatica 9.1 to Informatica 9.5 
+
+ Standardizing shell scripts in production environment 
+
+ Designing ETL process for Fox-BestBuy and data loading scripts to automate the process 
+
+ 
+Project Environment: Informatica 9.1, NETEZZA 7.1, UNIX Shell Scripting, Oracle 9i, MS SQL Server 2008 
+
+Achievement and certification: 
+
+ 
+ Certified Data Integration Consultant, Systech Academy, India 
+
+ Certified ESOL International (Business English Entry Level 3), Cambridge ESOL. 
+
+ Undergone IBM Cognos Training. 
+
+

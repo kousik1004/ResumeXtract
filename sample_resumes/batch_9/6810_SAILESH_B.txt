@@ -1,0 +1,345 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAILESH B
+Contact Details: +91-7204161714
+
+Email Id: saileshbalaji05@gmail.com
+LinkedIn Profile: linkedin.com/in/saileshbalaji
+
+Data Scientist with 2 Years of Experience in the field of Statistics, Data Science, Machine
+Learning and Optimization with a Masters degree in Industrial Engineering and Management
+from National Institute of Technology, Calicut and Productising Analytical Solutions for the
+day to day Business Problems in the Customer, Retail and Supply Chain Analytics Domain.
+
+Professional Experience:
+ Associate Data Scientist
+
+Manthan Software Solutions Pvt. Ltd. - Oct 2016 to Present
+o Responsibilities: Understanding the Business Use Case, Literature Review, Gathering the Required
+
+Data for Analysis, Building a Prototype Model, Evaluation, Benchmarking and Productising the
+Solution.
+
+o Projects Completed:
+ Substitute Demand Estimation:
+Estimation of substitutability of a product, which allows us to predict the future self-demand as well
+as substitutable-demand of a product.
+ Assortment Optimization:
+Determination of optimal group of products in a category to be displayed in the shelf which
+maximizes the revenue.
+ Shelf Space Optimization:
+Allocation of optimal facings, location and number of units for each of the product in the shelf so as
+to maximize the turnover.
+ PMML Models for Customer Analytics:
+Predictive Model Markup Language (PMML) is an XML based predictive model development and
+sharing format for faster integration and deployment.
+ Route Optimization and Routing Guide Recommendation:
+Travelling sales man problem based vehicle routing optimization algorithm for the determination of
+optimal route for each vehicle so that the overall distance travelled and cost is minimized.
+ Sales Uplift Simulation using Point Price Elasticity:
+Determination of price elasticity of demand for each of the product and carry out what-if analysis
+to understand the relationship between the discount and sales uplift.
+ Estimation of Probability of Return:
+Determination of probability of return at the time of order for an e-commerce based fashion
+retailer using the customers online behavioral data.
+ Enhancement of the Existing Code Base of Customer Analytics Algorithms:
+The existing code base has been enhanced to handle imbalance data-set problems, error handle for
+better user interaction and improved predictive accuracy.
+ Unsupervised Churn and CLTV Prediction with and without Causal Variables:
+Predicting the churn probability and customer life-time value of a customer based on their
+purchase behaviour, without the need of churn definition and survival definition.
+ Inventory Analysis and Purchase Order Recommendation:
+A simulation and optimization based inventory analysis algorithm is developed to estimate the
+optimal reorder point and optimal order quantity such that the overall inventory cost is minimized.
+
+mailto:saileshbalaji05@gmail.com
+
+
+ Markdown Optimization:
+A machine learning model and a non-traditional optimization based algorithm is developed to
+determine the optimal price to be set for all the products in a category in the future period such
+that the overall revenue is maximized. Also a simulation tool is developed to carry out the what-if
+analysis between the recommended price, discount percentage and sales-uplift.
+
+o Projects in Progress:
+ Look-alike Customer Analysis and Recommendations:
+Identification and recommendation of new customers from the universe who are similar to the
+provided group of customers or segment, which exhibit a unique purchase behaviour or satisfy
+some defined objective in the past.
+ Purchase Trip Classification and Prediction:
+Rule based classification of purchase trips, like major trip, fill-in trip, etc of a customer or segment
+over the time and predicting the approximate time of occurrence of next purchase trip and its type.
+ Automated Insights or Anomaly Detection:
+Time series based real time trend analysis of any metric or key performance indicator (KPI), along
+with the capability of root cause analysis of insights, provided a set of factors related to the matric
+in focus is defined in advance.
+
+Academic Performance:
+
+Qualification Course
+Name of the
+Institution
+
+Board/
+University
+
+Year
+Percentage/
+
+CGPA
+
+M.Tech.
+Industrial
+
+Engineering and
+Management
+
+National Institute
+of Technology,
+
+Calicut
+
+National Institute
+of Technology,
+
+Calicut
+2016 9.00
+
+B.E.
+Mechanical
+Engineering
+
+BMS Institute of
+Technology
+
+Visvesvaraya
+Technological
+University
+
+2014 84.16 %
+
+12th/SSCE PCMC
+Kendriya Vidyalaya,
+Rail Wheel Factory
+
+Central Board of
+Secondary
+Education
+
+2010 87.8 %
+
+10th/SSE - 2008 92 %
+
+GATE 2014 Details: GATE Score: 553 All India Rank: 6878
+
+Technical Expertise/Skills:
+Programming Languages: Python, C, C++
+
+Statistical Analysis Software: R, SPSS, Minitab
+Big Data Framework: Spark
+
+Databases: MySQL
+Mathematical Programming Software: MATLAB, SCILAB
+
+Optimization Software: LINGO, AMPL
+Microsoft: EXCEL (VBA), PROJECT
+
+Process Simulation Software: ARENA, WITNESS, TECNOMATRIX
+CAD/CAM/CAE: SOLID EDGE, CATIA, MASTERCAM, ABAQUS, ANSYS
+
+Engineering Project and Internship Details:
+
+M.Tech
+Project
+
+Title: Standby crew forecasting for Airline Industries.
+In this project, an Excel based Forecasting Tool is proposed, which would predict the
+optimal number of crew members to be maintained in the standby pool for the given rank
+and fleet, using Evolutionary Algorithm. The performance and forecast accuracy of the tool
+is better, when compared to State-Space, ARIMA and ARIMAX models from R.
+
+
+
+M.Tech.
+Internship
+
+Title: Performance Analysis of Banks in India and Rating them for Corporate and Retail
+Clients. Internship Project at RCPL, Kanpur, during the period 15th June to 17th July, 2015.
+
+B.E. Project
+Title: Design of Landing Gear Installation Trolley for the Naval Version of Light Combat
+Aircraft (LCA). The project has been carried out at Hindustan Aeronautics Limited, Aircraft
+Research and Design center - Design complex, Bangalore.
+
+B.E.
+Internship
+
+Title: To study all the manufacturing processes required to produce a radial drilling machine
+from receiving of an order to shipping of finished goods. Internship training program at
+HMT MBX Ltd., Bangalore, during the period 16th to 28th July, 2012.
+
+Other Projects:
+ Decision support on the student evaluation of university courses and faculty member’s teaching
+
+performance using control charts and hypothesis testing.
+ A spread-sheet based decision support tool for blending problems in a brass casting industry. A user
+
+interface has been designed and developed in Microsoft Excel, which is linked with Lingo modelling
+language and optimizer to provide the optimal solution.
+
+ Analysing and optimizing the performance of B-Mess (NITC), using ARENA simulation software. An
+ARENA model is developed replicating the events in the mess and suggesting the optimal number of
+servers required.
+
+ Analysing and optimizing perpetual inventory control policy for umbrella at a retail store, which is
+subjected to both variable demand and variable lead time, by developing a simulation model in Scilab.
+The optimal reorder level and order quantity which minimizes the losses is found out to be 4 and 6
+units respectively.
+
+ Study of topological properties of Indian stock market networks using minimum spanning tree and
+disparity filtering technique. We concluded that the Financial, Communication, Energy and Diversified
+sectors are the most influential among all the sectors in Indian equity market.
+
+ Sector-wise analysis of the influence relationship models in Indian equity network. 15 sectors are
+considered in this study, along with various industry segments within each sector. Macro-economic
+model has been developed for cement industry, belonging to construction sector in the equity
+network.
+
+Technical Papers:
+ Presented a paper titled “Analysis of the influence relationship models in an equity network: A case of
+
+Indian equity market” at the 4th International Conference on Business Analytics and Intelligence,
+conducted jointly by ORSI-BC, IISc and ASI, IIMB during the period 19th to 21st December, 2016.
+o Received the Best Paper Award in the Academic Section.
+
+ Presented a paper titled “Topological Properties of Indian Stock Market Network using MST and
+Disparity Filtering” at International Conference on Financial Markets and Corporate Finance,
+Department of Management Studies, IIT-Madras during the period 12th to 13th August, 2016.
+
+Co-Curricular Activities:
+ Secured 2nd rank in M.Tech. IEM (I-IV semesters) 2014 - 2016 batch of NIT-Calicut.
+ Completed a training on BIG DATA ANALYTICS ON HADOOP from MSME-Technology Development
+
+Centre, Agra during the period 23rd to 24th July, 2016.
+ Participated in a NATIONAL WORKSHOP on BIG DATA ANALYSIS: DERIVING CAUSAL INFERENCES USING
+
+STATISTICAL AND COMPUTATIONAL TECHNIQUES, conducted by School of Management, NIT-
+Karnataka, Surathkal, during the period 1st and 2nd April, 2016.
+
+ Participated in a NATIONAL WORKSHOP on APPLIED DATA SCIENCE AND BUSINESS ANALYTICS USING
+‘R’, conducted by School of Management Studies, NIT-Calicut during the period 4th to 9thMarch, 2016.
+
+ Successfully completed the following online courses:
+
+
+
+o Introduction to Python for Data Science By Microsoft (edX)
+o Introduction to R Programming By Microsoft (edX)
+o Introduction to R By DataCamp
+o Predictive Analytics By IIM-Bangalore (edX)
+o Introduction to Data Analytics By IIT-Madras (NPTEL)
+
+ Completed a course on PRESCRIPTIVE ANALYTICS conducted by Department of Mechanical Engineering,
+IIT-Kanpur during the period 12th to 14th June, 2015.
+
+ Completed the FOUNDATION COURSE IN ANALYTICS from Go-analytics, Kanpur during the period 1st to
+11th June, 2015.
+
+ Completed a course on Microsoft Project from Synergy (CADD Centre), Kozhikode during the period
+15th Feb to 15th March, 2015.
+
+ Secured 1st rank in B.E. Mechanical Engineering (I – VIII semesters) 2010 - 2014 batch of BMSIT.
+ Secured First place in NAVITAS QUIZ organized by Akshay Urja Club of BMSIT in 2011 and 2013.
+
+Extra-Curricular Activities:
+ Hostel Representative (MBA-Hostel, NIT-Calicut) for the year 2015-2016.
+ Head of the Event Management Committee during the inter college fest of BMSIT, “UTSAHA-2013”.
+ Active member of Editorial Board of BMSIT college magazine “MANTHANA-2012”.
+ Leader of the Discipline Committee during the NSS CAMP held at KANVA HILLS, in association with
+
+“VENTURE OUT DOORS” on 21st April, 2012.
+
+Personal Details:
+Date of
+Birth:
+
+5th August,
+1992
+
+Languages
+Known:
+
+English, Hindi, Telugu, Tamil, Kannada, Malayalam
+
+Father’s
+Name:
+
+Balaji D
+Permanent
+Address:
+
+No. D1, 2nd Cross, 1st Main, Beside Vidya sagar High School, Attur
+Layout, Yelahanka New Town, Bangalore - 560064
+
+Declaration:
+I hereby declare that the details given above are true to the best of my knowledge. (SAILESH B)
+
+

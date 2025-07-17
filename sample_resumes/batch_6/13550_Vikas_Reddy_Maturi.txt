@@ -1,0 +1,224 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SATYENDRA SINGH TOMAR
+
+Resume
+
+Vikas Reddy Maturi                                                          (M): +91-9063115509
+Microsoft CRM Associate Consultant
+                           E-Mail: vikasmaaturi@gmail.com
+ 
+
+A Microsoft Dynamics CRM Developer with 2.6 years of experience and seeking the position of CRM Consultant where my CRM application design skills will be fully utilized to obtain efficacy and effectiveness in the organization. 
+
+Summary Of Skills & Experience
+· 2.6 years of experience in development of Microsoft Dynamics CRM. 
+
+· Worked on CRM 2011, CRM 2013, CRM 2015, CRM 2016 and Dynamics 365.
+· Proficient in implementing JavaScript and Html to MSCRM connectivity using SOAP, ODATA web services.
+
+· Good experience on writing Plug-ins and custom workflows on .Net environment.
+· Experience in developing system workflows from CRM 2013, CRM 2015, CRM 2016, Dynamics 365.
+· Experience in developing Business Rules on CRM 2013, CRM 2015, CRM 2016, Dynamics 365.
+
+· Experience in developing Business Process Flows on CRM 2013, CRM 2015, CRM 2016, Dynamics 365.
+
+· Good Knowledge on Exporting/Importing solutions into CRM. 
+
+· Experience on CRM customizations like form, ribbon customizations, site map customizations. 
+· Depth in all phases of project development, from concept through realization.
+
+· Able to translate business objectives into clear functional and technical requirements
+Academic Record
+· Master of Computer Applications from Osmania University, Hyderabad in 2014.
+Employment Details
+Management Technology Consulting LLC
+
+: 
+Jun 2015 – Till Date
+
+Technical Proficiencies
+Programming Language
+:   C#, .NET
+Frameworks /Tools
+
+:   Microsoft Visual Studio
+Markup Languages
+             :  HTML
+Scripting Language
+
+:   Java Script, jQuery
+
+Database
+
+
+:   MS SQL SERVER 2008
+Project Details
+Project #1
+Project  
+:  Farmlands Brave Heart  
+Client
+
+:  Farmlands
+
+Role
+
+:  Developer 
+Technologies
+:  MS CRM, JavaScript, C#
+Description: 
+This Project mainly maintains vendor on boarding and offboarding. CRM configurations, Created plugins and web resources. Plugins is created for generate auto number and Manage primary record. Script for showing alerts notification on vendor form. For this project I have worked in Microsoft.
+Responsibilities:
+
+· CRM configuration.
+
+· Involved in writing Plugins, Java Scripts, and Dialogs.
+Project #2
+Project  
+:  PMR Project  
+Client
+
+:  Harries Technology
+
+Role
+
+:  Developer 
+Technologies
+:  MS CRM, JavaScript, C#
+Description: 
+This Project Based on Client Requirement Created phone call dialog. By clicking on dialog button on dialog window will be displayed with question and based on question answer type will display. On that answer types Answer will be provided .That response will be stored in CRM. Created on plugin for this.
+Responsibilities:
+
+· Phone call Dialog created
+· Involved in writing Plugins, Java Scripts, and Dialogs.
+Project #3
+Project  
+:  App Source
+Client
+
+:  Internal
+
+Role
+
+:  Developer  
+
+Technologies
+:  D365, MS CRM 2016, JavaScript, C#
+Description:
+This project involves Change the code based on Microsoft request. And removing 2011 end points. Configuration Pages added for which products does not have configuration. License verification also changed based on subscription based license.
+Responsibilities:
+· Changing JavaScript request based on Microsoft recommended format.  
+· Changing plugins and custom workflows based on Microsoft recommended format.
+· Site map changed based on D365 CRM. Created Custom Apps.
+· All JavaScript Request are changed to WEB API requests
+Project #4
+Project  
+:  Subscription Based license
+Client
+
+:  Internal
+
+Role
+
+:  Developer 
+Technologies
+: D365, MS CRM 2015, JavaScript, C#, Azure Cloud Service  
+Description:
+This project involves automating the process of generating product key for MTC customers. For this MTC has come up with the new solution i.e., Subscription Based license. It allows the end user to create key from their CRM itself by Accessing MTC Product and validating organization name, license type and expiry date. MTC sales team can also generate the product key with the information provided by the customer and will follow through the approval process from MTC Management Team.
+Responsibilities:
+
+· Involved in writing WEB Services, Plugins, Java Scripts, Workflows.
+Project#5
+Project
+
+:  Alerts
+Client
+
+:  add on
+Role
+
+:  Developer  
+Technologies
+:  MS CRM, JavaScript, C#
+Description: 
+
+Alerts product is to create and maintain alerts so end-users get notified immediately on opening the customer record. It works for all CRM entities including custom entities, alerts can be created for bulk of records at a time and can viewed also. Optional alert expiry date and pop-up alert will be provided while creating, alert activation deactivation also provided on view alert.
+Responsibilities:
+
+· Retrieving CRM entities and binding to html in Configuration Page.
+
+· Scripts for button click functionalities.
+· Plugin to validate expiry date
+
+· Performed end-to-end testing.
+Personal Profile
+
+· Name
+
+:  Vikas Reddy Maturi
+
+· E-mail ID
+
+: vikasmaaturi@gmail.com 
+
+· Nationality
+
+: Indian
+
+· Gender
+
+: Male
+
+· Marital Status
+: Single
+
+· Languages known    : English, Hindi, Telugu
+
+(Vikas Reddy Maturi)
+
+PAGE  
+4
+

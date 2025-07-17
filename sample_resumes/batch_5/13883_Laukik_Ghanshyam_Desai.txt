@@ -1,0 +1,258 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Laukik Ghanshyam Desai 
+Senior Software Engineer 
+Sasken Technologies Ltd, Pune.   
+Email: desai.laukik99@gmail.com        Mobile:  9822196385/ 9284357109  
+ 
+ 
+Education: 
+
+Timeline Standard College / School Stream Marks Class 
+2013 Post Graduation 
+
+Diploma C-DAC ACTS,  
+ Pune.   
+
+Embedded system 
+Design 
+
+78.43 % First Class  
+
+2008 to 
+2012 
+
+Bachelor of 
+Engineering 
+(Graduation) 
+
+Pune Vidyarthi  Grihas  
+College of Engineering & 
+Technology, Pune. 
+( Pune University ) 
+
+Electronics & 
+Telecommunication 
+
+ 
+64.80 %  
+ 
+
+First Class 
+
+2008 12th  Vivekanand College, 
+Kolhapur. 
+(Maharashtra State Board) 
+
+Science 93.50% First Class 
+with 
+Distinction 
+
+2006 10th  Parvati Shankar Vidhayala, 
+Uttur. 
+(Maharashtra State Board) 
+
+General 89.33% First Class 
+with 
+Distinction 
+
+ 
+ Skillsets summary : 
+
+ Programming Languages: Proficient in C, Embedded C, C++. 
+ Technologies :  
+
+1. Windows OS system, Windows Device Driver(WDM) development, Legacy and Mini-filter 
+Filesystem Driver, Aftercrash/BSODs analysis, WHQL certification and testsetup.  
+2. Linux OS internals, Linux Device Driver development, Linux kernel development, BSP migrations.  
+3. Android OS-5.0, 6.0, Android Builds, Android BSP migration, Android framework, Android 
+Bootloader performance optimization.  
+
+ Good knowledge of Real Time OS and Embedded systems development, Unit/integration testing.  
+ Well versed with Waterfall, AGILE development methodology and strong understanding of SDLC. 
+ Working experience with different tools- Visual Studio, WinDbg, WHCK enviornement, Eclipse, Android 
+
+Studio, ARM Dstream, Lauterbach Debugger, Beyond Compare, Source Insight. 
+ Working experience with different Source control tools- Clearcase, Git-gerrit, SVN. 
+
+  
+Total Work Experience:   4 Years & 1 months  by  Oct, 2017 
+  
+Project Details: 
+Aug, 2017-   On going Sasken Technologies Ltd, Pune.     Senior Software Engineer  
+
+Work /project:  Development and maintenance of Linux Kernel/BSP for a high end Automotive 
+Infotainment platform for a renowned Automotive Customer. 
+Skillsets: Linux Kernel, Linux Device driver,  C,  Source controlling tools-SVN. 
+Platform  : TI Jacinto J6, J4 automotive infotainment platform. 
+Activities : 
+
+1) Feature additions as per the customer requirement.  
+2) BSP side Bugs fixes/resolutions. 
+
+ 
+May, 2017 - Aug,2017  Sasken Technologies Ltd, Pune.     Senior Software Engineer  
+
+Work /project:  Android Boot time optimization for Automotive Infotainment system 
+Skillsets: Bootloader, Android OS internals,  C, Lauterbach,  Source controlling tools- GIT-Gerrit. 
+Platform  : Qualcomm snapdragon 820(APQ8096) 
+
+
+
+Activities : 
+1) Android Build Environment setup- Marshmellow OS. 
+2) Study and analysis of different phases in Android booting process. 
+ 3)Tests and Bootloader performance measurements using different tools. 
+4) Init service profiling, Boot optimization -LK bootloader.                               
+5)Board bring up using QC QFIL setup. 
+
+ 
+Mar, 2015 - May,2017  Sasken Technologies Ltd, Bangalore    Software Engineer  
+
+Work/Project  :  Contractor at Client location –  Zebra technologies, Bangalore. 
+Skillsets: Windows CE,WM and Android OS internals, C, C++, Android App. Development, Source 
+controlling tools-Clearcase, GIT-Gerrit. 
+Activities: 
+A) CPG Engineering (Custom Product Group):                               
+
+1. Customer specific custom software, Configs development, Maintenance, release and 
+bug fixing. 
+2. Custom features development to the mainline BSP. 
+3. Zebra rebranding activity (Motorola Zebra rebranding at GUI level) 
+
+B) Scanner Engineering: 
+1. Development of features, bug fixing on Scanner framework for both Windows and      
+Android platform for entire range of scanners products. 
+
+ 
+Sept, 2013 - Mar, 2015 Persistent Systems Ltd, Pune   Software Engineer 
+
+Work: Development and support for one of Security product owned by IBM for windows 
+desktop and server platform OS. 
+Skillsets: Windows Device driver - WDM, C, C++, File system Minifiler driver, After crash analysis, 
+Live Debugging, WinDbg, WHQL testing. 
+Activities: 
+
+ 1. Look after the kernel mode driver part of the security product, issues specifically 
+BSODs, post mortem analysis of the crash and provide the suitable fix to the issue. 
+
+2. WHQL lab creation and testing for WHQL certification. 
+ 
+
+Academic Projects: 
+1. PG diploma in Embedded system design (C-DAC) project 
+
+Title: Benchmarking of Embedded Linux and Embedded Xenomai OS on BegleBoard XM + Trainer XM kit 
+Details:  This project basically involves comparison of two OS implementations. i.e GPOS vs RTOS. 
+
+It involved benchmarking of OS based on various time critical parameters like interrupt latency, 
+scheduling jitter and mode switching overheads etc. 
+
+ 
+2. Bachelor of Engineering – Academic project 
+
+Title: Wireless Data logging at Runway using Zigbee 
+Details:  In this academic project, we have built a data logger at runway for ATC. It receives 
+the data from all the environmental sensors on the transmitter side kept near to runway; 
+Process it, time stamps it and transmits this data to the receiver, using wireless communication link (Zigbee 
+Protocol). Receiver logs the received data compares it with standard thresholds and depending upon the result, 
+the controller takes the required action. It involved circuit designing, PCB drawing, programming the controllers 
+(PIC18f), Zigbee wireless interface and Display & keyboard interface. 
+ 
+
+3. Bachelor of Engineering – Academic  Mini-project 
+Title: Digital Calendar with Timer 
+Details:  We built our own Digital Calendar which used to show the day, date and time. It had alarm setup with 
+two modes.(i.e. one time alarm & two time alarm.)One time alarm resembles to normal alarm but by using two 
+time alarm we could set a custom action for particular duration. It involved circuit designing, PCB drawing, 
+Microcontroller programming, RTC, Display, keyboard, Buzzer and ROM interfacing 
+Platform: Hardware Platforms (8051 Microcontroller) 
+
+
+
+ 
+Trainings and Seminars: 
+
+ Attended Training on WinCE 5.0, 6.0 OS and device driver architecture, Build process and debugging. 
+ Attended Training on Building Wireless Autonomous Robots and controlling by DTMF tones. 
+ Attended Training on Windows device driver -WDM study and Development. 
+ Attended training on Scrum development methodology. 
+ Seminar delivered on Toaster Device Driver –Windows. 
+ Seminar delivered on driver debugging using –Windbg. 
+ Seminar delivered on optimization of C language code. 
+
+ 
+Achievements and Extra- curricular activities: 
+
+ Award winning ‘Self advertising delivery assistance by using SmartTags’ Demo - Srijana Innovation event at 
+companywide  Zebra Technologies.(Formerly- Motorola Solutions India) 
+
+ Star contributor performance review – Sasken Communication technologies 
+ You made difference award from Delivery Unit head (Persistent Systems ltd.) for showing spark in Detecting & 
+
+solving critical Bug from filesystem filter driver for the project. 
+ Pool side chair Award from the Senior Architect and team for the work in WHQL test lab creation. 
+ Bronze Medal in Chess Competition at Pulse Event held at Persistent Systems Ltd, Bangalore. 
+ Secured Highest Score in 12th (ie.93.5%) from Ajara taluka region in Science Stream. 
+ Best performer & Ideal Student award from school - Parvati Shankar Vidyalaya Uttur in 2005-06. 
+ 4th  std Scholarship at State Level. 
+ Secured 3rd rank in Chess Championship held at Uttur(2004-05). 
+ Stood 1st from School for SSC exam(10th ) 
+ Active Participation and Organization in TESA event- E nTc Department Event, Inter-college sports event- 
+
+Versatalia for Cricket, Chess and Social activities- Go green, tree planting, active blood Donor.  
+ 
+Other Interests & Hobbies: 
+Trekking and Hill climbing, Reading newspaper, listening to Songs, Playing Cricket, Football and Chess. 
+
+ 
+ 
+Personal Details: 
+
+Date of Birth :  January 4, 1991 
+Father’s Name :   Mr. Ghanshyam Baburao Desai 
+Mother’s Name :   Mrs. Snehal Ghanshyam Desai 
+Permanent Address:   Plot No.A3, Govind Park, MuktaSainik Vasahat Kolhapur- 416005. Zip- 416005 
+Nationality :   Indian                               
+Languages known: English, German(A1), Marathi, Hindi. 
+ 
+
+ 
+I hereby declare that all the information provided here is correct to the best of my knowledge and belief and I promise 
+to abide all the norms laid down by our esteemed organization. 
+ 
+
+Sincerely,  
+Laukik Desai 
+
+

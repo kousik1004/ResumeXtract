@@ -1,0 +1,279 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yogesh Shivaji Kale
+Email: yogeshkale92@gmail.com
+  Phone: +91- 9665267803
+Carrier Objective
+· Seeking a challenging position that has strong emphasis on Web technologies and high growth opportunities; a firm that prides itself on innovation, growth and excellence foremost area of interest in Website Development. 
+
+
+Executive Summary
+· MSc CS with 5.7 Yrs. of Experience in Java web development application and desktop application.   
+· Extensive Skills in Core JAVA, JSP Servlets, JDBC and SQL, Spring MVC, Struts 2.X and Hibernate 3.
+· Have strong experience on scripting languages Angular JS 1/2, Ext JS 4.2.1/ 5.1.1. and JQuery
+· Have experience on Reporting tool Jasper Reports.			
+· Self-confidence, total commitment, patience and positive attitude towards situations in life. 
+· Ability to set goals and achieve them on a regular basis.
+· Strong troubleshooting and analytical skills. 
+· Has strong ability to learn new technologies in short span and implement independently. 
+· Team player and self-starter with proven technical, team building, mentoring and leadership skills.
+· Thorough understanding of traditional Waterfall and Agile development methodologies. 
+· Good exposure to Software Development Lifecycle (SDLC). Worked on various stages of mission critical business applications such as requirements definition, analysis, effort estimation, design, coding, implement reusable components, test-driven development, resolution of defects, integrate & test, build, deployment and support.
+
+
+ Industrial Experience
+· Currently Working in L&T Infotech Ltd from - Feb. 2017 to till Date (Sr.Software Engineer)
+· Tata Technologies Ltd from - March. 2015 to Jan 2017 (Solution Developer)
+· Winsol Solutions Pvt. Ltd From Dec 2012 to March 2015 (Sr. Java Developer)
+
+Technical Skills
+
+	Operating Systems
+	· Windows 95/98, Windows 2000 / 2003, Windows XP,7,8, Linux
+
+	Programming  Languages
+	· JAVA, JSP Servlets, JDBC, Maven 3, Spring MVC, Struts 2.x, Hibernate 3 and SQL
+
+	Databases
+	· DB2,Oracle 10g, MySQL 5.6
+
+	Scripting Languages
+	· HTML, XML, Java script, JQuery, Ext JS 4.2.1/5.1.1, Angular JS 1/2
+
+	Packages
+	· MS office
+
+
+
+
+Projects
+
+Project #1
+Project Title:  Model Risk Management System.
+Software Used: Spring MVC, Ext JS 5.1.1, Java Mail, jdk1.8, Oracle 11g, Windows 7.
+Team Size: 11
+Role: Full Stack Developer
+Responsibilities: 
+· UI designing.
+· Code development & unit testing.
+· Code Review.
+· Application deployment.
+Duration: Feb 2017 - Present
+Project Description
+· Model Risk Management is a web application for create and validate model in operational risk area.
+· Model sponsor or model sponsor delegate users can create model in system or import into system.
+· Workflow can have one or more model so validator and different user can validate model.
+· There are other key modules like Model Profile Record Change, Limitation catalogue etc.
+
+
+Project #2
+Project Title: Vehicle Validation Planning.
+Software Used: Struts 2, JSP, HTML, JQuery, Java Mail, jdk1.7, DB2, Windows 7.
+Team Size: 3
+Role: Java Developer
+Responsibilities: 
+· Code development & unit testing.
+· Code Review.
+· Application deployment.
+Duration: Feb 2016 – Jan 2017
+Project Description
+· Vehicle Validation Planning is a web application for request creation to set build intents.
+· There are different Programs & Program contains different Build Phases.
+· Build Phase have various build variant configuration like engine, transmission etc.
+· Test Planner and Requestor can create request for testing built variant.
+· Application will be combining multiple request according to configuration classes and also generate different reports.
+
+
+Project #3
+Project Title:  Global Technical Cost Reduction System.
+Software Used: HTML, JSP, Ext JS 4.2.1, Hibernate 4.1.X, JavaScript, Java Mail, jdk1.7, DB2 
+Team Size: 11
+Role: Java Developer
+Responsibilities: 
+· Code development & unit testing.
+· Code Review.
+· Application deployment.
+· Preparing Technical Design Document using Functional Design document and BRD. 
+Duration: March 2015 – Feb-2016
+
+Project Description
+· GTCRS is a global application used in region NAFTA, EMEA, APAC and LATAM.
+· GTCRS is an web application which helps the vehicle and powertrain business for purchasing materials from supplier.
+· It has major module like Workflow Management, Currency Management, Idea Manage, Idea Search, Volume mapping, User Management and Event Management.
+· In Workflow admin can create workflow for idea attributes.
+· Currency management is used to check actual saving or profit in any world currency for respective idea.
+· Idea can be managed so it will move from different Phases.
+· Idea Search can be done like simple text, Boolean functionality and based on some idea attributes advance search also.
+
+Project #4
+Project Title:  Hospital Management System.
+Software Used:  HTML, JSP, Struts 2, Hibernate, JavaScript, Java Mail, jdk1.7, MySQL, Windows 7.
+Team Size:  4
+Role:  Java Developer
+Responsibilities:  System Analysis & Database Designing, Patient Module
+Duration: Jun 2014 – March 2015
+
+Project Description
+· This software is built for complete application integration, unlimited scalability, and easy Collaboration over the Internet.
+· “Hospital Management System” is a Hospital ERP which helps the doctor to manage Clinic, Patients, appointments as well as treatments.
+
+Patient module used to manage patient details, medical history. 
+
+Appointment module keeps records of patient and doctor appointments.
+
+Treatment module keep records of patient treatment, treatment plans.
+
+Prescription module keep records of patient prescription, prescription set.
+
+Billing module keep records of patient billing as well as payment.
+
+
+Project #5
+Project Title	:  E Campus.
+Software Used	: Java web servers, HTML, JSP, Struts 2, MySQL Database, Mozilla Firefox, windows 7.
+Team Size	: 10
+Role	: Project Leader, Java Developer
+Responsibilities	: Developed Module Course and branch, admission.
+Duration	: March 2013 – May 2014
+		
+Project Description
+· This is an ERP product developed for school. 
+· It helps the management to make control over staff and student and reduces heavy paper work which saves the time. 
+· It contains different modules; some of them are Academic, Library Management, Fee Submission, Leave Management, Transport Services, Staff and Faculty Management, Student Management and Payroll etc. 
+
+
+
+Project #6
+Project Title	: 	Dental Lab ERP.
+Software Used	:	jdk1.7, Java Mail API, Jasper 4.1, MySQL database 
+Team Size	: 	4
+Role	:	Java Developer
+Responsibilities	: 	System Analysis & Database Designing, Patient and Report     Module
+Duration	:          Dec 2012 - Feb 2013
+
+Project Description
+· Dental Lab ERP is ERP software for dental lab.
+· It contain modules like patient, doctor, lab work, supplier, finance ,Report and Payroll
+
+Patient module used to manage patient details, medical history and Patient Billing. 
+
+Doctor module keeps records doctor works.
+
+Tab Work module keep records of doctor work, work charges.
+
+Supplier module keeps records of Raw materials and supplier billing.
+
+Finance module keep records of patient billing as well as supplier payment.
+
+Payroll module keeps records of employee attendance as well as employee salary.
+
+Report module keeps Jasper –
+· Search Patient records By Inward, Doctor, Work, Date etc.
+· Monthly Bill 
+· Doctor Works
+· Payment Status
+· Attendance Report
+· Patient invoice 
+
+
+Educational Details
+· Post Graduated as Master of Science in the stream of Computer Science from New Arts, Commerce & Science College Parner under University of Pune                                                                                                                                                                      in the year 2012-2015 with the aggregation of 56.33%.
+
+· Graduated as Bachelor of Science in the stream of Computer Science from New Arts, Commerce & Science College Ahmednagar under University of Pune                                                                                                                                                                      in the year 2009-2012 with the aggregation of 63.67%.
+
+· Completed H.S.C from the Pune Board of Maharashtra in the year 2007-2009 with the aggregation of 67.67%.
+	
+· Completed S.S.C from the Pune Board of Maharashtra in the year 2007 with 79.84%.
+
+Personal Details
+
+	Name
+	Yogesh Shivaji Kale
+
+	Father’s Name
+	Shivaji Bhaurao Kale
+
+	Mother’s Name
+	Suman
+
+	Date of Birth
+	4th Feb,1992
+
+	Gender
+	Male
+
+	Nationality
+	Indian
+
+	Languages
+	English, Hindi , Marathi
+
+	Permanent Address
+	 At-Warkhed Post-Hasnapur Tal-Shevgaon Dist-Ahmednagar 414502(MH)
+
+	Present Address
+	S.No.71, Lane No.2, Kirti Nagar, Navi Sanghavi, Pune 411027(MH)
+
+	Email Id 
+	yogeshkale92@gmail.com
+
+	Mobile
+	 +91- 9665267803 , 8208356143
+
+
+
+Self-Assessment
+I set high standards for myself and have my own dreams and ambitions. I have a flair for learning new things and persistence in problem solving. I strongly believe that with my skills, analytical and logical ability, determination, dedication, commitment and diligent efforts, I can prove to be an asset to any organization.
+
+                                                                                         
+                                                                                                            (Yogesh S. Kale)

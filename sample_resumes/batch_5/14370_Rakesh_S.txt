@@ -1,0 +1,431 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+	
+	    Rakesh S
+    +91 9884919155
+
+
+
+	RESUME
+
+
+Name
+:  RAKESH S
+SUMMARY:
+
+15+ years of In-depth expertise in implementation, analysis, optimization, troubleshooting on IBM AIX, LPAR, HACMP VIO, IBM Power Series HARDWARE, Redhat Linux System Admin and  TSM backup, Middleware. Have exposure in Industry standard service provider, Remote Infrastructure Services, Worked on tickets tasks and effectively handled the ticket Queue. Good communication skills with the ability to interface at all level and a team player who also can work well independently. 
+EDUCATION
+
+	Title of the Degree with Branch
+	College/University
+	Year of Passing
+
+	BCA (Bachelor in Computer Application)
+	CMS College of science and commerce  / Bharathiyar University
+	June 2002
+
+	PG diploma in Advance Networking( PGDAN )
+	KGISL Institute of Technology / Bharathiyar University
+	June 2004
+
+	MCA (Master of Computer Application)
+	Bharathiyar University
+	April 2006
+
+
+CERTIFICATION COMPLETED
+	No
+	Name of Institution
+	Diploma or Certificate
+	Year of Completion
+
+	1
+	IBM
+	IBM Certified Systems Expert
+	April 2007
+
+	3
+	ITIL
+	ITIL V.3 Foundation
+	July 2009
+
+	4
+	IBM
+	IBM LPAR Training Certification
+	April 2007
+
+	5
+	REDHAT 
+	Red Hat Certified Engineer (RHCE)
+	Dec 2004(RHEL 3) 
+
+Sep 2017(RHEL 7) 
+
+
+WORK EXPERIENCE
+	Name of the Company
+	Designation
+	Address of the employer
+	From
+	To
+	Duration (Years)
+
+	HCL Technologies
+	Technical specialist
+	Bangalore
+	Feb 2012
+	Till date
+	6 Years
+
+	Cognizant Technology Solutions   
+	Associate Operations Manager  
+	Coimbatore
+	May 2008
+	Feb 2012
+	4 Years
+
+	Wipro Technologies
+	Systems Engineer
+	Chennai
+	Sep 2006 
+	Apr 2008
+	1.7 Year
+
+	Act Software Pvt Ltd
+	System Support Engineer
+	Coimbatore
+	Feb 2005
+	Aug 2006
+	1.5 Years
+
+	KGISL Pvt Ltd
+	Network Trainee
+	Coimbatore
+	Sep 2003
+	May 2004
+	0.9 Years
+
+	Dr.SNS college of art and Science  Computer
+	Computer Lab Technician
+	Coimbatore
+	Apr 2003
+	Sep 2003
+	0.6 Years
+
+
+TECHNICAL SKILLS
+
+	Skill Type
+	Skill Name
+
+	Operating Systems
+	Red Hat Enterprise Linux 
+Installations through NFS, FTP, HTTP and KICK start Installation.
+
+Linux disk partitions creations and Files system management, backup utilities and swaps partitions. 
+
+Volume groups, LVM Creation, extension and removing, RAID Partition
+
+User Account Management, Set Group ID, Set User ID, Sticky Bit.
+
+GRUB Boot Loader, Hardware resources, Disk Quota’s – User Quota and Group Quota settings
+
+Network Card and IP address Configuration, Network utility checking, Network trouble shooting, FTP, TELNET, SSH remote login system. 
+
+Job scheduling, Linux RPM’s Install, Query, Update and Remove, Attribute settings 
+
+NFS, NIS, SAMBA, Apache, DNS and DHCP and Squid Proxy Configurations and trouble shooting.  
+
+Security - TCP wrappers, Iptables, PAM, SELINUX, 
+
+System performance Monitoring and Checking and Trouble shooting
+IBM AIX & VIO
+Server Installation, Updation and Migration. Sound knowledge on LPAR/DLPAR, VIOs, HMC Management, NPIV New Build Server LPAR Creation, LPAR Move, and DLPAR, Server decommissioning.
+
+AIX systems administration, including sizing, installation, configuration, upgrades, patches, troubleshooting, and maintenance
+
+User Creations, File/directory Permissions, File systems Creation. File system extending with cross site mirroring, 
+
+	AWS
+	Worked on Amazon Web Services ( EC2, ELB, VPC, S3, CloudFront, IAM, RDS, Route 53,
+
+CloudWatch, SNS).
+
+Installed and Setup Web Servers (Apache and Tomcat ), DB Server ( MySQL).
+
+Setup/Managing Linux Servers on Amazon EC2 , Users and Roles in IAM, High Availability Setup of EC2 using ELB and EBS, VPC, Subnets; VPC peering Blocking suspicious ip/subnet via ACL. CDN on Amazon Cloud Front with S3 to improve site performance
+Restricting Cloud access by Network ACL/ Security group
+
+Create/Managing buckets on S3 (CLI) and store db and logs backup, upload images for CDN
+
+servers
+
+Exposure in Glacier, S3 –IA and Life Cycle management with object storage
+
+Setup/Managing Databases on Amazon RDS. Monitoring servers thorough Amazon CloudWatch,
+
+SNS.
+
+Creating/Managing DNS records on Amazon Route 53.
+
+	Backup
+	TSM Backup configuration in AIX and EMC Legato tape backup management
+
+	Process
+	ITIL V3  foundation – Certified
+
+Six Sigma Green Belt – Trained and completed a project of automating huge number of alerts and reduced  the manual effort in monitoring and working on the alerts
+
+	Hardware 
+	IBM HARDWARE RS 6000, Power series P4 and P5, IBM I series 800,810,825
+
+	Scripting
+	Python , Bash shell
+
+	Ticking tools
+	Peregrine, Remedy and Service-now
+
+
+EMPLOYMENT HISTORY: 
+	Name of the Company
+	Designation
+	Address of the employer
+	From
+	To
+	Duration (Years)
+
+	HCL Technologies
+	Technical specialist
+	Bangalore
+	Feb 2012
+	Till date
+	6 Years
+
+	Project Title
+	DB – SOCCS
+
+	Duration 
+	Feb 2012 – Till date
+
+	Location 
+	Bangalore – INDIA – Offshore
+
+	Operating System
+	LINUX and Solaris   
+
+	Role
+	Infrastructure Application support for the team SOCCS
+
+Leading the offshore team of size 10  
+Onboard / Offboard the Team members and Track the team members KT progress, Cross training, Mandatory training completion, Shift management, Allocation of resources 
+
+Working on Weekly status report with all metrics to the clients and coordinating the call with other vendors 
+
+Supporting 400 + Linux Production servers support 
+Working on DB UNITY ticketing tool – Supporting INCIDENTS, CHANGE, SERVICE REQUEST, and Critical Incidents/Problem, Auditing the incidents and changes and keystroke logs of all team members
+Application and server health check status and Work on major and critical alerts 
+
+Disk Management – Check the Filesystem usage on Regular intervals and purge the logs (auto mated the purge scripts)
+
+Work with the Global INCIDENT management team on Very Critical (P1, P2) Business impact situations
+
+Fixing the Problems Task raised by the L2 Team
+
+Raising the change request (Standard, Emergency and Normal change ) to others teams 
+
+Raise the Request for Storage -  where there is a business need on growing application needs
+
+Backup and restore the application data in TSM 
+
+Continual Service Improvement – support the application during the Disaster management 
+
+
+	Name of the Company
+	Designation
+	Address of the employer
+	From
+	To
+	Duration (Years)
+
+	Cognizant Technology Solutions
+	Associate Operations Manager  
+	Coimbatore
+	May 2008 
+	Feb 2012
+	4 years
+
+	Project Title 
+	PEPSICO - IBM AIX L2 Support
+
+	Duration
+	May 2008 – Feb 2012
+
+	Location
+	Coimbatore – INDIA – Offshore
+
+	Operating System
+	HPUX, IBM AIX, LPAR, HACMP and VIO
+
+	Client
+	PEPSICO
+
+	Role
+
+	Worked on Incident Management, Change Management tickets, all tickets and tasks are examining in STET and Peregrine, Provided L2 support on 24/7 basis, Project environment which has many HPUX/ AIX servers Itanium and P-series boxes. 
+
+Handled Unix Server Build installation and troubleshooting, Using the Marimba and DBA request for pushing the application, Using the HOBBIT Monitor tool for monitoring all UNIX servers CPU and Memory   performance, Working on Volume groups, LVM and Device Management, Handling the Hardware Issues and diagnostics for UNIX Servers
+Identify the risks and improvements area for developing the project
+
+Nominate the team members for Training on improving the skills. 
+
+Escalate to the next higher level if thing does not happen on time. 
+
+Nominating the team / team member for Monthly and quarterly award to recognize the work which team has done.
+
+Reporting the weekly monthly metric and other reports to the client and organization as per the request
+
+Regular meeting in a month with the COE of different verticals to share the best practices and try to implement the same in the project to improve the quality or standard
+
+Coordination and Tracking of BCP test and execution
+
+Perform ticket audit, provide feedback to the team members for the efficient management of incident tickets
+
+Organize team huddles and work towards keeping the team motivation at a higher level.
+
+Train and Delegate tasks to the team members based on the requirement
+
+
+	Name of the Company
+	Designation
+	Address of the employer
+	From
+	To
+	Duration (Years)
+
+	WIPRO Technologies
+	Senior System Engineer
+	Sholinganallur Chennai
+	Sep 2006
+	Apr 2008
+	1.7 Years
+
+	Project Title
+	NESTLE - IBM AIX – L2 Support 
+
+	Duration
+	Sep 2006 to Apr 2008
+
+	Location
+	Chennai – INDIA
+
+	OS
+	IBM AIX, LPAR and HACMP
+
+	Client
+	NESTLE
+
+	Role
+
+	Working on IM’s (Incident Management), RM’s(Request Management) tickets and Change Management, Tasks listed through Peregrine Service Center, Working in an environment which has more than 1400 AIX servers like 6H1, 6M1, H80, P-series boxes, providing Level 2  support on 24/7 basis.
+
+Server Installation using NIM, CD, Update and Migration of Aix. Server Builds for LPAR Creation, LPAR Move (capacity upgrade), Restoration of OS from mksysb backups, Comfortable in DLPAR, VIO operations.
+
+AIX 5.3 System Administration, User Creations, File/directory Permissions, File systems Creation/extension with/without cross site mirroring, Monitoring error logs and system logs, Creating and extending paging memory, system performance monitoring.
+
+Loading of software and system patches, TCP/IP concepts, NFS, NIS, Storage concepts, Performance tuning, Storage Adapter Problem determination, Good working knowledge on HMC (Hardware Management Console). 
+
+High availability hands on experience (HACMP), Configuring/Defining resource Groups, NFS mounts, to HACMP, C-SPOC operations, Migration/Update of OS from AIX 5.2/5.3
+
+
+	Name of the Company
+	Designation
+	Address of the employer
+	From
+	To
+	Duration (Years)
+
+	Act Software Pvt Ltd (Currently known as Amulya Infotech )  
+	System support Engineer
+	Coimbatore
+	Feb 2005
+	Aug 2006
+	1.5 Year
+
+	Project Title
+	Sibername – Client
+
+	Duration
+	Feb 2005 to Aug 2006
+
+	Location
+	Coimbatore
+
+	OS
+	LINUX
+
+	Client
+	SIBERNAME
+
+	Role
+
+	Working on remote web server , Mail servers and DNS servers support 
+
+Worked on the Administration tools such as C-Panel , Direct Admin, H-Sphere and Plesk
+
+Supporting on Virtual hosting ( Named based and IP based ) Domain Name Registrations and fixing the issues in the DNS Resolutions , Mail Client issues ( Alias and redirecting the mail recipient)
+
+
+	
+	
+	
+
+
+

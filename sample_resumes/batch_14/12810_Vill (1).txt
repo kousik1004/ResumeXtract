@@ -1,0 +1,168 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sudipta Pal
+
+RESUME PROSENJIT SINGH
+Vill-Belar                                                                    Mobile:  (+91) 9163496339
+Post-BelarBhurkunda
+
+
+Dist- Burdwan                                                            E-Mail: prosenjit.singh@gmail.com
+Pin-713427   
+
+  
+
+
+
+
+           
+
+Objective:
+
+
+To become a successful professional in the field of Software and to work in an innovative and competitive world.
+SUMMARY OF EXPERIENCE 
+
+· 2+ years of Working Experience in JAVA,STURTS
+· Experience in Oracle and IBM DB2 database.
+
+· Working as a Programmer Assistant at CyberQ Consulting Pvt. Ltd., New Delhi and working in Port Project of National Informatics Center, Kolkata from 1st October 2011.
+
+· Worked as a programmer assistant at IAP Company Ltd , Gurgaon and worked in port project of National Informatics Center, Kolkata from 1st April 2011 to 30th September 2011.
+· Worked as programmer assistant at CyberQ Consulting Pvt. Ltd., New Delhi and involved in port project of National Informatics Center, Kolkata from 1st December 2010 to 31st March 2011.
+· Worked in Anthelion Technology  Pvt. Ltd as Software programmer from October 2009 to October 2010
+professional accomplishment
+
+1. National EDI and PCS System  
+· National Level Electronic Data Interchange (EDI) and Port Community System (PCS) are the two Projects taken up by the Indian Port Association (IPA) under the guidance of the Ministry of shipping to enhance the national e-Trade project of the Ministry of Commerce. Its primary motive is to bring all the major and minor ports of India under a common platform where they can exchange information regarding their trade with the other stakeholders like Customs, Shipping agents, etc.
+· Accomplished TEXT Message Parser for all the ports handled by NIC
+          SOFTWARE: JAVA 1.6, Oracle 10g and IBM DB2 8.2
+
+FEATURES: This software is used for parsing TEXT  messages and if the message is correct then posts all the data into the corresponding table in the database. Functionalities.it also generate the outgoing TEXT messages taking the data from database for acknowledgement perpuse. 
+· Read database connection details from text file 
+
+· Get all the setup information from database
+· If the file is valid then parse
+· Can Posts the data into both Oracle and IBM DB2 database.
+DEVELOPMENT ACTIVITIES
+
+· Responsible for maintaining the EDI and PCS database.
+· Deeply involved in coding EDI and PCS System.
+· Installation of EDI and PCS System.
+2. HR And Payroll System
+
+This is a HR & Payroll system of a Construction Company.
+
+HR and Payroll is responsible for hr related issue (Example: tracking the record for applicant who has been applied for job in this construction company). All units are divided into some small items (Example: category, designation,sitevisitday,leaveApplicationform).Transaction starts from the employee salary calculation (Items required for particular employee). Here calculation is required(how many leaves are available,how many sitevisitdays are available for a particular employee),on that basis salary will be generated for employee.
+
+          CLIENT: S K S Limited
+        SOFTWARE: J2EE1.4, SERVLET2.5, JSP2.1, AJAX, MYSQL 5.0
+          IDE: Netbeans 6.1
+DEVELOPMENT ACTIVITIES
+
+· UI Development (jsp, Ajax, JavaScript).
+
+· Database design(Stored Procedures)
+
+· Involved in designing the Flow of The Total Module by Java/J2EE with Struts 1.2.9 Technology.Coding JSP Pages as View,Struts action,Action Formbean and DAO(Data Access Object).Configuration with database mySql 5.0 with JDBC Type-4  Driver .
+TECHNICAL EXPERTISE
+
+LANGUAGES
+
+
+Java, C 
+FRAMEWORK                    Struts 1.2.9
+DATABASES
+
+
+mysql 5.0
+OPERATING SYSTEMS
+Windows XP
+Education
+
+· B.Tech in Informayion Technology from Bengal College of Engineering And Technology under W.B.U.T in 2006 with 7.38(DGPA)  
+
+· H.S. (10+2) (Science) from Vivekanda Mahavidyalaya, Burdwan under W.B.C.H.S.E in 2002 with 49.9%
+
+· Madhyamik (10) from Bajekumarpur High School, Burdwan under W.B.B.S.E in 2002 with 62%.
+PERSONAL INFORMATION
+
+Date of Birth 
+6th August 1983.
+Sex
+
+
+Male
+
+Father's Name
+Sri Yudhisthir Singh
+Mother’s Name :     Rekha Singh
+
+Present Address : 36 Rajendra Avenue Second Lane, Uttarpara, Hooghly-712232.
+
+Parmanent Address : Vill-belar, post-belarbhurkunda,dist-burdwan-713427,westbwngal.  
+
+Declaration:
+
+                    I pledge and pronounce that all the above information is true to best of my knowledge.
+
+Place : Kolkata
+
+
+
+
+
+
+      Signature
+Date  : 21.12.2011
+
+
+
+
+
+
+  (Prosenjit Singh)

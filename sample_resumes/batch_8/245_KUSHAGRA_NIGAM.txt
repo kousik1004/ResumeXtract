@@ -1,0 +1,129 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KUSHAGRA NIGAM
+
+KUSHAGRA NIGAM
+168 Vinoba Puri Lajapt Nager 2, New Delhi
+
+
+Contact No: +91-9999099084
+Email: n.kushagra@gmail.com;kushagran2050@gmail.com
+2 years of IT experience in the field of Data Warehousing and design, development, error handling, testing and analysis of data warehouse application using IBM DataStage EE, Teradata and SQL
+CAREER OBJECTIVE
+To utilize and enhance my potential and ability in an organized and challenging work environment and gain goodwill for my organization and myself
+
+PROFESSIONAL EXPERIENCE
+Currently associated with CRM Orbit India Pvt Ltd and working from its client premises- Quatrro Risk Management, Gurgaon as Software Engineer, since September, 2009
+PROFESSIONAL SUMMARY
+· Total work experience of around 24 months in Data Warehouse projects in the area of design, development, testing, analysis and implementation.
+· Experience in using Data Warehouse technologies in ETL- IBM InfoSphere DataStage 8.1 EE and Teradata 12.0 with in-depth knowledge of Data Warehousing concepts.
+· Experience in design, development and testing of ETL processes using DataStage client components like DataStage Designer, Director, Manager and Administrator.
+· End to end knowledge of ETL processes, performance tuning and troubleshooting of ETL programs.
+· Proficient in Teradata SQL to analyse the source data, extract data from the Source System and to test the Data Warehouse application by running and querying the database.
+· Experience in development and execution of System Integration Testing of the data warehouse application.
+· Involved in UAT validation and testing of the data warehouse application. 
+· Basic knowledge of BI reporting tool Cognos 8.4 Report Studio and Framework Manager and understanding of reporting analysis and needs.
+TECHNICAL SKILLS
+
+ETL Tool:
+   DataStage- Enterprise Edition
+Databases:
+   Teradata 12.0, MS SQL Server 2005
+
+Languages:
+   C, SQL
+Reporting Tool:
+    Cognos
+Operating System: Windows XP, Windows Server 2003
+
+PROJECT DESCRIPTION
+
+Project Name:
+
+Concierge- a Risk Management Product Implementation
+Client:
+
+
+Commercial International Bank, Egypt
+
+Duration:
+
+September, 2009 – till date
+
+Environment:
+ETL- DataStage EE 8.1, Teradata 12.0, BI Reporting- Cognos 8.4, Windows 2003 Server
+Description:
+Concierge project aims at building a risk management solution for banks dealing in credit products such as Credit Cards, Auto Loans, Personal Loans and Mortgage.
+
+
+The source system of the client has to be integrated with ETL server and after a step by step of ETL processes, the source data will be loaded into a Data Mart, which will then be used to generate automated MIS reports using Business Intelligence. 
+
+In this project, DataStage which sits on the top of the Teradata database cleanses, validates, transforms and loads data into the various Fact and Dimension tables through step by step processes. Cognos is used to develop business intelligence reports, dashboards and alerts using the Data Mart.
+
+
+The business users can see various reports directly with just one click which helps further in important decision making process related to business growth.
+Roles and 
+
+Responsibilities:
+
+
+· Analysis of source data using Teradata SQL queries as per business requirement.
+· Building SQL queries for Teradata to fetch the data from the database as per business requirement and use SQL queries in various stages in ETL processes for further processing.
+· Design and development of Parallel Jobs using DataStage 8.1 EE to extract data from Teradata database, cleanse it, validate and transform it as per business requirement and populate it into Data Mart.
+· Design and development of Sequence Jobs to execute the series of jobs as per loading frequency.
+
+· Involved in running, monitoring and analyzing performance of the individual stages of the Jobs performed using DataStage Director.
+· Performance tuning and troubleshooting of DataStage jobs.
+
+· Responsible for System Integration Testing and preparing SIT Test Scripts using Teradata SQL.
+
+· Building Teradata SQL queries for UAT validation and testing for the product.
+· Coordinating with the Cognos reporting team and understanding of the reporting needs and performing the required activity in ETL.
+
+· Documentation of ETL design, process flow and ETL issue logs.
+EDUCATIONAL QUALIFICATION
+
+B.Tech in Information Technology 
+Uttar Pradesh Technical University, 2009
+Dated:                                                                                                  (Kushagra Nigam)

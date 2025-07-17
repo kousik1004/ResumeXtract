@@ -1,0 +1,351 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page1of1
+
+YOGENDRAVIJAYRAUT
+
+Email:yogirt12@gmail.com Contact:9975494714
+yogiraut12@gmail.com
+
+Profile:
+Havingtotal7yearsofexperienceinApplictionDevelopment(Websitedevelopment,WindowsApplication,
+
+WindowsMobileApplication)andanalyzingbusinessoperations.
+Total3yearsofexperienceofteam handling.
+CurrentlyworkingwithAxisBankasaManager.
+StrongknowldegeonC#,ASP.Net,SQLServer,Oracle,WPF,WCF.
+Fluentunderstandingofprojectmanagementandsoftwaredevelopmentlifecycle(SDLC).
+Abletocommunicateeffectivelywithbothtechnicalandnon-technicalprojectstakeholders.
+WorkedonmultipleBankinganddatacapturingprojects.
+
+TechnicalSkills:
+ ProgrammingSkills:HTML,CSS,JavaScript,ASP.Net,VB.Net,VB,C#,WPF,MVC,AngularJS,Windows8
+
+Apps,SSRS,SSIS
+ Database:Oracle10,SQL-2005,SQL-2008,SQL-2012,MSACCESS,SQLlite.
+ OperatingSystem:MicrosoftWindows95/98,2000,XP,Windows7,Windows8
+ MicrosoftComponents:Office,PowerPoint,Excel,Visio.
+
+ProfessionalSummary
+Organization:AxisBank(Airoli,NaviMumbai)
+Designation:Manager
+Period:Nov2016-TillDate
+
+ProjectExecuted:
+1. EasyPayOffline
+ Description:EasyPayprovidesavalueaddedservicetoitsclientbyacceptingpaymentonbehalfoftheir
+
+client.TheirbusinessincludesInsurance,College,Education,Housing,andGovernment.
+
+ Environment:.Netframework4.0,Oracle,WebServices,WCF.
+ Role&Responsibility:
+
+ ProjectLead.
+ Designingmoduleasperrequirements.
+ Productionsupport.
+ Requirementgatheringfrom Clients/businessteam.
+ AssigningtasktoVender(Team size10).
+ Supervisedcodereviews,testingandensuredallsolutionsmetarchitecturalspecifications.
+
+Organization:EclerxServicesLtd(Airoli,NaviMumbai)
+Designation:SeniorAnalyst
+Period:Sep2014-Nov2016
+
+ReceivedXtraMilerofthequarterAwardforperfomance
+
+ProjectExecuted:
+1. DocIntel
+
+ Description:ThisisPre-workflow,Datacaptureandreportingmoduleswillbeinternallycoupledtoprovide
+aholisticsolutionforanynewrequestoramendmentrequest.Belowpointsgivenanoverview:
+ Preexecutionworkflowfornewagreements/amendments
+ IntegrationwitheClerxdatacapturemodulefordatacapture&reportingdata
+ Self-servereportportal
+ Ondemand/Schedulereport
+
+ Environment:.Netframework4.0,SQL2012
+ Role&Responsibility:
+
+ Seniordeveloper(Modulelead).
+ Requirementgatheringfrom client.
+ Supervisedcodereviewsandensuredallsolutionsmetarchitecturalspecificationsanddatabase
+
+structuredesigning.
+ Softwarecodingandunittesting.
+ Systemsintegrationandtesting.
+
+2. BMOScrubwithEcap
+ Description:ThisisSemiautomateddocumentcapturesolutionthatcanbeconfiguredforawidevariety
+
+ofdocuments.UsesOpticalCharacterRecognitiontoidentifytextonimages.Usesimageenhancement
+techniquestoimprovedreadabilityofthedocument.Simplebasicsetup-fieldconfigurationwithPointand
+Capture.
+
+ Environment:.Netframework4.0,SQL2012
+ Role&Responsibility:
+
+ Seniordeveloper(Modulelead).
+ Requirementgatheringfrom clientandassigningtotheteam.
+ Codingreviewanddatabasedesigning.
+
+
+
+Page2of2
+
+ Developingrulesconfigurationmodule.
+
+ Troubleshootforprogram errorsinexistingsystems.
+
+3. UBSscrub
+ Description:Thisisdatacaptureapplicationwithmaker/checkerconcept.Analystwillcapturedatabased
+
+onruledfrom agreements(ISDAagreement).Auditorwillverifyandsameandsubmitdeal.Captureddata
+willbepushtoclienttoolforreconcile.
+
+ Environment:.Netframework3.5,SQL2012
+ Role&Responsibility:
+
+ Seniordeveloper(Moduleleadandproductionsupport).
+ Requirementgatheringfrom clientandgetitcompletedfrom theteam withunittesting.
+ Developed complex applications and updates throughoutSDLC,including analyzing business
+
+requirements,developingtechnicalspecifications,planning,coding
+ Scriptgenerationanddocumentpreparationfordeploymentactivities.
+
+Organization:MindgateSolutionPvtLtd(Vikhroli,Mumbai)
+Designation:SeniorSoftwareDeveloper
+Period:Jun2011–Sep2014
+
+ProjectExecuted:
+
+1) SystaWork
+ Description:Systaworkwebsitetoorderfurniturefortheirclients.
+
+ Environment:.Netframework4.0,MVC,SQL2008,SSIS.
+ Role&Responsibility:Databasedesigningandfileuploadmodule.
+
+2) SuvidhaaMobileApp
+ Description:WindowsphoneapplicationforSuvidhaa.Suvidhaaisarenownedcompanyinthepayment
+
+and remittancesspace.Wearealeading aggregatorofmultipleserviceslikeutilitybillcollection,
+insurancepremium,mobileandDTHrecharge,traveltickets,moneytransferservicesonasingleplatform
+throughanetworkof65,000franchiseoutletsacrossthecountry.Ourinnovativebusinessmodelhas
+broughtaboutaradicalchangeinthewaypeoplemakepaymentsandremittancesacrossmultiple
+services.
+
+ Environment:.Windowsphone8,SQLite
+ Role&Responsibility:
+
+ Seniordeveloper(Team lead).
+ Designingofapp.
+ Perform RnDonWindowsphone8featuresandimplementinsolution
+
+3) GenericConverter(Kotak)
+ Description:WindowsapplicationforKotak.Thisapplicationisusedtoconvertinputfile(Excel,Fixed
+
+length,DeliminitatedFile)intoKotakMBMEorSBSE.
+
+ Environment:.Netframework4.0,WPF,SQL2008,SQLCompactEdition.
+ Role&Responsibility:
+
+ Supervisedcodereviewsandensuredallsolutionsmetarchitecturalspecificationsanddatabase
+structuredesigning.
+
+ Codingreviewanddatabasedesigning.
+ GenerationofOutputfilebasedonconfiguration.
+
+4) SUDOfflineApplication
+ Description:WindowsapplicationforStarUnionDaichi.ThisapplicationisusedtocalculatePremium for
+
+SUDvariousInsuranceproducts.LifeInsuranceproductsforindividualaredesignedtomeettheneedsof
+individual.Needsvaryfrom individualtoindividual,soaretheinsuranceneeds.Theyarehavingahostof
+productswhichcatertothevariousstagesoffinancialplanningforanindividualaswellascateringtothe
+variousriskprofilesofanindividual.
+
+ Environment:.Netframework4.0,WPF,WCF,SQL2008,MVC,SQLCompactEdition.
+ Role&Responsibility:
+
+ DesignallproductsUIandcodingtogeneratereportforallproductpremium.
+ Codingreviewanddatabasedesigning.
+ ImplementvideofilesinWindowsfile.
+
+5) IgreenAccountopeningapp
+ Description:Windows8 desktop application forIgreen product.Win8 app isto createcomponent
+
+frameworkwhichcanbepluggedintoachieveseamlesseKYCandKYCProcessforaccountopening
+activityinBank/Insurance/Telecom/CapitalMarkets.CurrentKYCprocessiscumbersomeinnatureand
+everyfinancialinstitutionwhohasbeenmandated by the respective regulatory agency are following
+manuallycapturingthedataandassociatedscanneddocuments/Physicaldocuments.Validationofany
+suchdocumentismanualinnature.CurrentlyAadhaarcovers20%ofthepopulationand Aadhaar has
+openeduptheeKYCprocessbasedontheAadhaarbio metricfingerscanorOTPgeneratedtothe
+
+
+
+Page3of3
+
+Aadhaarregisteredmobilenumber.Thiswillbringsubstantial benefit to financial institutions
+whoseeffortstocomplyandmaintainKYCistediouscurrently.
+
+ Environment:.Netframework4.5,Windows8.1,SQLite.
+ Role&Responsibility:Designanddevelopmentofapp.
+
+6) IgreenMobileApp
+ Description:WindowsphoneappforIgreenproduct.Thisapplicationisusedtocalculatepremium.
+
+ Environment:.Netframework4.5,WindowsPhone8.0,SQLLite.
+ Role&Responsibility:Designanddevelopmentofapp.
+
+7) CBKonnect
+ Description:Thissystem ismiddlewarebetweenbanks,GovernmentPayments,PartnerPayments,
+
+Corporatepayments/Collections.System canhandlemultiplefileformatslikeFlatFiles–Delimiters/
+Fixed length,XMLISO Standard,Excel/CSV,APBS (NPCI)Format.System isbuild with multiple
+integrationmethodslikeWebService,Integration,WindowsServiceIntegration,ETL(SSIS)Integration,
+BizTalkIntegration.System hascapabilityof
+filetransfertoFTP/SFTP.Userscangetalertfrom email.
+
+ Environment:.Netframework3.5,ASP.NET,SQL2008,SSIS,SSRS
+ Role&Responsibility:
+
+ DevelopPortalforBankuserforCBKonnectproject.
+ DashboardandReportsforcheckingaccountvalidationstatus.
+ FileuploadforPPAandmakercheckerconceptforPPAuser.
+ Codingreview.
+
+8) CPSMS(MinistraryofFinanceCGA,Delhi)
+ Description:TheCentralPlanSchemeMonitoringSystem (CPSMS)isaCentralSectorPlanSchemeofthe
+
+PlanningCommissionwhichisbeingimplementedbytheOfficeofControllerGeneralofAccountsin
+partnershipwithNationalInformaticsCentre.Theschemehasestablishedacommontransaction-based
+on-linefundmanagementandpaymentsystem andMISforthePlanSchemesofGovernmentofIndia.
+Theplatform hasnowbeenextendedtoStateGovernmentsforeffectingpaymentsofplanfundsreceived
+directlyattheStateTreasuries.
+
+ Environment:.Netframework3.5,ASP.NET,SQL2008
+ Role&Responsibility:
+
+ DevelopConsultantUsercreationmodule,
+ Timesheetmoduleforconsultantuser.
+
+9) Martini(StandardCharteredBank)
+ Description:Proposedutilitywillbeusedtoprocessthefilesfrom variousagency/partnersandto
+
+perform thenecessarybusinessvalidations.Basedonthevalidatedrecords,utilitywillgeneratevarious
+reports/filesforfurtherprocessing
+
+ Environment:.Netframework3.5WPF,SQL2008,TelerikControl,SSIS
+ Role&Responsibility:
+
+ Databasedesigningforapplication
+ DevelopFileUploadandFileMatchingmodule.
+
+10) NonPerformingAssets(StandardCharteredBank)
+ Description:ThisapplicationisbuiltforStandardCharteredBankwhichwillhelpthebusinessteam to
+
+identify if any of accounts have fallen into NPA category.Reference Master circular number
+DBOD.No.BP.BC.12/21.04.048/2011-12DTJuly1,2011.
+
+ Environment:.Netframework3.5WPF,MSACCESS
+ Role&Responsibility:
+
+ Databasedesigningwithdevelopment.
+ DevelopMasterandTransactionFileUpload.
+ GenerateNPAreportandresolveexceptionmodule.
+
+11) AngelAssist(AngelBroking)
+ Description:ThisapplicationisusedforAngelBroking(CRM Application)inwhichinhouseteam will
+
+manageallfeedbackandcompliancedetails.
+ Environment:.Netframework3.5WPF,SQLServer2008
+ Role&Responsibility:
+
+ DevelopComplianceModuleandReport.
+ Developservicetosyncgmailwithapplication.
+ SupportforFeedbackmodule.
+
+12) HSBCShellATOS(HSBC)
+ Description:ThisServiceisusedforShellhasarequirementofmanagingthetransactionrelatedtoPetrol
+
+Cardsanddothereconciliationforthesame.ATOSwillactasasupportpartnertomanagethetransaction
+andreconciliationdetailsbe-halfofShell.HSBCwillbeinteractingwithATOSforallthefileandinformation
+sharingandwillbecontactingShelldirectlyforthescopeofthissolution.
+
+ Environment:.Netframework3.5WindowsService,MSAccess
+ Role&Responsibility:
+
+ Databasedesigning.
+ DevelopIFILEgenerationmoduleformultipleprocesses.
+
+
+
+Page4of4
+
+Organization:SuryanshiPMSLtd(Kamothe,NaviMumbai)
+Designation:SoftwareProgrammer
+Period :April2010–April2011
+
+ProjectExecuted:
+1)MultiLevelMarketing(MLM)
+ Description:ThisapplicationisbuildforMLM(MultiLevelMarketing).
+
+ Environment:.netframework3.5,Sqlserver2008.
+
+2)PayrollManagementSystem
+ Description:ThisapplicationisbuildforcompanywhichcontainscompletepayrolldetailsofEmployee.
+ Environment:.netframework3.5,Sqlserver2008.
+
+Qualifications:
+
+EducationalQualification:
+B.E.COMPUTER-BharatiVidyapeethC.O.E.,NaviMumbaiwith58.67%
+H.S.C–RCFCollege,Alibagwith65.83%
+S.S.C–RCFSchool,Alibagwith68.14%
+
+AdditionalQualification:
+ AttendedSeminaronWindows8organizedbyMicrosoft.
+ CompletedVB.Netfrom SEEDInfoTech,Vashi,NaviMumbai.
+ CompletedCandC++from NIIT,Vashi,NaviMumbai.
+
+PersonalProfile:
+
+ DateofBirth : 12
+th
+
+December1985
+ MaritalStatus : Married
+ LanguagesKnown : English,Hindi&Marathi
+ Hobbies : Music,ReadingBooks,Cricket.
+ PresentAddress : 401,ShreeShraddhaAvenue,plotno65,
+
+Sector20,Kamothe,NaviMumbai.
+
+Declaration:
+Iherebydeclarethattheparticularsgivenherearetruetothebestofmyknowledgeandbelief.Ifanyofthis
+
+informationisfoundtobefalseorincompleteIwillberesponsibleforit.
+
+Date: YogendraRaut
+
+

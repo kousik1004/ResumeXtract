@@ -1,0 +1,196 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bolligolladeva
+
+                                                                                                                RESUME
+
+Lokesh babu  cheluri, 
+E-Mail : Lokesh494@gmail.com  
+
+Ph: +91-95000 45724.
+                                                
+CAREER OBJECTIVE        
+
+
+       To use my programming skills in providing best quality technical solutions for continued growth and learning experiences.
+Professional Summary:
+
+·  Working for NetApp as firmware Developer previously associated with HCL Technologies.
+·  Having 4 years of experience in real time Embedded Software development in 
+                Networking domain.
+· Proven ability with C, C++ programming in networking and Storage domain.
+· Experienced in Developing Real time embedded products and greater exposure to RTOS         
+
+                  Concepts.
+
+· Hands on Device driver development.
+
+· Good Debugging skills, hands on debugging in multi threaded environment. 
+· Experience in designing, development of features from requirement analysis and system 
+               study.
+
+· Good understanding of processors, controllers architecture and experienced in  
+
+                working closely with hardware.
+· Working knowledge on timers, interrupts and serial protocols 
+· Excellent oral and verbal communication skills, good problem solving skills,
+
+                self-motivated, Dedicated.
+
+· Comfortable in working both independently, and in a team environment.
+ACADEMIC PROFILE:
+
+· B. Tech (E.C.E.) from Jawaharlal Nehru Technological University, A.P. , 2012.
+TECHNICAL SKILLS:
+Programming Languages        :   C, C++, Assembly Language programming    (8085, 8086, 8051,   
+
+                                                                                ARM) Data structures and algorithms. 
+Operating systems 
+             :   Linux, Freebsd, RTOS , Kernel programming, Device drivers.
+Network programming          :   TCP/IP, VLAN (IEEE802.1Q),, Multicasting ,802.1x, OSPF, RIP, 
+
+                                                                 IPv4, IPv6.
+Processors and Controllers   :   8085, 8086, 8051, PIC, ARM.
+Serial Communication Protocols    :  UART,I2C.
+Tools                                          :   GDB, Make file, Doors, Trace 32, JTAG Debugger, wire shark, 
+Cisco packet tracer, IXIA packet generator
+PROJECT Details:
+
+1. NetApp Apollo All Flash FAS Storage controller - HA Interconnect
+Description:
+Apollo is an All Flash FAS storage controller which runs Data ONTAP. The system embeds the Baseboard Management Controller (BMC) as the system management intelligence controller.
+
+A interconnect provides a high bandwidth, low latency transport for Data ONTAP subsystems to transfer data between controllers in an HA pair.
+
+ These subsystems are registered as clients to the interconnect software stack. For example, WAFL and RAID use the RDMA write interface to mirror non-volatile memory contents. Fail over Monitor detects status of the partner controller via the RDMA read interface
+The HA interconnect uses 100GbE Chelsio T6 iWARP on a PCIe Gen3x16 card. Standard FreeBSD OFED stack will be enabled to run T6 instead of the legacy SK OFED stack on which all the previous interconnect drivers have been developed.
+
+RDMA clients are transport agnostic and have relied on RDMA protocol for low latency, data ordering and placement guarantee and achieve high performance. It's required to present an OFED RDMA like protocol over T6 to ensure RDMA clients are not aware of any underlying transport protocol changes and continue to work without modification. 
+
+Skills                                     :    C programming,  Kernel and Device Driver programming .
+Environment                      :   Freebsd 
+Roles & Responsibilities  :  Understanding new interconnect driver T6 iWARP driver,
+                                                  Development using FreeBSD OFED Stack.
+Team size                          :   6                           
+ Duration                          :    December 2016 to till date.
+2. Cisco Catalyst 6500 network switch, Cisco IOS (RTOS) Development
+
+Description:
+The Catalyst 6500 is a modular chassis network switch manufactured by Cisco Systems since 1999, capable of delivering speeds of    up to 400 million packets per second.
+
+   A 6500 comprises a chassis, power supplies, one or two supervisors, line cards and service modules. A chassis can have 3, 4, 6, 9 or 13 slots each (Catalyst model 6503, 6504, 6506, 6509, or 6513, respectively) with the option of one or two modular power supplies. The supervisor engine provides centralized forwarding information and processing; up to two of these cards can be installed in a chassis to provide active/standby failover. The line cards provide port connectivity and service modules to allow for devices such as firewalls to be integrated within the switch.
+
+Skills                                     :    C programming, RTOS, VLAN (IEEE802.1Q), Multicasting , OSPF, 
+                                                       RIP, IPv4, IPv6, ACLs.
+Environment                      :   Cisco IOS.
+
+Roles &Responsibilities  : OS Porting  Feature development, sustenance, understanding the defects filed by customers and internal testing  team and providing the best quality  solutions to resolve the issues.
+
+                                        Typical day to day activities include 
+Handling issues on porting software typically different endian machines ,Understanding the features, modules, and defects, discussing with Peers, tester or customer if the defect filed by customer, bringing up local setup to reproduce the issue, enabling the appropriate debug messages, collecting logs in issue state, decoding the call stack, finding the exact function corresponds to issue, discussing with corresponding peers if any suspicious changes found and finalize, inspection of packets at different modules for the correctness in case of packet drop issues, discussing challenges faced at every stage with peers in scrum meeting, narrowing down and fixing the issue.
+Team size              :   10                              
+ Duration              :    November 2014 to  September 2016
+3.   Network application for building automation.
+
+Description   : Developed PIC micro controller based network application for building                    automation.
+                                    This Application allows user to access the power control of building, office and industries threw internet. The embedded device installed in network by providing IP address, the device acts as server where all the user requests are handled. This application provides fancy features like authorized users only allowed to access the control where the devices are going to be privileged to access, number devices going to be operate and allows super user to change the privileges of users, their authentications. The devices are connected to main power supply through electrical relays Operate through PIC microcontroller I/O pins. The flash memory of PIC controller is emulated to save the users, passwords and authentication details threw data eeprom emulation techniques.
+
+Skills                       :   C, C++, PIC, PIC EEPROM Emulation
+Environment        :   C, MPLAB SIMULATION TOOL
+
+Tools                      :  MPLAB IDE, MPFSGENARATOR, TCP/IP NETWORK DISCONVERER, PICKKIT3,
+
+Responsibilities   :   Product development.
+
+                                   Owned hardware programming responsibility independently, understanding PIC architecture and optimisation of open source library from PIC manufactures, giving requirements to the hardware designer , coordinating with web interface developers to the embedded server, integrating modules and testing the functionality.
+Client                     :   Research and development project.(Part of industrial training)
+Team size              :   3                               
+ Duration              :     August 2013 to March 2014.
+4.     Power control automation of a PC on LAN .
+ Description :  Developed an embedded application for automatic shutdown of PC on LAN.
+
+                          This application used to shut down a PC on LAN using Remote control.  This Embedded system uses ARM 7 micro controller to take the commands from user     through remote to shut down a particular system, the commands are interpreted using RC5 Remote control protocol, the interpreted data is sent to sever system from micro controller to server threw UART and Linux serial communication, based on received data server will send a command to particular system to halt through Client server communication.
+
+Skills                       :   C, ARM7, UART, RS232, Remote control protocol, Linux serial communication TCP/IP Client server communication
+Environment        :   C, Keil IDE,
+
+Responsibilities   :   Product development.
+
+                                    Owned hardware programming responsibility independently, understanding ARM7 architecture, implementing Linux serial communication to interface an ARM board with a 
+    Linux PC. 
+Client                     :    Research and development project (part of industrial training)
+Team size              :   3                              
+Duration              :    August 2013 to March 2014.
+PERSONAL PROFILE:
+Name                                             :  C. Lokesh babu,
+
+Father’s name                              :   C. Ramanaiah,
+Mother’s name                            :   C. Obulamma,
+
+Date of Birth                                 :   06th Aug 1989
+Gender
+
+                 :    Male
+
+Marital status                              :   Single
+
+Nationality
+                             :   Indian
+
+Languages proficiency               :  English, Hindi, Telugu.
+Contact Address
+               :   #20, 3rd Cross, Munikrishnappa building, Srinivagilu,Viveknagar 
+                                                               (P.O), Bangalore-47
+ Permanent Address                  :   Kayalapalli, Kotala, Thamballlapalli(M),Chittor(Dt.),  
+
+                                                             Andhrapradesh-517418.
+
+  DECLARATION:  
+
+ I hereby declare that the information furnished above is true and correct to the best of my knowledge and believe and bear the responsibility for the correctness.
+Place: Bangalore.
+Date:                                                                                                                       (LOKESH BABU C.)                                                                                                                                                                                                                                                                 
+

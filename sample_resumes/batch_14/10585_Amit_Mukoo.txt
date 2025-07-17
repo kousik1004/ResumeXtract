@@ -1,0 +1,345 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amit Mukoo
+Mobile: +91-7350916071 / +91 - 8788622614  E-Mail: AmitMukoo@yahoo.com / mukooak@gmail.com 
+
+Seeking Assignments in Software Development with a growth-oriented organization of repute.
+
+PROFESSIONAL SUMMARY
+· 9+ years of professional experience in software system analysis, design and development in Utility & Financial domain. 
+· Good exposure to each of the phases of Software Development Life Cycle (SDLC) & Agile. Develop projects from stage of concept to full implementation.
+· A skilled programmer with a flair for adopting new technologies, designing and building applications. 
+· A keen Analyst and Team Player with thorough understanding of all aspects of the SDLC from understanding client requirements, translating them into technical specifications and driving their execution. 
+· Multi-faceting, able to respond quickly & confidently in pressure situations. 
+· Person with positive attitude who believes in consistency, hard work and sincerity. Displaying proficiency in quality work and attaining project targets. Ability to develop & maintain strong working relationship. An effective communicator with good presentation skills. Below are my core competencies which help me achieving project targets.
+Technical Competency		Domain Competency		Process Adherence	
+Team Engagement		Tools
+· Hands on experience in Tableau, MS SQL Server 2005/08/14, SSIS, Oracle 11g, SSRS, .Net Framework 3.0/3.5/4.0, C#,  ASP.NET, ADO.NET, Linq, WCF, JavaScript, CSS, XHTML, & knowledge of jquery & Web Service.
+ 			
+ACADEMIA
+
+Bachelor of Engineering (Electrical) from Walchand College of Engineering, Sangli. Secured 69.33%
+
+TECHNICAL SKILLS
+
+	Area
+	Languages/Tools
+
+	Microsoft Technologies
+	ASP.NET, ADO.NET
+
+	Framework
+	3.0,3.5,4.0
+
+	Programming Languages
+	C#
+
+	Scripting Languages
+	JavaScript, jQuery
+
+	Databases
+	SQL Server 2005/2008/14, Oracle 11g
+
+	Business tools
+	Tableau, SSIS 2005/08, SSRS 2005/08
+
+	Operating Systems
+	Windows 95/98/2000/NT, XP, Vista, Windows 7
+
+	Development Tools
+	Microsoft Visual Studio 2005/08/10
+
+	Design Tools
+	MS Visio, XML Spy
+
+	Application Servers
+	IIS
+
+	xcVersion Control
+	Visual SourceSafe, Microsoft Team Foundation Server, Synergy
+
+
+
+EMPLOYMENT SCAN
+Since Nov’12 - Till   Capgemini India Pvt Ltd, Pune		 	                                 Senior Consultant
+
+  
+	Project Name
+	Business Management Reporting
+
+	Organization
+	Morgan Stanley
+
+	Duration
+	38 Months
+
+	Technologies used
+	Tableau, SQL 2008 R2/2014, SSIS 2008
+
+	Synopsis
+	Business Management Reporting (BMR) is an application targeted for Branch Managers and Complex Managers. It is a consolidated, interactive and one stop shop that provides a comprehensive view of your business. It offers up-to-date reporting on different modules integrated with 3D platform in MS
+
+	Role
+	Senior Consultant
+
+	Responsibility
+	· SRS walkthrough participation among BA’s, IT development Team
+· Understanding the requirement through SRS walkthrough and deciding the solution among IT team
+· Discussion with source team to provide the data. 
+· Creating SSIS ETL package to load the data from source (either flat file or Teradata view) and load it in our SQL Table.
+· Creating Store Procedures to apply business rules and load it in our fact table 
+· Creating Tableau Dashboard and deploying in non-prod environment.
+· Discussion with QA team to work on the defects raised by them
+· Creating deployment tickets and working with deployment team to get the components deployed on Prod servers.
+· Providing IT support during business check outs.
+
+
+   
+
+	Project Name
+	Business Management Reporting
+
+	Organization
+	Morgan Stanley
+
+	Duration
+	24 Months
+
+	Technologies used
+	SQL 2008 R2/2014, SSIS 2008
+
+	Synopsis
+	Business Management Reporting (BMR) is an application targeted for Branch Managers and Complex Managers. It is a consolidated, interactive and one stop shop that provides a comprehensive view of your business. It offers up-to-date reporting on different modules integrated with 3D platform in MS
+
+	Role
+	Senior Consultant
+
+	Responsibility
+	· SRS walkthrough participation among BA’s, IT development Team
+· Understanding the requirement through SRS walkthrough and deciding the solution among IT team
+· Discussion with source team to provide the data. 
+· Creating SSIS ETL package to load the data from source (either flat file or Teradata view) and load it in our SQL Table.
+· Creating Store Procedures to apply business rules and load it in our fact table 
+· Creating Stored Procedures to result the result which will be bind with web api component which in turn will be used by UI team to be displayed on screen and deploying in non-prod environment.
+· Discussion with QA team to work on the defects raised by them
+· Creating deployment tickets and working with deployment team to get the components deployed on Prod servers.
+· Providing IT support during business check outs.
+
+
+
+
+	Project Name
+	Business Management Dashboard
+
+	Organization
+	Morgan Stanley
+
+	Duration
+	10 Months
+
+	Technologies used
+	. Net Framework 4.0, Visual Studio 2010, C#, ASP.NET, XML, XSLT,CSS, JavaScript, jQuery, SQL Server & SSIS
+
+	Synopsis
+	Business Management Dashboard (BMD) is an application targeted for Branch Managers and Complex Managers. It is a consolidated, interactive and one stop shop that provides a comprehensive view of your business. It offers up-to-date reporting on key business metrics, FA Performance and Demographics, Headcount, and profitability. All branch, complex, regions, division management within the national sales have the access of BMD.
+
+My Practice is an application targeted for Financial Advisors, which gives them all the information required to perform their day to day activities with ease.
+It is the main product of Business intelligence Portals Group and its one of the major applications of Morgan Stanley group. Financial Advisors can get information about their revenue generated, assets earned, compensation earned, etc.
+
+Control Center is an application which allows user to perform different kind of jobs like feed file upload, SP execution, running SSIS package, uploading data on SharePoint etc
+
+	Role
+	Consultant
+
+	Responsibility
+	· SRS walkthrough participation among BA’s, IT development Team
+· Understanding the requirement through SRS walkthrough and deciding the solution among IT team
+· Discussion with source team to provide the data. 
+· Creating SSIS ETL package to load the data from source (either flat file or Teradata view) and load it in our SQL Table.
+· Creating Store Procedures to apply business rules and load it in our fact table 
+· Creating Stored Procedures to result the result which will be bind with web api component which in turn will be used by UI team to be displayed on screen and deploying in non-prod environment.
+· Discussion with QA team to work on the defects raised by them
+· Creating deployment tickets and working with deployment team to get the components deployed on Prod servers.
+· Providing IT support during business check outs.
+
+
+  
+    Since Jul’12- Nov’12   Synechron Technologies Pvt Ltd, Pune		 	                                Associate 
+
+	Project Name
+	E-ON
+
+	Organization
+	US based Client
+
+	Duration
+	4 Months
+
+	Technologies used
+	. Net Framework 4.0, Visual Studio 2010, C#, ASP.NET, SQL Server 2008, XHTML,CSS, JavaScript
+
+	Synopsis
+	This application maintains the attendance records of the employees and also helps in maintaining leave balance.
+•	Gathered complete requirements for the project, and prepared the requirement document.
+•	Re-engineering the database design
+
+	Role
+	Associate
+
+	Responsibility
+	· Requirement gathering after discussion with client.
+· Creating design document for UI and DB changes. Prepared test plan for integration testing
+· Created UI pages, DB procs and deployed on non-prod environment.
+· Provided support during IT checkout
+
+
+   
+    Since Sep’08- Jun’12   Infosys Limited, Hyderabad.		 	                     Senior Systems Engineer
+
+	Project Name
+	Operating Model Reports
+
+	Organization
+	US based Gas Utility
+
+	Duration
+	9 Months
+
+	Technologies used
+	. Net Framework 4.0, Visual Studio 2010, C#, ASP.NET, Enterprise Library 4.0, WCF, Oracle 11g, Toad, XHTML, CSS, JavaScript, XML
+
+	Synopsis
+	The OMR application is a website being used by the AGL employees to analyze the work done over a period of time. It helps the senior management find the deviation from the estimated effort and the actual effort considering various parameters.
+
+	Role
+	Senior Systems Engineer
+
+	Responsibility
+	· Requirement gathering after discussion with client.
+· Creating design document for UI and DB changes. Prepared test plan for integration testing
+· Created UI pages, DB procs and deployed on non-prod environment.
+· Provided support during IT checkout
+
+
+
+
+	Project Name
+	Customer Self Service & Data Hub
+
+	Organization
+	UK based Water Utility
+
+	Duration
+	6 Months
+
+	Technologies used
+	.Net Framework 3.5, Visual Studio 2008, SQL server 2005/08, SSRS 2008, SSIS 2008
+
+	Synopsis
+	CSS is a public website that automates various tasks (Water bill payment, location change within or outside the utility area, viewing bill payment, updating address or contact numbers)  for which UU users interacts with the customer care. The client requested reports (Master Report, Direct debit Refusal, Failed Account Registration/Activation & Account update Email Summary) as a CR with the release of the application. It was initially not in the scope of the release.
+
+Data Hub is the main repository of data fetched from various external systems like (MAMS, PIONEER, DOMS, eRespond, WFM, IPM and OMS). There can be additional external systems in future. A new interface is needed between OMS and Data Hub systems to synchronize the facility and site data in OMS with the Data Hub.
+
+	Role
+	Systems Engineer
+
+	Responsibility
+	· Requirement gathering with interaction with client and creating the documents.
+· Design for tables structure , SSIS & SSRS model .
+· Mentored team members during development phase
+· Deployed the components and provided IT support
+
+	Appreciation
+	I received ‘on the spot’ award for the timely and bug free delivery of the reports.
+
+
+	
+
+	Project Name
+	Operating Management System (Development  & Support )
+
+	Organization
+	UK based Water Utility
+
+	Duration
+	18 Months
+
+	Technologies used
+	.Net Framework 3.0, Visual Studio 2005, C#, ASP.NET, ADO.NET,SQL Server 2005, WCF, HTML, CSS, & Javascript.
+
+	Synopsis
+	OMR application is the repository of the historical data that is required by UU for maintaining the water quality and supplying in the north-west England. UU owns and manages the regulated water and waste water network.
+
+	Role
+	Systems Engineer
+
+	Responsibility
+	· Performed daily health check, which confirms whether the SSIS packages ran successfully or not. If not, we have to find the cause and work on the same.
+· Worked on daily incidents that have been raised by the users within the SLA period. Also generated the ad hoc reports requested by the client.
+· Created new pages which were discussed as part of SRS walkthrough meeting.
+
+	Appreciation
+	I had received appreciation note from the onsite member for my dedication and timely delivery for the release.
+
+
+
+
+
+
+
+PERSONAL DOSSIER
+
+Date of Birth          :   22th July, 1986
+Permanent Address:   B-1506, Amarpali Greens, Vaibhav Khand, Indrapuram, Near Kala Pathar, Ghaziabad - 201014
+Present Address    :   B-1004, 10 Vrindavan, Laxmi nagar, Near Vithal Mandir, Dhanori, Pune - 411015
+Linguistic Abilities:   English, Hindi, Kashmiri
+
+References on request

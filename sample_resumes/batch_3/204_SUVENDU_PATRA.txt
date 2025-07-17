@@ -1,0 +1,593 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VIATE
+
+
+ 
+
+  
+
+CURRICULUM VITAE 
+
+ 
+
+ 
+
+  
+
+SUVENDU PATRA 
+
+ 
+
+CONTACT DETAILS: 
+
+Present: 15/3 Akshoy Kumar Mukherjee Road, Baranagore, North 24 Pargana, Kolkata-70090 
+
+Permanent: Vill–Nabin Mahesh Pur, P.O.–Fateh Pur, Dist.–Paschim Medinipur, Pin-721146 
+
+Mobile: +919903065474 
+
+Email:suvendupatracse@gmail.com 
+
+ 
+
+ 
+
+SUMMARY: 
+
+ 
+
+ Having 9+ years of experience in web application development using LAMP technology 
+
+ Having 5+ years of experience in python and data processing(ETL) 
+
+ Having experience in developing applications based on e-Learning, e-Commerce, Content 
+
+Management, Enterprise Solution & CRM Solution 
+
+ Having experience in planning the architecture of the system under the supervision of solution 
+
+architect 
+
+ Having experience for taking requirements from clients, planning for the development process 
+
+and execution and finally the delivery of the same. 
+
+ Having experience for managing a team from 3 - 10 members. 
+
+ Having experience in deploying the applications, giving demo to the clients and taking 
+
+feedback for the changes if required. 
+
+ Having experience to prepare development breakdown plan and sprint plan under the 
+
+supervision of project manager  
+
+ Goal Oriented 
+
+SKILLS: 
+
+ 
+
+ Technical skills: Python/PHP/Postgres/Mysql/JavaScript/HTML 
+
+o PYTHON frameworks used: Django, Flask 
+
+o RDBMS: MYSQL 5.x, PostgreSQL8.4, Amazon Redshift 
+
+o Big Data: Hadoop, Hive 
+
+o Template Engine: smarty, Pear(Html template sigma) 
+
+o JavaScript libraries : Jquery, AngularJs 
+
+o Caching Engine: Memcache,Redis, Zend/Yii file cache 
+
+o NoSql Database: CouchDB, MongoDb, DynamoDB 
+
+o Version Controll: SVN, Git 
+
+o Continuous Integration Tool: Jenkins 
+
+o Devops Tool: Ansible 
+
+o Server Platform: Linux/Unix, windows server 2008 
+
+o Cloud platform: Rackspace, Softlayer, Amazon Web Services  
+
+o PHP frameworks used: Yii, Zend, Laravel, Cakephp, Code Igniter 
+
+o IDE & Tools: Zend Studio 9, NetBeans, Dreamwear CS2, Eclipse, TortiseSVN 1.7.4 
+
+ Additional Technical Skill: Java/J2ee 
+
+ Others Tools :  
+
+o Used YSlow, Page Speed for performance tuning and optimization of UI 
+
+o Used Firebug, Firebug PHP and IE Profiler for troubleshooting and debugging 
+
+o Bug tracking tool : Mantis, Bugzila, Jira 
+o Agile Project Management Tool (Rally, Confluence) 
+
+mailto:suvendupatracse@gmail.com
+
+
+ 
+
+o Code coverage, pylint, pep8 and sonar cube 
+ Processes & SDLC: Agile Scrum and CMMI processes 
+
+ 
+
+CERTIFICATIONS: 
+
+ 
+
+ ZEND PHP 5.3 Certification 
+
+ Certificate in Networking Management (LINUX Environment) from IIT, Kharagpur. 
+
+ Python and Django from SpringPeople Software Private Limited 
+
+ Core Java Certification from CMC Limited 
+ 
+
+AWARD & RECOGNITION: 
+
+ 
+
+ Star Performer of the Quarter(Q-4 2012-13), LearningMate Solutions Pvt Ltd 
+
+ Best project Delivery Team of Quearter 2, 2014-15, LearningMate Solutions Pvt Ltd 
+
+ Best Project Delivery of the Year 2013-2014, LearningMate Solutions Pvt Ltd 
+
+ Best process compliance project of the Quarter(Q1, 2015-16), LearningMate Solutions Pvt 
+
+Ltd 
+
+ 
+
+ 
+
+EXPERIENCE: 
+ 
+
+Team Lead, LearningMate Solutions Pvt Ltd, Kolkata. 
+
+Duration: Sept, 2012 to till date 
+
+Responsibilities: Requirement analysis & sprint planning, architecture design, programming, 
+
+solving mission critical problem, maintaining task timeline, code merging & deployment in several 
+
+environments (i.e. Development, QA, Staging and Production), coordinating with clients and 
+
+internal team. 
+
+ 
+
+Senior Software Engineer, Aptsource Software Pvt Ltd, Kolkata. 
+
+Duration: Nov, 2010 to Sept, 2012 
+
+Responsibilities: Requirement analysis, architecture design and project tracking, communicating 
+
+with Clients, programming, solving mission critical problem, maintaining task timeline, 
+
+coordinating with clients &  leading a team (5 member). 
+
+ 
+
+Senior Software Developer, BEAS Consultancy and Services Pvt Ltd, Kolkata. 
+
+Duration: March, 2010 to Nov, 2010 
+
+Responsibilities: Requirement analysis, planning, architecture design and project tracking, 
+
+communicating with Clients, programming, solving mission critical problem, maintaining task 
+
+timeline, managing team. 
+
+ 
+
+Senior Developer,Webicon Technologies (present name SBR Technologies pvt Ltd), Kolkata. 
+
+Duration: Oct, 2009 to March, 2010 
+
+Responsibilities: Requirement analysis, planning, architecture design and project tracking, 
+
+communicating with Clients, programming, solving mission critical problem, maintaining task 
+
+timeline, managing team(size: 10). 
+
+ 
+
+Web Developer,Eslarr Infoservices, Kolkata. 
+
+Duration: May, 2008 to May, 2009 
+
+Responsibilities: Programming, individual project handling. 
+
+  
+
+
+
+ 
+
+ 
+
+PROJECT UNDERTAKEN: 
+
+ 
+
+SuccessMaker: 
+
+SuccessMaker is an adaptive and prescriptive scheduling intervention program delivering both 
+
+reading and math curriculum. 
+
+Skill Set: Python, Ansible,  Aws services 
+
+Role: Work with devops team for IT automation(aws cloud deployment) using python and ansible 
+
+ 
+
+Eatoji: 
+
+This is a e-commerce platform where provider sale their food(meal) to the consumer. Consumer 
+
+can search, order the meal and pay online. Consumer can post meal requirement to get bid from 
+
+the nearest provider.  
+
+Skill Set: Python, Django REST, Mysql, Amazon S3, Payment gateway(Stripe), Google apis, 
+
+Social login(Google and facebook) 
+
+Role: Team Leader. 
+
+ 
+
+Dynamodb Backup/Restore Utility: 
+
+ 
+
+Build python script to backup and restore utility using dynamodb apis. It will genearte backup of 
+
+data and schema as json file and upload it to S3 bucket. Restore script will download data and 
+
+schema from S3, then create(if not existed)/update dynamodb table using dynamodb apis. After 
+
+successful backup or restore action an email will be sent to administrators. Several other 
+
+complexities like large data volume and exception handling has been handled. 
+
+Skill Set: Python, Amazon Dynamodb, Amazon S3, SES, Threading 
+
+Role: Team Leader. 
+
+ 
+
+ 
+
+iLit Reporting Services API and ETL: 
+
+Different web services build to provide reporting data, based on user supplied parameter. ETL has 
+
+been designed and developed for replicating data from amazon dynamodb to redshift database. 
+
+Aws lambda functions has been developed to save data for every event of dynamodb to Redshift 
+
+and S3 bucket for future processing dynamodb content. 
+
+Reporting formats has been supported json data, pdf and csv reports. 
+
+A book recommendation engine has been developed based on complex algorithm so that based 
+
+on student behavior, marks, grade and interest area a set of books will be shown as 
+
+recommended. 
+
+Skill Set: Python, Flask, Amazon Redshift, Amazon S3, Amazon lambda, Jenkins 
+
+Role: Team Leader. 
+
+ 
+
+ 
+
+iLit CMS and content migration Utility: 
+
+This CMS build to manage curriculum content for pearson Education. Authors generate grade 
+
+content with respective to different product-grade. Content can be anything with composition of 
+
+text/media (audio/video/image/epub).  
+
+Content migration tool has been build to package and deliver content in the form of JSON and 
+
+media so that other services platform can grab it, which will serve through the iLit platform in 
+
+various devices. Content migration utility is a multi threaded application which can process 
+
+several GB of data in few minutes. 
+
+ 
+
+Skill Set: python, Django, PostgresSql, Amazon S3, cloudfront, IBM cloudant (couchDB), JAVA 
+
+SCRIPT (AngularJs, Jquery) 
+
+Role: Module Leader.   
+ 
+
+
+
+ 
+
+ 
+
+TEACH-NOW 
+
+This is a platform to conduct certification examination for teacher’s training program. There are 
+
+several activities and workflow through which one candidate will be examined and graded. Apart 
+
+from this, there are several others features have been implemented like virtual classroom, chat 
+
+(one to one), charts and reports to represent several analysis. 
+
+ 
+
+Skill Set:PHP, YII Framework, MYSQL, HTML, JAVA SCRIPT (Jquery) and AJAX, Third party APIS 
+
+(Adobe connect, twitter). 
+
+Role: Senior Software Engineer.   
+ 
+
+ 
+
+REVIEW ANALYST  
+
+This is a web application where subscribed hotels owner can check their hotel’s reviews which are 
+
+parsed from different renowned portals. Reviews are crawled from the referred sites and saved to 
+
+the database.Particular hotel can set their competitors hotel and also can check their competitor’s 
+
+information also. There are several analytical tools (which represent data in graphical charts and 
+
+also export data in different format like csv, pdf, word, rtf and txt) which really help one’s 
+
+business to run smoothly in the competitive market scenario. 
+
+Skill Set:PHP, Zend Framework, Xpath query, MYSQL, HTML, JAVA SCRIPT (Jquery) and AJAX, 
+
+Cloud technologies. 
+Important feature:Web crawling,Google search integration (XML search engine), APIs 
+
+integration (Facebook, Twitter, Foursquare, Bazaarvoice, TrustYou, Google blogs …etc), 
+
+implementation of cloud server and application monitoring tool.  
+
+Role: Lead developer.   
+ 
+
+SAPBIDS  
+
+This is an online portal for SAP contractor and employer. Employer can post their job requirement 
+
+or can invite a contractor to bid for their job. Contractor bids for the job and if got selected then 
+
+they have to accept job agreement from the employer. There are escrow and milestone payment 
+
+system to secure contractors. Besides this, there are internal messaging system, rating system 
+
+for both contractor and employer. This portal holds all typical features of a job portal like 
+
+peopleperhour.com, freelancer.com. 
+
+Skill Set:PHP, Zend Framework, MYSQL, HTML, JAVA SCRIPT (Jquery) and AJAX. 
+Important feature: payment gateway API (PayPal express checkout and mass pay), Google 
+
+search API integration (XML search engine) 
+
+Role: Lead developer   
+
+ 
+
+Booking Data Extraction Tool 
+
+This tool was made on demand extraction of event show details and its sits availability. User will 
+
+select the sites where from they want to grab the information and in the settings page they have 
+
+provide gmail credential where they want to get the report as google spreadsheet.System will 
+
+parse the information from the mentioned sites and will generate a spreadsheet with multiple 
+
+spreadsheet tab and upload it to provided user’s gmail account as google docs. 
+
+Skill Set:PHP, Zend Framework, MYSQL, Xpath query, HTML, JAVA SCRIPT (Jquery) and AJAX, 
+
+Google APIs. 
+
+Role: Lead developer   
+
+ 
+
+Above mentioned projects have been executed in last 3-4 years. I have executed 
+
+several other projects which can be shared on request.    
+
+ 
+
+EDUCATIONAL DETAILS: 
+
+ 
+
+
+
+ 
+
+Name of 
+
+Examination 
+
+University Institution Name Year of 
+
+Passing 
+
+DGPA 
+
+ 
+
+B.Tech (Computer 
+
+Science & Engineering) 
+
+ 
+
+W.B.U.T 
+
+College of Engineering 
+
+& Management, 
+
+Kolaghat 
+
+ 
+
+ 
+
+2008 
+
+ 
+
+    7.76 
+
+ 
+
+Name of 
+
+Examination 
+
+School Board /University Year of 
+
+Passing 
+
+Percentage 
+
+Higher 
+
+Secondary 
+
+S.S.PATNA HIGH 
+
+SCHOOL 
+
+W.B.C.H.S.E 2003 72.9 
+
+Madhyamik 
+
+ 
+
+N.K.K.B HIGH 
+
+SCHOOL 
+
+W.B.B.S.E 2001 79.13 
+
+ 
+
+INDUSTRIAL TRAINING: 
+ 
+
+One month project-based vocational training on JAVA (CORE) conducted under CMC Education. 
+
+ 
+
+ 
+
+PERSONAL INFORMATION: 
+
+ 
+
+Father’s Name : Mr. Basudev Patra. 
+
+Date of Birth   : 29
+th
+ April, 1985. 
+
+Marital Status  : Married 
+
+Gender  : Male. 
+
+Language Known : Bengali, English, Hindi. 
+
+ 
+
+About Me: 
+
+I am self motivated and believe in result oriented solution. 
+
+ 
+
+DECLARATION: 
+
+ 
+
+I hereby declare that the information furnished above is true to the best of my knowledge. 
+
+ 
+
+DATE:    30.10.2017                                                                                  SUVENDU PATRA                                                                                                          
+
+

@@ -1,0 +1,379 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+Sourabh S. Bhosale         
+
+  
+
+ 
+
+Phone –91 98904873/ 9850427567 
+Email – bhosalesourabh77@gmail.com 
+ 
+
+ 
+
+Experience Summary: 
+
+I have around 2 years experience in Microsoft Business Intelligence (SSAS, SSIS, SSRS), MS SQL 
+
+Server Development and Tableau Reporting. Proficient in core Data Warehousing concepts like 
+
+Dimension modeling and  define Fact Tables, Star Schema, Snowflake Schema, Drill down, Grain 
+
+and Slowly Changing Dimensions and ETL as well as Report development. I have worked on 
+
+various stages of software development lifecycle which includes Requirement Analysis, Design, 
+
+Development and Testing (Unit, Integration & System Testing). 
+
+ 
+
+✓ Strong analytical as well as debugging skills  
+
+✓ Experience in diagnosing and resolving technical inquiries 
+
+✓ Project Experience on SSIS and SSAS and Tableau Tool. 
+
+✓ Aware of the core Data Warehousing concepts like Slicing, Dicing, Dimension and Fact 
+
+Tables, Drill down, Drill Across, Grain, Granularity, Slowly Changing Dimensions, and 
+
+Normalizations etc. 
+
+✓ Ability to work both independently and as part of a team. 
+
+✓ Worked extensively in developing and implementing Tableau Reports. 
+
+✓ Has completed Certifications in Querying Microsoft SQL Server 2012(70-461). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Certification 
+
+ 
+
+# Year Certification % 
+
+1 2016 Querying Microsoft SQL Server 2012(70-461)  83% 
+
+69.06
+
+69.61
+
+68.3
+
+67.5 68 68.5 69 69.5 70
+
+TKIET Warana
+
+Dr D.Y.Patil Polytechnique Kolhapur
+
+Vadgaon High school Vadgaon
+
+B
+E
+
+(A
+g
+
+g
+r
+
+)
+D
+
+ip
+lo
+
+m
+a
+
+S
+S
+
+C
+
+Education DetailsEducation Details
+
+Education 
+
+mailto:bhosalesourabh77@gmail.com
+
+
+  
+
+Sourabh S. Bhosale         
+
+  
+
+ 
+
+Technical Skills:  
+
+  
+
+ 
+
+Project Experience: 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Project : Lending Analytics 
+
+Client Indian Lending Product Company 
+
+Duration : 10 Months 
+
+Description :  BI system is developed for leading Financial Institutes extending one of the 
+
+popular Lending Product. System is developed using SSIS as ETL, pulling 
+
+data mostly from Oracle. Data Warehouse is developed in Oracle. 
+
+Technologies : Tableau 9.2, MS SQL Server, Oracle 11i 
+
+Role : I worked as Dashboard designer on this project. I developed multiple 
+
+dashboards for Risk, Controlling and Accounting areas using Tableau 9.2. 
+
+Also I developed few ETL routines using SSIS to populate the Data 
+
+Warehouse. 
+
+ 
+
+10
+
+2
+
+10
+
+2
+1
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+Naviz Lighthouse Oman Based Project
+NLIC
+
+Lending BI Supplier Report Sales Analytics*
+
+Project By Month
+
+Business 
+
+Intelligence 
+
+Microsoft BI Stack ( SSIS, SSRS and SSAS) 
+
+ Tools &  
+
+Technologies 
+
+SSDT 2010, 2013, 2015 , Tableau, Power 
+
+BI, Talend, MDX 
+
+Database SQL Server 2012, Oracle 11i 
+
+
+
+  
+
+Sourabh S. Bhosale         
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Project : Sales Analytics 
+
+Client Diamanti  
+
+Duration : Work since last month 
+
+Description :  This Sales Analysis project, Analysis sales data and create dashboards using 
+
+Power BI  
+
+Technologies : Power BI & Excel 
+
+Role : I worked as Dashboard designer on this project. I developed multiple 
+
+dashboards On  Sales Data 
+
+ 
+
+Project : Developing ETL for Legal consulting firm(Naviz-Lighthouse) 
+
+Client US based large Legal firm 
+
+Duration : 10 Months 
+
+Operating System : Windows 2008 Server, Windows 8 
+
+Technologies: MS BI Stack (SSIS, SSAS), MS SQL Server 
+
+Description Project involves extracting data from SQL Server that has client’s data from 
+all over the world. Data was in Terabytes. Earlier team developed Cubes in 
+SSAS and this part of the project was to develop multiple ETL packages for 
+loading data Daily, Weekly, Fortnightly and Monthly. 
+
+Role : I worked as ETL Architect on this project. I studied the source systems 
+
+(multiple servers) and Target Data Warehouse (SSAS) and designed & 
+
+developed the ETL packages (SSIS).  
+
+  
+
+Project : Development of ETL and Cube using MS technology 
+
+Client :  Oman based Insurance company 
+
+Duration : 2 Months 
+
+Description Project involves extracting data from heterogeneous data sources 
+including SQL Server and Oracle databases across multiple locations, 
+transforming the data applying various transformations and loading into 
+data warehouse. MS SSIS are used to perform these activities. Later, 
+developing the Cube using SSAS. 
+
+Technologies: SSIS , MS SQL Server 2012 
+
+Role : I worked as ETL Architect on this project. I studied the source systems 
+
+(Oracle servers) and Target Data Warehouse (SSAS) and designed & 
+
+developed the ETL packages (SSIS). 
+
+ 
+
+ 
+
+
+
+  
+
+Sourabh S. Bhosale         
+
+  
+
+Project : Supplier Report 
+
+Client :  Norway based Company 
+
+Duration : 2 Months 
+
+Technologies: Power BI, MS SQL Server, SSAS 
+
+Description : Project involves extracting data from client server to Azure Server Using 
+SSIS, And Create SSAS Cube on Data warehouse and this cubes are used in 
+Power BI For creating Visualizations. 
+
+Role : I worked as ETL(SSIS) Developer and Dashboard Designer Using Power BI on 
+this project. 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

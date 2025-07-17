@@ -1,0 +1,344 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	Anil Kumar Reddy Kavilla
+
+	
+	Anil.kavilla@gmail.com
+
+	SAP BW BOBJ Consultant
+	Res: +91 9052357919
+
+	Hyderabad, India
+	
+
+	
+	
+
+	
+	
+Professional Abridgement
+
+
+
+· A dynamic and results-driven professional with 6 years 4 months of increasingly responsible experience. Currently driving SAP Business Intelligence project development and support execution for Deloitte, Hyderabad as Consultant. 
+· Candidate differentiators includes an extensive understanding of SAP data warehousing and reporting concepts that enables successful project development with a focus on data modeling, business reporting and ETL. 
+· Ability to learn and adapt, initiate timely product development and introduction. 
+· A savvy team player and leader, experienced in spearheading high-impact technical solutions. 
+· Outstanding communications skills with the ability to relate to and work with diverse people.
+· Experience to drive projects through full development cycle within project and budget parameters. Extensively involved in all phases of life cycle including Requirement Gathering, Business blueprint, Realization, Final preparation, Post Go Live Support and Documentation. Mainly solution delivery and result-oriented individual in analyzing project situations and implementing solutions
+· Exceptional debugging and trouble shooting skills Specialties includes Data warehousing, SAP BI Implementation, upgrades and Production support.
+
+
+
+
+
+Skills & Abilities
+
+Business Intelligence	:     SAP BI BW 7.0, 7.3, 7.4
+ERP			:     SAP R/3 ECC 6.O, SRM 7.0
+Reporting		:     SAP Business Objects 4.0/4.1/4.2, Analysis Office, BEx Analyzer, Query Designer
+Operating Systems  	:     Windows 7, Windows 8, Windows10
+Presentation Tools  	:     MS-Office Suite
+
+
+
+
+Employment History
+
+	Organization 
+	Duration
+	Designation
+
+	Deloitte
+	May 2016 - till date
+	Consultant
+
+	Wipro Technologies
+	Jun 2011 - Apr 2016
+	Senior Project Engineer
+
+
+
+
+
+
+
+
+
+
+Technical Competencies
+
+
+
+· Excellent exposure to Business Information Warehouse Architecture and Analytics Concepts.
+· Extensive technical and functional experience in SAP BW and SAP Business Objects. Sound knowledge and hands on skills of Data Modeling, Data Extraction & Staging, Transports, Data Loads, Go-Live, Cutover activities, Production Support and Business Reporting.
+· Worked on S4 HANA CDS modelling with SAP Lumira integration as part of POC’s
+· Trained on Native HANA and BW4 HANA. Having hands on experience in creating different views like Attribute, Analytic and Calculation Views.
+· Created Variables/Calculated Columns and applied them as filters.
+· Having knowledge on ADSO, Transient Provider, and Composite provider. 
+· Trained and Having Hands on experience in S4 HANA,FIORI and SAP Lumira
+· Extensive technical experience in developing and enhancing Info Objects, Info Cubes, DSO’s, Data sources, Infosets, Multiproviders, Transformations, APD’s, Process chains. Quick POC has to finalize the design to achieve the business requirements for better solutions.  
+· Creation of custom Views, Data Source activation , Enhancing a data sources and User Exits implementation for populating enhanced fields,  LO cockpit configuration and customization, Generic Extractions, Master and Transactional data Extraction, Activating Data sources, deleting setup tables and filling up of setup table.
+· Involved in transporting objects from Development to quality and quality to production server.
+· Extensively worked on standard content implementations on stats objects
+· Extensive experience in front-end Business Warehouse tools like Business Objects, BEx Query designer, BEx Query analyzer and BEx Query Components like Calculated Key figures, Restricted key figures, Structures, Variables, and Conditions.
+· Extensively worked on creation of workbook reports and scheduling them through BROADCAST
+· Exclusively Involved in Performance Related issues - Improved data loads and query performance.
+· Creating, enhancing, Scheduling and monitoring the process chains to perform the data loads for business reporting. Handling of errors at the time of process chain execution.
+· Worked on Creation/Modify BO reports on UDT, IDT and BICS universes. 
+· Worked on Creation/Scheduling of publications to publish the reports to users, promotion management and CMC admin activities
+· Has knowledge on BW related ABAP and code amendments.
+· As a part of production support, monitored the Process chains and resolved the production errors faced.  Analyzing Incident, Finding the root cause and resolved them within a given SLA.
+· Good experience in handling of priority incidents, implementation of CRs, emergency CR migrations
+· Involved in preparation of business documents like HLD’s,LLD’s, design diagrams using MS VISIO tool
+· Expertise in Problem Solving & Technical Skills coupled with confident decision making for making effective solutions.
+· Have a desired functional knowledge on different functional areas worked, especially Supply Chain Management area.
+· Exceptional debugging and trouble shooting skills Specialties includes Data warehousing, SAP BI Implementation, upgrades and Production support.
+
+
+
+
+
+
+
+
+
+
+Major Projects Handled
+· U.S based Client: FI Domain – PayPal Support
+
+Duration: 16’Th May 2016 – Till date
+Platform:  SAP BW 7.3, 7.4 Business Intelligence 4.2, ITSM  
+Technical Team Size: 6	 	        	
+Role: SAP BW BOBJ Consultant    
+Responsibilities:
+· Responsible for both BW and BOBJ Incidents and CRs
+· Extensively worked on handling of high priority incidents on both BW and BOBJ
+· Developed a new data flow for identifying the different types of tickets in the PayPal system
+· Implemented standard content for the BW statistics reports
+· Created and maintained BOBJ reports, Publications, transports on both UDT, IDT and BICS. 
+· Handling change requests and carrying out backend as well as front end changes.
+· Created workbook reports and scheduled through BROADCAST
+· Stabilized and Automated critical month end workbook reports 
+· Involved in monitoring the data loads, cross verifying and ensuring proper data upload. Checking the daily time schedule for the run and ensuring that jobs are finished within the specified timelines.
+· Involved in change management process to plan, discuss and document movement of incident/defect fixes to production.
+· Worked closely with other teams such as BASIS, Security and Functional team during design, development, testing and rollouts.
+· Worked as the SPOC for business during UAT and hyper care.
+· Carried out KT and user education sessions for the new development and enhancements.
+
+
+
+· U.K based Client: Energy Domain – National Grid Support
+
+Duration: 16’Th Dec 2015 – 30’th APR 2015
+Platform:  SAP BI 7.3, 7.4 Business Intelligence 4.0, Service Now  
+Technical Team Size: 8 	 	        	
+Role: Associate Consultant    
+Responsibilities:
+	
+· Interacting with the onsite team/Client to understand the functionality with respect to the developments.
+· Handling incidents and carrying out back end as well as front end changes.
+· Data load monitoring and scheduling for business reporting
+· Handling of change requests and delivered reports according to the user specified format
+· Daily interaction with client and suggested suitable solutions for adhoc queries.
+· Helping the team in understanding the solutions for aged incidents to provide the solutions with in SLA given by customer.
+· Worked on extracting data from R/3 using LO and Generic Extractions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+· US based Client: Energy Domain – National Grid U.S.F.P – Development and Upgrade
+					               
+Duration: 31’st Mar 2015 – 15’Th Dec 2015            		
+Platform:  SAP BI 7.3, Business Intelligence 4.0,HPQC
+Technical Team Size: 5 	 	        	
+Role: SAP BW/BO Consultant     		
+Responsibilities:
+· Involved in finalizing the scope of the work based on the project timelines
+· Interacting with the customer for requirement gathering and evaluating the feasibility on implementing the same 
+· Quick POC’s and initial analysis on achieving the requirements
+· Providing impact assessment to the customer for change requests.
+· Involved in FS updating, Design, Technical specifications preparation
+· Worked on creation of Views, FM’s for data extraction through custom data sources 
+· Creating generic data-sources as well as activating and enhancing standard data-sources. Enabling delta for the extractors and performing data loads. 
+· Developing BW flows, creating info-cubes, DSO, SPOs, info-objects, process chains etc.
+· Creation of BEx queries and BEx enhancements
+· Developing corporate reports on UDT and BICS and Adhoc reports on IDT.
+· Carrying out data loads and performing ECC vs BI reconciliation.
+· Performing Unit Testing and Integration Testing.
+· Worked on test case preparation for RT,IT and UAT
+· Coordinating with user in UAT, fixing the defects/CRs raised during UAT, User training.
+· Evaluated the SAP notes which were implemented during EHP7 and HRSP upgrades and identified few data sources to test the impact by carrying out necessary testing scenarios.
+· Involved and interacted in all business meetings with the customer during end to end implementation.
+· Worked on Production Cutover preparation activities and handled transport movement.
+· Supporting to the customer during Post Go Live support. 
+
+
+· US based Client: Energy Domain – National Grid U.S.F.P – Development
+
+Duration: 29’th Dec, 2014 – 30’Th March, 2015            		
+Platform:  SAP BI 7.0, 7.3, Business Intelligence 4.0,
+Technical Team Size: 5 	 	        	
+Role: SAP BW/BO Consultant        		
+Responsibilities:
+· Providing impact assessments for the change requests raised by the customer
+· Enhancement and maintenance of the backend objects for Supply Chain Management module in SAP BI such as extractors, info-objects, DSO, Info-cubes, Multiproviders and BEx etc.
+· Development and maintenance of corporate as well as self-service BO reports on Universes and BICS connection.
+· ECC vs BO data reconciliation.
+
+
+
+
+
+· US based Client: Energy Domain – National Grid U.S.F.P – Release 3
+
+Duration: 01’st Jan, 2014 – 28’Th Dec, 2014            		
+Platform: SAP BI 7.0, 7.3, Business Intelligence 4.0, HPQC, HPSM,
+Technical Team Size: 8	 	        	
+Role: SAP BI/BW, BO Consultant            		
+Responsibilities:
+· Involved in requirement gathering and preparation of Functional specifications
+· Worked on the POCs for complex requirements
+· Developed the BI Design, from creating the Info Objects to till the reporting layer.
+· Created good number of flows like from Data Source to till Multi Provider.
+· Have written routines, Start, end and expert routines. Have good idea on performance improvements.
+· Enhancement and maintenance of the backend objects for Supply Chain Management module in SAP BI such as extractors, info-objects, DSO, Info-cubes, and Multiproviders etc.
+· Development and maintenance of BEX queries for SCM module.
+· Involve in testing and reconciliation of the BO reports.
+· Involved in the process chain creation, scheduling and monitoring BI data loads. Monitoring involved fixing data load issues, performance tuning.
+· Responsible for fixing Defects/Incidents / CRs, in both BO and BI for SCM module raised Pre Go-Live and Post Go-live.
+· Acquired knowledge on IDT.
+· US based Client: Energy Domain – National Grid U.S.F.P – Reporting and Information
+
+Duration: 07’Th Sep 2012 – 31’st Dec 2013
+Platform:  SAP BI 7.0, Business Objects 4.0, HPQC        	      		
+Technical Team Size: 10	
+Role: Developer                  				
+Responsibilities:
+· Involved in overall SDLC process. 
+· Development and maintenance of corporate as well as self-service BO reports on Universes and BICS connection.
+· Enhancement and maintenance of the backend objects for Supply Chain Management module in SAP BI such as extractors, info-objects, DSO, Info-cubes, and Multiproviders etc.
+·  Development and maintenance of BEX queries for SCM module.
+·  Involve in testing and reconciliation of the BO reports.
+·  Involved in the process chain creation, scheduling and monitoring BI data loads. Monitoring involved fixing  data load issues, performance tuning.
+· Responsible for fixing Defects/Incidents / CRs, in both BO and BI for SCM module raised Pre Go-Live and Post Go-live.
+· Understanding the requirements, identifying and determining the scope of the project in design phase. Creating the Technical Specifications and other documentation process.
+· While in the build phase, worked on SAP BI, BEX (Query Designer, Analyzer) for creation of new objects and enhancing the preexisting backend objects.
+· During the testing phase, I was involved in carrying out and reviewing Unit Testing and Product Testing and fixing the bugs identified during UT, PT and UAT. Also I took serious concerns in making the performance of the reports better and fast by backend and report level tuning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+· New Zealand based Client: Mylan AM Subprogram
+
+Duration: 1’st Oct, 2011 – 06’th Sep, 2012
+Platform:  SAP BI 7.0
+Technical Team Size: 8	
+Role: Developer                  				
+Responsibilities:
+· Have taken knowledge transition on the system and undergone few trainings as a fresher 
+· Maintenance and tuning of complete BW system.
+· Performing BI data loads and system health checks.
+· Handling BI/BO incidents.
+· ECC vs BO data reconciliation.
+
+
+
+Scholastics
+· Masters Of Technology from BITS Pilani.
+· Bachelor of Science in Computer from Srikrishna Devaraya University, Anantapur.
+
+Personal Forte
+
+
+Name				Kavilla Anil Kumar Reddy
+Date of Birth 			22’nd Jun 1990
+Gender    		                 Male
+Nationality			Indian
+Marital Status 			Single 
+Languages			English, Hindi and Telugu
+
+
+I hereby declare that the information furnished above is true to the best of my knowledge
+
+
+
+Anil Kumar Reddy K
+
+
+
+
+
+
+
+
+
+

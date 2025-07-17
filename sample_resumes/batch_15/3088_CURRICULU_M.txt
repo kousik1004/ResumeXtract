@@ -1,0 +1,251 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  CURRICULUM VITAE
+
+Shruti G. Zezaria	 B.E(C.E) Java Developer
+                                                                                                                 Mobile : 9033307103
+
+  CAREER OBJECTIVE
+
+To succeed in an environment of growth and excellence and earn a job which provides me job satisfaction and self development and help me achieve personal as well as organizational goals.
+
+
+
+
+ACADEMIC DETAILS
+
+
+
+	Academic term
+	
+Result
+	
+Board/University
+	
+Month &Year of Passing
+
+	B.E.(C.E.)
+	8.80 SPI, 7.87CGPA
+	 GTU
+	May,2015
+
+	HSC
+	69.79%
+	GHSEB
+	March, 2011
+
+	SSC
+	80.15%
+	GSEB
+	March, 2009
+
+
+
+
+PROJECT EXPERIENCE
+
+
+  Project on ‘ASOWeb Project’.
+Description : The ASOWeb is a live optimizing software for a TV broadcaster in south india. The primary objective of ASO is to increase ad revenue by allocating ads into  breaks of program.  ASOWeb is basically used for :
+1. Placing ads in breaks of programs such that revenue gets maximized.
+2. Several constraints are checked at advertiser, product category, brand and caption level.
+3. Software makes sure that no brand, product category and caption should come back to back in same break.
+
+    Technologies used: Java, Redis, R
+    Tools used: Eclipse, Bootstrap 3
+    Front End: Java Web Application
+    Back End: DB2,   R, Cplex
+    Role : Integration of records from database tables with UI, Report generation, creating     views and  procedures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Project on ‘Proposal Builder Project’. 
+Description : The Proposal Builder is a software for a TV broadcaster in south india. The primary objective of PB  is to generate deals for an advertiser showing the duration of ads in program or timeband as per the requirement given by agency/advertiser for particular period of time. Proposal Builder takes the inputs from agency/advertiser like approximate budget,rate or CPRP, duration of deal, program selection or time band selection in terms of request share and gives :
+1. Optimized grid(output) depicting duration of ads, budget and rates for each program.
+2. Flexibility to edit rates and duration after allocation if required.
+3. Systematical decline or approval workflow of output generated.
+4. Communication via mail to manager or executive or advertiser for confirmation of output. Deal can be sent in excel format or pdf via mail.
+
+    Technologies used: Java, Redis, R
+    Tools used: Eclipse, Bootstrap 3
+    Front End: Java Web Application
+    Back End: DB2,   R, Cplex
+    Role : Integration of database tables with Application UI, screen development as per requirement, creation of database tables, views and procedure.
+
+
+
+  Project on ‘Online Toll Tax Management System’ (Training project – 6 months)
+  Description : As per analysis the Online Toll Tax management system allows user
+to pay toll tax by making just account in this web application by registering. User just has to keep some amount in wallet and when he passes by any toll tax his proper amount will be deducted from his account by checking vehicle number. User will get message of the amount been deducted with place and date.
+    Technology used: Java, JSP, JSTL, AJAX, Javascript, Servlet,JSTL, Spring
+    Tools Used: Eclipse(Mars, Luna), MySQL(SQLYog)
+    Front End: Web Application
+    Back End: MySQL 
+    Role : Developing UI Screens using CRUD for getting data, JSTL, handling database     operations, memory management, core java, JSP, Servlets implementation. 
+
+
+
+
+
+
+    Project on ‘JSK Chat Messenger’ (Academic Project)
+Description : As per analysis the collaboration tool is an integrated solution  consisting of a
+Mobile App and a Website/Web Service hosted on a web server, using Internet as the medium of communication (Like Watsapp Chat Application).
+At the end of development, we expect to have a fully functional product and service meant to provide collaboration services to the end users from their mobile devices.
+    Technologies used: Android, .Net
+    Tools used: Eclipse IDE, SQL Server, DreamWeaver, Visual Studio
+    Front End: Android
+    Back End: SQL Server, Visual Studio
+
+
+
+
+
+
+
+
+
+TECHNICAL SKILLS
+
+
+    Experience (On Site) : Client side handling
+
+   Database: MySQL, SQLYog, DB2
+
+   Programming  Languages  Known:  Core  Java, JSP, Servlets  Advanced  Java,  C, Basics of Spring, Hibernate. 
+
+   Client side technology: HTML, CSS, Javascript, JQuery, AJAX, Redis
+
+   Application on-hand experience : UI Development, Integration of data from database to dashboard, Optimization of queries,  Report Generation and calculation of statistics.
+
+
+ 
+
+
+
+EXTRA CURRICULAR ACTIVITIES & ACHIEVEMENTS
+
+  Participated in “Propensity” event of Aptitude test at ADVAITA in August 2014.
+  Attended events in regional level at Nirma University in 2013.
+  Attended workshop on Spring, Android and Salesforce 2015.
+  Given a seminar on Smart Quill in 5th Semester.
+
+
+
+	
+
+PERSONAL DETAILS
+
+
+
+	Name
+	Zezaria Shruti G.
+
+	Date of Birth
+	23/06/1993
+
+	Gender
+	Female
+
+	Email
+	Shrutipatel2311@gmail.com
+
+	Languages Known
+	Gujarati, English, Hindi
+
+	
+Hobbies and Interests
+	 Solving puzzles, Surfing, Exploring new things,
+Singing
+
+	Address
+	 56, Patel society, near Rajkot Bypass road, 
+ Ratanpar, Surendranagar
+
+	Willingness to Relocate
+	 Yes. (Already having on site experience)
+
+
+
+
+
+
+ACADEMIC DETAILS
+
+
+Currently, working in Radix analytics company having experience of almost 2 years.
+
+
+
+    DECLARATION
+
+I am willing to work hard. I hereby declare that all the above mentioned particulars are true and correct to my best of knowledge.
+
+
+
+
+
+
+Date:                                                                                                              Shruti G. Zezaria
+
+
+
+
+

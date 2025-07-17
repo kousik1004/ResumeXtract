@@ -1,0 +1,349 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mohit's Resume
+
+
+Mohit Kumar 
+IT Consultant 
+Mobile: +91-9654873797 
+Email: mohit27october@hotmail.com, mohitkumar2710@gmail.com 
+Ericsson India Global Services Pvt. Ltd. 
+Sector-62, Noida, India 
+ 
+Dedicated, Resourceful & Innovative IT professional offering practical experience of 07 plus years in the areas of 
+Linux System Administration, with core operations in Datacenter Virtualization.  
+
+ 
+Competence  
+
+• Data Center Virtualization 
+
+• Capacity Planning 
+
+• Solution Designing 
+
+• IT Operations 
+
+• SDN & NFV 
+
+• Data Center Migrations 
+
+• Data Center Hardware Transitions 
+
+• Data Center Cabling & Labeling 
+
+• Vendor Management 
+
+• Procurement Management 
+
+• Customer Support 
+
+• Service Management 
+ 
+  IT Skills 
+
+• Virtualization  RedHat, KVM, Cloud, CEE, HDS 
+
+• Cloud Technologies Amazon Web Services, Mirantis OpenStack, Ericsson Cloud Manager 
+
+• Server OS  RedHat, Windows, Ubuntu 
+
+• Server Hardware HDS 8000, Dell Power Edge-R Series, HP C7000, HP BL & DL series 
+
+• DevOps                             Ansible, Docker & Containers 
+
+• Non-Technical  ITIL v3 Foundation 
+
+ 
+
+Ericsson, founded in 1876, is currently the world’s largest mobile telecom company, with a market of more than 
+
+45%. Being the inventor of Bluetooth, it is one of a leading provider of data communications system and telecom 
+
+services. 
+
+ 
+Projects 
+ 
+Client: NTT-Docomo 
+Designation: Jr. IT Architect 
+Domain: Infrastructure Setup-NFV (Datacenter Operations) 
+Location: Yokohama, Japan 
+Duration: January 2017 to July 2017 
+ 
+NTT Docomo, Inc. is the predominant mobile phone operator in Japan. The name is officially an abbreviation  
+of the phrase, "do communications over the mobile network”. 
+
+mailto:mohit27october@hotmail.com
+mailto:mohitkumar2710@gmail.com
+http://www.ericsson.com/in
+
+
+Project: CEE- NFVI Program 
+ 
+CEE provides a full set of IAAS capabilities for NFV, IT and enterprise segments. Ericsson offering in this area is 
+Ericsson Cloud Execution Environment. CEE is Ericsson in-house private cloud solution stands for Cloud 
+Execution Environment. In this we are managing the hybrid NFVO solutions of Nokia, NEC and Fujitsu. 
+ 
+Responsibilities: 
+ 
+
+• Installation and provisioning of IAAS infra, for NFV solution  
+
+• Deployment of CEE IAAS infrastructure for NFV & SDN solution 
+
+• End to end responsibility of HP systems and operational performances and issues 
+
+• Cloud Computing (Infrastructure-as-a-Service/ IAAS). 
+
+• Setup of Squid proxy server and DNS. 
+
+• Red Hat Satellite 6 design and implementation. 
+ 
+
+Client: T-Mobile USA 
+Designation: IT Consultant 
+Domain: Infrastructure Support (Datacenter Operations) 
+Duration: December 2015 to November 2016 
+ 
+T-Mobile US, Inc. is a major telecom network operator in the United States. Its headquarters are in Bellevue, 
+Washington. T-Mobile is the 3rd largest wireless carrier in the United States with ~70 million customers as of Q1 
+2017. 
+ 
+Project: Service Enablement 
+Service Enablement Platform provides robust OSS/BSS solutions across self-care, storefronts, asset sharing and 
+converged service creation. It gives partnering capabilities, providing a foundation to further enhance value in 
+the growing mobile ecosystem. 
+ 
+Responsibilities: 
+Handling heterogeneous environment with almost 400+ virtual hosts (VMware 5, 6 & KVM) almost ~1100 Servers 
+(virtual which includes RedHat (~94%) & Windows (~06%) configured over HP DL & BL type of series. 
+ 
+
+• Involved in technical designing of solutions required for the DC-Infrastructure. 
+
+• Virtual Managed Services. 
+
+• Designed and sized solutions for clients based on requirements, best practices, and vendor 
+recommendations. 
+
+• Drafted technical proposals in response to RFQ/RFP/RFI. 
+
+• Coordinated and conducted client facing presentations. 
+
+• Deployment & management of datacenter in virtualized & bare metal hardware. 
+
+• Assessed threats, vulnerabilities and compliance of existing RHEL deployments using CIS security 
+benchmark tool 
+
+• Automated all aspects and functioning of servers, including disk space analyses, system and application 
+errors, memory and swap space utilization, disk performance, CPU and other related processes. 
+
+• Implemented services like Subversion & Bugzilla for internal T-Mobile client. 
+
+• Experience with VMWare or Virtualization. 
+
+• Created solutions blueprints, best practices. Story-boarding to help designing/ implementation team. 
+
+• 24X7 Operations – Tech support, NOC & Sys Admin. 
+ 
+ 
+
+
+
+ 
+Client: Ericsson (Go-Open) 
+Designation: Senior System Engineer 
+Domain: Infrastructure & Linux Support 
+Duration: April 2011 to November 2015 
+Location: Noida, India 
+ 
+Responsibilities: 
+
+• Deployment & Administration of new virtual hosts, along with provisioning of VM’s. Also, responsible for 
+troubleshooting performance & other issues 
+
+• Responsibility of management of 430 plus VM, 90 plus servers and their networks. 
+
+• Hands on in setting up of Hitachi Storage AMS2300 in datacenter. 
+
+• Designing of DNS environment for setting up View's to cater to different locations 
+
+• Deployment and management of Go-Open Datacenter on a Virtualized platform using KVM. 
+
+• Expertise of LVM and other disk management related operations. 
+
+• Installation and Configuration of RAID Group, Assignment of LUN's to Host’s, and their troubleshooting. 
+
+• Performing L2 level networking and storage admin tasks. 
+
+• Implemented KVM as virtualization hypervisor to provide multiple virtual hardware platforms while 
+keeping hardware costs and energy consumption down. 
+
+ 
+
+Achievements 
+• Deployed OpenVswitch based networking model in conventional datacenter, which saves 03 physical 
+
+ethernet port per physical host along with 06 port saving & cable saving at network switch side. Saved 
+around a million INR in terms of costs. Got ACE award for same from VP. 
+
+• Have setup master-slave DNS architecture, to keep the DNS traffic distributed across sites using DNS 
+views. 
+
+ 
+
+Proficiency 
+• Operating Systems:  Skilled in the installation, configuration and administration of Linux 
+
+(RedHat/CentOS/Ubuntu), familiarity with Windows environment. 
+
+• Have hands-on knowledge of OpenStack. Through knowledge of Neutron (Core Networking 
+component) 
+
+• Performed L2 level of tasks in tier-2 level storage. 
+
+• Experienced with a broad range of software, utilities and protocols, including the following. 
+System Admin: Files Systems, users & group administration, Network Configuration, LVM, fdisk & other 
+Administrative Tools. 
+Web: Apache, Backup: tar, dump, gzip, File Servers:  NFS, FTP.          
+
+• Package management using RPM and YUM, Configuring NFS on the servers for clients. 
+
+• Deep understanding of Ethernet and switching technologies and standards. 
+
+• Expertise of using admin tools (top, htop, sar, vmstat, iostat, traceroute, free, rsync). 
+ 
+
+Previous Employer 
+Company: Sony India Pvt. Ltd. 
+Designation: Technical Executive 
+(Worked as Technical-Support for Linux) 
+Client: Sony MIS 
+Domain: Linux 
+Duration: 01st September 2009 to 31st March 2011 
+Location: New Delhi, India 
+
+
+
+Worked as Linux Administrator, was responsible for Server management & Configuration. 
+Responsibilities 
+
+• Providing on-call support to Sony India IT team for Linux domain. 
+
+• Perform Linux OS & application installation and troubleshooting for OS or Hardware issues 
+
+• Responsible for finding solution for any new issue logged in and to document it in knowledge base for 
+service desk. 
+
+• Setup and administration of local YUM server. 
+
+• ClamAV Antivirus integration. 
+
+• LVM & fdisk utilities for File systems Management 
+
+• Installation of RPM based packages. 
+
+• Scheduling and monitoring background jobs i.e. cronjobs. 
+
+• Mounting of extra-HDD using NFS protocol. 
+
+• Maintaining activities like creating/modifying user accounts, password administration & security 
+management. 
+ 
+
+Education & Professional Training 
+B.E graduate in Electronics & Telecommunication (2005-2009) from North Maharashtra University, 
+Maharashtra; with aggregate of 62 %.  
+12th from CBSE Board (KV Gandhinagar, Gujarat) with 67 % in year 2005. 
+10th from CBSE Board (KV Gandhinagar, Gujarat) with 71 % in year 2003. 
+ 
+
+Certifications 
+RedHat Certified Engineer (RHCE) 
+Certificate No: - 110-474-947 
+VMware Certified Associate-Data Center Virtualization & Cloud 
+ITIL v3 Foundation 
+ 
+
+Personal Info 
+Date of Birth:  30th Jan 1988 
+
+Nationality:  Indian 
+
+Marital Status:  Married 
+
+Passport No.:  H9632674, With valid work visa of Japan 
+
+Language Known:  English & Hindi  
+
+Hobbies:  Reading, listening music & Long Driving 
+
+ 
+
+ 
+
+ 
+
+Mohit Kumar 
+
+https://www.redhat.com/wapps/training/certification/verify.html
+

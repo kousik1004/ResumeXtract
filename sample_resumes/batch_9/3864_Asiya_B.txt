@@ -1,0 +1,179 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Asiya .B.A
+	Srirama PG
+	
+
+	Adarsh Motors Road
+	
+
+	BEML Layout, Kundalahalli,
+	Mobile: +91 8095000366
+
+	Bangalore-560037
+	asiyaba@gmail.com
+
+	
+	
+
+
+
+Objective:
+
+Seeking a challenging and growth oriented position in an SAP domain that will contribute to the growth of the company and enrich my professional career.
+
+Professional Summary:
+· SAP Security Consultant with 3.2 years of extensive experience in R/3 Security.
+· Expertise in SAP Security Administration & Authorization like User Administration, Role Administration (PFCG), Central User Administration (CUA) and Enterprise portal security. 
+· Proven skill in transforming complex business requirement into technical specification and leading/guiding team during project life cycle.
+· Solid analytical and dynamic troubleshooting skills. Possessing good communication skills and is able to work individually and as a team member. 
+
+Education qualification:
+
+· Bachelor of Engineering (Computer Scirnce & Engineering) from SJCE , Mysore (2008-2012) with CGPA 8.54 (First class with Distinction).
+
+· Higher Secondary Examination (10+2) from SAV PU College Bhadravathi affiliated with Karnataka Board of Higher Secondary Education (2010) with 88.5%.
+
+· Secondary Examination (10) from SAV High School affiliated with the Karnataka Secondary Education Board (2008) with 91.2%.
+
+SAP Skill Set
+
+R/3 Skills:
+· User administration in SU01/SU10/CUA
+· Created and maintained Derived and Composite Roles.
+· Experience in performing segregation of duties analysis and audit compliance standards (In Security Weaver Tool).
+· Finding out missing Authorizations using SU53 & ST01 report from the user. 
+· Critical authorization objects such as S_TABU_DIS, S_PROGRAM, S_DEVELOP were restricted and monitored.
+· Rollout of a particular plant from landscape as per Business Process and helped in post go-live activities.
+· Implementation on Non HR and HR access in a single testing system to maintain roles to restrict HR acess.
+· Authorization traces Experience in Maintaining, Creating, Modifying existing roles (Single, Composite, Master, Enabler and Derived).
+· Extensively used SU53 and SUIM to assign the missing authorizations to the users.
+· Control the authorization using transaction SU21 and SU24.
+· Manage mass transport via SE01, SE09, SE10 and PFCG.
+· Conduct extensive testing of authorizations in order to meet the business expectations.
+· Creation of User Groups and maintaining the users.
+· Creation of ECATT scripts for Mass User Creation, Role updates.
+· Creation of LSMW scripts for SNC value updation in SU01, Mass User Creation.
+· Portal user and role administration.
+· Performed risk analysis at User level and Role level and to mitigate risks for the users.
+· Seggregated roles for Developer, Change Manager and Area leads in Solman Manager 7.2
+HR Security:
+· Knowledge of HCM Security tables (T77PR,T77UA).
+· Creation, modification and assignment of roles (Single,derived,master,enabler and composite roles)
+· Creation and assignment of structural authorization (PD profiles)
+
+
+Employment History
+
+Accenture services Pvt Ltd.
+LOCATION         :	 Bangalore, India
+TENURE              : August 2014 till date
+ROLE                   : SAP security consultant
+
+
+
+
+
+Client 1 (Aug 2014 to Dec 2014): 
+Responsibilities:
+· User master Record creation/ modification using SU01, including complex design restrictions.
+· Mass user creation using SU10. 
+· Worked extensively with SE01, SE09 & SE10 in managing mass transport
+· Worked on audit logs using SM18, SM19 and SM20.
+· Monitoring & analyzing system logs, monitor background job logs, workload, checking the status of work process, dump analysis (ST22) & clearing.
+· Proficient in working with the tables USR*, AGR* and USH*.
+· Performed risk analysis at User level and Role level and to mitigate risks for the users.
+
+
+Client 2 (Dec 2014 till date): 
+Responsibilities:
+· Understood business requirements (requirements gathering) and system landscape.
+· Have knowledge to export and import new tables in Schemas, Create attribute view as per  the business requirement -related to HANA development work.
+· Created users with valid roles in SAP HANA Studio.
+· Expertise in mass user creation, mass derived role creation using SECATT, security work bench tool.
+· Upgraded the security enforcer tool from 3.0PS1 to 3.0PS3A -used for assigning emergency access and SOD simulation.
+· Worked with internal auditors to clean up the system for display only roles.
+· Transport Administration: Managing Transportation between and within the systems. 
+· Maintaining the user profile in Portal for ESS and MSS users. 
+· Analyzing the dumps. 
+· Supporting during UAT and Go-live.
+· Worked on SAP Check Indicator Defaults and Field values SU24.
+· Experience in understanding segregation of duties and audit compliance standards.
+· Understanding of risk analysis and remediation, performed user & role analysis to identify existing SOD violations
+· Experience in Maintaining, Creating, Modifying existing roles (Single, Composite, Derived,Master and enabler).
+· Designed a comprehensive security Matrix that documented the security design and controlled the user requests in the production environment.
+· SAP Security Tables monitoring.
+· Experience on working with CHARM and Seggregated roles for different Users in Solman Manager 7.2.
+· Worked on multiple go-lives, including the role build, UAT, user mapping and supported production issues.
+· Central User Administration (CUA) experience to create users, assign roles, and maintenance.
+· Conducted multiple training sessions for new team members on Foundation security and Authorization concept.
+
+Achievements:
+
+· Received out performer team award for working effectively in a team.
+· Received Individual Out Performer award.
+· Appreciations from client for excellent support.
+· Awarded the best annual rating for handling project responsibilities.
+· Gained Knowledge on various different issues related to SAP landscapes.
+
+Personal details:
+
+
+Date of Birth	         : Dec 3rd 1992
+Nationality	         :  Indian
+Languages Known      :  English, Kannada and Hindi.
+Strengths and skills   : Ability to learn, interact effectively with others,flexibility with the time of work and focus on task completion, Strong analysis and problem solving skills,keep myself updated with the changing trends, Ability to manage time and workload effectively which includes planning, organizing, and prioritizing with attention to details.
+
+
+
+
+Declaration:
+I hereby, declare that the above furnished details are true to my knowledge.
+Place:	Bangalore							                                        
+Asiya .B.A
+	

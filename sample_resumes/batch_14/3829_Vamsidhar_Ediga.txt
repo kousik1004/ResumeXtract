@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 SAP NETWEAVER 7.31 CERTIFIED
+  Vamsidhar Ediga
+    Email: Vamsidhar1819@gmail.com                                       
+ SUMMARY:
+· Having over all 3+ years of Experience as a SAP Basis Administrator.
+· Excellent learning skills and commitment to excel in the emerging technologies.
+· Excellent troubleshooting, interpersonal, technical and analytical skills.
+· Interfaced several functional and technical teams during design, implementation and support phase.
+PROFESSIONAL SAP EXPERIENCE
+· Working with NTT Data Global Delivery Services Private Limited, Hyderabad as SAP BASIS Consultant from Jan 2015 to till date.
+Technical Skills
+· Experience in E2E Implementation of ECC 6.0 for HANA and Oracle.
+· Experience in implementation of Solution manager 7.1 and 7.2 (System Preparation, Basic configuration, Infrastructure configuration, Managed system configuration, Diagnostic agent installation, Technical Monitoring, etc.)
+· Performed ECC 6.0 EHP and S4HANA 1610 SPS Upgrade activities.
+· Experience in Homogeneous and Heterogeneous system copies, Database refresh, System refresh, Client refresh.
+· Knowledge on SAP HYBRIS COMMERCE SUITE 
+· Experience in Configuration of  FIORI 
+· Experience in Configuration of  PERSONAS
+· Experience in Supporting SAP R/3 Systems (ECC 6.0, SAP Net weaver products, Solution Manager). 
+· Experience in Performance Monitoring and tuning, Workload analysis at application level and O/S level.
+· Experience in applying SAP Support patches, Java Patches, OSS notes and applying SAP license in the SAP system.
+· Experience in SAP Security, User administration, Client administration, Service Market Place activities (Access key generation, License generation, S-user creation, OSS message creation etc.,)
+Project – Centre of Excellence
+Type of Project: Basis Support, E2E Implementation
+	Feb 2015 to Oct 2015 & Jan 2016 to Sept 2017
+              	Environment: Windows/Oracle and HANA/ (Linux Red Hat /SUSE)
+Responsibilities:
+· Performed SAP ECC 6.0, SAP Net weaver 7.5, SAP PI 7.4 installations.
+· Installed Ehp7 for ECC 6.0 on SAP HANA
+· Performed Backup and Recovery method from HANA Studio.
+· Installed SAP Solution manager Systems 7.1 and 7.2 versions on Oracle.
+· Performed SAP S4HANA 1610 SPS upgrade from SP 00 to 01.
+· Performed system refresh (Export and import method) 
+· Upgraded SAP HANA Database SPS12.
+· Installed HANA Cloud Connector and added HANA system.
+· Performed Diagnostics agent installation, Basic configuration, system preparation, managed system configuration in solution manager and adding managed system to Maintenance Planner from LMDB, Generated Stack for Upgrade.
+· Performed ECC, BW, PI support pack upgrades and installed Add-ons 
+· Installed SAP HYBRIS COMMERCE SUITE 5.5 and later versions
+· Administration and troubleshooting of SAP HANA database using SAP HANA studio.
+· Configured STMS and Imported Transport Requests.
+· Performed Kernel upgrades
+· Created Client and Performed Local, Remote and Export/Import Client copy.
+· Implemented SAP Notes and applied SAP License in SAP system.
+· System Monitoring activities and Service Market Place activities like S-user creation, Access key registration, Generating SAP License, Software downloads, OSS message creation, etc.
+· Created RFC connections between SAP systems
+· Worked on User related activities like User Creation, Password reset, assigning authorization etc.
+
+
+Project – Vinmar, Inc.
+Type of Project: E2E Implementation
+Nov 2015 to Dec 2015
+              	Environment: Windows, MS SQL server
+
+Responsibilities:
+· Performed NetWeaver 7.4 standard ABAP installation on MS SQL server 2012
+· MS SQL server Database Backup
+· Upgraded Support packages and installed Add-ons such as BI_CONT,CPMBPC
+
+
+
+
+
+
+
+
+Project – Evergreen Packaging.
+Type of Project: Basis Support, E2E Implementation
+Oct 2017 to Till Date
+Environment: Windows, MS SQL server
+Responsibilities:
+· Performed PI Upgrade and dual stack split
+· Performed System refresh 
+· Data compression on MSSQL
+· MSSQL version upgrade
+· Installed SAF-T starter solution for Poland
+· Involved in the ECC 6.0 upgrade from EHP6 to EHP8
+· SAP Fiori implementation
+· SAP Personas implementation and upgrade.
+· PI security certificates import.
+· Configured STMS
+· Daily SAP health check, resolving the issues.
+· Moving the transports through Charm.
+· Moving Transports between systems manually using STMS.
+· Scheduling and monitoring the Background jobs.
+
+Academic Qualification:                                                                           
+
+· Perceived Bachelor of Technology from Vidya Jyoti Institute of technology, Affiliated to JNTU, Hyderabad.
+
+
+
+
+Achievements:
+
+· SAP Certified Technology Associate - System Administration (Oracle DB) with SAP NetWeaver 7.31 (C_TADM51_731).
+
+	
+	5
+
+
+
+

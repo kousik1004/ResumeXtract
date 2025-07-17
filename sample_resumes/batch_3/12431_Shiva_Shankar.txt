@@ -1,0 +1,291 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+
+       Shiva Shankar                                                     Mobile No: +91-7989063781
+       Sr. Software Engineer                                         Email-Id: shiva.marata@gmail.com
+Profile Summary: 
+· Total experience 6.8 years and having 3.8 years of experience in SAP as BW/BI Consultant. Have Work experience in different kinds of projects like Implementation and Production Support Projects in SAP BW 3.5, 7.0, 7.3and 7.4.
+· Areas of expertise in SAP BI 7.0 and 7.3: Modeling, Business Content, Data Extraction (SAP R/3, Flat Files), Data Loading, Scheduling, Monitoring and Reporting using BEx Analyzer and BW Authorizations.
+SAP Expertise:
+· Modeling: Worked on Info Objects, Data Sources, DSO’s, Info Cubes, Multi Providers, Info Sets, Transformations and DTP’s.
+· Extraction: LO Cockpit Extraction, Generic Extraction, Flat file data Extraction for Master and Transactional data.
+
+· Reporting: Worked on BEx-Query Designer in building Queries using Conditions, Formulas, New Selections, Exceptions, Filters, CKF, RKF, Variables with various Processing types. 
+
+· Performance Tuning (Loading): Experience in performance tuning on data load including data modeling techniques, deleting Indexes, creating Indexes. Maintain Data package sizes, Refreshing DB Statistics. 
+
+· Performance Tuning (Reporting): Experience in performance tuning on Reporting Creating Aggregates, data modeling techniques, Info cube Compression, partitioning.
+· Programming: BI-ABAP, Creation of Tables, Data Elements, Routines and Customer Exists. 
+· Hana: Knowledge on SAP HANA like Composite provider, ODP and creation of Table, Information views like Attribute view, Analytic view and Calculation View and data provisioning technics like SLT and DXC.
+Employment History:
+· Working as a Sr. SAP BW Developer from May 2017 to till date in Harman Connected Services.
+· Worked as a Sr. Software Engineer from August 2015 to April 2017 in Wipro Technologies.
+
+· Worked as Sr. SAP BW Consultant from Feb 2014 to July 2015 in IBM India.
+· Worked as Claim Processing Executive from February 2012 to Jan 2014 in Hinduja Outsourcing Solutions. 
+· Worked as a Customer Relationship Officer from December 2009 to November 2010 in Hinduja Global Solutions Limited.
+Educational Qualification:
+· B. Tech from Intell Engineering College, JNTU Hyderabad in the Year 2008.
+Project Details:
+Project#04
+	Client
+	Harman International
+
+	Company
+	Harman Connected Services, Bangalore
+
+	Project Type
+	Development 
+
+	Role
+	Sr SAP BW Developer
+
+	Environment
+	SAP 7.4, ECC 6.0, BPC 7.4
+
+	Period
+	May 2017 to till date
+
+
+Client Description:
+
+                          Harman International Industries Incorporated is an American company that designs and engineers connected products for automakers, consumers and enterprises worldwide, including connected car systems; audio and visual products, enterprise automation; and connected services. Headquartered in Stamford, Connecticut. Harman entered an agreement to be acquired by South Korean company Samsung Electronics.
+
+Roles & Responsibilities:
+
+· Worked on FI Extractor 0FI_GL_14 and develop end to end flow and AP, AR reports.
+
+· Manually loaded Historical Data from ECC systems to BW.
+· Developed ABAP code in routines to derive Buckets for DUE, OVER DUE reports.
+· Worked on Export Data sources to Load data from BW to BPC system.
+
+· Developed AR Flow for Dashboard in BPC system.
+
+· Resolved and fixed Data loading and Reconciliation issues.
+· Worked on performance tuning activities like creating indexes, Aggregates and compression.
+
+· Developed process chain to automate 0FI_GL_14 flow.
+· Created TS/Peer review/Test Cases documents, migrated objects from Development to Quality and from there to Production.
+Project#03
+	Client
+	Philips 
+
+	Company
+	Wipro Technologies Ltd, Bangalore
+
+	Project Type
+	Support Project
+
+	Role
+	Application Service Lead
+
+	Environment
+	BI 3.5 and 7.3, ECC 6.0
+
+	Period
+	Sep-2016 to April 2017
+
+
+Client Description:
+
+Philips is a Dutch technology company headquartered in Amsterdam with primary divisions focused in the areas of electronics, healthcare and lighting. It was founded in Eindhoven in 1891, by Gerard Philips and his father Frederik. It is one of the largest electronic companies in the world.                         
+Roles & Responsibilities:
+· Responsible for working in Data Modeling, Extraction using Data Sources, Info Sources, Info Packages, Transfer Structures, Update Rules, Info Objects, PSA, Info Cubes, and Reporting.
+· Involving in Production support by monitoring the daily loads, troubleshooting the issues & fixing the errors.
+
+· Debugging the Extractor checker, Start routines and End routines.
+
+· Extracting data from SAP R/3, Flat Files for both the Master data and Transactional data.
+
+· Mentoring and providing training to the fresher’s in the team.
+· Attending the weekly client meetings to update the status and issue clarifications.
+
+Project#02
+	Client
+	ABB Manage
+
+	Company
+	Wipro Technologies Ltd., Bangalore
+
+	Project Type
+	Support & Development
+
+	Role
+	Sr SAP BI Consultant
+
+	Environment
+	BI 7.3, ECC 6.0
+
+	Period
+	Aug-2015 to Sep-2016
+
+
+Client Description
+
+ABB is the world's largest builder of electricity grids and is active in many sectors, its core business is in power and automation technologies. The company has one corporate division and four production divisions. ABB is one of the few large companies that have successfully implemented the matrix structure in their Organization.
+Roles & Responsibilities:
+· Involved in both the Load monitoring and Production Support from Offshore.
+· Worked on standard changes like User creation and providing authorizations.
+· Extensively worked in Rectification of Load Failures like Master & Transaction data. 
+· Daily trouble shooting of Incidents, Implementing changes and requests.
+· Coordination and communication with the onsite team.
+· Enhanced existing master data and transactional data extractors with new fields accordingly to customer business requirements.
+·  Modifying the reports as per the user requirements.
+· Daily loading Actual and Planned data into BW from Flat files. 
+· Developed Generic Master Text and Attribute data sources and Transactional data sources based on View.
+
+· Developed Master data and Housing keeping activity Process chains.
+· Developed and Modified ABAP code in routines and performed Debugging.
+· Based on the analysis developed TS and UAT documents.
+Project#01
+	Client
+	Adani Enterprises
+
+	Company
+	IBM India, Ahmedabad
+
+	Project Type
+	Development
+
+	Role
+	SAP BW Consultant
+
+	Environment
+	BI 7.4, ECC 6.0
+
+	Period
+	Feb-2014 to July-15
+
+
+Client Description: 
+
+ Adani Group is an Indian multinational conglomerate company headquartered in Ahmedabad, Gujarat, India. The Adani Group is one of India's leading business houses with revenue of about $9.4 billion for the financial year 2014-15. Adani has grown to become a global integrated infrastructure player with businesses in key industry verticals - resources, logistics and energy. The integrated model is well adapted to cater to the infrastructure opportunities of the emerging economies.
+Roles & Responsibilities:
+· Attending the weekly client meetings to update the status, issue clarifications and gathering new requirements.
+· Involved in developing the Technical Specifications based on the Functional requirement to the great extent.
+
+· Extensively worked in extraction FI (Treasury Management), MM extraction and Generic Extraction. 
+
+· Involved in Creation of Info Objects, DSOs, Info Cubes, Data Sources, Multiproviders, Info sets, Transformations, DTP.
+
+· Expertise in building Queries using Conditions, Exceptions, Filters, Free Characteristics, Structures, CKFs and RKFs.
+
+· Worked on Variables such as Formula variable, Text variables, Characteristic variables, by processing type user entry/default and Replacement path.
+
+· Involved in the standard BI content installation based on requirement for data modeling.
+
+· Involved in data Reconciliation to verify the data in R/3 and BI is same or not.
+Non- IT Experience:
+
+Client Description:             
+
+Humana Inc. is a for-profit American health insurance company based in Louisville, Kentucky. In 2013, the company ranked 73 on the Fortune 500list, which made it the highest ranked (by revenues) company based in Kentucky. It has been the third largest health insurance in the nation.
+Roles and Responsibilities:
+· Responsible to enroll the Groups for Humana Insurance
+
+· Internally auditing the Groups Enrolled by the associates. (Acting as internal auditor when required)
+
+· Co-ordinating with the team’s members in clarifying the questions/doubts.
+
+· Supporting team leaders by working on reports.          
+	Client
+	Ashok Leyland
+
+	Company
+	Hinduja Global Solutions
+
+	Project Type
+	Voice Support
+
+	Role
+	CRO
+
+	Period
+	Dec-09 to Nov-10
+
+
+Client Description: 
+
+The Hinduja Group is a multi-billion dollar, transnational conglomerate. As part of its Global investments, the Group owns businesses in Automotive, Information Technology, Media, Entertainment & Communications, Banking & Finance Services, Infrastructure Project Development, Oil and Gas, Power, Real Estate, Trading and Healthcare. With operations across 35 countries, the Group employs over 65,000 people worldwide 
+· Providing breakdown support for Ashok Leyland vehicles.
+
+· Interacting with nearest Service centers to provide service for breakdown vehicles
+
+· Providing information for vehicle Owner and Driver regarding the progress
+
+· Calling customers regarding new service packages launched by Ashok Leyland.
+
+· Interacting with Area and Regional Ashok Leyland Service Engineers for warranty
+
+· Related issues and escalations.
+
+· Receiving calls from customers and resolve the issues efficiently
+
+· Marketing the client’s products and services to our customer
+
+Client�
+Humana�
+�
+Company�
+HOSIPL�
+�
+Project Type�
+Insurance Process�
+�
+Role�
+CRE�
+�
+Period�
+Feb-12 to Jan-14�
+�
+ 
+
+
+
+
+

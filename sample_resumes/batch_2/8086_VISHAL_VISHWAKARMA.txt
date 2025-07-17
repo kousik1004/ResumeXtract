@@ -1,0 +1,452 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DINESH KUMAR M
+
+VISHAL VISHWAKARMA
+B-201, Sonam Sagar ‘B’ CHSL. , New Golden Nest , Phase -10 , Opp. Dinesh Hospital , Bhayandar East -401105
+Contact: +91 9833005478/ 9967210680, E-mail: vishal2284@yahoo.co.in , Vishal2208@gmail.com
+
+
+IT Manager
+Seeking challenging opportunity with reputed and growth oriented organization in the IT sector
+
+
+
+PROFILE & SKILLS
+
+· Accomplished Software Engineer with 9.5 years’ experience in Software development using .Net Technologies
+· Broad experience in full life cycle of software development process including requirement analysis, design and development of projects.
+· Expert knowledge of object oriented analysis / design, object oriented development methodologies distributed application, framework / application development using S.O.L.I.D. design principles.
+· Abreast with the latest trends and technologies of the field; with an indomitable urge to learn.
+
+· Proven technical competencies in structuring customized IT solutions to meet client’s specific needs.
+
+· Exceptional analytical, troubleshooting organizational, communication, problem solving and leadership skills.
+
+
+TECHNICAL SKILL SET
+	Operating System
+	Win 2003, XP
+
+	Skill
+	ASP.Net, C#, Web services, MVC 5.0, Web API, rest service ,Active Directory, Open Ldap (with Novel Directory), Windows Services, S.O.L.I.D. Design Principles, JQuery, Java script, Multithreading, OOPS, Unit Testing, Blockchain 
+
+	Database
+	SQL Server 2000 and 2005, 2008 ,2014 and PLSQL
+
+
+
+
+CERTIFICATION SET
+	PRINCE2 Practioner
+	Certified [2012]
+
+	ITIL – Foundation
+	Certified [2012]
+
+	Agile Participant
+	Certified [ 2016]
+
+
+
+
+CAREER SUMMARY
+Mahindra and Mahindra Financial Services Ltd. (Sept 2015 -  till date)
+
+IT Manager
+· Provide development of the software applications/ tools, involving all phases of the software development life cycle (SDLC) for development functions related to large complex applications & software programs using S.O.L.I.D. design principles and MVC 5.0
+· Make advanced level designs while tracking, testing application programming using NUnit. This also entails advanced level validation and verification of complex software applications. Maintain & validate coding & software standards.
+
+· Assure both quality and customer service while leading and driving advanced/complex development tasks and projects to successful completion. 
+Uno Tech Software Pvt. Ltd. (Jan 2014 -  Aug2015)
+
+Team Lead
+BUSINESS INFORMATION SYSTEMS (Sept 2011-  May,2013)
+
+Team Lead
+
+MELSTAR INFORMATION TECH. LTD. (May 2010 - Sept2011)
+
+Senior Software Programmer
+
+PANORAMIC UNIVERSALLY LTD (Dec 2008 - May2010)
+
+Senior Software Programmer
+
+INFOTON SYSTEMS & SERVICES PVT.LTD. (Sept 2007- Nov 2008)
+Software Engineer
+
+3i INFOTECH LTD. (June 2006-June 2007)
+Software Engineer 
+
+
+
+PROJECT SUMMARY
+·  Invoice Discounting  (Phase 2)
+· Client: Mahindra & Mahindra Financial Services LTD.
+· Duration: Feb 2017 –  Till Date
+Environment: Asp.net MVC 5.0 , C#,  (Version 4.5), Sql2014, TFS, Rest Services
+
+Design Pattern: MVC
+Designation: Project Lead
+
+Summary: While discounting the invoice (Bills) , the bank buys the bill (i.e. Bill of exchange or promissory note).
+
+· Before bill due and credits the value of the bill after a discounting charge to the customer’s account.
+
+· The transaction is practically an advance represents the interest on the advance from the date of purchase of the bill until it is due of payment.
+· Invoice repayment against the received amount.
+Responsibilities: 
+· Developed the whole System related functionality.
+· Communicate with the client for requirement.
+· Leading 3 team members.
+
+
+·  Legal Contract Allocation
+· Client: Mahindra & Mahindra Financial Services LTD.
+· Duration: Nov 2016 –  Jan 2017
+Environment: Asp.net MVC 5.0 , C#,  (Version 4.5), Sql2014, TFS, Rest Services
+
+Design Pattern: MVC
+Designation: Project Lead
+
+Summary:  Legal contract allocation manage all the NPA and DL contract and move to the arbitrator for collections . Based on the contract system calculate executive incentive month wise . System work like vertical based and generate the business reports to analysis the collection and performance of executive.
+Responsibilities: 
+· Developed the whole System related functionality.
+· Communicate with the client for requirement.
+· Leading 3 team members.
+· Invoice Discounting  (Phase 1)
+· Client: Mahindra & Mahindra Financial Services LTD.
+· Duration: May 2016 –  Oct 2016
+Environment: Asp.net MVC 5.0 , C#,  (Version 4.5), Sql2014, TFS, Rest Services
+
+Design Pattern: MVC
+Designation: Project Lead
+
+Summary: While discounting the invoice (Bills) , the bank buys the bill (i.e. Bill of exchange or promissory note).
+· Before bill due and credits the value of the bill after a discounting charge to the customer’s account.
+· The transaction is practically an advance represents the interest on the advance from the date of purchase of the bill until it is due of payment.
+Responsibilities: 
+· Developed the whole System related functionality.
+· Communicate with the client for requirement.
+· Leading 3 team members.
+
+
+· Document Storage Management System (Phase -II)
+· Client: Mahindra & Mahindra Financial Services LTD.
+· Duration: Feb 2016 –  Apr 2016
+Environment: Asp.net (C#) (Version 4.0), Sql2008, VSS, Web services, JavaScript
+
+Design Pattern: Three Layer Architecture
+Designation: Project Lead
+
+Summary: This web application focuses on entire storage and retrieval of tens of million's files which are been sent to external vendor for storage purpose. It’s a huge task for the operations, accounts & infrastructure team to manage these data and process manually. It is one of its kinds of project internally automated to maintain the process and secure the movement of the files. Overall the project has around 1200 +, internal user’s, operational from 900 + locations and external users belonging to the vendor agency. The project’s first phase has been release which would be consolidation part and second phase with agile method is planned to be rolled out soon.
+Responsibilities: 
+· Developed the whole System related functionality.
+· Communicate with the client for requirement.
+· Leading 5 team members.
+· Web Debug Tool
+· Client: Mahindra & Mahindra Financial Services LTD.
+· Duration: Dec 2015 –  Jan 2016
+Environment: Asp.net, MVC, (C#) (Version 4.0), Sql2008, PLSQL, TFS, Web services, JavaScript
+
+Design Pattern: MVC 
+Designation: Project Lead
+
+Summary:  This web application produces the system to the support team to debug the production system based on the customer issues, this process provide the solutions based on the query raised by the customer like SSIS, Database and application level queries. 
+
+Responsibilities: 
+· Design the whole System related functionality.
+· Communicate with the client for requirement.
+· Leading 2 team members.
+· Bill Discounting Process
+· Client: Mahindra & Mahindra Financial Services LTD.
+· Duration: Aug 2015 –  Nov 2015
+Environment: Asp.net (C#) (Version 4.0), Sql2008, PLSQL, TFS, Web services, JavaScript
+
+Design Pattern: Three Layer Architecture
+Designation: Project Lead
+
+Summary:  This web application focuses on entire M&M bills process and payment release to the external customers based on the day wise interest charges. This application processes the bill on behalf of the M&M and release the payment based on the interest. 
+
+Responsibilities: 
+· Design the whole System related functionality.
+· Communicate with the client for requirement.
+· Leading 2 team members.
+· Conveyance Claim Application
+· Client: Mahindra & Mahindra Financial Services LTD.
+· Duration: Apr 2015 –  Jul 2015
+Environment: Asp.net (C#) (Version 4.0), Sql2008, TFS, Web services, JavaScript
+
+Design Pattern: Three Layer Architecture
+Designation: Project Lead
+
+Summary:  This web application focuses on entire sales and collection executive conveyance claim entire pan India, It’s entire process mange manually in excel sheets, It’s kind of the project internally automated to maintain the process of executives and accounts. 
+
+Responsibilities: 
+· Developed the whole System related functionality.
+· Communicate with the client for requirement.
+· Leading 5 team members.
+·  Document Storage Management System (Phase -I)
+· Client: Mahindra & Mahindra Financial Services LTD.
+· Duration: Jul 2014 –  Mar 2015
+Environment: Asp.net (C#) (Version 4.0), Sql2008, VSS, Web services, JavaScript
+
+Design Pattern: Three Layer Architecture
+Designation: Project Lead
+
+Summary: This web application focuses on entire storage and retrieval of tens of million's files which are been sent to external vendor for storage purpose. It’s a huge task for the operations, accounts & infrastructure team to manage these data and process manually. It is one of its kinds of project internally automated to maintain the process and secure the movement of the files. Overall the project has around 1200 +, internal user’s, operational from 900 + locations and external users belonging to the vendor agency. The project’s first phase has been release which would be consolidation part and second phase with agile method is planned to be rolled out soon.
+Responsibilities: 
+· Developed the whole System related functionality.
+· Communicate with the client for requirement.
+· Leading 5 team members.
+· Legal Accounting Application
+· Client: Mahindra & Mahindra Financial Services LTD.
+· Duration: Jan 2014 –  Jun 2014
+Environment: Asp.net(C#) (Version 4.0), Sql2008, VSS, Web services, JavaScript
+
+Design Pattern: Three Layer Architecture
+Designation: Team Lead
+
+Summary: This project is to process the contract wise statement, invoice and payment to the arbitrator. It’s considered the structure and unstructured wise arbitrator expenses. This application analysis the arbitrator stage wise payment and expenses. And it’s generating the statement and respective payment reports.
+
+Responsibilities: 
+· Developed the whole System related functionality.
+· Communicate with the client for requirement.
+· Leading 5 team members.
+·  UIMS (MFEKA) Application 
+· Client: Mahindra & Mahindra Financial Services LTD.
+· Duration: Jan 2013 –  Dec 2013
+Environment: Asp.net(C#) (Version 4.0), Sql2008, VSS, Web services, JavaScript
+Design Pattern: Three Layer Architecture
+Designation: Team Lead
+Summary: This project is meant for centralized the domain user login. And also create the Exchange mail box for each user and assign the group rights dial-up VPN and email forward option etc. And also this application have process for approval level , where user can put the request from anywhere and after approval authority user can approve and reject the user request.
+
+Responsibilities: 
+· Developed the whole System related functionality.
+· Communicate with the client for requirement.
+· Leading 10 team members.
+· Leave Management Application 
+· Client: Mahindra & Mahindra Financial Services LTD.
+· Duration: Aug 2012 – Dec 2012
+Environment: Asp.net(C#) (Version 4.0), Web Services, Sql2008, VSS and JavaScript
+Design Pattern: Three Layer Architecture
+Designation: Team Lead
+
+Summary: This project is meant for centralized the outsource employee attendance system. This system maintains the resource attendance, leave and regularization. And give the resource wise attendance details, and also give the brief details to the management so that they can process the salary accordingly.
+
+Responsibilities: 
+· Developed the whole System related functionality.
+· Communicate with the client for requirement.
+· Leading 5 team members.
+· Micro Finance Application 
+· Client: Mahindra & Mahindra Financial Services LTD.
+· Duration: Apr 2012 – Aug 2012
+Environment: Asp.net(C#) (Version 4.0) and Sql2008, VSS and JavaScript
+Design Pattern: Three Tire Methodology
+Designation: Team Lead
+Summary: This project is meant for centralized the collection process all over the India. This application has facility to track the SMS details which send via collection department. And through that system will update the installment for each loan. And System has facility to process installment on manual or cancel the process. And also have EOD process where the admin panel user can process EOD and summarize the how much cost comes in and how many cost are still pending.
+
+Responsibilities: 
+· Developed the System related functionality.
+· Handle the 3 member’s team.
+· Communicate with the client for requirement.
+· Legal Management Application 
+· Client: Mahindra & Mahindra Financial Services LTD.
+· Duration: Jan 2012 – Apr 2012
+Environment: Asp.net(C#) (Version 4.0), Web services and Sql2008, VSS and JavaScript
+Design Pattern: Three Tire Methodology
+Designation: Team Lead
+Summary: This project is meant for centralized the all legal contract those customer are defaulter. And in that end user are going to enter the all the case which are going on court. And put entries with the branch wise. And after that system will accept the hearing and order of the court has given. And system will generate the re call notice those are not pay the dues. After that case will filed in the court. On that basis generating the report transaction wise.
+
+Responsibilities: 
+· Developed the System related functionality.
+· Handle the 5 member’s team.
+· Communicate with the client for requirement.
+· Call Management Application 
+· Client: Mahindra & Mahindra Financial Services LTD.
+· Duration: Sept 2011 – Jan 2012
+Environment: Asp.net(C#)  (Version 4.0 ) , Web services , Sql2008 and JavaScript
+Design Pattern: Three Tire Methodology
+Designation: Team Lead
+Summary: This project is meant for online call booking by end user. And authority will assign the call to subordinate and they will close or give response to particular call. And in this system have facility to book call on behalf of someone else. And they individual assign and response the call.  The call solving time will calculate the incentive. And generate the report for that.
+
+Responsibilities: 
+· Developed the System related functionality.
+· Handle the 11 member’s team.
+· Communicate with the client for requirement.
+· HDFC REALITY Application 
+· Client: HDFC LTD.
+· Duration: Feb 2011 – Aug 2011
+Environment: Asp.net(C#) (Version 3.5), Web services, DevExpress and Oracle 10G
+Designation: Sr. Software Programmer
+Summary: This project is meant for online property data will be captured through admin, the customer search details with the budget wise, and property approval after the property entered. The property will be entered broker as well as builder. And Report created on the location wise property and sales report.
+
+Responsibilities: 
+· Developed the System related functionality.
+· Handle the five member’s team.
+· COMMUNICATION  Application 
+· Client: HDFC LTD.
+· Duration: Oct 2010 – Jan 2011
+Environment: Asp.net(C#)  (Version 3.5 ) , Web services and Oracle 10G
+Designation: Sr. Software Programmer
+Summary: The Communication is like the email, the back office user create the mass emailing and created the interaction. And also interact with the customer with email. And also ask for the feedback and also create the data for suggestion, complaint and inquiry. For those bases we will generate the report.
+Responsibilities: 
+· Developed the System related functionality.
+· Handle the two member’s team
+· CIMS  Application 
+· Client: HDFC LTD.
+· Duration: JUNE 2010 – Sept 2010
+Environment: Asp.net(C#) (Version 3.5 ) , Web services  and Oracle 10G
+Designation: Sr. Software Programmer
+Summary: This project is meant for online product customer interaction like customer query, inquiry and complaint etc. And it’s saving to lead management system and escalated to branch wise call center department users. And also shows the customer related reports and it also shows HDFC loan details and inquiry reports.           
+Responsibilities: 
+· Developed the System related functionality.
+· Panoramic Holidays  Application 
+· www.panoramicHolidays.in
+· Client: Panoramic Universal World Pvt. Ltd.
+
+Duration:  Jan2010 – April2010
+Environment: Asp.net(C#)  (Version 3.5 )  and Sql2005 server
+
+Designation: Sr. Software Programmer
+Summary: This project is meant for online product views and provides the reservation form for enrollment. Provide enquiry for the hotels and membership details. This website will show to the destination for the locations wise. Public can put the inquiry details regarding the membership and agency. Panoramic Holidays are to provide the all the tours and holidays for members and non members. This website shows the product features and offers.
+Responsibilities: 
+· Developed the System related functionality.
+· Handle the design related issues.
+· Magic Holidays  Application(Back Office) 
+· Client: Panoramic Universal World Pvt. Ltd.
+
+Duration:  Oct2009- Dec 2009
+Environment: Asp.net(C#)  (Version 3.5 ) and Sql2005 server
+
+Designation: Sr. Software Programmer
+
+Summary: This project is meant for online intranet hotel booking and collects the offline membership payments. It generates sales and telemarketing offline reports Also displays discounted schemes provided to the Customers. Application based on back office purpose and also user will see the calculated holidays chart utilized by members. Magic holiday’s application will calculate sales executive wise commission and also calculate by caller and lead commission. Commission will be depend on each level like manager, AGM and GM etc.
+Responsibilities: 
+· Developed the uml design based on the SRS, handled System related functionality, generated test cases and database design. 
+· Involved in application Development and Database Design.
+· Pan smart application 
+· Client: Panoramic Universal World Pvt. Ltd.
+
+Duration:  May2009- Oct 2009
+Environment: Asp.net(C#) (Version 3.5 )  , Sql2005 server and Multithreading
+Designation: Sr. Software Programmer
+
+Summary: This project is meant for online hotel booking and collects the online membership payments. It generates sales and telemarketing online reports Also displays online discounted schemes provided to the Customers
+
+Responsibilities: 
+· Developed the uml design based on the SRS, handled System related functionality, generated test cases, database design. 
+· Conducted the functionality demo to the client for the design approval. 
+· Involved in application Development and Database Design.
+·  Application Development for Magic Gateways
+· Client: Panoramic Universal World Pvt. Ltd.
+
+Duration:  Jan2009- May2009
+Environment: Asp.net(C#) (Version 3.5 ) and Sql2005 server
+
+Designation: Sr. Software Programmer
+
+Summary: This project is meant for online Intranet hotel booking and collects the online membership payments. It generates sales and telemarketing online reports. Also displays Offline discounted schemes provided to the Customers. And customer can booked the hotel reservation request Offline. 
+Responsibilities: 
+· Developed the uml design based on the SRS, handled System related functionality, generated test cases, database design. 
+· Conducted the functionality demo to the client for the design approval. 
+· Coordinated with the development team for coding.
+· Developed the certain module.
+· Cheque Printing
+Client: Panoramic Universal World Pvt. Ltd.
+
+Duration:  Dec 2008 –Feb2009
+Environment: Vb.Net, Sql2005
+
+Designation: Sr. Software Programmer
+
+Summary: This project is based on the cheque printing module for the cheques with various banks. Entries of the received cheques and delivered cheques are made into the system
+
+Responsibilities: 
+· Developed the login and search form, creating the triggers and procedures for the entire module. 
+· Prepared test cases as per the module requirements.
+· Payroll Software 
+
+Duration:  Sep 2007 –Nov 2008
+Environment: ASP.Net,C#, Sql2005 , Multithreading
+Designation: Software Engineer
+
+Summary: This project is web-based application used for the Payroll & employee self-service. 
+
+Responsibilities: Requirement analysis, coding, designing, testing and implementation. 
+· Capital Market Product (Windows Based)
+
+Duration:  June 2006- Nov 2006
+Environment: Win 2000 Server, .NET and SQL Server2000., Multithreading
+Designation: Software Engineer  
+
+Summary: This Project helps to manage and automate the daily transactions of Stock market. These transactions include the purchase and sales of shares, managing daily rate list of the shares, as well as future forecasts about the prices of shares on the basis of current market profile. The project also helped in checking the written code for database connectivity modules and implementation of the software at the client side.
+
+Responsibilities: 
+· Requirement analysis, coding, designing, testing and implementation. 
+· Manual testing of the system as per the functional requirement. 
+· Training the users on system usage.
+
+· Capital Market Product (Web Based)
+
+Duration:  June 2006- Nov 2006
+Environment: ASP.NET, SQL Server 2000
+
+Designation: Software Engineer  
+
+Responsibilities: Requirement analysis, coding, debugging, manual testing & Client Interaction
+
+
+EDUCATIONAL & PROFESSIONAL DEVELOPMENT
+
+· Pursuing MCA, ICFAI
+· BCom, 2006, P.D. Lions College, Mumbai University
+· GNIIT 2006, NIIT Institute, Mumbai
+· HSC, 2002, P.D. Lions College
+· SSC, 2000, N.V High School
+
+
+Date of Birth:  August 22nd 1984 
+
+PAN No.        : AFAPV1611H
+
+Languages Known:  English, Hindi & Marathi
+References: Available on Request
+

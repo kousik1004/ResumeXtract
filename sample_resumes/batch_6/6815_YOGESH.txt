@@ -1,0 +1,389 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YOGESH.DHANUSH@GMAIL.COM    
+                                                                                                                                                                 +353-0899432340
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YOGESH KAKARLA VENKATACHALAM
+
+Summary:
+· Over 11 years of Experience with 8 years of SAP experience in SAP Business Planning and Consolidation, SAP Business Object Financial Consolidation , SAP Inter Company Services (ICS) and SAP Financial Information Management(FIM)
+· 7 Years of Planning and Consolidation experience. The client complies to IFRS reporting and also abides by European Banking Authorities and Bank of England norms. My expertise is in providing planning and consolidation solutions on planning, Budgetting, IFRS, Regulatory, Management and Solvency II reporting.
+
+· 2 End to End BPC Implementation Projects and 4 End to End consolidation Implementation projects.
+
+· Expert SME in delivering Business As Usual changes based on regulatory and management directions. 
+· 1 End to End migration project from 7.5 Version to EPM 10 on HANA.
+
+· Certified SAP BPC consultant(SAP Business Planning and Consolidation-10.0)
+
+· Completed SAP BOFC 250 (Business Object Financial consolidation - Ver. 10.0) training by SAP India.
+
+· Completed SAP ICS training by SAP India.
+
+· Working experience with SAP Labs for BPC Pre-Sales Support. Scenarios, POC’s etc
+
+· Strong Implementation, Support and Up-gradation experience in BPC.
+
+· Extensive knowledge of BPC related Business Data warehousing concepts.
+· Have an Overview of IFRS & GAAP Reporting Standards.
+· 3 Years of pre-sales experience on SAP and Oracle ERP solutions to North American and European clients.
+Skills:
+	Strategy
+	Enterprise Performance Management
+
+	Process
+	Design, Build, Implementation, Support and Up-gradation
+
+	SAP Tools
+	BPC, BOFC, FIM and SAP Intercompany (Versions 7.5 and 10.0)
+
+	Supporting Tools
+	Microsoft Excel, VB for executing BPC API’s
+
+
+Project Experience:
+	Client
+	Lloyds Banking Group
+
+	Project
+	LBG-GDRS
+
+	Duration
+	October 2013 – February 2017
+
+	Position
+	Lead Consultant
+
+
+As a part of the BFC team lead, I have been involved in the following Roles & Activities:
+Roles includes:
+
+· Responsible for providing technical guidance / solutions for Business Object Financial Consolidation (BFC).
+
+· Ensure process compliance in the assigned module and participate in technical discussions/review.
+
+· Develop and guide the team members in enhancing their technical capabilities and increasing productivity in Business Object Financial Consolidation (BFC).
+
+· Preparation and submission of status reports for minimizing exposure and risks on the project or closure of escalations.
+
+· Participate and end to end drive on change request and their design and build, End to end testing and support and its successful go live.
+
+· Participate and end to end drive on data model changes in BFC that includes design and build, End to end testing and support on design built and its successful go live.
+
+· Critical resource in delivering end to end implementation on BAU, Projects and Base Level changes projects in BFC.
+
+· Identify the gap in existing system and discussion with Business to get converted to change request in BFC.
+Specific BFC capabilities: 
+
+· Dimensions (Category, DEP, Flow, RU, etc) Characteristics & their Reference Values, filters, Hierarchies, COA, etc. 
+
+· Category scenarios (Defining Dimension Analysis, COA, Account Families, assigning Flow behaviour to AC Families/ Defining input cells, Carry-over, etc; Formulae’s & Controls, Roll Up calculations, creating control levels & their Rankings etc).
+
+· Schedules & Linked Schedules Books & Folders ( Input schedules/ Output Reports, defining layout, input for Schedules, attaching style books, header/footer templates, Inserting various dimensions like Accounts/Flow/Product/RU/DEP, etc; Cell formatting, creating Formulae for cells, entering Text in the cells, validating schedules, linking schedules etc) 
+
+· Filters (Account/ Flow/ RU/ Etc Filters).
+
+· Reporting ID (linking them to Folders, Defining Conversion rates, Set of Rules, Start & End Date, Publication Date, etc).
+
+· Inserting RUs under Rep ID & Generating/ Creation Packages.
+
+· Consolidation Scope Group (Defining RU hierarchy depending on the ownership interest/ Defining type of consolidation for a particular RU/ Defining incoming & outgoing RUs/ etc)
+
+· Conversion Rates (defining whether it should multiply or divide) & Tax Rates.
+
+· Defining Consolidations & Intercompany Reconciliations (specifying opening balance, consolidation rules, Category Scenario, Scope, etc) 
+
+· Run Consolidation task, Run Intercompany Reconciliation task & Task Groups.
+In ICS:
+
+· Periods/ Companies/ Users/Administrator activities.
+
+· Account setup to accommodate the data model changes.
+
+· Template for balance import & export, currency conversion rates import & export templates, etc.
+	Client
+	BANK OF IRELAND
+
+	Project
+	BPC Implementation and Support
+
+	Duration
+	MARCH 2017 – TILL DATE
+
+	Position
+	Technical Specialist – BPC Solutions
+
+
+Roles include:
+· BPC specialist to support client on ICAAP and FORECAST related activities.
+
+· Risk Assessment and Capital Planning
+
+· Basel III reporting requirements.
+
+· Work closely with Group Planning and Analysis Team.
+
+· Requirement gathering and preparation of Business Blueprint.
+
+· Ensure process compliance in the assigned module and participate in technical discussions/review.
+
+· Design End to End planning solution, build and implementation. Also documentation
+· Preparation and submission of status reports for minimizing exposure and risks on the project or closure of escalations.
+· Post implementation support, End to end Operational Testing and its successful go live.
+Specific BPC capabilities: 
+
+· Master Data Management such as working on Environments, Models, Dimensions and Properties.
+
+· Business Logic configurations by having expert knowledge on various logics such as Dimensional Formula, Worksheet Logics, Rules, Data management Packages and BADI’s.
+
+· Data Load activities and ETL specific skills such as Transformations and conversions.
+
+· Report Management: Expert knowledge in developing Input Forms and Reports based on the business requirements. This includes build of complicated templates such as Rolling Forecast, Variance Reports, Validation Reports and other Input forms to collect manual data.
+
+· Creation of Business Process Flows. Expertise knowledge on adding steps, Process Templates and Process Instances.
+
+· Managing Work status
+
+· Expertise in managing Rates
+· Security Management both Internal and External Authentication.
+
+· Transport Release Management activities.
+	Client
+	INCI AKU
+
+	Project
+	BPC Implementation and Support
+
+	Duration
+	May 2011 – Oct 2013
+
+	Position
+	Technical Specialist – BPC Solutions
+
+
+Roles include:
+· Actively involved as Technical specialist during the phase of RFP. Worked on proposal documents and was involved in meetings and discussions.
+
+· Played critical role in assessing the client’s current planning scenario which was delivered on MS Excel and proposing a design in BPC. Also having high level discussions on engagements of other resources with the capability.
+
+· Played critical role in installing BPC server along with the support of SAP Basis. This was installed in Turkish interface as requested by the Client.
+· Ensure process compliance in the assigned module and participate in technical discussions/review.
+
+· Design End to End planning solution, build and implementation..
+
+· Preparation and submission of status reports for minimizing exposure and risks on the project or closure of escalations.
+· I was the only resource at onsite doing the Implementation of the project which is Izmir, Turkey.
+· Post implementation support, End to end Operational Testing and its successful go live.
+Specific BPC capabilities: 
+
+· Master Data Management such as working on Environments, Models, Dimensions and Properties.
+· Business Logic configurations by having expert knowledge on various logics such as Dimensional Formula, Worksheet Logics, Rules, Data management Packages and BADI’s.
+
+· Data Load activities and ETL specific skills such as Transformations and conversions.
+
+· Report Management: Expert knowledge in developing Input Forms and Reports based on the business requirements. This includes build of complicated templates such as Rolling Forecast, Variance Reports, Validation Reports and other Input forms to collect manual data.
+
+· Creation of Business Process Flows. Expertise knowledge on adding steps, Process Templates and Process Instances.
+· Expertise in defining controls and Group Consolidations.
+
+· Managing consolidation monitor to run consolidation process.
+
+· Managing Work status
+
+· Expertise in managing Rates and Ownership Models.
+
+· Security Management both Internal and External Authentication.
+
+· Transport Release Management activities.
+	SAP Labs ( November 2010 – March 2011)
+Project Name
+
+Nature of Industry 
+Role
+
+
+Type of project
+
+Scenarios and POC’s              Retail and Banking                 Contractor                                 SAP Support
+
+Background:
+
+Description: SAP Business Objects Planning and Consolidation for Healthcare is a pre-configured implementation of SAP Business Objects Planning and Consolidation (SAP BPC), version for Microsoft Platform. This solution promotes proven ‘best practice’ planning methodologies integrating volume, workload, reimbursement, labor and other expense modeling to streamline the planning process for healthcare provider organizations – primarily hospitals and health systems.
+
+Role
+
+: BPC Consultant 
+
+Responsibilities:-
+
+· Maintaining Dimensions for Sales and HCM Applications.
+
+· Setting up of Security for user access rights.
+
+· Developed Sales Planning and HCM Planning Templates and Reports
+
+· Data packages to load and validate Actual data & perform BPC month end activities
+
+· Worked on Scripts to perform moving data across applications.
+
+· Worked on Business process flows and security tasks
+
+· Performing script logic to allocate the data from top down to base members
+
+Previous Employers:
+
+Employer
+
+Role
+
+Tenure
+
+3i Infotech
+
+Pre Sales Consultant – European Market
+
+August 2009 – November 2010
+
+Radiant Infosystem
+
+Business Development – North American Market
+
+June 2007 – August 2009
+
+Srishti Research Labs
+
+System Architect
+
+June 2006 to May 2007
+
+
+
+
+Training:
+	Attended
+	SAP Trainer Led:
+
+· BPC 10.0
+
+· BOF250 - SAP Financial Consolidation: Foundation 
+
+· SAP Intercompany Services
+
+Company Trainings:
+
+· Overview of IFRS & GAAP
+
+	Certifications
+	SAP Business Planning and Consolidation Associate – 10.0 
+
+
+Qualifications:
+	Level
+	UNIVERSITY/BOARD
+	College / University
+	PERCENTAGE / CLASS
+
+	B.E
+	Visveshwaraiaha Technological University
+	Amrita Institute of Technology and Science
+	70.41
+
+	PUC
+	Karnataka Education Board
+	Seshadripuram PU Composite
+	80.5
+
+	X
+	State Board
+	Sri Vinayaka Vidya Kendra
+	84.64
+
+
+PERSONAL DETAILS:
+	Name
+	Mr. Yogesh Kakarla Venkatachalam
+
+	Mothers Name
+	Mrs. Banumathy 
+
+	Fathers Name
+	Mr. Venkatachala
+
+	DOB
+	1st Oct 1985
+
+	Address
+	Gleann Na Ri, Cabinteely, Dublin
+
+	E-mail
+	yogesh.dhanush@gmail.com 
+
+	Contact
+	 +353-0899432340
+
+

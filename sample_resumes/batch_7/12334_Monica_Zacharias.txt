@@ -1,0 +1,179 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Profile Template
+
+Monica Zacharias		Email:monicazach@gmail.com
+	                                                                                                                           Phone: 919400636304
+
+
+Monica Zacharias
+
+
+SUMMARY
+
+· Software Engineer with 6+ years of professional experience in analysis, design, development and testing of Java/J2EE applications.
+· An innovative, loyal and clearly dedicated individual who has ambition to succeed in any given environment. 
+· Have good exposure and experience in developing Web related project using JAVA6, J2EE architecture, Design patterns.
+· Expertise in UI development using HTML, CSS. Strong in client side scripting with JavaScript.
+· Experienced in coordinating team effort, training and helping peers and subordinates. 
+· Ability to learn, handle responsibilities and contribute towards achieving organizational goals. 
+· Familiar with Tomcat, WebSphere servers.
+· Expertise in using databases such as Oracle, MySQL.
+· Good experience in unit testing. 
+· Sound knowledge in developing REST web services.
+
+
+TECHNICAL SKILLS
+
+
+Operating Systems			: Windows, Linux
+Programming Languages		: JAVA
+Technology				: J2EE, Web Service
+J2EE Technologies			: JSP, Servlet, JDBC, Xml
+Web Technologies			: HTML, CSS, JavaScript, DOJO, JQuery, AJAX
+Application Framework		: Hibernate, Spring MVC, Aribaweb
+Servers				: Apache Tomcat, WebSphere 
+Databases 	                  		: Oracle 10g, MySQL
+IDE					: My Eclipse 8.6, RAD 8.0, SQL Developer
+Version control system 		: CVS, SVN
+Bug Tracking Tools 			: Bugzilla
+
+
+PROFESSIONAL EXPERIENCE
+
+
+Project	: 	CONSULTRAK
+CLIENT    	:	BOURNTEC SOLUTIONS INC. (USA)
+Duration	:	36 months
+COMPANY        :	MJ SOFTTECH INDIA PVT. LTD.
+Role		:	developer
+Description:
+
+Consultrak is a professional services automation product to track and govern efficiencies of an enterprise’s business processes. Architected to be highly configurable, the solution, once implemented, integrates into several business functions – Marketing, Sales, Human Resources, Payroll, Accounting and Timesheet Management – and enables corporate performance, business process visibility, organizational knowledge and profitability.
+Consultrak is architected to be highly scalable an enterprise’s growth strategies and expansion strategies. The product is the result of Radiss’ decades of consulting and program management experience with large enterprises. 
+Being a web-based solution, business heads and process owners can track all income and expenses in real-time and pin-point potential revenue opportunities/loses. 
+Major Responsibilities
+
+· Involved in implementation of new requirements.
+· Migrated the implementation from Struts to Aribaweb, Spring.
+· Involved in R&D for QuickBooks (an accounting tool) and integrated with the project.
+· Involved in coding. 
+· Involved in bug analysis and fixing.
+· Involved in Code reviews.
+
+Environment	:  JDK1.6, Core Java, Oracle 10g, Apache Tomcat, Apache Axis2 Web Service, Aribaweb, RMI,
+  JSP, Servlet, Spring, Hibernate, Eclipse3.3, Quartz
+Platform             :  Windows, Linux
+
+
+
+Project	: 	WAM BCBS Development
+Client 		:	BCBSNJ – Horizon Blue Cross Blue Shield of New Jersey
+Duration	:	24 months
+Company	: 	Cognizant technology solutions 
+Role		:	Developer
+
+Description:
+
+This is an intranet portal which connects variety of users of US insurance company including employees, administrators, brokers, group admins and members. Portal is loaded with contextually relevant information about different users that are accessible 24 hours a day. Pages and web parts can be geared specifically towards each group of users. I was involved in the administrator module. Extensively used Dojo & JQuery for UI interaction. REST web services are created for interaction with TDS server.
+Major Responsibilities 
+
+· Involved in implementation of new requirements.
+· Involved in coding. 
+· Involved in bug analysis and fixing.
+· Involved in Code reviews.
+
+Environment   : JDK1.6, Core Java, DOJO 1.7, JavaScript, RAD 8.5, TDS 6.3, REST Web Service, Spring, WebSphere Application Server 8.0
+Platform               :  Windows 7
+
+
+
+Project	: 	Aveksa
+Client		:	Washington Gas
+Duration	:	3 months
+COMPANY	:	Cognizant technology solutions
+Role		:	developer
+
+Description:
+
+Aveksa offerings are now part of the RSA Identity Management and Governance portfolio. These solutions enable enterprises to understand who has access to what applications and data resources in order to make more intelligent access decisions based on identity context.
+
+Major Responsibilities 
+
+· Involved in orphan account mapping and running collection. 
+· Involved in implementing enhancements. 
+
+
+
+
+Project 	:	CAMS (Cognizant Access Management Solution)
+Duration	:	3 months
+COMPANY        :	Cognizant technology solutions
+Role		:	developer
+
+Description:
+
+The scope of the project is to implement and support access management solution that manages the growing variety of users who require access to our IT resources and enables our organization to comply with regulations and audit requirements. It helps the organization to manage the growing number of users that come in contact with our IT systems and consistently administer access to those users in alignment with your business requirements. Implemented Tivoli Access Manager 6.0 in the organization domain and deploying it on a Web Sphere Application Server.  
+Major Responsibilities 
+
+· Involved in On-boarding applications 
+· Involved in implementing enhancements 
+
+Currently working on requirement gathering for integrating Securonix into organization – data analytic tool to detect insider threats.
+EDUCATION
+
+
+B. TECH in Computer Science and Engineering from College of Engineering, Poonjar, Kerala, India.

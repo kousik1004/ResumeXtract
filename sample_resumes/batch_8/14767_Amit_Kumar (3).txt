@@ -1,0 +1,319 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+  1/3 
+
+ 
+ 
+ 
+
+              Amit Kumar 
+      
+
+E-mail:amitkumar.etlsoft@gmail.com     Mobile.  +91 9075587496 
+ 
+ 
+OBJECTIVE 
+ 
+
+To establish a long term professional relationship with a firm where there is scope for organizational 
+
+development and individual growth. 
+
+ 
+PROFESSIONAL SUMMARY 
+
+ 
+
+ Having 3.8 Years of experience in Design and Development of Bteqs, TPTs, in Teradata and 
+
+Unix. 
+
+ And 3 + years of experience in the design and development of Extraction, Transformation and 
+
+Loading (ETL) using tool Informatica Power Center 9.6, 9.1 & 8.5. 
+
+ Experience in extraction, transformation and loading of data directly from different source systems 
+
+like Oracle, Teradata, flat files. 
+
+ Experience with Informatica Workflow Manager Window components like Task developer, 
+
+Workflow Designer and Worklet Designer. 
+
+ Working experience with mappings using different transformation logics like Expression, Lookup, 
+
+Filter, Router, Union, Aggregator, Sorter, Joiner, Update Strategy, Sequence generator etc. 
+
+ Experience in Performance Tuning of Teradata Bteqs, Resolving Spool Issues. 
+
+ Experience in Performance Tuning the mappings and involved in source code review. 
+
+ Designing the Unit Test cases and validating the data.  
+
+ Preparing Deployment Guide for Deploying the Bteqs and TPTs. 
+
+ Experience in Integration of data sources like Oracle, Flat Files. 
+
+ Possess complete domain and development Life Cycle knowledge of Data Warehousing.  
+
+ Knowledge of data warehousing techniques Star/ Snowflake schema 
+
+ Having good knowledge of SQL, UNIX commands and Shell Scripting. 
+
+ Having experience of Scheduling in Maestro TWS. 
+
+ 
+
+ 
+EDUCATION QALIFICATION 
+
+ 
+MCA from ITM UNIVERSITY in 2014. 
+
+ 
+ 
+ 
+
+WORK EXPERIENCE 
+
+ Working for Amdocs, Pune. From March 2015 to Till Date.  
+
+ 
+
+mailto:amitkumar.etlsoft@gmail.com
+
+
+ 
+
+ 
+
+  2/3 
+
+TECHNICAL SKILLS 
+ 
+
+ETL Tool   : Informatica Power Center 9.6 & 8.5 
+
+Supporting tools  :   Toad, SQL Developer, Putty, AOTS, WinSCP, Rally, TDP,TWS  
+
+Database   :  Teradata, Oracle11g 
+
+Scripting languages  : UNIX/LINUX 
+
+Operating System  :  Windows platform and UNIX/LINUX 
+
+ 
+
+PROJECTS UNDERTAKEN  
+ 
+Project #1   
+
+ 
+
+Name   :    AIM Alliance LIMA 
+
+Client   :    AT & T 
+
+Duration  :   Jan 2017 to Till Date  
+
+Role   :    Developer 
+
+Technology      :    Teradata, Informatica Power Center 9.6, UNIX/LINUX, Oracle 
+
+ 
+Project Description: 
+ 
+
+AT&T is the leader in Smartphone and the Internet of Things (IOT) (one of the fastest growing 
+
+technology trends). Its Data Warehouse is one of the largest data warehouse in the world, which is responsible 
+
+for the vital data that is used to guide business and marketing decisions for the company. Because it touches 
+
+nearly every area of the business and has been responsible for saving the company more than $1 billion since 
+
+its initial implementation. 
+
+ 
+Roles & Responsibilities: 
+ 
+
+ Understanding the business requirements. 
+
+ Involved in Creating Bteqs and TPTs in Teradata and Unix to perform SCD. 
+
+ Involved in Creating Wrapper and KSH Scripts in Unix/Linux. 
+
+ Involved in Creating Schedules in Maestro TWS. 
+
+ Involved in the Performance Tuning in Teradata Bteqs, Informatica. 
+
+ Involved in the extensive development of numerous mappings using transformations like Source 
+
+Qualifier, Lookup, Expression, Aggregator, Filter, Sequence Generator, Update Strategy and 
+
+Router Transformations etc in Informatica. 
+
+ Involved in CR creation and DG (Deployment Guide) Preparation for deployments. 
+
+ Involved in Unit Testing. 
+
+ 
+Project #2   
+
+ 
+
+Name   :    AIM Alliance Alpha 
+
+Client   :    AT & T 
+
+Duration  :   June 2015 to Dec 2016  
+
+Role   :    Developer 
+
+Technology      :    Informatica Power Center 8.5, Teradata, UNIX, Oracle 
+
+ 
+
+
+
+ 
+
+ 
+
+  3/3 
+
+Project Description: 
+ 
+
+AT&T is the leader in Smartphone and the Internet of Things (IOT) (one of the fastest growing 
+
+technology trends). Its Data Warehouse is one of the largest data warehouse in the world, which is responsible 
+
+for the vital data that is used to guide business and marketing decisions for the company. Because it touches 
+
+nearly every area of the business and has been responsible for saving the company more than $1 billion since 
+
+its initial implementation. 
+
+ 
+Roles & Responsibilities: 
+ 
+
+ Understanding the business requirements. 
+
+ Involved in Flat File, Relational File extraction & loading the data into target. 
+
+ Involved in Creating Bteqs and TPTs in Teradata and Unix to perform SCD. 
+
+ Involved in Creating Wrapper Scripts in Unix. 
+
+ Involved in the Performance Tuning in Informatica. 
+
+ Involved in the extensive development of numerous mappings using transformations like Source 
+
+Qualifier, Lookup, Expression, Aggregator, Filter, Sequence Generator, Update Strategy and 
+
+Router Transformations etc in Informatica. 
+
+ Involved in CR creation and DG (Deployment Guide) Preparation for deployments. 
+
+ Involved in Unit Testing. 
+
+ 
+
+Project #3   
+
+Name   :    Globe Optimus   
+
+Client   :    Globe Telecome   
+
+Duration  :   Mar 2015 to May 2015  
+
+Role   :    Developer   
+
+Technology      :    Informatica Power Center 9.1, Teradata, UNIX.  
+
+ 
+
+Project Description: 
+Globe Telecom is one of the leaders in Telecommunication in Philippines. They need to maintain its 
+
+data warehouse for postpaid and prepaid. They get source data from its various source systems like NF , CYO, 
+AMAXCE, SIMP etc. After getting data from source in the form of files, they load these files into stage tables and 
+then with required business logic they load these stage into dimension and fact tables. 
+ 
+Roles & Responsibilities: 
+ 
+
+ Developed ETL mappings to load flat files into teradata stage tables and then to load dimension and 
+
+fact tables using Informatica Power Center 9.1 
+
+ Used most of the transformations such as the source Qualifier, Expression, Connected & Unconnected 
+
+lookups, Filter, Router, Sequence Generator, Sorter, joiner and Update Strategy 
+
+ Worked with the Mapplets to filter out unwanted data type mismatched data for different kind of data 
+
+types like small int, big int, string, date etc .  
+
+ Involved in Performance Tuning of the Mappings. 
+
+ Worked with Preparation of  Deployment Guide (Deployment Plan Document)  
+
+ Involved in fixing invalid Mappings and Unit Testing of developed mappings.  
+
+ 
+
+

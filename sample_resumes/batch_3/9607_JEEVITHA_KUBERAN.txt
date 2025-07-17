@@ -1,0 +1,437 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Jeevitha_K_SAP_ABAP_PI_Consultant
+
+
+JEEVITHA KUBERAN 
+
+SAP Technical Architect 
+
+jeevitha.kuberan@gmail.com 
+
++91 9840811887 
+
+Experience Summary: 
+
+• More than 7.5 years of consulting experience in ABAP/PI and has the specialized skill in 
+
+understanding and aligning customer business requirements to SAP. 
+
+• Extensive Techno functional knowledge in various modules. 
+
+• Well versed in ASAP methodology. 
+
+• Strong experience in SAP ECC Upgrade, Roll-Outs and ERP implementations. 
+
+• Specialized interfacing skill between SAP and non-SAP systems through Process integration layer 
+
+of SAP NetWeaver. 
+
+• Worked with the Business analysts directly to map POS to SAP. 
+
+• Implemented Interfaces through PI layer of NetWeaver involving FILE, RNIF, RFC, SOAP adapters 
+
+and also worked on B2B Implementations using RosettaNet. 
+
+• Versatile experience in working with clients 
+
+• Effectively lead and managed projects through offshore-onsite model. 
+
+• Self-starter and can work on highly complex Technical or Process issues independently. 
+
+• Configured SAP NetWeaver PI and Adapters. 
+
+ 
+
+SAP Experience: 
+
+• Completed 3 SAP XI NetWeaver Implementation projects and 1 SAP XI NetWeaver Migration 
+
+Project.                          
+
+        The Clients were Honeywell SM and MeadWestVaco. 
+
+Lead and managed XI development functional/technical design as well as development.  
+
+Has Lead, designed and architected integration between SAP VMS, SAP SD, SAP PP, FI-CO, 
+
+SAP QM modules using SAP XI internally. 
+
+• Completed 2 SAP ECC Upgrade projects and 2 Roll-outs of SAP implementation projects for 
+
+clients Honeywell SM and SCORE (MWV). 
+
+• Completed 1 MRP Implementation project for Honeywell SM. 
+
+_____________________________________________________________________________________ 
+
+Education:  Completed B.E and M.B.A in Anna University, India. 
+
+Work Status: H1B Visa valid until Sep 2016. 
+
+Certification:  C_TBIT44_70 - Consultant SAP NW 7.0 – XI 
+
+_____________________________________________________________________________________ 
+
+ 
+
+ 
+
+
+
+Domain Skills: 
+
+ABAP Dialog Programming and Data Dictionary. 
+
+Classical, Interactive and ALV report programming. 
+
+Conversions & LSMW to transfer data from legacy system to SAP R/3. 
+
+Proficiency in User Exits, Enhancements, Routines, BADI, BAPI. 
+
+SAP Scripts and Smart forms. 
+
+Working Knowledge of ALE, EDI, IDOC, Workflow and Web dynpro 
+
+PI PI Configuration and Design, XSLT, JAVA mappings, Java UDFs 
+
+SLD Configuration, Alert Monitoring, BPM and Adapters Configuration 
+
+Functional Areas  VMS, PP, SD, MM, PS, PM, QM, FI, CO, EHS. 
+
+ERP SAP R/3 4.7, ECC 5.0, 6.0 versions, PI 7.0, 7.1, 7.3 
+
+ 
+
+Professional Experience: 
+
+Ford Motor Private Ltd.,             Aug 16 – Till Date 
+ 
+Senior Technical Analyst 
+ 
+
+• Working as a senior technical analyst on SMW ABAP and PI (PI 7.3) objects. Troubleshooting 
+
+issues in UNIX Shell Scripts for PI Interfaces. Involved in development and fine tuning of ABAP 
+
+objects and PI interfaces. 
+
+• Working on multiple interfaces where close to 20 applications are interfacing with SAP VFS 
+
+system. 
+
+• Playing a techno-functional cum Business Analyst role in understanding the issues reported by 
+
+business and to educate the team with the required inputs. 
+
+• Currently leading a small team of 4 members which includes 3 Abapers and 1 PI consultant. 
+
+• Supported as a PI consultant for the upgrade activities of other downstream/upstream 
+
+applications which are interfacing with SAP VFS system. 
+
+• Gained functional knowledge about VFS module in SAP. 
+
+• Working from customer location (Ford office) and interacting with them directly to understand 
+
+the business requirements and have built a nice rapport with the client. 
+
+Johnson Controls Inc. (JCI)                   Jan 14 – Dec 14 
+
+SAP Integration Architect 
+
+• Performed Gap Analysis for SAP Rollout which involved nearly 1500 interfaces from different 
+
+applications. 
+
+• Analyzed interface documents for different applications involved in JCI system. 
+
+• Works with client to understand the process and gathering of requirements to fit the gap 
+
+• Involved in SAP Rollout of JCI system 
+
+
+
+• Analyze, review and develop custom SAP functionality based on specifications provided by 
+
+corporate functional/configuration teams 
+
+• Developed XI interfaces  in obtaining data from R/3 using SOAP and RFC adapters. 
+
+• Created client Proxy scenario using enterprise web service proxy. 
+
+• Developed scenario to fetch data from SQL server using JDBC adapter by invoking stored 
+
+procedure. 
+
+ 
+
+Mead West Vaco Corp. (MWV)       Oct 10 – May 12               
+
+ERP Consultant 
+
+• Design and create new BAPI to be used for WebMethod interface 
+
+• Assisted with rewriting and modifying existing reports to optimize custom programs for Fund 
+
+Management 
+
+• Work with SAP to resolve poor performance transaction 
+
+• Analyze, review and develop custom SAP functionality based on specifications provided by 
+
+corporate functional/configuration teams 
+
+• Primary functional and technical support for ECC. 
+
+• Development/Change of Interfaces between SAP and JD Edwards’s system for the new sites. 
+
+• Develop the interfaces in SAP PI 7.0 to synchronize stock between SAP and JDE systems. 
+
+• Performed mapping using XSLT, ABAP, JAVA mappings in the interfaces 
+
+• Worked with SOAP, JDBC, RFC adapters and webservices 
+
+• Transition of entire project 
+
+• Involved in the configuration of ALE environment, development of outbound and inbound 
+
+process, configuring distribution model. 
+
+• Performed Regression testing on various In-bound and out-bound interfaces. 
+
+• Utilized SAP object oriented capabilities to incorporate free form text fields in custom screens. 
+
+ 
+
+Honeywell Specialty Materials        Jan 07 – Oct 10 
+
+Senior Software Engineer 
+
+ 
+
+• Developed and enhanced existing reports using ABAP/4 for BFI’s SAP implementation 
+
+• Developed and configured reports for end users using SAP delivered tools such as Drilldown 
+
+Reporting, Report Painter, and Interactive excel 
+
+• Technical support on MM/PP/SD/FI modules for Production environment serviced all trouble 
+
+tickets reported by Production support including enhancements. 
+
+• Wrote the technical specs from the functional spec and then wrote the ABAP programs using 
+
+ALV technology with mass update capabilities. 
+
+• Senior ABAP developer responsible for development of enhancements, interfaces, data 
+
+conversions, reports and forms within SD, MM and FI/CO modules in ECC 6.0 environment. 
+
+• Involved in A/P and the procurement process of MM and EC-CS module. 
+
+• Created and maintained master data and the respective hierarchies. 
+
+
+
+• Responsible for pre and post go live ABAP support as well as ABAP training for in-house 
+
+development team. 
+
+• Assisted junior developers in performance tuning and program optimization. 
+
+• Served as a senior ABAP developer in charge of design, mapping and development of inbound 
+
+and outbound EDI interfaces for order. 
+
+• Modified and fixed program bugs in several reports and BDC programs related to material 
+
+routings and planned orders. Modified custom Quotation SAP Script and print program. 
+
+• Processed monthly data imports/exports from R/3 via rollups. 
+
+AFC Pack out SAP PI Redesign 
+
+• Lead the team from offshore. 
+
+• Involved in feasibility study between SAP and AFC system. 
+
+• Involved in design of ABAP and XI objects to meet the business requirements. 
+
+• Developed XI interfaces to redesign the Packout model (external third party non-SAP system) in 
+
+obtaining data from R/3 using SOAP and RFC adapters. 
+
+• Created client Proxy scenario using enterprise web service proxy. 
+
+• Developed scenario to fetch data from SQL server using JDBC adapter by invoking stored 
+
+procedure. 
+
+• Developed reports and module pool reports to achieve the functional requirements of the users 
+
+in pulling the data from R/3. 
+
+• Developed custom module pool screen for the business requirement. 
+
+• Build and Release through Standard Delivery Process 
+
+• Deployment Support for Go-Live 
+
+B2B XI Interface 
+
+• Coordinated interface development between ABAP and JAVA developers and functional teams. 
+
+• Involved configuration set up in XI as well as R/3 side. 
+
+• Developed function modules and ABAP interactive reports for the data import and exports. 
+
+• Involved in mail triggering of work item to inbox. 
+
+• Involved in penetration testing to test the Connection between external system and SAP R3 
+
+system. 
+
+• Build and Release through Standard Delivery Process 
+
+• Involved in gathering Business requirements and providing qualitative and fast technical 
+
+solutions for other interfaces. 
+
+• Suggest Service Improvement Initiatives to the Customer with enhancements in the built-in 
+
+development. 
+
+• Developed ABAP report programs, as well as enhancements.  Developed technical and unit test 
+
+documents. 
+
+• Developed BDC interface programs between SAP and Legacy systems periodically checking for 
+
+duplicate values in SAP Database. 
+
+SM MRP Excellence Metrics 
+
+• Worked on various issues involving LSMW's, BDC's, USER EXITS, BAPI's/BADI's, Enhancement 
+
+Spots, Reports, Scripts, Smart forms, Module Pool programming, XI interfaces, IDOC/ALE. 
+
+
+
+• Developed ABAP reports for MRP functionality to retrieve and manipulate the MRP related data. 
+
+• Developed objects in ABAP to parse the XML Messages coming in and out of the Web services. 
+
+• Cloned the existing scripts and smart forms to modify according to the business requirements.  
+
+• Coordinated development between developers and functional teams. Developed standards 
+
+documentation. 
+
+Upgrading the ERP system from SAP R/3 4.7 to ECC6 
+
+Upgrade Lead Analyst 
+
+• Involved in troubleshooting, analyzing & solving enterprise issues which were raised during 
+
+upgrades. 
+
+• Developed Utility Programs like Where-used List, Spool Download to Excel.  
+
+• Performed SPDD, SPAU, SPUMG, SUMG Activities. 
+
+• Fixed Syntax Errors due to Upgrade in Zobjects. 
+
+• Testing of BDC’s. 
+
+• Troubleshooting, analyzing & solving enterprise issues which are raised during up gradation. 
+
+• Unit Testing and Integration Testing 
+
+• Build and Release through Standard Delivery Process 
+
+• Deployment Support for Go-Live 
+
+• Suggest Service Improvement Initiatives to the Customer with enhancements in the built-in 
+
+development 
+
+Honeywell SM Support         
+
+ABAP Technical Consultant 
+
+• Worked on various issues involving LSMW's, BDC's, USER EXITS, BAPI's/BADI's, interactive 
+
+reporting, Enhancement Spots, Reports, Scripts, Smart forms, Module Pool programming, XI 
+
+interfaces, IDOC/ALE. 
+
+• Developed BAPIs’ for upload of Master Recipe data, BDCs uploads. 
+
+• Deployment Support for Go-Live. 
+
+• Modified custom Quotation SAP Script and print program. 
+
+• Assisted in development and presentation of end user training and materials.  Developed and 
+
+executed unit test scenarios. 
+
+• Served as an ABAP developer responsible for developing and enhancing custom programs 
+
+including reports, dialog programs, BDC programs, SAP Scripts and interfaces. 
+
+• Developed custom dialog transaction for creation and maintenance of Production Process 
+
+Models utilizing BAPI. 
+
+Trainings: 
+
+• JAVA 2 Language Basics and Introduction to JAVA using NetWeaver 
+
+• Participated in SAP trainings to get detailed understanding on Web Dynpro. 
+
+• XI Boot Camp for new PI functionality. 
+
+

@@ -1,0 +1,416 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructions for preparing your “Resume”
+
+		
+
+
+Vijay Sukhavasi, SAP Lead Consultant        
+Mobile: +91-9490642485
+Email: vijay.sukhavasi@gmail.com                         
+
+Professional Summary
+	
+Professional Summary:
+· Proficient in SAP Implementation, support, Maintenance, Upgrade, and Data Migration projects. Extensively involved in Project Analysis, Design, Validation, Debugging and Testing with two complete full life cycle implementations and have worked on several development implementation stages 
+· Expert in monitoring the Delivery Management and Release Management Activities 
+· An enthusiastic and personable team player, with ability to adapt to different work group and has always maintained a shorter learning curve, effective communicator with strong analytical and organizational skills and capacity to meet deadlines 
+SAP ABAP Expertise:
+· Skilled in R3 4.6c, R3 4.7c, ECC 6.0 versions of SAP
+· Knowledge in SD, FI, MM, PP, and QM Modules
+· Sound knowledge in ABAP Data Dictionary objects (Tables, Structures, Views,
+        Data Elements, Domains, Lock Objects, Match-Code objects)
+· Experience in SAPSCRIPTS and SMARTFORMS
+· Experience in Reports (Classical and Interactive) and ABAP List Viewer (ALV) 
+· Data Uploads from legacy systems to SAP R/3 system using BDC
+· Performed the data migration using the LSMW
+· Expertise in RFCs and worked on Module Programming (Dialog Programs) for customer add-ons
+· Modified and added custom functionality to SAP standard transactions using enhancements 
+· Expertise in Performance tuning, debugging using Runtime Analysis, SQL Trace, and approach
+       towards Data Conversion and Migration Projects
+· Extensively used ABAP code in writing User Exists and Routines 
+
+    Experience Details
+
+	Client
+
+
+	Designation
+	Duration
+
+	Prysmian NA – USA
+	SAP ABAP Lead Consultant
+	Jan 2016 to till date
+
+	Mylan NV – USA
+	SAP ABAP Lead Consultant
+	Jan 2013 to Dec 2015
+
+	IEWC Corp - USA
+	SAP ABAP Sr. Consultant
+	Jan 2012 to Dec 2012
+
+	OLEX Cables – Australia & New Zealand
+	SAP ABAP Consultant
+	Jun 2010 to Dec 2011
+
+	Southwire LLC – USA
+	SAP ABAP Consultant
+	Apr 2009 to May 2010
+
+	RGIA – Hyderabad & IBM – Hyderabad 
+	SAP ABAP Consultant
+	Sep 2008 to Mar 2009
+
+	OFS Optics – USA
+	SAP ABAP Consultant
+	Nov 2007 to Aug 2008
+
+	GIS Inc – USA
+	Software Developer
+	Jun 1998 to Feb 2006
+
+	Oil Country Tubular Ltd - India
+	Quality Control Engineer
+	Aug 1993 to Jun 1996
+
+
+
+  Skills	
+	
+	Primary Skill category
+	SAP ABAP/ Integration Consultant/Team Management
+
+	Project Acquired skills
+	ERP Applications   	:  SAP ECC 6.0
+
+
+	
+  Work Experience 
+
+	Project Type
+	SAP SLA
+
+	Project Domain
+	SAP 
+
+	Solution
+	ABAP
+
+	Service Offering
+	Support
+
+	Client 
+	Prysmian NA
+
+	Organization
+	MYTec Soft Inc
+
+
+
+Contribution:
+· Developed Smart Forms for MM, SD, PP and QM modules
+· Worked on Module Pool developments for custom transactions
+· ALV reports for SD, PP, QM, and MM
+· Upload, download programs for MM, PP, and QM
+· User Exits & BADI's for client specific custom solutions
+Operations Contribution: 
+· Maintaining Successful service delivery - SLA achievement and high level of customer satisfaction 
+· Monitoring overall performance of services 
+· Following up if service delivery is not meeting expectations 
+· Working with the client and operations teams to identify and manage service improvement activities 
+
+
+	Project Type
+	SAP SLA & Carve Out 
+
+	Project Domain
+	SAP 
+
+	Solution
+	ABAP
+
+	Service Offering
+	Support and Carve Out
+
+	Client 
+	Mylan NV
+
+	Organization
+	MYTec Soft Inc
+
+
+
+Technical Contribution:
+· Worked on an enhancement to create Outbound and Inbound deliveries and update their serial IDs and hierarchies as per the delivery by checking various conditions
+· Implementation experience in Serialization on SAP AII & AIE system
+· Acquired knowledge in MM integration areas
+· Performance improvement for some Complex reports which needs data manipulation for more than 1lakh records
+· Developed Interface in ECC to communicate with Concur which is a third-party tool for consolidating employee expenses
+· Custom development for supporting users for complex table maintenance
+· Material master mass copy program from costing plants to Manufacturing plants
+Operations Contribution: 
+· Maintaining Successful service delivery - SLA achievement and high level of customer satisfaction 
+· Monitoring overall performance of services 
+· Following up if service delivery is not meeting expectations 
+· Working with the client and operations teams to identify and manage service improvement activities 
+
+	Project Type
+	SAP Implementation
+
+	Project Domain
+	SAP 
+
+	Solution
+	ABAP
+
+	Service Offering
+	Implementation
+
+	Client 
+	IEWC Corp
+
+	Organization
+	MYTec Soft Inc
+
+
+
+Contribution:
+· Worked on the implementation of customized ATP solution as per the client requirements
+· Worked on to trigger myATP allocation when the Sales Orders are created or changed using standard transactions VA01 / VA02
+· Worked on to trigger re-allocation of batches when the originally allocated batches were changed at the time of delivery
+· Worked on an enhancement to trigger myATP allocation when Scheduling Agreement is created or changed
+· Worked on a program which runs in the background at fixed intervals to check for credit block status of the Orders. As per the user requirements, in myATP batches are allocated even if there is a credit block against a customer. If the credit block hasn’t been removed in specified business hours, then the allocated batches for that Order will be removed
+· Worked on updating the Item level text of the Quotation with the number of days it takes for the Order to be completed and delivered to the customer as per the rules framed by the client
+· Developed a report which displays the open orders and the batches assigned to those orders in one grid and the available batches for the material and plant combination in another grid. User can change the allocated batches with a new batch or can de-allocate all batches as per their needs
+· Worked on changing the status of the Order, allocated batches etc. when the allocated batches were changed at the time of delivery with the new details from re-spooling and/or packing
+
+
+
+
+
+
+
+
+
+Project Profile#4: SAP ABAP Consultant   
+
+	Project Type
+	SAP SLA
+
+	Project Domain
+	SAP 
+
+	Solution
+	ABAP
+
+	Service Offering
+	Support
+
+	Client 
+	Olex Cables – Australia & New Zealand
+
+	Organization
+	MYTec Soft Inc
+
+
+
+Contribution:
+· Taking the requirements form client and delivering the objects with the required functionality
+· Customising Standard SAP code using enhancements provided by SAP
+· Created an RFC to calculate Time for cutting the Reel
+· Customized MIGO Transaction using BADI for validating the Tolerance limits using characteristics from PO
+· Customized MILL_CUT_LBA using User exits for getting the custom batch number ranges based on the plant
+
+	Project Type
+	SAP Implementation
+
+	Project Domain
+	SAP 
+
+	Solution
+	ABAP 
+
+	Service Offering
+	Implementation
+
+	Client 
+	Southwire LLC – USA
+
+	Organization
+	MYTec Soft Inc
+
+
+
+Contribution:
+· Developed a report to transfer quantity from one Purchase Order to another Purchase Order
+· Developed a report to change released orders details
+· Developed a report to change customer order release sequence etc.
+· Developed screens to process movement from Port to Plant and Sale at Port
+· Developed a report to reprocess, reprint lot tags and change the status
+
+	Project Type
+	SAP Implementation
+
+	Project Domain
+	SAP 
+
+	Solution
+	ABAP 
+
+	Service Offering
+	Implementation
+
+	Client 
+	GHIAL – Hyderabad & IBM – Hyderabad 
+
+	Organization
+	MYTec Soft Inc
+
+
+
+Contribution:
+· Developed reports to extract master data and transactional data on to the application server
+· Developed reports to extract master data like customer master, vendor master, work centers master, facilities master, location master and failure codes master
+· Developed a report to get the customer receipts and outstanding against each customer
+· Developed a report to get the total revenues generated from different revenue streams
+· Developed a report to get the list of notifications generated from the beginning and the list of notifications generated from T-1 date with respect to the status of the notifications
+· Developed a report to get the amounts outstanding against each vendor
+
+	Project Type
+	SAP Upgrade
+
+	Project Domain
+	SAP 
+
+	Solution
+	ABAP 
+
+	Service Offering
+	Upgrade
+
+	Client 
+	OFS Optics – USA
+
+	Organization
+	MYTec Soft Inc
+
+
+
+Contribution:
+· Developed Module pool programs for custom needs
+· Custom Smart forms for PDF form printing
+· Worked on production order confirmation and production order details download using BAPIs
+· Developed Operation Control Ticket Smart form to provide shop paper packet to the shop floor specifying the routing steps and process instructions
+· Developed a report to update the promised date and header status of a sales order 
+
+	Project Type
+	Product Development
+
+	Project Domain
+	Domain
+
+	Client 
+	Aqua-Chem Inc.
+
+	Organization
+	GIS INC
+
+
+
+Contribution:
+· Analysed the source information and designs to determine whether existing configuration supports the application or new configuration is required
+· Analyzed the gap analysis in identifying the differences between the current product selection, product offerings and system limitations
+· Documented and coordinated with all affected departments regarding the configuration approach and the identification of configuration data, procedures, and processes
+· Analyzed the product selection by inputting product data into the product tracking tool to identify a previously configured matching product or the product most closely matching the current selection
+· Configured new designs and products to ensure that the new development accurately and efficiently supports the business functional requirements including the thorough testing of the configuration
+
+
+
+
+
+	Project Type
+	Mfg. of Oil Drilling Pipes
+
+	Project Domain
+	Domain
+
+	Client 
+	Oil Country Tubular Ltd, India.
+
+	Organization
+	Oil Country Tubular Ltd., India
+
+
+
+Contribution:
+· Primarily responsible for quality inspection of the drill pipes threading per the specifications
+· Used random sampling to ensure that the operations were carried out within the tolerance limit
+· Ultra-violet inspections for cracks
+
+    Education
+on
+	Degree
+	Specialization
+	University
+
+	Post-Graduation
+	MS (Course Work Completed)
+	University of Alabama, Tuscaloosa, Alabama, USA
+
+	Graduation
+	B Tech
+	REC Kurukshetra, Kurukshetra University, Haryana, INDIA
+
+
+
+      Passport & Visa Details
+	
+
+Page 6
+

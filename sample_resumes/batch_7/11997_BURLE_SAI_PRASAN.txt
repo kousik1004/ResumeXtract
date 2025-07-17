@@ -1,0 +1,157 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM VITAE
+
+
+
+BURLE SAI PRASAN			                                                   E-mail:saiprasan.burle@gmail.com 
+SAP BASIS						                        Mobile: +91-9573425762
+
+Professional Experience
+
+· SAP BASIS Consultant in ATUM IT SERVICES INDIA PRIVATE LIMTED, Hyderabad, Since August 2015 to till date
+· SAP Basis(L1 support)
+	
+
+
+Academic Qualifications:	
+
+· B-Tech (ECE) in Sarada Institute of Technological and Science affiliated with JNTUH (2010-2014).
+
+Responsibilities: 
+
+· Performing daily monitoring of SAP &Create Background jobs and Job Scheduling Monitor
+· Knowledge on applying support packages using SPAM and SAINT.
+· Knowledge on  scheduling Backups from R3 level ( Offline and Online)
+· Knowledge on backup and restoring the backup using BRtools.
+· Knowledge on System copy and DB Refresh.
+· Maintaining SAP servers, Remote Basis support, Monitoring, Applying Support packages & patches, Installation and configuration of SAP R/3 Systems.
+· Daily administration activities such as Alert monitoring, Scheduling periodic jobs and R/3 Buffer monitoring, Database Buffer monitoring. 
+· Knowledge on performing Kernel Upgrade, applied Support Packs and Languages in the entire landscape.
+· Strong experience in SAP client Administration (Production, Quality & Development) including client creation, authorization, Client copy (Local, Remote & Export/Import)..
+· Involved in Transport management of roles to different systems.
+· Knowledge the DB Refresh for every month with Production Backup on Quality System
+· Involved in R/3 upgrade of ECC6.0 & EHP6 on Linux platform
+· Performing Backups & restores procedures, System copy, performance monitoring of R/3 Administration.
+· Monitor the Application Servers Status and ensure that all the configured instances are up and running.
+· Monitor the Status of the Work Processes per Instance and document the critical statuses.
+· Performing post installation activities.
+· Monitor the File System Space, CPU and Memory Utilization at OS Level.
+· Responsible for daily monitoring of the R/3 servers.
+·  Work processes and preparing the Performance report for every month.
+· Maintaining the profiles and operation modes for day and night operation.
+· Workload Analysis and Performance Memory Management Buffer Synchronization.
+· Importing the change requests between the systems in the landscape and other systems which are not in the landscape.
+· Monitoring work processes and their statuses from time to time. 
+· Monitoring SAP Buffers for number of Swaps and hit ratios. 
+· Defining and configuring basis background jobs to reorganize various logs like System Logs, and ABAP dumps.
+· Monitoring Spool requests, Update Monitoring and resolving the issues.
+· Monitor SAP standard basis jobs for system maintenance & runtime intervals.
+· Ensuring Daily log checks and updates, Batch Job & Spool maintenance.
+· Knowledge in service market place to download the Software, generating the SSCR Keys, Developer Access Key, Notes, Generating the License Keys
+· Knowledge on client copy on development system.
+· Knowledge on SAP HANA architecture.
+· Performed installation of SAP HANA 1.0 SPS09, 10, 11, 12 with ERP, CRM, SCM, SRM and Net weaver 7.5 systems.
+· Performed HANA Installation on SUSE Linux 11.3.
+· Performed Installation of SAP HANA studio.
+· Performed SAP HANA upgrade from SPS09 to SPS10, SPS10 to SPS11 and SPS11 to SPS12.
+·  Performed HANA Backup, Restore and Recovery.
+· Performed migration of statistics server into embedded Index server. 
+· Performed on conversion single database to multi tenant database.
+· Performed migration on MSSQL to HANA database using SWPM
+· Performed installation of SLT server as an add-on.
+· Daily check list of HANA database.
+· Knowledge on SAP HANA cockpit using UX.
+· Performed resetting the password of System user.
+· Installation of HANA add-ons using hdblcm at command line like HANA product add-ons.
+· Knowledge on SAP HANA system start and stop(HANA studio and OS level).
+· HANA administration using HANA studio, HANA ALM and HANA PLM.
+· Knowledge on assigning roles to platform and application lifecycle management.
+· Knowledge on Installation of SAP HANA permanent license and delete old license keys through HANA studio.
+· Knowledge on adding user to SAP HANA system, Exporting/Importing SAP HANA system.
+· Knowledge on Installation of HANA studio in windows and Linux systems.
+· Knowledge on deploying Delivery unit.
+
+Technical Skills:
+
+Products			: SAP ERP 6.0 EHP7, EHP8, SAP Net weaver 7.3, 7.4, 7.5. 
+Operating Systems		: Linux (RHEL, SUSE), Windows 2008, 2012.
+Database			: Oracle 10g, 11g, HANA 1.0 SPS09, 10, 11, 12, HANA 2.0 SPS 1, 2.
+
+Project Details:
+
+Project Name: AMS Support (on behalf of SAP)
+Client               : AMS Support (on behalf of SAP)
+Role                 : SAP Basis 
+Organization   : ATUM IT SERVICES INDIA PVT LTD
+Duration          : 2015 DEC – Till Date
+Team Size        : 10
+
+Responsibilities/Deliverables
+
+· Providing AMS  Support  for North Atlantic Region
+· Responsible for Day to day monitoring of systems and reporting to the Management, Monitoring application servers’ status.
+· Worked on Background jobs.
+· Monitored the Updates in the system and failed updates in the system.
+· Analysis of ABAP Dumps.
+· Monitored the File system, Table spaces and DB growth.
+· Analysis of ABAP & Java system logs.
+· SAP OSS: Creation of messages and coordination with SAP for troubleshooting and optimization.
+· Handled Transports from one System to another System (DEV, QAS& PRD).
+· Maintained and configured RFC.
+· Monitoring of SAP Landscapes
+· Pre and post Upgrade Activities
+· Performing Pre and post system refresh activities
+· Created Clients, performing Client Exports/Imports, Remote client copy and local Client copies.
+· Applying support packages through SPAM
+· Applying add-on through SAINT 
+· Performed start and stop of SLT queues
+· Weekly review of EWA Reports 
+· Performed Idoc’s re-processing
+

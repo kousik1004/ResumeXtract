@@ -1,0 +1,399 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+NANDAKUMAR GOVINDAN
+Mail Id:  nandha_sastra@yahoo.com 
+Mobile: +91-9600985215
+
+Career Objective
+
+To make a mark for myself in whichever field I set my foot on and to face the global IT challenges ahead with the best of my performance and confidence.
+
+Summary
+
+· ORACLE Developer - with 8.5 years’ experience in Banking Domain (Security Financing), Telecommunication Domain. 
+· 3 years of ONSITE work Experience as a Development Lead.
+· Have 5 years of experience in accounting, Sub ledger & Report.
+· Played Significant role in Requirement Analysis, Estimation for FP & TM Projects, Development, Deployment and Support activities.
+
+· Hands on in Incident management, Problem management and change management.
+
+· Have worked in Agile projects.
+
+· Received Best performer award for 2014 ,2015 from Infosys & ABN.
+Professional Experience
+
+
+PRESENT EMPLOYER:
+Duration
+:  Apr 2012 – Till date.
+
+Employer
+:  Infosys Limited
+Position
+:  Technology Analyst 
+PREVIOUS EMPLOYERS:
+Duration
+:  May 2011 – Apr 2012.
+
+Employer
+:  UST GLOBAL.
+
+Position
+:  Senior Software Engineer.
+Duration
+:  Mar 2009 – May 2011.
+
+Employer
+:  Ellaar Infotek Solutions Pvt Ltd, Chennai(www.EllaarInfotek.com).
+
+Position
+:  Junior Associate-Projects.
+Academic Profile
+
+· B. Tech in Computer science from Shanmugha Arts, Science, Technology and Research Academy (SASTRA UNIVERSITY), Thanjavur with 6.25 CGPA aggregate in 2008.
+Technical Skills
+
+	Methodology
+	Agile , Waterfall 
+
+	Languages
+	Oracle PL/SQL, SQL Tuning, Unix Shell script
+,Velocity
+
+	Database
+	Oracle 9i/10g/11g ,MS SQL Server 2005/2008
+
+	Tools
+	PRISMA , HP-QC , JIRA
+
+	Reporting Tools
+	BOXI
+
+	Development Tools
+	TOAD, SQL – developer, IXP, PUTTY,
+SQL server management studio
+
+	Operating Systems
+	UNIX, Windows
+
+	Scheduler
+	Autosys, CONTROL –M
+
+	Source Safe Tool
+	Tortoise SVN ,Bit bucket
+
+
+Accomplished Projects 
+1. IRH - Data Migration –SQL Server to Oracle:
+	Client
+	Bank of America 
+
+	Duration
+	4 Months
+
+	Team Size
+	5
+
+	Skills
+	Oracle PL/SQL , UNIX , SQL Loader, SQL Tuning
+
+	Role
+	Development Lead
+
+
+Description: 
+
+Perform data migration from SQL server to Oracle Database for the AR system for these location Hong Kong, Malaysia, Singapore, Taiwan, Thailand and Indonesia.
+Responsible for: 
+
+· Created the Physical data model for the Target System.
+
+· Interacting with client & Functional team to derive the data mapping between source & Target.
+· Analysis of various tools to achieve the Data migration. 
+
+· Developed the logic for the Data Migration.
+· Developed the Validation reports for the data migration.
+
+2. Agile Project:
+	Client
+	ABN AMRO
+
+	Duration
+	18 Months
+
+	Team Size
+	13
+
+	Skills
+	Development ,Testing ,BA
+
+	Role
+	Agile Developer (Onsite)
+
+
+Description: 
+
+Have undergone an Agile training from ABN AMRO for 3 Months and Implemented the agile process of working with the help of scrum master and Product owner. 
+
+Responsible for: 
+
+· Worked in more 15+ sprints and delivered the committed story points. 
+· Participated in the backlog refinement meeting, provided demos to client for the sign offs of the user stories 
+
+· Involved in Functional testing.
+
+· Created CICD Pipeline using Jenkins.
+
+· Worked on the unit testing automation.
+3. 4sight Slice to FBS Interface:
+	Client
+	ABN AMRO 
+
+	Duration
+	18 Months
+
+	Team Size
+	11
+
+	Skills
+	Oracle PL/SQL , UNIX , SQL Loader, SQL Tuning, Velocity, Autosys
+
+	Role
+	Onsite Development Lead
+
+
+Description: 
+R3 program initiated a project to connect the Securities Financing product flow for NL Book to the Finance target environment of ABN AMRO Bank for monthly reporting. We did Phased approach for this project, Phase 1 we achieved Redesigning of the SLICE Data model, fix the Performance issues and Data Migration. Phase 2 we did Accounting Rule impact in Slice pertinent to 4sight changes. Phase 3 we created the reports to FBS & Implementation of Various Reconciliation files.
+
+Responsible for: 
+
+· Created the Technical design (Including the Data Model design) and Provided the pseudocode.
+· Interacting with client for requirement gathering and for product demo.
+· Worked on the Fixed Pay Development Estimate for all the 3 Phases (WBS Template).
+· Code Quality reviews and code integration.
+· Took part in the Release management activities.
+· Developed the logic for the Data Migration using manual ETL logics.
+· Developed the Validation reports for the data migration.
+· Worked with Jenkins to build the code from the source safe for the deployment (CI/CD).
+· Responsible for building a strong technical team in offshore.
+4. Triparty Collateral allocation functionality:
+
+	Client
+	ABN AMRO 
+
+	Duration
+	9 Months
+
+	Team Size
+	4
+
+	Skills
+	Oracle PL/SQL , UNIX , SQL Loader, SQL Tuning, Velocity, Autosys
+
+	Role
+	Onsite Development Lead
+
+
+Description:  
+Responsible for: 
+
+· Created the Technical Design, Technical Estimation.
+· Worked on the development to create the accounting rules for the Disclosure events.
+· Created reconciliation Cash & Non cash extracts from SLICE to Intellimatch (Downstream system) and runtime Disclosure Reports for Product Control Team. 
+· Code Quality reviews and code integration. 
+· End to end release management activities
+5. Partial Settlements:
+
+	Client
+	ABN AMRO 
+
+	Duration
+	6 Months
+
+	Team Size
+	3
+
+	Skills
+	Java , BOXI , MQ Messages
+
+	Role
+	Onsite Development Lead
+
+
+Description:  
+Settlement allocation module does not accept the partial settlements sent from BANCS, 
+Responsible for: 
+
+· Effort estimation and project plan creation which includes billing data.
+· Coordinating the team on their individual task status for team and client meetings.
+· Creation of Technical design and Bo reports using BOXI.
+6. SSS-IMPLEMENTAION:
+	Client
+	GE 
+
+	Duration
+	11 Months
+
+	Team Size
+	14
+
+	Skills
+	SQL, PL/SQL, Oracle apps.
+
+	Role
+	GE Corporate consultant.
+
+
+Description:  
+SSS-IMPLEMENTAION deals with the indirect procurement of GE for their various businesses. The activities are Implementation of GE customized functionalities in oracle apps and supporting the standard and GE customized functions of oracle apps in development, stage and production instance. The major activity is resolving tickets for various modules of oracle apps and their functional changes.
+Responsible for: 
+
+· Analyzing the PL/SQL scripts for issue related tickets.
+
+· Reviewing the PL/SQL scripts while implementing new functions and operating unit in stage instance.
+
+· Code Migration of new functions to Production instance.
+
+· Resolving ticket related to AP and PO modules.
+
+· System administration Responsibilities.
+
+7. ABB:
+
+	Client
+	Atlantic Broad Band, US.
+
+	Duration
+	24 Months
+
+	Team Size
+	6
+
+	Skills
+	SQL, PL/SQL, ETL PROCESSING.
+
+	Role
+	Oracle PL/SQL Developer
+
+
+Description:  
+Atlantic Broad Band (ABB) Services is the leading provider of Entertainment, Information and Communications services and also offers the highest level of customer support for the communities of services. Atlantic Broadband is ranked among the top 20   U.S. cable television operator, with over 400,000 customers. We generate various types of reports based on their Ad-hoc request through Oracle SQL and PL/SQL. We also provide support and maintenance. 
+
+Responsible for: 
+
+· Writing Queries by understanding Business Logic.
+
+· Creating Procedures for updating Weekly Transactions in the table.
+
+· Creating Functions and Triggers for efficient data processing & updating.
+
+· Maintaining Daily and Weekly Transactions till now. 
+· Table Analysis for data pull from the Client Server.
+
+· Doing ETL (Extraction and Transformation) Process Daily. 
+
+· Handling various changes in the ETL Process.
+
+· Loading various data through SQL Loader.
+Personal Profile
+
+· Father’s Name                         :    Mr. K.Govindan.
+· Date of Birth
+
+
+:    30-May-1987.
+· Age
+
+
+
+:    30 Years.
+· Linguistic Proficiency             :    English, Tamil.
+     
+
+· Favorite Pursuits
+     
+:    Listen Music, Reading Books.
+
+Declaration:
+
+
+I hereby declare that all the details given above are true to the best of my knowledge and belief.
+     
+
+
+     
+
+
+
+
+
+
+
+
+
+
+Yours truly,
+
+Station
+:   Chennai
+
+Date
+
+:   
+
+
+
+      G. NANDAKUMAR
+
+
+
+
+

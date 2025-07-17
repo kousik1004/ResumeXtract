@@ -1,0 +1,469 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sudeep P Nair
+
+
+ 
+CHANDRASHEKARAMURTHY.R 
+E-Mail  : chandrucsmr@gmail.com 
+Mobile : +91–9742390203 
+ 
+ 
+
+Professional Summary 
+
+ 
+ Completed Single Sign on(SSO) based application with SAML protocal. 
+ 2+ Years  of end to end project development experience in Spring  Framework. 
+ Experience and expertise in Spring boot framework including Hibernate Sprng MVC  . 
+ Working experience on PKI technologies in cryptography. 
+ Self-motivated and able to work independently as well as in team. 
+ Doing Research and development on latest technologies. 
+ Team Handling. 
+
+ 
+
+Technology Skill Set 
+
+ 
+ Framework  : JAVA, Spring boot. 
+ RDBMS         : MS SQL Server,MYSQL. 
+ Markup Languages  : HTML, CSS, Bootstrap. 
+ IDE       : Eclipse IDE, STS.   
+ Scripting Langauges  : Angular JS, Java Script, Jquery, Ajax, Json. 
+ JAVA Framework : Spring boot, Spring, Spring MVC, Hibernate, Servlet , Jsp,Rest and Soap                                                                                  
+
+     WebServices.                                                                                                                  
+ Tools  Used  :Maven, Bugzilla, SVN. 
+
+ 
+ 
+
+  
+
+Employment History 
+
+ 
+ Employer             :  Emudhra Limited (Current Employer). 
+
+ Position                :  Software Developer. 
+Job Description : To design, develop and implement  large scale security/ authentication based 
+projects by using spring boot and hibernate according to clients requirement with at most perfection 
+and to ensure they follow all best practies. 
+ 
+ 
+
+ Employer             :  Infopine. 
+
+ Position                :  Software Developer. 
+
+ Job Description : To design, develop and implement medium to large scale projects according to clients 
+requirement with at most perfection and to ensure they follow all best practies. 
+
+ 
+
+ 
+
+Certifications 
+
+ 
+ Internship completed Certification on java/J2EE by RIIIT Mysuru . 
+
+
+
+ 
+
+Experience Summary 
+
+ 
+
+1. emIDAM 
+ 
+
+Project Title emIDAM (SSO and Resource Based Authentication web application) 
+
+Role                       Developer and Tenical Guide 
+
+ 
+Description: 
+The project working based on risk profile, project involved completely security based authentication this is helpful for 
+
+banking secture or high level organization with almost 8 way of authenticatios, its completely web service based  
+
+application with saml protocol, authentication levels is worked on SSO. 
+ 
+Responsibilities:  
+
+ RND and implementing new features. 
+ Database design and development. 
+ End to end development. 
+ User module: Enroll User, LDAP user, Upload bulk Users, manage  registered users. 
+ Group creation and manage group users. 
+ Admin module development. 
+ Single sign on Feature implementation. 
+ Session management on multiple application login. 
+ Server deployment. 
+
+ 
+Technologies Used:  
+                           Spring boot, Spring MVC hibernate Java 8, Jsp, Mysql, Spring Services, javascript, jQuery, Maven, Jira,                  
+SVN,Saml. 
+
+  
+
+ 
+
+ 
+
+2. emCA 
+ 
+
+Project Title emCA (PKI bassed application) 
+
+Role                       Developer 
+
+ 
+Description: 
+The project based on PKI technologies and product mainly build for organization security role based 
+authentication. 
+ 
+Responsibilities:  
+
+ CSR signing and certificate generation . 
+ Backup : Both database and and application configuration/properties  files. 
+
+Manual backup: Including remote system and server local system. 
+Automatic backup: Including remote system and server local system. 
+ 
+
+Technologies Used:  
+                           Spring MVC, hibernate, Java, Jsp, Mysql, Spring Services, html, css, javascript, jQuery, STS , Jira , SVN. 
+
+  
+
+ 
+ 
+ 
+ 
+
+
+
+3. Secure OTP 
+ 
+ 
+
+Project Title Secure OTP(TOTP Generation) 
+
+Role                       Developer 
+
+ 
+Description: 
+The project mainly used for Generate secure TOTP in offline mobile apps(Android and Ios) and validating generated 
+
+OTP with Server, build based on cryptography. 
+
+ 
+
+Responsibilities:  
+ Complete development of application. 
+ Exposing webservices for mobile app and server communication. 
+ Web service Authentication and identifying the users and providing access. 
+ Mobile app registration and user authentication with bank application. 
+ Key sharing and TOTP generation at the both end verification. 
+ Admin module implementation and re-register, lock, unlock users. 
+ Deployment on client location. 
+ Implementation support. 
+
+ 
+Technologies Used:  
+                           Spring MVC, Hibernate, Mysql, Spring Soap Services,With Eclipse, Jira.  
+
+ 
+
+ 
+ 
+ 
+ 
+
+4. emAS 
+ 
+
+Project Title emAS(Authentication Server) 
+
+Role                       Developer 
+
+ 
+Description: 
+Identifing the users and authenticating users based on authentication levels like DSC, Soft OTP(TOTP), Hard OTP, DSC 
+
+registration and deregistrtion with admin permission. 
+
+ 
+Responsibilities:  
+
+ Certificate validation with CRL and trusted body. 
+ Deployment on client location. 
+ Implementation support. 
+
+ 
+Technologies Used:  
+                           Spring MVC, Hibernate, Mysql, Spring Soap Services,With Eclipse, Jira.  
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+
+5. NPCI Verifiction Utility 
+ 
+
+Project Title NPCI verification Utility(Signature verification) 
+
+Role                       Developer 
+
+ 
+Description: 
+Utility containing signature verification and validation. With certificate check and based on verification result response 
+
+generation based on NPCI standards,  desktop tool.   
+
+ 
+Responsibilities:  
+
+ Signature verification and certification check. 
+ Input contains xml/folder/zip file/signed zip file. 
+ Complete utility generation (including xml parsing, verification, response xml generation). 
+ Output may be xml/folder/zip file/signed zip file 
+ Deployment on client location. 
+ Implementation support. 
+
+ 
+Technologies Used:  
+                           Spring MVC, Hibernate, Mysql, Spring Soap Services,With Eclipse, Jira.  
+
+ 
+
+ 
+ 
+
+6. Myskillpage 
+ 
+
+Project Title Myskillpage 
+
+Role                       Developer 
+
+ 
+Description: 
+The project involved developing web Application that supports for Job portal similar to naukri.com but some new  
+
+features are added here, Application support both user those who looking for internship and jobs. 
+Responsibilities:  
+
+ End to end project development with spring mvc. 
+ Responsive UI design. 
+ User module design and validating user code with selected compiler. 
+ Admin module development. 
+ Application deployment. 
+  
+
+Technologies Used:  
+                           Core Java, Servlet, Jsp, Spring MVC, Hibernate, Mysql, Spring Services, html, css, javascript, 
+
+With Eclipse,  Maven, Bugzilla. 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+
+7.  ECOM Sample shoping cart 
+ 
+
+Project Title ECom Web Application 
+
+Role                       Developer and Designer 
+
+ 
+Description: 
+The Ecom web Application specially made for coir products, for selling coir manufacturing products. 
+Responsibilities:  
+
+ Project end to end development. 
+ Project implemented like online shoping cart developed with angular js.   
+ Filter products based on user search (depends on brands, colors, cost of products). 
+ Here we used angular mvc structure for better and faster development. 
+
+ 
+Technologies Used:  
+                           Angular js, Html, css, javascript, mysql database, php. Ajax, json. 
+
+  
+
+Also worked in development of mobile applications example: feedback app, MDM(mid day meal) app with jquery 
+mobile, website design. 
+
+ 
+
+ 
+
+Technical Exposure  
+
+ 
+
+ Attended workshops on soft skills training by NASSCOM at GEC Ch-nagara. 
+
+ Completed  Internship on Java/J2EE at RIIIT in Mysuru  and  completed sample webapplication using servlet and 
+jsp ms sql server. 
+
+ 
+
+ 
+
+Educational Qualification 
+
+ 
+Qualification University/ Board Institution Year of passing Percentage 
+
+BE(CES) Visvesvaraya 
+Technological University 
+
+Govt Engineering college 
+
+ 
+2015 63.7% 
+
+PUC ---- Govt MGSV College 2011 53.16% 
+
+SSLC Karnataka Secondary 
+Education Examination 
+
+Board 
+
+Govt high school  2009 64.48% 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+https://en.wikipedia.org/wiki/Visvesvaraya_Technological_University
+https://en.wikipedia.org/wiki/Visvesvaraya_Technological_University
+
+
+Personal Profile 
+
+ 
+Date of Birth  : 20th June 1993 
+
+Marital Status  : Single 
+
+Nationality  : Indian 
+
+Languages Known              :               English, kannada. 
+
+Address               : Chandrashekaramurthy R  s/o Rudrappa 
+Megala beedi, Madhuvanahalli, kollegala ||TQ|| 
+
+    Chamarajanagara ||D||. 
+  Pin:571440. 
+
+ 
+ 
+ 
+
+         
+
+Date  :                                                                 Yours Sincerely, 
+
+Place :                                                                                                        CHANDRASHEKARAMURTHY R 
+
+

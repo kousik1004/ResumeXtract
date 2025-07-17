@@ -1,0 +1,355 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+ 
+
+PRAMOD MACHAGIRI 
+ 
+
+Mobile: +91-9014761356 
+
+E-mail: pramodmachagiri@gmail.com                             
+ 
+
+ 
+
+Professional Synopsis 
+ 
+
+ 
+
+ 
+
+ 
+
+ 3.8 Years of professional experience as Database Administrator on Oracle and MS –SQL. 
+
+ Achievement oriented with excellent co-ordination skills and an ability to manage change 
+with ease. 
+
+ Hands on experience on ticketing and monitoring tools. 
+ Extensive knowledge on ITIL Process, Production Support, Maintenance. 
+ Having good exposure in communicating with end user’s over chat, call and E-mail. 
+
+ 
+
+ 
+Organizational Experience 
+
+ 
+
+ Currently working as a Senior Systems Engineer at Infosys Limited, Hyderabad since 
+February 2014 till date. 
+ 
+
+ 
+
+ 
+
+ 
+ Oracle Database Administration Skills 
+
+ Good knowledge on Oracle Architecture. 
+ Installing and maintaining Databases on different Linux environments. 
+ Maintenance and support of Oracle Databases in Production (RAC & Non-RAC, Datagaurd), 
+
+Development and QA environments. 
+ Exposure in managing RDS and EC2 Instances on Amazon Web Services environment. 
+ Monitoring of ASM instances and databases on RAC and Non-RAC environments, adding disk to 
+
+disk group whenever needed. 
+ Implementing industry level backup strategies, configuring the backups in an optimal way so the 
+
+load will be manageable and overcoming from backup hung scenarios. 
+ Upgrading the databases from lower versions to higher versions as per the requirements. 
+ Applying PSU patches and bug patches to fix the bugs using OPatch utility. 
+ Creation of DATAGAURD and maintaining the physical standby database along with DGBROKER 
+
+setup. 
+ Installation and configuration of OEM on 12c and 13c, deployed agents and promoted database 
+
+targets. 
+ Scheduling, monitoring and maintaining the cron jobs as per the daily requirements. 
+ Proactive maintenance of disk space usage, table space usage, temp/undo table space usage to 
+
+avoid job failures. 
+ Monitoring the alert log and trace files, troubleshooting the RMAN backup failures. 
+ Monitoring performance using AWR reports and performing the performance tuning using 
+
+explain plan and oracle advisory tool. 
+ Cloning the instances using RMAN/Hot backup as per the business requirement. 
+ Exporting and importing databases, table and schema level using export, import and data pump 
+
+utilities, extensive knowledge on user sessions and processes. 
+ Administering user security, privileges, roles, implementing database security, auditing. 
+ Configuring the Oracle network services, listener and TNS configurations. 
+ Database creation and decommission as per the requirements. 
+ Gathering table, schema and index stats collection and rebuilding indexes. 
+ Housekeeping for tablespaces, data files, backups on regular basis, access to oracle support. 
+ Creation and managing of database links and materialized views as per the requirements. 
+ Providing support during OS Patching by performing Switch Over, Shutting, Starting services. 
+
+Software Exposure 
+
+mailto:pramodmachagiri@gmail.com
+
+
+2 
+ 
+
+ Microsoft SQL Database Administration Skills 
+ Installation, Administration and Maintenance of SQL Server Instances. 
+ Troubleshooting expertise in SQL server database issues in Production and Development 
+
+Environments. 
+ Design database Backup, Restoration Strategy and implementing Security 
+ Upgrading the SQL Servers from lower versions to higher versions. 
+ Hands on experience in performing both In Place and Side by Side migration activities. 
+ Creation of Maintenance Plans, Scheduling the Backups for System and user databases. 
+ Performed database refresh activities by restoring databases from one server to another. 
+ Performing all the prerequisites for Decommissioning and restoring if necessary. 
+ Monitoring the CPU Usage, Disk and Memory for tuning the database performance. 
+ Maintaining/Creating logins/users and giving permission to them as per request. 
+ Regularly monitoring data file growth, log file growth, database growth as part of capacity 
+
+planning. 
+ Reorganize and Rebuilding Indexes for better performance. 
+ Performing Shrink operation while having space issues based on the situation. 
+ Basic understanding on Configuring / Maintaining high availability SQL Server solutions that 
+
+include Always ON, Replication and clustering. 
+ Providing support during OS Patching activities by performing Switch Over to achieve zero 
+
+downtime. 
+ Maintain documentation of all the tasks and issues which we encounter for future reference. 
+
+ 
+
+ REDHAT Linux System Administration Skills 
+ Administering Users and Groups, Managing and Securing Files. 
+ Installation of RedHat Enterprises Linux, System Recovery, Managing Software and Services. 
+ Network Configuration and Troubleshooting, Configuring Network File Sharing Services. 
+ Managing Simple Partitions and File Systems, Usage of Logical Volume Manager. 
+ Analyzing and Storing logs, Tuning and Maintaining the Kernel, Scheduling Jobs. 
+
+ 
+
+ Windows System Administration Skills 
+ Administering Users and Groups, Managing Files, Policies. 
+ Installation of all flavors of Windows Server Operating Systems, and Services. 
+ Working on Hyper-V, Virtual Machines. 
+ Active directory, network sharing, security, partitioning disks. 
+
+ 
+
+ Domain   : Production Support, Operations & Delivery 
+ Tools   : 12c/13c OEM, DBCA, DBUA, Oracle Netca, Nagios, 
+
+Service Now, SSMS, Spotlight, Putty, Toad, SQL       
+Developer, CA Service Desk 
+
+ Databases   : Oracle 10g, 11g, 12c, Oracle RAC and Datagaurd, MS-SQL 
+ Languages   : SQL 
+ Virtual Infrastructure : Microsoft Virtual PC, Hyper – V, VMware 
+ Operating Systems : RHEL6, UNIX, Solaris, Windows Family 
+
+ 
+ Oracle Database 11g: New Features for Administrators -Exam Code: IZ0-050 
+ Oracle Database 10g: Administration II - Exam Code: IZ0-043 
+ Oracle Database 10g: Administration I - Exam Code: IZ0-042 
+ Oracle Database SQL Expert - Exam Code: 1Z0-047 
+
+ 
+
+Key Domain and Technical Knowledge 
+
+Certifications 
+
+
+
+3 
+ 
+
+ 
+
+Academic Profile 
+
+ 
+
+ 
+
+ Received many appreciations from Managers, Clients for quick resolutions for the requests. 
+
+ Awarded with Cash Prize in the Contest of “Lighten up your work space” as the best 
+
+Workspace in entire Office Campus. 
+
+ Awarded as the best team from client with ELF 7/7 from Nike Inc. and BakerHughes Inc. 
+
+ Core member for organizing Floor Events, Team Outings, Team Lunch Parties. 
+
+ Chief Student Coordinator for Organizing a National Level Technical, Cultural & Sports 
+
+Festival KITSOZEN’12 held on 5th & 6th of March 2012. 
+
+ Organized a workshop on “THE SOCIAL NETWORKING” conducted by TRYEN 
+
+TECHNOLOGIES held on 3rd & 4th of March 2012. 
+
+ Student Coordinator for Organizing a National Level Technical Symposium ACUMEN’11 
+
+held on 15th & 16th of September 2011. 
+
+ Designed the Website and Poster for a National Level Technical, Cultural & Sports Festival 
+
+KITSOZEN'12 at Kamala Institute of Technology & Science-Huzurabad held on 5th & 6th of 
+
+March 2012. 
+
+ “Class Representative” for three consecutive years at my Graduation. 
+ 
+
+ 
+
+PROJECT #3 
+
+Client    : Nike Inc. 
+(An American multinational corporation that is engaged in the 
+
+design, development, manufacturing and worldwide marketing and 
+sales of footwear, apparel, equipment, accessories and services) 
+
+ 
+Environment : Oracle Databases on Linux Platform 
+   & MS - SQL Databases on Windows Platform 
+Role  : Oracle & MS SQL DBA 
+Duration   : Dec 2015 to till date 
+Description  : 
+
+In an evolving new technologies and tools, managed one of the 
+world’s largest retail outlets database environment. 
+Involved with end to end support from monitoring to the expert level 
+activities such as upgrades, setup’s, configurations and maintenance 
+activities. Here comes a chance to work on the latest technologies 
+including the RDS instance monitoring and maintenance on AWS 
+environments. Involved in a major incident activities, providing 
+continues support to the customer over the bridge calls until the 
+resolution is provided. Following the high level standards and 
+approaches, documenting the necessary details for future reference. 
+Targeting the MTTR’s and SLA Matrix on a regular basis to avoid any 
+negative signs from the customer. 
+
+Degree Name of the Institution University/School Duration Percentage 
+B. Tech (I.T.) Kamala Institute of Technology & Science JNTU Hyderabad 2008-2012 70.50 
+
+Achievements & Positions of Responsibility 
+
+Projects Undertaken 
+
+
+
+4 
+ 
+
+ 
+PROJECT #2 
+
+Client    : BakerHughes Inc.  
+(An American industrial service company, it is one of the world's 
+
+largest oil field services companies) 
+ 
+
+Environment : MS - SQL Databases on Windows Platform 
+Role    : MS SQL DBA 
+Duration   : Aug 2015 to Nov 2015 
+Description  : 
+
+Involved with a short-term migration project, migration of SQL 
+Server instances from lower version to higher versions. Migrated 
+near about 600 instances and decommissioned more than 400 
+instances. Carried out all the activities such as scheduling the outage 
+with right approvals from the server owners, involved in daily 
+reporting activities to the onsite team for a smooth process. 
+
+ 
+
+PROJECT #1 
+
+Client    : BakerHughes Inc. 
+Environment : Oracle Databases on Linux Platform 
+   & MS - SQL Databases on Windows Platform 
+Role    : Database Administrator (Oracle & SQL) 
+Duration   : Feb 2014 to Jul 2015 
+Description  : 
+
+Have been a part of team involving in monitoring activities to 
+proactively take necessary actions to avoid critical impacts. Gained 
+good knowledge in production support activities and ITIL processes. 
+Learned technology to the core being an active member in the team 
+providing 24x7 support. 
+
+ 
+
+ 
+
+Photography, Designing with Photoshop, Surfing, Enjoying Music. 
+
+ 
+
+Fathers Name : M V Sathyanarayana 
+
+DOB  : 28th July 1990 
+
+ 
+
+Interests 
+
+Personal Information 
+
+

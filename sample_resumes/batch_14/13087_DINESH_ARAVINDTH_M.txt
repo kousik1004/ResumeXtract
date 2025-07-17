@@ -1,0 +1,277 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DINESH ARAVINDTH M   
+
++91-9489475728  
+
+mdinesharavindth@gmail.com  
+
+Career Objectives  
+
+•    To be an obsequious professional in the working environment.  
+
+Experience Summary  
+
+• Hands on experience on SQL, Oracle 11g, Big data Technologies and UNIX Shell scripting.  
+
+• Active engagement in projects using Hadoop ecosystem (MR, HDFS, Hive, Sqoop, Oozie, HBase, Flume, 
+
+Zookeeper and Core Java).  
+
+• Experience in SQL query tuning.  
+
+• Knowledge on programming techniques and industry standard software documentation techniques.  
+
+• Good knowledge of software change management processes and best practices.  
+
+• Having exposure to Report generation.  
+
+Technical Skills  
+
+• Operating Systems: Windows and Linux & UNIX.  
+
+• Programming Languages: Core Java, Shell Scripting, SCALA.  
+
+• Databases Environments:  Oracle 11g, MySQL.  
+
+• Hadoop Distributions - Apache, CDH      
+
+• Big Data Technology: Apache - Hadoop, HDFS, MapReduce, Hive, Sqoop, Oozie, SQL, Spark, Hbase, Flume.  
+
+• Ticketing Tool: Service-Now.  
+
+Work Experience  
+
+ Project#1  
+
+Project Title             :  EPS                                                 
+
+Client               : Citi Bank.  
+
+Duration                                 : September 2015 – September 2016.  
+
+Environment                         : Oracle 11g, Hive, MR, HDFS  
+
+ROLE                                       : DBA Administrator.  
+
+Team Size                   : 30  
+
+ 
+
+ 
+
+
+
+ 
+
+Description:  
+
+EPS is an Enterprise Platform Service maintained by Citi. EPS involve mainly four technologies like Oracle, 
+
+Webspere, Abinitio, Big Data and BPM. The Applications under EPS will involves any of the four technologies 
+
+combined. In EPS we have Sys access to all databases which falls under lower environment like (DEV and SIT).  
+
+Responsibilities:  
+
+• Database Creation: Before creating any database, I need to setup a call with the application team to 
+
+gather requirements to create a DB in Oracle 11g. After the DB creation and levels of testing, will bring the DB 
+
+to live.  
+
+• DBA Activities: I have worked in various DBA activities like creating tablespace, creating users, managing 
+
+temp tablespace, Database migration, performance tuning, import & export.  
+
+• Database Patching: I have done Database patching by coordinating with the concerned teams which 
+
+are involved to the Database.  
+
+• Scripting: I have automated the manual deployment using scripting that needs to be done daily. This 
+
+manual deployment involves loading old month’s data to netezza database.  
+
+ 
+
+Project #2 
+
+Project Title                      :  Analytics one(POC)                                       
+
+Client                               :  Idea Cellular Networks. 
+
+Duration                          :  September 2016 – January 2017.  
+
+Environment                   : Hive, MR, HDFS.  
+
+Role                                  : Systems Engineer – Hadoop Developer   
+
+Team Size            : 10  
+
+ 
+
+Description:  
+
+Data from RDBMS is provided and is loaded into hdfs using sqoop. Then data is analysed and filtered using Map 
+
+Reduce. Once the required business logics are applied and the required data is obtained, the output is loaded 
+
+into Hive using Hive Connectors. Which is connected to a reporting tool called Pentaho and detailed graphs are 
+
+obtained based on the requirement.   
+
+ 
+
+Responsibilities:  
+
+Wrote sqoop scripts to load data to hdfs and extracted useful information from the data , was involved in writing 
+
+MapReduce tasks to filter data based on business requirement and also had a chance to write Map Reduce UDF 
+
+and created HiveQL external tables and store the obtained in Hive. 
+
+
+
+Project#3 
+
+Project Title                 :  EDM                                              
+
+Client         : Citi Bank.  
+
+Duration              : January 2017 – Till date.  
+
+Environment                   : Hive, MR, HDFS.  
+
+Role                                   : Systems Engineer – Hadoop Developer   
+
+Team Size            : 10  
+
+Description:  
+
+Data from various sources and provided in different formats. The data is cleansed and extracted using 
+
+HQL and MapReduce and provided to the digital campaign team. The user data is used to send 
+
+targeted ads on the promotional items of the Bank.  
+
+Responsibilities:  
+
+Used Sqoop for loading data into HDFS from RDBMS. Handled and cleaned data from various sources like 
+
+RDBMS, user log files using MapReduce and HiveQL. Created partitioned table for querying the data efficiently 
+
+and quickly. Hive Optimization using partition, handing highly skewed data. Used Hive to analyze the 
+
+partitioned/Bucketed data and compute various metrics for reporting the statistics to the business. Scheduled 
+
+the jobs / Sqoop jobs using crontab, and Oozie. Responsible for the dealing with the problems, bug fixing and 
+
+troubleshooting.  
+
+ 
+
+Hobbies  
+
+•  RUBIC Cube, Playing Guitar, Photography.   
+
+Educational Qualifications  
+
+2015  Bachelor Degree in Computer Science and Engineering (B.Tech [CSE]) from 15 Pondicherry  
+
+University with 8.04 CGPA.  
+
+2011       Higher Secondary (10 + 2) from Tamil Nadu Higher Secondary Board, Tamil Nadu with 85.26 percentage.  
+
+2009      Secondary School Leaving Certificate (SSLC) from Tamil Nadu State Board with 86.8 percentage.  
+
+ 
+
+Area of Interest  
+
+• Big Data Concepts.  
+
+• Relational Database Management Systems.   
+
+• Object Oriented Concepts. 
+
+
+
+ 
+
+ 
+
+Personal Details 
+
+ 
+
+Name                 :    Dinesh Aravindth  
+
+Father’s Name                :    Manoharan R 
+
+Date of Birth                :    14/03/1994 
+
+Gender                 :    Male 
+
+Languages Known               :    English, Tamil. 
+
+Marital Status                :    Single 
+
+Address                                                :    101, 6th Main Road, Mahaveer Nagar, Lawspet, Puducherry-08. 
+
+ 
+
+ 
+
+ 
+
+Place: Bangalore  
+
+Date:  DINESH ARAVINDTH M  
+
+

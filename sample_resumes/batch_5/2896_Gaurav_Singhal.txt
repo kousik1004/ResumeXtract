@@ -1,0 +1,278 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gaurav Singhal
+Contact: +91-8285713813
+
+E-Mail: er.gauravsinghal08@gmail.com
+
+Middle Level Assignments
+A versatile, high-energy mobile application developer with the distinction of executing prestigious projects of large magnitude within strict time schedule
+
+PROFILE SUMMARY
+
+· A Mobile Application Developer with 4+ years of experience Software Development, Application Maintenance & Support and Project Execution
+
+· Adept in analyzing information system needs, evaluating end-user requirements, custom designing solutions, troubleshooting for complex information systems management
+
+· Well versed with Android Application Development.
+· Experienced in working with clients, business managers and technical teams for executing concurrent projects
+
+· Proficiency in technical documentation, design, development and troubleshooting for Mobile Application Development (using via, Java, Android Applications, etc.)
+
+ORGANISATIONAL EXPERIENCE
+			
+
+Nov’16 to Present with IBM india pvt. Ltd. Gurugram, Haryana as Senior System Engineer
+Sept’15  to  Oct’16  with Techugo pvt. Ltd. Noida UP  as Sr. Software Engineer
+March’13-Sept’15 with Inficare software technologies  pvt. Ltd., Noida  UP as Software Engineer
+
+· Handling various technical aspects like coding of modules using the given design specifications, debugging and fixing the defects as well as analyzing its root cause
+
+· Ensuring that business requirements and functional specifications for the module coded by me are tested and fulfilled before the code is delivered for integration
+
+· Coordinating with team members for system design, integration, application maintenance, etc.
+
+· Cooperating with other teams across the organization for efficient work progress
+
+· Following the best practices for project support and documentation as set by the peers;
+
+· Understanding & mapping client’s requirements / enhancements to the product, implementing solutions that effectively resolve problems or provide improvement
+
+	
+	
+
+	
+	IT SKILLS
+
+	Domain (Mobile Application):
+	                    Android Application Development 
+
+	Programming Languages:
+	                    Core Java, C
+
+	Automation tools
+	                    Appium automation tool for testing
+
+	 Operating Systems:
+	                    Working with Linux, Windows 7, Windows XP
+
+	Development Environments:
+	                    Android Studio, Eclipse IDE,  NetBeans
+
+	Tools:
+	                     Android SDK Platform Tools, DexToJar, Jira, Bit bucket, Confluence, Source Tree (GIT)
+
+	Others:
+	                    Rob electric Unit test case, JSON, XML, SOAP, ReST, etc.
+
+	
+	
+
+	
+	EDUCATION
+
+
+
+· B.Tech. (CSE) Rajasthan Technical University, Jaipur, Maharishi Arvind Inst. in 2012 with 72.07%
+· Senior Secondary Education  from Rajasthan Board in 2008 with 63.23%
+· Secondary Education from Rajasthan Board in 2006 with 72.33%
+
+
+PROJECTS  UNDERTAKEN
+
+Project #1 
+
+Title-Tom Thumb
+Client- Albertsons
+Company- IBM India Pvt Ltd.      		Duration-Sept 2017 to Present
+Role-Design and Development
+Team Size- 6
+Front End- Java                  		BackEnd- Sqlite, Web Services(JSON), FCM
+
+Projects Continued…
+
+Description-Tom Thumb is an US based ecommerce application used to deliver the product to user  either drive up and go or home delivery. Like other e-commerce app user can add items in cart and proceed to checkout.
+
+Project #2
+
+Title-Card+
+Client- DBS bank
+Company- IBM India Pvt Ltd.      		Duration-Feb 2017 to Sept 2017
+Role-Design and Development
+Team Size- 15
+Front End- Java                  		BackEnd- FCM, Google MapV2, Rest Services(JSON),SSO
+
+Description-Card+ is a utility app for DBS bank account holders where user can check his cards details and Points earned regarding card, Offers, Redeem points, Manage accounts for overseas use, Activate magnetic strip. 
+
+Project #3
+
+Title-NewRedTrack
+Client- DBS Bank
+Company- IBM india Pvt. Ltd.      		Duration-June 2017 to August 2017 (2 Months)
+Role-Design and Development
+Team Size- 2
+Front End- Java                  		BackEnd- FireBase, Rest Service(JSON)
+Description-NewRedTrack application is used for track the status of backend service. User can log incidents for specific country for specific project if something is wrong with the particular project backend. User can get notify via Push Notification by the admin or backend support to resolve the particular issue.
+
+Project #4 
+
+Title- Brew Exchange
+Company- Techugo Pvt Ltd.      		Duration-March 2016 to Present (2 Months)
+Role-Design and Development
+Team Size- 1
+Front End- Java                  		BackEnd- FireBase, GCM, Google MapV2
+Description-BrewExchange App is application for Bars. Here prices of Products increase decrease  like Stock Exchange. For Realtime data change Firebase used. User can Bid on Products inside the bar. Bars are allocated based on Map.
+
+
+Project #5 
+
+Title- CarmaDate App
+Company- Techugo Pvt Ltd.      		Duration-October 2015 to March 2016 (5 Months)
+Role-Design and Development
+Team Size- 1
+Front End- Java                  		BackEnd- Json WebServices, GCM, Google MapV2
+
+Description- Carmadate application is Dating application like Tinder. In this app you can search people near by you. The app is named as carmadate because you can search people by their car number.You can send chat request and can chat using push notification. This app also contains real time tracking of the user.
+
+Project #6
+
+Title- Bizzgram App
+Company- Techugo Pvt Ltd.      		Duration-October 2015 to April 2016 (6 Months)
+Role-Design and Development
+Team Size- 1
+Front End- Java                  		BackEnd- Json WebServices, Paypal Payment Integration
+
+ Description- Bizzgram app is app that have UI same as instagram. This app is regarding adding your product and user can buy and sell       their product. User can share products and can chat to the seller and can chat with the seller.
+Project #7
+
+Title- Compliane IDS
+Company- Inficare Software Pvt Ltd.      		Duration-May 2015 to October 2016 (5 Months)
+Role-Design and Development
+Team Size- 1
+
+Projects Continued…
+
+Front End- Java                  			BackEnd- Json WebServices, Sqlite Database
+
+Description- Compliance IDS application is an inspection app for the inspectors want to inspect any building or floors. Application contains Drag and Drop feature on image on canvas with handing large images (Scaling of images). Application contains PDF and CSV file generation. Handling the data with database and Syncing on Cloud using JSON web services.
+
+Project #8
+
+Title- ICD-10 & ICD-9 Code Reference
+Company- Inficare Software Pvt Ltd.      		Duration-January 2014 to May 2015 (4 Months)
+Role-Design and Development
+Team Size- 2
+
+Front End- Java                  			BackEnd- Sqlite Database, InApp Purchase
+Link On Playstore- https://play.google.com/store/apps/details?id=com.appsdna.intr.icd.activity&hl=en 
+
+ Description- ICD application basically is for doctors to getting disease code. Application have ability to search via disease name and ability to add the ICD code into favorite. App contains In-App purchasing feature for removing Advertisement.
+
+Project #9
+
+Title- Expense Report
+Company- Inficare Software Pvt Ltd.      		Duration-July 2014 to January 2015 (6 Months)
+Role-Design and Development
+Team Size- 1
+Front End- Java                  			BackEnd- Sqlite Database, InApp Purchase,PDF generator Tool
+Link On Playstore- https://play.google.com/store/apps/details?id=com.appsdna.intr.expensereport&hl=en 
+
+ Description Expense Report application basically an application for a particular organization employees to manage the expenses and reimburse the amount later. In the application user can click the image for receipts and user can generate PDF for the report and E-Sign feature also implemented for signing purpose several animations also  make the application attractive. App contains In-App purchasing feature for removing Advertisement.
+
+
+Project #10
+Title- OK Dial
+Company- Inficare Software Pvt Ltd.      		Duration-March  2014 to July 2014 (4 Months)
+Role-Design and Development
+Team Size- 2
+Front End- Java                  			BackEnd- Json Web Services, GCM
+          Link On Playstore- https://play.google.com/store/apps/details?id=com.okdial.mobile&hl=en 
+
+ Description Know if the person you are calling is free or not. Basically this app use the telephony manager and the state of the phone. Application can be used on 2G/3G/4G /WIFI network. App refresh the contacts after 5 minutes. The application can see the user availibility on the other end who is using the same application as well.
+
+
+Project #11
+Title- Fitrax
+Company- Inficare Software Pvt Ltd.      		Duration-July  2013 to March 2015 (8 Months)
+Role-Design and Development
+Team Size- 1
+Front End- Java                  			BackEnd- Json Web Services, Cipher Sqlite
+         Link On Playstore- https://play.google.com/store/apps/details?id=com.fitrax.mobile
+
+ Description- Fitrax project was helth organization project contains data related to the user registered with the organization.data was downloaded in background in services and when data download completes screen shows data.we use many of animation on screen project was based on JSON web service data was fetched from service and stored in SqliteCipher database the application also had the Charts for showing data graphically.
+
+
+
+
+	
+	
+
+	
+	PERSONAL DETAILS
+
+	Date of Birth:
+	12th July 1991
+
+	Address:
+	#C-148 Sushant lok phase 1 Sector 43, Gurugram
+
+	Languages Known:
+	English, Hindi 
+
+	LinkedIn Profile:
+Location Preference:
+	       in.linkedin.com/in/gaurav-singhal-289b113b
+Gurgaon, Noida, Pune
+
+	
+	
+
+
+

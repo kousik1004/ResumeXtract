@@ -1,0 +1,256 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sample ITS profile
+
+      
+
+                                                                                                                                                                                
+Mohammed Ammar M
+ammar.mohammed9@gmail.com
++91-8148922293			                         
+CAREER OBJECTIVE:
+· To become a successful professional by working with dedication and commitment in an esteemed organization where I can put my knowledge and enthusiasm towards the growth of the organization and expand my potential to the maximum.
+PROFILE SUMMARY:
+· Having an around 2 years of experience in IT performing Analysis, Design, Development, Coding, Deployment and Implementation of web based applications using Java, Servlet, JSP, jQuery, Hibernate, Spring MVC,SOAP and Restful Web Services, Ajax, Oracle, Spring Boot, JPA, Micro services, Eureka, Hystrix,Cloud config.Swagger.
+· Good experience with the deployment and release of the application with the Maven, Gradle, and application logging using the Log4J. 
+· Extensive Experience in creating database tables, stored procedures, functions in Oracle.
+· Excellent skills for analyzing user’s requirements, imparting design and ensuring the functionality.
+· Expertise in developing multi-tier applications using strong object oriented programming skills as a full stack developer.
+· Good knowledge of developing applications with Agile Methodology( SDLC)
+· Good team player with reputation of integrity and an ability to work on multiple technologies and multiple languages to make use of the application globally.
+ACADEMIC QUALIFICATIONS:
+
+	Qualification
+	College/University
+	Year
+	percentage
+
+	B.E (Mechanical)
+	B.S Abdur Rahman University
+	2015
+	87.3 %
+
+	HSLC (Computer Science)
+	Islamiah Boys Hr.Sec School,
+Tamilnadu
+	2011
+	89.2 %
+
+	SSLC
+	St Francis Desales Matriculation School, Tamilnadu
+	2009
+	80.6 %
+
+
+ACHIEVEMENTS:
+· Received award for clearing as Second topper of the JAVA/J2EE training batch in Wipro Technologies, Bangalore.
+· Received appreciation from customer on multiple occasions for delivering on time with quality. 
+PROFESSIONAL EXPERIENCE:
+· Working with Wipro Technologies, Bangalore as Project Engineer from 26th October 2015 to till date. 
+Technical Skills:
+ 
+	Languages
+	JAVA
+
+	Operating System
+	UNIX , WINDOWS 7, 8, 10
+
+	Web services
+	SOAP, RESTFULL
+
+	JEE Technologies    
+	Servlets,JSP,EJb,JMS
+
+	Frameworks     
+	Spring MVC, Hibernate, Spring Boot
+
+	Version Control            
+	GIT,SVN
+
+	Web/Application Server
+	Weblogic , Glassfish ,Tomcat
+
+	Development IDE'S                 
+	Eclipse,Netbeans
+
+	Configuration Tools
+	Log4J,JUnit,Maven,Gradle
+
+	Build Tools
+	Jenkins
+
+	Scripting 
+	Shell Scripting Basic
+
+	Big data
+	Hadoop basic
+
+	Cloud
+	AWS,IBM buemix
+
+	Micro services
+	Eureka, Zuul, Security, Load Balancing
+
+
+
+PROJECT DETAILS:
+
+#1 GAS-SOUTH								Role: Application Developer
+TITLE 		: Payment Gateway
+Technology Used	: Maven, Java 8.0, Restful Web Services, Eureka, Zuul, Security and load balancing 
+Frameworks		: Spring Boot
+Database	   :  Oracle 11g
+Client		   :  Gas south
+IDE		   :  Eclipse Neon
+Tools	   :  SVN
+Team Size	   :  4
+
+
+Description: 
+                                
+GASSOUTH is a vendor for distributing the gas to the customer .Online Payment portal is created for the customer to make their payment via Online, for this the new services to the customer web application which provides integrated e-Services with the different payment vendor. Different payment vendor is integrated in our system; User can select the payment with the respective vendor for making payment and this process is real-time. Users can register their themselves and they can access a payment portal and make their transaction. Different Remote systems can communicate through Restful Web Service messages. More than 10 modules are being developed under this project. 
+Currently I’m working in the following modules,
+· Vendor Registration module
+· User Registration module 
+· Separate Payment module for different vendor
+ 
+    Roles & Responsibilities
+
+· Full Stack developer
+· Analyzing application requirement, Design and Implementation of Java classes 
+· Database design.
+· Java Entity creation with mappings.
+
+
+
+
+#2 Gassouth								Role: Application Developer
+TITLE		:  Address Verification 
+
+Technology Used	:  Restful Web Services
+Frameworks		:  Spring MVC, Spring Boot, Hibernate
+Database	   :  Oracle 11g
+Client		   :  Gassouth
+IDE		   :  Eclipse Neon
+Server		:  Tomcat 8.0 
+Tools	   : Putty, Beyond compare, WinSCP, Tortoise SVN
+Team Size	   :  1
+
+Description: 
+GASSOUTH is the vendor for distributer of gas to the customer, User can enroll for the new gas service with the Gas-south, and this can be happen via online. While enrolling user are requested their details along with the home address, Usually the address provided by the customer is not valid, so it is waste of time for the Gassouth to go the premise and install the meter for the gas if the address is invalid.
+        Address Verification module has been developed in order to avoid the invalid address and reduce time, so our system is integrated with third party USPS (United States Postal service) to the validate the address, when the user enter the address details , at the same time request is build and send it to USPS and they will validate the address , if invalid appropriate error message will be displayed.
+Worked in modules such as,
+· Address  verification module 
+· Routing module 
+  
+  Roles & Responsibilities
+
+· Full Stack developer
+· Analyzing application requirement, Design and Implementation of Java classes 
+· Java Entity creation with mappings.
+· Deployed complete WAR files for J2EE applications in different environments.
+· Involved in issue fixing and supporting change requests.
+
+
+
+
+
+
+
+
+
+
+
+
+
+#2 Gassouth								Role: Application Developer
+TITLE		: Budget Billing
+
+Technology Used	:  Google Chart, Java, Restful Web Services
+Frameworks		:  Spring MVC, Hibernate
+Database	   :  Oracle 11g
+Client		   :  Gassouth
+IDE		   :  Eclipse Neon
+Server		:  Web logic
+Tools	   : Putty, Beyond compare, WinSCP, Tortoise SVN
+Team Size	   :  2
+
+Description: 
+GASSOUTH is the vendor for distributer of gas to the customer, customer who is with the gas south for more than one year, they have the option to pay the gas bill with the budget amount (Fixed amount) for the whole year the same amount will be billed irrespective of the usage. Customer has the option to view the recommended budget amount if they are satisfied, then they can subscribe with budget billing option.
+Worked in modules such as,
+· Budget Calculator service module 
+· Budget Analysis service module
+
+  
+  Roles & Responsibilities
+
+· Full Stack developer
+· Analyzing application requirement, Design and Implementation of Java classes 
+· Java Entity creation with mappings.
+· Deployed complete WAR files for J2EE applications in different environments.
+· Involved in issue fixing and supporting change requests.
+
+STRENGTHS:
+
+· Self-motivated and Confident
+· Quick learner.
+· Taking ownership of the modules.
+
+
+
+
+                                   		
+
+
+ (Mohammed Ammar M)
+	Page 1 of 4

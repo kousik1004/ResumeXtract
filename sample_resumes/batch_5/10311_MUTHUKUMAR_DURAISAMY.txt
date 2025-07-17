@@ -1,0 +1,430 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MUTHUKUMAR DURAISAMY
+E-Mail :muthu.kd55@gmail.com
+
+Professional Summary
+
+Have 5 years of experience in IT IMS Administration  ,Automation and Automation solution  . Competent at managing responsibilities in a high-volume and high pressure atmosphere. Have  good experience on various automation platforms which is the key component of automation. Have good knowledge on orchestrators, scripting and automating complicated IT processes.
+
+· Consultant for creating a orchestrator / automation platform
+
+· Working on micro services where I have created solution for intercommunication of different orchestrators and tools.
+
+· Created a solution for communication between in-house platform and  other tools & orchestrators .
+· Automated  complex  process for CISCO using their own  Automation orchestrator , Bash & Perl
+
+· Automated Azure VM provisioning & Application installation using Service Now & Powershell for Evault
+
+· Automated Windows processes for Microsoft using System Center Orchestrator & Powershell
+
+· Automated oracle DB processes using Epsilon & Bash scripting
+
+· Automated various processes in Windows,Linux,DB using HPOO
+· Working and Trained the IMS professionals  on various Automation orchestrators like  HPOO,CPO, CPSC, Service Now, BMC, Epsilon, System Center, OpsOne and ITSM tools  
+
+· Tech Mahindra certified IMS Automation Analyst.
+Achievements
+· Got appreciation for Creating proactive problem management system for Capgemini.
+
+· Got appreciation for creating Micro Services solutions .
+
+· Got Bravo award for winning Cisco deal and automating DB process using Cisco Process Orchestrator & Epsilon
+
+· Got Associate Consistency Excellence award for getting “S” rating for continuous  years.
+· Got Appreciation from Microsoft customers for completing VM rename process in short period using System Center Orchestrator
+
+· Got appreciation from leads for working on various Service automation platforms and training the professionals on orchestrators and scripting.
+Employment Summary
+	Organization
+	Capgemini 
+
+	Band-Sub band/ Designation 
+	Consultant
+
+	Duration 
+	2 Years ( August 2015 – Augus t2017 )
+
+
+	Organization
+	Tech Mahindra 
+
+	Band-Sub band/ Designation 
+	Jr. Software Engineer
+
+	Duration 
+	3 Years ( August 2012 – August 2015 )
+
+
+Skills
+
+	Source
+	Skills
+
+	Primary Skill
+	 IMS – Automation, Service Automation Platforms
+
+Service Automation Platforms
+
+· Cisco Process Orchestrator
+
+· Cisco Prime Service Catalog
+
+· System Center Orchestrator
+
+· HPOO
+
+· Service Now
+
+· Epsilon
+
+· BMC
+
+· OpsOne
+
+· Linux & Windows Administration
+
+· Micro Services
+
+Scripting
+
+· PowerShell
+
+· Perl
+
+· Bash
+
+	Secondary Skill
+	Domains
+
+· Database 
+· Storage 
+
+· Network
+
+· Cloud & Virtualization
+
+Monitoring & Ticketing tool
+
+· Nagios
+
+· OTRS & BMC Remedy
+
+	  Trained Skills
+	OS
+
+· Windows & Linux
+Other Domains
+
+· Database
+
+· Cloud
+
+· Networking
+
+· Storage
+
+Monitoring & Ticketing tool
+
+· Nagios
+
+· OTRS
+
+Scripting
+
+· PowerShell
+
+· Perl
+
+· Bash
+
+· VB Script
+
+
+
+
+Project Details
+	Client 
+	Internal
+
+	Role
+	Micro Services Solution Architect / Automation Consultant
+
+	Organization
+	Capgemini
+
+	Location
+	Bangalore
+
+	Duration
+	August 2015 – Present 
+
+	Functional Skills
+	Designing of  various IT process in different orchestrators like HPOO, System Center – Designing & implemention of Micro Services solution for different tools to communicate with Platform developed by capgemini. Training professionals on automation orchestrators like HPOO and scripting languages.
+
+
+a) Project Description
+
+To develop a platform which can do end to end automation – analytics .
+
+b) Contribution
+
+· Implemented Proactive Problem Management in Capgemini
+
+· Created Micro Services solution for the platform to communicate with other tools like HPOO,BMC remedy
+
+· Implemented HPOO and designed processes for Capgemini.
+
+· Automated process for creating, updating BMC incident ,problem 
+
+and change tickets using HPOO.
+
+· Trained professionals on HPOO , scripting languages like Powershell and Bash
+
+· Integration of various tools with Capgemini platform
+
+· Team member which develops the Capgemini platform
+
+	Project Domain
+	IT
+
+	Project Name:
+	IMS Automation Factory
+
+	Client 
+	-
+
+	Role
+	R&D Team Member 
+
+	Organization
+	Tech Mahindra
+
+	Location
+	Bangalore
+
+	Duration
+	 April 2013 ---- August 2015
+
+	Functional Skills
+	Administration of Linux & Windows Environment. Evaluation of orchestrators and new technologies available in market. And support multiple projects.
+
+
+a) Project Description
+
+Did research & development in service automation platforms and have to suggest suitable platforms to the customers and IMS professionals. And support multiple projects. administration of Windows & Linux environment .
+a) Contribution
+
+· Implemented & Worked all major tools and orchestrators and automated processes in various domains like windows , Linux, database ..etc. 
+
+· Implemented internal Data center environment with AD, Exchange ,Linux and client computers.
+
+· Worked for AMAT for automating process using Bomgar.
+
+· Worked for MicroSoft for automating process using System Center.
+
+· Worked for Evault for automating Azure cloud provisioning and automatic application installation using PowerShell and ServiceNow.
+· Trained people on various orchestrators and technologies
+
+· Helped different project associates in creating process using various orchestrators.
+
+· Played consultant role in System Center Orchestrator for Microsoft project  .
+
+· Gave training on Cisco Process Orchestrator to IMS professionals.
+
+· Evaluated new technologies in domains like windows, Linux and database.
+
+	Project Domain
+	IT
+
+	Project Name:
+	Cisco_ATS Database Administration
+
+	Client 
+	CISCO Systems Inc.
+
+	Role
+	Cisco Process Orchestrator Team Member
+
+	Organization
+	Tech Mahindra
+
+	Location
+	Bangalore
+
+	Duration
+	February 2014 – August 2014
+
+	Functional Skills
+	Cisco Process Orchestrator Evaluator & Designer
+
+
+a) Project Description
+Cisco DSIP team maintains very huge database .We need to do automation for Cisco DSIP team in database technologies using Cisco Process Orchestrator.
+
+b) Contribution
+
+· Evaluated and worked on Cisco Process Orchestrator
+
+· Gave reports on Pros and Cons in Cisco Process Orchestrator
+· Worked in Cisco Prime Service Catalog
+
+· Created many processes in Cisco Process Orchestrator
+
+· Created POC for automating database up gradation from 10G to 11G using Cisco Process Orchestrator and Epsilon
+
+· Played important role in designing process in Cisco Process Orchestrator for DB automation
+
+· Supported team members in writing scripts according to CPO nature
+
+	Project Domain
+	IT
+
+	Project Name:
+	IMS Academy
+
+	Client 
+	-
+
+	Role
+	Trainer
+
+	Organization
+	Tech Mahindra
+
+	Location
+	Hyderabad
+
+	Duration
+	2 months
+
+	Functional Skills
+	Training freshers on technologies
+
+
+a) Project Description
+IMS Academy is the place where fresher are trained by experts and deployed in various projects.
+
+b) Contribution
+
+· Trained a batch in System Center Orchestrator ,HPOO and Service Manager 
+
+· Trained a batch in Linux ,Cloud & Virtualization , Windows
+
+· Played mentorship role for a batch in various technologies like windows, Linux, database and Networking
+
+Education
+
+	Degree
+	Specialization
+	University
+	Year of passing
+
+	DIPLOMA
+	Computer Science
+	Director of Technical Education (DOTE)
+
+	18-APR-12
+
+
+Personal Details
+
+	Name
+	MUTHUKUMAR DURAISAMY
+
+	Languages Known
+	Tamil (Mother Tongue) , English
+
+	Home Address
+	 6/328,4TH STREET,
+
+ SIDDHARTHA NAGAR,
+
+ NANMANGALAM,
+
+ KOVILAMBAKKAM,
+
+CHENNAI-600117.
+
+PH : 09538644954
+
+ EMAIL : muthu.kd55@gmail.com
+
+	Passport No
+	K2238388 ( Valid Up TO  17-APR-2022)
+
+	Mobile
+	+91-9538644954
+
+
+	Current Location
+	Bangalore , India
+
+
+DECLARATION :
+
+ I HEREBY ASSURE YOU THAT THE ABOVE INFORMATIONS GIVEN BY ME IS TRUE.
+
+PLACE :Bangalore
+
+
+
+
+
+
+YOURS SINCERELY
+
+DATE :
+
+
+
+
+
+
+
+MUTHU KUMAR.D
+
+
+	Page 1
+	
+	
+
+
+

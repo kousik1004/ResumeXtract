@@ -1,0 +1,352 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+RESUME
+
+IBM Certified Lotus Notes / Domino 8.5 with 4.0 of Year Experience.
+
+· Personnel Information:
+
+	      NAME:
+	Hari Ashok Patil.
+
+
+
+	     TELPHONE:
+	+91-9967631135 
+
+
+
+	     EMAIL ADDRESS:
+	hari.patil31@gmail.com
+
+
+
+	     PERMANENT ADDRESS:
+	C/O – A.V. Sebastian, 51/1, Gharkul Housing Society,
+
+Near Ganpati Temple, Wadegaon Sheri, Pune-411014.
+
+
+
+	     DOB:
+	 6th July 1985
+
+
+
+
+·  International Certifications:   
+  
+	Certification
+	Exam
+	Remark
+
+	IBM Lotus Notes Domino 8.5 Developing Web Applications
+	             954
+	                Pass
+
+	IBM Lotus Notes Domino 8 Application Development Foundation Skills
+
+	             834
+	                Pass
+
+	IBM Certified Associate Developer - Lotus Notes and 
+Domino 7.0 
+	             710
+
+	                Pass
+
+
+· Education Background:
+· Completed Bachelor of Science (BSc.) in April 2006 with 60.61 (First Class) from Shivaji University, Kolhapur
+
+· Major Roles and Responsibilities:
+
+	Job Profile: Managing the project with following responsibilities:
+
+	· Lotus Notes/Domino Development, Troubleshooting & Support
+
+· Prior experience in supporting Lotus Notes R6,7 Projects
+
+· Requirement Analysis, Estimation, Project Plan, Milestone Plan.
+
+· Technical Design Documentation
+
+· Coding
+
+· Testing
+
+· Rollout documentation, end user documentation
+
+· Pre-Production Support, UAT
+
+· Post Production Support 
+
+· Conducting meetings.
+
+· Remedy Support and TSRM Support.
+
+· Completed trainings in ATLAS, SIX SIGMA, PHEONIX, and SCM etc.
+
+· Supporting clients in their time zones in different shifts based on project requirements
+
+· Open for travel or relocation based on project requirements
+
+
+
+· Skill Sets:
+
+	Groupware:
+	Lotus Notes 6.x, 7.x, 8.x, XPages
+
+	Operating Systems:
+	Windows 9X/2000/XP, Windows Vista
+
+	Languages:
+	Lotus Notes, Lotus Formula Language, Lotus Script For 
+Lotus Notes, HTML, CSS.
+
+	Scripting Language:
+	Java Script For Lotus Notes
+
+	Web Server:
+	IBM Lotus Domino Server.
+
+	Reporting Tools:
+	MS Excel Reporting.
+
+
+· Work Experience:
+
+	From Date
+	To Date
+	Company Name
+	Designation
+
+	2006
+	September 2009
+	      CBT-i 
+	Software Engineer
+
+	2009
+	September 2010
+	      Syntel Ltd.  
+	Analyst Programmer
+
+
+
+	2010
+
+
+	Till Present
+	IBM India PVT Ltd.
+	System Engineer
+
+
+· Work Experience (Project Description):   
+
+	Web Solution Enabler (WSE) :
+
+
+
+	Technology    Used:
+	· Front-end: Formula Language, Lotus Script, JavaScript, HTML and CSS.
+
+· Back-end : Lotus Notes
+
+· Operating System: Windows XP
+
+
+
+	Synopsis:
+	Project Description: Web Solutions Enabler (WSE) is a technical 
+Platform providing the way for implementing Web Applications with a productive, engineered and cost effective approach. The Web Solutions Enabler technology has been implemented in the ibm.com Global Technical Sales Support team as an answer to the increasing demand for customized IBM Web solutions for improving sales, enhancing customer satisfaction and reducing operational costs.
+Contribution: Working on the application as Global technical support as WSE domino support and application maintenance.  
+
+	Role & Responsibilities:
+	· Application maintenance and support   
+
+· Involved in client interaction to gather the requirements.
+· Participated in developing the technical design document.
+
+· Involved in preparation of Test case. 
+
+
+
+
+	Online Maintenance Management (OMM) :
+
+
+
+	Technology    Used:
+	· Front-end: Formula Language, Lotus Script, JavaScript, HTML and CSS.
+
+· Back-end : Lotus Notes
+
+· Operating System: Windows XP
+
+
+
+	Synopsis:
+	Project Description: Manage IBM proposals for support coverage, and address exposures in your current coverage. IBM has posted proposals for technical support coverage below. You are able to review and agree to these proposals online. In addition, IBM has listed equipment that is not on a support agreement. You may click on the links in the left-side navigation bar to view proposals and manage equipment support coverage, Manage Inventory, documents and reports.
+
+
+
+	Role & Responsibilities:
+	· Application maintenance and support   
+
+· Involved in client interaction to gather the requirements.
+· Participated in developing the technical design document.
+
+· Involved in preparation of Test case. 
+
+
+
+
+	MoodysNet  (Web Based Application):
+
+
+
+	Technology    Used:
+	· Front-end: Web Lotus Notes Formula Language, JavaScript 
+
+                     Lotus Script, HTML, CSS.
+
+· Back-end : Lotus Notes
+
+· Operating System: Windows 9x, 2000, Windows XP/ Windows Vista.
+
+	Synopsis:
+	Project Description: This site is used as the homepage for MoodysNet.  It contains a lot of the forms, views and background scripts that pull together the relevant data that forms the intranet homepage.
+
+Access to the database is open to all users for reading and searching.
+
+Administrators can add documents by choosing one of the New options from the menu and completing all the fields, especially the document title field.  Selecting New Homepage will generate a new MoodysNet lead story and will move the existing story into the archives.  A New Menu Item will add a new element to the menu in hte left navigator bar. System documents and Attachments can be added using the relevant links in the Admin Section menu.  All fields are mandatory!
+
+
+
+	Role & Responsibilities:
+	· Software Developer
+
+· Participated in developing the technical design document
+
+· Involved in preparation of Test cases. 
+
+· Involved in Client Interaction to gather the requirements.
+
+
+
+	CRF  :
+
+
+
+	Technology    Used:
+	· Front-end: Formula Language, Lotus Script
+
+· Back-end : Lotus Notes
+
+· Operating System: Windows XP
+
+
+
+	Synopsis:
+	Project Description: Change request form (CRF) is client based workflow application. This database is used to facilitate the creation, approval and tracking of all documents relating to change request form.
+
+In this application we have used serial workflows which have different stages. Initiator raise a CRF the flow goes to Initiator -> Supervisor -> Application Head -> Application Supervisor. Any one of these can 
+approve or reject the request. We have maintained status for each level which sends an email to next level. We have created different 
+
+Section and user data fetched for other application.  
+
+    
+
+	Role & Responsibilities:
+	· Application maintenance and support   
+
+· Involved in client interaction to gather the requirements.
+· Involved in preparation of Test case. 
+
+
+
+
+	Purchase Committee Approval Memorandum :
+
+	Technology Used:
+	· Front-end: Lotus Notes Formula Language, Lotus Script
+· Back-end : Lotus Notes
+
+Operating System: Windows 9x, 2000, Windows XP.
+
+	Synopsis:
+	Project Description: Purchase Committee Approval Memorandum is client based workflow application. In this application PCAM details fetched from different database. This database is used to facilitate the creation, approval and tracking of all documents relating to PCAM
+
+
+	Role & Responsibilities:
+	· Application maintenance and support   
+
+· Software developer
+
+· Involved in preparation of unit test cases. 
+
+                                                         
+
+
+I here by declare that the above information is true to the best of my knowledge and belief.
+
+Date:
+
+
+
+
+Place : Pune                                                                          Sign : Hari Patil
+Resume of Hari Patil
+- 4 -
+email:  hari.patil31@gmail.com
+
+

@@ -1,0 +1,321 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oracle 11i Technical Consultant having 4
+
+
+
+CURRICULUM VITAE
+Name : Shilpa Kacham
+Mobile: +91 7386864020 / +91 9701244493
+Email: shilpakacham68@gmail.com 
+SUMMARY OF WORK EXPERIENCE 
+· 4+ Years of experience as support specialist in various domains.
+· ITIL V3 foundation certified.
+· Having experience in Application support related to Infrastructure, production data and applications.
+· Having experience in preparing demo links based on core facilities like Genomics, Flow cytometry etc for application products.
+· Have sound experience in fixing bugs and also been part of various enhancement projects.
+· Involved in managing various critical Applications and services running on Linux.
+· Have experience with basic commands of Linux and Putty.
+· Experience of working in UAT and production environments. Excellent experience on EOD and BOD tasks. 
+· Co-ordinating and liaison with Middle Office, Front office, database and development groups in support of projects for business continuity, service enhancements and resolving respective issues.
+· Articulate communicator who can fluently speak the languages of both people and technology, blending technical expertise with exceptional interpersonal skills while interacting effectively with required teams.
+· Experience of working in JIRA/Zendesk by raising, assigning, cloning and closing the issues successfully as per the requirement.
+· Experience in working with tools like Autosys (Job scheduling tool) and ETL tool.
+· Experience in giving training sessions for new joiners.
+· ITIL concepts like Incident Management and Problem Management.
+· Proactively supported the Idea Elan product line via phone and email ensuring problem resolution, system access, and optimal system performance.
+· Coordinate closely with Engineering, QA and Product Management on all product issues.
+· Assist in the translation, maintenance, and updating of technical documentation associated with the product line.
+· Experience in Software testing: Regression, Ad-hoc, System testing and many more.
+SKILL SET
+
+· Operating Systems
+:     Red hat Linux, Windows.
+· Databases
+
+:     SQL. 
+· Software Testing
+:     Manual and Automation (QTP, QC, LoadRunner), UAT testing
+· Tools
+
+:     Autosys, JIRA, ETL, Bug tracking tool (HP Quality Center), Zendesk.
+· Utilities and Text Editors
+:     MS Word, Excel, Power point, Visio and putty. HTML and Edit plus.CAD software
+· Languages
+
+           :     Basics of Core Java and Shell Scripting.
+Professional Experience
+
+ADP
+
+
+
+
+
+
+
+
+Company                       :  Momentum Resources, NJ, USA
+Client
+
+
+:  ADP, CA, USA
+Title/Position held
+:   Support Analyst
+Team size
+
+:   12
+Description: Worked with Tax Processing Analyst team in generating the filing returns and checks for ADP clients to Various state and local Agencies. This will ensure that the filing returns and checks are properly attached and sent to Agencies on time to avoid any P&I to client/ADP. These tasks are carried out every quarter which is the due date for filing returns to Agencies on behalf of ADP clients.
+Idea Elan                                                                                                            May’13-June’16
+Company
+
+:  Tech Minfy
+Client
+
+
+:  IdeaElan
+Title/Position Held
+:  Product Support Specialist
+
+Team Size
+
+:  15
+
+Product Name
+
+:  IRIS – Core Facility Management
+
+Environment
+
+:  Microsoft visual dot net, 6.3 Sql Server 2008 R2, Biotechnology and Testing.
+Product Summary:
+
+The Core Management Suite/Integrated Resource Information System (CMS/IRIS) is a web-based software product that meets the needs of large Research Universities. This application is used by multiple academic core facilities and labs of different universities. IRIS consists of different modules inter-related and helps the clients in creating Instrument reservations, submitting sample submission forms and supplies for required cores.
+Roles & Responsibilities:
+· Preparing IRIS demonstration link for multiple cores in different universities/clients by including every module in the application.
+· Understand Global and Core facility specific requirements and working with team while configuring the test link of the product.
+· Testing and supporting the application product and noting down issues and sharing the same with onsite support team members, developers and project manager.
+· Providing application support for web product and preparing demo links for core facilities like flow cytometry, Genomics, Proteomics, microscopy and imaging.
+
+· Follow-up and verifying resolved bugs to ensure nothing slips into the production and closing the same bugs after completely resolved in the Live Environment.
+· Preparing Financial Integration and different types of Microsoft visios as per the requirement.
+· Preparing SRS documents and Visio’s for all the clients.
+· Generating the various reports, invoices as per the requirement.
+· Attending the knowledge transfer sessions to learn and share the application knowledge.
+· Understanding and analyzing the client requirement in terms of Business, Functional, Technical and User Interface and work with application product accordingly.
+· Preparing User friendly documents for the new wards joining the team.
+· Understanding and solving the user issues and closing the tickets using Zendesk.
+· Provide UAT support and responsible for transition activities to the new joiners.
+J.P. Morgan Company and Chase                                                                             May’11-March’13 
+Company Name
+:      JPMorgan Company and Chase.
+
+Line of Business
+:      Chief Investment Office, Corporate Sector.
+Title/Position Held
+:      Application Support Analyst (L1 and L2 support)
+
+Team Size
+
+:      15 
+Project 1: Treasury Funding Analytics  
+Environment: Red hat Linux 6.3, Sql Server 2008 R2, Autosys, putty, AS400, JIRA, UAT, Testing  
+
+Description: TFA is a central repository to hold all funding product activities, their P&L and Risk results.
+
+This application is used by the front office for booking various trades. The application describes the market position of each trade for the current Close Of Business date. Each trader has its book configured which contains the data of the various deals purchased on a particular business day. The application runs the batch that gets the market prices from external sources like Bloomberg and Reuters that is used by TFA application to state the current position of each trade.TFA generates different reports for different financial products for a particular portfolio trader. There is a separate business logic for each product that is used to generate graph on which the business rely to find out its position at a given future date.TFA is a consolidated global liquidity management and oversight tool for Treasury.
+
+ Roles & Responsibilities:
+·   Batch Support: Critical business milestones along with SLA are predefined and support is responsible 
+   for ensuring any milestone breaches are acted on. Responsible for coordinating with clients, various 
+   teams, both onsite and offshore team members to ensure the intended tasks are completed within the
+   specified SLA. Usage of Autosys tools for batch job monitoring and scheduling.
+·   User Support: Effectively monitor the queries raised by users during the business hours and non-
+    business hours and action them accordingly. Co-ordinating and liaison with upstream, downstream
+
+    database and development groups in support of projects for business continuity, service enhancements 
+
+    and resolving respective issues.
+
+·   System support: Effectively monitor alert consoles & mailbox and take necessary actions on those.
+    On-call responsibilities are also handled. Responsible for End of Day processing, monitoring, Application
+
+    Maintenance, Process maintenance.
+
+·   Weekend Maintenance: Responsible for the various release activities in Pre-Production and
+    production environments as part of Application Support Team. Involved in various security activities in
+    the project to safeguard the data servers and application machines.
+Project2: Trader Risk Profit and Loss(TRPL)      
+
+Environment: ETL Module, Redhat Linux 6.3, Autosys, putty, UAT, Testing.
+
+Description: TRPL is responsible for the consumption and processing of instrument, business hierarchy, position/trade, P&L, and risk data from various trading systems and making this data available for display to decision makers. A plugin module in TRPL(ETL), is responsible for the consumption and processing of the files. 
+Roles & Responsibilities:
+
+· Interaction with the clients for knowledge transfer sessions to understand the requirements and the business process. Preparing estimates for clients.
+
+· Handling the autosys TRPL jobs and informing the timely status to clients.
+
+· Performing market data, PNL & RISK reconciliations and retrieving results and report spread sheets and providing the same info to the users.
+
+· Responsible to perform Application start up checks, TRPL Client checks and price publisher checks.
+
+· Tracking issues and interacting with different workgroups like development and testing teams for issue resolution.
+· Day-to-day environment monitoring for overall server health check and application performance monitoring etc.
+· Coordinated with team members to resolve their design/develop issues.
+
+Project3: GFRS, PRIMUS, ETMS, AQUQ2, TARC
+Environment: Red hat Linux 6.3, Autosys, putty, Testing.
+
+Description: GFRS is a Java web-based application used by the clients to check their PnL status of the trades. This application in turn provides feeds to upstream TFA team. PRIMUS is a risk engine which reads all the portfolio, evaluate and report files. Treasury Analytics Risk Calculation which calculates the risk for each trade and email the details to TFA users.
+Roles & Responsibilities: 
+· Being a part of support team, was responsible to give the support and maintenance to the GFRS application by receiving the feeds from GFRS and APPIA feeds from the downstream.
+· Responsible to support the special GFRS autosys job that runs during weekend.
+· Bouncing the route in FCFM application to receive the feeds to GFRS.
+· Responsible to launch the market data publisher in remote machines and performing few checks, opening live sources and starting processes and exploring the complete new trade details to the clients.
+· Checking the differences for the adjustments for the cob and eod files.
+· Receiving the feeds to TFA by running the GFRS Scripts using autosys jobs.
+
+· Handling client portfolios by using autosys jobs and providing the PnL details to the clients by EOD.
+
+Other Support Activities: 
+
+· Writing Sql’s to generate various reports as per the requirement from the business.
+· Monitoring and fixing Regular failures in TFA application and Autosys.
+· Designing various Jobs and creating dependency tree between Jobs and releasing the jobs in production.
+
+· Have experience in fixing bugs and also been part of various enhancement projects.
+
+· Providing Support in Production environment and resolving production issues.
+
+· Making sure the batch completion time meets SLA and Reports are generated without any defects on day     
+
+             to day basis.
+
+· Receiving feeds from downstream, processing all feeds and completing the batches.
+· Performed the batch checks and fixing the issues daily for many locations.
+· Performed UAT testing whenever required.
+· Reported time to time status to the users and MO and helping them by solving their queries.   
+· Work is being audited on daily basis and I have been an active participant for the same.     
+· Analyzed the issues in the application and prod and raising JIRA as per the requirement.
+· Created and updated the confluence pages with required details for each and every application.
+Accomplishment
+
+· Provided effective and high quality support and played a key role within the team.
+
+· Analyzed the issues daily and reported to the required AD team and MO team.
+
+· Provided feedback to Clients and Project manager, noting down the problem areas from the users end and
+
+· Employees as well in an organization and forwarded to the concerned team.
+
+· Worked in partnership with other department as required ensuring correct exchange of knowledge and
+
+· Well supported in Successful transition of developments into production.
+
+· Worked with project teams to investigate with complex issues, identified and implemented solutions to
+
+· reoccurring problems.
+· Shared knowledge throughout the support team and relevant areas, from development through to support.
+Achievements
+· Received appreciations from the clients for completing batches and complex release before the committed timelines under production during weekends. (Achieved something which is one step further user requirement).
+· Received compliments from the AD team for providing timely info to the users.
+· Given technical and functional training sessions on Apps Support for the new team members.
+· Received compliments from the clients for demonstrating the release functionalities well in a short notice.
+Trainings and Certifications
+· Completed ITIL v3 Foundation certificate in IT service management.
+· Completed Software Testing Program at Mind Q Systems. As part of Training in Mind Q I underwent intensive Training on Software Testing Manual and Automation(QTP).
+· Elitmus: PH Test Score:77.22%
+ACADEMICS 
+
+	Qualification
+
+	B.Tech (C.S.E)
+
+Jayamukhi Institute of Technological Sciences (2006-2010)
+
+Score: 66%
+Intermediate (12th class)
+S.R. Junior College (Warangal, AP)
+
+Score: 79.80%
+SSC (10th class)
+Pragathi’s High School (Warangal, AP)
+
+Score: 70%
+
+
+
+PERSONAL PROFILE
+
+· Name
+
+
+:   Shilpa Kacham
+· Nationality
+
+:   Indian
+
+· Languages Known
+:   English, Telugu and Hindi
+· Current Address 
+:   Hyderabad.
+Place: Hyderabad                       
+
+
+
+
+ KACHAM SHILPA
+
+ 
+
+
+
+
+
+
+      Signature
+

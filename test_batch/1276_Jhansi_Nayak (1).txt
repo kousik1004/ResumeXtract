@@ -1,0 +1,380 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Strong Skill Set
+
+Jhansi Nayak
+  
+
+  
+                         E-Mail: jhansii.nayak@gmail.com
+Dwh/BI Developer
+
+                                      Phone:+91 7504210630/7022821108
+
+
+Objective:
+
+Seeking a Position, this explores my knowledge and skills for the benefit of the Organization as well as me, in the field of Data Analysis by accepting the challenging tasks.
+
+Summary:
+
+· Having around Overall 5.5 years of Experience in IT Sector and 4.5 Years in Data Warehousing and Business Intelligence.
+· Knowledge in query writing and data manipulation using SQL, Amazon Redshift, PostgreSQL.
+· Extensively worked on data extraction, Transformation and loading data from various sources like PostgreSQL, MYSQL and Flat files.
+
+· Responsible for all activities related to the development, implementation and support of ETL processes data marts using PDI.
+· Had experience in data modeling using Star Schema Modeling, and Snowflake modeling, FACT and Dimensions tables, physical and logical modeling.
+
+· Created Data mart (Fact and Dimension Tables) as per the requirement and build OLTP/OLAP reports on them.
+
+· Knowledge in creating reports/dashboards using BI Tools like BMBI/Power BI/Tableau.
+· Knowledge in Advanced Excel in data analysis as (Pivot Grid, charts ).
+
+· Scheduling the Transformation and Jobs in UNIX environment using Crontab.
+· Had knowledge on Kimball/Inmon methodologies.
+
+· Extensive experience in ETL design, development and maintenance using SQL.
+
+· Well versed in developing the SQL queries, unions and multiple table joins and experience with Views.
+
+· Exceptional analytical, troubleshooting and problem solving skills 
+· Ability to set priorities, schedule, handle multiple tasks and meet deadlines
+· Have ability to learn new technologies quickly and efficiently.
+· Experienced at Creating Effective Test data and development thorough Unit test cases to ensure successful execution of the data & used pager for notifying the alerts after successful completion.
+
+· Excellent communication, documentation and presentation skills .
+Professional Experience:
+
+· Working as   a BI Developer in PowerupCloud Technologies’, Bangalore currently. 
+
+· Working as   a Senior Software Engineer in Synchronous Technologies, Bangalore from Aug 2016 to Mar 2017 . 
+
+· Working as a Software Engineer in Silicon Techlab   Pvt. Ltd, Bhubaneswar, from  Nov 2011 to Mar 2016.
+
+Technical Skills:
+ETL Tool 
+
+
+:  Pentaho , Talend
+Databases
+
+
+:  MYSQL , PostgreSQL,Redshift
+Methodologies                       :  ETL,BI,Data Modelling , Reporting
+Business Intelligence
+:  BMBI , Tableau , Power BI
+Languages
+
+
+:   SQL 
+
+Operating Systems                  :   Windows 7.
+
+Project Details:
+
+Project#1:
+	Project-1
+
+
+	Magic Software Analytics
+
+
+
+	Client
+	Magic Software
+
+	Duration
+	May'2018  To  Present
+
+	Role
+
+
+	BI Developer
+
+	Environment
+	Amazon Redshift , Tableau
+
+
+Responsibilities:
+
+· Working on " Most Engaging Books reports " and  “Course progress report”  created  in Power BI Environment.
+· Developed   Mappings and Reusable Transformations to facilitate timely Loading of Data of a star schema.
+
+· Extracted data from various sources, transformed data according to the requirement and loading into data warehouse(Data Mart).
+
+· Created Data mart (Fact and Dimension Tables) as per the requirement and build  olap reports on them.
+
+Project#2:
+	Project-2
+
+	Volkswagen Analytics
+
+
+
+	Client
+	Volkswagen
+
+	Duration
+	Nov'2017  To  May’2018
+
+	Role
+
+
+	BI Developer
+
+	Environment
+	Amazon Redshift ,Power BI
+
+
+Responsibilities:
+
+· Worked on "Customer  Dashboard" to create a datamart which can help  to create a single reporting platform covering all types of customer activities and to provide better user experience.
+· created a datamart in Amazon Redshift.
+
+· Involved in data profiling, data cleansing and data enrichment.
+
+· Created reports in Power BI Environment.
+· Involved in Unit Testing.
+
+· Implemented various Performance Tuning techniques.
+Project#3:
+	Project-3
+
+	JD  Analytics
+
+
+
+	Client
+	2AdPro
+
+	Duration
+	Jul'2017  To  jan’2018
+
+	Role
+
+
+	BI Developer
+
+	Environment
+	Amazon Redshift ,Power BI
+
+
+Responsibilities:
+
+· Worked on "JD Analytics" to create a datamart which can help  to create a single reporting platform covering all types of digital commercial activity and to provide better user experience.
+· created a datamart in Amazon Redshift.
+
+· Involved in data profiling, data cleansing and data enrichment.
+
+· Created reports in Power BI Environment.
+· Involved in Unit Testing.
+
+· Implemented various Performance Tuning techniques.
+Project#4:
+	Project
+
+
+	FundsIndia Analytics POC
+
+
+	Client
+	FundsIndia
+
+	Duration
+	Jul'2017  To  Nov'2017
+
+	Role
+
+
+	 Sql Developer
+
+	Environment
+	Amazon Redshift ,PowerBI
+
+
+Responsibilities:
+
+· Converted the existing sql server queries into Redshift and do optimizations and check the performance.
+· Involved in data profiling, data cleansing and data enrichment.
+
+· Involved in Unit Testing.
+
+· Implemented various Performance Tuning techniques.
+
+Project#5:
+	Project
+
+	Network Analytics
+
+
+
+	Client
+	AT & T , VERIZON
+
+	Duration
+	Aug'2016  To  Mar 2017
+
+	Role
+
+
+	 Data Warehouse Engineer
+
+	Environment
+	Apache Drill,     Spark SQL,  JSON , Netezza
+
+
+Responsibilities:
+
+· Worked on "Network Analytics" product to migrate into big data technologies to process the huge volume of unstructured data in to the Data Lake.
+· Convert the queries into (Spark SQL)/(Apache Drill) who were previously written  in netezza /SQL SERVER and do optimization .
+
+· Create transformation/Loader using   JSON/JEXL .
+
+· Involved in data profiling, data cleansing and data enrichment.
+
+· Evaluated and tuned the SQL queries and physical database environments for efficient use.
+· Involved in Unit Testing.
+
+· Implemented various Performance Tuning techniques.
+
+Project#6:
+	Project
+
+	HIPPO  Analytics
+
+
+
+	Client
+	HIPPO CAMPUS , Bangalore
+
+	Duration
+	June'2014 To Mar '2016
+
+	Role
+
+
+	ETL Developer , BI Developer
+
+	Environment
+	Pentaho Data Integration , MySQL(Source) , Postgresql (Target), BMBI(Repoting Tool)
+
+
+Responsibilities:
+
+· Used Pentaho Data Integration for (ETL) extraction, transformation and loading data from heterogeneous source systems into target database.
+
+· Extracted data from various sources, transformed data according to the requirement.
+· Involved in extracting the data from the Flat Files and Relational databases into staging area.
+
+· Mappings, Sessions, Workflows from Development to Test and then to UAT environment.
+
+· Developed  Mappings and Reusable Transformations to facilitate timely Loading of Data of a star schema.
+
+· Extracted data from various sources, transformed data according to the requirement and loading into data warehouse(Data Mart).
+
+· Created Data mart (Fact and Dimension Tables) as per the requirement and build  olap reports on them.
+
+· Scheduling the Transformation and Jobs in UNIX environment using CronTab .
+· Prepared Technical Design documents and Test cases.
+
+· Involved in Unit Testing.
+
+· Implemented various Performance Tuning techniques.
+
+Project#7
+	Project Name
+	BPUT Education Analytics
+
+	Client
+	BPUT Colleges (SIT , UCE ,CET , TRIDENT,CVRCE,CEB etc.) , Bhubaneswar
+
+	Role
+	Software   Engineer
+
+	Duration
+	Dec'2011 to June2014
+
+	Environment
+	Languages: SQL 
+
+Database: PostgreSQL
+
+ETL tool :Pentaho Data Integration
+
+BI Tool : BMBI
+
+
+Responsibilities:
+
+· Perform and execute data extraction, transformation and loading using SQL, ETL Process and Ms-Excel.
+· Analyzed raw data, drawing conclusions & developing recommendations Writing T-SQL scripts to manipulate data for data loads and extracts.
+
+· Responsible for extracting, transforming, loading and validation of client data. Manipulating and      processing the data using Excel and SQL
+· Knowledge of working with Excel Pivot , BI Tool (BMBI) to Perform daily, monthly, quarterly and annual data values updates and system checks
+Qualification: 
+
+· Bachelor in  Technology in Computer Science & Engineering  (2011) from Krupajala Engineering College (BPUT), Bhubaneswar  with  74 % marks.
+
+· 10+2 with Science (2006) from CHSE, Odisha with 68.66% marks.
+
+· High School (2004) from BSE , Odisha with  82.9 % marks.
+
+PERSONAL DETAILS:
+
+· Date of Birth: 20 May 1989
+· Language Known: English, Hindi, Oriya
+DECLARATION:
+
+I hereby declare that all the information provided above is true to the best of my knowledge. Place: Bangalore
+
+
+Date:  02-Jan-2018
+
+
+
+
+
+
+Name: Jhansi Nayak
+

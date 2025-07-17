@@ -1,0 +1,252 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+Ezhil Arasu S
+Email id: s.ezhilcse@gmail.com
+Mobile No: +91-9894630032
+
+	Experience Summary 
+	
+
+
+· Professional IT experience of above 4 years in IT industry, as Oracle DBA in various flavors of Windows, Linux, Solaris, AIX and Hp-Unix.
+· Knowledge in ITIL concepts
+· Knowledge in MySql & MsSql L1 activities.
+· Knowledge in Configuration Management /Incident Management/Problem Management/Change Management.
+· Experienced in Installation and configuration of oracle database on various platform
+· Oracle network Administration by configuring tnsnames.ora, listener.ora.
+· Patching of Oracle databases using OPatch and applying patchset updates.
+· Exposure to Online, Offline and RMAN Backups and Recoveries.
+· Familiar with Tablespaces Management, User Management.
+· Involved in Disaster recovery exercise. 
+· Ability to handle the issues independently and work with other DBAs on the team.
+· Perform DB patching, DB Installation, troubleshoot production issues and incidents, Collaborate with Oracle support for bugs & issues resolution
+· Proficient in using RMAN, OEM, ASM and EXPDP/IMPDP.
+
+	Technical Skills
+
+	Operating System: 
+	Windows, Unix. 
+
+	Databases:
+	Oracle, MySql, MsSql.
+
+	Etl & reporting Tools:
+	Informatica power center 8.6.1, Cognos 8.4. 
+
+	Testing Tools:
+	Qc ,Qtp.
+
+	Tools used:
+	Asp.net, Hands on experience on using service now ticketing tool.
+
+
+
+	Education Details:
+
+
+· Completed BE at SNS college of Technology in 2013 with 7.1 CGPA.
+· Completed HSC at Immaculate Matric Hr Sec School in 2009 with 62% 
+· Completed 10th at Immaculate Matric Hr Sec School in 2009 with 77%
+
+	Certifications
+	
+
+
+· OCA(Oracle Certified Associate) 11g Exam – 1Z-052 Oracle 11g Administrator I 
+· OCP(Oracle Certified  Professional) 11g Exam – 1Z-053 Oracle 11g Administrator II
+· ITIL version 3 Certificate in IT Service Management.
+· MCP (Microsoft Certified Professional) Exam -70-536 Microsoft .NET Framework – Application Development Foundation.
+
+	Project Experience : Emblem Health BPASS
+
+	Organization
+	Cognizant Technology Solutions
+
+	Client 
+	Emblem Health
+
+	Team Size 
+	4
+
+	Role
+	Oracle database administrator 
+
+	Period
+	May 2017- Till date
+
+
+
+Description of the project:
+
+Emblem Health is one of the United States largest non-profit health plans. It is headquartered at 55 Water Street in Lower Manhattan, New York City. It is a $10 billion company with 3.1 million members. Emblem Health was created in 2006 through the merger of Group Health Incorporated (GHI) and the Health Insurance Plan of Greater New York (HIP). GHI and HIP had been operating as separate companies in the New York region since 1937 and 1947, respectively.
+
+Roles and Responsibilities: 
+
+· Having good knowledge of oracle architecture, basic RAC administration, good understanding of 10g, 11g features.
+· Installation & Configuration of Oracle software in SOLARIS/AIX platforms.
+· Creation of Database using DBCA, manual creation and proficient in client installations.
+· PSU Patch applying using OPATCH AUTO and OPATCH local. 
+· Implementing and maintaining Database Security (create and maintain users and roles, Assign privileges).
+· Refreshed schemas from prod to dev/stage environments as per client requests.
+· Monitoring various database activities like number of users, memory usage, alert log files, trace files and archive log files.
+· Strong experience in Database sizing, Space management and Table space management.
+· Enhance database administration by automating administration tasks like developing scripts for database instance availability, listener availability, check alert log files for error messages, Clean up old log files before log destination gets filled.
+· Performed Schema level Refresh and Database level refresh activities, cold backup, Hot Backup as per the client standards.
+· Worked on various DEV, QA & Production databases.
+· Performance Monitoring of Oracle database using Oracle utilities ADDM, AWR, ASH reports.
+· Oracle Net Configuration, Troubleshooting of connectivity issues, tnsnames and listener issues.
+· Communication with Oracle On demand by raising SRs, for certain database related activities those were supported by Oracle.
+· Preparing the Project Weekly reports, Monthly reports for the management and stakeholders.
+· Preparing Monthly and Weekly SLA reports.
+
+
+
+
+
+	Project Experience : HN DB Accelerated Service
+
+	Organization
+	Cognizant Technology Solutions
+
+	Client 
+	HealthNet
+
+	Team Size 
+	16
+
+	Role
+	Oracle database administrator 
+
+	Period
+	Oct 2014- May 2017
+
+
+
+Description of the project:
+
+Health Net, Inc. is a publicly traded managed health care company. The company provides health benefits to approximately 5.9 million individuals in all 50 states in US. The company's subsidiaries also offer managed health care products related to prescription drugs, and offer managed health care Product coordination for multi-region employers and administrative services for medical groups and self-funded benefits programs.
+
+Roles and Responsibilities: 
+
+· Working as a part of team and responsible for 16x7 availability of these systems, production support and monitoring.
+· Having good knowledge of oracle architecture, basic RAC administration, good understanding of 11g features.
+· Installation & Configuration of Oracle software in SOLARIS/AIX platforms.
+· Creation of Database using DBCA and proficient in client installations.
+· PSU Patch applying using OPATCH AUTO and OPATCH local. 
+· Maintaining Control Files and Redo log files.
+· Implementing and maintaining Database Security (create and maintain users and roles
+· Refreshed schemas from prod to dev/stage environments as per client requests.
+· Monitoring various database activities like number of users, memory usage, alert log files, trace files and archive log files.
+· Strong experience in Database sizing, Space management and Table space management.
+· Enhance database administration by automating administration tasks like developing scripts for database instance availability, listener availability, check alert log files for error messages, Clean up old log files before log destination gets filled.
+· Performed Schema level Refresh and Database level refresh activities, cold backup, Hot Backup as per the client standards.
+· Worked on various DEV, QA & Production databases.
+· Implemented different backups like regular exports & RMAN backups as per the client standards
+· Performance of Oracle database using Oracle utilities ADDM, AWR, ASH reports.
+· Oracle Net Configuration, Troubleshooting of connectivity issues, tnsnames and listener issues.
+· Communication with Oracle On demand by raising SRs, for certain database related activities those were supported by Oracle.
+· Preparing the Project Weekly reports, Monthly reports for the management and stakeholders.
+· Worked in L1 activities for MYSQL, MSSQL database.
+
+
+	Project Experience :  JnJ-DB-Managed-Services
+
+	Organization
+	Cognizant Technology Solutions
+
+	Client 
+	Johnson & Johnson
+
+	Team Size 
+	105
+
+	Role
+	L1 - Oracle database administrator
+
+	Period
+	Jan 2014 – Oct 2015
+
+
+Description of the project:
+
+Johnson & Johnson embrace research and science - bringing innovative ideas, products and services to advance the health and well-being of people. Employees of the Johnson & Johnson Family of Companies work with partners in health care to touch the lives of over a billion people every day, throughout the world.
+
+Role and Responsibilities
+· Working as a part of team and responsible for 24x7 availability of these systems, Production support and monitoring.
+· Maintaining Control Files and Redo log files.
+· Implementing and maintaining Database Security (create and maintain users and roles,
+· Refreshed schemas from prod to dev/stage environments as per client requests.
+· Performed Schema level Refresh and Database level refresh activities, cold backup, Hot Backup as per the client standards.
+· Worked on various DEV, QA & Production databases.
+· Performed different backups like regular exports & RMAN backups 
+· Oracle Net Configuration, Troubleshooting of connectivity issues, tnsnames and listener Issues.     	
+	About Myself
+
+
+
+Seasoned IT professional with comprehensive business and technical skill set. I give my best in all my endeavors, diligent and driven by my thirst for success. Being a member of a various projects has given me the confidence and taught me the essence of teamwork. I love working with people. This would certainly prove how well I’m adapted to work in an environment characteristic of the industry.
+
+	Personal Details
+
+
+
+Name		:	Ezhil Arasu. S
+Sex		:	Male
+Marital Status			:	Married
+Language Known		:	Tamil and English
+Date of Birth			:	15-06-1992
+Passport			:	Available
+Place				:	Coimbatore
+Willing to relocate		:	Yes
+									
+										(Ezhil Arasu S)
+Page 1 of 4
+

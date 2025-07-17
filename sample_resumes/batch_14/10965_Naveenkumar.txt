@@ -1,0 +1,267 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vmware admin
+
+Naveenkumar.A									
+E-Mail: naveenarcot7@gmail.com				
+Mobile: +91-9962796467, +91-7989959506
+   
+
+OBJECTIVE:
+Seeking a progressive and challenging career in a dynamic organization, where I can prove my potential skills and exploit them to create new avenues.
+
+PROFESSIONAL SUMMARY:
+
+· 6+ Years Rich IT Experience as Wintel Admin and Primary Skill on VMware.
+· Installation and Configuration of ESXi 5.5, ESXi 6.0 & ESXi 6.5.
+· Virtual and Physical Server Build Standard Commission & Decommission process.
+· Virtual Machine Operations such as Snapshot, Clone, FT and VM reconfigurations.
+· Installing and configuring VCenter Server vSphere 5.x & 6.x with all components.
+· Managing and Monitoring multiple ESXi Host in VCenter with help of vSphere Client.
+· Deploy Virtual Machines in VCenter with help of Golden Templates and ISO.
+· VMTools and Hardware upgradation to improve virtual machine performance. 
+· Perform various migrations between Cluster to Cluster (VMOTION & SVMOTION).
+· P2V and V2V datacenter migrations with help of VMware Standalone Converter.
+· Virtual Machine Hardware upgradation tasks (VM Disk resize, Increase Memory and CPU).
+· Creating resource pools and taking virtual machine Clone in VCenter.
+· Adding storage on ESXi Host as creating datastores for virtual machine VMDK.
+· Managing and maintenance of infrastructure of Windows platform and VMware
+· Responsible for Installing, configuring, windows (2003, 2008, 2008R2, 2012 & 2016).
+· Managing and maintaining HP & Cisco Rack and Blade servers
+· Installing and configuring Windows Physical server 2003 & 2008 as commissioning.
+· Vendor (HP, Dell) coordination for visit and troubleshooting server Hardware issues.
+· WSUS server management (Patch approving, Patch installation to the clients).
+· Responsible for handling (Incident, Problem, Service Requests and Change Requests)
+· Coordination with internal teams (Storage, Backup, Security and Network)  
+· Ownership on Microsoft Patching with help of Altiris & WSUS.
+·  Responsible for the repair and maintenance of printers, monitors, scanners and hardware
+· Creation of network port groups at Standard switches.
+· Configuration of DHCP & DNS Servers.
+
+
+EDUCATIONAL QUALIFICATION:
+· M.C.A from Thiruvalluvar College of Engineering and Technology (Affiliated to Anna University)
+
+TECHNICAL SKILLS:
+
+· Operating Systems       :  ESXi 5.x, 5.5, 6.0 & 6.5, Windows Servers 2003 & 2008 & 2012 & 2016
+· Monitoring Tools          :  BMC Patrol Agent, Nimsoft, Nagios, Veeam One
+· Ticketing Tools              :  Summit, BMC Remedy, SNOW
+· Backup Tools                  :  Veeam Backup, Symantec Veritas, COX
+· Storage                             :  NetApp
+
+AREAS OF EXPERTISE:
+· My primary area of expertise is with VMware & Windows OS related issues and Troubleshooting Hardware.
+
+Employment Chronicle:
+Current Employer    : Medusind Solutions
+ Experience                 :  Jan 2018 to Present
+ Designation	              :  System Administrator Level 2
+ Role                               : Windows & VMware Administrator
+
+VMware Responsibilities:
+
+· Configuring & Managing ESXi 4.1, ESXi 5.0, ESXi 5.1, ESXi 5.5 & ESXi 6.5
+· VCenter and ESXi Upgradation from ESXi 5.5 to 6.5
+·  Managing and Monitoring multiple ESXi Host in VCenter.
+· VMTools and Hardware upgradation to improve virtual machine performance. 
+· VCenter maintenance cleanup activities (Datastore, Clone, Snapshot & Powered off VM).
+· Managing VCenter operations in regular schedule.
+· Host Patching and Hardware / Firmware Upgradations with VUM.
+· Creating Datastores at SAN and NAS. 
+· Datacenter consolidation by migrating from Physical to Virtual and Virtual to virtual.
+· Configuring and Managing VMware clustering like HA and DRS.
+· Thin to Thick Conversion projects for Critical environments.
+· Configure Virtual Network in ESXi server by creating vSwitches.
+· Creation of network port groups at Standard switches
+· Basic knowledge on Distributed switches
+· Creating and Deploying Virtual machines and Troubleshooting.
+· Performing daily Health checks 
+Windows Responsibilities:
+· Responsible for administration and operation of the windows server environment
+· Installing, configuring, Windows OS (2003, 2008, 2008R2, 2012, 2016) and Centos v7.3.1611
+· Managing and maintaining Dell, HP, Cisco Rack servers and Blade servers.
+· Experience in HP C7000 and Cisco UCS 2.2(1d) Hardware’s.
+·  Installing, configuring and managing Terminal Services, Remote Desktop services
+· Supporting on BSOD errors, memory dump analysis and providing solution.
+· Coordinating with Hardware Vendor (HP, Dell, CISCO) on cases and troubleshooting
+· WSUS server management (Patch approving, Patch installation to the clients).
+· Antivirus server Management (Trouble shooting virus definitions, Vendor coordination)
+· Proficient in Summit tool incident, change and Problem management process.
+· Providing root cause analysis report to the customers after major incident.
+· Responsible to maintain the SLA for Project, Tasks and Tickets, as per Customer need
+· Creating reports and sending to the respective Clients.
+· Server commissioning and decommissioning process
+· System Drive and Application Drive expansions of Windows Machines
+· Preparing Capacity Management report and keeping transparency in resource utilization for ease of understanding to the management.
+· Prepared Master Inventory for US location.
+· Installing all software applications based on client requirement, also Antivirus software management for all client machines and monitoring proactively.
+
+ Previous Employer   : Phoenix Human Capital Ltd 
+ Experience                   : (Nov-2011 to Mar-2015) &  (Aug 2016 to Jan 2018)
+ Designation	                : Senior Specialist
+ Role                                 : VMware Administrator
+ Client                              : BASF Chemical Customer
+
+VMware Responsibilities:
+
+· Configuring & Managing ESXi 4.1, ESXi 5.0, ESXi 5.1 & ESXi 5.5
+· VCenter and ESXi Upgradation from ESXi 4.0, 4.1, 5.1 to 5.5
+·  Managing and Monitoring multiple ESXi Host in VCenter.
+· VMTools and Hardware upgradation to improve virtual machine performance. 
+· VCenter maintenance cleanup activities (Datastore, Clone, Snapshot & Powered off VM).
+· Managing VCenter operations in regular schedule.
+· Host Patching and Hardware / Firmware Upgradations with VUM.
+· Creating Datastores at SAN and NAS.
+· Datacenter consolidation by migrating from Physical to Virtual.
+· Configuring and Managing VMware clustering like HA and DRS.
+· Thin to Thick Conversion projects for Critical environments.
+· Configure Virtual Network in ESXi server by creating vSwitches.
+· Creation of network port groups at Standard switches
+· Basic knowledge on Distributed switches
+· Creating and Deploying Virtual machines and Troubleshooting.
+
+Windows Responsibilities:
+· Responsible for administration and operation of the windows server environment
+· Installing, configuring, Windows OS (2003, 2008, 2008R2, 2012).
+· Managing and maintaining HP, Cisco Rack servers and Blade servers.
+· Experience in HP C7000 and Cisco UCS 2.2(1d) Hardware’s.
+·  Installing, configuring and managing Terminal Services, Remote Desktop services
+· Supporting on BSOD errors, memory dump analysis and providing solution.
+· Coordinating with Hardware Vendor (HP, Dell, CISCO) on cases and troubleshooting
+· WSUS, ALTRIS server management (Patch approving, Patch installation to the clients).
+· Antivirus server Management (Trouble shooting virus definitions, Vendor coordination)
+· Proficient in BMC Remedy tool and incident, change and Problem management process.
+· Providing root cause analysis report to the customers after major incident.
+· Responsible to maintain the SLA for Project, Tasks and Tickets, as per Customer need
+· Creating reports and sending to the respective Clients.
+· Server commissioning and decommissioning process
+· System Drive and Application Drive expansions of Windows Machines
+
+Previous Organization:
+Previous Employer    : HCL Technologies Ltd., Chennai
+Experience                     : From Apr-2015 to Jul-2016.	
+Designation                   : Lead Engineer           
+
+Roles & Responsibilities:
+
+·   Configuring & managing ESXi 5.X & ESXi 4.X and Environmental Upgradation.
+·   Managing VCenter operations in regular schedule
+·   Host Patching and Hardware / Firmware Upgradations with VUM.
+·   P2V and V2V conversions by using VMware Converter.
+·   VM Tool and VM Hardware maintenance upgradations.
+·   Configuring and Managing VMware clustering like HA and DRS.
+·   Server Commissioning & Decommissioning as per the process.
+·   Configuring RAID Levels.
+·   Managing BL460c-G6&BL480c-G4 Blade family by OA & VC.
+·   Installation and Configuration of Active Directory.
+·   Transferring and Seizing of the FSMO Roles.
+·   Managing User Accounts, Groups & Organizational Units.
+·   Managing User Profiles (Roaming Profile, Mandatory Profile).
+·   Installation, Configuration and Maintenance of WSUS 3.0, SCCM& Altiris.
+·   Installation, Configuration Troubleshooting of DHCP Server.
+·   Installation Configuration and Troubleshooting of DNS Server.
+·   Working on Server performance issues.
+·   Working on Server Hang issues.
+·   Supporting on Printers & Print Server issues.
+·   Supporting Terminal Services issues including RDS.
+·   Working on various priority based tickets, meeting SLA.
+·   Working for Root Cause Analysis.
+·   Administrating servers locally and remotely through remote boards RDP, ILO, DRAC, IMM.
+·   Participate in SRT Huddle calls to resolve high severity issues on priority.
+·   Working on various priority based tickets P1, P2, P3, P4 tickets, meeting SLA.
+·   Remediate PowerShell. VMware Power CLI and customized script to Generate DC & VC health checks and Generate Capacity Report of Infra.
+
+ Windows Administration:
+· Monitoring, managing and reporting daily, weekly and monthly server status.
+· Installing, troubleshooting backup process (using Ntbackup tool).
+· Disk quota management and reporting. 
+· Assigning rights and privileges to users to access files and folders.
+· Installing services patches, server patches and antivirus.
+· Remote Server Administration through RDP Connection… etc.
+· Troubleshooting the event logs on the servers.
+· Resolving Hardware and Network related problems to connectivity and accessing resources
+· Installations of Anti-Virus and their latest patches updates.
+· Installation and configure Local and Network printers.
+· Administrating MS-Outlook for Exchange 2003.
+· Create and manage user accounts, home directories and other resources.
+Rewards & Recognition:
+·  Recognized as best performer in Data migration, SOP documentation.
+·  Received Certificate of Achievement for Highest Ticket Closure.
+·  Received best rating & promotion for two successive years in annual appraisals.
+·  Received numerous appreciations and accolades from internal customers.
+
+STRENGTHS:
+
+·  I have always excelled in my duties and responsibilities.
+·  I have been achieving my career goals on the fast track.
+·  I believe in logical approach and critical analysis.
+PERSONAL DETAILS:
+
+Father’s Name		: A. Pedda Balaji
+Date of Birth     		: 25/07/1987
+Sex 				: Male
+Marital Status                         : Single
+Nationality			: Indian
+Languages known		: English, Tamil & Telugu
+Hobbies			: Playing Cricket, Watching Movies, Listening to Music
+Passport			: Z2979671
+
+
+  Declaration:
+
+   I consider myself familiar with Computer Aspects. I am also confident of my ability to work in a        
+  Team. I hereby declare that the information furnished above is true to the best of my knowledge.
+
+
+
+						                                                   (NAVEENKUMAR ARCOT)
+

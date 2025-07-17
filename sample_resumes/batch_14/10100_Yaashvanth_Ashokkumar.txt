@@ -1,0 +1,184 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 Yaashvanth Ashokkumar
++91-9884979451 yashvanth777@gmail.com
+
+ Career Overview
+
+Over 3+ years of IT experience with emphasis on Database Administration, migration, Business Requirements Analysis, testing, implementation and maintenance of databases on DB2 UDB on LINUX, UNIX and Windows Platforms along with ITIL Principles.
+· 3+ years of rich experience in Database Administration using DB2 UDB and with strong business knowledge of Banking projects
+
+· Data center migration and Expertise in development support activities including installation, configuration Requirements gathering, data modeling, tuning, security, backup, recovery and integration of database Applications.
+· Installing MQ and setting up Q-replication.
+· Migrating DB2 UDB databases to recent version V11.1 along with Q-Replication.
+· Provided production support for critical applications running on 24/7 basis
+
+· Expertise in Shell scripting, implementing Backup & Recovery strategies.
+
+· Running utilities like LOAD, IMPORT, EXPORT, REORG, RUNSTATS, REBIND.
+· Worked with third party tools like HPSM and Cherwell
+· Database maintenance, backup, recovery, performance monitoring, tuning, maintenance of logs, problem Identification and resolution.
+· Report any failures, apply upgrades and raise PMR with IBM for any unknown issues.
+
+· Excellent analytical and functional skills with strong communication and interpersonal skills. Willing to learn and adapt to new challenges.
+
+Achievements
+
+
+Certificate of Appreciation – In Recognition of valuable contribution towards Infrastructure service delivery 
+
+Certificate of Appreciation – In Recognition of Performance and Best Technical solution for DC Migration
+Certifications
+
+
+000-610: IBM Certified Database Associate - DB2 10.1 Fundamentals IBM June 2016
+Professional Experience
+
+
+Technical Lead at Cognizant Technology Solutions
+   January 2017 – Present (10 months)
+
+   Current role is a DB2 Database Administrator responsible for managing the client databases and   other database related activities.
+
+· Data center migration of critical applications and huge databases without downtime.
+
+· End-to-End build and support of few critical application databases solely
+
+· Installation and configuration of different versions of 11.1.x/10.x DB2 UDB on AIX 7.1.
+· Set up and manage Q replication for new environments
+
+· Created database and managed various database objects like indexes, tables and Tablespaces.
+
+· Collected the database statistics using RUNSTAT, REORG, REORGCHK utilities and involved in analyzing the statistics.
+
+· Created scripts for backup of the databases on weekly basis.
+
+· Automated Health monitoring for all critical databases which was much appreciated by all application owners and development teams.
+
+· Responsible for Database performance tuning analysis.
+
+· Responsible for backup and logging/recovery policy.
+
+· 24X7 on-call support and problem resolution.
+
+· Responsible for monitoring database and perform tuning when necessary
+· Provide guidance on major changes and deployments.
+
+· Proven Linux/UNIX experience, including shell scripting.
+
+· Responsible for upgrading DB2 from V9. 7 to V11.1
+
+· Provided exceptional technical expertise in supporting large-scale 24x7 operational production subsystems including maintenance, tuning, performance analysis, capacity and availability planning, resource utilization, utilities, security and troubleshooting.
+
+· Analyze DB2 UDB Event Monitor information, physical design, performance characteristics of tablespaces, physical I/O rates, and table access activities.
+
+Sr. Systems Executive - ITIS at Cognizant Technology Solutions
+May 2015 – Dec 2016 (1 Year 8months)
+
+· Support and Maintenance of Production, Development, Quality and Integration environment databases.
+· Maintenance of replication between two Production data centers.
+
+· Managing range partitioned tables – Perform roll-in and roll-out as per requirement.
+
+· Database objects creation with replication.
+
+· Analyzing performance issues using db2pd, db2top and troubleshooting issues by analyzing db2diag and notification logs.
+
+· Restoration of databases from online and offline backups.
+
+· Validating and applying the DDL.
+
+· Replicating the DDL changes.
+
+· Troubleshooting Database issues raised by Application team
+
+· Database and objects creation
+
+· Identifying bottlenecks in conjunction with application development team and providing guidelines to Optimize SQL queries/SQL Tuning.
+
+· Data refresh from one environment to another.
+
+· Troubleshooting issues related to Database, CPU, IO, Memory
+
+· Index Analysis and Query Cost Estimation 
+
+· Provide a prompt recovery of the business within the specified Service level agreement 
+
+Graduate Engineer Trainee - ITIS at Cognizant Technology Solutions
+
+ May 2014 - Apr 2015 (1 Year)
+
+· DB2 program analysis(db2 explain, db2advis, DB2 snapshots, DB2 event monitors, db2top,  db2look)
+
+· Using db2look to generate Data definition Language (DDL) for the existing database objects to Re-generate the tables in the database.
+
+· Use utilities like Import, Export, and Load for Data Movement.
+
+· Database Backup/Recovery of databases, including Redirected Restore
+
+· Maintenance of objects (Tables, Table spaces, Indexes, views, Packages)
+· Taking snapshots and creating event monitors for gathering necessary data
+
+· Managing Hard disk space utilization
+
+· Monitoring Memory Usage & CPU utilization
+Languages
+
+English
+(Full professional proficiency)
+
+Tamil
+(Native or bilingual proficiency)
+
+Education
+
+Sri Muthukumaran Institute of Technology
+Bachelor of Technology (B.Tech), Information Technology, 2009 – 2013
+Declaration
+
+The details provided above are true to my knowledge and that I’m liable for legal action if proven otherwise.
+
+Yaashvanth A

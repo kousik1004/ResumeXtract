@@ -1,0 +1,309 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+H B PRABHANJANA
++919945655669
+
+EXECUTIVE SUMMARY
+· Has 15+ years of IT experience with exposure to Software Development Life Cycle, End-to-End Testing Phases and Supply Chain IT Application Support.
+· Has more than 9 years of experience in SAP BI Application Support, Development and Testing with exposure to LSA, BI Consolidation, Unicode Migration, BW on HANA Migration, Rollouts, Impact Analysis based Testing, IBM Insurance Warehouse Model, BEx Reports validation, BOBJ reports validation, HANA based Virtual Data Marts, Query merging and Application Support.
+· Has experience working for in-house and client projects with exposure to On-Site/Off-Shore working model, Distributed Agile way of working and Follow-the-sun model.
+· Has experience working for various clients in domains ranging from Manufacturing, Life Science, Retail, Utilities and Insurance.
+· Performed the role of Test Lead and SPOC for various projects and most recently played the role of Test Lead for a UK based Utilities client, NL based large Insurance client, Pharma client based out of Philippines and most recently Utilities client in US and Canada.
+· Has experience in System Integration Testing, Regression Testing, Functional Acceptance Testing, Smoke Test and Risk based Testing.
+· Complete knowledge in all the Test Phases - Test Preparation, Test Specification, Test Execution and Test Level Report. Also has experience in demonstrating the Product and seeking Product Owner's Approval.
+· Participated in the Customer Validation Program of SAP NetWeaver ABAP 7.4 on HANA during 2013 before the beta version was available in the market.
+· Participated in various RFP Response and Estimations.
+· Created multiple Tools to help improve the Team's productivity - Effort Distribution Report, Data Reconciliation Tool, One-Click Assist and TLOG Smart Utility (Interface Agreement), Application Delay Report (shell script), Automated Job Monitoring (only customization).
+· Received multiple awards (SPOT, STAR, Pillar of the Month, Incredibles etc.…) in recognition to my contribution in the areas like customer focus, Innovations, delivery and Team work.
+
+SAP Skills & Certifications
+· Participated in the Customer Validation Program of SAP NetWeaver ABAP 7.4 on HANA during 2013 before the beta version was available in the market.
+· Completed certificate programme (CCA Assessment) through Cognizant Academy on ABAP Programming, Business Objects XI 3 (Designer & Web Intelligence), Retail foundation course and Merchandizing.
+
+Education
+2001: B.Sc. in Computer Science under the course curriculum of Bangalore University, Bangalore.
+1998: P.U.C. under the course curriculum of Pre University Course Board, Karnataka.
+
+
+Professional Experience
+Hewlett Packard Company 		: February 2002 to March 2010.
+Cognizant Technology Solutions 	: April 2010 till date.
+
+
+
+
+SAP Engagement History
+American Water 						August 2017 till November 2017
+Position: Senior Associate – Projects
+Role: Test Lead (Offshore)
+
+American VDM (Virtual Data Mart) Consolidation
+
+American Water is an American public utility company operating in the United States and Canada. Services are locally managed utility subsidiaries that are regulated by the US State in which it operates. Client objective is to enable authoritative, real time data set and reporting asset for 5 business areas – Device, Revenue, Accounts Receivable, Customer Service, and Tax by creating Virtual Data Marts on HANA (1.0 SP12).
+
+Roles and Responsibilities
+· Co-ordination of User Access and Authorizations to the team members.
+· Review Test Scenarios and Test Cases.
+· Review Test Execution progress daily.
+· Joining tables on ECC using SQVI and transformation of data to predict Measures and calculated columns.
+· Data Reconciliation between HANA Views and ECC/CRM source.
+· End to End testing of Base Views, Foundation Views, Business Views and Data Lake.
+· Writing SQL queries for scenarios with no measures are calculated columns, SO ageing, etc...
+· Identifying roadblocks as early as possible, FS completeness, Information gaps, technical feasibility, system availability, sanity checks, test data availability, resource availability, etc... in order to enable productive delivery of testing tasks.
+· Update status of test execution of All VDMs during the Daily Stand up Call.
+· Attend all Agile ceremonies (planning, retrospections, demo, etc...).
+· Uploading and maintaining all the Test Evidence in share point.
+· Submit Test Summary Report and request PO Approval.
+
+Pacific Gas & Electric 							March 2017 till July 2017
+Position: Senior Associate – Projects
+Role: Senior Test Analyst (Offshore)
+
+PGE-SAP BW Upgrade
+
+The focus of the SAP Business Warehouse (BW) Upgrade project is to upgrade the SAP Business Warehouse (BW) from 7.02 to 7.4. PG&E has Dual Landscape like Project & Maintenance for Dev & QA and one Production instance. The SAP BW application parts of the SAP Net Weaver platform are composed of two separate stack: ABAP and Java systems. PG&E already completed Development and Quality Environment upgrade in Project Landscape. PGE will provide the knowledge transition of the Development and Quality Upgrade experiences/lessons learned in terms of risks/issues/mitigations applied. Cognizant will also has to handle the Maintenance/Support path upgrade and also DR validation scenarios in designated environments.
+
+Roles and Responsibilities
+Apart from the regular Testing deliverables, I have contributed additionally to the team in various tasks like-
+· Extended support to Dev Team in resolving common issues (technical)
+· Process Chains in BW is known to fail due to DTP/Data Load issues which are generic in nature/common issues that require manual intervention to resolve. From the volume point of view, this effort can be 40% more which could significantly impact the delivery. Our extended support helped the overall delivery from Cognizant.
+· Prepared Test Plan based on the RTM.
+· Reassessment of Test Scripts available in HPQC (provided by the client). Analyzed and prepared Objects Master List to enable smooth distribution of daily tasks, for reporting and tracking.
+· As part of the regular Testing deliverables-
+· Regression Testing (Upgrade Path) - Process Chains
+· Reassessment of Test Scripts available in HPQC (provided by the client). Analyzed and prepared Objects Master List to enable smooth distribution of daily tasks, for reporting and tracking.
+· BEx report reconciliation with backend MPRO
+· Performed the reconciliation of 35 BEx queries against the MPRO across functional areas like HR, CO, FI-AR, FI-AP, EPPM, WRM etc... This includes validating customer exit variables, input selections and report output.
+
+Unilever 									February 2017
+Position: Senior Associate – Projects
+Role: Test Analyst (Offshore)
+
+Unilever GRTS for UK Central
+
+Roles and Responsibilities
+Executed SAP MM Test Scipts for multiple countries as part the regular Regression Test phase. The test scripts were mostly based on the below processes with multiple scenarios.
+· Stock Placement for Inbound Del
+· Stock Removal for Delivery
+· Warehouse Stock Transfer
+
+Allergan 							December 2016 till January 2017
+Position: Senior Associate – Projects
+Role: Test Analyst (Offshore)
+
+Allergan Trackwise BI Archival
+
+As part of the global TrackWise consolidation projects, the TrackWise systems (Legacy) are planned to be retired by end of 2017. The scope of this initiative is to build and test a model in BW to archive the data from three legacy Trackwise systems and make the data easily reportable in case of business need (Audit etc.).
+
+Roles and Responsibilities
+· Create/facilitate Verification Phase Strategy (VPS), Operational Qualification (OQ) Test Scripts (Pre & Post Approvals), Requirements Traceability Matrix (RTM) and Verification Phase Summary Report (VPSR) as part of the mandatory compliance requirement.
+· Validation involved performing data and volume accuracy check of 78 tables which contain Transactional and Master data coming from three source systems.
+· Identifying mismatch records which could be due to missing or incorrect data content and reporting it to the stakeholder units. Post receiving break fixes, retesting and closure.
+· Daily status reporting and co-ordination with the onsite counterparts.
+
+Cognizant Technology Solutions Philippines, Inc. 			July 2016 till October 2016
+Client: Zuellig Pharma Asiapacific Ltd.
+Position: Senior Associate – Projects
+Role: Test Lead (On-Site)
+
+1. Zuellig Pharma Hong Kong LCRI Rollout Testing
+Zuellig's main objective is to consolidate all regional Business Units onto SAP ERP (Sales, Billing, Purchase Order, Inventory) re-engineer existing business processes, and Implement SAP BI Reports and Interface system across Hong Kong, Thailand and Vietnam.
+
+Roles and Responsibilities
+· Understand the testing effort by analyzing the requirements of project.
+· Estimate and obtain management support for the time, resources and budget required to perform the testing.
+· Organize the testing kick-off meeting.
+· Identify Training requirements and forward it to the Project Manager (Technical and Soft skills).
+· Develop the test plan for the tasks, dependencies and participants required to mitigate the risks to system quality and obtain stakeholder support for this plan.
+· Assign task to all Testing Team members and ensure that all of them have sufficient work in the project.
+· Ensure content and structure of all Testing documents / artifacts is documented and maintained.
+· Document, implement, monitor, and enforce all processes for testing as per standards defined by the organization.
+· Check / Review the Test Cases documents.
+· Keep track of the new requirements / change in requirements of the Project.
+· Organize the status meetings and send the Status Report (Daily, Weekly etc.) to the Client.
+· Attend the regular client call and discuss the weekly status with the client.
+· Act as the single point of contact between Development and Testers.
+· Track and prepare the report of testing activities like test testing results, test case coverage, required resources, defects discovered and their status, performance baselines etc.
+· Review various reports prepared by Test engineers.
+· Ensure the timely delivery of different testing milestones.
+· Prepare / update the metrics dashboard at the end of a phase or at the completion of project.
+
+National Nederlanden 							Oct 2014 to Apr 2016
+Role: Test Lead
+Employer: Cognizant Technology Solutions
+
+1. Solvency II Implementation
+The Solvency II (Pillar III) Directive from the EIOPA mandates that all the EU Insurers submit a large set of 61 Solo and Group QRTs (Qualitative Reporting Template). Client is one of the largest Insurance companies in the Netherlands which needs to submit these reports as per the EIOPA specified timeline.
+
+This project aims to connect all the Solvency II required sources, mostly fragmented and legacy driven to SAP BI and deliver all the QRTs while simultaneously and continuously synergize the efforts to improve the SAP landscape. The proposed solution incorporates SAP BW data model designed as per the LSA guidelines and IBM’s IIW Data model as reference to create a centralized and harmonized data repository.
+
+2. Mortgages
+NN Bank currently has a legacy Conversion Tool that generates files required for Mortgage Valuation Model. This project has two phases and it involves bringing all the Loans, Mortgages information to BW and build an integrated SAP solution which can replace the existing tool and the capability to generate the files for Moses Mortgage Valuation Model.
+This is one of the more challenging projects in terms of complex data transformations, complex mapping rules, disparate sources, Full History, Delta Mechanism, Historical Snapshots, constant improvements in architecture/design, timelines and distributed agile scenario.
+
+Responsibilities
+· Travelled On-Site to receive KT and returned back to continue delivery from Off-Shore.
+· Adherence to Agile Way of Working.
+· Day to day tasks involved, whiteboard sessions, solution design meetings, Test alignment meetings and discussions with various parties (DEV, IA, PO, SM) and Agile ceremonies.
+· Reading functional design documents, creating test scripts, executing and creating test evidence and defect retesting.
+· Updating Jira board, attending daily stand up, creation of Test Level Report and seeking the approval of the Product Owners for the respective User Stories at the end of each sprint.
+· Test data creation, master data maintenance, transaction data loading, Referential Data loading, maintenance of STVARV parameter values and co-ordination of tasks with other teams which would be sharing the same data flow.
+· End-To-End validation of dataflow from flat file to the DataMart and Queries.
+· Used Jira to plan and execute different phases of testing using these tasks – Test Preparation, Test Specification, Test Execution, Test Level Report, Regression Test, UAT Test, Pre-Demo and findings.
+· Demonstrate User Stories to the Product Owners at the end of each sprint.
+· Actively participated in Backlog Refinement, assigning Story Points, Sprint Planning and Retrospective.
+· Collecting the resource availability and preparing the forecast plan.
+· Conducting internal meetings, gathering training requirements, planning and coordinating the internal trainings and matching the resource requirements.
+
+Environment: SAP BI 7.3, Jira, Tibco MFT, Hyperion, DCM, SAP BO 4.1
+
+British Gas 								Oct 2013 to Sep 2014
+Role: Test Lead
+Employer: Cognizant Technology Solutions
+
+1. SLINGSHOT
+The Slingshot programme was initiated to review and consolidate the Business processes and technology like Billing Accuracy, Service Levels, and Online Service by transforming the current applications to a complete new SAP implementation with enhanced business capability for this Utilities Company. Successful Data Migration from the legacy systems into SAP is followed by deriving insights out of the transformed data to present Management Information from the source systems SAP CRM/ISU.
+
+2. MI (Management Information)
+The application landscape was originally legacy driven, fragmented with several source systems providing multiple versions of truth that had cost ineffectiveness to provide reliable MI. To overcome this complication, a tactical solution was pursued to improve the quality of MI resulting in Centralized data repository, Increased MI business coverage and governed collaboration between MI and Insight teams. Slingshot MI is the strategic solution for the Utilities client to deliver greater MI capabilities via Microsoft SQL Server and SAP BW.
+
+Responsibilities
+· Validate all the SAP BI Content objects and newly developed DSOs, InfoCubes, Master data Info Objects, data targets as part of solution requirement.
+· Data validation from Source systems - SAP IS-U/CRM to SAP BW and from BW to BO reports which includes Info Objects/field level validation.
+· Validate all types Data sources, Extractor Interfaces, Process Chains from source (SAP IS-U/CRM) to the targets.
+· End to End data validation from Source to the Presentation layer / BO report in compliance with the business requirement
+· Validate the metrics and measures of the KPIs in BO reports against its respective source system (BEX queries/SAP BW data targets/Legacy tables).
+· Validate the non-functional reporting attributes – Security check, Boundary Value check and Report format check.
+· Validate that the system meets the business requirements and validate the statuses for required fields.
+· Check for changed records by validating the data after the incremental run (Delta run to bring the changed records).
+· Appropriate test data preparation to match the test scenarios.
+
+Environment: SAP BI 7.3, SAP CRM, SAP ISU, HPALM
+
+Loblaw 									Apr 2012 to Aug 2013
+Role: Senior Test Consultant
+Employer: Cognizant Technology Solutions
+
+SAP Capability Release – Track3/Track4/Track5/Production Support
+
+Client is Canada’s largest food distributor and a leading provider of general merchandise products, drugstore and financial products and services. It executes its business strategy in more than 1,000 corporate and franchised stores from coast to coast. This project aims to collaborate with the client in order to transform and prepare its QA organization for a “next generation” enterprise integrated testing model for all projects and support teams. Cognizant will work with Loblaw through various transition phases to ultimately reach the desired state of offering a catalogue of on-demand testing and QA services delivered through a Testing Centre of Excellence (TCoE).
+
+The Testing Centre of Excellence would primarily focus at:
+Ø Serving a complete set of testing services on-demand,
+Ø Drive productivity on a continual basis and most importantly help derive a test strategy that is focused on business needs as the client moves through aggressive transformation roadmaps on the Supply chain and SAP fronts.
+
+Responsibilities
+· (Test Scope definition) Involved drafting of testing strategy by identifying what needs to be tested and what need not be tested under different phases of testing like Integration Test, Regression Test, Smoke Test, etc. I am responsible to arrive at the scope as per the client (Loblaw) project -phase requirements.
+· (Requirement Analysis) Responsible to study the Client business processes to arrive at a better understanding of the actual requirement so as to efficiently meet the testing requirements.
+· (Design scripting) To arrive at a detailed script of the testing process which should satisfy all the required business scenarios to be covered.
+· Execution and update of test results in HPQC. Actual execution of the test cases in SAP system as per the script and update the test result with execution supportive documents into HPQC. Also to interact with onsite team to execute the test cases and supporting the team in case of any execution issues in SAP.
+· (Defect Management) Raise defects and monitor them during the actual executions in SAP. Retest scenarios based on the defects fix and follow-up till the closure of defects.
+· Production Support Activities: The primary objective of the Production Support team is to provide quality assurance for post-production incidents, enhancements and defect fixes. The scope included smoke testing, SIT, regression and mainly focusing on the Impact Based Testing. The goal is to provide precise and complete coverage in a short duration by way of innovation and automation. The activities included all areas of testing like test design, test execution, defect creation & retesting and reporting.
+· Impact based Testing – Perform Impact analysis on Test Suite in QC based on various factors like the Business Process Area (BPA), Sub BPA, Process Unit, WRICEF object, SAP T-Code and Coverage. The resultant test set is validated again by the experts to precisely target the scenarios and enable effective test execution.
+
+Environment: SAP BI 7.3, SAP IS-Retail, Teradata, POSDM, HP QC
+
+Novartis 								Apr 2010 to Apr 2012
+Role: Test Lead
+Employer: Cognizant Technology Solutions
+
+1. SAP BI Consolidation
+The project aims at the consolidation of 6 regional + 1 stand-alone global SAP BI into 1 state of the art BI platform which could be managed by one global BI team. Due to the fragmented BW systems in the older model, it is impossible to drill down on the local, regional and global information. The new model BI aims to address these inherent short comings by focusing on LSA (Layered Scalable Architecture) model which would enable the client with a robust and consistent single point of truth, flexible, fast, easy to use, and many other capabilities to make efficient decisions to run its Pharma business. The consolidated SAP BI benefits would mean reduction in the number of reports by more than 80% (from 17000 to 2000).
+
+2. EM Trending
+The project aims at realizing the TechOps EM Water and Non-Water Trend Analysis process according to the Layered Scalable Architecture (LSA) and derive Trend Analysis dashboard, Trend Analysis Reporting & Trend Reporting. This included testing five generic datasources at the Acquisition Layer, one Multi-provider at the Reporting Layer and functionalities like PEDA value and No. of Germs calculation.
+
+3. PQR-APR:
+The product quality review report (PQR) and annual product review report (APR) are summarizing quality relevant information for given materials on a plant level. Product Quality Reviews (PQRs)/Annual Product Reviews (APRs) have to be carried out on a regular periodic or rolling basis for all licensed medicinal products in order to verify the consistency of existing processes, the appropriateness of current specifications for both Drug Substance (DS) and Drug Products (DP), to highlight any trends, to identify product and process improvements, and to take any necessary actions to assure that products remain in compliance with their marketing authorization. The reports were produced manually. The new solution will make use of automated data preparation and consolidation as far as possible. It will combine the previous PQR and APR reports in one solution named “PQR/APR Report”. For manual content entry and completion a user interface will be developed. Also, the review and the approval of the PQR/APR reports will be handled by the application.
+
+Responsibilities
+· Analyze Reports and reconcile information to the new model BI governed by the new model rules.
+· Build FS based on the Fit GAP analysis which is reviewed and approved by the architects.
+· Develop Reports as per the LSA specifications and guidelines.
+· Develop Test Scripts for the queries developed.
+· Perform unit testing and send the documents for Screening/Peer review.
+· Perform visualization, OLAP and rule specific screening/review of the queries.
+· Perform detailed testing taking into consideration all the elements in the query and reconciling backend data with the query output.
+
+Environment: SAP BI 3.0, SAP BI 7.3
+
+Hewlett Packard Company 						Feb 2002 to Mar 2010
+Role: SAP BW Consultant
+Employer: Hewlett Packard Co.
+
+1. SAP APO BW Support
+The Demand and Supply planning framework involves two regional APO (Customer Collaboration-SNC, Forecasting and Demand Planning-APO-DP, Supply/Distribution planning-APO-SNP, Order Commitment and release-gATP) & BW (data staging & Operational reporting) instances and one worldwide APO & BW instance. There are multiple business groups operating on regional and worldwide instances. The project aims to monitor and support this platform 24x7 for mission critical applications.
+
+2. EMEA Supply Chain Application Platform Support
+The EMEA Supply Chain IT is one of the client's biggest domains. The SAP R/3 production system includes 7 Application Servers with 2000+ users each. This project aims at providing pivotal (backbone) L2 and L3 support to various SAP R/3 4.6C and Legacy applications under its Supply Chain business. This involves managing development, integration and production platforms and Support Tools necessary to facilitate daily Supply Chain cycles. This project follows On-shore - Offshore based Support model.
+
+3. Application Support
+This project primarily involves "Incident Management" and "After Hours" support functions. Incident Management Support involves resolving customer issues with regard to the mission critical Supply Chain applications and processes customers interface during business hours. After Hours Support functions and responsibilities include making sure all schedules and jobs run successfully so that the applications are available during business hours for the users. This also includes supporting 24x7 mission critical applications during after-hours. These functions directly impacted HP’s Supply Chain applications like Fireman (Customer Service Order generation tool), SAM (database), SPORTS (cost calculation) and SORDS (Invoices Printing).
+
+Responsibilities
+· Monitoring - Monitor application alerts, job failures, logs, Application queues, SiteScope, Application URLs, Databases, Mail alerts.
+· Scheduled Maintenance - Create, modify, and delete application schedules as required through scheduler.
+· Worked closely with the database administrator, SAP Basis, Unix L3 and application teams during interventions like SAP Release, Patch upgrades, and downtime/maintenance and investigations. Also provide technical assistance to various
+· SAP Application Support Teams/Legacy Applications to leverage Incident Management/Problem Management, ROOT CAUSE identification and resolution to recurrent issues.
+· MTI/MTP - Performed Move-To-Integration (MTI)/Move-To-Production (MTP) activities. This involves Versioning/Scheduling/UNIX (SQL queries, Tomcat/apache restart services, etc…) changes to be performed on various Integration and Production environments. HP UNIX forms the main platform to both Legacy and SAP R/3 Fusion applications we supported.
+· Co-ordination/Communication - Work closely with other support groups during planned/unplanned application/server downtime.
+· Reporting - Own the delivery of shift and provide status report, report application availability.
+· Process improvement - Review the existing process and ensure that team is fully aware of all the processes. Proactively identifying the areas of improvement and implement the correct process.
+· Handling escalated incidents - Helping and educating team members on the issues/cases they are unable to handle. Manage the escalated issues and prepare post incident reports.
+· Trainings - Cross application training. Technical training for team.
+· Data collection - Collect the project related data from Team.
+· Shift Plan - Prepare the shift plan for team.
+· Co-ordination/Communication - Work closely with the Team and make sure that team is having up-to-date information. Work with the team on improving the communication.
+· Environment: SAP BW 3.0, SAP APO, HPUX, HP OpenView, SAP BatchMan, SAP R/3 4.6C, MPE/IX, JCL
+
+Personal Details
+Mobile		: +91 9945655669
+Email		: prabhanjana.h.b@cognizant.com
+PASSPORT	: Z2975450 (valid till 22/09/2024)

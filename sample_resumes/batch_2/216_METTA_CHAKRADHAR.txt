@@ -1,0 +1,171 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+RESUME
+                                                                           METTA CHAKRADHAR
+Address:        	                                                        	
+Jooluri Mens Hostel	                                                                                   DOB     : 9th July, 1994                                                                                     
+Near Dokkalamma temple,           	                                                         E-Mail : chakradhar.metta59@gmail.com
+Shenkar veedi, Secundrabad, 500003                                                               Mob No:+91-9490930095
+
+CAREER OBJECTIVE: To work in a dynamic and highly challenging environment which offers ample opportunities to apply my technical, analytical, creative and communication skills to leverage the organizational growth and ensure in over all development.
+EDUCATIONAL QUALIFICATION:
+B.Tech (Computer Science and Engineering)
+College              :           Pydah College of  Engg. and Tech,Visakhapatnam, Andhra Pradesh .
+YOP		:           2015
+University	:           JNTU-K.    
+Aggregate	:           67.66% 
+
+Intermediate (Board of Intermediate Education)
+College 	:	Sri Chaitanya Jr.College, Visakhapatnam, Andhra Pradesh.
+YOP	:	2011
+Group		:	MPC.
+Aggregate	:	82.8%.
+
+X Class (State Board of Secondary Education)
+School 	:	Cambridge High School, Srungavarapukota, Andhra Pradesh.
+YOP	: 	2009	
+Aggregate	:	80.3%.
+Professional Brief:
+· Currently associated with Real time Tech Solutions, Hyderabad as Hardware Application / Networking Engineer (Desktop Support) since JAN-2017.
+· Associated in hardware applications research and analysis, multiple tier customer support, providing complete in-depth information about the related software and system maintenance and vendor relations
+· An effective communicator with strong leadership, relationship management, coordination, analytical and problem-solving skills.
+
+Skill Set:
+· Languages: C,C++,Linux Scripting
+· OS: Windows-(XP,7,8) and Linux.
+· Methodologies/Concepts: Hardware Testing, Drivers Installation. 
+· Protocols: IPMI, iSCSI, RAID, TCP/IP, FTP, TFTP, TELNET, SCP, SSH, USB,RS-232 RS-422.
+· Always accomplished the target before deadlines and ensure defect free in customer deliveries.
+· Recognized for performance and project contributions.
+· Team –Oriented and self dependent working style.
+
+
+
+
+
+PROJECT PROFILE:
+PROJECT 1: GBMES
+Title            : “Hardware Ruggged Data Server/Storage” in BEL (Bharat Electronics Limited).
+Team	       :  3 members
+Role   	       : Applications Engineer
+Description: A Data server is a computer program or a device that provides functionality for other programs or devices, called "clients". The Data storage basic functionality is to store the data. The storage capacity of the system depends on no. of Drive Bays with a redundancy raid. The Communication between Drive Bay and Raid Card is done using SAS (Serial Attached Storage) cables each at a transfer speed of 12gbps. Raid (Redundant Array of Independent disk) should be configured and used. 
+Participation: 
+· Installation and Configuration of Red Hat Enterprise Linux,10GB ethernet Drivers and checking their Performance and transfer speed from Server to Client
+· ATP Scripting (Application Test Procedure) written for Data Server in Linux for accessing all Hardware and Network Ports 
+· Configuring duel Redundancy RAID Card for accessing
+· Establishing the communication between Server and Client through various communications channels with Ethernet port (iperf) ,Serial port (RS-232/RS-422)
+· Worked with IPMI(Intelligent Platform Management Interface ) for hardware health monitoring and management system that defines interfaces for use in monitoring the physical health of servers, such as temperature, voltage, fans, power supplies and chassis
+· Preparing Quality Assurance Plan Documents and Acceptance Test Procedure Documents for the Data Server
+· Performing various environmental tests (EMI/EMC and etc) in accordance with defense procedure.
+
+Environment:
+· RHEL,ATP Script,1GB,10GB Ethernet ports, IPMI, iSCSI, RAID Configuration
+
+PROJECT 2: INS (Inertial Navigation System)
+Title            : “Control Display Unit” in RCI DRDO (Research Center Imarat).
+Team	       :  2 members
+Role   	       :  Applications Engineer
+Description: The objective of the Control Display Unit (CDU) is to guide the inertial navigation system (INS) through motion sensors (accelerometers) and rotation sensors (gyroscopes) to continuously calculate the position, orientation and velocity of the moving object without the need of external references. Data (Read & Write) is passed between all the systems through communication systems. It Compromises of two different communications i.e.., RS-232 & RS-422.
+Participation:
+· Integrating hardware components of CDU’s.
+· Installation of Windows XP Embedded Operating System on embedded motherboard by selecting the required components according to the requirement.
+· Developing a simulator to communicate between two systems through RS232 and RS422 Protocols in COM applications 
+· Performing various environmental tests (EMI/EMC and etc) in accordance with defense procedure.
+· Stood for Environmental/EMI/EMC tests which takes place for more hours to days
+
+Environment:
+· Windows XP Embedded, Visual Studio C++ V6.0.
+· Protocols: RS-232, RS-422.
+
+
+
+PERSONAL PROFILE:
+   Father Name                    :    M.Prakasam
+   Nationality                       :     Indian
+   Gender                             :     Male
+   Marital Status                  :     Single
+   Achievements		    :     Attended a 2-day workshop on ROBOTICS by ROBASAPIENS 
+                                             Achieved a certification as an “DATA PROCESSING SPECIALIST” from AMCAT
+   Language Known            :     English, Telugu and Hindi
+   Strengths                         :     Optimistic,
+                                                  Flexibility,
+                                                 Multi tasking
+  Hobbies                            :    Gardening,
+                                                 Internet Surfing,
+                                                 Long drives.
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+    DECLARATION:
+    I hereby declare that the above information furnished is true to the best of my knowledge.
+
+    Place: Hyderabad                                                                                            (M.Chakradhar)
+

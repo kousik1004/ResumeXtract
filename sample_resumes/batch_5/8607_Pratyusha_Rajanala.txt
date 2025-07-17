@@ -1,0 +1,199 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pratyusha Rajanala
+Phone: +91-7893544666
+
+Email:  pratyusha.rajanala@gmail.com
+
+PROFESSIONAL SUMMARY
+
+· Currently working at Tecnics Integration Technologies Pvt Ltd, as IBM Filenet Developer 
+
+· 3+ years of experience in development and implementation of business centric software applications.
+
+· Experience in designing and developing Filenet  based solutions in IBM Case Manager solutions and customizing the application as per the client requirements
+· Good knowledge on CE & PE programming, extensively worked on designing and customizing workflows 
+
+· Previously worked at, Sweet Interactive Web Solutions, as Quality Analyst
+· Self motivated and able to set priorities on hectic schedules.
+
+SKILLS
+
+	IBM Technologies
+	IBM Case Manager 5.1, 5.2 , IBM BPM 8.5.7, ICC for SAP
+
+	Java Technologies
+	J2SE,J2EE
+
+	Application Servers
+	Web sphere Application Server
+
+	IDE’s
+	NetBeans, Eclipse
+
+	Languages
+	HTML, Java script
+
+
+SCHOLISTIC RECORD
+
+	Qualification
+	Board/University
+	School/Institute
+	Year of Passing
+	Percentage
+
+	
+	
+	
+	
+	
+
+	MCA
+	JNTU
+	Institute of Aeronautical Engineering College
+	2012
+	79.07 %
+
+	BSC
+	Osmania University
+	Hindu Degree College for Women
+	2009
+	70 %
+
+	Intermediate
+
+(MPC)
+	Board of Intermediate Education, A.P
+	Narayana Junior College 
+	2006
+	81.3 %
+
+	SSC
+	Board of Secondary Education, A.P
+	Rabindra Niketan High School
+	2004
+	75.6 %
+
+
+PROFESSIONAL PROJECTs
+
+PROJECT 1
+
+Title: E-Invoicing
+Client: Dr.Reddy’s Laboratories Ltd, Hyderabad
+Role: IBM Case Manager Developer
+
+Application Domain: Enterprise Content Management (ECM)
+
+Platform: IBM Datacap Taskmaster Capture 8.1.0.2, IBM Filenet 5.2
+
+Project Description: Implemented multiple processes which handles and automates day to day activities for processing payments to digitalizing payrolls. 3 different modes of case creation i.e., Hardcopy, Email and Manual
+· Ingesting an email request through a custom java code and identify the request based on the email template and create a case in that category queue in case manager.
+· Different processes implemented are 
+· Procure to Payment (P2P) - Invoice Processing for PO and NON PO for Multiple Geographies 
+· Order to Cash (O2C)
+
+· Record to Report (R2R)
+
+· Employee Service Tax (EST)
+
+· Agreements Review
+
+· Human Resource Shared Service Center
+· Interacting with SAP using web services and update the case as per the data in SAP
+
+· Auto Park and post in SAP through web services.
+
+· Auto email notifications based on the due date.
+
+PROJECT 2
+
+Title: Drugs, Financial and Security Research Management System 
+
+Client: Seychelles MOI
+
+Role: IBM Case Manager Developer
+Project Description: The main aim of the project is to create the solution for finding drugs and managing their Content and finding fraud transactions happened financially and their history details capturing case wise to better track and preventing. 
+Responsibilities: Application Design and IBM Content Navigator Development
+· Developed the solution in IBM Case Manager based on the client requirements
+
+· Developed the Folders structure and providing security based on the inputs provided at user level
+
+· Creating LDAP users and providing security based on hierarchy
+
+· Customization using Java script 
+
+· Interacting with SAP using web services and update the case as per the data in SAP
+PROJECT 3
+
+Title: Ministry of Finance (Oman)
+Role: IBM Case Manager Developer
+Project Description: MOF is in need of Document Management to manage various documents that they receive on daily basis. We have implemented DMS which provides the user with all the functionalities required for faster search, better management in uploading and retrieving the documents. 
+Responsibilities: Application Design and IBM Content Navigator Development
+
+· Developed the Workflow using process designer which automates the tracking of documents which are uploaded by the end users
+· Developed the Folders structure and providing security based on the inputs provided at user level
+
+· Creating LDAP users and providing security based on hierarchy
+
+· Configuring email Notifications to send the alerts to the user
+· Workflow for approvals and rejections
+DECLARATION
+
+I hereby declare that all the details furnished above are true and authentic to the best of my knowledge.
+
+Date: 06/11/2017
+Place: Hyderabad
+Pratyusha Rajanala
+
+
+
+
+
+
+

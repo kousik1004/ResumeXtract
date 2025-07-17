@@ -1,0 +1,215 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABHIJIT ROY
+Email id- abhijitr983@gmail.com
+Mobile- +91-9732577255
+Kolkata
+Objective:
+Seeking a challenging career where I can utilize my previous experience to improve my skills and support my team to build up powerful and successful system.
+Career Summary:
+-Currently working as System Administrator in Optimize IT Systems Pvt. Ltd.
+-5+ years Experienced with industry standard Linux, Virtualization.
+-A self-motivator and team member.
+Key Skill:
+Linux, Cloud (AWS), Virtualization (VMWARE), Open Source, Backup(Acronis).
+Area Of Expertise:
+
+-Operating Systems: Linux (Red Hat, CentOS), Windows Server
+-Cloud: Amazon Web services
+-Virtualization: VMware, Citrix, Red Hat Virtualization
+ 	-Hadoop administration: Log monitoring, Co-ordinating with team to resolve issues, L1 troubleshooting, Implementation.
+	-Database: MYSQL, MSSQL.
+-Server Administration: DNS, FTP, NFS, SAMBA4, SSH, DHCP, LAMP, Syslog, Openldap, PXE.
+-Linux Systems Administration: LVM, Kickstart, SUDO, Sticky bit, Package manager (RPM, YUM etc), File Systems management (ext2, ext3, ext4, xfs, swap etc), X Window System, VPNs (openvpn), VNC.
+-Network Services Administration: HTTP/HTTPS, FTP, NFS, SMB, SMTP, SSH, NTP, LDAP
+-Systems Security Management: iptables.
+-System & Network Monitoring Tools: nmap, vmstat, iostat, top, traceroute, logwatch, netstat, route, ps, webmin, df, du, fsck.
+-Troubleshooting: Failure issues in Linux Box.
+-Backup Tools: tar, gzip, bzip2, rsync, Acronis etc.
+Certificate:
+-Red hat certified system administrator (RHCSA)
+-Red hat certified engineer (RHCE)
+Education
+-B.SC. from Vidyasagar University in 2005.
+-12th from WBCHSE in 2002.
+-10th from WBBSE in 2000.
+
+
+Professional Experience
+System Administrator | Optimize IT Systems Pvt. Ltd | Since Apr,2017
+Accomplishments:
+-Managing & administrating Linux & windows server in AWS cloud & virtual environment.
+-Providing operational support to software developers.
+-Managing software automation tool & working with git.
+-Creating & managing software Development, QA, UAT & Production setup using automation tool & manually creating database & integrate with the software.
+-Troubleshooting server related issues.
+-Providing desktop support, Configuring network printer.
+-Managing issues & system support using issue tracker management systems.
+
+__________________________________________________________________________________________
+Sr. System Engineer | TIS Labs Pvt. Ltd. | Oct.,2015 to Apr,2017
+Accomplishments:
+Client: Tata Tele service Limited / National Stock Exchange, Mumbai
+Role: Installation & L1 support for Cloudera Hadoop
+Responsibilities:
+-Knowledge of Linux administration CentOS/RHEL.
+-Having knowledge in Cloudera Hadoop.
+-Performing scheduled Activity at Night related to System or Network issue including remote coordination with various engineers from various Vendors like HP, TTSL etc.
+-Vendor management like HP, Cloudera etc related to Ticket management issue.
+-To arrange entry gate pass of the HP Engineers at remote sites (Delhi / Mumbai / Bangalore) for their different scheduled/ongoing activity.
+-Coordinate with team members along with management for the resolving Ticketing Priority based.
+Client: Indian Institute Of Chemical Biology, Kolkata
+Role: Implementation & configuration
+Responsibilities:
+-Installation & configuration high performance CentOS Rocks cluster.
+-Installing compute node.
+Client: SAIL, Ranchi
+Role: Implementation, configuration & support
+Responsibilities:
+-Installation and Configuration VMWare 5.5.
+-Configuring VM backup backup using VDP.
+-Physical to virtual(p2v) migration.
+-Configuring Vmotion & HA cluster.
+-Installation & configuration of Acronis backup 11.5 & create a centralized setup to take backup of all the servers in the network.
+-System service.
+Client: NIT(National Institute of Technology), Rourkela
+Role: Implementation, configuration & support
+Responsibilities:
+-Open LDAP server/client installation & configuration.
+-NFS server configuration.
+-PXE Server configuration with kickstart.
+Client: Medfin India Pvt. Ltd., Kolkata
+Role: Implementation, configuration & support
+Responsibilities:
+-Samba4(active directory).
+-FTP server.
+-Samba file server
+-DHCP server
+-AWS EC2 instance in the cloud
+Client: Webel, Kolkata
+Role: Implementation & configuration
+Responsibilities:
+-Installation & configuration of CA NFA(Network Flow Analysis).
+-Installation & configuration of Ca Spectrum.
+-CAPC & CA Anomaly integration to CA NFA.
+Client: Bhandari Automobiles, Kolkata
+Role: Implementation, configuration & support
+Responsibilities:
+-Installation & configuration of Samba4 active directory service.
+-Creation & implementation of GPO objects.
+-Samba file server.
+-Installation & configuration of Syslog server.
+-Installing open source backup software Bacula.
+-Setting up backup policy and schedule of backup.
+Client: OFB (Ordnance Factory Board), Kolkata
+Role: Implementation only
+Responsibilities:
+-Installation & configuration of mail server(postfix, dovecot, squirrel mail).
+-Taking backup of entire mail server to a secondary mail server(DR).
+-Configured Network bonding(Bond0).
+Client: Stoplift India Pvt. Ltd., Kolkata
+Role: Implementation, configuration & support
+Responsibilities:
+-Configuring Lenovo NAS and create LUN.
+-Installation and Managing DHCP, FTP, Samba, Squid server.
+______________________________________________________________________________________
+
+Tech Support Executive (L2) | MSR IT Solutions Pvt. Ltd. | May,2012 to Sept.,2015 
+Accomplishments:
+-Monitoring Linux servers and other network devices.
+-System maintenance.
+-Update latest patch of system software version
+-Configuring outlook
+-NOC Monitoring
+-SIP Monitoring
+-Installation of movie files
+-Identifying any system issue, troubleshooting & doing RCA
+______________________________________________________________________________________
+Tech Support Executive (for BT) | WIPRO BPO Ltd | July,2011 to April,2012
+Accomplishments:
+-Troubleshooting for internet settings in Windows and MAC computers.
+-Configuring outlook, windows mail.
+-Installing Antivirus software.
+-Test the PSTN line, and check for physical line fault.
+-Resolving home user’s broadband, landline, IP Phone and IP TV issues.
+-Maintaining AHT, Call Quality Standards, Customer satisfaction survey rate and other process parameters.
+-Maintaining call details data and other process.
+______________________________________________________________________________________
+Assistant Manager (Sales) | Kotak Mahindra Bank Ltd. | Feb,2011 to Jul,2011
+
+-Generating sales lead for bank account & insurances.
+- Generating Asset Leads & following Those Up Until Disbursement.
+__________________________________________________________________________________________
+Phone Banking Officer (HDFC Bank) | ADFC Pvt. Ltd | From July,2008 to January,2011 Accomplishments:
+-Banking Operations.
+-MIS & Microsoft Excel Oriented Data Processing.
+-Maintaining Customer Data Base & Generate Business from Them.
+-Generating Asset Leads & Following Those Up Until Disbursement.
+-Selling Casa, Insurance, Demat & Trading A/C & Visit Customers If Requires.
+-Financial Service Providing To the Customers.
+__________________________________________________________________________________________
+Customer Service Associate (Vodafone) | First Source Solutions Ltd. | From February, 2007 to July,2008
+Accomplishments:
+-Trouble Shooting & Solving Customer Queries.
+-Complaint Handling.
+-Handling a team Of 13 People as mentor.
+Personal Details
+Address – Tarulia, Kestopur, New Town, Kolkata-700102
+Nationality – Indian.
+Date of Birth – 8th March, 1983
+Gender / Marital Status – Male / Unmarried
+Known languages- English, Hindi, and Bengali.
+Declaration
+I do hereby declare that all information furnished here are true to the best of my knowledge and belief.
+	Place:Kolkata                                                                                                         (Abhijit Roy)
+	
+
+
+

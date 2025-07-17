@@ -1,0 +1,146 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+
+	PRANOTI PAWAR
+	Apt 102, Pradham Grand
+
+3rd Cross
+
+Domlur
+
+Bangalore 560 071
+
+Mobile No: 9663641092
+E-mail: pranotipawar@gmail.com
+
+
+
+summary
+Total experience of 8.5 years across Banking, Human Resources and Telecom industries with 2.5 years of experience in data science and machine learning. Proficient in R in applying machine learning to extract insights that drive value.
+EDUCATION          
+  ANNA UNIVERSITY, Chennai, India 
+
+  Bachelor of Engineering in Computer Science             Jun 2002 -May 2006
+  Indian Institute of Management, Bangalore
+
+  Business Analytics and Intelligence 
+           August 2015 – May 2016
+
+ANALYTICAL SKILLS
+· Predictive Analytics - Linear Regression, Logistic Regression, SVM, Random Forest, Gradient Boosting, K-Nearest Neighbors, Linear Discriminant Analysis
+· Others - Factor Analysis, Cluster Analysis, Principal Component Analysis 
+· Data preparation - Treating outliers, data imputation, treating missing values, creation of interaction and dummy variables.
+Technical Skills
+Analytical/Visualization Tools – SPSS, R-Studio, Spyder
+Databases – Oracle 10g and 11g Database Server, MongoDB 3.4
+Computer Languages/Technologies – R, PL/SQL, Oracle10g/11g, Java, JavaScript, UNIX shell scripting, 
+ANALYTICS ProjectS
+Employer: IBusiness Software Ltd, Bangalore – June 2017 to Present
+
+Data Coherency: Using Central Limit theorem to determine average for numeric variables and average count of occurrences for categorical variables. This value is then used to flag weeks which show high deviation from the mean. The weeks with the high deviations are flagged and reported. This is especially useful when there are sudden changes to the scale of data such as when Credit Score of merchants across USA changed.
+
+Methodology: Central Limit Theorem, R scripting
+Classify Existing Deals that are Potential Legal Cases: Existing merchants that have defaulted on their payments consecutively are run through the model to determine if the deal can turn into a Legal case. An existing data set with merchants who had defaulted on payments with their legal status set to Y was used. This was an unbalanced dataset. The classification algorithms used were Logistic Regression, Random Forests and SVM. The final model selected was an ensemble model.
+
+Methodology: Logistic Regression, Random Forest, SVM, Synthetic sampling, Data imputation with KNN, R scripting
+Infogroup Datasource validity: Determine if merchant data obtained from third party datasource “Infogroup” was providing value add to the existing model. The newer variables were used in a cforest model and comparison was done based on AUC of the newer model vis-à-vis the existing model.
+Methodology : cforest, KNN and hotdeck imputation, R Scripting
+Employer: IBM/CenturyLink, Bangalore – Jan 2016 to May 2017
+Client : CenturyLink, USA
+
+Predicting Telecom Customer Churn: Predict customer churn based on a data sets containing customer information, services used by the customer and billing. Team had to collate the different data sets into a single data set, perform exploratory analysis to determine relationship between target variable and the various other features. Logistic Regression, SVM and Random Forest are some of the techniques being used for solving this problem. 
+Methodology: 
+· Write R scripts for Data collation and data cleaning
+
+· Build Logistic Regression, SVM, KNN and Random Forest Models and choosing the best model based on AUC and sensitivity
+· Write SQL queries to fetch the data from the appropriate data source
+Technology/Tools : R, SPSS, SQL, Logistic Regression, SVM, KNN, Random Forest
+IIM-B CAPSTONE PROJECT
+
+Gate Scheduling Project for Major Indian Airport– Dec 2015 to May 2016
+Analysis and modelling the optimal flight-to-gate assignment for gates in the T3 international Terminal in the Delhi International Airport by reducing the total distance traversed by the passengers from the security counter to the boarding gate.
+
+Methodology:
+· Developed R Scripts to estimate the Arrival Time for each flight Number by using Simulation and Central Limit Theorem 
+
+· Developed R Scripts to determine delays based on time of day and day of week, identify flights with large delays based on historic data
+
+· This helped business identify flights that have large (either early or late) deviations from their Standard Arrival assigned time
+
+· The flight to gate assignment model was developed as a minimization function of walking distance between security counter and boarding gate 
+
+· Constraints such as size requirements, planned maintenance, mandatory assignments etc were used 
+NON-ANALYTICS PROJECTS                                                                                                              
+Employer: IBM/CenturyLink, Bangalore – May 2013 to May 2017
+Client : CenturLink, USA
+Real Time Customer Repository (RCR): Application manages customer information for various internal products/processes such as DirectTV, Broadband, IPTV, POTS etc. My role, apart from being a database developer was to help any new system integrate with RCR and provide solutions to help them integrate with our systems seamlessly.
+Role: Senior Software Engineer
+Technology/Tools: PL/SQL, UNIX, Java, j2ee
+Employer: Aon Hewitt, Chennai – Nov 2010 to Dec 2012
+Client : Bank of America, USA and Hartford Insurance, USA
+
+Back Office User Interface (BOUI): This project deals with the HR domain. The product interfaces with PeopleSoft to mass load employee data, such as their payroll, location, department and job details into PeopleSoft tables after validation of data from the BOUI end. The product thus ensures large amounts of data can be validated quickly and reduces cost accrued due to PeopleSoft licenses. 
+
+Role: Developer and Post Production Support Engineer
+Technology/Tools: PL/SQL, UNIX, Java, j2ee
+Employer: Infosys Technologies, Chennai - 
+Client: Bank of America, USA
+Dedicated Customer Report Generation: This project was to enable the client to generate reports of business accounts data, based on different criteria and restricting the viewable reports depending on permissions granted to the viewer.
+Role: Software Engineer
+
+Technology: Crystal Reports, MySQL
+
+ACHIEVEMENTS AT WORK  SHAPE 
+
+
+
+· IBM Unite to Get it Done Award for managing Billing Conversion from CRIS to Ensemble in Nov 2015 for recognizing key pain points and resolving them ahead of time
+
+· Manager’s Choice Award – 2016 for the practice of “Dare To Create Original Ideas”, for contributing Ideas towards fixing manual ticket fixing and providing a User Interface for Customer Reps. 
+
+· Best Project Award for “Critical Connections” Project for Batch 6 of Business Analytics and Intelligence, 2015-2016
+

@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DANDA VIJAY KUMAR
+
+Oracle DBA & Applications DBA                                                                      
+
+Mail me: danda.vijayreddy@gmail.com 
+Call me: +91-8885559941 (Mob)
+
+Summary: 
+
+Having  3+ years of experience in Oracle Applications and Core DBA  and looking for more challenging and growth oriented position as a Oracle Database Administrator where I can learn the latest developments in various technical aspects to be able to implement in time to come.
+
+Professional Summary:
+
+· Hands on experience on R12 (12.0.4, R12.1.1,.2 &.3)
+
+· Upgrading EBS from 11i to R12.1.1.
+· Architecture, Installation, Cloning and Patching (version 11.5.8 to R12)
+· Cloning using Rapid Clone
+
+· Experience in Oracle 9i(9.2.0.7 to 9.2.0.8)/10(10.2.03 & 10.2.0.4)/11g(11.07 and 11.2.1) Oracle Installations and Upgrades
+
+· Refreshes  Oracle applications, DB and Mid tiers
+
+· Troubleshooting expertise applications, Database tiers.
+· Strong understanding of different types of OS concepts
+
+· Knowledge in RAC and Data guard, configuration and administration
+
+· Excellent communication and interpersonal skills with experience of functioning as morale owner of the team.
+
+· Efficiency in handling ticketing systems. 
+· Analytical and able to adapt to new environments and learn new technologies quickly
+
+Work Experience:
+·   Working as Software Engineer with Infonology India Pvt limited Since Nov 2008 to till date.
+
+Academic Qualification:
+
+· POST GRADUATION DIPLOMA in Engineering and Technology Management from University of  West of the England(UK)  in 2008
+· B.E from NAGPUR UNIVERSITY in 2005.
+
+Expertise in Software Technologies:
+
+         Databases
+                   :
+ Oracle 8i/9i/10g/11g
+
+
+         E-Biz Suites                          :    11i/R12
+
+   Operating Systems              :     UNIX (Solaris, HP-UX, LINUX), Windows NT/2000
+
+         Hardware
+                   :     HP 9000 series, SUN SPARC, and Intel Pentiums
+
+         Languages
+                   :     SQL, PL/ SQL.        
+
+         Tools                                     :     Oracle’s OEM, and Putty         
+
+DANDA VIJAY KUMAR
+
+Oracle DBA & Applications DBA                                                                      
+
+Mail me: danda.vijayreddy@gmail.com 
+Call me: +91-8885559941 (Mob)
+
+Projects Profile:
+
+Project#1:
+
+	Client:
+	CRH –Ireland
+
+	Title
+	Upgrade Oracle E-Business Suite Release 11.5.10(Cu2) to R12.0.4
+
+	Duration:
+	Jan2010-Till Date
+
+	Environment:
+	Oracle E-Biz R12.0.4 , Database(11.0.7 ), ASM Linux-4.5
+
+	Role
+	Oracle Applications DBA
+
+
+CRH’s strategic vision is clear and consistent - be an international leader in building materials delivering superior performance and growth. The success of CRH is founded on 
+
+The exceptional commitment and capability of its management and staff and culture of performance which characterizes CRH throughout its widespread operations.
+
+Responsibilities:
+
+· Upgraded applications from 11.5.10.2 to 12.0.4
+
+· Upgraded database from 10.2.0.3 to 11.1.0.7
+
+· Configured Workflow Mailers Setups
+
+· Applied Rollups and Maintenance packs
+
+· Set up Flash back Recovery 
+
+· Clone by Hot backs and RMAN
+Project #2:
+
+Project:
+
+	Client:
+	PPG, Pittsburg
+
+	Title
+	Implementations and DB Upgrade and ASM setup
+
+	Duration:
+	Nov 2008—Jan 2010
+
+	Environment:
+	R12, Upgrade from 9.2.0.8 to 10.2.0.3, Linux 4.5
+
+	Role
+	Apps and Core DBA
+
+
+Description:
+
+PPG Industries is a leader in its markets; is a streamlined, efficient manufacturer; and operates on the leading edge of new technologies and solutions. It is our vision to continue being the world’s leading coatings and specialty products and Services Company, serving customers in construction, consumer products, industrial and transportation markets and aftermarkets.
+
+DANDA VIJAY KUMAR
+
+Oracle DBA & Applications DBA                                                                      
+
+Mail me: danda.vijayreddy@gmail.com 
+Call me: +91-8885559941 (Mob)
+
+Responsibilities:
+
+· Installed R12 on multimode.
+
+· Performed database Upgrade from 9.2.0.6 to 10.2.0.3
+
+· Performed clones of both database and applications using Rapid wiz utility
+
+· Migrated database from Windows to Linux using 10g RMAN Convert Utility
+
+· Supported Technical team in debugging post Upgrade issues.
+
+Project #3:
+
+	Client:
+	Clopay 
+
+	Title
+	Maintenance and Upgrade (Apps 11.5.8 to 11.5.10.2 and DB 9.2.0.7 to 9.2.0.8)
+
+	Duration:
+	Nov 2008—Jan 2010
+
+	Environment:
+	Solaris 5 (32-Bit), Oracle 9.2.0.7, Applications 11..5.10.2
+
+	Role
+	Oracle Applications DBA
+
+
+Description:
+
+Clopay Building Products, a wholly owned subsidiary of Griffon Corporation, have been the trusted leader and the nation’s largest manufacturer in providing homeowners with the finest residential garage doors and businesses with commercial and industrial doors.
+
+ Activities: 
+
+· Upgraded from 11.5.8 to 11.5.10.2
+
+· Upgraded Discoverer  
+
+· Upgraded database from 9.2.0.7 to 9.2.0.8
+
+· Set up Transparent Gate way to Microsoft SQL Server to database.
+
+· Performed monthly table partitioning for Sigma Servers.
+
+· Performed database cloning through Hot Backup. 
+
+· Performed Schema maintenance activities like setting profiles and grants.
+
+· Daily monitoring for Database performance 
+
+· Set up DB monitoring Scripts on Solaris OS.
+
+· Code migrations for Test environments to PROD.
+
+· Weekly backups by RMAN.
+
+Personal Profile:
+Name
+
+
+
+:
+Danda Vijay Kumar
+
+PAN Number
+
+
+:
+AHIPB8482A
+
+Marital Status
+
+
+: 
+Married
+
+Languages Known
+
+: 
+English, Hindi, and Telugu 
+

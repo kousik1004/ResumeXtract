@@ -1,0 +1,299 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prashant Kumar Rajput, Senior Quality Assurance Engineer, 5 years
+PRASHANT KUMAR RAJPUT
+                            H.No – 2/37, IIIrd FLoor,
+
+Nirankari Colony, Delhi-110009
+
+Phone: 9555030266
+
+Email: prashant.rajput05@gmail.com
+
+Career Objective: 
+To give effective as well as efficient efforts towards attainment of organizational goals with exploring wide scope of knowledge and intelligence. To work in an environment that provides a challenging and rewarding career ensuring a high-level job satisfaction. In the process apart from benefiting my employer, I also expect to learn for my overall development. 
+
+Proffessional Summary:
+
+· 5 years of industry experience in the area of Software Testing (Manual and Automation) with a solid understanding of Test Execution and Defect Reporting & Tracking.
+· Expertise in Understanding and Analyzing Test Requirements, Tracking changes and maintenance of Test Requirements.  
+· Well acquainted with all phases of SDLC and STLC.
+· Proficient in Test Automation using Selenium, Soap UI. 
+· Expertise in Selenium WebDriver using java, POM, PageFactory, Maven, Hybrid and DataDriven Framework, JDBC.
+
+· Extensively involved in Systems, Integration, Regression, Functionality and alpha Testing of different applications of different platforms such as Windows, Web, iOS and Android.
+
+· Experience in Functionality Testing – Smoke Testing, Negative Testing, Adhoc Testing, System Testing, Sanity Testing and Regression Testing using Black Box Technique.
+
+· Worked on Web Automation framework development.  
+
+· Proficient in OOPS concepts and possess comprehensive problem solving abilities. 
+
+· Proficient in devising all the artifacts of testing such as Test Scenarios, Test Cases, Defect Reports and Test Summary Report
+· Experience in Web Application testing, Database testing, API testing, Usability testing, Mobile Application testing, Agile testing, eXtreme programming Testing, Functional, regression, smoke, UAT and performance testing.
+· Extensively involved in Systems, Integration, Regression, Functionality and alpha Testing of different applications of different platforms such as Windows, Web, iOS and Android.
+· Self-motivated, energetic and highly ethical in all work related assignments thus able to immediately contribute to corporate goals and object.
+· Good written, communication, interpersonal skills, proven team player with an analytical mind bent to problem solving and delivering solutions.
+Education Qualification:
+
+· Bachelors Degree in Electronics from GBTU with First Division in 2011.
+Technical Skill Set
+
+· Languages: Java.
+
+· Automation Tool: Selenium WebDriver and SoapUI 
+
+· Framework : Hybrid and Keyword driven Framework
+· Database: SQL Server 2008
+
+· OS: Window and Mac. 
+
+Work Experience
+· Currently working in 3PillarGlobal as Sr. Quality Assurance Engineer (Jan, 2016 – Aug, 2017)
+· Worked as Quality Analyst for Metaoption Software Pvt. Ltd. (Dec 2014 - Dec 2015).
+· Worked as Quality Analyst for InfiCare Software Technologies Pvt. Ltd. (Jan 2014 - Nov 2014).
+· Worked as Test Engineer for Magic Software Pvt. Ltd. (Sep 2012 - Dec 2013).
+Illustrative Projects & Responsibilities
+
+1.  Project :                         Equinox
+
+         Organization :
+ 3 Pillar Global
+
+         Client :                           Equinox
+
+         Role : 
+
+ Sr. Quality Analyst(Automation)
+ Description:        This application deals with the registration and booking of classes at gyms. It allows the user to schedule
+
+                              classes, book their respective slots and check when next class is available of their instructor.
+
+Duration               Jan 2017- Aug 2017
+Environment       Windows,  Chrome, IE and Firefox, Selenium Web Driver,
+
+Roles & Responsibilities:
+
+· Automation of TSD using Hybrid Automation framework. 
+
+Creating test cases and writing the test script according to the test cases.
+2. Project :                          TSD
+
+        Organization :
+ 3 Pillar Global
+
+        Client :                            TSD
+
+        Role : 
+
+ Sr. Quality Analyst(Automation)
+Description:              This is a B2B application which involves with three modules Rental, Loaner and Drive. It basically deals
+
+                                   with the Renting and standby cars. It allows the user to generate an agreement and book appointment
+
+                                   for the same. When the vehicle is returned damage, consumption and miles travelled can be calculated
+
+                                   through the application. It is integrated with an application called JumpDrive which allows to get all the
+
+                                   details of the booked vehicle.
+
+Duration                    Jan 2016- Mar 2017
+Environment            Windows,  Chrome, IE and Firefox, Selenium Web Driver,
+Roles & Responsibilities:
+· Automation of TSD using Hybrid Automation framework. 
+· Creating test cases and writing the test script according to the test cases.
+
+3. Project :                          Headstart VMS
+
+                        Organization :
+ MetaOption Software Pvt Ltd.
+
+                        Client :                            R.HOLLENSHEAD
+
+                        Role : 
+
+ Quality Analyst (Automation)
+Description: This is a B2B application which involves with the Purchase and Sales of the cars. It also includes Mobile application (iOS). It includes multiple Vendors through which the cars can be bought and their quality and Expenses can be added and reported and on the basis of the model of the car and its quality. The sale price is decided.
+
+Duration
+Dec, 2014 – Nov, 2015
+Roles & Responsibilities:
+· Creating test case and writing the test scripts
+· Created the hybrid framework for the application
+· Done Client Interaction and discussion for the requirement gathering.
+
+4. Project :                          GOIS (Automation)
+
+                   Organization :
+        MetaOption Software Pvt Ltd.
+
+                   Client :                             MetaOption Software Pvt Ltd.
+
+                   Role : 
+
+        Quality Analyst
+ Description: This is a B2B application which involves with keeping the records of Purchase and Sales of the items. It also includes Mobile application (iOS and Android).
+Duration
+Dec, 2014 –Oct, 2015
+Roles & Responsibilities:
+
+· Creating test cases for the application.
+
+· Executing test cases 
+
+· Logging bugs on JIRA
+
+5. Project :                           Language Link
+
+                   Organization :
+         InfiCare Technologies Pvt. Ltd.
+
+                   Client :                              FrankPeelen
+
+                   Role : 
+
+         Quality Analyst
+Description: This application is a chat application in which user can chat in over 70 different languages using the language converter. This application is developed for both iOS and Android devices covering all the latest versions of both OS
+Roles & Responsibilities:
+
+· Creating test cases for the application.
+
+· Executing test cases 
+
+· Logging bugs on JIRA
+
+6. Project :                                 Curious George App
+
+                    Organization :
+              Magic Software Pvt. Ltd.
+
+                    Client  :                                  Houghton Mifflin Harcourt 
+                    Role : 
+
+               Test Engineer
+
+Description: This project consist of the finding the letter on a screen and tracing them. All the letters
+are hidden and user is asked to find them and trace them. It consists of Two module. Trace Letter and Match Letters. This app is only developed for iOS (iPhones, iPads, iPods)     
+Duration: Sep, 2012 – Dec,2013
+
+TECHNICAL EXPOSURE:
+	Operating Systems
+	Win XP, Win7, Win8, Mac 10.7/10.8/10.9/ 10.X
+
+	Automation tools
+	Selenium Webdriver
+
+	Mobile operating Systems
+	Android, iOS
+
+	Bug Tracking Tools
+	JIRA, Mantis
+
+	Database 
+	SQL
+
+	Other Tools
+	FireBug, Y-slow, Hack Tab WebSecurity
+
+
+ACADEMIC CREDENTIAL:
+
+	Course
+	Board/University
+	Year of Passing
+	Percentage
+
+	B.Tech (E.I.)
+	Shobhit Institute of Engineering and Technology, Saharanpur(U.P.)
+	2011
+	66.88
+
+	XII
+	C.B.S.E.
+	2006
+	72.14
+
+	X
+	C.B.S.E.
+	2004
+	75
+
+
+STRENGHTS: 
+· Good Communication Skills, Team Working Ability, Leadership Qualities, Dedicated and Hard Working, Creative, Optimistic. Enriched with the ability to learn new concepts & technology within a short span of time, My patience, My determination towards the work given to me
+PERSONAL DETAILS:
+
+· Name                                                :     Prashant Kumar Rajput
+· Gender                                             :      Male
+· Date of Birth                                   :      5th Mar, 1989
+· Marital status                                 :      Single
+· Nationality                                      :      Indian
+· Languages known                          :      English, Hindi
+
+DECLARATION:
+
+I hereby declare that the above particulars are true to best of my knowledge and belief.
+
+Date:
+
+
+
+
+
+
+
+
+Place:  Delhi             
+
+
+
+
+
+
+(Prashant Kumar Rajput)
+

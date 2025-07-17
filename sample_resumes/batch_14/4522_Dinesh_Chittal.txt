@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Colette Pereira
+
+                                         
+
+    Dinesh Chittal
+
+13A/15 Estee Geejay Co-op Hsg Society,
+
+SaiBaba Nagar Borivili (W), Mumbai 400 092, India
+
+( 2865 7540 Mobile : 981 965 3039 
+email: - dineshchittal@gmail.com
+PROFESSIONAL EXPERIENCE
+
+Infosys Bpo Ltd, Pune India. Role – Technology Specialist.
+
+Working with Infosys since November 2007.
+Expertise in Telecom and Wan Links. Working Knowledge in Data technology.
+
+Current Role in Infosys
+
+· Technology Specialist-Technology Infrastructure Group.
+
+· Currently managing Telecom Infrastructure for multiple Projects. Handling a team of 10. Working on Avaya S8720, Nortel Passport 7480, CMS 15.0, Voice Mail – Avaya Modular Messaging, Avaya AES servers, Nice Perform 2.0, ECHI Reports, and IPLC circuits/Local loops/T1/E1 circuits. The current setup supports a facility of 700 + seats with Voice and data connectivity. Voice includes VOIP / Digital and Analog extns.
+
+· Providing Maximum Technology Uptime.
+
+· Job responsibilities:
+
+· Avaya TeleSwitch (S8720): Creating Dial-Plans, Creation of Partition Routes, creation of IP Trunks groups, Vector programming, addition and deletion of cards, Implementing security for Outbound/Inbound.
+
+
+· Configuration of Avaya Modular Messaging system: creating voice mail boxes. Also, provided training for configuration of AVAYA message manager.
+
+
+· Nortel Passport (Wan Links): Configuring Voice Connections and T1s in Passport. Administration of DS3 links(Data/Voice). Administration of IPLC links, Monitoring IPLC Bandwidth.
+
+· CMS (15.0): Administration of CMS system. Administration of CMS Supervisor licenses. Administration of Users and groups. Extracting reports like Block Transaction for AUDIT purpose and uptime of Trunks. Assuring regular Backup of CMS Admin and Configuration. Creation of customized reports for the operations as per requirement.
+· Nice Perform(2.0): Administration of Nice voice/screen recording. Implementing scheduler rules, for recording and storage of interactions. Reviewing Audit trail reports. Nice Maintenance activities.
+· Leased Lines: Commissioning of Lease Lines – Voice E1, Local Loop for Data Links. Follow-up with service providers for Lease line connectivity issues.
+
+· Intranet Site: Designed and maintained the Intranet Site for IT Department.
+
+· Shift Handling : 
+
+a. Maintaining Maximum Network Uptime.
+
+b. Configuration and monitoring of Network Monitoring tool (SolarWinds).
+
+c. Configuration and monitoring of Websense for internet activities and providing limited internet connectivity.
+d.  Configuring CTI links and adding devices in AES server.
+e. Assuring Installation of latest OS and application patches for Servers/Desktops. 
+
+f. Assuring latest Antivirus updates on Servers and desktops.
+
+g. Creation of automatic scripts for backup of Event Logs, AD management, Desktop optimization and Application Installation
+
+h. Follow Change management process for any changes in Network
+
+i. Imparting Technical Training to colleagues 
+
+j. Involved in Transition of New Projects.
+
+k. Follow Incident Management
+Role in Aditya-Birla-Transworks 
+From December 2000 to October 2007
+· Senior Telecom Executive.
+
+· Worked on Avaya S8710, G3Si Ver 8, Mosaix Predictive Dialing system,  Voice Messaging System - Audix, Cisco MGX - 8850, Cisco IGX 8400 Series, Nice Logger 8.9,  Thales Voice loggers, and IPLC circuits/Local loops/T1/E1 circuits. The current setup supports a facility of 600 + seats with Voice and data connectivity. Voice includes VOIP / Digital and Analog extns and also integration with Cisco Call Manager with Other Site.
+· Job responsibilities:
+
+· Avaya TeleSwitch (S8710): Adding agents, Adding extensions, creation of IP Trunks groups, Vector programming, addition and deletion of cards, trouble shooting.
+
+
+· Configuration of Audix voice mail system: creating voice boxes. Also, provided training for configuration of AVAYA voice manager.
+
+
+· Cisco MGX (Wan Links): Involved in the Physical installation of MGX and configuration of the same without any vendor support. Configuring VISM modules for CAS and ISDN PRI T1 connections, and configuring PXM1E-ATM trunks for IPLC circuits. Monitoring IPLC Bandwidth.
+
+· Cisco IGX (Wan Links): Configuring UVM modules and trouble shooting, configuration of T1 connections, configuring new trunk. Monitoring Bandwidth. Involved in the Migration of IGX to MGX. 
+
+· Leased Lines: Commissioning of Lease Lines – Voice E1, Local Loop for Data Links. Follow-up with service providers for Lease line connectivity issues.
+
+· Intranet Site: Designed and maintained the Intranet Site for IT Department and maintained the Intranet Site of the Company.
+
+· Dialer Upgrade: Involved in upgrade of Predective Dialer System v 11.0 to v 12.0.
+
+· ACD Upgrade: Involved in the upgrade of AVAYA G3si to S8710.
+
+· NICE Logger Upgrade: Involved in the upgrade of Nice v8.8 to V8.9
+· Voice Connectivity:
+
+i. Local Loops 
+
+a. MTNL and Tata Power Broadband provide local loops.
+
+ii. IPLC Circuits 
+
+a. MCI, AT&T and SingTel provide IPLC circuits.
+
+iii. E1/ T1 circuits 
+
+a. T1 circuits are leased from various Telco providers in US.-Quest, MCI-NovaTel, AT&T, Sprint, Verizon..
+
+b. Giving soft loop/Hard loop, Trouble shooting link errors, and follow-ups with circuit        providers, testing new circuits. 
+
+c. Mosaix Predictive dialing system: Starting, managing a outbound job & trouble   shooting, allocation of T1 circuits (Regs), Creating a new outbound job, generating reports, configuring new time zones, creating different jobs as per time zones, daily system backups, managing session for client remote monitoring. 
+
+d. Voice Loggers: NICE LOGGER, Verint, WordNet Workstations (Series 2) [128 extensions], Mirra [32 extensions], VRS Boxes [ROD]. 0
+
+e. Routine shift activities – Daily Backups, System monitoring, Alarms checking, running outbound dialer campaigns.   
+
+· Shift Handling : 
+a. Voice Network Monitoring through tools like Nice Supervisor, Avaya Site Administrator etc also includes monitoring of Routed Links through tools like MRTG/ Nagios etc.
+b. Adding and removing of Extensions (Voip /Digital /Analog) on the Voice Loggers like Nice / Verint / Wordnet / Mirra (Thales).
+
+c. Assigning and patching of new Voice Extensions. 
+d. Installation of Voice Related client applications and desktop support for the same.
+Compliance and Documentation:
+
+· Creating network diagrams in Visio as well as Winword. 
+
+· Creating process documentations for Backups / Operational activities etc.
+· Hosting the diagrams and documentations on IT Intranet web site.
+
+· Training juniors and other colleagues on related equipments.
+
+· Complying with In house standards for creation of documentation of Incident reports / Equipment Failure Reports / Installation documents etc.
+· Also involved in BCP Documentation and simulation scenarios.
+
+· Creation of Processes and Policies as per Audit requirements (ISO,COPC etc.)
+
+· Handling Network Support 
+· Troubleshooting and basic support for Egain Database and Web server
+
+· Can Install the following Operating Systems:
+Windows 95,Windows 98,Windows 2000 Professional, Windows 2000 Server, Windows 2000 Advanced Server, Windows NT Server with Service Packs, Windows XP Professional. 
+
+· Handling U.S Support
+
+Handled Maintenance and updating activities for Cisco IGX, MGX, E1s and T1s at the co-locations in the United States of America as a Support Engineer for 3 Months from May 2003 to Aug 2003, May 2006 to Aug 2006 and July 2007 to Sept 2007. (New York and New Jersey Collocations)
+Also handling US support (Multiple US Pops) from May 2003.
+
+· Desktop Support
+
+· Managing and troubleshooting issues on client machines.
+
+· Planning and determining Machine allocation.
+· Setting up all machines for a particular Project with all software and Hardware requirements within given timeframe to ensure successful launch of Project
+· Installation and Regular Updating of Escan and Norton Antivirus on Client machines.
+
+Previous Job Experience:
+Worked as a Web Developer at CyberSahibs.com for 6 months. Designed and Developed Web Sites during this period. Worked on HTML editors and web server – Microsoft IIS.
+
+EDUCATIONAL QUALIFICATION
+
+· BSc in Physics from St. Xavier’s College. 
+
+· Cisco Certified Network Associate(640-801)
+
+· 2 years course in software from Aptech.
+· Cleared Elective exam in Avaya CM 3 and IP Telephony.
+PERSONAL STRENGTHS
+
+· Possess excellent interpersonal & communication skills.
+
+· Able to work independently, learn quickly and adapt to various situations.
+
+· With the information imparted along with the on hand training at work I shall endure to serve my company and share knowledge with my team members and colleagues.
+
+· Quick learning and process improvement.
+
+Please Note: References will be provided on requests.
+

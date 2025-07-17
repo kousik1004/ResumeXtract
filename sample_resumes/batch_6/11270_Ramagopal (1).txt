@@ -1,0 +1,223 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAP BI/BW Consultant
+
+
+Ramagopal   							SAP BW Consultant
+E-mail:ramagopal.y@gmail.com					Ph: +91-9538602349
+
+Professional Experience:
+
+· Currently Working in SAP BW Consultant in HARMAN Connected Services Since April 2017.
+· Worked as SAP BW Consultant in HPE Pvt Ltd from Oct 2016 to April 2017
+· Worked as a SAP BW Application Developer in IBM Pvt Ltd from Nov 2015 to Sep 2016.
+· Worked as a SAP BW Consultant in Yash Technologies Bangalore from Jul 2013 to Nov 2015 .
+
+Professional Summary:
+· Having 4+ years of experience on SAP BI/BW focused on Implementation and Support & Maintenance with proven track record of company and client satisfaction.
+· Experienced in BI components like Info Objects, Info Cubes, Data Storage Objects, Data Transfer Process, Data Sources, Info Packages and Good Knowledge in Business Content objects.
+· Experience in Data Loading of Master data and transactional data from SAP R/3 and Flat files.
+· Capable of handling errors while extracting from SAP R/3 and loading the data into master data Info Objects, Info cubes and DSO.
+· Experience in creation of info objects maintenance, transformations, info package, DTP and designing of the info cube using BI Extended star schema.
+· Development of Queries in BEx Query designer using Calculated and Restricted key figures, Structures, Variables, Exceptions, Conditions, cell restrictions, RRI and display in BEx Analyzer.
+· Experience in Creation of the table, view and data source.
+· Experience in Generic Extraction and LO data Sources.
+· Created Multi providers and knowledge on Info set.
+· Knowledge on Composite info provider, Advanced DSO and open ODS.
+· A very good experience in improving the Effectiveness for query performance as well as loading of data to the data targets by using Indexes, compression, Aggregates, partitioning, Maintaining Data Packet Sizes.
+· Good knowledge in Transformation routines, Customer exit, Data source enhancement by using ABAP language.
+· Good knowledge on Integrated Planning like create Aggregation levels on the above of Multi provider and real time info cube. Create a Ready for input query on that Aggregation levels and create planning function and planning sequence on top of Aggregation level.
+· Good knowledge on SAP HANA like Table, view etc creation by using SQL statements, Transient provider, composite provider, Open ODSO.
+· Good knowledge on information models like creation of Attribute, analytic and Calculation Views.
+
+ABAP knowledge:
+· Data Dictionary:  Tables Creation, Domain Creation, Data Element Creation, Views, Search Helps Foreign Key Relationships.
+· Knowledge on Arithmetic and String Operations, Control Statements, Parameters and Open SQL Statements.
+· Reports: Classical Reports, Interactive Reports, ALV Reports
+
+
+
+
+
+
+	HANA knowledge:
+ 
+· Good knowledge on SAP HANA like Table, view etc creation by using SQL statements,
+Advanced DSO, Composite provider, Open ODS View.
+· Knowledge on creation of Information views like Attribute view, Analytic view and Calculation View.
+· Good knowledge on Data provisioning technics like SLT, DXC.
+
+
+Technical Skills:
+· Data warehouse                 : SAP BI 7.X 
+· Reporting tool                    : SAP BEx
+· Operating System              : Windows-7
+· ERP Integration                  : SAP ECC 6.0
+· Programming languages  :  SAP ABAP
+
+
+Educational Qualification:
+
+· B.Tech in Electronics and Communication Engineering From JNTUA.
+
+Project Profile:
+Project 5:
+Client              	: CFO Dash board
+Role			: Team Member.
+Period             	: April 2017 to till date (Enhancement)
+Environment	: SAP BI 7.4, SAPECC 6.0
+
+Roles & Responsibilities:
+
+· Data loads for Cubes, info objects and DSO’s for Testing.
+· Developing of Reports and validating the fields.
+· Monitoring the daily process chains.
+· Involved in the GO-Live activities like TR’s collecting and Moving and then Cutover activities.
+· Reconcile the data from source and Report.
+· Validating the Data in Targets.
+· Involved in Developing of Advanced DSO, Composite Provider, Open ODS View.
+· Involved in Loading and Query Performance technics.
+· Involved in Writing routines and validating the routine codes like start, end routine and Enhanced the data source and debugging the ABAP logic.
+
+
+
+
+
+
+
+Project 4:
+Client              	: Seattle, DMO
+Role			: Team Member.
+Period             	: Oct 2016 2015 to till date (Development)
+Environment	: SAP BI 7.4, SAPECC 6.0
+
+Roles & Responsibilities:
+· Developing of Info objects, Info cubes and DSOs, Multi providers.
+· Delta data loads for Cubes, info objects and DSO’s for Testing.
+· Creation of Generic data sources by using Table and view.
+· Creation of dataflow for Info objects, info cubes and DSO’s.
+· Involved in objects collection and importing of objects.
+· Involved in Daily production loads and reports issues.
+· Involved in Validating of all Bw related objects.
+· I have involved in the Passing the test cases by using ALM tool.
+· Having good experience in initializing the Deltas in IP level and scheduled the Repair full request jobs, selective deletion in DSO level.
+· Involved in end user reporting issues solving and Manual reconciliation.
+· Involved in Plan of transports moving in that moving validation of all objects where correctly moved or not and validation of each TR how much time taken.
+· Monitoring of daily process chains.
+
+
+
+Project 3:
+Client              	 :  British Petroleum
+Role			: Team Member.
+Period             	 : Nov 2015 to Sep 2016 (Development & Patching)
+Environment	: SAP BI 7.3 SAP ECC 6.0
+
+Roles & Responsibilities:
+· Data modeling like Developing of Info objects.
+· Creation of dataflow for Info objects, info cubes and DSO’s.
+· Creation of direct update and standard DSO and info cubes.
+· Loading of data for Cubes, info objects and Directs update DSO’s.
+· Collecting of BW objects like Info Objects, Dso’s, cube’s, BW-Queries-Workbooks, Transformation’s, DTP’s.
+· Collecting all Integrated Planning (IP) objects like data slice, characteristics relationships, Planning function and sequences, IP Queries and Work books.
+· I have involved the Integrated Planning also like Creation of Ready for input Query by using Aggregation levels. An aggregation level creates on top of Multi provider.
+· I involved in integrated planning like creating of Ready for input query by using Aggregation levels with help of Multi provider or Real time info cube and creating filters, planning functions and planning sequence.
+· Testing of BW Query Workbooks, IP Query Workbooks by using Bex Analyzer.
+· Validation of data for Attribute, text info objects, Queries and workbooks in Different systems.
+· Scheduling the process chain for testing.
+· Involved in patching project like upgrading the Service pack version, testing with some Patching Related Scripts.
+· I involved in solving of patching related issues and analyzing of Release notes and Sap notes.
+· I involved in functional checks validation and Integration test.
+	
+
+
+Project 2 :
+Client               	:	Hemas
+Role			:	Team Member.
+Period        		: 	Jul 2014 to Nov 2015 (Implementation &Support)
+Environment	:	SAP BI 7.0, SAP R/3 ECC 6.0
+
+
+Roles & Responsibilities:
+· Involved in Data Load Monitoring and Production Support issues.
+· Rollup the data from info cubes to aggregates and maintain the aggregates.
+· Compressing the data in info cube for query performance.
+· Monitoring Daily, Weekly and Monthly Process chains.
+· Validated data consistency in reporting with Data Target against PSA and Source system after loading data to the data targets.
+· Handling the end user issues on reporting.
+· Involved in improve the Data load performance.
+· Performance issues and load failures and never crossed the SLA.
+· Monitoring of data loads like master data and transaction data.
+
+Project Profile
+Project 1:
+Client              	 :  Paragon
+Role			 : Team Member.
+Period             	 : Jul 2013 to Jun 2014(Implementation Project)
+Environment	 : SAP BI 7.0, SAPECC 6.0
+
+Roles & Responsibilities:
+· Data Modeling and creating BI objects like Info objects, DSOs, Info cubes and Multi providers.
+· Creating and managing data flow using DTPs, Transformations and Info packages.
+· Created the Field, End routines.
+· Modeled DSO’s to stage the data before transferring into the data warehouse layer.
+· Created various Bex reports using variables, conditions, exceptions, filters, restricted key figures, calculated key figures and free characteristics as per user requirement.
+· In LO extraction, maintained the Extract structures as per the requirement
+· Implemented data extraction and data staging using LO cockpit
+· Improved the query performance using techniques like Partitioning, Compression, and Aggregates.
+· Created the Customer Exist variable for current year, month and current date sales reports in Bex Designer.
+· Created the Customer exit variable for Month To Date (MTD) and Year To Date (YTD).
+· Experience on Integrated Planning like creating Aggregation levels on the above of Multi provider and real time info cube. Create a Ready for input query on Aggregation levels and create planning function and planning sequence on that Aggregation level.
+· Executing the Queries by using Bex Analyzer.
+· In Bex Designer extensively used processing type Replacement path while defining Text variables and Formula variables.
+· Maintained Info Packages and scheduled them in order to load Master Data and Transactional Data from SAP R/3 File Source Systems into BI.
+· Created Data Source Enhancement as per client requirement.
+· Worked with the customized LO cockpit and update methods associated with it and generated the data source from SAP R/3 using LO cockpit.
+· Worked on activating standard Business Content objects and Transportation
+

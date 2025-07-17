@@ -1,0 +1,464 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C
+
+                                                               
+                                                                Vishvas 
+                                                                             	         PH: +91-8209239816
+                                                                Email: bhaduka.vishvas3@gmail.com 
+
+Introduction
+
+Working with Stretosphere IT Services as SAP Security Consultants.
+
+Summary
+
+· 3+ years of total IT experience.
+· Worked as Support team member for SAP Security.
+· Ensure completeness of tasks, activities, deliverables and milestones as defined by lead      
+· Maintain a positive attitude.
+
+    
+Technical capabilities 
+
+SAP Security: User Management, Authorization troubleshooting and maintenance, Role designing & maintenance (create/delete/change) and Role Transportation, Creating authorization groups
+Central User Administration: User Maintenance in CUA
+GRC 10.0: SoD analysis, Role and User based Risk Analysis, Risk Simulation at role/user level and 
+
+Experience:
+
+
+Project # 1                                                                                                                             
+
+Client: JMA Wireless
+Environment: SAP R/3 Release ECC6.0, GRC 10.0
+
+
+Responsibilities:
+
+· User Administration: Creation of the new SAP user ids for end users, locking and deleting the ids when an end user leaves the organization. Users Creation/Coping/Modification/Deletion 
+· Mass User Maintenance: Using SU10 transaction
+· Troubleshooting: Responsible for analysis of end user authorization related problem in R/3 system. Analysis on basis of SU53 and Trace file from ST01, provide a possible solution to end user and guide them.
+· Proposing Authorization Changes:  Based upon the analysis, propose roles modification to the development team, which once approved by business modifications done by the development team.
+· Transporting Roles: Transporting roles in SAP Landscape
+· Authorizations: Inserting Missing Authorizations Manually: I take care of end users' authorization problems which they were facing during execution of business processes (Analyzing SU53 screenshot and carrying out system trace if required).
+· Authorizations: Generating Profiles based On T-Codes and Menus: Adding transaction codes and modifying menus into roles which are built for end users and functional team.
+· Worked extensively with User Information System SUIM
+· Role Administration: Creation/Modification/Deletion of Composite/Single/Derived roles based on customer requirement & business process owner’s approval
+
+
+
+
+
+
+
+
+
+
+
+
+· Worked on Security related tables for User & Role: USR* & AGR_* tables
+· Worked on User Groups creation/modification using SUGR tcode
+· Role compare in different systems using SUIM
+· Knowledge on Authorization data tables for customer USOBT_C, USOBX_C  (SAP standard USOBT, USOBX)
+· Knowledge on SU22, SU24 authorization data tcodes  
+· Knowledge on table access objects S_TABU_DIS, S_TABU_NAM
+· Worked on Query Creation using SQVI tcodes on Tables/table join
+· SoD Analysis using GRC tool before any role/User modification in system
+· Risk Simulation at Role & User level using GRC 10.0
+· Knowledge on SAP Notes implementation process
+· SAP Security process document updates
+· Monthly Security Checks for Production Environment:
+· Check for Standard Users, Passwords.
+· Check users with unsuccessful Logons: From an audit perspective, give number of user master records locked and give status provide incorrect logins by users.
+· Users with incomplete address data.
+· Users not login for more than 90 days: Report for users not logged into production systems for last 90 days.
+· List out users belong to BASIS and Security Group.
+· Report for the roles added or deleted during the month.
+
+
+
+Project # 2									
+
+Client: DeLaval
+Environment: SAP ECC 6.0
+
+Responsibilities:
+
+· Day to day technical support and resolving tickets on authorization issues, logon failures, Password reset.
+· User Group Maintenance using SUGR tcode
+· Derived/Single roles creation based on customer requirement 
+· Composite role creation based on customer requirement
+· Performed User maintenance Creation/Modification/Deletion/Coping/Lock/Unlocking    
+· User maintenance using CUA      
+· Worked with Security tables
+· Provided Detailed Report of Users, User Status, Roles, Activities, Groups, T-Codes and Objects when required.
+· Analyzing missing authorizations based on screen shot sent by the user and optimising the authorization checks by utilising the SU53 and system traces (ST01)
+· Addition, Removal of Transaction Codes, authorisations, authorisation objects by modifying existing roles based upon change request.
+
+
+
+Education 
+
+· BTech from JECRC Jaipur
+
+
+
+
+
+
+Personal Details:
+
+Father’s Name   :     Sh. S.S. Sharma.
+Nationality         :     Indian
+Marital Status	  :     Unmarried
+Native		  :     Jaipur (Rajasthan)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date: 
+Place: Noida 								                                       (Vishvas)
+
+
+
+
+
+
+
+
+
+
+/docProps/thumbnail.wmf
+
+                                                      
+       
+  
+ 
+                                                                
+Vishvas
+ 
+ 
+                                                                             
+ 
+         
+PH
+:
+ 
++91
+-
+8209239816
+ 
+                                  
+                             
+ 
+Email: 
+bhaduka.vishvas3@gmail.com
+ 
+ 
+ 
+Introduction
+ 
+ 
+W
+orking
+ 
+with 
+Stretosphere IT Services
+ 
+as SAP Security Consultants
+.
+ 
+ 
+Summary
+ 
+ 
+·
+ 
+3
++
+ 
+years 
+of 
+total IT 
+experience
+.
+ 
+·
+ 
+Worked as Support 
+team 
+member
+ 
+for SAP Security
+.
+ 
+·
+ 
+Ensure completeness of tasks, activities, deliverables and mil
+estones as defined by 
+lead
+      
+ 
+·
+ 
+Maintain a positive attitude.
+ 
+ 
+  
+  
+ 
+Technical capabilities 
+ 
+ 
+SAP Security
+:
+ 
+User Management, Authorization troubleshooting and maintenance, 
+Role
+ 
+designing & 
+maintenance (create/delete/change) and Role Transportation,
+ 
+Creating authorization
+ 
+groups
+ 
+Central User Administration
+: 
+User Maintenance in CUA
+ 
+GRC 10.0: 
+SoD
+ 
+analysis, 
+Role and User based Risk Analysis, 
+Risk Simulation at role/user level
+ 
+and 
+ 
+ 
+Experience:
+ 
+ 
+ 
+Project # 1
+                                                                                                                             
+ 
+ 
+Client: 
+JMA Wireless
+ 
+Environment: SAP R/
+3
+ 
+Release ECC6.0
+, GRC 10.0
+ 
+ 
+ 
+Responsibilities:
+ 
+ 
+·
+ 
+User Administration
+: 
+C
+reation of the new 
+SAP user ids for end users
+, 
+locking and deleting the ids 
+when 
+an end user
+ 
+leaves 
+the organization
+. Users Creation/Coping/Modification/Deletion 
+ 
+·
+ 
+Mass User Maintenance
+:
+ 
+Using SU10 transaction
+ 
+·
+ 
+Troubleshooting: 
+Responsible for analysis of end 
+user
+ 
+authorization related problem in R/3 system. 
+Analysis on basis of SU53 and Trace file from ST01, provide 
+a possible solution
+ 
+to end user and guide 
+them.
+ 
+·
+ 
+Proposing Authorization Changes:
+  
+Based upon the analysis
+, 
+propose roles 
+modification to
+ 
+the 
+developme
+nt team, which
+ 
+once approved by business modifications done by 
+the development team
+.
+ 
+·
+ 
+Transporting Roles: 
+Transporting roles in SAP Landscape
+ 
+·
+ 
+Authorizations:
+ 
+Inserting Missing Authorizations Manually: I 
+take
+ 
+care of end 
+users'
+ 
+authorization 
+problems which they were facing during execution of business 
+processes (Analyzing
+ 
+SU53 screenshot 
+and carrying out system trace i
+f
+ 
+required
+).
+ 
+·
+ 
+Authorizations:
+ 
+Generating Profiles based On T
+-
+Codes and Menus: 
+A
+dding transaction codes and 
+modifying menus into roles which are built for end 
+users and
+ 
+functional team.
+ 
+·
+ 
+Worked extensively with User Information System SUIM
+ 
+·
+ 
+Role 
+Administration:
+ 
+Creation/Modification/Deletion of Composite/Single/Derived roles based on 
+customer requirement
+ 
+& business 
+process owner
+’
+s 
+approval
+ 
+ 
+ 
+ 
+ 
+ 
+ 

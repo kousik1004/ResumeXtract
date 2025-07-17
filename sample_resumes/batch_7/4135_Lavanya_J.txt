@@ -1,0 +1,276 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Key Responsibilities Handled
+
+Lavanya J
+
+	No: 76, Varadharaja Perumal Koil St,
+
+Tondiarpet
+
+Chennai � 600 081, India
+	Email: jayaraj.lavanyaa@gmail.com; Mob: +91 90945 75698
+
+
+
+
+Executive Summary
+
+· Adding value to Organization & Self, to be a part of the growth for the organization with commitment for excellence and to develop professionally.
+
+Professional Experience and Accomplishments
+
+Sify Technologies Ltd., Chennai,      
+
+
+
+
+
+         Apr 2013 � Till Date
+
+Sify is among the largest integrated ICT Solutions & Services companies in India, offering end-to-end solutions with a comprehensive product range delivered over a common telecom data network infrastructure, reaching more than 1200 Indian cities & towns. This network connects 38 Datacentres in India, including Sify�s 6 Tier III Datacentres across Chennai, Mumbai, Delhi & Bengaluru.
+
+Sify is ISO 9001:2008 certified for Enterprise Sales, Provisioning, Support & CRM of ICT Solutions & Services like VPN, Network, Voice, Datacentre hosting, Integration services, Security services & Managed services.
+
+Network Engineer - GNOC Managed Services         
+
+· Reporting to Team Manager GNOC
+Key Responsibilities Handled
+
+· Having experience in Transition team for on-boarding new Customers into Managed Services.
+· Experience on configuring SNMP v2 and V3 on Customer End devices to on-board them into Managed Services.
+
+· Monitoring all equipment�s (Cisco, HP, Fortigate, Juniper) using Tool Beamon.
+
+· Handling tools for monitoring and managing the customer devices like Beamon, Ioninx, Fusion and Sifyaakaash.
+
+· Tickets handling tool like CRM Oracle and Sify Infodesk.
+
+· Working on troubleshooting of complex LAN infrastructure.
+
+· Involved into Configuring, Troubleshooting on CISCO Routers, Fortigate and HP.
+
+· Experience on troubleshooting on Basic MPLS-VPN connectivity.
+
+· Troubleshooting of complex LAN infrastructure, including routing protocols EIGRP, OSPF , RIP & BGP.
+
+· Implementing security policies using ACL, Firewall, IPSEC, VPN, AAA (TACACS+ & RADIUS).
+
+· Network redesign for branches / HO Locations would be implemented for managed customers.
+
+· Performing security audits of perimeter routers, identifying missing ACL�s.
+
+· Documentation and change control.
+
+· Implementing and maintaining backup schedules.
+
+· Planning and preparing POA for Change Management activities.
+
+· Good Experience in configuration and maintenance of Cisco, Fortigate and HP.
+
+· Have done AFO testing for Managed Service customer.
+
+· Have troubleshooting Experience on Cisco, Fortigate and HP.
+
+· Enabling web filtering/Application control in Firewall based on customer requirement.
+
+· Port opening in Firewall.
+
+· Enabling Netflow, IPSLA in Customer end device for monitoring and reporting the network performance.
+
+· Basic experience on 2G,3G and LTE and DMVPN.
+
+· Involved in configuring GRE tunnels.
+
+· Configuration of NAT (static, dynamic and port overloading).
+
+· Configuring policy based routing.
+
+· Configuration of DHCP, HSRP and VRRP.
+
+· Having ownership of our Clean Connect customers for providing secured pipe line connectivity to reach Internet by making their connectivity through Fortigate firewall [i.e. Policies, Routing, UTM, VPN and Remote authentication with TACACS server for specific users etc.]
+
+· Responsibility includes Backbone routers (Cisco, Juniper), switches, and Fortigate firewall.
+
+· Enabling Bandwidth Utilization, CPU, Memory utilization and IPSLA and Errors report in Ioninx/Sify Aakaash Portal for customer view.
+
+· Enabling Netflow in Solarwind portal based on customers requirement.
+
+· Sharing reports to customers on monthly or weekly basis like Bandwidth Utilization, CPU, Memory utilization and IPSLA, Netflow.
+
+· Also sharing Service Level Agreement reports on monthly basis to all Managed Customers.
+
+· Coordination with Development/Tools team for tools related requirement.
+
+· Coordination with CRM Oracle team for CRM related issues or requirements.
+· Enabling Dashboard in Ioninx/sify aakaash portal to monitor the customer network in near real time and roll out to customer view.
+
+Network Monitoring: 
+
+· Monitoring Network and Corporate links in 24/7 support. 
+
+· Effectively handling customer mails and internal Sify mails.
+
+Creating Tickets for user queries and actively resolving them with the ticketing tools namely Sify Infodesk and Oracle CRM. 
+
+· Follow Timely Escalation procedures and adhere to Work processes.
+
+· Escalating the problems to their respective locations and Regional Managers.
+
+Provide customer wise analysis reports of trouble tickets to identify persistent problem
+
+· Areas and hence recommend solutions.
+
+Change Management: 
+
+ Track all Change management and notify customers within set time frame. 
+
+ NEW REQUEST: Change management requests are raised by the local team in infodesk. Once a CM request is raised, automated mails with activity details are sent to internal teams from infodesk. 
+
+ Impact CM: If the activity is customer-impacted, then the CM mail is forwarded to the local team, requesting for the customer mail Ids.
+
+ Non impact CM: No communication is required for non-impact CM activity 
+
+ Caution window: Mails are sent to customers when there will be no service interruption and customers need to be intimated about the activity being carried out. This is done when the CCS team requests for the same. 
+
+ Postponed or Cancelled CM: If the activity postponed or cancelled, the same should be intimated accordingly to the customers. 
+
+ Completed CM: Mail communication would be sent to the customer mail ID�s upon successful CM completion.
+
+ Documenting all CM�s and furnishes the reports on weekly and monthly wise. 
+
+Incident Report Management: 
+
+· On customer request for the Reason for Outage of any issue closed as SIFY end, a detailed report is prepared. 
+
+· The Root cause of an issue is analyzed in coordination with respective teams and the details are set in crisp format. 
+
+· The Incident report involves the reported time, Restoration time, Root cause, Chronology and Corrective/permanent action taken with Impact time, if any. 
+
+ All the details are sent in SIFY authorized template to the customer. 
+
+OTHER ACTIVITIES
+
+· Assist with monthly Management reports, and recommendations for Managed Services Clients 
+
+· Interface with third party vendors as liaison between client and vendor
+
+· Demonstrated written communication skills.
+
+· Demonstrated analytical and troubleshooting skills.
+
+· Shows initiative and acts independently to resolve problems.
+
+· Work effectively both as a team member and independently.
+
+· Effectively utilizes tools to resolve issues and escalate appropriately.
+
+· Have good working knowledge on NMS Tool � Beacon.
+	Technical Skills
+
+	Switching
+	STP, VTP, VLAN ,HSRP, VRRP, and GLBP
+
+	Routing
+	Static Routing, RIP, IGRP, EIGRP, & OSPF,BGP
+
+	WAN
+	Leased Line, MPLS
+
+	IP Services
+	DHCP and NAT
+
+	Configuration and Troubleshooting
+	Cisco, HP and Fortigate
+
+	Network Traffic Monitor
+	Beamon
+
+	Network Management System
+	Ioninx, Infodesk, Fusion and Oracle-CRM, Sify Aakaash
+
+
+Dell International Services India Pvt. Ltd
+
+
+
+
+
+Mar 2012 � Feb 2013
+
+· I had been working as Claims analysis senior representative under Healthcare system in Dell International services India Pvt.Ltd.
+· Review billing information for correctness and completeness.
+· Review medical billings for the reasonableness of tests, procedures and hospital stays.
+· Refers medical claims for further investigation when more information is necessary or when claims are not medically reasonable.
+· Review paid claims to ensure accuracy.
+· Identifies inaccuracies of paid claims and works with third-party billers to resolve claims paid in error.
+Academic and Professional Credentials
+
+Bsc (Computer Science) � 2011
+
+Madras University � 83.45%
+
+HSC � 2007
+Stateboard � 69.4%
+
+SSLC - 2005
+Stateboard � 74%
+
+Professional Certification:
+
+· CCNA
+
+Trainings
+
+· CCNA 
+
+Extra Curricular Activity
+
+Typewriting � English (Junior Grade)
+
+First class with distinction
+References & Supporting Documents Available upon Request

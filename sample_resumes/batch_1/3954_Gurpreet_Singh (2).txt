@@ -1,0 +1,254 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gurpreet Singh	
+Address:-D1/604 Shivalik Apartments,Gurgoan.																
+Mobile: +91-8800712837,9796605537
+E-Mail: gurpreet1489@gmail.com,gurpreet9.singh@airtel.com
+
+
+
+PROFESSIONAL SYNOPSIS
+
+· 4+ years of working experience in Airtel-UNOC to support to Bharti’s network infrastructure
+ North & West Region.
+· Expertise on CEN Access, Backend
+· Configuring, monitoring and troubleshooting DSLAMs (Ericsson, UT Starcom & Alcatel), BRAS, and switches for DSL service implementations and operation.
+· Expertise on OSPF routing, network connectivity, static routes for networks, and Cisco routers/switches across Bharti internal ISP network.
+· IOS Up gradation Cisco Routers/Switches, Alcatel Service Routers.
+
+KEY SKILLS
+
+Strategic Planning								Network Analysis								Network integration	
+
+Cost Control										Risk Mitigation & Control					Resource Optimization
+
+Product / Process Enhancements			Quality Assurance							Technical Documentation 			
+
+KNOWLEDGE PURVIEW
+
+· Experience in installation, configuration and maintenance of CISCO/Alcatel Lucent / Huawei networking equipment& services in multi-platform environments.
+· Data-Link level Switching.
+· Routing protocols OSPF, BGP, MPLS,MPBGP,,L2-VPN, L3-VPN.
+· Switching technologies L2 / L3 Switching, VLAN, Inter- VLAN, Access List, STP, RSTP.
+· Leased line, Leased Port / Next Gen ILP (Bharti CEN Network)
+· Network Troubleshooting.
+
+
+	Career Contour
+
+	Sl. No
+	Organisation
+	Designation
+	Period
+
+	1
+	Telesonic Networks Limited                        
+	Executive (TAC)Engg
+	2016 till now
+
+	2
+	Dimension Data india pvt. Ltd.
+	Network Support Engineer
+	 10-6-2015 to 31-3- 2016
+
+	3
+	Wipro infotech ltd.
+	Network Associate Management
+	1-5-2014 to 4-6-2015
+
+	4
+	Tulip Telecom ltd.
+	Network Engineer
+	14-11-2012 to 30-4- 2014
+
+
+
+
+
+
+
+
+
+CAREER RECITAL
+
+
+
+Telesonic Networks Limited ( Executive)																
+
+Designation:  Sr. Executive Engineer.
+Work Profile- Network Fault (TAC)
+Roll: TNL
+
+Key Deliverables:
+· Handling NOC operation for PAN INDIA (North, West), TAC-2 Fault support.
+· Responsible for troubleshooting of backbone network related issues.
+· Configuring /handling/ maintaining/ network devices (Cisco, Alcatel, Huawei, and Juniper ERX) & taking their scheduled backups.
+· Troubleshooting all networking problems i.e. routing protocols (OSPF, and BGP, MPLS,L2 VPN).Hardware issue and connectivity of access and backend network devices.
+· Analyze the Network (24x7) using network monitoring tools (MRTG, WHATSUP Gold).
+· Backbone network congestion issues and co-ordinate with network planning and rollout teams to ensure timely capacity upgrades.
+· Troubleshooting on transport part for 2G, 3G and 4G services which are running on CEN network.
+· Co-ordination with ISP-O&M, Vendor partner, and Core team.
+
+
+Router Included in CEN: CISCO 7200, 7600 etc., ALCATEL LUCENT SR-7710, SR-7750 etc., HUAWEICX-600.
+Switches: CISCO L3 Switch (3550, 3750, 4500 and 6500.), ALU-7450 Ethernet Service Switch.
+Protocols running: OSPF, BGP, MPLS, VPLS, VPRN Pseudo wire,
+Tools Used: Telemedia, Metasolve M6, BMC Remedy tool MRTG
+
+· BRAS (Broadband Remote Access Server): Configuration and Monitoring of the port and card hardware related issues.
+· DSLAM (Digital Subscriber Line Access Multiplexer): Working on the various types of Dslams: like as Ericsson,UT Star, Alcatel, 
+· End to end configuration of VLAN/Management vlan for different types of DSLAM, and troubleshooting various fault in different dslams.
+· Familiar with the NMS (networking monitoring tools.) just like as:
+· 1. WUG (What Up Gold):  For Check the ping response of  the devices. 
+· 2. OP Manager: To Check the ping response and performance of the devices.
+· 3. SAM (Service Aware Manager): For Monitor The Alcatel Devices which Is used in the CEN Network.
+· 4. U2000 IManager: For Monitor The Huawei Devices which is used in the CEN Network.
+· 5. Tivoli Net cool: For checking the all types of alarms which occurs in the NMS tools.
+· 6. BMC Remedy: For generate the Trouble Ticket for occurrence of any alarm in the NMS Tools.
+· 7. MRTG : For Monitor the utilization of the Internet
+
+
+
+
+
+
+
+
+
+Reliance jio 4G											                                         2015 – 2016
+Designation: Network Support Engineer
+Rolls- Dimension data india pvt. Ltd
+Key Deliverables:
+
+Implementation of the project: from project planning stage to work delivery, execution of the plan with various site completions to assisting the project management and providing technical support to the onsite project.
+Rolls & Responsibilities:
+
+· Installation & Configuration of Cisco routers: 903, 920i, ASR 1090,920o.
+· Installation & Configuration of Cisco L2, L3 Switches: 2950, 2960, 3550, 4500.
+· Planning and implementation of IP address schemes and subnet masks.
+· Responsible for Configuring, troubleshooting& maintaining WAN connectivity.
+· Developing and maintaining a detailed project plan.
+· Responsible for: co-ordination with different departments for planning & designing the requirements for the migration of the challenging LAN Network and WAN Network.
+· Responsible for co-ordination to vendor and the client company for the execution and completion of project within the given timeline.
+· Management of Acceptance Testing program
+
+
+
+Client NIC(National Informatic Centre)
+Designation: Network Operator cum Field Engineer/Network Associate management
+Rolls- Tulip Telecom ltd./Wipro infotech ltd.
+
+NIC is a part of the Indian Ministry of Communications & Information Technology's Department of Electronics & Information Technology and is headquartered in New Delhi. It has offices in all 28 state capitals and 7 union-territory headquarters and almost all districts. At New Delhi Headquarters, a large number of Application Divisions exist which provide total Informatics Support to the Ministries and Departments of the Central Government.
+
+Rolls & Responsibilities:
+
+· Troubleshooting WAN, MPLS, VSAT, Failover and Access related issues.
+· Configuration of Cisco Switches (Layer 2 – 2900 series; Layer 3 – 3500.
+· Configuration and troubleshooting of RAD switches.
+· Providing level second support to Juniper ACX 2200 router.
+· VLAN Creation, Maintenance & Troubleshooting,upgradation of ios of network devices
+· Managing the LAN of the J&K  Civil Secretariat (Internet Connectivity)
+· Conduct of Video Conferencing of Higher officials of the State with Central Ministers.
+· Creating & managing entries in DHCP, ISA and Cyberom like latest technologies.
+
+
+
+ACADEMIA
+
+MCA FROM IGNOU.
+B.CA from University of Jammu
+
+PERSONAL DOSSIER
+
+Father’s Name 				:	S. Charanjeet Singh
+Date of Birth 					:	14th Feb.1989.
+Gender							:	Male. 
+Marital status 					:	Single.
+Nationality						:	Indian.
+Proficiency in languages	:	English, Hindi,Punjabi.
+Home Address			    :	H. NO. 109, ward 32, Munshi chack, J&K-18002.
+
+
+
+
+
+Place	:	
+Date	:	 										                                               (Gurpreet Singh	)

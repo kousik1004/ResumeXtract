@@ -1,0 +1,329 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lakshmi L
+	Email:Lakshmi.techie2014@gmail.com 
+	
+Tel:+91-9902139134
+
+	
+	+91-6362037287
+
+
+Career Objective
+
+With the main objective being towards satisfaction, both for myself and the company, I strive to work towards higher standards of loyalty and dedication which has been consistent throughout, thereby making work a pleasure and take a performance oriented role to grow with the growth of the Organization.
+
+Career Summary
+
+
+· 3.3 years of experience in ETL(Data stage 11.3), AWS(Kinesis Stream, Kinesis Firehose, Kinesis Analytics ,Cloud formation, Step Functions)and Hadoop(Sqoop, Flume, Hive and Basic Spark).
+· Worked with Dell International Services as a Systems Integration Analyst.
+· Currently Working in Infosys Private Ltd.
+· Hands on experience in Tableau and Google Analytics.
+· Good exposure in Big data management in Cloudera.
+· Experience in working with Healthcare Domain, Extracting claims, Member and Provider information in desired format for various vendors. 
+· Flexible to understand any technology based on comparative study method.
+· Possess Good troubleshooting techniques and analytical skill sets.
+· Proficiency at grasping new technical concepts quickly.
+
+
+Professional Experience
+
+· Working as Senior System Engineer in Infosys Private Ltd from Feb 2018 to Till date.
+
+· Worked as Systems Integration Analysts in DELL International Services from July 2015 to Feb 2018.
+
+
+
+Professional Achievements
+
+· Received 3 On Spot award.
+
+· Received twice ‘Shining Star for the Month’ award.
+
+
+
+Technical Skills Summary
+
+	Cloud Computing
+	AWS Kinesis DataStream, AWS Kinesis Firehose, Kinesis Analytics, AWS Athena, AWS Cloud formation, AWS Step Functions, AWS SNS, AWS Glue
+
+	Hadoop 
+	Cloudera
+
+	Languages
+	Basic Spark 
+
+	Databases
+	Netezza, MySQL
+
+	Tool
+	Hadoop(Sqoop, Flume, Pig, Hive, Hbase)
+
+	ETL 	
+	Data Stage 11.3 and Data stage 8.1
+
+	Reporting Tool
+	Tableau and Google Analytics
+
+
+
+Project Experience
+
+
+Project 1
+
+	August 2015 – December 2016
+
+
+	Project:	
+	Tenet Health Care
+
+	Client:
+	Tenet Health Care
+
+	Environment:	
+	Google Analytics 
+
+	Role:		
+	Developer 
+
+
+
+Brief description of the project:
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic Google. It's a platform that connects to every page of website. And through various dashboards and reports.
+Responsible for:	
+
+· Analyze visitor traffic, the content visitor viewed.
+· Setting up report filters by looking at audience demographics and interests.
+· Creating Tracking Tags, Dashboard and Graph.
+· The goal is to encourage repeat visits and engagement.
+
+Project 2
+
+	January 2016-June 2016
+
+
+	Project:	
+	PBM (Pharmacy benefit manager)
+
+	Client
+	BCBSRI (Blue Cross Blue Shield of Rhode Island)
+
+	Environment:	
+	Data Stage 11.3 , Putty and WinSCP
+
+	Role:		
+	Developer(Individual Developer )
+
+
+
+Brief description of the project:
+Monthly and Daily full files will be transmitted to PBM via a secure FTP transmission process.
+
+Responsible for:	
+· Involved actively in various projects for client BCBSRI under various DM/PMs.
+· Actively involved in Creating Design/Development of ETL Jobs.
+· Performed Unit test and integration test of all the primary modules.
+· Optimized the query using best approaches followed in the industry.
+· Implement and support the code deployment/Testing in UAT and Production.
+· Support Production incidents.
+
+Hadoop Project 1:
+
+	July2016 –March 2017
+
+
+	Project:	
+	NEHP Home Implementation
+
+	Client
+	BCBSRI (Blue Cross Blue Shield of Rhode Island)
+
+	Environment:	
+	Sqoop, Hive and Hbase
+
+	Role:		
+	Developer
+
+
+
+Brief description of the project:
+Objective of project is to import EDR Tables into Hive and Hbase path using Apache Sqoop
+
+
+Responsible for:
+· Export and Import data into HDFS, Hbase and Hive using Sqoop from existing SQL Server.
+· Involve in create Hive tables, loading with data and writing Hive queries which 
+· Load data into Hive partitioned tables.
+
+
+Hadoop Project 2
+
+	April2017 –January 2018
+
+
+	Project:	
+	Rhode Island Click stream Data
+
+	Client
+	BCBSRI (Blue Cross Blue Shield of Rhode Island)
+
+	Environment:	
+	HDFS, Flume, Hive, Pig, Tableau
+
+	Role:		
+	Developer
+
+
+
+
+Brief description of the project:
+Objective of project is to analyse click stream data by location and identify a few web pages with highest bounce rates.
+
+Responsible for:
+	
+· Flume is used to stream data to HDFS.
+· Refine the click stream data using Pig.
+· Filter the data by product category, graph the website user data by age and gender.
+· Created tables using Hive and Hbase.
+· Visual analytics performed by Tableau.
+
+Project Details @ Infosys :
+
+AWS Project: 
+	February  2018 – May 2018 
+
+
+	Project:	
+	AGCO
+
+	Client
+	AGCO
+
+	Environment:	
+	AWS Kinesis, AWS Kinesis Firehose ,Kinesis Analytics , AWS Athena, AWS Glue Crawler , S3
+
+	Role:		
+	AWS Cloud Engineer 
+
+
+
+
+Brief description of the project:
+Objective of project is to analyze Product sold by Location, Machine details, Asset, most Viewed product by customer. This project allows us to create a Kinesis Data stream, Kinesis Firehose and Kinesis Analytics using AWS Cloud Formation template.
+
+Responsible for:
+· Cloud formation template has been created for creating and configuring data stream, data firehose, data analytics related components required for streaming analysis. 
+· Data stream: This will capture the data produced by producer(Fuse Application from Kafka Producer). The data stream has been created with one shard, which will receive data from producers and make data available to consumers. The retention period of records is 24hrs. 
+· Data Storage: S3 bucket has been created for storing streaming data. The streaming file will get created in every 60sec or if we have 5MB of streaming data. 
+· Data Firehose: Kinesis Key: key has been created for file level data encryption in streaming S3 bucket. 
+· Event Logs: Event log group has been created for capturing error logs. If any error occurs, it will be visible in cloud watch logs. 
+· IAM Role: IAM role has been created for accessing Kinesis data stream, Kinesis, S3 bucket and cloud watch. 
+· AWS Glue Crawler is applied to fetch the data from S3 to AWS Athena for quering the data.
+
+
+
+
+
+
+	June  2018 – Present 
+
+
+	Project:	
+	AGCO
+
+	Client
+	AGCO
+
+	Environment:	
+	AWS Glue , AWS Step Function , AWS Lambda , Apache Zeppelin, Glue Crawler, AWS Athena
+
+	Role:		
+	AWS Cloud Engineer 
+
+
+
+
+Brief description of the project:
+Objective of project is create  ETL Jobs in AWS Glue using pyspark script and Integrate with Step Function and query the data on AWS Athena  based on business requirment.
+
+Responsible for:
+
+· Creating a etl script to convert .csv file to parquet formart .
+· Creating  business logic/requirment in pyspark 
+· To read csv file placed in S3 bucket and add a Glue Crawler to fetch the csv file placed in S3 bucket and creating the Table in AWS Athena
+· Unit Testing is via Apache Zeppelin connected through AWS Glue Dev end points.
+· Created Lambda function to get the status of the Job .
+· IAM Role: IAM role has been created for accessing logs in Cloudwatch.
+· ETL Job is automated through Step Function ,which trigger etl script ,AWS Lambda and Glue jobs.
+· Analysis is viewed in Athena table(Hive).
+
+
+                 Personal Profile
+
+Date of Birth              : 09-06-1993
+		Languages Known      : Kannada, English and Hindi 
+	            Passport Number       : M8459805
+                       PAN Number              : ANNPL3426B
+                                   Address                    : No20,Babushapalya,Bangalore-560043 
+                 Dell - Internal Use - Confidential
+
+                 Dell - Internal Use - Confidential
+

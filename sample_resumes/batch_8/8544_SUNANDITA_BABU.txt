@@ -1,0 +1,231 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	SUNANDITA BABU
+	
+
+	Email: nita.nitababu@gmail.com
+	
+
+	Phone:  +91-9439949339
+
+	
+
+	
+
+
+OBJECTIVE
+
+To succeed in an environment of growth, challenge and excellence and, earn a job in an organization of
+repute that would provide me opportunity to apply my technical and advisory skills in a globally
+competitive environment which fosters professional growth.
+
+PROFESSIONAL EXPERIENCE
+	
+System Engineer                                                                                                         2014 –Till date
+Tech Mahindra Pvt Limited
+
+
+EMPLOYMENT HISTORY
+
+· Red Hat Certified System Administrator and application production support  with 3.4 years of experience in IT industry.
+· Currently working as System Engineer in Tech Mahindra Pvt Limited.
+· Major skill set includes UNIX, Linux, Shell Scripting, BMC Remedy, (Change and Ticketing module) Oracle (TOAD), JBOSS, Introscope, RUM, splunk,HF monitor, WebSphere, virtualization and networking 
+· Self-Starter and a Team motivator. Quick learner and ability to meet tight deadlines and work under pressure.
+· Ability to analyze, troubleshoot technical problems.
+· Excellent Management, analytical, presentation and communication skills.
+
+
+PROFESSIONAL PROJECT PROFILE
+
+· Project Name: Thunderbird 
+Client: AT&T
+Period: January 2017- Present
+Role: Linux System Administrator
+
+Description of Project: Telegence LD is a Telecom Domain application. It is a comprehensive customer
+care and billing system for Long Distance telephone services developed by AMDOCS. They name it as
+Ensemble and designed for SBC (Southwestern Bell Corporation, USA). 
+
+Contributions: -
+· Thorough understanding of Project Requirements in the domain of Administration.
+· System Administration, Network designing and troubleshooting of Linux Servers.
+· Perform problem analysis/resolution of application processing exceptions from the point of initial alert or notification through resolution or escalation. Assesses problem impacts on service and notifies appropriate groups per Guidelines. Coordinates work activities with resolver-groups/fix-it agents in complex recovery situations; tracks exceptions until restorations are complete. 
+Interface with clients, Development teams and other interfacing system and work groups to
+schedule and run on-request jobs
+· Configured YUM, FTP and NFS server for automatic remote installations of Linux Machines and Applications Software.
+· Installation and Configuration of RHEL7
+· Managed systems routine backup, scheduling jobs like disabling and enabling CRON jobs, enabling system login, network plunging of servers for maintenance, performance tuning, testing. 
+· Excellent Experience in Installation, configuration and Volume/File system management using Logical Volume Manager (LVM) in Linux.
+· Installation and Management of Patches on Red Hat Linux.   
+· Administration of Linux Based Firewall. It involves providing rule based internet access, port management and network intrusion detection and troubleshooting.
+· Worked on VMware virtualization
+· Setup and Management of Webserver(Apache)
+· Implementation of SAMBA, NFS, and FTP servers for file and printing sharing.
+· Management of DNS, MAIL, WEB and Log Servers in Linux.
+· Management of Centralized Login Server LDAP.
+· Set up user and group login ID's, printing parameters, network configuration, password, resolving permissions issues, user and group quota
+· Planning and implementing system upgrades including hardware, operating system and periodical patch upgrades.
+· Implement CR’s that has been approved by the Change Management group and validate them.
+· Leading role in review meetings of various deliverables for releases/projects.
+· Responsible for SLA commitment on a daily basis and keeps a close track of it.
+· Involved in helping others Linux Administrators to deploy in Linux and windows environment 
+· Automation and optimization of scripts and processes in Database and UNIX.
+· Installation of Maintenance packs.
+· RPM and YUM package installations, patch and other server management tasks.
+
+
+
+· Project Name: IMS-03 Americas
+Client: AT&T
+Period:  JUNE 2015 – January 2017 
+Role: Application Production Support
+
+Description of Project: IT Infrastructure Management Services (IMS) offers a suite of reliable, responsive, flexible and proven infrastructure services and solutions that deliver differentiated value to our customer's business. The IMS team with experts in 36 countries, an ecosystem of strong alliances and a Delivery & Data Center footprint across continents helps us provide true 24X7 services to over 190 customers in multiple
+industries such as Telecom, Banking, Manufacturing, Insurance, Retail and Healthcare. 
+
+Contributions: -
+· Worked as a Team lead for Team of 3 members
+· Ensure End to end deployment and Primary Owner of mission and non-mission critical application. 
+· Coordinating with various Team for smooth execution of various daily, weekly, monthly and quarter releases.
+· Finding the RCA for the outage for mission critical application.
+· Performing SLA Management for all the AOTS ticket (BMC Remedy) and Change ticket. Pulling details from BO (Business Object) tool and prepare report and sent to management.
+· Monitoring of alert using Introscope, Splunk, HF run monitor, Sitescope tools, ticketing, analyzing it and taking corrective action.
+· Playing a crucial role of interfacing the customer and delivery team – a single point of contact for technical Support to Environment Managers, Project Managers, Release Management team, Testing team and Database Administrators.
+· Deployed Web-based enterprise applications online that uses Java and WebSphere.
+· Worked extensively on application tools.
+· Responsible for Operating system validation & service and Server Health Monitoring, for Application availability 24x7, through various server tools and event viewer logs.
+· Monitoring and Maintaining the File systems for Production/Development/ Testing environment
+· Responsible for all the activity done on production server. 
+· Ticket handling on daily basis created by user on BMC Remedy (trouble and change ticket).
+· Performing sanity of the mission critical application on daily basis and after deployment. 
+· Clients calls handling for status report and supporting the Mission Critical application
+
+
+
+
+· Project Name: Thunderbird (AOT)
+Client: AT&T
+Role: Automation and Optimization
+Period:  Dec 2014 – May 2015
+
+Description of Project: Automation and Optimization team(AOT) in thunderbird serves to automate 
+mission critical application, save time and outages (critical issue).
+
+Contributions: - 
+· Selected as a member of Automation and Optimization team by AT&T and TechMahindra in Dec 2015.
+· Implemented scripts Saving 200 Hours a Year (Save Manual Hours during each maintenance activity and outages).
+· Building, patching, and updating Linux systems 
+· Perform Root Cause Analysis (RCA) for the errors (outage) along with developers and Outage Management Team Retrieving relevant information.
+· Worked in physical and virtual environments with several teams and collaborated on data management, network management, system and server administration tasks etc.
+· Responsible for the documentation of newly deployed environments and validation of all key technical components
+
+
+
+
+EDUCATIONAL QUALIFICATIONS
+
+
+	B.Tech. (ECE)
+	2013
+	BPUT, Odisha
+	84.00%
+
+	Higher secondary
+	2009
+	CHSE
+	75.00%
+
+	High School
+	2007
+	BSE
+	89.00%
+
+
+
+
+
+
+TECHNICAL PROFICIENCY
+
+
+Database: 
+· Oracle 9i/10g/11, MariaDB, SQL Server
+
+Service Management Tools:
+· BMC Remedy 7.6, Remote Desktop, Toad, Putty, FTP client, MS Office 2007/2010, VMware, Introscope, Sitescope, HF Run Monitor, Netcool, Splunk, Nagios
+
+Operating System: 
+· HP UNIX, LINUX (Redhat), Windows-98/2000/NT/XP/7/8/10, Windows Server 2008/2012, Ubuntu, CentOS
+
+Language: 
+· SQL,  SHELL Scripting (BASH, KORN), C, C++, Python
+
+
+
+CERTIFICATIONS
+
+Red Hat Certified System Administrator(RHCSA) on Red Hat Enterprise Linux 7.0 (160-173-605)
+
+
+
+ACHIEVEMENTS
+
+· Awarded Most Valuable Player by AT&T for year 2016-17
+· Awarded as Best team player in 2015 by TechMahindra.
+·     Awarded as PAT ON BACK (POB) by TechMahindra for excellence in service and exceeding client expectation.
+·     Achieved STANDING OVATION AWARD by TechMahindra for excellence in service and exceeding client expectation. 
+
+
+PERSONAL DETAILS
+
+	
+	Date of Birth
+	10th January, 1992
+
+	Current Location
+	Chandigarh
+
+	Linguistic Skills
+	English, Hindi, Oriya
+
+	  Marital Status
+	Single
+
+
+

@@ -1,0 +1,237 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P
+
+Vamsi Krishna Dimmiti
+Vamsi Krishna D
+House No: 11/406-4-1
+
+
+
+
+
+Mobile: +91 9966228055
+Nagavarappadu,
+
+Email: vamsigec@gmail.com
+Gudivada, Andhra Pradesh -521301          
+
+
+        
+
+Objective
+
+To work as a software professional in a challenging environment where I can do my best with the help of my professional and personal skills and be recognized as an individual and dynamically excel the organization I work for.
+Professional Summary
+
+· Currently working as a Project Engineer in Wipro from Nov 2009 to till date.
+· Worked as an Asst Professor in AANM and VVRSR Polytechnic for 1.5 years from June 2008 to Oct 2009 and lead a project done by my students on Library Management System.
+· Having 2 years of experience in Development, Enhancement and Support of Web based Applications using Java technologies.
+
+· Good Knowledge in all phases of Software Development Life Cycle (SDLC). Involved in Roles with responsibilities that include requirements gathering and analysis, design, coding, integration testing, user acceptance testing and production support.
+· Have coordinated different programs and service activities in and after college level.
+Educational Qualifications
+
+Bachelors in Computer Science and Engineering (B.Tech) from JNTU University, with 67.3% (2004-2008)
+
+Intermediate (MPC) from Board of Intermediate Education - Andhra Pradesh, with 89.0% (2002-2004)
+
+SSC from Board of secondary Education - Andhra Pradesh, with 79.8% (2001-2002)
+
+Technical Skills
+
+JAVA/J2EE Technologies 
+
+:
+JDBC, Servlets, JSP, EJB, Basics of Hibernate
+
+Programming Languages 
+
+:
+C, C++, Basics of UNIX, Core Java
+Databases                  
+
+:
+SQL, PLSQL, Oracle.
+
+Web Languages         
+
+:
+HTML, XML, AJAX and Java Script
+Framework
+
+
+
+:  
+Struts, JSF, Basics of .net Framework
+
+Tools worked on
+
+
+:
+Eclipse, Putty, Rational Clear Case,
+Oracle Reports Builder, NetBeans
+Project Experience
+Project#1
+: Exit Reforms Phase-II
+Role
+
+: Developer
+
+Client
+
+: XOSERVE
+Project Description:
+
+The name of the project is EXIT REFORM PHASE II where the business is done on Gas supply. In this project we develop different applications that help the client to buy, sell, and transfer the gas among its users between different locations. This project will help the client to invite their users for bidding the space in the gas pipeline, accept their requests, processing the requests and allocating the gas capacity to its users. This project will help the users to send the request for the capacity, communicate with other users and transfer of gas supply among them.
+Actually this project is an advancement of EXIT REFORM PHASE I. Both the PHASE I and PHASE II concentrate on Exit phase of the Gas supply, but the PHASE II mainly concentrate on buying back the sold capacity, advanced reservations of capacity and increase/decrease of the existing capacity by the users. We developed the applications according to business requirement by coding around 200 online screens with 408 flows for this project.
+Responsibilities:
+· Responsible for developing the online Screens and Reports based on given SUC.
+· Debugging and fixing the bugs that rose as a part of CUT and ST phases of the project.
+· Proactively taken the role Build and Deployment of the project
+· Extended my help to the Testing Team by testing some of the modules in Project
+
+Environment: Oracle database, OC4J application Server, SQL, PL-SQL, JSP, Struts, Oracle Reports, Putty, Rational Clear Case, Eclipse
+Project#2
+: Translation Management System (TMS) and MultiTerm
+Role
+
+: L2-Support
+Client
+
+: EMC Corporation
+Project Description: 
+
+
+TMS and MultiTerm are two applications of EMC Corporation. 
+
+TMS (Translation Management System): 
+It is a Global Information Management System which is used for translation of documents from one language to multiple target languages. TMS acts as an upgrade to the previous SDLX desktop version, where in the language translations are carried out online by the translators, which is stored in a central repository or a Translation Memory.
+TMS Application comes with different options and settings which can be used to translate the document of one language to desired target language. Initially the administrator will do the settings which include the setting the language pair, setting the penalty, setting TM and TM Sequences etc. After that user can create a job that accomplishes the translation which means user will give a document of a particular language as input to the TMS application. Then the TMS translates the document and gives a document of desired target language as an output to the user
+
+MultiTerm:
+
+The MultiTerm is a Global Information Management System which is used to define the terms or words of one language to multiple target languages. MultiTerm is an internet version of SDL MultiTerm desktop application which uses a database that stores a termbase data. MultiTerm provides a termbase through which for a word or term in one language, we can find definitions and the relevant terms in different languages 
+
+MultiTerm has many features that help the user in many ways. It helps the user more or less like a data dictionary. MultiTerm, as the word suggests that for a particular term/word which would have different languages stored on, has been integrated with TMS which is used to help in translation
+
+MultiTerm is the main client component, providing the end user with a standard working environment for terminology management. MultiTerm allows you to create, modify and delete termbases and termbase content, and provides you with a comprehensive range of features for formatting, filtering, editing, importing and exporting termbase data. MultiTerm used to manage user accounts and termbase access rights for all potential clients
+
+Both the Applications were developed by SDL which will be responsible for anything related to code changes and enhancements.
+
+Responsibilities:
+· Responsible for resolving the tickets that is targeted to the TMS/MultiTerm group and involves TMS/MultiTerm applications under our name in the Peregrine Service Center
+· Responsible for raising the ticket in SDL Support Center if any issues that are out of our scope
+· Responsible to interact and log the tickets to SDL team if there are any errors in TMS/MultiTerm Applications.
+· Responsible to customers to resolve their problems in TMS/MultiTerm Applications.
+· Responsible to coordinate with SDL Team and DBA Team based on the requirement.
+Environment: 
+ TMS: We are using 3 environments (TEST/PROD/DEV) having 4 web servers, 5 application servers and 3 database servers for TMS application. We have SQL Server 2005 and IIS installed in servers. 
+MultiTerm: We are using 2 environments (TEST/PROD) having 3 web servers, 1 application server and 2 database servers for MultiTerm Application. We have SQL Server 2005 and Apache Tomcat installed in servers.
+Project#3
+: Switch License Keys (SLK)
+Role
+
+: Developer
+Client
+
+: EMC Corporation
+
+Project Description:
+
+
+SLK is used by EMC employees, EMC license administrators, and EMC customers to obtain license "keys" that activate switch or software features. All switches are delivered with default features already enabled. SLK is therefore used for activating additional switch features or software upgrades that EMC customers have purchased.
+Responsibilities:
+· Responsible for enhancing application based on the work request
+
+· Responsible for testing the developed enhance modules in test environments.
+
+Environment: Oracle database (SQL/PLSQL), XML, Apache Web server, WebLogic Application server, Struts, TOAD, Web logic Workshop
+Project#4
+:  Library Management System
+
+Role
+
+:  Supervisor
+Project Description:
+
+
+
+The name of the project is Library Management System which automates and manages the Library System of an Institution/Organization. With the help of this project we have eliminated the written records system of the Library in our collage. This project helps a student/Faculty to identify the availability of the book in the library and to verify the transactions that have been done by him in the Library. This project helps the Library administrator to keep the database of the book available and all the transactions that have been done in Library on daily and monthly bases.
+Responsibilities:
+· Lead the team of students to develop the whole project right from the UI to the database level.
+· Helped the students by explaining the actual scenario and flow of the Library Management System.
+· Helped the students by clearing the technical issues that rose in the development of the project.
+Environment: SQL server 2005, .net framework
+Academic Project: Color Based Image Retrieval by using Harbin Approach
+
+Role: Lead
+Team Size: 4
+Project Description:
+
+The name of the project is Color Based Image Retrieval by using Harbin Approach in which an image is given as an input query and based on the given input image, the system will retrieve the relevant images and will be displayed on the screen. Actually this project is an implementation of IEEE paper which comes under the Image Processing Concept.
+Responsibilities:
+· Creation of User Interface.
+· Developed the code to retrieve the relevant images based on given input image by implementing Harbin Approach. 
+Environment: NetBeans, Java and MYSQL
+Personal Profile:
+
+Name
+
+
+     : 
+ Vamsi Krishna D
+                    Date of birth                    : 
+07-09-1986 
+
+                    Father Name                    :  Govinda Babu D                    
+
+                    Hobbies                           :
+
+Cooking, Dancing, Chatting with friends
+                    Languages known             :  English, Telugu and Hindi
+

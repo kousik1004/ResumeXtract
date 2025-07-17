@@ -1,0 +1,155 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RONAK KHAITAN
+Contact No. : + 91 8867376774
+E-mail Id:ronak.khaitan55@gmail.com
+
+
+Summary:
+
+· Having 4.2 years of experience, currently working as Senior Software Engineer in Robert Bosch Engg. And Business Solutions Ltd developing software solutions for Car Infotainment for Automotive OEMS’s like Nissan, Renault and Volkswagen.
+· Having 6 months experience of working in customer location at Germany responsible primarily for Spi modules development and apple certification.
+· Sound skills in designing, implementing and debugging of Smart Phone Integration Modules, HMI/GUI,Context switch handling, State machine designing, implementing business logic, input handling modules, GENIVI layer manager api’s.
+· Good understanding of overall system architecture and Smartphone modules like Apple Carplay, Google Android Auto and Inter process communication like Courier Message Service, ASF-widely used for Infotainment.
+· Well versed with HMI tools like CGI, EB Guide and IAR tool.
+· Having worked in CMMI L5 Company, have good exposure to CMMI software engineering practices.
+
+
+Projects:
+
+Nissan Renault Alliance RN A-IVI(April’15 – Present)
+
+Development Environment: C++, Gen3 Platform (OS Linux on Processor iMx6 and AUTOSAR on V850).
+· Responsible for concept designing and developing complete HMI and State machine in coordination with smartphone apps requirements like Apple Carplay and Google Android Auto.
+· Responsible for complete resource management between smartphone applications and headunit accessory, involving both dislplay and audio resource management.
+· Responsible for Context Switch handling in coordination with the accessory HMI Appmanager and HMI Framework.
+· Design of complete state machine using IAR tool in sync with Courier framework in accordance with MVC architecture.
+· Design of the GUI scenes of the HMI module with CGI Scene Composer tool.
+· Design the concept for input handling modules in HMI in sync with smartphone certification requirements.
+· Responsible for surface handling and synchronization in accessory HMI along with different modules in an infotainment headunit with good knowledge of layer manager api’s.
+· Responsible for developing business logic handling  infotainment applications in C++.
+· Responsible for developing concept for complete input key handling, encoders and Steering wheel control keys interacting with accessory HMI and HMI Framework.
+· Have good knowledge of Mfi specs and Apple Carplay and Android auto certification requirements having successfully worked on 2 smartphones SOP certified projects.
+· Have good knowledge of apps and resources available in smartphone modules to develop and sync with accessory. Ex: Siri, Podcast, Navigation,etc.
+· Design the concept and development of smartphone modules in accordance with apple and google certification requirements.
+· Responsible for graphics specs and requirement gathering as per customer.
+
+
+Nissan ITG5SD:(April’14 - April’15)
+
+Development Environment: C++, Gen2 Platform (OS Linux and T-Engine).
+
+· Responsible complete key handling, encoder and Steering wheel control keys.
+· Responsible for developing scenes in CGI scene composer and designing HMI state machine with IAR tool.
+· Responsible for Business logic handling for infotainment applications in accessory.
+· Handling the input handling events like keyboard/touch data events from framework to various applications.
+· Handling multi touch for touch screen.
+· Responsible for Unit testing and Pre integration testing.
+
+Volkswagen MIB2:(December’13 - April’14)
+
+Development Environment: C++, Gen3 Platform (OS Linux on Processor iMx6 and AUTOSAR on V850).
+
+· Responsible for developing and designing HMI and State machine of Infotainment systems for Volkswagen group (Skoda, Seat and VW).
+· Responsible for handling key data and events from framework to various applications.
+· Responsible for requirements gathering and specs as per customer.
+· Responsible for Unit testing and Pre integration testing.
+
+Educational Qualifications:
+
+	Qualification
+	University
+	Institute
+	Term
+	Performance
+
+	B.E – E&C
+	VTU
+	B.V.B College of Engineering and Technology,Hubli
+	2009-2013
+	8.78
+
+	Intermediate
+	CBSE
+	Kingcup Public School,
+Itanagar
+	2008-2009
+	89.8
+
+
+	Matriculate
+	CBSE
+	
+	2006-2007
+	90.4
+
+
+
+TECHNICAL SKILLS:
+
+· Languages Known: C++, XML and Assembly level Programming.
+· Tools Used: Visual Studio, Eclipse, Enterprise architect, CGI Scene composer and IAR Visual State.
+· Other Skills: Well versed with Clear case, GIT, JIRA, RADAR, TTFIs and DLT Tool etc.
+· Operating System: Windows, Linux.
+
+PERSONAL DETAILS:
+
+Father’s Name 		:  Mr. Suresh Khaitan
+Date of Birth   		:  5th Aug 1990
+Passport status                        :   Available
+
+HOBBIES AND INTERESTS:
+	
+· Reading, Cooking.
+· Playing and watching Cricket.
+1
+

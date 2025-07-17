@@ -1,0 +1,322 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lokesh Kant
+
+Rinki Gupta
+Rinkigupta6989@gmail.com
+Mobile: +91 9654035168
+
+
+	Objective
+	   
+	To Seeking a challenging position to work in multi cultural, multi skilled environment with eyes on something different and where individuals work hard, talent and instincts are recognized, utilized and rewarded
+
+
+	
+	
+	
+
+
+
+
+
+
+      Work Experience Summary
+
+
+
+Having 4 years of experience as ABAP Consultant in SAP implementation and support, Currently, I am working with Gapbridge Software pvt ltd. highly motivated and ability to work both independently or as part of a team. 
+
+
+· Over 3+ years of SAP experience (3 Full Cycle Implementation and 1 support).
+· Experience in WebDynpro ABAP. 
+· Currently working as SAP developer.
+· Good Knowledge of BDC.
+
+· Good Knowledge of OO ABAP.
+· Conceptual knowledge of User Exits & IDOC, LSMW, BADI.
+
+· Good Experience on SMARTFORMS.
+· Experienced in ABAP/4 Development Workbench, Interactive and Classical Reports, ALV, Smart forms and BADIs.
+
+· Experience in Screen Programming.
+
+· Domain knowledge of SD, MM.
+· Highly efficient in understanding client’s requirements and converting them into system developments.
+
+· Data Dictionary: Custom data repositories, customer maintained reference tables, structures, views, data elements and domains. 
+
+· Able to work in a Team, Lead, Multi-task, adapt to changes, and manage complex projects. 
+
+· Interaction with End Users, Business Process Owners and SAP R/3 functional consultants for finalization of functional specifications and report formats. 
+
+Core Competencies
+
+
+
+	IT SKILLS
+
+Languages:                                ABAP, C, WEBDYNPRO ABAP
+Platforms / Software Packages:
+      Win (XP); MS Office; SAP(ERP Package); Microsoft Visual Studio
+ERP:                                         SAP R/3 6.0.
+
+
+
+
+
+ORGANISATIONAL EXPERIENCE
+
+
+
+•          Working as Sap Abap Consultant for Gapbridge Software Pvt ltd from March 2017 to till date.
+•
+Worked as Sap Technical Associate for Protocom Technology India. from June 2013 to March                2017.
+•
+Worked as SEO Executive for Electronic Bazaar from Dec 2010 to Dec 2012. 
+
+
+
+Projects Profile:
+
+Project #4
+
+
+Type                 : Implementation
+
+Client
+
+: Goods and Services Tax (GST)
+Organization
+: HCL Technologies
+Role
+
+: ABAP Consultant 
+
+Duration           : March 2017 to till date
+
+
+
+Client Description:
+
+Goods and Services Tax (GST) is a proposed system of indirect taxation in India merging most of the existing taxes into single system of taxation. 
+
+Objects Developed:
+
+
+· Developed Smart forms.
+· Modified layout of sapscript and smart forms.
+
+· Developed ALV Reports which displays GST tax.
+· Developed a Report to update sales order using standard Bapi – ‘Bapi_salesdocument_change’.
+· Developed a Implicit Enhancement to put validation on va02 for partner function that value for ship-to-party and sold-to-party must be same.
+
+· Created a table maintenance generator and put validation on fields using TMG events.
+
+
+
+Project #3 
+
+Type                 : Implementation
+
+Client
+
+: Nexeo Solutions,U.S
+Organization
+: KPIT Cummins 
+Role
+
+: ABAP Consultant 
+Duration           : Jan 2016 to till date
+
+
+Client Description:
+
+Nexeo Solutions supplies raw materials used in a broad cross section of industries, including chemical manufacturing, oil and gas, coatings, adhesives, paints, personal care, automotive, and healthcare.
+Roles and Responsibilities:
+
+
+
+· Development of webdynpro applications as per client customization and requirement.
+
+· Analysis of the Technical Specifications.
+· Development of Code based on the approved Technical Specifications.
+· Preparation and Compilation of Unit Test Plan.
+· Analysing and bug fixing in the developments and completing them with efficient coding practices.
+
+
+
+Objects Developed:
+
+
+· Developed custom Web Based Interactive Reports using WebDynpro ABAP Framework using MVC pattern and View Assembly.
+
+· Reused salv_wd_table component for ALV Tables integration in WEBDYNPRO Components.
+· Reused wdr_ovs component, wdr_select_options component for achieving advanced search help functionality for input fields and select option functionality for input fields respectively as part of WEBDYNPRO components. 
+· Developed Web based ALV Report which Display P.O. History details. 
+· Maintained relation between two views using navigation links.
+·  Developed Web based ALV Report to Display pending supplies based on delivery date. 
+
+· Developed  custom Webdynpro ABAP  Component which displays invoices statement Report
+
+· Developed Web based ALV Report which displays Sales order dispatch details.
+
+· Configured webdynpro Components using Floor Plan Manager using UIBB's (User Interface Building Blocks).
+
+· Used FPM_GAF_Component for Configuring Custom components and respective windows for Roadmap scenarios.
+
+
+
+Project #2 
+
+
+Type                :  Implementation
+Client
+
+: BSL, Gurgaon
+Role
+
+: ABAP Consultant 
+
+Duration           : Nov 2014 to Dec 2015
+Roles and Responsibilities:   Development, Testing, Modification
+
+
+
+Contributions:
+
+
+
+· Created an interactive list displays sales order and line items, which needed to be delivered by a certain date. Selection criteria were used to enter the specified delivery date.
+
+· Created report which displays Purchase order number, Order date, Material number, Material description, Amount, Total line item against PO and Total Amount of material. . Selection criteria were used to enter the PO Number and PO creation date.
+
+· SAP script modification including Print programs, Forms, Standard Text. In this activities involved are Developing Layout and developing program.
+
+· Modified BDC program to migrate Vendor Master (T.Code : XK01)      data from Legacy System to SAP R/3 database.
+
+· Uploaded Customer Master using Session Method.
+
+· Good experience in Dialog Programming using Workbench tools: Screen Painter, Menu Painter.
+
+
+
+
+Project #1
+
+Type                 : Support
+
+Client                :
+Phoneix Lamps 
+Role
+
+ : ABAP Consultant 
+
+Duration            : Sept 2013 to Oct 2014
+Responsibility   : 
+
+
+
+· Reporting, Maintenance of SAP Script Forms.
+· Modified layout sets for adding company logo, windows, and database fields according to customer requirements and modified existing layout sets & print programs using SAP Script.
+
+· Developed ALV interactive report for Material Status report based on material and plants.
+
+· Data migration using BDC, LSMW.
+· Modification Standard Layout according to the client requirement using Dialog Programming.
+· Generation of reports according to the client requirement using ALV. 
+
+
+ACADEMIC CREDENTIALS
+
+
+
+                    2010       Bachelor of Engineering (B.E.) from CS, MDU Rohtak. 
+
+                    2006       10+2 from C.B.S.E., Faridabad
+                    2004       10th from H.B.S.E., Faridabad
+
+
+PERSONAL TRAITS
+
+
+· Excellent organizational, interpersonal and communication skills.
+
+· Able to work within established time frames and meet deadlines.
+
+· Able to lead the team and be a good team member also.
+
+· Self-motivated and able to function well independently or in-group environment.
+
+· Resilient & Positive attitude.
+
+
+
+LANGUAGE PROFICIENCY 
+
+
+· English
+
+· Hindi
+
+
+
+PERSONAL DETAILS
+
+
+· Date of Birth
+
+: 6th Sept, 1989
+· Gender
+
+
+: Female
+· Marital Status
+
+: Single
+
+· Nationality
+
+: Indian
+

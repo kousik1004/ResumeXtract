@@ -1,0 +1,110 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yarroju Srimannarayana
+
+            Mobile No.: +91 7989444873 |  Email Id: siva.yerroju@gmail.com
+  Address: G2, Plot no:167P/168, Nizampet, Hyderabad Pin:500049 
+
+Career Objective
+Data Scientist with a demonstrated history of working for more than 2 years in the information technology and services industry. Skilled in Python(Sci-kit, NLTK, TensorFlow, NumPy, SciPy),R-Programming, Machine learning and Data science. PGP certified in Big Data Analytics and Optimization from International School of Engineering(INSOFE).
+Professional Experience
+
+         Zeta Global - Hyderabad (August 2016-Present)
+Designation: Analytical Campaign Manager (Data Science & Machine Learning Team) 
+Roles and Responsibilities:
+· Interpret data, analyse results using statistical techniques and provide ongoing reports
+· Selecting features, building and optimizing classifiers using machine learning technique
+· Extending company’s data with third party sources of information when needed
+· Enhancing data collection procedures to include information that is relevant for building analytic systems
+· Exposure to ML Libraries(Sci-kit, NLTK, TensorFlow, NumPy, SciPy) on Python.
+· Processing, cleansing, and verifying the integrity of data used for analysis
+· Creating automated anomaly detection systems and constant tracking of its performance.
+· Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
+· Experience with common data science toolkits, such as R, NumPy Experience with data visualization tools, such as, GGplot, etc.
+· Collaborate with engineering and product development teams
+· Locate and define new process improvement opportunities
+· Propose solutions and strategies to business challenges
+Education
+
+· PG Program-Big Data Analytics and Optimization (Feb 2018–Aug 2018): From International School of Engineering (INSOFE), Hyderabad
+· PGDM-Marketing and Finance (2014-2016):
+From New Delhi Institute of Management, New Delhi
+· B. Tech- Electronics and Communications (2008-2012): 
+From GMR Institute of Technology, Rajam
+Technical Skills
+
+· Programming Languages: R, Python, PySpark, SQL
+· Tool Kits: Sci-kit, NLTK, TensorFlow, NumPy, SciPy
+· Statistical Models: Probability, Descriptive & Inferential Statistics, Linear and Logistic 
+                                         Regression, Time Series Analysis	
+· Machine Learning: Random Forests, XGBoost, KNN, SVM, K-means, Hierarchical
+                                         Clustering, Decision Tree Association Rules, Apriori Algorithm
+· Deep Learning: Neural nets (Perceptron and MLP), Auto-encoders, RNN(LSTM), CNN
+· Visualization Tools: Tableau, R, Python, MS-Excel
+· Database: Mysql
+Educational Data Science Projects:
+
+1. Diabetes Development Prediction- HEALTHCARE ANALYTICS
+Overview:  Client wants to develop machine learning model to predict patients developing diabetes. 
+Trained data sets using Naive Bayes, Random Forest and finally chosen to develop a model using Logistic regression in python Scikit-learn library.
+Confusion matrix, Classification report are used to evaluate prediction and an accuracy of >70% is achieved.
+Environment: Machine Learning, Python Pandas, Matplot-lib
+Models: Logistics Regression, Random Forest, Naive Bayes 
+
+2. Project on Bank Loan Approval 
+Overview: Client wants to find to which customers they should sanction loan and to how much amount they can sanction to the individual.
+The client has provided the customer details (like occupation, savings, Cibil score..etc).
+Models: Logistics Regression, Decision tree, Random forest
+
+

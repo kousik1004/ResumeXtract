@@ -1,0 +1,217 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JagathPriyan R
+Mobile: +91-9176298709
+Mail id: rjpriyan93@gmail.com
+		                             			                 
+
+Professional Summary
+
+· 2.2 Years of experience in IT Industry on Software Testing
+
+· 2 months of experience in Kindle testing.
+· Servers & Storage Industry Professional with 2 years of  experience in EMC Storage domain.
+· Proficient in various Testing Methodologies and Bug Life Cycle.
+· Excellent knowledge of Manual Testing concepts and skills.
+· Extensive functional experience in Manual Testing: Test Case preparation, Test Execution, Test Reporting and Defect reports Preparation.
+· Work Experience in python &  Linux Environments.
+· Knowledge of automation tools like – Robot Framework, Jenkins, Git.
+· Thorough working experience in Test Link and Bugzilla.
+· Working experience in IOMeter and Junior client performance tools.
+· Thorough hands on experience with all levels of testing including Sanity, Usability, Functional, Regression, Re-testing and User Acceptance Testing.
+· Strong Knowledge on testing Protocols- NFS, CIFS, AFP, ISCSI, FTP, SCSI.
+· Excellent communication and interpersonal skills with strong work ethics.
+· Excellent team player having ability to finish the tight deadlines and work under pressure.
+
+Technical Skills
+
+· Operating System		: 	Windows, Mac OSX and Linux 
+· Language Proficient		:	Java
+· Bug Tracking Tool		: 	Bugzilla.
+· Domain			             : 	Servers & Storage.
+· Test case Management tool	:	Testlink 
+· Protocols worked		:	NFS, CIFS, AFP, FTP, iSCSI
+Employment Archive
+
+	Employer
+	From
+	To
+	Designation
+
+	
+	
+	
+	
+
+	Amazon Development Centre
+	June-2015
+	August-2015
+	Device   Associate
+
+	HCL Technologies Ltd.
+	August- 2015
+	Till date
+	Software Engineer
+
+
+
+Achievements 
+
+· SPOT award for Adhoc Testing and Multi task switching abilities
+· HCL Spot award for excellent performance during JAS’17 (Internal Appreciation) for Blocking minor release  for twice .
+Academia
+	
+	Degree
+	Secured
+	Year of Passing
+
+
+	
+Academic Qualification
+	B.Tech, Computer Science Engg, 
+SMK Fomra Institute of  Technology..
+	66 %
+	2014
+
+	
+	Class XII
+St’marys, Boys Matriculation HSS
+	76 %
+	2010
+
+	
+	Class X
+St’marys, Boys Matriculation HSS
+	82 %
+	2008
+
+
+
+Professional Experience
+
+Project #1
+
+Project name		:            Kindle testing  
+Team Size			:            8
+Duration			:            Jun2015 – August 2015
+Tools			:            Testlink,jira
+Testing			:            Manual Testing
+Description
+
+	The Amazon Kindle is a series of e-readers designed and marketed by Amazon.com. Amazon Kindle devices enable users to browse, buy, download, and read e-books, newspapers, magazines and other digital media via wireless networking to the Kindle Store. Android-based tablets with color LCD screens and Kindle applications on all major computing platforms. 
+
+Responsibilities
+
+·  Execute test cases prepared for testing Software builds on the Kindle platform and Kindle software products.
+·  Perform test case execution and report bugs accurately
+·  Understand testing procedures and guidelines for new builds / releases
+·  Perform regression and repetitive testing exercises to qualify builds without compromising on quality
+·  Raising all failures/doubts related to the execution of test cases in the clarification portal and closing the same as per the SLAs.etc…	
+
+
+
+Project #2
+
+Project name		:	Lifeline Product 
+Client			:	LenovoEMC
+Team Size			:	12
+Duration			:	Sep 2013 – Till now
+Tools			:	Bugzilla, Test link, IOMeter, junior, iSCSI Initiator, 
+					Filezilla, webdav 
+Testing			:	Manual Testing
+Description
+
+	Lifeline is a striped down operating system for unified storage boxes, which is predominantly used in small, medium enterprises and for home use. It supports several protocols like NFS, AFP, FTP, iSCSI and windows shares. It supports different RAID configurations and also acts as the Time Machine backup target for Mac OS.LenovoEMC also provides SDK for the developers to develop partner applications on Video Surveillance and other customized applications
+
+Responsibilities
+
+· Worked  in various  minor release and a major release
+· Involved in Functional, System, Integration, Regression and Automation testing.
+· Requirement analysis, understanding the product features, and owner for features like Active Directory, Users and Groups, Native Client.
+· Raising functional queries, tracking and get closed.
+· Test Case Preparation, Test Execution and Reporting.
+· Identification of test data/test data setup in the testing environment.
+· Defect Triaging, analyzing, execution and Reporting.
+· Setting up the Active Directory, Trusted Directory with binary and Transitive modes.
+· Involved in SDK testing, third party applications such as MySQL, Avamar, Acronis,etc
+· Mentoring new joiners in understanding the product’s features and testing.
+
+
+
+
+Project #3
+Project name		:	LenovoEMC Storage manager &Test case Automation (UI)
+Client			:	LenovoEMC
+Team size		:	4
+Tools			: 	Selenium (IDE ) 
+Worked During 	: 	Apr'15 - Till now		
+
+Description:
+
+	LenovoEMC Storage Manager for Windows (LSM) installs on Windows-based PCs to easily discover and connect to LenovoEMC, Lenovo, and Iomega network storage devices. LSM allows multiple computers to interact with your network storage device and assigns drive letters for browsing device shares. Use LSM to automatically discover the device on the network, map drive letters to shared storage, and manage the device.
+Through LSM a desktop user can map iSCSI drives too in local machine. This client software also supports QuikProtect, feature which enables the client machine data to be backed up on the network storage. LSM supports additional actions like Scripting feature, Backup operations and Media Aggregation
+LenovoEMC storage devices will have lot of core API. So automation reduces the manual effort for Provision to run multiple times the selected Test Suite.UI Automation by recording in selenium IDE and exporting cases and executing cases in Selenium Webdriver.
+
+ Responsibilities:
+
+· Involved in test case identification and reviewing the test cases.
+· Identification of defects involved various stages of defect management cycle
+· Running the tests in Jenkins and getting the results.
+· Recording and executing cases in Selenium Web driver. 
+
+Personal Details
+
+Name                                     :	Jagathpriyan. R
+DOB                                      :    July 05, 1993
+Languages Known               :	English and Tamil 
+Additional course                 :    Completed Testing course in QSPIDERS CHENNAI
+
+
+

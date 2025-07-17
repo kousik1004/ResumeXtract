@@ -1,0 +1,325 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CV Template
+
+Résumé
+
+             Manish Dev
+
+
+Manish Dev
+Email:manishdev71@gmail.com, Phone:+91-7795688905/8151085888
+· 8 Years of IT Experience in Data Warehousing and Dimension & Data modeling using ETL Architecture.
+· 4+ Year Experience in Banking and Finance domain.
+· Expertise in Data Warehouse, Data modeling, ODS, OLTP and OLAP implementations teamed with project scope, Analysis, requirements gathering, Effort Estimation, ETL Design, development, System testing, Implementation and production support.
+Career Objective
+Intend to work on a position which could utilize my analytical and technical skills and provide a platform to develop myself as a complete professional.
+Employment Details
+	Employer’s Name
+	Designation
+	Duration
+	Job Profile
+
+	Cognizant Technology Solutions
+	Senior Associate
+	Dec 2014 – Till date
+	ETL Lead
+
+	CGI Information System 
+	Software Engineer
+	Nov 2013 – Dec 2014
+	ETL Developer
+
+	Wipro Technologies 
+	Project Engineer 
+	Nov 2010 – Oct 2013
+	ETL Developer
+
+
+Qualifications
+
+	Degree and Date
+	Institute
+	Major and Specialization
+	University
+
+	Bachelor of Engineering, June-2010
+	Sri Ramswaroop Memorial college of engineering & management, Lucknow, India
+	Information Technology
+
+
+	Uttar Pradesh Technical University
+
+
+Competency
+
+	Technology
+	Tools
+
+	ETL Tool
+	Informatica Power Center 8.x
+
+Informatica Power Center 9.x
+
+Datastage 8.x
+
+	Databases
+	Oracle 10g, Microsoft SQL Server 2005,
+
+Teradata V12
+
+	Development/Productivity Tools/Testing
+	Oracle SQL Developer
+
+	Scheduling tool
+	Control-M
+
+
+Assignments
+The details of the various assignments that I have handled are listed here, in chronological order.
+
+	Project Current
+	DI Rebates
+
+	Customer
+	ANZ, Australia
+
+	Period
+	Jan 2018 – Till date
+
+	Role
+	ETL Lead
+
+	Contribution
+	· Developed an automated process, to generate reports for business user to pay loyalty to customers. 
+· Involved in design the end to end flow which extract data from legacy applications and transform the data with business rules then generate reports. . 
+· Worked with stakeholders to get requirements and created technical design document which elaborate ETL Data model along with physical data model. 
+· Developed ETL mappings, UNIX Shell Scripts based on the requirement and performing Unit Testing to ensure data accuracy.
+· Got exposure on working in agile model to deliver the project with better quality and on time. 
+· Involved in sprint planning meeting to contribute with respect to dev team for better sprint plan. 
+
+
+	Environment
+	Windows10,Informatica power center 8.6, Oracle, Unix, Control-M
+
+	Team Size
+	3
+
+
+
+	Project Current
+	Contribution MIG2
+
+	Customer
+	ANZ, Australia
+
+	Period
+	Nov 2016 – Dec 2017
+
+	Role
+	Senior ETL Developer (Onsite exposure for requirement gathering)
+
+	Contribution
+	· Developed an automated solution, to load gateway messages into database and generate reports for Business users. 
+· Involved in Dimension & Data vault modeling to design the end to end flow to handle gateway message. 
+· Worked with business analyst to define the database structure to store historical data that helps in auditing. 
+· Travelled to Sydney to gather business requirements from stakeholders and analyzing them, Created ETL Data model, design document and mapping sheet for development activity. 
+· Developed ETL mappings, stored procedures and UNIX Shell Scripts based on the requirement and performing Unit Testing to ensure data accuracy. 
+· Coordinating with the team and resolving key bottleneck issues. 
+· Got exposure on working in agile model to deliver the project with better quality and on time. 
+· Involved in sprint planning meeting to contribute with respect to dev team for better sprint plan. 
+
+
+	Environment
+	Windows10,
+
+Informatica power center 8.6, Oracle, Unix, Control-M
+
+	Team Size
+	7
+
+
+
+	Project Current
+	ROTOR
+
+	Customer
+	ANZ, Australia
+
+	Period
+	Jan 2015 – Oct 2016
+
+	Role
+	Senior ETL Developer
+
+	Contribution
+	· Developed ETL model to implement rollover process for customers to make it online and fast. 
+· Customer can get the real time status of rollover request. 
+· Involved in creating, Data modelling, Detail design documentation to describe program development, logic, coding, testing, changes and corrections. 
+· Worked on complex Informatica mappings, reusable objects of Mapplets depending on client requirements. 
+· Written UNIX script to validate source files and process.
+
+	Environment
+	Windows10, Informatica power center 8.6, Oracle, Unix, Control-M
+
+	Team Size
+	7
+
+
+
+	Project Current
+	Horizon 3 Data Migration
+
+	Customer
+	SHELL, UK
+
+	Period
+	Nov 2013 – Dec 2014
+
+	Role
+	ETL Developer
+
+	Contribution
+	· Worked as ETL developer.
+· Analysis of business requirement in FS and convert those in to mapping documents
+· ETL Design and preparing Technical specifications for the Informatica mappings.
+
+· Unit testing of ETL mappings and preparing UTC docs. 
+
+· Code review with onsite counter-part.
+
+	Environment
+	Windows Vista,
+
+SQL Server, Informatica 9.1
+
+	Team Size
+	12
+
+
+	Project Current
+	ICC Integration Support
+
+	Customer
+	Nike,USA
+
+	Period
+	Feb 2011 – Oct 2013
+
+	Role
+	ETL Developer
+
+	Contribution
+	· Worked as a developer.
+· Requirement Gathering, Process Enhancement and handling informatica failures in production environment.
+
+· Involving in ETL Design/Development and tracking day to day development activities of offshore Team.
+
+· Code walkthrough with client.
+· Migration of Informatica Objects.
+
+	Environment
+	Windows Vista, Linux,
+
+Oracle 10G,Informatica 9.1,
+
+Teradata SQL Assistance
+
+	Team Size
+	8
+
+
+	Project 4
+	Data Minig
+
+	Customer
+	Internal Project
+
+	Period
+	Jan 2011
+
+	Role
+	Developer
+
+	Contribution
+	· Carrying out Requirement study and impact analysis on existing ETL process and reports.
+
+· ETL Design and preparing Technical specifications for new & Impacted ETL Objects.
+
+· Designing new ETL mappings using Informatica based on technical specification doc.
+
+· Created sessions and workflow for designed mappings. Redesigned some of the existing mappings in the system to meet new functionality.
+
+· Scheduled all the developed/Modified sessions through Informatica scheduler.
+
+· Worked on Power Centre client tools like Source Analyzer, Warehouse Designer, Mapping Designer
+
+· Unit testing of enhanced & newly developed ETL maps. 
+
+· Worked on Business Object to generate the reports for analysis purpose, it will basically help in finding data pattern. 
+
+
+
+	Skills
+	Informatica 8.x, MS Sql Server, BO, Flat Files
+
+	Team Size
+	2
+
+
+Personal Details
+Date of Birth:            05-11-1988
+
+Mother’s name:        Smt. Mewati Devi
+
+Father’s Name:        Mr. Nandlal Singh Kushwaha
+
+Address:                   Vill- Dewkthiya Po- Belwan
+
+                                 Dist- Ghazipur U.P. 233305
+
+Declaration
+I do hereby declare that the above information furnished by me is true to the best of my knowledge and belief.
+
+(Manish Dev)
+
+
+Page 1of 5
+

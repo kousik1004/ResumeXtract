@@ -1,0 +1,295 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+
+ AHAMEDNAFEEL SIRAJUDEEN
+(C) +91-9965791426
+mr.ahamednafeel@gmail.com
+OBJECTIVE:
+· To be part of a successful and innovative Software team to achieve a challenging position in IT Industry where I can make a significant contribution to the growth of organization using my talent, experience, knowledge and skills.
+ EXPERIENCE SUMMARY:
+· Nearly 3.6 years of experience in analysis, design and development of Java/J2EE client-server web based applications using core Java, Hibernate, ZK frame work, Servlets, JSP, JSF, Rich faces, Prime faces.
+
+· Nearly 3 years worked in insurance and banking domain.
+
+· Expertise in UI component development using ZUL, JSF, Rich faces, Prime faces, JavaScript, JQuery and CSS.
+
+· Experience in developing Web Services using - SOAP, WSDL and developing DTDs, XSD schemas for XML.
+· Experience in dynamically generating graphical PDF reports using IText and excel reports using apache POI and Jasper reports.
+· Cohesive team worker, having strong analytical, problem solving and interpersonal skills.
+· Ability to handle various tasks and complete within limited time period.
+Professional Experience:
+· Worked as a Software developer with Allianz Insurance, Malaysia via (Softenger Sdn. Bhd). (Effective from September 2016 to August 2017)
+· Worked as an Associate Developer with InfoMindz R&D Sdn. Bhd, CyberJaya, Malaysia.  (Effective from August 2014 to August 2016)
+Academic Qualification:
+· Master of Computer Applications at Kumaraguru College of Technology, Coimbatore with 7.8(CGPA).
+· Bachelor of Computer Applications at SKSS Arts College, Thiruppanandal with 71.76%.
+
+Technical expertise:
+· Java Technologies
+:  Java, Spring
+· Web Technologies
+:  ZK framework, Web Services, Java Server Pages, JSF. 
+· Scripting Languages
+:  HTML5,CSS,JavaScript,AJAX.
+· Persistence Technology
+:  JPA implementation with Hibernate
+· Web Libraries
+
+:  Ajax4JSF, RichFaces, PrimeFaces.
+· Web Servers
+
+:  Jetty server, Apache-Tomcat.
+· Platform
+
+
+:  Windows, Linux.
+· Tools
+
+
+:  JUnit, Log4j, Apache Commons
+· IDE Know
+
+:  Eclipse, Netbeans, Visual Studio 2012. 
+· RDBMS
+
+
+:  IBM DB2, MySQL, Oracle-11g
+· Additional Languages
+:  C#,VB.net, Asp.net
+Project Experience:
+
+ Alpha System Application  
+Role/Team Size
+:   Developer / 8
+
+Environment
+:   ZK, EJB 3.0, Hibernate Provider, JMS, Jasper Report3.7.6, IBM DB2, 
+
+
+
+    WebSphere Server, WebSphere Message Broker (WMB)
+Duration
+:   September 2016– till now
+Client
+
+:   Allianz Insurance Malaysia Berhad
+Project Abstract: 
+
+Alpha system is an Allianz insurance agent portal which is used to issue quotations / proposals and cover note for different products like (Motor, Road Warrior, Bike Warrior, Allianz Motor Cyclist PA, Allianz Shield, Allianz Travel Care, Foreign Worker, Home Shield and Allianz KambunKu). This system is accessed by all the agents of Allianz. The agents submit transactions using multi payment system.
+
+Responsibilities:
+· Involving in Analysis, Design and Implementation of application.
+· Debug existing source code and polish feature sets.
+· Worked with QA team for testing and resolve defects.
+· Developed report screens for quotation and cover note with export option in the format of Print, PDF using Jasper reports.
+· Create raw data into XML format and send data to WMB(WebSphere Message Broker)
+Dispute Management System(DMaS)
+Solution
+
+:  Dispute Management
+Role/Team Size
+:  Developer / 12
+
+Environment
+
+:  Rich faces, JSF, JSP, Hibernate Provider, JMS, Jasper Report3.7.6, My SQL, 
+
+
+
+    Apache Active MQ, JMS
+Duration
+
+:  April 2015 – June 2016
+Client
+
+
+:  Maybank- Malaysia, BSN - Malaysia.
+Project Abstract:   
+
+
+Dispute Management System is a distributed web application, to give the solution to the bank when its customer transaction went wrong In SST. To resolve this problem, the system will compare three input files which are EJ, TCS and CIT. If any abnormal transaction is identified from those files, our system will create the proactive complaint. Otherwise the customers need to complaint about their wrong transaction through customer care service (Reactive). Depends on the input files comparison, the problem will be resolved. 
+Responsibilities:
+· Enhancements in screen designs using JSF UI Components, Converters, Events and Listeners.
+· Developed report screens for EJ file transactions with export option in the format of Print, Excel, 
+PDF using Apache POI & iText.
+
+· Application performance tuning using JavaScript and jQuery.
+· Debug existing source code and polish feature sets.
+· Unit test for developed screens.
+
+· Train, guide and supervise Junior Developers in coding methodologies.
+· Provide technical and functional support to testing teams.
+Secure Management
+Solution
+
+:  Secure Management
+Role/Team Size
+:  Developer / 8
+
+Environment
+
+:  Rich faces, JSF, JSP, Hibernate Provider, JMS, Jasper Report3.7.6, My SQL, 
+
+
+
+    Apache Active MQ, JMS
+
+Duration
+:  July 2015 – July 2016
+Client
+
+:  Maybank- Malaysia, AffinBank - Malaysia.
+Project Abstract:   
+
+· Secure Management completely about to make secure the Self Service Terminals (SSTs) those are geographically separated. Secure management automates changing of passwords in SST’s by generating the password with the combination which defined in application, controlling media storage like USB, Floppy, Auto-play, CD-ROM by enabling and disabling in SST’s from server and facility to search for the malware file existence in SST’s.
+Responsibilities:
+
+· Involved in Analysis, Design, Implementation and Maintenance of application.
+
+· Enhancements in screen designs using JSF UI Components, Converters, Events and Listeners.
+· Application performance tuning using JavaScript and jQuery.
+· Debug existing source code and polish feature sets.
+TTracker  (Tyre Tracker)
+Role/Team Size
+:   Developer / 3
+
+Environment
+
+:   .Net Frame work 3.5, Smart Device Project using C# in Visual Studio 2008.
+
+
+
+     SOAP web services from .net to java
+
+Duration
+:   October 2014 – February 2015
+Client
+
+:   Auto RFID Solution - Malaysia.
+Project Abstract: 
+
+TTracker is an end-to-end tyre lifecycle management solution. This solution tracks the tyre usage from the day it is mounted onto a truck till it is replaced. The solution is capable to read the RFID tags fitted on a tyre for tracks the tyre history. The solution has features to monitor the tyre tread, tyre pressure, and tyre maintenance by using Bluetooth and RFID technology.
+
+TTracker has three components namely:
+· TTracker server is running in Apache Tomcat. Used to manage the tyre and fleet details and also able to view the tyre history and inventory report.
+
+· Tag Manager is running as a standalone application and communicates with TTracker server through Spring Remoting. Used to write the tyre and fleet details in to RFID tags.
+
+· TTracker Agent is running in Hand held device. Used to capturing tyre installation, tread, pressure details. Finally send back to TTracker server through web service.
+Responsibilities:
+· Involved in development of .Net based technology. 
+
+· It’s a binding of .Net and Java technology using web services. I already have some experience in .Net so they preferred me for that.
+
+· Involved in smart device mobile application creation in .net (using C# and SOAP Web Services)
+
+· Involved in Analysis, Design, and Development.
+
+· Unit test for developed screens.
+· Collaborate with other programmers to design and implement features.  
+Blue Drive
+Solution
+
+:  Blue Drive (Internship)
+Role/Team Size
+:  Developer / 2
+
+Environment
+
+:  ASP.net, C#.net, SQL Server-2005, 
+
+
+
+   IIS Server
+Duration
+:  Jan 2014 – July 2014
+Client
+
+:  Uma InfoTech Pvt Ltd – Trichy, India.
+Project Abstract:   
+
+· The scope of the Blue Drive is an online storage and distributed system to store the data over the cloud. The storage is for small organizations who need an online storage instead of store all the data on their local servers. The system is an online application that can be accessed throughout the organizational persons but it can be accessed throughout the world as well with proper login provided. They can access data anywhere there is no limitation only the internet enabled device is needed. The large set of organization data can be stored in the online file server it benefits the organization in cost wise and maintenance wise.
+Responsibilities:
+
+· Involved in Analysis, Design, Implementation and Maintenance of application.
+
+· Unit test for developed screens.
+Personal Profile:
+· Full Name:
+
+AhamedNafeel Sirajudeen
+· Marital Status:
+Single
+
+· Date of Birth:
+
+24th June 1991
+· Nationality:
+
+Indian
+· Passport Number:
+M0051028
+· Current Place:
+Kuala Lumpur  
+· Contact Number:
++91-9965791426
+
+DECLARATION:
+
+I hereby declare that the above information is true to the best of my knowledge.
+
+DATE: 05.11.2017
+PLACE: KUALA LUMPUR                  
+
+                                                                                                                            (AhamedNafeel.S)

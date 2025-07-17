@@ -1,0 +1,223 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEEPAK PRAKASH
+B.Tech (Information Technology)
+SASTRA UNIVERSITY THANJAVUR, currently working in Sapient as Track lead.
+
+	Contact no. :
+	+91-9871700524
+	                                  
+	Current Company:
+	Sapient 
+
+	Email:
+	ddeepak3@gmail.com
+	
+	Experience :
+	97 months.
+
+	Current Location :
+	Delhi
+	
+	Notice Period:
+	60 days
+
+	
+	
+	
+	
+	
+
+
+Professional Summary
+Having 8.2 years of experience in developing java applications using Enterprise Technologies like Micro Services (Using Play), Java 8, Core JAVA, Web Services, EJB 2.1, Collection, Multithreading, JSP, Servlet, spring, JSF. Expertise in design and development of object-oriented architectural based solutions in Java/J2EE technology, complemented with appropriate data-structures and not compromise with the quality of the product. 
+In depth knowledge of Core Banking Modules like SWIFT Statements, ACCOUNTS, Interest Calculation, Transactions management,  Cheques, Limits, online interface, Sweep, Uploads, Downloads. 	 
+
+	Professional Experience (8+ Years)
+
+
+· Currently working with Sapient Consulting as Track lead, since June 2014 to till now.
+· Worked with Scope International (Subsidiary of Standard Charted Bank) as Trainee to Senior System Analysist, since June 2010 to June 2014.
+Key Areas and Responsibilities	
+
+· 8.2 years of design and coding experience in development projects of varied levels of complexity and scalability needs
+· Outstanding analytical ability and grasping power that enables me to learn new technologies and tools quickly.
+· Good Understanding of Data Structure.
+· Ensuring that quality is not compromised during any phase of Development and do Performance Optimization.
+· Great team player, Leadership quality with excellent communication skill.
+· Having experienced in taking ownership for my modules and direct talk to users in User Acceptance phase to give the final touch as per user acceptance. 
+· Preparation Design Document to do proper coding and understand the module technically.
+· Preparation understanding Documents on my modules, So that anyone can understand the functionality easily.
+· Preparation of Unit Test Cases for complete testing of module in development phase.
+· SIT, UAT, UVT, and Production Support with EOD.
+
+
+
+
+
+
+
+Company Projects (Sapient – June 2014 to Present)	
+Sapient Corporation, Dec 2016 to Present	 
+Client   –   Marriott International
+Role     –   Sr.Developer / Track Lead  
+Project –   RAM – Reimagined Architecture for Marriott.com
+
+Marriott International is an American multinational diversified hospitality company that manages and franchises a broad portfolio of hotels. RAM , is re-platforming of current Marriott.com to the new technology platform named Aries, it’s only a technology re-platform.    
+· Design & Developing key components of the application like Search, Reservation, Rewards using: Micro service with paly framework and Java 8, REST Web Services, Nginx, Couchbase, XM, GIT, JIRA, Sonar, Sumologic, Open Shift , Docker etc.
+· Track lead role for End to End Defect fixing.
+· Taken care of payment part, API caching.
+
+Sapient Corporation, Jan 2016 to Dec 2016 
+Client   – Hartford 
+Role     – Sr.Developer 
+Project – EHQ (Expanded Home Quote.) 
+
+The Hartford is a leading insurance company of US.As part of EHQ we are providing user to issue there home & Auto policy online.    
+· Design & Developing key components of the application using: JAVA  6, Spring, Web Services.
+· Responsible for Design, Development, Debugging, Maintenance, Creating Test cases and Unit Testing.
+· Handled Payment track with a team of two members.
+
+Sapient Corporation, March 2015 to Jan 2016 
+Client – Hartford 
+Role   – Sr. Developer
+Project – CSC-OBI.
+
+The Hartford is a leading insurance company of US.As part of CSC-OBI we are going to provide Online Billing Improvement to Consumer service Center application.    
+· Design & Developing key components (Real time Billing computation, Payment, Payment Activity) of the application using: Java, Multithreading, JSF, spring, Web Services.
+· Responsible for Design, Development, Debugging, Creating Test cases and Unit Testing.
+· Managing team of 4 members. 
+
+Sapient Corporation, June 2014 to Feb 2015 
+Client   – TD BANK 
+Role     – Sr. Dveloper
+Project – MBNA CUETS Sales Capacity Augmentation.
+
+CUETS Financial is the operating divisions of The Toronto-Dominion Bank and is a leading provider of affinity and co-branded credit card programs in Canada.
+· Developed key components of the application using: Java, Spring (Core), Hibernate, JavaScript, Ajax.
+· Was responsible for Development, Debugging, Maintenance, Creating Test cases and Unit Testing
+· Was developer and active member for the business logic layer, Server side Validation.
+
+
+
+
+
+Company Projects (Scope International - June 2010 to June 2014)
+Standard Charted Operational Processing Unit
+Product	 Name	: eBBS for CORE banking (Centralized Online Real-time Exchange).
+Role		: Sr. System Analyst. 
+Tools used	: RAD,  Eclipse, DataStudio, WinScp, Putty, Control M etc.
+
+Description	:
+1. eBBS is integrated banking application providing core banking functionality. This includes customer relationship information. Loans, deposits, standing instructions, sweeps, pooling, limits, risk management and MIS reporting capabilities. eBBS has an integrated teller and supports different delivery channels like ATM, IVR, Email, Internet, Fax, On-Line support, etc.
+2. The current version of eBBS is E12 and it is now under development to meet different country’s needs. The number of interfaces to group systems is significantly higher and there are functional gaps to be bridged in this version.
+
+Project: Germany and UK RM Changes
+Description                        : Enhancement of eBBS in UK and germany.
+Role                                    :  Working for new functionality Like Group Limit (Hair Cut), RAZOR, eStatements, On line
+                                               Cheque request repair. Working as Active Team Lead for UK & DE RM release and                      
+                                                Handling Various Development, SIT, UAT Support and Production Releases.    
+                                                             
+Tools/Language used	: Eclipse, Core Java, EJB 2.1, DB2, Aqua Studio, Putty,  PSP/TSP, Control M. 
+                                               
+Project:  Germany eBBS Implementation(2012-2103):
+Description		: Replaced old SBS Core banking system with eBBS Core banking system.
+Role                                   : Did development for SWIFT EOD and Intraday Statements and ADVICES.
+                                              Developed online Cheque issue request and Cheque Stop request. LCY,               
+                                              Account, master, relationship, Cheques, ABK, MTS, Auto Account Opening ect.
+                                              Worked with core module, like interest, Account, enquires and code Setup  
+                                              Did development, SIT SUPPORT, UAT SUPPORT, Implementation, Production SUPPORT.                       
+
+Tools/Language used	: Eclipse, Core Java, EJB 2.1, DB2, Aqua Studio, Putty, PSP, Control M.
+
+UK Day 2(2010-2011):
+Description:                        After implementing eBBS in UK , As per user requirement, we have enhanced our product.
+
+Role:                                     Worked with core module, like interest, Account, Instructions, enquires and code Setup.  
+                                              Did development, SIT SUPPORT, UAT SUPPORT, Implementation, Production SUPPORT.                       
+                                                
+Tools/Language used	: Eclipse, EJB 2.1, Core Java, JSP, DB2. 
+
+Training Project:
+Title			: online Movie Booking System  
+Description	: User can Book online ticket, enquire the movie details and available seats for a multiplex.
+                                              One user can have communication with other user.       
+Tools/Language used	: ECLIPSE, Java, Servlet, Ajax, JSP, MY SQL
+
+
+
+
+
+
+College Project
+Major Project (8th Sem):
+Title			: Vehicle Identification  
+Description	: It is JAVA, JSP based Application used for identification of vehicle, providing facility to traffic    system to get details of Vehicle. Vehicle owner can use garage facility,police complied etc.     
+Tools/Language Used		: ECLIPSE, Java, Servlet, JSP, db2
+Mini Project (7th Sem):
+Title			: Vehicle tracking System  
+Description	: It is JAVA, JSP based Simulator used for getting current position of running vehicle. Providing shortest path, Direction from one location to other location.      
+Tools/Language Used     : ECLIPSE, Java, Servlet, JSP, db2
+
+Career Objectives	
+My Objective is to Seeking a position to utilize my skills and abilities in the Software Development Industry that offers professional growth while being innovative.
+
+Educational qualification
+B.Tech Information technology (2009) from SASTRA THANJAVUR with CGPA 7.89(10).
+
+Personal Details  	
+DOB				: 11/04/1985
+Father’s Name			: Mr. Sita Ram Tiwari.
+Mother’s Name			: Nirmala Devi
+Permanent Address		: S/O, Mr. Sita Ram Tiwari,
+                                                             Kaimashikoh, Patna City,
+                                                             Patna : 800008,Bihar.
+

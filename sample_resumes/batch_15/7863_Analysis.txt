@@ -1,0 +1,382 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Divya Kintali kintalidivya76@gmail.com +91-8015009052 
+ 
+
+ 
+
+ 
+
+ 
+
+ EXPERIENCE SUMMARY   
+ 
+
+ 4.3 years of experience in Information Technology in Insurance Domain in System 
+Analysis, designing, developing and Unit testing using .Net, C#, Patch Management, 
+
+Change Management, Incident Management, Remedy on demand tool, Problem 
+
+Management, Windows OS Installation, System Upgrade, 
+
+ Having hands on experience in Visual Studio 2008 and on Desktop Based Application 
+using C#, SQL Server. 
+
+ An enthusiastic and project oriented team player with solid communication and 
+leadership skills and the ability to develop creative solutions for challenging client needs 
+
+ Holds CCP certification in General Insurance and Omega.Net. 
+ 
+
+ 
+
+ PROFESSIONAL EXPERIENCE   
+
+ 
+
+Duration Organization Designation 
+
+Jan 2014 - Till date Cognizant Technology Solutions India Pvt. Ltd. Associate 
+
+ 
+ 
+
+ TECHNICAL SKILL SET   
+
+ 
+
+Languages: C#, C ,SQL 
+Technology: .NET 
+Database: SQL Server 
+Operating Systems: Windows XP//7/8 
+IDE /Tools Microsoft Visual Studio 2008 
+Packages: MS Office 
+
+ 
+ 
+
+ EDUCATIONAL QUALIFICATION   
+
+ 
+
+Qualification Year School/Institute Board/University %age 
+
+B. Tech 2013 
+Gayatri Vidya Parishad College 
+
+of Engg. (Autonomous). 
+J.N.T.U 76.69 
+
+12th 2009 Narayana Junior College. 
+Board of Intermediate 
+
+(B.I.E) 
+96.62 
+
+10th 2007 Bhashyam Public School. SSC 90.00 
+
+mailto:kintalidivya76@gmail.com
+
+
+Divya Kintali kintalidivya76@gmail.com +91-8015009052 
+ 
+
+ 
+
+ 
+
+ 
+
+ PROJECT EXPERIENCE 1   
+
+ 
+
+Industry EMS 
+
+Project DVCS (Digital Vision Control System) 
+
+Client Novartis 
+
+Technical Skills SQL 
+
+Role Application SME 
+
+Team Size 1 
+
+Period May 2016 to till date 
+
+Project Description 
+ 
+
+Novartis AG is a pharmaceutical company which provides healthcare solutions. The Company is engaged 
+
+in the research, development, manufacturing and marketing of a range of healthcare products led by 
+
+pharmaceuticals. 
+
+The Digital Vision Control System (DVCS) is one of the applications that supports Novartis Functions. 
+
+DVCS is an artwork and printed packaging material verification system which is used to detect, identify 
+
+and reduce artwork design errors. 
+
+DVCS contains 3 Applications: 
+
+TVT- Text Verification Tool – (Vendor – Schlafender Hase) 
+
+Proofiler Content – Content Verification Tool (Vendor – EyeC) 
+
+Proofiler 400 – Print Verification Tool – (Vendor – EyeC) 
+
+DVCS Proofiler applications have been implemented across all PharmOps sites, Artwork Operations and 
+
+DRA to detect and identify artwork related errors. It aims to impede artwork content related recalls. It’s 
+
+primary objective is to increase the detectability of artwork content related mistakes and therefore the 
+
+reduce the risk of recalls and unnecessary. It compares the difference between digital documents with 
+
+either the finished printed packaging material or related artwork document (s), which ultimately leads to 
+
+improvement of the artwork file quality. 
+
+Role and Responsibilities 
+
+ I am a single resource currently working as subject matter expert in DVCS Application 
+
+ Install Microsoft security and non-security patches on windows operating system to resolve 
+
+vulnerabilities in test and production environment every month. Having experience on upgrading 
+
+the application. 
+
+ Work directly with Vendor during Application upgrade projects. 
+
+ Execution of application changes on all 3 applications based on the request from the Business. 
+
+Understanding Application requirements from Business Analysts and Work on the application 
+
+changes starting from requirement gathering till moving the changes to production. 
+
+ Involved in Fixing defects and Unit Testing. 
+
+ Creation and execution of Installation Qualification (IQ), Operational Qualification (OQ) 
+
+documents during installation of Patches, application changes, Scanner replacements, TVT 
+
+License server upgrade. 
+
+ Directly communicate with client and Business to collect requirements and to support in 
+
+resolving their issues. 
+
+mailto:kintalidivya76@gmail.com
+
+
+Divya Kintali kintalidivya76@gmail.com +91-8015009052 
+ 
+
+ 
+
+ 
+
+ Handling the support incidents and provide the resolution with in SLA. 
+
+ Change Management, Incident Management and Problem Management and providing root cause 
+
+for the Occurrence of errors and fixing them. 
+ 
+
+ PROJECT EXPERIENCE 2   
+
+ 
+
+Industry Insurance 
+
+Project NUALP (National Underwriting Account Level Profitability) 
+
+Client Liberty Mutual Insurance 
+
+Technology Visual studio 2008, C#, IBM DB2, Crystal Report 
+
+Role Team Member 
+
+Team Size 15 
+
+Period May 2014 to May 2016 
+
+Project Description 
+ 
+
+The National Underwriting Account Level Profitability (NUALP) application functions as the primary 
+
+pricing tool for the National Accounts Underwriting unit. It is intended to provide underwriters with 
+
+consistent and credible costing, pricing, and profitability measurements at the account level. 
+
+ 
+
+NUALP has functionality to support pricing of renewal and prospect business as well as evaluating the 
+
+operational metrics of each account. Types of Users are Claim Department, Underwriter Managers, and 
+
+Underwriter Assistants. The main components of the system are listed below. 
+
+ 
+
+In General Area – Lines of Business, Effective dates, information about exposures, limits deductibles are 
+
+available here. costing – May take input from rating system and let us know the target costs. Overhead, 
+
+claims, loss control, primary loss, forecasting are aggregated. Pricing – Internal view of what target costs 
+
+are. 
+
+ 
+
+Role and Responsibilities 
+
+ Handling the support incidents and provide the resolution with in SLA. 
+
+ Providing enhancements to current system. 
+
+ Directly communicate with client to collect requirements. 
+
+ Understanding Application requirements from Business Analysts and Work on the application 
+
+changes starting from requirement gathering till moving the changes to production. 
+
+ Involved in Fixing defects and Unit Testing. 
+
+ Providing Root cause for the Occurrence of Exceptions Errors and fixing them. 
+
+ Monitoring the mailbox in order to prepare the exception metrics by collecting application errors 
+
+and sharing the metrics to the client in a daily basis. 
+
+ Preparing Estimation document, Test case document, Analysis and Code snippet document for 
+
+the enhancements. 
+
+mailto:kintalidivya76@gmail.com
+
+
+Divya Kintali kintalidivya76@gmail.com +91-8015009052 
+ 
+
+ 
+
+ 
+
+ EXTRA CURRICULAR ACTIVITIES AND ACHIEVEMENTS   
+
+ 
+
+ Awarded “Gold Medal” for the Best Student Project in B.Tech. 
+
+ State 7th topper in Intermediate 1st year (IPE) 
+
+ Central Merit Scholarship of Rs.40000/- for excellence in Intermediate (IPE). 
+
+ Awarded Scholarship of “ONE LAKH” rupees by Fair and Lovely Foundation Empowering 
+
+women on the basis of merit. 
+
+ Received 2nd prize by “M.L.A”  in Mandal Level Singing Competition organized by A.B.V.P 
+
+ Awarded as “Best Debutant of Liberty –Female” in Liberty Synergy Awards in Liberty Mutual 
+
+Insurance, Cognizant. 
+
+ Awarded as “Star Rookie of the Month” in Liberty Mutual Account Monthly Awards in Liberty 
+
+Mutual Insurance, Cognizant 
+
+ Stood up as Runner in Group singing in Cliff Events Celebrated by Liberty Mutual Insurance, 
+
+Cognizant. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ PERSONAL DETAILS   
+
+ 
+
+Date of Birth: 26th August,1991 
+
+Father’s Name Kintali Rama Krishna 
+
+Mother’s Name Kintali Ammaji 
+
+Present Address Sitarama nilayam Apartments,P.Janardhan hills, 
+
+Teleocomnagar,Gachibowli,Hyderabad,500032 
+
+Permanent Address Dr no :20-82/6,Adharsh 
+
+nagar,kothapalem,Gopalapatnam,Visakhapatnam,530027 
+
+Marital Status Single 
+
+Linguistic Abilities: English, Hindi, Telugu, Tamil 
+
+Alternate Contacts +91 8500272327/divya_kintali@yahoo.com 
+
+ 
+
+ 
+ 
+
+DECLARATION 
+
+I hereby declare that all details furnished above are true according to the best of my knowledge. 
+
+Place: HyderabadIndia 
+
+Date: (Divya Kintali) 
+
+mailto:kintalidivya76@gmail.com
+mailto:8500272327/divya_kintali@yahoo.com
+

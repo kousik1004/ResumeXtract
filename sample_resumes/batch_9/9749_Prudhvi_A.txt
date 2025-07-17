@@ -1,0 +1,178 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                         Java Developer
+Prudhvi A				                                                                           +91 9346154195 
+
+prudhvi3006@gmail.com                                                                                               
+
+Experience Summary: 
+
+               3 years 2 months of IT experience in development of Web applications.
+· Having good knowledge in Core Java.
+· Worked on J2SE, Servlets, and JSP, Frameworks like Hibernate.
+· Expertise in environment setup using Application Server, Web Server and Database Servers on Windows.
+· Proficient in programming using J2EE Technologies like Servlets, JSP.
+· Having good knowledge in OOPS concepts and Design Patterns.
+· Having exposure on SQL.
+· Worked with Different Web and Applications server like Jboss server, Tomcat.
+· Experienced in using IDEs like Eclipse, Intellij IDEA, Net Beans, Jboss IDE.
+· Excellent Inter-Personal and Communication skills and the ability to work efficiently 
+With quick learning of new technologies to fulfil project needs.
+
+Skill Summary:
+
+Programming Languages 	: Java, J2ee, 
+ 	Web Technologies		: JavaScript, HTML, XML, CSS.
+J2EE Technologies		: Servlets, JSP, Design Patterns
+Framework			: Spring MVC, Angular 6	
+ORM S/W’s			: Hibernate
+DB				:  SQL.
+Web & App Servers		: Tomcat, Jboss
+Operating Systems		: Windows
+IDE’s				: Eclipse, Intellij Idea, Jboss Developer Studio, Visual Studio				                                   Code, SOUP UI
+Repository 			: GIT, SVN
+
+Education: 
+
+Completed my B. Tech (Computer & Science Engineering) in 2013 from SITECH.
+
+Professional Experience:
+                
+
+· Working as Software Engineer in TEK Systems Global Services from Nov 2015 to till date.
+
+
+
+
+PROJECTS EXPERIENCE: 
+
+Project #1             
+
+Client		      :   Best Western
+Team		      :   WBE
+Environment        :   Core Java, jsp, Angular, Hibernate, Spring-mvc, Web Services, Oracle, Jboss IDE, 		                         Visual Studio Code and Soup UI.
+Role		      :   Developer
+Team Size	      :   30
+
+
+Description:
+· Web Booking Engine (WBE) is a web-based application for customers and property staff to search availability at properties and to reserve rooms at Best Western Hotels and Resorts. The WBE can be reached via the bestwestern.com web site which is used by customers and some Travel Agencies.
+
+Contribution / Highlights:  I am responsible for the below phases of project:
+
+· Actively participated in business requirements gathering through interactive sessions from business users.
+· Participated in preparing the TSD (Technical Specifications Document).
+· Solving defects related to DB and code changes in JAVA.
+· Effectively communicate with all team members and with the management team.
+· Involved in Integration Testing.
+· Involved in Migration of code from Local to DEV and then TEST.
+· Supporting for production issues
+· Documenting all the major production issues.
+· AM and AD work.
+· Captcha Implementation.
+· Gathering information from client.
+
+
+Project #2             :  
+
+Client		       :   Best Western
+Team		       :   DIST
+Environment         :   Core Java, jsp, Angular, Hibernate, Spring-mvc, Web Services, Oracle, Jboss IDE, 		                         Visual Studio Code and Soup UI.
+Role		       :   Developer
+Team Size	       :   06
+
+
+Description:
+The purpose of DirectConnect is to create an electronic interchange that provides the ability for BWI to connect directly with online hotel distribution channels to do room reservation processing (including cancellations and modifications) and  room availability checks.
+
+Contribution / Highlights :   
+
+               I am responsible for the below phases of project:
+
+· Actively participated in business requirements gathering through interactive sessions from business users.
+· Participated in preparing the TSD (Technical Specifications Document).
+· Object oriented Software development including analyzing, designing, testing and documenting                                                                                                                                                                                                                                                                        programming systems.
+· Effectively communicate with all team members and with the management team.
+· Solving defects related to DB and code changes in JAVA.
+· Involved in Integration Testing.
+· Involved in Migration of code from Local to DEV.
+· Supporting for production issues. 
+· Giving the resolution of production issues on call.
+· Documenting all the major production issues.
+
+
+
+
+Project #3            :	Ocm Application & Report Serve
+Client		      :  	Kotak Mahendra Bank
+Role		      :  	Developer  
+Team Size	      :	11.
+Environment      :       CoreJava, Servlet,  jsp, Hibernate, Spring-mvc, Weblogic, and Oracle,                                                               
+                                     Eclipse
+Description:
+Creation of RBI reports along with the concept of maker –checker. System should allow taking backup & historical reports.  A report for Finance, Financial Markets, Human Resource, Retail Banking, Wholesales Banking and Secretarial is maintained. Reports from different departments will be Annual, Quarter and Daily Reports. Based on the Department Reports will be generated with the Issues.
+ 
+
+
+
+
+Contribution / Highlights :   
+
+               I am responsible for the below phases of project:
+
+·  Involved Preparing Spring Configuration Files.
+· Involved in developing Controller classes and Model classes.
+· Involved in adding Validations based on user login. & Business logic developed using  SpringBeans.
+· Providing client support for User Acceptance Testing.
+· Implemented Page Layouts by using JSP.
+· Developed hibernate  configuration files to communicate with database tables.
+· Responsible for Writing POJO, with help of annotations.

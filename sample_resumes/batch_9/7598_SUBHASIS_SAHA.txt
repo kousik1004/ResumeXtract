@@ -1,0 +1,379 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+
+SUBHASIS SAHA 
+
+SAP NetWeaver BASIS (Cloud) Consultant 
+E-Mail:  subhasisnitdgp@gmail.com/subhasis_nitdgp@yahoo.com
+Mobile No:  91 9051-038-500/91 9475-623-578
+
+
+
+                                                          
+
+
+       Professional experience:
+
+Subhasis Saha is a SAP Technical Team Lead with Accenture, in the Technology Line of Service and is based in India. He has 10 years of experience in BASIS implementation, upgrade and support projects. Experience in Landscape design, Infrastructure planning and Sizing. Capable of handling team and have excellent analytical and interpersonal skills. Subhasis have developed skills to add significant value in IT strategic decisions to yield business benefits. Proven the ability to take informed decisions based on risk profile. Handling and solving complex situations in stipulated deadline.
+
+Interacting with the client for scheduling activities and to understand their needs. Subhasis worked successfully in large teams with coordination, team spirit and self-motivation and Hardworking, enthusiastic, flexible and task driven. Currently in Accenture he is working on SAP cloud based migrations (like: Private Cloud, MS Azure, AWS cloud).
+He has good experience in advising clients for strategy and implementation of ERP-SAP Solutions that includes,
+KEY Skills:
+ Leadership and Excellence in Delivery – Cloud based Migration projects
+ Experienced in all phases of SAP implementation, Upgrade and support projects
+
+ SAP Installation of R/3, NW ABAP and JAVA based Product in AIX, Suse Linux, Windows R2 servers and Database MSSQL 2014, Oracle 10,11, 12, MaxDB environment.
+
+ NW 7.5 EHP8 Installation, Updates and Upgrades
+
+ BW Administration and support.
+
+ CRM Administration and support.
+
+ WAS Java and Enterprise Portal Administration
+
+ SAP OS/DB Migration, Unicode Conversion and Upgrades
+Training Experience
+ SAP Netweaver Technology Consultant Based on WAS 
+
+ SAP OS/DB Migration Training (TADM 70)
+
+ SAP Upgrade Training from SAP NW 7.4 EHP4 to NW7.5 EHP8
+Knowledge Base in SAP in AWS cloud (Client: Lafarge-Holcim)
+
+This is the most critical SAP Cloud migrations, which is running from Accenture Kolkata development Center. It includes all the products like ECC, BW, Portal, BO-FC TREX and NWDI. This was the first HANA to AWS and first BO-FC on HANA/AWS. Subhasis has actively participated in this migration his responsibilities as below
+
+· Providing an approach to technical migration in AWS Cloud
+
+· Checking the migration dependencies for AWS cloud
+
+· Finalizing the migration plan and timelines
+· Setting up the transport sync process in project from production Landscape
+· Installation of Latest Solution manger 7.2 and configure with the landscape (Alert and EWA)
+
+· Participating in various reviews conducted by SAP
+· Performed actual migration of the systems.
+
+· Planned and execute the backup strategies in AWS Cloud. 
+
+· Post-Go-live basis support
+
+· Involved in integration, performance testing and system tuning.
+
+Client Rio-Tinto (Australia)
+
+This is a Microsoft Azure cloud based migration project, the source system was in AIX and ORACLE Database and we have moved it to windows 2012 R2 and MSSQL. Responsibilities as below,
+
+· Hardware resource allocation (Disk space, RAM)
+· Creation of required file systems on the cloud server
+· Migration of our express solution and installation of new systems
+· Migration Planning
+· Executing migration using following tools like 
+· Table Splitting using R3ta and PL/SQL Splitter
+
+· Package Splitter
+
+· Manual Migration Monitor
+· Executing post-migration activities
+
+· Handling Customer’s call and coordinating with customers.
+
+· Comparing the performance.
+Client Illinois tollways (USA)
+
+Subhasis has performed green field end to end installation and configuration for both these clients. 
+
+This was his first implementation experience in private cloud, also this was the first private cloud based implementation project in Accenture.  
+
+· Provide the approach of installation in private cloud with OS AIX DB ORACLE 
+
+· Designing the SAP Landscape with client team
+
+· Playing a key role in workshops that involves the infrastructure design 
+
+· Sizing of SAP infrastructure 
+
+· Perform the installation of EHP5 SAP ERP 6, BW, TREX and Portal
+· Integration between all these systems with functional team.
+
+· Solution manager installation alert, EWA configuration.
+
+· Planning and handling ORACLE patching 11.2.0.2 to 11.2.0.3
+· Planning and handling the release based on client Processes.
+
+· Involved in major architectural change decisions like DR implementation.
+· Attending various discussions on planning and delivery.
+· Involved in resource planning and effort estimation for post go-live support.
+
+Client BHP-Billiton Singapore, currently working in this project and the scope is first all the systems like EHP4 ECC6 , BW on HANA, Portal, TREX , SCM, SRM, Fiori and BCS all this system will move to Windows 2012 R2 and MSSQL/HANA/ORACLE 12 then Upgrade the system to latest version like NW7.4 EHP4 to NW7.5 EHP8 and then all the system will move to AWS Cloud. Currently we are in Cutover release 3 and we have successfully migrated all the system. Responsibilities as below,
+· Installation of SAP products in HA environment
+· Migration Planning
+· Executing migration using following tools like 
+
+· Table Splitting using R3ta and PL/SQL Splitter
+
+· Package Splitter
+
+· Manual Migration Monitor
+· Executing post-migration activities
+· Planning for the technical upgrade 
+· Perform the actual upgrade.
+
+· Executing the post processing after system upgrade and Integration.
+
+Client Glencore Cole(Australia) Responsibilities included the following,
+
+· Designing the SAP Landscape 
+· Installation of SAP products like ECC 6.0 EHP4, BI 7.0 EHP1, SAP DMS, Fiori and solution manager 7.1 on windows 2012 R2 and DB MSSQL 2014 
+
+· Playing a key role in workshops that involves the infrastructure design 
+
+· Providing various strategy documents for the SAP landscape 
+
+· Active involvement in the designing the High Availability
+· Involvement in the DR solution designing 
+
+· Proposed the solution of load balancing 
+· Configuring SAP Solution Manager
+· Working with SAP extensively for performance tuning for meeting the cutover window
+· Perform Go-live checks 
+
+· Post Go live support and resource planning for support
+
+Client Aditya Birla Nuvo Ltd. (ABNL) It is part of the Aditya Birla Group Indian multinational operating in 36 countries in six continents and having SAP systems like ECC6 EHP1. The scope of this project is to migrate the Landscape to new HW and Operating system (OS DB Migration) within a short period of time and this one of valuable client of PwC, Subhasis has successfully deliver the project as a single resource Responsibilities included the following;
+
+· Providing an approach to technical migration
+
+· Checking the migration dependencies
+· Finalizing the migration plan and timelines
+· Represented PwC in reviews with SAP and other vendors
+· Setting up the transport sync process in project from production Landscape
+· Installation of ECC6 and Latest Solution manger and configure with the landscape
+
+· Participating in various reviews conducted by SAP
+· Performed actual migration of the systems 
+
+· After Migration of the system upgrade the ORACLE database from10g to 11g
+
+· Post-Go-live basis support.
+
+Operating System: AIX 6.1 and 7.1, Windows 2003/2008.
+ERP: ECC 6.0 and Solution Manager 7.1
+
+Database: Oracle 10g & 11g
+
+Client Grasim Bhiwani Textiles Ltd is a subsidiary of Grasim Industries Ltd, the scope of this project is to migrate the ECC system and upgrade the database into new OS and HW box.
+
+· Providing an approach to technical migration
+
+· Checking the migration dependencies
+· Finalizing the migration plan and timelines
+· Represented PwC in reviews with SAP and other vendors
+· Setting up the transport sync process in project from production Landscape
+· Installation of ECC6 and Latest Solution manger and configure with the landscape
+
+· Participating in various reviews conducted by SAP
+· Performed actual migration of the systems 
+
+· After Migration of the system upgrade the ORACLE database from10g to 11g
+
+· Post-Go-live basis support
+
+· Involved in performance testing and system tuning
+Client The Linde Group, registered as Linde AG, is a multinational industrial gases and engineering company .It is the world's largest industrial gas company by market share as well as revenue. This is one of the Biggest SAP project handled by PwC India, supporting over 393 servers across varied landscape. Responsibilities included the following;
+· Database refresh of R/3, ECC BW and EP systems.
+
+· Solution manager MAI configuration.
+
+· SMD and Host agent installation across the landscape.
+
+· Planning and handling Oracle patching, upgrade.
+
+· Planning and handling the release based on Linde Processes.
+
+· Involved in major architectural change decisions 
+
+· Involved in recruitment of my team members for Linde client. 
+
+· Attending various discussions on planning and delivery.
+· Involved in resource planning and effort estimation.
+· Handling escalations.
+
+· Representing PwC in reviews with SAP and other vendors.
+
+· Has end to end knowledge in Oracle Advanced Compression 
+
+Client British Petroleum is one of the world's leading international oil and gas companies. BP has a huge setup of a three-tier system landscape includes SAP R/3, XI, BI, EP  Solution Manager and other products. This is one of the Biggest SAP project handled by IBM, supporting all type of SAP products across varied landscape (Enterprise Applications / HR application). Responsibilities included the following;
+· Database refresh of R/3, ECC BW and EP systems
+
+· Performing Disaster Recovery test. Involved in various backup and recovery drills
+· Rebuilding the hot standby system after database corruption
+
+· Performing table space reorganization
+
+· Export and import of tables from Oracle level
+
+· Performance tuning for an optimized output
+
+· Setting up the Transport Management System
+
+· Performing client administration including client copy, client delete, client import and export
+
+· Applying support packages & Sack using SUM tool and add-ons after OSS analysis
+
+· Upgrading SAP kernel
+
+· Applying oracle patches
+· EWA analysis Plan and implement the recommendation during release. 
+
+· Handling escalation during release.
+
+Operating System: Solaris x86 /SunOS 5.10, Windows 2000/2003.
+ERP: ECC 6.0
+
+Netweaver Products: EP 7.0, XI 7.0
+Database: Oracle 9I, 10G & 11g. 
+
+Client ITC Limited Responsibilities included the following;
+· Designing the SAP Landscape 
+
+· Sizing of SAP infrastructure 
+
+· Installation of SAP products like ECC 6.0 EHP4, CRM 7.0, PI 7.1 EHP1 and BI 7.0 EHP1, SAP DMS.
+· Playing a key role in workshops that involves the infrastructure design 
+
+· Providing various strategy documents for the SAP landscape 
+
+· Setting up the upgrade strategy 
+
+· Planning for the technical upgrade 
+· Active involvement in the designing the High Availability solution 
+
+· Involvement in the DR solution designing 
+
+· Proposed the solution of load balancing 
+
+· Playing a key role in hardware optimization 
+
+· Upgrading Oracle 9i to 10G to 11G 
+
+· Working with SAP extensively for performance tuning for meeting the cutover window
+· Installed & configure the content server for SAP DMS (Document Management Server) 
+Knowledge Base in SAP security and GRC area in various Clients 
+
+· Extensive understanding and hand-on experience in Build and Enhancement work in R/3 Security
+
+· Hands-on experiences on BI Security- creating Analysis authorization, using analysis authorization in role based authorization and troubleshooting through RSECADMIN
+
+· Using SOLMAN (Solution Manager) system for transport activity/change request management, User creation and CUA-Migration/SCUG activity
+
+· User Administration through Solution Manager and respective ECC/BI/SRM satellite systems
+
+· Role Administration-Extensive knowledge and hands-on experience on Composite role, Derived roles, Single roles and Master roles concept
+· GRC 10 Implementation and support Good knowledge in AC (ARM /BRM/ IDM) / BO / RM /EM. Fire Fighter concept.
+· GRC 5.3 working knowledge like SoD, SPM with CUP, RAR ( Role and user authorization analysis)
+
+EDUCATIONAL QUALIFICATIONS: 
+B.Tech (Information Technology) from N.I.T Durgapur, India.
+
+WORK EXPERIENCE:
+
+Previous Company details:
+
+Company:
+     
+
+ITC Infotech India Ltd, (Kolkata) – Sr. Basis Consultant
+Period of Service:  
+2nd July 2007 – 14th Aug 2012.
+
+Company:
+       
+
+IBM India Pvt Ltd, (Kolkata) – Application Architect
+Period of Service:    
+22nd Aug 2012 – 23rd June 2014.
+
+Company:
+       
+
+PwC India Pvt Ltd, (Kolkata) – Assistant Manager
+Period of Service:    
+24nd June 2014 – 18th November 2015.
+Current Company details:
+
+Company:
+       
+
+Accenture Technology Pvt Ltd, (Kolkata)
+
+Period of Service:    
+19th November 2015 – Till date.
+
+Achievements:
+· Got appreciation from SAP INDIA during the time of ITC CCC Corporate BW Implementation.
+
+· Got appreciated in IBM during the DR testing in BP one HR AMS project. 
+· Has been appreciated by the client Aditya Birla Nuvo Ltd. VP level IT head.
+· Got Accenture Excellence Award – Q1 2017
+Personal Details:
+
+Date of Birth   
+:
+  24/06/1984
+Marital status 
+:
+  Single
+Nationality
+:
+  Indian
+Gender
+
+:
+  Male
+

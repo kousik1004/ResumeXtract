@@ -1,0 +1,310 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AMANDEEP SINGH
+
+Gandam Y Veera Anil Kumar                                                                                  
+
+Associate Security Analyst     
+
+
+
+
+
+
+
+
+      
+Phone: +91-9494344132
+E-Mail: gyvanilkumar@gmail.com
+PROFESSIONAL SUMMARY
+· 2.9 years of deep experience in IT and IT security operations with a broad exposure on infrastructure/network/IT security tools, Security incident response and remediation.
+· Hands on experience in Vulnerability management.
+· In depth Knowledge of attack vectors, attack surface, and attacker techniques along with mitigation strategies
+· Capable of tracking, analysing, escalating and resolving IT Security issues.
+· Experience with SIEM tools – Splunk, Alien Vault
+· Experience in research and analysis on Malware.
+· Extensive knowledge on IPS/IDS Sourcefire, Snort.
+· Basic knowledge in Network Vulnerability and Penetration testing.
+· Building and Setting up “SOC” environment for “POC”.
+· Well versed with the functionalities of L1, L2, L3 network devices.
+· Creating and designing the network architect and complex network diagram’s.
+· Setting up Network infrastructure with more security and high reliability.
+· Basic Hands on Experience in ETHICAL HACKING (Need to take exam as Course completed).
+· Hands on Experience on different types of Attacks like ACTIVE and PASSIVE attacks.
+
+· Creating VPN tunnels and NETWORK FAILOVER.
+· Configuring and troubleshooting Client VPN.
+· Setting and configuring Various Switches, routers and firewalls.
+
+· Troubleshooting complex issues of Switches, routers and firewalls.
+
+· Hands on experience on Meraki switches and firewalls.
+· Analysing and log forwarding of ASA and Meraki devices.
+· Implementing high availability network.
+· Configuration of TCP/IP and other protocols.
+· Configuration and working knowledge on IPS/IDS.
+· Configuring and monitoring Variety of network monitoring tools like OP-Manager, PRTG, MRTG etc.
+· Ability to work with other teams and capture knowledge in productive manner.
+TECHNICAL SKILLS 
+Security Tools                 :       Experience with Network security assessment tools Nessus,
+       Alienvault, Nmap, OpenVAS, Wireshark, Snort, tcpdump.
+Network Protocols        :      Deep Knowledge on variety of network protocols including TCP/IP, UDP, DHCP, FTP, SFTP,
+       SNMP, SMTP, SSH, TLS/SSL, IPSec, SCTP, VPN, EIGRP, BGP, OSPF, RIP v 2
+Operating System          :       Kali Linux, Debian, Ubuntu, Windows 2008, 2012, Windows 7, 8, 10 & Vista.
+Security Tools                 :      Splunk , Alien Vault, Sumo Logic, Event log analyser, Seceon.
+Ticketing tools                :       Manage Engine Helpdesk, UCP
+Certifications                  :       MCTS, Planning to offensive security (course completed)
+EDUCATION
+· Bachelors of Technology in Electronics  and communication Engineering (2014).
+· Diploma in ECE from S.B.T.E.T A.P in April,2011.
+PROFESSIONAL EXPERIENCE
+
+Total Experience
+
+
+
+
+             
+
+   
+
+
+2year, 9 Months
+
+Company: GSS INFOTECH
+Associate Security Analyst  
+Nov 2016 – Present
+
+Roles and Responsibilities: 
+· Designing Log collection and SIEM architecture for customers.
+
+· Building and Implementing multiple SIEM tools.
+
+· Maintained multiple SIEM tools like AlienVault, Splunk, Sumologic, Event Log Analyzer and SECEON.
+
+· Build Centralized Log server from scratch to collect logs from all devices in the Network.
+
+· Build Windows Subscription server to collect all the Events from the windows servers.
+
+· Configured Log forwarding from Log servers to SIEM tools.
+
+· Installation of SIEM tools and their related applications or devices.
+
+· Installed Collector Servers of SIEM tools and agents in systems for log collection.
+
+· Parsing logs and creating as rules to identify Security Events.
+
+· Writing directives, rules in SIEM tools to detect alerts or security events.
+· Creating different report modules as Client requested and based on regulations like PCI, HIPAA.
+
+· Creating real time dashboards.
+· Performed Vulnerability assessments for Network devices and Windows servers through Nessus, OpenVAS. Shadow Security Scanner.
+
+· Performing network scans using nmap, hping3, Angry IP scanner, Advanced port scanner.
+
+· Web vulnerability scan through Acunetix.
+
+· Creating signatures in IPS/ IDS devices and worked on tools like snort and suricata.
+Company: GSS INFOTECH
+Network Engineer
+Feb 2015 – Oct 2016
+Roles and Responsibilities
+· Managing VLANs on core switch and access switches.
+
+· Monitoring all the networking devices like switches, firewalls etc., by using PRTG and MRTG tools.
+
+· Configuring and managing Wireless access points.
+
+· Configuration of switches, routers and firewall in case of adding new devices in network.
+
+· Taking backups of network devices on a regular basis.
+
+· Upgrading firmware of network devices.
+
+· Creating site to site VPN tunnels, remote VPN tunnels on Cisco ASA 5520 and Sophos firewalls.
+
+· Providing VPN access to the authorized users.
+
+· Providing Public Access to some servers(for client Access)
+
+· Routing entire network to backup ISP in case of Primary ISP down
+
+· Follow up with ISP if there is any issues from ISP
+
+· Configured load balancer to provide high availability for internet
+
+· Configuring Reverse Proxy to get an access of our websites from outside.
+
+· Maintaining network and system security by restricting users from unauthorized access to prevent the loss of data.
+
+· Preparing SOP’s (Standard Operating Procedures), Checklist for Network Administration.
+
+· Configuring IP Phones using TFTP server, Configuring Soft phones on emergency basis.
+
+· Routing VOIP traffic to back up ISP in case of MPLS link down
+
+· Maintaining the inventory of all the hardware and software for upgrade and renewal to achieve better standards for entire network.
+TECHNICAL SKILLS:
+
+Information Security skills:
+
+· Hands on experience on SIEM administration on Splunk, Alien Vault, Sumologic, Event log Analyzer.
+
+· Building Syslog server
+
+· Collecting logs/events from log sources using different methods like rsyslog, NXLog and windows subscription etc.
+
+· Key security concepts - CIA, AAA.
+
+· Knowledge on Packet analysis like WIRESHARK, TCPDUMP.
+
+· Vulnerability scanning using Nessus, OpenVAS.
+
+· Patching up the vulnerabilities by adding security patches.
+
+· Symantec Endpoint protection
+
+· Hands on Experience on multiple IDS/IPS technologies like Snort, Suricata.
+
+· Creating rules and signatures for the latest vulnerabilities.
+
+· Knowledge on cryptography concepts like DES, AES, RSA.
+
+· Knowledge on Cryptographic Hash concepts md5, sha1
+
+· Hands on experience on Symantec DLP, My DLP.
+
+· Trained in EC council CEH and AlienVault USM Security Engineer.
+Networking Skills:
+· Hands on experience on Networking devices like Firewalls, Routers, Switches.
+
+· Installation and configuration of multivendor firewalls (Cisco, Cyberoam, Fortigate and SonicWALL) based on the network design.
+
+· Creating site to site VPN tunnels, remote VPN tunnels on UTM firewalls.
+
+· Configuring Software Firewalls (Untangle and Sophos) to control internet usage.
+
+· Installation and configuration of multi-vendor router and switches based on the network architecture
+
+· Routing (static, RIP, OSPF, EIGRP)
+
+· Switch configuration like VLAN, STP, VTP, RSTP.
+
+Server Administration Skills: 
+
+· Installation and Configuration of Windows Server 2003,2008,2012.     
+
+· Configuring and Managing DNS and DHCP Server.   
+
+· Installing and Working on Active Directory.   
+
+· Creating and Managing Local Users, Groups and Domain Users and their Permissions.   
+
+· Configuring WDS, IIS, FTP.
+
+· Configuring and Working with Domain Controller. 
+
+· Trouble shooting all windows server related issues.
+
+VMware Skills: 
+
+· Installation of ESXi installation and configuration.
+
+· Deploying VM from ISO.     
+
+· VM migration using VMotion.
+
+· Snapshots, Cloning, Templates.
+
+· Users and permissions
+
+· Vcenter Management.
+
+· Perform Backups Using Veeam backup tool.
+
+Client Administrator Skills: 
+· Installation and Configuration of Win-XP, Win-2003, Win-Vista, Win-7 and Win-10. 
+
+· Managing Local User and Groups, File and Folders, Desktop Settings. 
+
+· Working with Disk Management, Backup and Restoring data. 
+
+· Working with MS Outlook.
+
+· Trouble shooting all windows desktop related issues
+
+Hardware Skills: 
+
+· PC Assembling.   
+
+· OS Installation and troubleshooting.   
+
+· Installing all kind of Printers, Scanners and Webcams etc.   
+
+· Troubleshoot PC peripherals problems.
+
+Personal Info
+
+· Date of Birth     : 26 June, 1992
+· Father’s Name  : Suryanarayana
+· Address              : 3rd flor, LIG 286, 7th Phase, KPHB,500085
+· Languages         : English, Telugu
+DECLARATION:             
+
+ I am confident of my best ability to work in a team.  I hereby declare that the information furnished above is true to the best of my knowledge.
+
+Place: Hyderabad
+
+
+
+
+
+
+  (G Y V AnilKumar)
+
+Date:

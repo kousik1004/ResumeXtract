@@ -1,0 +1,347 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+SANGRAM KISHORE BEHERA 
+
+E-MAIL- sangramkishore.behera@gmail.com 
+
+               sangram39@outlook.com 
+Mobile No:-7030323858 / 9834681918  
+
+ 
+
+ 
+
+C/O- Asha Manohar Shithole 
+
+Flat No-602, Maitri Paritosh, Srv. No-84/2B, Shiv Ganesh Colony No-1, Dighi, Pune-411015 
+
+ 
+
+ CAREER OBJECTIVE : 
+
+ 
+
+To pursue excellence through continuous learning and want to be part of an organization that would help 
+
+me to put my technical and conceptual skills to maximum use. 
+
+ 
+
+SUMMARY OF PROFESSIONAL EXPERIENCE: 
+  
+
+ An accomplished professional with 4 years of experience in the area of telecommunication and 
+
+networking with reputed organization. 
+
+ Currently associated with Tata Communications Ltd, as customer service executive. 
+
+ Coordinating with customer for resolving issues with minimum downtime and coordinating with 
+
+respective vendor for major hardware and software issues. 
+
+ Experience in troubleshooting both transmission and IP related issues. 
+
+ 
+
+AREA OF EXPERTISE : 
+ 
+
+ Standard & Technology: OSI, TCP/IP, SDH, Carrier Ethernet. 
+
+ Hands-on experience with SDH equipment like ASR, Tejas, ECI, Ciena, Huawei. 
+
+ Hands-on experience with Cisco, Alcatel, Juniper routers and Cisco, Huawei, Juniper switches. 
+
+ OSS Tool: Remedy, Viznet, Cramer, ICUBE. 
+
+ Knowledge in TCP/IP, networking and fundamental knowledge about wireless networks. 
+
+ 
+
+ 
+
+CERTIFICATION  
+ 
+
+ SDN Associate ( ONF ) 
+
+ JNCIA ( Juniper ) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CURRENT ADDRESS:  
+
+mailto:sangramkishore.behera@gmail.com
+mailto:sangram39@outlook.com
+
+
+ROLES AND RESPONSIBILITIES : 
+ 
+
+• A result oriented professional with 4 Years of experience in Technical Support and Troubleshooting  
+
+    SDH & PDH transmission systems in NMS & EMS. 
+
+•   Troubleshooting of NPLC, IPLC, NDE, DGE, ILL, VPN, IPLCCC, VOIP, Media services (Video     
+
+     links) and cross connect type of circuits which having various speeds from 64k to 2Mb, E3, DS3,     
+
+     STM-1, STM-4, STM-16 and STM-64. 
+
+•    Coordinating with Customer for resolving issue with minimum downtime.  
+
+•    Coordinating with respective vendor for major hardware and software issues. 
+
+•    Reroute the customer traffic in case of ring failures/equipment malfunction for early restoration in  
+
+     MAN Networks. 
+
+•    Provision the circuit in case of having partial capacities, any configuration issue/mismatch in NDEs  
+
+     (National dedicated Ethernet), NPLCs (National Private leased circuits), and Ethernet over SDH, etc     
+
+      on the optical network. 
+
+•   Testing the circuits in case customer facing Link down, packet drops, Latency, Low throughput, Link     
+
+     Flapping, errors, reliability issue and video freezing for IPLC, NPLC, NDE, GDE, ILL, VPN for the   
+
+     Various speeds from 64k to 2Mb, E3, DS3, STM-1, STM-4, STM-16 & STM-64. 
+
+•    Analysing the reason for the outage (RFO) for optical fluctuations or network failure cases. 
+
+TRANSMISSION EQUIPMENT : 
+ 
+
+ CIENA    : Core Director 256 
+
+ ECI    : XDM100,XDM500, XDM1000, XDM2000,DWDM 
+
+ Tejas     : CP100, TJ100MC1, TJMC4L, TJMC4, TJ1500, TJ100ME, TJ1210, TJ1260, TJ1270. 
+
+ Huawei : OSN 
+
+EDUCATIONAL QUALIFICATIONS : 
+ 
+
+2011 to 2013         M.TECH Communication Engineering  
+
+                              COLLEGE NAME, “National Institute of Technology Karnataka, Surathkal”  
+
+                              CGPA,6.28  
+
+ 
+
+2006 to 2010         B.TECH. Electronics & Telecommunication Engineering  
+
+                              COLLEGE NAME, “SIET, Dhenkanal” BPUT University  
+
+                              CGPA, 7.24  
+
+  
+
+2003 to 2005         Higher Secondary Certificate  
+
+                              BOARD NAME, Council of Higher Secondary Education, Odisha  
+
+                              PERCENTAGE, 60  
+
+  
+
+2002 to 2003        Secondary School Leaving Certificate  
+
+                             BOARD NAME, Board of Secondary Education, Odisha  
+
+                             PERCENTAGE, 65 
+
+
+
+ 
+
+KEY SKILLS : 
+ 
+
+Computer skills:        Microsoft office (Word, Power Point, Excel).  
+
+Operating System:    Windows. Linux-Ubuntu  
+
+Languages:                Basics of C. C++, Python  
+
+Stimulation Tools:     MATLAB, OpenCV  
+
+ 
+
+PROJECT DETAILS : 
+ 
+
+B . TECH. Project:    “Anti Collision Device (ACD) for Railway”.  
+
+The Anti-Collision Device (ACD) is a self-acting microprocessor-based data communication device 
+
+designed to prevent high-speed railway collisions in mid-sections, station areas and at level-crossing 
+
+gates. The ACD uses radio frequency signal, global positioning system (GPS) to find the location and 
+
+made the train to halt automatically if the track ahead is not clear.  
+
+ 
+
+M.TECH. Project:    “Vision Based Camera Stabilization” Project work carried out at  
+
+NATIONAL AEROSPACE LABORATORIES, BANGALORE  
+
+The autonomous ground vehicles (UGVs) are used for the video surveillance purpose to track the  moving 
+
+target. The tracking of moving objects using a camera mounted on an autonomous ground vehicle is to 
+
+keep the target within the image is addressed. During tracking the target, “CAMERA STABILIZATION” 
+
+is required to keep the target in the FOV (Field Of View) of the camera. The Continuously Adaptive 
+
+Mean Shift (CAMSHIFT) algorithm is used to identify the moving target based on the colour distribution 
+
+of the target histogram. The system is practically implemented and tested using the Arduino platform and 
+
+a cheap low cost web based camera. The Arduino platform is being used to control the camera on a PAN-
+
+TILT servo gimbal structure. Arduino board receives the information about the target, and according to 
+
+that information Arduino board decides the horizontal and vertical movement of the camera to follow that 
+
+target, so that the target remains in FOV of the camera. The angular orientations of the camera are PAN 
+
+(YAW) angle and TILT (PITCH) angle, which are obtained from the angular movement of the servos. 
+
+The PAN angles and TILT angles were validated against the gyroscope sensor values.  
+
+ 
+
+RESEARCH PAPER SUBMITTED (INTERNATIONAL CONFERENCE) : 
+  
+
+SangramK.Behera1, HemanthKumar2, BharathM.K3, GokulM4 and S.M.Vaitheeswaran5, “VISION 
+
+BASED TRACKING OF MOVING TARGET FOR AUTONOMOUS GROUND VEHICLE”, in 
+
+9th International Conference on Intelligent Unmanned Systems 2013 (ICIUS2013).  (Conference has been 
+
+held in 25-27 September at JAIPUR, RAJASTAN organized by IIT,Kanpur).  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+PERSONAL PROFILE : 
+ 
+
+ Name:                      SANGRAM KISHORE BEHERA 
+
+ Date of Birth:          12th march 1988  
+
+ Martial Status:        Married/Male  
+
+ Languages Known: English, Hindi, and Oriya  
+
+ Nationality:              Indian  
+
+ Mobile no:                +91 7030323858 / 9834681918 
+
+ E mail:                     sangramkishore.behera@gmail.com 
+
+                                  sangram39@outlook.com 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DECLARATION 
+
+ 
+
+I hereby declare that the above written particulars are true to the best of my knowledge and belief. 
+
+ 
+
+ Place: - Pune  
+
+ Date:-                                                                                                                    Signature. 
+
+mailto:sangramkishore.behera@gmail.com
+mailto:sangram39@outlook.com
+

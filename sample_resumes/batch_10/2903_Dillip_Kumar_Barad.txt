@@ -1,0 +1,60 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Dillip Barad_ML_Resume.doc
+
+
+ Contact: +919861331568 Email:  dillipbarad24@gmail.com         Dillip Kumar Barad   Profile Summary  Data Science personnel with 3 years of experience in Machine Learning and Deep Learning an overall 6.5 years of outstanding track record in leading and driving complex projects across product development and business consulting.  Proficient in designing Predictive Analytics solutions, and integrating machine learning into existing products. Instrumental in artificial intelligence offerings across multiple products in the current organization.    Skills & Abilities • Seasoned in exploratory Data Analysis, Data Visualization, Problem Solving and Creative Thinking  • Hands on experience of Machine Learning and Deep Learning algorithms and Statistical Techniques • Possess Expertise on implementation of Machine Learning algorithms like (Linear Regression, SVR, Decision Tree, Random Forest, Logistic Regression, KNN, SVM, Kernel SVM, Naive Bayes classifier, K-Means clustering, Hierarchical clustering, XGBoost and Recommendation systems). • Possess Expertise on implementation Deep Learning Algorithms Artificial Neural Network using Keras- Tensor flow libraries • Proficient in ML software packages – Keras, NumPy, Pandas, Sklearn, Matplotlib  • Conversant in Natural Language Processing, NLTK, Spacy  • Competent in Python and Java programming   • Expert in RDMS concepts, SQL and PL/SQL  • Well versed in JavaScript modules, CSS and HTML  • Excellent Communication and Interpersonal skills  • Fast learner, highly dependable and exceptional attention to detail   Education   MCA in SATHYABAMA UNIVERSITY | CGPA 7.4 |Chennai     Data Science Projects  Transaction Fraud Detection  Bank transactions data are explored and drawn the insights. The label data is provided for the given transactions. The model learns the fraud patterns and able to predict the given transaction is fraud or not. Credit card Sanction Predictor  The applicant’s and credit bureau data is available. The model is to be developed to predict whether the customer will repay the credit card bill or get default. Helped a Bank in deciding to sanction the credit card to the applicant or not based on the given Domestic and Credit bureau data Loan IQ Prediction  LoanIQ allows you to instantly identify high-risk loans and reduce overall default exposure. The LoanIQ and Market Risk Scores assist you in making a review decision based on the level of collateral risk associated with a loan. Whether you need to assess one loan or thousands, LoanIQ delivers the answers you need fast to make the most informed loan decisions. Customer Feedback Analysis Primary & secondary research for customer satisfaction & service delay using Natural language processing.  
+
+
+
+          Professional Experience   Manipal Technologies Pvt Ltd, BANGALORE| July 2017 – Present Data Scientist Project#1   Transaction Fraud Detection   Bank transactions data are explored and drawn the insights. The label data is provided for the given transactions. The model learns the fraud patterns and able to predict the given transaction is fraud or not.  Responsibilities:  Done exploratory analysis and took inferences by visualization the data  Removed insignificant variables using Dimensionality reduction technique  Used Logistic Regression, XGBoost and Artificial Neural Network  Project#2 Credit Card Sanction Predictor The applicant’s and credit bureau data is available. The model is to be developed to predict whether the customer will repay the credit card bill or get default. Helped a Bank in deciding to sanction the credit card to the applicant or not based on the given Domestic and Credit bureau data.  Responsibilities:  Done exploratory analysis and took inferences by visualization the data  Removed insignificant variables using Dimensionality reduction technique  Used Logistic Regression and Random forest models.  Sapient Nitro, BANGALORE | May 2016 – June 2017  Data Scientist  Project#1 Loan IQ Prediction  LoanIQ allows you to instantly identify high-risk loans and reduce overall default exposure. The LoanIQ and Market Risk Scores assist you in making a review decision based on the level of collateral risk associated with a loan. Whether you need to assess one loan or thousands, LoanIQ delivers the answers you need fast to make the most informed loan decisions.   Responsibilities:  Done exploratory analysis and took inferences by visualization the data  Removed insignificant variables using Dimensionality reduction technique  Used Logistic Regression and Random forest models. Collabera Technologies, Pune | June 2014 – April 2016  Software Engineer  Project#1 Customer Feedback Analysis Primary & secondary research for customer satisfaction & service delay using Natural language processing.  Responsibilities:  Done exploratory analysis and took inferences by visualization the data  Removed insignificant variables using Dimensionality reduction technique  Used NLP, NLTK, Spacy, NAÏVE BAYES, Logistic Regression models. 
+
+
+
+Personal Details 
+ Project#2 TRANSPORT FOR LONDON  Transport for London is a local government body responsible for most aspects of the transport system in Greater London in England. Its role is to implement the transport strategy and to manage transport services across London.   Environment: Java, J2ee, Spring, Hibernate, Oracle  OrissaDoot Pvt Ltd, Odisha | March 2012 – June 2014  Software Engineer  Project#1 ACC India Private Limited  The objective of developing the “Excellence Portal” is to enhance and propagate excellence in the field of manufacturing by encouraging its employees to share their contributions and best practices.   Environment: Java, J2ee, Struts, Hibernate, Oracle      Date of Birth: 12-July-1986 Father’s Name: Jogindra Nath Barad Hometown: Odisha Current Location: Bangalore, Karnataka (India)    I hereby declare that above information’s are true to the best of my knowledge.      --------------------------------- Place: Bangalore        (Dillip Kumar Barad)  
+
+

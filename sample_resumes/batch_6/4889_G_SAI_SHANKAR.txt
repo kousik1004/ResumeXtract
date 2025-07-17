@@ -1,0 +1,188 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRICULUM   VITAE
+
+ Curriculum vitae
+
+
+G. SAI SHANKAR.          			         Mobile No: 91+ 9959514143
+			               		         Email Id: saishankar0408@gmail.com	   
+
+SUMMARY:                                                                                                   
+
+· 2.4 Years of Total experience on taking backups and restorations using Data Pump and Normal as per requirement.
+· Creation of interfaces, procedure, variables, mapping of interfaces.
+· Configuring Topology for source and target Databases.
+· Creation of Models, reversing tables, Journalisation of tables (CDC/Incrimental data)
+· Creation and execution of Packages using schedulers or manually as per the requirement.
+· Importing and exporting the interfaces, procedures, Packages.
+· Installation of Oracle Databases and Oracle Data Integration with different versions.
+· Porting the data from oracle to PostgresSQL, MS-SQL to PostgresSQL, oracle to oracle, MS-SQL to MS-SQL
+· Checking for data quality and troubleshooting the data.
+· Porting of data bulk and incremental as per the requirement.
+· Mach the data from source to target with count wise, field wise, row wise, including image and non image data.
+
+
+COMPUTER SKILLS:                                                                                                      
+
+Operating System:
+ Windows 2000/2003/XP/2007/2008/2010, RHEL (5.4, 6.3,7) .
+Databases:
+ Oracle 10g/11g, Oracle XE, MS-SQL, PostgreSQL 9.2.
+Oracle Tool:
+Oracle data integrator (Oracle ODI-10g/11g), SQL Developer.
+Application Packages:
+MS Word, Excel, Power Point, MS Access.
+Application Services: 
+SSH, PUTTY, FTP, SFTP, SCP. 
+
+
+
+
+EDUCATIONAL QUALIFICATIONS:                                                                                           
+
+· Bachelor of Technology in Computer Science from Aurora’s Technological Institute 
+(2011to 2015).
+· Intermediate (MPC) from IDEAL Jr. College (2009 to 2011).
+· I.C.S.E from St. George’s Grammar High School (2009).
+
+
+PROJECT:                                                                                                      
+Project Name		:	NATIONAL TRANSPORT PROJECT
+Title			:	State consolidate Register Project
+Client			: 	National Informatic Center (NIC) Gov. of India
+Environment		:	Oracle Data Integrator (ODI), Oracle 10g and 11g, DB2, SQL            
+                                                Server 2008 R2, Linux, Windows.
+Team Size		:	30 
+
+Project Description	:     
+	 The States have multiple Regional Transport (RTO) Offices. The major Functions of the RTO office are to do the Registration of motor vehicles and issue of Driving Licenses and renewal of the same.
+National Informatics Center (NIC) has implemented solutions for the vehicle registration and License management 
+These applications are deployed at all the RTO offices in the state and the data is localized only to the RTO offices where it resides. NIC wants the data to be consolidated at the state which will enable them to have a state wide view of the RTO data and also be able to have some dash boards and reporting on the state wide data.
+
+
+
+Responsibility	                :  
+
+· Developed mappings to extract data from  relational table and load to Target  Database using Oracle data Integrator 11g
+· Test mapping to assure that data is loaded as per ELT Specification
+· Creating Tablespace in Storage area Network
+· User creation of different database  
+· Exporting and importing the database object
+· Moving data to one tablespace to another tablespace
+· Creation of Work and Master Repository
+
+
+
+
+
+
+TECHNICAL QUALIFICATIONS:                                                                                                      
+
+SMARTGRAD Professional course in hardware and networking from ZOOM Technologies  institution, secunderabad.
+
+
+EXTRA ACTIVITES:                                                                                                      
+
+· NCC Training & Certificates C from 3(A) Bn.
+· Actively Participation in NSS Events.
+· Organized College events   
+· Participated in Robotics competition.
+
+
+STRENGTHS:
+
+· Punctuality and Honesty at work.
+· Ability to do work as a part of a team as well as individually.
+· Willing to adopt customized solutions to different kinds of problems.
+
+
+HOBBIES:
+
+· Learning New Technologies.
+· Net browsing.
+
+WORK EXPERIENCE:
+
+Currently working in National Informatics Centre (www.nic.in) for e-Governance Projects - National Transport Division, Hyderabad as ODI DEVELOPER from April 2016 to till date. 
+· From Apr-2017 to Till Date      : Akal Information Systems Limited as Software Developer. 
+
+· From Apr-2016 to 31-March-2017     : SISL INFOTECH as Programmer.
+
+
+
+
+PERSONAL PROFILE:                                                                                                             
+
+   Father’s Name		:	G. Rajeshwar.   
+   Languages Known		:	English, Hindi and Telugu.
+   Permanent Address		:	H.No.1-6-229/1,
+Friend’s colony,
+Zamistanpur, 					
+Musheerabad, 	                                     
+Hyderabad-500020
+
+
+
+
+DECLARATION:                                                                                                             
+	
+	I here by declare that the information furnished above is true and correct to the best of my knowledge.
+ 
+
+
+
+Place: Hyderabad
+		
+Date	:
+	
+
+									        (G. SAI SHANKAR)
