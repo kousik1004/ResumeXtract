@@ -125,9 +125,15 @@ with tabs[0]:
         timestamp = time.strftime("%Y%m%d-%H%M%S")
         csv_filename = f"extracted_resume_data_{timestamp}.csv"
         csv_output_path = os.path.join("output/csv files", csv_filename)
-        # Save CSV to output folder with unique name
-        with open(csv_output_path, "wb") as f:
-            f.write(csv_data)
+
+        # Save CSV to output/csv files when button is clicked AND show download link for local file
+        if st.button("\u2B07\uFE0F Save Extracted CSV to Output Folder"):
+            with open(csv_output_path, "wb") as f:
+                f.write(csv_data)
+            st.success(f"File saved to: {csv_output_path}")
+            st.markdown(f"[Click here to open saved CSV file]({csv_output_path})")
+
+        # Provide browser download separately
         st.download_button("\u2B07\uFE0F Download Extracted CSV", csv_data, csv_filename, "text/csv")
 
         # --- Dashboard Charts ---
@@ -189,7 +195,13 @@ with tabs[1]:
         timestamp = time.strftime("%Y%m%d-%H%M%S")
         json_filename = f"resume_info_{timestamp}.json"
         json_output_path = os.path.join("output/JSON files", json_filename)
-        # Save JSON to output folder with unique name
-        with open(json_output_path, "w", encoding="utf-8") as f:
-            f.write(json_data)
+
+        # Save JSON to output/JSON files when download button is clicked AND show download link for local file
+        if st.button("\u2B07\uFE0F Save Extracted Info (JSON) to Output Folder"):
+            with open(json_output_path, "w", encoding="utf-8") as f:
+                f.write(json_data)
+            st.success(f"File saved to: {json_output_path}")
+            st.markdown(f"[Click here to open saved JSON file]({json_output_path})")
+
+        # Provide browser download separately
         st.download_button("\u2B07\uFE0F Download Extracted Info (JSON)", json_data, json_filename, "application/json")
