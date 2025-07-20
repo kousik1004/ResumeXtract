@@ -1,6 +1,6 @@
 # ResumeXtract – Smart Resume Information Extractor
 
-ResumeXtract is a Streamlit-based web application that enables the extraction of structured information from resumes. 
+ResumeXtract is a Streamlit-based web application involves **Python** that enables the extraction of structured information from resumes. 
 It includes understanding of **Natural Language Processing** and it supports both **ZIP Folder uploads** and **Single resume uploads**, 
 and extracts key fields like name, email, phone, education, skills, experience, and projects in the format of a table.
 
