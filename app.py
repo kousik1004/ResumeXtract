@@ -207,9 +207,48 @@ if section == "Dashboard":
             else:
                 st.info("Select skills above to filter resumes.")
 
+            # --- Qualifications (Education) chart and filter ---
+            if 'Education' in df.columns:
+                qual_items = flatten_column(df['Education'])
+                qual_counts = Counter(qual_items)
+                qual_df = pd.DataFrame(qual_counts.items(), columns=['Qualification', 'Count']).sort_values('Count', ascending=False)
+
+                st.markdown("#### Top Qualifications")
+                st.plotly_chart(px.bar(qual_df.head(15), x='Qualification', y='Count', title='Top Qualifications'), use_container_width=True)
+
+                selected_quals = st.multiselect(
+                    "Filter resumes by qualifications (select one or more):",
+                    options=qual_df['Qualification'].tolist(),
+                    default=[]
+                )
+
+                if selected_quals:
+                    # Filter rows where ALL selected qualifications are present (cumulative AND logic)
+                    mask_qual = df['Education'].apply(
+                        lambda x: all(q in x for q in selected_quals)
+                    )
+                    filtered_qual_df = df[mask_qual]
+                    st.markdown(f"**Filtered resumes with ALL selected qualifications ({len(filtered_qual_df)})**")
+                    st.dataframe(filtered_qual_df, use_container_width=True)
+
+                    # Download/save filtered CSV
+                    filtered_qual_csv_data = filtered_qual_df.to_csv(index=False).encode("utf-8")
+                    filtered_qual_csv_filename = f"filtered_qual_resume_data_{time.strftime('%Y%m%d-%H%M%S')}.csv"
+                    filtered_qual_csv_output_path = os.path.join("output/csv files", filtered_qual_csv_filename)
+
+                    if st.button("\u2B07\uFE0F Save Filtered Qualifications CSV File to Output"):
+                        with open(filtered_qual_csv_output_path, "wb") as f:
+                            f.write(filtered_qual_csv_data)
+                        st.success(f"Filtered file saved to: {filtered_qual_csv_output_path}")
+
+                    st.download_button("\u2B07\uFE0F Download Filtered Qualifications CSV File", filtered_qual_csv_data, filtered_qual_csv_filename, "text/csv")
+                else:
+                    st.info("Select qualifications above to filter resumes.")
+            else:
+                st.info("No Education data to display.")
+
             # Other charts
             for column, title in [
-                ('Education', 'Top Qualifications'),
                 ('Specialization', 'Top Specializations')
             ]:
                 items = flatten_column(df[column]) if column in df.columns else []
