@@ -4,6 +4,7 @@ ResumeXtract is a Streamlit-based web application involves **Python** that enabl
 It includes understanding of **Natural Language Processing** and it supports both **ZIP Folder uploads** and **Single resume uploads**, 
 and extracts key fields like name, email, phone, education, skills, experience, and projects in the format of a table.
 
+### Link for using the Streamlit website: 🔗 https://lnkd.in/gVFQ-vvN 🔗
 ---
 
 ## 🚀 Features
